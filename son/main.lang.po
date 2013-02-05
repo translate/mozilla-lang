@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-10-04 03:07-0700\n"
+"POT-Creation-Date: 2013-02-05 05:47-0700\n"
 "PO-Revision-Date: 2012-05-08 16:30+0200\n"
 "Last-Translator: Mohomodou  <mh@bollag-areal.ch>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.9.1-pre\n"
+"X-Generator: Translate Toolkit 1.10.0-rc1\n"
 
 #: mozilla.com-source/main.lang:1
 msgid "Navigation"
@@ -183,12 +183,14 @@ msgstr ""
 #: mozilla.com-source/main.lang:161
 msgid ""
 "Firefox is up to date, but your current version of Flash Player can cause "
-"security and stability issues.  Please <a href=\"http://get.adobe.com/"
-"flashplayer/\">install the free update</a> as soon as possible."
+"security and stability issues.  Please <a "
+"href=\"http://get.adobe.com/flashplayer/\">install the free update</a> as soon "
+"as possible."
 msgstr ""
 "Firefox n' ka taagandi ka ben, amma war sohõda Flash Player dumoo ka hin ka "
-"saajaw nda tabatiyan šenday tee.  Taare <a href=\"http://get.adobe.com/"
-"flashplayer/\">taagandiri forbaa sinji</a> nda cahãyan."
+"saajaw nda tabatiyan šenday tee.  Taare <a "
+"href=\"http://get.adobe.com/flashplayer/\">taagandiri forbaa sinji</a> nda "
+"cahãyan."
 
 #: mozilla.com-source/main.lang:165
 msgid "Features"
@@ -422,8 +424,8 @@ msgid ""
 "<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
 "latest features, speed and security fixes."
 msgstr ""
-"War goo ma goy nda Firefox dumi žeena. Dumi taagante zaa ka duu saajaw! <br/"
-"><a href=\"%s\">Forba taagandiroo zumandi</a> kaŋ ši too miniti foo ka duu "
+"War goo ma goy nda Firefox dumi žeena. Dumi taagante zaa ka duu saajaw! "
+"<br/><a href=\"%s\">Forba taagandiroo zumandi</a> kaŋ ši too miniti foo ka duu "
 "goyfondo, cahãri nda saajaw hansari korawey."
 
 #: mozilla.com-source/main.lang:389
@@ -433,8 +435,8 @@ msgid ""
 "It’s fast and free!"
 msgstr ""
 "War ga hima ka taagandi! War boŋ saajandiyan ši too miniti ffo. <br/> Šintin "
-"ka goy nda Firefox taaga ka duu Interneti ceeciyan and boŋše-hanseyan felle. "
-"<br/>  Cahãnte nda forba!"
+"ka goy nda Firefox taaga ka duu Interneti ceeciyan and boŋše-hanseyan "
+"felle. <br/>  Cahãnte nda forba!"
 
 #: mozilla.com-source/main.lang:393
 msgid ""
@@ -442,8 +444,8 @@ msgid ""
 "to stay safe! <br/> Experience the latest features, security fixes and the "
 "fastest Firefox yet. Download the free upgrade in less than a minute."
 msgstr ""
-"War goo ma goy nda Firefox dumi žeena. Zaar <a href=\"%s\">war taagandiroo</"
-"a> ka cindi saajante! <br/> Wa duu goyfondo, saajaw hansari korawey nda "
+"War goo ma goy nda Firefox dumi žeena. Zaar <a href=\"%s\">war taagandiroo</a> "
+"ka cindi saajante! <br/> Wa duu goyfondo, saajaw hansari korawey nda "
 "Firefox kul icahãntaa. Taagandiri forbaa zumandiyan ši too miniti foo."
 
 #: mozilla.com-source/main.lang:397
@@ -471,9 +473,9 @@ msgstr ""
 #. Footer string
 #: mozilla.com-source/main.lang:420
 msgid ""
-"Portions of this content are ©1998–%(current_year)s by individual mozilla."
-"org contributors. Content available under a <a href=\"%(url)s\">Creative "
-"Commons license</a>."
+"Portions of this content are ©1998–%(current_year)s by individual "
+"mozilla.org contributors. Content available under a <a href=\"%"
+"(url)s\">Creative Commons license</a>."
 msgstr ""
 
 #. Footer string
@@ -484,6 +486,11 @@ msgstr ""
 #. Top menu item
 #: mozilla.com-source/main.lang:430
 msgid "Mission"
+msgstr ""
+
+#. Footer item on some pages to link to a tour of features
+#: mozilla.com-source/main.lang:435
+msgid "Tour"
 msgstr ""
 
 #~ msgid "Partnerships"
