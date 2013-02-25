@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-05 05:47-0700\n"
-"PO-Revision-Date: 2010-10-18 12:41+0200\n"
+"PO-Revision-Date: 2013-02-21 13:42+0000\n"
 "Last-Translator: Pheledi <pheledi@mosekolatranslation.co.za>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nso\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0-beta1\n"
+"X-POOTLE-MTIME: 1361454164.0\n"
 
 #: mozilla.com-source/main.lang:1
 msgid "Navigation"
@@ -326,9 +327,8 @@ msgid "Take a Look at Tomorrow's Web"
 msgstr "Lebelela wepe ya gosasa"
 
 #: mozilla.com-source/main.lang:289
-#, fuzzy
 msgid "Journey to the Future with Firefox"
-msgstr "Leeto la go ya bokamosong le Firefox&nbsp;4"
+msgstr "Leeto la go ya bokamosong le Firefox"
 
 #: mozilla.com-source/main.lang:293
 msgid "Join the Beta Program"
@@ -336,7 +336,7 @@ msgstr "Tsenela lenaneo la Beta"
 
 #: mozilla.com-source/main.lang:297
 msgid "Experience Firefox"
-msgstr ""
+msgstr "Itemogele Firefox"
 
 #: mozilla.com-source/main.lang:301
 msgid "The future of the Web is waiting for you!"
@@ -355,18 +355,16 @@ msgid "Experience tomorrow's Web today."
 msgstr "Itemogele wepe ya gosasa lehono."
 
 #: mozilla.com-source/main.lang:317
-#, fuzzy
 msgid "Check out the new look and feel of Firefox."
-msgstr "Bona ponagalo le maikutlo a maswa a Firefox&nbsp;4."
+msgstr "Bona ponagalo le maikutlo a maswa a Firefox."
 
 #: mozilla.com-source/main.lang:321
 msgid "Browse the future of the Web."
 msgstr "Praosa bokamoso bja wepe."
 
 #: mozilla.com-source/main.lang:325
-#, fuzzy
 msgid "See Firefox with a new look and feel."
-msgstr "Bona Firefox&nbsp;4 yeo e nago le ponagalo le maikutlo a maswa."
+msgstr "Bona Firefox yeo e nago le ponagalo le maikutlo a maswa."
 
 #: mozilla.com-source/main.lang:329
 msgid "Download Beta Now."
@@ -374,55 +372,55 @@ msgstr "Laolla Beta gona bjale."
 
 #: mozilla.com-source/main.lang:333
 msgid "All Systems & Languages"
-msgstr ""
+msgstr "Ditshepedišo tšohle le maleme"
 
 #: mozilla.com-source/main.lang:337
 msgid "View Full Site"
-msgstr ""
+msgstr "Lebelela saete e feletšego"
 
 #: mozilla.com-source/main.lang:341
 msgid "Get Firefox for Android"
-msgstr ""
+msgstr "Hwetša Firefox bakeng sa Android"
 
 #: mozilla.com-source/main.lang:345
 msgid "Download for <span>Android</span>"
-msgstr ""
+msgstr "Laolla bakeng sa <span>Android</span>"
 
 #: mozilla.com-source/main.lang:349
 msgid "Free from the Android Market"
-msgstr ""
+msgstr "Mahala go tšwa mmarakeng wa Android"
 
 #: mozilla.com-source/main.lang:353
 msgid "Desktop"
-msgstr ""
+msgstr "Tesekethopo"
 
 #: mozilla.com-source/main.lang:357
 msgid "Firefox Beta for mobile"
-msgstr ""
+msgstr "Firefox Beta bakeng sa selefounu"
 
 #: mozilla.com-source/main.lang:361
 msgid "Firefox for mobile"
-msgstr ""
+msgstr "Firefox bakeng sa selefounu"
 
 #: mozilla.com-source/main.lang:365
 msgid "Email"
-msgstr ""
+msgstr "Imeile"
 
 #: mozilla.com-source/main.lang:369
 msgid "Mozilla Firefox. Bringing the modern Web to XP."
-msgstr ""
+msgstr "Mozilla Firefox. Re tliša Wepe ya sebjalebjale go XP."
 
 #: mozilla.com-source/main.lang:373
 msgid "Super speed"
-msgstr ""
+msgstr "Lebelo le makatšago"
 
 #: mozilla.com-source/main.lang:377
 msgid "Stunning graphics"
-msgstr ""
+msgstr "Diswantšho tše makatšago"
 
 #: mozilla.com-source/main.lang:381
 msgid "The latest technologies"
-msgstr ""
+msgstr "Thekinolotši ya moragobjale"
 
 #: mozilla.com-source/main.lang:385
 msgid ""
@@ -430,6 +428,10 @@ msgid ""
 "<a href=\"%s\">Download the free upgrade</a> in less than a minute for the "
 "latest features, speed and security fixes."
 msgstr ""
+"O diriša tokollo ya kgale ya Firefox. Hwetša mpshafatšo ya gago gore o "
+"bolokege!<br/><a href=\"%s\">Laolla kaonafatšo ya mahala</a> ka nako ya ka "
+"tlase ga motsotso gore o hwetše dibopego tša moragorago, lebelo le go "
+"lokišwa ga dilo tša tšhireletšego."
 
 #: mozilla.com-source/main.lang:389
 msgid ""
@@ -437,6 +439,9 @@ msgid ""
 "new Firefox for the best in browsing and customization on the Web. <br/>   "
 "It’s fast and free!"
 msgstr ""
+"O hloka kaonafatšo! Dula o bolokegile ka nako ya ka tlase ga motsotso.<br/> "
+"Thoma go diriša Firefox ya gago e mpsha bakeng sa praosa le go tlwaelanya mo "
+"go tšwago pele wepeng. <br/> E a potlaka e bile ke mahala!"
 
 #: mozilla.com-source/main.lang:393
 msgid ""
@@ -444,28 +449,32 @@ msgid ""
 "to stay safe! <br/> Experience the latest features, security fixes and the "
 "fastest Firefox yet. Download the free upgrade in less than a minute."
 msgstr ""
+"O diriša tokollo ya kgale ya Firefox. Hwetša <a href=\"%s\">mpshafatšo ya "
+"gago</a> gore o bolokege! <br/> Itemogele dibopego tša moragorago, go "
+"lokišwa ga dilo tša tšhireletšego le Firefox e nago le lebelo. Laolla "
+"kaonafatšo e mpsha ka nako ya ka tlase ga motsotso."
 
 #: mozilla.com-source/main.lang:397
 msgid "Upgrade now"
-msgstr ""
+msgstr "Kaonafatša gona bjale"
 
 #: mozilla.com-source/main.lang:401
 msgid "Update now"
-msgstr ""
+msgstr "Mpshafatša gona bjale"
 
 #: mozilla.com-source/main.lang:405
 msgid "Supported Devices"
-msgstr ""
+msgstr "Dišomišwa tše thekgwago"
 
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 #: mozilla.com-source/main.lang:410
 msgid "What’s New"
-msgstr ""
+msgstr "Tše mpsha"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons
 #: mozilla.com-source/main.lang:415
 msgid "Privacy"
-msgstr ""
+msgstr "Bosephiri"
 
 #. Footer string
 #: mozilla.com-source/main.lang:420
@@ -474,21 +483,24 @@ msgid ""
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
 "Commons license</a>."
 msgstr ""
+"Dikarolo tša diteng tše ke tša ©1998–%(ngwaga wa gona bjale) tša "
+"batsenyaletsogo ba mozilla.org. Diteng di hwetšagala ka tlase ga <a href="
+"\"%(url)s\">laesense ya Creative Commons</a>."
 
 #. Footer string
 #: mozilla.com-source/main.lang:425
 msgid "Contribute to this page"
-msgstr ""
+msgstr "Tsenya letsogo letlakaleng le"
 
 #. Top menu item
 #: mozilla.com-source/main.lang:430
 msgid "Mission"
-msgstr ""
+msgstr "Maikemišetšo"
 
 #. Footer item on some pages to link to a tour of features
 #: mozilla.com-source/main.lang:435
 msgid "Tour"
-msgstr ""
+msgstr "Tšea leeto"
 
 #~ msgid "Partnerships"
 #~ msgstr "Ditirišano"
