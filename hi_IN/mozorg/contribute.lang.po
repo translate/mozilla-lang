@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-28 08:33-0700\n"
-"PO-Revision-Date: 2012-07-26 12:26+0200\n"
-"Last-Translator: chandan <chandankumar.093047@gmail.com>\n"
+"PO-Revision-Date: 2013-03-04 10:28+0000\n"
+"Last-Translator: Suraj <suraj.kawade@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
-"X-POOTLE-MTIME: 1343298364.0\n"
+"X-Generator: Pootle 2.5.0-beta1\n"
+"X-POOTLE-MTIME: 1362392901.0\n"
 
 #: mozilla.com-source/mozorg/contribute.lang:1
 msgid "Get Involved: Volunteer Opportunities at Mozilla"
@@ -263,6 +263,11 @@ msgid ""
 "can also join our <a href=\"%(army_url)s\">Army of Awesome</a> by helping "
 "users on Twitter."
 msgstr ""
+"दूसरो की मदद करने के इछुक फायरफॉक्स और मोज़िला की सहायता से ज्यादा पा सकते हैं? हमारे "
+"समर्थन की प्रक्रिया आप की तरह उत्साही योगदानकर्ताओं पर निर्भर करता है. <a href="
+"\"%(fx_support_url)s\">सपोर्टिंग फायरफॉक्स</a> और <a href=\"%(tb_support_url)s"
+"\">थंडरबर्ड</a> के बारे में और अधिक जानकारी प्राप्त करें. आप ट्विटर उपयोगकर्ता की मदद "
+"करके हमारे <a href=\"%(army_url)s\">आर्मी ऑफ़ औसम</a> को ज्वाइन कर सकते हैं."
 
 #: mozilla.com-source/mozorg/contribute.lang:179
 msgid ""
@@ -272,10 +277,14 @@ msgid ""
 "Collective challenge</a> or <a href=\"%(zazzle_url)s\">add a t-shirt design</"
 "a> to our Community Store."
 msgstr ""
+"हम अच्छी तरह से बनाये हुए और व्यापक रूप से वितरित की हुई कला की शक्ति में विश्वास करते हैं, "
+"और कलाकारों को वेब कवर करने के लिए और मोज़िला द्वारा प्रेरित डिज़ाइनर के लिए इसे संभव "
+"बनाना चाहते हैं. भाग लें <a href=\"%(creative_url)s\">रचनात्मक सामूहिक चुनौती</a> में "
+"या हमारे संस्थान में <a href=\"%(zazzle_url)s\">टी-शर्ट डिजाईन</a> ऐड करें."
 
 #: mozilla.com-source/mozorg/contribute.lang:183
 msgid "Localization"
-msgstr ""
+msgstr "स्थानीयकरण"
 
 #: mozilla.com-source/mozorg/contribute.lang:187
 msgid ""
@@ -284,6 +293,10 @@ msgid ""
 "disabilities</a> and help <a href=\"%(access_wiki)s\">make web content "
 "available to non visual agents</a> such as screen readers."
 msgstr ""
+"अभिगम्यता बातें हर किसी के लिए काम करने के बारे में है. मदद कीजिए <a href="
+"\"%(access_url)s\">विकलांग साथ फ़ायरफ़ॉक्स अंत उपयोगकर्ताओं के लिए उपकरणों और संसाधनों "
+"बनाने</a> में और मदद करें <a href=\"%(access_wiki)s\">वेब सामग्री को अद्रिश एजेंटों के "
+"लिए उपलब्ध कराने</a> में जैसे कि स्क्रीन रीडर."
 
 #: mozilla.com-source/mozorg/contribute.lang:191
 msgid ""
@@ -293,9 +306,13 @@ msgid ""
 "\">IRC</a> so stop by and ask questions to learn more. Our web sites are <a "
 "href=\"%(webdev_blog)s\">open for web ninjas</a> to hack on too."
 msgstr ""
+"<a href=\"%(dev_intro_url)s\">डेवलपर्स मदद कर सकते हैं</a> मोज़िला को नई सुविधाओं को "
+"जोड़ने में, हमारी प्रौद्योगिकी छोटे और तेज बनाने में और विकास को दूसरों के लिए आसान बनाने "
+"में. आप कई डेवलपर्स को पा सकते हैं<a href=\"%(irc_url)s\">आईआरसी</a> पे और सीखने के "
+"लिए प्रश्न पूछिये. हमारे वेबसाइट <a href=\"%(webdev_blog)s\">वेब निन्जास के लिए खुले</"
+"a> हैं."
 
 #: mozilla.com-source/mozorg/contribute.lang:195
-#, fuzzy
 msgid ""
 "Help us spread the word about how Firefox and other Mozilla projects are "
 "building a better Internet. Share Firefox with the world by <a href="
@@ -303,10 +320,9 @@ msgid ""
 "href=\"%(marketing_url)s\">Marketing Guide</a> for more ways to get involved."
 msgstr ""
 "फ़ायरफ़ॉक्स और अन्य मोज़िल्ला परियोजनाओं कैसे एक बेहतर इंटरनेट का निर्माण कर रहे हैं के बारें में "
-"जानकारी को फ़ैलाने में हमारी मदद करें. दुनिया के साथ फ़ायरफ़ॉक्स के <a href=\"https://"
-"affiliates.mozilla.org\">सहबद्ध बनकर </a> साझा करें और अधिक तरीकों से शामिल होने के "
-"लिए<a href=\"https://wiki.mozilla.org/MarketingGuide\">विपणन गाइड</a> देख सकते "
-"हैं."
+"जानकारी को फ़ैलाने में हमारी मदद करें. दुनिया के साथ फ़ायरफ़ॉक्स के <a href="
+"\"%(affiliates_url)s\">सहबद्ध बनकर</a> साझा करें और अधिक तरीकों से शामिल होने के "
+"लिए<a href=\"%(marketing_url)s\">विपणन गाइड</a> देख सकते हैं."
 
 #: mozilla.com-source/mozorg/contribute.lang:199
 msgid ""
@@ -316,6 +332,11 @@ msgid ""
 "\"%(qa_web_url)s\">test Mozilla web sites</a> or learn more about <a href="
 "\"http://quality.mozilla.org/\">other testing opportunities</a>."
 msgstr ""
+"मोज़िला के साथ शुरुवात करने का गुणवत्ता आश्वासन जाँच(Quality Assurance Testing) एक "
+"बहुतही सरल मार्ग है और कोड तथा टूल्स से परिचित होने का अच्छा मार्ग है | हमें मोज़िला में <a "
+"href=\"%(qa_bugs_url)s\"> त्रुटियाँ खोजने में </a> मदद करें, <a href=\"%(qa_web_url)s"
+"\"> मोज़िला वेबसाइटों की जाँच करें</a> अथवा <a href=\"http://quality.mozilla.org/"
+"\"> अन्य जाँच अवसरों </a> के बारे में अधिक जानें |"
 
 #: mozilla.com-source/mozorg/contribute.lang:203
 msgid ""
@@ -325,6 +346,10 @@ msgid ""
 "\"%(test_pilot)s\">analyze Test Pilot data</a>&mdash;we’d love to have you "
 "join us!"
 msgstr ""
+"अनुसंधान संघ का हिस्सा बने&mdash, भले ही आप <a href=\"%(survey_url)s\"> आगामी "
+"अभ्यास में सहभागी </a> होना चाहते है, आप खुद <a href=\"%(test_email)s\"> प्रयोज्य जाँच"
+"(Usability Test) का आचरण करना </a> चाहते है या <a href=\"%(test_pilot)s\">टेस्ट "
+"पायलट डाटा विश्लेषण</a>करना चाहते है &mdash; हमें आपको पाकर ख़ुशी होगी!"
 
 #: mozilla.com-source/mozorg/contribute.lang:207
 msgid ""
@@ -333,6 +358,10 @@ msgid ""
 "the world about how Mozilla is building a better Internet by <a href="
 "\"%(l10n_web_url)s\">translating content</a> on our web sites."
 msgstr ""
+"फ़ायरफ़ॉक्स, थंडरबर्ड तथा अन्य परियोजनाओं को <a href=\"%(l10n_url)s\">अपनी भाषा में "
+"उपलब्ध</a> कराके मोज़िला के साथ शामिल हो जाइये | तथा आपकी वेब साइटों पर <a href="
+"\"%(l10n_web_url)s\">सामग्री का भाषांतर</a>करके हमें विश्व को बताने में मदद करें कि कैसे "
+"मोज़िला बेहतर इंटरनेट बना रहा है|"
 
 #: mozilla.com-source/mozorg/contribute.lang:211
 msgid ""
@@ -341,6 +370,9 @@ msgid ""
 "by writing new content, correcting existing material or translating content "
 "into new languages."
 msgstr ""
+"मोज़िला डेवेलपर नेटवर्क मोज़िला प्रौद्योगिकी के बारे में जानकारी का हब है | नई सामग्री "
+"लिखकर, मौजूदा सामग्री को सही करके या सामग्री का नई भाषाओं में भाषांतर करके <a href="
+"\"%(dev_url)s\"> हमारा दस्तावेज़ीकरण सुधारने में </a> मदद करें |"
 
 #: mozilla.com-source/mozorg/contribute.lang:215
 msgid ""
@@ -359,42 +391,47 @@ msgid ""
 "\"%(addons_url)s\">build an add-on</a>. For experienced developers, find out "
 "how to <a href=\"%(addons_wiki)s\">become an AMO editor</a>."
 msgstr ""
+"फ़ायरफ़ॉक्स तथा अन्य मोज़िला-आधारित अनुप्रयोगों के पास शक्तिशाली विस्तार प्रणाली है जो "
+"आपको आपके प्रोग्राम्स में छोटे ट्वीक्स बनाने या प्रमुख अनुवृद्धि करने की अनुमति देती है | अगर "
+"आप इस प्रौद्योगिकी से नये है, तो जानें की कैसे <a href=\"%(addons_url)s\"> ऐड-ऑन बनाये "
+"</a>| अनुभवी डेवेलपर्स के लिए, जानिए कैसे <a href=\"%(addons_wiki)s\"> एएमओ (AMO) "
+"संपादक बनें </a>|"
 
 #: mozilla.com-source/mozorg/contribute.lang:223
 msgid "Area of interest?"
-msgstr ""
+msgstr " रुचि का क्षेत्र?"
 
 #: mozilla.com-source/mozorg/contribute.lang:227
 msgid "I need help with a Firefox issue"
-msgstr ""
+msgstr "मुझे फ़ायरफ़ॉक्स समस्या के बारे में मदद चाहिए "
 
 #: mozilla.com-source/mozorg/contribute.lang:231
 msgid "An error occurred in our system. Please try again later."
-msgstr ""
+msgstr "हमारे प्रणाली में त्रुटि प्रकट हो गयी है | कृपया कुछ देर बाद पुनः प्रयत्न करें | "
 
 #: mozilla.com-source/mozorg/contribute.lang:235
 msgid "I have a suggestion for Firefox"
-msgstr ""
+msgstr "मेरे पास फ़ायरफ़ॉक्स के लिए सुझाव है |"
 
 #: mozilla.com-source/mozorg/contribute.lang:239
 msgid "Facebook"
-msgstr ""
+msgstr "फेसबुक "
 
 #: mozilla.com-source/mozorg/contribute.lang:243
 msgid "Education"
-msgstr ""
+msgstr "शिक्षा "
 
 #: mozilla.com-source/mozorg/contribute.lang:247
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "फ़ायरफ़ॉक्स से संबद्ध"
 
 #: mozilla.com-source/mozorg/contribute.lang:251
 msgid "Developer Documentation"
-msgstr ""
+msgstr "डेवलपर दस्तावेज़ीकरण"
 
 #: mozilla.com-source/mozorg/contribute.lang:255
 msgid "Mozilla"
-msgstr ""
+msgstr "मोज़िला"
 
 #: mozilla.com-source/mozorg/contribute.lang:259
 msgid "Thank you for signing up!"
@@ -402,16 +439,15 @@ msgstr "साइन अप करने के लिए आपको धन्
 
 #: mozilla.com-source/mozorg/contribute.lang:263
 msgid "Menu"
-msgstr ""
+msgstr "मेन्यू "
 
 #: mozilla.com-source/mozorg/contribute.lang:267
 msgid "Web Development"
-msgstr ""
+msgstr "वेब डेवलपमेंट"
 
 #: mozilla.com-source/mozorg/contribute.lang:271
-#, fuzzy
 msgid "You must agree to the privacy policy"
-msgstr "आपको गोपनीयता नीति पर सहमत होना चाहिए."
+msgstr "आपको गोपनीयता नीति पर सहमत होना आवश्यक है |"
 
 #: mozilla.com-source/mozorg/contribute.lang:275
 msgid "Visual Design"
@@ -425,25 +461,25 @@ msgstr ""
 
 #: mozilla.com-source/mozorg/contribute.lang:283
 msgid "Twitter"
-msgstr ""
+msgstr "ट्विटर "
 
 #: mozilla.com-source/mozorg/contribute.lang:287
 msgid ""
 "We are sorry, but there was a problem with our system. Please try again "
 "later!"
-msgstr ""
+msgstr "हमें माफ़ करें, पर हमारी प्रणाली में समस्या थी | कृपया कुछ देर बाद पुनः कोशिश करें!"
 
 #: mozilla.com-source/mozorg/contribute.lang:291
 msgid "Other"
-msgstr ""
+msgstr "अन्य "
 
 #: mozilla.com-source/mozorg/contribute.lang:295
 msgid "Marketing"
-msgstr ""
+msgstr "विपणन"
 
 #: mozilla.com-source/mozorg/contribute.lang:299
 msgid "Testing and QA"
-msgstr ""
+msgstr "जाँच तथा क्यूए "
 
 #: mozilla.com-source/mozorg/contribute.lang:303
 msgid ""
@@ -462,7 +498,7 @@ msgstr ""
 
 #: mozilla.com-source/mozorg/contribute.lang:311
 msgid "Documentation and Writing"
-msgstr ""
+msgstr "दस्तावेज़ीकरण और लिखावट"
 
 #: mozilla.com-source/mozorg/contribute.lang:315
 msgid ""
@@ -497,4 +533,4 @@ msgstr ""
 
 #: mozilla.com-source/mozorg/contribute.lang:331
 msgid "Localization and Translation"
-msgstr ""
+msgstr "स्थानीयकरण तथा भाषांतर"
