@@ -4,128 +4,133 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-03-08 07:19-0700\n"
-"PO-Revision-Date: 2013-03-08 07:19-0700\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: \n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.10.0-rc1\n"
 
 #: mozilla.com-source/plugincheck.lang:1
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:1"
 msgid "Plugin Check"
-msgstr ""
+msgstr "Plugin шалгах"
 
 #: mozilla.com-source/plugincheck.lang:5
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:5"
 msgid "Plugin Check"
-msgstr ""
+msgstr "Plugin шалгах"
 
 #: mozilla.com-source/plugincheck.lang:9
 msgid "Plugin details"
-msgstr ""
+msgstr "Plugin-ны талаар дэлгэрэнгүй"
 
 #: mozilla.com-source/plugincheck.lang:13
 msgid "State"
-msgstr ""
+msgstr "Төлөв байдал"
 
 #: mozilla.com-source/plugincheck.lang:17
 msgid "Action"
-msgstr ""
+msgstr "Үйлдэл"
 
 #: mozilla.com-source/plugincheck.lang:21
 msgid "Checking with Mozilla on the status of your plugins"
-msgstr ""
+msgstr "Mozilla plugin-ны төлөв байдлыг шалгаж байна"
 
 #: mozilla.com-source/plugincheck.lang:25
 msgid "Loading Data"
-msgstr ""
+msgstr "Өгөдлийг уншиж байна"
 
 #: mozilla.com-source/plugincheck.lang:29
 msgid "View All Your Plugins"
-msgstr ""
+msgstr "Бүх plugin-г харах"
 
 #: mozilla.com-source/plugincheck.lang:33
 msgid "Disable Now"
-msgstr ""
+msgstr "Одоо идэвхигүй болгох"
 
 #: mozilla.com-source/plugincheck.lang:37
 msgid "Vulnerable No Fix"
-msgstr ""
+msgstr "Сул байдлыг засварлаж байна"
 
 #: mozilla.com-source/plugincheck.lang:41
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:41"
 msgid "Update Now"
-msgstr ""
+msgstr "Одоо шинэчлэх"
 
 #: mozilla.com-source/plugincheck.lang:45
 msgid "Vulnerable"
-msgstr ""
+msgstr "Сул байдал"
 
 #: mozilla.com-source/plugincheck.lang:49
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:49"
 msgid "Update"
-msgstr ""
+msgstr "Шинэчлэх"
 
 #: mozilla.com-source/plugincheck.lang:53
 msgid "Outdated Version"
-msgstr ""
+msgstr "Удсан хувилбар"
 
 #: mozilla.com-source/plugincheck.lang:57
 msgid "Up to Date"
-msgstr ""
+msgstr "Сүүлийн хувилбар"
 
 #: mozilla.com-source/plugincheck.lang:61
 msgid "Research"
-msgstr ""
+msgstr "Шалгаж байна"
 
 #: mozilla.com-source/plugincheck.lang:65
 msgid "Unknown plugin"
-msgstr ""
+msgstr "Мэдэхгүй plugin"
 
 #: mozilla.com-source/plugincheck.lang:69
 msgid "Out of date plugins:"
-msgstr ""
+msgstr "Удсан plugin:"
 
 #: mozilla.com-source/plugincheck.lang:73
 msgid "Vulnerable plugins:"
-msgstr ""
+msgstr "Тааруухан plugin:"
 
 #: mozilla.com-source/plugincheck.lang:77
 msgid "Potentially vulnerable plugins:"
-msgstr ""
+msgstr "Тааруухан байж болох plugin:"
 
 #: mozilla.com-source/plugincheck.lang:81
 msgid "The plugins listed below are up to date"
-msgstr ""
+msgstr "Доорх жагсаалтанд байгаа plugin-ууд нь хамгийн сүүлийн хувилбар юм"
 
 #: mozilla.com-source/plugincheck.lang:85
 msgid "No plugins were detected"
-msgstr ""
+msgstr "Plugin байхгүй байна"
 
 #: mozilla.com-source/plugincheck.lang:89
 msgid "current version plugin"
-msgstr ""
+msgstr "Одоогийн plugin-ны хувилбар"
 
 #: mozilla.com-source/plugincheck.lang:93
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:93"
 msgid "Update Now"
-msgstr ""
+msgstr "Одоо шинэчлэх"
 
 #: mozilla.com-source/plugincheck.lang:97
 msgid "Potentially Vulnerable"
-msgstr ""
+msgstr "Тааруухан байх боломжтой"
 
 #: mozilla.com-source/plugincheck.lang:101
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:101"
 msgid "Update"
-msgstr ""
+msgstr "Шинэчлэх"
 
 #: mozilla.com-source/plugincheck.lang:105
 msgid "Potentially Outdated Version"
-msgstr ""
+msgstr "Удсан хувилбар байх боломжтой"
 
 #: mozilla.com-source/plugincheck.lang:109
 msgid ""
@@ -136,6 +141,12 @@ msgid ""
 "class='vulner-url'>plugin vendor's vulnerability information</a>.</p><p><a "
 "class='qtip-closer'>Close</a></p>"
 msgstr ""
+"<p>Одоогийн ашиглаж байгаа plugin нь вэб сайтууд ашиглах болон таны "
+"компьютерт хохирол учруулж болох аюулгүйн байдлын сул талтай хувилбар байна. "
+"Одоогийн plugin-г шинэчлэх юмуу хэрэв шинэчлэх боломжгүй бол <a href='#howto-"
+"disable'>ашиглахгүй байх</a>ыг санал болгож байна.</p><p>Өшөө мэдээлэл "
+"хэрэгтэй бол <a href='#' class='vulner-url'>Plugin-ны сул талын талаарх "
+"мэдээлэл</a>-г уншина уу.</p><p><a class='qtip-closer'>Хаах</a></p>"
 
 #: mozilla.com-source/plugincheck.lang:113
 msgid "(more info)"
@@ -143,57 +154,74 @@ msgstr ""
 
 #: mozilla.com-source/plugincheck.lang:117
 msgid "Check Your <span>Plugins</span>"
-msgstr ""
+msgstr "<span>Plugin</span>-ээ шалгаж үзнэ үү"
 
 #: mozilla.com-source/plugincheck.lang:121
 msgid ""
 "Keeping your third-party plugins up to date helps Firefox run safely and "
 "smoothly."
 msgstr ""
+"Plugin-г үргэлж шинэчилснээр Firefox-г илүү аюулгүй болон чөлөөтөй ажиллахад "
+"тус болох болно."
 
 #: mozilla.com-source/plugincheck.lang:125
 msgid "Missing <span>FLASH?</span>"
-msgstr ""
+msgstr "<span>FLASH</span> шаардлагатай байна уу?"
 
 #: mozilla.com-source/plugincheck.lang:129
 msgid ""
 "For your safety, Firefox has disabled your outdated version of Flash. Please "
 "<a href=\"%(url)s\" >upgrade to the latest version.</a>"
 msgstr ""
+"Таны аюулгүй байдлын тулд Firefox таны ашиглаж байгаа Flash-н хувилбарыг "
+"идэвхигүй болгосон байна. <a href=\"%(url)s\" >Cүүлийн хувилбарт шинэчилнэ "
+"үү.</a>"
 
 #: mozilla.com-source/plugincheck.lang:133
 msgid ""
 "<strong>Warning, a newer version of your browser is available.</strong> "
 "Please upgrade your browser."
 msgstr ""
+"<strong>Сонордуулга, таны браузорт шинэ хувилбар суулгах боломжтой байна.</"
+"strong> Браузороо шинэчилнэ үү."
 
 #: mozilla.com-source/plugincheck.lang:137
 msgid ""
 "This page works best with the latest browsers: Firefox 3.6+, Opera 10.5+, "
 "Safari 4+, Chrome 4+, or IE 8+"
 msgstr ""
+"Энэ хуудас нь дараах браузоруудын сүүлийн үеийн хулбарууд дээр илүү сайн "
+"ажиллах боломжтой :  Firefox 3.6+, Opera 10.5+, Safari 4+, Chrome 4+, or IE "
+"8+"
 
 #: mozilla.com-source/plugincheck.lang:141
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
 msgstr ""
+"<strong>Internet Explorer-т зориулсан Plugin шалгах дэмжигч нь "
+"хязгаарлагдсан байна</strong>. Мөн багаж ашиглаж &gt; Нэмэгдлүүдийг "
+"зохицуулах"
 
 #: mozilla.com-source/plugincheck.lang:145
 msgid ""
 "<strong><em>Step 1:</em></strong> Click <strong>Update</strong> to update a "
 "plugin."
 msgstr ""
+"<strong><em>Алхам 1:</em></strong> <strong>Шинэчлэх</strong> дээр дарж "
+"plugin-г шинэчлэнэ үү."
 
 #: mozilla.com-source/plugincheck.lang:149
 msgid ""
 "<strong><em>Step 2:</em></strong> <strong>Complete all recommended updates</"
 "strong> <em>before</em> restarting your browser."
 msgstr ""
+"<strong><em>Алхам 2:</em></strong> Браузороо дахин эхлүүлэхээс <em>өмнө</em> "
+"санал болгосон <strong>бүх шинэчлэлүүдийн суулгалтыг дуусгана уу</strong>."
 
 #: mozilla.com-source/plugincheck.lang:153
 msgid "Note"
-msgstr ""
+msgstr "Тэмдэглэл"
 
 #: mozilla.com-source/plugincheck.lang:157
 msgid ""
@@ -202,111 +230,136 @@ msgid ""
 "of <strong>JavaScript</strong>. Please enable this Content Preference and "
 "reload the page."
 msgstr ""
+"<strong>Таны Javascript идэвхигүй болсон</strong> юмуу эсвэл та Javascript-"
+"гүйгээр браузороо ашиглаж байна. Энэ Plugin шалгах хуудас нь "
+"<strong>Javascript</strong>-гүйгээр ажиллахгүй. Зохих тохируулгыг "
+"идэвхижүүлээд хуудасыг дахин ачааллуулна уу."
 
 #: mozilla.com-source/plugincheck.lang:161
 msgid ""
 "Or disable all your plugins and keep JavaScript disabled... you'd be in good "
 "company, that's how <a  >RMS rolls</a>."
 msgstr ""
+"Эсвэл та бүх plugin-ыг идэвхигүй болгоод мөн Javascript-г идэвхигүй болгоно "
+"уу. Ингэснээр <a  >RMS ажилладаг</a>."
 
 #: mozilla.com-source/plugincheck.lang:165
 msgid "Plugin Finding Service Error"
-msgstr ""
+msgstr "Plugin олох үйлчилгээний алдаа"
 
 #: mozilla.com-source/plugincheck.lang:169
 msgid "We've encountered an error. Please try your request again later."
-msgstr ""
+msgstr "Алдаа гарлаа. Дараа дахин оролдож үзнэ үү."
 
 #: mozilla.com-source/plugincheck.lang:173
 msgid "Retry"
-msgstr ""
+msgstr "Дахин оролдох"
 
 #: mozilla.com-source/plugincheck.lang:177
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:177"
 msgid "What is a plugin?"
-msgstr ""
+msgstr "Plugin гэж юу вэ?"
 
 #: mozilla.com-source/plugincheck.lang:181
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:181"
 msgid "Why should I update my plugins?"
-msgstr ""
+msgstr "Би яагаад plugin-ээ шинэчлэх ёстой вэ?"
 
 #: mozilla.com-source/plugincheck.lang:185
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:185"
 msgid "How can Firefox help me?"
-msgstr ""
+msgstr "Firefox надад хэрхэн туслах вэ?"
 
 #: mozilla.com-source/plugincheck.lang:189
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:189"
 msgid "Which plugins do I have?"
-msgstr ""
+msgstr "Надад ямар plugin байгаа вэ?"
 
 #: mozilla.com-source/plugincheck.lang:193
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:193"
 msgid "How do I disable a plugin?"
-msgstr ""
+msgstr "Би яаж plugin-г идэвхигүй болгох вэ?"
 
 #: mozilla.com-source/plugincheck.lang:197
 msgid "Need Help?"
-msgstr ""
+msgstr "Туслалцаа хэрэгтэй байна уу?"
 
 #: mozilla.com-source/plugincheck.lang:201
 msgid "Visit support.mozilla.org"
-msgstr ""
+msgstr "support.mozilla.org-д зочилж үзнэ үү"
 
 #: mozilla.com-source/plugincheck.lang:205
 msgid "Read support articles about plugins"
-msgstr ""
+msgstr "Plugin-ны талаарх өгүүлэл унших"
 
 #: mozilla.com-source/plugincheck.lang:209
 msgid "Frequently asked <span>Questions</span>"
-msgstr ""
+msgstr "Ихэвчлэн асуудаг <span>асуултууд</span>"
 
 #: mozilla.com-source/plugincheck.lang:213
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:213"
 msgid "What is a plugin?"
-msgstr ""
+msgstr "Plugin гэж юу вэ?"
 
 #: mozilla.com-source/plugincheck.lang:217
 msgid "Plugins power <strong>videos, animation and games</strong>."
 msgstr ""
+"Plugin-ууд нь <strong>бичлэг, хөдөлгөөнт дүрс болон тоглоом</strong> гэх "
+"мэтийг дэмжиж өгдөг."
 
 #: mozilla.com-source/plugincheck.lang:221
 msgid ""
 "They're built <strong>outside of Firefox by companies</strong> like <a href="
 "\"%(adobe)s\">Adobe Systems</a> and <a href=\"%(apple)s\" >Apple</a>."
 msgstr ""
+"Plugin-ууд нь <a href=\"%(adobe)s\">Adobe Systems</a> болон <a href="
+"\"%(apple)s\" >Apple</a> гэх мэт Firefox-с <strong>өөр омпаниудад</strong> "
+"хийгддэг."
 
 #: mozilla.com-source/plugincheck.lang:225
 msgid "Plugins <strong>don't always update</strong> automatically."
-msgstr ""
+msgstr "Plugin-ууд нь <strong>үргэлж автоматаар шинэчлэгддэггүй</strong>."
 
 #: mozilla.com-source/plugincheck.lang:229
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:229"
 msgid "Why should I update my plugins?"
-msgstr ""
+msgstr "Би яагаад plugin-ээ шинэчлэх ёстой вэ?"
 
 #: mozilla.com-source/plugincheck.lang:233
 msgid ""
 "Old plugins can interrupt browsing and <strong>waste your time</strong>."
 msgstr ""
+"Хуучин plugin нь вэб үзэх үед саад учруулах боломжтой бөгөөд <strong>таны "
+"цагийг үрэх болно</strong>."
 
 #: mozilla.com-source/plugincheck.lang:237
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
 msgstr ""
+"Хуучин plugin-с болж вирус гэх мэт гадны <strong>халдлагад өртөх</strong> "
+"боломжтой."
 
 #: mozilla.com-source/plugincheck.lang:241
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
 msgstr ""
+"<strong>Шинэчлэгдсэн plugin</strong> нь вэбийг <strong>илүү сайн болон "
+"аюулгүй байлгах</strong> байдлыг хангана."
 
 #: mozilla.com-source/plugincheck.lang:245
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:245"
 msgid "How can Firefox help me?"
-msgstr ""
+msgstr "Firefox надад хэрхэн туслах вэ?"
 
 #: mozilla.com-source/plugincheck.lang:249
 msgid ""
@@ -314,46 +367,53 @@ msgid ""
 "<strong>regularly check this page</strong> and update your plugins to stay "
 "safe."
 msgstr ""
+"Цаашдаа Firefox нь plugin-үүдийг шинэчлэж өгч байх болно. Тэр болтол та энэ "
+"хуудасыг <strong>тогтмол шалган үзэж</strong> мөн аюулгүй байдлаа хадгалахын "
+"тулд plugin-ээ шинэчлэж байгаарай."
 
 #: mozilla.com-source/plugincheck.lang:253
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:253"
 msgid "Which plugins do I have?"
-msgstr ""
+msgstr "Надад ямар plugin байгаа вэ?"
 
 #: mozilla.com-source/plugincheck.lang:257
 msgid ""
 "We automatically detected your plugins above, to <strong>view your installed "
 "plugins in Firefox</strong> follow these steps:"
 msgstr ""
+"Бид дээрх plugin-үүдийг автоматаар шалгах бөгөөд <strong>Firefox-д "
+"суулгагдсан plugin-ээ харах</strong>ын тулд дараах алхамуудыг дагадаг :"
 
 #: mozilla.com-source/plugincheck.lang:261
 msgid "Open the <kbd>Tools</kbd> menu."
-msgstr ""
+msgstr "<kbd>Багаж</kbd> цэсийг нээнэ үү."
 
 #: mozilla.com-source/plugincheck.lang:265
 msgid "Choose <kbd>Add-ons</kbd>."
-msgstr ""
+msgstr "<kbd>Нэмэгдлүүд</kbd>ийг сонгоно уу."
 
 #: mozilla.com-source/plugincheck.lang:269
 msgid "Click the <kbd>plugins</kbd> tab."
-msgstr ""
+msgstr "<kbd>Plugin</kbd> тэйбийг дарна уу?"
 
 #: mozilla.com-source/plugincheck.lang:273
+#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:273"
 msgid "How do I disable a plugin?"
-msgstr ""
+msgstr "Би яаж plugin-г идэвхигүй болгох вэ?"
 
 #: mozilla.com-source/plugincheck.lang:277
 msgid "In Firefox:"
-msgstr ""
+msgstr "Firefox дээр :"
 
 #: mozilla.com-source/plugincheck.lang:281
 msgid "Click on a plugin in the list."
-msgstr ""
+msgstr "Жагсаалт дээр байгаа plugin дээр дарна уу."
 
 #: mozilla.com-source/plugincheck.lang:285
 msgid "Click the <kbd>Disable</kbd> button."
-msgstr ""
+msgstr "<kbd>Идэвхигүй болгох</kbd> товчийг дарна уу."
 
 #: mozilla.com-source/plugincheck.lang:289
 msgid ""
@@ -361,10 +421,14 @@ msgid ""
 "longer be able to do</strong> certain things. For example, if you disable "
 "Flash, you will not be able to watch videos on popular video streaming sites."
 msgstr ""
+"<strong>Сануулга:</strong> plugin-г идэвхигүй болгосноор та зарим нэгэн "
+"үйлдэлийг <strong>хийх боломжгүй болно</strong>. Жишээлбэл, хэрэв та Flash-г "
+"идэвхигүй болговол та ихэнхи сайт дээрхи дүрсэн бичлэгийг үзэх боломжгүй "
+"болно."
 
 #: mozilla.com-source/plugincheck.lang:293
 msgid "Have more <span>questions?</span>"
-msgstr ""
+msgstr "Өшөө <span>асуулт</span> байна уу?"
 
 #: mozilla.com-source/plugincheck.lang:297
 msgid ""
@@ -372,3 +436,38 @@ msgid ""
 "\">learn about plugins</a> or <a href=\"%(url3)s\">troubleshoot plugin "
 "problems</a>."
 msgstr ""
+"<a href=\"%(url2)s\">Манай дэмжигч сайт</a> plugin-ны талаар болон <a href="
+"\"%(url3)s\">plugin-ны асуудал</a> ын талаар <a href=\"%(url1)s\">мэдээлэл "
+"олж авах</a>-д тань туслах чадах болно."
+
+#~ msgctxt "../mozilla.com-translations/mn/plugincheck.lang:5"
+#~ msgid "Plugin Check"
+#~ msgstr "Plugin шалгах"
+
+#~ msgctxt "../mozilla.com-translations/mn/plugincheck.lang:93"
+#~ msgid "Update Now"
+#~ msgstr "Одоо шинэчлэх"
+
+#~ msgctxt "../mozilla.com-translations/mn/plugincheck.lang:101"
+#~ msgid "Update"
+#~ msgstr "Шинэчлэх"
+
+#~ msgctxt "../mozilla.com-translations/mn/plugincheck.lang:213"
+#~ msgid "What is a plugin?"
+#~ msgstr "Plugin гэж юу вэ?"
+
+#~ msgctxt "../mozilla.com-translations/mn/plugincheck.lang:229"
+#~ msgid "Why should I update my plugins?"
+#~ msgstr "Би яагаад plugin-ээ шинэчлэх ёстой вэ?"
+
+#~ msgctxt "../mozilla.com-translations/mn/plugincheck.lang:245"
+#~ msgid "How can Firefox help me?"
+#~ msgstr "Firefox надад хэрхэн туслах вэ?"
+
+#~ msgctxt "../mozilla.com-translations/mn/plugincheck.lang:253"
+#~ msgid "Which plugins do I have?"
+#~ msgstr "Надад ямар plugin байгаа вэ?"
+
+#~ msgctxt "../mozilla.com-translations/mn/plugincheck.lang:273"
+#~ msgid "How do I disable a plugin?"
+#~ msgstr "Би яаж plugin-г идэвхигүй болгох вэ?"
