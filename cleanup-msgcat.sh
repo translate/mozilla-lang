@@ -1,1 +1,1 @@
-../../firefox/po/cleanup-msgcat.sh
+../mozilla-l10n/cleanup-msgcat.sh
