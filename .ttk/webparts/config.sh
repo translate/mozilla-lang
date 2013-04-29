@@ -10,10 +10,10 @@ precommand=". /var/www/sites/mozilla/env/bin/activate;"
 local_trans_dir=$base_dir
 opt_verbose=3
 
-SOURCE_DIR="source/mozilla.com-source"
-TARGET_DIR=build/mozilla.com-translations
-PO_DIR=.
-POT_DIR=templates
+SOURCE_DIR="${base_dir}/source"
+TARGET_DIR=${base_dir}/build/translations
+PO_DIR=${base_dir}
+POT_DIR=${PO_DIR}/templates
 LANGS=$*
 #MOZREPONAME="http://svn.mozilla.org"
 MOZREPONAME="svn+ssh://dwayne%40translate.org.za@svn.mozilla.org"

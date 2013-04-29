@@ -2,17 +2,23 @@
 
 source ttk.inc.sh
 
-if [ $# -lt 1 ]; then
-	echo "Usage: $(basename $0) <lang(s)>"
-	exit 1
+if [ $# -eq 0 ]; then
+	LANGS=$(all_langs)
+elif [ $# -eq 1 -a -z "${1//[0-9]/}" ]; then
+	LANGS=$(all_langs $1)
+else
+	LANGS=$*
 fi
+log_info "Processing languages '$LANGS'"
 
+log_info "Updating '$SOURCE_DIR'"
 if [ ! -d $SOURCE_DIR/.svn ]; then
 	svn co $svnverbosity $MOZREPONAME/projects/mozilla.com/trunk/locales/en-GB $SOURCE_DIR
 else
 	svn up $svnverbosity $SOURCE_DIR
 fi
 
+log_info "Updating '$TARGET_DIR'"
 if [ ! -d $TARGET_DIR/.svn ]; then
 	svn co $svnverbosity --depth=files $MOZREPONAME/projects/mozilla.com/trunk/locales/ $TARGET_DIR
 else
@@ -21,25 +27,36 @@ fi
 
 for lang in $LANGS
 do
-	lang=get_language_pootle $lang
-	if [ $lang == "templates" ]; then
+	log_info "Processing language '$lang'"
+	polang=$(get_language_pootle $lang)
+	if [ "$polang" == "templates" ]; then
 		rm -rf $POT_DIR
-		mkdir -p $POT_DIR/emails
-		moz2po --errorlevel=$errorlevel --progress=$progress $SOURCE_DIR $POT_DIR
-		txt2po --errorlevel=$errorlevel --progress=$progress $SOURCE_DIR/emails $POT_DIR/emails
+		mkdir -p $POT_DIR/templates/mozorg/emails
+		(cd $SOURCE_DIR 
+		moz2po --errorlevel=$errorlevel --progress=$progress . $POT_DIR
+		txt2po --errorlevel=$errorlevel --progress=$progress templates/mozorg/emails $POT_DIR/templates/mozorg/emails
+		)
 		podebug --errorlevel=$errorlevel --progress=$progress --rewrite=blank $POT_DIR $POT_DIR
-		rename 's/\.po$/.pot/' $(find $POT_DIR -name "*.po")
+		rename -f 's/\.po$/.pot/' $(find $POT_DIR -name "*.po")
+		rm $POT_DIR/templates/mozorg/emails/*.txt  # Cleanup files that moz2po copied
 	else
-		mozlang=get_language_upstream $lang
-		rm -f $(find $PO_DIR/$lang -name "*.po")
-		pot2po --errorlevel=$errorlevel --progress=$progress -t $PO_DIR/$lang $POT_DIR $PO_DIR/$lang
+		mozlang=$(get_language_upstream $lang)
+		verbose "Migrate - update PO files to new POT files"
+		tempdir=`mktemp -d tmp.XXXXXXXXXX`
+		if [ -d ${PO_DIR}/${polang} ]; then
+			cp -R ${PO_DIR}/${polang} ${tempdir}/${polang}
+			(cd ${PO_DIR}/${polang}; rm $(find . -type f -name "*.po"))
+		fi
+		pomigrate2 --use-compendium --pot2po $pomigrate2verbosity ${tempdir}/${polang} ${PO_DIR}/${polang} ${POT_DIR}
+		# FIXME we should revert stuff that wasn't part of this migration e.g. mobile
+		rm -rf ${tempdir}
 
-		revert_unchanged_po_git $PO_DIR $lang
+		revert_unchanged_po_git $PO_DIR $polang
 
 		svn revert $svnverbosity -R $TARGET_DIR/$mozlang
 		svn up $svnverbosity $TARGET_DIR/$mozlang
 		rm -f $(find $TARGET_DIR/$mozlang -name "*.lang")
-		po2moz --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR $POUPDATED_DIR/$lang $TARGET_DIR/$mozlang
-		po2txt --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR/emails $POUPDATED_DIR/$lang/emails $TARGET_DIR/$mozlang/emails
+		po2moz --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR $PO_DIR/$polang $TARGET_DIR/$mozlang
+		po2txt --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR/templates/mozorg/emails $PO_DIR/$polang/templates/mozorg/emails $TARGET_DIR/$mozlang/templates/mozorg/emails
 	fi
 done
