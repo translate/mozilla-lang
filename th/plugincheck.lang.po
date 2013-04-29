@@ -7,7 +7,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,94 +15,94 @@ msgstr ""
 #: plugincheck.lang:1
 msgctxt "./plugincheck.lang:1"
 msgid "Plugin Check"
-msgstr ""
+msgstr "ตรวจสอบโปรแกรมเสริม"
 
 #: plugincheck.lang:5
 msgctxt "./plugincheck.lang:5"
 msgid "Plugin Check"
-msgstr ""
+msgstr "ตรวจสอบโปรแกรมเสริม"
 
 #: plugincheck.lang:9
 msgid "Plugin details"
-msgstr ""
+msgstr "รายละเอียดของโปรแกรมเสริม"
 
 #: plugincheck.lang:13
 msgid "State"
-msgstr ""
+msgstr "สถานะ"
 
 #: plugincheck.lang:17
 msgid "Action"
-msgstr ""
+msgstr "การดำเนินการ"
 
 #: plugincheck.lang:21
 msgid "Checking with Mozilla on the status of your plugins"
-msgstr ""
+msgstr "กำลังตรวจสอบกับ Mozilla เกี่ยวกับสถานะโปรแกรมเสริมของคุณ"
 
 #: plugincheck.lang:25
 msgid "Loading Data"
-msgstr ""
+msgstr "กำลังโหลดข้อมูล"
 
 #: plugincheck.lang:29
 msgid "View All Your Plugins"
-msgstr ""
+msgstr "ดูโปรแกรมเสริมของคุณทั้งหมด"
 
 #: plugincheck.lang:33
 msgid "Disable Now"
-msgstr ""
+msgstr "ปิดใช้งานเดี๋ยวนี้"
 
 #: plugincheck.lang:37
 msgid "Vulnerable No Fix"
-msgstr ""
+msgstr "ช่องโหว่ที่ไม่แก้ไข"
 
 #: plugincheck.lang:41
 msgctxt "./plugincheck.lang:41"
 msgid "Update Now"
-msgstr ""
+msgstr "ปรับรุ่นเดี๋ยวนี้"
 
 #: plugincheck.lang:45
 msgid "Vulnerable"
-msgstr ""
+msgstr "มีช่องโหว่"
 
 #: plugincheck.lang:49
 msgctxt "./plugincheck.lang:49"
 msgid "Update"
-msgstr ""
+msgstr "ปรับรุ่น"
 
 #: plugincheck.lang:53
 msgid "Outdated Version"
-msgstr ""
+msgstr "รุ่นที่ล้าสมัย"
 
 #: plugincheck.lang:57
 msgid "Up to Date"
-msgstr ""
+msgstr "รุ่นล่าสุด"
 
 #: plugincheck.lang:61
 msgid "Research"
-msgstr ""
+msgstr "ค้นคว้า"
 
 #: plugincheck.lang:65
 msgid "Unknown plugin"
-msgstr ""
+msgstr "โปรแกรมเสริมที่ไม่รู้จัก"
 
 #: plugincheck.lang:69
 msgid "Out of date plugins:"
-msgstr ""
+msgstr "โปรแกรมเสริมที่ไม่ได้ปรับรุ่น:"
 
 #: plugincheck.lang:73
 msgid "Vulnerable plugins:"
-msgstr ""
+msgstr "โปรแกรมเสริมที่มีช่องโหว่:"
 
 #: plugincheck.lang:77
 msgid "Potentially vulnerable plugins:"
-msgstr ""
+msgstr "โปรแกรมเสริมที่อาจมีช่องโหว่:"
 
 #: plugincheck.lang:81
 msgid "The plugins listed below are up to date"
-msgstr ""
+msgstr "รายการโปรแกรมเสริมด้านล่างได้ปรับรุ่นแล้ว"
 
 #: plugincheck.lang:85
 msgid "No plugins were detected"
-msgstr ""
+msgstr "ไม่พบโปรแกรมเสริม"
 
 #: plugincheck.lang:89
 msgid "current version plugin"
@@ -112,20 +111,20 @@ msgstr ""
 #: plugincheck.lang:93
 msgctxt "./plugincheck.lang:93"
 msgid "Update Now"
-msgstr ""
+msgstr "ปรับรุ่นเดี๋ยวนี้"
 
 #: plugincheck.lang:97
 msgid "Potentially Vulnerable"
-msgstr ""
+msgstr "อาจมีช่องโหว่"
 
 #: plugincheck.lang:101
 msgctxt "./plugincheck.lang:101"
 msgid "Update"
-msgstr ""
+msgstr "ปรับรุ่น"
 
 #: plugincheck.lang:105
 msgid "Potentially Outdated Version"
-msgstr ""
+msgstr "อาจเป็นรุ่นที่ล้าสมัยช่องโหว่"
 
 #: plugincheck.lang:109
 msgid ""
@@ -136,64 +135,80 @@ msgid ""
 "class='vulner-url'>plugin vendor's vulnerability information</a>.</p><p><a "
 "class='qtip-closer'>Close</a></p>"
 msgstr ""
+"<p>รุ่นของโปรแกรมเสริมตัวนี้มีช่องโหว่ความปลอดภัยที่อาจจะเจาะเว็บไซต์และทำอันตรายต่อคอมพิวเตอร์ของคุณได้ "
+"เราแนะนำให้คุณปรับรุ่นโปรแกรมเสริมให้ทันสมัยหรือถ้าการปรับรุ่นไม่มีอยู่ ให้<a href='#howto-"
+"disable'>ปิดการใช้งาน</a></p><p>สำหรับข้อมูลเพิ่มเติมอ่าน<a href='#' class='vulner-"
+"url'>ข้อมูลของช่องโหว่จากผู้ผลิต</a></p><p><a class='qtip-closer'>ปิด\t</a></p>"
 
 #: plugincheck.lang:113
 msgid "(more info)"
-msgstr ""
+msgstr "(รายละเอียดเพิ่มเติม)"
 
 #: plugincheck.lang:117
 msgid "Check Your <span>Plugins</span>"
-msgstr ""
+msgstr "ตรวจสอบ<span>โปรแกรมเสริม</span>"
 
 #: plugincheck.lang:121
 msgid ""
 "Keeping your third-party plugins up to date helps Firefox run safely and "
 "smoothly."
 msgstr ""
+"ดูแลโปรแกรมเสริมของคุณให้ทันสมัยอยู่เสมอจะช่วยให้ Firefox ของคุณปลอดภัยและใช้งานได้ไหลลื่น"
 
 #: plugincheck.lang:125
 msgid "Missing <span>FLASH?</span>"
-msgstr ""
+msgstr "ไม่มี <span>FLASH?</span>"
 
 #: plugincheck.lang:129
 msgid ""
 "For your safety, Firefox has disabled your outdated version of Flash. Please "
 "<a href=\"%(url)s\" >upgrade to the latest version.</a>"
 msgstr ""
+"Firefox ได้ปิดการใช้งาน Flash ที่ล้าสมัยเพื่อความปลอดภัยของคุณ โปรด<a href=\"%(url)s\" "
+">ปรับให้เป็นรุ่นล่าสุด</a>"
 
 #: plugincheck.lang:133
 msgid ""
 "<strong>Warning, a newer version of your browser is available.</strong> "
 "Please upgrade your browser."
 msgstr ""
+"<strong>คำเตือน เบราว์เซอร์ของคุณมีรุ่นใหม่ล่าสุดแล้ว</strong> โปรดอัพเกรดเบราว์เซอร์ของคุณ"
 
 #: plugincheck.lang:137
 msgid ""
 "This page works best with the latest browsers: Firefox 3.6+, Opera 10.5+, "
 "Safari 4+, Chrome 4+, or IE 8+"
 msgstr ""
+"หน้านี้จะทำงานได้ดีกับเบราว์เซอร์ล่าสุด: Firefox 3.6+, Opera 10.5+, Safari 4+, Chrome "
+"4+ หรือ IE 8+"
 
 #: plugincheck.lang:141
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
 msgstr ""
+"Plugin Check <strong>รองรับ Internet Explorer แบบถูกจำกัด</strong> ควรใช้ "
+"เครื่องมือ &gt; จัดการส่วนเสริม"
 
 #: plugincheck.lang:145
 msgid ""
 "<strong><em>Step 1:</em></strong> Click <strong>Update</strong> to update a "
 "plugin."
 msgstr ""
+"<strong><em>ขั้นตอน 1:</em></strong> คลิก <strong>ปรับรุ่น</strong> "
+"เพื่อปรับรุ่นโปรแกรมเสริม"
 
 #: plugincheck.lang:149
 msgid ""
 "<strong><em>Step 2:</em></strong> <strong>Complete all recommended updates</"
 "strong> <em>before</em> restarting your browser."
 msgstr ""
+"<strong><em>ขั้นตอน 2:</em></strong> <strong>ทำตามคำแนะนำในการปรับรุ่น</strong> "
+"<em>ก่อน</em>เริ่มเบราว์เซอร์ของคุณใหม่"
 
 #: plugincheck.lang:153
 msgid "Note"
-msgstr ""
+msgstr "หมายเหตุ"
 
 #: plugincheck.lang:157
 msgid ""
@@ -202,111 +217,124 @@ msgid ""
 "of <strong>JavaScript</strong>. Please enable this Content Preference and "
 "reload the page."
 msgstr ""
+"<strong>คุณได้ปิดการใช้งานจาวาสคริปต์</strong>หรือใช้เบราว์เซอร์ที่ไม่มีจาวาสคริปต์ หน้า "
+"Plugin Check นี้จะไม่ทำงานถ้าไม่มีพลังอันชาญฉลาดของ<strong>จาวาสคริปต์</strong> "
+"โปรดเปิดการใช้งานจาวาสคริปต์ใน ปรับแต่ง...เนื้อหา และเรียกมหน้านี้ใหม่"
 
 #: plugincheck.lang:161
 msgid ""
 "Or disable all your plugins and keep JavaScript disabled... you'd be in good "
 "company, that's how <a  >RMS rolls</a>."
 msgstr ""
+"หรือปิดการใช้งานโปรแกรมเสริมและปิดการใช้งานจาวาสคริปต์... คุณจะได้อยู่ในหมู่คนที่ดี "
+"นั้นเป็นวิธีที่การของ <a  >RMS</a>"
 
 #: plugincheck.lang:165
 msgid "Plugin Finding Service Error"
-msgstr ""
+msgstr "บริการค้นหาโปรแกรมเสริมมีข้อผิดพลาด"
 
 #: plugincheck.lang:169
 msgid "We've encountered an error. Please try your request again later."
-msgstr ""
+msgstr "เราพบปัญหา โปรดลองใหม่อีกครั้งในภายหลัง"
 
 #: plugincheck.lang:173
 msgid "Retry"
-msgstr ""
+msgstr "ลองอีกครั้ง"
 
 #: plugincheck.lang:177
 msgctxt "./plugincheck.lang:177"
 msgid "What is a plugin?"
-msgstr ""
+msgstr "โปรแกรมเสริมคืออะไร?"
 
 #: plugincheck.lang:181
 msgctxt "./plugincheck.lang:181"
 msgid "Why should I update my plugins?"
-msgstr ""
+msgstr "ทำไมเราจำเป็นต้องปรับรุ่นโปรแกรมเสริม?"
 
 #: plugincheck.lang:185
 msgctxt "./plugincheck.lang:185"
 msgid "How can Firefox help me?"
-msgstr ""
+msgstr "Firefox จะช่วยฉันได้อย่างไร?"
 
 #: plugincheck.lang:189
 msgctxt "./plugincheck.lang:189"
 msgid "Which plugins do I have?"
-msgstr ""
+msgstr "ฉันมีโปรแกรมเสริมตัวไหนบ้าง?"
 
 #: plugincheck.lang:193
 msgctxt "./plugincheck.lang:193"
 msgid "How do I disable a plugin?"
-msgstr ""
+msgstr "ฉันจะปิดการใช้งานโปรแกรมเสริมได้อย่างไร?"
 
 #: plugincheck.lang:197
 msgid "Need Help?"
-msgstr ""
+msgstr "ต้องการความช่วยเหลือ?"
 
 #: plugincheck.lang:201
 msgid "Visit support.mozilla.org"
-msgstr ""
+msgstr "เยี่ยมชม support.mozilla.com"
 
 #: plugincheck.lang:205
 msgid "Read support articles about plugins"
-msgstr ""
+msgstr "อ่านบทความช่วยเหลือที่เกี่ยวกับโปรแกรมเสริม"
 
 #: plugincheck.lang:209
 msgid "Frequently asked <span>Questions</span>"
-msgstr ""
+msgstr "คำถาม<span>ที่ถามบ่อย</span>"
 
 #: plugincheck.lang:213
 msgctxt "./plugincheck.lang:213"
 msgid "What is a plugin?"
-msgstr ""
+msgstr "โปรแกรมเสริมคืออะไร?"
 
 #: plugincheck.lang:217
 msgid "Plugins power <strong>videos, animation and games</strong>."
 msgstr ""
+"โปรแกรมเสริมช่วยเสริมการทำงานของ<strong>วิดีโอ ภาพเคลื่อนไหว และ เกมส์</strong>"
 
 #: plugincheck.lang:221
 msgid ""
 "They're built <strong>outside of Firefox by companies</strong> like <a href="
 "\"%(adobe)s\">Adobe Systems</a> and <a href=\"%(apple)s\" >Apple</a>."
 msgstr ""
+"โปรแกรมพวกนี้ถูกสร้าง<strong>โดยบริษัทภายนอก Firefox </strong>เช่น <a href="
+"\"%(adobe)s\">Adobe Systems</a> และ <a href=\"%(apple)s\" >Apple</a>"
 
 #: plugincheck.lang:225
 msgid "Plugins <strong>don't always update</strong> automatically."
-msgstr ""
+msgstr "โปรแกรมเสริม<strong>จะไม่ปรับรุ่น</strong>อัตโนมัติ"
 
 #: plugincheck.lang:229
 msgctxt "./plugincheck.lang:229"
 msgid "Why should I update my plugins?"
-msgstr ""
+msgstr "ทำไมเราจำเป็นต้องปรับรุ่นโปรแกรมเสริม?"
 
 #: plugincheck.lang:233
 msgid ""
 "Old plugins can interrupt browsing and <strong>waste your time</strong>."
 msgstr ""
+"โปรมแกรมเสริมเก่าสามารถทำให้การท่องเว็บหยุดงชะงักและ<strong>ทำให้คุณเสียเวลา</strong>"
 
 #: plugincheck.lang:237
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
 msgstr ""
+"โปรแกรมเสริมเก่า<strong>เพิ่มความเสี่ยงของคุณ</strong>จากการโจมตีของมัลแวร์ ไวรัส "
+"และการคุกคามด้านความปลอดภัยอื่น ๆ"
 
 #: plugincheck.lang:241
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
 msgstr ""
+"<strong>โปรแกรมเสริมที่ปรับรุ่นแล้วมีการปรับปรุง</"
+"strong>ที่จะทำให้เว็บ<strong>ดีขึ้นและปลอดภัย</strong>สำหรับคุณ"
 
 #: plugincheck.lang:245
 msgctxt "./plugincheck.lang:245"
 msgid "How can Firefox help me?"
-msgstr ""
+msgstr "Firefox จะช่วยฉันได้อย่างไร?"
 
 #: plugincheck.lang:249
 msgid ""
@@ -314,46 +342,51 @@ msgid ""
 "<strong>regularly check this page</strong> and update your plugins to stay "
 "safe."
 msgstr ""
+"ในอนาคต Firefox จะปรับรุ่นโปรแกรมเสริมให้คุณ ก่อนจะถึงตอนนั้น "
+"คุณควร<strong>ตรวจสอบหน้านี้เป็นประจำ</"
+"strong>และปรับรุ่นโปรแกรมเสริมของคุณเพื่อความปลอดภัย"
 
 #: plugincheck.lang:253
 msgctxt "./plugincheck.lang:253"
 msgid "Which plugins do I have?"
-msgstr ""
+msgstr "ฉันมีโปรแกรมเสริมตัวไหนบ้าง?"
 
 #: plugincheck.lang:257
 msgid ""
 "We automatically detected your plugins above, to <strong>view your installed "
 "plugins in Firefox</strong> follow these steps:"
 msgstr ""
+"เราตรวจสอบโปรแกรมเสริมของคุณข้างต้นให้อัตโนมัติ เพื่อ<strong>ดูโปรแกรมเสริมที่ติดตั้งไปแล้วใน "
+"Firefox</strong> ทำตามขั้นตอนเหล่านี้:"
 
 #: plugincheck.lang:261
 msgid "Open the <kbd>Tools</kbd> menu."
-msgstr ""
+msgstr "ไปที่เมนู <kbd>เครื่องมือ</kbd>"
 
 #: plugincheck.lang:265
 msgid "Choose <kbd>Add-ons</kbd>."
-msgstr ""
+msgstr "เลือก <kbd>ส่วนเสริม</kbd>"
 
 #: plugincheck.lang:269
 msgid "Click the <kbd>plugins</kbd> tab."
-msgstr ""
+msgstr "คลิกที่แท็บ <kbd>โปรแกรมเสริม</kbd>"
 
 #: plugincheck.lang:273
 msgctxt "./plugincheck.lang:273"
 msgid "How do I disable a plugin?"
-msgstr ""
+msgstr "ฉันจะปิดการใช้งานโปรแกรมเสริมได้อย่างไร?"
 
 #: plugincheck.lang:277
 msgid "In Firefox:"
-msgstr ""
+msgstr "ใน Firefox:"
 
 #: plugincheck.lang:281
 msgid "Click on a plugin in the list."
-msgstr ""
+msgstr "เลือกโปรแกรมเสริม"
 
 #: plugincheck.lang:285
 msgid "Click the <kbd>Disable</kbd> button."
-msgstr ""
+msgstr "คลิกปุ่ม <kbd>ปิดใช้งาน</kbd>"
 
 #: plugincheck.lang:289
 msgid ""
@@ -361,10 +394,13 @@ msgid ""
 "longer be able to do</strong> certain things. For example, if you disable "
 "Flash, you will not be able to watch videos on popular video streaming sites."
 msgstr ""
+"<strong>คำเตือน:</strong> "
+"ขณะปิดการใช้งานโปรแกรมเสริมนั้นจะทำให้คุณ<strong>ไม่สามารถทำ</strong>บางอย่างได้ "
+"ยกตัวอย่างเช่นคุณปิดการใช้งาน Flash คุณก็จะไม่สามารถดูวิดีโอจากเว็บถ่ายทอดวิดีโอที่ได้รับความนิยม"
 
 #: plugincheck.lang:293
 msgid "Have more <span>questions?</span>"
-msgstr ""
+msgstr "มี<span>คำถาม</span>มากกว่านี้?"
 
 #: plugincheck.lang:297
 msgid ""
@@ -372,3 +408,38 @@ msgid ""
 "\">learn about plugins</a> or <a href=\"%(url3)s\">troubleshoot plugin "
 "problems</a>."
 msgstr ""
+"<a href=\"%(url2)s\">เว็บการช่วยเหลือของเรา</a>สามารถช่วยคุณได้<a href=\"%(url1)s"
+"\">เรียนรู้เพิ่มเติมเกี่ยวกับโปรแกรมเสริม</a> หรือ <a href=\"%(url3)s"
+"\">แก้ไขปัญหาเกี่ยวกับโปรแกรมเสริม</a>"
+
+#~ msgctxt "build/translations/th/plugincheck.lang:5"
+#~ msgid "Plugin Check"
+#~ msgstr "ตรวจสอบโปรแกรมเสริม"
+
+#~ msgctxt "build/translations/th/plugincheck.lang:93"
+#~ msgid "Update Now"
+#~ msgstr "ปรับรุ่นเดี๋ยวนี้"
+
+#~ msgctxt "build/translations/th/plugincheck.lang:101"
+#~ msgid "Update"
+#~ msgstr "ปรับรุ่น"
+
+#~ msgctxt "build/translations/th/plugincheck.lang:213"
+#~ msgid "What is a plugin?"
+#~ msgstr "โปรแกรมเสริมคืออะไร?"
+
+#~ msgctxt "build/translations/th/plugincheck.lang:229"
+#~ msgid "Why should I update my plugins?"
+#~ msgstr "ทำไมเราจำเป็นต้องปรับรุ่นโปรแกรมเสริม?"
+
+#~ msgctxt "build/translations/th/plugincheck.lang:245"
+#~ msgid "How can Firefox help me?"
+#~ msgstr "Firefox จะช่วยฉันได้อย่างไร?"
+
+#~ msgctxt "build/translations/th/plugincheck.lang:253"
+#~ msgid "Which plugins do I have?"
+#~ msgstr "ฉันมีโปรแกรมเสริมตัวไหนบ้าง?"
+
+#~ msgctxt "build/translations/th/plugincheck.lang:273"
+#~ msgid "How do I disable a plugin?"
+#~ msgstr "ฉันจะปิดการใช้งานโปรแกรมเสริมได้อย่างไร?"
