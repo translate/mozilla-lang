@@ -1,0 +1,19 @@
+# Backup files
+*~
+
+# Build related directories
+.pootle_phases_tmp/
+.pootle_tmp/
+
+# alt-src languages
+es/
+es_MX/
+fr/
+ru/
+
+# Translate Toolkit scripts
+.ttk/*.workon
+
+# Work dirs
+build/
+source/

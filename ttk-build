@@ -1,19 +1,6 @@
 #!/bin/bash
 
-SOURCE_DIR="mozilla.com-source"
-TARGET_DIR=mozilla.com-translations
-PO_DIR=po
-POUPDATED_DIR=po-updated
-POT_DIR=pot
-LANGS=$*
-TOOLS_DIR=tools
-#MOZREPONAME="http://svn.mozilla.org"
-MOZREPONAME="svn+ssh://dwayne%40translate.org.za@svn.mozilla.org"
-svnverbosity=""
-
-export USECPO=2
-progress=none
-errorlevel=traceback
+source ttk.inc.sh
 
 if [ $# -lt 1 ]; then
 	echo "Usage: $(basename $0) <lang(s)>"
@@ -26,56 +13,33 @@ else
 	svn up $svnverbosity $SOURCE_DIR
 fi
 
-if [ ! -d $TOOLS_DIR/.git ]; then
-	git clone git@github.com:translate/translate.git $TOOLS_DIR
-else
-	(cd $TOOLS_DIR
-	git stash
-	git pull --rebase
-	git stash pop)
-fi
-
 if [ ! -d $TARGET_DIR/.svn ]; then
 	svn co $svnverbosity --depth=files $MOZREPONAME/projects/mozilla.com/trunk/locales/ $TARGET_DIR
 else
 	svn up $svnverbosity --depth=files $TARGET_DIR
 fi
 
-if [ ! -d $PO_DIR/.svn ]; then
-	svn co $svnverbosity --depth=files http://zaf.svn.sourceforge.net/svnroot/zaf/trunk/po/mozilla.lang $PO_DIR
-else
-	svn up $svnverbosity --depth=files $PO_DIR
-fi
-
-if [ ! -d $POUPDATED_DIR/.svn ]; then
-	mkdir -p $POUPDATED_DIR
-	cp -rp $PO_DIR/.svn $POUPDATED_DIR
-else
-	svn up $svnverbosity --depth=files $POUPDATED_DIR
-fi
-
-rm -rf $POT_DIR
-moz2po --errorlevel=$errorlevel --progress=$progress $SOURCE_DIR $POT_DIR
-txt2po --errorlevel=$errorlevel --progress=$progress $SOURCE_DIR/emails $POT_DIR/emails
-podebug --errorlevel=$errorlevel --progress=$progress --rewrite=blank $POT_DIR $POT_DIR
-rename 's/\.po$/.pot/' $(find $POT_DIR -name "*.po")
-
 for lang in $LANGS
 do
-	mozlang=$(echo $lang|sed "s/_/-/g")
-	svn up $svnverbosity $PO_DIR/$lang
-	svn up $svnverbosity $POUPDATED_DIR/$lang
-	rm -f $(find $POUPDATED_DIR/$lang -name "*.po")
-	pot2po --errorlevel=$errorlevel --progress=$progress -t $PO_DIR/$lang $POT_DIR $POUPDATED_DIR/$lang
+	lang=get_language_pootle $lang
+	if [ $lang == "templates" ]; then
+		rm -rf $POT_DIR
+		mkdir -p $POT_DIR/emails
+		moz2po --errorlevel=$errorlevel --progress=$progress $SOURCE_DIR $POT_DIR
+		txt2po --errorlevel=$errorlevel --progress=$progress $SOURCE_DIR/emails $POT_DIR/emails
+		podebug --errorlevel=$errorlevel --progress=$progress --rewrite=blank $POT_DIR $POT_DIR
+		rename 's/\.po$/.pot/' $(find $POT_DIR -name "*.po")
+	else
+		mozlang=get_language_upstream $lang
+		rm -f $(find $PO_DIR/$lang -name "*.po")
+		pot2po --errorlevel=$errorlevel --progress=$progress -t $PO_DIR/$lang $POT_DIR $PO_DIR/$lang
 
-	# Revert files with only header changes
-	[ -d ${POUPDATED_DIR}/${lang}/.svn ] && svn revert $svnverbosity $(svn diff --diff-cmd diff -x "--unified=3 --ignore-matching-lines=POT-Creation --ignore-matching-lines=X-Generator -s" ${POUPDATED_DIR}/${lang} |
-	egrep "are identical$" |
-	sed "s/^Files //;s/\(\.po\).*/\1/") || echo "No header only changes, so no reverts needed"
+		revert_unchanged_po_git $PO_DIR $lang
 
-	svn revert $svnverbosity -R $TARGET_DIR/$mozlang
-	svn up $svnverbosity $TARGET_DIR/$mozlang
-	rm -f $(find $TARGET_DIR/$mozlang -name "*.lang")
-	po2moz --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR $POUPDATED_DIR/$lang $TARGET_DIR/$mozlang
-	po2txt --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR/emails $POUPDATED_DIR/$lang/emails $TARGET_DIR/$mozlang/emails
+		svn revert $svnverbosity -R $TARGET_DIR/$mozlang
+		svn up $svnverbosity $TARGET_DIR/$mozlang
+		rm -f $(find $TARGET_DIR/$mozlang -name "*.lang")
+		po2moz --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR $POUPDATED_DIR/$lang $TARGET_DIR/$mozlang
+		po2txt --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR/emails $POUPDATED_DIR/$lang/emails $TARGET_DIR/$mozlang/emails
+	fi
 done
