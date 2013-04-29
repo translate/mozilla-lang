@@ -18,7 +18,3 @@ LANGS=$*
 #MOZREPONAME="http://svn.mozilla.org"
 MOZREPONAME="svn+ssh://dwayne%40translate.org.za@svn.mozilla.org"
 svnverbosity=""
-
-export USECPO=2
-progress=none
-errorlevel=traceback
