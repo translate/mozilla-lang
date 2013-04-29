@@ -60,6 +60,7 @@ do
 		svn up $svnverbosity $TARGET_DIR/$mozlang
 		rm -f $(find $TARGET_DIR/$mozlang -name "*.lang")
 		po2moz --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR $PO_DIR/$polang $TARGET_DIR/$mozlang
+		mkdir -p $TARGET_DIR/$mozlang/templates/mozorg/emails
 		po2txt --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR/templates/mozorg/emails $PO_DIR/$polang/templates/mozorg/emails $TARGET_DIR/$mozlang/templates/mozorg/emails
 	fi
 done
