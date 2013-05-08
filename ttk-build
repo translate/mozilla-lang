@@ -2,14 +2,8 @@
 
 source ttk.inc.sh
 
-if [ $# -eq 0 ]; then
-	LANGS=$(all_langs)
-elif [ $# -eq 1 -a -z "${1//[0-9]/}" ]; then
-	LANGS=$(all_langs $1)
-else
-	LANGS=$*
-fi
-log_info "Processing languages '$LANGS'"
+langs=$(which_langs $*)
+log_info "Processing languages '$langs'"
 
 function update_source() {
 	log_info "Updating '$SOURCE_DIR'"
@@ -27,7 +21,7 @@ else
 	svn up $svnverbosity --depth=files $TARGET_DIR
 fi
 
-for lang in $LANGS
+for lang in $langs
 do
 	log_info "Processing language '$lang'"
 	polang=$(get_language_pootle $lang)
