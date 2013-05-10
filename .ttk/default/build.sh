@@ -48,6 +48,7 @@ do
 		# FIXME we should revert stuff that wasn't part of this migration e.g. mobile
 		rm -rf ${tempdir}
 
+		clean_po_location $PO_DIR $polang
 		revert_unchanged_po_git $PO_DIR $polang
 
 		svn revert $svnverbosity -R $TARGET_DIR/$mozlang
