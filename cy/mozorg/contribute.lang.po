@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-29 10:37-0700\n"
-"PO-Revision-Date: 2013-04-29 11:24+0000\n"
+"PO-Revision-Date: 2013-05-02 19:07+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cy\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
-"X-POOTLE-MTIME: 1367234640.0\n"
+"X-Generator: Pootle 2.5.0-rc1\n"
+"X-POOTLE-MTIME: 1367521655.0\n"
 
 #: mozorg/contribute.lang:1
 msgid "Get Involved: Volunteer Opportunities at Mozilla"
@@ -33,7 +33,7 @@ msgid ""
 "involved.<br><b>You just have to love the Web.</b>"
 msgstr ""
 "Does dim rhaid bod yn arbenigwr C++ (neu hyd yn oed wybod beth yw ystyr "
-"hynny) i ymuno. <br><b>Dim ond eich bod wrth eich bodd gyda'r We.</b>"
+"hynny!) i ymuno.<br><b>Dim ond eich bod wrth eich bodd gyda'r We.</b>"
 
 #: mozorg/contribute.lang:13
 msgid "Please enter a valid email address."
@@ -192,7 +192,6 @@ msgid ""
 msgstr ""
 
 #: mozorg/contribute.lang:150
-#, fuzzy
 msgid ""
 "Help us spread the word about how Firefox and other Mozilla projects are "
 "building a better Internet. Share Firefox with the world by <a href="
@@ -200,10 +199,9 @@ msgid ""
 "href=\"%(marketing_url)s\">Marketing Guide</a> for more ways to get involved."
 msgstr ""
 "Helpwch ni i sôn wrth bawb sut mae Firefox a phrojectau eraill Mozilla yn "
-"adeiladu gwell Rhyngrwyd. Rhannwch Firefox gyda'r byd drwy <a href=\"https://"
-"affiliates.mozilla.org\">ddod yn Aelod Cysylltiedig</a> a darllen ein <a "
-"href=\"https://wiki.mozilla.org/MarketingGuide\">Canllaw Marchnata</a> am "
-"ragor o ffyrdd i gyfrannu."
+"adeiladu gwell Rhyngrwyd. Rhannwch Firefox gyda'r byd drwy <a href="
+"\"%(affiliates_url)s\">ddod yn Aelod Cysylltiedig</a> a darllen ein <a href="
+"\"%(marketing_url)s\">Canllaw Marchnata</a> am ragor o ffyrdd i gyfrannu."
 
 #: mozorg/contribute.lang:154
 msgid ""
@@ -294,9 +292,8 @@ msgid ""
 msgstr ""
 
 #: mozorg/contribute.lang:222
-#, fuzzy
 msgid "Twitter"
-msgstr "Twitter:"
+msgstr "Twitter"
 
 #: mozorg/contribute.lang:226
 msgid ""
