@@ -20,7 +20,7 @@ function revert_active_header() {
 	cd $TARGET_DIR/$lang
 	for file in $(find . -name "*.lang")
 	do
-		if [ "$(svn diff $file | egrep "^[+-]## active ##$")" ]; then
+		if [ "$(svn diff $file 2>/dev/null | egrep "^[+-]## active ##$")" ]; then
 			cp $file $file.bak
 			if [ "$(svn diff $file | egrep "^[+]## active ##$")" ]; then
 				tail -n +2 $file.bak > $file
