@@ -14,6 +14,25 @@ function update_source() {
 	fi
 }
 
+function revert_active_header() {
+	# Revert the ## active ## header that is added by the covertor
+	# We want to retain whatever was there before our update
+	cd $TARGET_DIR/$lang
+	for file in $(find . -name "*.lang")
+	do
+		if [ "$(svn diff $file | egrep "^[+-]## active ##$")" ]; then
+			cp $file $file.bak
+			if [ "$(svn diff $file | egrep "^[+]## active ##$")" ]; then
+				tail -n +2 $file.bak > $file
+
+			else
+				echo "## active ##" | cat - $file.bak > $file
+			fi
+			rm $file.bak
+		fi
+	done
+}
+
 log_info "Updating first level of '$TARGET_DIR'"
 if [ ! -d $TARGET_DIR/.svn ]; then
 	svn co $svnverbosity --depth=files $MOZREPONAME/projects/mozilla.com/trunk/locales/ $TARGET_DIR
@@ -57,5 +76,6 @@ do
 		po2moz --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR $PO_DIR/$polang $TARGET_DIR/$mozlang
 		mkdir -p $TARGET_DIR/$mozlang/templates/mozorg/emails
 		po2txt --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR/templates/mozorg/emails $PO_DIR/$polang/templates/mozorg/emails $TARGET_DIR/$mozlang/templates/mozorg/emails
+		revert_active_header $mozlang
 	fi
 done
