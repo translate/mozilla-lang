@@ -17,6 +17,9 @@ function update_source() {
 function revert_active_header() {
 	# Revert the ## active ## header that is added by the covertor
 	# We want to retain whatever was there before our update
+	# FIXME remove this from non-added files also
+	local lang=$1
+	log_info "Reverting ## active ## header to upstream state"
 	cd $TARGET_DIR/$lang
 	for file in $(find . -name "*.lang")
 	do
