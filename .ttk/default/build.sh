@@ -33,6 +33,16 @@ function revert_active_header() {
 	done
 }
 
+function revert_blank_line_only_changes() {
+	# Revert files with only blank line changes
+	local mozlang=$1
+	log_info "Reverting blank line only changes in '${TARGET_DIR}/${mozlang}'"
+	cd $TARGET_DIR/$mozlang
+        [ -d ${TARGET_DIR}/${mozlang}/.svn ] && svn revert $(svn diff --diff-cmd diff -x "--unified=3 --ignore-blank-lines -s" ${TARGET_DIR}/${mozlang} |
+        egrep "are identical$" |
+        sed "s/^Files //;s/\(\.lang[^\/]\).*/\1/")
+}
+
 log_info "Updating first level of '$TARGET_DIR'"
 if [ ! -d $TARGET_DIR/.svn ]; then
 	svn co $svnverbosity --depth=files $MOZREPONAME/projects/mozilla.com/trunk/locales/ $TARGET_DIR
@@ -77,5 +87,6 @@ do
 		mkdir -p $TARGET_DIR/$mozlang/templates/mozorg/emails
 		po2txt --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR/templates/mozorg/emails $PO_DIR/$polang/templates/mozorg/emails $TARGET_DIR/$mozlang/templates/mozorg/emails
 		revert_active_header $mozlang
+		revert_blank_line_only_changes $mozlang
 	fi
 done
