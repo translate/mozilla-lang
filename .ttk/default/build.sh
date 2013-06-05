@@ -66,7 +66,10 @@ do
 		txt2po --errorlevel=$errorlevel --progress=$progress templates/mozorg/emails $POT_DIR/templates/mozorg/emails
 		)
 		podebug --errorlevel=$errorlevel --progress=$progress --rewrite=blank $POT_DIR $POT_DIR
-		rename -f 's/\.po$/.pot/' $(find $POT_DIR -name "*.po")
+		for po in $(find $POT_DIR -name "*.po")
+		do
+			mv $po ${po}t
+		done
 		rm $POT_DIR/templates/mozorg/emails/*.txt  # Cleanup files that moz2po copied
 	else
 		mozlang=$(get_language_upstream $lang)
