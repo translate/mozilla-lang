@@ -71,6 +71,7 @@ do
 			mv $po ${po}t
 		done
 		rm $POT_DIR/templates/mozorg/emails/*.txt  # Cleanup files that moz2po copied
+		revert_unchanged_po_git $POT_DIR/.. templates
 	else
 		mozlang=$(get_language_upstream $lang)
 		verbose "Migrate - update PO files to new POT files"
