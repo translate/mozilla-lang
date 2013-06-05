@@ -1,132 +1,138 @@
-#. extracted from mozilla.com-source/plugincheck.lang
+#. extracted from ./plugincheck.lang
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-03-08 07:19-0700\n"
+"POT-Creation-Date: 2013-06-05 12:55+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
 
-#: mozilla.com-source/plugincheck.lang:1
-msgctxt "mozilla.com-source/plugincheck.lang:1"
+#: plugincheck.lang:1
+#, fuzzy
+msgctxt "./plugincheck.lang:1"
 msgid "Plugin Check"
 msgstr "Vérification des plugins"
 
-#: mozilla.com-source/plugincheck.lang:5
-msgctxt "mozilla.com-source/plugincheck.lang:5"
+#: plugincheck.lang:5
+#, fuzzy
+msgctxt "./plugincheck.lang:5"
 msgid "Plugin Check"
 msgstr "Vérification des plugins"
 
-#: mozilla.com-source/plugincheck.lang:9
+#: plugincheck.lang:9
 msgid "Plugin details"
 msgstr "Détails du plugin"
 
-#: mozilla.com-source/plugincheck.lang:13
+#: plugincheck.lang:13
 msgid "State"
 msgstr "État"
 
-#: mozilla.com-source/plugincheck.lang:17
+#: plugincheck.lang:17
 msgid "Action"
-msgstr "Actions"
+msgstr "Action"
 
-#: mozilla.com-source/plugincheck.lang:21
+#: plugincheck.lang:21
 msgid "Checking with Mozilla on the status of your plugins"
 msgstr "Vérification avec Mozilla de l'état de vos plugins"
 
-#: mozilla.com-source/plugincheck.lang:25
+#: plugincheck.lang:25
 msgid "Loading Data"
 msgstr "Chargement des données"
 
-#: mozilla.com-source/plugincheck.lang:29
+#: plugincheck.lang:29
 msgid "View All Your Plugins"
 msgstr "Voir tous vos plugins"
 
-#: mozilla.com-source/plugincheck.lang:33
+#: plugincheck.lang:33
 msgid "Disable Now"
 msgstr "Désactiver maintenant"
 
-#: mozilla.com-source/plugincheck.lang:37
+#: plugincheck.lang:37
 msgid "Vulnerable No Fix"
 msgstr "Vulnérable sans correction"
 
-#: mozilla.com-source/plugincheck.lang:41
-msgctxt "mozilla.com-source/plugincheck.lang:41"
+#: plugincheck.lang:41
+#, fuzzy
+msgctxt "./plugincheck.lang:41"
 msgid "Update Now"
 msgstr "Mettre à jour maintenant"
 
-#: mozilla.com-source/plugincheck.lang:45
+#: plugincheck.lang:45
 msgid "Vulnerable"
 msgstr "Vulnérable"
 
-#: mozilla.com-source/plugincheck.lang:49
-msgctxt "mozilla.com-source/plugincheck.lang:49"
+#: plugincheck.lang:49
+#, fuzzy
+msgctxt "./plugincheck.lang:49"
 msgid "Update"
 msgstr "Mise à jour"
 
-#: mozilla.com-source/plugincheck.lang:53
+#: plugincheck.lang:53
 msgid "Outdated Version"
 msgstr "Version obsolète"
 
-#: mozilla.com-source/plugincheck.lang:57
+#: plugincheck.lang:57
 msgid "Up to Date"
 msgstr "Plugin à jour"
 
-#: mozilla.com-source/plugincheck.lang:61
+#: plugincheck.lang:61
 msgid "Research"
 msgstr "Rechercher"
 
-#: mozilla.com-source/plugincheck.lang:65
+#: plugincheck.lang:65
 msgid "Unknown plugin"
 msgstr "Impossible de détecter la version du plugin"
 
-#: mozilla.com-source/plugincheck.lang:69
+#: plugincheck.lang:69
 msgid "Out of date plugins:"
 msgstr "Plugins obsolètes&nbsp;:"
 
-#: mozilla.com-source/plugincheck.lang:73
+#: plugincheck.lang:73
 msgid "Vulnerable plugins:"
 msgstr "Plugins vulnérables&nbsp;:"
 
-#: mozilla.com-source/plugincheck.lang:77
+#: plugincheck.lang:77
 msgid "Potentially vulnerable plugins:"
 msgstr "Plugins potentiellement vulnérables&nbsp;:"
 
-#: mozilla.com-source/plugincheck.lang:81
+#: plugincheck.lang:81
 msgid "The plugins listed below are up to date"
 msgstr "Les plugins cités ci-dessous sont à jour"
 
-#: mozilla.com-source/plugincheck.lang:85
+#: plugincheck.lang:85
 msgid "No plugins were detected"
 msgstr "Aucun plugin n'a été détecté"
 
-#: mozilla.com-source/plugincheck.lang:89
+#: plugincheck.lang:89
 msgid "current version plugin"
 msgstr "Version actuelle du plugin"
 
-#: mozilla.com-source/plugincheck.lang:93
-msgctxt "mozilla.com-source/plugincheck.lang:93"
+#: plugincheck.lang:93
+#, fuzzy
+msgctxt "./plugincheck.lang:93"
 msgid "Update Now"
 msgstr "Mettre à jour maintenant"
 
-#: mozilla.com-source/plugincheck.lang:97
+#: plugincheck.lang:97
 msgid "Potentially Vulnerable"
 msgstr "Potentiellement vulnérable"
 
-#: mozilla.com-source/plugincheck.lang:101
-msgctxt "mozilla.com-source/plugincheck.lang:101"
+#: plugincheck.lang:101
+#, fuzzy
+msgctxt "./plugincheck.lang:101"
 msgid "Update"
 msgstr "Mise à jour"
 
-#: mozilla.com-source/plugincheck.lang:105
+#: plugincheck.lang:105
 msgid "Potentially Outdated Version"
 msgstr "Version potentiellement obsolète"
 
-#: mozilla.com-source/plugincheck.lang:109
+#: plugincheck.lang:109
 msgid ""
 "<p>This plugin version has a security vulnerability that websites can "
 "exploit and potentially harm your computer. It is recommended that you "
@@ -144,15 +150,15 @@ msgstr ""
 "vulnérabilité fournies par l'éditeur du plugin</a>.</p><p><a class='qtip-"
 "closer'>Fermer</a></p>"
 
-#: mozilla.com-source/plugincheck.lang:113
+#: plugincheck.lang:113
 msgid "(more info)"
 msgstr "(en savoir plus)"
 
-#: mozilla.com-source/plugincheck.lang:117
+#: plugincheck.lang:117
 msgid "Check Your <span>Plugins</span>"
 msgstr "Vérification des <span>plugins</span>"
 
-#: mozilla.com-source/plugincheck.lang:121
+#: plugincheck.lang:121
 msgid ""
 "Keeping your third-party plugins up to date helps Firefox run safely and "
 "smoothly."
@@ -160,11 +166,11 @@ msgstr ""
 "Mettez à jour vos plugins tiers, Firefox fonctionnera sans accroc et en "
 "toute sécurité."
 
-#: mozilla.com-source/plugincheck.lang:125
+#: plugincheck.lang:125
 msgid "Missing <span>FLASH?</span>"
 msgstr "<span>FLASH&#63;</span> vous manque&nbsp;?"
 
-#: mozilla.com-source/plugincheck.lang:129
+#: plugincheck.lang:129
 msgid ""
 "For your safety, Firefox has disabled your outdated version of Flash. Please "
 "<a href=\"%(url)s\" >upgrade to the latest version.</a>"
@@ -173,7 +179,7 @@ msgstr ""
 "obsolète. Veuillez <a href=\"%(url)s\" >vous mettre à jour avec la toute "
 "dernière version de Flash.</a>"
 
-#: mozilla.com-source/plugincheck.lang:133
+#: plugincheck.lang:133
 msgid ""
 "<strong>Warning, a newer version of your browser is available.</strong> "
 "Please upgrade your browser."
@@ -181,7 +187,7 @@ msgstr ""
 "<strong>Attention, une version plus récente de votre navigateur est "
 "disponible.</strong> Veuillez vous mettre à jour."
 
-#: mozilla.com-source/plugincheck.lang:137
+#: plugincheck.lang:137
 msgid ""
 "This page works best with the latest browsers: Firefox 3.6+, Opera 10.5+, "
 "Safari 4+, Chrome 4+, or IE 8+"
@@ -189,7 +195,7 @@ msgstr ""
 "Cette page aura un meilleur rendu avec un navigateur récent&nbsp;: Firefox "
 "3.6+, Opera 10.5+, Safari 4+, Chrome 4+, ou IE 8+."
 
-#: mozilla.com-source/plugincheck.lang:141
+#: plugincheck.lang:141
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
@@ -197,7 +203,7 @@ msgstr ""
 "Le  <strong>support pour Internet Explorer est limité</strong>. Vous pouvez "
 "également utiliser le menu Outils &gt; Gérer les extensions."
 
-#: mozilla.com-source/plugincheck.lang:145
+#: plugincheck.lang:145
 msgid ""
 "<strong><em>Step 1:</em></strong> Click <strong>Update</strong> to update a "
 "plugin."
@@ -205,7 +211,7 @@ msgstr ""
 "<strong><em>Étape&nbsp;1&nbsp;:</em></strong> Cliquez sur le bouton "
 "<strong>Mise à jour</strong> pour mettre le plugin à jour."
 
-#: mozilla.com-source/plugincheck.lang:149
+#: plugincheck.lang:149
 msgid ""
 "<strong><em>Step 2:</em></strong> <strong>Complete all recommended updates</"
 "strong> <em>before</em> restarting your browser."
@@ -214,11 +220,11 @@ msgstr ""
 "mises à jour recommandées </strong> <em>avant</em> de redémarrer votre "
 "navigateur."
 
-#: mozilla.com-source/plugincheck.lang:153
+#: plugincheck.lang:153
 msgid "Note"
-msgstr ""
+msgstr "Note"
 
-#: mozilla.com-source/plugincheck.lang:157
+#: plugincheck.lang:157
 msgid ""
 "<strong>You have JavaScript disabled</strong> or are using a browser without "
 "JavaScript. This Plugin Check page does not work without the awesome power "
@@ -231,7 +237,7 @@ msgstr ""
 "<strong>JavaScript</strong>. Veuillez activer cette fonctionnalité parmi les "
 "options de paramétrage de votre navigateur puis recharger cette page."
 
-#: mozilla.com-source/plugincheck.lang:161
+#: plugincheck.lang:161
 msgid ""
 "Or disable all your plugins and keep JavaScript disabled... you'd be in good "
 "company, that's how <a  >RMS rolls</a>."
@@ -239,71 +245,77 @@ msgstr ""
 "Alternativement, vous pouvez désactiver tous vos plugins et laisser "
 "JavaScript désactivé&hellip;"
 
-#: mozilla.com-source/plugincheck.lang:165
+#: plugincheck.lang:165
 msgid "Plugin Finding Service Error"
 msgstr "Erreur du service de recherche des plugins"
 
-#: mozilla.com-source/plugincheck.lang:169
+#: plugincheck.lang:169
 msgid "We've encountered an error. Please try your request again later."
 msgstr "Une erreur est survenue, veuillez réessayer plus tard."
 
-#: mozilla.com-source/plugincheck.lang:173
+#: plugincheck.lang:173
 msgid "Retry"
 msgstr "Réessayer"
 
-#: mozilla.com-source/plugincheck.lang:177
-msgctxt "mozilla.com-source/plugincheck.lang:177"
+#: plugincheck.lang:177
+#, fuzzy
+msgctxt "./plugincheck.lang:177"
 msgid "What is a plugin?"
 msgstr "Qu'est-ce qu'un plugin&nbsp;?"
 
-#: mozilla.com-source/plugincheck.lang:181
-msgctxt "mozilla.com-source/plugincheck.lang:181"
+#: plugincheck.lang:181
+#, fuzzy
+msgctxt "./plugincheck.lang:181"
 msgid "Why should I update my plugins?"
 msgstr "Pourquoi mettre à jour mes plugins&nbsp;?"
 
-#: mozilla.com-source/plugincheck.lang:185
-msgctxt "mozilla.com-source/plugincheck.lang:185"
+#: plugincheck.lang:185
+#, fuzzy
+msgctxt "./plugincheck.lang:185"
 msgid "How can Firefox help me?"
 msgstr "Comment Firefox peut-il m'aider&nbsp;?"
 
-#: mozilla.com-source/plugincheck.lang:189
-msgctxt "mozilla.com-source/plugincheck.lang:189"
+#: plugincheck.lang:189
+#, fuzzy
+msgctxt "./plugincheck.lang:189"
 msgid "Which plugins do I have?"
 msgstr "Quels sont mes plugins&nbsp;?"
 
-#: mozilla.com-source/plugincheck.lang:193
-msgctxt "mozilla.com-source/plugincheck.lang:193"
+#: plugincheck.lang:193
+#, fuzzy
+msgctxt "./plugincheck.lang:193"
 msgid "How do I disable a plugin?"
 msgstr "Comment puis-je désactiver un plugin&nbsp;?"
 
-#: mozilla.com-source/plugincheck.lang:197
+#: plugincheck.lang:197
 msgid "Need Help?"
 msgstr "Besoin d'aide&nbsp;?"
 
-#: mozilla.com-source/plugincheck.lang:201
+#: plugincheck.lang:201
 msgid "Visit support.mozilla.org"
 msgstr "Visiter support.mozilla.org"
 
-#: mozilla.com-source/plugincheck.lang:205
+#: plugincheck.lang:205
 msgid "Read support articles about plugins"
 msgstr "Consulter les articles d'assistance sur les plugins"
 
-#: mozilla.com-source/plugincheck.lang:209
+#: plugincheck.lang:209
 msgid "Frequently asked <span>Questions</span>"
 msgstr "<span>Questions</span> courantes"
 
-#: mozilla.com-source/plugincheck.lang:213
-msgctxt "mozilla.com-source/plugincheck.lang:213"
+#: plugincheck.lang:213
+#, fuzzy
+msgctxt "./plugincheck.lang:213"
 msgid "What is a plugin?"
 msgstr "Qu'est-ce qu'un plugin&nbsp;?"
 
-#: mozilla.com-source/plugincheck.lang:217
+#: plugincheck.lang:217
 msgid "Plugins power <strong>videos, animation and games</strong>."
 msgstr ""
 "Les plugins sont utilisés par les <strong>vidéos, les animations et les "
 "jeux</strong>."
 
-#: mozilla.com-source/plugincheck.lang:221
+#: plugincheck.lang:221
 msgid ""
 "They're built <strong>outside of Firefox by companies</strong> like <a href="
 "\"%(adobe)s\">Adobe Systems</a> and <a href=\"%(apple)s\" >Apple</a>."
@@ -312,25 +324,26 @@ msgstr ""
 "telles que <a href=\"%(adobe)s\">Adobe Systems</a> et <a href=\"%(apple)s\" "
 ">Apple</a>."
 
-#: mozilla.com-source/plugincheck.lang:225
+#: plugincheck.lang:225
 msgid "Plugins <strong>don't always update</strong> automatically."
 msgstr ""
 "Les plugins <strong>ne se mettent pas toujours à jour</strong> "
 "automatiquement."
 
-#: mozilla.com-source/plugincheck.lang:229
-msgctxt "mozilla.com-source/plugincheck.lang:229"
+#: plugincheck.lang:229
+#, fuzzy
+msgctxt "./plugincheck.lang:229"
 msgid "Why should I update my plugins?"
 msgstr "Pourquoi mettre à jour mes plugins&nbsp;?"
 
-#: mozilla.com-source/plugincheck.lang:233
+#: plugincheck.lang:233
 msgid ""
 "Old plugins can interrupt browsing and <strong>waste your time</strong>."
 msgstr ""
 "Les plugins dépassés peuvent interrompre votre navigation et vous faire "
 "<strong>perdre votre temps</strong>."
 
-#: mozilla.com-source/plugincheck.lang:237
+#: plugincheck.lang:237
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
@@ -338,7 +351,7 @@ msgstr ""
 "Les plugins dépassés <strong>augmentent les risques</strong> d'attaque des "
 "logiciels malveillants, virus et autres menaces pour votre sécurité."
 
-#: mozilla.com-source/plugincheck.lang:241
+#: plugincheck.lang:241
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
@@ -346,12 +359,13 @@ msgstr ""
 "<strong>Les plugins mis à jour bénéficient d'améliorations</strong> rendant "
 "le Web <strong>meilleur et plus sûr</strong> pour vous."
 
-#: mozilla.com-source/plugincheck.lang:245
-msgctxt "mozilla.com-source/plugincheck.lang:245"
+#: plugincheck.lang:245
+#, fuzzy
+msgctxt "./plugincheck.lang:245"
 msgid "How can Firefox help me?"
 msgstr "Comment Firefox peut-il m'aider&nbsp;?"
 
-#: mozilla.com-source/plugincheck.lang:249
+#: plugincheck.lang:249
 msgid ""
 "In the future, Firefox will update plugins for you.  Until then, you should "
 "<strong>regularly check this page</strong> and update your plugins to stay "
@@ -361,12 +375,13 @@ msgstr ""
 "devriez <strong>consulter régulièrement cette page</strong> et mettre vos "
 "plugins à jour pour rester protégé."
 
-#: mozilla.com-source/plugincheck.lang:253
-msgctxt "mozilla.com-source/plugincheck.lang:253"
+#: plugincheck.lang:253
+#, fuzzy
+msgctxt "./plugincheck.lang:253"
 msgid "Which plugins do I have?"
 msgstr "Quels sont mes plugins&nbsp;?"
 
-#: mozilla.com-source/plugincheck.lang:257
+#: plugincheck.lang:257
 msgid ""
 "We automatically detected your plugins above, to <strong>view your installed "
 "plugins in Firefox</strong> follow these steps:"
@@ -375,36 +390,37 @@ msgstr ""
 "<strong>voir vos plugins installés dans Firefox</strong>, suivez ces "
 "instructions&nbsp;:"
 
-#: mozilla.com-source/plugincheck.lang:261
+#: plugincheck.lang:261
 msgid "Open the <kbd>Tools</kbd> menu."
 msgstr "Ouvrez le menu <kbd>Outils</kbd>."
 
-#: mozilla.com-source/plugincheck.lang:265
+#: plugincheck.lang:265
 msgid "Choose <kbd>Add-ons</kbd>."
 msgstr "Choisissez <kbd>Modules complémentaires</kbd>."
 
-#: mozilla.com-source/plugincheck.lang:269
+#: plugincheck.lang:269
 msgid "Click the <kbd>plugins</kbd> tab."
 msgstr "Cliquez sur l'onglet <kbd>plugins</kbd>."
 
-#: mozilla.com-source/plugincheck.lang:273
-msgctxt "mozilla.com-source/plugincheck.lang:273"
+#: plugincheck.lang:273
+#, fuzzy
+msgctxt "./plugincheck.lang:273"
 msgid "How do I disable a plugin?"
 msgstr "Comment puis-je désactiver un plugin&nbsp;?"
 
-#: mozilla.com-source/plugincheck.lang:277
+#: plugincheck.lang:277
 msgid "In Firefox:"
 msgstr "Dans Firefox&nbsp;:"
 
-#: mozilla.com-source/plugincheck.lang:281
+#: plugincheck.lang:281
 msgid "Click on a plugin in the list."
 msgstr "Cliquez sur un plugin dans la liste."
 
-#: mozilla.com-source/plugincheck.lang:285
+#: plugincheck.lang:285
 msgid "Click the <kbd>Disable</kbd> button."
 msgstr "Cliquez sur le bouton <kbd>Désactiver</kbd>."
 
-#: mozilla.com-source/plugincheck.lang:289
+#: plugincheck.lang:289
 msgid ""
 "<strong>Caution:</strong> disabling a plugin means that you will <strong>no "
 "longer be able to do</strong> certain things. For example, if you disable "
@@ -415,11 +431,11 @@ msgstr ""
 "vous désactivez Flash, la plupart des sites de diffusion de vidéos ne "
 "fonctionneront plus."
 
-#: mozilla.com-source/plugincheck.lang:293
+#: plugincheck.lang:293
 msgid "Have more <span>questions?</span>"
 msgstr "D'autres <span>questions&nbsp;?</span>"
 
-#: mozilla.com-source/plugincheck.lang:297
+#: plugincheck.lang:297
 msgid ""
 "<a href=\"%(url2)s\">Our support site</a> can help you <a href=\"%(url1)s"
 "\">learn about plugins</a> or <a href=\"%(url3)s\">troubleshoot plugin "
@@ -429,34 +445,34 @@ msgstr ""
 "\"%(url1)s\">en savoir plus sur les plugins</a> ou bien à <a href=\"%(url3)s"
 "\">résoudre les problèmes liés aux plugins</a>."
 
-#~ msgctxt "../mozilla.com-translations/fr/plugincheck.lang:5"
+#~ msgctxt "fr/plugincheck.lang:5"
 #~ msgid "Plugin Check"
 #~ msgstr "Vérification des plugins"
 
-#~ msgctxt "../mozilla.com-translations/fr/plugincheck.lang:93"
+#~ msgctxt "fr/plugincheck.lang:93"
 #~ msgid "Update Now"
 #~ msgstr "Mettre à jour maintenant"
 
-#~ msgctxt "../mozilla.com-translations/fr/plugincheck.lang:101"
+#~ msgctxt "fr/plugincheck.lang:101"
 #~ msgid "Update"
 #~ msgstr "Mise à jour"
 
-#~ msgctxt "../mozilla.com-translations/fr/plugincheck.lang:213"
+#~ msgctxt "fr/plugincheck.lang:213"
 #~ msgid "What is a plugin?"
 #~ msgstr "Qu'est-ce qu'un plugin&nbsp;?"
 
-#~ msgctxt "../mozilla.com-translations/fr/plugincheck.lang:229"
+#~ msgctxt "fr/plugincheck.lang:229"
 #~ msgid "Why should I update my plugins?"
 #~ msgstr "Pourquoi mettre à jour mes plugins&nbsp;?"
 
-#~ msgctxt "../mozilla.com-translations/fr/plugincheck.lang:245"
+#~ msgctxt "fr/plugincheck.lang:245"
 #~ msgid "How can Firefox help me?"
 #~ msgstr "Comment Firefox peut-il m'aider&nbsp;?"
 
-#~ msgctxt "../mozilla.com-translations/fr/plugincheck.lang:253"
+#~ msgctxt "fr/plugincheck.lang:253"
 #~ msgid "Which plugins do I have?"
 #~ msgstr "Quels sont mes plugins&nbsp;?"
 
-#~ msgctxt "../mozilla.com-translations/fr/plugincheck.lang:273"
+#~ msgctxt "fr/plugincheck.lang:273"
 #~ msgid "How do I disable a plugin?"
 #~ msgstr "Comment puis-je désactiver un plugin&nbsp;?"
