@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-03-08 07:19-0700\n"
-"PO-Revision-Date: 2013-05-16 13:43+0000\n"
+"PO-Revision-Date: 2013-05-20 11:59+0000\n"
 "Last-Translator: Tin Aung <tinaunglinn.eng91@gmail.com>\n"
 "Language-Team: none\n"
 "Language: my\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.0-rc1\n"
-"X-POOTLE-MTIME: 1368711822.0\n"
+"X-POOTLE-MTIME: 1369051157.0\n"
 
 #: mozilla.com-source/plugincheck.lang:1
 msgctxt "mozilla.com-source/plugincheck.lang:1"
@@ -52,83 +52,82 @@ msgstr "သင်၏ပလပ်အင်များအားလုံးကိ
 msgid "Disable Now"
 msgstr "ယခုပိတ်မည်"
 
+# I leave this untranslated
 #: mozilla.com-source/plugincheck.lang:37
 msgid "Vulnerable No Fix"
-msgstr ""
+msgstr "Vulnerable No Fix"
 
 #: mozilla.com-source/plugincheck.lang:41
-#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:41"
 msgid "Update Now"
-msgstr "အဆင့်မြှင့်မည်"
+msgstr "အဆင့်မြှင့်မည်"
 
 #: mozilla.com-source/plugincheck.lang:45
 msgid "Vulnerable"
-msgstr ""
+msgstr "ထိုခိုက်နိုင်သောအကြောင်း"
 
 #: mozilla.com-source/plugincheck.lang:49
 msgctxt "mozilla.com-source/plugincheck.lang:49"
 msgid "Update"
-msgstr ""
+msgstr "အဆင့်မြှင့်"
 
 #: mozilla.com-source/plugincheck.lang:53
 msgid "Outdated Version"
-msgstr ""
+msgstr "ဟောင်းနေသော ဗားရှင်း"
 
 #: mozilla.com-source/plugincheck.lang:57
 msgid "Up to Date"
-msgstr ""
+msgstr "ခေတ်မှီနေသော"
 
 #: mozilla.com-source/plugincheck.lang:61
 msgid "Research"
-msgstr ""
+msgstr "စမ်းသပ်ချက်"
 
 #: mozilla.com-source/plugincheck.lang:65
 msgid "Unknown plugin"
-msgstr ""
+msgstr "မသိသော ပလပ်အင်"
 
 #: mozilla.com-source/plugincheck.lang:69
 msgid "Out of date plugins:"
-msgstr ""
+msgstr "ခေတ်မမှီတော့သော ပလပ်အင်များ၊"
 
 #: mozilla.com-source/plugincheck.lang:73
 msgid "Vulnerable plugins:"
-msgstr ""
+msgstr "ထိခိုက်နိုင်သော ပလပ်အင်များ၊"
 
 #: mozilla.com-source/plugincheck.lang:77
 msgid "Potentially vulnerable plugins:"
-msgstr ""
+msgstr "ထိခိုက်နိုင်သော ပလပ်အင်များ၊"
 
 #: mozilla.com-source/plugincheck.lang:81
 msgid "The plugins listed below are up to date"
-msgstr ""
+msgstr "အောက်တွင် စာရင်းပြုစုထားသော ပလပ်အင်များ သည် အဆင့်မှီသှ်"
 
 #: mozilla.com-source/plugincheck.lang:85
 msgid "No plugins were detected"
-msgstr ""
+msgstr "မည်သည့် ပလပ်အင်မှ ရှာမတွေ့"
 
 #: mozilla.com-source/plugincheck.lang:89
 msgid "current version plugin"
-msgstr ""
+msgstr "လက်ရှိ ပလပ်အင် ဗားရှင်း"
 
 #: mozilla.com-source/plugincheck.lang:93
-#, fuzzy
 msgctxt "mozilla.com-source/plugincheck.lang:93"
 msgid "Update Now"
-msgstr "အဆင့်မြှင့်မည်"
+msgstr "အဆင့်မြှင့်မည်"
 
 #: mozilla.com-source/plugincheck.lang:97
 msgid "Potentially Vulnerable"
-msgstr ""
+msgstr "ထိခိုက်လာနိုင်သော"
 
 #: mozilla.com-source/plugincheck.lang:101
 msgctxt "mozilla.com-source/plugincheck.lang:101"
 msgid "Update"
-msgstr ""
+msgstr "အဆင့်မြှင့်"
 
 #: mozilla.com-source/plugincheck.lang:105
 msgid "Potentially Outdated Version"
-msgstr ""
+msgstr "အဆင့်ဟောင်းလာနိုင်သော ဗားရှင်း"
 
 #: mozilla.com-source/plugincheck.lang:109
 msgid ""
@@ -193,11 +192,14 @@ msgid ""
 "<strong><em>Step 2:</em></strong> <strong>Complete all recommended updates</"
 "strong> <em>before</em> restarting your browser."
 msgstr ""
+"<strong><em>အဆင့်၂:</em></strong> <strong>သင့်ဘယောက်ဆာအား ပိတ်ဖွင့်</strong> "
+"<em>မလုပ်ခင်</em> အကြံပေးထား သောအဆင့်မြှင့်မှူများအားရယူပါ."
 
 #: mozilla.com-source/plugincheck.lang:153
 msgid "Note"
-msgstr ""
+msgstr "မှတ်စု"
 
+# I just leave this string untranslated.
 #: mozilla.com-source/plugincheck.lang:157
 msgid ""
 "<strong>You have JavaScript disabled</strong> or are using a browser without "
@@ -205,34 +207,40 @@ msgid ""
 "of <strong>JavaScript</strong>. Please enable this Content Preference and "
 "reload the page."
 msgstr ""
+"<strong>You have JavaScript disabled</strong> or are using a browser without "
+"JavaScript. This Plugin Check page does not work without the awesome power "
+"of <strong>JavaScript</strong>. Please enable this Content Preference and "
+"reload the page."
 
 #: mozilla.com-source/plugincheck.lang:161
 msgid ""
 "Or disable all your plugins and keep JavaScript disabled... you'd be in good "
 "company, that's how <a  >RMS rolls</a>."
 msgstr ""
+"Or disable all your plugins and keep JavaScript disabled... you'd be in good "
+"company, that's how <a >RMS rolls</a>."
 
 #: mozilla.com-source/plugincheck.lang:165
 msgid "Plugin Finding Service Error"
-msgstr ""
+msgstr "ပလပ်အင်ရှာဖွေရေး ဝန်ဆောင်မှူ အမှားအယွင်း"
 
 #: mozilla.com-source/plugincheck.lang:169
 msgid "We've encountered an error. Please try your request again later."
-msgstr ""
+msgstr "အမှားအယွင်းတစ်ခု ဒီမှာတွေ့ရတယ် ။ ကျေးဇူးပြုပြီး နောက်ထပ် လုပ်ဆောင်ပါ ။"
 
 #: mozilla.com-source/plugincheck.lang:173
 msgid "Retry"
-msgstr ""
+msgstr "ပြန်ကြိုးစားပါ"
 
 #: mozilla.com-source/plugincheck.lang:177
 msgctxt "mozilla.com-source/plugincheck.lang:177"
 msgid "What is a plugin?"
-msgstr ""
+msgstr "ပလပ်အင် ဆိုတာ ဘာလဲ?"
 
 #: mozilla.com-source/plugincheck.lang:181
 msgctxt "mozilla.com-source/plugincheck.lang:181"
 msgid "Why should I update my plugins?"
-msgstr ""
+msgstr "ဘာလို့ ပလပ်အင်တွေကို အဆင့်မြှင့်ထားသင့်တာလဲ?"
 
 #: mozilla.com-source/plugincheck.lang:185
 msgctxt "mozilla.com-source/plugincheck.lang:185"
@@ -279,10 +287,13 @@ msgid ""
 "They're built <strong>outside of Firefox by companies</strong> like <a href="
 "\"%(adobe)s\">Adobe Systems</a> and <a href=\"%(apple)s\" >Apple</a>."
 msgstr ""
+"၎င်းတို့အား<strong>မီးမြေခွေးမဟုတ်သော ကုမ္ပဏီများ</strong> ဖြစ်တဲ့ <a href=\"%(adobe)s"
+"\">Adobe Systems</a> နှင့် <a href=\"%(apple)s\" >Apple</"
+"a>စသည့်ကုမ္ပဏီများမှတည်ဆောက်ထားသောကြောင့် ဖြစ်သည်။"
 
 #: mozilla.com-source/plugincheck.lang:225
 msgid "Plugins <strong>don't always update</strong> automatically."
-msgstr ""
+msgstr "ပလပ်အင်များဟာ <strong>အမြဲတမ်း အလိုအလောက်</strong> အဆင့်မြှင့်တင်လေ့မရှိ။"
 
 #: mozilla.com-source/plugincheck.lang:229
 msgctxt "mozilla.com-source/plugincheck.lang:229"
