@@ -4,18 +4,22 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-05 12:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-06-07 00:09+0000\n"
+"Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: gd\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3 ;\n"
+"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-POOTLE-MTIME: 1370563765.000000\n"
 
 #. Used for the new http://www.mozilla.org/firefox/new
 #: firefox/new.lang:5
 msgid "Firefox for desktop"
-msgstr ""
+msgstr "Firefox airson desktop"
 
 #: firefox/new.lang:10
 msgid "Different by design"
@@ -44,55 +48,67 @@ msgstr ""
 
 #: firefox/new.lang:30
 msgid "Firefox screenshot"
-msgstr ""
+msgstr "Glacadh-sgrìn Firefox"
 
 #: firefox/new.lang:34
-#, fuzzy
 msgid "Thanks for downloading Firefox!"
-msgstr "Tapadh leibh airson Firefox a thaghadh!"
+msgstr "Tapadh leat airson Firefox a luchdadh a-nuas!"
 
 #: firefox/new.lang:38
 msgid "Start the process by clicking Run."
-msgstr ""
+msgstr "Tòisich air le bhith a' briogadh air \"Ruith\"."
 
 #: firefox/new.lang:42
 msgid ""
 "Your download should begin automatically. If not, <a id=\"%s\" href="
 "\"\">click here</a>. It could take a few minutes, but it’s worth the wait."
 msgstr ""
+"Bu chòir dhan luchdadh a-nuas tòiseachadh gu fèin-obrachail. Mur an tòisich, "
+"<a id=\"%s\" href=\"\">briog an-seo</a>. Dh'fhaoidte gum feum seo beagan "
+"mhionaidean ach 's fhiach am fuireach."
 
 #: firefox/new.lang:46
 msgid ""
 "When prompted, drag the Firefox icon into the image of your Applications "
 "folder."
 msgstr ""
+"Nuair a gheibh thu brodadh, slaod ìomhaigheag Firefox air dealbh pasgan nan "
+"aplacaidean agad."
 
 #: firefox/new.lang:50
 msgid ""
 "Click Run to launch the Mozilla Firefox setup wizard. Then, just follow the "
 "steps (we've made the process as painless as possible)."
 msgstr ""
+"Briog air \"Ruith\" gus draoidh suidheachadh Mozilla Firefox a chur gu dol. "
+"Lean ris na ceumannan ann an uairsin (rinn sinn seo cho furasta 's a "
+"ghabhas)."
 
 #: firefox/new.lang:54
 msgid ""
 "Drag the Firefox icon from the Applications folder into the dock. Then, just "
 "click on Firefox whenever you want to use the web!"
 msgstr ""
+"Slaod ìomhaigheag Firefox o phasgan nan aplacaidean air an doca. Briog air "
+"Firefox an uairsin uair sam bith a bhios feum agad air an lìon!"
 
 #: firefox/new.lang:58
 msgid ""
 "Now you’re ready to leap boldly into a new era of Web surfing. Double-click "
 "on the Firefox icon whenever you want to go online."
 msgstr ""
+"Tha gach rud deiseil a-nis airson cothrom a thoirt dhut air an eadar-lìon. "
+"Dèan briogadh dùbailte air ìomhaigheag Firefox uair sam bith a tha thu "
+"airson falbh air an eadar-lìon."
 
 #: firefox/new.lang:62
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: firefox/new.lang:66
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: firefox/new.lang:69
 msgid "3"
-msgstr ""
+msgstr "3"
