@@ -1,0 +1,21 @@
+#!/bin/bash
+
+function usage() {
+	echo "Usage: recover-lang [lang(s)]"
+	exit
+}
+
+function recover-lang() {
+	langs=$*
+	[ $# -lt 1 ] && usage
+	log_info "Recovering languages: $langs"
+	for lang in $langs
+	do
+		mozlang=$(get_language_upstream $lang)
+		polang=$(get_language_pootle $lang)
+		(cd $TARGET_DIR/$mozlang
+		moz2po --progress=$progress . $PO_DIR/$polang)
+		clean_po $PO_DIR/$polang
+		revert_unchanged_po_git $PO_DIR $polang
+	done
+}

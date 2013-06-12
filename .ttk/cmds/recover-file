@@ -1,0 +1,25 @@
+#!/bin/bash
+
+function usage() {
+	echo "Usage: recover-lang [file(s)]"
+	echo " where 'file' includes the language i.e. cy/somefile.lang"
+	exit
+}
+
+function recover-file() {
+	files=$*
+	[ $# -lt 1 ] && usage
+	log_info "Recovering files: $files"
+	for file in $files
+	do
+		lang=$(echo $file | cut -d"/" -f1)
+		file=$(echo $file | cut -d"/" -f2-)
+		mozlang=$(get_language_upstream $lang)
+		polang=$(get_language_pootle $lang)
+		(cd $TARGET_DIR/$mozlang
+		svn revert $file
+		moz2po --progress=$progress $file $PO_DIR/$polang/${file}.po)
+		clean_po $PO_DIR/$polang
+		revert_unchanged_po_git $PO_DIR $polang
+	done
+}
