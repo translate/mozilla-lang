@@ -4,56 +4,57 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-29 10:37-0700\n"
-"PO-Revision-Date: 2013-03-08 07:19-0700\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2013-06-18 10:18+0000\n"
+"Last-Translator: Sohaib Ikram <sohaib_uet@yahoo.com>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: ur\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-POOTLE-MTIME: 1371550704.000000\n"
 
 #: plugincheck.lang:1
 msgctxt "./plugincheck.lang:1"
 msgid "Plugin Check"
-msgstr ""
+msgstr "پلگ ان چیک"
 
 #: plugincheck.lang:5
 msgctxt "./plugincheck.lang:5"
 msgid "Plugin Check"
-msgstr ""
+msgstr "پلگ ان چیک"
 
 #: plugincheck.lang:9
 msgid "Plugin details"
-msgstr ""
+msgstr "پلگ ان تفاصیل"
 
 #: plugincheck.lang:13
 msgid "State"
-msgstr ""
+msgstr "حالت"
 
 #: plugincheck.lang:17
 msgid "Action"
-msgstr ""
+msgstr "عمل"
 
 #: plugincheck.lang:21
 msgid "Checking with Mozilla on the status of your plugins"
-msgstr ""
+msgstr "آپ کے پلگ ان کی حالت Mozilla کے ساتھ چیک کر رہا ہے"
 
 #: plugincheck.lang:25
 msgid "Loading Data"
-msgstr ""
+msgstr "کوائف لوڈ کر رہا ہے"
 
 #: plugincheck.lang:29
 msgid "View All Your Plugins"
-msgstr ""
+msgstr "اپنے تمام پلگ ان دیکھیں"
 
 #: plugincheck.lang:33
 msgid "Disable Now"
-msgstr ""
+msgstr "اسی وقت نااہل بنائیں"
 
 #: plugincheck.lang:37
 msgid "Vulnerable No Fix"
-msgstr ""
+msgstr "زد پزیر کوئی حل نہیں"
 
 #: plugincheck.lang:41
 msgctxt "./plugincheck.lang:41"
@@ -62,52 +63,52 @@ msgstr "ابھی اپڈیٹ کریں"
 
 #: plugincheck.lang:45
 msgid "Vulnerable"
-msgstr ""
+msgstr "زد پزیر"
 
 #: plugincheck.lang:49
 msgctxt "./plugincheck.lang:49"
 msgid "Update"
-msgstr ""
+msgstr "تازہ کاری"
 
 #: plugincheck.lang:53
 msgid "Outdated Version"
-msgstr ""
+msgstr "پرانا ورژن"
 
 #: plugincheck.lang:57
 msgid "Up to Date"
-msgstr ""
+msgstr "تازہ ترین"
 
 #: plugincheck.lang:61
 msgid "Research"
-msgstr ""
+msgstr "تحقیق"
 
 #: plugincheck.lang:65
 msgid "Unknown plugin"
-msgstr ""
+msgstr "نامعلوم پلگ ان"
 
 #: plugincheck.lang:69
 msgid "Out of date plugins:"
-msgstr ""
+msgstr "متروک پلگ ان:"
 
 #: plugincheck.lang:73
 msgid "Vulnerable plugins:"
-msgstr ""
+msgstr "زد پزیر پلگ ان:"
 
 #: plugincheck.lang:77
 msgid "Potentially vulnerable plugins:"
-msgstr ""
+msgstr "امکاناً زد پزیر پلگ ان:"
 
 #: plugincheck.lang:81
 msgid "The plugins listed below are up to date"
-msgstr ""
+msgstr "درج ذیل پلگ ان تازہ ترین ہیں۔"
 
 #: plugincheck.lang:85
 msgid "No plugins were detected"
-msgstr ""
+msgstr "کسی پلگ ان کا پتہ نہیں چلا۔"
 
 #: plugincheck.lang:89
 msgid "current version plugin"
-msgstr ""
+msgstr "پلگ ان حالیہ ورژن"
 
 #: plugincheck.lang:93
 msgctxt "./plugincheck.lang:93"
@@ -116,16 +117,16 @@ msgstr "ابھی اپڈیٹ کریں"
 
 #: plugincheck.lang:97
 msgid "Potentially Vulnerable"
-msgstr ""
+msgstr "امکانی طور پر غیرمحفوظ"
 
 #: plugincheck.lang:101
 msgctxt "./plugincheck.lang:101"
 msgid "Update"
-msgstr ""
+msgstr "تازہ کاری کریں"
 
 #: plugincheck.lang:105
 msgid "Potentially Outdated Version"
-msgstr ""
+msgstr "ممکنہ طور پر پرانا ورژن"
 
 #: plugincheck.lang:109
 msgid ""
@@ -136,64 +137,84 @@ msgid ""
 "class='vulner-url'>plugin vendor's vulnerability information</a>.</p><p><a "
 "class='qtip-closer'>Close</a></p>"
 msgstr ""
+"<p>یہ پلگ ان ایک سلامتی کی زدپذیری کا حامل ہے جس کا فائدہ ویب سائٹیں اٹھا "
+"سکتی ہیں اور ممکنہ طور پر آپ کے کمپیوٹر کو نقصان پہنچا سکتی ہیں۔ تجویز دی "
+"جاتی ہے کہ آپ اس پلگ ان کی تازہ کاری کریں اور اگر کوئی تازہ کاری دستیاب نہیں "
+"ہے تو <a href='#howto-disable'>اسے نااہل بنائیں</a>.</p><p> مزید معلومات کے "
+"لیے، <a href='#' class='vulner-url'>پلگ ان فروخت کنندہ کی زدپذیری کی "
+"معلومات</a>.</p><p><a class='qtip-closer'>Close</a></p> کا مطالعہ کریں۔"
 
 #: plugincheck.lang:113
 msgid "(more info)"
-msgstr ""
+msgstr "(مزید معلومات)"
 
 #: plugincheck.lang:117
 msgid "Check Your <span>Plugins</span>"
-msgstr ""
+msgstr "اپنے <span>پلگ ان</span> چیک کریں"
 
 #: plugincheck.lang:121
 msgid ""
 "Keeping your third-party plugins up to date helps Firefox run safely and "
 "smoothly."
 msgstr ""
+"سہ فریقی پلگ ان تازہ رکھنے سے Firefox کو محفوظ اور ہموار طریقے سے چلنے میں "
+"مدد ملتی ہے۔"
 
 #: plugincheck.lang:125
 msgid "Missing <span>FLASH?</span>"
-msgstr ""
+msgstr "<span>FLASH</span> نہیں ہے؟"
 
 #: plugincheck.lang:129
 msgid ""
 "For your safety, Firefox has disabled your outdated version of Flash. Please "
 "<a href=\"%(url)s\" >upgrade to the latest version.</a>"
 msgstr ""
+"آپ کی حفاظت کے لیے، Firefox نے آپ کی Flash کا پرانا ورژن نااہل بنا دیا ہے۔ "
+"<a href=\"%(url)s\" >نئی ورژن پر اپ گریڈ کریں۔</a>"
 
 #: plugincheck.lang:133
 msgid ""
 "<strong>Warning, a newer version of your browser is available.</strong> "
 "Please upgrade your browser."
 msgstr ""
+"<strong>تنبیہ، آپ کے براؤزر کا ایک نیا ورژن دستیاب ہے۔</strong> اپنا براؤزر "
+"اپ گریڈ کریں۔"
 
 #: plugincheck.lang:137
 msgid ""
 "This page works best with the latest browsers: Firefox 3.6+, Opera 10.5+, "
 "Safari 4+, Chrome 4+, or IE 8+"
 msgstr ""
+"یہ صفحہ تازہ ترین براؤزرز کے ساتھ بہترین کام کرتا ہے: فائر فاکس 3.6+، اوپرا "
+"10.5+، سفاری 4+، یا آئی ای 8+"
 
 #: plugincheck.lang:141
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
 msgstr ""
+"پلگ ان پڑتال <strong>انٹرنیٹ ایکسپلورر کی معاونت محدود ہے</strong>۔ آلات بھی "
+"استعمال کریں &gt؛ اضافہ جات کی تنظیم کریں۔"
 
 #: plugincheck.lang:145
 msgid ""
 "<strong><em>Step 1:</em></strong> Click <strong>Update</strong> to update a "
 "plugin."
 msgstr ""
+"<strong><em>مرحلہ 1:</em></strong> پلگ ان کی تازہ کاری کے لیے <strong>تازہ "
+"کاری کریں</strong> کلک کریں۔"
 
 #: plugincheck.lang:149
 msgid ""
 "<strong><em>Step 2:</em></strong> <strong>Complete all recommended updates</"
 "strong> <em>before</em> restarting your browser."
 msgstr ""
+"</em></strong> مرحلہ 2:<strong><em> اپنے براؤزر کو دوبارہ شروع کرنے سے</"
+"em>پہلے<em> </strong>تمام تجویز کردہ تازہ کاریاں مکمل کریں<strong>۔"
 
 #: plugincheck.lang:153
 msgid "Note"
-msgstr ""
+msgstr "نوٹ"
 
 #: plugincheck.lang:157
 msgid ""
@@ -202,111 +223,127 @@ msgid ""
 "of <strong>JavaScript</strong>. Please enable this Content Preference and "
 "reload the page."
 msgstr ""
+"<strong>آپ کا جاوا سکرپٹ نااہل شدہ ہے</strong> یا آپ جاوا سکرپٹ کے بغیر کوئی "
+"براؤزر استعمال کر رہے ہیں۔ پلگ ان پڑتال کا یہ صفحہ <strong>جاواسکرپٹ</"
+"strong> کی زبردست طاقت کے بغیر کام نہیں کرتا۔ براہ مہربانی اس مواد ترجیح کو "
+"اہل بنائیں اور صفحہ دوبارہ لوڈ کریں۔"
 
 #: plugincheck.lang:161
 msgid ""
 "Or disable all your plugins and keep JavaScript disabled... you'd be in good "
 "company, that's how <a  >RMS rolls</a>."
 msgstr ""
+"یا تمام پلگ ان نااہل بنائیں اور جاوا سکرپٹ کو نااہل رکھیں۔۔۔ آپ اچھی صحبت "
+"میں ہوں گے، اس طرح <a >آر ایم ایس پیش قدمی کرتا ہے</a>"
 
 #: plugincheck.lang:165
 msgid "Plugin Finding Service Error"
-msgstr ""
+msgstr "پلگ ان کی تلاش کی خدمت کا نقص"
 
 #: plugincheck.lang:169
 msgid "We've encountered an error. Please try your request again later."
 msgstr ""
+"ہمیں ایک نقص درپیش ہے۔ براہ مہربانی اپنی درخواست کے لیے بعد میں دوبارہ کوشش "
+"کریں۔"
 
 #: plugincheck.lang:173
 msgid "Retry"
-msgstr ""
+msgstr "دوبارہ کوشش کریں"
 
 #: plugincheck.lang:177
 msgctxt "./plugincheck.lang:177"
 msgid "What is a plugin?"
-msgstr ""
+msgstr "پلگ ان کیا ہوتا ہے؟"
 
 #: plugincheck.lang:181
 msgctxt "./plugincheck.lang:181"
 msgid "Why should I update my plugins?"
-msgstr ""
+msgstr "مجھے اپنے پلگ ان کی تازہ کاری کیون کرنی چاہیے؟"
 
 #: plugincheck.lang:185
 msgctxt "./plugincheck.lang:185"
 msgid "How can Firefox help me?"
-msgstr ""
+msgstr "فائر فاکس کس طرح میری مدد کر سکتا ہے؟"
 
 #: plugincheck.lang:189
 msgctxt "./plugincheck.lang:189"
 msgid "Which plugins do I have?"
-msgstr ""
+msgstr "میرے پاس کون سے پلگ ان موجود ہیں؟"
 
 #: plugincheck.lang:193
 msgctxt "./plugincheck.lang:193"
 msgid "How do I disable a plugin?"
-msgstr ""
+msgstr "میں پلگ ان نا اہل کیسے کروں؟"
 
 #: plugincheck.lang:197
 msgid "Need Help?"
-msgstr ""
+msgstr "مدد کی ضرورت ہے؟"
 
 #: plugincheck.lang:201
 msgid "Visit support.mozilla.org"
-msgstr ""
+msgstr "support.mozilla.org پر آئیں"
 
 #: plugincheck.lang:205
 msgid "Read support articles about plugins"
-msgstr ""
+msgstr "پلگ ان کے بارے میں معاونت آرٹکل پڑھیں"
 
 #: plugincheck.lang:209
 msgid "Frequently asked <span>Questions</span>"
-msgstr ""
+msgstr "معتدبہ پوچھے گئے <span>سوالات</span>"
 
 #: plugincheck.lang:213
 msgctxt "./plugincheck.lang:213"
 msgid "What is a plugin?"
-msgstr ""
+msgstr "پلگ ان کیا ہوتا ہے؟"
 
 #: plugincheck.lang:217
 msgid "Plugins power <strong>videos, animation and games</strong>."
-msgstr ""
+msgstr "پلگ ان <strong>وڈیو، حرکت اندازی اور گیموں</strong> کو چلاتے ہیں۔"
 
 #: plugincheck.lang:221
 msgid ""
 "They're built <strong>outside of Firefox by companies</strong> like <a href="
 "\"%(adobe)s\">Adobe Systems</a> and <a href=\"%(apple)s\" >Apple</a>."
 msgstr ""
+"انہیں <strong>فائر فاکس سے بیرونی کمپنیاں</strong> تعمیر کرتی ہیں جیسے <a "
+"href=\"%(adobe)s\">ایڈوب سسٹمز</a> اور <a href=\"%(apple)s\" >ایپل</a>۔"
 
 #: plugincheck.lang:225
 msgid "Plugins <strong>don't always update</strong> automatically."
-msgstr ""
+msgstr "پلگ ان <strong>ہمیشہ خود بخود نہیں تازہ</strong> ہوتے۔"
 
 #: plugincheck.lang:229
 msgctxt "./plugincheck.lang:229"
 msgid "Why should I update my plugins?"
-msgstr ""
+msgstr "میں اپنے پلگ ان کیوں تازہ کروں؟"
 
 #: plugincheck.lang:233
 msgid ""
 "Old plugins can interrupt browsing and <strong>waste your time</strong>."
 msgstr ""
+"پرانے پلگ ان آپ کی براؤزنگ میں مداخلت کر کے <strong>آپ کا وقت ضائع</strong> "
+"کر سکے ہیں۔"
 
 #: plugincheck.lang:237
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
 msgstr ""
+"پرانے پلگ ان مشکوک پروگرام، وائرس اور دیگر سلامتی کے خطرات کے حملوں کے لیے "
+"<strong>آپ کے خطرہ میں اضافہ کرتے ہیں</strong>۔"
 
 #: plugincheck.lang:241
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
 msgstr ""
+"<strong>تازہ ترین پلگ ان بہتریوں کے حامل ہیں</strong> جو ویب کو آپ کے لیے "
+"<strong>بہتر اور محفوظ تر</strong> بناتی ہیں۔"
 
 #: plugincheck.lang:245
 msgctxt "./plugincheck.lang:245"
 msgid "How can Firefox help me?"
-msgstr ""
+msgstr "Firefox میری مدد کیسے کر سکتا ہے؟"
 
 #: plugincheck.lang:249
 msgid ""
@@ -314,46 +351,51 @@ msgid ""
 "<strong>regularly check this page</strong> and update your plugins to stay "
 "safe."
 msgstr ""
+"مستقبل میں، فائر فاکس آپ کے لیے پلگ ان کی تازہ کاری کرے گا۔ تب تک آپ کو "
+"<strong> باقاعدگی سے یہ صفحہ ملاحظہ کرنا چاہیے</strong> اور محفوظ رہنے کے "
+"لیے اپنے پلگ ان کی تازہ کاری کرنی چاہیے۔"
 
 #: plugincheck.lang:253
 msgctxt "./plugincheck.lang:253"
 msgid "Which plugins do I have?"
-msgstr ""
+msgstr "میرے پاس کون سے پلگ ان ہیں؟"
 
 #: plugincheck.lang:257
 msgid ""
 "We automatically detected your plugins above, to <strong>view your installed "
 "plugins in Firefox</strong> follow these steps:"
 msgstr ""
+"ہم نے اوپر خودبخود آپ کے پلگ ان کا کھوج لگا لیا ہے، <strong>فائر فاکس میں "
+"اپنے نصب شدہ پلگ ان دیکھنے کے لیے</strong> ان مراحل کی پیروی کریں:"
 
 #: plugincheck.lang:261
 msgid "Open the <kbd>Tools</kbd> menu."
-msgstr ""
+msgstr "<kbd>ٹول</kbd> مینیو کھولیں"
 
 #: plugincheck.lang:265
 msgid "Choose <kbd>Add-ons</kbd>."
-msgstr ""
+msgstr "<kbd>ایڈ اون</kbd> منتخب کریں۔"
 
 #: plugincheck.lang:269
 msgid "Click the <kbd>plugins</kbd> tab."
-msgstr ""
+msgstr "<kbd>پلگ ان</kbd> ٹیب پر کلک کریں۔"
 
 #: plugincheck.lang:273
 msgctxt "./plugincheck.lang:273"
 msgid "How do I disable a plugin?"
-msgstr ""
+msgstr "میں پلگ ان نا اہل کیسے کروں؟"
 
 #: plugincheck.lang:277
 msgid "In Firefox:"
-msgstr ""
+msgstr "Firefox میں:"
 
 #: plugincheck.lang:281
 msgid "Click on a plugin in the list."
-msgstr ""
+msgstr "فہرست میں کسی پلگ ان پر کلک کریں۔"
 
 #: plugincheck.lang:285
 msgid "Click the <kbd>Disable</kbd> button."
-msgstr ""
+msgstr "<kbd>نا اہل بنائیں</kbd> بٹن کلک کریں"
 
 #: plugincheck.lang:289
 msgid ""
@@ -361,10 +403,13 @@ msgid ""
 "longer be able to do</strong> certain things. For example, if you disable "
 "Flash, you will not be able to watch videos on popular video streaming sites."
 msgstr ""
+"<strong>تنبیہ:</strong> کسی پلگ ان کو نااہل بنانے کا مطلب ہے کہ آپ چند کام "
+"<strong>آئندہ نہیں کر سکیں گے</strong>۔ مثلا، اگر آپ فلیش کو نااہل بناتے ہیں "
+"تو آپ ویڈیو بہاؤ کی معروف ویب سائٹوں پر ویڈیو نہیں دیکھ سکیں گے۔"
 
 #: plugincheck.lang:293
 msgid "Have more <span>questions?</span>"
-msgstr ""
+msgstr "اور <span>سوالات؟</span>"
 
 #: plugincheck.lang:297
 msgid ""
@@ -372,6 +417,9 @@ msgid ""
 "\">learn about plugins</a> or <a href=\"%(url3)s\">troubleshoot plugin "
 "problems</a>."
 msgstr ""
+"<a href=\"%(url2)s\">ہماری معاون ویب سائٹ</a><a href=\"%(url1)s\">پلگ ان کے "
+"بارے میں جاننے</a> یا <a href=\"%(url3)s\">پلگ ان مسائل حل کرنے</a> میں آپ "
+"کی مدد کر سکتی ہے۔"
 
 #~ msgctxt "mozilla.com-source/plugincheck.lang:93"
 #~ msgid "Update Now"
