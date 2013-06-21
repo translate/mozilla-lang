@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-29 10:37-0700\n"
+"POT-Creation-Date: 2013-06-21 19:27+0100\n"
 "PO-Revision-Date: 2013-03-08 19:24+0000\n"
 "Last-Translator: Dwayne Bailey <dwayne@translate.org.za>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,47 +20,81 @@ msgstr "हमें मोज़िला वेबसाइटों का �
 
 #: templates/mozorg/emails/webdev.txt:3
 msgid ""
-"Start by joining us in #webdev on IRC. http://mzl.la/irc_getting_started "
-"will help you get connected, and http://mzl.la/webdev_irc lists some WebDev "
-"channels."
+"If you're interested in learning more about web development and how the web "
+"works, you may be interested in our Webmaker project:"
 msgstr ""
-"प्रारंभ करे हमसे जुडकर #webdev में IRC पर http://mzl.la/irc_getting_started आपकि "
-"मदद करेगा कनेक्ट करने मे और http://mzl.la/webdev_irc सूची कुछ वेबदेव चैनल."
 
 #: templates/mozorg/emails/webdev.txt:5
-msgid ""
-"Next register an account on Bugzilla. Bugzilla can be daunting, so check out "
-"http://mzl.la/bugzilla_for_humans (15m video HIGHLY recommended)."
-msgstr ""
-"अगला खाता पंजीकृत करें Bugzilla पर. Bugzilla चुनौतीपूर्ण हो सकता है, जाँचें http://mzl."
-"la/bugzilla_for_humans."
+#, fuzzy
+msgid "https://webmaker.org/"
+msgstr "https://webmaker.org"
 
 #: templates/mozorg/emails/webdev.txt:7
 msgid ""
-"Now look for a WebDev mentored bug in https://wiki.mozilla.org/Webdev/"
-"GetInvolved and contact the mentor - over IRC, email, or comment on the bug."
+"If you're ready to find a web development project to get started on, take a "
+"look at our page at:"
 msgstr ""
-"देखें WebDev सलाहकार दोष https://wiki.mozilla.org/Webdev/GetInvolved मे संपर्क करें "
-"सलाहकार से-इंटरनेट रिले चैट,ईमेल पर, या दोष पर टिप्पणी करें."
 
 #: templates/mozorg/emails/webdev.txt:9
-msgid ""
-"Finally, with your mentor, fork the github repository for the bug's website "
-"and you're ready to start coding."
+msgid "https://wiki.mozilla.org/Webdev/GetInvolved"
 msgstr ""
-"अंततः अपने सलाहकार के साथ, गिटहब फोर्क करे दोषी वेबसाइट के लिये और आप तैयार है कोडिन्ग "
-"प्रारंभ करने के लिये."
 
 #: templates/mozorg/emails/webdev.txt:11
+msgid ""
+"If you are interested in HTML, CSS, and JavaScript, we could also use your "
+"help building our new Firefox OS.  Find out more about how to help with that:"
+msgstr ""
+
+#: templates/mozorg/emails/webdev.txt:13
+msgid "https://wiki.mozilla.org/Gaia/Hacking"
+msgstr ""
+
+#: templates/mozorg/emails/webdev.txt:15
+msgid ""
+"If none of that interests you, check out http://whatcanidoformozilla.org/ to "
+"see other ways you can help!"
+msgstr ""
+
+#: templates/mozorg/emails/webdev.txt:17
 msgid ""
 "This is a lot of information, so let me know if you have any questions as "
 "you get started."
 msgstr "यह बहुत जानकारी है, अतः मुझे बताये आपके पास कोइ प्रश्न है प्रारंभ करने वक्त."
 
-#: templates/mozorg/emails/webdev.txt:13
+#: templates/mozorg/emails/webdev.txt:19
 msgid ""
 "Regards,\n"
 "Luke"
 msgstr ""
 "सादर,\n"
 "ल्यूक"
+
+#~ msgid ""
+#~ "Start by joining us in #webdev on IRC. http://mzl.la/irc_getting_started "
+#~ "will help you get connected, and http://mzl.la/webdev_irc lists some "
+#~ "WebDev channels."
+#~ msgstr ""
+#~ "प्रारंभ करे हमसे जुडकर #webdev में IRC पर http://mzl.la/irc_getting_started आपकि "
+#~ "मदद करेगा कनेक्ट करने मे और http://mzl.la/webdev_irc सूची कुछ वेबदेव चैनल."
+
+#~ msgid ""
+#~ "Next register an account on Bugzilla. Bugzilla can be daunting, so check "
+#~ "out http://mzl.la/bugzilla_for_humans (15m video HIGHLY recommended)."
+#~ msgstr ""
+#~ "अगला खाता पंजीकृत करें Bugzilla पर. Bugzilla चुनौतीपूर्ण हो सकता है, जाँचें http://"
+#~ "mzl.la/bugzilla_for_humans."
+
+#~ msgid ""
+#~ "Now look for a WebDev mentored bug in https://wiki.mozilla.org/Webdev/"
+#~ "GetInvolved and contact the mentor - over IRC, email, or comment on the "
+#~ "bug."
+#~ msgstr ""
+#~ "देखें WebDev सलाहकार दोष https://wiki.mozilla.org/Webdev/GetInvolved मे संपर्क "
+#~ "करें सलाहकार से-इंटरनेट रिले चैट,ईमेल पर, या दोष पर टिप्पणी करें."
+
+#~ msgid ""
+#~ "Finally, with your mentor, fork the github repository for the bug's "
+#~ "website and you're ready to start coding."
+#~ msgstr ""
+#~ "अंततः अपने सलाहकार के साथ, गिटहब फोर्क करे दोषी वेबसाइट के लिये और आप तैयार है "
+#~ "कोडिन्ग प्रारंभ करने के लिये."
