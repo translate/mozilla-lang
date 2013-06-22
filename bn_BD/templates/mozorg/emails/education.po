@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-29 10:37-0700\n"
+"POT-Creation-Date: 2013-06-21 19:27+0100\n"
 "PO-Revision-Date: 2013-02-15 06:28+0000\n"
 "Last-Translator: rakeen <rakeen09@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,74 +16,165 @@ msgstr ""
 
 #: templates/mozorg/emails/education.txt:1
 msgid ""
-"Thank you for your interest in contributing to our efforts to build a "
-"generation of webmakers."
+"Thanks for your interest in education and Mozilla's web literacy initiative, "
+"Webmaker."
 msgstr ""
-"ওয়েবমার্কে নতুন প্রজন্ম তৈরি করার আমাদের প্রচেষ্টায় অবদান রাখার আগ্রহের জন্য আপনাকে "
-"ধন্যবাদ।"
 
 #: templates/mozorg/emails/education.txt:3
-msgid ""
-"We know that people learn best when they're making something together. So "
-"we're inviting people everywhere to meet up, make something cool, learn how "
-"the code behind the Web works -- and have a blast while doing it."
+msgid "Here are a few resources to help you get started."
 msgstr ""
-"আমরা জানি মানুষ সবচেয়ে ভাল শেখে যখন তারা একসঙ্গে কোনো কিছু করে। তাই আমরা মানুষকে "
-"দেখা করার জন্য সর্বত্র আমন্ত্রণ জানাচ্ছি, আকর্ষনীয় কিছু তৈরি করতে, কীভাবে ওয়েবের "
-"পিছনে কোড কাজ করে-এটা শেখার জন্য-- এবং এটা করার সময় খুব মজা করার জন্য।"
 
 #: templates/mozorg/emails/education.txt:5
-msgid "We've got all the tools and tips you need to get started at:"
-msgstr "শুরু করতে আপনার যা প্রয়োজন এমন টুল এবং পরামর্শ আমরা পেয়েছি:"
+msgid "# Make Something With the Web"
+msgstr ""
 
 #: templates/mozorg/emails/education.txt:7
-msgid "https://webmaker.org"
-msgstr "https://webmaker.org"
+msgid ""
+"We believe making something helps you learn better. Try our open suite of "
+"tools to create, animate and remix web content:"
+msgstr ""
 
 #: templates/mozorg/emails/education.txt:9
-msgid ""
-"These events are quick, easy, and fun -- in as little as 30 minutes, you can "
-"have a handful of friends around your kitchen table, easily hack a webpage "
-"or make something new with our tools, and have something awesome to brag "
-"about."
+msgid "http://webmaker.org/tools"
 msgstr ""
-"এই ঘটনাগুলি দ্রুত, সহজ, এবং মজাদার -- সংক্ষিপ্তাকারে ৩০ মিনিটের মধ্যে, আপনার "
-"রান্নাঘরের টেবিল কাছাকাছি একদল বন্ধুদের পাবেন, সহজেই আপনি একটি ওয়েবপেজ হ্যাক "
-"করতে পারবেন অথবা আমাদের উপকরণগুলো দিয়ে নতুন কিছু একটি তৈরি করতে পারবেন, এবং "
-"অসাধারন কিছু বিষয় নিয়ে গর্ব করতে পারবেন।"
 
 #: templates/mozorg/emails/education.txt:11
-msgid ""
-"If you don't want to host an event and would rather contribute your time "
-"building our tools, here are some links to issue trackers -- please dive "
-"right in!"
+msgid "# Webmaker Mentors"
 msgstr ""
-"যদি আপনি একটি ইভেন্ট হোস্ট করতে না চান এবং আমাদের টুলে আপনার সময়ের অবদান রাখতে "
-"চান, এখানে কিছু লিঙ্ক রয়েছে ট্র্যাকার ইস্যুর জন্য -- ভেতরে প্রবেশ করুন!"
 
 #: templates/mozorg/emails/education.txt:13
-msgid "Thimble: https://github.com/mozilla/webpagemaker/issues"
-msgstr "Thimble: https://github.com/mozilla/webpagemaker/issues"
+msgid ""
+"We're a global community of techies, educators, makers and passionate people "
+"like you. We help learners make amazing things on the web and level up their "
+"digital skills as they go."
+msgstr ""
 
 #: templates/mozorg/emails/education.txt:15
 msgid ""
-"Popcorn Maker & Popcorn.js: https://webmademovies.lighthouseapp.com/dashboard"
+"Webmaker Mentors support learners anywhere - in our homes, offices, "
+"neighborhoods and online."
 msgstr ""
-"পপকর্নের প্রস্তুতকারক এবং পপকর্ন।js: https://webmademovies.lighthouseapp.com/"
-"dashboard"
 
 #: templates/mozorg/emails/education.txt:17
-msgid "Open Badges: https://github.com/mozilla/openbadges/issues"
-msgstr "Open Badges: https://github.com/mozilla/openbadges/issues"
+msgid ""
+"Our non-profit mission: Build a more web literate world. One webmaker at a "
+"time."
+msgstr ""
 
 #: templates/mozorg/emails/education.txt:19
-msgid "X-Ray Goggles: https://github.com/toolness/webxray/issues"
-msgstr "X-Ray Goggles: https://github.com/toolness/webxray/issues"
+msgid "Sign up to receive updates about Webmaker Mentors:"
+msgstr ""
 
 #: templates/mozorg/emails/education.txt:21
-msgid ""
-"Thanks so much for getting involved. If you have any questions, feel free to "
-"write us at joinmozilla@mozilla.org"
+msgctxt "templates/mozorg/emails/education.txt:21"
+msgid "https://webmaker.org/teach/"
 msgstr ""
-"জড়িত থাকার জন্য অনেক ধন্যবাদ। আপনার যদি কোন প্রশ্ন থাকে, আমাদের লিখুন নির্দ্বিধায় "
-"joinmozilla@mozilla.org তে"
+
+#: templates/mozorg/emails/education.txt:23
+msgid "# Webmaker Teaching Resources"
+msgstr ""
+
+#: templates/mozorg/emails/education.txt:25
+msgid ""
+"If you are interested in teaching web skills, check out these free, hackable "
+"resources:"
+msgstr ""
+
+#: templates/mozorg/emails/education.txt:27
+#, fuzzy
+msgid "https://webmaker.org/kits/"
+msgstr "https://webmaker.org"
+
+#: templates/mozorg/emails/education.txt:29
+msgid "# More Ways to Connect"
+msgstr ""
+
+#: templates/mozorg/emails/education.txt:31
+msgid "Here are other ways to connect with us:"
+msgstr ""
+
+#: templates/mozorg/emails/education.txt:33
+msgid "https://webmaker.org/connect"
+msgstr ""
+
+#: templates/mozorg/emails/education.txt:35
+msgid ""
+"And let us know if you need any help or have ideas on how to improve these "
+"efforts!"
+msgstr ""
+
+#: templates/mozorg/emails/education.txt:37
+msgid "# Sign Up"
+msgstr ""
+
+#: templates/mozorg/emails/education.txt:39
+msgid ""
+"Don't forget to sign up here to receive more updates and ways to get "
+"involved:"
+msgstr ""
+
+#: templates/mozorg/emails/education.txt:41
+msgctxt "templates/mozorg/emails/education.txt:41"
+msgid "https://webmaker.org/teach/"
+msgstr ""
+
+#~ msgid ""
+#~ "Thank you for your interest in contributing to our efforts to build a "
+#~ "generation of webmakers."
+#~ msgstr ""
+#~ "ওয়েবমার্কে নতুন প্রজন্ম তৈরি করার আমাদের প্রচেষ্টায় অবদান রাখার আগ্রহের জন্য "
+#~ "আপনাকে ধন্যবাদ।"
+
+#~ msgid ""
+#~ "We know that people learn best when they're making something together. So "
+#~ "we're inviting people everywhere to meet up, make something cool, learn "
+#~ "how the code behind the Web works -- and have a blast while doing it."
+#~ msgstr ""
+#~ "আমরা জানি মানুষ সবচেয়ে ভাল শেখে যখন তারা একসঙ্গে কোনো কিছু করে। তাই আমরা "
+#~ "মানুষকে দেখা করার জন্য সর্বত্র আমন্ত্রণ জানাচ্ছি, আকর্ষনীয় কিছু তৈরি করতে, কীভাবে "
+#~ "ওয়েবের পিছনে কোড কাজ করে-এটা শেখার জন্য-- এবং এটা করার সময় খুব মজা করার জন্য।"
+
+#~ msgid "We've got all the tools and tips you need to get started at:"
+#~ msgstr "শুরু করতে আপনার যা প্রয়োজন এমন টুল এবং পরামর্শ আমরা পেয়েছি:"
+
+#~ msgid ""
+#~ "These events are quick, easy, and fun -- in as little as 30 minutes, you "
+#~ "can have a handful of friends around your kitchen table, easily hack a "
+#~ "webpage or make something new with our tools, and have something awesome "
+#~ "to brag about."
+#~ msgstr ""
+#~ "এই ঘটনাগুলি দ্রুত, সহজ, এবং মজাদার -- সংক্ষিপ্তাকারে ৩০ মিনিটের মধ্যে, আপনার "
+#~ "রান্নাঘরের টেবিল কাছাকাছি একদল বন্ধুদের পাবেন, সহজেই আপনি একটি ওয়েবপেজ হ্যাক "
+#~ "করতে পারবেন অথবা আমাদের উপকরণগুলো দিয়ে নতুন কিছু একটি তৈরি করতে পারবেন, এবং "
+#~ "অসাধারন কিছু বিষয় নিয়ে গর্ব করতে পারবেন।"
+
+#~ msgid ""
+#~ "If you don't want to host an event and would rather contribute your time "
+#~ "building our tools, here are some links to issue trackers -- please dive "
+#~ "right in!"
+#~ msgstr ""
+#~ "যদি আপনি একটি ইভেন্ট হোস্ট করতে না চান এবং আমাদের টুলে আপনার সময়ের অবদান "
+#~ "রাখতে চান, এখানে কিছু লিঙ্ক রয়েছে ট্র্যাকার ইস্যুর জন্য -- ভেতরে প্রবেশ করুন!"
+
+#~ msgid "Thimble: https://github.com/mozilla/webpagemaker/issues"
+#~ msgstr "Thimble: https://github.com/mozilla/webpagemaker/issues"
+
+#~ msgid ""
+#~ "Popcorn Maker & Popcorn.js: https://webmademovies.lighthouseapp.com/"
+#~ "dashboard"
+#~ msgstr ""
+#~ "পপকর্নের প্রস্তুতকারক এবং পপকর্ন।js: https://webmademovies.lighthouseapp.com/"
+#~ "dashboard"
+
+#~ msgid "Open Badges: https://github.com/mozilla/openbadges/issues"
+#~ msgstr "Open Badges: https://github.com/mozilla/openbadges/issues"
+
+#~ msgid "X-Ray Goggles: https://github.com/toolness/webxray/issues"
+#~ msgstr "X-Ray Goggles: https://github.com/toolness/webxray/issues"
+
+#~ msgid ""
+#~ "Thanks so much for getting involved. If you have any questions, feel free "
+#~ "to write us at joinmozilla@mozilla.org"
+#~ msgstr ""
+#~ "জড়িত থাকার জন্য অনেক ধন্যবাদ। আপনার যদি কোন প্রশ্ন থাকে, আমাদের লিখুন "
+#~ "নির্দ্বিধায় joinmozilla@mozilla.org তে"
