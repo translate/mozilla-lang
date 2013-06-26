@@ -90,9 +90,10 @@ do
 		svn revert $svnverbosity -R $TARGET_DIR/$mozlang
 		svn up $svnverbosity $TARGET_DIR/$mozlang
 		rm -f $(find $TARGET_DIR/$mozlang -name "*.lang")
-		po2moz --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR $PO_DIR/$polang $TARGET_DIR/$mozlang
+		# FIXME If we don't ouput anything we might want to restore what is there already
+		po2moz --threshold=50 --exclude="templates" --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR $PO_DIR/$polang $TARGET_DIR/$mozlang
 		mkdir -p $TARGET_DIR/$mozlang/templates/mozorg/emails
-		po2txt --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR/templates/mozorg/emails $PO_DIR/$polang/templates/mozorg/emails $TARGET_DIR/$mozlang/templates/mozorg/emails
+		po2txt --threshold=90 --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR/templates/mozorg/emails $PO_DIR/$polang/templates/mozorg/emails $TARGET_DIR/$mozlang/templates/mozorg/emails
 		revert_active_header $mozlang
 		revert_blank_line_only_changes $mozlang
 	fi
