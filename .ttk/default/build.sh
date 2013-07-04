@@ -8,7 +8,7 @@ log_info "Processing languages '$langs'"
 function update_source() {
 	log_info "Updating '$SOURCE_DIR'"
 	if [ ! -d $SOURCE_DIR/.svn ]; then
-		svn co $svnverbosity $MOZREPONAME/projects/mozilla.com/trunk/locales/en-GB $SOURCE_DIR
+		svn co $svnverbosity $MOZREPONAME/projects/mozilla.com/trunk/en-GB $SOURCE_DIR
 	else
 		svn up $svnverbosity $SOURCE_DIR
 	fi
@@ -48,7 +48,7 @@ function revert_blank_line_only_changes() {
 
 log_info "Updating first level of '$TARGET_DIR'"
 if [ ! -d $TARGET_DIR/.svn ]; then
-	svn co $svnverbosity --depth=files $MOZREPONAME/projects/mozilla.com/trunk/locales/ $TARGET_DIR
+	svn co $svnverbosity --depth=files $MOZREPONAME/projects/mozilla.com/trunk/ $TARGET_DIR
 else
 	svn up $svnverbosity --depth=files $TARGET_DIR
 fi
@@ -60,17 +60,16 @@ do
 	if [ "$polang" == "templates" ]; then
 		update_source
 		rm -rf $POT_DIR
-		mkdir -p $POT_DIR/templates/mozorg/emails
+		mkdir -p $POT_DIR/firefox/channel/
 		(cd $SOURCE_DIR 
-		moz2po --errorlevel=$errorlevel --progress=$progress . $POT_DIR
-		txt2po --errorlevel=$errorlevel --progress=$progress templates/mozorg/emails $POT_DIR/templates/mozorg/emails
+		php2po --errorlevel=$errorlevel --progress=$progress firefox/channel/index.html $POT_DIR/firefox/channel/index.po
+		html2po --errorlevel=$errorlevel --progress=$progress firefox/channel/content.inc.html $POT_DIR/firefox/channel/content.inc.po
 		)
 		podebug --errorlevel=$errorlevel --progress=$progress --rewrite=blank $POT_DIR $POT_DIR
 		for po in $(find $POT_DIR -name "*.po")
 		do
 			mv $po ${po}t
 		done
-		rm $POT_DIR/templates/mozorg/emails/*.txt  # Cleanup files that moz2po copied
 		revert_unchanged_po_git $POT_DIR/.. templates
 	else
 		mozlang=$(get_language_upstream $lang)
@@ -91,9 +90,7 @@ do
 		svn up $svnverbosity $TARGET_DIR/$mozlang
 		rm -f $(find $TARGET_DIR/$mozlang -name "*.lang")
 		# FIXME If we don't ouput anything we might want to restore what is there already
-		po2moz --threshold=50 --exclude="templates" --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR $PO_DIR/$polang $TARGET_DIR/$mozlang
-		mkdir -p $TARGET_DIR/$mozlang/templates/mozorg/emails
-		po2txt --threshold=90 --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR/templates/mozorg/emails $PO_DIR/$polang/templates/mozorg/emails $TARGET_DIR/$mozlang/templates/mozorg/emails
+		po2php --threshold=50 --exclude="templates" --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR $PO_DIR/$polang $TARGET_DIR/$mozlang
 		revert_active_header $mozlang
 		revert_blank_line_only_changes $mozlang
 	fi
