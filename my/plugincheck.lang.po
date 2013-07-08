@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-05 12:55+0100\n"
-"PO-Revision-Date: 2013-06-05 18:23+0000\n"
+"PO-Revision-Date: 2013-06-30 12:07+0000\n"
 "Last-Translator: Tin Aung <tinaunglinn.eng91@gmail.com>\n"
 "Language-Team: none\n"
 "Language: my\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1-alpha1\n"
-"X-POOTLE-MTIME: 1370456598.000000\n"
+"X-POOTLE-MTIME: 1372594051.000000\n"
 
 #: plugincheck.lang:1
 msgctxt "./plugincheck.lang:1"
@@ -129,6 +129,7 @@ msgstr "အဆင့်မြှင့်"
 msgid "Potentially Outdated Version"
 msgstr "အဆင့်ဟောင်းလာနိုင်သော ဗားရှင်း"
 
+# Fixed Ko Kaw Zwa Thant's string and summit.
 #: plugincheck.lang:109
 msgid ""
 "<p>This plugin version has a security vulnerability that websites can "
@@ -138,42 +139,53 @@ msgid ""
 "class='vulner-url'>plugin vendor's vulnerability information</a>.</p><p><a "
 "class='qtip-closer'>Close</a></p>"
 msgstr ""
+"<p>ဒီပလပ်အင် ဗားရှင်း အသုံးပြပါက သင့်ကွန်ပျူတာ လုံခြုံရေးကို ကစဉ့်ကလျား ပျက်ဆီးနိုင်သည်။ ဒီဟာကို အဆင့်မြင့် "
+"ရန်သင့် အားအကြံပေးသော်လည်း ယခုအဆင့် မမြင့်နိုင်သေးပါ။ <a href='#howto-disable'>ဒါကိုပိတ်ပါ </"
+"a>.</p><p> ပိုသိသင့်သော အချက်အလက်များ ဖတ်ပါ။ <a href='#' class='vulner-url'> ထုတ်လုပ်သူ၏ "
+"ပျက်ဆီးနိုင်သော အချက်အလက်များမှာ </a>.</p><p><a class='qtip-closer'> ပိတ်ပါ </a></"
+"p>                "
 
 #: plugincheck.lang:113
 msgid "(more info)"
-msgstr ""
+msgstr "(လေ့လာနိုင်သော အချက်အလက်များ)                "
 
 #: plugincheck.lang:117
 msgid "Check Your <span>Plugins</span>"
-msgstr ""
+msgstr "သင်၏ <span>ပလပ်အင်များ</span>စစ်ဆေးပါ"
 
 #: plugincheck.lang:121
 msgid ""
 "Keeping your third-party plugins up to date helps Firefox run safely and "
 "smoothly."
-msgstr ""
+msgstr "မီးမြေခွေး လုံခြုံချောမွေ့စွာ အသုံးပြုနိုင်ရန် ပလပ်အင်များကို အဆင့်မြင့်ပေးပါ။"
 
 #: plugincheck.lang:125
 msgid "Missing <span>FLASH?</span>"
-msgstr ""
+msgstr "<span>Flash</span>ပျောက်နေသလား?"
 
 #: plugincheck.lang:129
 msgid ""
 "For your safety, Firefox has disabled your outdated version of Flash. Please "
 "<a href=\"%(url)s\" >upgrade to the latest version.</a>"
 msgstr ""
+"သင်၏လုံခြုံရေးအတွက် မီးမြေခွေးဟာ ဟောင်းနွမ်းနေသော Flash အားပိတ်ထားသှ်။ ကျေးဇူးပြုပြီး<a href="
+"\"%(url)s\">နောက်ဆုံးဗားရှင်းသို့  အဆင့်မြှင့် တင်ပေးပါ</a>"
 
 #: plugincheck.lang:133
 msgid ""
 "<strong>Warning, a newer version of your browser is available.</strong> "
 "Please upgrade your browser."
 msgstr ""
+"<strong>သတိပေးချက်။ ဘယောက်ဆာ ထုတ်လုပ်မှူ အသစ်တစ်ခုရောက်ပါပြီ။</strong>ကျေးဇူးပြုပြီး "
+"သင်၏ဘယောက်ဆာအား အဆင့်မြှင့်တင်ပါ။"
 
 #: plugincheck.lang:137
 msgid ""
 "This page works best with the latest browsers: Firefox 3.6+, Opera 10.5+, "
 "Safari 4+, Chrome 4+, or IE 8+"
 msgstr ""
+"နောက်ဆုံးထုတ် ဘရောက်ဆာများနှင့်သာ ဤစာမျက်နှာကောင်းစွာပြနိုင်မည် : Firefox 3.6+, Opera 10.5+, "
+"Safari 4+, Chrome 4+, or IE 8+                "
 
 #: plugincheck.lang:141
 msgid ""
