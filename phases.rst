@@ -3,5 +3,6 @@ Phase for Mozilla websites
 The phases are simply based on priority.
 
 1.Critical:	Things that Mozilla has prioritised through their dashboard or bugs
-2.other:	everything else
-3.email:	Emails generated for community participation
+2.Good_to_have: Would be good to have these for your localisation
+3.other:	everything else
+4.email:	Emails generated for community participation
