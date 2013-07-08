@@ -46,6 +46,25 @@ function revert_blank_line_only_changes() {
         sed "s/^Files //;s/\(\.lang[^\/]\).*/\1/")
 }
 
+function handle_new_and_empty_dirs() {
+	# Remove empty dirs and add new ones
+	local mozlang=$1
+	log_info "Precessing new/empty directories in '${TARGET_DIR}/${mozlang}'"
+	for dir in $(svn status $TARGET_DIR/$mozlang/ | egrep "^\?")
+	do
+		if [ ! -d $dir ]; then
+			continue
+		fi
+		if [ $(find $dir -type f -true) ]; then
+			log_error "We found a file, so 'svn add $dir'"
+		else
+			log_error "We found no files, so 'rm -rf $dir'"
+		fi
+	done
+
+
+}
+
 log_info "Updating first level of '$TARGET_DIR'"
 if [ ! -d $TARGET_DIR/.svn ]; then
 	svn co $svnverbosity --depth=files $MOZREPONAME/projects/mozilla.com/trunk/locales/ $TARGET_DIR
@@ -96,5 +115,6 @@ do
 		po2txt --threshold=90 --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR/templates/mozorg/emails $PO_DIR/$polang/templates/mozorg/emails $TARGET_DIR/$mozlang/templates/mozorg/emails
 		revert_active_header $mozlang
 		revert_blank_line_only_changes $mozlang
+		handle_new_and_empty_dirs $mozlang
 	fi
 done
