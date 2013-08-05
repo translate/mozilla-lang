@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-05 12:55+0100\n"
-"PO-Revision-Date: 2013-07-08 16:54+0000\n"
+"PO-Revision-Date: 2013-07-11 15:41+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cy\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
-"X-POOTLE-MTIME: 1373302454.000000\n"
+"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-POOTLE-MTIME: 1373557282.000000\n"
 
 #: mozorg/contribute.lang:1
 msgid "Get Involved: Volunteer Opportunities at Mozilla"
@@ -217,9 +217,9 @@ msgid ""
 msgstr ""
 "Mae profion sicrwydd ansawdd yn un o'r ffyrdd hawsaf i ddechrau arni gyda "
 "Mozilla ac mae'n ffordd wych o ymgyfarwyddo â'n cod a'n offer. Helpwch ni <a "
-"href=\"%(qa_bugs_url)s\">i gasglu gwallau </a> yn Firefox, <a href="
-"\"%(qa_web_url)s\">profi  gwefannau prawf Mozilla</a> neu i ddysgu mwy am <a "
-"href=\"http://quality.mozilla.org/\"> gyfleoedd profi eraill </ a>."
+"href=\"%(qa_bugs_url)s\">i gasglu gwallau</a> yn Firefox, <a href="
+"\"%(qa_web_url)s\">profi gwefannau prawf Mozilla</a> neu i ddysgu mwy am <a "
+"href=\"http://quality.mozilla.org/\">gyfleoedd profi eraill</a>."
 
 #: mozorg/contribute.lang:158
 msgid ""
@@ -229,6 +229,11 @@ msgid ""
 "\"%(test_pilot)s\">analyze Test Pilot data</a>&mdash;we’d love to have you "
 "join us!"
 msgstr ""
+"Byddwch yn rhan o'r tîm ymchwil&mdash;p'un ai ydych am fod yn <a href="
+"\"%(survey_url)s\">gyfranogwr mewn astudiaeth sydd ar y gweill</a>, <a href="
+"\"%(test_email)s\">a cynnal profion defnyddioldeb</a> ar eich pen eich hun "
+"neu <a href=\"%(test_pilot)s\">yn dadansoddi data Peilot Prawf </a>&mdash;"
+"byddwn wrth ein bodd petai chi'n ymuno â ni!"
 
 #: mozorg/contribute.lang:162
 msgid ""
@@ -237,6 +242,10 @@ msgid ""
 "the world about how Mozilla is building a better Internet by <a href="
 "\"%(l10n_web_url)s\">translating content</a> on our web sites."
 msgstr ""
+"Ymunwch â Mozilla trwy ddarparu Firefox, Thunderbird a phrosiectau<a href="
+"\"%(l10n_url)s\">eraill sydd ar gael yn eich iaith</a>. Hefyd yn ein helpu i "
+"ddweud wrth y byd sut mae Mozilla yn adeiladu gwell Rhyngrwyd gan <a href="
+"\"%(l10n_web_url)s\">gyfieithu cynnwys</a> ar ein gwefannau."
 
 #: mozorg/contribute.lang:166
 msgid ""
@@ -245,38 +254,42 @@ msgid ""
 "by writing new content, correcting existing material or translating content "
 "into new languages."
 msgstr ""
+"Mae'r Rhwydwaith Datblygwr Mozilla yn ganolbwynt ar gyfer gwybodaeth am "
+"dechnolegau Mozilla. Helpwch<a href=\"%(dev_url)s\">i wneud ein dogfennau'n "
+"well</a> drwy ysgrifennu cynnwys newydd, cywiro deunydd cyfredol neu "
+"gyfieithu cynnwys i ieithoedd newydd."
 
 #: mozorg/contribute.lang:170
 msgid "Area of interest?"
-msgstr ""
+msgstr "Ardal o ddiddordeb?"
 
 #: mozorg/contribute.lang:174
 msgid "I need help with a Firefox issue"
-msgstr ""
+msgstr "Rwyf Angen cymorth gyda mater yn ymwneud â Firefox"
 
 #: mozorg/contribute.lang:178
 msgid "I have a suggestion for Firefox"
-msgstr ""
+msgstr "Mae gen i awgrym ar gyfer Firefox"
 
 #: mozorg/contribute.lang:182
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: mozorg/contribute.lang:186
 msgid "Education"
-msgstr ""
+msgstr "Addysg"
 
 #: mozorg/contribute.lang:190
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Cysyllteion Firefox"
 
 #: mozorg/contribute.lang:194
 msgid "Developer Documentation"
-msgstr ""
+msgstr "Dogfennau Datblygwyr"
 
 #: mozorg/contribute.lang:198
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: mozorg/contribute.lang:202
 msgid "Thank you for signing up!"
@@ -284,15 +297,15 @@ msgstr "Diolch am ymuno!"
 
 #: mozorg/contribute.lang:206
 msgid "Menu"
-msgstr ""
+msgstr "Dewislen"
 
 #: mozorg/contribute.lang:210
 msgid "Web Development"
-msgstr ""
+msgstr "Datblygiad Gwe"
 
 #: mozorg/contribute.lang:214
 msgid "Visual Design"
-msgstr ""
+msgstr "Cynllunio Gweledol"
 
 #: mozorg/contribute.lang:218
 msgid ""
@@ -311,6 +324,7 @@ msgid ""
 "We are sorry, but there was a problem with our system. Please try again "
 "later!"
 msgstr ""
+"Ymddiheuriadau, ond bu problem gyda'n system. Ceisiwch eto yn nes ymlaen!"
 
 #: mozorg/contribute.lang:230
 msgid "Other"
@@ -318,11 +332,11 @@ msgstr "Arall"
 
 #: mozorg/contribute.lang:234
 msgid "Marketing"
-msgstr ""
+msgstr "Marchnata"
 
 #: mozorg/contribute.lang:238
 msgid "Testing and QA"
-msgstr ""
+msgstr "Profi ac Ansawdd"
 
 #: mozorg/contribute.lang:242
 msgid ""
@@ -331,6 +345,10 @@ msgid ""
 "skills can also be used to <a href=\"%(gaia_url)s\">help us build our new "
 "Firefox OS</a>."
 msgstr ""
+"Mae ein safleoedd gwe ar agor ar gyfer datblygwyr gwe i hacio arnynt. <a "
+"href=\"%(webdev_url)s\">Dod o hyd i brosiect gwefan</a> i ddechrau arno. "
+"Gall eich sgiliau ar y we hefyd gael eu defnyddio i <a href=\"%(gaia_url)s"
+"\">helpu i adeiladu ein Firefox OS newydd</a>."
 
 #: mozorg/contribute.lang:246
 msgid ""
@@ -339,10 +357,14 @@ msgid ""
 "\"%(fx_support_url)s\">how to help Firefox users</a> and <a href="
 "\"%(tb_support_url)s\">how to help Thunderbird users</a>."
 msgstr ""
+"Mae ein proses cymorth yn dibynnu ar gyfranwyr brwdfrydig fel chi i helpu "
+"eraill i gael y gorau allan o gynnyrch Mozilla. Canfod mwy am<a href="
+"\"%(fx_support_url)s\">sut i helpu defnyddwyr Firefox</a> a <a href="
+"\"%(tb_support_url)s\">sut i helpu defnyddwyr Thunderbird</a>."
 
 #: mozorg/contribute.lang:250
 msgid "Documentation and Writing"
-msgstr ""
+msgstr "Dogfennaeth ac Ysgrifennu"
 
 #: mozorg/contribute.lang:254
 msgid ""
@@ -350,6 +372,10 @@ msgid ""
 "designs inspired by Mozilla. Check out the <a href=\"%(creative_url)s"
 "\">Creative team blog</a> for more information about how to take part."
 msgstr ""
+"Rydym am ei gwneud yn bosibl i artistiaid orchuddio'r we a phobl gyda "
+"dyluniadau a ysbrydolwyd gan Mozilla. Edrychwch ar flog tîm <a href="
+"\"%(creative_url)s\">Creadigol </a> am ragor o wybodaeth ar sut i gymryd "
+"rhan."
 
 #: mozorg/contribute.lang:258
 msgid ""
@@ -358,6 +384,10 @@ msgid ""
 "\"%(addons_url)s\">build an add-on</a>. For experienced developers, find out "
 "how to <a href=\"%(addons_wiki)s\">become an AMO editor</a>."
 msgstr ""
+"Mae gan gynhyrch Mozilla system estyniad pwerus sy'n eich galluogi i wneud "
+"newidiadau bach neu ychwanegiadau mawr. Dysgwch ragor am sut i <a href="
+"\"%(addons_url)s\">adeiladu ychwanegyn</a>. Ar gyfer datblygwyr profiadol, "
+"dysgwch sut i <a href=\"%(addons_wiki)s\">ddod yn olygydd AMO</a>."
 
 #: mozorg/contribute.lang:262
 msgid ""
@@ -366,6 +396,10 @@ msgid ""
 "all about</a> or get started teaching others by <a href=\"%(webmaker)s"
 "\">setting up an event in your community today</a>."
 msgstr ""
+"Helpwch greu cenhedlaeth o gwewneuthwyr trwy addysgu pobl eraill sut mae'r "
+"we yn gweithio. <a href=\"%(moz_webmaker)s \">Archwiliwch beth mae prosiect "
+"Webmaker Mozilla yn ei wneud</a> neu gychwyn dysgu eraill trwy <a href="
+"\"%(webmaker)s\">ddarparu ddigwyddiad yn eich cymuned chi heddiw</a>."
 
 #: mozorg/contribute.lang:266
 msgid ""
@@ -374,10 +408,15 @@ msgid ""
 "easier for others. Tell us <a href=\"%(what_url)s\">your favorite "
 "programming language</a> and we'll find the project for you."
 msgstr ""
+"Gall <a href=\"%(dev_intro_url)s\">Datblygwyr helpu</a> Mozilla trwy "
+"ychwanegu nodweddion newydd, gan wneud ein technoleg yn llai ac yn gyflymach "
+"a gwneud datblygiadau'n haws i bobl eraill. Dywedwch wrthym <a href="
+"\"%(what_url)s\">beth yw eich hoff iaith raglennu</a> a byddwn yn dod o hyd "
+"i'r prosiect i chi."
 
 #: mozorg/contribute.lang:270
 msgid "Localization and Translation"
-msgstr ""
+msgstr "Lleoleiddio a Chyfieithu"
 
 #~ msgid ""
 #~ "Quality assurance testing is one of the easiest ways to get started with "
