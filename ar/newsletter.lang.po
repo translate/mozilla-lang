@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-08 11:37+0100\n"
+"POT-Creation-Date: 2013-08-06 20:18+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,42 +22,51 @@ msgid "Your Email Address"
 msgstr "بريدك الإلكتروني"
 
 #: newsletter.lang:11
+#, fuzzy
+msgid "Your email address:"
+msgstr "بريدك الإلكتروني"
+
+#: newsletter.lang:15
 msgid "Text"
 msgstr "النص"
 
-#: newsletter.lang:15
+#: newsletter.lang:19
 msgid "Available Languages"
 msgstr "اللغات المتاحة"
 
-#: newsletter.lang:19
+#: newsletter.lang:23
+msgid "Language:"
+msgstr ""
+
+#: newsletter.lang:27
 msgid "Select country"
 msgstr "اختر الدولة"
 
-#: newsletter.lang:23
+#: newsletter.lang:31
 msgid "Whoops! Be sure to enter a valid email address."
 msgstr "تأكد من إدخالك بريد إلكتروني صالح."
 
-#: newsletter.lang:27
+#: newsletter.lang:35
 msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
 msgstr "الرجاء قراءة سياسة خصوصية موزيلا والتأشير على الموافقة."
 
-#: newsletter.lang:31
+#: newsletter.lang:39
 msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
 msgstr "أوافق على <a href=\"%s\">سياسة الخصوصية</a>"
 
-#: newsletter.lang:35
+#: newsletter.lang:43
 msgid "Sign me up!"
 msgstr "اشترك!"
 
-#: newsletter.lang:39
+#: newsletter.lang:47
 msgid "We will only send you Mozilla-related information."
 msgstr "سنرسل لك معلومات متعلقة بموزيلا فقط."
 
-#: newsletter.lang:43
+#: newsletter.lang:51
 msgid "Thanks for Subscribing!"
 msgstr "شكرًا على اشتراكك!"
 
-#: newsletter.lang:47
+#: newsletter.lang:55
 msgid ""
 "We look forward to soon begin sharing tips &amp; tricks on getting the most "
 "out of Firefox, as well as exciting news about Mozilla and how we’re working "
@@ -67,7 +76,7 @@ msgstr ""
 "استخدامه بأقصى قدراته، إضافة إلى أحدث أخبار موزيلا والأمور التي نعمل عليها "
 "لإنشاء وب أفضل للجميع."
 
-#: newsletter.lang:51
+#: newsletter.lang:59
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
@@ -77,7 +86,7 @@ msgstr ""
 "التلميحات والمساعدات عن المزايا الجديدة في فَيَرفُكس. أفضل وسيلة لنبقى على "
 "تواصل."
 
-#: newsletter.lang:54
+#: newsletter.lang:62
 msgid ""
 "We just sent you a confirmation message by email. Click on the confirmation "
 "link in this email to validate your subscription to this mailing list."
@@ -85,23 +94,23 @@ msgstr ""
 "لقد أرسلنا للتو رسالة التأكيد بالبريد. انقر على وصلة التأكيد في هذه الرسالة "
 "لتأكيد اشتراكك في هذه القائمة البريدية."
 
-#: newsletter.lang:57
+#: newsletter.lang:65
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "اعرف أكثر عن <span>الرسالة الإخبارية</span>"
 
-#: newsletter.lang:61
+#: newsletter.lang:69
 msgid "Your newsletter subscription has been confirmed."
 msgstr "أُكّد اشتراكك في الرسالة الإخبارية."
 
-#: newsletter.lang:64
+#: newsletter.lang:72
 msgid "Format"
 msgstr "التنسيق"
 
-#: newsletter.lang:67
+#: newsletter.lang:75
 msgid "You’re All Set! <span>But Wait, There’s More</span>"
 msgstr "كل شيء جاهز، <span>لكن انتظر، هناك المزيد</span>"
 
-#: newsletter.lang:71
+#: newsletter.lang:79
 msgid ""
 "Want to get the most relevant info? Tell us a little more about yourself. "
 "And while you’re here, sign up for other Mozilla news."
@@ -109,43 +118,43 @@ msgstr ""
 "أتريد الحصول على المعلومات المهمة؟ أخبرنا القليل عن نفسك. وبينما أنت هنا، "
 "اشترك في أخبار موزيلا الأخرى."
 
-#: newsletter.lang:74
+#: newsletter.lang:82
 msgid "Firefox & You"
 msgstr "فَيَرفُكس و أنت"
 
-#: newsletter.lang:77
+#: newsletter.lang:85
 msgid "Our Other Newsletters:"
 msgstr "رسائلنا الإخبارية الأخرى:"
 
-#: newsletter.lang:80
+#: newsletter.lang:88
 msgid ""
 "Get the latest tips and tricks for getting the most out of your favorite "
 "browser."
 msgstr "احصل على آخر التلميحات والمساعدات عن المزايا الجديدة في متصفحك المفضّل."
 
-#: newsletter.lang:83
+#: newsletter.lang:91
 msgid "Firefox Mobile"
 msgstr "فَيَرفُكس للجوال"
 
-#: newsletter.lang:86
+#: newsletter.lang:94
 msgid "Learn about the hottest new add-ons and features for Firefox mobile."
 msgstr "تعرّف على أحدث الإضافات والخصائص في فَيَرفُكس للجوال."
 
-#: newsletter.lang:89
+#: newsletter.lang:97
 msgid "Beta News"
 msgstr "أخبار بيتا"
 
-#: newsletter.lang:92
+#: newsletter.lang:100
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
 msgstr "اقرأ عن آخر خصائص فَيَرفُكس لسطح المكتب والجوال قبل الإصدارة النهائية."
 
-#: newsletter.lang:96
+#: newsletter.lang:104
 msgid "Let’s Be Friends!"
 msgstr "لنكن أصدقاء!"
 
-#: newsletter.lang:100
+#: newsletter.lang:108
 msgid ""
 "Firefox is also on your favorite social networking sites. Connect with us "
 "and join the conversation."
@@ -153,80 +162,80 @@ msgstr ""
 "فَيَرفُكس موجود أيضا على مواقع التواصل الاجتماعي التي تفضلها. تواصل معنا وانضم "
 "للنقاش."
 
-#: newsletter.lang:104
+#: newsletter.lang:112
 msgid "Manage your <span>Newsletter Subscriptions</span>"
 msgstr "أدر <span>اشتراكك في الرسالة الإخبارية</span>"
 
-#: newsletter.lang:108
+#: newsletter.lang:116
 msgid "Subscribe"
 msgstr "اشترك"
 
-#: newsletter.lang:112
+#: newsletter.lang:120
 msgid "Unsubscribe"
 msgstr "ألغِ الاشتراك"
 
-#: newsletter.lang:116
+#: newsletter.lang:124
 msgid "Check here if you’d like to be removed from all Mozilla emails"
 msgstr "انقر هنا إذا أردت أن تُزال من كل رسائل موزيلا البريدية"
 
-#: newsletter.lang:120
+#: newsletter.lang:128
 msgid "Remove me from all Mozilla emails"
 msgstr "أزلني من كل رسائل موزيلا البريدية"
 
-#: newsletter.lang:124
+#: newsletter.lang:132
 msgid "Save Preferences"
 msgstr "احفظ التفضيلات"
 
-#: newsletter.lang:127
+#: newsletter.lang:135
 msgid "Thanks for updating your email preferences."
 msgstr "شكرا لتحديث تفضيلات البريد"
 
-#: newsletter.lang:131
+#: newsletter.lang:139
 msgid "You've been unsubscribed."
 msgstr "لقد أُلغي اشتراكك."
 
-#: newsletter.lang:134
+#: newsletter.lang:142
 msgid ""
 "We’re sorry to see you go. Would you mind telling us why you’re leaving?"
 msgstr "نأسف لمغادرتك. أترغب في إطلاعنا على الأسباب؟"
 
-#: newsletter.lang:138
+#: newsletter.lang:146
 msgid "You send too many emails."
 msgstr "ترسلون الكثير من الرسائل."
 
-#: newsletter.lang:142
+#: newsletter.lang:150
 msgid "Your content wasn't relevant to me."
 msgstr "محتواكم لا يهمني."
 
-#: newsletter.lang:146
+#: newsletter.lang:154
 msgid "Your email design was too hard to read."
 msgstr "تصميم رسائلكم صعب القراءة."
 
-#: newsletter.lang:150
+#: newsletter.lang:158
 msgid "I didn't sign up for this."
 msgstr "لم أشترك لهذا."
 
-#: newsletter.lang:154
+#: newsletter.lang:162
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
 msgstr "أتواصل مع موزيلا عبر فيسبوك وتويتر بدلا من هذا."
 
-#: newsletter.lang:158
+#: newsletter.lang:166
 msgid "Submit"
 msgstr "أرسل"
 
-#: newsletter.lang:161
+#: newsletter.lang:169
 msgid "Thanks for telling us why you’re leaving."
 msgstr "شكرا لإطلاعنا على سبب مغادرتك."
 
-#: newsletter.lang:165
+#: newsletter.lang:173
 msgid "Mozilla Newsletters"
 msgstr "رسائل موزيلا الإخبارية"
 
-#: newsletter.lang:169
+#: newsletter.lang:177
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr "شكرا. من فضلك راجع صندوق الوارد لتأكيد اشتراكك."
 
-#: newsletter.lang:173
+#: newsletter.lang:181
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -235,7 +244,7 @@ msgstr ""
 "ستصلك رسالة من mozilla@e.mozilla.org لتأكيد اشتراكك. إذا لم ترها فراجع مرشّح "
 "الرسائل المزعجة (السخام). يجب أن تأكّد اشتراكك لتصلك الرسائل الإخبارية."
 
-#: newsletter.lang:177
+#: newsletter.lang:185
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
@@ -244,22 +253,36 @@ msgstr ""
 "أن تصلك الرسائل دائما."
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: newsletter.lang:182
+#: newsletter.lang:190
 msgid "Get Firefox news"
 msgstr "اشترك بأخبار فَيَرفُكس"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: newsletter.lang:187
+#: newsletter.lang:195
 msgid "YOUR EMAIL HERE"
 msgstr "بريدك الإلكتروني هنا"
 
 #. Button
-#: newsletter.lang:191
+#: newsletter.lang:199
 msgid "Sign me up"
 msgstr "اشترك"
 
-#: newsletter.lang:195
+#: newsletter.lang:203
 msgid ""
 "I’m okay with you handling this info as you explain in your <a href=\"%s"
 "\">Privacy Policy</a>"
+msgstr ""
+
+#: newsletter.lang:207
+msgid ""
+"The supplied link has expired. You will receive a new one in the next "
+"newsletter."
+msgstr ""
+
+#: newsletter.lang:211
+msgid "Something is amiss with our system, sorry! Please try again later."
+msgstr ""
+
+#: newsletter.lang:215
+msgid "English&nbsp;only"
 msgstr ""

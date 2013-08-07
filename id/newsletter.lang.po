@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-08 11:37+0100\n"
+"POT-Creation-Date: 2013-08-06 20:18+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,44 +22,53 @@ msgid "Your Email Address"
 msgstr "Alamat Surel Anda"
 
 #: newsletter.lang:11
+#, fuzzy
+msgid "Your email address:"
+msgstr "Alamat Surel Anda"
+
+#: newsletter.lang:15
 msgid "Text"
 msgstr "Teks"
 
-#: newsletter.lang:15
+#: newsletter.lang:19
 msgid "Available Languages"
 msgstr "Bahasa yang Tersedia"
 
-#: newsletter.lang:19
+#: newsletter.lang:23
+msgid "Language:"
+msgstr ""
+
+#: newsletter.lang:27
 msgid "Select country"
 msgstr "Pilih Negara"
 
-#: newsletter.lang:23
+#: newsletter.lang:31
 msgid "Whoops! Be sure to enter a valid email address."
 msgstr "Duh, pastikan memasukkan alamat surel yang benar ya!"
 
-#: newsletter.lang:27
+#: newsletter.lang:35
 msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
 msgstr ""
 "Silakan baca Kebijakan Privasi Mozilla dan menyetujuinya dengan mencentang "
 "kotaknya."
 
-#: newsletter.lang:31
+#: newsletter.lang:39
 msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
 msgstr "Saya menyetujui <a href=\"%s\">Kebijakan Privasi</a>"
 
-#: newsletter.lang:35
+#: newsletter.lang:43
 msgid "Sign me up!"
 msgstr "Daftarkan saya!"
 
-#: newsletter.lang:39
+#: newsletter.lang:47
 msgid "We will only send you Mozilla-related information."
 msgstr "Kami hanya akan mengirimkan informasi terkait Mozilla."
 
-#: newsletter.lang:43
+#: newsletter.lang:51
 msgid "Thanks for Subscribing!"
 msgstr "Terima kasih telah berlangganan!"
 
-#: newsletter.lang:47
+#: newsletter.lang:55
 msgid ""
 "We look forward to soon begin sharing tips &amp; tricks on getting the most "
 "out of Firefox, as well as exciting news about Mozilla and how we’re working "
@@ -69,7 +78,7 @@ msgstr ""
 "kabar tentang Mozilla lainnya, serta cerita tentang bagaimana kami semua "
 "bekerja untuk membuat dunia Web lebih baik."
 
-#: newsletter.lang:51
+#: newsletter.lang:59
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
@@ -79,7 +88,7 @@ msgstr ""
 "untuk mendapatkan manfaat sebesar-besarnya dari peramban Firefox Anda. Cara "
 "tepat untuk selalu mendapat kabar Mozilla terhangat!"
 
-#: newsletter.lang:54
+#: newsletter.lang:62
 msgid ""
 "We just sent you a confirmation message by email. Click on the confirmation "
 "link in this email to validate your subscription to this mailing list."
@@ -87,23 +96,23 @@ msgstr ""
 "Kami baru saja mengirim pesan konfirmasi lewat surel. Klik tautan konfirmasi "
 "pada surel tersebut untuk mengonfirmasi langganan Anda ke milis ini."
 
-#: newsletter.lang:57
+#: newsletter.lang:65
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Baca selengkapnya di <span>nawala</span> kami"
 
-#: newsletter.lang:61
+#: newsletter.lang:69
 msgid "Your newsletter subscription has been confirmed."
 msgstr "Langganan nawala Anda telah dikonfirmasi."
 
-#: newsletter.lang:64
+#: newsletter.lang:72
 msgid "Format"
 msgstr "Format"
 
-#: newsletter.lang:67
+#: newsletter.lang:75
 msgid "You’re All Set! <span>But Wait, There’s More</span>"
 msgstr "Semuanya Siap!  <span>Satu Lagi</span>"
 
-#: newsletter.lang:71
+#: newsletter.lang:79
 msgid ""
 "Want to get the most relevant info? Tell us a little more about yourself. "
 "And while you’re here, sign up for other Mozilla news."
@@ -111,15 +120,15 @@ msgstr ""
 "Ingin dapat informasi paling relevan? Beritahu kami sedikit lebih jauh "
 "tentang Anda. Sementara Anda di sini, berlanggananlah berita Mozilla lainnya."
 
-#: newsletter.lang:74
+#: newsletter.lang:82
 msgid "Firefox & You"
 msgstr "Firefox & Anda"
 
-#: newsletter.lang:77
+#: newsletter.lang:85
 msgid "Our Other Newsletters:"
 msgstr "Nawala kami lainnya:"
 
-#: newsletter.lang:80
+#: newsletter.lang:88
 msgid ""
 "Get the latest tips and tricks for getting the most out of your favorite "
 "browser."
@@ -127,30 +136,30 @@ msgstr ""
 "Dapatkan saran dan trik terbaru untuk memaksimalkan penggunaan peramban "
 "favorit Anda."
 
-#: newsletter.lang:83
+#: newsletter.lang:91
 msgid "Firefox Mobile"
 msgstr "Firefox Mobile"
 
-#: newsletter.lang:86
+#: newsletter.lang:94
 msgid "Learn about the hottest new add-ons and features for Firefox mobile."
 msgstr "Pelajari tentang pengaya dan fitur keren tentang Firefox seluler."
 
-#: newsletter.lang:89
+#: newsletter.lang:97
 msgid "Beta News"
 msgstr "Berita Beta"
 
-#: newsletter.lang:92
+#: newsletter.lang:100
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
 msgstr ""
 "Baca tentang fitur terbaru Firefox versi desktop dan mobile, sebelum dirilis."
 
-#: newsletter.lang:96
+#: newsletter.lang:104
 msgid "Let’s Be Friends!"
 msgstr "Ayo Berteman!"
 
-#: newsletter.lang:100
+#: newsletter.lang:108
 msgid ""
 "Firefox is also on your favorite social networking sites. Connect with us "
 "and join the conversation."
@@ -158,85 +167,85 @@ msgstr ""
 "Firefox juga hadir di situs jejaring sosial favorit Anda. Yuk, terhubung, "
 "dan bergabung dalam percakapan!"
 
-#: newsletter.lang:104
+#: newsletter.lang:112
 msgid "Manage your <span>Newsletter Subscriptions</span>"
 msgstr "Kelola <span>Langganan Nawala</span> Anda"
 
-#: newsletter.lang:108
+#: newsletter.lang:116
 msgid "Subscribe"
 msgstr "Berlangganan"
 
-#: newsletter.lang:112
+#: newsletter.lang:120
 msgid "Unsubscribe"
 msgstr "Berhenti Berlangganan"
 
-#: newsletter.lang:116
+#: newsletter.lang:124
 msgid "Check here if you’d like to be removed from all Mozilla emails"
 msgstr ""
 "Centang di sini jika tidak ingin lagi menerima semua surel dari Mozilla"
 
-#: newsletter.lang:120
+#: newsletter.lang:128
 msgid "Remove me from all Mozilla emails"
 msgstr "Hapus alamat saya dari semua langganan surel Mozilla"
 
-#: newsletter.lang:124
+#: newsletter.lang:132
 msgid "Save Preferences"
 msgstr "Simpan Preferensi"
 
-#: newsletter.lang:127
+#: newsletter.lang:135
 msgid "Thanks for updating your email preferences."
 msgstr "Terima kasih telah memperbarui preferensi surel Anda."
 
-#: newsletter.lang:131
+#: newsletter.lang:139
 msgid "You've been unsubscribed."
 msgstr "Langganan Anda telah dihentikan."
 
-#: newsletter.lang:134
+#: newsletter.lang:142
 msgid ""
 "We’re sorry to see you go. Would you mind telling us why you’re leaving?"
 msgstr ""
 "Sayang sekali Anda pergi. Sudikah menjawab beberapa pertanyaan kami sebelum "
 "mengangkat kaki?"
 
-#: newsletter.lang:138
+#: newsletter.lang:146
 msgid "You send too many emails."
 msgstr "Kiriman surelnya terlalu banyak."
 
-#: newsletter.lang:142
+#: newsletter.lang:150
 msgid "Your content wasn't relevant to me."
 msgstr "Kontennya tidak penting."
 
-#: newsletter.lang:146
+#: newsletter.lang:154
 msgid "Your email design was too hard to read."
 msgstr "Desain surelnya terlalu susah untuk dibaca."
 
-#: newsletter.lang:150
+#: newsletter.lang:158
 msgid "I didn't sign up for this."
 msgstr "Saya tidak pernah mendaftar untuk berlangganan."
 
-#: newsletter.lang:154
+#: newsletter.lang:162
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
 msgstr "Cukup terhubung dengan Mozilla lewat Facebook dan Twitter saja."
 
-#: newsletter.lang:158
+#: newsletter.lang:166
 msgid "Submit"
 msgstr "Kirim"
 
-#: newsletter.lang:161
+#: newsletter.lang:169
 msgid "Thanks for telling us why you’re leaving."
 msgstr "Terima kasih atas perhatian Anda."
 
-#: newsletter.lang:165
+#: newsletter.lang:173
 msgid "Mozilla Newsletters"
 msgstr "Nawala Mozilla"
 
-#: newsletter.lang:169
+#: newsletter.lang:177
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr ""
 "Terima kasih! Silakan periksa surel konfirmasi langganan kami di kotak masuk "
 "Anda."
 
-#: newsletter.lang:173
+#: newsletter.lang:181
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -247,7 +256,7 @@ msgstr ""
 "periksa folder spam juga. Anda harus mengonfirmasikan langganan sebelum "
 "dapat menerima nawala kami."
 
-#: newsletter.lang:177
+#: newsletter.lang:185
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
@@ -256,24 +265,38 @@ msgstr ""
 "Anda agar surelnya dapat langsung masuk ke kotak masuk."
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: newsletter.lang:182
+#: newsletter.lang:190
 msgid "Get Firefox news"
 msgstr "Dapatkan berita Firefox"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: newsletter.lang:187
+#: newsletter.lang:195
 msgid "YOUR EMAIL HERE"
 msgstr "ALAMAT EMAIL ANDA"
 
 #. Button
-#: newsletter.lang:191
+#: newsletter.lang:199
 msgid "Sign me up"
 msgstr "Daftarkan saya"
 
-#: newsletter.lang:195
+#: newsletter.lang:203
 msgid ""
 "I’m okay with you handling this info as you explain in your <a href=\"%s"
 "\">Privacy Policy</a>"
 msgstr ""
 "Saya menyetujui Mozilla menangani informasi ini sesuai dengan <a href=\"%s"
 "\">Kebijakan Privasi</a> Mozilla"
+
+#: newsletter.lang:207
+msgid ""
+"The supplied link has expired. You will receive a new one in the next "
+"newsletter."
+msgstr ""
+
+#: newsletter.lang:211
+msgid "Something is amiss with our system, sorry! Please try again later."
+msgstr ""
+
+#: newsletter.lang:215
+msgid "English&nbsp;only"
+msgstr ""

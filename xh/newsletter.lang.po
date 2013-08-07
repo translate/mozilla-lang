@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-08 11:37+0100\n"
+"POT-Creation-Date: 2013-08-06 20:18+0100\n"
 "PO-Revision-Date: 2013-07-22 14:43+0000\n"
 "Last-Translator: Ian <ian.henderson@rubric.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
 "X-POOTLE-MTIME: 1374504190.000000\n"
 
 #. These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
@@ -25,44 +25,53 @@ msgid "Your Email Address"
 msgstr "Idilesi Yakho Ye-Imeyili"
 
 #: newsletter.lang:11
+#, fuzzy
+msgid "Your email address:"
+msgstr "Idilesi Yakho Ye-Imeyili"
+
+#: newsletter.lang:15
 msgid "Text"
 msgstr "Umbhalo"
 
-#: newsletter.lang:15
+#: newsletter.lang:19
 msgid "Available Languages"
 msgstr "Iilwimi Ezifumanekayo"
 
-#: newsletter.lang:19
+#: newsletter.lang:23
+msgid "Language:"
+msgstr ""
+
+#: newsletter.lang:27
 msgid "Select country"
 msgstr "Select country"
 
-#: newsletter.lang:23
+#: newsletter.lang:31
 msgid "Whoops! Be sure to enter a valid email address."
 msgstr "Hayibo! Qiniseka ukufaka idilesi ye-imeyili esebenzayo."
 
-#: newsletter.lang:27
+#: newsletter.lang:35
 msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
 msgstr ""
 "Sicela ufunde uMgaqo-nkqubo Wabucala WeMozilla uze uwuvume ngokubeka uphawu "
 "kwibhokisi."
 
-#: newsletter.lang:31
+#: newsletter.lang:39
 msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
 msgstr "Ndiyawuvuma <a href=\"%s\">uMgaqo-nkqubo Wabucala</a>"
 
-#: newsletter.lang:35
+#: newsletter.lang:43
 msgid "Sign me up!"
 msgstr "Ndibhaliseni!"
 
-#: newsletter.lang:39
+#: newsletter.lang:47
 msgid "We will only send you Mozilla-related information."
 msgstr "Siza kukuthumelela kuphela inkcazelo ehlobene neMozilla."
 
-#: newsletter.lang:43
+#: newsletter.lang:51
 msgid "Thanks for Subscribing!"
 msgstr "Enkosi ngokurhumela!"
 
-#: newsletter.lang:47
+#: newsletter.lang:55
 msgid ""
 "We look forward to soon begin sharing tips &amp; tricks on getting the most "
 "out of Firefox, as well as exciting news about Mozilla and how we’re working "
@@ -72,7 +81,7 @@ msgstr ""
 "namacebo okufumana okona-kona kwiFirefox, kunye neendaba ezichulumancisayo "
 "ngeMozilla kwanendlela esisebenzela ngayo ukwenza iWebhu engcono."
 
-#: newsletter.lang:51
+#: newsletter.lang:59
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
@@ -83,7 +92,7 @@ msgstr ""
 "kwibhrawuza yakho yeMozilla. Yeyona ndlela igqibeleleyo yokuhlala "
 "sinxibelelene!"
 
-#: newsletter.lang:54
+#: newsletter.lang:62
 msgid ""
 "We just sent you a confirmation message by email. Click on the confirmation "
 "link in this email to validate your subscription to this mailing list."
@@ -92,23 +101,23 @@ msgstr ""
 "lesiqinisekiso kule imeyili ukuze umrhumo wakho ufakwe kuluhlu "
 "lwabathunyelelwa ii-imeyili."
 
-#: newsletter.lang:57
+#: newsletter.lang:65
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Funda ngako konke <span>kwileta yethu yeendaba </span>"
 
-#: newsletter.lang:61
+#: newsletter.lang:69
 msgid "Your newsletter subscription has been confirmed."
 msgstr "Umrhumo wakho weleta yeendaba uqinisekisiwe."
 
-#: newsletter.lang:64
+#: newsletter.lang:72
 msgid "Format"
 msgstr "Ufomatho"
 
-#: newsletter.lang:67
+#: newsletter.lang:75
 msgid "You’re All Set! <span>But Wait, There’s More</span>"
 msgstr "Yonk' Into Icala-nye! <span>Kodwa Khawume, Kukho Okungakumbi</span>"
 
-#: newsletter.lang:71
+#: newsletter.lang:79
 msgid ""
 "Want to get the most relevant info? Tell us a little more about yourself. "
 "And while you’re here, sign up for other Mozilla news."
@@ -117,15 +126,15 @@ msgstr ""
 "ngokufutshane ngawe. Yaye ngelixa uselapha, bhalisela ezinye iindaba "
 "zeMozilla."
 
-#: newsletter.lang:74
+#: newsletter.lang:82
 msgid "Firefox & You"
 msgstr "IFirefox & Nawe"
 
-#: newsletter.lang:77
+#: newsletter.lang:85
 msgid "Our Other Newsletters:"
 msgstr "Ezinye Iileta zethu Zeendaba:"
 
-#: newsletter.lang:80
+#: newsletter.lang:88
 msgid ""
 "Get the latest tips and tricks for getting the most out of your favorite "
 "browser."
@@ -133,21 +142,21 @@ msgstr ""
 "Fumana amacebiso namacebo amvanje angendlela yokufumana okona-kona "
 "kwibhrawuza yakho eyintandane."
 
-#: newsletter.lang:83
+#: newsletter.lang:91
 msgid "Firefox Mobile"
 msgstr "IFirefox yeMfonomfono Ephathwayo"
 
-#: newsletter.lang:86
+#: newsletter.lang:94
 msgid "Learn about the hottest new add-ons and features for Firefox mobile."
 msgstr ""
 "Funda ngezona zisematheni izongezelelo kunye neenkalo zeFirefox yemfonomfono "
 "ephathwayo."
 
-#: newsletter.lang:89
+#: newsletter.lang:97
 msgid "Beta News"
 msgstr "Iindaba ZeBeta"
 
-#: newsletter.lang:92
+#: newsletter.lang:100
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
@@ -155,11 +164,11 @@ msgstr ""
 "Funda ngeenkalo zamvanje zeFirefox desktopu neyemfonomfono ephathwayo "
 "ngaphambi kokuba zikhutshwe ekugqibeleni."
 
-#: newsletter.lang:96
+#: newsletter.lang:104
 msgid "Let’s Be Friends!"
 msgstr "Masibe Ngabahlobo!"
 
-#: newsletter.lang:100
+#: newsletter.lang:108
 msgid ""
 "Firefox is also on your favorite social networking sites. Connect with us "
 "and join the conversation."
@@ -167,84 +176,84 @@ msgstr ""
 "IFirefox ikwafumaneka nakwiisayithi ozithandayo zokuncokola. Qhagamshelana "
 "nathi uze ube yinxalenye yencoko."
 
-#: newsletter.lang:104
+#: newsletter.lang:112
 msgid "Manage your <span>Newsletter Subscriptions</span>"
 msgstr "Lawula <span>uMrhumo wakho weLeta Yeendaba</span>"
 
-#: newsletter.lang:108
+#: newsletter.lang:116
 msgid "Subscribe"
 msgstr "Rhuma"
 
-#: newsletter.lang:112
+#: newsletter.lang:120
 msgid "Unsubscribe"
 msgstr "Unganikeli ngomrhumo"
 
-#: newsletter.lang:116
+#: newsletter.lang:124
 msgid "Check here if you’d like to be removed from all Mozilla emails"
 msgstr "Cofa apha ukuba  ungathanda ukususwa kuzo zonke ii-imeyili zeMozilla"
 
-#: newsletter.lang:120
+#: newsletter.lang:128
 msgid "Remove me from all Mozilla emails"
 msgstr "Ndisuseni kuzo zonke ii-imeyili zeMozilla"
 
-#: newsletter.lang:124
+#: newsletter.lang:132
 msgid "Save Preferences"
 msgstr "Gcina iiPriferensi"
 
-#: newsletter.lang:127
+#: newsletter.lang:135
 msgid "Thanks for updating your email preferences."
 msgstr "Enkosi ngokuhlaziya iipreferensi zakho ze-imeyili."
 
-#: newsletter.lang:131
+#: newsletter.lang:139
 msgid "You've been unsubscribed."
 msgstr "Uyekile ukurhumela."
 
-#: newsletter.lang:134
+#: newsletter.lang:142
 msgid ""
 "We’re sorry to see you go. Would you mind telling us why you’re leaving?"
 msgstr ""
 "Silusizi ukukubona uhamba. Ungakhathezeka xa unokusixelela isizathu sokuba "
 "uhambe?"
 
-#: newsletter.lang:138
+#: newsletter.lang:146
 msgid "You send too many emails."
 msgstr "Nithumela ii-imeyili ezininzi gqitha."
 
-#: newsletter.lang:142
+#: newsletter.lang:150
 msgid "Your content wasn't relevant to me."
 msgstr "Umbandela wenu ubungeloncedo kum."
 
-#: newsletter.lang:146
+#: newsletter.lang:154
 msgid "Your email design was too hard to read."
 msgstr "Uyilo lwenu lwe-imeyili bekunzima gqitha ukulufunda."
 
-#: newsletter.lang:150
+#: newsletter.lang:158
 msgid "I didn't sign up for this."
 msgstr "Ndandibhaliselanga le nto."
 
-#: newsletter.lang:154
+#: newsletter.lang:162
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
 msgstr "Ndihlala ndinxibelelene neMozilla kuFacebook noTwitter."
 
-#: newsletter.lang:158
+#: newsletter.lang:166
 msgid "Submit"
 msgstr "Nikezela"
 
-#: newsletter.lang:161
+#: newsletter.lang:169
 msgid "Thanks for telling us why you’re leaving."
 msgstr "Enkosi ngokusixelela isizathu sokuba uhambe."
 
-#: newsletter.lang:165
+#: newsletter.lang:173
 msgid "Mozilla Newsletters"
 msgstr "Iileta zeeNdaba zeMozilla"
 
-#: newsletter.lang:169
+#: newsletter.lang:177
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr ""
 "Ngombulelo! Sicela uhlole ibhokisi yakho yee-imeyili ukuqinisekisa umrhumo "
 "wakho."
 
-#: newsletter.lang:173
+#: newsletter.lang:181
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -254,7 +263,7 @@ msgstr ""
 "wakho. Ukuba akuyiboni, hlola ifiltha yakho yemiyalezo eyimfitshimfitshi. "
 "Ufanele uqinisekise umrhumo wakho ukuze ufumane ileta yeendaba."
 
-#: newsletter.lang:177
+#: newsletter.lang:185
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
@@ -264,24 +273,38 @@ msgstr ""
 "sifikelela kwibhokisi yakho yee-imeyili."
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: newsletter.lang:182
+#: newsletter.lang:190
 msgid "Get Firefox news"
 msgstr "Fumana iindaba zeFirefox"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: newsletter.lang:187
+#: newsletter.lang:195
 msgid "YOUR EMAIL HERE"
 msgstr "YOUR EMAIL HERE"
 
 #. Button
-#: newsletter.lang:191
+#: newsletter.lang:199
 msgid "Sign me up"
 msgstr "Ndibhaliseni"
 
-#: newsletter.lang:195
+#: newsletter.lang:203
 msgid ""
 "I’m okay with you handling this info as you explain in your <a href=\"%s"
 "\">Privacy Policy</a>"
 msgstr ""
 "Ndiyayamkela into yokuba ibe nini abasingatha le nkcazelo njengoko "
 "nicacisile <a href=\"%s\">kuMgaqo-nkqubo Wabucala wenu</a>"
+
+#: newsletter.lang:207
+msgid ""
+"The supplied link has expired. You will receive a new one in the next "
+"newsletter."
+msgstr ""
+
+#: newsletter.lang:211
+msgid "Something is amiss with our system, sorry! Please try again later."
+msgstr ""
+
+#: newsletter.lang:215
+msgid "English&nbsp;only"
+msgstr ""

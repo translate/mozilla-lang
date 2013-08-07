@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-08 11:37+0100\n"
+"POT-Creation-Date: 2013-08-06 20:18+0100\n"
 "PO-Revision-Date: 2013-07-08 20:00+0000\n"
 "Last-Translator: Mohomodou  <mh@bollag-areal.ch>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
 "X-POOTLE-MTIME: 1373313640.000000\n"
 
 #. These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
@@ -25,42 +25,51 @@ msgid "Your Email Address"
 msgstr "War bataga aderesoo"
 
 #: newsletter.lang:11
+#, fuzzy
+msgid "Your email address:"
+msgstr "War bataga aderesoo"
+
+#: newsletter.lang:15
 msgid "Text"
 msgstr "Kalimaɲaa kuru"
 
-#: newsletter.lang:15
+#: newsletter.lang:19
 msgid "Available Languages"
 msgstr "Šenni barantey"
 
-#: newsletter.lang:19
+#: newsletter.lang:23
+msgid "Language:"
+msgstr ""
+
+#: newsletter.lang:27
 msgid "Select country"
 msgstr "Laama suuba"
 
-#: newsletter.lang:23
+#: newsletter.lang:31
 msgid "Whoops! Be sure to enter a valid email address."
 msgstr "Aywaa! Alhakiika ka bataga aderesu boryo dam"
 
-#: newsletter.lang:27
+#: newsletter.lang:35
 msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
 msgstr "Taare wa Mozilla sutura laadaa caw nda bataa maasa ka yadda a ga."
 
-#: newsletter.lang:31
+#: newsletter.lang:39
 msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
 msgstr "Ay yadda <a href=\"%s\">Sutura laadaa</a> ga"
 
-#: newsletter.lang:35
+#: newsletter.lang:43
 msgid "Sign me up!"
 msgstr "Ay hantum!"
 
-#: newsletter.lang:39
+#: newsletter.lang:47
 msgid "We will only send you Mozilla-related information."
 msgstr "Mozilla-mise alhabarey de n'ir g'i sanba war še."
 
-#: newsletter.lang:43
+#: newsletter.lang:51
 msgid "Thanks for Subscribing!"
 msgstr "Foo nda war maa-hantumyan!"
 
-#: newsletter.lang:47
+#: newsletter.lang:55
 msgid ""
 "We look forward to soon begin sharing tips &amp; tricks on getting the most "
 "out of Firefox, as well as exciting news about Mozilla and how we’re working "
@@ -70,7 +79,7 @@ msgstr ""
 "taka kaŋ nda boro ga duu Firefox fellaa nda da alhabar bine-ɲaalante Mozilla "
 "ga nda ir goyoo kaŋ ga Internet boryandi."
 
-#: newsletter.lang:51
+#: newsletter.lang:59
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
@@ -80,7 +89,7 @@ msgstr ""
 "sanda carmay yaamarey ka dii Firefox ceecikaa fellaa. Woo ti fondo "
 "cerecerantaa ka cindi alhabar taagey bande!"
 
-#: newsletter.lang:54
+#: newsletter.lang:62
 msgid ""
 "We just sent you a confirmation message by email. Click on the confirmation "
 "link in this email to validate your subscription to this mailing list."
@@ -88,23 +97,23 @@ msgstr ""
 "Ir na tabatandiyan alhabar foo sanba nda bataga. Tabatandiyan doboo naagu "
 "batagaa woo ra ka war maa-hantumyanoo gorandi bataga batoo woo še."
 
-#: newsletter.lang:57
+#: newsletter.lang:65
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "War haya kul caw a ga ir <span>alhabar batagaa</span> ra"
 
-#: newsletter.lang:61
+#: newsletter.lang:69
 msgid "Your newsletter subscription has been confirmed."
 msgstr "War alhabar bataga duuyan waafakaa tabati sohõ."
 
-#: newsletter.lang:64
+#: newsletter.lang:72
 msgid "Format"
 msgstr "Fasal"
 
-#: newsletter.lang:67
+#: newsletter.lang:75
 msgid "You’re All Set! <span>But Wait, There’s More</span>"
 msgstr "Wa soobay! <span>Amma batum tontoni goo</span>"
 
-#: newsletter.lang:71
+#: newsletter.lang:79
 msgid ""
 "Want to get the most relevant info? Tell us a little more about yourself. "
 "And while you’re here, sign up for other Mozilla news."
@@ -112,34 +121,34 @@ msgstr ""
 "War ga boona yaamar kul inafante? Har ir še war boŋ ga ka tonton. Nda kaŋ "
 "goo ne, wa maa-hantum ka duu Mozilla alhabarey."
 
-#: newsletter.lang:74
+#: newsletter.lang:82
 msgid "Firefox & You"
 msgstr "Firefox nda war"
 
-#: newsletter.lang:77
+#: newsletter.lang:85
 msgid "Our Other Newsletters:"
 msgstr "Ir alhabar bataga taney:"
 
-#: newsletter.lang:80
+#: newsletter.lang:88
 msgid ""
 "Get the latest tips and tricks for getting the most out of your favorite "
 "browser."
 msgstr "Carmay yaamarey zaa ka duu war ceecikaw kaasoo sahãa."
 
-#: newsletter.lang:83
+#: newsletter.lang:91
 msgid "Firefox Mobile"
 msgstr "Firefox Mobile"
 
-#: newsletter.lang:86
+#: newsletter.lang:94
 msgid "Learn about the hottest new add-ons and features for Firefox mobile."
 msgstr ""
 "Caw ka haya bay tontoni nda alhaali taagey nda henney kanbeyan Firefox še."
 
-#: newsletter.lang:89
+#: newsletter.lang:97
 msgid "Beta News"
 msgstr "Šiiyan dumi alhabar"
 
-#: newsletter.lang:92
+#: newsletter.lang:100
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
@@ -147,11 +156,11 @@ msgstr ""
 "Caw ka dii alhaali kokorantey ordinater nda kanbe jinay Firefox še "
 "kaatarayyan taaga še jine."
 
-#: newsletter.lang:96
+#: newsletter.lang:104
 msgid "Let’s Be Friends!"
 msgstr "Ir ma tee cereyaŋ!"
 
-#: newsletter.lang:100
+#: newsletter.lang:108
 msgid ""
 "Firefox is also on your favorite social networking sites. Connect with us "
 "and join the conversation."
@@ -159,82 +168,82 @@ msgstr ""
 "Firefox goo war jamaa margayan nungu cerecerantey ga da. Hantum ir še ka "
 "huru waakaaraa ra."
 
-#: newsletter.lang:104
+#: newsletter.lang:112
 msgid "Manage your <span>Newsletter Subscriptions</span>"
 msgstr "War <span>Alhabar bataga duuyan waafakey</span> juwal"
 
-#: newsletter.lang:108
+#: newsletter.lang:116
 msgid "Subscribe"
 msgstr "Maa hantum"
 
-#: newsletter.lang:112
+#: newsletter.lang:120
 msgid "Unsubscribe"
 msgstr "Maa-kaa"
 
-#: newsletter.lang:116
+#: newsletter.lang:124
 msgid "Check here if you’d like to be removed from all Mozilla emails"
 msgstr "Maasa ne nda war ga boona ka maa kaa Mozilla bataga kul še"
 
-#: newsletter.lang:120
+#: newsletter.lang:128
 msgid "Remove me from all Mozilla emails"
 msgstr "Ay maa kaa Mozilla batagawey kul še"
 
-#: newsletter.lang:124
+#: newsletter.lang:132
 msgid "Save Preferences"
 msgstr "Ibaayey gaabu"
 
-#: newsletter.lang:127
+#: newsletter.lang:135
 msgid "Thanks for updating your email preferences."
 msgstr "Foo nda war bataga ibaayey taagandiroo."
 
-#: newsletter.lang:131
+#: newsletter.lang:139
 msgid "You've been unsubscribed."
 msgstr "War maaɲoo hun."
 
-#: newsletter.lang:134
+#: newsletter.lang:142
 msgid ""
 "We’re sorry to see you go. Would you mind telling us why you’re leaving?"
 msgstr ""
 "Ir ga ɲimši nda war koyroo. War ga hin ka nee ir še daliloo kaŋ še war ga "
 "koy?"
 
-#: newsletter.lang:138
+#: newsletter.lang:146
 msgid "You send too many emails."
 msgstr "War na bataga boobo sanba."
 
-#: newsletter.lang:142
+#: newsletter.lang:150
 msgid "Your content wasn't relevant to me."
 msgstr "Gundekuna ši nd'ay še nafaw."
 
-#: newsletter.lang:146
+#: newsletter.lang:154
 msgid "Your email design was too hard to read."
 msgstr "War batagaa fasalroo cawoo ga šendi."
 
-#: newsletter.lang:150
+#: newsletter.lang:158
 msgid "I didn't sign up for this."
 msgstr "Ya n'ay boŋ hantum woo še."
 
-#: newsletter.lang:154
+#: newsletter.lang:162
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
 msgstr "Amma ay ga Mozilla alhabarey gana Facebook nda Twitter ga."
 
-#: newsletter.lang:158
+#: newsletter.lang:166
 msgid "Submit"
 msgstr "Sanba"
 
-#: newsletter.lang:161
+#: newsletter.lang:169
 msgid "Thanks for telling us why you’re leaving."
 msgstr "Foo nda goy kaŋ war g'ir bayrandi nda war koyroo."
 
-#: newsletter.lang:165
+#: newsletter.lang:173
 msgid "Mozilla Newsletters"
 msgstr "Mozilla alhabar batagawey"
 
-#: newsletter.lang:169
+#: newsletter.lang:177
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr "Foo nda goy! War duuyan bataa guna ka war maa-hantumoo tabatandi."
 
-#: newsletter.lang:173
+#: newsletter.lang:181
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -244,7 +253,7 @@ msgstr ""
 "tabatandi. Nda war ši dii ya, war bataga žiiba gaŋaa guna. War maa-hantumoo "
 "mma hima ka tabatandi jina hala war ga duu ir alhabar batagaa."
 
-#: newsletter.lang:177
+#: newsletter.lang:185
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
@@ -253,24 +262,38 @@ msgstr ""
 "war aderesu tiiraa ga k'alhakiika ir ga too war duuyan bata do."
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: newsletter.lang:182
+#: newsletter.lang:190
 msgid "Get Firefox news"
 msgstr "Duu alhabar Firefox ga"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: newsletter.lang:187
+#: newsletter.lang:195
 msgid "YOUR EMAIL HERE"
 msgstr "WAR BATAGAA NE"
 
 #. Button
-#: newsletter.lang:191
+#: newsletter.lang:199
 msgid "Sign me up"
 msgstr "Ya mm'ay hantum"
 
-#: newsletter.lang:195
+#: newsletter.lang:203
 msgid ""
 "I’m okay with you handling this info as you explain in your <a href=\"%s"
 "\">Privacy Policy</a>"
 msgstr ""
 "Ay ga yadda nda takaa kaŋ nda war ga alhabaroo dii fahamandi war <a href=\"%s"
 "\">Sutura laadaa</a> ra"
+
+#: newsletter.lang:207
+msgid ""
+"The supplied link has expired. You will receive a new one in the next "
+"newsletter."
+msgstr ""
+
+#: newsletter.lang:211
+msgid "Something is amiss with our system, sorry! Please try again later."
+msgstr ""
+
+#: newsletter.lang:215
+msgid "English&nbsp;only"
+msgstr ""
