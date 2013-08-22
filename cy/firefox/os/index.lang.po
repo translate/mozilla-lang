@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-05 11:56+0100\n"
-"PO-Revision-Date: 2013-07-11 16:22+0000\n"
+"PO-Revision-Date: 2013-08-20 21:01+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
-"X-POOTLE-MTIME: 1373559757.000000\n"
+"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-POOTLE-MTIME: 1377032492.000000\n"
 
 #. # NOTE: https://www-demo2.allizom.org/en-US/firefox/os/
 #. # TOP MENU STRINGS ##
@@ -37,7 +37,7 @@ msgstr "Cenhadaeth"
 #. share button for social networks
 #: firefox/os/index.lang:23
 msgid "Share"
-msgstr ""
+msgstr "Rhannu"
 
 #. top button
 #: firefox/os/index.lang:28
@@ -46,38 +46,33 @@ msgstr "Prynu ffôn"
 
 #. Icon bar item
 #: firefox/os/index.lang:33
-#, fuzzy
 msgid "Social"
 msgstr "Cymdeithasol"
 
 #. Icon bar item
 #: firefox/os/index.lang:38
-#, fuzzy
 msgid "Photos"
 msgstr "Lluniau"
 
 #. Icon bar item
 #: firefox/os/index.lang:43
-#, fuzzy
 msgid "Music"
 msgstr "Cerddoriaeth"
 
 #. Icon bar item
 #: firefox/os/index.lang:48
-#, fuzzy
 msgid "Maps"
 msgstr "Mapiau"
 
 #. Icon bar item
 #: firefox/os/index.lang:53
-#, fuzzy
 msgid "Messages"
 msgstr "Negeseuon"
 
 #. Icon bar item
 #: firefox/os/index.lang:58
 msgid "Marketplace"
-msgstr ""
+msgstr "Marketplace"
 
 #. # MAIN TEXT ##
 #: firefox/os/index.lang:63
@@ -134,9 +129,8 @@ msgid "Type a word or subject you’re interested in"
 msgstr "Teipiwch air neu bwnc sydd o ddiddordeb i chi"
 
 #: firefox/os/index.lang:101
-#, fuzzy
 msgid "Find exactly what you want — and more"
-msgstr "Dod o hyd i'r union beth - a rhagor"
+msgstr "Dod o hyd i'r union beth — a rhagor"
 
 #: firefox/os/index.lang:105
 msgid "Get instant access or save apps to your phone"
@@ -321,6 +315,8 @@ msgid ""
 "All your questions will be answered <a href=\"%(link)s\">Read our extra "
 "helpful FAQ</a>"
 msgstr ""
+"Bydd eich holl gwestiynau'n cael eu hateb <a href=\"%(link)s\">Darllenwch "
+"ein atebion defnyddiol</a>"
 
 #. image alt text
 #: firefox/os/index.lang:230
@@ -403,13 +399,15 @@ msgstr "Diolch am ymuno!"
 #: firefox/os/index.lang:298
 msgid ""
 "Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More"
-msgstr ""
+msgstr "Firefox OS — Y Ffôn Addasadwy — Nodweddion Ffôn Clyfar, Apiau a Mwy"
 
 #: firefox/os/index.lang:302
 msgid ""
 "View the version notes <a href=\"%(link)s\">Read about features, changes and "
 "more</a>"
 msgstr ""
+"Darlennwch nodiadau'r fersiwn <a href=\"%(link)s\">Darllenwch am nodweddion, "
+"newidiadau a mwy</a>"
 
 #~ msgctxt "./firefox/os/index.lang:115"
 #~ msgid "Social"
