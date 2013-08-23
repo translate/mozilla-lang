@@ -56,9 +56,11 @@ function handle_new_and_empty_dirs() {
 			continue
 		fi
 		if [ $(find $dir -type f -true) ]; then
-			log_error "We found a file, so 'svn add $dir'"
+			log_debug "We found a file, so 'svn add $dir'"
+			svn add $dir
 		else
-			log_error "We found no files, so 'rm -rf $dir'"
+			log_debug "We found no files, so 'rm -rf $dir'"
+			rm -rf $dir
 		fi
 	done
 
