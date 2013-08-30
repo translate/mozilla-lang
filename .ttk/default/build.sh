@@ -49,7 +49,7 @@ function revert_blank_line_only_changes() {
 function handle_new_and_empty_dirs() {
 	# Remove empty dirs and add new ones
 	local mozlang=$1
-	log_info "Precessing new/empty directories in '${TARGET_DIR}/${mozlang}'"
+	log_info "Processing new/empty directories in '${TARGET_DIR}/${mozlang}'"
 	for dir in $(svn status $TARGET_DIR/$mozlang/ | egrep "^\?")
 	do
 		if [ ! -d $dir ]; then
