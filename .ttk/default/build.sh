@@ -50,7 +50,8 @@ function handle_new_and_empty_dirs() {
 	# Remove empty dirs and add new ones
 	local mozlang=$1
 	log_info "Processing new/empty directories in '${TARGET_DIR}/${mozlang}'"
-	for dir in $(svn status $TARGET_DIR/$mozlang/ | egrep "^\?")
+	(cd $TARGET_DIR/$mozlang/
+	for dir in $(svn status . | egrep "^\?")
 	do
 		if [ ! -d $dir ]; then
 			continue
@@ -63,6 +64,7 @@ function handle_new_and_empty_dirs() {
 			rm -rf $dir
 		fi
 	done
+	)
 
 
 }
