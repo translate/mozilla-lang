@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-29 10:37-0700\n"
+"POT-Creation-Date: 2013-10-17 00:42+0100\n"
 "PO-Revision-Date: 2013-04-04 19:44+0000\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.10.0\n"
 "X-POOTLE-MTIME: 1365104670.0\n"
 
-#. This is for the Whatsnew page: http://www-dev.allizom.org/b/firefox/whatsnew/
+#. # NOTE: This is for the Whatsnew page: http://www-dev.allizom.org/b/firefox/whatsnew/
 #: firefox/whatsnew.lang:3
 msgid "Hooray! Your Firefox is up to date."
 msgstr "Jippie! Firefox is op datum."
@@ -36,7 +36,7 @@ msgstr ""
 msgid "You’re running an unknown version of Firefox."
 msgstr "U gebruik 'n onbekende weergawe van Firefox."
 
-#: firefox/whatsnew.lang:20
+#: firefox/whatsnew.lang:19
 msgid ""
 "For security reasons, we recommend downloading to the <a href="
 "\"{url}\">latest and greatest version</a>."
@@ -44,11 +44,11 @@ msgstr ""
 "Vir sekuriteitsredes beveel ons aan dat u die <a href=\"{url}\">jongste "
 "weergawe</a> aflaai."
 
-#: firefox/whatsnew.lang:24
+#: firefox/whatsnew.lang:23
 msgid "Get to your next task<br/>faster than ever"
 msgstr "Gaan vinniger as ooit<br/>oor na die volgende taak"
 
-#: firefox/whatsnew.lang:28
+#: firefox/whatsnew.lang:27
 msgid ""
 "See how the new features in Firefox help you browse faster and more "
 "efficiently."
@@ -56,35 +56,35 @@ msgstr ""
 "Sien hoe die nuwe funksies in Firefox help om vinniger en meer effektief te "
 "blaai."
 
-#: firefox/whatsnew.lang:32
+#: firefox/whatsnew.lang:31
 msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
 msgstr "Leer meer oor <a href=\"{url}\">die \"Nuwe oortjie\"-funksie »</a>"
 
-#: firefox/whatsnew.lang:36
+#: firefox/whatsnew.lang:35
 msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
 msgstr "Leer meer oor ons <a href=\"{url}\">herontwerpte tuisblad »</a>"
 
-#: firefox/whatsnew.lang:40
+#: firefox/whatsnew.lang:39
 msgid "Keep in touch"
 msgstr "Hou kontak"
 
-#: firefox/whatsnew.lang:44
+#: firefox/whatsnew.lang:43
 msgid "Keep it moving"
 msgstr "Bly in beweging"
 
-#: firefox/whatsnew.lang:48
+#: firefox/whatsnew.lang:47
 msgid "Get Firefox » <b>for Android</b>"
 msgstr "Kry Firefox » <b>vir Android</b>"
 
-#: firefox/whatsnew.lang:52
+#: firefox/whatsnew.lang:51
 msgid "Keep it going"
 msgstr "Versprei die nuus"
 
-#: firefox/whatsnew.lang:56
+#: firefox/whatsnew.lang:55
 msgid "Join Mozilla"
 msgstr "Sluit by Mozilla aan"
 
-#: firefox/whatsnew.lang:60
+#: firefox/whatsnew.lang:59
 msgid ""
 "The Android Robot was reproduced from work created and <a href=\"%s\">shared "
 "by Google</a> and used according to terms described in the <a href=\"%s"
@@ -95,7 +95,7 @@ msgstr ""
 "beskryf word in die <a href=\"%s\">Creative Commons 3.0 Erkenning-Lisensie</"
 "a>."
 
-#: firefox/whatsnew.lang:64
+#: firefox/whatsnew.lang:63
 msgid ""
 "<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
 "your hands. It’s fast, smart and safe!"
@@ -103,69 +103,84 @@ msgstr ""
 "<a href=\"%s\">Kry Firefox vir Android</a>en kry die krag van die Web "
 "byderhand. Dis vinnig, vernuftig en veilig!"
 
-#: firefox/whatsnew.lang:68
+#: firefox/whatsnew.lang:67
 msgid "Now get the mobile browser that’s got your back"
 msgstr "Kry nou die selfoonblaaier wat na u omsien"
 
-#: firefox/whatsnew.lang:72
+#: firefox/whatsnew.lang:71
 msgid "Firefox Features"
 msgstr "Firefox-funksies"
 
 #. This is the tab title
-#: firefox/whatsnew.lang:77
+#: firefox/whatsnew.lang:76
 msgid "Welcome to Firefox"
 msgstr "Welkom by Firefox"
 
-#: firefox/whatsnew.lang:81
+#: firefox/whatsnew.lang:80
 msgid "Firefox Help"
 msgstr "Firefox-hulp"
 
 #. This is the alternate text for the Android image for blind people
-#: firefox/whatsnew.lang:86
+#: firefox/whatsnew.lang:85
 msgid "Firefox for Android artwork"
 msgstr "Kunswerk vir Firefox vir Android"
 
 #. Firefox for Android slogan, part of the fallback if we don't have a promotional video ready
-#: firefox/whatsnew.lang:91
+#: firefox/whatsnew.lang:90
 msgid "Fast. Smart. Safe."
 msgstr "Vinnig. Vernuftig. Veilig."
 
 #. This message is displayed as a fallback if we don't have a promotional video ready
-#: firefox/whatsnew.lang:96
+#: firefox/whatsnew.lang:95
 msgid "Get the mobile browser that’s got your back."
 msgstr "Kry die selfoonblaaier wat na u omsien."
 
 #. Fx17: social API strings
-#: firefox/whatsnew.lang:101
+#: firefox/whatsnew.lang:100
 msgid "Facebook Messenger for Firefox"
 msgstr "Facebook Messenger vir Firefox"
 
-#: firefox/whatsnew.lang:105
+#: firefox/whatsnew.lang:104
 msgid "Now you can keep up with friends wherever you go on the Web."
 msgstr "Bly in kontak met vriende waar u ook al gaan op die Web."
 
 #. This is a button you can click
-#: firefox/whatsnew.lang:110
+#: firefox/whatsnew.lang:109
 msgid "Visit Facebook to turn it on"
 msgstr "Besoek Facebook om dit aan te skakel"
 
-#: firefox/whatsnew.lang:114
+#: firefox/whatsnew.lang:113
 msgid "Get notified right away"
 msgstr "Word onmiddellik in kennis gestel"
 
-#: firefox/whatsnew.lang:118
+#: firefox/whatsnew.lang:117
 msgid "See new comments, photo tags & other Facebook updates instantly."
 msgstr ""
 "Sien oombliklik nuwe opmerkings, foto-etikette en ander Facebook-aktiwiteit."
 
-#: firefox/whatsnew.lang:122
+#: firefox/whatsnew.lang:121
 msgid "Chat while you browse"
 msgstr "Gesels en blaai deur die web gelyktydig"
 
-#: firefox/whatsnew.lang:126
+#: firefox/whatsnew.lang:125
 msgid "Stay connected to your Facebook friends without having to click away."
 msgstr "Hou kontak met Facebook-vriende sonder om weg te klik."
 
-#: firefox/whatsnew.lang:130
+#: firefox/whatsnew.lang:129
 msgid "Facebook is a trademark of <a href=\"%(url)s\">Facebook, Inc.</a>"
 msgstr "Facebook is 'n handelsmerk van <a href=\"%(url)s\">Facebook, Inc.</a>"
+
+#. The line breaks in this headline are for visual formatting only
+#: firefox/whatsnew.lang:134
+msgid ""
+"Congratulations!<br> Your browser is safer and<br>more secure than ever."
+msgstr ""
+
+#. The line breaks in this headline are for visual formatting only
+#: firefox/whatsnew.lang:139
+msgid "Get the same level of<br> choice and innovation<br> in a smartphone."
+msgstr ""
+
+#: firefox/whatsnew.lang:143
+msgid "Learn more about Firefox OS"
+msgstr ""

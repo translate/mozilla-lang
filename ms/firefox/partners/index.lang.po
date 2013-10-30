@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-18 23:23+0100\n"
+"POT-Creation-Date: 2013-10-17 00:42+0100\n"
 "PO-Revision-Date: 2013-08-30 10:29+0000\n"
 "Last-Translator: haryati <haryati.salehin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,73 +33,75 @@ msgstr "Hubungi pasukan pembangunan bisnes kami untuk menyertainya."
 
 #. Field
 #: firefox/partners/index.lang:21
+msgctxt "./firefox/partners/index.lang:21"
 msgid "First Name"
-msgstr "Nama Pertama"
+msgstr ""
 
 #. Field
 #: firefox/partners/index.lang:26
+msgctxt "./firefox/partners/index.lang:26"
 msgid "Last Name"
-msgstr "Nama Akhir"
+msgstr ""
 
 #. Field
 #: firefox/partners/index.lang:31
+msgctxt "./firefox/partners/index.lang:31"
 msgid "Title"
-msgstr "Gelaran"
+msgstr ""
 
 #. Field
 #: firefox/partners/index.lang:36
+msgctxt "./firefox/partners/index.lang:36"
 msgid "Company"
-msgstr "Syarikat"
+msgstr ""
 
 #. Field
 #: firefox/partners/index.lang:41
+msgctxt "./firefox/partners/index.lang:41"
 msgid "Website"
-msgstr "Laman web"
+msgstr ""
 
 #. Field
 #: firefox/partners/index.lang:46
 msgid "Email"
 msgstr "Emel"
 
-#. Field
+#. Form field
 #: firefox/partners/index.lang:51
+msgctxt "./firefox/partners/index.lang:51"
 msgid "Phone"
-msgstr "Telefon"
+msgstr ""
 
-#: firefox/partners/index.lang:55
+#. Form field
+#: firefox/partners/index.lang:56
 msgid "Interest:"
 msgstr "Minat:"
 
 #. Specific interest
-#: firefox/partners/index.lang:60
+#: firefox/partners/index.lang:61
 msgid "Firefox for Android"
 msgstr "Firefox untuk Android"
 
 #. Specific interest
-#: firefox/partners/index.lang:65
+#: firefox/partners/index.lang:66
 msgid "Other"
 msgstr "Lain-lain"
 
 #. Tooltip for selected options
-#: firefox/partners/index.lang:70
+#: firefox/partners/index.lang:71
 msgid "Interest"
 msgstr "Minat"
 
-#. Comment field default text
-#: firefox/partners/index.lang:75
-msgid "Comments or questions?"
-msgstr "Komen atau soalan?"
-
 #. Submit button text
-#: firefox/partners/index.lang:80
+#: firefox/partners/index.lang:76
 msgid "Submit my request"
 msgstr "Hantarkan permintaan saya"
 
-#: firefox/partners/index.lang:84
+#: firefox/partners/index.lang:80
 msgid "Thanks for your interest in partnering with us"
 msgstr "Terima kasih atas minat anda untuk bersama kami"
 
-#: firefox/partners/index.lang:88
+#: firefox/partners/index.lang:84
 msgid ""
 "We will review your request and get back to you about possibilities and "
 "opportunities soon."
@@ -109,34 +111,21 @@ msgstr ""
 
 #. # MAIN CONTENT ##
 #. Top menu item
-#: firefox/partners/index.lang:96
+#: firefox/partners/index.lang:92
 msgid "Overview"
 msgstr "Sekilas pandang"
 
 #. Text on the left, on top of the Firefox logo
-#: firefox/partners/index.lang:101
+#: firefox/partners/index.lang:97
 msgid "Explore the site"
 msgstr "Jelajah laman in"
 
 #. Page title
-#: firefox/partners/index.lang:106
+#: firefox/partners/index.lang:102
 msgid "Blaze Your Own Path"
 msgstr "Merintis Perjalanan Anda Sendiri"
 
-#: firefox/partners/index.lang:110
-msgid ""
-"We’re enabling operators, phone manufacturers and developers to manage, "
-"customize and own relationships with their customers directly through our "
-"mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox "
-"Marketplace</a> and <a %(url3)s>Firefox for Android</a>."
-msgstr ""
-"Kami sedang membolehkan operator, pengeluar telefon dan pembangun untuk "
-"mengurus, menyesuai dan memiliki hubungan dengan pelanggan mereka secara "
-"terus melalui produk mudah alih kami: <a %(url1)s>Firefox OS</a>, <a "
-"%(url2)s>Firefox Marketplace</a> dan <a %(url3)s>Firefox untuk Andoid</a>."
-
-#. This is exactly the same string as above but the verb 'own' was changed to 'improve'
-#: firefox/partners/index.lang:115
+#: firefox/partners/index.lang:106
 msgid ""
 "We’re enabling operators, phone manufacturers and developers to manage, "
 "customize and improve relationships with their customers directly through "
@@ -148,49 +137,26 @@ msgstr ""
 "terus melalui produk mudah alih kami: <a %(url1)s>Firefox OS</a>, <a "
 "%(url2)s>Firefox Marketplace</a> dan <a %(url3)s>Firefox untuk Andoid</a>."
 
-#: firefox/partners/index.lang:119
+#: firefox/partners/index.lang:110
 msgid "See more partners"
 msgstr "Lihat lebih banyak rakan kongsi"
 
-#: firefox/partners/index.lang:123
+#: firefox/partners/index.lang:114
 msgid "Recent news"
 msgstr "Berita mutakhir"
 
 #. This is a button showing the contact form
-#: firefox/partners/index.lang:128
+#: firefox/partners/index.lang:119
 msgid "Partner with us"
 msgstr "Bekerjasama dengan kami"
 
-#. App Planet is a location in the building, don't translate
-#: firefox/partners/index.lang:133
-msgid "Join us at Stand F20, Hall 8.1, App Planet"
-msgstr "Sertai kami di Stand F20, Hall 8.1, App Planet"
-
-#: firefox/partners/index.lang:137
-msgid "Our keynote & other scheduled events"
-msgstr "Keynote kami & acara yang dijadualkan lain"
-
-#: firefox/partners/index.lang:141
-msgid "Firefox tweets from MWC in Barcelona"
-msgstr "Tweet Firefox daripada MWC di Barcelona"
-
 #. Title
-#: firefox/partners/index.lang:146
+#: firefox/partners/index.lang:124
 msgid "The Web is the platform"
 msgstr "Web adalah sebuah platform"
 
-#: firefox/partners/index.lang:150
-msgid ""
-"Backed by some of the biggest names in the industry, Firefox OS is an open "
-"platform that fosters greater participation in the value chain. <a "
-"%(url)s>See how you can get involved.</a>"
-msgstr ""
-"Disokong oleh beberapa nama besar dalam industri, Firefox OS adalah sebuah "
-"platform terbuka yang dibantu partisipasi lebih dalam rantaian nilai. <a "
-"%(url)s>Lihat bagaimana anda dapat sertai bersama.</a>"
-
 #. Rewording of the previous sentence to link to the Firefox OS consumer site
-#: firefox/partners/index.lang:155
+#: firefox/partners/index.lang:129
 msgid ""
 "Backed by some of the biggest names in the industry, Firefox OS is an open "
 "platform that fosters greater participation in the value chain. <a "
@@ -199,11 +165,11 @@ msgid ""
 msgstr ""
 
 #. Title
-#: firefox/partners/index.lang:160
+#: firefox/partners/index.lang:134
 msgid "Made of the Web"
 msgstr "Dicipta daripada Web"
 
-#: firefox/partners/index.lang:164
+#: firefox/partners/index.lang:138
 msgid ""
 "Built entirely using HTML5 and other open Web standards, Firefox OS is free "
 "from the rules and restrictions of existing proprietary platforms."
@@ -213,11 +179,11 @@ msgstr ""
 "empunya sedia ada."
 
 #. Title
-#: firefox/partners/index.lang:169
+#: firefox/partners/index.lang:143
 msgid "Made by Firefox"
 msgstr "Dibuat oleh Firefox"
 
-#: firefox/partners/index.lang:173
+#: firefox/partners/index.lang:147
 msgid ""
 "For the past 15 years, we’ve been instrumental in innovating and shaping the "
 "Web to keep it open and accessible to all. As a result of our efforts, one "
@@ -229,57 +195,49 @@ msgstr ""
 "terjadi melalui produk Firefox."
 
 #. Title
-#: firefox/partners/index.lang:178
+#: firefox/partners/index.lang:152
 msgid "The difference the Open Web makes"
 msgstr "Perbezaan yang dilakukan oleh Open Web"
 
 #. List title
-#: firefox/partners/index.lang:183
+#: firefox/partners/index.lang:157
 msgid "Firefox OS offers:"
 msgstr "Firefox OS menawarkan:"
 
 #. List item
-#: firefox/partners/index.lang:188
+#: firefox/partners/index.lang:162
 msgid "A level playing field against other OS and marketplace providers"
 msgstr "Satu peringkat bidang permainan menghadapi OS dan pembekal marketplace"
 
 #. List item
-#: firefox/partners/index.lang:193
+#: firefox/partners/index.lang:167
 msgid "Greater participation in the value chain"
 msgstr "Lebih penglibatan dalam rantaian nilai"
 
 #. List item
-#: firefox/partners/index.lang:198
+#: firefox/partners/index.lang:172
 msgid "Ownership and control over relationships with customers"
 msgstr "Pemilikan dan kawalan perhubungan dengan pelanggan"
 
 #. List item
-#: firefox/partners/index.lang:203
+#: firefox/partners/index.lang:177
 msgid ""
 "Customized phones that meet the specific needs of various target markets"
 msgstr ""
 "Telefon yang disesuaikan yang memenuhi keperluan khusus pelbagai sasaran "
 "pasaran"
 
-#: firefox/partners/index.lang:207
-msgid "White Papers"
-msgstr "White Papers"
-
-#: firefox/partners/index.lang:211
-msgid "Learn more about the technology behind Firefox OS"
-msgstr "Ketahui lanjut mengenai teknologi sebalik Firefox OS"
-
 #. This is the same string as the one in the contact form but it doesn't have a final dot
-#: firefox/partners/index.lang:216
+#: firefox/partners/index.lang:182
 msgid "Contact our business development team to get on board"
 msgstr "Hubungi tim pembangunan perniagaan kami untuk maklumat lanjut"
 
 #. Title
-#: firefox/partners/index.lang:221
+#: firefox/partners/index.lang:187
 msgid "HTML5 apps for all"
 msgstr "Aplikasi HTML5 untuk semua"
 
-#: firefox/partners/index.lang:225
+#: firefox/partners/index.lang:191
 msgid ""
 "Discover a new way to participate in an ecosystem that features the world’s "
 "most popular apps as well as more relevant, targeted content to suit "
@@ -293,11 +251,11 @@ msgstr ""
 "%(url2)s> pembangun</a>."
 
 #. Title
-#: firefox/partners/index.lang:230
+#: firefox/partners/index.lang:196
 msgid "Your needs"
 msgstr "Keperluan anda"
 
-#: firefox/partners/index.lang:234
+#: firefox/partners/index.lang:200
 msgid ""
 "Grow your business by combining your own customer payment plans with our "
 "open source service offerings, reach new markets and customize purchasing "
@@ -308,11 +266,11 @@ msgstr ""
 "kustomisasi pembelian dan pengalaman apl untuk sampai apa yang anda mahukan."
 
 #. Title
-#: firefox/partners/index.lang:239
+#: firefox/partners/index.lang:205
 msgid "Our experience"
 msgstr "Pengalaman kami"
 
-#: firefox/partners/index.lang:243
+#: firefox/partners/index.lang:209
 msgid ""
 "Our proven track record of providing excellent user experiences and serving "
 "content to huge global audiences runs through everything we do. Our "
@@ -326,69 +284,64 @@ msgstr ""
 "dunia."
 
 #. Title
-#: firefox/partners/index.lang:248
+#: firefox/partners/index.lang:214
 msgid "Testimonials"
 msgstr "Testimonial"
 
-#: firefox/partners/index.lang:252
+#: firefox/partners/index.lang:218
 msgid "See what Box, SoundCloud and others have to say"
 msgstr "Lihat apa Box, SounCloud dan lain-lain menyuarakan pendapat mereka"
 
 #. Title
-#: firefox/partners/index.lang:257
+#: firefox/partners/index.lang:223
 msgid "Join the Conversation"
 msgstr "Sertai Perbualan"
 
-#: firefox/partners/index.lang:261
+#: firefox/partners/index.lang:227
 msgid "Follow @firefoxapps on Twitter"
 msgstr "Ikuti @firefoxapps di Twitter"
 
-#: firefox/partners/index.lang:265
+#: firefox/partners/index.lang:231
 msgid "Read more on the Apps Blog"
 msgstr "Baca selanjutnya di Apps Blog"
 
 #. Title
-#: firefox/partners/index.lang:270
+#: firefox/partners/index.lang:236
 msgid "The world’s largest developer community"
 msgstr "Komuniti pembangun yang terbesar di dunia"
 
 #. List title
-#: firefox/partners/index.lang:275
+#: firefox/partners/index.lang:241
 msgid "Marketplace offers:"
 msgstr "Marketplace menawarkan:"
 
 #. List item. Tier 1 developers = very famous developpers from top companies
-#: firefox/partners/index.lang:280
+#: firefox/partners/index.lang:246
 msgid "Commitment from well-known, tier 1 developers"
 msgstr "Komitmen daripada sedia umum, pembangun tier 1"
 
 #. List item
-#: firefox/partners/index.lang:285
+#: firefox/partners/index.lang:251
 msgid ""
 "Micro-targeted content for every use-case to meet customers’ local needs"
 msgstr ""
 "Sasaran maklumat mikro untuk pengguna seharian bagi kegunaan pelanggan lokal"
 
 #. List item
-#: firefox/partners/index.lang:290
+#: firefox/partners/index.lang:256
 msgid ""
 "Lower barriers to entry for local app developers in both resource and cost"
 msgstr ""
 "Halangan rendah untuk kemasukan bagi pembangun aplikasi lokal dalam kedua-"
 "dua sumber dan kos"
 
-#. This is a button
-#: firefox/partners/index.lang:295
-msgid "MWC demonstrations"
-msgstr "Demonstrasi MWC"
-
 #. Title
-#: firefox/partners/index.lang:300
+#: firefox/partners/index.lang:261
 msgid "Developed with developers in mind"
 msgstr "Dibangunkan dengan fikiran pembangun"
 
 #. List item
-#: firefox/partners/index.lang:305
+#: firefox/partners/index.lang:266
 msgid ""
 "Apps that customers can access across multiple platforms, devices and "
 "operating systems"
@@ -397,18 +350,18 @@ msgstr ""
 "dan sistem operasi yang pelbagai."
 
 #. List item
-#: firefox/partners/index.lang:310
+#: firefox/partners/index.lang:271
 msgid "Flexible business models and multiple payment monetization options"
 msgstr ""
 "Model perniagaan yang fleksibel dan pelbagai pilihan pengewangan pembayaran."
 
 #. List item
-#: firefox/partners/index.lang:315
+#: firefox/partners/index.lang:276
 msgid "Optional carrier billing in regional currencies"
 msgstr "Pilihan pembayaran bil dalam pelbagai mata wang"
 
 #. List item
-#: firefox/partners/index.lang:320
+#: firefox/partners/index.lang:281
 msgid ""
 "The ability to connect with hundreds of millions of Firefox supporters "
 "around the world"
@@ -416,46 +369,34 @@ msgstr ""
 "Kebolehan untuk berhubung dengan jutaan penyokong Firefox di seluruh dunia"
 
 #. List item
-#: firefox/partners/index.lang:325
+#: firefox/partners/index.lang:286
 msgid "Access to relatively untapped markets"
 msgstr "Akses kepada relatif pasaran yang belum diteroka"
 
 #. Title
-#: firefox/partners/index.lang:330
+#: firefox/partners/index.lang:291
 msgid "Developer hub"
 msgstr "Hab pembangun"
 
-#: firefox/partners/index.lang:334
+#: firefox/partners/index.lang:295
 msgid "Learn how to make HTML5 apps for an open marketplace"
 msgstr "Ketahui cara-cara membuat aplikasi HTML5 untuk pasaran terbuka"
 
 #. Title
-#: firefox/partners/index.lang:339
+#: firefox/partners/index.lang:300
 msgid "Have an app?"
 msgstr "Anda mempunyai aplikasi?"
 
-#: firefox/partners/index.lang:343
+#: firefox/partners/index.lang:304
 msgid "Submit it to the Firefox Marketplace today"
 msgstr "Hantarkan ia ke Firefox Marketplace hari ini"
 
-#. WIMJam is an event in MWC where developpers meet and code
-#: firefox/partners/index.lang:348
-msgid "Jam with us, learn about new tools, meet other developers and more"
-msgstr ""
-"Jam bersama kami, belajar perkara baru, bertemu dengan pembangun web dan "
-"lain-lain lagi"
-
-#. Button
-#: firefox/partners/index.lang:353
-msgid "Register"
-msgstr "Daftar"
-
 #. Title
-#: firefox/partners/index.lang:358
+#: firefox/partners/index.lang:309
 msgid "A superior Web experience"
 msgstr "Suatu pengalaman Web yang unggul"
 
-#: firefox/partners/index.lang:362
+#: firefox/partners/index.lang:313
 msgid ""
 "With high-performance, advanced cross-platform features and the latest in "
 "security, our top-rated browser offers an alternative to closed platforms, "
@@ -469,11 +410,11 @@ msgstr ""
 "lebih lanjut tentang peluang-peluang rakan kongsi. </a>"
 
 #. Title
-#: firefox/partners/index.lang:367
+#: firefox/partners/index.lang:318
 msgid "Strengthen customer relationships"
 msgstr "Mengukuhkan hubungan dengan pelanggan"
 
-#: firefox/partners/index.lang:371
+#: firefox/partners/index.lang:322
 msgid ""
 "Create your own unique branded sections of Firefox for Android and Firefox "
 "Marketplace for a more engaging user experience and to increase the "
@@ -484,11 +425,11 @@ msgstr ""
 "meningkatkan keterlihatan jenama anda. "
 
 #. Title
-#: firefox/partners/index.lang:376
+#: firefox/partners/index.lang:327
 msgid "Create new value for both you and your users"
 msgstr "Cipta suatu nilai baru untuk anda dan para pengguna"
 
-#: firefox/partners/index.lang:380
+#: firefox/partners/index.lang:331
 msgid ""
 "Take advantage of service opportunities like Firefox Marketplace and WebRTC "
 "to create new, platform-independent offerings and establish direct customer "
@@ -499,16 +440,11 @@ msgstr ""
 "pelanggan secara langsung."
 
 #. Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
-#: firefox/partners/index.lang:385
+#: firefox/partners/index.lang:336
 msgid "Stand out <br>from the crowd"
 msgstr "Jadi <br>perhatian khalayak"
 
-#. Title.
-#: firefox/partners/index.lang:390
-msgid "Stand out from the crowd"
-msgstr "Jadi perhatian khalayak"
-
-#: firefox/partners/index.lang:394
+#: firefox/partners/index.lang:340
 msgid ""
 "Take advantage of our strong brand and service offerings to differentiate "
 "your product and drive sales."
@@ -517,16 +453,16 @@ msgstr ""
 "untuk membezakan produk anda dan memacu jualan."
 
 #. List Title
-#: firefox/partners/index.lang:399
+#: firefox/partners/index.lang:345
 msgid "Firefox for Android lets you:"
 msgstr "Firefox untuk Android membolehkan anda:"
 
 #. list item sub-title
-#: firefox/partners/index.lang:404
+#: firefox/partners/index.lang:350
 msgid "Customize the experience"
 msgstr "Menyesuaikan pengalaman"
 
-#: firefox/partners/index.lang:408
+#: firefox/partners/index.lang:354
 msgid ""
 "Add your brand and content to increase customer touchpoints, improve "
 "retention and drive future sales."
@@ -535,11 +471,11 @@ msgstr ""
 "pelanggan, meningkatkan pengekalan dan memacu jualan masa depan."
 
 #. list item sub-title
-#: firefox/partners/index.lang:413
+#: firefox/partners/index.lang:359
 msgid "Build new service offerings"
 msgstr "Bina penawaran servis yang baru "
 
-#: firefox/partners/index.lang:417
+#: firefox/partners/index.lang:363
 msgid ""
 "Integrate services directly into the browser with Firefox Marketplace and "
 "WebRTC to free yourself from the constraints of proprietary platforms."
@@ -548,11 +484,11 @@ msgstr ""
 "dan WebRTC untuk membebaskan anda daripada kekangan platform proprietari."
 
 #. list item sub-title
-#: firefox/partners/index.lang:422
+#: firefox/partners/index.lang:368
 msgid "Direct customer billing"
 msgstr "Keutamaan pelanggan secara langsung"
 
-#: firefox/partners/index.lang:426
+#: firefox/partners/index.lang:372
 msgid ""
 "Grow your business by combining your own customer payment plans with our "
 "open source service offerings."
@@ -560,321 +496,426 @@ msgstr ""
 "Kembangkan perniagaan anda dengan menyatukan pelan pembayaran pelanggan anda "
 "dengan tawaran khidmat sumber terbuka kami."
 
-#: firefox/partners/index.lang:430
+#: firefox/partners/index.lang:376
 msgid "Partner Opportunities"
 msgstr "Peluang Rakan Penaja"
 
-#: firefox/partners/index.lang:434
+#: firefox/partners/index.lang:380
 msgid "For Developers"
 msgstr "Untuk Pembangun"
 
-#. # LOCATION OVERLAY AND MAP ##
-#: firefox/partners/index.lang:441
-msgid "Location"
-msgstr "Lokasi"
-
-#: firefox/partners/index.lang:445
-msgid "Firefox at MWC 2013 — Stand F20, Hall 8.1, App Planet"
-msgstr "Firefox di MWC 2013 — Stand F20, Hall 8.1, App Planet"
-
-#: firefox/partners/index.lang:449
-msgid "From the South Entrance:"
-msgstr "Dari South Entrance:"
-
-#: firefox/partners/index.lang:453
-msgid ""
-"Walk straight down the main hallway of Hall 8.1. Our stand is located in the "
-"middle of the hall on the right."
-msgstr ""
-"Jalan terus ke bawah lorong utama Hall 8.1. Kami terletak di tengah-tengah "
-"dewan di sebelah kanan."
-
-#: firefox/partners/index.lang:457
-msgid "From the North Entrance:"
-msgstr "Dari North Entrance:"
-
-#: firefox/partners/index.lang:461
-msgid ""
-"Go up the escalator to Hall 8.1. Our stand is located in the middle of the "
-"hall."
-msgstr "Naik eskalator ke Hall 8,1. Kami terletak di tengah-tengah dewan."
-
-#: firefox/partners/index.lang:465
-msgid "Download map (PDF)"
-msgstr "Muat turun peta (PDF)"
-
-#: firefox/partners/index.lang:469
+#: firefox/partners/index.lang:384
 msgid "For Operators & Manufacturers"
 msgstr "Untuk Pengendali dan Pengeluar"
 
-#: firefox/partners/index.lang:473
-msgid "Mobile World Congress, Barcelona, 25 - 28 February 2013"
-msgstr "Mobile World Congress, Barcelona, 25 - 28 Februari 2013"
-
-#: firefox/partners/index.lang:477
-msgid "Firefox at MWC 2013 — Schedule of events"
-msgstr "Firefox di MWC 2013 — Jadual acara"
-
-#: firefox/partners/index.lang:481
-msgid "Schedule"
-msgstr "Jadual"
-
-#: firefox/partners/index.lang:485
-msgid "09:00-10:30 CET"
-msgstr "09:00-10:30 CET"
-
-#: firefox/partners/index.lang:489
-msgid "12:30-13:00 CET"
-msgstr "12:30-13:00 CET"
-
-#: firefox/partners/index.lang:493
-msgid "09:00-16:00 CET"
-msgstr "09:00-16:00 CET"
-
-#: firefox/partners/index.lang:497
-msgid "13:00-15:00 CET"
-msgstr "13:00-15:00 CET"
-
-#: firefox/partners/index.lang:501
-msgid "16:00-17:30 CET"
-msgstr "16:00-17:30 CET"
-
-#: firefox/partners/index.lang:505
-msgid "16:00-23:00 CET (awards at 22:30)"
-msgstr "16:00-23:00 CET (penyampaian anugerah pada 22:30)"
-
-#: firefox/partners/index.lang:509
-msgid "17:45-18:30 CET"
-msgstr "17:45-18:30 CET"
-
-#: firefox/partners/index.lang:513
-msgid "09:00 – 11:30:"
-msgstr "09:00 – 11:30:"
-
-#: firefox/partners/index.lang:517
-msgid "11:30 – 14:00:"
-msgstr "11:30 – 14:00:"
-
-#: firefox/partners/index.lang:521
-msgid "14:00 – 16:30:"
-msgstr "14:00 – 16:30:"
-
-#: firefox/partners/index.lang:525
-msgid "16:30 – 19:00:"
-msgstr "16:30 – 19:00:"
-
-#: firefox/partners/index.lang:529
-msgid "VP of Products, Mozilla"
-msgstr "VP untuk Produk, Mozilla"
-
-#. Title
-#: firefox/partners/index.lang:534
-msgid "Gary Kovacs CEO of Mozilla Keynote"
-msgstr "Gary Kovacs CEO Mozilla Keynote"
-
-#: firefox/partners/index.lang:538
-msgid ""
-"Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an Open "
-"Web device in markets around the world and how Firefox OS will help "
-"operators, phone manufacturers and developers reach the next billion Web "
-"users."
-msgstr ""
-"Ucaptama dari Mozilla CEO Gary Kovac akan membincangkan manfaat peranti Web "
-"Terbuka dalam pasaran dunia dan cara Firefox OS membantu pengendali, "
-"pengeluar telefon dan pembangun untuk mencapai sebilion pengguna Web yang "
-"seterusnya."
-
-#: firefox/partners/index.lang:542
-msgid "Hall 4, Conference Village, Auditorium 1"
-msgstr "Hall 4, Conference Village, Auditorium 1"
-
-#. Title, Mobile World Live is to keep in English http://www.mobileworldlive.com
-#: firefox/partners/index.lang:547
-msgid "Mobile World Live Keynote with Mitchell Baker"
-msgstr "Mobile World Live Keynote bersama Mitchell Baker"
-
-#: firefox/partners/index.lang:551
-msgid ""
-"Mitchell Baker, Chairperson of the Mozilla Foundation, will discuss the "
-"importance of bringing Open Web innovation to mobile devices."
-msgstr ""
-"Mitchell Baker, Pengerusi Mozilla Foundation, akan membincangkan tentang "
-"kepentingan membawa inovasi Web Terbuka ke peranti mudah alih."
-
-#. Title
-#: firefox/partners/index.lang:556
-msgid "Mobile App Privacy Debate"
-msgstr "Debat Keselamatan Mobile Apl"
-
-#: firefox/partners/index.lang:560
-msgid ""
-"Harvey Anderson, Vice President of Business Affairs and General Counsel at "
-"Mozilla, will take part in the debate “Mobile app privacy: What’s your "
-"view?” This interactive session is for anyone interested in helping "
-"consumers easily make privacy choices on a mobile device."
-msgstr ""
-"Harvey Anderson, Naib Presiden Hal Ehwal Perniagaan dan Penasihat Umum di "
-"Mozilla, akan menyertai debat \"Privasi aplikasi peranti mudah alih: Apa "
-"pandangan anda?\" Sesi interaktif ini terbuka kepada sesiapa yang berminat "
-"untuk membantu pengguna membuat pilihan privasi ke atas peranti mudah alih."
-
-#. Title
-#: firefox/partners/index.lang:565
-msgid "Apps Panel: Evolving Ecosystems"
-msgstr "Apps Panel: Ekosistem Berkembang"
-
-#: firefox/partners/index.lang:569
-msgid ""
-"Jay Sullivan, Vice President of Products, will take part in the Apps Panel: "
-"Evolving Ecosystems. The panel will discuss the current state of the apps "
-"industry and consider how the roles and responsibilities within it are "
-"adapting as the apps market evolves."
-msgstr ""
-"Jay Sullivan, Naib Presiden Produk, akan mengambil bahagian dalam Panel "
-"Apps: Ekosistem Berkembang. Panel ini akan membincangkan keadaan semasa "
-"industri aplikasi dan menimbang cara peranan dan tanggungjawab yang "
-"berkaitan menyesuaikan diri sebagaimana pasaran aplikasi berkembang."
-
-#: firefox/partners/index.lang:573
-msgid "Hall 4, Conference Village, Auditorium 2"
-msgstr "Hall 4, Conference Village, Auditorium 2"
-
-#: firefox/partners/index.lang:577
-msgid "GSMA Pavilion, Congress Square (CS80)"
-msgstr "GSMA Pavilion, Congress Square (CS80)"
-
-#. Title: keep Mobile World Live TV in English : http://www.mobileworldcongress.com/mobile-world-live/
-#: firefox/partners/index.lang:582
-msgid "Mobile World Live TV Panel"
-msgstr "Mobile World Live TV Panel"
-
-#: firefox/partners/index.lang:586
-msgid ""
-"Johnathan Nightingale, VP of Firefox Engineering, will participate in a "
-"discussion about future opportunities in the apps market."
-msgstr ""
-"Johnathan Nightingale, VP di Firefox Engineering, akan mengambil bahagian "
-"dalam perbincangan mengenai peluang pada masa hadapan dalam pasaran aplikasi."
-
-#: firefox/partners/index.lang:590
-msgid ""
-"Location: the live panel will be streamed on all major screens throughout "
-"the show area"
-msgstr ""
-"Lokasi: panel secara langsung akan disiarkan pada semua skrin utama di "
-"seluruh kawasan pertunjukan"
-
-#. Title
-#: firefox/partners/index.lang:595
-msgid "Mobile Premier Awards & AppCircus After Party"
-msgstr "Mobile Premier Awards & AppCircus After Party"
-
-#: firefox/partners/index.lang:599
-msgid ""
-"Firefox Marketplace VP Rick Fant will select and present the winning app."
-msgstr ""
-"VP Firefox Marketplace Rick Fant akan memilih dan menyampaikan anugerah "
-"kepada pemenang aplikasi."
-
-#. Title
-#: firefox/partners/index.lang:604
-msgid "WIP Jam - Day for Developers"
-msgstr "WIP Jam - Hari untuk Pembangun"
-
-#: firefox/partners/index.lang:608
-msgid ""
-"The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and "
-"Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A "
-"session on “Why Open Web Apps & Firefox OS are good for mobile developers.” "
-"Mozilla developer evangelist Chris Heilmann will present an UnPanel on "
-"\"HTML5 Beyond the Hype\" and lead several HTML5 discussion groups. WIP Jam "
-"will also see DemoCamps of HTML5 apps created during Mozilla Developer Days. "
-"Full schedule available here: %(link)s"
-msgstr ""
-"Acara utama untuk pembangun mudah alih di MWC. Mozilla CTO Brendan Eich and "
-"Mozilla Developer Evengelist Robert Nyman akan mengadakan sebuah bengkel dan "
-"sesi Q&A iaitu “Kenapa Aplikasi Web Terbuka & Firefox OS adalah bagus untuk "
-"pembangun mudah alih.\" Mozilla developer evangelist Chris Heilmann akan "
-"membentangkan sebuah UnPanel pada \"HTML5 Beyond the Hype\" dan akan "
-"mengetuai beberapa kumpulan perbincangan HTML5. WIP Jam akan mengadakan "
-"DemoCamps daripada aplikasi HTML5 dilakukan semasa Mozilla Developer Days. "
-"Jadual penuh akan sedia ada disini: %(link)s"
-
-#: firefox/partners/index.lang:612
-msgid "Location TBD"
-msgstr "Lokasi TBD"
-
-#: firefox/partners/index.lang:616
-msgid "Monday"
-msgstr "Isnin"
-
-#: firefox/partners/index.lang:620
-msgid "Tuesday"
-msgstr "Selasa"
-
-#: firefox/partners/index.lang:624
-msgid "Wednesday"
-msgstr "Rabu"
-
-#: firefox/partners/index.lang:628
-msgid "Thursday"
-msgstr "Khamis"
-
-#: firefox/partners/index.lang:632
-msgid "February 25"
-msgstr "Februari 25"
-
-#: firefox/partners/index.lang:636
-msgid "February 26"
-msgstr "Februari 26"
-
-#: firefox/partners/index.lang:640
-msgid "February 27"
-msgstr "Februari 27"
-
-#: firefox/partners/index.lang:644
-msgid "February 28"
-msgstr "Februari 28"
-
-#: firefox/partners/index.lang:648
-msgid "CEO, Mozilla"
-msgstr "CEO, Mozilla"
-
-#: firefox/partners/index.lang:652
+#: firefox/partners/index.lang:388
+msgctxt "./firefox/partners/index.lang:388"
 msgid "Mobile"
-msgstr "Mobile"
+msgstr ""
 
-#: firefox/partners/index.lang:656
-msgid "Back to top"
-msgstr "Kembali ke atas"
-
-#: firefox/partners/index.lang:660
+#: firefox/partners/index.lang:392
 msgid "Firefox Marketplace — Developer testimonials"
 msgstr "Firefox Marketplace — Testimoni pembangun"
 
-#: firefox/partners/index.lang:664
+#: firefox/partners/index.lang:396
 msgid "Get it on Google Play"
 msgstr "Dapatkan ia di Google Play"
 
 #. Press title in Recent News
-#: firefox/partners/index.lang:669
+#: firefox/partners/index.lang:401
 msgid "Mozilla Announces Global Expansion for Firefox OS"
 msgstr "Mozilla Mengumumkan Pengembangan Global bagi Firefox OS"
 
 #. Press title in Recent News
-#: firefox/partners/index.lang:674
+#: firefox/partners/index.lang:406
 msgid "Watch our wrap-up video from Mobile World Congress 2013"
 msgstr ""
 
 #. Press title in Recent News
-#: firefox/partners/index.lang:679
+#: firefox/partners/index.lang:411
 msgid "Mozilla and partners prepare to launch first Firefox OS smartphones"
 msgstr ""
 
-#: firefox/partners/index.lang:683
+#: firefox/partners/index.lang:415
 msgid "View the version notes"
 msgstr ""
 
-#: firefox/partners/index.lang:687
+#: firefox/partners/index.lang:419
 msgid "Read about features, changes and more"
 msgstr ""
+
+#. Form field
+#: firefox/partners/index.lang:424
+msgid "Description"
+msgstr ""
+
+#. Form field
+#: firefox/partners/index.lang:429
+msgctxt "./firefox/partners/index.lang:429"
+msgid "First Name"
+msgstr ""
+
+#. Form error message
+#: firefox/partners/index.lang:434
+msgid "Please enter your first name."
+msgstr ""
+
+#. Form field
+#: firefox/partners/index.lang:439
+msgctxt "./firefox/partners/index.lang:439"
+msgid "Last Name"
+msgstr ""
+
+#. Form error message
+#: firefox/partners/index.lang:444
+msgid "Please enter your last name."
+msgstr ""
+
+#. ex: president, CEO...
+#: firefox/partners/index.lang:449
+msgctxt "./firefox/partners/index.lang:449"
+msgid "Title"
+msgstr ""
+
+#. Form field
+#: firefox/partners/index.lang:454
+msgctxt "./firefox/partners/index.lang:454"
+msgid "Company"
+msgstr ""
+
+#. Form error message
+#: firefox/partners/index.lang:459
+msgid "Please enter your company name."
+msgstr ""
+
+#. Form field
+#: firefox/partners/index.lang:464
+msgctxt "./firefox/partners/index.lang:464"
+msgid "Website"
+msgstr ""
+
+#. Form error message
+#. Form field
+#: firefox/partners/index.lang:474
+msgctxt "./firefox/partners/index.lang:474"
+msgid "Phone"
+msgstr ""
+
+#. form, asking for mobile phone number
+#: firefox/partners/index.lang:479
+msgctxt "./firefox/partners/index.lang:479"
+msgid "Mobile"
+msgstr ""
+
+#. Form, Physical address field (street, city...)
+#: firefox/partners/index.lang:484
+msgid "Address"
+msgstr ""
+
+#. Form field
+#: firefox/partners/index.lang:489
+msgid "City"
+msgstr ""
+
+#. Form field
+#: firefox/partners/index.lang:494
+msgid "State/Province"
+msgstr ""
+
+#. Form field
+#: firefox/partners/index.lang:499
+msgid "Country"
+msgstr ""
+
+#. Form field, postal code
+#: firefox/partners/index.lang:504
+msgid "Zip"
+msgstr ""
+
+#~ msgid "First Name"
+#~ msgstr "Nama Pertama"
+
+#~ msgid "Last Name"
+#~ msgstr "Nama Akhir"
+
+#~ msgid "Title"
+#~ msgstr "Gelaran"
+
+#~ msgid "Company"
+#~ msgstr "Syarikat"
+
+#~ msgid "Website"
+#~ msgstr "Laman web"
+
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "Comments or questions?"
+#~ msgstr "Komen atau soalan?"
+
+#~ msgid ""
+#~ "We’re enabling operators, phone manufacturers and developers to manage, "
+#~ "customize and own relationships with their customers directly through our "
+#~ "mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox "
+#~ "Marketplace</a> and <a %(url3)s>Firefox for Android</a>."
+#~ msgstr ""
+#~ "Kami sedang membolehkan operator, pengeluar telefon dan pembangun untuk "
+#~ "mengurus, menyesuai dan memiliki hubungan dengan pelanggan mereka secara "
+#~ "terus melalui produk mudah alih kami: <a %(url1)s>Firefox OS</a>, <a "
+#~ "%(url2)s>Firefox Marketplace</a> dan <a %(url3)s>Firefox untuk Andoid</a>."
+
+#~ msgid "Join us at Stand F20, Hall 8.1, App Planet"
+#~ msgstr "Sertai kami di Stand F20, Hall 8.1, App Planet"
+
+#~ msgid "Our keynote & other scheduled events"
+#~ msgstr "Keynote kami & acara yang dijadualkan lain"
+
+#~ msgid "Firefox tweets from MWC in Barcelona"
+#~ msgstr "Tweet Firefox daripada MWC di Barcelona"
+
+#~ msgid ""
+#~ "Backed by some of the biggest names in the industry, Firefox OS is an "
+#~ "open platform that fosters greater participation in the value chain. <a "
+#~ "%(url)s>See how you can get involved.</a>"
+#~ msgstr ""
+#~ "Disokong oleh beberapa nama besar dalam industri, Firefox OS adalah "
+#~ "sebuah platform terbuka yang dibantu partisipasi lebih dalam rantaian "
+#~ "nilai. <a %(url)s>Lihat bagaimana anda dapat sertai bersama.</a>"
+
+#~ msgid "White Papers"
+#~ msgstr "White Papers"
+
+#~ msgid "Learn more about the technology behind Firefox OS"
+#~ msgstr "Ketahui lanjut mengenai teknologi sebalik Firefox OS"
+
+#~ msgid "MWC demonstrations"
+#~ msgstr "Demonstrasi MWC"
+
+#~ msgid "Jam with us, learn about new tools, meet other developers and more"
+#~ msgstr ""
+#~ "Jam bersama kami, belajar perkara baru, bertemu dengan pembangun web dan "
+#~ "lain-lain lagi"
+
+#~ msgid "Register"
+#~ msgstr "Daftar"
+
+#~ msgid "Stand out from the crowd"
+#~ msgstr "Jadi perhatian khalayak"
+
+#~ msgid "Location"
+#~ msgstr "Lokasi"
+
+#~ msgid "Firefox at MWC 2013 — Stand F20, Hall 8.1, App Planet"
+#~ msgstr "Firefox di MWC 2013 — Stand F20, Hall 8.1, App Planet"
+
+#~ msgid "From the South Entrance:"
+#~ msgstr "Dari South Entrance:"
+
+#~ msgid ""
+#~ "Walk straight down the main hallway of Hall 8.1. Our stand is located in "
+#~ "the middle of the hall on the right."
+#~ msgstr ""
+#~ "Jalan terus ke bawah lorong utama Hall 8.1. Kami terletak di tengah-"
+#~ "tengah dewan di sebelah kanan."
+
+#~ msgid "From the North Entrance:"
+#~ msgstr "Dari North Entrance:"
+
+#~ msgid ""
+#~ "Go up the escalator to Hall 8.1. Our stand is located in the middle of "
+#~ "the hall."
+#~ msgstr "Naik eskalator ke Hall 8,1. Kami terletak di tengah-tengah dewan."
+
+#~ msgid "Download map (PDF)"
+#~ msgstr "Muat turun peta (PDF)"
+
+#~ msgid "Mobile World Congress, Barcelona, 25 - 28 February 2013"
+#~ msgstr "Mobile World Congress, Barcelona, 25 - 28 Februari 2013"
+
+#~ msgid "Firefox at MWC 2013 — Schedule of events"
+#~ msgstr "Firefox di MWC 2013 — Jadual acara"
+
+#~ msgid "Schedule"
+#~ msgstr "Jadual"
+
+#~ msgid "09:00-10:30 CET"
+#~ msgstr "09:00-10:30 CET"
+
+#~ msgid "12:30-13:00 CET"
+#~ msgstr "12:30-13:00 CET"
+
+#~ msgid "09:00-16:00 CET"
+#~ msgstr "09:00-16:00 CET"
+
+#~ msgid "13:00-15:00 CET"
+#~ msgstr "13:00-15:00 CET"
+
+#~ msgid "16:00-17:30 CET"
+#~ msgstr "16:00-17:30 CET"
+
+#~ msgid "16:00-23:00 CET (awards at 22:30)"
+#~ msgstr "16:00-23:00 CET (penyampaian anugerah pada 22:30)"
+
+#~ msgid "17:45-18:30 CET"
+#~ msgstr "17:45-18:30 CET"
+
+#~ msgid "09:00 – 11:30:"
+#~ msgstr "09:00 – 11:30:"
+
+#~ msgid "11:30 – 14:00:"
+#~ msgstr "11:30 – 14:00:"
+
+#~ msgid "14:00 – 16:30:"
+#~ msgstr "14:00 – 16:30:"
+
+#~ msgid "16:30 – 19:00:"
+#~ msgstr "16:30 – 19:00:"
+
+#~ msgid "VP of Products, Mozilla"
+#~ msgstr "VP untuk Produk, Mozilla"
+
+#~ msgid "Gary Kovacs CEO of Mozilla Keynote"
+#~ msgstr "Gary Kovacs CEO Mozilla Keynote"
+
+#~ msgid ""
+#~ "Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an "
+#~ "Open Web device in markets around the world and how Firefox OS will help "
+#~ "operators, phone manufacturers and developers reach the next billion Web "
+#~ "users."
+#~ msgstr ""
+#~ "Ucaptama dari Mozilla CEO Gary Kovac akan membincangkan manfaat peranti "
+#~ "Web Terbuka dalam pasaran dunia dan cara Firefox OS membantu pengendali, "
+#~ "pengeluar telefon dan pembangun untuk mencapai sebilion pengguna Web yang "
+#~ "seterusnya."
+
+#~ msgid "Hall 4, Conference Village, Auditorium 1"
+#~ msgstr "Hall 4, Conference Village, Auditorium 1"
+
+#~ msgid "Mobile World Live Keynote with Mitchell Baker"
+#~ msgstr "Mobile World Live Keynote bersama Mitchell Baker"
+
+#~ msgid ""
+#~ "Mitchell Baker, Chairperson of the Mozilla Foundation, will discuss the "
+#~ "importance of bringing Open Web innovation to mobile devices."
+#~ msgstr ""
+#~ "Mitchell Baker, Pengerusi Mozilla Foundation, akan membincangkan tentang "
+#~ "kepentingan membawa inovasi Web Terbuka ke peranti mudah alih."
+
+#~ msgid "Mobile App Privacy Debate"
+#~ msgstr "Debat Keselamatan Mobile Apl"
+
+#~ msgid ""
+#~ "Harvey Anderson, Vice President of Business Affairs and General Counsel "
+#~ "at Mozilla, will take part in the debate “Mobile app privacy: What’s your "
+#~ "view?” This interactive session is for anyone interested in helping "
+#~ "consumers easily make privacy choices on a mobile device."
+#~ msgstr ""
+#~ "Harvey Anderson, Naib Presiden Hal Ehwal Perniagaan dan Penasihat Umum di "
+#~ "Mozilla, akan menyertai debat \"Privasi aplikasi peranti mudah alih: Apa "
+#~ "pandangan anda?\" Sesi interaktif ini terbuka kepada sesiapa yang "
+#~ "berminat untuk membantu pengguna membuat pilihan privasi ke atas peranti "
+#~ "mudah alih."
+
+#~ msgid "Apps Panel: Evolving Ecosystems"
+#~ msgstr "Apps Panel: Ekosistem Berkembang"
+
+#~ msgid ""
+#~ "Jay Sullivan, Vice President of Products, will take part in the Apps "
+#~ "Panel: Evolving Ecosystems. The panel will discuss the current state of "
+#~ "the apps industry and consider how the roles and responsibilities within "
+#~ "it are adapting as the apps market evolves."
+#~ msgstr ""
+#~ "Jay Sullivan, Naib Presiden Produk, akan mengambil bahagian dalam Panel "
+#~ "Apps: Ekosistem Berkembang. Panel ini akan membincangkan keadaan semasa "
+#~ "industri aplikasi dan menimbang cara peranan dan tanggungjawab yang "
+#~ "berkaitan menyesuaikan diri sebagaimana pasaran aplikasi berkembang."
+
+#~ msgid "Hall 4, Conference Village, Auditorium 2"
+#~ msgstr "Hall 4, Conference Village, Auditorium 2"
+
+#~ msgid "GSMA Pavilion, Congress Square (CS80)"
+#~ msgstr "GSMA Pavilion, Congress Square (CS80)"
+
+#~ msgid "Mobile World Live TV Panel"
+#~ msgstr "Mobile World Live TV Panel"
+
+#~ msgid ""
+#~ "Johnathan Nightingale, VP of Firefox Engineering, will participate in a "
+#~ "discussion about future opportunities in the apps market."
+#~ msgstr ""
+#~ "Johnathan Nightingale, VP di Firefox Engineering, akan mengambil bahagian "
+#~ "dalam perbincangan mengenai peluang pada masa hadapan dalam pasaran "
+#~ "aplikasi."
+
+#~ msgid ""
+#~ "Location: the live panel will be streamed on all major screens throughout "
+#~ "the show area"
+#~ msgstr ""
+#~ "Lokasi: panel secara langsung akan disiarkan pada semua skrin utama di "
+#~ "seluruh kawasan pertunjukan"
+
+#~ msgid "Mobile Premier Awards & AppCircus After Party"
+#~ msgstr "Mobile Premier Awards & AppCircus After Party"
+
+#~ msgid ""
+#~ "Firefox Marketplace VP Rick Fant will select and present the winning app."
+#~ msgstr ""
+#~ "VP Firefox Marketplace Rick Fant akan memilih dan menyampaikan anugerah "
+#~ "kepada pemenang aplikasi."
+
+#~ msgid "WIP Jam - Day for Developers"
+#~ msgstr "WIP Jam - Hari untuk Pembangun"
+
+#~ msgid ""
+#~ "The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and "
+#~ "Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A "
+#~ "session on “Why Open Web Apps & Firefox OS are good for mobile "
+#~ "developers.” Mozilla developer evangelist Chris Heilmann will present an "
+#~ "UnPanel on \"HTML5 Beyond the Hype\" and lead several HTML5 discussion "
+#~ "groups. WIP Jam will also see DemoCamps of HTML5 apps created during "
+#~ "Mozilla Developer Days. Full schedule available here: %(link)s"
+#~ msgstr ""
+#~ "Acara utama untuk pembangun mudah alih di MWC. Mozilla CTO Brendan Eich "
+#~ "and Mozilla Developer Evengelist Robert Nyman akan mengadakan sebuah "
+#~ "bengkel dan sesi Q&A iaitu “Kenapa Aplikasi Web Terbuka & Firefox OS "
+#~ "adalah bagus untuk pembangun mudah alih.\" Mozilla developer evangelist "
+#~ "Chris Heilmann akan membentangkan sebuah UnPanel pada \"HTML5 Beyond the "
+#~ "Hype\" dan akan mengetuai beberapa kumpulan perbincangan HTML5. WIP Jam "
+#~ "akan mengadakan DemoCamps daripada aplikasi HTML5 dilakukan semasa "
+#~ "Mozilla Developer Days. Jadual penuh akan sedia ada disini: %(link)s"
+
+#~ msgid "Location TBD"
+#~ msgstr "Lokasi TBD"
+
+#~ msgid "Monday"
+#~ msgstr "Isnin"
+
+#~ msgid "Tuesday"
+#~ msgstr "Selasa"
+
+#~ msgid "Wednesday"
+#~ msgstr "Rabu"
+
+#~ msgid "Thursday"
+#~ msgstr "Khamis"
+
+#~ msgid "February 25"
+#~ msgstr "Februari 25"
+
+#~ msgid "February 26"
+#~ msgstr "Februari 26"
+
+#~ msgid "February 27"
+#~ msgstr "Februari 27"
+
+#~ msgid "February 28"
+#~ msgstr "Februari 28"
+
+#~ msgid "CEO, Mozilla"
+#~ msgstr "CEO, Mozilla"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobile"
+
+#~ msgid "Back to top"
+#~ msgstr "Kembali ke atas"
