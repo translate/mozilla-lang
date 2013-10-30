@@ -4,23 +4,25 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-05 11:56+0100\n"
-"PO-Revision-Date: 2013-08-05 11:56+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2013-10-06 19:46+0000\n"
+"Last-Translator: pittaya <pittaya@gmail.com>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-POOTLE-MTIME: 1381088815.000000\n"
 
 #. # NOTE: Update page available at url: https://www-dev.allizom.org/b/en-GB/firefox/update/
 #: firefox/update.lang:5
 msgid "Welcome"
-msgstr ""
+msgstr "ยินดีต้อนรับ"
 
 #: firefox/update.lang:9
 msgid "Are Firefox updates safe?"
-msgstr ""
+msgstr "การปรับรุ่นของ Firefox ปลอดภัยหรือไม่?"
 
 #: firefox/update.lang:13
 msgid ""
@@ -28,12 +30,15 @@ msgid ""
 "older version. To start the upgrade process, just click the green download "
 "button to the right."
 msgstr ""
+"ไม่ Firefox รุ่นใหม่จะแทนที่รุ่นเก่าของคุณโดยอัตโนมัติ "
+"เริ่มกระบวนการปรับรุ่นโดยการคลิกที่ปุ่มดาวน์โหลดสีเขียวด้านขวา"
 
 #: firefox/update.lang:17
 msgid ""
 "It varies slightly depending on the operating system you're using. You can "
 "find <a %(link)s>instructions for your computer here</a>."
 msgstr ""
+"ขึ้นอยู่กับระบบปฏิบัติการที่คุณใช้ คุณสามารถหา<a %(link)s>ขั้นตอนสำหรับคอมพิวเตอร์ของคุณได้ที่นี่</a>"
 
 #: firefox/update.lang:21
 msgid "Your Firefox is out of date."
@@ -41,11 +46,11 @@ msgstr "Firefox ของคุณตกรุ่นแล้ว"
 
 #: firefox/update.lang:25
 msgid "Follow the step-by-step process"
-msgstr ""
+msgstr "ทำตามกระบวนการทีละขั้นตอน"
 
 #: firefox/update.lang:29
 msgid "Congratulations!"
-msgstr ""
+msgstr "ยินดีด้วย!"
 
 #: firefox/update.lang:33
 msgid ""
@@ -55,53 +60,62 @@ msgid ""
 "discovered, we write a patch and release an update to stay one step ahead. "
 "Downloading Firefox updates is a very important part of staying safe online."
 msgstr ""
+"อย่างมาก – ความปลอดภัยของคุณคือความสำคัญอันดับแรกของเรา "
+"กระบวนการแบบโอเพ่นซอร์สของเราเปิดโอกาสให้ผู้เชี่ยวชาญจากชุมชนทั่วโลกได้ทำงานตรวจสอบการคุกคามล่าสุดตลอดทั้งวัน "
+"เมื่อใดที่มีการค้นพบการคุกคามความปลอดภัยรูปแบบใหม่ "
+"เราจะสร้างตัวแก้ไขและปล่อยการปรับรุ่นให้อย่างทันท่วงที การดาวน์โหลดการปรับรุ่นของ Firefox "
+"เป็นส่วนสำคัญในการออนไลน์อย่างปลอดภัย"
 
 #: firefox/update.lang:37
 msgid ""
 "If I already have Firefox, and then do a fresh install, what happens to my "
 "settings?"
-msgstr ""
+msgstr "ถ้าฉันมี Firefox อยู่แล้ว และติดตั้งรุ่นใหม่ทับ จะเกิดอะไรขึ้นกับการตั้งค่าต่างๆ ของฉัน?"
 
 #: firefox/update.lang:41
 msgid "What is a Firefox software update?"
-msgstr ""
+msgstr "อะไรคือการปรับรุ่น Firefox?"
 
 #: firefox/update.lang:45
 msgid ""
 "Yes. Firefox is configured to automatically check for updates, but it’s also "
 "possible to check for updates yourself."
-msgstr ""
+msgstr "ใช่ Firefox ถูกตั้งค่ามาให้ปรับรุ่นอัตโนมัติ แต่มันก็สามารถตั้งค่าให้ปรับรุ่นด้วยตัวคุณเองได้"
 
 #: firefox/update.lang:49
 msgid ""
 "Nothing. Re-installing Firefox will not affect your settings, bookmarks or "
 "preferences in any way."
 msgstr ""
+"ไม่มีปัญหา การติดตั้ง Firefox ใหม่จะไม่ส่งผลต่อการตั้งค่า ที่คั่นหน้า หรือค่าปรับแต่งของคุณในทุกทาง"
 
 #: firefox/update.lang:53
 msgid ""
 "Not long at all – the entire process just takes a minute or two. Visit our "
 "support page for <a %(link)s>step-by-step instructions</a>."
 msgstr ""
+"ไม่นานนัก - กระบวนการทั้งหมดใช้เวลาเพียงหนึ่งหรือสองนาที "
+"เยี่ยมชมหน้าการช่วยเหลือของเราสำหรับ<a %(link)s>คำแนะนำทีละขั้นตอน</a>"
 
 #: firefox/update.lang:57
 msgid ""
 "You are also able to check for updates manually. For details, check out the "
 "<a %(link)s>step-by-step guide</a>.</p>"
 msgstr ""
+"คุณยังสามารถตรวจสอบการปรับรุ่นได้ด้วยตัวเอง สำหรับรายละเอียด ดู<a "
+"%(link)s>ขั้นตอนวิธีการทำ</a></p>"
 
 #: firefox/update.lang:61
 msgid "Check for Updates"
-msgstr ""
+msgstr "ตรวจสอบการปรับรุ่น"
 
 #: firefox/update.lang:65
 msgid "What if I miss an update? Can I check for one myself?"
-msgstr ""
+msgstr "จะเกิดอะไรขึ้นถ้าฉันพลาดการปรับรุ่น? ฉันสามารถตรวจสอบการปรับรุ่นเองได้ไหม?"
 
 #: firefox/update.lang:69
-#, fuzzy
 msgid "Your Firefox is up to date."
-msgstr "Firefox ของคุณตกรุ่นแล้ว"
+msgstr "Firefox ของคุณเป็นรุ่นล่าสุด"
 
 #: firefox/update.lang:73
 msgid ""
@@ -110,10 +124,14 @@ msgid ""
 "fixes or other little changes to the browser to ensure that you are using "
 "the best version of Firefox available."
 msgstr ""
+"การปรับปรุง Firefox เป็นการดาวน์โหลดโปรแกรมส่วนใหม่ๆ "
+"จำนวนไม่มากนักไปยังเบราว์เซอร์ของคุณ โปรแกรมเล็กๆ "
+"เหล่านี้เป็นได้ทั้งการซ่อมแซมระบบรักษาความปลอดภัยและความเปลี่ยนแปลงอื่นๆ เพื่อให้คุณได้ใช้งาน "
+"Firefox รุ่นที่ดีที่สุด"
 
 #: firefox/update.lang:77
 msgid "How long will it take to update?"
-msgstr ""
+msgstr "จะใช้เวลาเท่าไหร่ในการปรับรุ่น?"
 
 #: firefox/update.lang:81
 msgid ""
@@ -123,22 +141,26 @@ msgid ""
 "smartest, fastest and – most importantly – safest version of Firefox "
 "available."
 msgstr ""
+"Firefox มีการวิวัฒนาการอยู่เรื่อยๆ ตามที่ชุมชนของเราหาทางทำให้ดียิ่งขึ้น "
+"และเราก็ปรับตัวตามการคุกคามความปลอดภัยล่าสุด การทำให้ Firefox ของคุณเป็นรุ่นล่าสุดอยู่เสมอ "
+"เป็นหนทางที่ดีที่สุดที่จะมั่นใจได้ว่า คุณกำลังใช้งาน Firefox รุ่นที่ฉลาดที่สุด, เร็วที่สุด และ –"
+"ที่สำคัญที่สุด– ปลอดภัยที่สุดแน่นอน"
 
 #: firefox/update.lang:85
 msgid "How do I know what version of Firefox I am currently on?"
-msgstr ""
+msgstr "ฉันจะรู้ได้อย่างไรว่าฉันกำลังใช้งาน Firefox รุ่นไหนอยู่"
 
 #: firefox/update.lang:89
 msgid "Frequently asked questions"
-msgstr ""
+msgstr "คำถามที่พบบ่อย"
 
 #: firefox/update.lang:93
 msgid "Will the update affect my settings and bookmarks?"
-msgstr ""
+msgstr "การปรับปรุงจะมีผลกับการตั้งค่าหรือที่คั่นหน้าของฉันไหม?"
 
 #: firefox/update.lang:97
 msgid "Do I need to uninstall my current version of Firefox before upgrading?"
-msgstr ""
+msgstr "ฉันต้องถอนการติดตั้ง Firefox รุ่นปัจจุบันของฉันก่อนที่จะปรับรุ่นหรือไม่"
 
 #: firefox/update.lang:101
 msgid "Visit support.mozilla.org"
@@ -146,7 +168,7 @@ msgstr "เยี่ยมชม support.mozilla.com"
 
 #: firefox/update.lang:105
 msgid "Get the newest version <a href=\"{url}\">here</a>."
-msgstr ""
+msgstr "รับรุ่นล่าสุดได้<a href=\"{url}\">ที่นี่</a>."
 
 #: firefox/update.lang:109
 msgid "Need Help?"
@@ -154,11 +176,11 @@ msgstr "ต้องการความช่วยเหลือ?"
 
 #: firefox/update.lang:113
 msgid "How do I update Firefox?"
-msgstr ""
+msgstr "ฉันจะปรับรุ่น Firefox ได้อย่างไร?"
 
 #: firefox/update.lang:117
 msgid "Why do I need to update?"
-msgstr ""
+msgstr "ทำไมฉันถึงต้องปรับรุ่น?"
 
 #: firefox/update.lang:121
 msgid ""
@@ -167,6 +189,10 @@ msgid ""
 "and the newest version will be downloaded and installed on your computer. "
 "You’ll need to restart Firefox to begin using the new version."
 msgstr ""
+"โดยปริยายแล้ว Firefox "
+"ถูกตั้งค่ามาให้ตรวจสอบการปรับรุ่นของตัวเองโดยอัตโนมัติและแจ้งคุณเมื่อมีรุ่นใหม่ เมื่อมีการแจ้งเตือน "
+"แค่คลิก ตกลง จากนั้น Firefox รุ่นใหม่จะถูกดาวน์โหลดและติดตั้งบนคอมพิวเตอร์ของคุณ คุณจะต้องให้ "
+"Firefox เริ่มทำงานอีกครั้ง เพื่อเริ่มต้นใช้งานรุ่นใหม่ "
 
 #: firefox/update.lang:125
 msgid ""
@@ -174,7 +200,9 @@ msgid ""
 "passwords or other settings. However, there is a possibility that some of "
 "your Add-ons won’t be immediately compatible with new updates."
 msgstr ""
+"ไม่ การปรับปรุง Firefox จะไม่เปลี่ยนแปลง ที่คั่นหน้า, รหัสผ่านที่บันทึกไว้ หรือการตั้งค่าอื่นๆ ของคุณ "
+"อย่างไรก็ตาม มีโอกาสที่ส่วนเสริมบางตัวของคุณอาจจะยังเข้ากันไม่ได้ทันทีกับการปรับปรุงนี้"
 
 #: firefox/update.lang:129
 msgid "Download Firefox to get started."
-msgstr ""
+msgstr "ดาวน์โหลด Firefox เพื่อเริ่มต้น"

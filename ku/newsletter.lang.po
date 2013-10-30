@@ -4,13 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-17 00:42+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-10-25 08:38+0000\n"
+"Last-Translator: Amed Çeko <amedcj@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ku\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!= 1);\n"
 "X-Generator: Translate Toolkit 1.10.0\n"
+"X-POOTLE-MTIME: 1382690305.000000\n"
 
 #. These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
 #: newsletter.lang:3
@@ -35,7 +38,7 @@ msgstr "Zimanên heyî"
 
 #: newsletter.lang:23
 msgid "Language:"
-msgstr ""
+msgstr "Ziman:"
 
 #: newsletter.lang:27
 msgid "Select country"
@@ -43,7 +46,7 @@ msgstr "Welatekî hilbijêre"
 
 #: newsletter.lang:31
 msgid "Country:"
-msgstr ""
+msgstr "Welat:"
 
 #: newsletter.lang:35
 msgid "Whoops! Be sure to enter a valid email address."
@@ -106,7 +109,7 @@ msgstr "Hemû tiştên derbarê vê de ji <span>nûçename</span>ya me bixwîne"
 
 #: newsletter.lang:73
 msgid "Your newsletter subscription has been confirmed."
-msgstr ""
+msgstr "Abonetiya te ya ji bo bultenê hatiye pejirandin."
 
 #: newsletter.lang:76
 msgid "Format"
@@ -114,21 +117,24 @@ msgstr "Şêwe"
 
 #: newsletter.lang:79
 msgid "You’re All Set! <span>But Wait, There’s More</span>"
-msgstr ""
+msgstr "Te bire serî! <span>Lê raweste, hê maye</span>"
 
 #: newsletter.lang:83
 msgid ""
 "Want to get the most relevant info? Tell us a little more about yourself. "
 "And while you’re here, sign up for other Mozilla news."
 msgstr ""
+"Dixwazî zanyariyên herî têkildar bistînî? Ji me re hinekî din behsa xwe "
+"bike. Û madem tu li virê yî, ji bo nûçeyên din yên Mozillayê jî xwe tomar "
+"bike."
 
 #: newsletter.lang:86
 msgid "Firefox & You"
-msgstr ""
+msgstr "Firefox & Tu"
 
 #: newsletter.lang:89
 msgid "Our Other Newsletters:"
-msgstr ""
+msgstr "Bultenên me yên din:"
 
 #: newsletter.lang:92
 msgid ""
@@ -138,7 +144,7 @@ msgstr ""
 
 #: newsletter.lang:95
 msgid "Firefox Mobile"
-msgstr ""
+msgstr "Firefox Mobîl"
 
 #: newsletter.lang:98
 msgid "Learn about the hottest new add-ons and features for Firefox mobile."
@@ -146,7 +152,7 @@ msgstr ""
 
 #: newsletter.lang:101
 msgid "Beta News"
-msgstr ""
+msgstr "Nûçeyên Betayê"
 
 #: newsletter.lang:104
 msgctxt "./newsletter.lang:104"
@@ -253,8 +259,9 @@ msgstr ""
 
 #. This string is used for a subscription field on other pages than /newsletter/
 #: newsletter.lang:194
+#, fuzzy
 msgid "Get Firefox news"
-msgstr ""
+msgstr "Firefox OSê bistîne"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
 #: newsletter.lang:199

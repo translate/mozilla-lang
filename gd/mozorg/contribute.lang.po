@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-05 11:56+0100\n"
-"PO-Revision-Date: 2013-08-10 13:31+0000\n"
+"PO-Revision-Date: 2013-10-22 00:31+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gd\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
 "X-Generator: Pootle 2.5.1-alpha1\n"
-"X-POOTLE-MTIME: 1376141468.000000\n"
+"X-POOTLE-MTIME: 1382401887.000000\n"
 
 #: mozorg/contribute.lang:1
 msgid "Get Involved: Volunteer Opportunities at Mozilla"
@@ -196,7 +196,6 @@ msgid ""
 msgstr ""
 
 #: mozorg/contribute.lang:150
-#, fuzzy
 msgid ""
 "Help us spread the word about how Firefox and other Mozilla projects are "
 "building a better Internet. Share Firefox with the world by <a href="
@@ -205,10 +204,10 @@ msgid ""
 msgstr ""
 "Cuidich leinn a' sgaoileadh am facal mun obair a nì Firefox is pròiseactan "
 "Mozilla eile gus eadar-lìon nas fhearr a chruthachadh. Co-roinn Firefox leis "
-"a' chorr dhen t-saoghal <a href=\"https://affiliates.mozilla.org\">mar bhall-"
-"cleamhnais againn</a> agus thoir sùil air an <a href=\"https://wiki.mozilla."
-"org/MarketingGuide\">treòir mhargaideachd</a> againn airson barrachd "
-"dhòighean air an urrainn dhut taic a chumail rinn."
+"a' chorr dhen t-saoghal <a href=\"%(affiliates_url)s\">mar dhlùth-chompanach "
+"againn</a> agus thoir sùil air an <a href=\"%(marketing_url)s\">treòir "
+"mhargaideachd</a> againn airson barrachd dhòighean air an urrainn dhut taic "
+"a chumail rinn."
 
 #: mozorg/contribute.lang:154
 msgid ""
@@ -301,9 +300,8 @@ msgstr ""
 "sibh sa <a href=\"%s\">phoileasaidh phrìobhaideachd</a> agaibh"
 
 #: mozorg/contribute.lang:222
-#, fuzzy
 msgid "Twitter"
-msgstr "Twitter:"
+msgstr "Twitter"
 
 #: mozorg/contribute.lang:226
 msgid ""
@@ -325,9 +323,10 @@ msgstr ""
 
 #: mozorg/contribute.lang:242
 msgid ""
-"Our web sites are open for web developers to hack on. <a href=\"%(webdev_url)"
-"s\">Find a web site project</a> to get started on. Your web skills can also "
-"be used to <a href=\"%(gaia_url)s\">help us build our new Firefox OS</a>."
+"Our web sites are open for web developers to hack on. <a href="
+"\"%(webdev_url)s\">Find a web site project</a> to get started on. Your web "
+"skills can also be used to <a href=\"%(gaia_url)s\">help us build our new "
+"Firefox OS</a>."
 msgstr ""
 
 #: mozorg/contribute.lang:246

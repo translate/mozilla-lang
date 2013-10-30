@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-30 11:41+0100\n"
-"PO-Revision-Date: 2013-05-10 09:20+0000\n"
-"Last-Translator: Wichai <chengings@gmail.com>\n"
+"PO-Revision-Date: 2013-10-06 19:41+0000\n"
+"Last-Translator: pittaya <pittaya@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
-"X-POOTLE-MTIME: 1368177601.0\n"
+"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-POOTLE-MTIME: 1381088479.000000\n"
 
 #. These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
 #: newsletter.lang:3
@@ -25,9 +25,8 @@ msgid "Your Email Address"
 msgstr "อีเมลของคุณ"
 
 #: newsletter.lang:11
-#, fuzzy
 msgid "Your email address:"
-msgstr "อีเมลของคุณ"
+msgstr "ที่อยู่อีเมลของคุณ"
 
 #: newsletter.lang:15
 msgid "Text"
@@ -39,7 +38,7 @@ msgstr "ภาษาที่มี"
 
 #: newsletter.lang:23
 msgid "Language:"
-msgstr ""
+msgstr "ภาษา:"
 
 #: newsletter.lang:27
 msgid "Select country"
@@ -47,7 +46,7 @@ msgstr "เลือกประเทศ"
 
 #: newsletter.lang:31
 msgid "Country:"
-msgstr ""
+msgstr "ประเทศ:"
 
 #: newsletter.lang:35
 msgid "Whoops! Be sure to enter a valid email address."
@@ -277,89 +276,86 @@ msgid ""
 "I’m okay with you handling this info as you explain in your <a href=\"%s"
 "\">Privacy Policy</a>"
 msgstr ""
+"ฉันโอเคกับที่คุณควบคุมข้อมูลนี้ตามที่คุณอธิบายใน<a href=\"%s\">นโยบายความเป็นส่วนตัว</a>"
 
 #: newsletter.lang:211
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
-msgstr ""
+msgstr "ลิงก์ที่ให้ไปหมดอายุแล้ว คุณจะได้รับลิงก์ใหม่ในจดหมายข่าวอันถัดไป"
 
 #: newsletter.lang:215
 msgid "Something is amiss with our system, sorry! Please try again later."
-msgstr ""
+msgstr "มีบางอย่างไม่ถูกต้องในระบบของเรา ขออภัย! โปรดลองใหม่อีกครั้งในภายหลัง"
 
 #: newsletter.lang:219
 msgid "English&nbsp;only"
-msgstr ""
+msgstr "ภาษาอังกฤษเท่านั้น"
 
 #: newsletter.lang:223
 msgid "Newsletter Subscriptions"
-msgstr ""
+msgstr "บอกรับจดหมายข่าว"
 
 #: newsletter.lang:227
 msgid "Newsletter confirm"
-msgstr ""
+msgstr "ยืนยันจดหมาข่าว"
 
 #: newsletter.lang:231
-#, fuzzy
 msgid "Format:"
-msgstr "รูปแบบ"
+msgstr "รูปแบบ:"
 
 #: newsletter.lang:235
-#, fuzzy
 msgid "You’ve been unsubscribed."
-msgstr "คุณได้บอกรับแล้ว"
+msgstr "คุณได้ยกเลิกการบอกรับแล้ว"
 
 #: newsletter.lang:239
 msgid "We’re sorry to see you go."
-msgstr ""
+msgstr "เราเสียใจที่เห็นคุณจากไป"
 
 #: newsletter.lang:243
 msgid "Would you mind telling us why you’re leaving?"
-msgstr ""
+msgstr "จะเป็นไรไหมถ้าคุณบอกเหตุผลที่คุณไป?"
 
 #: newsletter.lang:247
 msgid "Other…"
-msgstr ""
+msgstr "อื่นๆ …"
 
 #: newsletter.lang:251
 msgid "While here, why not check out some more Firefox awesomeness."
-msgstr ""
+msgstr "ระหว่างนี้ ทำไมไม่ลองดูความเจ๋งอย่างอื่นๆ ของ Firefox ล่ะ"
 
 #: newsletter.lang:255
 msgid "Get up and go"
-msgstr ""
+msgstr "ก้าวไปด้วยความมุ่งมั่น"
 
 #: newsletter.lang:259
 msgid "It’s your Web anywhere you go."
-msgstr ""
+msgstr "มันคือเว็บของคุณในทุกที่ที่คุณไป"
 
 #: newsletter.lang:263
-#, fuzzy
 msgid "Get Firefox for mobile!"
-msgstr "Firefox สำหรับอุปกรณ์เคลื่อนที่"
+msgstr "Firefox สำหรับอุปกรณ์เคลื่อนที่!"
 
 #: newsletter.lang:267
 msgid "Added extras"
-msgstr ""
+msgstr "เพิ่มความสามารถ"
 
 #: newsletter.lang:271
 msgid "Make Firefox do more with add-ons."
-msgstr ""
+msgstr "Firefox ทำได้มากกว่าด้วยส่วนเสริม"
 
 #: newsletter.lang:275
 msgid "Find out how!"
-msgstr ""
+msgstr "ค้นหาว่าทำอย่างไร!"
 
 #: newsletter.lang:279
-#, fuzzy
 msgid "About us"
 msgstr "เกี่ยวกับเรา"
 
 #: newsletter.lang:283
 msgid "What’s Mozilla all about?"
-msgstr ""
+msgstr "Mozilla คืออะไร?"
 
 #: newsletter.lang:287
 msgid "We’re glad you asked!"
-msgstr ""
+msgstr "เรายินดีมากที่คุณถาม!"

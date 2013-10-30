@@ -4,14 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-18 23:23+0100\n"
-"PO-Revision-Date: 2013-02-28 08:33-0700\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2013-10-12 06:40+0000\n"
+"Last-Translator: Cédric <cvalmary@yahoo.fr>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: oc\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-POOTLE-MTIME: 1381560033.000000\n"
 
 #. <title> tag
 #: firefox/partners/index.lang:5
@@ -32,27 +34,27 @@ msgstr ""
 #. Field
 #: firefox/partners/index.lang:21
 msgid "First Name"
-msgstr ""
+msgstr "Pichon nom"
 
 #. Field
 #: firefox/partners/index.lang:26
 msgid "Last Name"
-msgstr ""
+msgstr "Nom d'Ostal"
 
 #. Field
 #: firefox/partners/index.lang:31
 msgid "Title"
-msgstr ""
+msgstr "Títol"
 
 #. Field
 #: firefox/partners/index.lang:36
 msgid "Company"
-msgstr ""
+msgstr "Entrepresa"
 
 #. Field
 #: firefox/partners/index.lang:41
 msgid "Website"
-msgstr ""
+msgstr "Site web"
 
 #. Field
 #: firefox/partners/index.lang:46
@@ -62,23 +64,21 @@ msgstr "Adreça electronica"
 #. Field
 #: firefox/partners/index.lang:51
 msgid "Phone"
-msgstr ""
+msgstr "Telefòn"
 
 #: firefox/partners/index.lang:55
-#, fuzzy
 msgid "Interest:"
-msgstr "Interès"
+msgstr "Centres d'nterès"
 
 #. Specific interest
 #: firefox/partners/index.lang:60
-#, fuzzy
 msgid "Firefox for Android"
-msgstr "Telecargatz Firefox per Android"
+msgstr "Firefox per Android"
 
 #. Specific interest
 #: firefox/partners/index.lang:65
 msgid "Other"
-msgstr ""
+msgstr "Autres"
 
 #. Tooltip for selected options
 #: firefox/partners/index.lang:70
@@ -88,12 +88,12 @@ msgstr "Interès"
 #. Comment field default text
 #: firefox/partners/index.lang:75
 msgid "Comments or questions?"
-msgstr ""
+msgstr "De questions o de comentaris&nbsp;?"
 
 #. Submit button text
 #: firefox/partners/index.lang:80
 msgid "Submit my request"
-msgstr ""
+msgstr "Mandar ma demanda"
 
 #: firefox/partners/index.lang:84
 msgid "Thanks for your interest in partnering with us"
@@ -140,16 +140,16 @@ msgstr ""
 
 #: firefox/partners/index.lang:119
 msgid "See more partners"
-msgstr ""
+msgstr "Afichar d'autres partenaris"
 
 #: firefox/partners/index.lang:123
 msgid "Recent news"
-msgstr ""
+msgstr "Darrièras actualitats"
 
 #. This is a button showing the contact form
 #: firefox/partners/index.lang:128
 msgid "Partner with us"
-msgstr ""
+msgstr "Collaboratz amb nosautres"
 
 #. App Planet is a location in the building, don't translate
 #: firefox/partners/index.lang:133
@@ -162,27 +162,27 @@ msgstr ""
 
 #: firefox/partners/index.lang:141
 msgid "Firefox tweets from MWC in Barcelona"
-msgstr ""
+msgstr "Los tweets Firefox dempuèi lo MWC a Barcelona"
 
 #. Title
 #: firefox/partners/index.lang:146
 msgid "The Web is the platform"
-msgstr ""
+msgstr "Lo Web es la plataforma"
 
 #: firefox/partners/index.lang:150
 msgid ""
 "Backed by some of the biggest names in the industry, Firefox OS is an open "
-"platform that fosters greater participation in the value chain. <a %(url)"
-"s>See how you can get involved.</a>"
+"platform that fosters greater participation in the value chain. <a "
+"%(url)s>See how you can get involved.</a>"
 msgstr ""
 
 #. Rewording of the previous sentence to link to the Firefox OS consumer site
 #: firefox/partners/index.lang:155
 msgid ""
 "Backed by some of the biggest names in the industry, Firefox OS is an open "
-"platform that fosters greater participation in the value chain. <a %(url)"
-"s>See how you can get involved</a> or <a href=\"%(url2)s\">learn more about "
-"what it means for consumers</a>."
+"platform that fosters greater participation in the value chain. <a "
+"%(url)s>See how you can get involved</a> or <a href=\"%(url2)s\">learn more "
+"about what it means for consumers</a>."
 msgstr ""
 
 #. Title
@@ -241,7 +241,7 @@ msgstr ""
 
 #: firefox/partners/index.lang:207
 msgid "White Papers"
-msgstr ""
+msgstr "Libre blanc"
 
 #: firefox/partners/index.lang:211
 msgid "Learn more about the technology behind Firefox OS"
@@ -255,7 +255,7 @@ msgstr ""
 #. Title
 #: firefox/partners/index.lang:221
 msgid "HTML5 apps for all"
-msgstr ""
+msgstr "D'aplis HTML5 per totes"
 
 #: firefox/partners/index.lang:225
 msgid ""
@@ -268,7 +268,7 @@ msgstr ""
 #. Title
 #: firefox/partners/index.lang:230
 msgid "Your needs"
-msgstr ""
+msgstr "Vòstres besonhs"
 
 #: firefox/partners/index.lang:234
 msgid ""
@@ -306,7 +306,7 @@ msgstr ""
 
 #: firefox/partners/index.lang:261
 msgid "Follow @firefoxapps on Twitter"
-msgstr ""
+msgstr "Seguissètz @firefoxapps sus Twitter"
 
 #: firefox/partners/index.lang:265
 msgid "Read more on the Apps Blog"
@@ -320,7 +320,7 @@ msgstr ""
 #. List title
 #: firefox/partners/index.lang:275
 msgid "Marketplace offers:"
-msgstr ""
+msgstr "Lo Marketplace vos ofrís&nbsp;:"
 
 #. List item. Tier 1 developers = very famous developpers from top companies
 #: firefox/partners/index.lang:280
@@ -342,7 +342,7 @@ msgstr ""
 #. This is a button
 #: firefox/partners/index.lang:295
 msgid "MWC demonstrations"
-msgstr ""
+msgstr "Demostracions al MWC"
 
 #. Title
 #: firefox/partners/index.lang:300
@@ -381,7 +381,7 @@ msgstr ""
 #. Title
 #: firefox/partners/index.lang:330
 msgid "Developer hub"
-msgstr ""
+msgstr "Pòl desvolopaire"
 
 #: firefox/partners/index.lang:334
 msgid "Learn how to make HTML5 apps for an open marketplace"
@@ -390,7 +390,7 @@ msgstr ""
 #. Title
 #: firefox/partners/index.lang:339
 msgid "Have an app?"
-msgstr ""
+msgstr "Avètz ja una aplicacion&nbsp;?"
 
 #: firefox/partners/index.lang:343
 msgid "Submit it to the Firefox Marketplace today"
@@ -404,12 +404,12 @@ msgstr ""
 #. Button
 #: firefox/partners/index.lang:353
 msgid "Register"
-msgstr ""
+msgstr "Enregistratz-vos"
 
 #. Title
 #: firefox/partners/index.lang:358
 msgid "A superior Web experience"
-msgstr ""
+msgstr "Una experiéncia del Web superiora"
 
 #: firefox/partners/index.lang:362
 msgid ""
@@ -446,12 +446,12 @@ msgstr ""
 #. Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
 #: firefox/partners/index.lang:385
 msgid "Stand out <br>from the crowd"
-msgstr ""
+msgstr "Desmarcatz-vos"
 
 #. Title.
 #: firefox/partners/index.lang:390
 msgid "Stand out from the crowd"
-msgstr ""
+msgstr "Desmarcatz-vos"
 
 #: firefox/partners/index.lang:394
 msgid ""
@@ -461,14 +461,13 @@ msgstr ""
 
 #. List Title
 #: firefox/partners/index.lang:399
-#, fuzzy
 msgid "Firefox for Android lets you:"
-msgstr "Material grafic de Firefox per Android"
+msgstr "Firefox per Android vos permet de&nbsp;:"
 
 #. list item sub-title
 #: firefox/partners/index.lang:404
 msgid "Customize the experience"
-msgstr ""
+msgstr "Personalizar l'experiéncia d'utilizaire"
 
 #: firefox/partners/index.lang:408
 msgid ""
@@ -500,11 +499,11 @@ msgstr ""
 
 #: firefox/partners/index.lang:430
 msgid "Partner Opportunities"
-msgstr ""
+msgstr "Possibilitats de partenariat"
 
 #: firefox/partners/index.lang:434
 msgid "For Developers"
-msgstr ""
+msgstr "Pels desvolopaires"
 
 #. # LOCATION OVERLAY AND MAP ##
 #: firefox/partners/index.lang:441
@@ -513,11 +512,11 @@ msgstr "Emplaçament"
 
 #: firefox/partners/index.lang:445
 msgid "Firefox at MWC 2013 — Stand F20, Hall 8.1, App Planet"
-msgstr ""
+msgstr "Firefox al MWC 2013 — Stand F20, Hall 8.1, App Planet"
 
 #: firefox/partners/index.lang:449
 msgid "From the South Entrance:"
-msgstr ""
+msgstr "Dempuèi l'entrada sud :"
 
 #: firefox/partners/index.lang:453
 msgid ""
@@ -527,7 +526,7 @@ msgstr ""
 
 #: firefox/partners/index.lang:457
 msgid "From the North Entrance:"
-msgstr ""
+msgstr "Dempuèi l'entrada nòrd :"
 
 #: firefox/partners/index.lang:461
 msgid ""
@@ -537,11 +536,11 @@ msgstr ""
 
 #: firefox/partners/index.lang:465
 msgid "Download map (PDF)"
-msgstr ""
+msgstr "Telecargar lo plan (PDF)"
 
 #: firefox/partners/index.lang:469
 msgid "For Operators & Manufacturers"
-msgstr ""
+msgstr "Pels fabricants e operators"
 
 #: firefox/partners/index.lang:473
 msgid "Mobile World Congress, Barcelona, 25 - 28 February 2013"
@@ -565,39 +564,39 @@ msgstr ""
 
 #: firefox/partners/index.lang:493
 msgid "09:00-16:00 CET"
-msgstr ""
+msgstr "09:00&nbsp;–&nbsp;16:00"
 
 #: firefox/partners/index.lang:497
 msgid "13:00-15:00 CET"
-msgstr ""
+msgstr "13:00&nbsp;–&nbsp;15:00"
 
 #: firefox/partners/index.lang:501
 msgid "16:00-17:30 CET"
-msgstr ""
+msgstr "16:00&nbsp;–&nbsp;17:30"
 
 #: firefox/partners/index.lang:505
 msgid "16:00-23:00 CET (awards at 22:30)"
-msgstr ""
+msgstr "16:00&nbsp;–&nbsp;23:00 (prèmis a 22:30)"
 
 #: firefox/partners/index.lang:509
 msgid "17:45-18:30 CET"
-msgstr ""
+msgstr "17:45&nbsp;–&nbsp;18:30"
 
 #: firefox/partners/index.lang:513
 msgid "09:00 – 11:30:"
-msgstr ""
+msgstr "09:00&nbsp;–&nbsp;11:30&nbsp;:"
 
 #: firefox/partners/index.lang:517
 msgid "11:30 – 14:00:"
-msgstr ""
+msgstr "11:30&nbsp;–&nbsp;14:00&nbsp;:"
 
 #: firefox/partners/index.lang:521
 msgid "14:00 – 16:30:"
-msgstr ""
+msgstr "14:00&nbsp;–&nbsp;16:30&nbsp;:"
 
 #: firefox/partners/index.lang:525
 msgid "16:30 – 19:00:"
-msgstr ""
+msgstr "16:30&nbsp;–&nbsp;19:00&nbsp;:"
 
 #: firefox/partners/index.lang:529
 msgid "VP of Products, Mozilla"
@@ -647,7 +646,7 @@ msgstr ""
 #. Title
 #: firefox/partners/index.lang:565
 msgid "Apps Panel: Evolving Ecosystems"
-msgstr ""
+msgstr "Panèl sus las aplicacions&nbsp;: l'evolucion dels ecosistèmas"
 
 #: firefox/partners/index.lang:569
 msgid ""
@@ -659,16 +658,16 @@ msgstr ""
 
 #: firefox/partners/index.lang:573
 msgid "Hall 4, Conference Village, Auditorium 2"
-msgstr ""
+msgstr "Hall 4, Conference Village, auditòri 2"
 
 #: firefox/partners/index.lang:577
 msgid "GSMA Pavilion, Congress Square (CS80)"
-msgstr ""
+msgstr "Pavilhon GSMA, congress square (CS80)"
 
 #. Title: keep Mobile World Live TV in English : http://www.mobileworldcongress.com/mobile-world-live/
 #: firefox/partners/index.lang:582
 msgid "Mobile World Live TV Panel"
-msgstr ""
+msgstr "Panèl Mobile World Live TV"
 
 #: firefox/partners/index.lang:586
 msgid ""
@@ -726,27 +725,27 @@ msgstr ""
 
 #: firefox/partners/index.lang:628
 msgid "Thursday"
-msgstr ""
+msgstr "Dijòus"
 
 #: firefox/partners/index.lang:632
 msgid "February 25"
-msgstr ""
+msgstr "25 de febrièr"
 
 #: firefox/partners/index.lang:636
 msgid "February 26"
-msgstr ""
+msgstr "26 de febrièr"
 
 #: firefox/partners/index.lang:640
 msgid "February 27"
-msgstr ""
+msgstr "27 de febrièr"
 
 #: firefox/partners/index.lang:644
 msgid "February 28"
-msgstr ""
+msgstr "28 de febrièr"
 
 #: firefox/partners/index.lang:648
 msgid "CEO, Mozilla"
-msgstr ""
+msgstr "PDG, Mozilla"
 
 #: firefox/partners/index.lang:652
 msgid "Mobile"
@@ -754,7 +753,7 @@ msgstr "Telefonet"
 
 #: firefox/partners/index.lang:656
 msgid "Back to top"
-msgstr ""
+msgstr "Naut de pagina"
 
 #: firefox/partners/index.lang:660
 msgid "Firefox Marketplace — Developer testimonials"

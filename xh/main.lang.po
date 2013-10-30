@@ -17,7 +17,7 @@ msgstr ""
 
 #: main.lang:1
 msgid "Navigation"
-msgstr "Uhamba-hambo"
+msgstr "Phendlaphendla"
 
 #: main.lang:5
 msgid "About"
@@ -49,7 +49,7 @@ msgstr "Iilebhu"
 
 #: main.lang:33
 msgid "skip to Navigation"
-msgstr "Tsibela Kuhamba-hambo"
+msgstr "tsibela Kuhamba-hambo"
 
 #: main.lang:37
 msgid "switch language"
@@ -77,7 +77,7 @@ msgstr "Iziko Leendaba"
 
 #: main.lang:61
 msgid "Contact Us"
-msgstr "Qhagamshelana Nathi"
+msgstr "Qhagamshelana nathi"
 
 #: main.lang:65
 msgid "Other languages:"
@@ -86,7 +86,7 @@ msgstr "Ezinye iilwimi:"
 #. Year / Month / Day, indicate your prefered date format for your language
 #: main.lang:70
 msgid "%Y-%m-%d"
-msgstr "%Y-%m-%d"
+msgstr "i-%Y-%m-%d"
 
 #: main.lang:74
 msgid "Legal Notices"
@@ -110,7 +110,7 @@ msgstr "Vala"
 
 #: main.lang:94
 msgid "(in English)"
-msgstr "(ngesiNgesi)"
+msgstr "(in English)"
 
 #: main.lang:98
 msgid "Return to top"
@@ -155,17 +155,18 @@ msgid ""
 "licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
 "Alike License v3.0</a> or any later version."
 msgstr ""
-"Ngaphandle kokuba <a href=\"%s\">noted</a>, content on this site is licensed "
-"under the <br /><a href=\"%s\">iCreative Commons Attribution Zisabelana "
-"NgeLayisenisi Efanayo v3.0</a> okanye naluphi na uhlelo lwamvanje."
+"Ngaphandle kokuba kwenzeke ngendlela <a href=\"%s\">noted</a>, content on "
+"this site is licensed under the <br /><a href=\"%s\">yokuba zibe "
+"iiNgcaphephe zisaBelana Ngelayisenisi Efanayo v3.0</a> okanye uhlelo "
+"lwamvanje."
 
 #: main.lang:140
 msgid "Report Trademark Abuse"
-msgstr "Xela Ukusetyenziswa Kakubi Kophawu Lorhwebo"
+msgstr "Xela Ukuxhatshazwa Kophawu Lorhwebo"
 
 #: main.lang:144
 msgid "Free Upgrade"
-msgstr "Hlaziya Simahla"
+msgstr "Ehlaziyiweyo Simahla"
 
 #. social networks such as Facebook and Twitter
 #: main.lang:149
@@ -174,7 +175,7 @@ msgstr "Silandele:"
 
 #: main.lang:153
 msgid "Customize with Add-ons"
-msgstr "Lungiselela ngeZongezelelo"
+msgstr "Qhelanisa izongezelelo"
 
 #: main.lang:157
 msgid "Learn More"
@@ -186,23 +187,23 @@ msgstr "Bukela ividiyo"
 
 #: main.lang:165
 msgid "WebM format"
-msgstr "Ifomathi yeWebM"
+msgstr "Ifomati yeWebM"
 
 #: main.lang:169
 msgid "Ogg Theora format"
-msgstr "Ifomathi ye-Ogg Theora"
+msgstr "Ifomati ye-Ogg Theora"
 
 #: main.lang:173
 msgid "MPEG-4 format"
-msgstr "Ifomathi yeMPEG-4"
+msgstr "Ifomati yeMPEG-4"
 
 #: main.lang:177
 msgid "Mobile"
-msgstr "Ehambayo"
+msgstr "Imfonomfono Ephathwayo"
 
 #: main.lang:181
 msgid "Check out the new look and feel of Firefox."
-msgstr "Hlola inkangeleko entsha netshintshileyo yeFirefox."
+msgstr "Jonga iFirefox ekhangeleka ntsha."
 
 #: main.lang:185
 msgid "View Full Site"
@@ -214,11 +215,11 @@ msgstr "Fumana iFirefox ye-Android"
 
 #: main.lang:193
 msgid "Download for <span>Android</span>"
-msgstr "Khuphela <span>eye-Android</span>"
+msgstr "Khuphela <span>iAndroid</span>"
 
 #: main.lang:197
 msgid "Desktop"
-msgstr "Idesktop"
+msgstr "Idesktopu"
 
 #: main.lang:201
 msgid "Firefox Beta for mobile"
@@ -234,11 +235,11 @@ msgstr "I-imeyile"
 
 #: main.lang:213
 msgid "Super speed"
-msgstr "Esona Santya Siphezulu"
+msgstr "Isantya esixhomileyo"
 
 #: main.lang:217
 msgid "Stunning graphics"
-msgstr "Iigrafiki ezingummangaliso"
+msgstr "Iigrafiki ezimmangalisayo"
 
 #: main.lang:221
 msgid "The latest technologies"
@@ -250,9 +251,9 @@ msgid ""
 "new Firefox for the best in browsing and customization on the Web. <br/>   "
 "It’s fast and free!"
 msgstr ""
-"Udinga ehlaziyiweyo! Hlala ukhuselekile ngaphantsi nje komzuzu. <br/> Qalisa "
-"ukusebenzisa iFirefox ukuze ufumana okona kungcono ekubhrawuzeni "
-"nakulungiselelo lweWebhu. <br/> Iyakhawuleza yaye isimahla!"
+"Ufuna ehlaziyiweyo! Hlala ukhuselekile ngaphantsi komzuzu. <br/> Qala "
+"ukusebenzisa iFirefox yakho entsha ukuze ubhrawuze yaye uqhelanise ngcono "
+"kwiWebhu. <br/>   Iyakhawuleza yaye ikhuselekile!"
 
 #: main.lang:229
 msgid "Upgrade now"
@@ -283,8 +284,8 @@ msgid ""
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
 "Commons license</a>."
 msgstr ""
-"Iinxalenye zalo mbandela zezowe- ©1998–%(unyaka_omiyo) ziphuma kubantu "
-"abanikele kwi-mozilla.org Umbandela ofumanekayo phantsi <a href=\"%(url)s"
+"Iinxalenye zalo mba zezowe-©1998–%(current_year) ziyilwe ngabanikeli "
+"bemozilla.org contributors. Umba ofumanekayo phantsi <a href=\"%(url)s"
 "\">kwelayisenisi yeCreative Commons</a>."
 
 #. Footer string
@@ -400,12 +401,12 @@ msgstr "Amahlakani"
 #. Newsletter subscription form above footer on some pages
 #: main.lang:367
 msgid "Get Mozilla updates"
-msgstr ""
+msgstr "Fumana ezihlaziyiweyo zeMozilla"
 
 #. share button for social networks
 #: main.lang:372
 msgid "Share"
-msgstr ""
+msgstr "Yabelana"
 
 #~ msgid "Press area"
 #~ msgstr "Press area"
@@ -548,7 +549,7 @@ msgstr ""
 #~ msgstr "Isimahla Kwimarike ye-Android"
 
 #~ msgid "Mozilla Firefox. Bringing the modern Web to XP."
-#~ msgstr "I-Mozilla Firefox. Ukuzisa iWebhu yangoku kwiXP"
+#~ msgstr "I-Mozilla Firefox. Ukuzisa iWebhu yangoku kwiXP."
 
 #~ msgid ""
 #~ "You're using an old version of Firefox. Get your update to stay safe! <br/"

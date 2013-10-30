@@ -4,19 +4,22 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-22 21:21+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-10-19 12:30+0000\n"
+"Last-Translator: Amed Çeko <amedcj@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ku\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"Plural-Forms: nplurals=2; plural=(n!= 1);\n"
+"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-POOTLE-MTIME: 1382185855.000000\n"
 
 #. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 #. Page <title> tag
 #: mozorg/plugincheck.lang:6
 msgid "Plugin Check &amp; Updates"
-msgstr ""
+msgstr "Kontrol û Nûkirinên Pêvekan"
 
 #. This is a button telling the user to update their plugin
 #: mozorg/plugincheck.lang:11
@@ -31,7 +34,7 @@ msgstr "Vekolîn"
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
 #: mozorg/plugincheck.lang:21
 msgid "current version plugin"
-msgstr ""
+msgstr "pêveka versiyona niha"
 
 #. This is a button informing the user that their plugin is up to date
 #: mozorg/plugincheck.lang:26
@@ -41,12 +44,12 @@ msgstr "Nû bike"
 #. L10n: This is alt text used on plugin icon images
 #: mozorg/plugincheck.lang:31
 msgid "Plugin icon"
-msgstr ""
+msgstr "Nîşaneya pêvekê"
 
 #. This is the string used to indicate that the plugin is unknown
 #: mozorg/plugincheck.lang:36
 msgid "unknown"
-msgstr ""
+msgstr "nenas"
 
 #. This is the string used to indicate that the plugin is vulnerable
 #: mozorg/plugincheck.lang:41
@@ -60,11 +63,11 @@ msgstr "Pêvekên xwe kontrol bike"
 
 #: mozorg/plugincheck.lang:50
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
-msgstr ""
+msgstr "Eger pêvekên te nû bin, Firefox dê ewletir û tekûztir bixebite."
 
 #: mozorg/plugincheck.lang:54
 msgid "Plugin Status"
-msgstr ""
+msgstr "Rewşa Pêvekan"
 
 #: mozorg/plugincheck.lang:58
 msgid ""
@@ -91,7 +94,7 @@ msgstr "Pêvekên bihîstiyariya wan pêkan e"
 
 #: mozorg/plugincheck.lang:74
 msgid "Plugin"
-msgstr ""
+msgstr "Pêvek"
 
 #: mozorg/plugincheck.lang:78
 msgid "Status"
@@ -103,19 +106,19 @@ msgstr "Çalakî"
 
 #: mozorg/plugincheck.lang:86
 msgid "Outdated Plugins"
-msgstr ""
+msgstr "Pêvekên Kevn"
 
 #: mozorg/plugincheck.lang:90
 msgid "Unknown Plugins"
-msgstr ""
+msgstr "Pêvekên Nenas"
 
 #: mozorg/plugincheck.lang:94
 msgid "These plugins are up to date"
-msgstr ""
+msgstr "Ev pêvek kevn in"
 
 #: mozorg/plugincheck.lang:98
 msgid "Back to Top"
-msgstr ""
+msgstr "Vegere Jorê"
 
 #: mozorg/plugincheck.lang:102
 msgid "Frequently Asked Questions"
@@ -167,7 +170,7 @@ msgstr ""
 #. alt image
 #: mozorg/plugincheck.lang:139
 msgid "Screenshot of Add-Ons manager"
-msgstr ""
+msgstr "Birêvebera Wêneyê Ekranê û Add-Onan"
 
 #: mozorg/plugincheck.lang:143
 msgid "How can Firefox help me?"
@@ -195,32 +198,32 @@ msgstr ""
 "Firefoxa te de saz bûne bibînî van gavan bişopîne:"
 
 #: mozorg/plugincheck.lang:159
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:159"
 msgid "Open the Tools menu."
-msgstr "Pêşeka Amûrê veke."
+msgstr "Menuya Amûran veke."
 
 #: mozorg/plugincheck.lang:163
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:163"
 msgid "Choose Add-ons."
-msgstr "Ji navê Add-onsê hilbijêre."
+msgstr "Add-onan hilbijêre."
 
 #: mozorg/plugincheck.lang:167
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:167"
 msgid "Click the plugins tab."
 msgstr "Hilpekîna pêvekan bitikîne."
 
 #: mozorg/plugincheck.lang:171
 msgid "Want to spread the word?"
-msgstr ""
+msgstr "Dixwazî li cîhanê belav bikî?"
 
 #: mozorg/plugincheck.lang:175
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
 msgstr ""
+"Alîkariya hevalên xwe bike ku înterneta wan ewle be! Serdana  <a href="
+"\"%(url)s\">Hevkarên Firefoxê</a> bike ku pêvekeke nîşaneya malpera te "
+"kontrol dike bistînî."
 
 #: mozorg/plugincheck.lang:179
 msgid "How do I disable a plugin?"
@@ -231,19 +234,16 @@ msgid "In Firefox:"
 msgstr "Di Firefoxê de:"
 
 #: mozorg/plugincheck.lang:187
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:187"
 msgid "Open the Tools menu."
-msgstr "Pêşeka Amûrê veke."
+msgstr "Menuya Amûran veke."
 
 #: mozorg/plugincheck.lang:191
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:191"
 msgid "Choose Add-ons."
-msgstr "Ji navê Add-onsê hilbijêre."
+msgstr "Add-onan hilbijêre."
 
 #: mozorg/plugincheck.lang:195
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:195"
 msgid "Click the plugins tab."
 msgstr "Hilpekîna pêvekan bitikîne."
@@ -268,7 +268,7 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:211
 msgid "Mozilla Support"
-msgstr ""
+msgstr "Piştgiriya Mozillayê"
 
 #: mozorg/plugincheck.lang:215
 msgid "Have more questions?"
@@ -277,3 +277,5 @@ msgstr "Wekî din pirs hene?"
 #: mozorg/plugincheck.lang:219
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
+"Ji bo alîkariyên zêdetir serdana <a href=\"%(sumo_url)s\">support.mozilla."
+"org</a>ê bike!"

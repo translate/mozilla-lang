@@ -4,13 +4,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-30 11:41+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-10-03 22:36+0000\n"
+"Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: gd\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3 ;\n"
+"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-POOTLE-MTIME: 1380839789.000000\n"
 
 #. These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
 #: newsletter.lang:3
@@ -43,7 +47,7 @@ msgstr "Tagh do dhùthaich"
 
 #: newsletter.lang:31
 msgid "Country:"
-msgstr ""
+msgstr "Dùthaich:"
 
 #: newsletter.lang:35
 msgid "Whoops! Be sure to enter a valid email address."
@@ -317,11 +321,11 @@ msgstr "Beurla&nbsp;a-mhàin"
 
 #: newsletter.lang:223
 msgid "Newsletter Subscriptions"
-msgstr ""
+msgstr "Fo-sgrìobhaidhean gu cuairt-litrichean"
 
 #: newsletter.lang:227
 msgid "Newsletter confirm"
-msgstr ""
+msgstr "Dearbhaich a' chuairt-litir"
 
 #: newsletter.lang:231
 msgid "Format:"
@@ -333,27 +337,29 @@ msgstr "Chaidh crìoch a chur air an fho-sgrìobhadh agad."
 
 #: newsletter.lang:239
 msgid "We’re sorry to see you go."
-msgstr ""
+msgstr "Tha sinn duilich gu bheil thu airson falbh."
 
 #: newsletter.lang:243
 msgid "Would you mind telling us why you’re leaving?"
-msgstr ""
+msgstr "Saoil an innis thu duinn carson a tha thu 'gar fàgail?"
 
 #: newsletter.lang:247
 msgid "Other…"
-msgstr ""
+msgstr "Eile…"
 
 #: newsletter.lang:251
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr ""
+"Fhad 's a tha thu an-seo, nach doir thu sùil air na rudan eile a tha snasail "
+"a thaobh Firefox?"
 
 #: newsletter.lang:255
 msgid "Get up and go"
-msgstr ""
+msgstr "Thoir leat e"
 
 #: newsletter.lang:259
 msgid "It’s your Web anywhere you go."
-msgstr ""
+msgstr "An lìon deas ri do làimh àite sam bith."
 
 #: newsletter.lang:263
 msgid "Get Firefox for mobile!"
@@ -361,15 +367,15 @@ msgstr "Firefox airson innealan-làimhe"
 
 #: newsletter.lang:267
 msgid "Added extras"
-msgstr ""
+msgstr "Buannachdan eile"
 
 #: newsletter.lang:271
 msgid "Make Firefox do more with add-ons."
-msgstr ""
+msgstr "Dèan barrachd ann am Firefox le tuilleadain."
 
 #: newsletter.lang:275
 msgid "Find out how!"
-msgstr ""
+msgstr "Faigh fiosrachadh!"
 
 #: newsletter.lang:279
 msgid "About us"
@@ -377,8 +383,8 @@ msgstr "Mu ar dèidhinn"
 
 #: newsletter.lang:283
 msgid "What’s Mozilla all about?"
-msgstr ""
+msgstr "Dè an sgeul aig Mozilla?"
 
 #: newsletter.lang:287
 msgid "We’re glad you asked!"
-msgstr ""
+msgstr "Toilichte gun do dh'fhaighnich thu!"
