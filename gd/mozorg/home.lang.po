@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-01 13:30+0100\n"
+"POT-Creation-Date: 2013-11-07 16:19+0100\n"
 "PO-Revision-Date: 2013-10-03 23:26+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
 "X-POOTLE-MTIME: 1380842813.000000\n"
 
 #. # NOTE: demo server for new home page is https://www-demo3.allizom.org/?v=1
@@ -184,6 +184,47 @@ msgstr ""
 "A thaing dhan choimhearsnachd eadar-nàiseanta againn, tha bathar is "
 "làraichean-lìn Mozilla ri fhaighinn ann am barrachd air 70 cànan. <a href="
 "\"%(link_l10n)s\">Cuidich leinn do chànan-sa a chur air</a>."
+
+#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+#: mozorg/home.lang:145
+msgid "<i>Watch</i> the watchers"
+msgstr ""
+
+#. Lightbeam promo
+#: mozorg/home.lang:150
+msgid "See who’s watching you online"
+msgstr ""
+
+#. Lightbeam promo
+#: mozorg/home.lang:155
+msgid ""
+"Shine a light on the third parties that are collecting data about your "
+"online activity."
+msgstr ""
+
+#: mozorg/home.lang:159
+msgid "Install the Lightbeam add-on"
+msgstr ""
+
+#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+#: mozorg/home.lang:164
+msgid "<i>Learn</i> the Web"
+msgstr ""
+
+#. Webmaker promo
+#: mozorg/home.lang:169
+msgid "We teach the Web"
+msgstr ""
+
+#: mozorg/home.lang:173
+msgid ""
+"Let‘s explore, tinker and create together to build a Web that‘s open and "
+"made by everyone."
+msgstr ""
+
+#: mozorg/home.lang:177
+msgid "Become a Webmaker"
+msgstr ""
 
 #, fuzzy
 #~ msgid "Proudly <br> non-profit"
