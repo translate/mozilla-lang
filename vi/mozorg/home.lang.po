@@ -4,41 +4,42 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-07 16:19+0100\n"
-"PO-Revision-Date: 2013-02-28 08:33-0700\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2013-11-10 05:30+0000\n"
+"Last-Translator: Đặng <thanhdd.it@gmail.com>\n"
 "Language-Team: none\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-POOTLE-MTIME: 1384061437.000000\n"
 
 #. # NOTE: demo server for new home page is https://www-demo3.allizom.org/?v=1
 #: mozorg/home.lang:4
 msgid "Home of the Mozilla Project"
-msgstr ""
+msgstr "Trang chủ của Dự án Mozilla"
 
 #. Used as a label for a button that scrolls through latest news.
 #: mozorg/home.lang:9
 msgid "Next article"
-msgstr ""
+msgstr "Bài tiếp theo"
 
 #. Used as a label for a button that scrolls through latest news.
 #: mozorg/home.lang:14
 msgid "Previous article"
-msgstr ""
+msgstr "Bài trước"
 
 #. The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 #: mozorg/home.lang:19
 msgid "We are %(mozilla_wordmark)s"
-msgstr ""
+msgstr "Chúng tôi là %(mozilla_wordmark)"
 
 #: mozorg/home.lang:23
 msgid "Doing good is part of our code"
 msgstr ""
 
 #: mozorg/home.lang:27
-#, fuzzy
 msgctxt "./mozorg/home.lang:27"
 msgid "Get involved"
 msgstr "Tham gia"
@@ -46,7 +47,7 @@ msgstr "Tham gia"
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:32
 msgid "<i>Explore</i> our mission"
-msgstr ""
+msgstr "<i>Tìm hiểu</i> sứ mệnh của chúng tôi"
 
 #: mozorg/home.lang:36
 msgid "Our principles guide us"
@@ -57,49 +58,56 @@ msgid ""
 "We’re a global community of technologists, thinkers and builders working to "
 "keep the Internet alive and accessible."
 msgstr ""
+"Chúng tôi là một cộng đồng toàn cầu gồm các kỹ sư công nghệ, những nhà tư "
+"tưởng và những người xây dựng làm việc để luôn giữ Internet tồn tại và dễ "
+"tiếp cận."
 
 #: mozorg/home.lang:44
 msgid "Read more about our mission"
-msgstr ""
+msgstr "Đọc thêm về sứ mệnh của chúng tôi"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:50
 msgid "<i>Look</i> ahead"
-msgstr ""
+msgstr "<i>Nhìn</i> xa hơn"
 
 #: mozorg/home.lang:55
 msgid "Look ahead"
-msgstr ""
+msgstr "Nhìn xa hơn"
 
 #: mozorg/home.lang:60
 msgid ""
 "We‘re bringing more people to the Web in more ways and from more places than "
 "ever before."
 msgstr ""
+"Chúng tôi mang đến Web cho mọi người theo nhiều cách và từ nhiều nơi hơn bao "
+"giờ hết."
 
 #: mozorg/home.lang:64
 msgid "Learn more about Firefox OS"
-msgstr ""
+msgstr "Tìm hiểu thêm về Firefox OS"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:69
 msgid "<i>Join</i> our community"
-msgstr ""
+msgstr "<i>Tham gia</i> cộng đồng của chúng tôi"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:74
 msgid "Join our<br> developer community"
-msgstr ""
+msgstr "Tham gia<br> cộng đồng nhà phát triển của chúng tôi"
 
 #: mozorg/home.lang:78
 msgid ""
 "Get docs and demos, tools and tutorials and everything related to the Open "
 "Web."
 msgstr ""
+"Lấy các tài liệu và các demo, các công cụ và các hướng dẫn và mọi thứ liên "
+"quan đến Open Web."
 
 #: mozorg/home.lang:82
 msgid "Visit the Mozilla Developer Network"
-msgstr ""
+msgstr "Thăm Mạng lưới nhà phát triển Mozilla"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:87
@@ -108,7 +116,7 @@ msgstr ""
 
 #: mozorg/home.lang:91
 msgid "Mozilla Festival"
-msgstr ""
+msgstr "Ngày hội Mozilla"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:96
@@ -120,6 +128,8 @@ msgid ""
 "Learn from some of the most passionate thinkers and inventors from around "
 "the world."
 msgstr ""
+"Tìm hiểu từ các nhà tư tưởng nhiệt huyết và những nhà phát minh từ khắp nơi "
+"trên thế giới."
 
 #: mozorg/home.lang:104
 msgid "Come to the Mozilla Festival"
@@ -161,6 +171,8 @@ msgid ""
 "You don’t have to know how to code to get involved with Mozilla. <a href=\"%s"
 "\">Learn more about our volunteer opportunities</a>."
 msgstr ""
+"Bạn không biết phải làm sao để tham gia đóng góp cho Mozilla. <a href=\"%s"
+"\">Tìm hiểu thêm các cơ hội tình nguyện viên</a>."
 
 #: mozorg/home.lang:140
 msgid ""
@@ -168,6 +180,9 @@ msgid ""
 "in over 70 languages. <a href=\"%(link_l10n)s\">Help translate them into "
 "yours</a>."
 msgstr ""
+"Cám ơn vì đã tham gia cộng đồng của chúng tôi, các sản phẩm Mozilla và các "
+"trang web luôn sẵn có hơn 70 ngôn ngữ. <a href=\"%(link_l10n)s\">Trợ giúp "
+"dịch các dự án thành ngôn ngữ của bạn</a>."
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:145
@@ -177,7 +192,7 @@ msgstr ""
 #. Lightbeam promo
 #: mozorg/home.lang:150
 msgid "See who’s watching you online"
-msgstr ""
+msgstr "Xem ai đang theo dõi bạn trực tuyến"
 
 #. Lightbeam promo
 #: mozorg/home.lang:155
@@ -188,23 +203,25 @@ msgstr ""
 
 #: mozorg/home.lang:159
 msgid "Install the Lightbeam add-on"
-msgstr ""
+msgstr "Cài đặt add-on Lightbeam"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:164
 msgid "<i>Learn</i> the Web"
-msgstr ""
+msgstr "<i>Tìm hiểu</i> Web"
 
 #. Webmaker promo
 #: mozorg/home.lang:169
 msgid "We teach the Web"
-msgstr ""
+msgstr "Chúng tôi dạy về Web"
 
 #: mozorg/home.lang:173
 msgid ""
 "Let‘s explore, tinker and create together to build a Web that‘s open and "
 "made by everyone."
 msgstr ""
+"Hãy khám phá, sửa đổi và tạo lập cùng chúng tôi để xây dựng một Web mở và "
+"tạo ra bởi tất cả mọi người."
 
 #: mozorg/home.lang:177
 msgid "Become a Webmaker"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-05 11:56+0100\n"
-"PO-Revision-Date: 2013-11-07 03:46+0000\n"
+"PO-Revision-Date: 2013-11-08 02:06+0000\n"
 "Last-Translator: soksophea <sksophea@gmail.com>\n"
 "Language-Team: none\n"
 "Language: km\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
-"X-POOTLE-MTIME: 1383795990.000000\n"
+"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-POOTLE-MTIME: 1383876392.000000\n"
 
 #. # NOTE: Update page available at url: https://www-dev.allizom.org/b/en-GB/firefox/update/
 #: firefox/update.lang:5
@@ -83,37 +83,43 @@ msgid ""
 "Yes. Firefox is configured to automatically check for updates, but it’s also "
 "possible to check for updates yourself."
 msgstr ""
+"បាទ! Firefox ត្រូវ​បាន​កំណត់​រចនាសម្ព័ន្ធ​ឲ្យ​ពិនិត្យ​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ ប៉ុន្តែ​អ្នក​ក៏​អាច​ពិនិត្យមើល​"
+"បច្ចុប្បន្នភាព​ដោយ​ខ្លួនឯង​បាន​ដែរ។"
 
 #: firefox/update.lang:49
 msgid ""
 "Nothing. Re-installing Firefox will not affect your settings, bookmarks or "
 "preferences in any way."
-msgstr ""
+msgstr "មិន​អី​ទេ! ការ​ដំឡើង Firefox ឡើងវិញ​មិន​ប៉ះពាល់​ដល់​ការ​កំណត់ ចំណាំ ឬ​ចំណូលចិត្ត​របស់​អ្នក​ទេ។"
 
 #: firefox/update.lang:53
 msgid ""
 "Not long at all – the entire process just takes a minute or two. Visit our "
 "support page for <a %(link)s>step-by-step instructions</a>."
 msgstr ""
+"មិន​យូរ​ទេ –ការ​ដំណើរការ​ទាំងមូល​ប្រើ​ពេល​តែ​មួយ ឬ​ពីរ​នាទី​ប៉ុណ្ណោះ។ ទស្សនា​ទំព័រ​ជំនួយ​របស់​យើង​សម្រាប់ <a "
+"%(link)s>ជំហាន​សេចក្ដីណែនាំ</a>។"
 
 #: firefox/update.lang:57
 msgid ""
 "You are also able to check for updates manually. For details, check out the "
 "<a %(link)s>step-by-step guide</a>.</p>"
 msgstr ""
+"អ្នក​ក៏​អាច​ពិនិត្យមើល​បច្ចុប្បន្នភាព​ដោយ​ដៃ​បាន​ផង​ដែរ។ សម្រាប់​ព័ត៌មាន​លម្អិត សូម​ពិនិត្យមើល<a %(link)"
+"s>ជំហាន​ការ​ណែនាំ</a>។</p>"
 
 #: firefox/update.lang:61
 msgid "Check for Updates"
-msgstr ""
+msgstr "ពិនិត្យមើល​បច្ចុប្បន្នភាព"
 
 #: firefox/update.lang:65
 msgid "What if I miss an update? Can I check for one myself?"
 msgstr ""
+"តើ​មាន​អ្វី​កើតឡើង​បើ​ខ្ញុំ​មិន​បាន​ធ្វើ​បច្ចុប្បន្នភាព? តើ​ខ្ញុំ​អាច​រក​បច្ចុប្បន្នភាព​មួយ​ដោយ​ខ្លួនឯង​បាន​ទេ?"
 
 #: firefox/update.lang:69
-#, fuzzy
 msgid "Your Firefox is up to date."
-msgstr "Firefox របស់​អ្នក​ហួស​សម័យ​ហើយ ។"
+msgstr "Firefox របស់​អ្នក​គឺ​ទាន់​សម័យ​ហើយ។"
 
 #: firefox/update.lang:73
 msgid ""
@@ -122,6 +128,9 @@ msgid ""
 "fixes or other little changes to the browser to ensure that you are using "
 "the best version of Firefox available."
 msgstr ""
+"ការ​ទាញ​យក​បច្ចុប្បន្នភាព​កម្មវិធី Firefox គឺ​លឿន ហើយ​មាន​ចំនួន​កូដ​ថ្មី​តិចតួច​ប៉ុណ្ណោះ​បន្ថែម​លើ​កម្មវិធី​អ៊ីនធឺណិត "
+"Firefox ដែល​មាន​ស្រាប់​របស់​អ្នក។ បំណះ​ថ្មី​នេះ​អា​មាន​ជា​ការ​ជួសជុល​សុវត្ថិភាព ឬ​ការ​ផ្លាស់ប្ដូរ​បន្តិចបន្តួច​"
+"ដើម្បីឲ្យ​ប្រាកដ​ថា​អ្នក​កំពុង​ប្រើ​កំណែ​ដ៏​ល្អ​បំផុត​របស់ Firefox ។"
 
 #: firefox/update.lang:77
 msgid "How long will it take to update?"
