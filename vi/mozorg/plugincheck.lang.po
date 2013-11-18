@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-22 21:21+0100\n"
-"PO-Revision-Date: 2013-08-12 01:36+0000\n"
-"Last-Translator: hainp <hainp2604@gmail.com>\n"
+"PO-Revision-Date: 2013-11-17 11:17+0000\n"
+"Last-Translator: Đặng <thanhdd.it@gmail.com>\n"
 "Language-Team: none\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
-"X-POOTLE-MTIME: 1376271414.000000\n"
+"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-POOTLE-MTIME: 1384687042.000000\n"
 
 #. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 #. Page <title> tag
@@ -78,12 +78,14 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:62
 msgid "Step 1: Click Update to update a plugin."
-msgstr ""
+msgstr "Bước 1: nhấn Cập nhật để nâng cấp plugin."
 
 #: mozorg/plugincheck.lang:66
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
+"Bước 2: Hoàn thành tất cả các cập nhật được yêu cầu trước khi khởi động lại "
+"trình duyệt của bạn."
 
 #: mozorg/plugincheck.lang:70
 msgid "Potentially vulnerable plugins"
@@ -91,11 +93,11 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:74
 msgid "Plugin"
-msgstr ""
+msgstr "Plugin"
 
 #: mozorg/plugincheck.lang:78
 msgid "Status"
-msgstr ""
+msgstr "Tình trạng"
 
 #: mozorg/plugincheck.lang:82
 msgid "Action"
@@ -103,18 +105,17 @@ msgstr "Hành động"
 
 #: mozorg/plugincheck.lang:86
 msgid "Outdated Plugins"
-msgstr ""
+msgstr "Plugin chưa cập nhật"
 
 #: mozorg/plugincheck.lang:90
 msgid "Unknown Plugins"
-msgstr ""
+msgstr "Plugin chưa xác định"
 
 #: mozorg/plugincheck.lang:94
 msgid "These plugins are up to date"
-msgstr ""
+msgstr "Những plugin này đã được cập nhật"
 
 #: mozorg/plugincheck.lang:98
-#, fuzzy
 msgid "Back to Top"
 msgstr "Lên đầu trang"
 
@@ -137,42 +138,50 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:118
 msgid "Plugins don't always update automatically."
-msgstr ""
+msgstr "Plugin không thường xuyên cập nhật tự động."
 
 #: mozorg/plugincheck.lang:122
 msgid "Why should I update my plugins?"
-msgstr ""
+msgstr "Tại sao tôi nên cập nhật các plugin của tôi?"
 
 #: mozorg/plugincheck.lang:126
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr ""
+"Các plugin cũ có thể gây đổ vỡ trình duyệt và làm mất thời gian của bạn."
 
 #: mozorg/plugincheck.lang:130
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
 msgstr ""
+"Các plugin cũ <strong>làm tăng</strong> nguy cơ bị tấn công bởi phần mềm độc "
+"hại, virut, và những sự de dọa về bảo mật khác."
 
 #: mozorg/plugincheck.lang:134
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
 msgstr ""
+"<strong>Các plugin được cập nhật có những sự cải tiến</strong> giúp tạo một "
+"trang web tốt hơn và an toàn hơn</strong> cho bạn."
 
 #. alt image
 #: mozorg/plugincheck.lang:139
 msgid "Screenshot of Add-Ons manager"
-msgstr ""
+msgstr "Ảnh chụp màn hình của trình quản lý add-on"
 
 #: mozorg/plugincheck.lang:143
 msgid "How can Firefox help me?"
-msgstr ""
+msgstr "Làm thế nào Firefox có thể giúp tôi?"
 
 #: mozorg/plugincheck.lang:147
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
 msgstr ""
+"Trong tương lai, Firefox sẽ cập nhật các plugin cho bạn. Cho đến lúc đó, bạn "
+"phải thường xuyên vào trang này và cập nhật các plugin của bạn để web được "
+"an toàn hơn."
 
 #: mozorg/plugincheck.lang:151
 msgid "Which Plugins do I have?"
@@ -211,34 +220,34 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:179
 msgid "How do I disable a plugin?"
-msgstr ""
+msgstr "Làm thế nào để tôi vô hiệu hóa một plugin?"
 
 #: mozorg/plugincheck.lang:183
 msgid "In Firefox:"
-msgstr ""
+msgstr " Trong Firefox:"
 
 #: mozorg/plugincheck.lang:187
 msgctxt "./mozorg/plugincheck.lang:187"
 msgid "Open the Tools menu."
-msgstr ""
+msgstr "Mở bảng chọn Công cụ."
 
 #: mozorg/plugincheck.lang:191
 msgctxt "./mozorg/plugincheck.lang:191"
 msgid "Choose Add-ons."
-msgstr ""
+msgstr "Chọn add-on."
 
 #: mozorg/plugincheck.lang:195
 msgctxt "./mozorg/plugincheck.lang:195"
 msgid "Click the plugins tab."
-msgstr ""
+msgstr "Nhấn vào thẻ plugin."
 
 #: mozorg/plugincheck.lang:199
 msgid "Click on a plugin in the list."
-msgstr ""
+msgstr "Nhấn vào một plugin trên danh sách."
 
 #: mozorg/plugincheck.lang:203
 msgid "Click the Disable button."
-msgstr ""
+msgstr "Nhấn vào nút Vô hiệu hóa."
 
 #: mozorg/plugincheck.lang:207
 msgid ""
@@ -246,15 +255,20 @@ msgid ""
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on YouTube."
 msgstr ""
+"Cảnh báo: vô hiệu hóa một plugin đồng nghĩa với việc bạn sẽ không thể làm "
+"một số việc. Ví dụ, nếu bạn vô hiệu hóa Flash, bạn sẽ không thể xem các "
+"video trên YouTube."
 
 #: mozorg/plugincheck.lang:211
 msgid "Mozilla Support"
-msgstr ""
+msgstr "Hỗ trợ từ Mozilla"
 
 #: mozorg/plugincheck.lang:215
 msgid "Have more questions?"
-msgstr ""
+msgstr "Còn câu hỏi nào khác?"
 
 #: mozorg/plugincheck.lang:219
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
+"Vào trang <a href=\"%(sumo_url)s\">support.mozilla.org</a> để được hộ trợ "
+"thêm!"
