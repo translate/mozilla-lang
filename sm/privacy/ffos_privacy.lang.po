@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-18 23:23+0100\n"
+"POT-Creation-Date: 2013-11-25 22:12+0100\n"
 "PO-Revision-Date: 2013-09-18 23:23+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -39,6 +39,7 @@ msgstr ""
 msgid "Learn More"
 msgstr "Mālamalama atili"
 
+#. String with typo, will be removed after Bug 941065 is fixed
 #: privacy/ffos_privacy.lang:24
 msgid ""
 "Updates: To keep itself up to date, Firefox OS automatically connects to a "
@@ -48,7 +49,17 @@ msgid ""
 "location, that app’s develope’s services."
 msgstr ""
 
+#. Updated string (related to Bug 941065)
 #: privacy/ffos_privacy.lang:28
+msgid ""
+"Updates: To keep itself up to date, Firefox OS automatically connects to a "
+"service operated by or on behalf of the manufacturer of your device. Firefox "
+"OS also automatically checks for updates to installed apps by sending a "
+"request to the Firefox Marketplace or, if you installed an app from another "
+"location, that app’s developer’s services."
+msgstr ""
+
+#: privacy/ffos_privacy.lang:32
 msgid ""
 "Location: When you turn location services on, Firefox OS may use multiple "
 "data points and entities to estimate your location, including GPS, AGPS and "
@@ -56,45 +67,45 @@ msgid ""
 "the Firefox OS “Settings” app on your device."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:32
+#: privacy/ffos_privacy.lang:36
 msgid ""
 "The device you are using, like most mobile devices, is created by several "
 "parties. This notice only covers how Mozilla handles your information for "
 "official versions of Firefox OS authorized by Mozilla."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:36
+#: privacy/ffos_privacy.lang:40
 msgid "Contact Us"
 msgstr "Fa'afeso'ota'i mātou"
 
-#: privacy/ffos_privacy.lang:40
+#: privacy/ffos_privacy.lang:44
 msgid ""
 "If you use apps made by someone other than Mozilla, their privacy policies "
 "will apply."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:44
+#: privacy/ffos_privacy.lang:48
 msgid ""
 "The dynamic app search feature of Firefox OS is powered by Everything.me and "
 "its privacy policy applies, which you can find at %(link)s"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:48
+#: privacy/ffos_privacy.lang:52
 msgid ""
 "Firefox OS allows you to use several integrated third party services, such "
 "as your email or social provider. The privacy policy of those services will "
 "apply to your use of them."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:52
+#: privacy/ffos_privacy.lang:56
 msgid "08 May 2013"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:56
+#: privacy/ffos_privacy.lang:60
 msgid "Mozilla Privacy Policy"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:60
+#: privacy/ffos_privacy.lang:64
 msgid ""
 "Your privacy is an important factor that Mozilla (that’s us) considers in "
 "the development of each of our products and services. We are committed to "
@@ -102,22 +113,22 @@ msgid ""
 "about you, and what we do with that information once we have it."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:64
+#: privacy/ffos_privacy.lang:68
 msgid "What do we mean by \"personal information?\""
 msgstr ""
 
-#: privacy/ffos_privacy.lang:68
+#: privacy/ffos_privacy.lang:72
 msgid ""
 "For us, \"personal information\" means information which identifies you, "
 "like your name or email address."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:72
+#: privacy/ffos_privacy.lang:76
 msgid ""
 "Any information that falls outside of this is \"non-personal information.\""
 msgstr ""
 
-#: privacy/ffos_privacy.lang:76
+#: privacy/ffos_privacy.lang:80
 msgid ""
 "If we store your personal information with information that is non-personal, "
 "we will consider the combination as personal information. If we remove all "
@@ -125,66 +136,66 @@ msgid ""
 "information."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:80
+#: privacy/ffos_privacy.lang:84
 msgid "How do we learn information about you?"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:84
+#: privacy/ffos_privacy.lang:88
 msgid "We learn information about you when:"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:88
+#: privacy/ffos_privacy.lang:92
 msgid ""
 "you give it to us directly (e.g., when you choose to send us crash reports "
 "from Firefox);"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:92
+#: privacy/ffos_privacy.lang:96
 msgid ""
 "we collect it automatically through our products and services (e.g., when we "
 "check whether your version of Firefox is up to date);"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:96
+#: privacy/ffos_privacy.lang:100
 msgid ""
 "someone else tells us information about you (e.g., Thunderbird works with "
 "your email providers to set up your account); or"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:100
+#: privacy/ffos_privacy.lang:104
 msgid ""
 "when we try and understand more about you based on information you’ve given "
 "to us (e.g., when we use your IP address to customize language for some of "
 "our services)."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:104
+#: privacy/ffos_privacy.lang:108
 msgid "What do we do with your information once we have it?"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:108
+#: privacy/ffos_privacy.lang:112
 msgid ""
 "When you give us personal information, we will use it in the ways for which "
 "you’ve given us permission. Generally, we use your information to help us "
 "provide and improve our products and services for you."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:112
+#: privacy/ffos_privacy.lang:116
 msgid "When do we share your information with others?"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:116
+#: privacy/ffos_privacy.lang:120
 msgid "When we have gotten your permission to share it."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:120
+#: privacy/ffos_privacy.lang:124
 msgid ""
 "For processing or providing products and services to you, but only if those "
 "entities receiving your information are contractually obligated to handle "
 "the data in ways that are approved by Mozilla."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:124
+#: privacy/ffos_privacy.lang:128
 msgid ""
 "When we are fulfilling our <a href=\"%(url)s\">mission of being open</a>. We "
 "sometimes release information to make our products better and foster an open "
@@ -192,7 +203,7 @@ msgid ""
 "disclose it in a way that minimizes the risk of you being re-identified."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:128
+#: privacy/ffos_privacy.lang:132
 msgid ""
 "When the law requires it. We follow the law whenever we receive requests "
 "about you from a government or related to a lawsuit. We’ll notify you when "
@@ -204,7 +215,7 @@ msgid ""
 "request to disclose your information."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:132
+#: privacy/ffos_privacy.lang:136
 msgid ""
 "When we believe it is necessary to prevent harm to you or someone else. We "
 "will only share your information in this way if we have a good faith belief "
@@ -212,18 +223,18 @@ msgid ""
 "you, our other users, Mozilla or the public."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:136
+#: privacy/ffos_privacy.lang:140
 msgid ""
 "If our organizational structure or status changes (if we undergo a "
 "restructuring, are acquired, or go bankrupt) we may pass your information to "
 "a successor or affiliate."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:140
+#: privacy/ffos_privacy.lang:144
 msgid "How do we store and protect your personal information?"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:144
+#: privacy/ffos_privacy.lang:148
 msgid ""
 "We are committed to protecting your personal information once we have it. We "
 "implement physical, business and technical security measures. Despite our "
@@ -231,7 +242,7 @@ msgid ""
 "take appropriate protective steps."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:148
+#: privacy/ffos_privacy.lang:152
 msgid ""
 "We also don’t want your personal information for any longer than we need it, "
 "so we only keep it long enough to do what we collected it for. Once we don’t "
@@ -239,11 +250,11 @@ msgid ""
 "it longer."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:152
+#: privacy/ffos_privacy.lang:156
 msgid "What else do we want you know?"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:156
+#: privacy/ffos_privacy.lang:160
 msgid ""
 "We’re a global organization and our computers are in several different "
 "places around the world. We also use service providers whose computers may "
@@ -255,7 +266,7 @@ msgid ""
 "and will also abide by the commitments we make in this privacy policy."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:160
+#: privacy/ffos_privacy.lang:164
 msgid ""
 "If you are under 13, we don’t want your personal information, and you must "
 "not provide it to us. If you are a parent and believe that your child who is "
@@ -263,83 +274,83 @@ msgid ""
 "s>contact us</a> to have your child’s information removed."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:164
+#: privacy/ffos_privacy.lang:168
 msgid "What if we change this policy?"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:168
+#: privacy/ffos_privacy.lang:172
 msgid "We may need to change this policy and when we do, we’ll notify you."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:172
+#: privacy/ffos_privacy.lang:176
 msgid "Contact Mozilla Privacy"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:176
+#: privacy/ffos_privacy.lang:180
 msgid ""
 "If you want to make a correction to your information, or you have any "
 "questions about our privacy policies, please get in touch with:"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:180
+#: privacy/ffos_privacy.lang:184
 msgid ""
 "Mozilla Corporation<br /> Attn: Legal Notices - Privacy<br /> 650 Castro "
 "Street, Suite 300<br /> Mountain View, CA 94041-2072<br /> Phone: "
 "+1-650-903-0800"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:184
+#: privacy/ffos_privacy.lang:188
 msgid ""
 "Please use this form to send us your questions, concerns or thoughts related "
 "to privacy at Mozilla."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:188
+#: privacy/ffos_privacy.lang:192
 msgid "Your request could not be completed. Please try again."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:192
+#: privacy/ffos_privacy.lang:196
 msgid "Your name:"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:196
+#: privacy/ffos_privacy.lang:200
 msgid "This field is required, please enter your name."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:200
+#: privacy/ffos_privacy.lang:204
 msgid "Your email:"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:204
+#: privacy/ffos_privacy.lang:208
 msgid "This field is required, please enter your email address."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:208
+#: privacy/ffos_privacy.lang:212
 msgid "you@yourdomain.com"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:212
+#: privacy/ffos_privacy.lang:216
 msgid "Your comments:"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:216
+#: privacy/ffos_privacy.lang:220
 msgid "Enter your comments..."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:220
+#: privacy/ffos_privacy.lang:224
 msgid ""
 "<strong>Thank you</strong> for sending us your questions or comments. A "
 "member of the privacy team will be in contact shortly."
 msgstr ""
 
-#: privacy/ffos_privacy.lang:224
+#: privacy/ffos_privacy.lang:228
 msgid "Send comments"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:228
+#: privacy/ffos_privacy.lang:232
 msgid "Home"
 msgstr ""
 
-#: privacy/ffos_privacy.lang:232
+#: privacy/ffos_privacy.lang:236
 msgid "Show Less"
 msgstr ""
