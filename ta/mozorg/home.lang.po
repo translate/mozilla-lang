@@ -4,44 +4,46 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-14 15:44+0100\n"
-"PO-Revision-Date: 2013-02-28 08:33-0700\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2013-11-20 10:10+0000\n"
+"Last-Translator: thangamani-arun <thangam.arunx@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-POOTLE-MTIME: 1384942204.000000\n"
 
 #. # NOTE: demo server for new home page is https://www-demo3.allizom.org/?v=1
 #: mozorg/home.lang:4
 msgid "Home of the Mozilla Project"
-msgstr ""
+msgstr "மொசில்லா திட்டத்தின் முகப்பு"
 
 #. Used as a label for a button that scrolls through latest news.
 #: mozorg/home.lang:9
 msgid "Next article"
-msgstr ""
+msgstr "அடுத்த கட்டுரை"
 
 #. Used as a label for a button that scrolls through latest news.
 #: mozorg/home.lang:14
 msgid "Previous article"
-msgstr ""
+msgstr "முந்தைய கட்டுரை"
 
 #. The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 #: mozorg/home.lang:19
 msgid "We are %(mozilla_wordmark)s"
-msgstr ""
+msgstr "நாங்கள் %(mozilla_wordmark)s"
 
 #: mozorg/home.lang:23
+#, fuzzy
 msgid "Doing good is part of our code"
-msgstr ""
+msgstr "நனடறாக செய்வது எங்களுடைய நிரலாக்கத்தின் பங்குாகம்"
 
 #: mozorg/home.lang:27
-#, fuzzy
 msgctxt "./mozorg/home.lang:27"
 msgid "Get involved"
-msgstr "பங்குபெற"
+msgstr "பங்குபெறுங்கள்"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:32
@@ -141,9 +143,10 @@ msgid "See all news"
 msgstr ""
 
 #: mozorg/home.lang:119
+#, fuzzy
 msgctxt "./mozorg/home.lang:119"
 msgid "Get involved"
-msgstr ""
+msgstr "பங்குபெற"
 
 #. This string is displayed only for locales where we launch Firefox OS soon
 #: mozorg/home.lang:124
