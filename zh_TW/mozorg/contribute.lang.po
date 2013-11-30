@@ -3,11 +3,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-05 11:56+0100\n"
+"POT-Creation-Date: 2013-11-29 13:49+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -293,36 +292,29 @@ msgstr "網頁開發"
 msgid "Visual Design"
 msgstr "視覺設計"
 
-#: mozorg/contribute.lang:218
-msgid ""
-"I’m okay with you handling this info as you explain in your <a href=\"%s"
-"\">Privacy Policy</a>"
-msgstr ""
-"我同意你們依照<a href=\"%s\">隱私權保護政策</a>上面所記載的方式使用此資訊"
-
-#: mozorg/contribute.lang:222
+#: mozorg/contribute.lang:219
 msgid "Twitter"
 msgstr "Twitter"
 
-#: mozorg/contribute.lang:226
+#: mozorg/contribute.lang:223
 msgid ""
 "We are sorry, but there was a problem with our system. Please try again "
 "later!"
 msgstr "很抱歉，我們的系統發生了一點問題。請稍後再試一次！"
 
-#: mozorg/contribute.lang:230
+#: mozorg/contribute.lang:227
 msgid "Other"
 msgstr "其他"
 
-#: mozorg/contribute.lang:234
+#: mozorg/contribute.lang:231
 msgid "Marketing"
 msgstr "協助宣傳"
 
-#: mozorg/contribute.lang:238
+#: mozorg/contribute.lang:235
 msgid "Testing and QA"
 msgstr "品質檢測"
 
-#: mozorg/contribute.lang:242
+#: mozorg/contribute.lang:239
 msgid ""
 "Our web sites are open for web developers to hack on. <a href=\"%(webdev_url)"
 "s\">Find a web site project</a> to get started on. Your web skills can also "
@@ -332,7 +324,7 @@ msgstr ""
 "案</a>。您的 Web 能力也可以<a href=\"%(gaia_url)s\">幫助我們打造最新的 "
 "Firefox OS</a>。"
 
-#: mozorg/contribute.lang:246
+#: mozorg/contribute.lang:243
 msgid ""
 "Our support process relies on enthusiastic contributors like you to help "
 "others get the most out of Mozilla products. Find out more about <a href="
@@ -343,11 +335,11 @@ msgstr ""
 "如何<a href=\"%(fx_support_url)s\">幫助 Firefox 使用者</a> 與 <a href="
 "\"%(tb_support_url)s\">Thunderbird 使用者</a>。"
 
-#: mozorg/contribute.lang:250
+#: mozorg/contribute.lang:247
 msgid "Documentation and Writing"
 msgstr "撰寫文件"
 
-#: mozorg/contribute.lang:254
+#: mozorg/contribute.lang:251
 msgid ""
 "We want to make it possible for artists to cover the web and people with "
 "designs inspired by Mozilla. Check out the <a href=\"%(creative_url)s"
@@ -357,7 +349,7 @@ msgstr ""
 "讓 Web 變得更好。相關資訊請見<a href=\"%(creative_url)s\">創意團隊的部落格</"
 "a>。"
 
-#: mozorg/contribute.lang:258
+#: mozorg/contribute.lang:255
 msgid ""
 "Mozilla products have a powerful extension system that allows you to make "
 "small tweaks or major additions. Learn more about how to <a href="
@@ -368,7 +360,7 @@ msgstr ""
 "改程式。如果您還不知道怎麼做，歡迎來學學<a href=\"%(addons_url)s\">打造附加元"
 "件的方法</a>；老手們，也歡迎<a href=\"%(addons_wiki)s\">加入 AMO 編輯群</a>。"
 
-#: mozorg/contribute.lang:262
+#: mozorg/contribute.lang:259
 msgid ""
 "Help build a generation of webmakers by teaching others how the web works. "
 "<a href=\"%(moz_webmaker)s \">Explore what the Mozilla Webmaker project is "
@@ -380,7 +372,7 @@ msgstr ""
 "\"%(moz_webmaker)s \">請參考 Mozilla Webmaker 專案</a>，也可以<a href="
 "\"%(webmaker)s\">在自己所屬社群中辦活動</a>，開始協助其他人成長。"
 
-#: mozorg/contribute.lang:266
+#: mozorg/contribute.lang:263
 msgid ""
 "<a href=\"%(dev_intro_url)s\">Developers can help</a> Mozilla by adding new "
 "features, making our technology smaller and faster and making development "
@@ -391,6 +383,12 @@ msgstr ""
 "所佔容量更小、更快，或改善開發環境及流程。只要告訴我們<a href=\"%(what_url)s"
 "\">您最愛用哪個程式語言</a>，我們就能幫您找出適合的專案！"
 
-#: mozorg/contribute.lang:270
+#: mozorg/contribute.lang:267
 msgid "Localization and Translation"
 msgstr "在地化與翻譯"
+
+#~ msgid ""
+#~ "I’m okay with you handling this info as you explain in your <a href=\"%s"
+#~ "\">Privacy Policy</a>"
+#~ msgstr ""
+#~ "我同意你們依照<a href=\"%s\">隱私權保護政策</a>上面所記載的方式使用此資訊"
