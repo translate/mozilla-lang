@@ -94,6 +94,7 @@ do
 			mv $po ${po}t
 		done
 		rm $POT_DIR/templates/mozorg/emails/*.txt  # Cleanup files that moz2po copied
+		clean_po_location $PO_DIR $polang
 		revert_unchanged_po_git $POT_DIR/.. templates
 	else
 		mozlang=$(get_language_upstream $lang)
