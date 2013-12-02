@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-17 00:42+0100\n"
+"POT-Creation-Date: 2013-11-29 13:49+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -281,7 +281,8 @@ msgstr "ADRESA VAŠE E-POŠTE"
 msgid "Sign me up"
 msgstr "Pretplati me"
 
-#: newsletter.lang:207
+#. This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod
+#: newsletter.lang:208
 msgid ""
 "I’m okay with you handling this info as you explain in your <a href=\"%s"
 "\">Privacy Policy</a>"
@@ -289,141 +290,144 @@ msgstr ""
 "Slažem se s rukovođenjem ovih informacija, kao što je objašnjeno u <a href="
 "\"%s\">politici privatnosti</a>"
 
-#: newsletter.lang:211
+#: newsletter.lang:212
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Policy</a>"
+msgstr ""
+
+#: newsletter.lang:216
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
 msgstr "Poveznica je istekla. Dobit ćete novu u idućem newsletteru."
 
-#: newsletter.lang:215
+#: newsletter.lang:220
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr ""
 "Ispričavamo se, ali nešto nije u redu s našim sustavom. Molimo vas da "
 "pokušate ponovno kasnije."
 
-#: newsletter.lang:219
+#: newsletter.lang:224
 msgid "English&nbsp;only"
 msgstr "Samo&nbsp;engleski"
 
-#: newsletter.lang:223
+#: newsletter.lang:228
 msgid "Newsletter Subscriptions"
 msgstr "Pretplate na newsletter"
 
-#: newsletter.lang:227
+#: newsletter.lang:232
 msgid "Newsletter confirm"
 msgstr "Newsletter potvrda"
 
-#: newsletter.lang:231
+#: newsletter.lang:236
 msgid "Format:"
 msgstr "Format:{ok}"
 
-#: newsletter.lang:235
+#: newsletter.lang:240
 msgid "You’ve been unsubscribed."
 msgstr "Odjavljeni ste."
 
-#: newsletter.lang:239
+#: newsletter.lang:244
 msgid "We’re sorry to see you go."
 msgstr "Žao nam je što nas napuštate."
 
-#: newsletter.lang:243
+#: newsletter.lang:248
 msgid "Would you mind telling us why you’re leaving?"
 msgstr "Biste li nam mogli reći zašto nas napuštate?"
 
-#: newsletter.lang:247
+#: newsletter.lang:252
 msgid "Other…"
 msgstr "Ostalo…"
 
-#: newsletter.lang:251
+#: newsletter.lang:256
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr ""
 "Kad ste već ovdje, zašto ne biste provjerili druge odlične Firefox stvari."
 
-#: newsletter.lang:255
+#: newsletter.lang:260
 msgid "Get up and go"
 msgstr "Ustanite i krenite"
 
-#: newsletter.lang:259
+#: newsletter.lang:264
 msgid "It’s your Web anywhere you go."
 msgstr "Web je vaš, gdje god bili."
 
-#: newsletter.lang:263
+#: newsletter.lang:268
 msgid "Get Firefox for mobile!"
 msgstr "Preuzmite Firefox za mobitele!"
 
-#: newsletter.lang:267
+#: newsletter.lang:272
 msgid "Added extras"
 msgstr "Dodaci"
 
-#: newsletter.lang:271
+#: newsletter.lang:276
 msgid "Make Firefox do more with add-ons."
 msgstr "Neka vaš Firefox postane još bolji s dodacima."
 
-#: newsletter.lang:275
+#: newsletter.lang:280
 msgid "Find out how!"
 msgstr "Saznajte kako!"
 
-#: newsletter.lang:279
+#: newsletter.lang:284
 msgid "About us"
 msgstr "O nama"
 
-#: newsletter.lang:283
+#: newsletter.lang:288
 msgid "What’s Mozilla all about?"
 msgstr "Čime se Mozilla sve bavi?"
 
-#: newsletter.lang:287
+#: newsletter.lang:292
 msgid "We’re glad you asked!"
 msgstr "Drago nam je što ste pitali!"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:292
+#: newsletter.lang:297
 msgid ""
 "A monthly newsletter packed with tips to improve your Firefox experience."
 msgstr ""
 "Mjesečni newsletter prepun savjeta kako poboljšati vaše Firefox iskustvo."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:297
+#: newsletter.lang:302
 msgid "Tips and tricks to use Firefox on your Android phone."
 msgstr "Savjeti i trikovi kako koristiti Firefox na vašem Android telefonu."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:302
+#: newsletter.lang:307
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr "Novosti, savjeti i informacije o predstavljanjima Firefox OS-a."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:307
+#: newsletter.lang:312
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr "Otkrijte najnovije, fenomenalne HTML5 aplikacije na Firefox OS-u."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:312
+#: newsletter.lang:317
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr "Primajte tjedne savjete kako poboljšati vaše Firefox iskustvo."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:317
-#, fuzzy
-msgctxt "./newsletter.lang:317"
+#: newsletter.lang:322
+msgctxt "./newsletter.lang:322"
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
 msgstr ""
-"Pročitajte o najnovijim mogućnostima u Firefoxu za desktop i mobitele, prije "
-"nego što stignu u finalno izdanje."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:322
+#: newsletter.lang:327
 msgid "News from the Mozilla Project."
 msgstr "Novosti iz Mozilla projekta."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:327
+#: newsletter.lang:332
 msgid "Periodic email updates about our annual international film competition."
 msgstr "Periodičke novosti o našem godišnjem međunarodnom filmskom natječaju."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:332
+#: newsletter.lang:337
 msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
@@ -431,7 +435,7 @@ msgstr ""
 "Mjesečni newsletter koji vas drži u toku s Firefox affiliates programom."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:337
+#: newsletter.lang:342
 msgid ""
 "News for developers about Firefox OS, Firefox Marketplace and the Open Web "
 "apps ecosystem."
@@ -440,12 +444,12 @@ msgstr ""
 "aplikacija za programere."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:342
+#: newsletter.lang:347
 msgid "Email updates for vouched Mozillians on mozillians.org."
 msgstr "Novosti za potvrđene Mozilliane na mozillians.org."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:347
+#: newsletter.lang:352
 msgid ""
 "A monthly newsletter on how to get involved with Mozilla on your campus."
 msgstr ""
@@ -453,10 +457,19 @@ msgstr ""
 "kampusu."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:352
+#: newsletter.lang:357
 msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
 msgstr ""
 "Nekadašnji University program od 2008. do 2011., sada poznatiji kao Firefox "
 "student ambassadors program."
+
+#, fuzzy
+#~ msgctxt "./newsletter.lang:317"
+#~ msgid ""
+#~ "Read about the latest features for Firefox desktop and mobile before the "
+#~ "final release."
+#~ msgstr ""
+#~ "Pročitajte o najnovijim mogućnostima u Firefoxu za desktop i mobitele, "
+#~ "prije nego što stignu u finalno izdanje."

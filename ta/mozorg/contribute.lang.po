@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-05 11:56+0100\n"
+"POT-Creation-Date: 2013-11-29 13:49+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -307,38 +307,30 @@ msgstr "வலை உருவாக்குநர்"
 msgid "Visual Design"
 msgstr "காட்சி வடிவமைப்பு"
 
-#: mozorg/contribute.lang:218
-msgid ""
-"I’m okay with you handling this info as you explain in your <a href=\"%s"
-"\">Privacy Policy</a>"
-msgstr ""
-"உங்கள் <a href=\"%s\">தனியுரிமை கொள்கையில்</a> விவரித்துள்ளது போல் இந்த தகவலைப் "
-"பயன்படுத்துவதில் எனக்கு ஆட்சேபனை இல்லை."
-
-#: mozorg/contribute.lang:222
+#: mozorg/contribute.lang:219
 msgid "Twitter"
 msgstr "Twitter"
 
-#: mozorg/contribute.lang:226
+#: mozorg/contribute.lang:223
 msgid ""
 "We are sorry, but there was a problem with our system. Please try again "
 "later!"
 msgstr ""
 "வருந்துகிறோம், ஆனால் எங்கள் முறைமையில் ஏதோ சிக்கல் ஏற்பட்டது. மீண்டும் பிறகு முயற்சிக்கவும்!"
 
-#: mozorg/contribute.lang:230
+#: mozorg/contribute.lang:227
 msgid "Other"
 msgstr "மற்றவை"
 
-#: mozorg/contribute.lang:234
+#: mozorg/contribute.lang:231
 msgid "Marketing"
 msgstr "சந்தைப்படுத்தல்"
 
-#: mozorg/contribute.lang:238
+#: mozorg/contribute.lang:235
 msgid "Testing and QA"
 msgstr "சோதித்தல் மற்றும் QA"
 
-#: mozorg/contribute.lang:242
+#: mozorg/contribute.lang:239
 msgid ""
 "Our web sites are open for web developers to hack on. <a href=\"%(webdev_url)"
 "s\">Find a web site project</a> to get started on. Your web skills can also "
@@ -349,7 +341,7 @@ msgstr ""
 "href=\"%(gaia_url)s\">எங்கள் புதிய Firefox OS ஐ உருவாக்க உதவியாகவும்</a> உங்கள் "
 "இணைய திறமைகள் பயன்படும்."
 
-#: mozorg/contribute.lang:246
+#: mozorg/contribute.lang:243
 msgid ""
 "Our support process relies on enthusiastic contributors like you to help "
 "others get the most out of Mozilla products. Find out more about <a href="
@@ -362,11 +354,11 @@ msgstr ""
 "\"%(tb_support_url)s\">Thunderbird பயனர்களுக்கு எப்படி உதவுவது</a> என்பது பற்றி "
 "மேலும் அறிக."
 
-#: mozorg/contribute.lang:250
+#: mozorg/contribute.lang:247
 msgid "Documentation and Writing"
 msgstr "ஆவணமாக்கம் மற்றும் எழுத்துப்பணி"
 
-#: mozorg/contribute.lang:254
+#: mozorg/contribute.lang:251
 msgid ""
 "We want to make it possible for artists to cover the web and people with "
 "designs inspired by Mozilla. Check out the <a href=\"%(creative_url)s"
@@ -376,7 +368,7 @@ msgstr ""
 "தொடர்புகொள்ளும் சாத்தியத்தை உருவாக்க விரும்புகிறோம். எப்படி பங்கேற்பது என்பது பற்றி மேலும் "
 "தகவலுக்கு <a href=\"%(creative_url)s\">படைப்புத்திறன் அணி வலைப்பதிவைக்</a> காண்க."
 
-#: mozorg/contribute.lang:258
+#: mozorg/contribute.lang:255
 msgid ""
 "Mozilla products have a powerful extension system that allows you to make "
 "small tweaks or major additions. Learn more about how to <a href="
@@ -389,7 +381,7 @@ msgstr ""
 "அறிக. அனுபவமிக்க உருவாக்குநர்களுக்கு, <a href=\"%(addons_wiki)s\">AMO ஆசிரியராக "
 "ஆவது</a> எப்படி என்று அறிக."
 
-#: mozorg/contribute.lang:262
+#: mozorg/contribute.lang:259
 msgid ""
 "Help build a generation of webmakers by teaching others how the web works. "
 "<a href=\"%(moz_webmaker)s \">Explore what the Mozilla Webmaker project is "
@@ -402,7 +394,7 @@ msgstr ""
 "\"%(webmaker)s\">உங்கள் சமூகத்தில் இன்றே ஒரு நிகழ்வை நடத்துவதன்</a> மூலம் "
 "மற்றவர்களுக்குக் கற்றுக்கொடுக்கத் தொடங்குக."
 
-#: mozorg/contribute.lang:266
+#: mozorg/contribute.lang:263
 msgid ""
 "<a href=\"%(dev_intro_url)s\">Developers can help</a> Mozilla by adding new "
 "features, making our technology smaller and faster and making development "
@@ -415,6 +407,13 @@ msgstr ""
 "விருப்பமான நிரலாக்க மொழியைக் கூறுக</a> உங்களுக்கு ஏற்ற திட்டப்பணியை நாங்கள் கண்டறிந்து "
 "கூறுகிறோம்."
 
-#: mozorg/contribute.lang:270
+#: mozorg/contribute.lang:267
 msgid "Localization and Translation"
 msgstr "உள்ளூர்மயமாக்கல் மற்றும் மொழிபெயர்ப்பு"
+
+#~ msgid ""
+#~ "I’m okay with you handling this info as you explain in your <a href=\"%s"
+#~ "\">Privacy Policy</a>"
+#~ msgstr ""
+#~ "உங்கள் <a href=\"%s\">தனியுரிமை கொள்கையில்</a> விவரித்துள்ளது போல் இந்த தகவலைப் "
+#~ "பயன்படுத்துவதில் எனக்கு ஆட்சேபனை இல்லை."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-17 00:42+0100\n"
+"POT-Creation-Date: 2013-11-29 13:49+0100\n"
 "PO-Revision-Date: 2013-10-28 21:28+0000\n"
 "Last-Translator: chandan <chandankumar.093047@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -271,7 +271,8 @@ msgstr "यहाँ आपका ईमेल"
 msgid "Sign me up"
 msgstr "मुझे साइनअप करें"
 
-#: newsletter.lang:207
+#. This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod
+#: newsletter.lang:208
 msgid ""
 "I’m okay with you handling this info as you explain in your <a href=\"%s"
 "\">Privacy Policy</a>"
@@ -279,159 +280,165 @@ msgstr ""
 "हम आपके साथ इस जानकारी को संभालने में ठीक हैं जैसा कि आपने अपने <a href=\"%s"
 "\">गोपनीयता नीति</a> में समझाया हैं"
 
-#: newsletter.lang:211
+#: newsletter.lang:212
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Policy</a>"
+msgstr ""
+
+#: newsletter.lang:216
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
 msgstr "आपूर्ति कड़ी समाप्त हो गया है. आपको अगले समाचार पत्र में एक नया एक प्राप्त होगा."
 
-#: newsletter.lang:215
+#: newsletter.lang:220
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr "कुछ हमारी प्रणाली के साथ गलत है, क्षमा करें! बाद में पुन: प्रयास करें."
 
-#: newsletter.lang:219
+#: newsletter.lang:224
 msgid "English&nbsp;only"
 msgstr "केवल अंग्रेजी &nbsp;में"
 
-#: newsletter.lang:223
+#: newsletter.lang:228
 msgid "Newsletter Subscriptions"
 msgstr "सूचनापत्र सदस्यता"
 
-#: newsletter.lang:227
+#: newsletter.lang:232
 msgid "Newsletter confirm"
 msgstr "सूचनापत्र की पुष्टि"
 
-#: newsletter.lang:231
+#: newsletter.lang:236
 msgid "Format:"
 msgstr "प्रारूप:"
 
-#: newsletter.lang:235
+#: newsletter.lang:240
 msgid "You’ve been unsubscribed."
 msgstr "आपकी सदस्यता समाप्त कर दी गयी है ."
 
-#: newsletter.lang:239
+#: newsletter.lang:244
 msgid "We’re sorry to see you go."
 msgstr "आपको जाते देखकर हमे खेद हो रहा हैं."
 
-#: newsletter.lang:243
+#: newsletter.lang:248
 msgid "Would you mind telling us why you’re leaving?"
 msgstr "अगर आपको कोई ऐतराज न हो क्या आप बता सकते हैं आप क्यों जा रहें हैं?"
 
-#: newsletter.lang:247
+#: newsletter.lang:252
 msgid "Other…"
 msgstr "अन्य…"
 
-#: newsletter.lang:251
+#: newsletter.lang:256
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr "अगर आप यहाँ हैं तो कुछ और फ़ायरफ़ॉक्स विस्मयकारिता की जाँच कर लें"
 
-#: newsletter.lang:255
+#: newsletter.lang:260
 msgid "Get up and go"
 msgstr "उठो और जाओ"
 
-#: newsletter.lang:259
+#: newsletter.lang:264
 msgid "It’s your Web anywhere you go."
 msgstr "यह आपका वेब हैं आप जहा चाहे वह जा सकते हैं."
 
-#: newsletter.lang:263
+#: newsletter.lang:268
 msgid "Get Firefox for mobile!"
 msgstr "मोबाइल के लिए फ़ायरफ़ॉक्स!"
 
-#: newsletter.lang:267
+#: newsletter.lang:272
 msgid "Added extras"
 msgstr "अतिरिक्त जोड़ें"
 
-#: newsletter.lang:271
+#: newsletter.lang:276
 msgid "Make Firefox do more with add-ons."
 msgstr "फ़ायरफ़ॉक्स Add-ons के साथ और अधिक करें."
 
-#: newsletter.lang:275
+#: newsletter.lang:280
 msgid "Find out how!"
 msgstr "पता लगाएँ कैसे!"
 
-#: newsletter.lang:279
+#: newsletter.lang:284
 msgid "About us"
 msgstr "के बारे में "
 
-#: newsletter.lang:283
+#: newsletter.lang:288
 msgid "What’s Mozilla all about?"
 msgstr "मोज़िल्ला आखिर हैं क्या?"
 
-#: newsletter.lang:287
+#: newsletter.lang:292
 msgid "We’re glad you asked!"
 msgstr "हमे ख़ुशी हुए कि आपने पूछा?"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:292
+#: newsletter.lang:297
 msgid ""
 "A monthly newsletter packed with tips to improve your Firefox experience."
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:297
+#: newsletter.lang:302
 msgid "Tips and tricks to use Firefox on your Android phone."
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:302
+#: newsletter.lang:307
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:307
+#: newsletter.lang:312
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:312
+#: newsletter.lang:317
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:317
-msgctxt "./newsletter.lang:317"
+#: newsletter.lang:322
+msgctxt "./newsletter.lang:322"
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:322
+#: newsletter.lang:327
 msgid "News from the Mozilla Project."
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:327
+#: newsletter.lang:332
 msgid "Periodic email updates about our annual international film competition."
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:332
+#: newsletter.lang:337
 msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:337
+#: newsletter.lang:342
 msgid ""
 "News for developers about Firefox OS, Firefox Marketplace and the Open Web "
 "apps ecosystem."
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:342
+#: newsletter.lang:347
 msgid "Email updates for vouched Mozillians on mozillians.org."
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:347
+#: newsletter.lang:352
 msgid ""
 "A monthly newsletter on how to get involved with Mozilla on your campus."
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:352
+#: newsletter.lang:357
 msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."

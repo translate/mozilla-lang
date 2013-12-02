@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-17 00:42+0100\n"
+"POT-Creation-Date: 2013-11-29 13:49+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -278,7 +278,8 @@ msgstr "YOUR EMAIL HERE"
 msgid "Sign me up"
 msgstr "Sign me up"
 
-#: newsletter.lang:207
+#. This string is obsolete (replaced by the next one). Will be removed after bug 937986 is merged to prod
+#: newsletter.lang:208
 msgid ""
 "I’m okay with you handling this info as you explain in your <a href=\"%s"
 "\">Privacy Policy</a>"
@@ -286,7 +287,13 @@ msgstr ""
 "I’m okay with you handling this info as you explain in your <a href=\"%s"
 "\">Privacy Policy</a>"
 
-#: newsletter.lang:211
+#: newsletter.lang:212
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Policy</a>"
+msgstr ""
+
+#: newsletter.lang:216
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
@@ -294,168 +301,174 @@ msgstr ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
 
-#: newsletter.lang:215
+#: newsletter.lang:220
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr "Something is amiss with our system, sorry! Please try again later."
 
-#: newsletter.lang:219
+#: newsletter.lang:224
 msgid "English&nbsp;only"
 msgstr "English&nbsp;only"
 
-#: newsletter.lang:223
+#: newsletter.lang:228
 msgid "Newsletter Subscriptions"
 msgstr "Newsletter Subscriptions"
 
-#: newsletter.lang:227
+#: newsletter.lang:232
 msgid "Newsletter confirm"
 msgstr "Newsletter confirm"
 
-#: newsletter.lang:231
+#: newsletter.lang:236
 msgid "Format:"
 msgstr "Format:"
 
-#: newsletter.lang:235
+#: newsletter.lang:240
 msgid "You’ve been unsubscribed."
 msgstr "You’ve been unsubscribed."
 
-#: newsletter.lang:239
+#: newsletter.lang:244
 msgid "We’re sorry to see you go."
 msgstr "We’re sorry to see you go."
 
-#: newsletter.lang:243
+#: newsletter.lang:248
 msgid "Would you mind telling us why you’re leaving?"
 msgstr "Would you mind telling us why you’re leaving?"
 
-#: newsletter.lang:247
+#: newsletter.lang:252
 msgid "Other…"
 msgstr "Other…"
 
-#: newsletter.lang:251
+#: newsletter.lang:256
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr "While here, why not check out some more Firefox awesomeness."
 
-#: newsletter.lang:255
+#: newsletter.lang:260
 msgid "Get up and go"
 msgstr "Get up and go"
 
-#: newsletter.lang:259
+#: newsletter.lang:264
 msgid "It’s your Web anywhere you go."
 msgstr "It’s your Web anywhere you go."
 
-#: newsletter.lang:263
+#: newsletter.lang:268
 msgid "Get Firefox for mobile!"
 msgstr "Get Firefox for mobile!"
 
-#: newsletter.lang:267
+#: newsletter.lang:272
 msgid "Added extras"
 msgstr "Added extras"
 
-#: newsletter.lang:271
+#: newsletter.lang:276
 msgid "Make Firefox do more with add-ons."
 msgstr "Make Firefox do more with add-ons."
 
-#: newsletter.lang:275
+#: newsletter.lang:280
 msgid "Find out how!"
 msgstr "Find out how!"
 
-#: newsletter.lang:279
+#: newsletter.lang:284
 msgid "About us"
 msgstr "About us"
 
-#: newsletter.lang:283
+#: newsletter.lang:288
 msgid "What’s Mozilla all about?"
 msgstr "What’s Mozilla all about?"
 
-#: newsletter.lang:287
+#: newsletter.lang:292
 msgid "We’re glad you asked!"
 msgstr "We’re glad you asked!"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:292
+#: newsletter.lang:297
 msgid ""
 "A monthly newsletter packed with tips to improve your Firefox experience."
 msgstr ""
 "A monthly newsletter packed with tips to improve your Firefox experience."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:297
+#: newsletter.lang:302
 msgid "Tips and tricks to use Firefox on your Android phone."
 msgstr "Tips and tricks to use Firefox on your Android phone."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:302
+#: newsletter.lang:307
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr "Firefox OS news, tips, launch information and where to buy."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:307
+#: newsletter.lang:312
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr "Discover the latest, coolest HTML5 apps on Firefox OS."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:312
+#: newsletter.lang:317
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr "Get a weekly tip on how to super-charge your Firefox experience."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:317
-msgctxt "./newsletter.lang:317"
+#: newsletter.lang:322
+msgctxt "./newsletter.lang:322"
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
 msgstr ""
-"Read about the latest features for Firefox desktop and mobile before the "
-"final release."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:322
+#: newsletter.lang:327
 msgid "News from the Mozilla Project."
 msgstr "News from the Mozilla Project."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:327
+#: newsletter.lang:332
 msgid "Periodic email updates about our annual international film competition."
 msgstr ""
 "Periodic email updates about our annual international film competition."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:332
-msgid ""
-"A monthly newsletter to keep you up to date with the Firefox Affiliates "
-"program."
-msgstr ""
-"A monthly newsletter to keep you up to date with the Firefox Affiliates "
-"program."
-
-#. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:337
 msgid ""
-"News for developers about Firefox OS, Firefox Marketplace and the Open Web "
-"apps ecosystem."
+"A monthly newsletter to keep you up to date with the Firefox Affiliates "
+"program."
 msgstr ""
-"News for developers about Firefox OS, Firefox Marketplace and the Open Web "
-"apps ecosystem."
+"A monthly newsletter to keep you up to date with the Firefox Affiliates "
+"program."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:342
+msgid ""
+"News for developers about Firefox OS, Firefox Marketplace and the Open Web "
+"apps ecosystem."
+msgstr ""
+"News for developers about Firefox OS, Firefox Marketplace and the Open Web "
+"apps ecosystem."
+
+#. Description for the newsletter in Newsletter subscription page
+#: newsletter.lang:347
 msgid "Email updates for vouched Mozillians on mozillians.org."
 msgstr "Email updates for vouched Mozillians on mozillians.org."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:347
+#: newsletter.lang:352
 msgid ""
 "A monthly newsletter on how to get involved with Mozilla on your campus."
 msgstr ""
 "A monthly newsletter on how to get involved with Mozilla on your campus."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:352
+#: newsletter.lang:357
 msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
 msgstr ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
+
+#~ msgctxt "./newsletter.lang:317"
+#~ msgid ""
+#~ "Read about the latest features for Firefox desktop and mobile before the "
+#~ "final release."
+#~ msgstr ""
+#~ "Read about the latest features for Firefox desktop and mobile before the "
+#~ "final release."
 
 #~ msgid ""
 #~ "Read about the latest features for Firefox desktop and mobile before the "
