@@ -1,10 +1,9 @@
-#. extracted from ./mozorg/home.lang
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-25 22:12+0100\n"
-"PO-Revision-Date: 2013-12-03 13:29+0000\n"
+"POT-Creation-Date: 2013-12-03 13:03+0000\n"
+"PO-Revision-Date: 2013-12-03 13:00+0000\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: af\n"
@@ -13,90 +12,97 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1-alpha1\n"
-"X-POOTLE-MTIME: 1386077380.000000\n"
+"X-POOTLE-MTIME: 1386075632.000000\n"
 
+# # NOTE: demo server for new home page is https://www-demo3.allizom.org/?v=1
 #. # NOTE: demo server for new home page is https://www-demo3.allizom.org/?v=1
-#: mozorg/home.lang:4
+#: :5
 msgid "Home of the Mozilla Project"
 msgstr "Tuiste van die Mozilla-projek"
 
+# Used as a label for a button that scrolls through latest news.
 #. Used as a label for a button that scrolls through latest news.
-#: mozorg/home.lang:9
+#: :10
 msgid "Next article"
 msgstr "Volgende artikel"
 
+# Used as a label for a button that scrolls through latest news.
 #. Used as a label for a button that scrolls through latest news.
-#: mozorg/home.lang:14
+#: :15
 msgid "Previous article"
 msgstr "Vorige artikel"
 
+# The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 #. The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
-#: mozorg/home.lang:19
+#: :20
 msgid "We are %(mozilla_wordmark)s"
 msgstr "Ons is %(mozilla_wordmark)s"
 
-#: mozorg/home.lang:23
+#: :24
 msgid "Doing good is part of our code"
 msgstr "Goed doen is deel van ons kode"
 
-#: mozorg/home.lang:27
-msgctxt "./mozorg/home.lang:27"
+#: :28
 msgid "Get involved"
 msgstr "Raak betrokke"
 
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:32
+#: :33
 msgid "<i>Explore</i> our mission"
 msgstr "<i>Ontdek</i> ons missie"
 
-#: mozorg/home.lang:36
+#: :37
 msgid "Our principles guide us"
 msgstr "Ons beginsels gee ons rigting"
 
-#: mozorg/home.lang:40
+#: :41
 msgid ""
 "We’re a global community of technologists, thinkers and builders working to "
 "keep the Internet alive and accessible."
 msgstr ""
-"Ons is 'n globale gemeenskap van tegnoloë, denkers en bouers wat werk om die "
+"Ons is ’n globale gemeenskap van tegnoloë, denkers en bouers wat werk om die "
 "Internet lewendig en toeganklik te hou."
 
-#: mozorg/home.lang:44
+#: :45
 msgid "Read more about our mission"
 msgstr "Lees meer oor ons missie"
 
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:49
+#: :50
 msgid "<i>Look</i> ahead"
 msgstr "<i>Kyk</i> vooruit"
 
-#: mozorg/home.lang:53
+#: :54
 msgid "Look ahead"
 msgstr "Kyk vooruit"
 
-#: mozorg/home.lang:57
+#: :58
 msgid ""
 "We‘re bringing more people to the Web in more ways and from more places than "
 "ever before."
 msgstr ""
-"Ons bring meer mense na die Web op meer maniere en van meer plekke as ooit "
-"tevore."
+"Ons bring meer mense op meer maniere en van meer plekke as ooit tevore na "
+"die Web."
 
-#: mozorg/home.lang:61
+#: :62
 msgid "Learn more about Firefox OS"
 msgstr "Meer inligting oor Firefox OS"
 
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:66
+#: :67
 msgid "<i>Join</i> our community"
 msgstr "<i>Sluit aan</i> by ons gemeenskap"
 
+# This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:71
+#: :72
 msgid "Join our<br> developer community"
 msgstr "Sluit aan by<br> ander ontwikkelaars"
 
-#: mozorg/home.lang:75
+#: :76
 msgid ""
 "Get docs and demos, tools and tutorials and everything related to the Open "
 "Web."
@@ -104,66 +110,67 @@ msgstr ""
 "Kry dokumentasie, demonstrasies, gereedskap, tutoriale en alles te make met "
 "die Oop Web."
 
-#: mozorg/home.lang:79
+#: :80
 msgid "Visit the Mozilla Developer Network"
 msgstr "Besoek die Mozilla-ontwikkelaarsnetwerk"
 
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:84
+#: :85
 msgid "<i>Forge</i> the future"
 msgstr "<i>Skets</i> die toekoms"
 
-#: mozorg/home.lang:88
+#: :89
 msgid "Mozilla Festival"
 msgstr "Mozilla-fees"
 
+# This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:93
+#: :94
 msgid "Forge the future<br> of the Web"
 msgstr "Skets die toekoms<br> van die web"
 
-#: mozorg/home.lang:97
+#: :98
 msgid ""
 "Learn from some of the most passionate thinkers and inventors from around "
 "the world."
 msgstr ""
-"Leer van party van die passievolste denkers en ontwerpers van regoor die "
-"wêreld."
+"Bekwaam jou deur passievolle denkers en ontwerpers van regoor die wêreld te "
+"ontmoet."
 
-#: mozorg/home.lang:101
+#: :102
 msgid "Come to the Mozilla Festival"
 msgstr "Kom na die Mozilla-fees"
 
-#: mozorg/home.lang:105
+#: :106
 msgid "Different by&nbsp;design"
 msgstr "Verfrissend anders"
 
+# This string is displayed only for locales with a press agency blog
 #. This string is displayed only for locales with a press agency blog
-#: mozorg/home.lang:110
+#: :111
 msgid "In the news"
 msgstr "In die nuus"
 
+# This string is displayed only for locales with a press agency blog
 #. This string is displayed only for locales with a press agency blog
-#: mozorg/home.lang:115
+#: :116
 msgid "See all news"
 msgstr "Sien alle nuus"
 
-#: mozorg/home.lang:119
-msgctxt "./mozorg/home.lang:119"
-msgid "Get involved"
-msgstr "Raak betrokke"
-
+# This string is displayed only for locales where we launch Firefox OS soon
 #. This string is displayed only for locales where we launch Firefox OS soon
-#: mozorg/home.lang:124
+#: :121
 msgid "Help launch Firefox OS in your country."
 msgstr "Help met die vrystelling van Firefox OS."
 
+# This string is displayed only for locales where we launch Firefox OS soon
 #. This string is displayed only for locales where we launch Firefox OS soon
-#: mozorg/home.lang:129
+#: :126
 msgid "Become a Mobilizer today."
-msgstr "Word vandag nog 'n Mobilizer."
+msgstr "Word vandag nog ’n Mobilizer."
 
-#: mozorg/home.lang:133
+#: :130
 msgid ""
 "You don’t have to know how to code to get involved with Mozilla. <a href=\"%s"
 "\">Learn more about our volunteer opportunities</a>."
@@ -171,100 +178,12 @@ msgstr ""
 "Geen programmeerkennis is nodig om by Mozilla betrokke te raak nie. <a href="
 "\"%s\">Lees meer oor ons geleenthede vir vrywilligers</a>."
 
-#: mozorg/home.lang:137
+#: :134
 msgid ""
 "Thanks to our global community, Mozilla products and websites are available "
 "in over 70 languages. <a href=\"%(link_l10n)s\">Help translate them into "
 "yours</a>."
 msgstr ""
-"Danksy ons wêreldwye gemeenskap is Mozilla-produkte en -webwerwe beskikbaar "
-"in meer as 70 tale. <a href=\"%(link_l10n)s\">Help om hulle in u taal te "
-"vertaal</a>."
-
-#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:142
-#, fuzzy
-msgid "<i>Watch</i> the watchers"
-msgstr "<i>Hou dop</i> wie ons dophou"
-
-#. Lightbeam promo
-#: mozorg/home.lang:147
-#, fuzzy
-msgid "See who’s watching you online"
-msgstr "Sien wie hou u dop aanlyn"
-
-#. Lightbeam promo
-#: mozorg/home.lang:152
-msgid ""
-"Shine a light on the third parties that are collecting data about your "
-"online activity."
-msgstr ""
-
-#: mozorg/home.lang:156
-msgid "Install the Lightbeam add-on"
-msgstr "Installeer die Lightbeam-byvoeging"
-
-#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:161
-msgid "<i>Learn</i> the Web"
-msgstr ""
-
-#. Webmaker promo
-#: mozorg/home.lang:166
-msgid "We teach the Web"
-msgstr ""
-
-#: mozorg/home.lang:170
-msgid ""
-"Let‘s explore, tinker and create together to build a Web that‘s open and "
-"made by everyone."
-msgstr ""
-
-#: mozorg/home.lang:174
-msgid "Become a Webmaker"
-msgstr ""
-
-#. Vans Triple Crown promo (note: background image and linked blog post will be in English for most locales)
-#: mozorg/home.lang:179
-msgid ""
-"Firefox connects you to the Vans Triple Crown of Surfing and all the things "
-"you love. Don‘t miss a second of the action from Hawaii, Nov. 12—Dec. 20."
-msgstr ""
-
-#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:184
-msgid "<i>Stream</i> the surf"
-msgstr ""
-
-#: mozorg/home.lang:188
-msgid "Stream the surf"
-msgstr ""
-
-#: mozorg/home.lang:192
-#, fuzzy
-msgid "Learn more"
-msgstr "Vind meer uit"
-
-#, fuzzy
-#~ msgctxt "./mozorg/home.lang:122"
-#~ msgid "Get involved"
-#~ msgstr "Raak betrokke"
-
-#, fuzzy
-#~ msgid "Proudly <br> non-profit"
-#~ msgstr "Beter motiewe as wins"
-
-#~ msgid "Close"
-#~ msgstr "Sluit"
-
-#~ msgid "Fast. Smart. Safe."
-#~ msgstr "Vinnig. Vernuftig. Veilig."
-
-#~ msgid "Get the mobile browser that’s got your back."
-#~ msgstr "Kry die selfoonblaaier wat na u omsien."
-
-#~ msgid "Get Firefox for Android"
-#~ msgstr "Kry Firefox vir Android"
-
-#~ msgid "Donate"
-#~ msgstr "Skenk"
+"Danksy ons wêreldwye gemeenskap is Mozilla se produkte en webwerwe "
+"beskikbaar in meer as 70 tale. <a href=\"%(link_l10n)s\">Help om dit in u "
+"taal te vertaal</a>."
