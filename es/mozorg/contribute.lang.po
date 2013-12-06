@@ -3,20 +3,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-06-05 12:55+0100\n"
+"POT-Creation-Date: 2013-12-06 17:50+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"X-Generator: Translate Toolkit 1.11.0-rc1\n"
 
-#: mozorg/contribute.lang:1
+#: mozorg/contribute.lang:2
 msgid "Get Involved: Volunteer Opportunities at Mozilla"
 msgstr "¡Participa! Oportunidades para colaborar como voluntario en Mozilla"
 
-#: mozorg/contribute.lang:5
+#: mozorg/contribute.lang:6
 msgid ""
 "This video requires a browser with support for open video or the <a href="
 "\"http://www.adobe.com/go/getflashplayer\">Adobe Flash Player</a>."
@@ -25,7 +25,7 @@ msgstr ""
 "o <a href=\"http://www.adobe.com/go/getflashplayer\">Flash Player de Adobe</"
 "a>."
 
-#: mozorg/contribute.lang:9
+#: mozorg/contribute.lang:10
 msgid ""
 "You don’t have to be a C++ guru (or even know what that means!) to get "
 "involved.<br><b>You just have to love the Web.</b>"
@@ -33,56 +33,56 @@ msgstr ""
 "No tienes que ser un genio de C++ (¡ni siquiera saber lo que significa!) "
 "para participar.<br><b>Solo tienes que amar la Web.</b>"
 
-#: mozorg/contribute.lang:13
+#: mozorg/contribute.lang:14
 msgid "Please enter a valid email address."
 msgstr "Escribe una dirección de correo válida."
 
-#: mozorg/contribute.lang:17
+#: mozorg/contribute.lang:18
 msgid "You must agree to the privacy policy."
 msgstr "Debes aceptar la política de privacidad."
 
-#: mozorg/contribute.lang:21
+#: mozorg/contribute.lang:22
 msgid "Please select an area of interest."
 msgstr "Selecciona un área de interés."
 
-#: mozorg/contribute.lang:25
+#: mozorg/contribute.lang:26
 msgid "Please tell us more about your interests."
 msgstr "Háblanos sobre tus intereses."
 
-#: mozorg/contribute.lang:29
+#: mozorg/contribute.lang:30
 msgid "Your CAPTCHA response did not match. Please try again."
 msgstr "Tu respuesta CAPTCHA no coincide. Inténtalo de nuevo."
 
-#: mozorg/contribute.lang:33
+#: mozorg/contribute.lang:34
 msgid "Want to help?"
 msgstr "¿Quieres ayudar?"
 
-#: mozorg/contribute.lang:37
+#: mozorg/contribute.lang:38
 msgid "YOUR EMAIL HERE"
 msgstr "TU CORREO AQUÍ"
 
-#: mozorg/contribute.lang:41
+#: mozorg/contribute.lang:42
 msgid "Submit&nbsp;»"
 msgstr "Enviar&nbsp;»"
 
-#: mozorg/contribute.lang:45
+#: mozorg/contribute.lang:46
 msgid "Send us a note and we can get you started right away."
 msgstr "Envíanos un mensaje y te ayudaremos a comenzar ahora mismo."
 
-#: mozorg/contribute.lang:49
+#: mozorg/contribute.lang:50
 msgid "Hi, I’m interested in…"
 msgstr "¡Hola! Me llamo... y quiero ayudar porque..."
 
-#: mozorg/contribute.lang:53
+#: mozorg/contribute.lang:54
 msgid "I’d like to receive regular contribution news by email"
 msgstr ""
 "Me gustaría recibir regularmente por correo información sobre cómo colaborar"
 
-#: mozorg/contribute.lang:57
+#: mozorg/contribute.lang:58
 msgid "Thank you for getting in touch."
 msgstr "Gracias por contactar."
 
-#: mozorg/contribute.lang:61
+#: mozorg/contribute.lang:62
 msgid ""
 "Someone from Mozilla will get back to you soon with information about how to "
 "get involved. While you’re waiting, browse through some of the volunteer "
@@ -93,31 +93,31 @@ msgstr ""
 "algunas de las oportunidades para colaborar como voluntario que te mostramos "
 "a continuación."
 
-#: mozorg/contribute.lang:65
+#: mozorg/contribute.lang:66
 msgid "Find an opportunity"
 msgstr "Busca una oportunidad"
 
-#: mozorg/contribute.lang:69
+#: mozorg/contribute.lang:70
 msgid "Sort By:"
 msgstr "Ordenar por:"
 
-#: mozorg/contribute.lang:73
+#: mozorg/contribute.lang:74
 msgid "Interest"
 msgstr "Interés"
 
-#: mozorg/contribute.lang:77
+#: mozorg/contribute.lang:78
 msgid "Location"
 msgstr "Región"
 
-#: mozorg/contribute.lang:81
+#: mozorg/contribute.lang:82
 msgid "Newsletter"
 msgstr "Boletín"
 
-#: mozorg/contribute.lang:85
+#: mozorg/contribute.lang:86
 msgid "Helping Users"
 msgstr "Ayuda a usuarios"
 
-#: mozorg/contribute.lang:89
+#: mozorg/contribute.lang:90
 msgid ""
 "Interested in helping others get the most out of using Firefox and other "
 "Mozilla projects? Our support process relies on enthusiastic contributors "
@@ -215,14 +215,14 @@ msgid ""
 "Mozilla and is a great way to get familiar with our code and tools. Help us "
 "<a href=\"%(qa_bugs_url)s\">hunt down bugs</a> in Firefox, <a href="
 "\"%(qa_web_url)s\">test Mozilla web sites</a> or learn more about <a href="
-"\"http://quality.mozilla.org/\">other testing opportunities</a>."
+"\"%(qa_url)s\">other testing opportunities</a>."
 msgstr ""
 "Garantizar la calidad es una de las formas más fáciles de comenzar con "
 "Mozilla y una forma genial de familiarizarte con nuestro código y nuestras "
 "herramientas. Ayúdanos a <a href=\"%(qa_bugs_url)s\">detectar bugs</a> en "
 "Firefox, <a href=\"%(qa_web_url)s\">probar los sitios web de Mozilla</a> u "
-"obtén más información sobre <a href=\"http://quality.mozilla.org/\">otras "
-"oportunidades de testeo</a>."
+"obtén más información sobre <a href=\"%(qa_url)s\">otras oportunidades de "
+"testeo</a>."
 
 #: mozorg/contribute.lang:158
 msgid ""
@@ -312,18 +312,10 @@ msgid "Visual Design"
 msgstr "Diseño gráfico"
 
 #: mozorg/contribute.lang:218
-msgid ""
-"I’m okay with you handling this info as you explain in your <a href=\"%s"
-"\">Privacy Policy</a>"
-msgstr ""
-"Me parece bien que se gestione esta información según se indica en la <a "
-"href=\"%s\">Política de privacidad</a>"
-
-#: mozorg/contribute.lang:222
 msgid "Twitter"
 msgstr "Twitter"
 
-#: mozorg/contribute.lang:226
+#: mozorg/contribute.lang:222
 msgid ""
 "We are sorry, but there was a problem with our system. Please try again "
 "later!"
@@ -331,31 +323,30 @@ msgstr ""
 "Discúlpanos, pero hubo un problema con nuestro sistema. Inténtalo de nuevo "
 "pasados unos minutos."
 
-#: mozorg/contribute.lang:230
+#: mozorg/contribute.lang:226
 msgid "Other"
 msgstr "Otra"
 
-#: mozorg/contribute.lang:234
+#: mozorg/contribute.lang:230
 msgid "Marketing"
 msgstr "Difusión"
 
-#: mozorg/contribute.lang:238
+#: mozorg/contribute.lang:234
 msgid "Testing and QA"
 msgstr "Pruebas y control de calidad"
 
-#: mozorg/contribute.lang:242
+#: mozorg/contribute.lang:238
 msgid ""
-"Our web sites are open for web developers to hack on. <a href="
-"\"%(webdev_url)s\">Find a web site project</a> to get started on. Your web "
-"skills can also be used to <a href=\"%(gaia_url)s\">help us build our new "
-"Firefox OS</a>."
+"Our web sites are open for web developers to hack on. <a href=\"%(webdev_url)"
+"s\">Find a web site project</a> to get started on. Your web skills can also "
+"be used to <a href=\"%(gaia_url)s\">help us build our new Firefox OS</a>."
 msgstr ""
 "Nuestros sitios web están abiertos para que los desarrolladores hackeen. <a "
 "href=\"%(webdev_url)s\">Busca un proyecto</a> con el que comenzar. Tus "
 "habilidades web también pueden servir para <a href=\"%(gaia_url)s"
 "\">ayudarnos a desarrollar nuestro nuevo Firefox OS</a>."
 
-#: mozorg/contribute.lang:246
+#: mozorg/contribute.lang:242
 msgid ""
 "Our support process relies on enthusiastic contributors like you to help "
 "others get the most out of Mozilla products. Find out more about <a href="
@@ -368,11 +359,11 @@ msgstr ""
 "\"%(fx_support_url)s\">Firefox</a> y <a href=\"%(tb_support_url)s"
 "\">Thunderbird</a>."
 
-#: mozorg/contribute.lang:250
+#: mozorg/contribute.lang:246
 msgid "Documentation and Writing"
 msgstr "Documentación y redacción"
 
-#: mozorg/contribute.lang:254
+#: mozorg/contribute.lang:250
 msgid ""
 "We want to make it possible for artists to cover the web and people with "
 "designs inspired by Mozilla. Check out the <a href=\"%(creative_url)s"
@@ -383,7 +374,7 @@ msgstr ""
 "\">blog del equipo creativo</a> encontrarás toda la información sobre cómo "
 "participar."
 
-#: mozorg/contribute.lang:258
+#: mozorg/contribute.lang:254
 msgid ""
 "Mozilla products have a powerful extension system that allows you to make "
 "small tweaks or major additions. Learn more about how to <a href="
@@ -397,7 +388,7 @@ msgstr ""
 "eres un desarrollador con más experiencia, descubre cómo <a href="
 "\"%(addons_wiki)s\">convertirte en editor de AMO</a>."
 
-#: mozorg/contribute.lang:262
+#: mozorg/contribute.lang:258
 msgid ""
 "Help build a generation of webmakers by teaching others how the web works. "
 "<a href=\"%(moz_webmaker)s \">Explore what the Mozilla Webmaker project is "
@@ -409,7 +400,7 @@ msgstr ""
 "en qué consiste el proyecto Mozilla Webmaker</a> o comienza ya a enseñar a "
 "otros  <a href=\"%(webmaker)s\">creando un evento en tu comunidad</a>."
 
-#: mozorg/contribute.lang:266
+#: mozorg/contribute.lang:262
 msgid ""
 "<a href=\"%(dev_intro_url)s\">Developers can help</a> Mozilla by adding new "
 "features, making our technology smaller and faster and making development "
@@ -422,6 +413,6 @@ msgstr ""
 "\"%(what_url)s\">cuál es tu lenguaje de programación favorito</a> y "
 "buscaremos un proyecto  para ti."
 
-#: mozorg/contribute.lang:270
+#: mozorg/contribute.lang:266
 msgid "Localization and Translation"
 msgstr "Localización y traducción"
