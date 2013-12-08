@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-25 22:12+0100\n"
-"PO-Revision-Date: 2013-12-06 08:42+0000\n"
-"Last-Translator: syafiqmazli <creativeneuron8@gmail.com>\n"
+"PO-Revision-Date: 2013-12-07 17:06+0000\n"
+"Last-Translator: Shakir <shark_uniten@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1-alpha1\n"
-"X-POOTLE-MTIME: 1386319378.000000\n"
+"X-POOTLE-MTIME: 1386435989.000000\n"
 
 #. # NOTE: Update page available at url: https://www-dev.allizom.org/b/en-GB/firefox/update/
 #: firefox/update.lang:5
@@ -22,7 +22,7 @@ msgstr "Selamat Datang"
 
 #: firefox/update.lang:9
 msgid "Are Firefox updates safe?"
-msgstr ""
+msgstr "Adakah kemaskini Firefox selamat?"
 
 #: firefox/update.lang:13
 msgid ""
@@ -94,31 +94,38 @@ msgid ""
 "Nothing. Re-installing Firefox will not affect your settings, bookmarks or "
 "preferences in any way."
 msgstr ""
+"Tidak. Pemasangan semula Firefox tidak sama sekali menjejaskan aturan, tanda "
+"buku atau  pilihan dalam apa jua cara."
 
 #: firefox/update.lang:53
 msgid ""
 "Not long at all – the entire process just takes a minute or two. Visit our "
 "support page for <a %(link)s>step-by-step instructions</a>."
 msgstr ""
+"Tidak begitu lama – proses keseluruhan hanya memakan masa dalam 1 atau 2 "
+"minit. Layari halaman bantuan kami untuk <a %(link)s>arahan langkah demi "
+"langkah</a>."
 
 #: firefox/update.lang:57
 msgid ""
 "You are also able to check for updates manually. For details, check out the "
 "<a %(link)s>step-by-step guide</a>.</p>"
 msgstr ""
+"Anda juga boleh menyemak kemaskini secara manual. Untuk maklumat lanjut, "
+"semak <a %(link)s>aturan langkah demi langkah</a>.</p>"
 
 #: firefox/update.lang:61
 msgid "Check for Updates"
-msgstr ""
+msgstr "Semak kemaskini"
 
 #: firefox/update.lang:65
 msgid "What if I miss an update? Can I check for one myself?"
 msgstr ""
+"Bagaimana jika saya terlepas kemaskini? Adakah boleh saya semak sendiri?"
 
 #: firefox/update.lang:69
-#, fuzzy
 msgid "Your Firefox is up to date."
-msgstr "Firefox anda telah lapuk."
+msgstr "Firefox anda adalah muktahir."
 
 #: firefox/update.lang:73
 msgid ""
@@ -127,10 +134,14 @@ msgid ""
 "fixes or other little changes to the browser to ensure that you are using "
 "the best version of Firefox available."
 msgstr ""
+"Kemaskini perisian Firefox adalah muat turun jumlah kod baru dalam bilangan "
+"yang sedikit untuk pelayar anda yang sedia ada. Bilangan patch mengandungi "
+"tampalan keselamatan atau perubahan kecil untuk pelayar dalam memastikan "
+"bahawa anda menggunakan versi yang terbaik untuk Firefox yang sedia ada."
 
 #: firefox/update.lang:77
 msgid "How long will it take to update?"
-msgstr ""
+msgstr "Berapa lamakah masa yang diambil untuk kemaskini?"
 
 #: firefox/update.lang:81
 msgid ""
@@ -140,10 +151,15 @@ msgid ""
 "smartest, fastest and – most importantly – safest version of Firefox "
 "available."
 msgstr ""
+"Firefox sentiasa berkembang sebagai sebuah komuniti bagi menjadikannya lebih "
+"baik, seperti kita menyesuaikan diri dengan ancaman keselamatan terkini. "
+"Mempunyai kemaskini Firefox adalah salah satu cara yang sangat bijak, cepat "
+"dan – yang lebih penting – versi paling selamat untuk Firefox yang sedia ada."
 
 #: firefox/update.lang:85
 msgid "How do I know what version of Firefox I am currently on?"
 msgstr ""
+"Bagaimana saya boleh tahu jenis versi Firefox yang saya sedang gunakan?"
 
 #: firefox/update.lang:89
 msgid "Frequently asked questions"
@@ -151,11 +167,12 @@ msgstr "Soalan lazim"
 
 #: firefox/update.lang:93
 msgid "Will the update affect my settings and bookmarks?"
-msgstr ""
+msgstr "Adakah kemaskini akan menjejaskan tetapan dan penanda buku saya?"
 
 #: firefox/update.lang:97
 msgid "Do I need to uninstall my current version of Firefox before upgrading?"
 msgstr ""
+"Adakah perlu saya nyah pasang versi Firefox sekarang sebelum kemaskini?"
 
 #: firefox/update.lang:101
 msgid "Visit support.mozilla.org"
@@ -163,7 +180,7 @@ msgstr "Layari support.mozilla.org"
 
 #: firefox/update.lang:105
 msgid "Get the newest version <a href=\"{url}\">here</a>."
-msgstr ""
+msgstr "Dapatkan versi terbaru <a href=\"{url}\">disini</a>."
 
 #: firefox/update.lang:109
 msgid "Need Help?"
@@ -171,11 +188,11 @@ msgstr "Perlukan Bantuan?"
 
 #: firefox/update.lang:113
 msgid "How do I update Firefox?"
-msgstr ""
+msgstr "Bagaimana kemaskini Firefox?"
 
 #: firefox/update.lang:117
 msgid "Why do I need to update?"
-msgstr ""
+msgstr "Kenapa perlu saya kemaskini?"
 
 #: firefox/update.lang:121
 msgid ""
@@ -184,6 +201,11 @@ msgid ""
 "and the newest version will be downloaded and installed on your computer. "
 "You’ll need to restart Firefox to begin using the new version."
 msgstr ""
+"Secara lalai, Firefox dikonfigurasi untuk memeriksa secara automatik untuk "
+"maklumat terkini bagi firefox sendiri dan memberitahu anda apabila kemaskini "
+"baharu tersedia. Apabila digesa, klik OK dan versi terbaru akan dimuat turun "
+"dan dipasang pada komputer anda. Anda perlu untuk memulakan semula Firefox "
+"untuk mula menggunakan versi baru."
 
 #: firefox/update.lang:125
 msgid ""
@@ -191,7 +213,11 @@ msgid ""
 "passwords or other settings. However, there is a possibility that some of "
 "your Add-ons won’t be immediately compatible with new updates."
 msgstr ""
+"Tidak. Kemas kini Firefox tidak akan membuat apa-apa perubahan ke "
+"penandabuku anda, kata laluan yang disimpan atau tetapan yang lain. Walau "
+"bagaimanapun, terdapat kemungkinan bahawa beberapa Addon anda tidak akan "
+"segera serasi dengan kemas kini baru."
 
 #: firefox/update.lang:129
 msgid "Download Firefox to get started."
-msgstr ""
+msgstr "Muat turun Firefox untuk mula."
