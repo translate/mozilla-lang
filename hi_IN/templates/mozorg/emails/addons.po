@@ -25,17 +25,22 @@ msgstr ""
 "बनाकर. आपके प्रयासों से फर्क पड़ता है!"
 
 #: templates/mozorg/emails/addons.txt:3
+#, fuzzy
 msgid ""
 "If you are new to add-ons, here are some things you can do at https://addons."
 "mozilla.org:"
-msgstr ""
+msgstr "यदि आप फ़ायरफ़ॉक्स Add-ons के लिए नए हैं, यहाँ कुछ चीजें आप कर सकते हैं"
 
 #: templates/mozorg/emails/addons.txt:5
+#, fuzzy
 msgid ""
 "============================\n"
 "REVIEW YOUR FAVORITE ADD-ONS\n"
 "============================"
 msgstr ""
+"=======================\n"
+"अपने पसंदीदा Add-ons की समीक्षा\n"
+"======================="
 
 #: templates/mozorg/emails/addons.txt:9
 msgid ""
@@ -47,11 +52,15 @@ msgstr ""
 "समीक्षाएं अनुभाग के लिए नीचे स्क्रॉल करके डेवलपर के लिए एक टिप्पणी छोड़ दें."
 
 #: templates/mozorg/emails/addons.txt:11
+#, fuzzy
 msgid ""
 "====================\n"
 "CREATE A COLLECTION\n"
 "===================="
 msgstr ""
+"========\n"
+"संग्रहण बनाएं\n"
+"========"
 
 #: templates/mozorg/emails/addons.txt:15
 msgid ""
@@ -64,18 +73,22 @@ msgstr ""
 "https://addons.mozilla.org/firefox/collections/"
 
 #: templates/mozorg/emails/addons.txt:18
+#, fuzzy
 msgid ""
 "===============\n"
 "CREATE A THEME\n"
 "==============="
-msgstr ""
+msgstr "-------------प्रसंग बनायें----------------"
 
 #: templates/mozorg/emails/addons.txt:22
+#, fuzzy
 msgid ""
 "Background Themes let you personalize the look of your Firefox. To create "
 "your own, start here:\n"
 "https://addons.mozilla.org/developers/docs/themes"
 msgstr ""
+"पृष्ठभूमि थीम्स से आप अपने फ़ायरफ़ॉक्स को निजीकृत कर सकते हैं.अपने खुद के बनाने के लिए, यहाँ शुरू "
+"करें: \n"
 
 #: templates/mozorg/emails/addons.txt:25
 msgid "---"
@@ -87,11 +100,15 @@ msgid ""
 msgstr "यदि आप एक अधिक तकनीकी सहयोगी कर रहे हैं, यहाँ कुछ चीजें आप कर सकते हैं:"
 
 #: templates/mozorg/emails/addons.txt:29
+#, fuzzy
 msgid ""
 "=================\n"
 "CREATE AN ADD-ON\n"
 "================="
 msgstr ""
+"===========\n"
+"ADD-ON बनाऐं\n"
+"==========="
 
 #: templates/mozorg/emails/addons.txt:33
 msgid ""
@@ -130,11 +147,12 @@ msgstr ""
 "https://forums.mozilla.org/addons/"
 
 #: templates/mozorg/emails/addons.txt:45
+#, fuzzy
 msgid ""
 "=================\n"
 "HELP TEST ADD-ONS\n"
 "================="
-msgstr ""
+msgstr "एड-ओन जांच मे मदद करे"
 
 #: templates/mozorg/emails/addons.txt:49
 msgid ""
@@ -176,11 +194,15 @@ msgid ""
 msgstr ""
 
 #: templates/mozorg/emails/addons.txt:63
+#, fuzzy
 msgid ""
 "===========\n"
 "QUESTIONS?\n"
 "==========="
 msgstr ""
+"============\n"
+"आपके पास प्रश्न हैं?\n"
+"============"
 
 #: templates/mozorg/emails/addons.txt:67
 msgid "If you have any additional questions, please feel free to email us!"
@@ -196,68 +218,6 @@ msgstr ""
 "एमी टसे\n"
 "Add-ons समुदाय प्रबंधक"
 
-#~ msgid ""
-#~ "If you are new to Firefox Add-ons, here are some things you can do at "
-#~ "https://addons.mozilla.org:"
-#~ msgstr "यदि आप फ़ायरफ़ॉक्स Add-ons के लिए नए हैं, यहाँ कुछ चीजें आप कर सकते हैं"
-
-#~ msgid ""
-#~ "==============================\n"
-#~ "REVIEW YOUR FAVORITE ADD-ONS\n"
-#~ "=============================="
-#~ msgstr ""
-#~ "=======================\n"
-#~ "अपने पसंदीदा Add-ons की समीक्षा\n"
-#~ "======================="
-
-#~ msgid ""
-#~ "=====================\n"
-#~ "CREATE A COLLECTION\n"
-#~ "====================="
-#~ msgstr ""
-#~ "========\n"
-#~ "संग्रहण बनाएं\n"
-#~ "========"
-
-#~ msgid ""
-#~ "================\n"
-#~ "CREATE A THEME\n"
-#~ "================"
-#~ msgstr "-------------प्रसंग बनायें----------------"
-
-#, fuzzy
-#~ msgid ""
-#~ "Background Themes let you personalize the look of your Firefox. To create "
-#~ "your own, start here:\n"
-#~ "https://addons.mozilla.org/firefox/themes/"
-#~ msgstr ""
-#~ "पृष्ठभूमि थीम्स से आप अपने फ़ायरफ़ॉक्स को निजीकृत कर सकते हैं.अपने खुद के बनाने के लिए, यहाँ "
-#~ "शुरू करें: \n"
-
 #, fuzzy
 #~ msgid "-------------------------------------------------------------------------------------------------------------------------------------------------"
 #~ msgstr "-------------------------------------------------------------------------------------------------------------------------------------------------"
-
-#~ msgid ""
-#~ "==================\n"
-#~ "CREATE AN ADD-ON\n"
-#~ "=================="
-#~ msgstr ""
-#~ "===========\n"
-#~ "ADD-ON बनाऐं\n"
-#~ "==========="
-
-#~ msgid ""
-#~ "==================\n"
-#~ "HELP TEST ADD-ONS\n"
-#~ "=================="
-#~ msgstr "एड-ओन जांच मे मदद करे"
-
-#~ msgid ""
-#~ "============\n"
-#~ "QUESTIONS?\n"
-#~ "============"
-#~ msgstr ""
-#~ "============\n"
-#~ "आपके पास प्रश्न हैं?\n"
-#~ "============"
