@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-05 11:56+0100\n"
+"POT-Creation-Date: 2013-12-16 14:17+0100\n"
 "PO-Revision-Date: 2013-08-30 11:09+0000\n"
 "Last-Translator: Dwayne Bailey <dwayne@translate.org.za>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"X-Generator: Translate Toolkit 1.11.0-rc1\n"
 "X-POOTLE-MTIME: 1377860997.000000\n"
 
 #: templates/mozorg/emails/addons.txt:1
@@ -28,21 +28,16 @@ msgstr ""
 
 #: templates/mozorg/emails/addons.txt:3
 msgid ""
-"If you are new to Firefox Add-ons, here are some things you can do at "
-"https://addons.mozilla.org:"
+"If you are new to add-ons, here are some things you can do at https://addons."
+"mozilla.org:"
 msgstr ""
-"Jika anda baru kepada Firefox add-ons, di sini merupakan beberapa benda anda "
-"boleh buat di https://addons.mozilla.org:"
 
 #: templates/mozorg/emails/addons.txt:5
 msgid ""
-"==============================\n"
+"============================\n"
 "REVIEW YOUR FAVORITE ADD-ONS\n"
-"=============================="
+"============================"
 msgstr ""
-"==============================\n"
-"MENGKAJI SEMULA ADD-ONS KEGEMARAN ANDA\n"
-"=============================="
 
 #: templates/mozorg/emails/addons.txt:9
 msgid ""
@@ -56,13 +51,10 @@ msgstr ""
 
 #: templates/mozorg/emails/addons.txt:11
 msgid ""
-"=====================\n"
+"====================\n"
 "CREATE A COLLECTION\n"
-"====================="
+"===================="
 msgstr ""
-"=====================\n"
-"WUJUD SATU KOLEKSI\n"
-"====================="
 
 #: templates/mozorg/emails/addons.txt:15
 msgid ""
@@ -77,27 +69,21 @@ msgstr ""
 
 #: templates/mozorg/emails/addons.txt:18
 msgid ""
-"================\n"
+"===============\n"
 "CREATE A THEME\n"
-"================"
+"==============="
 msgstr ""
-"================\n"
-"WUJUD SATU TEMA\n"
-"================"
 
 #: templates/mozorg/emails/addons.txt:22
 msgid ""
 "Background Themes let you personalize the look of your Firefox. To create "
 "your own, start here:\n"
-"https://addons.mozilla.org/firefox/themes/"
+"https://addons.mozilla.org/developers/docs/themes"
 msgstr ""
-"Tema Latar Belakang membolehkan anda memperibadikan rupa Firefox anda. Untuk "
-"anda membuatnya sendiri, mulakan di sini:\n"
-"https://addons.mozilla.org/firefox/themes/"
 
 #: templates/mozorg/emails/addons.txt:25
-msgid "-------------------------------------------------------------------------------------------------------------------------------------------------"
-msgstr "-------------------------------------------------------------------------------------------------------------------------------------------------"
+msgid "---"
+msgstr ""
 
 #: templates/mozorg/emails/addons.txt:27
 msgid ""
@@ -108,13 +94,10 @@ msgstr ""
 
 #: templates/mozorg/emails/addons.txt:29
 msgid ""
-"==================\n"
+"=================\n"
 "CREATE AN ADD-ON\n"
-"=================="
+"================="
 msgstr ""
-"==================\n"
-"WUJUD SATU ADD-ON\n"
-"=================="
 
 #: templates/mozorg/emails/addons.txt:33
 msgid ""
@@ -156,13 +139,10 @@ msgstr ""
 
 #: templates/mozorg/emails/addons.txt:45
 msgid ""
-"==================\n"
+"=================\n"
 "HELP TEST ADD-ONS\n"
-"=================="
+"================="
 msgstr ""
-"==================\n"
-"BANTU UJIAN ADD-ONS\n"
-"=================="
 
 #: templates/mozorg/emails/addons.txt:49
 msgid ""
@@ -185,20 +165,38 @@ msgstr ""
 
 #: templates/mozorg/emails/addons.txt:55
 msgid ""
-"============\n"
-"QUESTIONS?\n"
-"============"
+"======================\n"
+"HELP ADD-ON DEVELOPERS\n"
+"======================"
 msgstr ""
-"============\n"
-"SOALAN?\n"
-"============"
 
 #: templates/mozorg/emails/addons.txt:59
+msgid ""
+"If you're already familiar with add-on development or you think you're a "
+"good technical writer, help us improve the documentation for add-on "
+"developers: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons"
+msgstr ""
+
+#: templates/mozorg/emails/addons.txt:61
+msgid ""
+"You can also help by translating these docs to a different language (pro "
+"tip: try replacing the en-US part of the link above to your native language "
+"code)."
+msgstr ""
+
+#: templates/mozorg/emails/addons.txt:63
+msgid ""
+"===========\n"
+"QUESTIONS?\n"
+"==========="
+msgstr ""
+
+#: templates/mozorg/emails/addons.txt:67
 msgid "If you have any additional questions, please feel free to email us!"
 msgstr ""
 "Jika anda ada soalan lain untuk dikemukakan, sila e-melkan kepada kami!"
 
-#: templates/mozorg/emails/addons.txt:61
+#: templates/mozorg/emails/addons.txt:69
 msgid ""
 "Regards,\n"
 "Amy Tsay\n"
@@ -207,3 +205,76 @@ msgstr ""
 "Sekian,\n"
 "Amy Tsay\n"
 "Pengurus Komuniti Add-ons"
+
+#~ msgid ""
+#~ "If you are new to Firefox Add-ons, here are some things you can do at "
+#~ "https://addons.mozilla.org:"
+#~ msgstr ""
+#~ "Jika anda baru kepada Firefox add-ons, di sini merupakan beberapa benda "
+#~ "anda boleh buat di https://addons.mozilla.org:"
+
+#~ msgid ""
+#~ "==============================\n"
+#~ "REVIEW YOUR FAVORITE ADD-ONS\n"
+#~ "=============================="
+#~ msgstr ""
+#~ "==============================\n"
+#~ "MENGKAJI SEMULA ADD-ONS KEGEMARAN ANDA\n"
+#~ "=============================="
+
+#~ msgid ""
+#~ "=====================\n"
+#~ "CREATE A COLLECTION\n"
+#~ "====================="
+#~ msgstr ""
+#~ "=====================\n"
+#~ "WUJUD SATU KOLEKSI\n"
+#~ "====================="
+
+#~ msgid ""
+#~ "================\n"
+#~ "CREATE A THEME\n"
+#~ "================"
+#~ msgstr ""
+#~ "================\n"
+#~ "WUJUD SATU TEMA\n"
+#~ "================"
+
+#~ msgid ""
+#~ "Background Themes let you personalize the look of your Firefox. To create "
+#~ "your own, start here:\n"
+#~ "https://addons.mozilla.org/firefox/themes/"
+#~ msgstr ""
+#~ "Tema Latar Belakang membolehkan anda memperibadikan rupa Firefox anda. "
+#~ "Untuk anda membuatnya sendiri, mulakan di sini:\n"
+#~ "https://addons.mozilla.org/firefox/themes/"
+
+#~ msgid "-------------------------------------------------------------------------------------------------------------------------------------------------"
+#~ msgstr "-------------------------------------------------------------------------------------------------------------------------------------------------"
+
+#~ msgid ""
+#~ "==================\n"
+#~ "CREATE AN ADD-ON\n"
+#~ "=================="
+#~ msgstr ""
+#~ "==================\n"
+#~ "WUJUD SATU ADD-ON\n"
+#~ "=================="
+
+#~ msgid ""
+#~ "==================\n"
+#~ "HELP TEST ADD-ONS\n"
+#~ "=================="
+#~ msgstr ""
+#~ "==================\n"
+#~ "BANTU UJIAN ADD-ONS\n"
+#~ "=================="
+
+#~ msgid ""
+#~ "============\n"
+#~ "QUESTIONS?\n"
+#~ "============"
+#~ msgstr ""
+#~ "============\n"
+#~ "SOALAN?\n"
+#~ "============"
