@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-16 14:17+0100\n"
+"POT-Creation-Date: 2013-12-20 22:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.11.0-rc1\n"
 
-#. # NOTE: demo server for new home page is https://www-demo3.allizom.org/?v=1
+#. # NOTE: demo server for home page is https://www-dev.allizom.org
 #: mozorg/home.lang:4
 msgid "Home of the Mozilla Project"
 msgstr ""
@@ -210,48 +210,31 @@ msgstr ""
 msgid "Become a Webmaker"
 msgstr ""
 
-#. Vans Triple Crown promo (note: background image and linked blog post will be in English for most locales)
-#: mozorg/home.lang:179
-msgid ""
-"Firefox connects you to the Vans Triple Crown of Surfing and all the things "
-"you love. Don‘t miss a second of the action from Hawaii, Nov. 12—Dec. 20."
-msgstr ""
-
-#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:184
-msgid "<i>Stream</i> the surf"
-msgstr ""
-
-#: mozorg/home.lang:188
-msgid "Stream the surf"
-msgstr ""
-
-#: mozorg/home.lang:192
-#, fuzzy
-msgid "Learn more"
-msgstr "Ithute ka mo go oketšegilego"
-
 #. 2013 Add-ons promo: This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:197
+#: mozorg/home.lang:179
 msgid "See the<br> best add-ons"
 msgstr ""
 
 #. 2013 Add-ons promo: This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:202
+#: mozorg/home.lang:184
 msgid "The best add-ons<br> of the year"
 msgstr ""
 
 #. 2013 Add-ons promo
-#: mozorg/home.lang:207
+#: mozorg/home.lang:189
 msgid ""
 "See the top 13 add-ons from 2013, as chosen by our amazing committee of "
 "volunteers."
 msgstr ""
 
 #. 2013 Add-ons promo:
-#: mozorg/home.lang:212
+#: mozorg/home.lang:194
 msgid "Add them to Firefox"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Learn more"
+#~ msgstr "Ithute ka mo go oketšegilego"
 
 #, fuzzy
 #~ msgctxt "./mozorg/home.lang:122"
