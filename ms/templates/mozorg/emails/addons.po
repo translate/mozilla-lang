@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-12-16 14:17+0100\n"
-"PO-Revision-Date: 2013-08-30 11:09+0000\n"
-"Last-Translator: Dwayne Bailey <dwayne@translate.org.za>\n"
+"PO-Revision-Date: 2013-12-18 08:22+0000\n"
+"Last-Translator: haryati <haryati.salehin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.11.0-rc1\n"
-"X-POOTLE-MTIME: 1377860997.000000\n"
+"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-POOTLE-MTIME: 1387354959.000000\n"
 
 #: templates/mozorg/emails/addons.txt:1
 msgid ""
@@ -27,23 +27,21 @@ msgstr ""
 "usaha!"
 
 #: templates/mozorg/emails/addons.txt:3
-#, fuzzy
 msgid ""
 "If you are new to add-ons, here are some things you can do at https://addons."
 "mozilla.org:"
 msgstr ""
-"Jika anda baru kepada Firefox add-ons, di sini merupakan beberapa benda anda "
-"boleh buat di https://addons.mozilla.org:"
+"Jika anda adalah baru di add-ons, di sini merupakan beberapa perkara yang "
+"anda boleh lakukan di https://addons.mozilla.org:"
 
 #: templates/mozorg/emails/addons.txt:5
-#, fuzzy
 msgid ""
 "============================\n"
 "REVIEW YOUR FAVORITE ADD-ONS\n"
 "============================"
 msgstr ""
 "==============================\n"
-"MENGKAJI SEMULA ADD-ONS KEGEMARAN ANDA\n"
+"KAJI SEMULA ADD-ONS KEGEMARAN ANDA\n"
 "=============================="
 
 #: templates/mozorg/emails/addons.txt:9
@@ -57,14 +55,13 @@ msgstr ""
 "komen untuk pemaju."
 
 #: templates/mozorg/emails/addons.txt:11
-#, fuzzy
 msgid ""
 "====================\n"
 "CREATE A COLLECTION\n"
 "===================="
 msgstr ""
 "=====================\n"
-"WUJUD SATU KOLEKSI\n"
+"CIPTA SATU KOLEKSI\n"
 "====================="
 
 #: templates/mozorg/emails/addons.txt:15
@@ -79,7 +76,6 @@ msgstr ""
 "https://addons.mozilla.org/firefox/collections/"
 
 #: templates/mozorg/emails/addons.txt:18
-#, fuzzy
 msgid ""
 "===============\n"
 "CREATE A THEME\n"
@@ -90,7 +86,6 @@ msgstr ""
 "================"
 
 #: templates/mozorg/emails/addons.txt:22
-#, fuzzy
 msgid ""
 "Background Themes let you personalize the look of your Firefox. To create "
 "your own, start here:\n"
@@ -98,11 +93,11 @@ msgid ""
 msgstr ""
 "Tema Latar Belakang membolehkan anda memperibadikan rupa Firefox anda. Untuk "
 "anda membuatnya sendiri, mulakan di sini:\n"
-"https://addons.mozilla.org/firefox/themes/"
+"https://addons.mozilla.org/developers/docs/themes"
 
 #: templates/mozorg/emails/addons.txt:25
 msgid "---"
-msgstr ""
+msgstr "---"
 
 #: templates/mozorg/emails/addons.txt:27
 msgid ""
@@ -112,7 +107,6 @@ msgstr ""
 "sesuatu yang anda boleh lakukan:"
 
 #: templates/mozorg/emails/addons.txt:29
-#, fuzzy
 msgid ""
 "=================\n"
 "CREATE AN ADD-ON\n"
@@ -161,7 +155,6 @@ msgstr ""
 "https://forums.mozilla.org/addons/"
 
 #: templates/mozorg/emails/addons.txt:45
-#, fuzzy
 msgid ""
 "=================\n"
 "HELP TEST ADD-ONS\n"
@@ -196,6 +189,9 @@ msgid ""
 "HELP ADD-ON DEVELOPERS\n"
 "======================"
 msgstr ""
+"======================\n"
+"BANTU PEMBANGUN ADD-ON\n"
+"======================"
 
 #: templates/mozorg/emails/addons.txt:59
 msgid ""
@@ -203,6 +199,10 @@ msgid ""
 "good technical writer, help us improve the documentation for add-on "
 "developers: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons"
 msgstr ""
+"Jika anda sudah biasa dengan pembangunan add-on atau anda berasa anda "
+"seorang penulis teknikal yang baik, bantulah kami memperbaiki dokumentasi "
+"untuk para pembangun add-on: https://developer.mozilla.org/en-US/docs/"
+"Mozilla/Add-ons"
 
 #: templates/mozorg/emails/addons.txt:61
 msgid ""
@@ -210,9 +210,11 @@ msgid ""
 "tip: try replacing the en-US part of the link above to your native language "
 "code)."
 msgstr ""
+"Anda juga boleh membantu dengan menterjemahkan docs ini ke bahasa yang "
+"berbeza (tip pro: cuba gantikan bahagian en-US pada pautan di atas ke kod "
+"bahasa ibunda anda)."
 
 #: templates/mozorg/emails/addons.txt:63
-#, fuzzy
 msgid ""
 "===========\n"
 "QUESTIONS?\n"
