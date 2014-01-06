@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-25 22:12+0100\n"
-"PO-Revision-Date: 2013-12-20 08:54+0000\n"
-"Last-Translator: soksophea <sksophea@gmail.com>\n"
+"PO-Revision-Date: 2014-01-03 07:17+0000\n"
+"Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1-alpha1\n"
-"X-POOTLE-MTIME: 1387529683.000000\n"
+"X-POOTLE-MTIME: 1388733449.000000\n"
 
 #. # NOTE: http://www-dev.allizom.org/lightbeam
 #. Navigation
@@ -87,6 +87,8 @@ msgid ""
 "Lightbeam visually graphs these events to highlight the interactions between "
 "sites you intentionally visit and the third parties."
 msgstr ""
+"Lightbeam ក្រាហ្វ​ដែល​អាច​មើល​ឃើញ​ព្រឹត្តិការណ៍​ទាំងនេះ ដើម្បី​រំលេច​អន្តរកម្ម​តំបន់​បណ្ដាញ​ដែល​អ្នក និង​ភាគី​"
+"ទីបី​អាច​មើល​ឃើញ។"
 
 #: lightbeam/lightbeam.lang:60
 msgid ""
@@ -94,24 +96,28 @@ msgid ""
 "stop Lightbeam at any time by disabling it or uninstalling the add-on. Your "
 "Lightbeam data can be easily saved or deleted."
 msgstr ""
+"Lightbeam នឹង​បន្ត​បន្ថែម​ក្រាហ្វ​ដែល​អ្នក​រក​មើល​នៅ​បណ្ដាញ។ អ្នក​អាច​បញ្ឈប់ Lightbeam នៅ​ពេល​ណាមួយ ឬ​"
+"លុប​កម្មវិធី​បន្ថែម។ ទិន្នន័យ Lightbeam របស់​អ្នក​អាច​ត្រូវ​បាន​រក្សាទុក ឬ​លុប​បាន​ដោយ​ងាយស្រួល។"
 
 #: lightbeam/lightbeam.lang:64
 msgid "Tracking & privacy"
-msgstr ""
+msgstr "ការ​តាមដាន និង​ភាព​ឯកជន"
 
 #: lightbeam/lightbeam.lang:68
 msgid ""
 "Not all tracking is bad. Many services rely on user data to provide relevant "
 "content and enhance your online experience."
 msgstr ""
+"គ្មាន​ការ​តាមដាន​ទាំងអស់​​ដែល​មិន​ត្រឹមត្រូវ។ សេវាកម្ម​ជា​ច្រើន​ឆ្លើយតប​នឹង​​ទិន្នន័យ​អ្នក​ប្រើ​ដែល​ផ្ដល់​មាតិកា​ដែល​"
+"ទាក់ទង​ និង​បង្កើត​បទ​ពិសោធន៍​លើ​បណ្ដាញ។"
 
 #: lightbeam/lightbeam.lang:72
 msgid "But tracking can happen without the user’s knowledge."
-msgstr ""
+msgstr "ដាក់​ការ​តាម​ដាន​ដែល​អាច​កើត​ឡើង​ដោយ​មិន​ចាំបាច់​​ចំណេះ​ដឹង​របស់​អ្នក​ប្រើ។"
 
 #: lightbeam/lightbeam.lang:76
 msgid "That’s not okay for some."
-msgstr ""
+msgstr "មាន​បញ្ហា​មួយ​ចំនួន។"
 
 #: lightbeam/lightbeam.lang:80
 msgid ""
@@ -176,14 +182,17 @@ msgid ""
 "As a part of Lightbeam, we are creating a big-picture view of Internet "
 "tracking and of how first and third party sites are connected."
 msgstr ""
+"ជា​ផ្នែក​មួយ​នៃ Lightbeam, យើង​កំពុង​បង្កើត​ទិដ្ឋភាព​រូបភាព​ធំ​មួយ​នៃ​ការ​តាម​ដាន​អ៊ីនធឺណិត ហើយ​របៀប​ដំបូង និង​"
+"ភាគី​ទីបី​ត្រូវ​បាន​តភ្ជាប់​គ្នា។"
 
 #: lightbeam/lightbeam.lang:120
 msgid "To help us, you can contribute your data to our Lightbeam database."
 msgstr ""
+"ដើម្បី​ជួយ​ពួក​យើង, អ្នក​អាច​បន្ត​​ចែកចាយ​ទិន្នន័យ​របស់​អ្នក​ទៅ​កាន់​មូលដ្ឋាន​ទិន្នន័យ Lightbeam របស់​ពួក​យើង។"
 
 #: lightbeam/lightbeam.lang:124
 msgid "Supported by the Ford Foundation"
-msgstr ""
+msgstr "បាន​គាំទ្រ​ដោយ Ford Foundation"
 
 #: lightbeam/lightbeam.lang:128
 msgid ""
@@ -191,9 +200,10 @@ msgid ""
 "help people understand online data tracking — both the benefits and the "
 "issues"
 msgstr ""
+"ការ​ងារ​នៅ Ford Foundation ផ្ដោត​លើ​ការ​បង្កើត​យុទ្ធនាការ​ដើម្បី​ជួយ​មនុស្ស​ឲ្យ​យល់​ពី​ការ​តាមដាន​ទិន្នន័យ​"
+"លើ​បណ្ដាញ — ទាំង​សារប្រយោជន៍ និង​បញ្ហា"
 
 #: lightbeam/lightbeam.lang:132
-#, fuzzy
 msgid "Learn more"
 msgstr "ស្វែងយល់​​បន្ថែម"
 
@@ -227,21 +237,24 @@ msgid ""
 "The default Graph view provides a real time visualization of every site you "
 "visit and all third party requests made from your browser."
 msgstr ""
+"ទិដ្ឋភាព​ក្រាហ្វ​លំនាំដើម​ពេលវេលា​ពិត​ប្រាកដ​នៃ​គ្រប់​តំបន់​បណ្ដាញ​ដែល​អ្នក​បាន​ទស្សនា និង​ការ​ស្នើ​ភាគី​ទីបី​ពី​"
+"កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក។"
 
 #: lightbeam/lightbeam.lang:157
 msgid ""
 "The Graph view also provides adjustable filters that allow you to visualize "
 "more types of data at a glance."
 msgstr ""
+"ទិដ្ឋភាព​ក្រាហ្វ​អាច​ផ្ដល់​តម្រង់​ដែល​អាច​កែសម្រួល​បាន​ដែល​អនុញ្ញាត​ឲ្យ​អ្នក​មើល​ឃើញ​ប្រភេទ​ទិន្នន័យ​ជា​ច្រើន​។"
 
 #: lightbeam/lightbeam.lang:161
 msgid "The Clock view allows you to examine connections over a 24-hour period."
-msgstr ""
+msgstr "ចុច​ទិដ្ឋភាព​​អនុញ្ញាត​ឲ្យ​អ្នក​ពិនិត្យមើល​ការ​តភ្ជាប់​លើ​អំឡុង​ពេល ២៤ ម៉ោង។"
 
 #: lightbeam/lightbeam.lang:165
 msgid ""
 "The List view provides more options for drilling down into individual sites."
-msgstr ""
+msgstr "ទិដ្ឋភាព​បញ្ជី​ផ្ដល់​ជម្រើស​ជា​ច្រើន​សម្រាប់​ការ​បញ្ចូល​ទៅ​កាន់​​តំបន់​នីមួយៗ។"
 
 #: lightbeam/lightbeam.lang:169
 msgid ""
@@ -249,12 +262,14 @@ msgid ""
 "to your Firefox browser, watch sites you’re interested in or hide sites you "
 "don’t want to see visualized."
 msgstr ""
+"ចំណូលចិត្ត​តំបន់​បណ្ដាញ​នៅ​ក្នុង​ទិដ្ឋភាព​បញ្ជី​អនុញ្ញាត​ឲ្យ​អ្នក​ប្លុក​តំបន់​បណ្ដាញ​ពី​ការ​តភ្ជាប់​ទៅ​កម្មវិធី​អ៊ីនធឺណិត "
+"Firefox របស់​អ្នក, មើល​តំបន់​បណ្ដាញ​ដែល​អ្នក​ចាប់អារម្មណ៍​ ឬ​លាក់​តំបន់​បណ្ដាញ​ដែល​អ្នក​មិន​ចង់​មើល។"
 
 #: lightbeam/lightbeam.lang:173
 msgid ""
 "Lightbeam also offers an information panel that provides additional details "
 "about the site you selected and the sites it has connected to."
-msgstr ""
+msgstr "Lightbeam ផ្ដល់​​ព័ត៌មាន​លម្អិត​អំពី​តំបន់​បណ្ដាញ​ដែល​អ្នក​បាន​ជ្រើស និង​តំបន់​បណ្ដាញ​ដែល​វា​បាន​ភ្ជាប់។"
 
 #: lightbeam/lightbeam.lang:177
 msgid "The origins of Lightbeam"
@@ -293,6 +308,8 @@ msgid ""
 "Engineering Research Council (NSERC), Collusion has been re-imagined as "
 "Lightbeam and was launched in the fall of 2013."
 msgstr ""
+"ដោយ​មាន​ការ​គាំទ្រ Ford Foundation និង Natural Sciences និង Engineering Research "
+"Council (NSERC), Collusion ត្រុវ​បាន​ផ្ដល់​រូបភាព​ជា Lightbeam ត្រូវ​បាន​ថយ​ចុះ​នៅ​ឆ្នាំ ២០១៣។"
 
 #: lightbeam/lightbeam.lang:201
 msgid ""
@@ -309,6 +326,8 @@ msgid ""
 "At Mozilla, we believe that everyone should have the tools to make their own "
 "decisions about their online privacy and who collects data on them."
 msgstr ""
+"នៅ Mozilla, យើង​ជឿជាក់​ថា​អ្នក​រាល់គ្នា​គួរតែ​មាន​ឧបករណ៍​ ដើម្បី​​ធ្វើ​ការ​សម្រេចចិត្ត​ផ្ទាល់​ខ្លួន​របស់​ពួក​គេ​"
+"អំពី​គោល​នយោបាយ​លើ​បណ្ដាញ​ និង​ជម្រើស​ទិន្នន័យ​របស់​​ពួក​យើង។"
 
 #: lightbeam/lightbeam.lang:213
 msgid ""
@@ -341,6 +360,9 @@ msgid ""
 "community sees the growing relevance of online privacy and is supporting "
 "several initiatives that tackle the issue in various ways."
 msgstr ""
+"<a href=\"%s\">Mozilla Foundation</a> ជា​អង្គការ​មិន​ស្វែងរក​ប្រាក់​ចំណេញ​ដែល​បង្កើន​តម្លៃ​"
+"បណ្ដាញ​បើក​ទូលាយ​​នៅ​លើ​ពិភពលោក។ សហគមន៍​ Mozilla ធំ​ទាក់ទង​នឹង​គោល​នយោបាយ​លើ​បណ្ដាញ ហើយ​ត្រូវ​បាន​គាំទ្រ​"
+"ការ​ចាប់ផ្ដើម​គំនិត​ច្នៃ​ប្រឌិត​មួយ​ចំនួន​ ការ​ដោះស្រាយ​បញ្ហា​នៅ​ក្នុង​វិធី​ផ្សេង។"
 
 #: lightbeam/lightbeam.lang:229
 msgid "Data formats in Lightbeam"
@@ -352,6 +374,9 @@ msgid ""
 "file formats used in Lightbeam and to see details of the data that is "
 "uploaded if you opt in to contribute to the database."
 msgstr ""
+"សូម​មើល​ <a href=\"%s\">ឯកសារ​នៅ​លើ Github</a> របស់​ពួក​យើង ហើយ​ស្វែងយល់​អំពី​ទ្រង់ទ្រាយ​ឯកសារ​ដែល​"
+"បាន​ប្រើ​ក្នុង Lightbeam សូម​មើល​ព័ត៌មាន​លម្អិត​អំពី​ទិន្នន័យ​ដែល​ត្រូវ​បាន​ផ្ទុក​ឡើង​ ប្រសិនបើ​អ្នក​ជ្រើស​ដើម្បី​"
+"ចែកចាយ​ក្នុង​មូលដ្ឋាន​ទិន្នន័យ។"
 
 #: lightbeam/lightbeam.lang:237
 msgid "Partners of Lightbeam"
