@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-12-20 22:34+0100\n"
-"PO-Revision-Date: 2013-12-24 04:31+0000\n"
-"Last-Translator: Sutha <sutha@open.org.kh>\n"
+"PO-Revision-Date: 2014-01-07 08:57+0000\n"
+"Last-Translator: Piseth <piseth.kheng@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1-alpha1\n"
-"X-POOTLE-MTIME: 1387859506.000000\n"
+"X-POOTLE-MTIME: 1389085062.000000\n"
 
 #. These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
 #: newsletter.lang:3
@@ -25,9 +25,8 @@ msgid "Your Email Address"
 msgstr "អាសយដ្ឋាន​អ៊ីមែល​របស់​អ្នក"
 
 #: newsletter.lang:11
-#, fuzzy
 msgid "Your email address:"
-msgstr "អាសយដ្ឋាន​អ៊ីមែល​របស់​អ្នក"
+msgstr "អាសយដ្ឋាន​អ៊ីមែល​របស់​អ្នក៖"
 
 #: newsletter.lang:15
 msgid "Text"
@@ -39,16 +38,15 @@ msgstr "ភាសា​ដែល​មាន"
 
 #: newsletter.lang:23
 msgid "Language:"
-msgstr ""
+msgstr "ភាសា៖"
 
 #: newsletter.lang:27
 msgid "Select country"
 msgstr "ជ្រើស​ប្រទេស"
 
 #: newsletter.lang:31
-#, fuzzy
 msgid "Country:"
-msgstr "ប្រទេស"
+msgstr "ប្រទេស៖"
 
 #: newsletter.lang:35
 msgid "Whoops! Be sure to enter a valid email address."
@@ -152,13 +150,12 @@ msgid "Beta News"
 msgstr "ព័ត៌មាន Beta"
 
 #: newsletter.lang:104
-#, fuzzy
 msgctxt "./newsletter.lang:104"
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
 msgstr ""
-"អាន​ព័ត៌មាន​លក្ខណៈ​បន្ថែម​ចុងក្រោយ​បំផុត​សម្រាប់  Firefox លើ​កុំព្យូទ័រ និង​ទូរសព្ទ​មុន​ពេល​ចេញ​កំណែ​ចុងក្រោយ ។"
+"អាន​ព័ត៌មាន​​អំពី​លក្ខណៈ​​ចុងក្រោយ​បំផុត​សម្រាប់  Firefox លើ​កុំព្យូទ័រ និង​ទូរសព្ទ​មុន​ពេល​ចេញ​កំណែ​ចុងក្រោយ ។"
 
 #: newsletter.lang:108
 msgid "Let’s Be Friends!"
@@ -239,11 +236,11 @@ msgstr "អរគុណ​សម្រាប់​ការ​ប្រាប់
 
 #: newsletter.lang:177
 msgid "Mozilla Newsletters"
-msgstr ""
+msgstr "ព្រឹត្តិបត្រ​ព័ត៌មាន​ Mozilla"
 
 #: newsletter.lang:181
 msgid "Thanks! Please check your inbox to confirm your subscription."
-msgstr ""
+msgstr "អរគុណ! សូម​ពិនិត្យ​មើល​ប្រអប់​សំបុត្រ​របស់​អ្នក​ដើម្បី​​បញ្ជាក់​ការ​ជាវ​របស់​អ្នក។"
 
 #: newsletter.lang:185
 msgid ""
@@ -251,6 +248,9 @@ msgid ""
 "subscription. If you don't see it, check your spam filter. You must confirm "
 "your subscription to receive our newsletter."
 msgstr ""
+"អ្នក​នឹង​ទទួល​បាន​អ៊ីមែល​ពី mozilla@e.mozilla.org ដើម្បី​បញ្ជាក់​ការ​ជាវ​របស់​អ្នក។ បើ​អ្នក​មិន​ឃើញ​វា​ទេ "
+"សូម​ពិនិត្យ​មើល​​ក្នុង​តម្រង​​សារ​ឥត​បាន​ការ​របស់​អ្នក។ អ្នក​ត្រូវតែ​បញ្ជាក់​ការ​ជាវ​របស់​អ្នក​ដើម្បី​ទទួល​បាន​​ព្រឹត្តិបត្រ​"
+"របស់​យើង។"
 
 #: newsletter.lang:189
 msgid ""
@@ -310,13 +310,12 @@ msgid "Format:"
 msgstr "របស់​អ្នក៖"
 
 #: newsletter.lang:235
-#, fuzzy
 msgid "You’ve been unsubscribed."
-msgstr "អ្នក​បាន​ឈប់​ជាវ​ប្រចាំ ។"
+msgstr "អ្នក​បាន​ឈប់​ជាវ​​ជា​ប្រចាំ​ហើយ ។"
 
 #: newsletter.lang:239
 msgid "We’re sorry to see you go."
-msgstr ""
+msgstr "យើង​សោកស្ដាយ​ដែល​ឃើញ​អ្នក​ទៅ។"
 
 #: newsletter.lang:243
 msgid "Would you mind telling us why you’re leaving?"
@@ -391,34 +390,34 @@ msgstr ""
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:312
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
-msgstr ""
+msgstr "ទទួល​បាន​ជំនួយ​ប្រចាំ​សប្ដាហ៍​អំពី​របៀប​​បញ្ចូល​​បំពេញ​បទពិសោធន៍​ Firefox របស់​អ្នក។"
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:317
-#, fuzzy
 msgctxt "./newsletter.lang:317"
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
 msgstr ""
-"អាន​ព័ត៌មាន​លក្ខណៈ​បន្ថែម​ចុងក្រោយ​បំផុត​សម្រាប់  Firefox លើ​កុំព្យូទ័រ និង​ទូរសព្ទ​មុន​ពេល​ចេញ​កំណែ​ចុងក្រោយ ។"
+"អាន​ព័ត៌មាន​​អំពី​លក្ខណៈ​​ចុងក្រោយ​បំផុត​សម្រាប់  Firefox លើ​កុំព្យូទ័រ និង​ទូរសព្ទ​មុន​ពេល​ចេញ​កំណែ​ចុងក្រោយ ។"
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:322
 msgid "News from the Mozilla Project."
-msgstr ""
+msgstr "ដំណឹង​ពី​គម្រោង Mozilla ។"
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:327
 msgid "Periodic email updates about our annual international film competition."
-msgstr ""
+msgstr "បច្ចុប្បន្នភាព​តាម​អ៊ីមែល​​​ដោយ​ពេល​អំពី​​​ការ​ប្រកួត​ភាពយន្ត​​អន្តរជាតិ​ប្រចាំ​ឆ្នាំ​​របស់​យើង។"
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:332
 msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
-msgstr "សំបុត្រ​សារព័ត៌មាន​ប្រចាំខែ​រក្សាទុក​ភាព​ទាន់​សម័យ​របស់​អ្នក​ជាមួយ​កម្មវិធី Firefox Affiliates ។"
+msgstr ""
+"ព្រឹត្តិបត្រ​ព័ត៌មាន​​ប្រចាំខែ​​ធ្វើ​ឲ្យ​អ្នក​ទទួល​បាន​បច្ចុប្បន្នភាព​ជាមួយ​កម្មវិធី​ Firefox Affiliates។"
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:337
