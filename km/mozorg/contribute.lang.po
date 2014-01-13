@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-29 13:49+0100\n"
-"PO-Revision-Date: 2013-12-03 08:25+0000\n"
+"PO-Revision-Date: 2014-01-13 10:16+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: none\n"
 "Language: km\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
-"X-POOTLE-MTIME: 1386059102.000000\n"
+"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-POOTLE-MTIME: 1389608210.000000\n"
 
 #: mozorg/contribute.lang:1
 msgid "Get Involved: Volunteer Opportunities at Mozilla"
@@ -32,6 +32,7 @@ msgid ""
 "You don’t have to be a C++ guru (or even know what that means!) to get "
 "involved.<br><b>You just have to love the Web.</b>"
 msgstr ""
+"អ្នក​មិន​មាន C++ guru (ឬ​ទោះបី​ស្គាល់​អត្ថន័យ!) ចូលរួម។<br><b>អ្នក​គ្រាន់តែ​ស្រលាញ់​បណ្ដាញ។</b>"
 
 #: mozorg/contribute.lang:13
 msgid "Please enter a valid email address."
@@ -94,7 +95,7 @@ msgstr ""
 
 #: mozorg/contribute.lang:69
 msgid "Sort By:"
-msgstr ""
+msgstr "តម្រៀប​តាម ៖"
 
 #: mozorg/contribute.lang:73
 msgid "Interest"
@@ -110,7 +111,7 @@ msgstr "សំបុត្រ​ព័ត៌មាន"
 
 #: mozorg/contribute.lang:85
 msgid "Helping Users"
-msgstr ""
+msgstr "ជួយ​អ្នក​ប្រើប្រាស់"
 
 #: mozorg/contribute.lang:89
 msgid ""
@@ -121,27 +122,27 @@ msgstr ""
 
 #: mozorg/contribute.lang:94
 msgid "Quality Assurance"
-msgstr ""
+msgstr "ការ​ធានា​អះអាង​គុណភាព"
 
 #: mozorg/contribute.lang:98
 msgid "Coding"
-msgstr ""
+msgstr "សរសេរ​កូដ"
 
 #: mozorg/contribute.lang:102
 msgid "Spread the Word"
-msgstr ""
+msgstr "ចែកចាយ​បាន​ទូលំទូលាយ"
 
 #: mozorg/contribute.lang:106
 msgid "map"
-msgstr ""
+msgstr "ផែនទី"
 
 #: mozorg/contribute.lang:110
 msgid "US and Canada"
-msgstr ""
+msgstr "សហរដ្ឋអាមេរិក និង​កាណាដា​"
 
 #: mozorg/contribute.lang:114
 msgid "Europe"
-msgstr ""
+msgstr "អ៊ឺរ៉ុប​"
 
 #: mozorg/contribute.lang:118
 msgid "Latin America"
@@ -206,6 +207,10 @@ msgid ""
 "\"%(test_pilot)s\">analyze Test Pilot data</a>&mdash;we’d love to have you "
 "join us!"
 msgstr ""
+"ជា​ផ្នែក​ក្រុម​ការ​ស្រាវជ្រាវ&mdash;ថា​តើ​អ្នក​ចង់​ក្លាយ​ជា <a href=\"%(survey_url)s\">អ្នក​ចូលរួម​"
+"នៅ​ក្នុង​ក្រុម​សិស្ស</a>, <a href=\"%(test_email)s\">ការ​ប្រតិបត្តិ​ការ​សាកល្បង​ភាព​មាន​ប្រយោជន៍</"
+"a> នៅ​លើ​ផ្ទាល់​ខ្លួន​របស់​អ្នក ឬ <a href=\"%(test_pilot)s\">វិភាគ​ទិន្នន័យ Test Pilot </"
+"a>&mdash;យើង​រីករាយ​ការ​ចូលរួម​របស់​អ្នក​ជាមួយ​ពួក​យើង!"
 
 #: mozorg/contribute.lang:162
 msgid ""
@@ -214,6 +219,10 @@ msgid ""
 "the world about how Mozilla is building a better Internet by <a href="
 "\"%(l10n_web_url)s\">translating content</a> on our web sites."
 msgstr ""
+"ចូលរួម​ជាមួយ Mozilla ដោយ​បង្កើត Firefox, Thunderbird និង​គម្រោង​ផ្សេង​ទៀត <a href="
+"\"%(l10n_url)s\">មាន​ជា​ភាសា​របស់​អ្នក</a>។ ជួយ​ពួក​យើង​ប្រាប់​ពាក្យ​អំពី​របៀប​ Mozilla កំពុង​ធ្វើ​ឲ្យ​"
+"អ៊ីនធឺណិត​ប្រសើរ​ឡើង​ដោយ <a href=\"%(l10n_web_url)s\">បកប្រែ​មាតិកា</a> លើ​តំបន់​បណ្ដាញ​របស់​ពួក​"
+"យើង។"
 
 #: mozorg/contribute.lang:166
 msgid ""
@@ -222,26 +231,29 @@ msgid ""
 "by writing new content, correcting existing material or translating content "
 "into new languages."
 msgstr ""
+"បណ្ដាញ​អ្នកអភិវឌ្ឍន Mozilla ជា​មជ្ឈមណ្ឌល​សម្រាប់​ព័ត៌មាន​អំពី​បច្ចេកវិទ្យា Mozilla ។ ជំនួយ <a href="
+"\"%(dev_url)s\">បង្កើត​ឯកសារ​របស់​ពួក​យើង​ឲ្យ​កាន់​តែ​ល្អ​ប្រសើរ</a> ដោយ​សរសេរ​មាតិកា​ថ្មី, កែ​ឯកសារ​"
+"ដែល​មាន​ស្រាប់ ឬ​បកប្រែ​មាតិកា​ទៅ​ជា​ភាសា​ថ្មី។"
 
 #: mozorg/contribute.lang:170
 msgid "Area of interest?"
-msgstr ""
+msgstr "តំបន់​ចាប់អារម្មណ៍?"
 
 #: mozorg/contribute.lang:174
 msgid "I need help with a Firefox issue"
-msgstr ""
+msgstr "ខ្ញុំ​ត្រូវ​ការ​ជំនួយ​ជាមួយ​បញ្ហា Firefox"
 
 #: mozorg/contribute.lang:178
 msgid "I have a suggestion for Firefox"
-msgstr ""
+msgstr "ខ្ញុំ​មាន​ការ​ផ្ដល់​យោបល់​សម្រាប់ Firefox"
 
 #: mozorg/contribute.lang:182
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: mozorg/contribute.lang:186
 msgid "Education"
-msgstr ""
+msgstr "ការ​អប់រំ"
 
 #: mozorg/contribute.lang:190
 msgid "Firefox Affiliates"
@@ -287,11 +299,11 @@ msgstr "ផ្សេង"
 
 #: mozorg/contribute.lang:231
 msgid "Marketing"
-msgstr ""
+msgstr "ទីផ្សារ"
 
 #: mozorg/contribute.lang:235
 msgid "Testing and QA"
-msgstr ""
+msgstr "ការ​សាកល្បង និង QA"
 
 #: mozorg/contribute.lang:239
 msgid ""
@@ -310,7 +322,7 @@ msgstr ""
 
 #: mozorg/contribute.lang:247
 msgid "Documentation and Writing"
-msgstr ""
+msgstr "ឯកសារ និង​ការ​សរសេរ"
 
 #: mozorg/contribute.lang:251
 msgid ""
@@ -326,6 +338,10 @@ msgid ""
 "\"%(addons_url)s\">build an add-on</a>. For experienced developers, find out "
 "how to <a href=\"%(addons_wiki)s\">become an AMO editor</a>."
 msgstr ""
+"ផលិតផល Mozilla ​មាន​ប្រព័ន្ធ​ផ្នែក​បន្ថែម​ដែល​មាន​អនុភាព​ដែល​អ្នក​អនុញ្ញាត​ឲ្យ​អ្នក​ធ្វើ​ការ​កែប្រែ "
+"បន្ថែម។ ស្វែងយល់​បន្ថែម​អំពី​របៀប <a href=\"%(addons_url)s\">បង្កើត​កម្មវិធី​បន្ថែម</a>។ "
+"សម្រាប់​អ្នកអភិវឌ្ឍន​ដែល​មាន​បទពិសោធន៍, ស្វែងរក​របៀប <a href=\"%(addons_wiki)s\">ក្លាយ​ជា​អ្នក​"
+"កែសម្រួល AMO </a>។"
 
 #: mozorg/contribute.lang:259
 msgid ""
@@ -342,6 +358,10 @@ msgid ""
 "easier for others. Tell us <a href=\"%(what_url)s\">your favorite "
 "programming language</a> and we'll find the project for you."
 msgstr ""
+"<a href=\"%(dev_intro_url)s\">អ្នកអភិវឌ្ឍន​អាច​ជួយ​ដល់</a> Mozilla ដោយ​បន្ថែម​លក្ខណៈ​ថ្មីៗ, "
+"ការ​បង្កើត​​ឲ្យ​កាន់​តែ​តូច ហើយ​មាន​ល្បឿន​លឿន​ និង​ការអភិវឌ្ឍន​ឲ្យ​កាន់​តែ​មាន​ភាព​ងាយស្រួល។ ប្រាប់​ពួក​យើង <a "
+"href=\"%(what_url)s\"> programming language ដែល​អ្នក​ពេញ​ចិត្ត</a> ហើយ​យើង​នឹង​ស្វែងរក​"
+"គម្រោង​សម្រាប់​អ្នក។"
 
 #: mozorg/contribute.lang:267
 msgid "Localization and Translation"
