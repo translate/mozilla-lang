@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-20 22:34+0100\n"
+"POT-Creation-Date: 2014-01-13 16:32+0100\n"
 "PO-Revision-Date: 2014-01-04 12:16+0000\n"
 "Last-Translator: Amed Çeko <amedcj@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,48 +12,52 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!= 1);\n"
-"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-Generator: Translate Toolkit 1.11.0-rc1\n"
 "X-POOTLE-MTIME: 1388837785.000000\n"
 
+#. # promo_lightbeam ##
+#. # promo_new_mdn ##
+#. # promo_webmaker ##
 #. # NOTE: demo server for home page is https://www-dev.allizom.org
-#: mozorg/home.lang:4
+#: mozorg/home.lang:7
 msgid "Home of the Mozilla Project"
 msgstr "Navenda Projeya Mozillayê"
 
 #. Used as a label for a button that scrolls through latest news.
-#: mozorg/home.lang:9
+#: mozorg/home.lang:12
 msgid "Next article"
 msgstr "Gotara pêş"
 
 #. Used as a label for a button that scrolls through latest news.
-#: mozorg/home.lang:14
+#: mozorg/home.lang:17
 msgid "Previous article"
 msgstr "Gotara berê"
 
 #. The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
-#: mozorg/home.lang:19
+#: mozorg/home.lang:22
 msgid "We are %(mozilla_wordmark)s"
 msgstr "Em %(mozilla_wordmark)s ne"
 
-#: mozorg/home.lang:23
+#: mozorg/home.lang:26
 msgid "Doing good is part of our code"
 msgstr "Başî parçeyek ji kodên me ye"
 
-#: mozorg/home.lang:27
-msgctxt "./mozorg/home.lang:27"
+#: mozorg/home.lang:30
+#, fuzzy
+msgctxt "./mozorg/home.lang:30"
 msgid "Get involved"
 msgstr "Beşdarî me bibe"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:32
+#: mozorg/home.lang:35
 msgid "<i>Explore</i> our mission"
 msgstr "<i>Mîsyona me</i> "
 
-#: mozorg/home.lang:36
+#: mozorg/home.lang:39
 msgid "Our principles guide us"
 msgstr "Rêgezên me rêberiya me dikin"
 
-#: mozorg/home.lang:40
+#: mozorg/home.lang:43
 msgid ""
 "We’re a global community of technologists, thinkers and builders working to "
 "keep the Internet alive and accessible."
@@ -61,20 +65,20 @@ msgstr ""
 "Em teknolojîst, ramyar û avakar; civakeke gerdûnî pêk tînin û xebata me ji "
 "bo hindê ku înternet zindî û berdest be."
 
-#: mozorg/home.lang:44
+#: mozorg/home.lang:47
 msgid "Read more about our mission"
 msgstr "Derbarê mîsyona me de zêdetir bizane"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:49
+#: mozorg/home.lang:52
 msgid "<i>Look</i> ahead"
 msgstr "Siberojê <i>bibîne</i>"
 
-#: mozorg/home.lang:53
+#: mozorg/home.lang:56
 msgid "Look ahead"
 msgstr "Siberojê bibîne"
 
-#: mozorg/home.lang:57
+#: mozorg/home.lang:60
 msgid ""
 "We‘re bringing more people to the Web in more ways and from more places than "
 "ever before."
@@ -82,21 +86,21 @@ msgstr ""
 "Em ji bi rêbazên cur bi cur ji deverên cuda ji hemû deman zêdetir kesan "
 "tînin nav Webê"
 
-#: mozorg/home.lang:61
+#: mozorg/home.lang:64
 msgid "Learn more about Firefox OS"
 msgstr "Firefox OSê çêtir nas bike"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:66
+#: mozorg/home.lang:69
 msgid "<i>Join</i> our community"
 msgstr "<i>Beşdarî</i> civaka me bibe"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:71
+#: mozorg/home.lang:74
 msgid "Join our<br> developer community"
 msgstr "Beşdarî nav civaka<br> me ya pêşvebir bibe"
 
-#: mozorg/home.lang:75
+#: mozorg/home.lang:78
 msgid ""
 "Get docs and demos, tools and tutorials and everything related to the Open "
 "Web."
@@ -104,25 +108,21 @@ msgstr ""
 "Xwe bigihîne belge û pêşnûmayan, amûr û materyalan û hemû tiştên têkildarî "
 "Weba Vekirî."
 
-#: mozorg/home.lang:79
-msgid "Visit the Mozilla Developer Network"
-msgstr "Serdana Tora Pêşvebir ya Mozillayê bike"
-
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:84
+#: mozorg/home.lang:83
 msgid "<i>Forge</i> the future"
 msgstr "<i>Siberojê</i> birêse"
 
-#: mozorg/home.lang:88
+#: mozorg/home.lang:87
 msgid "Mozilla Festival"
 msgstr "Festîvala Mozillayê"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:93
+#: mozorg/home.lang:92
 msgid "Forge the future<br> of the Web"
 msgstr "Siberoja Webê<b> birêse"
 
-#: mozorg/home.lang:97
+#: mozorg/home.lang:96
 msgid ""
 "Learn from some of the most passionate thinkers and inventors from around "
 "the world."
@@ -130,40 +130,41 @@ msgstr ""
 "Ji hin ramyar û vedozînerên herî baş yên ji çar aliyên cîhanê tiştina fêr "
 "bibe."
 
-#: mozorg/home.lang:101
+#: mozorg/home.lang:100
 msgid "Come to the Mozilla Festival"
 msgstr "Were Festîvala Mozillayê"
 
-#: mozorg/home.lang:105
+#: mozorg/home.lang:104
 msgid "Different by&nbsp;design"
 msgstr "Sêwirandineke&nbsp;cuda"
 
 #. This string is displayed only for locales with a press agency blog
-#: mozorg/home.lang:110
+#: mozorg/home.lang:109
 msgid "In the news"
 msgstr "Di nûçeyan de"
 
 #. This string is displayed only for locales with a press agency blog
-#: mozorg/home.lang:115
+#: mozorg/home.lang:114
 msgid "See all news"
 msgstr "Hemû nûçeyan bibîne"
 
-#: mozorg/home.lang:119
-msgctxt "./mozorg/home.lang:119"
+#: mozorg/home.lang:118
+#, fuzzy
+msgctxt "./mozorg/home.lang:118"
 msgid "Get involved"
 msgstr "Beşdarî me bibe"
 
 #. This string is displayed only for locales where we launch Firefox OS soon
-#: mozorg/home.lang:124
+#: mozorg/home.lang:123
 msgid "Help launch Firefox OS in your country."
 msgstr "Bibe alîkar ku Firefox OS bê welatê te."
 
 #. This string is displayed only for locales where we launch Firefox OS soon
-#: mozorg/home.lang:129
+#: mozorg/home.lang:128
 msgid "Become a Mobilizer today."
 msgstr "Îro bibe Mobîlîzerek."
 
-#: mozorg/home.lang:133
+#: mozorg/home.lang:132
 msgid ""
 "You don’t have to know how to code to get involved with Mozilla. <a href=\"%s"
 "\">Learn more about our volunteer opportunities</a>."
@@ -171,7 +172,7 @@ msgstr ""
 "Ji bo piştgiriya Mozillayê bikî ne pêwîst e ku kodan zanibî. <a href=\"%s"
 "\">Ji bo derfetên piştgiriya dilxwazî agahiyan bistîne</a>."
 
-#: mozorg/home.lang:137
+#: mozorg/home.lang:136
 msgid ""
 "Thanks to our global community, Mozilla products and websites are available "
 "in over 70 languages. <a href=\"%(link_l10n)s\">Help translate them into "
@@ -182,17 +183,17 @@ msgstr ""
 "bo zimanê xwe bike</a>."
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:142
+#: mozorg/home.lang:141
 msgid "<i>Watch</i> the watchers"
 msgstr "Temaşekaran <i>temaşe bike</i>"
 
 #. Lightbeam promo
-#: mozorg/home.lang:147
+#: mozorg/home.lang:146
 msgid "See who’s watching you online"
 msgstr "Bibîne ka kî te li ser înternetê temaşe dike"
 
 #. Lightbeam promo
-#: mozorg/home.lang:152
+#: mozorg/home.lang:151
 msgid ""
 "Shine a light on the third parties that are collecting data about your "
 "online activity."
@@ -200,21 +201,21 @@ msgstr ""
 "Li ser partiyên sêyemîn yên ku derbarê çalakiyên te yên girêdayî de agahiyan "
 "berhev dikin roniyek dibiriqe."
 
-#: mozorg/home.lang:156
+#: mozorg/home.lang:155
 msgid "Install the Lightbeam add-on"
 msgstr "Add-ona Lightbeamê saz bike"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:161
+#: mozorg/home.lang:160
 msgid "<i>Learn</i> the Web"
 msgstr "Webê <i>fêr bibe</i>"
 
 #. Webmaker promo
-#: mozorg/home.lang:166
+#: mozorg/home.lang:165
 msgid "We teach the Web"
 msgstr "Em Webê fêr bikin"
 
-#: mozorg/home.lang:170
+#: mozorg/home.lang:169
 msgid ""
 "Let‘s explore, tinker and create together to build a Web that‘s open and "
 "made by everyone."
@@ -222,33 +223,51 @@ msgstr ""
 "De em bi hev re vekolin, tamîr bikin û biafirînin da ku Webê bi hev re çêkin "
 "û ji her kesî re vekirî be."
 
-#: mozorg/home.lang:174
+#: mozorg/home.lang:173
 msgid "Become a Webmaker"
 msgstr "Bibe Webmakerek"
 
-#. 2013 Add-ons promo: This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:179
-msgid "See the<br> best add-ons"
-msgstr "Add-onên herî baş<br>bibîne"
-
-#. 2013 Add-ons promo: This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:184
-msgid "The best add-ons<br> of the year"
-msgstr "Add-onên herî baş<br>yên salê"
-
-#. 2013 Add-ons promo
-#: mozorg/home.lang:189
-msgid ""
-"See the top 13 add-ons from 2013, as chosen by our amazing committee of "
-"volunteers."
+#. New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+#: mozorg/home.lang:178
+msgid "<i>See</i> the new MDN"
 msgstr ""
-"Baştirîn 13 add-onên 2013an bibîne, ku ji hêla dilxwazên koma te ve hatine "
-"hilbijartin."
 
-#. 2013 Add-ons promo:
-#: mozorg/home.lang:194
-msgid "Add them to Firefox"
-msgstr "Wan li Firefoxê zêde bike"
+#. New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
+#: mozorg/home.lang:183
+msgid "See what’s new <br>for developers"
+msgstr ""
+
+#. New MDN promo:
+#: mozorg/home.lang:188
+msgid ""
+"Our community hub for docs, demos and other resources just got a brand new "
+"look."
+msgstr ""
+
+#. New MDN promo:
+#: mozorg/home.lang:193
+msgid "Visit the Mozilla Developer Network"
+msgstr "Serdana Tora Pêşvebir ya Mozillayê bike"
+
+#~ msgctxt "./mozorg/home.lang:119"
+#~ msgid "Get involved"
+#~ msgstr "Beşdarî me bibe"
+
+#~ msgid "See the<br> best add-ons"
+#~ msgstr "Add-onên herî baş<br>bibîne"
+
+#~ msgid "The best add-ons<br> of the year"
+#~ msgstr "Add-onên herî baş<br>yên salê"
+
+#~ msgid ""
+#~ "See the top 13 add-ons from 2013, as chosen by our amazing committee of "
+#~ "volunteers."
+#~ msgstr ""
+#~ "Baştirîn 13 add-onên 2013an bibîne, ku ji hêla dilxwazên koma te ve "
+#~ "hatine hilbijartin."
+
+#~ msgid "Add them to Firefox"
+#~ msgstr "Wan li Firefoxê zêde bike"
 
 #~ msgid ""
 #~ "Firefox connects you to the Vans Triple Crown of Surfing and all the "
