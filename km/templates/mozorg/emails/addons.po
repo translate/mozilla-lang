@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-12-16 14:17+0100\n"
-"PO-Revision-Date: 2013-12-24 08:56+0000\n"
-"Last-Translator: Sutha <sutha@open.org.kh>\n"
+"PO-Revision-Date: 2014-01-19 12:27+0000\n"
+"Last-Translator: Piseth <piseth.kheng@gmail.com>\n"
 "Language-Team: none\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.11.0-rc1\n"
-"X-POOTLE-MTIME: 1387875404.000000\n"
+"X-Generator: Pootle 2.5.1-rc1\n"
+"X-POOTLE-MTIME: 1390134459.000000\n"
 
 #: templates/mozorg/emails/addons.txt:1
 msgid ""
@@ -21,12 +21,17 @@ msgid ""
 "contributing--whether by leaving a review of your favorite add-on, designing "
 "a theme, or creating an add-on, your efforts matter!"
 msgstr ""
+"អរគុណ​សម្រាប់​ការ​ចាប់អារម្មណ៍​របស់​អ្នក​នៅ​ក្នុង​កម្មវិធី​បន្ថែម Firefox ។ វា​មាន​ភាព​ងាយស្រួល​ក្នុង​ការ​"
+"ចាប់ផ្ដើម​ក្នុង​ការ​ចូល មើល​កម្មវិធី​បន្ថែម​ពេញ​និយម​របស់​អ្នក, ការ​រចនា​រូបរាង, ការ​បង្កើត​កម្មវិធី​បន្ថែម,"
+"ការ​ខិតខំ​ប្រែប្រឹង​របស់​អ្នក!"
 
 #: templates/mozorg/emails/addons.txt:3
 msgid ""
 "If you are new to add-ons, here are some things you can do at https://addons."
 "mozilla.org:"
 msgstr ""
+"ប្រសិនបើ​អ្នក​ថ្មី​ចំពោះ​កម្មវិធី​បន្ថែម ​ទីនេះ​​ជា​អ្វី​ខ្លះៗ​ដែល​អ្នក​អាច​ធ្វើ​បាន​នៅ https://addons."
+"mozilla.org ៖"
 
 #: templates/mozorg/emails/addons.txt:5
 msgid ""
@@ -73,6 +78,9 @@ msgid ""
 "CREATE A THEME\n"
 "==============="
 msgstr ""
+"===============\n"
+"CREATE A THEME\n"
+"==============="
 
 #: templates/mozorg/emails/addons.txt:22
 msgid ""
@@ -80,25 +88,27 @@ msgid ""
 "your own, start here:\n"
 "https://addons.mozilla.org/developers/docs/themes"
 msgstr ""
+"រូបរាង​ផ្ទៃ​ខាងក្រោយ​អាច​ឲ្យ​អ្នក​ប្ដូរ​រូបរាង​ការ​បង្ហាញ​ផ្ទាល់ខ្លួន​​នៃ​កម្មវិធី Firefox របស់​អ្នក។ ដើម្បី​"
+"ចាប់ផ្ដើម​ដោយ​ខ្លួន​ឯង ចាប់ផ្ដើម​ទីនេះ៖:\n"
+"https://addons.mozilla.org/developers/docs/themes"
 
 #: templates/mozorg/emails/addons.txt:25
 msgid "---"
-msgstr ""
+msgstr "---"
 
 #: templates/mozorg/emails/addons.txt:27
 msgid ""
 "If you are a more technical contributor, here are some things you can do:"
-msgstr ""
+msgstr "ប្រសិនបើ​អ្នក​ជា​អ្នក​ចែកចាយ​បច្ចេកវិទ្យា, នេះ​ជា​អ្វី​ដែល​អ្នក​អាច​ធ្វើ៖"
 
 #: templates/mozorg/emails/addons.txt:29
-#, fuzzy
 msgid ""
 "=================\n"
 "CREATE AN ADD-ON\n"
 "================="
 msgstr ""
 "=================\n"
-"HELP TEST ADD-ONS\n"
+"CREATE AN ADD-ON\n"
 "================="
 
 #: templates/mozorg/emails/addons.txt:33
@@ -108,18 +118,25 @@ msgid ""
 "developers:\n"
 "https://addons.mozilla.org/developers/"
 msgstr ""
+"ដើម្បី​ចាប់ផ្ដើម, សូម​មើល​នៅ Add-ons Developer Hub ។ វា​មាន​ឯកសារ, ឧបករណ៍ និង​ព័ត៌មាន​នៅ​លើ​"
+"របៀប​​ក្នុង​ការ​រក្សា​ទំនាក់ទំនង​ជាមួយ​អ្នក​អភិវឌ្ឍន​ផ្សេង​ទៀត៖\n"
+"https://addons.mozilla.org/developers/"
 
 #: templates/mozorg/emails/addons.txt:36
 msgid ""
 "Builder & SDK: The quickest and easiest way to create add-ons:\n"
 "https://addons.mozilla.org/en-US/developers/builder"
 msgstr ""
+"Builder & SDK: វិធី​ងាយស្រួល​បំផុត និង​រហ័ស​បំផុត​ក្នុង​ការ​បង្កើត​កម្មវិធី​បន្ថែម៖\n"
+"https://addons.mozilla.org/en-US/developers/builder"
 
 #: templates/mozorg/emails/addons.txt:39
 msgid ""
 "XUL School: A comprehensive tutorial for more advanced developers:\n"
 "https://developer.mozilla.org/en/XUL_School"
 msgstr ""
+"XUL School: ឯកសារ​បង្រៀន​ដែល​មាន​សម្រាប់​អ្នកអភិវឌ្ឍន​កម្រិត​ខ្ពស់៖\n"
+"https://developer.mozilla.org/en/XUL_School"
 
 #: templates/mozorg/emails/addons.txt:42
 msgid ""
@@ -127,6 +144,8 @@ msgid ""
 "ons Forum:\n"
 "https://forums.mozilla.org/addons/"
 msgstr ""
+"អ្នក​អាច​ប្រកាស​សំណួរ និង​ភ្ជាប់​ជាមួយ​​អ្នកអភិវឌ្ឍន​កម្មវិធី​បន្ថែម​ផ្សេង​ទៀត​នៅ​ក្នុង​វេទិកា​កម្មវិធី​បន្ថែម៖\n"
+"https://forums.mozilla.org/addons/"
 
 #: templates/mozorg/emails/addons.txt:45
 msgid ""
@@ -172,6 +191,9 @@ msgid ""
 "good technical writer, help us improve the documentation for add-on "
 "developers: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons"
 msgstr ""
+"ប្រសិនបើ​អ្នក​ធ្លាប់​បាន​ប្រើ​ការ​អភិវឌ្ឍ​កម្មវិធី​បន្ថែម ឬ​អ្នក​គិត​ថា​អ្នក​ជា​អ្នក​​សរសេរ​ផ្នែក​បច្ចេកទេស​ដ៏​ជំនាញ "
+"សូម​ជួយ​យើង​ធ្វើ​ឲ្យ​ប្រសើរ​​ឯកសារ​សម្រាប់​អ្នក​​អភិវឌ្ឍ​កម្មវិធី​ផ្នែក​បន្ថែម៖ https://developer.mozilla."
+"org/en-US/docs/Mozilla/Add-ons"
 
 #: templates/mozorg/emails/addons.txt:61
 msgid ""
