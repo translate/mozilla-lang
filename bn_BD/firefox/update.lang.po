@@ -4,14 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-05 11:56+0100\n"
-"PO-Revision-Date: 2013-08-05 11:56+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2014-01-23 17:46+0000\n"
+"Last-Translator: Towfique <towfique.anam@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn_BD\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"X-Generator: Pootle 2.5.1-rc1\n"
+"X-POOTLE-MTIME: 1390499160.000000\n"
 
 #. # NOTE: Update page available at url: https://www-dev.allizom.org/b/en-GB/firefox/update/
 #: firefox/update.lang:5
@@ -20,7 +21,7 @@ msgstr "স্বাগতম"
 
 #: firefox/update.lang:9
 msgid "Are Firefox updates safe?"
-msgstr ""
+msgstr "ফায়ারফক্স আপডেট কি নিরাপদ?"
 
 #: firefox/update.lang:13
 msgid ""
@@ -28,12 +29,16 @@ msgid ""
 "older version. To start the upgrade process, just click the green download "
 "button to the right."
 msgstr ""
+"না। ফায়ারফক্স এর নতুন ভার্সন স্বয়ংক্রিয়ভাবে আপনার পুরাতন ভার্সনের জায়গা নিয়ে নিবে। "
+"হালনাগাদ প্রক্রিয়া চালু করার জন্য ডানের সবুজ ডাউনলোড বাটনে ক্লিক করুন।"
 
 #: firefox/update.lang:17
 msgid ""
 "It varies slightly depending on the operating system you're using. You can "
 "find <a %(link)s>instructions for your computer here</a>."
 msgstr ""
+"আপনি কি অপারেটিং সিস্টেম ব্যবহার করছেন তার উপর সামান্য পরিবর্তিত হতে পারে। আপনি "
+"<a %(link)s>আপনার কম্পিউটারের জন্য নির্দেশাবলী এখানে দেখুন</a>।"
 
 #: firefox/update.lang:21
 msgid "Your Firefox is out of date."
@@ -41,13 +46,14 @@ msgstr "আপনার ফায়ারফক্সের সংস্করন�
 
 #: firefox/update.lang:25
 msgid "Follow the step-by-step process"
-msgstr ""
+msgstr "প্রক্রিয়াগুলো ধাপে ধাপে অনুসরণ করুন"
 
 #: firefox/update.lang:29
 msgid "Congratulations!"
-msgstr ""
+msgstr "অভিনন্দন!"
 
 #: firefox/update.lang:33
+#, fuzzy
 msgid ""
 "Very much so – your security is our top priority. Our open source security "
 "process means we have an international community of experts working around "
@@ -55,34 +61,48 @@ msgid ""
 "discovered, we write a patch and release an update to stay one step ahead. "
 "Downloading Firefox updates is a very important part of staying safe online."
 msgstr ""
+"অনেকটা তাই- আপনার নিরাপত্তা আমাদের প্রধান অগ্রাধিকার। আমাদের মুক্ত সোর্স নিরাপত্তা "
+"প্রক্রিয়া বুঝায় যে,আমাদের বিশেষজ্ঞদের একটি আর্ন্তজাতিক কমিউনিটি আছে যারা সর্বাধুনিক "
+"ঝঁকিসমূহ মোকাবেলার জন্য কাজ করছে। যখন একটি নিরাপত্তা ঝুঁকি আবিষ্কৃত হয়, আমরা একটি "
+"প্যাচ লিখি এবং একটি আপডেট ছাড়ি ,এক ধাপ এগিয়ে থাকার জন্য। অনলাইনে নিরাপদের জন্য "
+"ফায়ারফক্স আপডেট ডাউনলোড একটি গুরুত্বপূর্ন ভূমিকা পালন করে।"
 
 #: firefox/update.lang:37
 msgid ""
 "If I already have Firefox, and then do a fresh install, what happens to my "
 "settings?"
 msgstr ""
+"যদি আমার ফায়ারফক্স থেকে থাকে, এবং আমি নতুন করে ইন্সটল করি, আমার সেটিং এর কি হবে?"
 
 #: firefox/update.lang:41
 msgid "What is a Firefox software update?"
-msgstr ""
+msgstr "ফায়ারফক্স সফটওয়ার হালনাগাদ কি?"
 
 #: firefox/update.lang:45
+#, fuzzy
 msgid ""
 "Yes. Firefox is configured to automatically check for updates, but it’s also "
 "possible to check for updates yourself."
 msgstr ""
+"হ্যা। ফায়ারফক্স কনফিগার করা আছে স্বয়ংক্রীয়ভাবে হালনাগাদ  পরীক্ষার জন্য,কিন্তু নিজে "
+"থেকে হালনাগাদ পরীক্ষা করাও সম্ভব।"
 
 #: firefox/update.lang:49
 msgid ""
 "Nothing. Re-installing Firefox will not affect your settings, bookmarks or "
 "preferences in any way."
 msgstr ""
+"কিছুই না। ফায়ারফক্স পুনরায় ইন্সটল আপনার সেটিং ,বুকমার্ক বা স্বনির্বাচনসমূহে কোনভাবেই "
+"প্রভাব ফেলবে না।"
 
 #: firefox/update.lang:53
+#, fuzzy
 msgid ""
 "Not long at all – the entire process just takes a minute or two. Visit our "
 "support page for <a %(link)s>step-by-step instructions</a>."
 msgstr ""
+"দীর্ঘক্ষণ লাগে না - সমস্ত প্রক্রিয়া কেবল এক বা দুই মিনিট সময় নেয়। আপনি আমাদের "
+"সাপোর্ট পাতায় যান <a %(link)s> ধাপে ধাপে নিয়মাবলীর জন্য </a>।"
 
 #: firefox/update.lang:57
 msgid ""
@@ -92,16 +112,17 @@ msgstr ""
 
 #: firefox/update.lang:61
 msgid "Check for Updates"
-msgstr ""
+msgstr "হালনাগাদের জন্য পরীক্ষা"
 
 #: firefox/update.lang:65
+#, fuzzy
 msgid "What if I miss an update? Can I check for one myself?"
 msgstr ""
+"কি হবে যদি আমি একটি আপডেট মিস করি? আমি কি নিজে থেকে এটি পরীক্ষা করতে পারি?"
 
 #: firefox/update.lang:69
-#, fuzzy
 msgid "Your Firefox is up to date."
-msgstr "আপনার ফায়ারফক্সের সংস্করনটি পুরানো হয়েছে।"
+msgstr "আপনার ফায়ারফক্স এখন বর্তমান সংস্করনে আছে।"
 
 #: firefox/update.lang:73
 msgid ""
