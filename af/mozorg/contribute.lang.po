@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-29 13:49+0100\n"
-"PO-Revision-Date: 2014-01-16 14:06+0000\n"
+"PO-Revision-Date: 2014-01-31 09:00+0000\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: af\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1-rc1\n"
-"X-POOTLE-MTIME: 1389881212.000000\n"
+"X-POOTLE-MTIME: 1391158835.000000\n"
 
 #: mozorg/contribute.lang:1
 msgid "Get Involved: Volunteer Opportunities at Mozilla"
@@ -24,6 +24,8 @@ msgid ""
 "This video requires a browser with support for open video or the <a href="
 "\"http://www.adobe.com/go/getflashplayer\">Adobe Flash Player</a>."
 msgstr ""
+"Hierdie video vereis 'n blaaier met steun vir oop video standaarde of die <a "
+"href=\"http://www.adobe.com/go/getflashplayer\">Adobe Flash</a>-speler."
 
 #: mozorg/contribute.lang:9
 msgid ""
@@ -75,11 +77,11 @@ msgstr "Ek stel belang in…"
 
 #: mozorg/contribute.lang:53
 msgid "I’d like to receive regular contribution news by email"
-msgstr ""
+msgstr "Ek wil graag gereëlde nuus vir bydraers per e-pos ontvang"
 
 #: mozorg/contribute.lang:57
 msgid "Thank you for getting in touch."
-msgstr ""
+msgstr "Dankie dat u kontak maak."
 
 #: mozorg/contribute.lang:61
 msgid ""
@@ -87,10 +89,13 @@ msgid ""
 "get involved. While you’re waiting, browse through some of the volunteer "
 "opportunities available below."
 msgstr ""
+"Iemand van Mozilla sal binnekort kontak maak met inligting oor hoe om "
+"betrokke te raak. Kyk gerus intussen na sommige van die geleenthede vir "
+"vrywilligers hier onder."
 
 #: mozorg/contribute.lang:65
 msgid "Find an opportunity"
-msgstr ""
+msgstr "Vind 'n geleentheid"
 
 #: mozorg/contribute.lang:69
 msgid "Sort By:"
@@ -102,7 +107,7 @@ msgstr "Belangstelling"
 
 #: mozorg/contribute.lang:77
 msgid "Location"
-msgstr ""
+msgstr "Ligging"
 
 #: mozorg/contribute.lang:81
 msgid "Newsletter"
@@ -110,7 +115,7 @@ msgstr "Nuusbrief"
 
 #: mozorg/contribute.lang:85
 msgid "Helping Users"
-msgstr ""
+msgstr "Help gebruikers"
 
 #: mozorg/contribute.lang:89
 msgid ""
@@ -118,26 +123,28 @@ msgid ""
 "Mozilla projects? Our support process relies on enthusiastic contributors "
 "like you."
 msgstr ""
+"Geïnteresseerd om ander te help om die meeste uit Firefox en ander Mozilla-"
+"projekte te kry? Ons steundiens maak juis staat op entoesiastiese bydraers."
 
 #: mozorg/contribute.lang:94
 msgid "Quality Assurance"
-msgstr ""
+msgstr "Kwaliteitversekering"
 
 #: mozorg/contribute.lang:98
 msgid "Coding"
-msgstr ""
+msgstr "Programmering"
 
 #: mozorg/contribute.lang:102
 msgid "Spread the Word"
-msgstr ""
+msgstr "Versprei die boodskap"
 
 #: mozorg/contribute.lang:106
 msgid "map"
-msgstr ""
+msgstr "kaart"
 
 #: mozorg/contribute.lang:110
 msgid "US and Canada"
-msgstr ""
+msgstr "VSA en Kanada"
 
 #: mozorg/contribute.lang:114
 msgid "Europe"
@@ -153,17 +160,19 @@ msgstr "Afrika en die Midde-Ooste"
 
 #: mozorg/contribute.lang:126
 msgid "Asia and the South Pacific"
-msgstr ""
+msgstr "Asië en die Suid-Pasifiese gebied"
 
 #: mozorg/contribute.lang:130
 msgid "Antarctica"
-msgstr ""
+msgstr "Antarktika"
 
 #: mozorg/contribute.lang:134
 msgid ""
 "Sign up for a weekly newsletter that is full of community news and "
 "contribution opportunities."
 msgstr ""
+"Skryf in vir 'n weeklikse nuusbrief vol gemeenskapsnuus en geleenthede om by "
+"te dra."
 
 #: mozorg/contribute.lang:138
 msgid "Thank you!"
@@ -253,15 +262,15 @@ msgstr ""
 
 #: mozorg/contribute.lang:198
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: mozorg/contribute.lang:202
 msgid "Thank you for signing up!"
-msgstr ""
+msgstr "Dankie dat u ingeskryf het!"
 
 #: mozorg/contribute.lang:206
 msgid "Menu"
-msgstr ""
+msgstr "Kieslys"
 
 #: mozorg/contribute.lang:210
 msgid "Web Development"
@@ -279,7 +288,7 @@ msgstr "Twitter"
 msgid ""
 "We are sorry, but there was a problem with our system. Please try again "
 "later!"
-msgstr ""
+msgstr "Jammer! Daar was 'n fout met ons stelsel. Probeer asb. weer later."
 
 #: mozorg/contribute.lang:227
 msgid "Other"
@@ -291,13 +300,14 @@ msgstr "Bemarking"
 
 #: mozorg/contribute.lang:235
 msgid "Testing and QA"
-msgstr ""
+msgstr "Toets en kwaliteitversekering"
 
 #: mozorg/contribute.lang:239
 msgid ""
-"Our web sites are open for web developers to hack on. <a href=\"%(webdev_url)"
-"s\">Find a web site project</a> to get started on. Your web skills can also "
-"be used to <a href=\"%(gaia_url)s\">help us build our new Firefox OS</a>."
+"Our web sites are open for web developers to hack on. <a href="
+"\"%(webdev_url)s\">Find a web site project</a> to get started on. Your web "
+"skills can also be used to <a href=\"%(gaia_url)s\">help us build our new "
+"Firefox OS</a>."
 msgstr ""
 
 #: mozorg/contribute.lang:243
