@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-01 13:30+0100\n"
+"POT-Creation-Date: 2014-02-13 22:02+0100\n"
 "PO-Revision-Date: 2013-10-27 18:17+0000\n"
 "Last-Translator: Tin Aung <tinaunglinn.eng91@gmail.com>\n"
 "Language-Team: none\n"
@@ -11,7 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-Generator: Translate Toolkit 1.11.0\n"
 "X-POOTLE-MTIME: 1382897875.000000\n"
 
 #. # NOTE: Used for the new http://www.mozilla.org/firefox/new
@@ -100,12 +100,93 @@ msgstr "၁"
 msgid "2"
 msgstr "၂"
 
-#: firefox/new.lang:68
+#: firefox/new.lang:69
 msgid "3"
 msgstr "၃"
 
-#. <Meta description> tag
-#: firefox/new.lang:73
+#. file <title> tag
+#: firefox/new.lang:74
+msgid "Mozilla Firefox Web Browser"
+msgstr "မိုဇီလာမီးမြေခွေး ဝတ်ဘယောက်ဆာ"
+
+#. New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
+#: firefox/new.lang:79
+msgid "Sorry, Firefox is currently unsupported by iOS devices."
+msgstr "လောလောဆယ် မီးမြေခွေး အား iOS တွင် အသုံးပြုနိုင်မည် မဟုတ်ပါ"
+
+#: firefox/new.lang:83
+msgid "Congrats! You’re using the latest version of Firefox."
+msgstr "ဂုဏ်ယူပါတယ်! သင်ဟာ မီးမြေခွေး နောက်ဆုံးထွက် ကိုအသုံးပြုနေပြီး ဖြစ်ပါတယ်"
+
+#: firefox/new.lang:87
+msgid ""
+"Looks like you’re using an older version of Firefox. Update on Google Play."
+msgstr "ကြည့်ရတာ မီးမြေခွေး ဗားရှင်း အဟောင်းကို သုံးနေတယ်ထင်တယ် ။ ဂူးဂဲလ် ပလေးစတိုးကနေ အဆင်မြှင့်လိုက်ပါ"
+
+#: firefox/new.lang:91
+msgid "Looks like you’re using an older version of Firefox."
+msgstr "ကြည့်ရတာ မီးမြေခွေး ဗားရှင်း အဟောင်းကို သုံးနေတယ်ထင်တယ်"
+
+#: firefox/new.lang:95
+msgid "Update to stay fast and safe."
+msgstr "မြန်ဆန်ပြီး လုံခြုံရန် အဆင့်မြှင့်ပါ"
+
+#: firefox/new.lang:99
+msgid "Get it free on Google Play"
+msgstr "ဂူးဂဲစတိုး မှ အခမဲ့ ရယူလိုက်ပါ"
+
+#: firefox/new.lang:103
+msgid "Learn more about Firefox for desktop"
+msgstr "ဒတ်စတော့ခ်အတွက် မီးမြေခွေး အကြောင်း ဆက်လက်လေ့လာ"
+
+#: firefox/new.lang:107
+msgid "Need help?"
+msgstr "အကူအညီ လိုလား။"
+
+#: firefox/new.lang:111
+msgid "Looking for mobile?"
+msgstr "မိုဘိုင်းအတွက် ရှာနေသလား?"
+
+#: firefox/new.lang:115
+msgid "Download a fresh copy"
+msgstr "နောက်ဆုံးထုတ်အား ဒေါင်းလုဒ်ရယူမည်"
+
+#: firefox/new.lang:119
+msgid "Learn more about Firefox for Mobile"
+msgstr "မိုဘိုင်းအတွက် မီးမြေခွေးအား ဆက်လက်လေ့လာ"
+
+#: firefox/new.lang:123
+msgid "Learn more about Firefox OS?"
+msgstr "မီးမြေခွေး ကွန်ပျူတာစနစ်အား ဆက်လက်လေ့လာ"
+
+#: firefox/new.lang:127
+msgid "Discover all the ways to take Firefox on the go"
+msgstr "မီးမြေခွေးအား သုံးရန် နည်းလမ်းအားလုံး အားရှာဖွေ လေ့လာမည်"
+
+#: firefox/new.lang:131
+msgid "Why don’t we offer an iOS version?"
+msgstr "ဘာကြောင့် iOS အတွက် မထုတ်ပေးတာလဲ ?"
+
+#. The following two strings are used in the <title> tag of the page
+#: firefox/new.lang:136
+msgid "Download Firefox"
+msgstr "မီးမြေခွေးအားဒေါင်းလုဒ်ရယူပါ"
+
+#. Note: 'free' as in free of charge
+#: firefox/new.lang:141
+msgid "Free Web Browser"
+msgstr "အခမဲ့ ဝတ်ဘယောက်ဆာ"
+
+#. Meta tag description (visible in the code)
+#: firefox/new.lang:146
+msgid ""
+"Download Mozilla Firefox, a free Web browser. Firefox is created by a global "
+"non-profit dedicated to putting individuals in control online. Get Firefox "
+"today!"
+msgstr ""
+
+#. Schema.org tag description (visible in the code)
+#: firefox/new.lang:151
 msgid ""
 "Mozilla Firefox, free web browser, is created by a global non-profit "
 "dedicated to putting individuals in control &amp; shaping the future of the "
@@ -114,76 +195,3 @@ msgstr ""
 "မိုဇီလာ မီးမြေခွေး ဆိုသည်မှာ အခမဲ့ ဖရီး ဝတ်ဘယောက်ဆာ တစ်ခုဖြစ်ပြီး ကမ္ဘာ တစ်ဝှမ်းလုံးရှိ လုပ်အားပေးသူများ "
 "၏ အစွမ်းဖြင့် တည်ဆောက်ထားပြီး အနာဂတ် အင်တာနက် အားအများသုံး ကောင်းမွန်သော အရာဖြစ်အောင်ကြိုးစား "
 "လျက်ရှိသှ်"
-
-#. file <title> tag
-#: firefox/new.lang:78
-msgid "Mozilla Firefox Web Browser"
-msgstr "မိုဇီလာမီးမြေခွေး ဝတ်ဘယောက်ဆာ"
-
-#. New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
-#: firefox/new.lang:83
-msgid "Sorry, Firefox is currently unsupported by iOS devices."
-msgstr "လောလောဆယ် မီးမြေခွေး အား iOS တွင် အသုံးပြုနိုင်မည် မဟုတ်ပါ"
-
-#: firefox/new.lang:87
-msgid "Congrats! You’re using the latest version of Firefox."
-msgstr "ဂုဏ်ယူပါတယ်! သင်ဟာ မီးမြေခွေး နောက်ဆုံးထွက် ကိုအသုံးပြုနေပြီး ဖြစ်ပါတယ်"
-
-#: firefox/new.lang:91
-msgid ""
-"Looks like you’re using an older version of Firefox. Update on Google Play."
-msgstr "ကြည့်ရတာ မီးမြေခွေး ဗားရှင်း အဟောင်းကို သုံးနေတယ်ထင်တယ် ။ ဂူးဂဲလ် ပလေးစတိုးကနေ အဆင်မြှင့်လိုက်ပါ"
-
-#: firefox/new.lang:95
-msgid "Looks like you’re using an older version of Firefox."
-msgstr "ကြည့်ရတာ မီးမြေခွေး ဗားရှင်း အဟောင်းကို သုံးနေတယ်ထင်တယ်"
-
-#: firefox/new.lang:99
-msgid "Update to stay fast and safe."
-msgstr "မြန်ဆန်ပြီး လုံခြုံရန် အဆင့်မြှင့်ပါ"
-
-#: firefox/new.lang:103
-msgid "Get it free on Google Play"
-msgstr "ဂူးဂဲစတိုး မှ အခမဲ့ ရယူလိုက်ပါ"
-
-#: firefox/new.lang:107
-msgid "Learn more about Firefox for desktop"
-msgstr "ဒတ်စတော့ခ်အတွက် မီးမြေခွေး အကြောင်း ဆက်လက်လေ့လာ"
-
-#: firefox/new.lang:111
-msgid "Need help?"
-msgstr "အကူအညီ လိုလား။"
-
-#: firefox/new.lang:115
-msgid "Looking for mobile?"
-msgstr "မိုဘိုင်းအတွက် ရှာနေသလား?"
-
-#: firefox/new.lang:119
-msgid "Download a fresh copy"
-msgstr "နောက်ဆုံးထုတ်အား ဒေါင်းလုဒ်ရယူမည်"
-
-#: firefox/new.lang:123
-msgid "Learn more about Firefox for Mobile"
-msgstr "မိုဘိုင်းအတွက် မီးမြေခွေးအား ဆက်လက်လေ့လာ"
-
-#: firefox/new.lang:127
-msgid "Learn more about Firefox OS?"
-msgstr "မီးမြေခွေး ကွန်ပျူတာစနစ်အား ဆက်လက်လေ့လာ"
-
-#: firefox/new.lang:131
-msgid "Discover all the ways to take Firefox on the go"
-msgstr "မီးမြေခွေးအား သုံးရန် နည်းလမ်းအားလုံး အားရှာဖွေ လေ့လာမည်"
-
-#: firefox/new.lang:135
-msgid "Why don’t we offer an iOS version?"
-msgstr "ဘာကြောင့် iOS အတွက် မထုတ်ပေးတာလဲ ?"
-
-#. The following two strings are used in the <title> tag of the page
-#: firefox/new.lang:140
-msgid "Download Firefox"
-msgstr "မီးမြေခွေးအားဒေါင်းလုဒ်ရယူပါ"
-
-#. Note: 'free' as in free of charge
-#: firefox/new.lang:145
-msgid "Free Web Browser"
-msgstr "အခမဲ့ ဝတ်ဘယောက်ဆာ"

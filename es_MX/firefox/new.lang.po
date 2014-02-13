@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-25 22:12+0100\n"
+"POT-Creation-Date: 2014-02-13 22:02+0100\n"
 "PO-Revision-Date: 2014-01-25 05:09+0000\n"
 "Last-Translator: Roberto <ralv888@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1-rc1\n"
+"X-Generator: Translate Toolkit 1.11.0\n"
 "X-POOTLE-MTIME: 1390626592.000000\n"
 
 #. # NOTE: Used for the new http://www.mozilla.org/firefox/new
@@ -105,12 +105,95 @@ msgstr "1"
 msgid "2"
 msgstr "2"
 
-#: firefox/new.lang:68
+#: firefox/new.lang:69
 msgid "3"
 msgstr "3"
 
-#. <Meta description> tag
-#: firefox/new.lang:73
+#. file <title> tag
+#: firefox/new.lang:74
+msgid "Mozilla Firefox Web Browser"
+msgstr "Navegador web Mozilla Firefox"
+
+#. New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
+#: firefox/new.lang:79
+msgid "Sorry, Firefox is currently unsupported by iOS devices."
+msgstr "Disculpa, Firefox actualmente no es soportado para dispositivos iOS."
+
+#: firefox/new.lang:83
+msgid "Congrats! You’re using the latest version of Firefox."
+msgstr "¡Felicidades! Estás usando la última versión de Firefox."
+
+#: firefox/new.lang:87
+msgid ""
+"Looks like you’re using an older version of Firefox. Update on Google Play."
+msgstr ""
+"Parece que estás usando un versión antigua de Firefox. Actualizalo en Google "
+"Play."
+
+#: firefox/new.lang:91
+msgid "Looks like you’re using an older version of Firefox."
+msgstr "Parece que estás usando un versión antigua de Firefox."
+
+#: firefox/new.lang:95
+msgid "Update to stay fast and safe."
+msgstr "Actualiza para continuar rápido y seguro."
+
+#: firefox/new.lang:99
+msgid "Get it free on Google Play"
+msgstr "Obtenlo gratuitamente en Google Play"
+
+#: firefox/new.lang:103
+msgid "Learn more about Firefox for desktop"
+msgstr "Aprender más acerca de Firefox para escritorio"
+
+#: firefox/new.lang:107
+msgid "Need help?"
+msgstr "¿Necesitas ayuda?"
+
+#: firefox/new.lang:111
+msgid "Looking for mobile?"
+msgstr "¿Buscas para dispositivos móviles?"
+
+#: firefox/new.lang:115
+msgid "Download a fresh copy"
+msgstr "Descargar una copia nueva"
+
+#: firefox/new.lang:119
+msgid "Learn more about Firefox for Mobile"
+msgstr "Aprender más acerca de Firefox para móviles"
+
+#: firefox/new.lang:123
+msgid "Learn more about Firefox OS?"
+msgstr "¿Aprender más acerca de Firefox OS?"
+
+#: firefox/new.lang:127
+msgid "Discover all the ways to take Firefox on the go"
+msgstr "Descubrir todas las formas de llevar Firefox contigo"
+
+#: firefox/new.lang:131
+msgid "Why don’t we offer an iOS version?"
+msgstr "¿Por qué no ofrecemos una versión para iOS?"
+
+#. The following two strings are used in the <title> tag of the page
+#: firefox/new.lang:136
+msgid "Download Firefox"
+msgstr "Descargar Firefox"
+
+#. Note: 'free' as in free of charge
+#: firefox/new.lang:141
+msgid "Free Web Browser"
+msgstr "Navegador gratuito"
+
+#. Meta tag description (visible in the code)
+#: firefox/new.lang:146
+msgid ""
+"Download Mozilla Firefox, a free Web browser. Firefox is created by a global "
+"non-profit dedicated to putting individuals in control online. Get Firefox "
+"today!"
+msgstr ""
+
+#. Schema.org tag description (visible in the code)
+#: firefox/new.lang:151
 msgid ""
 "Mozilla Firefox, free web browser, is created by a global non-profit "
 "dedicated to putting individuals in control &amp; shaping the future of the "
@@ -119,78 +202,3 @@ msgstr ""
 "Mozilla Firefox, un navegador web gratuito, es creado por una organización "
 "global sin fines de lucro dedicada a dar el control a las personas y formar "
 "el futuro de la web para el bien del público."
-
-#. file <title> tag
-#: firefox/new.lang:78
-msgid "Mozilla Firefox Web Browser"
-msgstr "Navegador web Mozilla Firefox"
-
-#. New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
-#: firefox/new.lang:83
-msgid "Sorry, Firefox is currently unsupported by iOS devices."
-msgstr "Disculpa, Firefox actualmente no es soportado para dispositivos iOS."
-
-#: firefox/new.lang:87
-msgid "Congrats! You’re using the latest version of Firefox."
-msgstr "¡Felicidades! Estás usando la última versión de Firefox."
-
-#: firefox/new.lang:91
-msgid ""
-"Looks like you’re using an older version of Firefox. Update on Google Play."
-msgstr ""
-"Parece que estás usando un versión antigua de Firefox. Actualizalo en Google "
-"Play."
-
-#: firefox/new.lang:95
-msgid "Looks like you’re using an older version of Firefox."
-msgstr "Parece que estás usando un versión antigua de Firefox."
-
-#: firefox/new.lang:99
-msgid "Update to stay fast and safe."
-msgstr "Actualiza para continuar rápido y seguro."
-
-#: firefox/new.lang:103
-msgid "Get it free on Google Play"
-msgstr "Obtenlo gratuitamente en Google Play"
-
-#: firefox/new.lang:107
-msgid "Learn more about Firefox for desktop"
-msgstr "Aprender más acerca de Firefox para escritorio"
-
-#: firefox/new.lang:111
-msgid "Need help?"
-msgstr "¿Necesitas ayuda?"
-
-#: firefox/new.lang:115
-msgid "Looking for mobile?"
-msgstr "¿Buscas para dispositivos móviles?"
-
-#: firefox/new.lang:119
-msgid "Download a fresh copy"
-msgstr "Descargar una copia nueva"
-
-#: firefox/new.lang:123
-msgid "Learn more about Firefox for Mobile"
-msgstr "Aprender más acerca de Firefox para móviles"
-
-#: firefox/new.lang:127
-msgid "Learn more about Firefox OS?"
-msgstr "¿Aprender más acerca de Firefox OS?"
-
-#: firefox/new.lang:131
-msgid "Discover all the ways to take Firefox on the go"
-msgstr "Descubrir todas las formas de llevar Firefox contigo"
-
-#: firefox/new.lang:135
-msgid "Why don’t we offer an iOS version?"
-msgstr "¿Por qué no ofrecemos una versión para iOS?"
-
-#. The following two strings are used in the <title> tag of the page
-#: firefox/new.lang:140
-msgid "Download Firefox"
-msgstr "Descargar Firefox"
-
-#. Note: 'free' as in free of charge
-#: firefox/new.lang:145
-msgid "Free Web Browser"
-msgstr "Navegador gratuito"

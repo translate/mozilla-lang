@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-01 13:30+0100\n"
+"POT-Creation-Date: 2014-02-13 22:02+0100\n"
 "PO-Revision-Date: 2013-10-24 06:13+0000\n"
 "Last-Translator: Ian <ian.henderson@rubric.com>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"X-Generator: Translate Toolkit 1.11.0\n"
 "X-POOTLE-MTIME: 1382595229.000000\n"
 
 #. # NOTE: Used for the new http://www.mozilla.org/firefox/new
@@ -105,12 +105,94 @@ msgstr "1"
 msgid "2"
 msgstr "2"
 
-#: firefox/new.lang:68
+#: firefox/new.lang:69
 msgid "3"
 msgstr "3"
 
-#. <Meta description> tag
-#: firefox/new.lang:73
+#. file <title> tag
+#: firefox/new.lang:74
+msgid "Mozilla Firefox Web Browser"
+msgstr "Ibhrawuza yeWebhu yeMozilla Firefox"
+
+#. New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
+#: firefox/new.lang:79
+msgid "Sorry, Firefox is currently unsupported by iOS devices."
+msgstr "Uxolo, uFirefox akaxhaswa okwangoku zizixhobo ze-iOS."
+
+#: firefox/new.lang:83
+msgid "Congrats! You’re using the latest version of Firefox."
+msgstr "Halala! Usebenzisa uhlelo lwamvanje lweFirefox."
+
+#: firefox/new.lang:87
+msgid ""
+"Looks like you’re using an older version of Firefox. Update on Google Play."
+msgstr ""
+"Ingathi usebenzisa uhlelo oludadlana lweFirefox. Hlaziya kwiGoogle Play."
+
+#: firefox/new.lang:91
+msgid "Looks like you’re using an older version of Firefox."
+msgstr "Ingathi usebenzisa uhlelo oludadlana lweFirefox."
+
+#: firefox/new.lang:95
+msgid "Update to stay fast and safe."
+msgstr "Hlaziya ukuze uhlale ukhawuleza yaye ukhuselekile."
+
+#: firefox/new.lang:99
+msgid "Get it free on Google Play"
+msgstr "Yifumane simahla kwiGoogle Play"
+
+#: firefox/new.lang:103
+msgid "Learn more about Firefox for desktop"
+msgstr "Funda okungakumbi ngeFirefox yedesktopu"
+
+#: firefox/new.lang:107
+msgid "Need help?"
+msgstr "Ufuna uncedo?"
+
+#: firefox/new.lang:111
+msgid "Looking for mobile?"
+msgstr "Ukhangela imfonomfono ephathwayo?"
+
+#: firefox/new.lang:115
+msgid "Download a fresh copy"
+msgstr "Khuphela ikopi entsha"
+
+#: firefox/new.lang:119
+msgid "Learn more about Firefox for Mobile"
+msgstr "Funda okungakumbi ngeFirefox yeMfonomfono Ephathwayo"
+
+#: firefox/new.lang:123
+msgid "Learn more about Firefox OS?"
+msgstr "Ufuna ukufunda okungakumbi ngeFirefox OS?"
+
+#: firefox/new.lang:127
+msgid "Discover all the ways to take Firefox on the go"
+msgstr "Fumanisa zonke iindlela zokufumana iFirefox"
+
+#: firefox/new.lang:131
+msgid "Why don’t we offer an iOS version?"
+msgstr "Kutheni singakhuphi uhlelo lwe-iOS?"
+
+#. The following two strings are used in the <title> tag of the page
+#: firefox/new.lang:136
+msgid "Download Firefox"
+msgstr "Khuphela iFirefox"
+
+#. Note: 'free' as in free of charge
+#: firefox/new.lang:141
+msgid "Free Web Browser"
+msgstr "Ibhrawuza yasimahla yewebhu"
+
+#. Meta tag description (visible in the code)
+#: firefox/new.lang:146
+msgid ""
+"Download Mozilla Firefox, a free Web browser. Firefox is created by a global "
+"non-profit dedicated to putting individuals in control online. Get Firefox "
+"today!"
+msgstr ""
+
+#. Schema.org tag description (visible in the code)
+#: firefox/new.lang:151
 msgid ""
 "Mozilla Firefox, free web browser, is created by a global non-profit "
 "dedicated to putting individuals in control &amp; shaping the future of the "
@@ -119,77 +201,3 @@ msgstr ""
 "Ibhrawuza yasimahla yewebhu, iMozilla Firefox, yenziwe yintlangano "
 "yehlabathi engenzi nzuzo ezinikele ekubekeni abantu elulawulweni &amp; "
 "iguqula ikamva lewebhu ukuze kulungelwe uluntu."
-
-#. file <title> tag
-#: firefox/new.lang:78
-msgid "Mozilla Firefox Web Browser"
-msgstr "Ibhrawuza yeWebhu yeMozilla Firefox"
-
-#. New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
-#: firefox/new.lang:83
-msgid "Sorry, Firefox is currently unsupported by iOS devices."
-msgstr "Uxolo, uFirefox akaxhaswa okwangoku zizixhobo ze-iOS."
-
-#: firefox/new.lang:87
-msgid "Congrats! You’re using the latest version of Firefox."
-msgstr "Halala! Usebenzisa uhlelo lwamvanje lweFirefox."
-
-#: firefox/new.lang:91
-msgid ""
-"Looks like you’re using an older version of Firefox. Update on Google Play."
-msgstr ""
-"Ingathi usebenzisa uhlelo oludadlana lweFirefox. Hlaziya kwiGoogle Play."
-
-#: firefox/new.lang:95
-msgid "Looks like you’re using an older version of Firefox."
-msgstr "Ingathi usebenzisa uhlelo oludadlana lweFirefox."
-
-#: firefox/new.lang:99
-msgid "Update to stay fast and safe."
-msgstr "Hlaziya ukuze uhlale ukhawuleza yaye ukhuselekile."
-
-#: firefox/new.lang:103
-msgid "Get it free on Google Play"
-msgstr "Yifumane simahla kwiGoogle Play"
-
-#: firefox/new.lang:107
-msgid "Learn more about Firefox for desktop"
-msgstr "Funda okungakumbi ngeFirefox yedesktopu"
-
-#: firefox/new.lang:111
-msgid "Need help?"
-msgstr "Ufuna uncedo?"
-
-#: firefox/new.lang:115
-msgid "Looking for mobile?"
-msgstr "Ukhangela imfonomfono ephathwayo?"
-
-#: firefox/new.lang:119
-msgid "Download a fresh copy"
-msgstr "Khuphela ikopi entsha"
-
-#: firefox/new.lang:123
-msgid "Learn more about Firefox for Mobile"
-msgstr "Funda okungakumbi ngeFirefox yeMfonomfono Ephathwayo"
-
-#: firefox/new.lang:127
-msgid "Learn more about Firefox OS?"
-msgstr "Ufuna ukufunda okungakumbi ngeFirefox OS?"
-
-#: firefox/new.lang:131
-msgid "Discover all the ways to take Firefox on the go"
-msgstr "Fumanisa zonke iindlela zokufumana iFirefox"
-
-#: firefox/new.lang:135
-msgid "Why don’t we offer an iOS version?"
-msgstr "Kutheni singakhuphi uhlelo lwe-iOS?"
-
-#. The following two strings are used in the <title> tag of the page
-#: firefox/new.lang:140
-msgid "Download Firefox"
-msgstr "Khuphela iFirefox"
-
-#. Note: 'free' as in free of charge
-#: firefox/new.lang:145
-msgid "Free Web Browser"
-msgstr "Ibhrawuza yasimahla yewebhu"

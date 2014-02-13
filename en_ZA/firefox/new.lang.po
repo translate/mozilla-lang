@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-01 13:30+0100\n"
+"POT-Creation-Date: 2014-02-13 22:02+0100\n"
 "PO-Revision-Date: 2013-07-09 10:22+0000\n"
 "Last-Translator: Dwayne Bailey <dwayne@translate.org.za>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"X-Generator: Translate Toolkit 1.11.0\n"
 "X-POOTLE-MTIME: 1373365329.000000\n"
 
 #. # NOTE: Used for the new http://www.mozilla.org/firefox/new
@@ -104,91 +104,99 @@ msgstr "1"
 msgid "2"
 msgstr "2"
 
-#: firefox/new.lang:68
+#: firefox/new.lang:69
 msgid "3"
 msgstr "3"
 
-#. <Meta description> tag
-#: firefox/new.lang:73
-msgid ""
-"Mozilla Firefox, free web browser, is created by a global non-profit "
-"dedicated to putting individuals in control &amp; shaping the future of the "
-"web for the public good."
-msgstr ""
-"Mozilla Firefox, free web browser, is created by a global non-profit "
-"dedicated to putting individuals in control &amp; shaping the future of the "
-"web for the public good."
-
 #. file <title> tag
-#: firefox/new.lang:78
+#: firefox/new.lang:74
 msgid "Mozilla Firefox Web Browser"
 msgstr "Mozilla Firefox Web Browser"
 
 #. New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
-#: firefox/new.lang:83
+#: firefox/new.lang:79
 msgid "Sorry, Firefox is currently unsupported by iOS devices."
 msgstr "Sorry, Firefox is currently unsupported by iOS devices."
 
-#: firefox/new.lang:87
+#: firefox/new.lang:83
 msgid "Congrats! You’re using the latest version of Firefox."
 msgstr "Congrats! You’re using the latest version of Firefox."
 
-#: firefox/new.lang:91
+#: firefox/new.lang:87
 msgid ""
 "Looks like you’re using an older version of Firefox. Update on Google Play."
 msgstr ""
 "Looks like you’re using an older version of Firefox. Update on Google Play."
 
-#: firefox/new.lang:95
+#: firefox/new.lang:91
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "Looks like you’re using an older version of Firefox."
 
-#: firefox/new.lang:99
+#: firefox/new.lang:95
 msgid "Update to stay fast and safe."
 msgstr "Update to stay fast and safe."
 
-#: firefox/new.lang:103
+#: firefox/new.lang:99
 msgid "Get it free on Google Play"
 msgstr "Get it free on Google Play"
 
-#: firefox/new.lang:107
+#: firefox/new.lang:103
 msgid "Learn more about Firefox for desktop"
 msgstr "Learn more about Firefox for desktop"
 
-#: firefox/new.lang:111
+#: firefox/new.lang:107
 msgid "Need help?"
 msgstr "Need help?"
 
-#: firefox/new.lang:115
+#: firefox/new.lang:111
 msgid "Looking for mobile?"
 msgstr "Looking for mobile?"
 
-#: firefox/new.lang:119
+#: firefox/new.lang:115
 msgid "Download a fresh copy"
 msgstr "Download a fresh copy"
 
-#: firefox/new.lang:123
+#: firefox/new.lang:119
 msgid "Learn more about Firefox for Mobile"
 msgstr "Learn more about Firefox for Mobile"
 
-#: firefox/new.lang:127
+#: firefox/new.lang:123
 msgid "Learn more about Firefox OS?"
 msgstr "Learn more about Firefox OS?"
 
-#: firefox/new.lang:131
+#: firefox/new.lang:127
 msgid "Discover all the ways to take Firefox on the go"
 msgstr "Discover all the ways to take Firefox on the go"
 
-#: firefox/new.lang:135
+#: firefox/new.lang:131
 msgid "Why don’t we offer an iOS version?"
 msgstr "Why don’t we offer an iOS version?"
 
 #. The following two strings are used in the <title> tag of the page
-#: firefox/new.lang:140
+#: firefox/new.lang:136
 msgid "Download Firefox"
 msgstr "Download Firefox"
 
 #. Note: 'free' as in free of charge
-#: firefox/new.lang:145
+#: firefox/new.lang:141
 msgid "Free Web Browser"
 msgstr "Free Web Browser"
+
+#. Meta tag description (visible in the code)
+#: firefox/new.lang:146
+msgid ""
+"Download Mozilla Firefox, a free Web browser. Firefox is created by a global "
+"non-profit dedicated to putting individuals in control online. Get Firefox "
+"today!"
+msgstr ""
+
+#. Schema.org tag description (visible in the code)
+#: firefox/new.lang:151
+msgid ""
+"Mozilla Firefox, free web browser, is created by a global non-profit "
+"dedicated to putting individuals in control &amp; shaping the future of the "
+"web for the public good."
+msgstr ""
+"Mozilla Firefox, free web browser, is created by a global non-profit "
+"dedicated to putting individuals in control &amp; shaping the future of the "
+"web for the public good."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-25 22:12+0100\n"
+"POT-Creation-Date: 2014-02-13 22:02+0100\n"
 "PO-Revision-Date: 2013-12-03 12:21+0000\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-Generator: Translate Toolkit 1.11.0\n"
 "X-POOTLE-MTIME: 1386073310.000000\n"
 
 #. # NOTE: Used for the new http://www.mozilla.org/firefox/new
@@ -104,12 +104,95 @@ msgstr "1"
 msgid "2"
 msgstr "2"
 
-#: firefox/new.lang:68
+#: firefox/new.lang:69
 msgid "3"
 msgstr "3"
 
-#. <Meta description> tag
-#: firefox/new.lang:73
+#. file <title> tag
+#: firefox/new.lang:74
+msgid "Mozilla Firefox Web Browser"
+msgstr "Web blaaier Mozilla Firefox"
+
+#. New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
+#: firefox/new.lang:79
+msgid "Sorry, Firefox is currently unsupported by iOS devices."
+msgstr "Jammer. Firefox is nie tans beskikbaar vir iOS-toestelle nie."
+
+#: firefox/new.lang:83
+msgid "Congrats! You’re using the latest version of Firefox."
+msgstr "Geluk! U gebruik die jongste weergawe van Firefox."
+
+#: firefox/new.lang:87
+msgid ""
+"Looks like you’re using an older version of Firefox. Update on Google Play."
+msgstr ""
+"Dit lyk of u 'n ouer weergawe van Firefox gebruik. Werk dit by op Google "
+"Play."
+
+#: firefox/new.lang:91
+msgid "Looks like you’re using an older version of Firefox."
+msgstr "Dit lyk of u 'n ouer weergawe van Firefox gebruik."
+
+#: firefox/new.lang:95
+msgid "Update to stay fast and safe."
+msgstr "Werk dit by om vinnig en veilig te bly."
+
+#: firefox/new.lang:99
+msgid "Get it free on Google Play"
+msgstr "Kry dit gratis op Google Play"
+
+#: firefox/new.lang:103
+msgid "Learn more about Firefox for desktop"
+msgstr "Leer meer oor Firefox vir rekenaars"
+
+#: firefox/new.lang:107
+msgid "Need help?"
+msgstr "Benodig hulp?"
+
+#: firefox/new.lang:111
+msgid "Looking for mobile?"
+msgstr "Soek u selfoon-Firefox?"
+
+#: firefox/new.lang:115
+msgid "Download a fresh copy"
+msgstr "Laai 'n nuwe kopie af"
+
+#: firefox/new.lang:119
+msgid "Learn more about Firefox for Mobile"
+msgstr "Meer inligting oor Firefox vir selfone"
+
+#: firefox/new.lang:123
+msgid "Learn more about Firefox OS?"
+msgstr "Meer inligting oor Firefox OS"
+
+#: firefox/new.lang:127
+msgid "Discover all the ways to take Firefox on the go"
+msgstr "Ontdek al die maniere om Firefox altyd byderhand te hê"
+
+#: firefox/new.lang:131
+msgid "Why don’t we offer an iOS version?"
+msgstr "Hoekom is daar nie 'n iOS-weergawe nie?"
+
+#. The following two strings are used in the <title> tag of the page
+#: firefox/new.lang:136
+msgid "Download Firefox"
+msgstr "Laai Firefox af"
+
+#. Note: 'free' as in free of charge
+#: firefox/new.lang:141
+msgid "Free Web Browser"
+msgstr "Gratis webblaaier"
+
+#. Meta tag description (visible in the code)
+#: firefox/new.lang:146
+msgid ""
+"Download Mozilla Firefox, a free Web browser. Firefox is created by a global "
+"non-profit dedicated to putting individuals in control online. Get Firefox "
+"today!"
+msgstr ""
+
+#. Schema.org tag description (visible in the code)
+#: firefox/new.lang:151
 msgid ""
 "Mozilla Firefox, free web browser, is created by a global non-profit "
 "dedicated to putting individuals in control &amp; shaping the future of the "
@@ -118,78 +201,3 @@ msgstr ""
 "Mozilla Firefox is ’n gratis webblaaier en word gebou deur 'n wêreldwye "
 "organisasie sonder winsmotief. Ons plaas individue in beheer en rig die "
 "toekoms van die web vir publieke voordeel."
-
-#. file <title> tag
-#: firefox/new.lang:78
-msgid "Mozilla Firefox Web Browser"
-msgstr "Web blaaier Mozilla Firefox"
-
-#. New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
-#: firefox/new.lang:83
-msgid "Sorry, Firefox is currently unsupported by iOS devices."
-msgstr "Jammer. Firefox is nie tans beskikbaar vir iOS-toestelle nie."
-
-#: firefox/new.lang:87
-msgid "Congrats! You’re using the latest version of Firefox."
-msgstr "Geluk! U gebruik die jongste weergawe van Firefox."
-
-#: firefox/new.lang:91
-msgid ""
-"Looks like you’re using an older version of Firefox. Update on Google Play."
-msgstr ""
-"Dit lyk of u 'n ouer weergawe van Firefox gebruik. Werk dit by op Google "
-"Play."
-
-#: firefox/new.lang:95
-msgid "Looks like you’re using an older version of Firefox."
-msgstr "Dit lyk of u 'n ouer weergawe van Firefox gebruik."
-
-#: firefox/new.lang:99
-msgid "Update to stay fast and safe."
-msgstr "Werk dit by om vinnig en veilig te bly."
-
-#: firefox/new.lang:103
-msgid "Get it free on Google Play"
-msgstr "Kry dit gratis op Google Play"
-
-#: firefox/new.lang:107
-msgid "Learn more about Firefox for desktop"
-msgstr "Leer meer oor Firefox vir rekenaars"
-
-#: firefox/new.lang:111
-msgid "Need help?"
-msgstr "Benodig hulp?"
-
-#: firefox/new.lang:115
-msgid "Looking for mobile?"
-msgstr "Soek u selfoon-Firefox?"
-
-#: firefox/new.lang:119
-msgid "Download a fresh copy"
-msgstr "Laai 'n nuwe kopie af"
-
-#: firefox/new.lang:123
-msgid "Learn more about Firefox for Mobile"
-msgstr "Meer inligting oor Firefox vir selfone"
-
-#: firefox/new.lang:127
-msgid "Learn more about Firefox OS?"
-msgstr "Meer inligting oor Firefox OS"
-
-#: firefox/new.lang:131
-msgid "Discover all the ways to take Firefox on the go"
-msgstr "Ontdek al die maniere om Firefox altyd byderhand te hê"
-
-#: firefox/new.lang:135
-msgid "Why don’t we offer an iOS version?"
-msgstr "Hoekom is daar nie 'n iOS-weergawe nie?"
-
-#. The following two strings are used in the <title> tag of the page
-#: firefox/new.lang:140
-msgid "Download Firefox"
-msgstr "Laai Firefox af"
-
-#. Note: 'free' as in free of charge
-#: firefox/new.lang:145
-msgid "Free Web Browser"
-msgstr "Gratis webblaaier"

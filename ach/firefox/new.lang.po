@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-01 13:30+0100\n"
+"POT-Creation-Date: 2014-02-13 22:02+0100\n"
 "PO-Revision-Date: 2013-03-01 15:43+0000\n"
 "Last-Translator: Dwayne Bailey <dwayne@translate.org.za>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"X-Generator: Translate Toolkit 1.11.0\n"
 "X-POOTLE-MTIME: 1362152604.000000\n"
 
 #. # NOTE: Used for the new http://www.mozilla.org/firefox/new
@@ -95,12 +95,94 @@ msgstr ""
 msgid "2"
 msgstr ""
 
-#: firefox/new.lang:68
+#: firefox/new.lang:69
 msgid "3"
 msgstr ""
 
-#. <Meta description> tag
-#: firefox/new.lang:73
+#. file <title> tag
+#: firefox/new.lang:74
+msgid "Mozilla Firefox Web Browser"
+msgstr "Layeny Web me Mozilla Firefox"
+
+#. New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
+#: firefox/new.lang:79
+msgid "Sorry, Firefox is currently unsupported by iOS devices."
+msgstr ""
+
+#: firefox/new.lang:83
+msgid "Congrats! You’re using the latest version of Firefox."
+msgstr ""
+
+#: firefox/new.lang:87
+msgid ""
+"Looks like you’re using an older version of Firefox. Update on Google Play."
+msgstr ""
+
+#: firefox/new.lang:91
+msgid "Looks like you’re using an older version of Firefox."
+msgstr ""
+
+#: firefox/new.lang:95
+msgid "Update to stay fast and safe."
+msgstr ""
+
+#: firefox/new.lang:99
+msgid "Get it free on Google Play"
+msgstr ""
+
+#: firefox/new.lang:103
+msgid "Learn more about Firefox for desktop"
+msgstr ""
+
+#: firefox/new.lang:107
+#, fuzzy
+msgid "Need help?"
+msgstr "Mito Kony?"
+
+#: firefox/new.lang:111
+msgid "Looking for mobile?"
+msgstr ""
+
+#: firefox/new.lang:115
+msgid "Download a fresh copy"
+msgstr ""
+
+#: firefox/new.lang:119
+msgid "Learn more about Firefox for Mobile"
+msgstr ""
+
+#: firefox/new.lang:123
+msgid "Learn more about Firefox OS?"
+msgstr ""
+
+#: firefox/new.lang:127
+msgid "Discover all the ways to take Firefox on the go"
+msgstr ""
+
+#: firefox/new.lang:131
+msgid "Why don’t we offer an iOS version?"
+msgstr ""
+
+#. The following two strings are used in the <title> tag of the page
+#: firefox/new.lang:136
+msgid "Download Firefox"
+msgstr ""
+
+#. Note: 'free' as in free of charge
+#: firefox/new.lang:141
+msgid "Free Web Browser"
+msgstr ""
+
+#. Meta tag description (visible in the code)
+#: firefox/new.lang:146
+msgid ""
+"Download Mozilla Firefox, a free Web browser. Firefox is created by a global "
+"non-profit dedicated to putting individuals in control online. Get Firefox "
+"today!"
+msgstr ""
+
+#. Schema.org tag description (visible in the code)
+#: firefox/new.lang:151
 #, fuzzy
 msgid ""
 "Mozilla Firefox, free web browser, is created by a global non-profit "
@@ -109,77 +191,3 @@ msgid ""
 msgstr ""
 "Yenyo tye kabino iyo! Bed ma yiti twolo pi ngec manyen ikom ngiyo ping, "
 "kabedo me gedo ki gero ne bicake woko. Watye kabyeko me yabo dogola wa i"
-
-#. file <title> tag
-#: firefox/new.lang:78
-msgid "Mozilla Firefox Web Browser"
-msgstr "Layeny Web me Mozilla Firefox"
-
-#. New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
-#: firefox/new.lang:83
-msgid "Sorry, Firefox is currently unsupported by iOS devices."
-msgstr ""
-
-#: firefox/new.lang:87
-msgid "Congrats! You’re using the latest version of Firefox."
-msgstr ""
-
-#: firefox/new.lang:91
-msgid ""
-"Looks like you’re using an older version of Firefox. Update on Google Play."
-msgstr ""
-
-#: firefox/new.lang:95
-msgid "Looks like you’re using an older version of Firefox."
-msgstr ""
-
-#: firefox/new.lang:99
-msgid "Update to stay fast and safe."
-msgstr ""
-
-#: firefox/new.lang:103
-msgid "Get it free on Google Play"
-msgstr ""
-
-#: firefox/new.lang:107
-msgid "Learn more about Firefox for desktop"
-msgstr ""
-
-#: firefox/new.lang:111
-#, fuzzy
-msgid "Need help?"
-msgstr "Mito Kony?"
-
-#: firefox/new.lang:115
-msgid "Looking for mobile?"
-msgstr ""
-
-#: firefox/new.lang:119
-msgid "Download a fresh copy"
-msgstr ""
-
-#: firefox/new.lang:123
-msgid "Learn more about Firefox for Mobile"
-msgstr ""
-
-#: firefox/new.lang:127
-msgid "Learn more about Firefox OS?"
-msgstr ""
-
-#: firefox/new.lang:131
-msgid "Discover all the ways to take Firefox on the go"
-msgstr ""
-
-#: firefox/new.lang:135
-msgid "Why don’t we offer an iOS version?"
-msgstr ""
-
-#. The following two strings are used in the <title> tag of the page
-#: firefox/new.lang:140
-msgid "Download Firefox"
-msgstr ""
-
-#. Note: 'free' as in free of charge
-#: firefox/new.lang:145
-msgid "Free Web Browser"
-msgstr ""

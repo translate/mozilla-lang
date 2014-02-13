@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:56+0100\n"
+"POT-Creation-Date: 2014-02-13 22:02+0100\n"
 "PO-Revision-Date: 2013-09-27 16:56+0000\n"
 "Last-Translator: asadsajjad <asadsajjad49@gmail.com>\n"
 "Language-Team: none\n"
@@ -125,8 +125,8 @@ msgstr "سائٹ کی چھان بِين کریں"
 
 #. Page title
 #: firefox/partners/index.lang:98
-msgid "Blaze Your Own Path"
-msgstr "اپنی راہ خود بنائیں"
+msgid "Unleash the future"
+msgstr ""
 
 #. Page description (meta tag)
 #: firefox/partners/index.lang:103
@@ -145,6 +145,12 @@ msgstr ""
 msgid ""
 "In our first year, we’ve brought openness, accessibility and opportunity to "
 "15 countries with 4 hardware partners, 7 operators and 16 launches."
+msgstr ""
+
+#: firefox/partners/index.lang:111
+msgid ""
+"See what’s next for mobile with <a %(url1)s>Firefox OS</a>, <a %(url2)"
+"s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>."
 msgstr ""
 
 #: firefox/partners/index.lang:115
@@ -544,130 +550,177 @@ msgstr "Mozilla اور شرکا پہلے Firefox OS سمارٹ فون لانچ �
 
 #. Line break below is presentational only
 #: firefox/partners/index.lang:421
-msgid "View available <br>Firefox OS devices"
+msgid "View available Firefox OS devices"
 msgstr ""
 
 #. Line break below is presentational only
 #: firefox/partners/index.lang:426
-msgid "Fox Den &amp; other <br>MWC events'"
+msgid "Watch the daily <br>MWC video recap"
+msgstr ""
+
+#. Line break below is presentational only, Fox Den should remain in English, it is a location at the event on the Mozilla stand
+#: firefox/partners/index.lang:431
+msgid "Fox Den &amp; other <br>MWC events"
 msgstr ""
 
 #. Title for the schedule overlay
-#: firefox/partners/index.lang:431
+#: firefox/partners/index.lang:436
 #, fuzzy
 msgid "Firefox at MWC 2014 &ndash; Schedule of Events"
 msgstr "MWC 2013 پر Firefox — سکیجول"
 
 #. Line break below is presentational only
-#: firefox/partners/index.lang:436
+#: firefox/partners/index.lang:441
 #, fuzzy
 msgid "Firefox tweets from <br>MWC in Barcelona"
 msgstr "Firefox Barcelona میں MWC سے ٹویٹ کر رہا ہے"
 
-#: firefox/partners/index.lang:440
+#: firefox/partners/index.lang:445
 msgid "View the version notes"
 msgstr "ورژن نوٹ دیکھیں"
 
-#: firefox/partners/index.lang:444
+#: firefox/partners/index.lang:449
 msgid "Read about features, changes and more"
 msgstr "فیچر، تبدیلیوں اور مزید چیزوں کے بارے میں پڑھیں"
 
 #. Form field
-#: firefox/partners/index.lang:449
+#: firefox/partners/index.lang:454
 msgid "Description"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:454
+#: firefox/partners/index.lang:459
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:454"
+msgctxt "./firefox/partners/index.lang:459"
 msgid "First Name"
 msgstr "پہلا نام"
 
 #. Form error message
-#: firefox/partners/index.lang:459
+#: firefox/partners/index.lang:464
 msgid "Please enter your first name."
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:464
+#: firefox/partners/index.lang:469
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:464"
+msgctxt "./firefox/partners/index.lang:469"
 msgid "Last Name"
 msgstr "آخری نام"
 
 #. Form error message
-#: firefox/partners/index.lang:469
+#: firefox/partners/index.lang:474
 msgid "Please enter your last name."
 msgstr ""
 
 #. ex: president, CEO...
-#: firefox/partners/index.lang:474
+#: firefox/partners/index.lang:479
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:474"
+msgctxt "./firefox/partners/index.lang:479"
 msgid "Title"
 msgstr "عنوان"
 
 #. Form field
-#: firefox/partners/index.lang:479
+#: firefox/partners/index.lang:484
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:479"
+msgctxt "./firefox/partners/index.lang:484"
 msgid "Company"
 msgstr "کمپنی"
 
 #. Form error message
-#: firefox/partners/index.lang:484
+#: firefox/partners/index.lang:489
 msgid "Please enter your company name."
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:489
+#: firefox/partners/index.lang:494
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:489"
+msgctxt "./firefox/partners/index.lang:494"
 msgid "Website"
 msgstr "ویب سائٹ"
 
 #. Form error message
-#. Form field
 #: firefox/partners/index.lang:499
+msgid "Please supply a valid URL."
+msgstr ""
+
+#. Form field
+#: firefox/partners/index.lang:504
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:499"
+msgctxt "./firefox/partners/index.lang:504"
 msgid "Phone"
 msgstr "فون"
 
 #. form, asking for mobile phone number
-#: firefox/partners/index.lang:504
+#: firefox/partners/index.lang:509
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:504"
+msgctxt "./firefox/partners/index.lang:509"
 msgid "Mobile"
 msgstr "موبایل"
 
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:509
+#: firefox/partners/index.lang:514
 #, fuzzy
 msgid "Address"
 msgstr "پتہ:"
 
 #. Form field
-#: firefox/partners/index.lang:514
+#: firefox/partners/index.lang:519
 msgid "City"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:519
+#: firefox/partners/index.lang:524
 msgid "State/Province"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:524
+#: firefox/partners/index.lang:529
 #, fuzzy
 msgid "Country"
 msgstr "ملک:"
 
 #. Form field, postal code
-#: firefox/partners/index.lang:529
+#: firefox/partners/index.lang:534
 msgid "Zip"
 msgstr ""
+
+#~ msgid "Blaze Your Own Path"
+#~ msgstr "اپنی راہ خود بنائیں"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:454"
+#~ msgid "First Name"
+#~ msgstr "پہلا نام"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:464"
+#~ msgid "Last Name"
+#~ msgstr "آخری نام"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:474"
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:479"
+#~ msgid "Company"
+#~ msgstr "کمپنی"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:489"
+#~ msgid "Website"
+#~ msgstr "ویب سائٹ"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:499"
+#~ msgid "Phone"
+#~ msgstr "فون"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:504"
+#~ msgid "Mobile"
+#~ msgstr "موبایل"
 
 #~ msgid "Developed with developers in mind"
 #~ msgstr "ڈیولپروں کو زہن میں رکھ کر ڈیولپ کردہ"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-25 22:12+0100\n"
+"POT-Creation-Date: 2014-02-13 22:02+0100\n"
 "PO-Revision-Date: 2014-02-06 13:44+0000\n"
 "Last-Translator: Towfique <towfique.anam@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1-rc1\n"
+"X-Generator: Translate Toolkit 1.11.0\n"
 "X-POOTLE-MTIME: 1391694282.000000\n"
 
 #. # NOTE: Used for the new http://www.mozilla.org/firefox/new
@@ -105,12 +105,93 @@ msgstr "১"
 msgid "2"
 msgstr "২"
 
-#: firefox/new.lang:68
+#: firefox/new.lang:69
 msgid "3"
 msgstr "৩"
 
-#. <Meta description> tag
-#: firefox/new.lang:73
+#. file <title> tag
+#: firefox/new.lang:74
+msgid "Mozilla Firefox Web Browser"
+msgstr "মোজিলা ফায়ারফক্স ওয়েব ব্রাউজার"
+
+#. New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
+#: firefox/new.lang:79
+msgid "Sorry, Firefox is currently unsupported by iOS devices."
+msgstr "দুঃখিত, ফায়ারফক্স বর্তমানে iOS ডিভাইস সমর্থিত নয়।"
+
+#: firefox/new.lang:83
+msgid "Congrats! You’re using the latest version of Firefox."
+msgstr "অভিনন্দন! আপনি ফায়ারফক্স এর সর্বশেষ সংস্করণ ব্যবহার করছেন।"
+
+#: firefox/new.lang:87
+msgid ""
+"Looks like you’re using an older version of Firefox. Update on Google Play."
+msgstr "আপনি ফায়ারফক্সের পুরোনো সংস্করণ ব্যবহার করছেন। গুগুল প্লে থেকে হালনাগাদ করুন।"
+
+#: firefox/new.lang:91
+msgid "Looks like you’re using an older version of Firefox."
+msgstr "আপনি ফায়ারফক্সের পুরোনো সংস্করণ ব্যবহার করছেন।"
+
+#: firefox/new.lang:95
+msgid "Update to stay fast and safe."
+msgstr "দ্রুত ও নিরাপদ থাকতে হালনাগাদ করুন।"
+
+#: firefox/new.lang:99
+msgid "Get it free on Google Play"
+msgstr "গুগল প্লে থেকে বিনামূল্যে নিন"
+
+#: firefox/new.lang:103
+msgid "Learn more about Firefox for desktop"
+msgstr "ডেস্কটপের জন্য ফায়ারফক্স সম্পর্কে আরও জানুন"
+
+#: firefox/new.lang:107
+msgid "Need help?"
+msgstr "সাহায্য প্রয়োজন?"
+
+#: firefox/new.lang:111
+msgid "Looking for mobile?"
+msgstr "মোবাইল খুঁজছেন কি?"
+
+#: firefox/new.lang:115
+msgid "Download a fresh copy"
+msgstr "নতুন কপি ডাউনলোড করুন"
+
+#: firefox/new.lang:119
+msgid "Learn more about Firefox for Mobile"
+msgstr "মোবাইলের জন্য ফায়ারফক্স সম্পর্কে আরও জানুন"
+
+#: firefox/new.lang:123
+msgid "Learn more about Firefox OS?"
+msgstr "ফায়ারফক্স ওএস সম্পর্কে আরও জানতে চান?"
+
+#: firefox/new.lang:127
+msgid "Discover all the ways to take Firefox on the go"
+msgstr "ফায়ারফক্সকে সক্রিয় করার সমস্ত উপায় আবিষ্কার করুন"
+
+#: firefox/new.lang:131
+msgid "Why don’t we offer an iOS version?"
+msgstr "কেন আমরা iOS সংস্করণ প্রদান করি না?"
+
+#. The following two strings are used in the <title> tag of the page
+#: firefox/new.lang:136
+msgid "Download Firefox"
+msgstr "ফায়ারফক্স ডাউনলোড করুন"
+
+#. Note: 'free' as in free of charge
+#: firefox/new.lang:141
+msgid "Free Web Browser"
+msgstr "মুক্ত ওয়েব ব্রাউজার"
+
+#. Meta tag description (visible in the code)
+#: firefox/new.lang:146
+msgid ""
+"Download Mozilla Firefox, a free Web browser. Firefox is created by a global "
+"non-profit dedicated to putting individuals in control online. Get Firefox "
+"today!"
+msgstr ""
+
+#. Schema.org tag description (visible in the code)
+#: firefox/new.lang:151
 msgid ""
 "Mozilla Firefox, free web browser, is created by a global non-profit "
 "dedicated to putting individuals in control &amp; shaping the future of the "
@@ -119,76 +200,3 @@ msgstr ""
 "মজিলা ফায়ারফক্স, যা বিনামূল্যের ওয়েব ব্রাউজার, একটি বৈশ্বিক অলাভজনক প্রতিষ্ঠান কতৃক "
 "তৈরীকৃত যা ব্যক্তি বিশেষকে নিয়ন্ত্রন দেয় &amp; সার্বজনীন মঙ্গল এর জন্য ওয়েব এর "
 "ভবিষ্যত রুপায়ন করছে।"
-
-#. file <title> tag
-#: firefox/new.lang:78
-msgid "Mozilla Firefox Web Browser"
-msgstr "মোজিলা ফায়ারফক্স ওয়েব ব্রাউজার"
-
-#. New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
-#: firefox/new.lang:83
-msgid "Sorry, Firefox is currently unsupported by iOS devices."
-msgstr "দুঃখিত, ফায়ারফক্স বর্তমানে iOS ডিভাইস সমর্থিত নয়।"
-
-#: firefox/new.lang:87
-msgid "Congrats! You’re using the latest version of Firefox."
-msgstr "অভিনন্দন! আপনি ফায়ারফক্স এর সর্বশেষ সংস্করণ ব্যবহার করছেন।"
-
-#: firefox/new.lang:91
-msgid ""
-"Looks like you’re using an older version of Firefox. Update on Google Play."
-msgstr "আপনি ফায়ারফক্সের পুরোনো সংস্করণ ব্যবহার করছেন। গুগুল প্লে থেকে হালনাগাদ করুন।"
-
-#: firefox/new.lang:95
-msgid "Looks like you’re using an older version of Firefox."
-msgstr "আপনি ফায়ারফক্সের পুরোনো সংস্করণ ব্যবহার করছেন।"
-
-#: firefox/new.lang:99
-msgid "Update to stay fast and safe."
-msgstr "দ্রুত ও নিরাপদ থাকতে হালনাগাদ করুন।"
-
-#: firefox/new.lang:103
-msgid "Get it free on Google Play"
-msgstr "গুগল প্লে থেকে বিনামূল্যে নিন"
-
-#: firefox/new.lang:107
-msgid "Learn more about Firefox for desktop"
-msgstr "ডেস্কটপের জন্য ফায়ারফক্স সম্পর্কে আরও জানুন"
-
-#: firefox/new.lang:111
-msgid "Need help?"
-msgstr "সাহায্য প্রয়োজন?"
-
-#: firefox/new.lang:115
-msgid "Looking for mobile?"
-msgstr "মোবাইল খুঁজছেন কি?"
-
-#: firefox/new.lang:119
-msgid "Download a fresh copy"
-msgstr "নতুন কপি ডাউনলোড করুন"
-
-#: firefox/new.lang:123
-msgid "Learn more about Firefox for Mobile"
-msgstr "মোবাইলের জন্য ফায়ারফক্স সম্পর্কে আরও জানুন"
-
-#: firefox/new.lang:127
-msgid "Learn more about Firefox OS?"
-msgstr "ফায়ারফক্স ওএস সম্পর্কে আরও জানতে চান?"
-
-#: firefox/new.lang:131
-msgid "Discover all the ways to take Firefox on the go"
-msgstr "ফায়ারফক্সকে সক্রিয় করার সমস্ত উপায় আবিষ্কার করুন"
-
-#: firefox/new.lang:135
-msgid "Why don’t we offer an iOS version?"
-msgstr "কেন আমরা iOS সংস্করণ প্রদান করি না?"
-
-#. The following two strings are used in the <title> tag of the page
-#: firefox/new.lang:140
-msgid "Download Firefox"
-msgstr "ফায়ারফক্স ডাউনলোড করুন"
-
-#. Note: 'free' as in free of charge
-#: firefox/new.lang:145
-msgid "Free Web Browser"
-msgstr "মুক্ত ওয়েব ব্রাউজার"

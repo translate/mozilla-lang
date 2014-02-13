@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-10 14:56+0100\n"
+"POT-Creation-Date: 2014-02-13 22:02+0100\n"
 "PO-Revision-Date: 2014-02-13 22:05+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.5.1-rc1\n"
+"X-Generator: Translate Toolkit 1.11.0\n"
 "X-POOTLE-MTIME: 1392329149.000000\n"
 
 #. <title> tag
@@ -120,8 +120,8 @@ msgstr "Archwilio'r wefan"
 
 #. Page title
 #: firefox/partners/index.lang:98
-msgid "Blaze Your Own Path"
-msgstr "Torri eich Cwys eich Hun"
+msgid "Unleash the future"
+msgstr ""
 
 #. Page description (meta tag)
 #: firefox/partners/index.lang:103
@@ -143,6 +143,12 @@ msgid ""
 msgstr ""
 "Yn ystod ein blwyddyn gyntaf, rydym wedi dod agwedd agored,  hygyrchedd a "
 "chyfle i 15 gwlad gyda 4 partner caledwedd, 7 darparwr ac 16 lansiad."
+
+#: firefox/partners/index.lang:111
+msgid ""
+"See what’s next for mobile with <a %(url1)s>Firefox OS</a>, <a %(url2)"
+"s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>."
+msgstr ""
 
 #: firefox/partners/index.lang:115
 msgid "See more partners"
@@ -548,119 +554,168 @@ msgstr ""
 
 #. Line break below is presentational only
 #: firefox/partners/index.lang:421
-msgid "View available <br>Firefox OS devices"
+#, fuzzy
+msgid "View available Firefox OS devices"
 msgstr "Gweld y dyfeisiau <br>Firefox OS cyfredol"
 
 #. Line break below is presentational only
 #: firefox/partners/index.lang:426
-msgid "Fox Den &amp; other <br>MWC events'"
+msgid "Watch the daily <br>MWC video recap"
+msgstr ""
+
+#. Line break below is presentational only, Fox Den should remain in English, it is a location at the event on the Mozilla stand
+#: firefox/partners/index.lang:431
+#, fuzzy
+msgid "Fox Den &amp; other <br>MWC events"
 msgstr "Fox Den a digwyddiadau <br>MWC eraill'"
 
 #. Title for the schedule overlay
-#: firefox/partners/index.lang:431
+#: firefox/partners/index.lang:436
 msgid "Firefox at MWC 2014 &ndash; Schedule of Events"
 msgstr "Firefox yn MWC 2014 - Rhestr digwyddiadau"
 
 #. Line break below is presentational only
-#: firefox/partners/index.lang:436
+#: firefox/partners/index.lang:441
 msgid "Firefox tweets from <br>MWC in Barcelona"
 msgstr "Trydar Firefox o <br>MWC ym Marcelona"
 
-#: firefox/partners/index.lang:440
+#: firefox/partners/index.lang:445
 msgid "View the version notes"
 msgstr "Gweler nodiadau'r fersiwn"
 
-#: firefox/partners/index.lang:444
+#: firefox/partners/index.lang:449
 msgid "Read about features, changes and more"
 msgstr "Darllenwch am nodweddion, newidiadau a rhagor"
 
 #. Form field
-#: firefox/partners/index.lang:449
+#: firefox/partners/index.lang:454
 msgid "Description"
 msgstr "Disgrifiad"
 
 #. Form field
-#: firefox/partners/index.lang:454
-msgctxt "./firefox/partners/index.lang:454"
+#: firefox/partners/index.lang:459
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:459"
 msgid "First Name"
 msgstr "Enw Cyntaf"
 
 #. Form error message
-#: firefox/partners/index.lang:459
+#: firefox/partners/index.lang:464
 msgid "Please enter your first name."
 msgstr "Rhowch eich enw cyntaf."
 
 #. Form field
-#: firefox/partners/index.lang:464
-msgctxt "./firefox/partners/index.lang:464"
+#: firefox/partners/index.lang:469
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:469"
 msgid "Last Name"
 msgstr "Enw Olaf"
 
 #. Form error message
-#: firefox/partners/index.lang:469
+#: firefox/partners/index.lang:474
 msgid "Please enter your last name."
 msgstr "Rhowch eich enw olaf."
 
 #. ex: president, CEO...
-#: firefox/partners/index.lang:474
-msgctxt "./firefox/partners/index.lang:474"
+#: firefox/partners/index.lang:479
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:479"
 msgid "Title"
 msgstr "Teitl"
 
 #. Form field
-#: firefox/partners/index.lang:479
-msgctxt "./firefox/partners/index.lang:479"
+#: firefox/partners/index.lang:484
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:484"
 msgid "Company"
 msgstr "Cwmni"
 
 #. Form error message
-#: firefox/partners/index.lang:484
+#: firefox/partners/index.lang:489
 msgid "Please enter your company name."
 msgstr "Rhowch enw eich cwmni."
 
 #. Form field
-#: firefox/partners/index.lang:489
-msgctxt "./firefox/partners/index.lang:489"
+#: firefox/partners/index.lang:494
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:494"
 msgid "Website"
 msgstr "Gwefan"
 
 #. Form error message
-#. Form field
 #: firefox/partners/index.lang:499
-msgctxt "./firefox/partners/index.lang:499"
+msgid "Please supply a valid URL."
+msgstr ""
+
+#. Form field
+#: firefox/partners/index.lang:504
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:504"
 msgid "Phone"
 msgstr "Ffôn"
 
 #. form, asking for mobile phone number
-#: firefox/partners/index.lang:504
-msgctxt "./firefox/partners/index.lang:504"
+#: firefox/partners/index.lang:509
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:509"
 msgid "Mobile"
 msgstr "Symudol"
 
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:509
+#: firefox/partners/index.lang:514
 msgid "Address"
 msgstr "Cyfeiriad"
 
 #. Form field
-#: firefox/partners/index.lang:514
+#: firefox/partners/index.lang:519
 msgid "City"
 msgstr "Tref/Dinas"
 
 #. Form field
-#: firefox/partners/index.lang:519
+#: firefox/partners/index.lang:524
 msgid "State/Province"
 msgstr "Sir/Talaith"
 
 #. Form field
-#: firefox/partners/index.lang:524
+#: firefox/partners/index.lang:529
 msgid "Country"
 msgstr "Gwlad"
 
 #. Form field, postal code
-#: firefox/partners/index.lang:529
+#: firefox/partners/index.lang:534
 msgid "Zip"
 msgstr "Zip"
+
+#~ msgid "Blaze Your Own Path"
+#~ msgstr "Torri eich Cwys eich Hun"
+
+#~ msgctxt "./firefox/partners/index.lang:454"
+#~ msgid "First Name"
+#~ msgstr "Enw Cyntaf"
+
+#~ msgctxt "./firefox/partners/index.lang:464"
+#~ msgid "Last Name"
+#~ msgstr "Enw Olaf"
+
+#~ msgctxt "./firefox/partners/index.lang:474"
+#~ msgid "Title"
+#~ msgstr "Teitl"
+
+#~ msgctxt "./firefox/partners/index.lang:479"
+#~ msgid "Company"
+#~ msgstr "Cwmni"
+
+#~ msgctxt "./firefox/partners/index.lang:489"
+#~ msgid "Website"
+#~ msgstr "Gwefan"
+
+#~ msgctxt "./firefox/partners/index.lang:499"
+#~ msgid "Phone"
+#~ msgstr "Ffôn"
+
+#~ msgctxt "./firefox/partners/index.lang:504"
+#~ msgid "Mobile"
+#~ msgstr "Symudol"
 
 #~ msgid "Developed with developers in mind"
 #~ msgstr "Datblygwyd gyda datblygwyr mewn golwg"
