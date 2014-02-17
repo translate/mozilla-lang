@@ -24,24 +24,22 @@ msgstr ""
 "designing a theme, or creating an add-on, your efforts matter!"
 
 #: templates/mozorg/emails/addons.txt:3
-#, fuzzy
 msgid ""
 "If you are new to add-ons, here are some things you can do at https://addons."
 "mozilla.org:"
 msgstr ""
-"If you are new to Firefox Add-ons, here are some things you can do at "
-"https://addons.mozilla.org:"
+"If you are new to add-ons, here are some things you can do at https://addons."
+"mozilla.org:"
 
 #: templates/mozorg/emails/addons.txt:5
-#, fuzzy
 msgid ""
 "============================\n"
 "REVIEW YOUR FAVORITE ADD-ONS\n"
 "============================"
 msgstr ""
-"==============================\n"
+"=============================\n"
 "REVIEW YOUR FAVOURITE ADD-ONS\n"
-"=============================="
+"============================="
 
 #: templates/mozorg/emails/addons.txt:9
 msgid ""
@@ -54,15 +52,14 @@ msgstr ""
 "the developer."
 
 #: templates/mozorg/emails/addons.txt:11
-#, fuzzy
 msgid ""
 "====================\n"
 "CREATE A COLLECTION\n"
 "===================="
 msgstr ""
-"=====================\n"
+"====================\n"
 "CREATE A COLLECTION\n"
-"====================="
+"===================="
 
 #: templates/mozorg/emails/addons.txt:15
 msgid ""
@@ -75,18 +72,16 @@ msgstr ""
 "https://addons.mozilla.org/firefox/collections/"
 
 #: templates/mozorg/emails/addons.txt:18
-#, fuzzy
 msgid ""
 "===============\n"
 "CREATE A THEME\n"
 "==============="
 msgstr ""
-"================\n"
+"===============\n"
 "CREATE A THEME\n"
-"================"
+"==============="
 
 #: templates/mozorg/emails/addons.txt:22
-#, fuzzy
 msgid ""
 "Background Themes let you personalize the look of your Firefox. To create "
 "your own, start here:\n"
@@ -94,11 +89,11 @@ msgid ""
 msgstr ""
 "Background Themes let you personalise the look of your Firefox. To create "
 "your own, start here:\n"
-"https://addons.mozilla.org/firefox/themes/"
+"https://addons.mozilla.org/developers/docs/themes"
 
 #: templates/mozorg/emails/addons.txt:25
 msgid "---"
-msgstr ""
+msgstr "---"
 
 #: templates/mozorg/emails/addons.txt:27
 msgid ""
@@ -107,15 +102,14 @@ msgstr ""
 "If you are a more technical contributor, here are some things you can do:"
 
 #: templates/mozorg/emails/addons.txt:29
-#, fuzzy
 msgid ""
 "=================\n"
 "CREATE AN ADD-ON\n"
 "================="
 msgstr ""
-"==================\n"
+"=================\n"
 "CREATE AN ADD-ON\n"
-"=================="
+"================="
 
 #: templates/mozorg/emails/addons.txt:33
 msgid ""
@@ -156,15 +150,14 @@ msgstr ""
 "https://forums.mozilla.org/addons/"
 
 #: templates/mozorg/emails/addons.txt:45
-#, fuzzy
 msgid ""
 "=================\n"
 "HELP TEST ADD-ONS\n"
 "================="
 msgstr ""
-"==================\n"
+"=================\n"
 "HELP TEST ADD-ONS\n"
-"=================="
+"================="
 
 #: templates/mozorg/emails/addons.txt:49
 msgid ""
@@ -190,6 +183,9 @@ msgid ""
 "HELP ADD-ON DEVELOPERS\n"
 "======================"
 msgstr ""
+"======================\n"
+"HELP ADD-ON DEVELOPERS\n"
+"======================"
 
 #: templates/mozorg/emails/addons.txt:59
 msgid ""
@@ -197,6 +193,9 @@ msgid ""
 "good technical writer, help us improve the documentation for add-on "
 "developers: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons"
 msgstr ""
+"If you're already familiar with add-on development or you think you're a "
+"good technical writer, help us improve the documentation for add-on "
+"developers: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons"
 
 #: templates/mozorg/emails/addons.txt:61
 msgid ""
@@ -204,17 +203,19 @@ msgid ""
 "tip: try replacing the en-US part of the link above to your native language "
 "code)."
 msgstr ""
+"You can also help by translating these docs to a different language (pro "
+"tip: try replacing the en-US part of the link above to your native language "
+"code)."
 
 #: templates/mozorg/emails/addons.txt:63
-#, fuzzy
 msgid ""
 "===========\n"
 "QUESTIONS?\n"
 "==========="
 msgstr ""
-"============\n"
+"===========\n"
 "QUESTIONS?\n"
-"============"
+"==========="
 
 #: templates/mozorg/emails/addons.txt:67
 msgid "If you have any additional questions, please feel free to email us!"
