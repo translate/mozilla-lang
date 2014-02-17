@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-14 16:58+0100\n"
+"POT-Creation-Date: 2014-02-17 14:39+0100\n"
 "PO-Revision-Date: 2014-02-11 17:50+0000\n"
 "Last-Translator: Zobayer Ahmed <zobayer_mc@yahoo.com>\n"
 "Language-Team: none\n"
@@ -489,7 +489,7 @@ msgstr "গুগল প্লে থেকে বিনামূল্যে �
 #. altenate text on an image
 #: firefox/partners/index.lang:406
 msgid "Mobile World Congress 2014"
-msgstr ""
+msgstr "মোবাইল ওয়ার্ল্ড কংগ্রেস ২০১৪"
 
 #. Press title in Recent News
 #: firefox/partners/index.lang:411
@@ -594,51 +594,67 @@ msgstr "ওয়েবসাইট"
 msgid "Please supply a valid URL."
 msgstr ""
 
-#. Form field
+#. Form error message
 #: firefox/partners/index.lang:504
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:504"
+msgid "Please enter a valid email address"
+msgstr "অনুগ্রহ করে আপনার বৈধ ইমেইল ঠিকানাটি দিন।"
+
+#. Form field
+#: firefox/partners/index.lang:509
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:509"
 msgid "Phone"
 msgstr "ফোন"
 
 #. form, asking for mobile phone number
-#: firefox/partners/index.lang:509
+#: firefox/partners/index.lang:514
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:509"
+msgctxt "./firefox/partners/index.lang:514"
 msgid "Mobile"
 msgstr "মোবাইল"
 
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:514
+#: firefox/partners/index.lang:519
 #, fuzzy
 msgid "Address"
 msgstr "ঠিকানা:"
 
 #. Form field
-#: firefox/partners/index.lang:519
+#: firefox/partners/index.lang:524
 msgid "City"
 msgstr "শহর"
 
 #. Form field
-#: firefox/partners/index.lang:524
+#: firefox/partners/index.lang:529
 msgid "State/Province"
 msgstr "রাষ্ট্র/প্রদেশ"
 
 #. Form field
-#: firefox/partners/index.lang:529
+#: firefox/partners/index.lang:534
 #, fuzzy
 msgid "Country"
 msgstr "দেশ:"
 
 #. Form field, postal code
-#: firefox/partners/index.lang:534
+#: firefox/partners/index.lang:539
 msgid "Zip"
 msgstr "জিপ"
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:539
+#: firefox/partners/index.lang:544
 msgid "Register for a session"
 msgstr ""
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:504"
+#~ msgid "Phone"
+#~ msgstr "ফোন"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:509"
+#~ msgid "Mobile"
+#~ msgstr "মোবাইল"
 
 #~ msgctxt "./firefox/partners/index.lang:454"
 #~ msgid "First Name"

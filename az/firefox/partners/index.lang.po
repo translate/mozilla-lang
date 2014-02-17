@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-14 16:58+0100\n"
+"POT-Creation-Date: 2014-02-17 14:39+0100\n"
 "PO-Revision-Date: 2013-11-27 00:24+0000\n"
 "Last-Translator: Emin <mastizada@itu.edu.tr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -593,50 +593,65 @@ msgstr "Vebsayt"
 msgid "Please supply a valid URL."
 msgstr ""
 
-#. Form field
+#. Form error message
 #: firefox/partners/index.lang:504
+msgid "Please enter a valid email address"
+msgstr ""
+
+#. Form field
+#: firefox/partners/index.lang:509
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:504"
+msgctxt "./firefox/partners/index.lang:509"
 msgid "Phone"
 msgstr "Telefon"
 
 #. form, asking for mobile phone number
-#: firefox/partners/index.lang:509
+#: firefox/partners/index.lang:514
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:509"
+msgctxt "./firefox/partners/index.lang:514"
 msgid "Mobile"
 msgstr "Mobil"
 
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:514
+#: firefox/partners/index.lang:519
 #, fuzzy
 msgid "Address"
 msgstr "Ünvan:"
 
 #. Form field
-#: firefox/partners/index.lang:519
+#: firefox/partners/index.lang:524
 msgid "City"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:524
+#: firefox/partners/index.lang:529
 msgid "State/Province"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:529
+#: firefox/partners/index.lang:534
 msgid "Country"
 msgstr ""
 
 #. Form field, postal code
-#: firefox/partners/index.lang:534
+#: firefox/partners/index.lang:539
 msgid "Zip"
 msgstr ""
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:539
+#: firefox/partners/index.lang:544
 msgid "Register for a session"
 msgstr ""
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:504"
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:509"
+#~ msgid "Mobile"
+#~ msgstr "Mobil"
 
 #, fuzzy
 #~ msgctxt "./firefox/partners/index.lang:454"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-14 16:58+0100\n"
+"POT-Creation-Date: 2014-02-17 14:39+0100\n"
 "PO-Revision-Date: 2014-02-17 02:28+0000\n"
 "Last-Translator: Mahrazi Mohd Kamal <mahrazi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.1-rc1\n"
+"X-Generator: Translate Toolkit 1.11.0\n"
 "X-POOTLE-MTIME: 1392604118.000000\n"
 
 #. <title> tag
@@ -648,47 +648,63 @@ msgstr "Tapak web"
 msgid "Please supply a valid URL."
 msgstr "Sila berikan URL yang sah."
 
-#. Form field
+#. Form error message
 #: firefox/partners/index.lang:504
-msgctxt "./firefox/partners/index.lang:504"
+#, fuzzy
+msgid "Please enter a valid email address"
+msgstr "Sila masukkan alamat email yang sah."
+
+#. Form field
+#: firefox/partners/index.lang:509
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:509"
 msgid "Phone"
 msgstr "Telefon"
 
 #. form, asking for mobile phone number
-#: firefox/partners/index.lang:509
-msgctxt "./firefox/partners/index.lang:509"
+#: firefox/partners/index.lang:514
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:514"
 msgid "Mobile"
 msgstr "Mudah Alih"
 
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:514
+#: firefox/partners/index.lang:519
 msgid "Address"
 msgstr "Alamat"
 
 #. Form field
-#: firefox/partners/index.lang:519
+#: firefox/partners/index.lang:524
 msgid "City"
 msgstr "Bandar"
 
 #. Form field
-#: firefox/partners/index.lang:524
+#: firefox/partners/index.lang:529
 msgid "State/Province"
 msgstr "Negeri/Wilayah"
 
 #. Form field
-#: firefox/partners/index.lang:529
+#: firefox/partners/index.lang:534
 msgid "Country"
 msgstr "Negara"
 
 #. Form field, postal code
-#: firefox/partners/index.lang:534
+#: firefox/partners/index.lang:539
 msgid "Zip"
 msgstr "Zip"
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:539
+#: firefox/partners/index.lang:544
 msgid "Register for a session"
 msgstr "Daftar untuk sesi"
+
+#~ msgctxt "./firefox/partners/index.lang:504"
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgctxt "./firefox/partners/index.lang:509"
+#~ msgid "Mobile"
+#~ msgstr "Mudah Alih"
 
 #~ msgid "Blaze Your Own Path"
 #~ msgstr "Merintis Perjalanan Anda Sendiri"

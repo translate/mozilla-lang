@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-14 16:58+0100\n"
+"POT-Creation-Date: 2014-02-17 14:39+0100\n"
 "PO-Revision-Date: 2013-02-28 08:33-0700\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -583,49 +583,60 @@ msgstr ""
 msgid "Please supply a valid URL."
 msgstr ""
 
-#. Form field
+#. Form error message
 #: firefox/partners/index.lang:504
-msgctxt "./firefox/partners/index.lang:504"
+#, fuzzy
+msgid "Please enter a valid email address"
+msgstr "Tim ber i ket email address matiyo."
+
+#. Form field
+#: firefox/partners/index.lang:509
+msgctxt "./firefox/partners/index.lang:509"
 msgid "Phone"
 msgstr ""
 
 #. form, asking for mobile phone number
-#: firefox/partners/index.lang:509
+#: firefox/partners/index.lang:514
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:509"
+msgctxt "./firefox/partners/index.lang:514"
 msgid "Mobile"
 msgstr "Me cing"
 
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:514
+#: firefox/partners/index.lang:519
 #, fuzzy
 msgid "Address"
 msgstr "Address:"
 
 #. Form field
-#: firefox/partners/index.lang:519
+#: firefox/partners/index.lang:524
 msgid "City"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:524
+#: firefox/partners/index.lang:529
 msgid "State/Province"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:529
+#: firefox/partners/index.lang:534
 msgid "Country"
 msgstr ""
 
 #. Form field, postal code
-#: firefox/partners/index.lang:534
+#: firefox/partners/index.lang:539
 msgid "Zip"
 msgstr ""
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:539
+#: firefox/partners/index.lang:544
 msgid "Register for a session"
 msgstr ""
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:509"
+#~ msgid "Mobile"
+#~ msgstr "Me cing"
 
 #, fuzzy
 #~ msgctxt "./firefox/partners/index.lang:504"
