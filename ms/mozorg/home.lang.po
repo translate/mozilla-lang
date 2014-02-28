@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-13 16:32+0100\n"
+"POT-Creation-Date: 2014-02-28 22:03+0100\n"
 "PO-Revision-Date: 2014-02-17 16:45+0000\n"
 "Last-Translator: Mahrazi Mohd Kamal <mahrazi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,51 +12,53 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.11.0\n"
 "X-POOTLE-MTIME: 1392655556.000000\n"
 
 #. # promo_lightbeam ##
 #. # promo_new_mdn ##
 #. # promo_webmaker ##
+#. # promo_mwc_2014 ##
 #. # NOTE: demo server for home page is https://www-dev.allizom.org
-#: mozorg/home.lang:7
+#: mozorg/home.lang:8
 msgid "Home of the Mozilla Project"
 msgstr "Laman utama daripada Projek Mozilla"
 
 #. Used as a label for a button that scrolls through latest news.
-#: mozorg/home.lang:12
+#: mozorg/home.lang:13
 msgid "Next article"
 msgstr "Artikel seterusnya"
 
 #. Used as a label for a button that scrolls through latest news.
-#: mozorg/home.lang:17
+#: mozorg/home.lang:18
 msgid "Previous article"
 msgstr "Artikel sebelumnya"
 
 #. The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
-#: mozorg/home.lang:22
+#: mozorg/home.lang:23
 msgid "We are %(mozilla_wordmark)s"
 msgstr "Kami adalah %(mozilla_wordmark)s"
 
-#: mozorg/home.lang:26
+#: mozorg/home.lang:27
 msgid "Doing good is part of our code"
 msgstr "Berbuat baik adalah sebahagian daripada kod etika kami"
 
-#: mozorg/home.lang:30
-msgctxt "./mozorg/home.lang:30"
+#: mozorg/home.lang:31
+#, fuzzy
+msgctxt "./mozorg/home.lang:31"
 msgid "Get involved"
 msgstr "Libatkan diri"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:35
+#: mozorg/home.lang:36
 msgid "<i>Explore</i> our mission"
 msgstr "<i>Jelajah</i> misi kami"
 
-#: mozorg/home.lang:39
+#: mozorg/home.lang:40
 msgid "Our principles guide us"
 msgstr "Prinsip kami yang membimbing kami"
 
-#: mozorg/home.lang:43
+#: mozorg/home.lang:44
 msgid ""
 "We’re a global community of technologists, thinkers and builders working to "
 "keep the Internet alive and accessible."
@@ -64,20 +66,20 @@ msgstr ""
 "Kami adalah sebuah komuniti global daripada teknologis, pemikir, pembangun "
 "bekerja untuk menjaga Internet yang subur dan mudah diakses."
 
-#: mozorg/home.lang:47
+#: mozorg/home.lang:48
 msgid "Read more about our mission"
 msgstr "Baca lanjut mengenai misi kami"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:52
+#: mozorg/home.lang:53
 msgid "<i>Look</i> ahead"
 msgstr "<i>Pandang</i>kehadapan"
 
-#: mozorg/home.lang:56
+#: mozorg/home.lang:57
 msgid "Look ahead"
 msgstr "Pandang kehadapan"
 
-#: mozorg/home.lang:60
+#: mozorg/home.lang:61
 msgid ""
 "We‘re bringing more people to the Web in more ways and from more places than "
 "ever before."
@@ -85,21 +87,21 @@ msgstr ""
 "Kami telah membawa lebih ramai kepada Web dalam pelbagai cara dan daripada "
 "berlainan tempat berbanding sebelumnya."
 
-#: mozorg/home.lang:64
+#: mozorg/home.lang:65
 msgid "Learn more about Firefox OS"
 msgstr "Ketahui lanjut mengenai Firefox OS"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:69
+#: mozorg/home.lang:70
 msgid "<i>Join</i> our community"
 msgstr "<i>Sertai</i>komuniti kami"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:74
+#: mozorg/home.lang:75
 msgid "Join our<br> developer community"
 msgstr "Sertai kami<br> komuniti pembangun"
 
-#: mozorg/home.lang:78
+#: mozorg/home.lang:79
 msgid ""
 "Get docs and demos, tools and tutorials and everything related to the Open "
 "Web."
@@ -108,20 +110,20 @@ msgstr ""
 "terbuka."
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:83
+#: mozorg/home.lang:84
 msgid "<i>Forge</i> the future"
 msgstr "<i>Jalinan</i>masa hadapan"
 
-#: mozorg/home.lang:87
+#: mozorg/home.lang:88
 msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:92
+#: mozorg/home.lang:93
 msgid "Forge the future<br> of the Web"
 msgstr "Jalinkan masa hadapan<br> dengan dunia Web"
 
-#: mozorg/home.lang:96
+#: mozorg/home.lang:97
 msgid ""
 "Learn from some of the most passionate thinkers and inventors from around "
 "the world."
@@ -129,40 +131,40 @@ msgstr ""
 "Ketahui mengenai sebahagian daripada pemikir dan pencipta yang amat "
 "bersemangat daripada seluruh dunia."
 
-#: mozorg/home.lang:100
+#: mozorg/home.lang:101
 msgid "Come to the Mozilla Festival"
 msgstr "Hadirkan diri ke Mozilla Festival"
 
-#: mozorg/home.lang:104
+#: mozorg/home.lang:105
 msgid "Different by&nbsp;design"
 msgstr "Kelainan by&nbsp;design"
 
 #. This string is displayed only for locales with a press agency blog
-#: mozorg/home.lang:109
+#: mozorg/home.lang:110
 msgid "In the news"
 msgstr "Balai Berita"
 
 #. This string is displayed only for locales with a press agency blog
-#: mozorg/home.lang:114
+#: mozorg/home.lang:115
 msgid "See all news"
 msgstr "Lihat kesemua berita"
 
-#: mozorg/home.lang:118
-msgctxt "./mozorg/home.lang:118"
+#: mozorg/home.lang:119
+msgctxt "./mozorg/home.lang:119"
 msgid "Get involved"
 msgstr "Libatkan diri"
 
 #. This string is displayed only for locales where we launch Firefox OS soon
-#: mozorg/home.lang:123
+#: mozorg/home.lang:124
 msgid "Help launch Firefox OS in your country."
 msgstr "Bantu melancarkan Firefox OS dalam negara anda."
 
 #. This string is displayed only for locales where we launch Firefox OS soon
-#: mozorg/home.lang:128
+#: mozorg/home.lang:129
 msgid "Become a Mobilizer today."
 msgstr "Jadi sebagai Mobilizer hari ini."
 
-#: mozorg/home.lang:132
+#: mozorg/home.lang:133
 msgid ""
 "You don’t have to know how to code to get involved with Mozilla. <a href=\"%s"
 "\">Learn more about our volunteer opportunities</a>."
@@ -170,7 +172,7 @@ msgstr ""
 "Anda tidak perlu tahu bagaimana untuk mengkod untuk turut serta bersama "
 "Mozilla. <a href=\"%s\">Pelajari lagi tentang peluang sukarelawan kami</a>."
 
-#: mozorg/home.lang:136
+#: mozorg/home.lang:137
 msgid ""
 "Thanks to our global community, Mozilla products and websites are available "
 "in over 70 languages. <a href=\"%(link_l10n)s\">Help translate them into "
@@ -181,17 +183,17 @@ msgstr ""
 "menterjemahkannya menjadi milik anda</a>."
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:141
+#: mozorg/home.lang:142
 msgid "<i>Watch</i> the watchers"
 msgstr "<i>Awasi</i>si permerhati"
 
 #. Lightbeam promo
-#: mozorg/home.lang:146
+#: mozorg/home.lang:147
 msgid "See who’s watching you online"
 msgstr "Lihat siapa yang memerhati anda dalam talian"
 
 #. Lightbeam promo
-#: mozorg/home.lang:151
+#: mozorg/home.lang:152
 msgid ""
 "Shine a light on the third parties that are collecting data about your "
 "online activity."
@@ -199,21 +201,21 @@ msgstr ""
 "Sinari cahaya pada pihak ketiga yang telah mengambil data mengenai aktiviti "
 "dalam talian anda."
 
-#: mozorg/home.lang:155
+#: mozorg/home.lang:156
 msgid "Install the Lightbeam add-on"
 msgstr "Pasang addon Lightbeam"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:160
+#: mozorg/home.lang:161
 msgid "<i>Learn</i> the Web"
 msgstr "<i>Pelajari</i>Web"
 
 #. Webmaker promo
-#: mozorg/home.lang:165
+#: mozorg/home.lang:166
 msgid "We teach the Web"
 msgstr "Kami mengajar tentang Web"
 
-#: mozorg/home.lang:169
+#: mozorg/home.lang:170
 msgid ""
 "Let‘s explore, tinker and create together to build a Web that‘s open and "
 "made by everyone."
@@ -221,22 +223,22 @@ msgstr ""
 "Ayuh jelajahi, bermain dan cipta bersama untuk membangunkan Web yang seharus "
 "terbuka dan dilakukan oleh semua orang."
 
-#: mozorg/home.lang:173
+#: mozorg/home.lang:174
 msgid "Become a Webmaker"
 msgstr "Sebagai seorang Webmaker"
 
 #. New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:178
+#: mozorg/home.lang:179
 msgid "<i>See</i> the new MDN"
 msgstr "<i>Lihat</i> MDN yang baharu"
 
 #. New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:183
+#: mozorg/home.lang:184
 msgid "See what’s new <br>for developers"
 msgstr "Lihat apa yang terbaharu <br>untuk pembangun"
 
 #. New MDN promo:
-#: mozorg/home.lang:188
+#: mozorg/home.lang:189
 msgid ""
 "Our community hub for docs, demos and other resources just got a brand new "
 "look."
@@ -244,11 +246,11 @@ msgstr ""
 "Hub komuniti kami untuk dokumen, demo dan sumber lain telah berwajah baru."
 
 #. New MDN promo:
-#: mozorg/home.lang:193
+#: mozorg/home.lang:194
 msgid "Visit the Mozilla Developer Network"
 msgstr "Layari Mozilla Developer Network"
 
-#~ msgctxt "./mozorg/home.lang:119"
+#~ msgctxt "./mozorg/home.lang:118"
 #~ msgid "Get involved"
 #~ msgstr "Libatkan diri"
 
