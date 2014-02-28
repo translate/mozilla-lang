@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-25 22:12+0100\n"
-"PO-Revision-Date: 2014-01-07 21:56+0000\n"
+"PO-Revision-Date: 2014-02-23 15:59+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cy\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.5.1-alpha1\n"
-"X-POOTLE-MTIME: 1389131803.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1393171157.000000\n"
 
 #. # NOTE: http://www-dev.allizom.org/lightbeam
 #. Navigation
@@ -40,8 +40,8 @@ msgid ""
 "you the first and third party sites you interact with on the Web."
 msgstr ""
 "Mae Lightbeam yn ychwanegyn Firefox sy'n defnyddio dull gweledol "
-"rhyngweithiol i dangos y gwefannau partïon cyntaf a thrydydd rydych yn "
-"rhyngweithio â nhw ar y We."
+"rhyngweithiol i dangos y gwefannau parti cyntaf a thrydydd parti rydych mewn "
+"cyswllt â nhw ar y We."
 
 #: lightbeam/lightbeam.lang:24
 msgid "Shine a Light on Who’s Watching You"
@@ -49,15 +49,15 @@ msgstr "Taflu Golau ar Bwy sy’n eich Gwylio"
 
 #: lightbeam/lightbeam.lang:28
 msgid "See who’s tracking you online"
-msgstr "Gweld pwy sy’n eich dilyn ar-lein"
+msgstr "Gweld pwy sy’n eich tracio ar-lein"
 
 #: lightbeam/lightbeam.lang:32
 msgid ""
 "As you browse, Lightbeam reveals the full depth of the Web today, including "
 "parts that are not transparent to the average user."
 msgstr ""
-"Wrth i chi bori, mae Lightbeam yn amlygu dyfnder y We heddiw, gan gynnwys y "
-"darnau sy'n dywyllach i'r defnyddiwr cyffredin."
+"Wrth i chi bori, mae Lightbeam yn amlygu dyfnder llawn y We heddiw, gan "
+"gynnwys y darnau sydd ddim mor dryloyw i'r defnyddiwr cyffredin."
 
 #: lightbeam/lightbeam.lang:36
 msgid "Download Lightbeam for Firefox"
@@ -69,7 +69,7 @@ msgstr "Ei estyn o Ychwanegion Mozilla"
 
 #: lightbeam/lightbeam.lang:44
 msgid "How Lightbeam Works"
-msgstr "Sut mae Lightbeam yn gweithio"
+msgstr "Sut mae Lightbeam yn Gweithio"
 
 #: lightbeam/lightbeam.lang:48
 msgid "Download and run the Lightbeam add-on in your Firefox browser."
@@ -80,7 +80,7 @@ msgid ""
 "Lightbeam will create a record of events for every site you visit and every "
 "third party site that is stored locally on your browser."
 msgstr ""
-"Bydd Lightbeam yn creu cofnod o ddigwyddiadau am bob gwefan rydych yn ymweld "
+"Bydd Lightbeam yn creu cofnod o ddigwyddiadau ar bob gwefan rydych yn ymweld "
 "â nhw a phob gwefan trydydd parti sydd wedi eu chadw'n lleol ar eich porwr."
 
 #: lightbeam/lightbeam.lang:56
@@ -88,8 +88,8 @@ msgid ""
 "Lightbeam visually graphs these events to highlight the interactions between "
 "sites you intentionally visit and the third parties."
 msgstr ""
-"Mae Lightbeam yn dangos yn weledol y digwyddiadau yma er mwyn amlygu "
-"ryngweithiad rhwng y gwefannau rydych yn ymweld â nhw a thrydydd partïon."
+"Mae Lightbeam yn dangos yn weledol y digwyddiadau yma er mwyn amlygu'r "
+"cysylltiad rhwng y gwefannau rydych yn ymweld â nhw a thrydydd partïon."
 
 #: lightbeam/lightbeam.lang:60
 msgid ""
@@ -98,7 +98,7 @@ msgid ""
 "Lightbeam data can be easily saved or deleted."
 msgstr ""
 "Bydd Lightbeam yn parhau i ychwanegu i'ch graff wrth i chi bori'r We. "
-"Gallwch atal Lightbeam ar unrhyw adeg drwy ei anablu neu ei ddadosod Mae'n "
+"Gallwch atal Lightbeam ar unrhyw adeg drwy ei anablu neu ei ddadosod. Mae'n "
 "hawdd cadw neu ddileu eich data."
 
 #: lightbeam/lightbeam.lang:64
@@ -128,8 +128,8 @@ msgid ""
 "all about empowering users — both with tools and information."
 msgstr ""
 "Chi ddylai benderfynu pryd, sut ac os rydych am rannu eich data pori. Rydym "
-"yn cydnabod pwysigrwydd tryloywder ac mae'n cenhadaeth yn ymwneud ag "
-"ymrymuso defnyddwyr — gydag offer a gwybodaeth."
+"yn ymwybodol o bwysigrwydd tryloywder a'n cenhadaeth ni'n yw i rymuso "
+"defnyddwyr — gydag offer a gwybodaeth."
 
 #: lightbeam/lightbeam.lang:84
 msgid "Explore the database"
@@ -140,6 +140,9 @@ msgid ""
 "In the Lightbeam database, you will be able to browse first and third-party "
 "connection data uploaded by donors who use the Lightbeam add-on."
 msgstr ""
+"Yng nghronfa ddata Lightbeam, byddwch yn gallu pori data cysylltiad y parti "
+"cyntaf â'r trydydd parti sydd wedi eu llwytho i fyny gan gyfranwyr sy'n "
+"defnyddio ychwanegyn Lightbeam."
 
 #: lightbeam/lightbeam.lang:92
 msgid ""
@@ -147,10 +150,12 @@ msgid ""
 "the state of tracking as an aggregate and to examine relationships that "
 "exist on the Web."
 msgstr ""
+"Rydym yn adeiladu'r cyfeiriadur torfoli hwn i annog defnyddwyr i ddeall "
+"cyflwr tracio yn ei gyfanrwydd ac i weld y cysylltiadau sy'n bodoli ar y we."
 
 #: lightbeam/lightbeam.lang:96
 msgid "Visualize your data"
-msgstr ""
+msgstr "Gweld eich data"
 
 #: lightbeam/lightbeam.lang:100
 msgid ""
@@ -158,10 +163,13 @@ msgid ""
 "begin to create a real time visualization of the websites you visit and all "
 "the third parties that are also active on those pages."
 msgstr ""
+"Ar ôl llwytho i lawr a gosod ychwanegyn Lightbeam ar Firefox, bydd yn creu "
+"darlun byw o'r gwefannau rydych yn ymweld â nhw a'r holl drydydd partïon "
+"sy'n brysur ar y tudalennau hynny."
 
 #: lightbeam/lightbeam.lang:104
 msgid "Analyze your connections"
-msgstr ""
+msgstr "Dadansoddi eich cysylltiadau"
 
 #: lightbeam/lightbeam.lang:108
 msgid ""
@@ -169,20 +177,26 @@ msgid ""
 "relationships between the various first and third party sites that are "
 "stored in your data. You can also reset or save your data at any time."
 msgstr ""
+"Wrth i'ch darlun dyfu, gallwch gymryd golwg fanylach ar y berthynas rhwng y "
+"gwefannau parti cyntaf a thrydydd parti sy'n cael ei gadw yn eich data. "
+"Gallwch hefyd ailosod neu gadw eich data ar unrhyw adeg."
 
 #: lightbeam/lightbeam.lang:112
 msgid "Contribute your data"
-msgstr ""
+msgstr "Cyfrannu eich data"
 
 #: lightbeam/lightbeam.lang:116
 msgid ""
 "As a part of Lightbeam, we are creating a big-picture view of Internet "
 "tracking and of how first and third party sites are connected."
 msgstr ""
+"Fel rhan o Lightbeam, rydym yn creu golwg darlun mawr o'r tracio ar y we a "
+"sut mae gwefannau parti cyntaf a thrydydd partïon wedi eu cysylltu."
 
 #: lightbeam/lightbeam.lang:120
 msgid "To help us, you can contribute your data to our Lightbeam database."
 msgstr ""
+"I'n cynorthwyo ni, mae modd cyfrannu eich data i'n cronfa ddata Lightbeam."
 
 #: lightbeam/lightbeam.lang:124
 msgid "Supported by the Ford Foundation"
@@ -212,8 +226,8 @@ msgid ""
 "Lightbeam visualizes the relationships between the sites you visit and the "
 "third party sites that are active on those pages."
 msgstr ""
-"Mae Lightbeam yn amlygu'r berthynas rhwng y gwefan rydyh yn ymweld â nhw a'r "
-"trydydd partïon sy'n weithredol ar y tudalennau hynny."
+"Mae Lightbeam yn amlygu'r berthynas rhwng y gwefan rydych yn ymweld â nhw "
+"a'r trydydd partïon sy'n weithredol ar y tudalennau hynny."
 
 #: lightbeam/lightbeam.lang:145
 msgid "How the add-on works"
@@ -226,27 +240,38 @@ msgid ""
 "and space, identify where they connect to your online activity and provides "
 "ways for you to engage with this unique view of the Web."
 msgstr ""
+"Gan ddefnyddio tri math o ddull cyflwyno rhyngweithiol gwahanol — Graff, "
+"Cloc a Rhestr — mae Lightbeam yn eich galluogi i edrych ar drydydd partïon "
+"dros amser ac yn lle, gan weld lle maen nhw'n cysylltu â'ch gweithgaredd ar-"
+"lein ac yn cynnig ffyrdd i chi ddeall yr olwg unigryw hon o'r we."
 
 #: lightbeam/lightbeam.lang:153
 msgid ""
 "The default Graph view provides a real time visualization of every site you "
 "visit and all third party requests made from your browser."
 msgstr ""
+"Mae'r olwg ragosodedig Graff yn cynnig golwg fyw o bob gwefan rydych yn "
+"ymweld â hi a'r holl geisiadau trydydd parti sy'n cael eu gwneud i'ch porwr."
 
 #: lightbeam/lightbeam.lang:157
 msgid ""
 "The Graph view also provides adjustable filters that allow you to visualize "
 "more types of data at a glance."
 msgstr ""
+"Mae'r golwg Graff hefyd yn darparu hidlau mae modd eu haddasu sy'n caniatáu "
+"i chi weld yn rhwydd mathau eraill o ddata."
 
 #: lightbeam/lightbeam.lang:161
 msgid "The Clock view allows you to examine connections over a 24-hour period."
 msgstr ""
+"Mae'r golwg Cloc yn caniatáu i chi weld cysylltiadau dros gyfnod o 24 awr."
 
 #: lightbeam/lightbeam.lang:165
 msgid ""
 "The List view provides more options for drilling down into individual sites."
 msgstr ""
+"Mae'r golwg Rhestr yn darparu mwy o ddewis ar gyfer edrych yn fanylach ar "
+"wefannau unigol."
 
 #: lightbeam/lightbeam.lang:169
 msgid ""
@@ -254,22 +279,29 @@ msgid ""
 "to your Firefox browser, watch sites you’re interested in or hide sites you "
 "don’t want to see visualized."
 msgstr ""
+"Mae dewisiadau'r wefan yn y golwg Rhestr yn caniatáu i chi rwystro gwefannau "
+"rhag cysylltu â'ch porwr Firefox, gwylio gwefannau mae gennych ddiddordeb "
+"ynddyn nhw neu guddio gwefannau nad ydych am eu gweld."
 
 #: lightbeam/lightbeam.lang:173
 msgid ""
 "Lightbeam also offers an information panel that provides additional details "
 "about the site you selected and the sites it has connected to."
 msgstr ""
+"Mae Lightbeam hefyd yn cynnig panel gwybodaeth sy'n darparu manylion am y "
+"wefan rydych wedi ei dewisa'r gwefannau mae edi cysylltu â nhw."
 
 #: lightbeam/lightbeam.lang:177
 msgid "The origins of Lightbeam"
-msgstr ""
+msgstr "Datblygu Lightbeam"
 
 #: lightbeam/lightbeam.lang:181
 msgid ""
 "Lightbeam began in July 2011 as Collusion, a personal project by Mozilla "
 "software developer <a href=\"%s\">Atul Varma</a>."
 msgstr ""
+"Cychwynnwyd Lightbeam yng Ngorffennaf 2011 fel Collusion, project personol "
+"project gan ddatblygwr meddalwedd ym Mozilla, <a href=\"%s\">Atul Varma</a>."
 
 #: lightbeam/lightbeam.lang:185
 msgid ""
@@ -277,6 +309,8 @@ msgid ""
 "experimental add-on to visualize browsing behavior and data collection on "
 "the Web."
 msgstr ""
+"Wedi ei ysbrydoli gan y llyfr, <em>The Filter Bubble</em>, creodd Atul "
+"ychwanegyn arbrofol er mwyn dangos arferion pori a chasglu data ar y we."
 
 #: lightbeam/lightbeam.lang:189
 msgid ""
@@ -284,6 +318,10 @@ msgid ""
 "Collusion add-on in a <a href=\"%s\">TED talk</a> (now one of the most "
 "watched TED talks of all time) about exposing online tracking."
 msgstr ""
+"Ym mis Chwefror 2012, cyflwynodd Gary Kovacs, Prif Swyddog Gweithredol "
+"Mozilla ar y pryd, yr ychwanegyn Collusion mewn <a href=\"%s\">cyflwyniad "
+"TED</a> (erbyn hyn yn un o'r cyflwyniadau TED sydd wedi eu gwylio amlaf) er "
+"mwyn amlygu tracio ar-lein."
 
 #: lightbeam/lightbeam.lang:193
 msgid ""
@@ -291,6 +329,9 @@ msgid ""
 "\">Emily Carr University of Art + Design</a> to develop and implement "
 "visualizations for the add-on."
 msgstr ""
+"Ym mis Medi 2012, ymunodd Mozilla gyda myfyrwyr yn yr <a href=\"%s\">Emily "
+"Carr University of Art + Design</a> i ddatblygu a gwireddu dull o amlygu'r "
+"data ar gyfer yr ychwanegyn."
 
 #: lightbeam/lightbeam.lang:197
 msgid ""
@@ -298,22 +339,28 @@ msgid ""
 "Engineering Research Council (NSERC), Collusion has been re-imagined as "
 "Lightbeam and was launched in the fall of 2013."
 msgstr ""
+"Gyda chefnogaeth y Ford Foundation a'r Natural Sciences and Engineering "
+"Research Council (NSERC), mae Collusion wedi ei ail greu fel Lightbeam a'i "
+"lansio yn yr hydref yn 2013."
 
 #: lightbeam/lightbeam.lang:201
 msgid ""
 "To read more about the collaboration, please visit <a href=\"{url}\">{url}</"
 "a>"
 msgstr ""
+"I ddarllen rhagor am y cydweithrediad, ewch i <a href=\"{url}\">{url}</a>"
 
 #: lightbeam/lightbeam.lang:205
 msgid "Policy and the larger tracking narrative"
-msgstr ""
+msgstr "Polisi a'r drafodaeth ehangach am dracio"
 
 #: lightbeam/lightbeam.lang:209
 msgid ""
 "At Mozilla, we believe that everyone should have the tools to make their own "
 "decisions about their online privacy and who collects data on them."
 msgstr ""
+"Ym Mozilla, rydym yn credu y dylai pawb gael yr offer i ddod i benderfyniad "
+"am eu preifatrwydd ar-lein a phwy sy'n casglu data arnyn nhw."
 
 #: lightbeam/lightbeam.lang:213
 msgid ""
@@ -322,6 +369,10 @@ msgid ""
 "analysis and, ultimately, affect policy change in the areas of tracking and "
 "privacy."
 msgstr ""
+"Gydag ychwanegyn a gweinydd cronfa ddata Lightbeam rydym yn darparu "
+"platfform ymchwil cymunedol gwerthfawr (ac agored) sy'n anelu i godi "
+"ymwybyddiaeth, annog dadansoddi ac yn y pen draw, achosi newidiadau polisi "
+"ym meysydd tracio a phreifatrwydd."
 
 #: lightbeam/lightbeam.lang:217
 msgid ""
@@ -329,10 +380,13 @@ msgid ""
 "partners to provide Web users with greater control and transparency of their "
 "personal data."
 msgstr ""
+"Mae Lightbeam yn un cam mewn ymgyrch ehangach gan Mozilla a'i bartneriaid i "
+"ddarparu rheolaeth ehangach a thryloywder ar eu data personol i ddefnyddwyr "
+"y We."
 
 #: lightbeam/lightbeam.lang:221
 msgid "Learn more about online tracking and privacy"
-msgstr ""
+msgstr "Dysgu rhagor am dracio ar-lein a phreifatrwydd"
 
 #: lightbeam/lightbeam.lang:225
 msgid ""
@@ -341,10 +395,14 @@ msgid ""
 "community sees the growing relevance of online privacy and is supporting "
 "several initiatives that tackle the issue in various ways."
 msgstr ""
+"Mae'r <a href=\"%s\">Mozilla Foundation</a> yn gorff dim er elw sy'n "
+"hyrwyddo gwerthoedd y we agored i'r byd ehangach. Mae'r gymuned Mozilla yn "
+"gweld perthnasedd cynyddol preifatrwydd ar-lein ac mae'n cefnogi nifer o "
+"ymdrechion i fynd i'r afael â'r broblem mewn ffyrdd amrywiol."
 
 #: lightbeam/lightbeam.lang:229
 msgid "Data formats in Lightbeam"
-msgstr ""
+msgstr "Fformatau data yn Lightbeam"
 
 #: lightbeam/lightbeam.lang:233
 msgid ""
@@ -352,16 +410,21 @@ msgid ""
 "file formats used in Lightbeam and to see details of the data that is "
 "uploaded if you opt in to contribute to the database."
 msgstr ""
+"Ewch i'n <a href=\"%s\">dogfennaeth ar Github</a> i ddysgu rhagor am y "
+"fformatau ffeil sy'n cael eu defnyddio yn Lightbeam a gweld manylion y data "
+"sy'n cael ei lwytho i fyny os ydych yn dewis cyfrannu i'r gronfa ddata."
 
 #: lightbeam/lightbeam.lang:237
 msgid "Partners of Lightbeam"
-msgstr ""
+msgstr "Partneriaid Lightbeam"
 
 #: lightbeam/lightbeam.lang:241
 msgid ""
 "The <a href=\"%s\">Ford Foundation</a> is a non-profit organization that "
 "focuses on the mission of advancing human welfare."
 msgstr ""
+"Mae'r <a href=\"%s\">Ford Foundation</a> yn gorff nid er elw sy'n "
+"canolbwyntio ar hyrwyddo lles y ddynoliaeth."
 
 #: lightbeam/lightbeam.lang:245
 msgid ""
@@ -369,6 +432,9 @@ msgid ""
 "democratic values, reducing poverty and social injustice, supporting human "
 "achievement and fostering international co-operation."
 msgstr ""
+"Maen nhw'n cynnig cefnogaeth i gwmnïau a sefydliadau sydd wedi ymroi i "
+"gryfhau gwerthoedd democrataidd, lleihau tlodi ac anghyfiawnder cymdeithasol "
+"a hybu cydweithrediad rhyngwladol."
 
 #: lightbeam/lightbeam.lang:249
 msgid ""
@@ -378,3 +444,8 @@ msgid ""
 "skills and research expertise of British Columbia’s most creative faculty "
 "and students."
 msgstr ""
+"Mae'r <a href=\"%s\">Social + Interactive Media (SIM) Centre</a> yn Emily "
+"Carr University of Art + Design yn cefnogi ystod eang o brojectau cynllunio "
+"a cyfryngol, gan roi mynediad uniongyrchol i feddwl arloesol, sgiliau "
+"cynllunio ac arbenigedd ymchwil o fewn un o'r adrannau mwyaf creadigol yn "
+"British Columbia."
