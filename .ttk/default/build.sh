@@ -56,7 +56,7 @@ function handle_new_and_empty_dirs() {
 		if [ ! -d $dir ]; then
 			continue
 		fi
-		if [ $(find $dir -type f -true) ]; then
+		if [ "$(find $dir -type f -true)" ]; then
 			log_debug "We found a file, so 'svn add $dir'"
 			svn add $dir
 		else
