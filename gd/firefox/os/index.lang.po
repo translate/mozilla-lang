@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-02-28 22:03+0100\n"
-"PO-Revision-Date: 2014-02-16 19:41+0000\n"
+"PO-Revision-Date: 2014-03-10 22:24+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: none\n"
 "Language: gd\n"
@@ -13,8 +13,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Translate Toolkit 1.11.0\n"
-"X-POOTLE-MTIME: 1392579673.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1394490292.000000\n"
 
 #. # NOTE: https://www-dev.allizom.org/firefox/os/
 #. alt text on Firefox logo
@@ -36,7 +36,7 @@ msgstr "Ar misean"
 
 #: firefox/os/index.lang:21
 msgid "The Devices"
-msgstr ""
+msgstr "Na h-uidheaman"
 
 #. top button
 #: firefox/os/index.lang:26
@@ -241,11 +241,13 @@ msgid ""
 "We’re out to make a difference, not a profit. When you choose Firefox OS, "
 "you’re helping build a brighter future for the Web and users everywhere."
 msgstr ""
+"Tha sinn a' dèanamh diofar 's chan e prothaid. Cuiridh tu ri leasachadh còir "
+"an lìn airson a h-uile duine 's tu a' cleachdadh Firefox OS."
 
 #. Title
 #: firefox/os/index.lang:185
 msgid "From our community to yours"
-msgstr ""
+msgstr "O ar coimhearsnachd-ne dha do choimhearsnachd-sa"
 
 #: firefox/os/index.lang:189
 msgid ""
@@ -254,11 +256,17 @@ msgid ""
 "They’re made by a huge global community and are the only smartphones that "
 "understand and deliver what you want and need."
 msgstr ""
+"Tha a' chuid as motha dhen na fònaichean tapaidh 'gan leasachadh le grunnan "
+"beag de chompanaidhean, san aon àite agus fad air falbh uat mar is trice. "
+"Tha fònaichean Firefox OS eadar-dhealaichte. 'S e coimhearsnachd eadar-"
+"nàiseanta mhòr mhòr a tha 'gan leasachadh agus chan eil fòn tapaidh eile a "
+"tha ann a thuigeas na tha a dhìth ort agus a bheir sin dhut mar a nì Firefox "
+"OS."
 
 #. Title
 #: firefox/os/index.lang:194
 msgid "The best of the Web"
-msgstr ""
+msgstr "Gràinnean-mullaich an lìn"
 
 #: firefox/os/index.lang:198
 msgid ""
@@ -268,91 +276,107 @@ msgid ""
 "your smartphone. So you can take control of your life online and get the "
 "best the Web has to offer no matter where you go."
 msgstr ""
+"Thug Firefox buan-atharrachadh air saoghal nam brabhsairean 's e a' cur "
+"prìomh-chudrom air na cleachdaichean agus a' toirt dhaibh roghainnean is "
+"tionnsgnadh ùr air loidhne. Agus tha sinn a' dèanamh an aon rud a-rithist a-"
+"nis le Firefox OS, a' toirt dhut teicneolas a cheart cho math air an fhòn "
+"tapaidh agad. Gabh smachd air do shaoghal air loidhne 's cuir an lìon gu làn-"
+"fheum, ge be càit an dèid thu."
 
 #. Title
 #: firefox/os/index.lang:202
 msgid "For partners &amp; developers:"
-msgstr ""
+msgstr "Airson com-pàirtichean ⁊ luchd-leasachaidh:"
 
 #: firefox/os/index.lang:205
 msgid ""
 "Learn about partnership opportunities <a href=\"%(link)s\">Visit the Firefox "
 "OS partner site</a>"
 msgstr ""
+"Barrachd fiosrachaidh air cothroman com-pàirteachais <a href=\"%(link)s"
+"\">Tadhail air làrach-lìn com-pàirtichean Firefox OS</a>"
 
 #: firefox/os/index.lang:209
 msgid ""
 "Get your app on Firefox OS <a href=\"%(link)s\">Submit it to the Firefox "
 "Marketplace</a>"
 msgstr ""
+"Cuir an aplacaid agad air Firefox OS <a href=\"%(link)s\">Cuir air margaid "
+"Firefox</a> e"
 
 #. Title
 #: firefox/os/index.lang:214
 msgid "For users:"
-msgstr ""
+msgstr "Airson cleachdaichean:"
 
 #: firefox/os/index.lang:218
 msgid ""
 "In case you need a little help <a href=\"%(link)s\">Get it from your friends "
 "at Mozilla Support</a>"
 msgstr ""
+"Ma bhios beagan cuideachaidh a dhìth ort, <a href=\"%(link)s\">gheibh thu "
+"sin o do charaidean aig ionad taic Mozilla</a>"
 
 #: firefox/os/index.lang:222
 msgid ""
 "All your questions will be answered <a href=\"%(link)s\">Read our extra "
 "helpful FAQ</a>"
 msgstr ""
+"Freagairt air ceist sam bith sna <a href=\"%(link)s\">CÀBHA againn a tha air "
+"leth cuideachail</a>"
 
 #. image alt text
 #: firefox/os/index.lang:227
 msgid "Email app"
-msgstr ""
+msgstr "Aplacaid a' phuist"
 
 #. image alt text
 #: firefox/os/index.lang:232
 msgid "Contacts app"
-msgstr ""
+msgstr "Aplacaid an luchd-aithne"
 
 #. image alt text
 #: firefox/os/index.lang:237
 msgid "Messages app"
-msgstr ""
+msgstr "Aplacaid nan teachdaireachdan"
 
 #. image alt text
 #: firefox/os/index.lang:242
 msgid "Camera app"
-msgstr ""
+msgstr "Aplacaid a' chamara"
 
 #. image alt text
 #: firefox/os/index.lang:247
 msgid "Facebook app"
-msgstr ""
+msgstr "Aplacaid Facebook"
 
 #. image alt text
 #: firefox/os/index.lang:252
 msgid "Maps app"
-msgstr ""
+msgstr "Aplacaid nam mapaichean"
 
 #. image alt text
 #: firefox/os/index.lang:257
 msgid "Photos app"
-msgstr ""
+msgstr "Aplacaid nan dealbhan"
 
 #. image alt text
 #: firefox/os/index.lang:262
 msgid "Music app"
-msgstr ""
+msgstr "Aplacaid a' chiùil"
 
 #. image alt text
 #: firefox/os/index.lang:267
 msgid "Radio app"
-msgstr ""
+msgstr "Aplacaid an rèidio"
 
 #: firefox/os/index.lang:271
 msgid ""
 "We work with a number of providers to offer Firefox OS on a variety of "
 "devices."
 msgstr ""
+"Tha sinn ag obair còmhla ri diofar sholaraichean gus Firefox OS a thairgsinn "
+"air diofar uidheaman."
 
 #. Case 1: There are several phone providers
 #: firefox/os/index.lang:276
@@ -360,16 +384,20 @@ msgid ""
 "Choose one from the list below to get a Firefox OS smartphone in your "
 "country."
 msgstr ""
+"Tagh fear san liosta gu h-ìosal airson fòn tapaidh le Firefox OS air "
+"fhaighinn 'nad dhùthaich."
 
 #. Case 2: There is only one provider in the country
 #: firefox/os/index.lang:281
 msgid ""
 "Click on the provider below to get a Firefox OS smartphone in your country."
 msgstr ""
+"Briog air an t-solaraiche gu h-ìosal airson fòn tapaidh Firefox OS fhaighinn "
+"'nad dhùthaich."
 
 #: firefox/os/index.lang:285
 msgid "Sign up for our monthly newsletter"
-msgstr ""
+msgstr "Clàraich airson na cuairt-litreach mhìosail againn"
 
 #: firefox/os/index.lang:289
 msgid "Thank you for signing up!"
@@ -380,12 +408,16 @@ msgstr "Tapadh leat airson clàradh!"
 msgid ""
 "Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More"
 msgstr ""
+"Firefox OS — am fòn gleusmhor — sàr-innealan, aplacaidean is mòran a "
+"bharrachd airson fòn tapaidh"
 
 #: firefox/os/index.lang:298
 msgid ""
 "View the version notes <a href=\"%(link)s\">Read about features, changes and "
 "more</a>"
 msgstr ""
+"Faic barrachd fiosrachadh air an tionndadh seo <a href=\"%(link)s\">'s tu a' "
+"leughadh mu na chaidh atharrachadh ann</a>"
 
 #~ msgid "Get involved"
 #~ msgstr "Gabh pàirt ann"

@@ -4,23 +4,26 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-25 22:12+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-03-14 21:57+0000\n"
+"Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hsb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1394834278.000000\n"
 
 #. # NOTE: Update page available at url: https://www-dev.allizom.org/b/en-GB/firefox/update/
 #: firefox/update.lang:5
 msgid "Welcome"
-msgstr ""
+msgstr "Witajće"
 
 #: firefox/update.lang:9
 msgid "Are Firefox updates safe?"
-msgstr ""
+msgstr "Su aktualizacije Firefox wěste?"
 
 #: firefox/update.lang:13
 msgid ""
@@ -28,24 +31,29 @@ msgid ""
 "older version. To start the upgrade process, just click the green download "
 "button to the right."
 msgstr ""
+"Ně. Nowa wersija Firefox budźe awtomatisce městno wašeje staršeje wersije "
+"zabrać. Zo byšće aktualizowanski proces startował, klikńće prosće na zelene "
+"sćehnjenske tłóčatko naprawo."
 
 #: firefox/update.lang:17
 msgid ""
 "It varies slightly depending on the operating system you're using. You can "
 "find <a %(link)s>instructions for your computer here</a>."
 msgstr ""
+"To so snadnje we wotwisnosći wot dźěłoweho systema rozeznawa, kotryž "
+"wužiwaće. Móžeće <a %(link)s>instrukcije za waš ličak tu</a> namakać."
 
 #: firefox/update.lang:21
 msgid "Your Firefox is out of date."
-msgstr ""
+msgstr "Waš Firefox je zestarjeny."
 
 #: firefox/update.lang:25
 msgid "Follow the step-by-step process"
-msgstr ""
+msgstr "Slědujće proces krok po kroku"
 
 #: firefox/update.lang:29
 msgid "Congratulations!"
-msgstr ""
+msgstr "Zbožopřeće!"
 
 #: firefox/update.lang:33
 msgid ""
@@ -55,52 +63,69 @@ msgid ""
 "discovered, we write a patch and release an update to stay one step ahead. "
 "Downloading Firefox updates is a very important part of staying safe online."
 msgstr ""
+"Haj, na kóždy pad – waša wěstota ma najwyšu prioritu za nas. Naš wěstotny "
+"proces zjawnych žórłow woznamjenja, zo mamy mjezynarodne zhromadźenstwo "
+"ekspertow, kotřiž cyły dźeń pospochi dźěłaja, najnowše wohroženja namakać a "
+"wotstronić. Tak chětře kaž wěstotne wohroženje je so wotkryło, pisamy "
+"porjedźenje a pusćimy aktualizaciju, zo bychmy jedyn krok prědku wostali. "
+"Sćehnjenje aktualizacijow Firefox je jara wažne, zo byšće online wěsty "
+"wostał."
 
 #: firefox/update.lang:37
 msgid ""
 "If I already have Firefox, and then do a fresh install, what happens to my "
 "settings?"
 msgstr ""
+"Jeli mam hižo Firefox, a potom jón znowa instaluju, što so z mojimi "
+"nastajenjemi stanje?"
 
 #: firefox/update.lang:41
 msgid "What is a Firefox software update?"
-msgstr ""
+msgstr "Što je aktualizacija Firefox?"
 
 #: firefox/update.lang:45
 msgid ""
 "Yes. Firefox is configured to automatically check for updates, but it’s also "
 "possible to check for updates yourself."
 msgstr ""
+"Haj. Firefox je tak konfigurowany, zo awtomatisce aktualizacije pyta, ale "
+"tež wy sam móžeće aktualizacije pytać."
 
 #: firefox/update.lang:49
 msgid ""
 "Nothing. Re-installing Firefox will not affect your settings, bookmarks or "
 "preferences in any way."
 msgstr ""
+"Ničo. Nowa instalacija Firefox njebudźe waše nastajenja, zapołožki abo "
+"preferency wobwliwować."
 
 #: firefox/update.lang:53
 msgid ""
 "Not long at all – the entire process just takes a minute or two. Visit our "
 "support page for <a %(link)s>step-by-step instructions</a>."
 msgstr ""
+"Docyła nic dołho – cyły proces traje jenož jednu mjeńšinu abo dwě mjeńšinje. "
+"Wopytajće našu podpěrowu stronu za <a %(link)s>instrukcije krok po kroku</a>."
 
 #: firefox/update.lang:57
 msgid ""
 "You are also able to check for updates manually. For details, check out the "
 "<a %(link)s>step-by-step guide</a>.</p>"
 msgstr ""
+"Móžeće tež manuelnje aktualizacije pytać. Za podrobnosće přečitajće <a "
+"%(link)s>wjednik krok po kroku</a>.</p>"
 
 #: firefox/update.lang:61
 msgid "Check for Updates"
-msgstr ""
+msgstr "Aktualizcije pytać"
 
 #: firefox/update.lang:65
 msgid "What if I miss an update? Can I check for one myself?"
-msgstr ""
+msgstr "Što je, jeli mi aktualizacije faluje? Móžu sam pytać?"
 
 #: firefox/update.lang:69
 msgid "Your Firefox is up to date."
-msgstr ""
+msgstr "Waš Firefox je aktualny."
 
 #: firefox/update.lang:73
 msgid ""
@@ -109,10 +134,14 @@ msgid ""
 "fixes or other little changes to the browser to ensure that you are using "
 "the best version of Firefox available."
 msgstr ""
+"Aktualizacija Firefox je spěšne sćehnjenje kuskow noweho koda do wašeho "
+"eksistowaceho wobhladowaka Firefox. Tute małe kuski móža wěstotne "
+"porjedźenja abo druhe małe změny na wobhladowaku być, zo bychu zawěsćili, zo "
+"najlěpšu wersiju Firefox wužiwaće, kotraž k dispoziciji steji."
 
 #: firefox/update.lang:77
 msgid "How long will it take to update?"
-msgstr ""
+msgstr "Kak dołho budźe aktualizacija trać?"
 
 #: firefox/update.lang:81
 msgid ""
@@ -122,42 +151,48 @@ msgid ""
 "smartest, fastest and – most importantly – safest version of Firefox "
 "available."
 msgstr ""
+"Firefox so stajnje wuwiwa, tak dołho kaž naše zhromadźenstwo móžnosće "
+"namaka, jón polěpšić, a tak dołho kaž jón na najnowše wěstotne wohroženja "
+"přiměrjamy. Firefox aktualny dźeržeć je najlěpše wašnje zawěsćić, zo najbóle "
+"inteligentnu, najspěšnišu a – to je najwažniše – najwěsćišu wersiju Firefox "
+"wužiwaće, kotraž k dispoziciji steji."
 
 #: firefox/update.lang:85
 msgid "How do I know what version of Firefox I am currently on?"
-msgstr ""
+msgstr "Kak zhonju, kotru wersiju Firefox wužiwam?"
 
 #: firefox/update.lang:89
 msgid "Frequently asked questions"
-msgstr ""
+msgstr "Huste prašenja"
 
 #: firefox/update.lang:93
 msgid "Will the update affect my settings and bookmarks?"
-msgstr ""
+msgstr "Budźe aktualizacija moje nastajenja a zapołožki wobwliwować?"
 
 #: firefox/update.lang:97
 msgid "Do I need to uninstall my current version of Firefox before upgrading?"
 msgstr ""
+"Dyrbju před aktualizaciju swoju tuchwilnu wersiju Firefox wotinstalować?"
 
 #: firefox/update.lang:101
 msgid "Visit support.mozilla.org"
-msgstr ""
+msgstr "Wopytajće support.mozilla.org"
 
 #: firefox/update.lang:105
 msgid "Get the newest version <a href=\"{url}\">here</a>."
-msgstr ""
+msgstr "Wobstarajće sej najnowšu wersiju <a href=\"{url}\">tu</a>."
 
 #: firefox/update.lang:109
 msgid "Need Help?"
-msgstr ""
+msgstr "Trjebaće pomoc?"
 
 #: firefox/update.lang:113
 msgid "How do I update Firefox?"
-msgstr ""
+msgstr "Kak móžu Firefox aktualizować?"
 
 #: firefox/update.lang:117
 msgid "Why do I need to update?"
-msgstr ""
+msgstr "Čehodla dyrbju aktualizować?"
 
 #: firefox/update.lang:121
 msgid ""
@@ -166,6 +201,11 @@ msgid ""
 "and the newest version will be downloaded and installed on your computer. "
 "You’ll need to restart Firefox to begin using the new version."
 msgstr ""
+"Po standardźe je so Firefox konfigurował, awtomatisce za aktualizacijemi za "
+"sebje pytać a wam zdźělić, hdyž tajka k dispoziciji steji. Hdyž namołwu "
+"dóstanjeće, klikńće prosće na W porjadku a najnowša wersija budźe so "
+"sćahować a na wašim ličaku instalować. Dyrbiće Firefox znowa startować, "
+"prjedy hač móžeće nowu wersiju wužiwać."
 
 #: firefox/update.lang:125
 msgid ""
@@ -173,7 +213,10 @@ msgid ""
 "passwords or other settings. However, there is a possibility that some of "
 "your Add-ons won’t be immediately compatible with new updates."
 msgstr ""
+"Ně. Aktualizacija Firefox njepřewjedźe změny na wašich zapołožkach, "
+"składowanych hesłach abo druhich nastajenjach. Je wšak móžno, zo někotre z "
+"wašich přidatkow njemóhli hnydom z nowymi aktualizacijemi kompatibelne być."
 
 #: firefox/update.lang:129
 msgid "Download Firefox to get started."
-msgstr ""
+msgstr "Sćehńće Firefox, zo byšće započał."
