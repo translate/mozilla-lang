@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-02-28 22:03+0100\n"
-"PO-Revision-Date: 2014-03-19 01:39+0000\n"
+"PO-Revision-Date: 2014-03-21 02:02+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: none\n"
 "Language: gd\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1395193179.000000\n"
+"X-POOTLE-MTIME: 1395367349.000000\n"
 
 #. <title> tag
 #: firefox/partners/index.lang:5
@@ -275,8 +275,8 @@ msgid ""
 msgstr ""
 "Feuch àrainneachd ùr air am faigh thu na h-aplacaidean air a bheil fèill "
 "mhòr agus susbaint a bhios gu sònraichte iomchaidh do chustamairean "
-"ionadail. Faigh a-mach mar a chuidicheas sin 1)s>giùlanairean, "
-"saothraichean</a> agus 2)s>luchd-leasachaidh</a>."
+"ionadail. Faigh a-mach mar a chuidicheas sin <a %(url1)s>giùlanairean, "
+"saothraichean</a> agus <a %(url2)s>luchd-leasachaidh</a>."
 
 #. Title
 #: firefox/partners/index.lang:205
@@ -297,7 +297,7 @@ msgstr ""
 #. Title
 #: firefox/partners/index.lang:214
 msgid "Our experience"
-msgstr ""
+msgstr "Ar n-eòlas"
 
 #: firefox/partners/index.lang:218
 msgid ""
@@ -306,60 +306,66 @@ msgid ""
 "directory of add-ons serves content to hundreds of millions of users "
 "worldwide."
 msgstr ""
+"Aithnichear air ar n-obair air fad gu bheil sinn air bathar is seirbheisean "
+"fìor-mhath a thoirt dhan luchd-chleachdaidh fad ùine mhòr. Agus tha stòras "
+"nan tuilleadan againn a' toirt susbaint do mhilleanan is milleanan a luchd-"
+"cleachdaidh air feadh an t-saoghail."
 
 #. Title
 #: firefox/partners/index.lang:223
 msgid "Testimonials"
-msgstr ""
+msgstr "Teisteanasan"
 
 #: firefox/partners/index.lang:227
 msgid "See what Box, SoundCloud and others have to say"
-msgstr ""
+msgstr "Faic na tha Box, SoundCloud is feadhainn eile ag ràdh"
 
 #. Title
 #: firefox/partners/index.lang:232
 msgid "Join the Conversation"
-msgstr ""
+msgstr "Gabh pàirt sa chòmhradh"
 
 #: firefox/partners/index.lang:236
 msgid "Follow @firefoxapps on Twitter"
-msgstr ""
+msgstr "Lean @firefoxapps air Twitter"
 
 #: firefox/partners/index.lang:240
 msgid "Read more on the Apps Blog"
-msgstr ""
+msgstr "Leugh barrachd air bloga nan aplacaidean"
 
 #. Title
 #: firefox/partners/index.lang:245
 msgid "The world’s largest developer community"
-msgstr ""
+msgstr "A' choimhearsnachd luchd-leasachaidh as motha san t-saoghal"
 
 #. List title
 #: firefox/partners/index.lang:250
 msgid "Marketplace offers:"
-msgstr ""
+msgstr "Tairgsean a' mhargaidh:"
 
 #. List item. Tier 1 developers = very famous developpers from top companies
 #: firefox/partners/index.lang:255
 msgid "Commitment from well-known, tier 1 developers"
-msgstr ""
+msgstr "Gealltanas o luchd-leasachaidh ainmeil dhen chiad ìre"
 
 #. List item
 #: firefox/partners/index.lang:260
 msgid ""
 "Micro-targeted content for every use-case to meet customers’ local needs"
-msgstr ""
+msgstr "Susbaint a choileanas mion-fheumalachdan nan custamairean ionadail"
 
 #. List item
 #: firefox/partners/index.lang:265
 msgid ""
 "Lower barriers to entry for local app developers in both resource and cost"
 msgstr ""
+"Dèan e nas fhasa do luchd-leasachaidh aplacaidean pàirt a ghabhail a thaobh "
+"ghoireasan is cosgais"
 
 #. Title
 #: firefox/partners/index.lang:270
 msgid "Become a Marketplace developer"
-msgstr ""
+msgstr "Rach an sàs obair-leasachaidh sa mhargaidh"
 
 #. List item
 #: firefox/partners/index.lang:275
@@ -367,16 +373,18 @@ msgid ""
 "Apps that customers can access across multiple platforms, devices and "
 "operating systems"
 msgstr ""
+"Aplacaidean a gheibh custamairean cothrom orra air feadh diofar ùrlaran, "
+"uidheaman is siostaman-obrachaidh"
 
 #. List item
 #: firefox/partners/index.lang:280
 msgid "Flexible business models and multiple payment monetization options"
-msgstr ""
+msgstr "Modailean gnìomhachais sùbailte is iomadh roghainn pàighidh"
 
 #. List item
 #: firefox/partners/index.lang:285
 msgid "Optional carrier billing in regional currencies"
-msgstr ""
+msgstr "Bileachadh ghiùlanairean ann an airgeadrathan ionadail ma lùigear"
 
 #. List item
 #: firefox/partners/index.lang:290
@@ -384,6 +392,8 @@ msgid ""
 "The ability to connect with hundreds of millions of Firefox supporters "
 "around the world"
 msgstr ""
+"Cothrom air ceangal a dhèanamh ris na milleanan is milleanan a luchd-"
+"cleachdaidh Firefox air feadh an t-saoghail"
 
 #. List item
 #: firefox/partners/index.lang:295
@@ -393,20 +403,20 @@ msgstr ""
 #. Title
 #: firefox/partners/index.lang:300
 msgid "Developer hub"
-msgstr ""
+msgstr "Làr-ionad an luchd-leasachaidh"
 
 #: firefox/partners/index.lang:304
 msgid "Learn how to make HTML5 apps for an open marketplace"
-msgstr ""
+msgstr "Ionnsaich mar a nì thu aplacaidean HTML5 airson margaidh fhosgailte"
 
 #. Title
 #: firefox/partners/index.lang:309
 msgid "Have an app?"
-msgstr ""
+msgstr "A bheil aplacaid agad?"
 
 #: firefox/partners/index.lang:313
 msgid "Submit it to the Firefox Marketplace today"
-msgstr ""
+msgstr "Cuir a-null a mhargaidh Firefox e an-diugh"
 
 #. Title
 #: firefox/partners/index.lang:318
