@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-28 22:03+0100\n"
+"POT-Creation-Date: 2014-04-07 15:36+0100\n"
 "PO-Revision-Date: 2014-04-03 20:15+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1396556149.000000\n"
 
 #. <title> tag
@@ -415,15 +415,21 @@ msgid "Have an app?"
 msgstr "Maće nałoženje?"
 
 #: firefox/partners/index.lang:313
+#, fuzzy
+msgid "Submit it to Firefox Marketplace today"
+msgstr "Dźensa k Torhošću Firefox pósłać"
+
+#. Obsolete string, will be removed when bug 981909 is fixed
+#: firefox/partners/index.lang:318
 msgid "Submit it to the Firefox Marketplace today"
 msgstr "Dźensa k Torhošću Firefox pósłać"
 
 #. Title
-#: firefox/partners/index.lang:318
+#: firefox/partners/index.lang:323
 msgid "A superior Web experience"
 msgstr "Wurjadne webdožiwjenje"
 
-#: firefox/partners/index.lang:322
+#: firefox/partners/index.lang:327
 msgid ""
 "With high-performance, advanced cross-platform features and the latest in "
 "security, our top-rated browser offers an alternative to closed platforms, "
@@ -437,11 +443,11 @@ msgstr ""
 "partnerskich móžnosćach.</a>"
 
 #. Title
-#: firefox/partners/index.lang:327
+#: firefox/partners/index.lang:332
 msgid "Strengthen customer relationships"
 msgstr "Kupcowske poćahi zesylnić"
 
-#: firefox/partners/index.lang:331
+#: firefox/partners/index.lang:336
 msgid ""
 "Create your own unique branded sections of Firefox for Android and Firefox "
 "Marketplace for a more engaging user experience and to increase the "
@@ -452,11 +458,11 @@ msgstr ""
 "wikowanskeho znamjenja powyšił."
 
 #. Title
-#: firefox/partners/index.lang:336
+#: firefox/partners/index.lang:341
 msgid "Create new value for both you and your users"
 msgstr "Wutworće nowu hódnotu za sebje a swojich wužiwarjow"
 
-#: firefox/partners/index.lang:340
+#: firefox/partners/index.lang:345
 msgid ""
 "Take advantage of service opportunities like Firefox Marketplace and WebRTC "
 "to create new, platform-independent offerings and establish direct customer "
@@ -467,11 +473,11 @@ msgstr ""
 "direktne kupcowske wotličenje natwarił."
 
 #. Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
-#: firefox/partners/index.lang:345
+#: firefox/partners/index.lang:350
 msgid "Stand out <br>from the crowd"
 msgstr "Z mnóstwa <br>wusahować"
 
-#: firefox/partners/index.lang:349
+#: firefox/partners/index.lang:354
 msgid ""
 "Take advantage of our strong brand and service offerings to differentiate "
 "your product and drive sales."
@@ -480,16 +486,16 @@ msgstr ""
 "byšće waš produkt diferencował a wobrot powyšił."
 
 #. List Title
-#: firefox/partners/index.lang:354
+#: firefox/partners/index.lang:359
 msgid "Firefox for Android lets you:"
 msgstr "Firefox za Android da wam:"
 
 #. list item sub-title
-#: firefox/partners/index.lang:359
+#: firefox/partners/index.lang:364
 msgid "Customize the experience"
 msgstr "Dožiwjenje přiměrić"
 
-#: firefox/partners/index.lang:363
+#: firefox/partners/index.lang:368
 msgid ""
 "Add your brand and content to increase customer touchpoints, improve "
 "retention and drive future sales."
@@ -498,11 +504,11 @@ msgstr ""
 "rozmnožił, zwjazanosć polěpšił a přichodny wobrot powyšił."
 
 #. list item sub-title
-#: firefox/partners/index.lang:368
+#: firefox/partners/index.lang:373
 msgid "Build new service offerings"
 msgstr "Nowe słužbne poskitki wutworić"
 
-#: firefox/partners/index.lang:372
+#: firefox/partners/index.lang:377
 msgid ""
 "Integrate services directly into the browser with Firefox Marketplace and "
 "WebRTC to free yourself from the constraints of proprietary platforms."
@@ -511,11 +517,11 @@ msgstr ""
 "byšće so z wobmjezowanjow specifiskich platformow zhotowjerjow."
 
 #. list item sub-title
-#: firefox/partners/index.lang:377
+#: firefox/partners/index.lang:382
 msgid "Direct customer billing"
 msgstr "Direktne kupcowske wotličenje"
 
-#: firefox/partners/index.lang:381
+#: firefox/partners/index.lang:386
 msgid ""
 "Grow your business by combining your own customer payment plans with our "
 "open source service offerings."
@@ -523,188 +529,224 @@ msgstr ""
 "Powjetšće swój wobchod kombinujo swoje kupcowske zapłaćenske plany z "
 "poskitkami našeje słužby zjawneho žórła."
 
-#: firefox/partners/index.lang:385
+#: firefox/partners/index.lang:390
 msgid "Partner Opportunities"
 msgstr "Móžnosće partnerow"
 
-#: firefox/partners/index.lang:389
+#: firefox/partners/index.lang:394
 msgid "For Developers"
 msgstr "Za wuwiwarjow"
 
-#: firefox/partners/index.lang:393
+#: firefox/partners/index.lang:398
 msgid "For Operators & Manufacturers"
 msgstr "Za poskićowarjow a zhotowjerjow"
 
-#: firefox/partners/index.lang:397
-msgctxt "./firefox/partners/index.lang:397"
+#: firefox/partners/index.lang:402
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:402"
 msgid "Mobile"
 msgstr "Mobilny"
 
-#: firefox/partners/index.lang:401
+#: firefox/partners/index.lang:406
 msgid "Firefox Marketplace — Developer testimonials"
 msgstr "Torhošćo Firefox — Referency wuwiwarjow"
 
-#: firefox/partners/index.lang:405
+#: firefox/partners/index.lang:410
 msgid "Get it on Google Play"
 msgstr "Z Google Play so wobstarać"
 
 #. altenate text on an image
-#: firefox/partners/index.lang:410
+#: firefox/partners/index.lang:415
 msgid "Mobile World Congress 2014"
 msgstr "Mobile World Congress 2014"
 
 #. Press title in Recent News
-#: firefox/partners/index.lang:415
+#: firefox/partners/index.lang:420
 msgid "Watch our wrap-up video from Mobile World Congress 2013"
 msgstr "Wobhladajće sej naše widejozjimanje z Mobile World Congress 2013"
 
 #. Press title in Recent News
-#: firefox/partners/index.lang:420
+#: firefox/partners/index.lang:425
 msgid "Mozilla and partners prepare to launch first Firefox OS smartphones"
 msgstr ""
 "Mozilla a jeho partnerojo přihotuja so na start prěnich smartfonow z Firefox "
 "OS"
 
 #. Line break below is presentational only
-#: firefox/partners/index.lang:425
+#: firefox/partners/index.lang:430
 msgid "View available Firefox OS devices"
 msgstr "K dispoziciji stejace graty Firefox OS pokazać"
 
 #. Line break below is presentational only
-#: firefox/partners/index.lang:430
+#: firefox/partners/index.lang:435
 msgid "Watch the daily <br>MWC video recap"
 msgstr "Wobhladajće sej wšědne <br>widejozjimanje z MWC"
 
 #. Line break below is presentational only, Fox Den should remain in English, it is a location at the event on the Mozilla stand
-#: firefox/partners/index.lang:435
+#: firefox/partners/index.lang:440
 msgid "Fox Den &amp; other <br>MWC events"
 msgstr "Fox Den a druhe <br>MWC-zarjadowanja"
 
 #. Title for the schedule overlay
-#: firefox/partners/index.lang:440
+#: firefox/partners/index.lang:445
 msgid "Firefox at MWC 2014 &ndash; Schedule of Events"
 msgstr "Firefox na MWC 2014 &ndash; plan zarjadowanjow"
 
 #. Line break below is presentational only
-#: firefox/partners/index.lang:445
+#: firefox/partners/index.lang:450
 msgid "Firefox tweets from <br>MWC in Barcelona"
 msgstr "Firefox cičoli z <br>MWC w Barcelonje"
 
-#: firefox/partners/index.lang:449
+#: firefox/partners/index.lang:454
 msgid "View the version notes"
 msgstr "Wersijowe informacije pokazać"
 
-#: firefox/partners/index.lang:453
+#: firefox/partners/index.lang:458
 msgid "Read about features, changes and more"
 msgstr "Wo funkcijach, změnach a wjace čitać"
 
 #. Form field
-#: firefox/partners/index.lang:458
+#: firefox/partners/index.lang:463
 msgid "Description"
 msgstr "Wopisanje"
 
 #. Form field
-#: firefox/partners/index.lang:463
-msgctxt "./firefox/partners/index.lang:463"
+#: firefox/partners/index.lang:468
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:468"
 msgid "First Name"
 msgstr "Předmjeno"
 
 #. Form error message
-#: firefox/partners/index.lang:468
+#: firefox/partners/index.lang:473
 msgid "Please enter your first name."
 msgstr "Prošu zapodajće swoje předmjeno."
 
 #. Form field
-#: firefox/partners/index.lang:473
-msgctxt "./firefox/partners/index.lang:473"
+#: firefox/partners/index.lang:478
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:478"
 msgid "Last Name"
 msgstr "Swójbne mjeno"
 
 #. Form error message
-#: firefox/partners/index.lang:478
+#: firefox/partners/index.lang:483
 msgid "Please enter your last name."
 msgstr "Prošu zapodajće swoje swójbne mjeno."
 
 #. ex: president, CEO...
-#: firefox/partners/index.lang:483
-msgctxt "./firefox/partners/index.lang:483"
+#: firefox/partners/index.lang:488
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:488"
 msgid "Title"
 msgstr "Titul"
 
 #. Form field
-#: firefox/partners/index.lang:488
-msgctxt "./firefox/partners/index.lang:488"
+#: firefox/partners/index.lang:493
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:493"
 msgid "Company"
 msgstr "Předewzaće"
 
 #. Form error message
-#: firefox/partners/index.lang:493
+#: firefox/partners/index.lang:498
 msgid "Please enter your company name."
 msgstr "Prošu zapodajće mjeno swojeho předewzaća."
 
 #. Form field
-#: firefox/partners/index.lang:498
-msgctxt "./firefox/partners/index.lang:498"
+#: firefox/partners/index.lang:503
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:503"
 msgid "Website"
 msgstr "Websydło"
 
 #. Form error message
-#: firefox/partners/index.lang:503
+#: firefox/partners/index.lang:508
 msgid "Please supply a valid URL."
 msgstr "Prošu podajće płaćiwy URL."
 
 #. Form error message
-#: firefox/partners/index.lang:508
+#: firefox/partners/index.lang:513
 msgid "Please enter a valid email address"
 msgstr "Prošu zapodajće płaćiwu e-mejlowu adresu"
 
 #. Form field
-#: firefox/partners/index.lang:513
-msgctxt "./firefox/partners/index.lang:513"
+#: firefox/partners/index.lang:518
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:518"
 msgid "Phone"
 msgstr "Telefon"
 
 #. form, asking for mobile phone number
-#: firefox/partners/index.lang:518
-msgctxt "./firefox/partners/index.lang:518"
+#: firefox/partners/index.lang:523
+#, fuzzy
+msgctxt "./firefox/partners/index.lang:523"
 msgid "Mobile"
 msgstr "Mobilny"
 
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:523
+#: firefox/partners/index.lang:528
 msgid "Address"
 msgstr "Adresa"
 
 #. Form field
-#: firefox/partners/index.lang:528
+#: firefox/partners/index.lang:533
 msgid "City"
 msgstr "Město"
 
 #. Form field
-#: firefox/partners/index.lang:533
+#: firefox/partners/index.lang:538
 msgid "State/Province"
 msgstr "Zwjazkowy kraj"
 
 #. Form field
-#: firefox/partners/index.lang:538
+#: firefox/partners/index.lang:543
 msgid "Country"
 msgstr "Kraj"
 
 #. Form field, postal code
-#: firefox/partners/index.lang:543
+#: firefox/partners/index.lang:548
 msgid "Zip"
 msgstr "PWČ"
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:548
+#: firefox/partners/index.lang:553
 msgid "Register for a session"
 msgstr "Za posedźenje registrować"
 
 #. map header
-#: firefox/partners/index.lang:553
+#: firefox/partners/index.lang:558
 msgid "Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30"
 msgstr "Firefox na MWC 2014 &ndash; hala 3, wustajenišćo 3C30"
 
-#: firefox/partners/index.lang:557
+#: firefox/partners/index.lang:562
 msgid "Download PDF"
 msgstr "PDF sćahnyć"
+
+#~ msgctxt "./firefox/partners/index.lang:463"
+#~ msgid "First Name"
+#~ msgstr "Předmjeno"
+
+#~ msgctxt "./firefox/partners/index.lang:473"
+#~ msgid "Last Name"
+#~ msgstr "Swójbne mjeno"
+
+#~ msgctxt "./firefox/partners/index.lang:483"
+#~ msgid "Title"
+#~ msgstr "Titul"
+
+#~ msgctxt "./firefox/partners/index.lang:488"
+#~ msgid "Company"
+#~ msgstr "Předewzaće"
+
+#~ msgctxt "./firefox/partners/index.lang:498"
+#~ msgid "Website"
+#~ msgstr "Websydło"
+
+#~ msgctxt "./firefox/partners/index.lang:513"
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgctxt "./firefox/partners/index.lang:518"
+#~ msgid "Mobile"
+#~ msgstr "Mobilny"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-21 10:54+0100\n"
+"POT-Creation-Date: 2014-04-04 14:44+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -178,71 +178,77 @@ msgstr "ആഡ് ഓന്‍സ് ഉപയോഗിച്ച് ഇശ്ച
 msgid "Learn More"
 msgstr "കൂടുതല്‍ അറിയുക"
 
-#: main.lang:161
+#. Same as previous above but with no capitalization on More
+#: main.lang:162
+#, fuzzy
+msgid "Learn more"
+msgstr "കൂടുതല്‍ അറിയുക"
+
+#: main.lang:166
 msgid "Watch the video"
 msgstr "വീഡിയോ കാണൂ"
 
-#: main.lang:165
+#: main.lang:170
 msgid "WebM format"
 msgstr "WebM ഫോര്‍മാറ്റ്"
 
-#: main.lang:169
+#: main.lang:174
 msgid "Ogg Theora format"
 msgstr "Ogg Theora ഫോര്‍മാറ്റ്"
 
-#: main.lang:173
+#: main.lang:178
 msgid "MPEG-4 format"
 msgstr "MPEG-4 ഫോര്‍മാറ്റ്"
 
-#: main.lang:177
+#: main.lang:182
 msgid "Mobile"
 msgstr "മൊബൈല്‍"
 
-#: main.lang:181
+#: main.lang:186
 msgid "Check out the new look and feel of Firefox."
 msgstr "Firefox-ന്റെ പുതിയ ശൈലിയും ഭാവവും തൊട്ടറിയൂ."
 
-#: main.lang:185
+#: main.lang:190
 msgid "View Full Site"
 msgstr "സൈറ്റ് പൂര്‍ണ്ണമായി കാണുക"
 
-#: main.lang:189
+#: main.lang:194
 msgid "Get Firefox for Android"
 msgstr "ആന്‍ഡ്രോയിഡില്‍ നിന്നും ഫയര്‍ഫോക്സ് ലഭ്യമാക്കൂ"
 
-#: main.lang:193
+#: main.lang:198
 msgid "Download for <span>Android</span>"
 msgstr "<span>ആന്‍ഡ്രോയിഡ്</span>-നായി ഡൌണ്‍ലോഡ് ചെയ്യൂ"
 
-#: main.lang:197
+#: main.lang:202
 msgid "Desktop"
 msgstr "പണിയിടം"
 
-#: main.lang:201
+#: main.lang:206
 msgid "Firefox Beta for mobile"
 msgstr "മൊബൈയിലിനുള്ള ഫയര്‍ഫോക്സ് ബീറ്റാ"
 
-#: main.lang:205
+#: main.lang:210
 msgid "Firefox for mobile"
 msgstr "മൊബൈയിലിനുള്ള ഫയര്‍ഫോക്സ്"
 
-#: main.lang:209
+#: main.lang:214
 msgid "Email"
 msgstr "ഈമെയില്‍"
 
-#: main.lang:213
+#: main.lang:218
 msgid "Super speed"
 msgstr "അടിപൊളി വേഗത"
 
-#: main.lang:217
+#: main.lang:222
 msgid "Stunning graphics"
 msgstr "അടിപോളി ഗ്രാഫിക്സ്"
 
-#: main.lang:221
+#: main.lang:226
 msgid "The latest technologies"
 msgstr "ഏറ്റവും പുതിയ ടെക്നോളജികള്‍"
 
-#: main.lang:225
+#: main.lang:230
 msgid ""
 "You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
 "new Firefox for the best in browsing and customization on the Web. <br/>   "
@@ -251,30 +257,30 @@ msgstr ""
 "നിങ്ങള്‍ക്കൊരു പരിഷ്കരണം ആവശ്യമുണ്ടു്! ഒരു മിനിറ്റില്‍ എല്ലാം ലഭ്യമാക്കുക. <br/>ഏറ്റവും ഉത്തമമായ "
 "ബ്രൌസിങിനായി പുതിയ ഫയര്‍ഫോക്സ് ഉപയോഗിയ്ക്കുക. <br/>   ഇതു് സൌജന്യമാകുന്നു!"
 
-#: main.lang:229
+#: main.lang:234
 msgid "Upgrade now"
 msgstr "ഉടന്‍ പരിഷ്കരിയ്ക്കുക"
 
-#: main.lang:233
+#: main.lang:238
 msgid "Update now"
 msgstr "ഉടന്‍ പുതുക്കുക"
 
-#: main.lang:237
+#: main.lang:242
 msgid "Supported Devices"
 msgstr "പിന്തുണയ്ക്കുന്ന ഡിവൈസുകള്‍"
 
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-#: main.lang:242
+#: main.lang:247
 msgid "What’s New"
 msgstr "പുതിയതെന്തെല്ലാം"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons
-#: main.lang:247
+#: main.lang:252
 msgid "Privacy"
 msgstr "സ്വകാര്യത"
 
 #. Footer string
-#: main.lang:252
+#: main.lang:257
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
@@ -285,171 +291,191 @@ msgstr ""
 "ലഭ്യം."
 
 #. Footer string
-#: main.lang:257
+#: main.lang:262
 msgid "Contribute to this page"
 msgstr "ഈ താളിനു് സംഭവന നല്‍കുക"
 
 #. Top menu item
-#: main.lang:262
+#: main.lang:267
 msgid "Mission"
 msgstr "ഉദ്ദേശ്യം"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:267
+#: main.lang:272
 msgid "Tour"
 msgstr "പര്യടനം"
 
 #. Footer item
-#: main.lang:272
+#: main.lang:277
 msgid "Partner with Us"
 msgstr "ഞങ്ങളുടെ പങ്കാളിയാകുക"
 
 #. Top menu item on firefox/update page
-#: main.lang:277
+#: main.lang:282
 msgid "Performance"
 msgstr "പ്രവര്‍ത്തനം"
 
 #. Top menu item on firefox/update page
-#: main.lang:282
+#: main.lang:287
 msgid "Technology"
 msgstr "സങ്കേതികവിദ്യ"
 
 #. Top menu item on firefox/update page
-#: main.lang:287
+#: main.lang:292
 msgid "Privacy &amp; Security"
 msgstr "സ്വകാര്യതയും സുരക്ഷയും"
 
 #. Top menu item on firefox/update page
-#: main.lang:292
+#: main.lang:297
 msgid "Releases"
 msgstr "പതിപ്പുകള്‍"
 
 #. Top menu item on firefox/update page
-#: main.lang:297
+#: main.lang:302
 msgid "Overview"
 msgstr "അവലോകനം"
 
 #. Top menu item on firefox/update page
-#: main.lang:302
+#: main.lang:307
 msgid "Firefox"
 msgstr "ഫയര്‍ഫോക്സ്"
 
 #. Top menu item on firefox/update page
-#: main.lang:307
+#: main.lang:312
 msgid "Firefox for Organizations"
 msgstr "സ്ഥാപനങ്ങള്‍ക്കുള്ള ഫയര്‍ഫോക്സ്"
 
 #. Top menu item on firefox/update page
-#: main.lang:312
+#: main.lang:317
 msgid "Desktop Add-ons"
 msgstr "പണിയിടത്തിനുള്ള ആഡ്-ഓണുകള്‍"
 
 #. Top menu item on firefox/update page
-#: main.lang:317
+#: main.lang:322
 msgid "Mobile Add-ons"
 msgstr "മൊബൈലിനുള്ള ആഡ്-ഓണുകള്‍"
 
 #. Top menu item on firefox/update page
-#: main.lang:322
+#: main.lang:327
 msgid "Themes"
 msgstr "പ്രമേയങ്ങള്‍"
 
 #. Top menu item on firefox/update page
-#: main.lang:327
+#: main.lang:332
 msgid "Desktop Support"
 msgstr "പണിയിട പിന്തുണ"
 
 #. Top menu item on firefox/update page
-#: main.lang:332
+#: main.lang:337
 msgid "Mobile Support"
 msgstr "മൊബൈല്‍ പിന്തുണ"
 
 #. Top menu item on firefox/update page
-#: main.lang:337
+#: main.lang:342
 msgid "Blog"
 msgstr "ബ്ലോഗ്"
 
 #. Top menu item on firefox/update page
-#: main.lang:342
+#: main.lang:347
 msgid "About Firefox"
 msgstr "ഫയര്‍ഫോക്സിനെപ്പറ്റി"
 
 #. Top menu item on firefox/update page
-#: main.lang:347
+#: main.lang:352
 msgid "Join Mozilla"
 msgstr "മോസിലയില്‍ പങ്കു് ചേരുക"
 
 #. Top menu item on firefox/update page
-#: main.lang:352
+#: main.lang:357
 msgid "Participate"
 msgstr "പങ്കു് ചേരുക"
 
 #. Top menu item on firefox/update page
-#: main.lang:357
+#: main.lang:362
 msgid "Brand Toolkit"
 msgstr "ബ്രാന്‍ഡ് ടൂള്‍ക്കിറ്റ്"
 
 #. Top menu item on firefox/update page
-#: main.lang:362
+#: main.lang:367
 msgid "Partnerships"
 msgstr "പങ്കാളികള്‍"
 
 #. Newsletter subscription form above footer on some pages
-#: main.lang:367
+#: main.lang:372
 msgid "Get Mozilla updates"
 msgstr ""
 
 #. share button for social networks
-#: main.lang:372
+#: main.lang:377
 msgid "Share"
 msgstr ""
 
 #. footer link
-#: main.lang:377
+#: main.lang:382
 msgid "Mozilla on Twitter"
 msgstr ""
 
 #. footer link
-#: main.lang:382
+#: main.lang:387
 msgid "Firefox on Twitter"
 msgstr ""
 
 #. footer link
-#: main.lang:387
+#: main.lang:392
 msgid "Mozilla on Facebook"
 msgstr ""
 
 #. footer link
-#: main.lang:392
+#: main.lang:397
 msgid "Firefox on Facebook"
 msgstr ""
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:397
+#: main.lang:402
 msgid "Forums"
 msgstr ""
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:402
+#: main.lang:407
 msgid "Governance"
 msgstr ""
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:407
+#: main.lang:412
 msgid "History"
 msgstr ""
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:412
+#: main.lang:417
 msgid "Our Products"
 msgstr ""
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:417
+#: main.lang:422
 msgid "Software and other innovations designed to advance our mission."
 msgstr ""
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:422
+#: main.lang:427
 msgid "Become a volunteer contributor in a number of different areas."
+msgstr ""
+
+#. This is a non-visible string for blind people to indicate where the menu is
+#: main.lang:432
+msgid "Menu"
+msgstr ""
+
+#. Menu item on top of Australis Firefox pages
+#: main.lang:437
+msgid "Trusted"
+msgstr ""
+
+#. Menu item on top of Australis Firefox pages
+#: main.lang:442
+msgid "Flexible"
+msgstr ""
+
+#. Menu item on top of Australis Firefox pages
+#: main.lang:447
+msgid "Fast"
 msgstr ""

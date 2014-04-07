@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-28 22:03+0100\n"
+"POT-Creation-Date: 2014-04-07 15:36+0100\n"
 "PO-Revision-Date: 2014-02-21 12:29+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.11.0\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1392985790.000000\n"
 
 #. <title> tag
@@ -375,15 +375,20 @@ msgid "Have an app?"
 msgstr ""
 
 #: firefox/partners/index.lang:313
+msgid "Submit it to Firefox Marketplace today"
+msgstr ""
+
+#. Obsolete string, will be removed when bug 981909 is fixed
+#: firefox/partners/index.lang:318
 msgid "Submit it to the Firefox Marketplace today"
 msgstr ""
 
 #. Title
-#: firefox/partners/index.lang:318
+#: firefox/partners/index.lang:323
 msgid "A superior Web experience"
 msgstr ""
 
-#: firefox/partners/index.lang:322
+#: firefox/partners/index.lang:327
 msgid ""
 "With high-performance, advanced cross-platform features and the latest in "
 "security, our top-rated browser offers an alternative to closed platforms, "
@@ -392,11 +397,11 @@ msgid ""
 msgstr ""
 
 #. Title
-#: firefox/partners/index.lang:327
+#: firefox/partners/index.lang:332
 msgid "Strengthen customer relationships"
 msgstr ""
 
-#: firefox/partners/index.lang:331
+#: firefox/partners/index.lang:336
 msgid ""
 "Create your own unique branded sections of Firefox for Android and Firefox "
 "Marketplace for a more engaging user experience and to increase the "
@@ -404,11 +409,11 @@ msgid ""
 msgstr ""
 
 #. Title
-#: firefox/partners/index.lang:336
+#: firefox/partners/index.lang:341
 msgid "Create new value for both you and your users"
 msgstr ""
 
-#: firefox/partners/index.lang:340
+#: firefox/partners/index.lang:345
 msgid ""
 "Take advantage of service opportunities like Firefox Marketplace and WebRTC "
 "to create new, platform-independent offerings and establish direct customer "
@@ -416,248 +421,278 @@ msgid ""
 msgstr ""
 
 #. Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
-#: firefox/partners/index.lang:345
+#: firefox/partners/index.lang:350
 msgid "Stand out <br>from the crowd"
 msgstr ""
 
-#: firefox/partners/index.lang:349
+#: firefox/partners/index.lang:354
 msgid ""
 "Take advantage of our strong brand and service offerings to differentiate "
 "your product and drive sales."
 msgstr ""
 
 #. List Title
-#: firefox/partners/index.lang:354
+#: firefox/partners/index.lang:359
 #, fuzzy
 msgid "Firefox for Android lets you:"
 msgstr "ఆండ్రాయిడ్ కొరకు ఫైర్‌ఫాక్స్ చిత్రం"
 
 #. list item sub-title
-#: firefox/partners/index.lang:359
+#: firefox/partners/index.lang:364
 msgid "Customize the experience"
 msgstr ""
 
-#: firefox/partners/index.lang:363
+#: firefox/partners/index.lang:368
 msgid ""
 "Add your brand and content to increase customer touchpoints, improve "
 "retention and drive future sales."
 msgstr ""
 
 #. list item sub-title
-#: firefox/partners/index.lang:368
+#: firefox/partners/index.lang:373
 msgid "Build new service offerings"
 msgstr ""
 
-#: firefox/partners/index.lang:372
+#: firefox/partners/index.lang:377
 msgid ""
 "Integrate services directly into the browser with Firefox Marketplace and "
 "WebRTC to free yourself from the constraints of proprietary platforms."
 msgstr ""
 
 #. list item sub-title
-#: firefox/partners/index.lang:377
+#: firefox/partners/index.lang:382
 msgid "Direct customer billing"
 msgstr ""
 
-#: firefox/partners/index.lang:381
+#: firefox/partners/index.lang:386
 msgid ""
 "Grow your business by combining your own customer payment plans with our "
 "open source service offerings."
 msgstr ""
 
-#: firefox/partners/index.lang:385
+#: firefox/partners/index.lang:390
 msgid "Partner Opportunities"
 msgstr ""
 
-#: firefox/partners/index.lang:389
+#: firefox/partners/index.lang:394
 msgid "For Developers"
 msgstr ""
 
-#: firefox/partners/index.lang:393
+#: firefox/partners/index.lang:398
 msgid "For Operators & Manufacturers"
 msgstr ""
 
-#: firefox/partners/index.lang:397
+#: firefox/partners/index.lang:402
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:397"
+msgctxt "./firefox/partners/index.lang:402"
 msgid "Mobile"
 msgstr "మొబైల్"
 
-#: firefox/partners/index.lang:401
+#: firefox/partners/index.lang:406
 msgid "Firefox Marketplace — Developer testimonials"
 msgstr ""
 
-#: firefox/partners/index.lang:405
+#: firefox/partners/index.lang:410
 #, fuzzy
 msgid "Get it on Google Play"
 msgstr "దీన్ని ఉచితంగా గూగుల్ ప్లే నుండి పొందండి"
 
 #. altenate text on an image
-#: firefox/partners/index.lang:410
+#: firefox/partners/index.lang:415
 msgid "Mobile World Congress 2014"
 msgstr ""
 
 #. Press title in Recent News
-#: firefox/partners/index.lang:415
+#: firefox/partners/index.lang:420
 msgid "Watch our wrap-up video from Mobile World Congress 2013"
 msgstr ""
 
 #. Press title in Recent News
-#: firefox/partners/index.lang:420
+#: firefox/partners/index.lang:425
 msgid "Mozilla and partners prepare to launch first Firefox OS smartphones"
 msgstr ""
 
 #. Line break below is presentational only
-#: firefox/partners/index.lang:425
+#: firefox/partners/index.lang:430
 msgid "View available Firefox OS devices"
 msgstr ""
 
 #. Line break below is presentational only
-#: firefox/partners/index.lang:430
+#: firefox/partners/index.lang:435
 msgid "Watch the daily <br>MWC video recap"
 msgstr ""
 
 #. Line break below is presentational only, Fox Den should remain in English, it is a location at the event on the Mozilla stand
-#: firefox/partners/index.lang:435
+#: firefox/partners/index.lang:440
 msgid "Fox Den &amp; other <br>MWC events"
 msgstr ""
 
 #. Title for the schedule overlay
-#: firefox/partners/index.lang:440
+#: firefox/partners/index.lang:445
 msgid "Firefox at MWC 2014 &ndash; Schedule of Events"
 msgstr ""
 
 #. Line break below is presentational only
-#: firefox/partners/index.lang:445
+#: firefox/partners/index.lang:450
 msgid "Firefox tweets from <br>MWC in Barcelona"
 msgstr ""
 
-#: firefox/partners/index.lang:449
+#: firefox/partners/index.lang:454
 msgid "View the version notes"
 msgstr ""
 
-#: firefox/partners/index.lang:453
+#: firefox/partners/index.lang:458
 msgid "Read about features, changes and more"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:458
+#: firefox/partners/index.lang:463
 msgid "Description"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:463
+#: firefox/partners/index.lang:468
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:463"
+msgctxt "./firefox/partners/index.lang:468"
 msgid "First Name"
 msgstr "మొదటి పేరు"
 
 #. Form error message
-#: firefox/partners/index.lang:468
+#: firefox/partners/index.lang:473
 msgid "Please enter your first name."
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:473
+#: firefox/partners/index.lang:478
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:473"
+msgctxt "./firefox/partners/index.lang:478"
 msgid "Last Name"
 msgstr "ఇంటి పేరు"
 
 #. Form error message
-#: firefox/partners/index.lang:478
+#: firefox/partners/index.lang:483
 msgid "Please enter your last name."
 msgstr ""
 
 #. ex: president, CEO...
-#: firefox/partners/index.lang:483
-msgctxt "./firefox/partners/index.lang:483"
+#: firefox/partners/index.lang:488
+msgctxt "./firefox/partners/index.lang:488"
 msgid "Title"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:488
+#: firefox/partners/index.lang:493
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:488"
+msgctxt "./firefox/partners/index.lang:493"
 msgid "Company"
 msgstr "కంపెనీ"
 
 #. Form error message
-#: firefox/partners/index.lang:493
+#: firefox/partners/index.lang:498
 msgid "Please enter your company name."
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:498
+#: firefox/partners/index.lang:503
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:498"
+msgctxt "./firefox/partners/index.lang:503"
 msgid "Website"
 msgstr "వెబ్‌సైటు"
 
 #. Form error message
-#: firefox/partners/index.lang:503
+#: firefox/partners/index.lang:508
 msgid "Please supply a valid URL."
 msgstr ""
 
 #. Form error message
-#: firefox/partners/index.lang:508
+#: firefox/partners/index.lang:513
 #, fuzzy
 msgid "Please enter a valid email address"
 msgstr "దయచేసి సరైన ఈమెయిలు చిరునామాను ఇవ్వండి."
 
 #. Form field
-#: firefox/partners/index.lang:513
+#: firefox/partners/index.lang:518
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:513"
+msgctxt "./firefox/partners/index.lang:518"
 msgid "Phone"
 msgstr "ఫోను"
 
 #. form, asking for mobile phone number
-#: firefox/partners/index.lang:518
+#: firefox/partners/index.lang:523
 #, fuzzy
-msgctxt "./firefox/partners/index.lang:518"
+msgctxt "./firefox/partners/index.lang:523"
 msgid "Mobile"
 msgstr "మొబైల్"
 
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:523
+#: firefox/partners/index.lang:528
 #, fuzzy
 msgid "Address"
 msgstr "చిరునామా:"
 
 #. Form field
-#: firefox/partners/index.lang:528
+#: firefox/partners/index.lang:533
 msgid "City"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:533
+#: firefox/partners/index.lang:538
 msgid "State/Province"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:538
+#: firefox/partners/index.lang:543
 msgid "Country"
 msgstr ""
 
 #. Form field, postal code
-#: firefox/partners/index.lang:543
+#: firefox/partners/index.lang:548
 msgid "Zip"
 msgstr ""
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:548
+#: firefox/partners/index.lang:553
 msgid "Register for a session"
 msgstr ""
 
 #. map header
-#: firefox/partners/index.lang:553
+#: firefox/partners/index.lang:558
 msgid "Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30"
 msgstr ""
 
-#: firefox/partners/index.lang:557
+#: firefox/partners/index.lang:562
 msgid "Download PDF"
 msgstr ""
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:463"
+#~ msgid "First Name"
+#~ msgstr "మొదటి పేరు"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:473"
+#~ msgid "Last Name"
+#~ msgstr "ఇంటి పేరు"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:488"
+#~ msgid "Company"
+#~ msgstr "కంపెనీ"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:498"
+#~ msgid "Website"
+#~ msgstr "వెబ్‌సైటు"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:513"
+#~ msgid "Phone"
+#~ msgstr "ఫోను"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:518"
+#~ msgid "Mobile"
+#~ msgstr "మొబైల్"
 
 #, fuzzy
 #~ msgctxt "./firefox/partners/index.lang:459"

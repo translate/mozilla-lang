@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-21 10:54+0100\n"
+"POT-Creation-Date: 2014-04-04 14:44+0200\n"
 "PO-Revision-Date: 2014-03-06 15:22+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.11.0\n"
 "X-POOTLE-MTIME: 1394119325.000000\n"
 
 #: main.lang:1
@@ -181,71 +181,77 @@ msgstr "Gnàthaich le tuilleadain"
 msgid "Learn More"
 msgstr "Barrachd fiosrachaidh"
 
-#: main.lang:161
+#. Same as previous above but with no capitalization on More
+#: main.lang:162
+#, fuzzy
+msgid "Learn more"
+msgstr "Barrachd fiosrachaidh"
+
+#: main.lang:166
 msgid "Watch the video"
 msgstr "Coimhead air a' video"
 
-#: main.lang:165
+#: main.lang:170
 msgid "WebM format"
 msgstr "Fòrmat WebM"
 
-#: main.lang:169
+#: main.lang:174
 msgid "Ogg Theora format"
 msgstr "Fòrmat Ogg Theora"
 
-#: main.lang:173
+#: main.lang:178
 msgid "MPEG-4 format"
 msgstr "Fòrmat MPEG-4"
 
-#: main.lang:177
+#: main.lang:182
 msgid "Mobile"
 msgstr "Gluasadach"
 
-#: main.lang:181
+#: main.lang:186
 msgid "Check out the new look and feel of Firefox."
 msgstr "Thoir sùil air an dreach ùr snasail a tha air Firefox."
 
-#: main.lang:185
+#: main.lang:190
 msgid "View Full Site"
 msgstr "Seall an làrach shlàn"
 
-#: main.lang:189
+#: main.lang:194
 msgid "Get Firefox for Android"
 msgstr "Faigh Firefox airson Android"
 
-#: main.lang:193
+#: main.lang:198
 msgid "Download for <span>Android</span>"
 msgstr "Luchdaich a-nuas airson <span>Android</span>"
 
-#: main.lang:197
+#: main.lang:202
 msgid "Desktop"
 msgstr "Deasg"
 
-#: main.lang:201
+#: main.lang:206
 msgid "Firefox Beta for mobile"
 msgstr "Firefox Beta airson innealan-làimhe"
 
-#: main.lang:205
+#: main.lang:210
 msgid "Firefox for mobile"
 msgstr "Firefox airson innealan-làimhe"
 
-#: main.lang:209
+#: main.lang:214
 msgid "Email"
 msgstr "Post-d"
 
-#: main.lang:213
+#: main.lang:218
 msgid "Super speed"
 msgstr "Cho luath ri seabhag"
 
-#: main.lang:217
+#: main.lang:222
 msgid "Stunning graphics"
 msgstr "Grafaigean do-chreidsinneach"
 
-#: main.lang:221
+#: main.lang:226
 msgid "The latest technologies"
 msgstr "An teicneolas as ùire"
 
-#: main.lang:225
+#: main.lang:230
 msgid ""
 "You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
 "new Firefox for the best in browsing and customization on the Web. <br/>   "
@@ -256,30 +262,30 @@ msgstr ""
 "brabhsadh 's an gnàthachadh as fhearr air an lìon. <br/>   Tha e luath 's "
 "saor an-asgaidh!"
 
-#: main.lang:229
+#: main.lang:234
 msgid "Upgrade now"
 msgstr "Àrdaich an-dràsta"
 
-#: main.lang:233
+#: main.lang:238
 msgid "Update now"
 msgstr "Ùraich an-dràsta"
 
-#: main.lang:237
+#: main.lang:242
 msgid "Supported Devices"
 msgstr "Uidheaman ris a bheil taic"
 
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-#: main.lang:242
+#: main.lang:247
 msgid "What’s New"
 msgstr "Na tha ùr"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons
-#: main.lang:247
+#: main.lang:252
 msgid "Privacy"
 msgstr "Prìobhaideachd"
 
 #. Footer string
-#: main.lang:252
+#: main.lang:257
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
@@ -290,174 +296,194 @@ msgstr ""
 "\">Creative Commons</a>."
 
 #. Footer string
-#: main.lang:257
+#: main.lang:262
 msgid "Contribute to this page"
 msgstr "Cuir ris an duilleag seo"
 
 #. Top menu item
-#: main.lang:262
+#: main.lang:267
 msgid "Mission"
 msgstr "Am misean"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:267
+#: main.lang:272
 msgid "Tour"
 msgstr "Turas"
 
 #. Footer item
-#: main.lang:272
+#: main.lang:277
 msgid "Partner with Us"
 msgstr "Rach ann an com-pàirteachas leinn"
 
 #. Top menu item on firefox/update page
-#: main.lang:277
+#: main.lang:282
 msgid "Performance"
 msgstr "Dèanadas"
 
 #. Top menu item on firefox/update page
-#: main.lang:282
+#: main.lang:287
 msgid "Technology"
 msgstr "Teicneolas"
 
 #. Top menu item on firefox/update page
-#: main.lang:287
+#: main.lang:292
 msgid "Privacy &amp; Security"
 msgstr "Prìobhaideachd ⁊ Tèarainteachd"
 
 #. Top menu item on firefox/update page
-#: main.lang:292
+#: main.lang:297
 msgid "Releases"
 msgstr "Sgaoilidhean"
 
 #. Top menu item on firefox/update page
-#: main.lang:297
+#: main.lang:302
 msgid "Overview"
 msgstr "Foir-shealladh"
 
 #. Top menu item on firefox/update page
-#: main.lang:302
+#: main.lang:307
 msgid "Firefox"
 msgstr "Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:307
+#: main.lang:312
 msgid "Firefox for Organizations"
 msgstr "Firefox do bhuidhnean"
 
 #. Top menu item on firefox/update page
-#: main.lang:312
+#: main.lang:317
 msgid "Desktop Add-ons"
 msgstr "Tuilleadain deasga"
 
 #. Top menu item on firefox/update page
-#: main.lang:317
+#: main.lang:322
 msgid "Mobile Add-ons"
 msgstr "Tuilleadain mobile"
 
 #. Top menu item on firefox/update page
-#: main.lang:322
+#: main.lang:327
 msgid "Themes"
 msgstr "Ùrlaran"
 
 #. Top menu item on firefox/update page
-#: main.lang:327
+#: main.lang:332
 msgid "Desktop Support"
 msgstr "Taic airson Firefox deasga"
 
 #. Top menu item on firefox/update page
-#: main.lang:332
+#: main.lang:337
 msgid "Mobile Support"
 msgstr "Taic airson Firefox mobile"
 
 #. Top menu item on firefox/update page
-#: main.lang:337
+#: main.lang:342
 msgid "Blog"
 msgstr "Bloga"
 
 #. Top menu item on firefox/update page
-#: main.lang:342
+#: main.lang:347
 msgid "About Firefox"
 msgstr "Mu dhèidhinn Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:347
+#: main.lang:352
 msgid "Join Mozilla"
 msgstr "Gabh pàirt ann am Mozilla"
 
 #. Top menu item on firefox/update page
-#: main.lang:352
+#: main.lang:357
 msgid "Participate"
 msgstr "Gabh pàirt"
 
 #. Top menu item on firefox/update page
-#: main.lang:357
+#: main.lang:362
 msgid "Brand Toolkit"
 msgstr "Brand Toolkit"
 
 #. Top menu item on firefox/update page
-#: main.lang:362
+#: main.lang:367
 msgid "Partnerships"
 msgstr "Com-pàirteachasan"
 
 #. Newsletter subscription form above footer on some pages
-#: main.lang:367
+#: main.lang:372
 msgid "Get Mozilla updates"
 msgstr "Faigh ùrachaidhean Mozilla"
 
 #. share button for social networks
-#: main.lang:372
+#: main.lang:377
 msgid "Share"
 msgstr "Co-roinn"
 
 #. footer link
-#: main.lang:377
+#: main.lang:382
 msgid "Mozilla on Twitter"
 msgstr "Mozilla air Twitter"
 
 #. footer link
-#: main.lang:382
+#: main.lang:387
 msgid "Firefox on Twitter"
 msgstr "Firefox air Twitter"
 
 #. footer link
-#: main.lang:387
+#: main.lang:392
 msgid "Mozilla on Facebook"
 msgstr "Mozilla air Facebook"
 
 #. footer link
-#: main.lang:392
+#: main.lang:397
 msgid "Firefox on Facebook"
 msgstr "Firefox air Facebook"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:397
+#: main.lang:402
 msgid "Forums"
 msgstr "Fòraman"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:402
+#: main.lang:407
 msgid "Governance"
 msgstr "Riaghlachas"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:407
+#: main.lang:412
 msgid "History"
 msgstr "Eachdraidh"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:412
+#: main.lang:417
 msgid "Our Products"
 msgstr "Am bathar againn"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:417
+#: main.lang:422
 msgid "Software and other innovations designed to advance our mission."
 msgstr "Bathar-bog is tionnsgnadh eile a chuireas ris a' mhisean againn."
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:422
+#: main.lang:427
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "'S urrainn dhut pàirt a ghabhail mar shaor-thoileach air iomadh dòigh."
+
+#. This is a non-visible string for blind people to indicate where the menu is
+#: main.lang:432
+msgid "Menu"
+msgstr ""
+
+#. Menu item on top of Australis Firefox pages
+#: main.lang:437
+msgid "Trusted"
+msgstr ""
+
+#. Menu item on top of Australis Firefox pages
+#: main.lang:442
+msgid "Flexible"
+msgstr ""
+
+#. Menu item on top of Australis Firefox pages
+#: main.lang:447
+msgid "Fast"
+msgstr ""
 
 #~ msgid "Press area"
 #~ msgstr "Raon an luchd-naidheachd"
