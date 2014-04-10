@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-16 14:17+0100\n"
+"POT-Creation-Date: 2014-04-10 11:30+0100\n"
 "PO-Revision-Date: 2013-12-20 23:54+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: none\n"
@@ -11,202 +11,143 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1387583657.000000\n"
 
 #: templates/mozorg/emails/addons.txt:1
 msgid ""
-"Thank you for your interest in Firefox Add-ons. It's easy to start "
-"contributing--whether by leaving a review of your favorite add-on, designing "
-"a theme, or creating an add-on, your efforts matter!"
+"Thank you for your interest in Add-ons. Whether you're technical or not at "
+"all, there's a contribution opportunity for you. It's easy to get started, "
+"and your efforts are appreciated!"
 msgstr ""
-"فائر فاکس کے اضافہ جات میں دلچسپی کے لیے آپ کا شکریہ۔ اس میں معاونت کا آغاز "
-"کرنا آسان ہے -- خواہ اپنے پسندیدہ اضافے پر تبصرہ کرنے، ایک خیالیہ ڈیزائن "
-"کرنے یا ایک اضافہ تخلیق کرنے کے ذریعہ سے ہو، آپ کی کاوشیں اہمیت رکھتی ہیں۔"
 
 #: templates/mozorg/emails/addons.txt:3
-#, fuzzy
 msgid ""
-"If you are new to add-ons, here are some things you can do at https://addons."
-"mozilla.org:"
+"Please check our Wiki page for the most up-to-date information on "
+"contribution opportunities: https://wiki.mozilla.org/Marketplace/"
+"Contributing/Addons"
 msgstr ""
-"اگر آپ فائر فاکس کے لیے نئے ہیں، تو یہاں چند کام ہیں جو آپ https://addons."
-"mozilla.org پر سرانجام دے سکتے ہیں:"
 
 #: templates/mozorg/emails/addons.txt:5
-#, fuzzy
 msgid ""
-"============================\n"
-"REVIEW YOUR FAVORITE ADD-ONS\n"
-"============================"
+"From reviewing your favorite add-ons, to creating a lightweight theme, to "
+"developing an add-on or reviewing submissions, there's something for every "
+"skill level."
 msgstr ""
-"==============================\n"
-"اپنے پسندیدہ اضافہ جات پر تبصرہ کریں\n"
-"=============================="
+
+#: templates/mozorg/emails/addons.txt:7
+msgid "If you have any questions, please feel free to email us!"
+msgstr ""
 
 #: templates/mozorg/emails/addons.txt:9
 msgid ""
-"Search for your favorite add-on at https://addons.mozilla.org. On the add-"
-"on's detail page, scroll down to the Reviews section and leave a comment for "
-"the developer."
-msgstr ""
-"https://addons.mozilla.org پر اپنے پسندیدہ اضافہ جات تلاش کریں۔ اضافہ جات کی "
-"تفصیلات کے صفحے پر، تبصرہ جات کے صیغے تک نیچے طومار کریں اور ترقی دہندہ کے "
-"لیے تبصرہ چھوڑیں۔"
-
-#: templates/mozorg/emails/addons.txt:11
-#, fuzzy
-msgid ""
-"====================\n"
-"CREATE A COLLECTION\n"
-"===================="
-msgstr ""
-"=====================\n"
-"ایک مجموعہ بنائیں\n"
-"====================="
-
-#: templates/mozorg/emails/addons.txt:15
-msgid ""
-"Collections make it easy to keep track of favorite add-ons and share your "
-"perfectly customized browser with others. Get started here:\n"
-"https://addons.mozilla.org/firefox/collections/"
-msgstr ""
-"مجموعے پسندیدہ اضافہ جات کا سراغ راہ رکھنے اور آپ کے مکمل طور پر تخصیص شدہ "
-"براؤزر کو دوسروں کے ساتھ شریک کرنے کو آسان بناتے ہیں۔ یہاں سے آغاز کریں:\n"
-"https://addons.mozilla.org/firefox/collections/"
-
-#: templates/mozorg/emails/addons.txt:18
-#, fuzzy
-msgid ""
-"===============\n"
-"CREATE A THEME\n"
-"==============="
-msgstr ""
-"================\n"
-"ایک خیالیہ بنائیں\n"
-"================"
-
-#: templates/mozorg/emails/addons.txt:22
-#, fuzzy
-msgid ""
-"Background Themes let you personalize the look of your Firefox. To create "
-"your own, start here:\n"
-"https://addons.mozilla.org/developers/docs/themes"
-msgstr ""
-"پس منظری خیالیے آپ کو اپنے Firefox کی وضع ذاتی بنانے دیتے ہیں۔ خود اپنا "
-"خیالیہ تخلیق کرنے کے لیے، یہاں سے آغاز کریں:\n"
-"https://addons.mozilla.org/firefox/themes/"
-
-#: templates/mozorg/emails/addons.txt:25
-msgid "---"
-msgstr ""
-
-#: templates/mozorg/emails/addons.txt:27
-msgid ""
-"If you are a more technical contributor, here are some things you can do:"
-msgstr ""
-"اگر آپ زیادہ تکنیکی معاون ہیں، تو یہاں کچھ کام ہیں جو آپ سرانجام دے سکتے ہیں:"
-
-#: templates/mozorg/emails/addons.txt:29
-#, fuzzy
-msgid ""
-"=================\n"
-"CREATE AN ADD-ON\n"
-"================="
-msgstr ""
-"==================\n"
-"اضافہ بنائیں\n"
-"=================="
-
-#: templates/mozorg/emails/addons.txt:33
-msgid ""
-"To get started, take a look at the Add-ons Developer Hub. It contains "
-"documentation, tools and information on how to get in touch with other "
-"developers:\n"
-"https://addons.mozilla.org/developers/"
-msgstr ""
-
-#: templates/mozorg/emails/addons.txt:36
-msgid ""
-"Builder & SDK: The quickest and easiest way to create add-ons:\n"
-"https://addons.mozilla.org/en-US/developers/builder"
-msgstr ""
-
-#: templates/mozorg/emails/addons.txt:39
-msgid ""
-"XUL School: A comprehensive tutorial for more advanced developers:\n"
-"https://developer.mozilla.org/en/XUL_School"
-msgstr ""
-
-#: templates/mozorg/emails/addons.txt:42
-msgid ""
-"You can post questions and connect with other add-ons developers in the Add-"
-"ons Forum:\n"
-"https://forums.mozilla.org/addons/"
-msgstr ""
-
-#: templates/mozorg/emails/addons.txt:45
-#, fuzzy
-msgid ""
-"=================\n"
-"HELP TEST ADD-ONS\n"
-"================="
-msgstr ""
-"==================\n"
-"ایڈ اون ٹیسٹ کرنے میں مدد کریں\n"
-"=================="
-
-#: templates/mozorg/emails/addons.txt:49
-msgid ""
-"If you are interested in testing add-ons, you can join the quality team:\n"
-"http://quality.mozilla.org/"
-msgstr ""
-
-#: templates/mozorg/emails/addons.txt:52
-msgid ""
-"It's also helpful to install the Add-ons Compatibility Reporter and use it "
-"to let us know when an add-on is not working properly:\n"
-"https://addons.mozilla.org/firefox/addon/add-on-compatibility-reporter"
-msgstr ""
-
-#: templates/mozorg/emails/addons.txt:55
-msgid ""
-"======================\n"
-"HELP ADD-ON DEVELOPERS\n"
-"======================"
-msgstr ""
-
-#: templates/mozorg/emails/addons.txt:59
-msgid ""
-"If you're already familiar with add-on development or you think you're a "
-"good technical writer, help us improve the documentation for add-on "
-"developers: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons"
-msgstr ""
-
-#: templates/mozorg/emails/addons.txt:61
-msgid ""
-"You can also help by translating these docs to a different language (pro "
-"tip: try replacing the en-US part of the link above to your native language "
-"code)."
-msgstr ""
-
-#: templates/mozorg/emails/addons.txt:63
-msgid ""
-"===========\n"
-"QUESTIONS?\n"
-"==========="
-msgstr ""
-
-#: templates/mozorg/emails/addons.txt:67
-msgid "If you have any additional questions, please feel free to email us!"
-msgstr ""
-
-#: templates/mozorg/emails/addons.txt:69
-msgid ""
 "Regards,\n"
 "Amy Tsay\n"
-"Add-ons Community Manager"
+"Community Manager"
 msgstr ""
+
+#~ msgid ""
+#~ "Thank you for your interest in Firefox Add-ons. It's easy to start "
+#~ "contributing--whether by leaving a review of your favorite add-on, "
+#~ "designing a theme, or creating an add-on, your efforts matter!"
+#~ msgstr ""
+#~ "فائر فاکس کے اضافہ جات میں دلچسپی کے لیے آپ کا شکریہ۔ اس میں معاونت کا "
+#~ "آغاز کرنا آسان ہے -- خواہ اپنے پسندیدہ اضافے پر تبصرہ کرنے، ایک خیالیہ "
+#~ "ڈیزائن کرنے یا ایک اضافہ تخلیق کرنے کے ذریعہ سے ہو، آپ کی کاوشیں اہمیت "
+#~ "رکھتی ہیں۔"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you are new to add-ons, here are some things you can do at https://"
+#~ "addons.mozilla.org:"
+#~ msgstr ""
+#~ "اگر آپ فائر فاکس کے لیے نئے ہیں، تو یہاں چند کام ہیں جو آپ https://addons."
+#~ "mozilla.org پر سرانجام دے سکتے ہیں:"
+
+#, fuzzy
+#~ msgid ""
+#~ "============================\n"
+#~ "REVIEW YOUR FAVORITE ADD-ONS\n"
+#~ "============================"
+#~ msgstr ""
+#~ "==============================\n"
+#~ "اپنے پسندیدہ اضافہ جات پر تبصرہ کریں\n"
+#~ "=============================="
+
+#~ msgid ""
+#~ "Search for your favorite add-on at https://addons.mozilla.org. On the add-"
+#~ "on's detail page, scroll down to the Reviews section and leave a comment "
+#~ "for the developer."
+#~ msgstr ""
+#~ "https://addons.mozilla.org پر اپنے پسندیدہ اضافہ جات تلاش کریں۔ اضافہ جات "
+#~ "کی تفصیلات کے صفحے پر، تبصرہ جات کے صیغے تک نیچے طومار کریں اور ترقی "
+#~ "دہندہ کے لیے تبصرہ چھوڑیں۔"
+
+#, fuzzy
+#~ msgid ""
+#~ "====================\n"
+#~ "CREATE A COLLECTION\n"
+#~ "===================="
+#~ msgstr ""
+#~ "=====================\n"
+#~ "ایک مجموعہ بنائیں\n"
+#~ "====================="
+
+#~ msgid ""
+#~ "Collections make it easy to keep track of favorite add-ons and share your "
+#~ "perfectly customized browser with others. Get started here:\n"
+#~ "https://addons.mozilla.org/firefox/collections/"
+#~ msgstr ""
+#~ "مجموعے پسندیدہ اضافہ جات کا سراغ راہ رکھنے اور آپ کے مکمل طور پر تخصیص "
+#~ "شدہ براؤزر کو دوسروں کے ساتھ شریک کرنے کو آسان بناتے ہیں۔ یہاں سے آغاز "
+#~ "کریں:\n"
+#~ "https://addons.mozilla.org/firefox/collections/"
+
+#, fuzzy
+#~ msgid ""
+#~ "===============\n"
+#~ "CREATE A THEME\n"
+#~ "==============="
+#~ msgstr ""
+#~ "================\n"
+#~ "ایک خیالیہ بنائیں\n"
+#~ "================"
+
+#, fuzzy
+#~ msgid ""
+#~ "Background Themes let you personalize the look of your Firefox. To create "
+#~ "your own, start here:\n"
+#~ "https://addons.mozilla.org/developers/docs/themes"
+#~ msgstr ""
+#~ "پس منظری خیالیے آپ کو اپنے Firefox کی وضع ذاتی بنانے دیتے ہیں۔ خود اپنا "
+#~ "خیالیہ تخلیق کرنے کے لیے، یہاں سے آغاز کریں:\n"
+#~ "https://addons.mozilla.org/firefox/themes/"
+
+#~ msgid ""
+#~ "If you are a more technical contributor, here are some things you can do:"
+#~ msgstr ""
+#~ "اگر آپ زیادہ تکنیکی معاون ہیں، تو یہاں کچھ کام ہیں جو آپ سرانجام دے سکتے "
+#~ "ہیں:"
+
+#, fuzzy
+#~ msgid ""
+#~ "=================\n"
+#~ "CREATE AN ADD-ON\n"
+#~ "================="
+#~ msgstr ""
+#~ "==================\n"
+#~ "اضافہ بنائیں\n"
+#~ "=================="
+
+#, fuzzy
+#~ msgid ""
+#~ "=================\n"
+#~ "HELP TEST ADD-ONS\n"
+#~ "================="
+#~ msgstr ""
+#~ "==================\n"
+#~ "ایڈ اون ٹیسٹ کرنے میں مدد کریں\n"
+#~ "=================="
 
 #~ msgid "-------------------------------------------------------------------------------------------------------------------------------------------------"
 #~ msgstr "-------------------------------------------------------------------------------------------------------------------------------------------------"

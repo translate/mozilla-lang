@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-22 21:21+0100\n"
+"POT-Creation-Date: 2014-04-10 11:30+0100\n"
 "PO-Revision-Date: 2013-10-19 12:30+0000\n"
 "Last-Translator: Amed Çeko <amedcj@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!= 1);\n"
-"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1382185855.000000\n"
 
 #. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
@@ -66,10 +66,22 @@ msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr "Eger pêvekên te nû bin, Firefox dê ewletir û tekûztir bixebite."
 
 #: mozorg/plugincheck.lang:54
+msgid ""
+"We are aware of a problem detecting current versions of the Java plugin and "
+"misreporting them as vulnerable."
+msgstr ""
+
+#: mozorg/plugincheck.lang:58
+msgid ""
+"We’re working to correct this error. In the meantime, you can <a href="
+"\"%(download)s\">visit the Java website</a> to download the latest version."
+msgstr ""
+
+#: mozorg/plugincheck.lang:62
 msgid "Plugin Status"
 msgstr "Rewşa Pêvekan"
 
-#: mozorg/plugincheck.lang:58
+#: mozorg/plugincheck.lang:66
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
@@ -77,81 +89,81 @@ msgstr ""
 "Kontrolkara Pêvekan <strong>piştgiriyeke bi lîmît dide Internet Explorerê</"
 "strong>. Her wiha dikarî Amûr &gt; Rêveberiya Pêvekan"
 
-#: mozorg/plugincheck.lang:62
+#: mozorg/plugincheck.lang:70
 msgid "Step 1: Click Update to update a plugin."
 msgstr "Gava 1ê: Ji bo rojanekirina pêvekê Nû bike bitikîne."
 
-#: mozorg/plugincheck.lang:66
+#: mozorg/plugincheck.lang:74
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
 "Gava 2yê: Hemû rojanekirinên pêşniyarkirî  beriya dîsdestpêkirina gerokê "
 "temam bike."
 
-#: mozorg/plugincheck.lang:70
+#: mozorg/plugincheck.lang:78
 msgid "Potentially vulnerable plugins"
 msgstr "Pêvekên bihîstiyariya wan pêkan e"
 
-#: mozorg/plugincheck.lang:74
+#: mozorg/plugincheck.lang:82
 msgid "Plugin"
 msgstr "Pêvek"
 
-#: mozorg/plugincheck.lang:78
+#: mozorg/plugincheck.lang:86
 msgid "Status"
 msgstr "Rewş"
 
-#: mozorg/plugincheck.lang:82
+#: mozorg/plugincheck.lang:90
 msgid "Action"
 msgstr "Çalakî"
 
-#: mozorg/plugincheck.lang:86
+#: mozorg/plugincheck.lang:94
 msgid "Outdated Plugins"
 msgstr "Pêvekên Kevn"
 
-#: mozorg/plugincheck.lang:90
+#: mozorg/plugincheck.lang:98
 msgid "Unknown Plugins"
 msgstr "Pêvekên Nenas"
 
-#: mozorg/plugincheck.lang:94
+#: mozorg/plugincheck.lang:102
 msgid "These plugins are up to date"
 msgstr "Ev pêvek kevn in"
 
-#: mozorg/plugincheck.lang:98
+#: mozorg/plugincheck.lang:106
 msgid "Back to Top"
 msgstr "Vegere Jorê"
 
-#: mozorg/plugincheck.lang:102
+#: mozorg/plugincheck.lang:110
 msgid "Frequently Asked Questions"
 msgstr "Pirsên pir hatine Pirsîn"
 
-#: mozorg/plugincheck.lang:106
+#: mozorg/plugincheck.lang:114
 msgid "What is a plugin?"
 msgstr "Pêvek çi ne?"
 
-#: mozorg/plugincheck.lang:110
+#: mozorg/plugincheck.lang:118
 msgid "Plugins power videos, animation and games"
 msgstr "Pêvek hêzê didine vîdeo, anîmasyon û lîstikan."
 
-#: mozorg/plugincheck.lang:114
+#: mozorg/plugincheck.lang:122
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr ""
 "Ji hêla şirketên ji derveyî Firefoxê ve hatine çêkirin. Mînak: Adobe Systems "
 "û Apple."
 
-#: mozorg/plugincheck.lang:118
+#: mozorg/plugincheck.lang:126
 msgid "Plugins don't always update automatically."
 msgstr "Dibe ku pêvek her tim xweber rojane nabin."
 
-#: mozorg/plugincheck.lang:122
+#: mozorg/plugincheck.lang:130
 msgid "Why should I update my plugins?"
 msgstr "Çima divê ez pêvekên xwe rojane bikim?"
 
-#: mozorg/plugincheck.lang:126
+#: mozorg/plugincheck.lang:134
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr "Pêkan e ku pêvekên kevn gera te qut bikin û dema te bigirin."
 
-#: mozorg/plugincheck.lang:130
+#: mozorg/plugincheck.lang:138
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
@@ -159,7 +171,7 @@ msgstr ""
 "Pêvekên kevn <strong>rîska rûbirûmana</strong> li êrîş, vîrus, sepanên "
 "xêrnexwaz zêde dikin."
 
-#: mozorg/plugincheck.lang:134
+#: mozorg/plugincheck.lang:142
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
@@ -168,15 +180,15 @@ msgstr ""
 "ewletir</strong>."
 
 #. alt image
-#: mozorg/plugincheck.lang:139
+#: mozorg/plugincheck.lang:147
 msgid "Screenshot of Add-Ons manager"
 msgstr "Birêvebera Wêneyê Ekranê û Add-Onan"
 
-#: mozorg/plugincheck.lang:143
+#: mozorg/plugincheck.lang:151
 msgid "How can Firefox help me?"
 msgstr "Firefox dikare çawan alîkariyê bide min?"
 
-#: mozorg/plugincheck.lang:147
+#: mozorg/plugincheck.lang:155
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
@@ -185,11 +197,11 @@ msgstr ""
 "rûpelê bi rêk û pêk kontrol bikî û ji bo ewlekariya xwe divê pêvekên xwe "
 "rojane bikî."
 
-#: mozorg/plugincheck.lang:151
+#: mozorg/plugincheck.lang:159
 msgid "Which Plugins do I have?"
 msgstr "Kîjan pêvekên min hene?"
 
-#: mozorg/plugincheck.lang:155
+#: mozorg/plugincheck.lang:163
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
@@ -197,26 +209,29 @@ msgstr ""
 "Me bi awayekî xweber pêvekên te yên li jêrê vedîtin, ji bo ku pêvekên di "
 "Firefoxa te de saz bûne bibînî van gavan bişopîne:"
 
-#: mozorg/plugincheck.lang:159
-msgctxt "./mozorg/plugincheck.lang:159"
+#: mozorg/plugincheck.lang:167
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:167"
 msgid "Open the Tools menu."
 msgstr "Menuya Amûran veke."
 
-#: mozorg/plugincheck.lang:163
-msgctxt "./mozorg/plugincheck.lang:163"
+#: mozorg/plugincheck.lang:171
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:171"
 msgid "Choose Add-ons."
 msgstr "Add-onan hilbijêre."
 
-#: mozorg/plugincheck.lang:167
-msgctxt "./mozorg/plugincheck.lang:167"
+#: mozorg/plugincheck.lang:175
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:175"
 msgid "Click the plugins tab."
 msgstr "Hilpekîna pêvekan bitikîne."
 
-#: mozorg/plugincheck.lang:171
+#: mozorg/plugincheck.lang:179
 msgid "Want to spread the word?"
 msgstr "Dixwazî li cîhanê belav bikî?"
 
-#: mozorg/plugincheck.lang:175
+#: mozorg/plugincheck.lang:183
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -225,38 +240,41 @@ msgstr ""
 "\"%(url)s\">Hevkarên Firefoxê</a> bike ku pêvekeke nîşaneya malpera te "
 "kontrol dike bistînî."
 
-#: mozorg/plugincheck.lang:179
+#: mozorg/plugincheck.lang:187
 msgid "How do I disable a plugin?"
 msgstr "Dikarim pêvekekeê çawan neçalak bikim?"
 
-#: mozorg/plugincheck.lang:183
+#: mozorg/plugincheck.lang:191
 msgid "In Firefox:"
 msgstr "Di Firefoxê de:"
 
-#: mozorg/plugincheck.lang:187
-msgctxt "./mozorg/plugincheck.lang:187"
+#: mozorg/plugincheck.lang:195
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:195"
 msgid "Open the Tools menu."
 msgstr "Menuya Amûran veke."
 
-#: mozorg/plugincheck.lang:191
-msgctxt "./mozorg/plugincheck.lang:191"
+#: mozorg/plugincheck.lang:199
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:199"
 msgid "Choose Add-ons."
 msgstr "Add-onan hilbijêre."
 
-#: mozorg/plugincheck.lang:195
-msgctxt "./mozorg/plugincheck.lang:195"
+#: mozorg/plugincheck.lang:203
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:203"
 msgid "Click the plugins tab."
 msgstr "Hilpekîna pêvekan bitikîne."
 
-#: mozorg/plugincheck.lang:199
+#: mozorg/plugincheck.lang:207
 msgid "Click on a plugin in the list."
 msgstr "Li ser pêvekeke di lîsteyê de bitikîne."
 
-#: mozorg/plugincheck.lang:203
+#: mozorg/plugincheck.lang:211
 msgid "Click the Disable button."
 msgstr "Bişkojka Neçalakê bitikîne."
 
-#: mozorg/plugincheck.lang:207
+#: mozorg/plugincheck.lang:215
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -266,16 +284,28 @@ msgstr ""
 "têne kirin bikî. Mînak; eger tu Flashê neçalak bikî, tu yê êdî nikaribî "
 "vîdeoyan ji malperên vîdeoyan ên navdar temaşe bikî."
 
-#: mozorg/plugincheck.lang:211
+#: mozorg/plugincheck.lang:219
 msgid "Mozilla Support"
 msgstr "Piştgiriya Mozillayê"
 
-#: mozorg/plugincheck.lang:215
+#: mozorg/plugincheck.lang:223
 msgid "Have more questions?"
 msgstr "Wekî din pirs hene?"
 
-#: mozorg/plugincheck.lang:219
+#: mozorg/plugincheck.lang:227
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "Ji bo alîkariyên zêdetir serdana <a href=\"%(sumo_url)s\">support.mozilla."
 "org</a>ê bike!"
+
+#~ msgctxt "./mozorg/plugincheck.lang:187"
+#~ msgid "Open the Tools menu."
+#~ msgstr "Menuya Amûran veke."
+
+#~ msgctxt "./mozorg/plugincheck.lang:191"
+#~ msgid "Choose Add-ons."
+#~ msgstr "Add-onan hilbijêre."
+
+#~ msgctxt "./mozorg/plugincheck.lang:195"
+#~ msgid "Click the plugins tab."
+#~ msgstr "Hilpekîna pêvekan bitikîne."

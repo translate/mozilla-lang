@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-25 22:12+0100\n"
+"POT-Creation-Date: 2014-04-10 11:30+0100\n"
 "PO-Revision-Date: 2014-01-16 03:25+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.1-rc1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1389842715.000000\n"
 
 #. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
@@ -66,10 +66,22 @@ msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr "រក្សាទុក​កម្មវិធី​ជំនួយ​របស់​អ្នក​​ទាន់​សម័យ Firefox ដំណើរការ​សុវត្ថិភាព និង​លឿន។"
 
 #: mozorg/plugincheck.lang:54
+msgid ""
+"We are aware of a problem detecting current versions of the Java plugin and "
+"misreporting them as vulnerable."
+msgstr ""
+
+#: mozorg/plugincheck.lang:58
+msgid ""
+"We’re working to correct this error. In the meantime, you can <a href="
+"\"%(download)s\">visit the Java website</a> to download the latest version."
+msgstr ""
+
+#: mozorg/plugincheck.lang:62
 msgid "Plugin Status"
 msgstr "ស្ថានភាព​កម្មវិធី​ជំនួយ"
 
-#: mozorg/plugincheck.lang:58
+#: mozorg/plugincheck.lang:66
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
@@ -77,79 +89,79 @@ msgstr ""
 "ការ​ពិនិត្យមើល​កម្មវិធី​ជំនួយ <strong>គាំទ្រ​សម្រាប់​កម្មវិធី​រុករក​អ៊ីនធឺណិត​ត្រូវ​បាន​កំណត់</strong>។ ប្រើ​"
 "ឧបករណ៍ &gt; គ្រប់គ្រង​កម្មវិធី​បន្ថែម"
 
-#: mozorg/plugincheck.lang:62
+#: mozorg/plugincheck.lang:70
 msgid "Step 1: Click Update to update a plugin."
 msgstr "ជំហាន 1 ៖ ចុច​ធ្វើ​បច្ចុប្បន្នភាព ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​ជំនួយ។"
 
-#: mozorg/plugincheck.lang:66
+#: mozorg/plugincheck.lang:74
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
 "ជំហាន 2 ៖ បញ្ចប់​ការ​ធ្វើ​បច្ចុប្បន្នភាព​ដែល​បាន​​ផ្ដល់​អនុសាសន៍​ទាំងអស់​មុន​ពេល​ចាប់ផ្ដើម​កម្មវិធី​អ៊ីនធឺណិត​របស់​"
 "អ្នក។"
 
-#: mozorg/plugincheck.lang:70
+#: mozorg/plugincheck.lang:78
 msgid "Potentially vulnerable plugins"
 msgstr "កម្មវិធី​ជំនួយ​ដែល​មិន​ល្អ​"
 
-#: mozorg/plugincheck.lang:74
+#: mozorg/plugincheck.lang:82
 msgid "Plugin"
 msgstr "កម្មវិធី​ជំនួយ"
 
-#: mozorg/plugincheck.lang:78
+#: mozorg/plugincheck.lang:86
 msgid "Status"
 msgstr "ស្ថានភាព"
 
-#: mozorg/plugincheck.lang:82
+#: mozorg/plugincheck.lang:90
 msgid "Action"
 msgstr "សកម្មភាព"
 
-#: mozorg/plugincheck.lang:86
+#: mozorg/plugincheck.lang:94
 msgid "Outdated Plugins"
 msgstr "កម្មវិធី​ជំនួយ​​​ដែល​ទាន់សម័យ"
 
-#: mozorg/plugincheck.lang:90
+#: mozorg/plugincheck.lang:98
 msgid "Unknown Plugins"
 msgstr "មិន​ស្គាល់​កម្មវិធី​ជំនួយ"
 
-#: mozorg/plugincheck.lang:94
+#: mozorg/plugincheck.lang:102
 msgid "These plugins are up to date"
 msgstr "កម្មវិធី​ជំនួយ​ទាំងនេះ​ គឺ​ទាន់​សម័យ"
 
-#: mozorg/plugincheck.lang:98
+#: mozorg/plugincheck.lang:106
 msgid "Back to Top"
 msgstr "ត្រឡប់​ទៅ​ខាងលើ"
 
-#: mozorg/plugincheck.lang:102
+#: mozorg/plugincheck.lang:110
 msgid "Frequently Asked Questions"
 msgstr "សំណួរ​ដែល​សួរ​ញឹកញាប់"
 
-#: mozorg/plugincheck.lang:106
+#: mozorg/plugincheck.lang:114
 msgid "What is a plugin?"
 msgstr "តើ​អ្វី​ទៅ​ជា​កម្មវិធី​ជំនួយ?"
 
-#: mozorg/plugincheck.lang:110
+#: mozorg/plugincheck.lang:118
 msgid "Plugins power videos, animation and games"
 msgstr "កម្មវិធី​ជំនួយ​​បង្កើន​សមត្ថភាព​វីដេអូ ជីវចល និង​ហ្គេម"
 
-#: mozorg/plugincheck.lang:114
+#: mozorg/plugincheck.lang:122
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr "ពួកគេ​បាន​បង្កើត​នៅ​ខាងក្រៅ Firefox ដោយ​ក្រុមហ៊ុន​ដូច​ជា​ប្រព័ន្ធ Adobe និង Apple"
 
-#: mozorg/plugincheck.lang:118
+#: mozorg/plugincheck.lang:126
 msgid "Plugins don't always update automatically."
 msgstr "កម្មវិធី​​ជំនួយ​មិន​​ធ្វើ​បច្ចុប្បន្ន​ដោយ​ស្វ័យប្រវត្តិ​ជានិច្ច។"
 
-#: mozorg/plugincheck.lang:122
+#: mozorg/plugincheck.lang:130
 msgid "Why should I update my plugins?"
 msgstr "ហេតុអ្វី​ខ្ញុំ​ត្រូវ​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​ជំនួយ​របស់​ខ្ញុំ?"
 
-#: mozorg/plugincheck.lang:126
+#: mozorg/plugincheck.lang:134
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr "កម្មវិធី​ជំនួយ​ចាស់​អាច​បង្អាក់​ការ​រុករក​ និង​​ធ្វើ​ឲ្យ​អ្នក​ខាត​ពេលវេលា​។"
 
-#: mozorg/plugincheck.lang:130
+#: mozorg/plugincheck.lang:138
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
@@ -157,7 +169,7 @@ msgstr ""
 "កម្មវិធី​ជំនួយ​ចាស់ <strong>បង្កើន​​​ហានិភ័យ​​របស់​អ្នក</strong> ដែល​វាយ​ប្រហារ​ដោយ​កម្មវិធី​រំខាន ​​​មេរោគ "
 "និង​​​កម្មវិធី​គំរាម​ផ្នែក​សុវត្ថិភាព​ផ្សេងៗ។"
 
-#: mozorg/plugincheck.lang:134
+#: mozorg/plugincheck.lang:142
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
@@ -166,15 +178,15 @@ msgstr ""
 "<strong>ល្អ​ប្រសើរ ហើយ​សុវត្ថិភាព</strong> សម្រាប់​អ្នក។"
 
 #. alt image
-#: mozorg/plugincheck.lang:139
+#: mozorg/plugincheck.lang:147
 msgid "Screenshot of Add-Ons manager"
 msgstr "រូបថត​អេក្រង់​​នៃ​កម្មវិធី​គ្រប់គ្រង​កម្មវិធី​បន្ថែម"
 
-#: mozorg/plugincheck.lang:143
+#: mozorg/plugincheck.lang:151
 msgid "How can Firefox help me?"
 msgstr "តើ​ Firefox អាច​ជួយ​ខ្ញុំ​របៀប​ណា?"
 
-#: mozorg/plugincheck.lang:147
+#: mozorg/plugincheck.lang:155
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
@@ -182,11 +194,11 @@ msgstr ""
 "នៅ​ពេល​អនាគត, Firefox នឹង​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​ជំនួយ​សម្រាប់​អ្នក។ រហូត​ដល់​នៅ​ពេល​នោះ, អ្នក​គួរតែ​"
 "ពិនិត្យមើល​ទំព័រ​នេះ​ដោយ​ជាក់លាក់ ហើយ​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​ជំនួយ​​ដើម្បី​រក្សា​សុវត្ថិភាព។"
 
-#: mozorg/plugincheck.lang:151
+#: mozorg/plugincheck.lang:159
 msgid "Which Plugins do I have?"
 msgstr "តើ​កម្មវិធី​ជំនួយ​ណាមួយ​ដែល​ខ្ញុំ​មាន?"
 
-#: mozorg/plugincheck.lang:155
+#: mozorg/plugincheck.lang:163
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
@@ -194,26 +206,29 @@ msgstr ""
 "យើង​បាន​រក​ឃើញ​កម្មវិធី​ជំនួយ​របស់​អ្នក​នៅ​ខាងលើ​ដោយ​ស្វ័យប្រវត្តិ, ដើម្បី​មើល​កម្មវិធី​ជំនួយ​ដែល​បាន​ដំឡើង​នៅ​ក្នុង "
 "Firefox អនុវត្ត​ជំហាន​ទាំងនេះ៖"
 
-#: mozorg/plugincheck.lang:159
-msgctxt "./mozorg/plugincheck.lang:159"
+#: mozorg/plugincheck.lang:167
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:167"
 msgid "Open the Tools menu."
 msgstr "បើក​ម៉ឺនុយ​ឧបករណ៍។"
 
-#: mozorg/plugincheck.lang:163
-msgctxt "./mozorg/plugincheck.lang:163"
+#: mozorg/plugincheck.lang:171
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:171"
 msgid "Choose Add-ons."
 msgstr "ជ្រើស​​កម្មវិធី​ជំនួយ។"
 
-#: mozorg/plugincheck.lang:167
-msgctxt "./mozorg/plugincheck.lang:167"
+#: mozorg/plugincheck.lang:175
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:175"
 msgid "Click the plugins tab."
 msgstr "ចុច​ផ្ទាំង​កម្មវិធី​ជំនួយ។"
 
-#: mozorg/plugincheck.lang:171
+#: mozorg/plugincheck.lang:179
 msgid "Want to spread the word?"
 msgstr "ចង់​ចែកចាយ​ឲ្យ​បាន​ទូលំទូលាយ?"
 
-#: mozorg/plugincheck.lang:175
+#: mozorg/plugincheck.lang:183
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -221,38 +236,41 @@ msgstr ""
 "ជំនួយ​មិត្តភ័ក្ដិ​របស់​អ្នក​ឲ្យ​មាន​សុវត្ថិភាព​លើ​បណ្ដាញ! សូម​ទស្សនា <a href=\"%(url)s\">Firefox "
 "Affiliates</a> ដើម្បី​ទទួល​បាន​កម្មវិធី​ជំនួយ​ចុច​និមិត្ត​សញ្ញា​សម្រាប់​បណ្ដាញ។"
 
-#: mozorg/plugincheck.lang:179
+#: mozorg/plugincheck.lang:187
 msgid "How do I disable a plugin?"
 msgstr "តើ​ខ្ញុំ​បិទ​កម្មវិធី​ជំនួយ​ដោយ​របៀប​ណា?"
 
-#: mozorg/plugincheck.lang:183
+#: mozorg/plugincheck.lang:191
 msgid "In Firefox:"
 msgstr "ក្នុង Firefox ៖"
 
-#: mozorg/plugincheck.lang:187
-msgctxt "./mozorg/plugincheck.lang:187"
+#: mozorg/plugincheck.lang:195
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:195"
 msgid "Open the Tools menu."
 msgstr "បើក​ម៉ឺនុយ​ឧបករណ៍។"
 
-#: mozorg/plugincheck.lang:191
-msgctxt "./mozorg/plugincheck.lang:191"
+#: mozorg/plugincheck.lang:199
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:199"
 msgid "Choose Add-ons."
-msgstr "ជ្រើស​កម្មវិធី​បន្ថែម។"
+msgstr "ជ្រើស​​កម្មវិធី​ជំនួយ។"
 
-#: mozorg/plugincheck.lang:195
-msgctxt "./mozorg/plugincheck.lang:195"
+#: mozorg/plugincheck.lang:203
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:203"
 msgid "Click the plugins tab."
 msgstr "ចុច​ផ្ទាំង​កម្មវិធី​ជំនួយ។"
 
-#: mozorg/plugincheck.lang:199
+#: mozorg/plugincheck.lang:207
 msgid "Click on a plugin in the list."
 msgstr "ចុច​នៅ​លើ​កម្មវិធី​ជំនួយ​ក្នុង​បញ្ជី។"
 
-#: mozorg/plugincheck.lang:203
+#: mozorg/plugincheck.lang:211
 msgid "Click the Disable button."
 msgstr "ចុច​​ប៊ូតុង​បិទ។"
 
-#: mozorg/plugincheck.lang:207
+#: mozorg/plugincheck.lang:215
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -261,14 +279,26 @@ msgstr ""
 "ការ​ព្រមាន៖ ការ​បិទ​កម្មវិធី​ជំនួយ​មានន័យ​ថា​អ្នក​នឹង​មិន​អាច​ធ្វើ​អ្វី​បាន​ទៀត​ឡើយ។ ឧទាហរណ៍, ប្រសិនបើ​អ្នក​បិទ "
 "Flash, អ្នក​នឹង​មិន​អាច​មើល​វីដេអូ​លើ YouTube ។"
 
-#: mozorg/plugincheck.lang:211
+#: mozorg/plugincheck.lang:219
 msgid "Mozilla Support"
 msgstr "ការ​គាំទ្រ Mozilla"
 
-#: mozorg/plugincheck.lang:215
+#: mozorg/plugincheck.lang:223
 msgid "Have more questions?"
 msgstr "មាន​សំណួរ​ច្រើន?"
 
-#: mozorg/plugincheck.lang:219
+#: mozorg/plugincheck.lang:227
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr "ទស្សនា <a href=\"%(sumo_url)s\">support.mozilla.org</a> សម្រាប់​ជំនួយ​បន្ថែម!"
+
+#~ msgctxt "./mozorg/plugincheck.lang:187"
+#~ msgid "Open the Tools menu."
+#~ msgstr "បើក​ម៉ឺនុយ​ឧបករណ៍។"
+
+#~ msgctxt "./mozorg/plugincheck.lang:191"
+#~ msgid "Choose Add-ons."
+#~ msgstr "ជ្រើស​កម្មវិធី​បន្ថែម។"
+
+#~ msgctxt "./mozorg/plugincheck.lang:195"
+#~ msgid "Click the plugins tab."
+#~ msgstr "ចុច​ផ្ទាំង​កម្មវិធី​ជំនួយ។"

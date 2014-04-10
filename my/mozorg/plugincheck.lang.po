@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-22 21:21+0100\n"
+"POT-Creation-Date: 2014-04-10 11:30+0100\n"
 "PO-Revision-Date: 2013-10-27 17:53+0000\n"
 "Last-Translator: Tin Aung <tinaunglinn.eng91@gmail.com>\n"
 "Language-Team: none\n"
@@ -11,7 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1382896390.000000\n"
 
 #. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
@@ -67,10 +67,22 @@ msgstr ""
 "ချောချောမွေ့မွေ့လည်ပတ်စေပါသှ်"
 
 #: mozorg/plugincheck.lang:54
+msgid ""
+"We are aware of a problem detecting current versions of the Java plugin and "
+"misreporting them as vulnerable."
+msgstr ""
+
+#: mozorg/plugincheck.lang:58
+msgid ""
+"We’re working to correct this error. In the meantime, you can <a href="
+"\"%(download)s\">visit the Java website</a> to download the latest version."
+msgstr ""
+
+#: mozorg/plugincheck.lang:62
 msgid "Plugin Status"
 msgstr "ထပ်ပေါင်းဆော့ဝဲ အခြေအနေ"
 
-#: mozorg/plugincheck.lang:58
+#: mozorg/plugincheck.lang:66
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
@@ -78,81 +90,81 @@ msgstr ""
 "ထပ်ပေါင်းဆော့ဝဲစစ်ဆေးခြင်း<strong>အင်တာနက်ရှာဖွေသူ - IE အား ထောက်ပံ့မပေးပါ</strong>. "
 "ကိရိယာများ &gt; ထပ်ပေါင်းဆော့ဝဲစီမံခန့်ခွဲ သူအား ခိုင်းနိုင်ပါ သှ် "
 
-#: mozorg/plugincheck.lang:62
+#: mozorg/plugincheck.lang:70
 msgid "Step 1: Click Update to update a plugin."
 msgstr "အဆင့် ၁။ အဆင့်မြှင့် အား နှိပ်ပြီး အဆင့်မြှင့်တင်ခြင်း ကိုစတင်လိုက်ပါ "
 
-#: mozorg/plugincheck.lang:66
+#: mozorg/plugincheck.lang:74
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
 "အဆင့် ၂။ သင့်လျော်သော ထပ်ပေါင်းဆော့ဝဲအားလုံး အား အဆင့်မြှင့်တင်ပြီးပါက ဘယောက်ဆာအား ပိတ်ပြီး ပြန်ဖွင့်ပါ"
 
-#: mozorg/plugincheck.lang:70
+#: mozorg/plugincheck.lang:78
 msgid "Potentially vulnerable plugins"
 msgstr "ထိခိုက်မှူရှိလာ နိုင်သော ထပ်ပေါင်းဆော့ဝဲများ"
 
-#: mozorg/plugincheck.lang:74
+#: mozorg/plugincheck.lang:82
 msgid "Plugin"
 msgstr "ထပ်ပေါင်းဆော့ဝဲများ"
 
-#: mozorg/plugincheck.lang:78
+#: mozorg/plugincheck.lang:86
 msgid "Status"
 msgstr "အခြေအနေ"
 
-#: mozorg/plugincheck.lang:82
+#: mozorg/plugincheck.lang:90
 msgid "Action"
 msgstr "လှူပ်ရှားမှူ"
 
-#: mozorg/plugincheck.lang:86
+#: mozorg/plugincheck.lang:94
 msgid "Outdated Plugins"
 msgstr "ခေတ်မမှီတော့သော ထပ်ပေါင်းဆော့ဝဲများ"
 
-#: mozorg/plugincheck.lang:90
+#: mozorg/plugincheck.lang:98
 msgid "Unknown Plugins"
 msgstr "မသိနိုင်သော ထပ်ပေါင်းဆော့ဝဲများ"
 
-#: mozorg/plugincheck.lang:94
+#: mozorg/plugincheck.lang:102
 msgid "These plugins are up to date"
 msgstr "အောက်ပါ ထပ်ပေါင်းဆော့ဝဲများ သည် အဆင့်မြှင့်ပြီး ဖြစ်"
 
-#: mozorg/plugincheck.lang:98
+#: mozorg/plugincheck.lang:106
 msgid "Back to Top"
 msgstr "အထက်သို့"
 
-#: mozorg/plugincheck.lang:102
+#: mozorg/plugincheck.lang:110
 msgid "Frequently Asked Questions"
 msgstr "မေ့လေ့ မေးထ ရှိသော မေးခွန်းများ"
 
-#: mozorg/plugincheck.lang:106
+#: mozorg/plugincheck.lang:114
 msgid "What is a plugin?"
 msgstr "ထပ်ပေါင်းဆော့ဝဲ ဆိုသည်မှာ အဘယ်နည်း ?"
 
-#: mozorg/plugincheck.lang:110
+#: mozorg/plugincheck.lang:118
 msgid "Plugins power videos, animation and games"
 msgstr "ဗီဒီယို၊ဂိမ်းနှင့်လှူပ်ရှားမှူ ဖန်တီးချက်များ အား အထောက်အကူပေးသော ထပ်ပေါင်းဆော့ဝဲများ"
 
-#: mozorg/plugincheck.lang:114
+#: mozorg/plugincheck.lang:122
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr ""
 "၎င်းတို့အား မီးမြေခွေး မဟုတ်သော ကုမ္ပဏီများ မှရေးသားထားခြင်း ဖြစ်သည် ( ဥပမာ Adobe Systems "
 "နှင့် Apple )"
 
-#: mozorg/plugincheck.lang:118
+#: mozorg/plugincheck.lang:126
 msgid "Plugins don't always update automatically."
 msgstr "ထပ်ပေါင်းဆော့ဝဲတွေ ဟာ အမြဲတမ်းတော့ အလိုအလျောက် အဆင့်မြှင့်နေမှာ မဟုတ်ပါဘူး"
 
-#: mozorg/plugincheck.lang:122
+#: mozorg/plugincheck.lang:130
 msgid "Why should I update my plugins?"
 msgstr "ဘာကြောင့်ထပ်ပေါင်းဆော့ဝဲတွေ ကို အဆင့်မြှင့်သင့်သလဲ?"
 
-#: mozorg/plugincheck.lang:126
+#: mozorg/plugincheck.lang:134
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr ""
 "ဟောင်းနွမ်းနေသော ထပ်ပေါင်းဆော့ဝဲများသှ် သင်၏ ဘယောက်ဆာသုံးဆွဲမှူအပေါ် နှောက်ယှက်ပြီး အချိန်ကုန်စေတတ်သှ်"
 
-#: mozorg/plugincheck.lang:130
+#: mozorg/plugincheck.lang:138
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
@@ -160,7 +172,7 @@ msgstr ""
 "ဟောင်းနွမ်းနေသော ပလပ်အင်များသည် သင့်အား မောဝဲ ၊ ဗိုင်းရပ်စ် နှင့် အခြားလုံခြုံရေးဆိုင်ရာ "
 "<strong>တိုက်ခိုက်ခံရမှူ</strong> အားပိုဖြစ်စေနိုင်သှ်"
 
-#: mozorg/plugincheck.lang:134
+#: mozorg/plugincheck.lang:142
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
@@ -169,15 +181,15 @@ msgstr ""
 "<strong>လုံခြုံ စိတ်ချ မြန်ဆန်စေ</strong> ပါသည်။"
 
 #. alt image
-#: mozorg/plugincheck.lang:139
+#: mozorg/plugincheck.lang:147
 msgid "Screenshot of Add-Ons manager"
 msgstr "ထပ်ပေါင်းဆော့ဝဲ ၏ မြင်ကွင်း ပုံ "
 
-#: mozorg/plugincheck.lang:143
+#: mozorg/plugincheck.lang:151
 msgid "How can Firefox help me?"
 msgstr "မီးမြေခွေးက ဘယ်လိုကူညီနိုင်သလဲ ?"
 
-#: mozorg/plugincheck.lang:147
+#: mozorg/plugincheck.lang:155
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
@@ -185,11 +197,11 @@ msgstr ""
 "နောင် အနာဂတ်တွင် မီးမြေခွေးဟာ အလိုအလျောက်ပလပ်အင်များကို အဆင့်မြှင့်လိမ့်မယ် ။ ထိုအချိန် ထိသင် ကိုယ်တိုင် "
 "စစ်ဆေးပြီး အဆင့်မြင့်နေအောင်လုပ်ရမှာ ဖြစ်ပါတယ်။ "
 
-#: mozorg/plugincheck.lang:151
+#: mozorg/plugincheck.lang:159
 msgid "Which Plugins do I have?"
 msgstr "ဘယ်ပလပ်အင်တွေရှိလဲ ?"
 
-#: mozorg/plugincheck.lang:155
+#: mozorg/plugincheck.lang:163
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
@@ -197,26 +209,29 @@ msgstr ""
 "သင် ၏ ပလပ်အင် အချို့အား အလိုအလျောက်သိရှိပြီး အထက်ပါအတိုင်းတင်ပြထားသည် ။ မီးမြေခွေးမှာ သင်တပ်ဆင်ထားသော "
 "ပလပ်အင်များ အား ကြည့်ရန် အောက်ပါ အဆင့်များအတိုင်း လိုက်လုပ်ပါ"
 
-#: mozorg/plugincheck.lang:159
-msgctxt "./mozorg/plugincheck.lang:159"
+#: mozorg/plugincheck.lang:167
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:167"
 msgid "Open the Tools menu."
 msgstr "ကိရိယာ မီနူး အားဖွင့်"
 
-#: mozorg/plugincheck.lang:163
-msgctxt "./mozorg/plugincheck.lang:163"
+#: mozorg/plugincheck.lang:171
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:171"
 msgid "Choose Add-ons."
 msgstr "ထပ်ပေါင်းဆော့ဝဲများအားရွေးပါ"
 
-#: mozorg/plugincheck.lang:167
-msgctxt "./mozorg/plugincheck.lang:167"
+#: mozorg/plugincheck.lang:175
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:175"
 msgid "Click the plugins tab."
 msgstr "ထပ်ပေါင်းဆော့ဝဲ တပ်ဗ် အားကလစ် နှိပ်ပါ"
 
-#: mozorg/plugincheck.lang:171
+#: mozorg/plugincheck.lang:179
 msgid "Want to spread the word?"
 msgstr "အများသိအောင် ဖြန့်ဝေပေးမလား ?"
 
-#: mozorg/plugincheck.lang:175
+#: mozorg/plugincheck.lang:183
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -224,38 +239,41 @@ msgstr ""
 "သင့်သူငယ်ချင်းတွေကို အင်တာနက်မှာ လုံခြုံပါစေ ! <a href=\"%(url)s\">မီးမြေခွေး တရားဝင်ကိုယ်စားလှယ်</"
 "a> ပရိုဂရမ်ကို ဝင်ရောက်ပြီး သင့်ဝတ်ဆိုဒ်မှာ Badge များထည့်နိုင်ပါတယ်"
 
-#: mozorg/plugincheck.lang:179
+#: mozorg/plugincheck.lang:187
 msgid "How do I disable a plugin?"
 msgstr "ထပ်ပေါင်းဆော့ဝဲ တစ်ခုကိုဘယ်လိုပိတ်မလဲ ?"
 
-#: mozorg/plugincheck.lang:183
+#: mozorg/plugincheck.lang:191
 msgid "In Firefox:"
 msgstr "မီးမြေခွေးတွင်၊"
 
-#: mozorg/plugincheck.lang:187
-msgctxt "./mozorg/plugincheck.lang:187"
-msgid "Open the Tools menu."
-msgstr "ကိရိယာ မိနူးအားဖွင့်ပါ"
-
-#: mozorg/plugincheck.lang:191
-msgctxt "./mozorg/plugincheck.lang:191"
-msgid "Choose Add-ons."
-msgstr "ထပ်ပေါင်းဆော့ဝဲများရွေးပါ"
-
 #: mozorg/plugincheck.lang:195
+#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:195"
-msgid "Click the plugins tab."
-msgstr "ပလပ်အင်တပ်ဗ် အားနှိပ်ပါ"
+msgid "Open the Tools menu."
+msgstr "ကိရိယာ မီနူး အားဖွင့်"
 
 #: mozorg/plugincheck.lang:199
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:199"
+msgid "Choose Add-ons."
+msgstr "ထပ်ပေါင်းဆော့ဝဲများအားရွေးပါ"
+
+#: mozorg/plugincheck.lang:203
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:203"
+msgid "Click the plugins tab."
+msgstr "ထပ်ပေါင်းဆော့ဝဲ တပ်ဗ် အားကလစ် နှိပ်ပါ"
+
+#: mozorg/plugincheck.lang:207
 msgid "Click on a plugin in the list."
 msgstr "စာရင်းထဲရှိ ပလပ်အင်တစ်ခု အားနှိပ်ပါ"
 
-#: mozorg/plugincheck.lang:203
+#: mozorg/plugincheck.lang:211
 msgid "Click the Disable button."
 msgstr "ပိတ်မည့် ခလုပ်အားနှိပ်ပါ"
 
-#: mozorg/plugincheck.lang:207
+#: mozorg/plugincheck.lang:215
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -265,15 +283,27 @@ msgstr ""
 "နှင့်တူသှ်။ ဥပမာ သင် Flash အားပိတ်ထားပါက ယူကျု ပေါ်တွင် ဗီဒီယိုများ ကြည့်ရှူ နိုင်မည်မဟုတ်ပါ "
 "( ယခုနောက်ပိုင်းတွင် HTML5 အားထောက်ပံပေးထားသဖြင့် ၎င်းပြသာနာတော့ မရှိတော့ပါ )"
 
-#: mozorg/plugincheck.lang:211
+#: mozorg/plugincheck.lang:219
 msgid "Mozilla Support"
 msgstr "မိုဇီလာ အထောက်အပံ့"
 
-#: mozorg/plugincheck.lang:215
+#: mozorg/plugincheck.lang:223
 msgid "Have more questions?"
 msgstr "နောက်ထပ်မေးခွန်းတွေရှိသေးလား?"
 
-#: mozorg/plugincheck.lang:219
+#: mozorg/plugincheck.lang:227
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "<a href=\"%(sumo_url)s\">support.mozilla.org</a> ကို နောက်ထပ် အကူအညီလိုလျှင် သွားကြည့်ပါ"
+
+#~ msgctxt "./mozorg/plugincheck.lang:187"
+#~ msgid "Open the Tools menu."
+#~ msgstr "ကိရိယာ မိနူးအားဖွင့်ပါ"
+
+#~ msgctxt "./mozorg/plugincheck.lang:191"
+#~ msgid "Choose Add-ons."
+#~ msgstr "ထပ်ပေါင်းဆော့ဝဲများရွေးပါ"
+
+#~ msgctxt "./mozorg/plugincheck.lang:195"
+#~ msgid "Click the plugins tab."
+#~ msgstr "ပလပ်အင်တပ်ဗ် အားနှိပ်ပါ"
