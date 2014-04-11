@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-04 14:44+0200\n"
-"PO-Revision-Date: 2014-03-26 09:44+0000\n"
+"PO-Revision-Date: 2014-04-11 04:03+0000\n"
 "Last-Translator: Arun Kumar <thangam.arunx@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ta\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.11.0\n"
-"X-POOTLE-MTIME: 1395827057.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1397189030.000000\n"
 
 #. # promo_lightbeam ##
 #. # promo_new_mdn ##
@@ -43,7 +43,6 @@ msgid "Doing good is part of our code"
 msgstr "நன்றாக செய்வது எங்களுடைய நிரலாக்கத்தின் ஒப்பற்ற பணியாகம்"
 
 #: mozorg/home.lang:30
-#, fuzzy
 msgctxt "./mozorg/home.lang:30"
 msgid "Get involved"
 msgstr "பங்குபெறுங்கள்"
@@ -92,7 +91,6 @@ msgstr "பயர்பாக்ஸ் இயங்குதளம் பற்�
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:69
-#, fuzzy
 msgid "<i>Join</i> our community"
 msgstr "எங்களுடைய குழுவில் <i>இணையவும்</i>"
 
@@ -106,11 +104,13 @@ msgid ""
 "Get docs and demos, tools and tutorials and everything related to the Open "
 "Web."
 msgstr ""
+"திறந்த இணையத்துடன் தொடர்புடைய ஆவணங்கள், கருவிகள், செய்முறைகள் மற்றும் பயிற்சி ஆவணங்கள் "
+"பெறுங்கள்."
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:83
 msgid "<i>Forge</i> the future"
-msgstr ""
+msgstr "எதிர்க்காலத்தை <i>மாற்று</i>"
 
 #: mozorg/home.lang:87
 msgid "Mozilla Festival"
@@ -119,35 +119,35 @@ msgstr "மோசில்லா திருவிழா"
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:92
 msgid "Forge the future<br> of the Web"
-msgstr ""
+msgstr "இணையத்தளத்தின் எதிர்காலத்தை<br> மாற்று"
 
 #: mozorg/home.lang:96
 msgid ""
 "Learn from some of the most passionate thinkers and inventors from around "
 "the world."
 msgstr ""
+"உலகத்தின் மற்ற பகுதிகளில் உள்ள சில சிறந்த சிந்தனையாளர்கள் மற்றும் "
+"கண்டுபிடிப்பாளர்களிடமிருந்து கற்றுக் கொள்ளுங்கள்."
 
 #: mozorg/home.lang:100
 msgid "Come to the Mozilla Festival"
-msgstr ""
+msgstr "மொசில்லா திருவிழாவிற்கு வரவும்"
 
 #: mozorg/home.lang:104
-#, fuzzy
 msgid "Different by&nbsp;design"
-msgstr "வடிவமைப்பால் வேறுபட்டது"
+msgstr "வடிவமைப்பால்&nbsp;வேறுபட்டது"
 
 #. This string is displayed only for locales with a press agency blog
 #: mozorg/home.lang:109
 msgid "In the news"
-msgstr ""
+msgstr "செய்திகளில்"
 
 #. This string is displayed only for locales with a press agency blog
 #: mozorg/home.lang:114
 msgid "See all news"
-msgstr ""
+msgstr "செய்திகள் அனைத்தையும் பார்க்கவும்"
 
 #: mozorg/home.lang:118
-#, fuzzy
 msgctxt "./mozorg/home.lang:118"
 msgid "Get involved"
 msgstr "பங்குபெறுங்கள்"
@@ -155,12 +155,12 @@ msgstr "பங்குபெறுங்கள்"
 #. This string is displayed only for locales where we launch Firefox OS soon
 #: mozorg/home.lang:123
 msgid "Help launch Firefox OS in your country."
-msgstr ""
+msgstr "உங்களுடைய நாட்டில் பயர்பாக்ஸ் இயங்குதளத்தை வெளியிட உதவுங்கள்."
 
 #. This string is displayed only for locales where we launch Firefox OS soon
 #: mozorg/home.lang:128
 msgid "Become a Mobilizer today."
-msgstr ""
+msgstr "இன்றே ஒரு மொபைலைசர் ஆகுங்கள்."
 
 #: mozorg/home.lang:132
 msgid ""
@@ -176,16 +176,19 @@ msgid ""
 "in over 70 languages. <a href=\"%(link_l10n)s\">Help translate them into "
 "yours</a>."
 msgstr ""
+"நம்முடைய உலக சமூகத்திற்கு நன்றி, மொசில்லாவின் தயாரிப்புகள் மற்றும் இணையத்தளங்கள் 70 "
+"மொழிகளில் உள்ளன. <a href=\"%(link_l10n)s\">அவைகளை உங்கள் தாய் மொழியில் "
+"மொழிபெயர்க்க உதவுங்கள்</a>."
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:141
 msgid "<i>Watch</i> the watchers"
-msgstr ""
+msgstr "கவனிப்பவர்களை <i>கவனியுங்கள்</i>"
 
 #. Lightbeam promo
 #: mozorg/home.lang:146
 msgid "See who’s watching you online"
-msgstr ""
+msgstr "இணையத்தில் யார் உங்களை கவனிக்கிறீர்கள் என்பதை பார்"
 
 #. Lightbeam promo
 #: mozorg/home.lang:151
