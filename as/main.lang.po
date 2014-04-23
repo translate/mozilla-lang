@@ -4,15 +4,13 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 13:54+0100\n"
-"PO-Revision-Date: 2014-02-21 11:51+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: as\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.12.0-alpha1\n"
-"X-POOTLE-MTIME: 1392983488.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -360,7 +358,7 @@ msgstr ""
 #. Top menu item on firefox/update page
 #: main.lang:327
 msgid "Themes"
-msgstr ""
+msgstr "থীমসমূহ"
 
 #. Top menu item on firefox/update page
 #: main.lang:332
@@ -369,8 +367,9 @@ msgstr ""
 
 #. Top menu item on firefox/update page
 #: main.lang:337
+#, fuzzy
 msgid "Mobile Support"
-msgstr ""
+msgstr "Mozilla সমৰ্থন"
 
 #. Top menu item on firefox/update page
 #: main.lang:342
@@ -435,22 +434,23 @@ msgstr ""
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:402
 msgid "Forums"
-msgstr ""
+msgstr "ফৰামসমূহ"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:407
 msgid "Governance"
-msgstr ""
+msgstr "ৰাজত্ব"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:412
 msgid "History"
-msgstr ""
+msgstr "ইতিহাস"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:417
+#, fuzzy
 msgid "Our Products"
-msgstr ""
+msgstr "আমাৰ উৎপাদনসমূহ"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:422
@@ -459,8 +459,9 @@ msgstr ""
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:427
+#, fuzzy
 msgid "Become a volunteer contributor in a number of different areas."
-msgstr ""
+msgstr "বিভিন্ন স্থানত স্বেচ্ছাসেৱী অৱদানকাৰী হওক"
 
 #. This is a non-visible string for blind people to indicate where the menu is
 #: main.lang:432
@@ -484,161 +485,6 @@ msgstr ""
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 #: main.lang:452
+#, fuzzy
 msgid "Committed to you, your privacy and an open Web"
-msgstr ""
-
-#~ msgid "Press area"
-#~ msgstr "সংবাদ ক্ষেত্ৰ"
-
-#~ msgid "Store"
-#~ msgstr "ভঁৰাল"
-
-#~ msgid "Developers"
-#~ msgstr "উন্নয়নকাৰীসমূহ"
-
-#~ msgid "Licensing"
-#~ msgstr "অনুজ্ঞা পত্ৰ দিয়া"
-
-#~ msgid "Site contact"
-#~ msgstr "ছাইট সম্বন্ধে যোগাযোগ"
-
-#~ msgid "All rights reserved."
-#~ msgstr "সকলো অধিকাৰ সুৰক্ষিত।"
-
-#~ msgid "Visit Mozilla.com"
-#~ msgstr "Mozilla.com ভ্ৰমণ কৰক"
-
-#~ msgid "Visit Mozilla.com (in English)"
-#~ msgstr "Mozilla.com ভ্ৰমণ কৰক (ইংৰাজীত)"
-
-#~ msgid "Download Firefox - Free"
-#~ msgstr "Firefox ডাউনল'ড কৰক - বিনামূলীয়া"
-
-#~ msgid "Get Firefox"
-#~ msgstr "Firefox প্ৰাপ্ত কৰক"
-
-#~ msgid "Free Download"
-#~ msgstr "বিনামূলীয়া ডাউনল'ড"
-
-#~ msgid "Help us make Firefox even better!"
-#~ msgstr "Firefox ক ইয়াতকৈ ভাল কৰিবলৈ আমাক সহায় কৰক!"
-
-#~ msgid ""
-#~ "Take a few moments to take a quick survey and share your thoughts with us."
-#~ msgstr "এটা খৰকৈ সমীক্ষণ লওক আৰু আপোনাৰ মতামত আমাক জনাওক।"
-
-#~ msgid "Download Now - Free"
-#~ msgstr "এতিয়া ডাউনল'ড কৰক - বিনামূলীয়া"
-
-#~ msgid ""
-#~ "You should <a href=\"http://get.adobe.com/flashplayer/\">update Adobe "
-#~ "Flash Player</a> right now."
-#~ msgstr ""
-#~ "আপুনি এতিয়াই <a href=\"http://get.adobe.com/flashplayer/\">Adobe Flash "
-#~ "Player আপডেইট</a> কৰিব লাগে।"
-
-#~ msgid ""
-#~ "Firefox is up to date, but your current version of Flash Player can cause "
-#~ "security and stability issues.  Please <a href=\"http://get.adobe.com/"
-#~ "flashplayer/\">install the free update</a> as soon as possible."
-#~ msgstr ""
-#~ "Firefox এতিয়া উন্নত, কিন্তু Flash Player ৰ আপোনাৰ বৰ্তমানৰ সংস্কৰণে সুৰক্ষা আৰু "
-#~ "স্থিৰতাত সমস্যা দিব পাৰে। অতি শীঘ্ৰেই অনুগ্ৰহ কৰি <a href=\"http://get.adobe."
-#~ "com/flashplayer/\">বিনামূলীয়া আপডেইট ইনস্টল কৰক</a>।"
-
-#~ msgid "Synchronize"
-#~ msgstr "সংমিহলি কৰক"
-
-#~ msgid "Develop for Mobile"
-#~ msgstr "মবাইলৰ বাবে উন্নয়ন কৰক"
-
-#~ msgid "Other Supported Platforms"
-#~ msgstr "অন্য সমৰ্থিত প্লেটফৰ্মসমূহ"
-
-#~ msgid "Other Platforms &amp; Languages"
-#~ msgstr "অন্য প্লেটফৰ্ম &amp; ভাষাসমূহ"
-
-#~ msgid "Choose your location"
-#~ msgstr "আপোনাৰ অৱস্থান বাছক"
-
-#~ msgid "Download Firefox directly from your phone"
-#~ msgstr "আপোনাৰ ফোনৰ পৰা Firefox প্ৰত্যক্ষভাৱে ডাউনল'ড কৰক"
-
-#~ msgid "Sync Your Desktop & Mobile"
-#~ msgstr "আপোনাৰ ডেস্কটপ আৰু মবাইল সংমিহলি কৰক"
-
-#~ msgid "Whoops! Be sure to enter a valid email address."
-#~ msgstr "ইচ্ছ! এটা বৈধ ই-মেইল ঠিকনা সোমাবলে সুনিশ্চিত হওঁক।"
-
-#~ msgid ""
-#~ "Please read the Mozilla Privacy Policy and agree by checking the box."
-#~ msgstr "অনুগ্ৰহ কৰি  Mozilla গোপনীয়তা নীতি পঢ়ক  আৰু বাকচটো ক্লিক কৰি মান্তি হওঁক।"
-
-#~ msgid ""
-#~ "Please enter your email address and review the Mozilla Privacy Policy."
-#~ msgstr ""
-#~ "অনুগ্ৰহ কৰি আপোনাৰ ই-মেইল ঠিকনা সোমাওক আৰু  Mozilla গোপনীয়তা নীতি পুনৰদৰ্শন "
-#~ "কৰক।"
-
-#~ msgid "Firefox Updated"
-#~ msgstr "Firefox আপডেইট কৰা হল"
-
-#~ msgid "Take a Look at Tomorrow's Web"
-#~ msgstr "অহাকালীৰ ৱেবক এবাৰ চাওক"
-
-#~ msgid "Journey to the Future with Firefox"
-#~ msgstr "Firefox ৰ সৈতে ভৱিষ্যতলে যাত্ৰা"
-
-#~ msgid "Join the Beta Program"
-#~ msgstr "Beta প্ৰগ্ৰামত অংশগ্ৰহণ কৰক"
-
-#~ msgid "Experience Firefox"
-#~ msgstr "Firefox ক অনুভৱ কৰক"
-
-#~ msgid "The future of the Web is waiting for you!"
-#~ msgstr "ৱেবৰ ভৱিষ্যত আপোনাৰ বাবে অপেক্ষা কৰি আছে!"
-
-#~ msgid "The future of the Web starts now."
-#~ msgstr "ৱেবৰ ভৱিষ্যত এতিয়া আৰম্ভ হল।"
-
-#~ msgid "Try Firefox with a fresh look and feel."
-#~ msgstr "এটা সতেজ ৰূপ আৰু অনুভূতিৰ সৈতে Firefox ক ব্যৱহাৰ কৰি চাওঁক"
-
-#~ msgid "Experience tomorrow's Web today."
-#~ msgstr "অহাকালীৰ ৱেবক আজি অনুভৱ কৰক।"
-
-#~ msgid "Browse the future of the Web."
-#~ msgstr "ৱেবৰ ভৱিষ্যত ব্ৰাউছ কৰক।"
-
-#~ msgid "See Firefox with a new look and feel."
-#~ msgstr "এটা নতুন ৰূপ আৰু অনুভূতিৰ সৈতে Firefox ক চাওঁক।"
-
-#~ msgid "Download Beta Now."
-#~ msgstr "Beta ক এতিয়া ডাউনল'ড কৰক।"
-
-#~ msgid "All Systems & Languages"
-#~ msgstr "সকলো চিস্টেম আৰু ভাষাসমূহ"
-
-#~ msgid "Free from the Android Market"
-#~ msgstr "Android বজাৰৰ পৰা মুক্ত"
-
-#~ msgid "Mozilla Firefox. Bringing the modern Web to XP."
-#~ msgstr "Mozilla Firefox। আধুনিক ৱেবক XP লৈ অনা হৈছে।"
-
-#~ msgid ""
-#~ "You're using an old version of Firefox. Get your update to stay safe! <br/"
-#~ "> <a href=\"%s\">Download the free upgrade</a> in less than a minute for "
-#~ "the latest features, speed and security fixes."
-#~ msgstr ""
-#~ "আপুনি Firefox ৰ এটা পুৰণি সংস্কৰণ ব্যৱহাৰ কৰি আছে। সুৰক্ষিত থাকিবলে আপোনাৰ "
-#~ "আপডেইট প্ৰাপ্ত কৰক! শেহতীয়া বৈশিষ্টসমূহ, গতি আৰু সুৰক্ষা সমাধানসমূহৰ বাবে এক "
-#~ "মিনিটৰো কম সময়ত <br/> <a href=\"%s\">বিনামূলীয়া উন্নয়ন ডাউনল'ড কৰক</a> ।"
-
-#~ msgid ""
-#~ "You're using an older version of Firefox. Get <a href=\"%s\">your update</"
-#~ "a> to stay safe! <br/> Experience the latest features, security fixes and "
-#~ "the fastest Firefox yet. Download the free upgrade in less than a minute."
-#~ msgstr ""
-#~ "আপুনি Firefox ৰ এটা পুৰণি সংস্কৰণ ব্যৱহাৰ কৰি আছে। সুৰক্ষিত থাকিবলে <a href=\"%s"
-#~ "\">আপোনাৰ উন্নয়ন</a> প্ৰাপ্ত কৰক! <br/> শেহতীয়া বৈশিষ্টসমূহ, সুৰক্ষা সমাধান আৰু "
-#~ "দ্ৰুততম Firefox ক অনুভৱ কৰক। বিনামূলীয়া উন্নয়নক এক মিনিটৰো কম সময়ত ডাউনল'ড কৰক।"
+msgstr "আপুনি, আপোনাৰ গোপনীয়তা আৰু এটা মুক্ত ৱেবলৈ অৰ্পিত।"
