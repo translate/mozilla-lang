@@ -4,16 +4,13 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-17 10:24+0100\n"
-"PO-Revision-Date: 2014-03-11 13:58+0000\n"
-"Last-Translator: Cédric <cvalmary@yahoo.fr>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: oc\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Translate Toolkit 1.12.0-alpha1\n"
-"X-POOTLE-MTIME: 1394546280.000000\n"
 
 #. # promo_lightbeam ##
 #. # promo_new_mdn ##
@@ -21,26 +18,26 @@ msgstr ""
 #. # NOTE: demo server for home page is https://www-dev.allizom.org
 #: mozorg/home.lang:7
 msgid "Home of the Mozilla Project"
-msgstr ""
+msgstr "Acuèlh del projècte Mozilla"
 
 #. Used as a label for a button that scrolls through latest news.
 #: mozorg/home.lang:12
 msgid "Next article"
-msgstr ""
+msgstr "Article seguent"
 
 #. Used as a label for a button that scrolls through latest news.
 #: mozorg/home.lang:17
 msgid "Previous article"
-msgstr ""
+msgstr "Article precedent"
 
 #. The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 #: mozorg/home.lang:22
 msgid "We are %(mozilla_wordmark)s"
-msgstr ""
+msgstr "Sèm %(mozilla_wordmark)s"
 
 #: mozorg/home.lang:26
 msgid "Doing good is part of our code"
-msgstr ""
+msgstr "Un web mai juste, aquò's nòstre còde"
 
 #: mozorg/home.lang:30
 #, fuzzy
@@ -51,81 +48,89 @@ msgstr "Participatz"
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:35
 msgid "<i>Explore</i> our mission"
-msgstr ""
+msgstr "<i>Descobrissètz</i> nòstra mission"
 
 #: mozorg/home.lang:39
 msgid "Our principles guide us"
-msgstr ""
+msgstr "Guidats per nòstres principi"
 
 #: mozorg/home.lang:43
 msgid ""
 "We’re a global community of technologists, thinkers and builders working to "
 "keep the Internet alive and accessible."
 msgstr ""
+"Sèm una comunautat mondiala de contributors que prenon suènh d'Internet e "
+"que lo fan accessible a totes."
 
 #: mozorg/home.lang:47
 msgid "Read more about our mission"
-msgstr ""
+msgstr "Ne saber mai sus nòstra mission"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:52
 msgid "<i>Look</i> ahead"
-msgstr ""
+msgstr "<i>Agachatz</i> cap a l'avenidor"
 
 #: mozorg/home.lang:56
 msgid "Look ahead"
-msgstr "Agachar cap a l'avenidor"
+msgstr "Agachatz cap a l'avenidor"
 
 #: mozorg/home.lang:60
 msgid ""
 "We‘re bringing more people to the Web in more ways and from more places than "
 "ever before."
 msgstr ""
+"Sètz de mai en mai nombroses a accedir al web dempuèi d'aparelhs o "
+"d'endreches de mai en mai divèrses. Lo web es mai accessible que non pas "
+"jamai&nbsp;!"
 
 #: mozorg/home.lang:64
-#, fuzzy
 msgid "Learn more about Firefox OS"
-msgstr "Ne volètz saber mai sus Firefox&nbsp;OS&nbsp;?"
+msgstr "Descobrissètz Firefox OS"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:69
 msgid "<i>Join</i> our community"
-msgstr ""
+msgstr "<i>Rejonhètz</i> nòstra comunautat"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:74
 msgid "Join our<br> developer community"
-msgstr ""
+msgstr "Rejonhètz nòstra comunautat de desvolopaires"
 
 #: mozorg/home.lang:78
 msgid ""
 "Get docs and demos, tools and tutorials and everything related to the Open "
 "Web."
 msgstr ""
+"MDN vos prepausa de documentacion, de demos, d'aisinas, de tutorials e plan "
+"mai de causas encara, ligadas al web dobèrt."
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:83
 msgid "<i>Forge</i> the future"
-msgstr ""
+msgstr "<i>Fabricatz</i> lo futur"
 
 #: mozorg/home.lang:87
 msgid "Mozilla Festival"
-msgstr ""
+msgstr "Mozilla Festival"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:92
 msgid "Forge the future<br> of the Web"
-msgstr ""
+msgstr "Fabricatz lo futur<br> del Web"
 
 #: mozorg/home.lang:96
 msgid ""
 "Learn from some of the most passionate thinkers and inventors from around "
 "the world."
 msgstr ""
+"Aprenètz de certans dels pensaires e inventaires los mai passionats del "
+"monde."
 
 #: mozorg/home.lang:100
 msgid "Come to the Mozilla Festival"
-msgstr ""
+msgstr "Participatz al Mozilla Festival"
 
 #: mozorg/home.lang:104
 msgid "Different by&nbsp;design"
@@ -134,14 +139,15 @@ msgstr "Diferent per&nbsp;natura"
 #. This string is displayed only for locales with a press agency blog
 #: mozorg/home.lang:109
 msgid "In the news"
-msgstr ""
+msgstr "Darrièras nòvas"
 
 #. This string is displayed only for locales with a press agency blog
 #: mozorg/home.lang:114
 msgid "See all news"
-msgstr ""
+msgstr "Veire totas las nòvas"
 
 #: mozorg/home.lang:118
+#, fuzzy
 msgctxt "./mozorg/home.lang:118"
 msgid "Get involved"
 msgstr "Participatz"
@@ -149,12 +155,12 @@ msgstr "Participatz"
 #. This string is displayed only for locales where we launch Firefox OS soon
 #: mozorg/home.lang:123
 msgid "Help launch Firefox OS in your country."
-msgstr ""
+msgstr "Participatz a l'aviada de Firefox OS dins vòstre país."
 
 #. This string is displayed only for locales where we launch Firefox OS soon
 #: mozorg/home.lang:128
 msgid "Become a Mobilizer today."
-msgstr ""
+msgstr "Venètz actor de l'aviada tre ara."
 
 #: mozorg/home.lang:132
 msgid ""
@@ -162,7 +168,7 @@ msgid ""
 "\">Learn more about our volunteer opportunities</a>."
 msgstr ""
 "Vos cal pas forçadament saber encodar per èsser implicat dins Mozilla. <a "
-"href=\"%s\"> Aprend-ne mai sus nòstras oportunitats de volontariat </a>."
+"href=\"%s\"> Aprenètz-ne mai sus nòstras oportunitats de volontariat </a>."
 
 #: mozorg/home.lang:136
 msgid ""
@@ -170,17 +176,19 @@ msgid ""
 "in over 70 languages. <a href=\"%(link_l10n)s\">Help translate them into "
 "yours</a>."
 msgstr ""
+"Gràcia a nòstra comunautat mondiala, los logicials e sites web Mozilla son "
+"disponibles dins mai de 70 lengas. <a href=\"%(link_l10n)s\">Ajudatz-nos a "
+"los tradusir dins la vòstra</a>."
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:141
 msgid "<i>Watch</i> the watchers"
-msgstr ""
+msgstr "<i>Espiatz</i> los espions"
 
 #. Lightbeam promo
 #: mozorg/home.lang:146
-#, fuzzy
 msgid "See who’s watching you online"
-msgstr "Descobrissètz qual vos pista en linha"
+msgstr "Descobrissètz qual vos espia en linha"
 
 #. Lightbeam promo
 #: mozorg/home.lang:151
@@ -191,17 +199,17 @@ msgstr ""
 
 #: mozorg/home.lang:155
 msgid "Install the Lightbeam add-on"
-msgstr ""
+msgstr "Installatz l'extension Lightbeam"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:160
 msgid "<i>Learn</i> the Web"
-msgstr ""
+msgstr "<i>Creatz</i> lo Web"
 
 #. Webmaker promo
 #: mozorg/home.lang:165
 msgid "We teach the Web"
-msgstr ""
+msgstr "Ensenham lo web"
 
 #: mozorg/home.lang:169
 msgid ""
@@ -211,7 +219,7 @@ msgstr ""
 
 #: mozorg/home.lang:173
 msgid "Become a Webmaker"
-msgstr ""
+msgstr "Aprenètz amb Webmaker"
 
 #. New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:178
@@ -233,7 +241,7 @@ msgstr ""
 #. New MDN promo:
 #: mozorg/home.lang:193
 msgid "Visit the Mozilla Developer Network"
-msgstr ""
+msgstr "Visitatz lo Mozilla Developer Network"
 
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #: mozorg/home.lang:198
@@ -254,111 +262,3 @@ msgstr ""
 #: mozorg/home.lang:213
 msgid "Share your vision"
 msgstr ""
-
-#~ msgctxt "./mozorg/home.lang:119"
-#~ msgid "Get involved"
-#~ msgstr "Participatz"
-
-#, fuzzy
-#~ msgid "Learn more"
-#~ msgstr "Ne saber mai"
-
-#, fuzzy
-#~ msgctxt "./mozorg/home.lang:122"
-#~ msgid "Get involved"
-#~ msgstr "Participatz"
-
-#, fuzzy
-#~ msgid "Proudly <br> non-profit"
-#~ msgstr "Fièrament <br />de tòca non lucrativa"
-
-#~ msgid "Firefox Flicks"
-#~ msgstr "Firefox Flicks"
-
-#, fuzzy
-#~ msgid "Share on Facebook"
-#~ msgstr "Partejar sus Facebook »"
-
-#~ msgid "Tweet"
-#~ msgstr "Tweet"
-
-#~ msgid "Close"
-#~ msgstr "Tampar"
-
-#~ msgid "Fast. Smart. Safe."
-#~ msgstr "Rapid. Segur. Malin."
-
-#~ msgid "Get the mobile browser that’s got your back."
-#~ msgstr "Adoptatz lo navigador mobil qu'assegura vòstres arrièrs."
-
-#~ msgid "Get Firefox for Android"
-#~ msgstr "Telecargatz Firefox per Android"
-
-#~ msgid "Donate"
-#~ msgstr "Far un don"
-
-#~ msgid "Personalize"
-#~ msgstr "Personalizacion"
-
-#~ msgid "One size doesn’t fit all."
-#~ msgstr "A cadun son navigador."
-
-#~ msgid "Go Fast"
-#~ msgstr "Anar viste"
-
-#~ msgid "Accelerate the way you use the web."
-#~ msgstr "Acceleratz lo biais d'utilizar internet."
-
-#~ msgid "Stay Safe"
-#~ msgstr "Demoratz en seguretat"
-
-#~ msgid "We’ve got your back."
-#~ msgstr "Protegissèm vòstre ordenador e vòstras donadas personalas."
-
-#~ msgid "Get Firefox on your phone!"
-#~ msgstr "Utilizatz Firefox sus vòstre telefonet !"
-
-#~ msgid "Made for sharing."
-#~ msgstr "Concebut pel partiment."
-
-#~ msgid "Create <br/> dedicated <br/> tabs for it"
-#~ msgstr "Creatz d'onglets <br/> dedicats <br/> al partiment"
-
-#~ msgid "Customize <br/> to make <br/> it faster"
-#~ msgstr "Optimizatz <br/> per anar <br/> mai viste"
-
-#~ msgid "Get add-ons <br/> and make <br/> it easier"
-#~ msgstr "Installatz <br/>de moduls per vos  facilitar <br/> la vida"
-
-#~ msgid "Works harder so <br /> you don't have to."
-#~ msgstr "Firefox vos facilita <br/> lo trabalh !"
-
-#~ msgid "Increased <br/> speed"
-#~ msgstr "Velocitat <br/> aumentada"
-
-#~ msgid "Easy to <br/> access tabs"
-#~ msgstr "Accès als onglets <br/> mai aisit"
-
-#~ msgid "Productivity <br/> add-ons"
-#~ msgstr "Moduls de <br/> productivitat"
-
-#~ msgid "Made for <br/> the way you play."
-#~ msgstr "Per jogar <br/>coma vos agrada."
-
-#~ msgid "3D <br/> graphics"
-#~ msgstr "Grafismes <br/> 3D"
-
-#~ msgid "Even more <br/> reliable"
-#~ msgstr "Encara mai <br/> fisable"
-
-#~ msgid "Effortless <br/> customization"
-#~ msgstr "Personalizacion <br/> sens esfòrç"
-
-#~ msgid "Advanced <br/> security"
-#~ msgstr "Seguretat <br/> renforçada"
-
-#~ msgid "Advanced <br/> graphics"
-#~ msgstr "Grafismes <br/> avançats"
-
-#~ msgid "Improved <br/> reliability"
-#~ msgstr "Fisabilitat <br/> melhorada"
