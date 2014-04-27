@@ -35,7 +35,7 @@ msgstr "Uphando"
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
 #: mozorg/plugincheck.lang:22
 msgid "current version plugin"
-msgstr "Uhlelo olusebenzayo lwesixhobo esongezelelekileyo"
+msgstr "uhlelo olusebenzayo lwesixhobo esongezelelekileyo"
 
 #. This is a button informing the user that their plugin is up to date
 #: mozorg/plugincheck.lang:27
@@ -73,12 +73,16 @@ msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
 msgstr ""
+"Siyazi ngoshicilelo olukhoyo olukhangela ingxaki lwesifakelo seJava "
+"nezichaza ngokungachanekanga njengezisesichengeni."
 
 #: mozorg/plugincheck.lang:59
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
 msgstr ""
+"Siyayilungisa le mpazamo. Okwakalokunje, <a href=\"%(download)s"
+"\">ungatyelela iwebhusayithi yeJava</a> ukukhuphela ushicilelo lwakutshanje."
 
 #: mozorg/plugincheck.lang:63
 msgid "Plugin Status"
@@ -215,19 +219,16 @@ msgstr ""
 "zakho ezikhoyo kwiFirefox landela la manyathelo:"
 
 #: mozorg/plugincheck.lang:168
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:168"
 msgid "Open the Tools menu."
 msgstr "Vula imenyu Yezixhobo."
 
 #: mozorg/plugincheck.lang:172
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:172"
 msgid "Choose Add-ons."
 msgstr "Khetha Izongezelelo."
 
 #: mozorg/plugincheck.lang:176
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:176"
 msgid "Click the plugins tab."
 msgstr "Cofa ithebhu yezifakelo."
@@ -254,19 +255,16 @@ msgid "In Firefox:"
 msgstr "KwiFirefox:"
 
 #: mozorg/plugincheck.lang:196
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:196"
 msgid "Open the Tools menu."
 msgstr "Vula imenyu Yezixhobo."
 
 #: mozorg/plugincheck.lang:200
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:200"
 msgid "Choose Add-ons."
 msgstr "Khetha Izongezelelo."
 
 #: mozorg/plugincheck.lang:204
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:204"
 msgid "Click the plugins tab."
 msgstr "Cofa ithebhu yezifakelo."
@@ -303,17 +301,14 @@ msgstr ""
 "Tyelela <a href=\"%(sumo_url)s\">kwi-support.mozilla.org</a> ukuze ufumane "
 "uncedo olubhekele phaya!"
 
-#, fuzzy
 #~ msgctxt "./mozorg/plugincheck.lang:195"
 #~ msgid "Open the Tools menu."
 #~ msgstr "Vula imenyu Yezixhobo."
 
-#, fuzzy
 #~ msgctxt "./mozorg/plugincheck.lang:199"
 #~ msgid "Choose Add-ons."
 #~ msgstr "Khetha Izongezelelo."
 
-#, fuzzy
 #~ msgctxt "./mozorg/plugincheck.lang:203"
 #~ msgid "Click the plugins tab."
 #~ msgstr "Cofa ithebhu yezifakelo."
