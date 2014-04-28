@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 13:54+0100\n"
-"PO-Revision-Date: 2014-02-26 14:16+0000\n"
-"Last-Translator: Dwayne Bailey <dwayne@translate.org.za>\n"
+"PO-Revision-Date: 2014-04-27 18:35+0000\n"
+"Last-Translator: Trung <ndtrung4419@gmail.com>\n"
 "Language-Team: none\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
-"X-POOTLE-MTIME: 1393424183.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1398623703.000000\n"
 
 #. # java_notice ##
 #. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
@@ -32,10 +32,11 @@ msgstr "Cập nhật ngay"
 msgid "Research"
 msgstr "Tìm hiểu"
 
+# String để google, có nên để nguyên tiếng Anh?
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
 #: mozorg/plugincheck.lang:22
 msgid "current version plugin"
-msgstr ""
+msgstr "phiên bản hiện tại plugin"
 
 #. This is a button informing the user that their plugin is up to date
 #: mozorg/plugincheck.lang:27
@@ -72,12 +73,16 @@ msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
 msgstr ""
+"Chúng tôi nhận thấy có một vấn đề khi đang xác định các phiên bản hiện tại "
+"của Java plugin và báo cáo nhầm chúng như là nguy cơ."
 
 #: mozorg/plugincheck.lang:59
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
 msgstr ""
+"Chúng tôi đang sửa lỗi này. Trong lúc đo, bạn có thể <a href=\"%(download)s"
+"\">tới website của Java</a> để tải bản mới nhất."
 
 #: mozorg/plugincheck.lang:63
 msgid "Plugin Status"
@@ -135,7 +140,6 @@ msgid "Back to Top"
 msgstr "Lên đầu trang"
 
 #: mozorg/plugincheck.lang:111
-#, fuzzy
 msgid "Frequently Asked Questions"
 msgstr "Câu hỏi thường gặp"
 
@@ -214,32 +218,31 @@ msgstr ""
 "trợ đã cài vào Firefox hãy làm theo các bước sau:"
 
 #: mozorg/plugincheck.lang:168
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:168"
 msgid "Open the Tools menu."
-msgstr "Mở bảng chọn Công cụ."
+msgstr "Mở trình đơn Công cụ."
 
 #: mozorg/plugincheck.lang:172
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:172"
 msgid "Choose Add-ons."
 msgstr "Chọn add-on."
 
 #: mozorg/plugincheck.lang:176
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:176"
 msgid "Click the plugins tab."
 msgstr "Nhấn vào thẻ plugin."
 
 #: mozorg/plugincheck.lang:180
 msgid "Want to spread the word?"
-msgstr ""
+msgstr "Bạn muốn chia sẻ trang này?"
 
 #: mozorg/plugincheck.lang:184
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
 msgstr ""
+"Hãy giúp các bạn của mình an toàn khi trực tuyến! Tới <a href=\"%(url)s"
+"\">Firefox Affiliates</a> để tải một plugin kiểm tra cho trang của bạn."
 
 #: mozorg/plugincheck.lang:188
 msgid "How do I disable a plugin?"
@@ -247,22 +250,19 @@ msgstr "Làm thế nào để tôi vô hiệu hóa một plugin?"
 
 #: mozorg/plugincheck.lang:192
 msgid "In Firefox:"
-msgstr " Trong Firefox:"
+msgstr "Trong Firefox:"
 
 #: mozorg/plugincheck.lang:196
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:196"
 msgid "Open the Tools menu."
-msgstr "Mở bảng chọn Công cụ."
+msgstr "Mở trình đơn Công cụ."
 
 #: mozorg/plugincheck.lang:200
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:200"
 msgid "Choose Add-ons."
 msgstr "Chọn add-on."
 
 #: mozorg/plugincheck.lang:204
-#, fuzzy
 msgctxt "./mozorg/plugincheck.lang:204"
 msgid "Click the plugins tab."
 msgstr "Nhấn vào thẻ plugin."
