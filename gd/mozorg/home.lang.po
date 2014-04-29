@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-17 10:24+0100\n"
+"POT-Creation-Date: 2014-04-28 13:33+0100\n"
 "PO-Revision-Date: 2014-04-28 16:01+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -14,51 +14,52 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1398700885.000000\n"
 
 #. # promo_lightbeam ##
 #. # promo_new_mdn ##
 #. # promo_webmaker ##
+#. # promo_webwewant ##
 #. # NOTE: demo server for home page is https://www-dev.allizom.org
-#: mozorg/home.lang:7
+#: mozorg/home.lang:8
 msgid "Home of the Mozilla Project"
 msgstr "An dachaigh aig pròiseact Mozilla"
 
 #. Used as a label for a button that scrolls through latest news.
-#: mozorg/home.lang:12
+#: mozorg/home.lang:13
 msgid "Next article"
 msgstr "An ath-artaigeal"
 
 #. Used as a label for a button that scrolls through latest news.
-#: mozorg/home.lang:17
+#: mozorg/home.lang:18
 msgid "Previous article"
 msgstr "An t-artaigeal roimhe"
 
 #. The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
-#: mozorg/home.lang:22
+#: mozorg/home.lang:23
 msgid "We are %(mozilla_wordmark)s"
 msgstr "Is sinne %(mozilla_wordmark)s"
 
-#: mozorg/home.lang:26
+#: mozorg/home.lang:27
 msgid "Doing good is part of our code"
 msgstr "Tha e 'nar còd math a dhèanamh"
 
-#: mozorg/home.lang:30
-msgctxt "./mozorg/home.lang:30"
+#: mozorg/home.lang:31
+#, fuzzy
 msgid "Get involved"
 msgstr "Gabh pàirt ann"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:35
+#: mozorg/home.lang:36
 msgid "<i>Explore</i> our mission"
 msgstr "<i>Faic</i> ar misean"
 
-#: mozorg/home.lang:39
+#: mozorg/home.lang:40
 msgid "Our principles guide us"
 msgstr "Tha ar prionnsabalan 'gar stiùireadh"
 
-#: mozorg/home.lang:43
+#: mozorg/home.lang:44
 msgid ""
 "We’re a global community of technologists, thinkers and builders working to "
 "keep the Internet alive and accessible."
@@ -67,20 +68,20 @@ msgstr ""
 "luchd-dealbhaidh a tha annainn a nì obair gus an t-eadar-lìon a chumail beò "
 "'s ri làimh na h-uile."
 
-#: mozorg/home.lang:47
+#: mozorg/home.lang:48
 msgid "Read more about our mission"
 msgstr "Leugh barrachd mu ar misean"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:52
+#: mozorg/home.lang:53
 msgid "<i>Look</i> ahead"
 msgstr "<i>Sùil</i> air adhart"
 
-#: mozorg/home.lang:56
+#: mozorg/home.lang:57
 msgid "Look ahead"
 msgstr "Sùil air adhart"
 
-#: mozorg/home.lang:60
+#: mozorg/home.lang:61
 msgid ""
 "We‘re bringing more people to the Web in more ways and from more places than "
 "ever before."
@@ -88,21 +89,21 @@ msgstr ""
 "Tha sinn a' toirt cothrom air an lìon do dhaoine air barrachd dhòighean 's o "
 "bharrachd àitichean na a-riamh roimhe."
 
-#: mozorg/home.lang:64
+#: mozorg/home.lang:65
 msgid "Learn more about Firefox OS"
 msgstr "Barrachd fiosrachaidh air Firefox OS"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:69
+#: mozorg/home.lang:70
 msgid "<i>Join</i> our community"
 msgstr "<i>Gabh pàirt</i> sa choimhearsnachd"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:74
+#: mozorg/home.lang:75
 msgid "Join our<br> developer community"
 msgstr "Gabh pàirt ann an <br> coimhearsnachd an luchd-leasachaidh"
 
-#: mozorg/home.lang:78
+#: mozorg/home.lang:79
 msgid ""
 "Get docs and demos, tools and tutorials and everything related to the Open "
 "Web."
@@ -111,20 +112,20 @@ msgstr ""
 "cheangailte ris an lìon saor."
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:83
+#: mozorg/home.lang:84
 msgid "<i>Forge</i> the future"
 msgstr "<i>Dealbhaich</i> an t-àm ri teachd"
 
-#: mozorg/home.lang:87
+#: mozorg/home.lang:88
 msgid "Mozilla Festival"
 msgstr "Fèis Mozilla"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:92
+#: mozorg/home.lang:93
 msgid "Forge the future<br> of the Web"
 msgstr "Dealbhaich lìon nan<br> làithean seo romhainn"
 
-#: mozorg/home.lang:96
+#: mozorg/home.lang:97
 msgid ""
 "Learn from some of the most passionate thinkers and inventors from around "
 "the world."
@@ -132,40 +133,35 @@ msgstr ""
 "Dèan ionnsachadh aig cuid dhe na h-inntinnichean is innleadairean as "
 "dìorrasaiche san t-saoghal."
 
-#: mozorg/home.lang:100
+#: mozorg/home.lang:101
 msgid "Come to the Mozilla Festival"
 msgstr "Thig gu Fèis Mozilla"
 
-#: mozorg/home.lang:104
+#: mozorg/home.lang:105
 msgid "Different by&nbsp;design"
 msgstr "Tha an diofar san dealbhadh"
 
 #. This string is displayed only for locales with a press agency blog
-#: mozorg/home.lang:109
+#: mozorg/home.lang:110
 msgid "In the news"
 msgstr "Sna naidheachdan"
 
 #. This string is displayed only for locales with a press agency blog
-#: mozorg/home.lang:114
+#: mozorg/home.lang:115
 msgid "See all news"
 msgstr "Faic na naidheachdan air fad"
 
-#: mozorg/home.lang:118
-msgctxt "./mozorg/home.lang:118"
-msgid "Get involved"
-msgstr "Gabh pàirt ann"
-
 #. This string is displayed only for locales where we launch Firefox OS soon
-#: mozorg/home.lang:123
+#: mozorg/home.lang:120
 msgid "Help launch Firefox OS in your country."
 msgstr "Cuidich leinn a' cur air bhog Firefox OS 'na dhùthaich."
 
 #. This string is displayed only for locales where we launch Firefox OS soon
-#: mozorg/home.lang:128
+#: mozorg/home.lang:125
 msgid "Become a Mobilizer today."
 msgstr "Gabh pàirt mar neach-iomairt an-diugh."
 
-#: mozorg/home.lang:132
+#: mozorg/home.lang:129
 msgid ""
 "You don’t have to know how to code to get involved with Mozilla. <a href=\"%s"
 "\">Learn more about our volunteer opportunities</a>."
@@ -174,7 +170,7 @@ msgstr ""
 "<a href=\"%s\">Barrachd fiosrachaidh mu na diofar dòighean airson pàirt a "
 "ghabhail ann</a>."
 
-#: mozorg/home.lang:136
+#: mozorg/home.lang:133
 msgid ""
 "Thanks to our global community, Mozilla products and websites are available "
 "in over 70 languages. <a href=\"%(link_l10n)s\">Help translate them into "
@@ -185,17 +181,17 @@ msgstr ""
 "\"%(link_l10n)s\">Cuidich leinn do chànan-sa a chur air</a>."
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:141
+#: mozorg/home.lang:138
 msgid "<i>Watch</i> the watchers"
 msgstr "<i>Cum sùil</i> air an fheadhainn a chumas sùil ort-sa"
 
 #. Lightbeam promo
-#: mozorg/home.lang:146
+#: mozorg/home.lang:143
 msgid "See who’s watching you online"
 msgstr "Fiosraich cò tha a' cumail sùil ort air loidhne"
 
 #. Lightbeam promo
-#: mozorg/home.lang:151
+#: mozorg/home.lang:148
 msgid ""
 "Shine a light on the third parties that are collecting data about your "
 "online activity."
@@ -203,21 +199,21 @@ msgstr ""
 "Fidir cò na treas-phàrtaidhean a tha a' cruinneachadh dàta mu na nì thu air "
 "loidhne."
 
-#: mozorg/home.lang:155
+#: mozorg/home.lang:152
 msgid "Install the Lightbeam add-on"
 msgstr "Stàlaich an tuilleadan Lightbeam"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:160
+#: mozorg/home.lang:157
 msgid "<i>Learn</i> the Web"
 msgstr "<i>Ionnsaich</i> an lìon"
 
 #. Webmaker promo
-#: mozorg/home.lang:165
+#: mozorg/home.lang:162
 msgid "We teach the Web"
 msgstr "Tha sinne a' toirt ionnsachadh dhan lìon"
 
-#: mozorg/home.lang:169
+#: mozorg/home.lang:166
 msgid ""
 "Let‘s explore, tinker and create together to build a Web that‘s open and "
 "made by everyone."
@@ -225,22 +221,22 @@ msgstr ""
 "Fidreamaid is leasaicheamaid an lìon gus àite a chruthachadh còmhla a tha "
 "fosgailte 's a tha a' buntainn ris a h-uile duine."
 
-#: mozorg/home.lang:173
+#: mozorg/home.lang:170
 msgid "Become a Webmaker"
 msgstr "Bidh 'nad chruthaichear-lìn"
 
 #. New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:178
+#: mozorg/home.lang:175
 msgid "<i>See</i> the new MDN"
 msgstr "<i>Faic</i> am MDN ùr"
 
 #. New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:183
+#: mozorg/home.lang:180
 msgid "See what’s new <br>for developers"
 msgstr "Faic na tha ùr <br>dhan luchd-leasachaidh"
 
 #. New MDN promo:
-#: mozorg/home.lang:188
+#: mozorg/home.lang:185
 msgid ""
 "Our community hub for docs, demos and other resources just got a brand new "
 "look."
@@ -249,31 +245,35 @@ msgstr ""
 "sgrìobhainnean, demothan is goireasan eile."
 
 #. New MDN promo:
-#: mozorg/home.lang:193
+#: mozorg/home.lang:190
 msgid "Visit the Mozilla Developer Network"
 msgstr "Tadhail air lìonra luchd-leasachaidh Mozilla"
 
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
-#: mozorg/home.lang:198
+#: mozorg/home.lang:195
 msgid "The Web needs you"
 msgstr "Tha feum aig an lìon ort"
 
 #. Australis launch promo tile on April 29, headline
-#: mozorg/home.lang:203
+#: mozorg/home.lang:200
 msgid "What kind of Web do you want?"
 msgstr "Dè seòrsa lìon a tha thusa ag iarraidh?"
 
 #. Australis launch promo tile on April 29, main text
-#: mozorg/home.lang:208
+#: mozorg/home.lang:205
 msgid "Tell us what matters most to you and help shape the future of the Web."
 msgstr ""
 "Innis dhuinn na tha as cudromaiche dhut is cuidich leinn an lìon a "
 "dhealbhadh."
 
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
-#: mozorg/home.lang:213
+#: mozorg/home.lang:210
 msgid "Share your vision"
-msgstr ""
+msgstr "Innis do chàch dè d' aisling-sa"
+
+#~ msgctxt "./mozorg/home.lang:118"
+#~ msgid "Get involved"
+#~ msgstr "Gabh pàirt ann"
 
 #~ msgctxt "./mozorg/home.lang:119"
 #~ msgid "Get involved"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-17 10:24+0100\n"
+"POT-Creation-Date: 2014-04-28 13:33+0100\n"
 "PO-Revision-Date: 2014-02-21 12:36+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,46 +18,46 @@ msgstr ""
 #. # promo_lightbeam ##
 #. # promo_new_mdn ##
 #. # promo_webmaker ##
+#. # promo_webwewant ##
 #. # NOTE: demo server for home page is https://www-dev.allizom.org
-#: mozorg/home.lang:7
+#: mozorg/home.lang:8
 msgid "Home of the Mozilla Project"
 msgstr "Mozilla 專案首頁"
 
 #. Used as a label for a button that scrolls through latest news.
-#: mozorg/home.lang:12
+#: mozorg/home.lang:13
 msgid "Next article"
 msgstr "下一篇文章"
 
 #. Used as a label for a button that scrolls through latest news.
-#: mozorg/home.lang:17
+#: mozorg/home.lang:18
 msgid "Previous article"
 msgstr "上一篇文章"
 
 #. The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
-#: mozorg/home.lang:22
+#: mozorg/home.lang:23
 msgid "We are %(mozilla_wordmark)s"
 msgstr "我們是 %(mozilla_wordmark)s"
 
-#: mozorg/home.lang:26
+#: mozorg/home.lang:27
 msgid "Doing good is part of our code"
 msgstr "Doing good is part of our code {OK}"
 
-#: mozorg/home.lang:30
+#: mozorg/home.lang:31
 #, fuzzy
-msgctxt "./mozorg/home.lang:30"
 msgid "Get involved"
 msgstr "參與我們"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:35
+#: mozorg/home.lang:36
 msgid "<i>Explore</i> our mission"
 msgstr "<i>探索</i> 我們的使命"
 
-#: mozorg/home.lang:39
+#: mozorg/home.lang:40
 msgid "Our principles guide us"
 msgstr "我們的原則帶領我們"
 
-#: mozorg/home.lang:43
+#: mozorg/home.lang:44
 msgid ""
 "We’re a global community of technologists, thinkers and builders working to "
 "keep the Internet alive and accessible."
@@ -65,100 +65,94 @@ msgstr ""
 "我們是由技術人、思想家與建設者所組成的社群，致力於保持網際網路的生態，讓所有"
 "人都可以使用。"
 
-#: mozorg/home.lang:47
+#: mozorg/home.lang:48
 msgid "Read more about our mission"
 msgstr "了解更多我們的使命"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:52
+#: mozorg/home.lang:53
 msgid "<i>Look</i> ahead"
 msgstr "向前 <i>看</i>"
 
-#: mozorg/home.lang:56
+#: mozorg/home.lang:57
 msgid "Look ahead"
 msgstr "向前看"
 
-#: mozorg/home.lang:60
+#: mozorg/home.lang:61
 msgid ""
 "We‘re bringing more people to the Web in more ways and from more places than "
 "ever before."
 msgstr "我們將帶著更多人，在更多不同的地方用更多不同方式上網。"
 
-#: mozorg/home.lang:64
+#: mozorg/home.lang:65
 msgid "Learn more about Firefox OS"
 msgstr "了解更多 Firefox OS"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:69
+#: mozorg/home.lang:70
 msgid "<i>Join</i> our community"
 msgstr "<i>加入</i> 我們的社群"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:74
+#: mozorg/home.lang:75
 msgid "Join our<br> developer community"
 msgstr "加入我們的開發者社群"
 
-#: mozorg/home.lang:78
+#: mozorg/home.lang:79
 msgid ""
 "Get docs and demos, tools and tutorials and everything related to the Open "
 "Web."
 msgstr "取得與開放網路有關的文件、Demo 以及教學。"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:83
+#: mozorg/home.lang:84
 msgid "<i>Forge</i> the future"
 msgstr "<i>打造</i> 未來"
 
-#: mozorg/home.lang:87
+#: mozorg/home.lang:88
 msgid "Mozilla Festival"
 msgstr "Mozilla Festival {OK}"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:92
+#: mozorg/home.lang:93
 msgid "Forge the future<br> of the Web"
 msgstr "打造網路的未來"
 
-#: mozorg/home.lang:96
+#: mozorg/home.lang:97
 msgid ""
 "Learn from some of the most passionate thinkers and inventors from around "
 "the world."
 msgstr "了解來自各地，一些最有熱情的思想家與發明家。"
 
-#: mozorg/home.lang:100
+#: mozorg/home.lang:101
 msgid "Come to the Mozilla Festival"
 msgstr "參加 Mozilla Festival"
 
-#: mozorg/home.lang:104
+#: mozorg/home.lang:105
 msgid "Different by&nbsp;design"
 msgstr "自設計開始與眾不同"
 
 #. This string is displayed only for locales with a press agency blog
-#: mozorg/home.lang:109
+#: mozorg/home.lang:110
 msgid "In the news"
 msgstr "最新消息"
 
 #. This string is displayed only for locales with a press agency blog
-#: mozorg/home.lang:114
+#: mozorg/home.lang:115
 msgid "See all news"
 msgstr "所有新聞"
 
-#: mozorg/home.lang:118
-#, fuzzy
-msgctxt "./mozorg/home.lang:118"
-msgid "Get involved"
-msgstr "參與我們"
-
 #. This string is displayed only for locales where we launch Firefox OS soon
-#: mozorg/home.lang:123
+#: mozorg/home.lang:120
 msgid "Help launch Firefox OS in your country."
 msgstr "幫助我們，在您的國家發布 Firefox OS。"
 
 #. This string is displayed only for locales where we launch Firefox OS soon
-#: mozorg/home.lang:128
+#: mozorg/home.lang:125
 msgid "Become a Mobilizer today."
 msgstr "快加入我們，成為 Mobilizer。"
 
-#: mozorg/home.lang:132
+#: mozorg/home.lang:129
 msgid ""
 "You don’t have to know how to code to get involved with Mozilla. <a href=\"%s"
 "\">Learn more about our volunteer opportunities</a>."
@@ -166,7 +160,7 @@ msgstr ""
 "您不需要知道怎麼寫程式就能加入 Mozilla 的專案。<a href=\"%s\">看看您能幫忙我"
 "們做什麼事</a>。"
 
-#: mozorg/home.lang:136
+#: mozorg/home.lang:133
 msgid ""
 "Thanks to our global community, Mozilla products and websites are available "
 "in over 70 languages. <a href=\"%(link_l10n)s\">Help translate them into "
@@ -176,87 +170,92 @@ msgstr ""
 "<a href=\"%(link_l10n)s\">幫助我們把產品與網站翻譯成您所說的語言</a>。"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:141
+#: mozorg/home.lang:138
 msgid "<i>Watch</i> the watchers"
 msgstr "<i>監控</i> 追蹤者"
 
 #. Lightbeam promo
-#: mozorg/home.lang:146
+#: mozorg/home.lang:143
 msgid "See who’s watching you online"
 msgstr "誰正在線上看著你"
 
 #. Lightbeam promo
-#: mozorg/home.lang:151
+#: mozorg/home.lang:148
 msgid ""
 "Shine a light on the third parties that are collecting data about your "
 "online activity."
 msgstr "讓您掌控有哪些人會收集您的線上行為。"
 
-#: mozorg/home.lang:155
+#: mozorg/home.lang:152
 msgid "Install the Lightbeam add-on"
 msgstr "安裝 Lightbeam 附加元件"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:160
+#: mozorg/home.lang:157
 msgid "<i>Learn</i> the Web"
 msgstr "<i>學習</i> the Web"
 
 #. Webmaker promo
-#: mozorg/home.lang:165
+#: mozorg/home.lang:162
 msgid "We teach the Web"
 msgstr "We teach the Web"
 
-#: mozorg/home.lang:169
+#: mozorg/home.lang:166
 msgid ""
 "Let‘s explore, tinker and create together to build a Web that‘s open and "
 "made by everyone."
 msgstr "探索、修補、共同建立一個由所有人一同打造的開放網路。"
 
-#: mozorg/home.lang:173
+#: mozorg/home.lang:170
 msgid "Become a Webmaker"
 msgstr "成為 Webmaker"
 
 #. New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#: mozorg/home.lang:178
+#: mozorg/home.lang:175
 msgid "<i>See</i> the new MDN"
 msgstr ""
 
 #. New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:183
+#: mozorg/home.lang:180
 msgid "See what’s new <br>for developers"
 msgstr ""
 
 #. New MDN promo:
-#: mozorg/home.lang:188
+#: mozorg/home.lang:185
 msgid ""
 "Our community hub for docs, demos and other resources just got a brand new "
 "look."
 msgstr ""
 
 #. New MDN promo:
-#: mozorg/home.lang:193
+#: mozorg/home.lang:190
 msgid "Visit the Mozilla Developer Network"
 msgstr "前往 Mozilla Developer Network"
 
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
-#: mozorg/home.lang:198
+#: mozorg/home.lang:195
 msgid "The Web needs you"
 msgstr ""
 
 #. Australis launch promo tile on April 29, headline
-#: mozorg/home.lang:203
+#: mozorg/home.lang:200
 msgid "What kind of Web do you want?"
 msgstr ""
 
 #. Australis launch promo tile on April 29, main text
-#: mozorg/home.lang:208
+#: mozorg/home.lang:205
 msgid "Tell us what matters most to you and help shape the future of the Web."
 msgstr ""
 
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
-#: mozorg/home.lang:213
+#: mozorg/home.lang:210
 msgid "Share your vision"
 msgstr ""
+
+#, fuzzy
+#~ msgctxt "./mozorg/home.lang:118"
+#~ msgid "Get involved"
+#~ msgstr "參與我們"
 
 #, fuzzy
 #~ msgctxt "./mozorg/home.lang:119"
