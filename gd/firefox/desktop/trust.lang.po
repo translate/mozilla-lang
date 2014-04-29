@@ -4,14 +4,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 13:54+0100\n"
-"PO-Revision-Date: 2014-04-04 14:44+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2014-04-28 15:38+0000\n"
+"Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: gd\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3 ;\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1398699535.000000\n"
 
 #. # NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/desktop/trust/
 #. <title> tag
@@ -20,11 +23,13 @@ msgid ""
 "Firefox — Designed to protect your privacy — The most trusted browser on the "
 "Web"
 msgstr ""
+"Firefox — Air a dhealbhadh a chum do phrìobhaideachd a dhìon — Am brabhsair "
+"as earbsaiche air an lìon"
 
 #. main title
 #: firefox/desktop/trust.lang:10
 msgid "Trust isn’t made. It’s earned."
-msgstr ""
+msgstr "Cha dèanar earbsa. Coisinnear e."
 
 #. L10n: Line break below is for wide screen formatting only.
 #: firefox/desktop/trust.lang:15
@@ -32,18 +37,24 @@ msgid ""
 "We build Firefox with a mission to put you first, above all else.<br class="
 "\"wide-br\">"
 msgstr ""
+"Tha sinne a' dealbhadh Firefox agus misean againn gur tusa, an cleachdaiche, "
+"as cudromaiche ann.<br class=\"wide-br\">"
 
 #: firefox/desktop/trust.lang:19
 msgid "We do it to keep you in control."
-msgstr ""
+msgstr "Nì sinn seo airson 's gum bi smachd agad-sa air cùisean."
 
 #: firefox/desktop/trust.lang:23
 msgid "We do it so you can browse without worry.<br class=\"wide-br\">"
 msgstr ""
+"Nì sinn seo airson 's gun urrainn dhut brabhsadh gun dragh.<br class=\"wide-"
+"br\">"
 
 #: firefox/desktop/trust.lang:27
 msgid "And we do it because no one else will."
 msgstr ""
+"Agus tha sinne 'ga dhèanamh a chionn 's nach eil buidheann sam bith eile 'ga "
+"dhèanamh."
 
 #. The span tags are for presentational purpose
 #: firefox/desktop/trust.lang:32
@@ -51,20 +62,26 @@ msgid ""
 "<span id=\"trust-line1\">Most trusted</span> <span id=\"trust-"
 "line2\">internet company</span> <span id=\"trust-line3\">for privacy</span>"
 msgstr ""
+"<span id=\"trust-line1\">An companaidh-lìn</span> <span id=\"trust-"
+"line2\">as earbsaiche</span> <span id=\"trust-line3\">a thaobh "
+"prìobhaideachd</span>"
 
 #: firefox/desktop/trust.lang:36
 msgid "Designed to protect your privacy"
-msgstr ""
+msgstr "Air a dhealbhadh gus do phrìobhaideachd a dhìon"
 
 #: firefox/desktop/trust.lang:40
 msgid ""
 "We believe your personal information belongs only to you.<br class=\"wide-br"
 "\">"
 msgstr ""
+"Tha sinn a' creidsinn nach bu chòir dhan fhiosrachadh phrìobhaideach a bhith "
+"aig duine ach thu fhèin.<br class=\"wide-br\">"
 
 #: firefox/desktop/trust.lang:44
 msgid "That’s why Firefox is filled with features to ensure that’s the case."
 msgstr ""
+"Sin as adhbhar gu bheil Firefox loma-làn de ghleusan a dhaingnicheas sin."
 
 #: firefox/desktop/trust.lang:48
 msgid "Do Not Track"
@@ -75,37 +92,43 @@ msgid ""
 "A Firefox innovation, Do Not Track lets you indicate a preference about the "
 "way your personal info is collected and used online."
 msgstr ""
+"Tha \"Na tracaich orm\" 'na ghleus a chaidh innleachadh le Firefox agus a "
+"bheir comas dhut smachd a chumail air na dòighean air an dèid fiosrachadh mu "
+"do dhèidhinn a chruinneachadh 's a chleachdadh air loidhne."
 
 #: firefox/desktop/trust.lang:56
 msgid "Learn more about Do Not Track"
-msgstr ""
+msgstr "Barrachd fiosrachaidh mun ghleus \"Na tracaich orm\""
 
 #: firefox/desktop/trust.lang:60
 msgid "Private browsing"
-msgstr ""
+msgstr "Brabhsadh prìobhaideach"
 
 #: firefox/desktop/trust.lang:64
 msgid "Sometimes it’s nice to go undercover."
-msgstr ""
+msgstr "B' fhearr leinn uile uaireannan rud a dhèanamh am falach."
 
 #: firefox/desktop/trust.lang:68
 msgid "Turn this feature on to protect your browsing history from others."
 msgstr ""
+"Cuir an gleus seo air gus d' eachdraidh brabhsaidh a chumail falaichte o "
+"chàch."
 
 #: firefox/desktop/trust.lang:72
 msgid "Learn how to open a private window"
-msgstr ""
+msgstr "Ionnsaich mar a dh'fhosglas tu uinneag phrìobhaideach"
 
 #: firefox/desktop/trust.lang:76
-#, fuzzy
 msgid "See who’s watching you online."
-msgstr "Fiosraich cò tha a' cumail sùil ort air loidhne"
+msgstr "Faic cò tha a' cumail sùil ort air loidhne"
 
 #: firefox/desktop/trust.lang:80
 msgid ""
 "The Lightbeam add-on exposes the first and third party sites you interact "
 "with as you browse."
 msgstr ""
+"Nochdaidh an tuilleadan Lightbeam dhut cò na làraichean, ciad-phàrtaidh agus "
+"treas-phàrtaidh, a bhios gnothach agad riutha 's tu a' brabhsadh air loidhne."
 
 #: firefox/desktop/trust.lang:84
 msgid "Shine a light on the Web with Lightbeam"
