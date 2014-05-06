@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-30 16:12+0100\n"
+"POT-Creation-Date: 2014-05-06 06:56+0100\n"
 "PO-Revision-Date: 2013-12-20 23:28+0000\n"
 "Last-Translator: Zobayer Ahmed <zobayer_mc@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,75 +15,157 @@ msgstr ""
 "X-POOTLE-MTIME: 1387582119.000000\n"
 
 #. # contribute_faces ##
-#: mozorg/contribute.lang:2
+#. # contribute_mayupdates ##
+#. Used for HTML title attribute
+#: mozorg/contribute.lang:5
 msgid "Get Involved: Volunteer Opportunities at Mozilla"
 msgstr "জড়িত হোন: মোজিলার স্বেচ্ছাসেবক হওয়ার সুযোগ"
 
-#: mozorg/contribute.lang:6
+#: mozorg/contribute.lang:9
 msgid ""
-"This video requires a browser with support for open video or the <a href="
-"\"http://www.adobe.com/go/getflashplayer\">Adobe Flash Player</a>."
+"The success of our mission depends on participation from people like you."
 msgstr ""
-"এই ভিডিওর জন্য ব্রাউজারের প্রয়োজন যা ভিডিওটি খোলা সমর্থন করে অথবা <a href="
-"\"http://www.adobe.com/go/getflashplayer\">অ্যাডোবি ফ্ল্যাশ প্লেয়ার</a>।"
 
-#: mozorg/contribute.lang:10
+#: mozorg/contribute.lang:13
 msgid ""
-"You don’t have to be a C++ guru (or even know what that means!) to get "
-"involved.<br><b>You just have to love the Web.</b>"
+"Proudly non-profit, Mozilla makes products like Firefox with a mission to "
+"keep the power of the Web in the hands of users everywhere."
 msgstr ""
-"জড়িত হওয়ার জন্য আপনার C++ এর গুরু হওয়ার প্রয়োজন নেই (এমনকি জানারও দরকার নেই এর "
-"কি মানে!)। <br><b>আপনাকে কেবল এই ওয়েবকে ভালবাসতে হবে।</b>"
 
-#: mozorg/contribute.lang:14
-msgid "Please enter a valid email address."
-msgstr "অনুগ্রহ করে আপনার বৈধ ইমেইল ঠিকানাটি দিন।"
-
+#. Used as caption of the video in the new design
 #: mozorg/contribute.lang:18
-msgid "You must agree to the privacy policy."
-msgstr "আপনাকে গোপনীয়তা নীতির সাথে একমত হতে হবে।"
+msgid "We are Mozillians"
+msgstr ""
 
 #: mozorg/contribute.lang:22
-msgid "Please select an area of interest."
-msgstr "অনুগ্রহ করে আগ্রহের একটি অঞ্চল নির্বাচন করুন।"
+msgid "This video shows members of the worldwide Mozilla community."
+msgstr ""
 
-#: mozorg/contribute.lang:26
-msgid "Please tell us more about your interests."
-msgstr "অনুগ্রহ করে আমাদের আপনার আগ্রহ সম্পর্কে আরও বলুন।"
+#. L10n: Used as a label for a button that plays a video.
+#: mozorg/contribute.lang:27
+msgid "Play video"
+msgstr ""
 
-#: mozorg/contribute.lang:30
-msgid "Your CAPTCHA response did not match. Please try again."
-msgstr "আপনার CAPTCHA প্রতিক্রিয়া মেলেনি। অনুগ্রহ করে পুনরায় চেষ্টা করুন।"
+#. L10n: Used as a label for a button that pauses a video.
+#: mozorg/contribute.lang:32
+msgid "Pause video"
+msgstr ""
 
-#: mozorg/contribute.lang:34
+#: mozorg/contribute.lang:36
 msgid "Want to help?"
 msgstr "সাহায্য করতে চান?"
 
-#: mozorg/contribute.lang:38
+#: mozorg/contribute.lang:40
+msgid "Area of interest?"
+msgstr "আগ্রহের ক্ষেত্র?"
+
+#: mozorg/contribute.lang:44
+msgid "Helping Users"
+msgstr "ব্যবহারকারীদের সাহায্য করা"
+
+#: mozorg/contribute.lang:48
+msgid "Testing and QA"
+msgstr "পরীক্ষা এবং QA"
+
+#: mozorg/contribute.lang:52
+msgid "Coding"
+msgstr "কোড লিখন"
+
+#: mozorg/contribute.lang:56
+msgid "Marketing"
+msgstr "ব্যবসায়িক"
+
+#: mozorg/contribute.lang:60
+msgid "Localization and Translation"
+msgstr ""
+
+#: mozorg/contribute.lang:64
+msgid "Web Development"
+msgstr "ওয়েব ডেভেলপমেন্ট"
+
+#: mozorg/contribute.lang:68
+msgid "Firefox Marketplace"
+msgstr "ফায়ারফক্স মার্কেটপ্লেস"
+
+#: mozorg/contribute.lang:72
+msgid "Add-ons"
+msgstr "অ্যাড-অন"
+
+#: mozorg/contribute.lang:76
+msgid "Visual Design"
+msgstr "ভিজ্যুয়াল ডিজাইন"
+
+#: mozorg/contribute.lang:80
+msgid "Documentation and Writing"
+msgstr ""
+
+#: mozorg/contribute.lang:84
+msgid "Education"
+msgstr "শিক্ষা"
+
+#: mozorg/contribute.lang:88
+msgid "Other"
+msgstr "অন্যান্য"
+
+#: mozorg/contribute.lang:92
+msgid "I have a suggestion for Firefox"
+msgstr "আমার ফায়ারফক্সের জন্য একটি প্রস্তাব আছে"
+
+#: mozorg/contribute.lang:96
+msgid "I need help with a Firefox issue"
+msgstr "আমার একটি ফায়ারফক্সের সমস্যার জন্য সাহায্য প্রয়োজন"
+
+#: mozorg/contribute.lang:100
 msgid "YOUR EMAIL HERE"
 msgstr "আপনার ইমেইল এখানে"
 
-#: mozorg/contribute.lang:42
-msgid "Submit&nbsp;»"
-msgstr "জমাদিন&nbsp;»"
-
-#: mozorg/contribute.lang:46
+#: mozorg/contribute.lang:104
 msgid "Send us a note and we can get you started right away."
 msgstr "আমাদের একটি নোট পাঠান এবং আমরা আপনাকে সঠিকভাবে শুরু করিয়ে দিতে পারি।"
 
-#: mozorg/contribute.lang:50
+#: mozorg/contribute.lang:108
 msgid "Hi, I’m interested in…"
 msgstr "হাই, আমি আগ্রহী…"
 
-#: mozorg/contribute.lang:54
+#: mozorg/contribute.lang:112
 msgid "I’d like to receive regular contribution news by email"
 msgstr "আমি ইমেল দ্বারা নিয়মিত অবদানের খবর গ্রহণ করতে চাই"
 
-#: mozorg/contribute.lang:58
+#: mozorg/contribute.lang:116
+msgid "Submit&nbsp;»"
+msgstr "জমাদিন&nbsp;»"
+
+#: mozorg/contribute.lang:120
+msgid "Please enter a valid email address."
+msgstr "অনুগ্রহ করে আপনার বৈধ ইমেইল ঠিকানাটি দিন।"
+
+#: mozorg/contribute.lang:124
+msgid "You must agree to the privacy policy."
+msgstr "আপনাকে গোপনীয়তা নীতির সাথে একমত হতে হবে।"
+
+#: mozorg/contribute.lang:128
+msgid "Please select an area of interest."
+msgstr "অনুগ্রহ করে আগ্রহের একটি অঞ্চল নির্বাচন করুন।"
+
+#: mozorg/contribute.lang:132
+msgid "Please tell us more about your interests."
+msgstr "অনুগ্রহ করে আমাদের আপনার আগ্রহ সম্পর্কে আরও বলুন।"
+
+#: mozorg/contribute.lang:136
+msgid "Your CAPTCHA response did not match. Please try again."
+msgstr "আপনার CAPTCHA প্রতিক্রিয়া মেলেনি। অনুগ্রহ করে পুনরায় চেষ্টা করুন।"
+
+#: mozorg/contribute.lang:140
 msgid "Thank you for getting in touch."
 msgstr "যোগাযোগ রাখার জন্য আপনাকে ধন্যবাদ।"
 
-#: mozorg/contribute.lang:62
+#: mozorg/contribute.lang:144
+msgid ""
+"We are sorry, but there was a problem with our system. Please try again "
+"later!"
+msgstr "আমরা দুঃখিত, কিন্তু আমাদের সিস্টেমে একটি সমস্যা ছিল। পরে আবার চেষ্টা করুন!"
+
+#: mozorg/contribute.lang:148
 msgid ""
 "Someone from Mozilla will get back to you soon with information about how to "
 "get involved. While you’re waiting, browse through some of the volunteer "
@@ -93,80 +175,15 @@ msgstr ""
 "সকল তথ্য নিয়ে। যখন আপলি অপেক্ষা করছেন, নীচে বিদ্যমান কিছু স্বেচ্ছাসেবী সুযোগের "
 "মাধ্যমে ব্রাউজ করুন।"
 
-#: mozorg/contribute.lang:66
-msgid "Find an opportunity"
-msgstr "একটি সুযোগ খুঁজুন"
-
-#: mozorg/contribute.lang:70
-msgid "Sort By:"
-msgstr "যেভাবে সাজাবেন:"
-
-#: mozorg/contribute.lang:74
-msgid "Interest"
-msgstr "আগ্রহ"
-
-#: mozorg/contribute.lang:78
-msgid "Location"
-msgstr "অবস্থান"
-
-#: mozorg/contribute.lang:82
-msgid "Newsletter"
-msgstr "নিউজলেটার"
-
-#: mozorg/contribute.lang:86
-msgid "Helping Users"
-msgstr "ব্যবহারকারীদের সাহায্য করা"
-
-#: mozorg/contribute.lang:90
+#: mozorg/contribute.lang:152
 msgid ""
-"Interested in helping others get the most out of using Firefox and other "
-"Mozilla projects? Our support process relies on enthusiastic contributors "
-"like you."
+"You don’t have to be a C++ guru (or even know what that means!) to get "
+"involved.<br><b>You just have to love the Web.</b>"
 msgstr ""
-"অন্যদের সাহায্য করতে আগ্রহী যারা ফায়ারফক্স এবং মোজিলার অন্যান্য প্রকল্পের বাইরের "
-"ব্যবহারকারী? আমাদের সমর্থন প্রক্রিয়া আপনার মত উদ্যমী অনুদানকারী উপর নির্ভরশীল।"
+"জড়িত হওয়ার জন্য আপনার C++ এর গুরু হওয়ার প্রয়োজন নেই (এমনকি জানারও দরকার নেই এর "
+"কি মানে!)। <br><b>আপনাকে কেবল এই ওয়েবকে ভালবাসতে হবে।</b>"
 
-#: mozorg/contribute.lang:95
-msgid "Quality Assurance"
-msgstr "মান নিশ্চিতকরণ"
-
-#: mozorg/contribute.lang:99
-msgid "Coding"
-msgstr "কোড লিখন"
-
-#: mozorg/contribute.lang:103
-msgid "Spread the Word"
-msgstr "শব্দ ছড়িয়ে দিন"
-
-#: mozorg/contribute.lang:107
-msgid "map"
-msgstr "ম্যাপ"
-
-#: mozorg/contribute.lang:111
-msgid "US and Canada"
-msgstr "মার্কিন যুক্তরাষ্ট্র এবং কানাডা"
-
-#: mozorg/contribute.lang:115
-msgid "Europe"
-msgstr "ইউরোপ"
-
-#: mozorg/contribute.lang:119
-msgid "Latin America"
-msgstr "লাতিন আমেরিকা"
-
-#: mozorg/contribute.lang:123
-msgid "Africa and the Middle East"
-msgstr "আফ্রিকা ও মধ্য প্রাচ্য"
-
-#: mozorg/contribute.lang:127
-msgid "Asia and the South Pacific"
-msgstr "এশিয়া ও দক্ষিণ প্রশান্ত মহাসাগরীয়"
-
-#: mozorg/contribute.lang:131
-msgid "Antarctica"
-msgstr "এন্টার্কটিকা"
-
-#: mozorg/contribute.lang:135
+#: mozorg/contribute.lang:156
 msgid ""
 "Sign up for a weekly newsletter that is full of community news and "
 "contribution opportunities."
@@ -174,27 +191,60 @@ msgstr ""
 "একটি সাপ্তাহিক নিউজলেটারের জন্য সাইন আপ করুন যেটা পূর্ণ থাকবে কমিউনিটির খবর এবং "
 "অবদান রাখার সুযোগে।"
 
-#: mozorg/contribute.lang:139
-msgid "Thank you!"
-msgstr "আপনাকে ধন্যবাদ!"
-
-#: mozorg/contribute.lang:143
-msgid "Localization"
-msgstr "স্থানীয়করণ"
-
-#: mozorg/contribute.lang:147
-msgid ""
-"Accessibility is about making things work for everyone. Help <a href="
-"\"%(access_url)s\">create tools and resources for Firefox end users with "
-"disabilities</a> and help <a href=\"%(access_wiki)s\">make web content "
-"available to non visual agents</a> such as screen readers."
+#. Subject of email sent to end-users
+#: mozorg/contribute.lang:161
+msgid "Welcome to Mozilla!"
 msgstr ""
-"প্রবেশযোগ্যতা হচ্ছে বিষয় তৈরী সন্মন্ধে যা সকলের জন্য কাজ করে। সহায়তা করে <a href="
-"\"%(access_url)s\">টুল তৈরী করে এবং ফায়ারফক্স সর্বশেষ অসমর্থ ব্যবহারকারীদের জন্য "
-"রিসোর্স</a> এবং সহায়তা করে <a href=\"%(access_wiki)s\"> নন ভিজ্যুয়াল এজেন্টদের "
-"জন্য ওয়েব বিষয়বস্তু তৈরি করে</a> স্ক্রীণ পাঠক হিসাবে।"
 
-#: mozorg/contribute.lang:151
+#: mozorg/contribute.lang:165
+msgid "Find an opportunity"
+msgstr "একটি সুযোগ খুঁজুন"
+
+#. Helping users
+#: mozorg/contribute.lang:170
+msgid ""
+"Our support process relies on enthusiastic contributors like you to help "
+"others get the most out of Mozilla products. Find out more about <a href="
+"\"%(fx_support_url)s\">how to help Firefox users</a> and <a href="
+"\"%(tb_support_url)s\">how to help Thunderbird users</a>."
+msgstr ""
+
+#: mozorg/contribute.lang:174
+msgid "Quality Assurance"
+msgstr "মান নিশ্চিতকরণ"
+
+#: mozorg/contribute.lang:178
+#, fuzzy
+msgid ""
+"Quality Assurance testing is one of the easiest ways to get started with "
+"Mozilla and is a great way to get familiar with our code and tools."
+msgstr ""
+"গুণমান নিশ্চয়করণ পরীক্ষার এক সহজ উপায় হচ্ছে মোজিলার সঙ্গে শুরু করা এবং আমাদের কোড "
+"এবং সরঞ্জামগুলির সাথে পরিচিত হওয়ার।"
+
+#: mozorg/contribute.lang:182
+msgid ""
+"<a href=\"%(oneanddone_url)s\">Pick a task from One and Done</a> to get "
+"started, work on <a href=\"%(desktopfx_url)s\">Desktop Firefox</a>, <a href="
+"\"%(websites_url)s\">test Mozilla web sites</a>, <a href=\"%(testday_url)s"
+"\">join us for a Test Day</a>, or <a href=\"%(qateams_url)s\">learn more "
+"about other testing opportunities</a>."
+msgstr ""
+
+#. Coding
+#: mozorg/contribute.lang:187
+msgid ""
+"<a href=\"%(dev_intro_url)s\">Developers can help</a> Mozilla by adding new "
+"features, making our technology smaller and faster and making development "
+"easier for others. Tell us <a href=\"%(what_url)s\">your favorite "
+"programming language</a> and we'll find the project for you."
+msgstr ""
+
+#: mozorg/contribute.lang:191
+msgid "Spread the Word"
+msgstr "শব্দ ছড়িয়ে দিন"
+
+#: mozorg/contribute.lang:195
 msgid ""
 "Help us spread the word about how Firefox and other Mozilla projects are "
 "building a better Internet. Share Firefox with the world by <a href="
@@ -206,7 +256,209 @@ msgstr ""
 "href=\"%(affiliates_url)s\"> সংযুক্ত হন</a>এবং তারপর বের করুন আমাদের <a href="
 "\"%(marketing_url)s\"> মার্কেটিং গাইড</a>জড়িত হতে আরো অন্যান্য উপায়।"
 
-#: mozorg/contribute.lang:155
+#: mozorg/contribute.lang:199
+msgid "Localization"
+msgstr "স্থানীয়করণ"
+
+#: mozorg/contribute.lang:203
+msgid ""
+"Get involved with Mozilla by making Firefox, Thunderbird and other projects "
+"<a href=\"%(l10n_url)s\">available in your language</a>. Also help us tell "
+"the world about how Mozilla is building a better Internet by <a href="
+"\"%(l10n_web_url)s\">translating content</a> on our web sites."
+msgstr ""
+"ফায়ারফক্স, থান্ডারবার্ড এবং অন্যান্য প্রজেক্ট তৈরি করে মোজিলার সাথে জড়িত হন<a href="
+"\"%(l10n_url)s\">আপনার ভাষায় সহজলভ্য</a>। মোজিলা কিভাবে আরো ভাল ইন্টারনেট তৈরি "
+"করছে এই সম্পর্কে বিশ্বকে জানিয়েও আপনি আমাদের সাহায্য করতে পারেন<a href="
+"\"%(l10n_web_url)s\">বিষয়বস্তু অনুবাদের মাধ্যমে</a>আপনার ওয়েব সাইটে।"
+
+#. Web development
+#: mozorg/contribute.lang:208
+msgid ""
+"Our web sites are open for web developers to hack on. <a href="
+"\"%(webdev_url)s\">Find a web site project</a> to get started on. Your web "
+"skills can also be used to <a href=\"%(gaia_url)s\">help us build our new "
+"Firefox OS</a>."
+msgstr ""
+
+#. Firefox Marketplace
+#: mozorg/contribute.lang:213
+msgid ""
+"<a href=\"%(marketplace_url)s\">Firefox Marketplace</a> provides content – "
+"games, music, social apps and more – built with HTML5 standards and open "
+"source values. With <a href=\"%(mktcontrib_url)s\">contribution "
+"opportunities</a> at every skill level, it’s easy to make an impact!"
+msgstr ""
+
+#. Add-ons
+#: mozorg/contribute.lang:218
+msgid ""
+"Add-ons are what make Firefox the most extensible and customizable browser "
+"available. Get started <a href=\"%(addons_url)s\">building an add-on</a>, "
+"and <a href=\"%(addons_wiki)s\">learn more about the different ways you can "
+"contribute</a>."
+msgstr ""
+
+#. Visual design
+#: mozorg/contribute.lang:223
+msgid ""
+"We want to make it possible for artists to cover the web and people with "
+"designs inspired by Mozilla. Check out the <a href=\"%(creative_url)s"
+"\">Creative team blog</a> for more information about how to take part."
+msgstr ""
+
+#. Documentation and writing
+#: mozorg/contribute.lang:228
+msgid ""
+"The Mozilla Developer Network is the hub for information about Mozilla "
+"technologies. Help <a href=\"%(dev_url)s\">make our documentation better</a> "
+"by writing new content, correcting existing material or translating content "
+"into new languages."
+msgstr ""
+"মোজিলা ডেভেলপার নেটওয়ার্ক হচ্ছে মোজিলা প্রযুক্তি সম্পর্কে তথ্যের কেন্দ্র। সহায়তা করুন "
+"<a href=\"%(dev_url)s\">আমাদের ডকুমেন্টেশন আরও ভাল করতে</a>নতুন বিষয়বস্তু লিখে, "
+"বিদ্যমান উপাদান সংশোধন বা নতুন ভাষায় অনুবাদ করে।"
+
+#. Education
+#: mozorg/contribute.lang:233
+#, fuzzy
+msgid ""
+"Help build a generation of webmakers by teaching others how the web works. "
+"<a href=\"%(moz_webmaker)s \">Explore what the Mozilla Webmaker project is "
+"all about</a> or get started teaching others by <a href=\"%(webmaker)s"
+"\">setting up an event in your community today</a>."
+msgstr ""
+"webmakers&mdash এর একটি প্রজন্ম তৈরি করতে সাহায্য করুন;web&mdash এ ওয়েব তৈরী "
+"থেকে মানুষকে চলমান করুন;কিভাবে কোড করে এবং কিভাবে ওয়েব কাজ করে তা অন্যদের "
+"শেখান। <a href=\"%(moz_webmaker)s \">অনুসন্ধান করুন মোজিলার ওয়েবমেকার প্রকল্প কি "
+"এ সম্পর্কে</a>অথবা অন্যদের শিক্ষাদান শুরু করুন <a href=\"%(webmaker)s\">আজ আপনার "
+"সম্প্রদায়কে একটি ঘটনা নির্ধারণ করে</a>।"
+
+#: mozorg/contribute.lang:237
+msgid "map"
+msgstr "ম্যাপ"
+
+#: mozorg/contribute.lang:241
+msgid "Find Mozillians near you"
+msgstr ""
+
+#: mozorg/contribute.lang:245
+msgid "US and Canada"
+msgstr "মার্কিন যুক্তরাষ্ট্র এবং কানাডা"
+
+#: mozorg/contribute.lang:249
+msgid "Europe"
+msgstr "ইউরোপ"
+
+#: mozorg/contribute.lang:253
+msgid "Latin America"
+msgstr "লাতিন আমেরিকা"
+
+#: mozorg/contribute.lang:257
+msgid "Africa and the Middle East"
+msgstr "আফ্রিকা ও মধ্য প্রাচ্য"
+
+#: mozorg/contribute.lang:261
+msgid "Asia and the South Pacific"
+msgstr "এশিয়া ও দক্ষিণ প্রশান্ত মহাসাগরীয়"
+
+#: mozorg/contribute.lang:265
+msgid "Antarctica"
+msgstr "এন্টার্কটিকা"
+
+#: mozorg/contribute.lang:269
+msgid "Sort By:"
+msgstr "যেভাবে সাজাবেন:"
+
+#: mozorg/contribute.lang:273
+msgid "Interest"
+msgstr "আগ্রহ"
+
+#: mozorg/contribute.lang:277
+msgid "Location"
+msgstr "অবস্থান"
+
+#: mozorg/contribute.lang:281
+msgid "Newsletter"
+msgstr "নিউজলেটার"
+
+#: mozorg/contribute.lang:285
+msgid ""
+"Interested in helping others get the most out of using Firefox and other "
+"Mozilla projects? Our support process relies on enthusiastic contributors "
+"like you."
+msgstr ""
+"অন্যদের সাহায্য করতে আগ্রহী যারা ফায়ারফক্স এবং মোজিলার অন্যান্য প্রকল্পের বাইরের "
+"ব্যবহারকারী? আমাদের সমর্থন প্রক্রিয়া আপনার মত উদ্যমী অনুদানকারী উপর নির্ভরশীল।"
+
+#: mozorg/contribute.lang:289
+msgid "Thank you!"
+msgstr "আপনাকে ধন্যবাদ!"
+
+#: mozorg/contribute.lang:293
+msgid ""
+"Accessibility is about making things work for everyone. Help <a href="
+"\"%(access_url)s\">create tools and resources for Firefox end users with "
+"disabilities</a> and help <a href=\"%(access_wiki)s\">make web content "
+"available to non visual agents</a> such as screen readers."
+msgstr ""
+"প্রবেশযোগ্যতা হচ্ছে বিষয় তৈরী সন্মন্ধে যা সকলের জন্য কাজ করে। সহায়তা করে <a href="
+"\"%(access_url)s\">টুল তৈরী করে এবং ফায়ারফক্স সর্বশেষ অসমর্থ ব্যবহারকারীদের জন্য "
+"রিসোর্স</a> এবং সহায়তা করে <a href=\"%(access_wiki)s\"> নন ভিজ্যুয়াল এজেন্টদের "
+"জন্য ওয়েব বিষয়বস্তু তৈরি করে</a> স্ক্রীণ পাঠক হিসাবে।"
+
+#: mozorg/contribute.lang:297
+msgid ""
+"Be part of the research team&mdash;whether you want to be a <a href="
+"\"%(survey_url)s\">participant in an upcoming study</a>, <a href="
+"\"%(test_email)s\">conduct usability tests</a> on your own or <a href="
+"\"%(test_pilot)s\">analyze Test Pilot data</a>&mdash;we’d love to have you "
+"join us!"
+msgstr ""
+"গবেষণার অংশ team&mdash;যখন আপনি হতে চান একটি <a href=\"%(survey_url)s\"><a "
+"href=\"%(survey_url)s\">আসন্ন একটি গবেষণায় অংশগ্রহণকারী </a><a href="
+"\"%(test_email)s\"><a href=\"%(test_email)s\">ব্যবহারযোগ্যতা পরীক্ষা আচার - "
+"ব্যবহার</a>আপনার নিজের বা<a href=\"%(test_pilot)s\"><a href=\"%(test_pilot)s"
+"\">টেস্ট পাইলট তথ্য ও বিশ্লেষণ</a>&mdash;আমাদের সাথে যোগ দিলে আমরা খুশি হতাম!"
+
+#: mozorg/contribute.lang:301
+msgid "Facebook"
+msgstr "ফেসবুক"
+
+#: mozorg/contribute.lang:305
+msgid "Firefox Affiliates"
+msgstr "ফায়ারফক্স সম্বন্ধযুক্ত"
+
+#: mozorg/contribute.lang:309
+msgid "Developer Documentation"
+msgstr "ডেভেলপারদের নথিপত্র"
+
+#: mozorg/contribute.lang:313
+msgid "Mozilla"
+msgstr "মোজিলা"
+
+#: mozorg/contribute.lang:317
+msgid "Thank you for signing up!"
+msgstr "সাইন আপ করার জন্য আপনাকে ধন্যবাদ!"
+
+#: mozorg/contribute.lang:321
+msgid "Menu"
+msgstr "মেনু"
+
+#: mozorg/contribute.lang:324
+msgid "Twitter"
+msgstr "টুইটার"
+
+#: mozorg/contribute.lang:328
+msgid ""
+"This video requires a browser with support for open video or the <a href="
+"\"http://www.adobe.com/go/getflashplayer\">Adobe Flash Player</a>."
+msgstr ""
+"এই ভিডিওর জন্য ব্রাউজারের প্রয়োজন যা ভিডিওটি খোলা সমর্থন করে অথবা <a href="
+"\"http://www.adobe.com/go/getflashplayer\">অ্যাডোবি ফ্ল্যাশ প্লেয়ার</a>।"
+
+#. Old string, will be removed when all locales have the new text
+#: mozorg/contribute.lang:333
 #, fuzzy
 msgid ""
 "Quality assurance testing is one of the easiest ways to get started with "
@@ -221,200 +473,13 @@ msgstr ""
 "\"%(qa_web_url)s\"> মোজিলার ওয়েব সাইট পরীক্ষা করুন</a>অথবা আরো জানুন<a href="
 "\"http://quality.mozilla.org/\">অন্যান্য পরীক্ষার সুযোগ সম্পর্কে</a>।"
 
-#: mozorg/contribute.lang:159
-msgid ""
-"Be part of the research team&mdash;whether you want to be a <a href="
-"\"%(survey_url)s\">participant in an upcoming study</a>, <a href="
-"\"%(test_email)s\">conduct usability tests</a> on your own or <a href="
-"\"%(test_pilot)s\">analyze Test Pilot data</a>&mdash;we’d love to have you "
-"join us!"
-msgstr ""
-"গবেষণার অংশ team&mdash;যখন আপনি হতে চান একটি <a href=\"%(survey_url)s\"><a "
-"href=\"%(survey_url)s\">আসন্ন একটি গবেষণায় অংশগ্রহণকারী </a><a href="
-"\"%(test_email)s\"><a href=\"%(test_email)s\">ব্যবহারযোগ্যতা পরীক্ষা আচার - "
-"ব্যবহার</a>আপনার নিজের বা<a href=\"%(test_pilot)s\"><a href=\"%(test_pilot)s"
-"\">টেস্ট পাইলট তথ্য ও বিশ্লেষণ</a>&mdash;আমাদের সাথে যোগ দিলে আমরা খুশি হতাম!"
-
-#: mozorg/contribute.lang:163
-msgid ""
-"Get involved with Mozilla by making Firefox, Thunderbird and other projects "
-"<a href=\"%(l10n_url)s\">available in your language</a>. Also help us tell "
-"the world about how Mozilla is building a better Internet by <a href="
-"\"%(l10n_web_url)s\">translating content</a> on our web sites."
-msgstr ""
-"ফায়ারফক্স, থান্ডারবার্ড এবং অন্যান্য প্রজেক্ট তৈরি করে মোজিলার সাথে জড়িত হন<a href="
-"\"%(l10n_url)s\">আপনার ভাষায় সহজলভ্য</a>। মোজিলা কিভাবে আরো ভাল ইন্টারনেট তৈরি "
-"করছে এই সম্পর্কে বিশ্বকে জানিয়েও আপনি আমাদের সাহায্য করতে পারেন<a href="
-"\"%(l10n_web_url)s\">বিষয়বস্তু অনুবাদের মাধ্যমে</a>আপনার ওয়েব সাইটে।"
-
-#: mozorg/contribute.lang:167
-msgid ""
-"The Mozilla Developer Network is the hub for information about Mozilla "
-"technologies. Help <a href=\"%(dev_url)s\">make our documentation better</a> "
-"by writing new content, correcting existing material or translating content "
-"into new languages."
-msgstr ""
-"মোজিলা ডেভেলপার নেটওয়ার্ক হচ্ছে মোজিলা প্রযুক্তি সম্পর্কে তথ্যের কেন্দ্র। সহায়তা করুন "
-"<a href=\"%(dev_url)s\">আমাদের ডকুমেন্টেশন আরও ভাল করতে</a>নতুন বিষয়বস্তু লিখে, "
-"বিদ্যমান উপাদান সংশোধন বা নতুন ভাষায় অনুবাদ করে।"
-
-#: mozorg/contribute.lang:171
-msgid "Area of interest?"
-msgstr "আগ্রহের ক্ষেত্র?"
-
-#: mozorg/contribute.lang:175
-msgid "I need help with a Firefox issue"
-msgstr "আমার একটি ফায়ারফক্সের সমস্যার জন্য সাহায্য প্রয়োজন"
-
-#: mozorg/contribute.lang:179
-msgid "I have a suggestion for Firefox"
-msgstr "আমার ফায়ারফক্সের জন্য একটি প্রস্তাব আছে"
-
-#: mozorg/contribute.lang:183
-msgid "Facebook"
-msgstr "ফেসবুক"
-
-#: mozorg/contribute.lang:187
-msgid "Education"
-msgstr "শিক্ষা"
-
-#: mozorg/contribute.lang:191
-msgid "Firefox Affiliates"
-msgstr "ফায়ারফক্স সম্বন্ধযুক্ত"
-
-#: mozorg/contribute.lang:195
-msgid "Developer Documentation"
-msgstr "ডেভেলপারদের নথিপত্র"
-
-#: mozorg/contribute.lang:199
-msgid "Mozilla"
-msgstr "মোজিলা"
-
-#: mozorg/contribute.lang:203
-msgid "Thank you for signing up!"
-msgstr "সাইন আপ করার জন্য আপনাকে ধন্যবাদ!"
-
-#: mozorg/contribute.lang:207
-msgid "Menu"
-msgstr "মেনু"
-
-#: mozorg/contribute.lang:211
-msgid "Web Development"
-msgstr "ওয়েব ডেভেলপমেন্ট"
-
-#: mozorg/contribute.lang:215
-msgid "Visual Design"
-msgstr "ভিজ্যুয়াল ডিজাইন"
-
-#: mozorg/contribute.lang:220
-msgid "Twitter"
-msgstr "টুইটার"
-
-#: mozorg/contribute.lang:224
-msgid ""
-"We are sorry, but there was a problem with our system. Please try again "
-"later!"
-msgstr "আমরা দুঃখিত, কিন্তু আমাদের সিস্টেমে একটি সমস্যা ছিল। পরে আবার চেষ্টা করুন!"
-
-#: mozorg/contribute.lang:228
-msgid "Other"
-msgstr "অন্যান্য"
-
-#: mozorg/contribute.lang:232
-msgid "Marketing"
-msgstr "ব্যবসায়িক"
-
-#: mozorg/contribute.lang:236
-msgid "Testing and QA"
-msgstr "পরীক্ষা এবং QA"
-
-#: mozorg/contribute.lang:240
-msgid ""
-"Our web sites are open for web developers to hack on. <a href="
-"\"%(webdev_url)s\">Find a web site project</a> to get started on. Your web "
-"skills can also be used to <a href=\"%(gaia_url)s\">help us build our new "
-"Firefox OS</a>."
-msgstr ""
-
-#: mozorg/contribute.lang:244
-msgid ""
-"Our support process relies on enthusiastic contributors like you to help "
-"others get the most out of Mozilla products. Find out more about <a href="
-"\"%(fx_support_url)s\">how to help Firefox users</a> and <a href="
-"\"%(tb_support_url)s\">how to help Thunderbird users</a>."
-msgstr ""
-
-#: mozorg/contribute.lang:248
-msgid "Documentation and Writing"
-msgstr ""
-
-#: mozorg/contribute.lang:252
-msgid ""
-"We want to make it possible for artists to cover the web and people with "
-"designs inspired by Mozilla. Check out the <a href=\"%(creative_url)s"
-"\">Creative team blog</a> for more information about how to take part."
-msgstr ""
-
-#: mozorg/contribute.lang:256
+#. Old string, will be removed when all locales have the new text
+#: mozorg/contribute.lang:338
 msgid ""
 "Mozilla products have a powerful extension system that allows you to make "
 "small tweaks or major additions. Learn more about how to <a href="
 "\"%(addons_url)s\">build an add-on</a>. For experienced developers, find out "
 "how to <a href=\"%(addons_wiki)s\">become an AMO editor</a>."
-msgstr ""
-
-#: mozorg/contribute.lang:260
-#, fuzzy
-msgid ""
-"Help build a generation of webmakers by teaching others how the web works. "
-"<a href=\"%(moz_webmaker)s \">Explore what the Mozilla Webmaker project is "
-"all about</a> or get started teaching others by <a href=\"%(webmaker)s"
-"\">setting up an event in your community today</a>."
-msgstr ""
-"webmakers&mdash এর একটি প্রজন্ম তৈরি করতে সাহায্য করুন;web&mdash এ ওয়েব তৈরী "
-"থেকে মানুষকে চলমান করুন;কিভাবে কোড করে এবং কিভাবে ওয়েব কাজ করে তা অন্যদের "
-"শেখান। <a href=\"%(moz_webmaker)s \">অনুসন্ধান করুন মোজিলার ওয়েবমেকার প্রকল্প কি "
-"এ সম্পর্কে</a>অথবা অন্যদের শিক্ষাদান শুরু করুন <a href=\"%(webmaker)s\">আজ আপনার "
-"সম্প্রদায়কে একটি ঘটনা নির্ধারণ করে</a>।"
-
-#: mozorg/contribute.lang:264
-msgid ""
-"<a href=\"%(dev_intro_url)s\">Developers can help</a> Mozilla by adding new "
-"features, making our technology smaller and faster and making development "
-"easier for others. Tell us <a href=\"%(what_url)s\">your favorite "
-"programming language</a> and we'll find the project for you."
-msgstr ""
-
-#: mozorg/contribute.lang:268
-msgid "Localization and Translation"
-msgstr ""
-
-#. Subject of email sent to end-users
-#: mozorg/contribute.lang:273
-msgid "Welcome to Mozilla!"
-msgstr ""
-
-#. L10n: Used as a label for a button that plays a video.
-#: mozorg/contribute.lang:278
-msgid "Play video"
-msgstr ""
-
-#. L10n: Used as a label for a button that pauses a video.
-#: mozorg/contribute.lang:283
-msgid "Pause video"
-msgstr ""
-
-#. Used as caption of the video in the new design
-#: mozorg/contribute.lang:288
-msgid "We are Mozillians"
-msgstr ""
-
-#: mozorg/contribute.lang:292
-msgid "This video shows members of the worldwide Mozilla community."
-msgstr ""
-
-#: mozorg/contribute.lang:296
-msgid "Find Mozillians near you"
 msgstr ""
 
 #~ msgid ""
@@ -423,13 +488,6 @@ msgstr ""
 #~ msgstr ""
 #~ "আমি ঠিক আছি আপনার সাথে এই তথ্য পরিচালনায় যা আপনি ব্যাখ্যা করেছেন আপনার <a "
 #~ "href=\"%s\">গোপনীয়তার নীতিতে</a>"
-
-#~ msgid ""
-#~ "Quality assurance testing is one of the easiest ways to get started with "
-#~ "Mozilla and is a great way to get familiar with our code and tools."
-#~ msgstr ""
-#~ "গুণমান নিশ্চয়করণ পরীক্ষার এক সহজ উপায় হচ্ছে মোজিলার সঙ্গে শুরু করা এবং আমাদের "
-#~ "কোড এবং সরঞ্জামগুলির সাথে পরিচিত হওয়ার।"
 
 #~ msgid ""
 #~ "Help us <a href=\"http://quality.mozilla.org/teams/desktop-firefox/"
