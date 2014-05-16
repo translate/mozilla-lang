@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-15 16:24+0100\n"
+"POT-Creation-Date: 2014-05-15 22:41+0100\n"
 "PO-Revision-Date: 2014-05-08 11:21+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
@@ -13,15 +13,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1399548085.000000\n"
 
+#. # sync_new_markup ##
 #. # NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
-#: firefox/sync.lang:4
+#: firefox/sync.lang:5
 msgid "Keep your Firefox in sync"
 msgstr "Dźeržće swój Firefox synchrony"
 
-#: firefox/sync.lang:8
+#: firefox/sync.lang:9
 msgid ""
 "Instantly make Firefox your own wherever you use it. Seamlessly sync your "
 "bookmarks, history, passwords and more and access them from any device."
@@ -30,12 +31,22 @@ msgstr ""
 "smuhu swoje zapołožki, swoju historiju, swoje hesła a wjace a mějće přistup "
 "na nje z někajkeho grata."
 
-#: firefox/sync.lang:12
+#: firefox/sync.lang:13
 msgid "Get started with Sync. It’s fast, safe and easy:"
 msgstr "Prěnje kroki ze Sync. Je spěšny, wěsty a jednory:"
 
-#. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
-#: firefox/sync.lang:16
+#. (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+#: firefox/sync.lang:18
+#, fuzzy
+msgid ""
+"Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> in "
+"the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
+msgstr ""
+"Wočińće <a href=\"%(url)s#w_a-handy-new-menu\">meni</a> horjeka naprawo we "
+"Firefox a wubjerće “Pola Sync přizjewić.”"
+
+#. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
+#: firefox/sync.lang:23
 msgid ""
 "Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of "
 "Firefox and select “Sign in to Sync.”"
@@ -43,23 +54,45 @@ msgstr ""
 "Wočińće <a href=\"%(url)s#w_a-handy-new-menu\">meni</a> horjeka naprawo we "
 "Firefox a wubjerće “Pola Sync přizjewić.”"
 
-#: firefox/sync.lang:20
+#. (NEW STRING) <strong> tags used for font color formatting.
+#: firefox/sync.lang:28
+msgid "Click “<strong>Get started</strong>” in the tab that opens."
+msgstr ""
+
+#. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
+#: firefox/sync.lang:33
 msgid "Click “Get started” in the tab that opens."
 msgstr "Klikńće na “Prěnje kroki” w rajtarku, kotryž so wočinja."
 
-#: firefox/sync.lang:24
+#. (NEW STRING) <strong> tags used for font color formatting.
+#: firefox/sync.lang:38
+#, fuzzy
+msgid ""
+"Enter an email address and password to “<strong>Create a Firefox Account.</"
+"strong>”"
+msgstr "Zapodajće e-mejlowu adresu a hesło, zo byšće “konto Firefox załožił.”"
+
+#. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
+#: firefox/sync.lang:43
 msgid "Enter an email address and password to “Create a Firefox Account.”"
 msgstr "Zapodajće e-mejlowu adresu a hesło, zo byšće “konto Firefox załožił.”"
 
-#: firefox/sync.lang:28
+#. (NEW STRING) <strong> tags used for font color formatting.
+#: firefox/sync.lang:48
+#, fuzzy
+msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
+msgstr "Klikńće na “Dale”, zo byšće wobkrućensku e-mejlku dóstał."
+
+#. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
+#: firefox/sync.lang:53
 msgid "Click “Next” to get a verification sent to your email."
 msgstr "Klikńće na “Dale”, zo byšće wobkrućensku e-mejlku dóstał."
 
-#: firefox/sync.lang:32
+#: firefox/sync.lang:57
 msgid "Check your email and click the verification link."
 msgstr "Přepruwujće swoju e-mejlowu adresu a klikńće na wobkrućenski wotkaz."
 
-#: firefox/sync.lang:36
+#: firefox/sync.lang:61
 msgid ""
 "You’re all set! Firefox will automatically sync in the background from now "
 "on."
@@ -67,25 +100,36 @@ msgstr ""
 "Nětko sće wšo nastajił! Firefox budźe wotnětka awtomatisce w pozadku "
 "synchronizować."
 
-#: firefox/sync.lang:40
+#: firefox/sync.lang:65
 msgid "Get more detailed instructions."
 msgstr "Dóstańće nadrobniše instrukcije."
 
-#: firefox/sync.lang:44
+#: firefox/sync.lang:69
 msgid "Using an older version of Sync?"
 msgstr "Wužiwaće staršu wersiju Sync?"
 
-#: firefox/sync.lang:48
+#: firefox/sync.lang:73
 msgid "Have an Android phone or tablet?"
 msgstr "Maće telefon abo tablet za Android?"
 
-#: firefox/sync.lang:52
+#. (NEW STRING)
+#: firefox/sync.lang:78
+#, fuzzy
+msgid ""
+"<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
+"desktop and mobile devices."
+msgstr ""
+"Sćehńće Firefox za Android, zo byšće mjez swojim desktopom a mobilnymi "
+"gratami synchronizował."
+
+#. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
+#: firefox/sync.lang:83
 msgid ""
 "Download Firefox for Android to sync between your desktop and mobile devices."
 msgstr ""
 "Sćehńće Firefox za Android, zo byšće mjez swojim desktopom a mobilnymi "
 "gratami synchronizował."
 
-#: firefox/sync.lang:56
+#: firefox/sync.lang:87
 msgid "Get it free from Google Play"
 msgstr "Wobstarajće sej jón darmo wot Google Play"

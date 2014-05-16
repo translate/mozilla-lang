@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-28 13:33+0100\n"
+"POT-Creation-Date: 2014-05-15 22:41+0100\n"
 "PO-Revision-Date: 2014-05-12 20:55+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1399928135.000000\n"
 
 #. # NOTE: http://www-dev.allizom.org/lightbeam
@@ -329,7 +329,20 @@ msgstr ""
 "href=\"%s\">TED-rozgronje</a> zawjadł (něnto jadno z nejcesćej woglědanych "
 "TED-rozgronow wšych casow) wó wótekšywanju slědowanja online."
 
-#: lightbeam/lightbeam.lang:193
+#. Updated string
+#: lightbeam/lightbeam.lang:194
+#, fuzzy
+msgid ""
+"In September 2012, Mozilla joined forces with faculty and student "
+"researchers at <a href=\"%s\">Emily Carr University of Art + Design</a> to "
+"develop and implement visualizations for the add-on."
+msgstr ""
+"W septembrje 2012 jo Mozilla mocy ze studentami na uniwersiśe <a href=\"%s"
+"\">Emily Carr University of Art + Design</a> zjadnośił, aby wizualizacije za "
+"dodank wuwijał a implementěrował."
+
+#. Obsolete string, will be removed once the new one is localized. Do not remove now, it's still used on production and will be reported as missing on the dashboard.
+#: lightbeam/lightbeam.lang:199
 msgid ""
 "In September 2012, Mozilla joined forces with students at <a href=\"%s"
 "\">Emily Carr University of Art + Design</a> to develop and implement "
@@ -339,7 +352,7 @@ msgstr ""
 "\">Emily Carr University of Art + Design</a> zjadnośił, aby wizualizacije za "
 "dodank wuwijał a implementěrował."
 
-#: lightbeam/lightbeam.lang:197
+#: lightbeam/lightbeam.lang:203
 msgid ""
 "With the support of the Ford Foundation and the Natural Sciences and "
 "Engineering Research Council (NSERC), Collusion has been re-imagined as "
@@ -349,7 +362,7 @@ msgstr ""
 "Research Council (NSERC) jo se Collusion ako Lightbeam wózroźił a jo se w "
 "nazymje 2013 startował."
 
-#: lightbeam/lightbeam.lang:201
+#: lightbeam/lightbeam.lang:207
 msgid ""
 "To read more about the collaboration, please visit <a href=\"{url}\">{url}</"
 "a>"
@@ -357,11 +370,11 @@ msgstr ""
 "Aby wěcej wó kooperaciji cytał, woglějdaśo pšosym k <a href=\"{url}\">{url}</"
 "a>"
 
-#: lightbeam/lightbeam.lang:205
+#: lightbeam/lightbeam.lang:211
 msgid "Policy and the larger tracking narrative"
 msgstr "Politika a wětše tšojenje slědowanja"
 
-#: lightbeam/lightbeam.lang:209
+#: lightbeam/lightbeam.lang:215
 msgid ""
 "At Mozilla, we believe that everyone should have the tools to make their own "
 "decisions about their online privacy and who collects data on them."
@@ -369,7 +382,21 @@ msgstr ""
 "Pla Mozilla wěrimy, až kuždy by dejał rědy měś, aby sam wó swójej "
 "priwatnosći online rozsuźił a wó tom, chtož gromaźi daty wó njej."
 
-#: lightbeam/lightbeam.lang:213
+#. Updated string
+#: lightbeam/lightbeam.lang:220
+#, fuzzy
+msgid ""
+"With the Lightbeam add-on, we are providing a valuable (and open) community "
+"research platform that aims to raise awareness, promote analysis and, "
+"ultimately, affect policy change in the areas of tracking and privacy."
+msgstr ""
+"Z dodankom Lightbeam a serwerom datoweje banki bitujomy gódnotnu (a "
+"wótwórjonu) platformu zgromaźeństwowego slěźenja, kótarejež zaměr jo, "
+"znatosć pówušyś, analyzu spěchowaś a, skóńcnje, změnjenje politiki na pólach "
+"slědowanja a priwatnosći wobwliwowaś."
+
+#. Obsolete string, will be removed once the new one is localized. Do not remove now, it's still used on production and will be reported as missing on the dashboard.
+#: lightbeam/lightbeam.lang:225
 msgid ""
 "With the Lightbeam add-on and database server, we are providing a valuable "
 "(and open) community research platform that aims to raise awareness, promote "
@@ -381,7 +408,7 @@ msgstr ""
 "znatosć pówušyś, analyzu spěchowaś a, skóńcnje, změnjenje politiki na pólach "
 "slědowanja a priwatnosći wobwliwowaś."
 
-#: lightbeam/lightbeam.lang:217
+#: lightbeam/lightbeam.lang:229
 msgid ""
 "Lightbeam is one step in a larger, concerted effort by Mozilla and its "
 "partners to provide Web users with greater control and transparency of their "
@@ -391,11 +418,11 @@ msgstr ""
 "partnarjow, aby webwužywarjow z wětšeju kontrolu a transparencu jich "
 "wósobinskich datow wobstarali."
 
-#: lightbeam/lightbeam.lang:221
+#: lightbeam/lightbeam.lang:233
 msgid "Learn more about online tracking and privacy"
 msgstr "Zgóńśe wěcej wó slědowanju a priwatnosći online"
 
-#: lightbeam/lightbeam.lang:225
+#: lightbeam/lightbeam.lang:237
 msgid ""
 "The <a href=\"%s\">Mozilla Foundation</a> is a non-profit organization that "
 "promotes the values of an open Web to the broader world. The larger Mozilla "
@@ -407,11 +434,25 @@ msgstr ""
 "Wětše zgromaźeństwo Mozilla wiźi rosćecu relewancu priwatnosći online a "
 "pódpěra někotare iniciatiwy, kótarež daju se na problem na wšake wašnje."
 
-#: lightbeam/lightbeam.lang:229
+#: lightbeam/lightbeam.lang:241
 msgid "Data formats in Lightbeam"
 msgstr "Datowe formaty w dodanku Lightbeam"
 
-#: lightbeam/lightbeam.lang:233
+#. Updated string
+#: lightbeam/lightbeam.lang:246
+#, fuzzy
+msgid ""
+"Visit our <a href=\"%s\">documentation on Github</a> to learn more about the "
+"file formats used in Lightbeam and to see details of the data that is "
+"uploaded if you opt in to contribute data."
+msgstr ""
+"Pśecytajśo <a href=\"%s\">dokumentaciju na Github</a>, aby wěcej wó "
+"datajowch formatach zgónił, kótarež wužywaju se w Lightbeam a aby nadrobnjej "
+"datow wiźeł, kótarež se nagrawaju, jolic se rozsuźijiśo, k datowej bance "
+"pśinosowaś."
+
+#. Obsolete string, will be removed once the new one is localized. Do not remove now, it's still used on production and will be reported as missing on the dashboard.
+#: lightbeam/lightbeam.lang:251
 msgid ""
 "Visit our <a href=\"%s\">documentation on Github</a> to learn more about the "
 "file formats used in Lightbeam and to see details of the data that is "
@@ -422,11 +463,11 @@ msgstr ""
 "datow wiźeł, kótarež se nagrawaju, jolic se rozsuźijiśo, k datowej bance "
 "pśinosowaś."
 
-#: lightbeam/lightbeam.lang:237
+#: lightbeam/lightbeam.lang:255
 msgid "Partners of Lightbeam"
 msgstr "Partnarje dodanka Lightbeam"
 
-#: lightbeam/lightbeam.lang:241
+#: lightbeam/lightbeam.lang:259
 msgid ""
 "The <a href=\"%s\">Ford Foundation</a> is a non-profit organization that "
 "focuses on the mission of advancing human welfare."
@@ -434,7 +475,7 @@ msgstr ""
 "Załožba <a href=\"%s\">Ford Foundation</a> jo njekomercielna organizacija, "
 "kótaraž koncentrěrujo se na misiju, cłowjeske derjeměśe spěchowaś."
 
-#: lightbeam/lightbeam.lang:245
+#: lightbeam/lightbeam.lang:263
 msgid ""
 "They provide support for companies and institutions devoted to strengthening "
 "democratic values, reducing poverty and social injustice, supporting human "
@@ -445,7 +486,7 @@ msgstr ""
 "njespšawnosć, pódpěraju cłowjeske wugbaśa a spěchuju mjazynarodnu "
 "kooperaciju."
 
-#: lightbeam/lightbeam.lang:249
+#: lightbeam/lightbeam.lang:267
 msgid ""
 "The <a href=\"%s\">Social + Interactive Media (SIM) Centre</a> at Emily Carr "
 "University of Art + Design supports a wide range of projects in design and "
