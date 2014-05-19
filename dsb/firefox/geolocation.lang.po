@@ -4,23 +4,26 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-05-15 22:41+0100\n"
-"PO-Revision-Date: 2014-05-15 22:41+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2014-05-17 12:04+0000\n"
+"Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: dsb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1400328291.000000\n"
 
 #. # NOTE: url is https://www.mozilla.org/firefox/geolocation/
 #: firefox/geolocation.lang:5
 msgid "Geolocation in Firefox"
-msgstr ""
+msgstr "Geolokalizacija w Firefox"
 
 #: firefox/geolocation.lang:9
 msgid "Location-Aware Browsing"
-msgstr ""
+msgstr "Stojnišćowe pśeglědowanje"
 
 #: firefox/geolocation.lang:13
 msgid ""
@@ -29,15 +32,19 @@ msgid ""
 "is done in a way that totally respects your privacy. <a href=\"%(url)s\" id="
 "\"%(id)s\" style=\"%(style)s\">Give it a try!</a>"
 msgstr ""
+"Firefox móžo websedłam k wěsći daś, źož sćo, tak až móžośo informacije "
+"namakaś, kótarež su wěcej relewantne a wužytnjejše. Źo wó to, web wěcej "
+"inteligentny cyniś &ndash; a stawa se na wašnju, kótaraž šćita wašu "
+"priwatnosć. <a href=\"%(url)s\" id=\"%(id)s\" style=\"%(style)s\">Wopytajśo "
+"to!</a>"
 
 #: firefox/geolocation.lang:17
-#, fuzzy
 msgid "Frequently asked Questions"
 msgstr "Ceste pšašanja"
 
 #: firefox/geolocation.lang:21
 msgid "What is Location-Aware Browsing?"
-msgstr ""
+msgstr "Co jo stojnišćowe pśeglědowanje?"
 
 #: firefox/geolocation.lang:25
 msgid ""
@@ -48,6 +55,12 @@ msgid ""
 "“pizza” will bring you the answers you need... no further information or "
 "extra typing required."
 msgstr ""
+"Websedła, kótarež wužywaju stojnišćowe pśeglědowanje, budu se pšašaś, źož "
+"sćo, aby wěcej relewantne informacije dali, abo aby za was cas zažarili, gaž "
+"pytaśo. Grońmy, pytaśo pizzeriju w swójej bliskosći. Websedło móžo se was za "
+"wašym stojnišćom pšašaś, tak až jadnore pytanje za słowom “pizzerija” južo "
+"pśinjaso wótegrona, kótarež trjebaśo... njetrjebaśo žedne dalšne informacije "
+"zapódaś."
 
 #: firefox/geolocation.lang:29
 msgid ""
@@ -55,6 +68,8 @@ msgid ""
 "where you’re starting from so all you have to do is tell it where you want "
 "to go."
 msgstr ""
+"Abo, jolic nacerjujośo směry, aby se něźi dostał, buźo websedło wěźeś, źož "
+"startujośo, musyśo pótakem jomu jano k wěsći daś, źož cośo se dostaś."
 
 #: firefox/geolocation.lang:33
 msgid ""
@@ -63,16 +78,23 @@ msgid ""
 "privacy. And, like all elements of Firefox, it’s being created using open "
 "standards to ease adoption by Web developers."
 msgstr ""
+"Toś ta słužba jo opcionalna &ndash; Firefox njewuzjawja wašo stojnišćo bźez "
+"wašeje dowólnosći &ndash; a jolic to se cyni, stawa se to z nanejwětšim "
+"respektom za wašu priwatnosć. A napórajo se, ako wšykne elementy Firefox, z "
+"pomocu wótwórjonych standardow, aby se pśiměrjenje pśez webwuwiwarjow "
+"wólažcyła."
 
 #: firefox/geolocation.lang:37
 msgid "How does it work?"
-msgstr ""
+msgstr "Kak to funkcioněrujo?"
 
 #: firefox/geolocation.lang:41
 msgid ""
 "When you visit a location-aware website, Firefox will ask you if you want to "
 "share your location."
 msgstr ""
+"Gaž woglědujośo se websedło z póstajenim pozicije, buźo se Firefox was "
+"pšašaś, lěc cośo swóje stojnišćo wózjawiś."
 
 #: firefox/geolocation.lang:45
 msgid ""
@@ -82,14 +104,19 @@ msgid ""
 "get an estimate of your location. That location estimate is then shared with "
 "the requesting website."
 msgstr ""
+"Jolic pśigłosujośo, wobstarujo Firefox informacije wó bźezdrotowych "
+"pśistupnišćach w bliskosći a IP-adresu wašogo licadła. Pótom sćelo Firefox "
+"toś te informacije na standardnego póbitowarja słužby geolokalizacije, "
+"słužby póstajenja pozicije Google, aby wašo stojnišćo woblicyś. Wuslědk "
+"woblicenja stojnišća buźo se pótom z napšašujucym websedłom źěliś."
 
 #: firefox/geolocation.lang:49
 msgid "If you say that you do not consent, Firefox will not do anything."
-msgstr ""
+msgstr "Jolic dajośo k wěsći, až njejsćo wobjadny, Firefox njebuźo nic cyniś."
 
 #: firefox/geolocation.lang:53
 msgid "How accurate are the locations?"
-msgstr ""
+msgstr "Kak dokradne su pozicije?"
 
 #: firefox/geolocation.lang:57
 msgid ""
@@ -100,11 +127,17 @@ msgid ""
 "the accuracy of the locations provided. Please do not use this information "
 "for emergencies. Always use common sense."
 msgstr ""
+"Dokradnosć wariěrujo wjelgin wót městna k městnoju. Na někotarych městnach "
+"mógu naše słužbne póbitowarje stojnišćo z dokradnosću mało metrow pódaś. Na "
+"drugich městnach pak móžo to wó wjele wěcej byś. Wšykne poziciske pódaśa "
+"wrośone wót słužbnych póbitowarjow su jano woblicenja a njegarantěrujomy "
+"dokradnosć pódanych pozicijow. Pšosym njewužyjśo toś te informacije za "
+"nuzowe pady. Wužyjśo pśecej cłowjeski rozym."
 
 #: firefox/geolocation.lang:61
 msgid ""
 "What information is being sent, and to whom? How is my privacy protected?"
-msgstr ""
+msgstr "Kótare informacije se sćelu, a komu? Kak se mója priwatnosć šćita?"
 
 #: firefox/geolocation.lang:65
 msgid ""
@@ -113,32 +146,42 @@ msgid ""
 "information, you’ll be asked before any information is shared with the "
 "requesting website and our third-party service provider."
 msgstr ""
+"Waša priwatnosć jo wjelgickano wažna za nas, a Firefox nigda njewuzjawja "
+"wašo stojnišćo bźez wašeje dowólnosći. Gaž woglědujośo se bok, kótaryž "
+"pomina se waše informacije, pšašaju se was, nježli až někake informacije "
+"źěle se z napšašujucym websedłom a našym słužbnym póbitowarjom."
 
 #: firefox/geolocation.lang:69
 msgid ""
 "By default, Firefox uses Google Location Services to determine your location "
 "by sending:"
 msgstr ""
+"Firefox wužywa standardnje słužby póstajenja pozicije Google, aby wašu "
+"poziciju póstajił, z tym až sćelo:"
 
 #: firefox/geolocation.lang:73
 msgid "your computer’s IP address,"
-msgstr ""
+msgstr "IP-adresu wašogo licadła,"
 
 #: firefox/geolocation.lang:77
 msgid "information about the nearby wireless access points, and"
-msgstr ""
+msgstr "informacije wó nejblišych bźezdrotowych pśistupnišćach, a"
 
 #: firefox/geolocation.lang:81
 msgid ""
 "a random client identifier, which is assigned by Google, that expires every "
 "2 weeks."
 msgstr ""
+"pśipadny klientowy identifikator, kótaryž Google pśipokazujo, kótaryž jo "
+"płaśiwy 2 tyźenja."
 
 #: firefox/geolocation.lang:85
 msgid ""
 "For a complete description of information collected and used by Firefox, "
 "please see the <a href=\"%(url)s\">Firefox Privacy Notice</a>."
 msgstr ""
+"Za dopołne wopisanje informacijow zgromaźonych a wužywanych pśez Firefox, "
+"glejśo pšosym <a href=\"%(url)s\">Powěźeńku priwatnosći Firefox</a>."
 
 #: firefox/geolocation.lang:89
 msgid ""
@@ -147,6 +190,10 @@ msgid ""
 "and used by Google, please see the <a href=\"%(url)s\" class=\"%(class)s"
 "\">Google Geolocation Privacy Policy</a>."
 msgstr ""
+"Słužby póstajenja pozicije Google wrośaju pótom wašo woblicone geostojnišćo "
+"(na pś. šyrinu a dlininu). Za dopołne wopisanje informacijow zgromaźonych a "
+"wužywanych pśez Google, glejśo pšosym <a href=\"%(url)s\" class=\"%(class)s"
+"\">pšawidła priwatnosći geolokalizacije Google</a>."
 
 #: firefox/geolocation.lang:93
 msgid ""
@@ -156,34 +203,42 @@ msgid ""
 "you are visiting, or are any cookies, ever shared with Google Location "
 "Services."
 msgstr ""
+"Informacije wuměnjaju se pśez skoděrowany zwisk, aby se waša priwatnosć "
+"šćitała. Gaž Firefox ma waše poziciske pódaśa, pśepódajo je websedłoju, "
+"kótarež jo je pominało. Nigda njeźěle se mě abo městno websedła, kótarež se "
+"woglědujośo, abo někake cookieje ze słužbami póstajenja pozicije Google."
 
 #: firefox/geolocation.lang:97
 msgid ""
 "Neither Mozilla or Google will ever use the information collected by Google "
 "Location Services to identify or spy on you."
 msgstr ""
+"Daniž Mozilla daniž Google njewužywa nigda informacije zgromaźone pśez "
+"słužby póstajenja pozicije Google, aby was identificěrował abo wušpioněrował."
 
 #: firefox/geolocation.lang:101
 msgid ""
 "For information about what the requesting website does with your location "
 "information, please refer to that website’s privacy policy."
 msgstr ""
+"Za informacije wó tom, což napšašujuce websedło cyni z wašymi poziciskimi "
+"pódaśami, pśecytajśo pšosym pšawidła priwatnosći togo websedła."
 
 #: firefox/geolocation.lang:105
 msgid "For more information about your privacy, you should also read:"
-msgstr ""
+msgstr "Za dalšne informacije wó swójej priwatnosći, wy by měł teke cytaś:"
 
 #: firefox/geolocation.lang:109
 msgid "Mozilla Firefox Privacy Notice"
-msgstr ""
+msgstr "Powěźeńku priwatnosći Mozilla Firefox"
 
 #: firefox/geolocation.lang:113
 msgid "Google privacy policy"
-msgstr ""
+msgstr "Pšawidła priwatnosći Google"
 
 #: firefox/geolocation.lang:117
 msgid "Am I being tracked as I browse the web?"
-msgstr ""
+msgstr "Slěduju mě, gaž pśeglědujom web?"
 
 #: firefox/geolocation.lang:121
 msgid ""
@@ -191,10 +246,13 @@ msgid ""
 "only shares your location when the user has approved the request. Firefox "
 "does not track or remember your location as you browse."
 msgstr ""
+"Ně. Firefox pšaša se jano za stojnišćom, gaž websedło napšašujo, a wuzjawja "
+"jano wašo stojnišćo, gaž wužywaŕ jo napšašowanje pśizwólił. Firefox "
+"njeslědujo abo njemarkujo se wašo stojnišćo, gaž pśeglědujośo."
 
 #: firefox/geolocation.lang:125
 msgid "How do I undo a permission granted to a site?"
-msgstr ""
+msgstr "Kak mógu sedłoju dane pšawo pšec wześ?"
 
 #: firefox/geolocation.lang:129
 msgid ""
@@ -202,47 +260,52 @@ msgid ""
 "and later change your mind, you can easily revoke that permission. Here's "
 "how:"
 msgstr ""
+"Jolic sćo Firefox pšawo dał, aby pśecej sedłoju wašo stojnišćo k wěsći dał, "
+"wy pak změnijośo pózdźej swójo měnjenje, móžośo lažko to pšawo pšec wześ. "
+"Tak to źo:"
 
 #: firefox/geolocation.lang:133
 msgid "Navigate to the site to which you’ve given permission"
-msgstr ""
+msgstr "Nawigěrujśo k sedłoju, kótaremuž sćo pšawo dał"
 
 #: firefox/geolocation.lang:137
 msgid "Go to the <em>Tools</em> menu, then select <em>Page Info</em>"
-msgstr ""
+msgstr "Źiśo k menijoju <em>Rědy</em> a wubjeŕśo pótom <em>Info wó boku</em>"
 
 #: firefox/geolocation.lang:141
 msgid "Select the <em>Permissions</em> tab"
-msgstr ""
+msgstr "Wubjeŕśo rejtark <em>Pšawa</em>"
 
 #: firefox/geolocation.lang:145
 msgid "Change the setting for <em>Share Location</em>"
-msgstr ""
+msgstr "Nastajenje za <em>Městno źěliś</em> změniś"
 
 #: firefox/geolocation.lang:149
 msgid "How do I clear the “random client identification number”?"
-msgstr ""
+msgstr "Kak mógu “numer pśipadnego klientowego identifikatora” lašowaś?"
 
 #: firefox/geolocation.lang:153
 msgid ""
 "Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>"
 msgstr ""
+"Źiśo k menijoju <em>Historija</em> a wubjeŕśo pótom <em>Aktualnu historiju "
+"wuprozniś</em>"
 
 #: firefox/geolocation.lang:157
 msgid "Click the <em>Details</em> arrow"
-msgstr ""
+msgstr "Klikniśo na šypku <em>Drobnostki</em>"
 
 #: firefox/geolocation.lang:161
 msgid "Ensure that <em>Cookies</em> is selected"
-msgstr ""
+msgstr "Pśeznańśo se, až nastajenje <em>Cookieje</em> jo wubrane"
 
 #: firefox/geolocation.lang:165
 msgid "Click on <em>Clear Now</em>"
-msgstr ""
+msgstr "Klikniśo na <em>Něnto lašowaś</em>"
 
 #: firefox/geolocation.lang:169
 msgid "How do I turn off Location-Aware Browsing permanently?"
-msgstr ""
+msgstr "Kak mógu stojnišćowe pśeglědowanje na pśecej znjemóžniś?"
 
 #: firefox/geolocation.lang:173
 msgid ""
@@ -250,27 +313,30 @@ msgid ""
 "is ever sent without your permission. If you wish to disable the feature "
 "completely, please follow this set of steps:"
 msgstr ""
+"Stojnošćowe pśeglědowanje jo móžno w Firefox jano z pśigłosowanim. Žedne "
+"stojnišćowe informacije njesćelu se bźez wašeje dowólnosći. Jolic cośo "
+"funkciju dopołnje znjemóžniś, wuwjeźćo slědujuce kšace:"
 
 #: firefox/geolocation.lang:177
 msgid "In the URL bar, type <code>about:config</code>"
-msgstr ""
+msgstr "Zapišćo <code>about:config</code> do adresowego póla"
 
 #: firefox/geolocation.lang:181
 msgid "Type <code>geo.enabled</code>"
-msgstr ""
+msgstr "Zapišćo <code>geo.enabled</code>"
 
 #: firefox/geolocation.lang:185
 msgid "Double click on the <em>geo.enabled</em> preference"
-msgstr ""
+msgstr "Klikniśo dwójcy na nastajenje <em>geo.enabled</em>"
 
 #: firefox/geolocation.lang:189
 msgid "Location-Aware Browsing is now disabled"
-msgstr ""
+msgstr "Stojnišćowe pśeglědowanje jo něnto znjemóžnjone"
 
 #: firefox/geolocation.lang:193
 msgid "Where am I?"
-msgstr ""
+msgstr "Źo som?"
 
 #: firefox/geolocation.lang:197
 msgid "Oops! An error occurred while trying to determine your position."
-msgstr ""
+msgstr "Hopla! Pśi póstajenju wašeje pozicije jo zmólka nastała."
