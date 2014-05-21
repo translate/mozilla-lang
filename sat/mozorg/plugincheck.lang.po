@@ -1,0 +1,269 @@
+#. extracted from ./mozorg/plugincheck.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-28 13:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sat\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+
+#. # java_notice ##
+#. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
+#. Page <title> tag
+#: mozorg/plugincheck.lang:7
+msgid "Plugin Check &amp; Updates"
+msgstr ""
+
+#. This is a button telling the user to update their plugin
+#: mozorg/plugincheck.lang:12
+msgid "Update Now"
+msgstr ""
+
+#. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
+#: mozorg/plugincheck.lang:17
+msgid "Research"
+msgstr ""
+
+#. This string is used together with the plugin's name to create a query on Google when using the Research button.
+#: mozorg/plugincheck.lang:22
+msgid "current version plugin"
+msgstr ""
+
+#. This is a button informing the user that their plugin is up to date
+#: mozorg/plugincheck.lang:27
+msgid "Up to Date"
+msgstr ""
+
+#. L10n: This is alt text used on plugin icon images
+#: mozorg/plugincheck.lang:32
+msgid "Plugin icon"
+msgstr ""
+
+#. This is the string used to indicate that the plugin is unknown
+#: mozorg/plugincheck.lang:37
+msgid "unknown"
+msgstr ""
+
+#. This is the string used to indicate that the plugin is vulnerable
+#: mozorg/plugincheck.lang:42
+msgid "vulnerable"
+msgstr ""
+
+#. Main title
+#: mozorg/plugincheck.lang:47
+msgid "Check Your Plugins"
+msgstr ""
+
+#: mozorg/plugincheck.lang:51
+msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
+msgstr ""
+
+#: mozorg/plugincheck.lang:55
+msgid ""
+"We are aware of a problem detecting current versions of the Java plugin and "
+"misreporting them as vulnerable."
+msgstr ""
+
+#: mozorg/plugincheck.lang:59
+msgid ""
+"We’re working to correct this error. In the meantime, you can <a href="
+"\"%(download)s\">visit the Java website</a> to download the latest version."
+msgstr ""
+
+#: mozorg/plugincheck.lang:63
+msgid "Plugin Status"
+msgstr ""
+
+#: mozorg/plugincheck.lang:67
+msgid ""
+"Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
+"use Tools &gt; Manage Addons"
+msgstr ""
+
+#: mozorg/plugincheck.lang:71
+msgid "Step 1: Click Update to update a plugin."
+msgstr ""
+
+#: mozorg/plugincheck.lang:75
+msgid ""
+"Step 2: Complete all recommended updates before restarting your browser."
+msgstr ""
+
+#: mozorg/plugincheck.lang:79
+msgid "Potentially vulnerable plugins"
+msgstr ""
+
+#: mozorg/plugincheck.lang:83
+msgid "Plugin"
+msgstr ""
+
+#: mozorg/plugincheck.lang:87
+msgid "Status"
+msgstr ""
+
+#: mozorg/plugincheck.lang:91
+msgid "Action"
+msgstr ""
+
+#: mozorg/plugincheck.lang:95
+msgid "Outdated Plugins"
+msgstr ""
+
+#: mozorg/plugincheck.lang:99
+msgid "Unknown Plugins"
+msgstr ""
+
+#: mozorg/plugincheck.lang:103
+msgid "These plugins are up to date"
+msgstr ""
+
+#: mozorg/plugincheck.lang:107
+msgid "Back to Top"
+msgstr ""
+
+#: mozorg/plugincheck.lang:111
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: mozorg/plugincheck.lang:115
+msgid "What is a plugin?"
+msgstr ""
+
+#: mozorg/plugincheck.lang:119
+msgid "Plugins power videos, animation and games"
+msgstr ""
+
+#: mozorg/plugincheck.lang:123
+msgid ""
+"They're built outside of Firefox by companies like Adobe Systems and Apple"
+msgstr ""
+
+#: mozorg/plugincheck.lang:127
+msgid "Plugins don't always update automatically."
+msgstr ""
+
+#: mozorg/plugincheck.lang:131
+msgid "Why should I update my plugins?"
+msgstr ""
+
+#: mozorg/plugincheck.lang:135
+msgid "Old plugins can interrupt browsing and waste your time."
+msgstr ""
+
+#: mozorg/plugincheck.lang:139
+msgid ""
+"Old plugins <strong>increase your risk</strong> for attack by malware, "
+"viruses, and other security threats."
+msgstr ""
+
+#: mozorg/plugincheck.lang:143
+msgid ""
+"<strong>Updated plugins have improvements</strong> that make the web "
+"<strong>better and safer</strong> for you."
+msgstr ""
+
+#. alt image
+#: mozorg/plugincheck.lang:148
+msgid "Screenshot of Add-Ons manager"
+msgstr ""
+
+#: mozorg/plugincheck.lang:152
+msgid "How can Firefox help me?"
+msgstr ""
+
+#: mozorg/plugincheck.lang:156
+msgid ""
+"In the future, Firefox will update plugins for you. Until then, you should "
+"regularly check this page and update your plugins to stay safe."
+msgstr ""
+
+#: mozorg/plugincheck.lang:160
+msgid "Which Plugins do I have?"
+msgstr ""
+
+#: mozorg/plugincheck.lang:164
+msgid ""
+"We automatically detected your plugins above, to view your installed plugins "
+"in Firefox follow these steps:"
+msgstr ""
+
+#: mozorg/plugincheck.lang:168
+msgctxt "./mozorg/plugincheck.lang:168"
+msgid "Open the Tools menu."
+msgstr ""
+
+#: mozorg/plugincheck.lang:172
+msgctxt "./mozorg/plugincheck.lang:172"
+msgid "Choose Add-ons."
+msgstr ""
+
+#: mozorg/plugincheck.lang:176
+msgctxt "./mozorg/plugincheck.lang:176"
+msgid "Click the plugins tab."
+msgstr ""
+
+#: mozorg/plugincheck.lang:180
+msgid "Want to spread the word?"
+msgstr ""
+
+#: mozorg/plugincheck.lang:184
+msgid ""
+"Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
+"Affiliates</a> to get a plugin check badge for your site."
+msgstr ""
+
+#: mozorg/plugincheck.lang:188
+msgid "How do I disable a plugin?"
+msgstr ""
+
+#: mozorg/plugincheck.lang:192
+msgid "In Firefox:"
+msgstr ""
+
+#: mozorg/plugincheck.lang:196
+msgctxt "./mozorg/plugincheck.lang:196"
+msgid "Open the Tools menu."
+msgstr ""
+
+#: mozorg/plugincheck.lang:200
+msgctxt "./mozorg/plugincheck.lang:200"
+msgid "Choose Add-ons."
+msgstr ""
+
+#: mozorg/plugincheck.lang:204
+msgctxt "./mozorg/plugincheck.lang:204"
+msgid "Click the plugins tab."
+msgstr ""
+
+#: mozorg/plugincheck.lang:208
+msgid "Click on a plugin in the list."
+msgstr ""
+
+#: mozorg/plugincheck.lang:212
+msgid "Click the Disable button."
+msgstr ""
+
+#: mozorg/plugincheck.lang:216
+msgid ""
+"Caution: disabling a plugin means that you will no longer be able to do "
+"certain things. For example, if you disable Flash, you will not be able to "
+"watch videos on YouTube."
+msgstr ""
+
+#: mozorg/plugincheck.lang:220
+msgid "Mozilla Support"
+msgstr ""
+
+#: mozorg/plugincheck.lang:224
+msgid "Have more questions?"
+msgstr ""
+
+#: mozorg/plugincheck.lang:228
+msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
+msgstr ""
