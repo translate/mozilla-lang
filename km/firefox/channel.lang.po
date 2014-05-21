@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-17 00:42+0100\n"
+"POT-Creation-Date: 2014-05-21 11:54+0100\n"
 "PO-Revision-Date: 2013-11-04 08:19+0000\n"
 "Last-Translator: soksophea <sksophea@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,21 +12,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.1-alpha1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1383553187.000000\n"
 
+#. # telemetry_notice ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/channel/
 #. This is the string for the <title> tag on the page.
-#: firefox/channel.lang:5
+#: firefox/channel.lang:6
 msgid "Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox"
 msgstr "ទាញ​យក Firefox Aurora ឬ Beta &amp; នឹង​ជួយ​កំណត់ Firefox បន្ទាប់"
 
 #. This description applies to Firefox Beta
-#: firefox/channel.lang:10
+#: firefox/channel.lang:11
 msgid "The latest features in a more stable environment"
 msgstr "លក្ខណ​ពិសេស​ចុងក្រោយ​គឺ​ស្ថិត​ក្នុង​បរិស្ថាន​មាន​ស្ថិរភាព​ខ្លាំង"
 
-#: firefox/channel.lang:14
+#: firefox/channel.lang:15
+#, fuzzy
+msgid ""
+"Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
+"\">Learn more</a>."
+msgstr ""
+"Firefox Aurora ផ្ញើ​មតិ​អ្នកប្រើ​ទៅ Mozilla ដោយ​ស្វ័យប្រវត្តិ។ <a href=\"%(link)s\">ស្វែងយល់​"
+"បន្ថែម</a>។"
+
+#: firefox/channel.lang:19
+msgid ""
+"<a href=\"%(feedback)s\">Give us feedback</a> to help us put the final "
+"tweaks on performance and functionality in a stable environment."
+msgstr ""
+
+#: firefox/channel.lang:23
 msgid ""
 "Firefox Aurora automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -35,23 +51,29 @@ msgstr ""
 "បន្ថែម</a>។"
 
 #. This description applies to Firefox Aurora
-#: firefox/channel.lang:19
+#: firefox/channel.lang:28
 msgid "The newest innovations in an experimental environment"
 msgstr "បន្លាស់ប្ដូរ​ថ្មី​បំផុត​នៅ​ក្នុង​បរិស្ថាន​ពិសោធន៍"
 
+#: firefox/channel.lang:32
+msgid ""
+"Test performance in an experimental environment, file bugs and <a href="
+"\"%(feedback)s\">help us determine what makes it to Beta</a>."
+msgstr ""
+
 #. This description applies to Firefox on the Release channel
-#: firefox/channel.lang:24
+#: firefox/channel.lang:37
 msgid "Tried, tested and used by millions around the world"
 msgstr "បាន​សាកល្បង ធ្វើតេស្ត និង​ប្រើ​ដោយ​មនុស្ស​រាប់​លាន​នាក់​ទូទាំង​ពិភពលោក"
 
-#: firefox/channel.lang:28
+#: firefox/channel.lang:41
 msgid "Learn more about Firefox Beta"
 msgstr "ស្វែងយល់​បន្ថែម​អំពី Firefox Beta"
 
-#: firefox/channel.lang:32
+#: firefox/channel.lang:45
 msgid "Learn more about Firefox Aurora"
 msgstr "ស្វែងយល់​បន្ថែម​អំពី Firefox Aurora"
 
-#: firefox/channel.lang:36
+#: firefox/channel.lang:49
 msgid "Learn more about Firefox"
 msgstr "ស្វែងយល់​បន្ថែម​អំពី Firefox"
