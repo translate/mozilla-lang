@@ -16,26 +16,31 @@ msgstr ""
 #. # sync_new_markup ##
 #. # NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 #: firefox/sync.lang:5
-#, fuzzy
 msgid "Keep your Firefox in sync"
-msgstr "Mantiene tu Firefox en Sync"
+msgstr "Mantén tu Firefox <b>Sync</b>ronizado"
 
 #: firefox/sync.lang:9
 msgid ""
 "Instantly make Firefox your own wherever you use it. Seamlessly sync your "
 "bookmarks, history, passwords and more and access them from any device."
 msgstr ""
+"Instantaneamente crea tu propio Firefox siempre que lo uses. Sincroniza "
+"perfectamente tus marcadores, historial, contraseñas y más y accede a ellos "
+"desde cualquier dispositivo."
 
 #: firefox/sync.lang:13
 msgid "Get started with Sync. It’s fast, safe and easy:"
-msgstr ""
+msgstr "Comienza con Sync. Es rápido, facil y seguro:"
 
 #. (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #: firefox/sync.lang:18
+#, fuzzy
 msgid ""
 "Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> in "
 "the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
+"Abre el <a href=\"%(url)s#w_a-handy-new-menu\">menú</a> en la parte superior "
+"derecha de Firefox y selecciona “Iniciar sesión en Sync.”"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:23
@@ -43,6 +48,8 @@ msgid ""
 "Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of "
 "Firefox and select “Sign in to Sync.”"
 msgstr ""
+"Abre el <a href=\"%(url)s#w_a-handy-new-menu\">menú</a> en la parte superior "
+"derecha de Firefox y selecciona “Iniciar sesión en Sync.”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:28
@@ -52,43 +59,55 @@ msgstr ""
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:33
 msgid "Click “Get started” in the tab that opens."
-msgstr ""
+msgstr "Haz clic en “Comenzar” en la pestaña que se abre."
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:38
+#, fuzzy
 msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
 msgstr ""
+"Ingresa una dirección de correo electrónico y una contraseña en “Crear una "
+"cuenta de Firefox.”"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:43
 msgid "Enter an email address and password to “Create a Firefox Account.”"
 msgstr ""
+"Ingresa una dirección de correo electrónico y una contraseña en “Crear una "
+"cuenta de Firefox.”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:48
+#, fuzzy
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr ""
+"Haz click en “Siguiente” para recibir una verificación en tu correo "
+"electrónico."
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:53
 msgid "Click “Next” to get a verification sent to your email."
 msgstr ""
+"Haz click en “Siguiente” para recibir una verificación en tu correo "
+"electrónico."
 
 #: firefox/sync.lang:57
 msgid "Check your email and click the verification link."
-msgstr ""
+msgstr "Revisa tu correo electrónico y haz click en el enlace de verificación."
 
 #: firefox/sync.lang:61
 msgid ""
 "You’re all set! Firefox will automatically sync in the background from now "
 "on."
 msgstr ""
+"¡Ya está todo listo! Firefox se sincronizará automáticamente en segundo "
+"plano a partir de ahora."
 
 #: firefox/sync.lang:65
 msgid "Get more detailed instructions."
-msgstr ""
+msgstr "Recibe instrucciones más detalladas."
 
 #: firefox/sync.lang:69
 msgid "Using an older version of Sync?"
@@ -96,22 +115,26 @@ msgstr "¿Estás usando una versión antigua de Sync?"
 
 #: firefox/sync.lang:73
 msgid "Have an Android phone or tablet?"
-msgstr ""
+msgstr "¿Tienes un teléfono o tableta con Android?"
 
 #. (NEW STRING)
 #: firefox/sync.lang:78
+#, fuzzy
 msgid ""
 "<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
 "desktop and mobile devices."
 msgstr ""
+"Descarga Firefox para Android y sincroniza tu equipo con dispositivos "
+"móviles."
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:83
 msgid ""
 "Download Firefox for Android to sync between your desktop and mobile devices."
 msgstr ""
+"Descarga Firefox para Android y sincroniza tu equipo con dispositivos "
+"móviles."
 
 #: firefox/sync.lang:87
-#, fuzzy
 msgid "Get it free from Google Play"
-msgstr "Obtenlo gratuitamente en Google Play"
+msgstr "Consíguelo gratis desde Google Play"

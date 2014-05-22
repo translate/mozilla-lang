@@ -16,11 +16,11 @@ msgstr ""
 #. # NOTE: Update page available at url: https://www-dev.allizom.org/b/en-GB/firefox/update/
 #: firefox/update.lang:5
 msgid "Welcome"
-msgstr "Bienvenidos"
+msgstr "Bienvenido"
 
 #: firefox/update.lang:9
 msgid "Are Firefox updates safe?"
-msgstr ""
+msgstr "¿Son seguras las actualizaciones de Firefox?"
 
 #: firefox/update.lang:13
 msgid ""
@@ -28,24 +28,29 @@ msgid ""
 "older version. To start the upgrade process, just click the green download "
 "button to the right."
 msgstr ""
+"No. La nueva versión de Firefox tomará el lugar de tu versión anterior. Para "
+"iniciar el proceso de actualización, haz clic en el botón verde de descarga "
+"que está a la derecha."
 
 #: firefox/update.lang:17
 msgid ""
 "It varies slightly depending on the operating system you're using. You can "
 "find <a %(link)s>instructions for your computer here</a>."
 msgstr ""
+"Varía ligeramente dependiendo del sistema operativo que uses. Puedes "
+"encontrar <a %(link)s>instrucciones para tu equipo aquí</a>."
 
 #: firefox/update.lang:21
 msgid "Your Firefox is out of date."
-msgstr "Tu Firefox no está actualizado."
+msgstr "Tu Firefox está desactualizado."
 
 #: firefox/update.lang:25
 msgid "Follow the step-by-step process"
-msgstr ""
+msgstr "Instrucciones paso a paso del proceso"
 
 #: firefox/update.lang:29
 msgid "Congratulations!"
-msgstr ""
+msgstr "¡Felicidades!"
 
 #: firefox/update.lang:33
 msgid ""
@@ -55,53 +60,69 @@ msgid ""
 "discovered, we write a patch and release an update to stay one step ahead. "
 "Downloading Firefox updates is a very important part of staying safe online."
 msgstr ""
+"¡Mucho! – tu seguridad es nuestra prioridad. Nuestro proceso de seguridad de "
+"código abierto implica que tenemos una comunidad internacional de expertos "
+"trabajando todo el día para monitorear las amenazas más recientes. Tan "
+"pronto como una amenaza de seguridad es descubierta, escribimos un parche y "
+"lanzamos una actualización para estar un paso adelante. Descargar las "
+"actualizaciones de Firefox es una parte importante de mantenerte seguro en "
+"linea."
 
 #: firefox/update.lang:37
 msgid ""
 "If I already have Firefox, and then do a fresh install, what happens to my "
 "settings?"
 msgstr ""
+"Si ya tengo Firefox, y hago una actualización nueva, ¿qué le ocurre a mis "
+"configuraciones?"
 
 #: firefox/update.lang:41
 msgid "What is a Firefox software update?"
-msgstr ""
+msgstr "¿Qué es una actualización de software de Firefox?"
 
 #: firefox/update.lang:45
 msgid ""
 "Yes. Firefox is configured to automatically check for updates, but it’s also "
 "possible to check for updates yourself."
 msgstr ""
+"Sí. Firefox está configurado para buscar actualizaciones automáticamente, "
+"pero también es posible que lo revises por ti mismo."
 
 #: firefox/update.lang:49
 msgid ""
 "Nothing. Re-installing Firefox will not affect your settings, bookmarks or "
 "preferences in any way."
 msgstr ""
+"Nada. Reinstalar Firefox no afectará tus configuraciones, marcadores o "
+"preferencias en ninguna forma."
 
 #: firefox/update.lang:53
 msgid ""
 "Not long at all – the entire process just takes a minute or two. Visit our "
 "support page for <a %(link)s>step-by-step instructions</a>."
 msgstr ""
+"Muy poquito – el proceso dura apenas un minuto o dos. Visita nuestra página "
+"de soporte con <a %(link)s>instrucciones paso a paso</a>."
 
 #: firefox/update.lang:57
 msgid ""
 "You are also able to check for updates manually. For details, check out the "
 "<a %(link)s>step-by-step guide</a>.</p>"
 msgstr ""
+"Tienes también la posibilidad de buscar actualizaciones manualmente. Visita "
+"la <a %(link)s>guía paso a paso</a> con los detalles.</p>"
 
 #: firefox/update.lang:61
 msgid "Check for Updates"
-msgstr ""
+msgstr "Buscar actualizaciones"
 
 #: firefox/update.lang:65
 msgid "What if I miss an update? Can I check for one myself?"
-msgstr ""
+msgstr "¿Qué pasa si me pierdo una actualización? ¿Puedo buscarla yo mismo?"
 
 #: firefox/update.lang:69
-#, fuzzy
 msgid "Your Firefox is up to date."
-msgstr "Tu Firefox no está actualizado."
+msgstr "Tu Firefox está actualizado"
 
 #: firefox/update.lang:73
 msgid ""
@@ -110,10 +131,15 @@ msgid ""
 "fixes or other little changes to the browser to ensure that you are using "
 "the best version of Firefox available."
 msgstr ""
+"Una actualización de software de Firefox es una descarga rápida de pequeñas "
+"porciones de código nuevo a tu navegador Firefox existente. Estos pequeños "
+"parches pueden contener correcciones de seguridad u otros pequeños cambios "
+"en el navegador para estar seguros que usas la mejor versión disponible de "
+"Firefox."
 
 #: firefox/update.lang:77
 msgid "How long will it take to update?"
-msgstr ""
+msgstr "¿Cuánto tiempo tomará actualizar?"
 
 #: firefox/update.lang:81
 msgid ""
@@ -123,23 +149,28 @@ msgid ""
 "smartest, fastest and – most importantly – safest version of Firefox "
 "available."
 msgstr ""
+"Firefox evoluciona constantemente dado que nuestra comunidad encuentra "
+"formas de hacerlo mejor, y dado que lo ajustamos con las más recientes "
+"amenazas de seguridad. Mantener tu Firefox actualizado es la mejor manera de "
+"asegurarte que estás usando el más inteligente, más rápida y  – más "
+"importante – más segura versión de Firefox."
 
 #: firefox/update.lang:85
 msgid "How do I know what version of Firefox I am currently on?"
-msgstr ""
+msgstr "¿Cómo sé cuál versión de Firefox tengo en este momento?"
 
 #: firefox/update.lang:89
-#, fuzzy
 msgid "Frequently asked questions"
 msgstr "Preguntas frecuentes"
 
 #: firefox/update.lang:93
 msgid "Will the update affect my settings and bookmarks?"
-msgstr ""
+msgstr "¿La actualización afectará mis configuraciones y marcadores?"
 
 #: firefox/update.lang:97
 msgid "Do I need to uninstall my current version of Firefox before upgrading?"
 msgstr ""
+"¿Necesito desinstalar mi versión actual de Firefox antes de actualizar?"
 
 #: firefox/update.lang:101
 msgid "Visit support.mozilla.org"
@@ -147,7 +178,7 @@ msgstr "Visita support.mozilla.org"
 
 #: firefox/update.lang:105
 msgid "Get the newest version <a href=\"{url}\">here</a>."
-msgstr ""
+msgstr "Obtén la versión más nueva <a href=\"{url}\">aquí</a>."
 
 #: firefox/update.lang:109
 msgid "Need Help?"
@@ -155,11 +186,11 @@ msgstr "¿Necesitas ayuda?"
 
 #: firefox/update.lang:113
 msgid "How do I update Firefox?"
-msgstr ""
+msgstr "¿Cómo actualizo Firefox?"
 
 #: firefox/update.lang:117
 msgid "Why do I need to update?"
-msgstr ""
+msgstr "¿Por qué necesito actualizar?"
 
 #: firefox/update.lang:121
 msgid ""
@@ -168,6 +199,11 @@ msgid ""
 "and the newest version will be downloaded and installed on your computer. "
 "You’ll need to restart Firefox to begin using the new version."
 msgstr ""
+"De forma predeterminada, Firefox está configurado para revisar "
+"automáticamente si hay actualizaciones y notificarte cuando una está "
+"disponible. Cuando seas notificado, sólo haz clic en Aceptar y la versión "
+"más nueva de Firefox será descargada e instalada en tu equipo. Necesitarás "
+"reiniciar Firefox para usar la nueva versión."
 
 #: firefox/update.lang:125
 msgid ""
@@ -175,7 +211,11 @@ msgid ""
 "passwords or other settings. However, there is a possibility that some of "
 "your Add-ons won’t be immediately compatible with new updates."
 msgstr ""
+"No. Una actualización de Firefox no hará cambio alguno en tus marcadores, "
+"contraseñas guardadas u otras configuraciones. Sin embargo, es posible que "
+"algunos de tus complementos no sean inmediatamente compatibles con las "
+"nuevas actualizaciones."
 
 #: firefox/update.lang:129
 msgid "Download Firefox to get started."
-msgstr ""
+msgstr "Descargar Firefox para comenzar."
