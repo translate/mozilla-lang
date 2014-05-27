@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-05-15 22:41+0100\n"
-"PO-Revision-Date: 2014-05-20 16:33+0000\n"
+"PO-Revision-Date: 2014-05-23 19:20+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1400603638.000000\n"
+"X-POOTLE-MTIME: 1400872846.000000\n"
 
 #. # NOTE: url is https://www.mozilla.org/firefox/geolocation/
 #: firefox/geolocation.lang:5
@@ -31,10 +31,10 @@ msgid ""
 "is done in a way that totally respects your privacy. <a href=\"%(url)s\" id="
 "\"%(id)s\" style=\"%(style)s\">Give it a try!</a>"
 msgstr ""
-"Mae Firefox yn gallu dweud eich lleoliad fel bod modd i chi gael gwybodaeth "
-"sy'n fwy  perthnasol a defnyddiol. Mae ynglŷn â gwneud y We'n fwy "
-"clyfar&ndash; ac wedi ei wneud mewn ffordd sy'n parchu eich preifatrwydd.<a "
-"href=\"%(url)s\" id=\"%(id)s\" style=\"%(style)s\">Rhowch gynnig arni!</a>"
+"Mae Firefox yn gallu dweud lle mae eich lleoliad fel bod modd i chi gael "
+"gwybodaeth sy'n fwy perthnasol a defnyddiol. Mae'n gwneud y We'n fwy clyfar "
+"&ndash; ac wedi ei wneud mewn ffordd sy'n parchu eich preifatrwydd. <a href="
+"\"%(url)s\" id=\"%(id)s\" style=\"%(style)s\">Rhowch gynnig arni!</a>"
 
 #: firefox/geolocation.lang:17
 msgid "Frequently asked Questions"
@@ -67,8 +67,8 @@ msgid ""
 "to go."
 msgstr ""
 "Neu os ydych yn edrych ar gyfarwyddiadau ar sut i fynd i rywle, bydd y wefan "
-"yn gwybod lle rydych yn cychwyn ohono felly dim ond angen dweud i le sydd "
-"angen ei  wneud."
+"yn gwybod lle rydych yn cychwyn ohono felly dim ond angen nodi i le sydd "
+"angen ei wneud."
 
 #: firefox/geolocation.lang:33
 msgid ""
@@ -137,7 +137,7 @@ msgstr ""
 msgid ""
 "What information is being sent, and to whom? How is my privacy protected?"
 msgstr ""
-"Pa wybodaeth sy'n cael ei anfon, ac i bwy? Sut fydd fy ngwybodaeth yn cael  "
+"Pa wybodaeth sy'n cael ei anfon, ac i bwy? Sut fydd fy ngwybodaeth yn cael "
 "ei ddiogelu?"
 
 #: firefox/geolocation.lang:65
@@ -149,7 +149,7 @@ msgid ""
 msgstr ""
 "Mae eich preifatrwydd yn bwysig iawn i ni, ac ni fydd Firefox yn rhannu eich "
 "lleoliad heb eich caniatâd. Pan fyddwch yn ymweld â thudalen sy'n gofyn am "
-"eich manylion, byddwn yn gofyn i chi cyn bod unrhyw wybodaeth yn cael ei  "
+"eich manylion, byddwn yn gofyn i chi cyn bod unrhyw wybodaeth yn cael ei "
 "rannu gyda'r wefan sy'n gofyn a gyda'r darparwr trydydd parti."
 
 #: firefox/geolocation.lang:69
@@ -173,7 +173,7 @@ msgid ""
 "a random client identifier, which is assigned by Google, that expires every "
 "2 weeks."
 msgstr ""
-"enw cleient ar hap, sy'n cael ei ddynodi gan Google, sy'n dod i ben  bob "
+"enw cleient ar hap, sy'n cael ei ddynodi gan Google, sy'n dod i ben bob "
 "pythefnos."
 
 #: firefox/geolocation.lang:85
@@ -182,7 +182,7 @@ msgid ""
 "please see the <a href=\"%(url)s\">Firefox Privacy Notice</a>."
 msgstr ""
 "Am ddisgrifiad llawn o'r wybodaeth sy'n cael ei gasglu a'i ddefnyddio gan "
-"Firefox, gw. <a href=\"%(url)s\">Hysbysiad Polisi Firefox</a>.o"
+"Firefox, gw. <a href=\"%(url)s\">Hysbysiad Polisi Firefox</a>."
 
 #: firefox/geolocation.lang:89
 msgid ""
@@ -191,7 +191,7 @@ msgid ""
 "and used by Google, please see the <a href=\"%(url)s\" class=\"%(class)s"
 "\">Google Geolocation Privacy Policy</a>."
 msgstr ""
-"Bydd Google Location Services yn dychwelyd eich amcan o leoliad (e.e. hydred "
+"Bydd Google Location Services yn dychwelyd amcan o'ch lleoliad (e.e., hydred "
 "a lledred). Am ddisgrifiad llawn o'r wybodaeth sy'n cael ei gasglu a'i "
 "ddefnyddio gan Google gw. <a href=\"%(url)s\" class=\"%(class)s\">Polisi "
 "Preifatrwydd Google</a>."
@@ -283,7 +283,7 @@ msgstr "Newidiwch y dewis ar gyfer <em>Rhannu Lleoliad</em>"
 
 #: firefox/geolocation.lang:149
 msgid "How do I clear the “random client identification number”?"
-msgstr "Sut fydda i'n  dileu'r \"rhif enw cleient ar hap\"?"
+msgstr "Sut fydda i'n dileu'r “rhif enw cleient ar hap”?"
 
 #: firefox/geolocation.lang:153
 msgid ""
@@ -292,7 +292,7 @@ msgstr "Ewch i ddewislen <em>Offer</em> a dewis <em>Clirio Hanes Diweddar</em>"
 
 #: firefox/geolocation.lang:157
 msgid "Click the <em>Details</em> arrow"
-msgstr "Cliciwch y  saeth <em>Manylon</em>"
+msgstr "Cliciwch y saeth <em>Manylon</em>"
 
 #: firefox/geolocation.lang:161
 msgid "Ensure that <em>Cookies</em> is selected"

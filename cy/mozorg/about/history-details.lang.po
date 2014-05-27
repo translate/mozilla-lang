@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-05-12 10:15+0100\n"
-"PO-Revision-Date: 2014-05-20 17:17+0000\n"
+"PO-Revision-Date: 2014-05-23 18:44+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1400606239.000000\n"
+"X-POOTLE-MTIME: 1400870656.000000\n"
 
 #. # NOTE: Page is available at http://www-dev.allizom.org/about/history/details
 #: mozorg/about/history-details.lang:3
@@ -27,7 +27,7 @@ msgid ""
 "source code</a>."
 msgstr ""
 "Cafodd project Mozilla ei <a href=\"%(coderush)s\">greu yn 1998</a> gyda "
-"ryddhau <a href=\"%(sourcerelease)s\"> cod ffynhonnell casliad rhaglenni "
+"ryddhau <a href=\"%(sourcerelease)s\">cod ffynhonnell casgliad rhaglenni "
 "porwr Netscape</a>."
 
 #: mozorg/about/history-details.lang:11
@@ -48,7 +48,7 @@ msgid ""
 msgstr ""
 "O fewn y <a href=\"%(firstyear)s\">flwyddyn gyntaf</a>, roedd aelodau "
 "cymunedol newydd o bob rhan o'r byd wedi cyfrannu swyddogaethau newydd, "
-"gwella'r nodweddion presennol ac wedi cymryd  rhan yn rheoli a chynllunio'r "
+"gwella'r nodweddion presennol ac wedi cymryd rhan yn rheoli a chynllunio'r "
 "project ei hun."
 
 #: mozorg/about/history-details.lang:19
@@ -69,7 +69,7 @@ msgid ""
 msgstr ""
 "Roedd aelodau cymunedol wedi ymuno yn y gwaith ac ymestyn hyd a lled <a href="
 "\"%(mission)s\">amcan gwreiddiol</a> y project yn lle gweithio ar borwr "
-"nesaf Netscape, dechreuwyd creu<a href=\"%(browsers)s\"> amrywiaeth o "
+"nesaf Netscape, dechreuwyd creu <a href=\"%(browsers)s\">amrywiaeth o "
 "borwyr</a>, <a href=\"%(bugzilla)s\">offer datblygiadol</a> ac ystod o <a "
 "href=\"%(projects)s\">brojectau eraill</a>."
 
@@ -90,7 +90,7 @@ msgid ""
 "many improvements to the browser, email client and other applications "
 "included in the suite, but not many people were using it."
 msgstr ""
-"Ar ôl ychydig o flynyddoedd o ddatblygiad, cafodd<a href=\"%(mozilla1)s"
+"Ar ôl ychydig o flynyddoedd o ddatblygiad, cafodd <a href=\"%(mozilla1)s"
 "\">Mozilla 1.0</a> ei ryddhau yn 2002. Roedd y fersiwn yma'n cynnwys lawer o "
 "welliannau i'r porwr y rhaglen e-bost a rhaglenni eraill o fewn y casgliad, "
 "ond doedd dim llawer y ei ddefnyddio."
@@ -110,6 +110,10 @@ msgid ""
 "with the goal of providing the <a href=\"%(charter)s\">best possible "
 "browsing experience</a> to the widest possible set of people."
 msgstr ""
+"Doedd dim llawer wedi sylwi ar y pryd ond ryddhawyd y fersiwn cyntaf o "
+"Phoenix (Firefox yn ddiweddarach) gan aelodau cymuned Mozilla gyda, nod o "
+"ddarparu'r <a href=\"%(charter)s\">profiad pori gorau posib</a> i'r nifer "
+"mwyaf o bobl."
 
 #: mozorg/about/history-details.lang:43
 msgid ""
@@ -117,6 +121,9 @@ msgid ""
 "\"%(foundation)s\">independent non-profit organization</a> supported by "
 "individual donors and a variety of companies."
 msgstr ""
+"Yn 2003 creodd project Mozilla y Mozilla Foundation, <a href=\"%(foundation)s"
+"\">corff dim er elw annibynnol</a> yn cael ei gynnal gan gyfranwyr unigol a "
+"nifer o gwmnïau."
 
 #: mozorg/about/history-details.lang:47
 msgid ""
@@ -125,6 +132,9 @@ msgid ""
 "<a href=\"%(manifesto)s\">openness, innovation and opportunity</a> on the "
 "Internet."
 msgstr ""
+"Parhaodd y Mozilla Foundation y gwaith o gynnal y gwaith o ddydd i ddydd a "
+"hefyd y gwaith o hyrwyddo <a href=\"%(manifesto)s\">bod yn agored, dyfeisgar "
+"a chyfle</a> ar y we."
 
 #: mozorg/about/history-details.lang:51
 msgid ""
@@ -132,6 +142,9 @@ msgid ""
 "Thunderbird, and expanding to new areas, such as providing <a href="
 "\"%(grants)s\">grants</a> to support accessibility improvements on the Web."
 msgstr ""
+"Gwnaeth hynn drwy ryddhau meddalwedd fel Firefox a Thunderbird ac ehangu i "
+"feysydd newydd fel darparu <a href=\"%(grants)s\">grantiau</a> i gefnogi "
+"gwelliannau mynediad i'r we."
 
 #: mozorg/about/history-details.lang:55
 msgid ""
@@ -139,33 +152,40 @@ msgid ""
 "big success — in less than a year, it was downloaded <a href=\"%(millions)s"
 "\">over 100 million times</a>."
 msgstr ""
+"Cafodd <a href=\"%(firefox1)s\">Firefox 1.0</a> ei ryddhau yn 2004 a daeth "
+"yn llwyddiant mawr - mewn llai na blwyddyn cafodd ei lwytho i lawr <a href="
+"\"%(millions)s\">dros 100 miliwn gwaith</a>."
 
 #: mozorg/about/history-details.lang:59
 msgid ""
 "New versions of Firefox have come out regularly since then and keep setting "
 "new records. The popularity of Firefox has helped bring choice back to users."
 msgstr ""
+"Mae fersiynau newydd o Firefox wedi cael eu rhyddhau yn rheolaidd ers hynny "
+"ac mae'n dal i greu cynnwrf. Mae poblogrwydd Firefox wedi dod â dewis nôl i "
+"ddefnyddwyr."
 
 #: mozorg/about/history-details.lang:63
 msgid ""
 "The renewed competition has <a href=\"%(innovation)s\">accelerated "
 "innovation</a> and improved the Internet for everyone."
 msgstr ""
+"Mae ailgychwyn cystadleuaeth wedi <a href=\"%(innovation)s\">cynyddu "
+"arloesedd</a> a gwella'r rhyngrwyd i bawb."
 
 #: mozorg/about/history-details.lang:67
-#, fuzzy
 msgid ""
 "In 2013, we launched <a href=\"%(firefoxos)s\">Firefox OS</a> to unleash the "
 "full power of the Web on smartphones and once again offer control and choice "
 "to a new generation of people coming online."
 msgstr ""
-"Yn 2013, lansiodd Mozilla Firefox OS i ryddhau grym llawn y We ar ffonau "
-"clyfar ac unwaith eto gynnig rheolaeth a dewis i genhedlaeth newydd o bobl "
-"sy'n dod ar-lein."
+"Yn 2013, caf0dd <a href=\"%(firefoxos)s\">Mozilla Firefox OS</a> ei ryddhau "
+"i amlygu grym llawn y We ar ffonau clyfar ac unwaith eto gynnig rheolaeth a "
+"dewis i genhedlaeth newydd o bobl sy'n dod ar-lein."
 
 #: mozorg/about/history-details.lang:71
 msgid "Mozilla also celebrated its 15th anniversary in 2013."
-msgstr ""
+msgstr "Hefyd, dathlodd Mozilla ei 15fed pen-blwydd yn 2013."
 
 #: mozorg/about/history-details.lang:75
 msgid ""
@@ -173,12 +193,17 @@ msgid ""
 "collaborating in open source projects and that great end user products can "
 "be produced as open source software."
 msgstr ""
+"Mae'r gymuned wedi dangos fod cwmnïau yn gallu manteisio dwy gydweithredu "
+"mewn projectau cod agored a bod cynnyrch defnyddwyr rhagorol yn gallu cael "
+"eu cynhyrchu fel meddalwedd cod agored."
 
 #: mozorg/about/history-details.lang:79
 msgid ""
 "More people than ever before are using the Internet and are experiencing it "
 "<a href=\"%(all)s\">in their own language</a>."
 msgstr ""
+"Mae mwy o bobl nag erioed yn defnyddio'r Rhyngrwyd ac yn ei <a href=\"%(all)s"
+"\">brofi yn eu hiaith eu hunain</a>."
 
 #: mozorg/about/history-details.lang:83
 msgid ""
@@ -187,27 +212,34 @@ msgid ""
 "create open, transparent and collaborative organizations in a <a href="
 "\"%(range)s\">broad range</a> <a href=\"%(areas)s\">of areas</a>."
 msgstr ""
+"Mae cwmni cynaladwy wedi ei greu sy'n defnyddio peirianwaith y farchnad i "
+"gynnal ymgyrch mantais gyhoeddus ac mae'r model wedi ei ddefnyddio gan "
+"eraill i greu cyrff agored, tryloyw a chydweithredol mewn <a href=\"%(range)s"
+"\">ystod eang</a> <a href=\"%(areas)s\">o feysydd</a>."
 
 #: mozorg/about/history-details.lang:87
 msgid ""
 "The future is full of challenges and opportunities equal to those of our "
 "past."
-msgstr ""
+msgstr "Mae'r dyfodol yn llawn her a chyfle fel y rhai yn ein gorffennol."
 
 #: mozorg/about/history-details.lang:91
 msgid ""
 "There’s no guarantee that the Internet will remain open or enjoyable or safe."
 msgstr ""
+"Does dim sicrwydd y bydd rhyngrwyd yn para'n agored, yn hwyl nac yn ddiogel."
 
 #: mozorg/about/history-details.lang:95
 msgid ""
 "Mozilla will continue to provide an opportunity for people to make their "
 "voices heard and to shape their own online lives."
 msgstr ""
+"Bydd Mozilla'n parhau i ddarparu cyfle i bobl i fynegi eu hunan a siapio eu "
+"bywyd ar-lein."
 
 #: mozorg/about/history-details.lang:99
 msgid "Of course, we’re not alone in doing this."
-msgstr ""
+msgstr "Wrth gwrs, nid ni yw'r unig rai sy'n gwneud hyn."
 
 #: mozorg/about/history-details.lang:103
 msgid ""
@@ -215,31 +247,37 @@ msgid ""
 "public benefit organizations, exists only because of the people who are "
 "engaged in making our common goals a reality."
 msgstr ""
+"Mae cymuned Mozilla, ynghyd â phrojectau cod agored arall a chyrff mantais "
+"cyhoeddus, yn bodoli dim ond oherwydd y bobl sy'n ymwneud â gwireddu ein "
+"hamcanion ar y cyd."
 
 #: mozorg/about/history-details.lang:107
 msgid ""
 "If you want to join us in our mission, please <a href=\"%(contribute)s\">get "
 "involved</a>."
 msgstr ""
+"Os hoffech chi ymuno â'n hymgyrch, <a href=\"%(contribute)s\">ymunwch</a>."
 
 #: mozorg/about/history-details.lang:111
 msgid "For more information about Mozilla’s history, see the following:"
-msgstr ""
+msgstr "Am rhagor o wybodaeth am hanes Mozilla, gwelwch y canlynol:"
 
 #: mozorg/about/history-details.lang:115
 msgid "Mozilla Bookmarks"
-msgstr ""
+msgstr "Nodau Tudalen Mozilla"
 
 #: mozorg/about/history-details.lang:119
 msgid "Timeline of Mozilla Project"
-msgstr ""
+msgstr "Llinell Amser Project Mozilla"
 
 #: mozorg/about/history-details.lang:123
 msgid "Mozilla Digital Memory Bank"
-msgstr ""
+msgstr "Banc Cof Digidol Mozilla"
 
 #: mozorg/about/history-details.lang:127
 msgid ""
 "<a href=\"%(link)s\">The History of Firefox and Mozilla Posters</a> "
 "(available in English and Japanese)"
 msgstr ""
+"<a href=\"%(link)s\">Hanes Firefox a Phosteri Mozilla</a> (ar gael yn "
+"Saesneg a Japanëeg)"
