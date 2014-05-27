@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-21 11:54+0100\n"
+"POT-Creation-Date: 2014-05-27 10:54+0100\n"
 "PO-Revision-Date: 2014-05-16 08:56+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
@@ -16,102 +16,103 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1400230612.000000\n"
 
+#. # sync_device_note ##
 #. # NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/desktop/tips/
 #. main title
-#: firefox/desktop/tips.lang:5
+#: firefox/desktop/tips.lang:6
 msgid "The best of the latest Firefox"
 msgstr "Najlěpše najnowšeho Firefox"
 
-#: firefox/desktop/tips.lang:9
+#: firefox/desktop/tips.lang:10
 msgid "Bookmarks"
 msgstr "Zapołožki"
 
-#: firefox/desktop/tips.lang:13
+#: firefox/desktop/tips.lang:14
 msgid "Simplify"
 msgstr "Zjednorić"
 
-#: firefox/desktop/tips.lang:17
+#: firefox/desktop/tips.lang:18
 msgid "Arrange"
 msgstr "Rjadować"
 
-#: firefox/desktop/tips.lang:21
+#: firefox/desktop/tips.lang:22
 msgid "Sync"
 msgstr "Sync"
 
-#: firefox/desktop/tips.lang:25
+#: firefox/desktop/tips.lang:26
 msgid "5 top tips, tricks and time-saving tools"
 msgstr "5 wuběrnych pokiwow, trikow a čas lutowace nastroje"
 
-#: firefox/desktop/tips.lang:29
+#: firefox/desktop/tips.lang:30
 msgid "1"
 msgstr "1"
 
-#: firefox/desktop/tips.lang:33
+#: firefox/desktop/tips.lang:34
 msgid "2"
 msgstr "2"
 
-#: firefox/desktop/tips.lang:37
+#: firefox/desktop/tips.lang:38
 msgid "3"
 msgstr "3"
 
-#: firefox/desktop/tips.lang:41
+#: firefox/desktop/tips.lang:42
 msgid "4"
 msgstr "4"
 
-#: firefox/desktop/tips.lang:45
+#: firefox/desktop/tips.lang:46
 msgid "5"
 msgstr "5"
 
-#: firefox/desktop/tips.lang:49
+#: firefox/desktop/tips.lang:50
 msgid "back"
 msgstr "wróćo"
 
-#: firefox/desktop/tips.lang:53
+#: firefox/desktop/tips.lang:54
 msgid "next"
 msgstr "dale"
 
 #. Tip 1
-#: firefox/desktop/tips.lang:58
+#: firefox/desktop/tips.lang:59
 msgid "Click the star"
 msgstr "Klikńće na hwěžku"
 
-#: firefox/desktop/tips.lang:62
+#: firefox/desktop/tips.lang:63
 msgid "Watch the star jump so you know your bookmark has been added."
 msgstr ""
 "Wobkedźbujće skakanje hwěžki, zo byšće wědźał, zo waša zapołožka je so "
 "přidała."
 
-#: firefox/desktop/tips.lang:66
+#: firefox/desktop/tips.lang:67
 msgid "(Try it! It’s fun!)"
 msgstr "(Spytajće to! Čini wjeselo!)"
 
-#: firefox/desktop/tips.lang:70
+#: firefox/desktop/tips.lang:71
 msgid "How to:"
 msgstr "Nawod:"
 
-#: firefox/desktop/tips.lang:74
+#: firefox/desktop/tips.lang:75
 msgid "Click the star to add bookmarks and manage them from the same spot."
 msgstr ""
 "Klikńće na hwěžku, zo byšće zapołožki přidał a je ze samsneho městna "
 "zrjadował."
 
 #. Tip 2
-#: firefox/desktop/tips.lang:79
+#: firefox/desktop/tips.lang:80
 msgid "Simplify your life"
 msgstr "Zjednorće swoje žiwjenje"
 
-#: firefox/desktop/tips.lang:83
+#: firefox/desktop/tips.lang:84
 msgid "Go to your happy place."
 msgstr "Dźiće k swojemu wjesołemu městnu."
 
-#: firefox/desktop/tips.lang:87
+#: firefox/desktop/tips.lang:88
 msgid "Remove the buttons you don’t use so you can find the ones you do."
 msgstr ""
 "Wotstrońće tłóčatka, kotrež njewužiwaće, zo byšće te namakał, kotrež "
 "trjebaće."
 
 #. The strong tags are for presentational purpose
-#: firefox/desktop/tips.lang:92
+#: firefox/desktop/tips.lang:93
 msgid ""
 "Open the menu, select “<strong>Customize</strong>” and drag any button out "
 "of the toolbar."
@@ -120,11 +121,11 @@ msgstr ""
 "ze symobloweje lajsty won."
 
 #. Tip 3
-#: firefox/desktop/tips.lang:97
+#: firefox/desktop/tips.lang:98
 msgid "Add your faves"
 msgstr "Přidajće swoje fawority"
 
-#: firefox/desktop/tips.lang:101
+#: firefox/desktop/tips.lang:102
 msgid ""
 "Play favorites with the features you use most and arrange them for fast, "
 "easy access."
@@ -133,7 +134,7 @@ msgstr ""
 "spěšny, lochki přistup."
 
 #. The strong tags are for presentational purpose
-#: firefox/desktop/tips.lang:106
+#: firefox/desktop/tips.lang:107
 msgid ""
 "Open the menu, select “<strong>Customize</strong>” and drag any button into "
 "the toolbar or menu."
@@ -142,11 +143,22 @@ msgstr ""
 "do symboloweje lajsty abo menija."
 
 #. Tip 4
-#: firefox/desktop/tips.lang:111
+#: firefox/desktop/tips.lang:112
 msgid "Stay in Sync"
 msgstr "W Sync wostać"
 
-#: firefox/desktop/tips.lang:115
+#. New string
+#: firefox/desktop/tips.lang:117
+#, fuzzy
+msgid ""
+"Use Sync to magically access your open tabs, passwords and more wherever you "
+"use Firefox."
+msgstr ""
+"Wužijće Sync, zo byšće magiski přistup na swoje wočinjene rajtarki, hesła a "
+"wjace z někajkeho grata měł."
+
+#. Old string, will be removed once the new string is activated
+#: firefox/desktop/tips.lang:122
 msgid ""
 "Use Sync to magically access your open tabs, passwords and more from any "
 "device."
@@ -155,7 +167,7 @@ msgstr ""
 "wjace z někajkeho grata měł."
 
 #. The strong tags are for presentational purpose
-#: firefox/desktop/tips.lang:120
+#: firefox/desktop/tips.lang:127
 msgid ""
 "Choose “<strong>Sign in to Sync</strong>” from the menu and make Firefox "
 "your own wherever you use it."
@@ -164,11 +176,11 @@ msgstr ""
 "Firefox, hdźežkuli jón wužiwaće."
 
 #. Tip 5
-#: firefox/desktop/tips.lang:125
+#: firefox/desktop/tips.lang:132
 msgid "Free your add-ons"
 msgstr "Přewostajće swoje přidatki"
 
-#: firefox/desktop/tips.lang:129
+#: firefox/desktop/tips.lang:136
 msgid ""
 "Keep those special, favorite add-ons in your menu so they’re visible and "
 "easily within reach."
@@ -177,7 +189,7 @@ msgstr ""
 "widźomne a lochko přistupne byli."
 
 #. The strong tags are for presentational purpose
-#: firefox/desktop/tips.lang:134
+#: firefox/desktop/tips.lang:141
 msgid ""
 "Select “<strong>Customize</strong>” from the menu and drag in the add-ons "
 "you want."
@@ -185,28 +197,49 @@ msgstr ""
 "Wubjerće “<strong>Přiměrić</strong>” z menija a ćehńće přidatki nutř, kotrež "
 "chceće."
 
-#: firefox/desktop/tips.lang:138
+#: firefox/desktop/tips.lang:145
 msgid "Get Firefox"
 msgstr "Wobstarajće sej Firefox"
 
-#: firefox/desktop/tips.lang:142
+#: firefox/desktop/tips.lang:149
 msgid "Congratulations"
 msgstr "Zbožopřeće"
 
-#: firefox/desktop/tips.lang:146
+#: firefox/desktop/tips.lang:153
 msgid "You’re an expert!"
 msgstr "Wy sće ekspert!"
 
-#: firefox/desktop/tips.lang:150
+#: firefox/desktop/tips.lang:157
 msgid "Now help your friends master Firefox."
 msgstr "Pomhajće nětko swojim přećelam, Firefox mištrować."
 
 #. Link used in mobile footer
-#: firefox/desktop/tips.lang:155
+#: firefox/desktop/tips.lang:162
 msgid "Firefox Features"
 msgstr "Funkcije Firefox"
 
 #. Link used in mobile footer
-#: firefox/desktop/tips.lang:160
+#: firefox/desktop/tips.lang:167
 msgid "Firefox Help"
 msgstr "Pomoc Firefox"
+
+#. Accessibility string for link
+#: firefox/desktop/tips.lang:172
+msgid "Learn more about bookmarks"
+msgstr ""
+
+#. Accessibility string for link
+#: firefox/desktop/tips.lang:177
+msgid "Learn more about customizing"
+msgstr ""
+
+#. Accessibility string for link
+#: firefox/desktop/tips.lang:182
+msgid "Learn more about Sync"
+msgstr "Zhońće wjace wo Sync"
+
+#. Accessibility string for link
+#: firefox/desktop/tips.lang:187
+#, fuzzy
+msgid "Learn more about add-ons"
+msgstr "Zhońće wjace wo Sync"
