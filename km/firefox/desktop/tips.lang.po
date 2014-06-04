@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-05-27 10:54+0100\n"
-"PO-Revision-Date: 2014-05-21 04:10+0000\n"
+"PO-Revision-Date: 2014-06-04 02:14+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: none\n"
 "Language: km\n"
@@ -12,15 +12,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
-"X-POOTLE-MTIME: 1400645442.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1401848073.000000\n"
 
 #. # sync_device_note ##
 #. # NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/desktop/tips/
 #. main title
 #: firefox/desktop/tips.lang:6
 msgid "The best of the latest Firefox"
-msgstr "Firefox ចុងក្រោយ​ល្អ​ជាង​គេ"
+msgstr "Firefox ចុងក្រោយ​ល្អ​បំផុត"
 
 #: firefox/desktop/tips.lang:10
 msgid "Bookmarks"
@@ -40,7 +40,7 @@ msgstr "ធ្វើ​សមកាលកម្ម"
 
 #: firefox/desktop/tips.lang:26
 msgid "5 top tips, tricks and time-saving tools"
-msgstr ""
+msgstr "ព័ត៌មាន​ជំនួយ ៥ ដែល​ពេញ​និយម, ការ​បន្លំ និង​ឧបករណ៍​រក្សាទុក​ពេល​វេលា"
 
 #: firefox/desktop/tips.lang:30
 msgid "1"
@@ -89,7 +89,7 @@ msgstr "របៀប៖"
 
 #: firefox/desktop/tips.lang:75
 msgid "Click the star to add bookmarks and manage them from the same spot."
-msgstr "ចុច​ផ្កាយ​ដើម្បី​បន្ថែម​ចំណាំ និង​គ្រប់គ្រង​វា​ពី​កន្លែង​តែមួយ។"
+msgstr "ចុច​ផ្កាយ​ដើម្បី​បន្ថែម​ចំណាំ និង​គ្រប់គ្រង​វា​ពី​ចំណុច​តែ​មួយ។"
 
 #. Tip 2
 #: firefox/desktop/tips.lang:80
@@ -109,7 +109,7 @@ msgstr "លុប​ប៊ូតុង​ដែល​អ្នក​មិន​
 msgid ""
 "Open the menu, select “<strong>Customize</strong>” and drag any button out "
 "of the toolbar."
-msgstr "បើក​ម៉ឺនុយ, ជ្រើស “<strong>តាម​តម្រូវ​ការ</strong>” ហើយ​អូស​ប៊ូតុង​ចេញ​ពី​របារ។"
+msgstr "បើក​ម៉ឺនុយ, ជ្រើស “<strong>តាម​តម្រូវ​ការ</strong>” ហើយ​អូស​ប៊ូតុង​ចេញ​ពី​របារ​ឧបករណ៍។"
 
 #. Tip 3
 #: firefox/desktop/tips.lang:98
@@ -121,14 +121,16 @@ msgid ""
 "Play favorites with the features you use most and arrange them for fast, "
 "easy access."
 msgstr ""
-"អនុវត្ត​ភាព​ពេល​និយម​ជាមួយ​លក្ខណៈ​ពិសេស​ដែល​អ្នក​ប្រើ​ច្រើន​បំផុត ហើយ​រៀបចំ​វា​ ដើម្បី​ឲ្យ​លឿន និង​ភាព​ងាយស្រួល។"
+"អនុវត្ត​ភាព​ពេល​និយម​ជាមួយ​លក្ខណៈ​ពិសេស​ដែល​អ្នក​ប្រើ​ច្រើន​បំផុត ហើយ​រៀបចំ​វា​ ដើម្បី​ឲ្យ​លឿន និង​ភាព​ងាយស្រួល​ចូល​"
+"ប្រើ។"
 
 #. The strong tags are for presentational purpose
 #: firefox/desktop/tips.lang:107
 msgid ""
 "Open the menu, select “<strong>Customize</strong>” and drag any button into "
 "the toolbar or menu."
-msgstr "បើក​ម៉ឺនុយ, ជ្រើស “<strong>តាម​តម្រូវ​ការ</strong>” ហើយ​អូស​ប៊ូតុង​ទៅ​កាន់​របារ ឬ​ម៉ឺនុយ។"
+msgstr ""
+"បើក​ម៉ឺនុយ, ជ្រើស “<strong>តាម​តម្រូវ​ការ</strong>” ហើយ​អូស​ប៊ូតុង​ទៅ​កាន់​របារ​ឧបករណ៍​ ឬ​ម៉ឺនុយ។"
 
 #. Tip 4
 #: firefox/desktop/tips.lang:112
@@ -137,13 +139,12 @@ msgstr "នៅ​តែ​ធ្វើ​សមកាលកម្ម"
 
 #. New string
 #: firefox/desktop/tips.lang:117
-#, fuzzy
 msgid ""
 "Use Sync to magically access your open tabs, passwords and more wherever you "
 "use Firefox."
 msgstr ""
-"ប្រើ​ការ​ធ្វើ​សមកាលកម្ម​ ដើម្បី​ចូល​ដំណើរការ​ផ្ទាំង​បើក​​របស់​អ្នក, ពាក្យ​សម្ងាត់ និង​ផ្សេងៗ​ទៀត​ពី​ឧបករណ៍​​មួយ​ចំនួន​"
-"របស់​អ្នក។"
+"ប្រើ​ការ​ធ្វើ​សមកាលកម្ម​ ដើម្បី​ចូល​ដំណើរការ​ផ្ទាំង​បើក​​របស់​អ្នក, ពាក្យ​សម្ងាត់ និង​ផ្សេងៗ​ទៀត​នៅ​កន្លែង​ណា​"
+"ដែល​អ្នក​ប្រើ​ Firefox ។"
 
 #. Old string, will be removed once the new string is activated
 #: firefox/desktop/tips.lang:122
@@ -213,12 +214,12 @@ msgstr "ជំនួយ​របស់ Firefox"
 #. Accessibility string for link
 #: firefox/desktop/tips.lang:172
 msgid "Learn more about bookmarks"
-msgstr ""
+msgstr "ស្វែងយល់​បន្ថែម​អំពី​ចំណាំ"
 
 #. Accessibility string for link
 #: firefox/desktop/tips.lang:177
 msgid "Learn more about customizing"
-msgstr ""
+msgstr "ស្វែងយល់​បន្ថែម​អំពី​ការ​ប្ដូរ​​តាម​តម្រូវ​ការ"
 
 #. Accessibility string for link
 #: firefox/desktop/tips.lang:182
@@ -227,6 +228,5 @@ msgstr "ស្វែងយល់​​បន្ថែម​អំពី​កា
 
 #. Accessibility string for link
 #: firefox/desktop/tips.lang:187
-#, fuzzy
 msgid "Learn more about add-ons"
-msgstr "ស្វែងយល់​​បន្ថែម​អំពី​ការ​ធ្វើ​សមកាលកម្ម"
+msgstr "ស្វែងយល់​បន្ថែម​អំពី​កម្មវិធី​បន្ថែម"

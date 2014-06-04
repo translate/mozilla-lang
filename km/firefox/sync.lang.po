@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-05-15 22:41+0100\n"
-"PO-Revision-Date: 2014-05-02 09:40+0000\n"
+"PO-Revision-Date: 2014-05-30 08:00+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: none\n"
 "Language: km\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
-"X-POOTLE-MTIME: 1399023645.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1401436853.000000\n"
 
 #. # sync_new_markup ##
 #. # NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
@@ -35,13 +35,12 @@ msgstr "ដើម្បី​ចាប់ផ្ដើម​ជាមួយ​ស
 
 #. (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #: firefox/sync.lang:18
-#, fuzzy
 msgid ""
 "Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> in "
 "the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
-"បើក <a href=\"%(url)s#w_a-handy-new-menu\">ម៉ឺនុយ</a> នៅ​ខាង​ស្ដាំ​ផ្នែក​ខាងលើ​នៃ "
-"Firefox ហើយ​ជ្រើស “ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម។”"
+"បើក <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">ម៉ឺនុយ</a> នៅ​ខាងស្ដាំ​"
+"ផ្នែក​ខាងលើ​នៃ Firefox ហើយ​ជ្រើស “<strong>ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម។</strong>”"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:23
@@ -55,7 +54,7 @@ msgstr ""
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:28
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
-msgstr ""
+msgstr "ចុច “<strong>ចាប់ផ្ដើម</strong>” នៅ​ក្នុង​ផ្ទាំង​ដែល​បើក។"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:33
@@ -64,11 +63,10 @@ msgstr "ចុច \"ចាប់ផ្ដើម\" នៅ​ក្នុង​ផ
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:38
-#, fuzzy
 msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
-msgstr "បញ្ចូល​អាសយដ្ឋាន​អ៊ីមែល និង​ពាក្យសម្ងាត់​ ដើម្បី \"បង្កើត​គណនី Firefox\"។"
+msgstr "បញ្ចូល​អាសយដ្ឋាន​អ៊ីមែល និង​ពាក្យ​សម្ងាត់​ដើម្បី “<strong>បង្កើត​គណនី Firefox ។</strong>”"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:43
@@ -77,9 +75,9 @@ msgstr "បញ្ចូល​អាសយដ្ឋាន​អ៊ីមែល �
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:48
-#, fuzzy
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
-msgstr "ចុច \"បន្ទាប់\" ដើម្បី​ទទួល​បាន​ការ​បញ្ជាក់​ផ្ទៀងផ្ទាត់​ដែល​បាន​ផ្ញើ​ទៅ​អ៊ីមែល​របស់​​អ្នក។"
+msgstr ""
+"ចុច “<strong>បន្ទាប់</strong>” ដើម្បី​ទទួល​បាន​ការ​បញ្ជាក់​ដែល​បាន​ផ្ញើ​ទៅ​កាន់​អ៊ីមែល​របស់​អ្នក។"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:53
@@ -110,11 +108,12 @@ msgstr "មាន​កុំព្យូទ័រ​បន្ទះ ឬ​ទ�
 
 #. (NEW STRING)
 #: firefox/sync.lang:78
-#, fuzzy
 msgid ""
 "<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
 "desktop and mobile devices."
-msgstr "ទាញ​យក​ Firefox សម្រាប់ Android ដើម្បី​ធ្វើ​សមកាលកម្ម​រវាង​ផ្ទៃតុ និង​ឧបករណ៍​ចល័ត​របស់​អ្នក។"
+msgstr ""
+"<a href=\"%(url)s\">ទាញ​យក Firefox សម្រាប់ Android</a> ដើម្បី​ធ្វើ​សមកាលកម្ម​រវាង​ផ្ទៃតុ "
+"និង​ឧបករណ៍​ចល័ត​​របស់​អ្នក។"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:83
