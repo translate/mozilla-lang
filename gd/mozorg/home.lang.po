@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-12 17:53+0100\n"
-"PO-Revision-Date: 2014-05-30 18:41+0000\n"
+"PO-Revision-Date: 2014-06-14 23:28+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
 "Language: gd\n"
@@ -14,8 +14,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
-"X-POOTLE-MTIME: 1401475280.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1402788491.000000\n"
 
 #. # promo_lightbeam ##
 #. # promo_new_mdn ##
@@ -172,15 +172,15 @@ msgstr ""
 "ghabhail ann</a>."
 
 #: mozorg/home.lang:135
-#, fuzzy
 msgid ""
 "Thanks to our global community, Mozilla products and websites are available "
 "in over 70 languages. <a rel=\"external\" href=\"%(link_l10n)s\">Help "
 "translate them into yours</a>."
 msgstr ""
 "A thaing dhan choimhearsnachd eadar-nàiseanta againn, tha bathar is "
-"làraichean-lìn Mozilla ri fhaighinn ann am barrachd air 70 cànan. <a href="
-"\"%(link_l10n)s\">Cuidich leinn do chànan-sa a chur air</a>."
+"làraichean-lìn Mozilla ri fhaighinn ann am barrachd air 70 cànan. <a rel="
+"\"external\" href=\"%(link_l10n)s\">Cuidich leinn do chànan-sa a chur air</"
+"a>."
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:140
@@ -298,19 +298,21 @@ msgstr "Faic na tha ùr"
 #. This panel will go live on Jun 12. Demo available on https://www-demo4.allizom.org/
 #: mozorg/home.lang:235
 msgid "Football <i>fanatic?</i>"
-msgstr ""
+msgstr "<i>Dèidheil is ro dhèidheil</i> air a’ bhall-choise?"
 
 #: mozorg/home.lang:239
 msgid "Football fanatic?"
-msgstr ""
+msgstr "Dèidheil is ro dhèidheil air a’ bhall-choise?"
 
 #: mozorg/home.lang:243
 msgid "Firefox lets you keep up with all the action in Brazil."
 msgstr ""
+"’S urrainn dhut sùil a’ chumail air gach rud a tha a’ tachairt ann am "
+"Braisil."
 
 #: mozorg/home.lang:247
 msgid "Activate the Goal.com sidebar"
-msgstr ""
+msgstr "Cuir an comas bàr-taoibh Goal.com"
 
 #~ msgctxt "./mozorg/home.lang:118"
 #~ msgid "Get involved"
