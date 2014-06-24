@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-05-15 22:41+0100\n"
-"PO-Revision-Date: 2014-06-18 17:30+0000\n"
+"PO-Revision-Date: 2014-06-22 12:34+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uz\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1403112654.000000\n"
+"X-POOTLE-MTIME: 1403440481.000000\n"
 
 #. # sync_new_markup ##
 #. # NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
@@ -25,10 +25,13 @@ msgid ""
 "Instantly make Firefox your own wherever you use it. Seamlessly sync your "
 "bookmarks, history, passwords and more and access them from any device."
 msgstr ""
+"Qayerda bo‘lishingizdan qat’iy nazar \"Firefox\" bilan birga bo‘ling. "
+"Xatcho‘p, tarix, parollar va boshqa boshqalarga har qanday qurilmadan kirish "
+"uchun sinxronlang."
 
 #: firefox/sync.lang:13
 msgid "Get started with Sync. It’s fast, safe and easy:"
-msgstr ""
+msgstr "Sinxronlashni boshlang. U tez, xavfsiz va oson:"
 
 #. (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #: firefox/sync.lang:18
@@ -36,6 +39,9 @@ msgid ""
 "Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> in "
 "the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
+"\"Firefox\"ning yuqori o‘ng tomonidan <a class=\"menu\" href=\"%(url)s#w_a-"
+"handy-new-menu\">menyu</a>ni oching va “<strong>Sinxronlash uchun kirish</"
+"strong>”ni bosing."
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:23
@@ -43,16 +49,18 @@ msgid ""
 "Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of "
 "Firefox and select “Sign in to Sync.”"
 msgstr ""
+"\"Firefox\"ning yuqori o‘ng tomonidan <a class=\"menu\" href=\"%(url)s#w_a-"
+"handy-new-menu\">menyu</a>ni oching va “Sinxronlash uchun kirish”ni bosing."
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:28
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
-msgstr ""
+msgstr "Ochiq ichki oynalardan “<strong>Boshlash</strong>”ni bosing."
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:33
 msgid "Click “Get started” in the tab that opens."
-msgstr ""
+msgstr "Ochiq ichki oynalardan “Boshlash”ni bosing."
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:38
@@ -60,43 +68,49 @@ msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
 msgstr ""
+"“<strong>Firefox hisobini yaratish.</strong>” uchun e-pochta manzili va "
+"parolni kiriting"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:43
 msgid "Enter an email address and password to “Create a Firefox Account.”"
-msgstr ""
+msgstr "“Firefox hisobini yaratish” uchun e-pochta manzili va parolni kiriting"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:48
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr ""
+"Tasdiqlashni e-pochtangizga jo‘natish uchun “<strong>Keyingi</strong>”ni "
+"bosing."
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:53
 msgid "Click “Next” to get a verification sent to your email."
-msgstr ""
+msgstr "Tasdiqlashni e-pochtangizga jo‘natish uchun “Keyingi”ni bosing."
 
 #: firefox/sync.lang:57
 msgid "Check your email and click the verification link."
-msgstr ""
+msgstr "E-pochtangizni tekshirib ko‘ring va tasdiqlash linkiga bosing."
 
 #: firefox/sync.lang:61
 msgid ""
 "You’re all set! Firefox will automatically sync in the background from now "
 "on."
 msgstr ""
+"Sizda hammasi joyida! Firefox hozirdan boshlab orqa fonda barcha "
+"yangilanishlarni o‘rnata boshlaydi."
 
 #: firefox/sync.lang:65
 msgid "Get more detailed instructions."
-msgstr ""
+msgstr "Batafsil ko‘rsatmalarni olish."
 
 #: firefox/sync.lang:69
 msgid "Using an older version of Sync?"
-msgstr ""
+msgstr "Sinxronlashning eskiroq versiyasidan foydalanilsinmi?"
 
 #: firefox/sync.lang:73
 msgid "Have an Android phone or tablet?"
-msgstr ""
+msgstr "Android telefoningiz yoki planshetingiz bormi?"
 
 #. (NEW STRING)
 #: firefox/sync.lang:78
@@ -104,14 +118,17 @@ msgid ""
 "<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
 "desktop and mobile devices."
 msgstr ""
+"Kompyuteringiz va mobil qurilmangizni o‘zaro sinxronlash uchun <a href="
+"\"%(url)s\">\"Android uchun Firefox\"ni yuklab oling</a>."
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:83
 msgid ""
 "Download Firefox for Android to sync between your desktop and mobile devices."
 msgstr ""
+"Kompyuteringiz va mobil qurilmangizni o‘zaro sinxronlash uchun \"Android "
+"uchun Firefox\"ni yuklab oling."
 
 #: firefox/sync.lang:87
-#, fuzzy
 msgid "Get it free from Google Play"
-msgstr "Uni \"Google Play\"dan tekinga oling"
+msgstr "\"Google Play\" do‘konidan uni tekin oling."
