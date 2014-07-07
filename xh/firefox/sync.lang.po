@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-15 22:41+0100\n"
+"POT-Creation-Date: 2014-07-07 15:52+0100\n"
 "PO-Revision-Date: 2014-06-07 08:15+0000\n"
 "Last-Translator: Ian <ian.henderson@rubric.com>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1402128923.000000\n"
 
 #. # sync_new_markup ##
@@ -34,8 +34,9 @@ msgstr ""
 msgid "Get started with Sync. It’s fast, safe and easy:"
 msgstr "Qalisa ngongqamaniso. Iyakhawuleza, ikhuselekile kwaye ilula:"
 
+#. # TAG: sync_new_markup
 #. (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
-#: firefox/sync.lang:18
+#: firefox/sync.lang:19
 msgid ""
 "Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> in "
 "the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
@@ -44,7 +45,7 @@ msgstr ""
 "phezulu ekunene kweFirefox uze ukhethe “<strong>Ngena kungqamaniso.</strong>”"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-#: firefox/sync.lang:23
+#: firefox/sync.lang:24
 msgid ""
 "Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of "
 "Firefox and select “Sign in to Sync.”"
@@ -52,18 +53,20 @@ msgstr ""
 "Vula <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> phezulu ekunene "
 "kweFirefox uze ukhethe okuthi “Ngena kungqamaniso.”"
 
+#. # TAG: sync_new_markup
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:28
+#: firefox/sync.lang:30
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
 msgstr "Cofa “<strong>Qalisa</strong>” kwithebhu evulekayo."
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-#: firefox/sync.lang:33
+#: firefox/sync.lang:35
 msgid "Click “Get started” in the tab that opens."
 msgstr "Cofa “kuQalisa” kwithebhu evulayo."
 
+#. # TAG: sync_new_markup
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:38
+#: firefox/sync.lang:41
 msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
@@ -72,48 +75,50 @@ msgstr ""
 "strong>”"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-#: firefox/sync.lang:43
+#: firefox/sync.lang:46
 msgid "Enter an email address and password to “Create a Firefox Account.”"
 msgstr "Faka idilesi yeimeyile nepasiwedi “ukuyila iakhawunti yeFirefox.”"
 
+#. # TAG: sync_new_markup
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:48
+#: firefox/sync.lang:52
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr ""
 "Cofa “<strong>okulandelayo</strong>” ukufumana ingqinisekiso ethunyelwe kwi-"
 "imeyile yakho."
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-#: firefox/sync.lang:53
+#: firefox/sync.lang:57
 msgid "Click “Next” to get a verification sent to your email."
 msgstr ""
 "Cofa “kuElandelayo” ukufumana ingqinisekiso ethunyelwe kwi-imeyile yakho."
 
-#: firefox/sync.lang:57
+#: firefox/sync.lang:61
 msgid "Check your email and click the verification link."
 msgstr "Khangela i-imeyile yakho uze ucofe ikhonkco lesingqinisiso."
 
-#: firefox/sync.lang:61
+#: firefox/sync.lang:65
 msgid ""
 "You’re all set! Firefox will automatically sync in the background from now "
 "on."
 msgstr ""
 "Nifakiwe nonke! IFirefox iza kungqamana ngokuzenzekela emva ukususela ngoku."
 
-#: firefox/sync.lang:65
+#: firefox/sync.lang:69
 msgid "Get more detailed instructions."
 msgstr "Fumana imiyalelo ebanzi."
 
-#: firefox/sync.lang:69
+#: firefox/sync.lang:73
 msgid "Using an older version of Sync?"
 msgstr "Usebenzisa uhlelo oludala lokuNgqamanisa?"
 
-#: firefox/sync.lang:73
+#: firefox/sync.lang:77
 msgid "Have an Android phone or tablet?"
 msgstr "Yiba nefowuni yeAndroid okanye ithabhlethi?"
 
+#. # TAG: sync_new_markup
 #. (NEW STRING)
-#: firefox/sync.lang:78
+#: firefox/sync.lang:83
 msgid ""
 "<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
 "desktop and mobile devices."
@@ -122,13 +127,13 @@ msgstr ""
 "kwedesktopu nezixhobo eziphathwayo."
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-#: firefox/sync.lang:83
+#: firefox/sync.lang:88
 msgid ""
 "Download Firefox for Android to sync between your desktop and mobile devices."
 msgstr ""
 "Khuphela iFirefox ukuze iAndroid ingqamanise phakathi kwedesktopu nezixhobo "
 "eziphathwayo."
 
-#: firefox/sync.lang:87
+#: firefox/sync.lang:92
 msgid "Get it free from Google Play"
 msgstr "Yifumane simahla kuGoogle Play"

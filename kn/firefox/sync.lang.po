@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-15 22:41+0100\n"
+"POT-Creation-Date: 2014-07-07 15:52+0100\n"
 "PO-Revision-Date: 2014-05-04 03:52+0000\n"
 "Last-Translator: Omshivaprakash <omshivaprakash@gmail.com>\n"
 "Language-Team: none\n"
@@ -30,8 +30,9 @@ msgstr ""
 msgid "Get started with Sync. It’s fast, safe and easy:"
 msgstr ""
 
+#. # TAG: sync_new_markup
 #. (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
-#: firefox/sync.lang:18
+#: firefox/sync.lang:19
 #, fuzzy
 msgid ""
 "Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> in "
@@ -41,7 +42,7 @@ msgstr ""
 "ತೆರೆಯಿರಿ ಮತ್ತು “ಸಿಂಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್” ಆಯ್ಕೆ ಮಾಡಿ."
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-#: firefox/sync.lang:23
+#: firefox/sync.lang:24
 msgid ""
 "Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of "
 "Firefox and select “Sign in to Sync.”"
@@ -49,18 +50,20 @@ msgstr ""
 "ಫೈರ್ಫಾಕ್ಸ್‌ನ ಬಲ ಮೇಲ್ಭಾಗದ <a href=\"%(url)s#w_a-handy-new-menu\">ಪರಿವಿಡಿ</a> "
 "ತೆರೆಯಿರಿ ಮತ್ತು “ಸಿಂಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್” ಆಯ್ಕೆ ಮಾಡಿ."
 
+#. # TAG: sync_new_markup
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:28
+#: firefox/sync.lang:30
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
 msgstr ""
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-#: firefox/sync.lang:33
+#: firefox/sync.lang:35
 msgid "Click “Get started” in the tab that opens."
 msgstr "ತೆರೆದುಕೊಳ್ಳುವ ಹಾಳೆಯಲ್ಲಿ “ಶುರು ಮಾಡು” ಕ್ಲಿಕ್ ಮಾಡು"
 
+#. # TAG: sync_new_markup
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:38
+#: firefox/sync.lang:41
 #, fuzzy
 msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
@@ -68,57 +71,59 @@ msgid ""
 msgstr "ಇದಕ್ಕೆ ವಿ-ಅಂಚೆ ವಿಳಾಸ ಮತ್ತು ಪ್ರವೇಶ ಪದ ನಮೂದಿಸಿ “ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆ ಸೃಷ್ಟಿಸು.”"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-#: firefox/sync.lang:43
+#: firefox/sync.lang:46
 msgid "Enter an email address and password to “Create a Firefox Account.”"
 msgstr "ಇದಕ್ಕೆ ವಿ-ಅಂಚೆ ವಿಳಾಸ ಮತ್ತು ಪ್ರವೇಶ ಪದ ನಮೂದಿಸಿ “ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆ ಸೃಷ್ಟಿಸು.”"
 
+#. # TAG: sync_new_markup
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:48
+#: firefox/sync.lang:52
 #, fuzzy
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr "ಧೃಡೀಕರಣವನ್ನು ನಿಮ್ಮ ವಿ-ಅಂಚೆಗೆ ಕಳಿಸಿಕೊಳ್ಳಲು “ಮುಂದೆ” ಕ್ಲಿಕ್ಕಿಸಿ."
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-#: firefox/sync.lang:53
+#: firefox/sync.lang:57
 msgid "Click “Next” to get a verification sent to your email."
 msgstr "ಧೃಡೀಕರಣವನ್ನು ನಿಮ್ಮ ವಿ-ಅಂಚೆಗೆ ಕಳಿಸಿಕೊಳ್ಳಲು “ಮುಂದೆ” ಕ್ಲಿಕ್ಕಿಸಿ."
 
-#: firefox/sync.lang:57
+#: firefox/sync.lang:61
 msgid "Check your email and click the verification link."
 msgstr "ನಿಮ್ಮ ವಿ-ಅಂಚೆ ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಧೃಡೀಕರಣ ಕೊಂಡಿಯನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ."
 
-#: firefox/sync.lang:61
+#: firefox/sync.lang:65
 msgid ""
 "You’re all set! Firefox will automatically sync in the background from now "
 "on."
 msgstr ""
 "ನೀವು ಸಿದ್ದರಾಗಿದ್ದೀರ! ಫೈರ್ಫಾಕ್ಸ್ ಇನ್ಮುಂದೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಹಿನ್ನಲೆಯಲ್ಲಿ ಸಿಂಕ್ ಆಗುತ್ತದೆ."
 
-#: firefox/sync.lang:65
+#: firefox/sync.lang:69
 msgid "Get more detailed instructions."
 msgstr ""
 
-#: firefox/sync.lang:69
+#: firefox/sync.lang:73
 msgid "Using an older version of Sync?"
 msgstr "ಹಳೆಯ ಸಿಂಕ್ ಆವೃತ್ತಿಯನ್ನು ಬಳಸುತ್ತಿದ್ದೀರಾ?"
 
-#: firefox/sync.lang:73
+#: firefox/sync.lang:77
 msgid "Have an Android phone or tablet?"
 msgstr "ಆಂಡ್ರಾಯ್ಡ್ ಫೋನ್ ಅಥವಾ ಟ್ಯಾಬ್ಲೆಟ್ ಇದೆಯೇ?"
 
+#. # TAG: sync_new_markup
 #. (NEW STRING)
-#: firefox/sync.lang:78
+#: firefox/sync.lang:83
 msgid ""
 "<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
 "desktop and mobile devices."
 msgstr ""
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-#: firefox/sync.lang:83
+#: firefox/sync.lang:88
 msgid ""
 "Download Firefox for Android to sync between your desktop and mobile devices."
 msgstr ""
 
-#: firefox/sync.lang:87
+#: firefox/sync.lang:92
 msgid "Get it free from Google Play"
 msgstr "ಗೂಗಲ್‌ ಪ್ಲೇಯಲ್ಲಿ ಉಚಿತವಾಗಿ ಪಡೆಯಿರಿ"

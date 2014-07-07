@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-15 22:41+0100\n"
+"POT-Creation-Date: 2014-07-07 15:52+0100\n"
 "PO-Revision-Date: 2014-05-30 08:00+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1401436853.000000\n"
 
 #. # sync_new_markup ##
@@ -33,8 +33,9 @@ msgstr ""
 msgid "Get started with Sync. It’s fast, safe and easy:"
 msgstr "ដើម្បី​ចាប់ផ្ដើម​ជាមួយ​សមកាលកម្ម។ វា​រហ័ស, សុវត្ថិភាព និង​ងាយស្រួល៖"
 
+#. # TAG: sync_new_markup
 #. (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
-#: firefox/sync.lang:18
+#: firefox/sync.lang:19
 msgid ""
 "Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> in "
 "the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
@@ -43,7 +44,7 @@ msgstr ""
 "ផ្នែក​ខាងលើ​នៃ Firefox ហើយ​ជ្រើស “<strong>ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម។</strong>”"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-#: firefox/sync.lang:23
+#: firefox/sync.lang:24
 msgid ""
 "Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of "
 "Firefox and select “Sign in to Sync.”"
@@ -51,63 +52,67 @@ msgstr ""
 "បើក <a href=\"%(url)s#w_a-handy-new-menu\">ម៉ឺនុយ</a> នៅ​ខាង​ស្ដាំ​ផ្នែក​ខាងលើ​នៃ "
 "Firefox ហើយ​ជ្រើស “ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម។”"
 
+#. # TAG: sync_new_markup
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:28
+#: firefox/sync.lang:30
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
 msgstr "ចុច “<strong>ចាប់ផ្ដើម</strong>” នៅ​ក្នុង​ផ្ទាំង​ដែល​បើក។"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-#: firefox/sync.lang:33
+#: firefox/sync.lang:35
 msgid "Click “Get started” in the tab that opens."
 msgstr "ចុច \"ចាប់ផ្ដើម\" នៅ​ក្នុង​ផ្ទាំង​ដែល​បើក។"
 
+#. # TAG: sync_new_markup
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:38
+#: firefox/sync.lang:41
 msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
 msgstr "បញ្ចូល​អាសយដ្ឋាន​អ៊ីមែល និង​ពាក្យ​សម្ងាត់​ដើម្បី “<strong>បង្កើត​គណនី Firefox ។</strong>”"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-#: firefox/sync.lang:43
+#: firefox/sync.lang:46
 msgid "Enter an email address and password to “Create a Firefox Account.”"
 msgstr "បញ្ចូល​អាសយដ្ឋាន​អ៊ីមែល និង​ពាក្យសម្ងាត់​ ដើម្បី \"បង្កើត​គណនី Firefox\"។"
 
+#. # TAG: sync_new_markup
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:48
+#: firefox/sync.lang:52
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr ""
 "ចុច “<strong>បន្ទាប់</strong>” ដើម្បី​ទទួល​បាន​ការ​បញ្ជាក់​ដែល​បាន​ផ្ញើ​ទៅ​កាន់​អ៊ីមែល​របស់​អ្នក។"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-#: firefox/sync.lang:53
+#: firefox/sync.lang:57
 msgid "Click “Next” to get a verification sent to your email."
 msgstr "ចុច \"បន្ទាប់\" ដើម្បី​ទទួល​បាន​ការ​បញ្ជាក់​ផ្ទៀងផ្ទាត់​ដែល​បាន​ផ្ញើ​ទៅ​អ៊ីមែល​របស់​​អ្នក។"
 
-#: firefox/sync.lang:57
+#: firefox/sync.lang:61
 msgid "Check your email and click the verification link."
 msgstr "ពិនិត្យមើល​អ៊ីមែល​របស់​អ្នក ហើយ​ចុច​តំណ​ការ​ផ្ទៀងផ្ទាត់។"
 
-#: firefox/sync.lang:61
+#: firefox/sync.lang:65
 msgid ""
 "You’re all set! Firefox will automatically sync in the background from now "
 "on."
 msgstr "អ្នក​កំណត់​ទាំងអស់! Firefox នឹង​ធ្វើ​សមកាលកម្ម​ដោយ​ស្វ័យប្រវត្តិ​នៅ​​ផ្ទៃខាងក្រោយ​ពី​ឥឡូវ​នេះ។"
 
-#: firefox/sync.lang:65
+#: firefox/sync.lang:69
 msgid "Get more detailed instructions."
 msgstr "ពិនិត្យមើល​សេចក្ដី​ណែនាំ​លម្អិត​បន្ថែម។"
 
-#: firefox/sync.lang:69
+#: firefox/sync.lang:73
 msgid "Using an older version of Sync?"
 msgstr "ប្រើ​កំណែ​ធ្វើ​សមកាលកម្ម​ចាស់​ជាង?"
 
-#: firefox/sync.lang:73
+#: firefox/sync.lang:77
 msgid "Have an Android phone or tablet?"
 msgstr "មាន​កុំព្យូទ័រ​បន្ទះ ឬ​ទូរស័ព្ទ Android ?"
 
+#. # TAG: sync_new_markup
 #. (NEW STRING)
-#: firefox/sync.lang:78
+#: firefox/sync.lang:83
 msgid ""
 "<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
 "desktop and mobile devices."
@@ -116,11 +121,11 @@ msgstr ""
 "និង​ឧបករណ៍​ចល័ត​​របស់​អ្នក។"
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
-#: firefox/sync.lang:83
+#: firefox/sync.lang:88
 msgid ""
 "Download Firefox for Android to sync between your desktop and mobile devices."
 msgstr "ទាញ​យក​ Firefox សម្រាប់ Android ដើម្បី​ធ្វើ​សមកាលកម្ម​រវាង​ផ្ទៃតុ និង​ឧបករណ៍​ចល័ត​របស់​អ្នក។"
 
-#: firefox/sync.lang:87
+#: firefox/sync.lang:92
 msgid "Get it free from Google Play"
 msgstr "ទទួល​យក​វា​ដោយ​ឥត​គិត​ថ្លៃ​ពី Google Play"

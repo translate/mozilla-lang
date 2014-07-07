@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-21 11:54+0100\n"
+"POT-Creation-Date: 2014-07-07 15:52+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,7 +26,8 @@ msgstr ""
 msgid "The latest features in a more stable environment"
 msgstr "Những tính năng mới nhất trong một môi trường ổn định hơn"
 
-#: firefox/channel.lang:15
+#. # TAG: telemetry_notice
+#: firefox/channel.lang:16
 #, fuzzy
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
@@ -35,13 +36,13 @@ msgstr ""
 "Firefox Aurora tự động gửi phản hồi đến Mozilla. <a href=\"%(link)s\">Tìm "
 "hiểu thêm</a>."
 
-#: firefox/channel.lang:19
+#: firefox/channel.lang:20
 msgid ""
 "<a href=\"%(feedback)s\">Give us feedback</a> to help us put the final "
 "tweaks on performance and functionality in a stable environment."
 msgstr ""
 
-#: firefox/channel.lang:23
+#: firefox/channel.lang:24
 msgid ""
 "Firefox Aurora automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -50,30 +51,31 @@ msgstr ""
 "hiểu thêm</a>."
 
 #. This description applies to Firefox Aurora
-#: firefox/channel.lang:28
+#: firefox/channel.lang:29
 msgid "The newest innovations in an experimental environment"
 msgstr "Những sáng tạo mới nhất trên môi trường thử nghiệm"
 
-#: firefox/channel.lang:32
+#. # TAG: telemetry_notice
+#: firefox/channel.lang:34
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="
 "\"%(feedback)s\">help us determine what makes it to Beta</a>."
 msgstr ""
 
 #. This description applies to Firefox on the Release channel
-#: firefox/channel.lang:37
+#: firefox/channel.lang:39
 msgid "Tried, tested and used by millions around the world"
 msgstr ""
 "Đã được thử nghiệm, kiểm tra và sử dụng bởi hàng triệu người trên thế giới"
 
-#: firefox/channel.lang:41
+#: firefox/channel.lang:43
 msgid "Learn more about Firefox Beta"
 msgstr "Tìm hiểu thêm về Firefox Beta"
 
-#: firefox/channel.lang:45
+#: firefox/channel.lang:47
 msgid "Learn more about Firefox Aurora"
 msgstr "Tìm hiểu thêm về Firefox Aurora"
 
-#: firefox/channel.lang:49
+#: firefox/channel.lang:51
 msgid "Learn more about Firefox"
 msgstr "Tìm hiểu thêm về Firefox"

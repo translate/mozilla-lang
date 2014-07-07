@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-21 11:54+0100\n"
+"POT-Creation-Date: 2014-07-07 15:52+0100\n"
 "PO-Revision-Date: 2014-06-21 09:59+0000\n"
 "Last-Translator: xh-ZA03_Fuma <fdyubhele@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1403344763.000000\n"
 
 #. # telemetry_notice ##
@@ -29,7 +29,8 @@ msgstr ""
 msgid "The latest features in a more stable environment"
 msgstr "Iinkalo zamvanje kwimeko ezinze ngakumbi"
 
-#: firefox/channel.lang:15
+#. # TAG: telemetry_notice
+#: firefox/channel.lang:16
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -37,7 +38,7 @@ msgstr ""
 "IFirefox Beta ithumela ingxelo ngokwayo kwiMozilla. <a href=\"%(link)s"
 "\">Funda okungakumbi</a>."
 
-#: firefox/channel.lang:19
+#: firefox/channel.lang:20
 msgid ""
 "<a href=\"%(feedback)s\">Give us feedback</a> to help us put the final "
 "tweaks on performance and functionality in a stable environment."
@@ -45,7 +46,7 @@ msgstr ""
 "<a href=\"%(feedback)s\">Sinike ingxelo</a> ukuze sincedakale ekubekeni "
 "izijungqe zokugqibela ekusebenzeni nasemsebenzini kwimeko ezinzileyo."
 
-#: firefox/channel.lang:23
+#: firefox/channel.lang:24
 msgid ""
 "Firefox Aurora automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -54,11 +55,12 @@ msgstr ""
 "\">Funda okungakumbi</a>."
 
 #. This description applies to Firefox Aurora
-#: firefox/channel.lang:28
+#: firefox/channel.lang:29
 msgid "The newest innovations in an experimental environment"
 msgstr "Obona buchwepheshe butsha kwimeko yokuvavanywa"
 
-#: firefox/channel.lang:32
+#. # TAG: telemetry_notice
+#: firefox/channel.lang:34
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="
 "\"%(feedback)s\">help us determine what makes it to Beta</a>."
@@ -68,18 +70,18 @@ msgstr ""
 "Beta</a>."
 
 #. This description applies to Firefox on the Release channel
-#: firefox/channel.lang:37
+#: firefox/channel.lang:39
 msgid "Tried, tested and used by millions around the world"
 msgstr "Izanyiwe, yalingwa yaza yasetyenziswa zizigidi ezisehlabathini"
 
-#: firefox/channel.lang:41
+#: firefox/channel.lang:43
 msgid "Learn more about Firefox Beta"
 msgstr "Funda okungakumbi ngeFirefox Beta"
 
-#: firefox/channel.lang:45
+#: firefox/channel.lang:47
 msgid "Learn more about Firefox Aurora"
 msgstr "Funda okungakumbi ngeFirefox Aurora"
 
-#: firefox/channel.lang:49
+#: firefox/channel.lang:51
 msgid "Learn more about Firefox"
 msgstr "Funda okungakumbi ngeFirefox"

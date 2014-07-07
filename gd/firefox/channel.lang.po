@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-21 11:54+0100\n"
+"POT-Creation-Date: 2014-07-07 15:52+0100\n"
 "PO-Revision-Date: 2014-05-23 17:46+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1400867204.000000\n"
 
 #. # telemetry_notice ##
@@ -30,7 +30,8 @@ msgstr ""
 msgid "The latest features in a more stable environment"
 msgstr "Na feartan as ùire ann an àrainneachd nas seasmhaiche"
 
-#: firefox/channel.lang:15
+#. # TAG: telemetry_notice
+#: firefox/channel.lang:16
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -38,7 +39,7 @@ msgstr ""
 "Cuiridh Firefox Beta beagan fiosrachaidh dha Mozilla gu fèin-obrachail. <a "
 "href=\"%(link)s\">Barrachd fiosrachaidh</a>."
 
-#: firefox/channel.lang:19
+#: firefox/channel.lang:20
 msgid ""
 "<a href=\"%(feedback)s\">Give us feedback</a> to help us put the final "
 "tweaks on performance and functionality in a stable environment."
@@ -47,7 +48,7 @@ msgstr ""
 "an dreach mu dheireadh a dhèanamh foirfe a thaobh dèanadas is obrachadh ann "
 "an àrainneachd sheasmhach."
 
-#: firefox/channel.lang:23
+#: firefox/channel.lang:24
 msgid ""
 "Firefox Aurora automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -56,11 +57,12 @@ msgstr ""
 "\"%(link)s\">Barrachd fiosrachaidh</a>."
 
 #. This description applies to Firefox Aurora
-#: firefox/channel.lang:28
+#: firefox/channel.lang:29
 msgid "The newest innovations in an experimental environment"
 msgstr "Na gleusan as ùire ann an àrainneachd dheuchainneil"
 
-#: firefox/channel.lang:32
+#. # TAG: telemetry_notice
+#: firefox/channel.lang:34
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="
 "\"%(feedback)s\">help us determine what makes it to Beta</a>."
@@ -70,19 +72,19 @@ msgstr ""
 "Beta</a>."
 
 #. This description applies to Firefox on the Release channel
-#: firefox/channel.lang:37
+#: firefox/channel.lang:39
 msgid "Tried, tested and used by millions around the world"
 msgstr ""
 "Dearbhte 's 'ga chleachdadh le milleanan a dhaoine air feadh an t-saoghail"
 
-#: firefox/channel.lang:41
+#: firefox/channel.lang:43
 msgid "Learn more about Firefox Beta"
 msgstr "Barrachd fiosrachaidh air Firefox Beta"
 
-#: firefox/channel.lang:45
+#: firefox/channel.lang:47
 msgid "Learn more about Firefox Aurora"
 msgstr "Barrachd fiosrachaidh air Firefox Aurora"
 
-#: firefox/channel.lang:49
+#: firefox/channel.lang:51
 msgid "Learn more about Firefox"
 msgstr "Barrachd fiosrachaidh air Firefox"

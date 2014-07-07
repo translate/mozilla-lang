@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 13:54+0100\n"
+"POT-Creation-Date: 2014-07-07 15:52+0100\n"
 "PO-Revision-Date: 2014-04-29 20:45+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1398804304.000000\n"
 
 #. # java_notice ##
@@ -67,7 +67,8 @@ msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
 "Mae cadw eich ategion yn gyfredol yn cadw Firefox i redeg yn ddiogel a llyfn."
 
-#: mozorg/plugincheck.lang:55
+#. # TAG: java_notice
+#: mozorg/plugincheck.lang:56
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
@@ -75,7 +76,8 @@ msgstr ""
 "Rydym yn ymwybodol o broblem canfod fersiynau cyfredol ategyn Java a'u "
 "hadrodd nhw fel rhai bregus."
 
-#: mozorg/plugincheck.lang:59
+#. # TAG: java_notice
+#: mozorg/plugincheck.lang:61
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
@@ -84,11 +86,11 @@ msgstr ""
 "href=\"%(download)s\">ymweld â gwefan Java</a> a llwytho'r fersiwn "
 "diweddaraf i lawr."
 
-#: mozorg/plugincheck.lang:63
+#: mozorg/plugincheck.lang:65
 msgid "Plugin Status"
 msgstr "Statws Ategion"
 
-#: mozorg/plugincheck.lang:67
+#: mozorg/plugincheck.lang:69
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
@@ -96,81 +98,81 @@ msgstr ""
 "Mae cefnogaeth Gwirio Ategion ar gyfer <strong>Internet Explorer yn "
 "gyfyngedig</strong>. Defnyddiwch Offer a Rheoli Ategion"
 
-#: mozorg/plugincheck.lang:71
+#: mozorg/plugincheck.lang:73
 msgid "Step 1: Click Update to update a plugin."
 msgstr "Cam 1: Cliciwch i ddiweddaru ategyn."
 
-#: mozorg/plugincheck.lang:75
+#: mozorg/plugincheck.lang:77
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
 "Cam 2: Cwblhewch y diweddariadau sy'n cael eu hargymell cyn ailgychwyn eich "
 "porwr."
 
-#: mozorg/plugincheck.lang:79
+#: mozorg/plugincheck.lang:81
 msgid "Potentially vulnerable plugins"
 msgstr "Ategynau agored i niwed posib"
 
-#: mozorg/plugincheck.lang:83
+#: mozorg/plugincheck.lang:85
 msgid "Plugin"
 msgstr "Ategyn"
 
-#: mozorg/plugincheck.lang:87
+#: mozorg/plugincheck.lang:89
 msgid "Status"
 msgstr "Statws"
 
-#: mozorg/plugincheck.lang:91
+#: mozorg/plugincheck.lang:93
 msgid "Action"
 msgstr "Gweithred"
 
-#: mozorg/plugincheck.lang:95
+#: mozorg/plugincheck.lang:97
 msgid "Outdated Plugins"
 msgstr "Hen Ategion"
 
-#: mozorg/plugincheck.lang:99
+#: mozorg/plugincheck.lang:101
 msgid "Unknown Plugins"
 msgstr "Ategion Anhysbys"
 
-#: mozorg/plugincheck.lang:103
+#: mozorg/plugincheck.lang:105
 msgid "These plugins are up to date"
 msgstr "Mae'r ategion hyn yn gyfredol"
 
-#: mozorg/plugincheck.lang:107
+#: mozorg/plugincheck.lang:109
 msgid "Back to Top"
 msgstr "Nôl i'r Brig"
 
-#: mozorg/plugincheck.lang:111
+#: mozorg/plugincheck.lang:113
 msgid "Frequently Asked Questions"
 msgstr "Cwestiynau Poblogaidd"
 
-#: mozorg/plugincheck.lang:115
+#: mozorg/plugincheck.lang:117
 msgid "What is a plugin?"
 msgstr "Beth yw ategyn?"
 
-#: mozorg/plugincheck.lang:119
+#: mozorg/plugincheck.lang:121
 msgid "Plugins power videos, animation and games"
 msgstr "Mae ategion yn gyrru fideos, animeiddiadau a gemau"
 
-#: mozorg/plugincheck.lang:123
+#: mozorg/plugincheck.lang:125
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr ""
 "Mae nhw'n cael eu creu y tu allan i Firefox gan gwmniau fel Adobe Systems ac "
 "Apple"
 
-#: mozorg/plugincheck.lang:127
+#: mozorg/plugincheck.lang:129
 msgid "Plugins don't always update automatically."
 msgstr "Nid yw ategion bob tro'n diweddaru'n awtomatig."
 
-#: mozorg/plugincheck.lang:131
+#: mozorg/plugincheck.lang:133
 msgid "Why should I update my plugins?"
 msgstr "Pam ddylwn i ddiweddaru fy ategion?"
 
-#: mozorg/plugincheck.lang:135
+#: mozorg/plugincheck.lang:137
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr "Gall hen ategion ymyrryd ar eich pori a gwastraffu eich amser."
 
-#: mozorg/plugincheck.lang:139
+#: mozorg/plugincheck.lang:141
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
@@ -178,7 +180,7 @@ msgstr ""
 "Mae hen ategion yn <strong>cynyddu'r perygl</strong> o gael ymosodiadau gan "
 "falwar, firysiau a bygythiadau diogelwch eraill."
 
-#: mozorg/plugincheck.lang:143
+#: mozorg/plugincheck.lang:145
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
@@ -187,15 +189,15 @@ msgstr ""
 "yn <strong>well a mwy diogel</strong> ar eich cyfer."
 
 #. alt image
-#: mozorg/plugincheck.lang:148
+#: mozorg/plugincheck.lang:150
 msgid "Screenshot of Add-Ons manager"
 msgstr "Llun sgrin o'r rheolwr Ychwanegion"
 
-#: mozorg/plugincheck.lang:152
+#: mozorg/plugincheck.lang:154
 msgid "How can Firefox help me?"
 msgstr "Sut gall Firefox fy nghynorthwyo?"
 
-#: mozorg/plugincheck.lang:156
+#: mozorg/plugincheck.lang:158
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
@@ -204,11 +206,11 @@ msgstr ""
 "dylech wirio'r dudalen hon o bryd i'w gilydd a diweddaru eich ategion er "
 "mwyn cadw'n ddiogel."
 
-#: mozorg/plugincheck.lang:160
+#: mozorg/plugincheck.lang:162
 msgid "Which Plugins do I have?"
 msgstr "Pa Ategion sydd gennyf?"
 
-#: mozorg/plugincheck.lang:164
+#: mozorg/plugincheck.lang:166
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
@@ -216,26 +218,29 @@ msgstr ""
 "Rydym wedi canfod yn awtomatig eich ategion uchod; i weld eich ategion yn "
 "Firefox dilynwch y camau hyn:"
 
-#: mozorg/plugincheck.lang:168
-msgctxt "./mozorg/plugincheck.lang:168"
+#: mozorg/plugincheck.lang:170
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:170"
 msgid "Open the Tools menu."
 msgstr "Agor dewislen Offer."
 
-#: mozorg/plugincheck.lang:172
-msgctxt "./mozorg/plugincheck.lang:172"
+#: mozorg/plugincheck.lang:174
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:174"
 msgid "Choose Add-ons."
 msgstr "Dewis Ychwanegion."
 
-#: mozorg/plugincheck.lang:176
-msgctxt "./mozorg/plugincheck.lang:176"
+#: mozorg/plugincheck.lang:178
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:178"
 msgid "Click the plugins tab."
 msgstr "Cliciwch tab ategion."
 
-#: mozorg/plugincheck.lang:180
+#: mozorg/plugincheck.lang:182
 msgid "Want to spread the word?"
 msgstr "Hoffech chi sôn ymhellach?"
 
-#: mozorg/plugincheck.lang:184
+#: mozorg/plugincheck.lang:186
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -243,38 +248,41 @@ msgstr ""
 "Cynorthwywch i'ch ffrindiau aros yn ddiogel ar-lein? Ewch i <a href=\"%(url)s"
 "\">Firefox Affiliates</a> i gael bathodyn gwirio ar gyfer eich gwefan."
 
-#: mozorg/plugincheck.lang:188
+#: mozorg/plugincheck.lang:190
 msgid "How do I disable a plugin?"
 msgstr "Sut fyddai'n analluogi ategyn?"
 
-#: mozorg/plugincheck.lang:192
+#: mozorg/plugincheck.lang:194
 msgid "In Firefox:"
 msgstr "Yn Firefox:"
 
-#: mozorg/plugincheck.lang:196
-msgctxt "./mozorg/plugincheck.lang:196"
+#: mozorg/plugincheck.lang:198
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:198"
 msgid "Open the Tools menu."
 msgstr "Agor dewislen Offer."
 
-#: mozorg/plugincheck.lang:200
-msgctxt "./mozorg/plugincheck.lang:200"
+#: mozorg/plugincheck.lang:202
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:202"
 msgid "Choose Add-ons."
 msgstr "Dewis Ychwanegion."
 
-#: mozorg/plugincheck.lang:204
-msgctxt "./mozorg/plugincheck.lang:204"
+#: mozorg/plugincheck.lang:206
+#, fuzzy
+msgctxt "./mozorg/plugincheck.lang:206"
 msgid "Click the plugins tab."
 msgstr "Cliciwch tab ategion."
 
-#: mozorg/plugincheck.lang:208
+#: mozorg/plugincheck.lang:210
 msgid "Click on a plugin in the list."
 msgstr "Cliciwch ategyn yn y rhestr."
 
-#: mozorg/plugincheck.lang:212
+#: mozorg/plugincheck.lang:214
 msgid "Click the Disable button."
 msgstr "Cliciwch y botwm Analluogi."
 
-#: mozorg/plugincheck.lang:216
+#: mozorg/plugincheck.lang:218
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -284,18 +292,30 @@ msgstr ""
 "rhai pethau. Er enghraifft, os ydych yn analluogi Flash, ni fyddwch yn gallu "
 "gwylio fideos ar YouTube."
 
-#: mozorg/plugincheck.lang:220
+#: mozorg/plugincheck.lang:222
 msgid "Mozilla Support"
 msgstr "Cefnogaeth gan Mozilla"
 
-#: mozorg/plugincheck.lang:224
+#: mozorg/plugincheck.lang:226
 msgid "Have more questions?"
 msgstr "Rhagor o gwestiynau?"
 
-#: mozorg/plugincheck.lang:228
+#: mozorg/plugincheck.lang:230
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "Ewch i <a href=\"%(sumo_url)s\">support.mozilla.org</a> am ragor o gymorth!"
+
+#~ msgctxt "./mozorg/plugincheck.lang:196"
+#~ msgid "Open the Tools menu."
+#~ msgstr "Agor dewislen Offer."
+
+#~ msgctxt "./mozorg/plugincheck.lang:200"
+#~ msgid "Choose Add-ons."
+#~ msgstr "Dewis Ychwanegion."
+
+#~ msgctxt "./mozorg/plugincheck.lang:204"
+#~ msgid "Click the plugins tab."
+#~ msgstr "Cliciwch tab ategion."
 
 #~ msgctxt "./mozorg/plugincheck.lang:195"
 #~ msgid "Open the Tools menu."

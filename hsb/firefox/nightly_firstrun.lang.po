@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-06 06:56+0100\n"
+"POT-Creation-Date: 2014-07-07 15:52+0100\n"
 "PO-Revision-Date: 2014-06-17 18:42+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
@@ -13,94 +13,132 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1403030547.000000\n"
 
-#. # promo_community ##
+#. # promo_locale ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/nightly/firstrun/
-#: firefox/nightly_firstrun.lang:5
+#: firefox/nightly_firstrun.lang:6
 msgid "Firefox Nightly First Run Page"
 msgstr "Strona prěnjeho běha nócneje wersije Firefox"
 
-#: firefox/nightly_firstrun.lang:9
-msgid "Firefox Nightlies"
-msgstr "Firefox nócne wersije"
-
-#: firefox/nightly_firstrun.lang:13
-msgid "Thank you."
-msgstr "Wulki dźak."
-
-#: firefox/nightly_firstrun.lang:17
-msgid "By using a nightly build, you’re helping make Firefox better."
-msgstr "Wužiwajće nócnu wersiju, zo byšće pomhał, Firefox polěpšić."
-
-#: firefox/nightly_firstrun.lang:21
-msgid "Learn more about Firefox and Mozilla"
-msgstr "Zhońće wjace wo Firefox a Mozilla"
-
-#: firefox/nightly_firstrun.lang:25
-msgid "Read the Mozilla manifesto, our vision for a free and open Web"
-msgstr "Přečitajće manifest Mozilla, našu wiziju za swobodny a wotewrjeny web"
-
-#: firefox/nightly_firstrun.lang:29
-msgid "Take a tour of the new Australis User Interface"
-msgstr "Wobhladajće sej widejo wo nowym wužiwarskim powjerchu Australis"
-
-#: firefox/nightly_firstrun.lang:33
-msgid "Join Mozillians.org for Mozilla news and community updates"
+#: firefox/nightly_firstrun.lang:10
+msgid "Thank you for using Firefox Nightly"
 msgstr ""
-"Přidružće so Mozillians.org, zo byšće powěsće a zhromadźenstwowe "
-"aktualizacije Mozilla dóstał"
 
-#: firefox/nightly_firstrun.lang:37
-msgid "Hack on Firefox with us"
-msgstr "Programujće z nami za Firefox"
-
-#: firefox/nightly_firstrun.lang:41
-msgid "Find out how you can help at WhatCanIDoForMozilla.org"
-msgstr "Namakajće won, kak móžeće na WhatCanIDoForMozilla.org pomhać"
-
-#: firefox/nightly_firstrun.lang:45
-msgid "Sign up for a Bugzilla account"
-msgstr "Zregistrujće so za konto Bugzilla"
-
-#: firefox/nightly_firstrun.lang:49
-msgid "Set up your development environment to build Firefox"
-msgstr "Zarjadujće swoju wuwiwansku wokolinu, zo byšće Firefox wuwiwał"
-
-#: firefox/nightly_firstrun.lang:53
-msgid "Learn about the next steps at CodeFirefox"
-msgstr "Zeznajće so z prěnimi krokami na CodeFirefox"
-
-#: firefox/nightly_firstrun.lang:57
-msgid "Join the Mozilla community"
-msgstr "Přidružće so zhromadźenstwu Mozilla"
-
-#: firefox/nightly_firstrun.lang:61
-msgid "Learn about upcoming Mozilla events in your area"
-msgstr "Zhońće wjace wo přichodnych podawkach Mozilla na swojim polu"
-
-#: firefox/nightly_firstrun.lang:65
+#: firefox/nightly_firstrun.lang:14
 msgid ""
-"Take a drink from the firehose! Get all the latest Mozilla news at Planet "
-"Mozilla."
+"Choose an area to get involved below and help make Firefox better for users "
+"everywhere"
 msgstr ""
-"Zwužitkujće składnosć! Wobstarajće sej najnowše powěsće Mozilla na Planet "
-"Mozilla."
 
-#: firefox/nightly_firstrun.lang:69
-msgid "Help make Firefox better with the Mozilla QA team"
+#: firefox/nightly_firstrun.lang:18
+#, fuzzy
+msgid "Test"
+msgstr "Tekst"
+
+#: firefox/nightly_firstrun.lang:22
+msgid "Find and file bugs and generally make sure things work as they should."
 msgstr ""
-"Pomhajće, Firefox hromadźe z teamom Mozilla za kwalitne zawěsćenje polěpšić"
 
-#: firefox/nightly_firstrun.lang:73
-msgid "Help us build the Web the world needs."
-msgstr "Pomhajće nam, web natwarić, kotryž swět trjeba."
+#: firefox/nightly_firstrun.lang:26
+msgid "Start testing"
+msgstr ""
 
-#: firefox/nightly_firstrun.lang:77
-msgid "Firefox Features"
-msgstr "Funkcije Firefox"
+#: firefox/nightly_firstrun.lang:30
+msgid "Code"
+msgstr ""
 
-#: firefox/nightly_firstrun.lang:81
-msgid "Firefox Help"
-msgstr "Pomoc Firefox"
+#: firefox/nightly_firstrun.lang:34
+msgid "File bugs and work on the building blocks of the Firefox browser."
+msgstr ""
+
+#: firefox/nightly_firstrun.lang:38
+msgid "Start coding"
+msgstr ""
+
+#: firefox/nightly_firstrun.lang:42
+msgid "Localize"
+msgstr ""
+
+#: firefox/nightly_firstrun.lang:46
+msgid "Make Firefox available (and better) in more languages around the world."
+msgstr ""
+
+#: firefox/nightly_firstrun.lang:50
+msgid "Start localizing"
+msgstr ""
+
+#: firefox/nightly_firstrun.lang:54
+msgid "Show everyone that you’re helping to build the Web the world needs."
+msgstr ""
+
+#: firefox/nightly_firstrun.lang:58
+msgid "Get your Nightly User badge"
+msgstr ""
+
+#~ msgid "Firefox Nightlies"
+#~ msgstr "Firefox nócne wersije"
+
+#~ msgid "Thank you."
+#~ msgstr "Wulki dźak."
+
+#~ msgid "By using a nightly build, you’re helping make Firefox better."
+#~ msgstr "Wužiwajće nócnu wersiju, zo byšće pomhał, Firefox polěpšić."
+
+#~ msgid "Learn more about Firefox and Mozilla"
+#~ msgstr "Zhońće wjace wo Firefox a Mozilla"
+
+#~ msgid "Read the Mozilla manifesto, our vision for a free and open Web"
+#~ msgstr ""
+#~ "Přečitajće manifest Mozilla, našu wiziju za swobodny a wotewrjeny web"
+
+#~ msgid "Take a tour of the new Australis User Interface"
+#~ msgstr "Wobhladajće sej widejo wo nowym wužiwarskim powjerchu Australis"
+
+#~ msgid "Join Mozillians.org for Mozilla news and community updates"
+#~ msgstr ""
+#~ "Přidružće so Mozillians.org, zo byšće powěsće a zhromadźenstwowe "
+#~ "aktualizacije Mozilla dóstał"
+
+#~ msgid "Hack on Firefox with us"
+#~ msgstr "Programujće z nami za Firefox"
+
+#~ msgid "Find out how you can help at WhatCanIDoForMozilla.org"
+#~ msgstr "Namakajće won, kak móžeće na WhatCanIDoForMozilla.org pomhać"
+
+#~ msgid "Sign up for a Bugzilla account"
+#~ msgstr "Zregistrujće so za konto Bugzilla"
+
+#~ msgid "Set up your development environment to build Firefox"
+#~ msgstr "Zarjadujće swoju wuwiwansku wokolinu, zo byšće Firefox wuwiwał"
+
+#~ msgid "Learn about the next steps at CodeFirefox"
+#~ msgstr "Zeznajće so z prěnimi krokami na CodeFirefox"
+
+#~ msgid "Join the Mozilla community"
+#~ msgstr "Přidružće so zhromadźenstwu Mozilla"
+
+#~ msgid "Learn about upcoming Mozilla events in your area"
+#~ msgstr "Zhońće wjace wo přichodnych podawkach Mozilla na swojim polu"
+
+#~ msgid ""
+#~ "Take a drink from the firehose! Get all the latest Mozilla news at Planet "
+#~ "Mozilla."
+#~ msgstr ""
+#~ "Zwužitkujće składnosć! Wobstarajće sej najnowše powěsće Mozilla na Planet "
+#~ "Mozilla."
+
+#~ msgid "Help make Firefox better with the Mozilla QA team"
+#~ msgstr ""
+#~ "Pomhajće, Firefox hromadźe z teamom Mozilla za kwalitne zawěsćenje "
+#~ "polěpšić"
+
+#~ msgid "Help us build the Web the world needs."
+#~ msgstr "Pomhajće nam, web natwarić, kotryž swět trjeba."
+
+#~ msgid "Firefox Features"
+#~ msgstr "Funkcije Firefox"
+
+#~ msgid "Firefox Help"
+#~ msgstr "Pomoc Firefox"
