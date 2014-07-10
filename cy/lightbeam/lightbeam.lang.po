@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-15 22:41+0100\n"
+"POT-Creation-Date: 2014-07-10 16:30+0100\n"
 "PO-Revision-Date: 2014-05-23 19:23+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1400872984.000000\n"
 
 #. # NOTE: http://www-dev.allizom.org/lightbeam
@@ -323,8 +323,7 @@ msgstr ""
 "TED</a> (erbyn hyn yn un o'r cyflwyniadau TED sydd wedi eu gwylio amlaf) er "
 "mwyn amlygu tracio ar-lein."
 
-#. Updated string
-#: lightbeam/lightbeam.lang:194
+#: lightbeam/lightbeam.lang:193
 msgid ""
 "In September 2012, Mozilla joined forces with faculty and student "
 "researchers at <a href=\"%s\">Emily Carr University of Art + Design</a> to "
@@ -334,18 +333,7 @@ msgstr ""
 "Carr University of Art + Design</a> i ddatblygu a gwireddu dull o amlygu'r "
 "data ar gyfer yr ychwanegyn."
 
-#. Obsolete string, will be removed once the new one is localized. Do not remove now, it's still used on production and will be reported as missing on the dashboard.
-#: lightbeam/lightbeam.lang:199
-msgid ""
-"In September 2012, Mozilla joined forces with students at <a href=\"%s"
-"\">Emily Carr University of Art + Design</a> to develop and implement "
-"visualizations for the add-on."
-msgstr ""
-"Ym mis Medi 2012, ymunodd Mozilla gyda myfyrwyr yn yr <a href=\"%s\">Emily "
-"Carr University of Art + Design</a> i ddatblygu a gwireddu dull o amlygu'r "
-"data ar gyfer yr ychwanegyn."
-
-#: lightbeam/lightbeam.lang:203
+#: lightbeam/lightbeam.lang:197
 msgid ""
 "With the support of the Ford Foundation and the Natural Sciences and "
 "Engineering Research Council (NSERC), Collusion has been re-imagined as "
@@ -355,18 +343,18 @@ msgstr ""
 "Research Council (NSERC), mae Collusion wedi ei ail greu fel Lightbeam a'i "
 "lansio yn yr hydref yn 2013."
 
-#: lightbeam/lightbeam.lang:207
+#: lightbeam/lightbeam.lang:201
 msgid ""
 "To read more about the collaboration, please visit <a href=\"{url}\">{url}</"
 "a>"
 msgstr ""
 "I ddarllen rhagor am y cydweithrediad, ewch i <a href=\"{url}\">{url}</a>"
 
-#: lightbeam/lightbeam.lang:211
+#: lightbeam/lightbeam.lang:205
 msgid "Policy and the larger tracking narrative"
 msgstr "Polisi a'r drafodaeth ehangach am dracio"
 
-#: lightbeam/lightbeam.lang:215
+#: lightbeam/lightbeam.lang:209
 msgid ""
 "At Mozilla, we believe that everyone should have the tools to make their own "
 "decisions about their online privacy and who collects data on them."
@@ -374,8 +362,7 @@ msgstr ""
 "Ym Mozilla, rydym yn credu y dylai pawb gael yr offer i ddod i benderfyniad "
 "am eu preifatrwydd ar-lein a phwy sy'n casglu data arnyn nhw."
 
-#. Updated string
-#: lightbeam/lightbeam.lang:220
+#: lightbeam/lightbeam.lang:213
 msgid ""
 "With the Lightbeam add-on, we are providing a valuable (and open) community "
 "research platform that aims to raise awareness, promote analysis and, "
@@ -386,20 +373,7 @@ msgstr ""
 "ymwybyddiaeth, annog dadansoddi ac yn y pen draw, achosi newidiadau polisi "
 "ym meysydd tracio a phreifatrwydd."
 
-#. Obsolete string, will be removed once the new one is localized. Do not remove now, it's still used on production and will be reported as missing on the dashboard.
-#: lightbeam/lightbeam.lang:225
-msgid ""
-"With the Lightbeam add-on and database server, we are providing a valuable "
-"(and open) community research platform that aims to raise awareness, promote "
-"analysis and, ultimately, affect policy change in the areas of tracking and "
-"privacy."
-msgstr ""
-"Gydag ychwanegyn a gweinydd cronfa ddata Lightbeam rydym yn darparu "
-"platfform ymchwil cymunedol gwerthfawr (ac agored) sy'n anelu i godi "
-"ymwybyddiaeth, annog dadansoddi ac yn y pen draw, achosi newidiadau polisi "
-"ym meysydd tracio a phreifatrwydd."
-
-#: lightbeam/lightbeam.lang:229
+#: lightbeam/lightbeam.lang:217
 msgid ""
 "Lightbeam is one step in a larger, concerted effort by Mozilla and its "
 "partners to provide Web users with greater control and transparency of their "
@@ -409,11 +383,11 @@ msgstr ""
 "ddarparu rheolaeth ehangach a thryloywder ar eu data personol i ddefnyddwyr "
 "y We."
 
-#: lightbeam/lightbeam.lang:233
+#: lightbeam/lightbeam.lang:221
 msgid "Learn more about online tracking and privacy"
 msgstr "Dysgu rhagor am dracio ar-lein a phreifatrwydd"
 
-#: lightbeam/lightbeam.lang:237
+#: lightbeam/lightbeam.lang:225
 msgid ""
 "The <a href=\"%s\">Mozilla Foundation</a> is a non-profit organization that "
 "promotes the values of an open Web to the broader world. The larger Mozilla "
@@ -425,12 +399,11 @@ msgstr ""
 "gweld perthnasedd cynyddol preifatrwydd ar-lein ac mae'n cefnogi nifer o "
 "ymdrechion i fynd i'r afael â'r broblem mewn ffyrdd amrywiol."
 
-#: lightbeam/lightbeam.lang:241
+#: lightbeam/lightbeam.lang:229
 msgid "Data formats in Lightbeam"
 msgstr "Fformatau data yn Lightbeam"
 
-#. Updated string
-#: lightbeam/lightbeam.lang:246
+#: lightbeam/lightbeam.lang:233
 msgid ""
 "Visit our <a href=\"%s\">documentation on Github</a> to learn more about the "
 "file formats used in Lightbeam and to see details of the data that is "
@@ -440,22 +413,11 @@ msgstr ""
 "fformatau ffeil sy'n cael eu defnyddio yn Lightbeam a gweld manylion y data "
 "sy'n cael ei lwytho i fyny os ydych yn dewis cyfrannu i'r gronfa ddata."
 
-#. Obsolete string, will be removed once the new one is localized. Do not remove now, it's still used on production and will be reported as missing on the dashboard.
-#: lightbeam/lightbeam.lang:251
-msgid ""
-"Visit our <a href=\"%s\">documentation on Github</a> to learn more about the "
-"file formats used in Lightbeam and to see details of the data that is "
-"uploaded if you opt in to contribute to the database."
-msgstr ""
-"Ewch i'n <a href=\"%s\">dogfennaeth ar Github</a> i ddysgu rhagor am y "
-"fformatau ffeil sy'n cael eu defnyddio yn Lightbeam a gweld manylion y data "
-"sy'n cael ei lwytho i fyny os ydych yn dewis cyfrannu i'r gronfa ddata."
-
-#: lightbeam/lightbeam.lang:255
+#: lightbeam/lightbeam.lang:237
 msgid "Partners of Lightbeam"
 msgstr "Partneriaid Lightbeam"
 
-#: lightbeam/lightbeam.lang:259
+#: lightbeam/lightbeam.lang:241
 msgid ""
 "The <a href=\"%s\">Ford Foundation</a> is a non-profit organization that "
 "focuses on the mission of advancing human welfare."
@@ -463,7 +425,7 @@ msgstr ""
 "Mae'r <a href=\"%s\">Ford Foundation</a> yn gorff nid er elw sy'n "
 "canolbwyntio ar hyrwyddo lles y ddynoliaeth."
 
-#: lightbeam/lightbeam.lang:263
+#: lightbeam/lightbeam.lang:245
 msgid ""
 "They provide support for companies and institutions devoted to strengthening "
 "democratic values, reducing poverty and social injustice, supporting human "
@@ -473,7 +435,7 @@ msgstr ""
 "gryfhau gwerthoedd democrataidd, lleihau tlodi ac anghyfiawnder cymdeithasol "
 "a hybu cydweithrediad rhyngwladol."
 
-#: lightbeam/lightbeam.lang:267
+#: lightbeam/lightbeam.lang:249
 msgid ""
 "The <a href=\"%s\">Social + Interactive Media (SIM) Centre</a> at Emily Carr "
 "University of Art + Design supports a wide range of projects in design and "
@@ -486,3 +448,33 @@ msgstr ""
 "a cyfryngol, gan roi mynediad uniongyrchol i feddwl arloesol, sgiliau "
 "cynllunio ac arbenigedd ymchwil o fewn un o'r adrannau mwyaf creadigol yn "
 "British Columbia."
+
+#~ msgid ""
+#~ "In September 2012, Mozilla joined forces with students at <a href=\"%s"
+#~ "\">Emily Carr University of Art + Design</a> to develop and implement "
+#~ "visualizations for the add-on."
+#~ msgstr ""
+#~ "Ym mis Medi 2012, ymunodd Mozilla gyda myfyrwyr yn yr <a href=\"%s"
+#~ "\">Emily Carr University of Art + Design</a> i ddatblygu a gwireddu dull "
+#~ "o amlygu'r data ar gyfer yr ychwanegyn."
+
+#~ msgid ""
+#~ "With the Lightbeam add-on and database server, we are providing a "
+#~ "valuable (and open) community research platform that aims to raise "
+#~ "awareness, promote analysis and, ultimately, affect policy change in the "
+#~ "areas of tracking and privacy."
+#~ msgstr ""
+#~ "Gydag ychwanegyn a gweinydd cronfa ddata Lightbeam rydym yn darparu "
+#~ "platfform ymchwil cymunedol gwerthfawr (ac agored) sy'n anelu i godi "
+#~ "ymwybyddiaeth, annog dadansoddi ac yn y pen draw, achosi newidiadau "
+#~ "polisi ym meysydd tracio a phreifatrwydd."
+
+#~ msgid ""
+#~ "Visit our <a href=\"%s\">documentation on Github</a> to learn more about "
+#~ "the file formats used in Lightbeam and to see details of the data that is "
+#~ "uploaded if you opt in to contribute to the database."
+#~ msgstr ""
+#~ "Ewch i'n <a href=\"%s\">dogfennaeth ar Github</a> i ddysgu rhagor am y "
+#~ "fformatau ffeil sy'n cael eu defnyddio yn Lightbeam a gweld manylion y "
+#~ "data sy'n cael ei lwytho i fyny os ydych yn dewis cyfrannu i'r gronfa "
+#~ "ddata."
