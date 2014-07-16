@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-28 13:33+0100\n"
-"PO-Revision-Date: 2014-07-10 12:01+0000\n"
+"PO-Revision-Date: 2014-07-11 17:27+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uz\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1404993668.000000\n"
+"X-POOTLE-MTIME: 1405099626.000000\n"
 
 #. These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
 #: newsletter.lang:3
@@ -49,7 +49,7 @@ msgstr "Davlat:"
 
 #: newsletter.lang:35
 msgid "Whoops! Be sure to enter a valid email address."
-msgstr "Obbo! To‘g‘ri e-pochta manzilni kiritmaganga o‘xshaysiz."
+msgstr "Obbo! To‘g‘ri e-pochta manzilini kiritmadingiz."
 
 #: newsletter.lang:39
 msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
@@ -79,6 +79,10 @@ msgid ""
 "out of Firefox, as well as exciting news about Mozilla and how we’re working "
 "to create a better Web."
 msgstr ""
+"Biz tezda \"Firefox\"dan maksimal darajada foydalanishga imkon beradigan "
+"foydali maslahatlar va usullar bilan bo‘lisha boshlaymiz. Shuningdek, "
+"internetni yaxshilash uchun qanday ishlayotganligimiz bo‘yicha va Mozilla "
+"haqidagi qiziqarli yangiliklardan ham bahra olasiz."
 
 #: newsletter.lang:63
 msgid ""
@@ -86,6 +90,10 @@ msgid ""
 "the latest tips and tricks for getting the most out of your Firefox browser. "
 "It’s the perfect way for us to keep in touch!"
 msgstr ""
+"Oylik yangiliklarga obuna bo‘ling va joriy Mozilla yangiliklaridan xabardor "
+"bo‘ling, shuningdek, \"Firefox\" brauzeridan maksimal darajada foydalanish "
+"uchun so‘nggi maslahatlar va sirlardan ham boxabar bo‘lishingiz mumkin. Bu "
+"siz bilan aloqada qolishning eng maqbul yo‘lidir."
 
 #: newsletter.lang:66
 msgid ""
@@ -103,7 +111,7 @@ msgstr ""
 
 #: newsletter.lang:73
 msgid "Your newsletter subscription has been confirmed."
-msgstr "Sizning yangiliklarga obunangiz tasdiqlandi."
+msgstr "Yangilik xabarlariga obunangiz tasdiqlandi."
 
 #: newsletter.lang:76
 msgid "Format"
@@ -128,7 +136,7 @@ msgstr "Firefox va siz"
 
 #: newsletter.lang:89
 msgid "Our Other Newsletters:"
-msgstr "Bizning boshqa yangilik xabarlarimiz:"
+msgstr "Bizning boshqa yangiliklar xabarlarimiz:"
 
 #: newsletter.lang:92
 msgid ""
@@ -175,7 +183,7 @@ msgstr ""
 
 #: newsletter.lang:116
 msgid "Manage your <span>Newsletter Subscriptions</span>"
-msgstr "<span>Yangiliklarga obuna bo‘lish</span>ni boshqarish"
+msgstr "<span>Yangiliklar xabarlariga obuna bo‘lish</span>ni boshqarish"
 
 #: newsletter.lang:120
 msgid "Subscribe"
@@ -183,7 +191,7 @@ msgstr "Obuna bo‘lish"
 
 #: newsletter.lang:124
 msgid "Unsubscribe"
-msgstr "Obunani bekor qilish"
+msgstr "Obunadan voz kechish"
 
 #: newsletter.lang:128
 msgid "Check here if you’d like to be removed from all Mozilla emails"
@@ -230,7 +238,9 @@ msgstr "Menga bunga yozilmagandim."
 
 #: newsletter.lang:166
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
-msgstr "Mozilla bilan aloqani Facebook va Twitter orqali olib bormoqchiman."
+msgstr ""
+"Men Mozilla bilan \"Facebook\"da va \"Twitter\"da to‘g‘ridan to‘g‘ri aloqa "
+"bog‘laganman."
 
 #: newsletter.lang:170
 msgid "Submit"
@@ -256,12 +266,18 @@ msgid ""
 "subscription. If you don't see it, check your spam filter. You must confirm "
 "your subscription to receive our newsletter."
 msgstr ""
+"Siz mozilla@e.mozilla.org saytidan obunani tasdiqlash haqidagi xabarni "
+"olasiz. Agar uni ko‘rmasangiz, spam filterini tekshirib ko‘ring. Bizning "
+"yangiliklar xabarlarimizni olishingiz uchun obunani tasdiqlashingiz kerak."
 
 #: newsletter.lang:189
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
 msgstr ""
+"Xatlarimizni pochtangizning kiruvchi xatlar jildiga tushishi uchun bizning "
+"jo‘natuvchi e-pochta manzilimiz: mozilla@e.mozilla.org manzilini manzillar "
+"kitobingizga kiritib qo‘yishni unutmang."
 
 #. This string is used for a subscription field on other pages than /newsletter/
 #: newsletter.lang:194
@@ -275,29 +291,34 @@ msgstr "YOUR EMAIL HERE"
 
 #. Button
 #: newsletter.lang:203
-#, fuzzy
 msgid "Sign me up"
-msgstr "Meni ro‘yxatga ol!"
+msgstr "Yozilish"
 
 #: newsletter.lang:207
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
 msgstr ""
+"\"Mozilla\"ning mening ma’lumotlarim bilan ishlshiga <a href=\"%s\">ushbu "
+"Maxfiylik siyosati</a>ga muvofiq roziman."
 
 #: newsletter.lang:211
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
 msgstr ""
+"Ko‘rsatilgan link eskirgan. Keyingi yangiliklar xabarlarida yangisini qabul "
+"qilasiz."
 
 #: newsletter.lang:215
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr ""
+"Kechirasiz, tizimimizda qandaydir muammo bo‘ldi! Iltimos, keyinroq yana "
+"urinib ko‘ring."
 
 #: newsletter.lang:219
 msgid "English&nbsp;only"
-msgstr ""
+msgstr "Faqan ingliz tilida"
 
 #: newsletter.lang:223
 msgid "Newsletter Subscriptions"
@@ -347,58 +368,68 @@ msgstr "\"Mobil uchun Firefox\"ni yuklab oling!"
 
 #: newsletter.lang:267
 msgid "Added extras"
-msgstr ""
+msgstr "Yangi tryuklar qo‘shing"
 
 #: newsletter.lang:271
 msgid "Make Firefox do more with add-ons."
 msgstr ""
+"Qo‘shimcha dasturlar yordamida \"Firefox\" bilan ko‘proq ishlarni qilishni "
+"o‘rganing."
 
 #: newsletter.lang:275
 msgid "Find out how!"
-msgstr ""
+msgstr "Qanday qilishni o‘rganing!"
 
 #: newsletter.lang:279
-#, fuzzy
 msgid "About us"
 msgstr "Biz haqimizda"
 
 #: newsletter.lang:283
 msgid "What’s Mozilla all about?"
-msgstr ""
+msgstr "Mozilla ishiga nimalar kiradi?"
 
 #: newsletter.lang:287
 msgid "We’re glad you asked!"
-msgstr ""
+msgstr "So‘raganingizdan xursandmiz!"
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:292
 msgid ""
 "A monthly newsletter packed with tips to improve your Firefox experience."
 msgstr ""
+"\"Firefox\" bilan ishlashni yaxshilash uchun maslahatlar mavjud oylik "
+"yangiliklar xabarlari."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:297
 msgid "Tips and tricks to use Firefox on your Android phone."
 msgstr ""
+"\"Firefox\"dan Android telefoningizda foydalanish bo‘yicha maslahatlar va "
+"ayyorliklar."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:302
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr ""
+"Firefox OS yangiliklari, maslahatlari, ishga tushirish va qayerdan qurilma "
+"sotib olish bo‘yicha ma’lumotlar."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:307
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr ""
+"\"Firefox OS\"da o‘zingiz uchun eng yangi qoyilmaqom HTML5 ilova "
+"dasturlarini kashf qiling."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:312
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr ""
+"Firefox bilan ishlashda tajriba yig‘ishda sizga yordam beradigan "
+"maslahatlarni har hafta olib turing."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:317
-#, fuzzy
 msgctxt "./newsletter.lang:317"
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
@@ -410,12 +441,14 @@ msgstr ""
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:322
 msgid "News from the Mozilla Project."
-msgstr ""
+msgstr "Mozilla loyihasidan yangiliklar."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:327
 msgid "Periodic email updates about our annual international film competition."
 msgstr ""
+"Bizning har yillik xalqaro filmlar konkursimiz haqidagi davriy "
+"yangilanishlar."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:332
@@ -423,6 +456,8 @@ msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
 msgstr ""
+"\"Firefox Affiliates\" dasturlari yangiliklari mavjud har oylik yangiliklar "
+"xabarlari."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:337
@@ -430,11 +465,15 @@ msgid ""
 "News for developers about Firefox OS, Firefox Marketplace and the Open Web "
 "apps ecosystem."
 msgstr ""
+"Firefox OS, Firefox Marketplace do‘koni va ochiq veb-ilova dasturlar "
+"ekosistemasi haqidagi dasturchilar uchun yangiliklar."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:342
 msgid "Email updates for vouched Mozillians on mozillians.org."
 msgstr ""
+"mozillians.org saytidagi topshirilgan Mozillaliklar uchun pochta "
+"yangilanishlari."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:347
