@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-28 13:33+0100\n"
+"POT-Creation-Date: 2014-07-16 15:14+0100\n"
 "PO-Revision-Date: 2014-06-12 18:13+0000\n"
 "Last-Translator: umesh <umesh.agarwal1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1402596809.000000\n"
 
 #. # NOTE: https://www-dev.allizom.org/firefox/os/
@@ -61,21 +61,26 @@ msgstr "संगीत"
 msgid "Maps"
 msgstr "नक्शे"
 
-#. Icon bar item
+#. Icon bar item. This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
 #: firefox/os/index.lang:51
+msgid "Dual SIM"
+msgstr ""
+
+#. Icon bar item
+#: firefox/os/index.lang:56
 msgid "Messages"
 msgstr "संदेश"
 
 #. Icon bar item
-#: firefox/os/index.lang:56
+#: firefox/os/index.lang:61
 msgid "Marketplace"
 msgstr "मार्केटप्लेस"
 
-#: firefox/os/index.lang:60
+#: firefox/os/index.lang:65
 msgid "Make every <br>moment count"
 msgstr "हर पल <br> महत्त्वपूर्ण बनाओ"
 
-#: firefox/os/index.lang:64
+#: firefox/os/index.lang:69
 msgid ""
 "Your needs change from one moment to the next. That’s why Firefox OS does "
 "the same. It gives you the power to live every moment to its fullest and "
@@ -85,19 +90,19 @@ msgstr ""
 "आपको अपनी पूरी करने के लिए हर पल रहते हैं और एक बेहतर दुनिया के भाग लेने की शक्ति देता है."
 
 #. Button
-#: firefox/os/index.lang:69
+#: firefox/os/index.lang:74
 msgid "Get a Firefox OS smartphone today"
 msgstr "आज एक फ़ायरफ़ॉक्स ओएस स्मार्टफोन पाएँ"
 
-#: firefox/os/index.lang:73
+#: firefox/os/index.lang:78
 msgid "Sign up for our monthly newsletter and get the latest on Firefox OS"
 msgstr "हमारे मासिक न्यूज़लेटर के लिए साइन अप करें और फायरफॉक्स ओएस पर नवीनतम पाएँ"
 
-#: firefox/os/index.lang:77
+#: firefox/os/index.lang:82
 msgid "It adapts, so you <br>can too"
 msgstr "यह अनुकूल बनाना, तो आप <br> भी कर सकते हैं"
 
-#: firefox/os/index.lang:81
+#: firefox/os/index.lang:86
 msgid ""
 "Firefox OS anticipates your needs, adapts to every situation and instantly "
 "delivers the <br>information you want."
@@ -105,7 +110,7 @@ msgstr ""
 "फ़ायरफ़ॉक्स ओएस अपनी आवश्यकताओं की आशंका, हर स्थिति के लिए अनुकूल बनाना और तुरन्त आप "
 "चाहते <br> जानकारी बचाता है."
 
-#: firefox/os/index.lang:85
+#: firefox/os/index.lang:90
 msgid ""
 "That includes popular, big name apps, but also local content that means the "
 "most to you and your life."
@@ -114,32 +119,32 @@ msgstr ""
 "के लिए सबसे मतलब है."
 
 #. Title
-#: firefox/os/index.lang:90
+#: firefox/os/index.lang:95
 msgid "Adaptive App Search"
 msgstr "अनुकूली App खोज"
 
-#: firefox/os/index.lang:94
+#: firefox/os/index.lang:99
 msgid "Type a word or subject you’re interested in"
 msgstr "आप में रुचि रखते हैं,एक शब्द या विषय टाइप करें"
 
-#: firefox/os/index.lang:98
+#: firefox/os/index.lang:103
 msgid "Find exactly what you want — and more"
 msgstr "आप क्या चाहते पता लगाएं — और अधिक"
 
-#: firefox/os/index.lang:102
+#: firefox/os/index.lang:107
 msgid "Get instant access or save apps to your phone"
 msgstr "तुरंत पहुँच प्राप्त करें या अपने फोन के लिए क्षुधा को बचाने"
 
-#: firefox/os/index.lang:106
+#: firefox/os/index.lang:111
 msgid "Discover more apps on Firefox Marketplace"
 msgstr "फ़ायरफ़ॉक्स बाज़ार पर अधिक क्षुधा डिस्कवर"
 
 #. Title
-#: firefox/os/index.lang:111
+#: firefox/os/index.lang:116
 msgid "Have it all"
 msgstr "यह सब"
 
-#: firefox/os/index.lang:115
+#: firefox/os/index.lang:120
 msgid ""
 "Firefox OS is packed with the features that made you want a smartphone in "
 "the first place. It fits your life perfectly so you can fit in with the "
@@ -150,77 +155,89 @@ msgstr ""
 "बैठता है."
 
 #. Title
-#: firefox/os/index.lang:119
+#: firefox/os/index.lang:124
 msgid "Made for the moments of your life"
 msgstr "अपने जीवन के क्षणों के लिए बने"
 
 #. Title
-#: firefox/os/index.lang:124
+#: firefox/os/index.lang:129
 msgid "Moments with friends"
 msgstr "दोस्तों के साथ लम्हें"
 
-#: firefox/os/index.lang:128
+#: firefox/os/index.lang:133
 msgid ""
 "Import your contacts directly from Facebook and share updates instantly."
 msgstr "फेसबुक से सीधे अपने संपर्कों का आयात और तुरंत अपडेट का हिस्सा है."
 
 #. title
-#: firefox/os/index.lang:132
+#: firefox/os/index.lang:137
 msgid "Creative moments"
 msgstr "रचनात्मक क्षणों"
 
-#: firefox/os/index.lang:136
+#: firefox/os/index.lang:141
 msgid ""
 "Take photos on the go then make them amazing using built-in style filters."
 msgstr "जाने पर फोटो तो उन्हें कमाल कर लो का उपयोग में निर्मित शैली फिल्टर."
 
 #. Title
-#: firefox/os/index.lang:140
+#: firefox/os/index.lang:145
 msgid "Moments that entertain"
 msgstr "मनोरंजन करते लम्हें"
 
-#: firefox/os/index.lang:144
+#: firefox/os/index.lang:149
 msgid ""
 "Listen to your favorite songs, artists and radio stations, all from one "
 "device."
 msgstr "अपने पसंदीदा गाने सुनने, कलाकारों और रेडियो स्टेशनों, सभी एक उपकरण से."
 
 #. Title
-#: firefox/os/index.lang:149
+#: firefox/os/index.lang:154
 msgid "Moments in between"
 msgstr "बीच में लम्हें"
 
-#: firefox/os/index.lang:153
+#: firefox/os/index.lang:158
 msgid ""
 "Get to where you’re going with directions, traffic and local transit "
 "information."
 msgstr ""
 "आप दिशाओं के साथ जा रहे हैं, जहां के लिए जाओ, यातायात और स्थानीय पारगमन जानकारी."
 
+#. Title: This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
+#: firefox/os/index.lang:163
+msgid "Moments of choice"
+msgstr ""
+
+#. Title: This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
+#: firefox/os/index.lang:168
+msgid ""
+"Take full control of calls and messages with dual SIM and dual standby "
+"functionality."
+msgstr ""
+
 #. Title
-#: firefox/os/index.lang:158
+#: firefox/os/index.lang:173
 msgid "Moments of connection"
 msgstr "कनेक्शन के क्षण"
 
-#: firefox/os/index.lang:162
+#: firefox/os/index.lang:177
 msgid "Stay in touch with family and friends by email and text message."
 msgstr "ईमेल और पाठ संदेश द्वारा परिवार और दोस्तों के साथ संपर्क में रहो."
 
 #. Title
-#: firefox/os/index.lang:167
+#: firefox/os/index.lang:182
 msgid "Moments of discovery"
 msgstr "खोज के क्षण"
 
-#: firefox/os/index.lang:171
+#: firefox/os/index.lang:186
 msgid "Find the best apps from around the world and your own backyard."
 msgstr "दुनिया भर से सर्वश्रेष्ठ apps और अपने खुद के पिछवाड़े का पता लगाएं."
 
 #. Title
-#: firefox/os/index.lang:176
+#: firefox/os/index.lang:191
 msgid "Transform the future"
 msgstr "भविष्य बदल"
 
-#: firefox/os/index.lang:180
+#: firefox/os/index.lang:195
 msgid ""
 "We’re out to make a difference, not a profit. When you choose Firefox OS, "
 "you’re helping build a brighter future for the Web and users everywhere."
@@ -229,11 +246,11 @@ msgstr ""
 "लिए एक उज्जवल भविष्य का निर्माण कर रहे हैं मदद और हर जगह उपयोगकर्ताओं."
 
 #. Title
-#: firefox/os/index.lang:185
+#: firefox/os/index.lang:200
 msgid "From our community to yours"
 msgstr "तुम्हारा को हमारे समुदाय से"
 
-#: firefox/os/index.lang:189
+#: firefox/os/index.lang:204
 msgid ""
 "Most smartphones are made by a small number of people, all in one place, "
 "probably pretty far from where you live. Firefox OS phones are different. "
@@ -245,11 +262,11 @@ msgstr ""
 "हैं कि केवल स्मार्टफोन्स और क्या आप चाहते हैं उद्धार और आवश्यकता."
 
 #. Title
-#: firefox/os/index.lang:194
+#: firefox/os/index.lang:209
 msgid "The best of the Web"
 msgstr "वेब के सर्वश्रेष्ठ"
 
-#: firefox/os/index.lang:198
+#: firefox/os/index.lang:213
 msgid ""
 "Firefox changed browsing forever by putting users first and offering a new "
 "level of choice and innovation online. Now we’re doing it all over again "
@@ -264,11 +281,11 @@ msgstr ""
 "अच्छा मिलता है."
 
 #. Title
-#: firefox/os/index.lang:202
+#: firefox/os/index.lang:217
 msgid "For partners &amp; developers:"
 msgstr "भागीदारों के लिए &amp; डेवलपर्स:"
 
-#: firefox/os/index.lang:205
+#: firefox/os/index.lang:220
 msgid ""
 "Learn about partnership opportunities <a href=\"%(link)s\">Visit the Firefox "
 "OS partner site</a>"
@@ -276,7 +293,7 @@ msgstr ""
 "साझेदारी के अवसरों के बारे में जानें<a href=\"%(link)s\">फ़ायरफ़ॉक्स ओएस साथी साइट पर "
 "जाएँ</a>"
 
-#: firefox/os/index.lang:209
+#: firefox/os/index.lang:224
 msgid ""
 "Get your app on Firefox OS <a href=\"%(link)s\">Submit it to Firefox "
 "Marketplace</a>"
@@ -285,11 +302,11 @@ msgstr ""
 "सबमिट करें</a>"
 
 #. Title
-#: firefox/os/index.lang:214
+#: firefox/os/index.lang:229
 msgid "For users:"
 msgstr "उपयोगकर्ताओं के लिए:"
 
-#: firefox/os/index.lang:218
+#: firefox/os/index.lang:233
 msgid ""
 "In case you need a little help <a href=\"%(link)s\">Get it from your friends "
 "at Mozilla Support</a>"
@@ -297,7 +314,7 @@ msgstr ""
 "मामले में आप एक छोटी सी मदद की ज़रूरत है <a href=\"%(link)s\">मोज़िला समर्थन में अपने "
 "मित्रों से प्राप्त करें</a>"
 
-#: firefox/os/index.lang:222
+#: firefox/os/index.lang:237
 msgid ""
 "All your questions will be answered <a href=\"%(link)s\">Read our extra "
 "helpful FAQ</a>"
@@ -306,51 +323,51 @@ msgstr ""
 "पढ़ें</a>"
 
 #. image alt text
-#: firefox/os/index.lang:227
+#: firefox/os/index.lang:242
 msgid "Email app"
 msgstr "ईमेल app"
 
 #. image alt text
-#: firefox/os/index.lang:232
+#: firefox/os/index.lang:247
 msgid "Contacts app"
 msgstr "संपर्क app"
 
 #. image alt text
-#: firefox/os/index.lang:237
+#: firefox/os/index.lang:252
 msgid "Messages app"
 msgstr "संदेश app"
 
 #. image alt text
-#: firefox/os/index.lang:242
+#: firefox/os/index.lang:257
 msgid "Camera app"
 msgstr "कैमरा app"
 
 #. image alt text
-#: firefox/os/index.lang:247
+#: firefox/os/index.lang:262
 msgid "Facebook app"
 msgstr "फेसबुक app"
 
 #. image alt text
-#: firefox/os/index.lang:252
+#: firefox/os/index.lang:267
 msgid "Maps app"
 msgstr "मैप्स app"
 
 #. image alt text
-#: firefox/os/index.lang:257
+#: firefox/os/index.lang:272
 msgid "Photos app"
 msgstr "तस्वीरें app"
 
 #. image alt text
-#: firefox/os/index.lang:262
+#: firefox/os/index.lang:277
 msgid "Music app"
 msgstr "संगीत app"
 
 #. image alt text
-#: firefox/os/index.lang:267
+#: firefox/os/index.lang:282
 msgid "Radio app"
 msgstr "रेडियो app"
 
-#: firefox/os/index.lang:271
+#: firefox/os/index.lang:286
 msgid ""
 "We work with a number of providers to offer Firefox OS on a variety of "
 "devices."
@@ -359,7 +376,7 @@ msgstr ""
 "काम करते हैं."
 
 #. Case 1: There are several phone providers
-#: firefox/os/index.lang:276
+#: firefox/os/index.lang:291
 msgid ""
 "Choose one from the list below to get a Firefox OS smartphone in your "
 "country."
@@ -368,28 +385,28 @@ msgstr ""
 "चुनें."
 
 #. Case 2: There is only one provider in the country
-#: firefox/os/index.lang:281
+#: firefox/os/index.lang:296
 msgid ""
 "Click on the provider below to get a Firefox OS smartphone in your country."
 msgstr ""
 "अपने देश में एक फ़ायरफ़ॉक्स ओएस स्मार्टफोन प्राप्त करने के लिए नीचे दिए गए प्रदाता पर क्लिक "
 "करें."
 
-#: firefox/os/index.lang:285
+#: firefox/os/index.lang:300
 msgid "Sign up for our monthly newsletter"
 msgstr "हमारे मासिक न्यूज़लेटर के लिए साइन अप करें"
 
-#: firefox/os/index.lang:289
+#: firefox/os/index.lang:304
 msgid "Thank you for signing up!"
 msgstr "साइन अप करने के लिए धन्यवाद!"
 
 #. Page <title> tag, also used for search engines
-#: firefox/os/index.lang:294
+#: firefox/os/index.lang:309
 msgid ""
 "Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More"
 msgstr "फ़ायरफ़ॉक्स ओएस — अनुकूली फोन — महान स्मार्टफोन सुविधाओं, Apps और अधिक"
 
-#: firefox/os/index.lang:298
+#: firefox/os/index.lang:313
 msgid ""
 "View the version notes <a href=\"%(link)s\">Read about features, changes and "
 "more</a>"

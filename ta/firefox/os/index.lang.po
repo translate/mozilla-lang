@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-08 10:27+0100\n"
+"POT-Creation-Date: 2014-07-16 15:14+0100\n"
 "PO-Revision-Date: 2014-06-25 08:11+0000\n"
 "Last-Translator: Arun Kumar <thangam.arunx@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1403683866.000000\n"
 
 #. # NOTE: https://www-dev.allizom.org/firefox/os/
@@ -62,21 +62,26 @@ msgstr "இசை"
 msgid "Maps"
 msgstr "வரைபடங்கள்"
 
-#. Icon bar item
+#. Icon bar item. This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
 #: firefox/os/index.lang:51
+msgid "Dual SIM"
+msgstr ""
+
+#. Icon bar item
+#: firefox/os/index.lang:56
 msgid "Messages"
 msgstr "செய்திகள்"
 
 #. Icon bar item
-#: firefox/os/index.lang:56
+#: firefox/os/index.lang:61
 msgid "Marketplace"
 msgstr "சந்தை"
 
-#: firefox/os/index.lang:60
+#: firefox/os/index.lang:65
 msgid "Make every <br>moment count"
 msgstr "ஒவ்வொரு <br>தருணத்தையும் கணக்கிடு"
 
-#: firefox/os/index.lang:64
+#: firefox/os/index.lang:69
 msgid ""
 "Your needs change from one moment to the next. That’s why Firefox OS does "
 "the same. It gives you the power to live every moment to its fullest and "
@@ -87,19 +92,19 @@ msgstr ""
 "உலகத்தில் பங்கேற்ககூடிய வாய்ப்பையும் அளிக்கிறது."
 
 #. Button
-#: firefox/os/index.lang:69
+#: firefox/os/index.lang:74
 msgid "Get a Firefox OS smartphone today"
 msgstr "இன்றே ஒரு Firefox OS சாதனத்தை பெறுக"
 
-#: firefox/os/index.lang:73
+#: firefox/os/index.lang:78
 msgid "Sign up for our monthly newsletter and get the latest on Firefox OS"
 msgstr "மாத செய்திமடல் பெற பதிவு செய்து, Firefox OS பற்றிய உடனடி செய்திகளை பெறுங்கள்"
 
-#: firefox/os/index.lang:77
+#: firefox/os/index.lang:82
 msgid "It adapts, so you <br>can too"
 msgstr "இது மாறுகிறது, எனவே உங்களாலும் <br>முடியும்"
 
-#: firefox/os/index.lang:81
+#: firefox/os/index.lang:86
 msgid ""
 "Firefox OS anticipates your needs, adapts to every situation and instantly "
 "delivers the <br>information you want."
@@ -107,7 +112,7 @@ msgstr ""
 "Firefox OS உங்கள் தேவைகளை அறிந்து, ஒவ்வொரு தருணத்திற்கும் தகவமைக்கிறது, உங்களுக்கு "
 "தேவையான தகவல்களை<br>உடனடியாக தருகிறது."
 
-#: firefox/os/index.lang:85
+#: firefox/os/index.lang:90
 msgid ""
 "That includes popular, big name apps, but also local content that means the "
 "most to you and your life."
@@ -116,32 +121,32 @@ msgstr ""
 "உங்கள் வாழ்க்கைக்கும் தேவையான உள்ளூர் உள்ளடக்கமும் உள்ளது."
 
 #. Title
-#: firefox/os/index.lang:90
+#: firefox/os/index.lang:95
 msgid "Adaptive App Search"
 msgstr "தகவமைக்கப்பட்ட பயன்பாட்டு தேடல்"
 
-#: firefox/os/index.lang:94
+#: firefox/os/index.lang:99
 msgid "Type a word or subject you’re interested in"
 msgstr "உங்களுக்கு விருப்பமான வார்த்தையையோ பாடத்தையோ உள்ளிடுங்கள்"
 
-#: firefox/os/index.lang:98
+#: firefox/os/index.lang:103
 msgid "Find exactly what you want — and more"
 msgstr "உங்களின் தேவைக்கேற்ப கண்டுபிடிக்க — கூடுதலாகவும்"
 
-#: firefox/os/index.lang:102
+#: firefox/os/index.lang:107
 msgid "Get instant access or save apps to your phone"
 msgstr "உடனடியாக அணுக அல்லது பயன்பாடுகளை உங்களுடைய செல்பேசியில் சேமிக்க"
 
-#: firefox/os/index.lang:106
+#: firefox/os/index.lang:111
 msgid "Discover more apps on Firefox Marketplace"
 msgstr "பயர்பாக்ஸ் சந்தையில் கூடுதலான பயன்பாடுகளைக் காண"
 
 #. Title
-#: firefox/os/index.lang:111
+#: firefox/os/index.lang:116
 msgid "Have it all"
 msgstr "இவை அனைத்தையும் வைத்திரு"
 
-#: firefox/os/index.lang:115
+#: firefox/os/index.lang:120
 msgid ""
 "Firefox OS is packed with the features that made you want a smartphone in "
 "the first place. It fits your life perfectly so you can fit in with the "
@@ -151,27 +156,27 @@ msgstr ""
 "உங்கள் வாழ்க்கையை சுற்றியுள்ள உலகத்துடன் கச்சிதமாக பொருத்தும்."
 
 #. Title
-#: firefox/os/index.lang:119
+#: firefox/os/index.lang:124
 msgid "Made for the moments of your life"
 msgstr "உங்கள் வாழ்க்கையின் சிறந்த தருணங்களுக்காக உருவாக்கப்பட்டது"
 
 #. Title
-#: firefox/os/index.lang:124
+#: firefox/os/index.lang:129
 msgid "Moments with friends"
 msgstr "நண்பர்களுடன் இருந்த தருணம்"
 
-#: firefox/os/index.lang:128
+#: firefox/os/index.lang:133
 msgid ""
 "Import your contacts directly from Facebook and share updates instantly."
 msgstr ""
 "முகநூலில் இருந்து நேரடியாக தொடர்புகளை இறக்கி நிலைகளை உடனடியாக பகிர தொடங்குகள்."
 
 #. title
-#: firefox/os/index.lang:132
+#: firefox/os/index.lang:137
 msgid "Creative moments"
 msgstr "ஆக்க தருணங்கள்"
 
-#: firefox/os/index.lang:136
+#: firefox/os/index.lang:141
 msgid ""
 "Take photos on the go then make them amazing using built-in style filters."
 msgstr ""
@@ -179,11 +184,11 @@ msgstr ""
 "பிரமாதப்படுத்துங்கள்."
 
 #. Title
-#: firefox/os/index.lang:140
+#: firefox/os/index.lang:145
 msgid "Moments that entertain"
 msgstr "மகிழ்வுட்டும் தருணங்கள்"
 
-#: firefox/os/index.lang:144
+#: firefox/os/index.lang:149
 msgid ""
 "Listen to your favorite songs, artists and radio stations, all from one "
 "device."
@@ -192,41 +197,53 @@ msgstr ""
 "சாதனத்தில்."
 
 #. Title
-#: firefox/os/index.lang:149
+#: firefox/os/index.lang:154
 msgid "Moments in between"
 msgstr "இடை நிகழும் தருணங்கள்"
 
-#: firefox/os/index.lang:153
+#: firefox/os/index.lang:158
 msgid ""
 "Get to where you’re going with directions, traffic and local transit "
 "information."
 msgstr ""
 "வழிகள், நெரிசல் மற்றும் உள்ளூர் போக்குவரத்து தகவல்களுடன் செல்லும் இடங்களுக்கு சென்றிடுங்கள்."
 
+#. Title: This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
+#: firefox/os/index.lang:163
+msgid "Moments of choice"
+msgstr ""
+
+#. Title: This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
+#: firefox/os/index.lang:168
+msgid ""
+"Take full control of calls and messages with dual SIM and dual standby "
+"functionality."
+msgstr ""
+
 #. Title
-#: firefox/os/index.lang:158
+#: firefox/os/index.lang:173
 msgid "Moments of connection"
 msgstr "கூடும் தருணங்கள்"
 
-#: firefox/os/index.lang:162
+#: firefox/os/index.lang:177
 msgid "Stay in touch with family and friends by email and text message."
 msgstr "மின்னஞ்சல் மற்றும் உரை செய்திகளால் நண்பர்கள் மற்றும் குடும்பத்தினருடன் தொடர்பிலிருங்கள்."
 
 #. Title
-#: firefox/os/index.lang:167
+#: firefox/os/index.lang:182
 msgid "Moments of discovery"
 msgstr "கண்டறியும் தருணங்கள்"
 
-#: firefox/os/index.lang:171
+#: firefox/os/index.lang:186
 msgid "Find the best apps from around the world and your own backyard."
 msgstr "உலகின் மற்றும் உங்கள் சொந்த இடத்தில் இருந்து சிறந்த பயன்பாடுகளை காணுங்கள்."
 
 #. Title
-#: firefox/os/index.lang:176
+#: firefox/os/index.lang:191
 msgid "Transform the future"
 msgstr "எதிர்காலத்தை மாற்றுங்கள்"
 
-#: firefox/os/index.lang:180
+#: firefox/os/index.lang:195
 msgid ""
 "We’re out to make a difference, not a profit. When you choose Firefox OS, "
 "you’re helping build a brighter future for the Web and users everywhere."
@@ -236,11 +253,11 @@ msgstr ""
 "உதவுகிறீர்கள்."
 
 #. Title
-#: firefox/os/index.lang:185
+#: firefox/os/index.lang:200
 msgid "From our community to yours"
 msgstr "எங்கள் சமுகங்களிலிருந்து உங்களுக்கு"
 
-#: firefox/os/index.lang:189
+#: firefox/os/index.lang:204
 msgid ""
 "Most smartphones are made by a small number of people, all in one place, "
 "probably pretty far from where you live. Firefox OS phones are different. "
@@ -253,11 +270,11 @@ msgstr ""
 "ஒரே திறன்பேசி ஆகும்."
 
 #. Title
-#: firefox/os/index.lang:194
+#: firefox/os/index.lang:209
 msgid "The best of the Web"
 msgstr "வலையில் சிறந்தது"
 
-#: firefox/os/index.lang:198
+#: firefox/os/index.lang:213
 msgid ""
 "Firefox changed browsing forever by putting users first and offering a new "
 "level of choice and innovation online. Now we’re doing it all over again "
@@ -272,11 +289,11 @@ msgstr ""
 "வாழ்க்கையின் கட்டுபாட்டை பெறுங்கள்."
 
 #. Title
-#: firefox/os/index.lang:202
+#: firefox/os/index.lang:217
 msgid "For partners &amp; developers:"
 msgstr "கூட்டாளிகளுக்கும் &amp; உருவாக்குனருக்கும்:"
 
-#: firefox/os/index.lang:205
+#: firefox/os/index.lang:220
 msgid ""
 "Learn about partnership opportunities <a href=\"%(link)s\">Visit the Firefox "
 "OS partner site</a>"
@@ -284,7 +301,7 @@ msgstr ""
 "கூட்டணி வாய்ப்புகளை தெரிந்துகொள்ளுங்கள் <a href=\"%(link)s\">Firefox OS "
 "கூட்டாளிகளுக்கான தளத்தை பாருங்கள்</a>"
 
-#: firefox/os/index.lang:209
+#: firefox/os/index.lang:224
 msgid ""
 "Get your app on Firefox OS <a href=\"%(link)s\">Submit it to Firefox "
 "Marketplace</a>"
@@ -293,11 +310,11 @@ msgstr ""
 "சமர்ப்பியுங்கள்</a>"
 
 #. Title
-#: firefox/os/index.lang:214
+#: firefox/os/index.lang:229
 msgid "For users:"
 msgstr "பயனாளிகளுக்கு:"
 
-#: firefox/os/index.lang:218
+#: firefox/os/index.lang:233
 msgid ""
 "In case you need a little help <a href=\"%(link)s\">Get it from your friends "
 "at Mozilla Support</a>"
@@ -305,7 +322,7 @@ msgstr ""
 "உங்களுக்கு உதவி தேவைபட்டால் <a href=\"%(link)s\">மொசில்லா உதவியில் உள்ள உங்கள் "
 "நண்பர்களிடம் இருந்து பெறுங்கள்</a>"
 
-#: firefox/os/index.lang:222
+#: firefox/os/index.lang:237
 msgid ""
 "All your questions will be answered <a href=\"%(link)s\">Read our extra "
 "helpful FAQ</a>"
@@ -314,51 +331,51 @@ msgstr ""
 "உதவிகரமான அடிக்கடி கேட்கப்படும் கேள்விகளை படியுங்கள்</a>"
 
 #. image alt text
-#: firefox/os/index.lang:227
+#: firefox/os/index.lang:242
 msgid "Email app"
 msgstr "மின்னஞ்சல் பயன்பாடு"
 
 #. image alt text
-#: firefox/os/index.lang:232
+#: firefox/os/index.lang:247
 msgid "Contacts app"
 msgstr "தொடர்புகள் பயன்பாடு"
 
 #. image alt text
-#: firefox/os/index.lang:237
+#: firefox/os/index.lang:252
 msgid "Messages app"
 msgstr "செய்திகள் பயன்பாடு"
 
 #. image alt text
-#: firefox/os/index.lang:242
+#: firefox/os/index.lang:257
 msgid "Camera app"
 msgstr "படகருவி பயன்பாடு"
 
 #. image alt text
-#: firefox/os/index.lang:247
+#: firefox/os/index.lang:262
 msgid "Facebook app"
 msgstr "முகநூல் பயன்பாடு"
 
 #. image alt text
-#: firefox/os/index.lang:252
+#: firefox/os/index.lang:267
 msgid "Maps app"
 msgstr "வரைபட பயன்பாடு"
 
 #. image alt text
-#: firefox/os/index.lang:257
+#: firefox/os/index.lang:272
 msgid "Photos app"
 msgstr "பட பயன்பாடு"
 
 #. image alt text
-#: firefox/os/index.lang:262
+#: firefox/os/index.lang:277
 msgid "Music app"
 msgstr "இசை பயன்பாடு"
 
 #. image alt text
-#: firefox/os/index.lang:267
+#: firefox/os/index.lang:282
 msgid "Radio app"
 msgstr "வானொலி பயன்பாடு"
 
-#: firefox/os/index.lang:271
+#: firefox/os/index.lang:286
 msgid ""
 "We work with a number of providers to offer Firefox OS on a variety of "
 "devices."
@@ -366,35 +383,35 @@ msgstr ""
 "Firefox OS பலதரப்பட்ட சாதனத்தில் வழங்க நாங்கள் பல வழங்குனர்களுடன் பணிபுரிந்து வருகிறோம்."
 
 #. Case 1: There are several phone providers
-#: firefox/os/index.lang:276
+#: firefox/os/index.lang:291
 msgid ""
 "Choose one from the list below to get a Firefox OS smartphone in your "
 "country."
 msgstr "உங்கள் நாட்டில் Firefox OS பெற கீழ் உள்ள பட்டியலிருந்து ஒன்றை தேர்ந்தெடுக்கவும்."
 
 #. Case 2: There is only one provider in the country
-#: firefox/os/index.lang:281
+#: firefox/os/index.lang:296
 msgid ""
 "Click on the provider below to get a Firefox OS smartphone in your country."
 msgstr "உங்கள் நாட்டில் Firefox OS பெற கீழ் உள்ள சேவை வழங்குனரை தேர்ந்தெடுக்கவும்."
 
-#: firefox/os/index.lang:285
+#: firefox/os/index.lang:300
 msgid "Sign up for our monthly newsletter"
 msgstr "மாத செய்திமடலை பெற பதிவு செய்க"
 
-#: firefox/os/index.lang:289
+#: firefox/os/index.lang:304
 msgid "Thank you for signing up!"
 msgstr "பதிவு பெற்றதற்கு நன்றி!"
 
 #. Page <title> tag, also used for search engines
-#: firefox/os/index.lang:294
+#: firefox/os/index.lang:309
 msgid ""
 "Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More"
 msgstr ""
 "Firefox OS — தகவமைக்கத்தக்க திறன்பேசி — சிறந்த திறன்பேசிக்கான அம்சங்கள், பயன்பாடுகள், "
 "இன்னும் அதிகமாக"
 
-#: firefox/os/index.lang:298
+#: firefox/os/index.lang:313
 msgid ""
 "View the version notes <a href=\"%(link)s\">Read about features, changes and "
 "more</a>"

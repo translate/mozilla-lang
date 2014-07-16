@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-07 15:52+0100\n"
+"POT-Creation-Date: 2014-07-16 15:14+0100\n"
 "PO-Revision-Date: 2014-02-21 12:08+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: none\n"
@@ -20,7 +20,7 @@ msgstr ""
 #. # promo_webmaker ##
 #. # promo_webwewant ##
 #. # promo_fxdesktop ##
-#. # promo_worldcup2014 ##
+#. # promo_makerparty ##
 #. # NOTE: demo server for home page is https://www-dev.allizom.org
 #: mozorg/home.lang:10
 msgid "Home of the Mozilla Project"
@@ -291,25 +291,30 @@ msgstr ""
 msgid "See what’s new"
 msgstr ""
 
-#. # TAG: promo_worldcup2014
-#. This panel will go live on Jun 12. Demo available on https://www-demo4.allizom.org/
-#: mozorg/home.lang:256
-msgid "Football <i>fanatic?</i>"
+#. # TAG: promo_makerparty
+#. Maker Party promo:
+#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+#. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
+#: mozorg/home.lang:258
+msgid "<i>Join</i> our <br>Maker Party"
 msgstr ""
 
-#. # TAG: promo_worldcup2014
-#: mozorg/home.lang:261
-msgid "Football fanatic?"
+#. # TAG: promo_makerparty
+#. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
+#: mozorg/home.lang:264
+msgid "Join our global <br>Maker Party"
 msgstr ""
 
-#. # TAG: promo_worldcup2014
-#: mozorg/home.lang:266
-msgid "Firefox lets you keep up with all the action in Brazil."
+#. # TAG: promo_makerparty
+#: mozorg/home.lang:269
+msgid ""
+"From July to September, help us teach, learn and make the Web at hands-on "
+"community events."
 msgstr ""
 
-#. # TAG: promo_worldcup2014
-#: mozorg/home.lang:271
-msgid "Activate the Goal.com sidebar"
+#. # TAG: promo_makerparty
+#: mozorg/home.lang:274
+msgid "Learn about events near you"
 msgstr ""
 
 #, fuzzy

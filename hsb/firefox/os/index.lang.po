@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-08 10:27+0100\n"
+"POT-Creation-Date: 2014-07-16 15:14+0100\n"
 "PO-Revision-Date: 2014-05-10 10:54+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1399719258.000000\n"
 
 #. # NOTE: https://www-dev.allizom.org/firefox/os/
@@ -63,21 +63,26 @@ msgstr "Hudźba"
 msgid "Maps"
 msgstr "Karty"
 
-#. Icon bar item
+#. Icon bar item. This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
 #: firefox/os/index.lang:51
+msgid "Dual SIM"
+msgstr ""
+
+#. Icon bar item
+#: firefox/os/index.lang:56
 msgid "Messages"
 msgstr "Powěsće"
 
 #. Icon bar item
-#: firefox/os/index.lang:56
+#: firefox/os/index.lang:61
 msgid "Marketplace"
 msgstr "Torhošćo"
 
-#: firefox/os/index.lang:60
+#: firefox/os/index.lang:65
 msgid "Make every <br>moment count"
 msgstr "Čińće, zo kóždy <br>wokomik liči"
 
-#: firefox/os/index.lang:64
+#: firefox/os/index.lang:69
 msgid ""
 "Your needs change from one moment to the next. That’s why Firefox OS does "
 "the same. It gives you the power to live every moment to its fullest and "
@@ -88,21 +93,21 @@ msgstr ""
 "lěpšim swěće wobdźělić."
 
 #. Button
-#: firefox/os/index.lang:69
+#: firefox/os/index.lang:74
 msgid "Get a Firefox OS smartphone today"
 msgstr "Wobstarajće sej smartfon Firefox OS dźensa"
 
-#: firefox/os/index.lang:73
+#: firefox/os/index.lang:78
 msgid "Sign up for our monthly newsletter and get the latest on Firefox OS"
 msgstr ""
 "Zregistrujće so za naš měsačny powěsćowy list a wobstarajće sej najnowše "
 "informacije wo Firefox OS"
 
-#: firefox/os/index.lang:77
+#: firefox/os/index.lang:82
 msgid "It adapts, so you <br>can too"
 msgstr "Je přiměrujomny, potajkim <br>móžeće tež"
 
-#: firefox/os/index.lang:81
+#: firefox/os/index.lang:86
 msgid ""
 "Firefox OS anticipates your needs, adapts to every situation and instantly "
 "delivers the <br>information you want."
@@ -110,7 +115,7 @@ msgstr ""
 "Firefox OS anticipuje waše potrěbnosće, přiměrja so na kóždu situaciju a "
 "dodawa wam hnydom <br>informacije, kotrež chceće."
 
-#: firefox/os/index.lang:85
+#: firefox/os/index.lang:90
 msgid ""
 "That includes popular, big name apps, but also local content that means the "
 "most to you and your life."
@@ -119,32 +124,32 @@ msgstr ""
 "kotryž je za was a waše žiwjenje najwažniši."
 
 #. Title
-#: firefox/os/index.lang:90
+#: firefox/os/index.lang:95
 msgid "Adaptive App Search"
 msgstr "Přiměrujomne pytanje za nałoženjemi"
 
-#: firefox/os/index.lang:94
+#: firefox/os/index.lang:99
 msgid "Type a word or subject you’re interested in"
 msgstr "Zapisajće słowo abo temu, kotruž was zajimuje"
 
-#: firefox/os/index.lang:98
+#: firefox/os/index.lang:103
 msgid "Find exactly what you want — and more"
 msgstr "Namakajće eksaktnje, štož chceće — a wjace"
 
-#: firefox/os/index.lang:102
+#: firefox/os/index.lang:107
 msgid "Get instant access or save apps to your phone"
 msgstr "Dóstańće hnydomny přistup abo składujće nałoženja na swojim telefonje"
 
-#: firefox/os/index.lang:106
+#: firefox/os/index.lang:111
 msgid "Discover more apps on Firefox Marketplace"
 msgstr "Wotkryjće dalše nałoženja na torhošću Firefox"
 
 #. Title
-#: firefox/os/index.lang:111
+#: firefox/os/index.lang:116
 msgid "Have it all"
 msgstr "Wobstarajće sej wšitko"
 
-#: firefox/os/index.lang:115
+#: firefox/os/index.lang:120
 msgid ""
 "Firefox OS is packed with the features that made you want a smartphone in "
 "the first place. It fits your life perfectly so you can fit in with the "
@@ -155,16 +160,16 @@ msgstr ""
 "přiměrić, tak zo móžeće jón na swět wokoło tebje přiměrić."
 
 #. Title
-#: firefox/os/index.lang:119
+#: firefox/os/index.lang:124
 msgid "Made for the moments of your life"
 msgstr "Za wokomiki wašeho žiwjenja sčinjeny"
 
 #. Title
-#: firefox/os/index.lang:124
+#: firefox/os/index.lang:129
 msgid "Moments with friends"
 msgstr "Wokomiki z přećelemi"
 
-#: firefox/os/index.lang:128
+#: firefox/os/index.lang:133
 msgid ""
 "Import your contacts directly from Facebook and share updates instantly."
 msgstr ""
@@ -172,11 +177,11 @@ msgstr ""
 "aktualizacije."
 
 #. title
-#: firefox/os/index.lang:132
+#: firefox/os/index.lang:137
 msgid "Creative moments"
 msgstr "Tworićelske wokomiki"
 
-#: firefox/os/index.lang:136
+#: firefox/os/index.lang:141
 msgid ""
 "Take photos on the go then make them amazing using built-in style filters."
 msgstr ""
@@ -184,11 +189,11 @@ msgstr ""
 "filtrow."
 
 #. Title
-#: firefox/os/index.lang:140
+#: firefox/os/index.lang:145
 msgid "Moments that entertain"
 msgstr "Wokomiki, kotrež zabawjeja"
 
-#: firefox/os/index.lang:144
+#: firefox/os/index.lang:149
 msgid ""
 "Listen to your favorite songs, artists and radio stations, all from one "
 "device."
@@ -197,11 +202,11 @@ msgstr ""
 "jednym gratom."
 
 #. Title
-#: firefox/os/index.lang:149
+#: firefox/os/index.lang:154
 msgid "Moments in between"
 msgstr "Wokomiki mjez tym"
 
-#: firefox/os/index.lang:153
+#: firefox/os/index.lang:158
 msgid ""
 "Get to where you’re going with directions, traffic and local transit "
 "information."
@@ -209,31 +214,43 @@ msgstr ""
 "Nastajće so na puć z wopisanjemi pućow a informacijemi wo dalokowobchadźe, "
 "bliskowochadźe a měšćanskim wobchadźe."
 
+#. Title: This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
+#: firefox/os/index.lang:163
+msgid "Moments of choice"
+msgstr ""
+
+#. Title: This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
+#: firefox/os/index.lang:168
+msgid ""
+"Take full control of calls and messages with dual SIM and dual standby "
+"functionality."
+msgstr ""
+
 #. Title
-#: firefox/os/index.lang:158
+#: firefox/os/index.lang:173
 msgid "Moments of connection"
 msgstr "Wokomiki zwiska"
 
-#: firefox/os/index.lang:162
+#: firefox/os/index.lang:177
 msgid "Stay in touch with family and friends by email and text message."
 msgstr ""
 "Wostańće ze swójbu a přećelemi přez e-mejl a tekstowe zdźělenki w zwisku."
 
 #. Title
-#: firefox/os/index.lang:167
+#: firefox/os/index.lang:182
 msgid "Moments of discovery"
 msgstr "Wokomiki wotkryća"
 
-#: firefox/os/index.lang:171
+#: firefox/os/index.lang:186
 msgid "Find the best apps from around the world and your own backyard."
 msgstr "Namakajće najlěpše nałoženja z cyłeho swěta a ze swojeje wokolnosće."
 
 #. Title
-#: firefox/os/index.lang:176
+#: firefox/os/index.lang:191
 msgid "Transform the future"
 msgstr "Přetworće přichod"
 
-#: firefox/os/index.lang:180
+#: firefox/os/index.lang:195
 msgid ""
 "We’re out to make a difference, not a profit. When you choose Firefox OS, "
 "you’re helping build a brighter future for the Web and users everywhere."
@@ -242,11 +259,11 @@ msgstr ""
 "rozsudźeće, pomhaće, swětliši přichod za web a wužiwarjow druhdźe twarić."
 
 #. Title
-#: firefox/os/index.lang:185
+#: firefox/os/index.lang:200
 msgid "From our community to yours"
 msgstr "Wot našeho zhromadźenstwa k wašemu"
 
-#: firefox/os/index.lang:189
+#: firefox/os/index.lang:204
 msgid ""
 "Most smartphones are made by a small number of people, all in one place, "
 "probably pretty far from where you live. Firefox OS phones are different. "
@@ -259,11 +276,11 @@ msgstr ""
 "su jeničke smartfony, kotrež rozumja a skića, štož wy trjebaće."
 
 #. Title
-#: firefox/os/index.lang:194
+#: firefox/os/index.lang:209
 msgid "The best of the Web"
 msgstr "Najlěpši weba"
 
-#: firefox/os/index.lang:198
+#: firefox/os/index.lang:213
 msgid ""
 "Firefox changed browsing forever by putting users first and offering a new "
 "level of choice and innovation online. Now we’re doing it all over again "
@@ -278,11 +295,11 @@ msgstr ""
 "najlěpše, štož web skići, bjeztoho zo něchtó widźi, hdźež dźeće."
 
 #. Title
-#: firefox/os/index.lang:202
+#: firefox/os/index.lang:217
 msgid "For partners &amp; developers:"
 msgstr "Za partnerow a wuwiwarjow:"
 
-#: firefox/os/index.lang:205
+#: firefox/os/index.lang:220
 msgid ""
 "Learn about partnership opportunities <a href=\"%(link)s\">Visit the Firefox "
 "OS partner site</a>"
@@ -290,7 +307,7 @@ msgstr ""
 "Zhońće wjace wo móžnosćach partnerstwa: <a href=\"%(link)s\">Wopytajće sydło "
 "partnerstwa Firefox OS</a>"
 
-#: firefox/os/index.lang:209
+#: firefox/os/index.lang:224
 msgid ""
 "Get your app on Firefox OS <a href=\"%(link)s\">Submit it to Firefox "
 "Marketplace</a>"
@@ -299,11 +316,11 @@ msgstr ""
 "torhošćo Firefox</a>"
 
 #. Title
-#: firefox/os/index.lang:214
+#: firefox/os/index.lang:229
 msgid "For users:"
 msgstr "Za wužiwarjow:"
 
-#: firefox/os/index.lang:218
+#: firefox/os/index.lang:233
 msgid ""
 "In case you need a little help <a href=\"%(link)s\">Get it from your friends "
 "at Mozilla Support</a>"
@@ -311,7 +328,7 @@ msgstr ""
 "Jeli trochu pomocy trjebaće, <a href=\"%(link)s\">Wobstarajće sej ju wot "
 "přećelow podpěry Mozilla</a>"
 
-#: firefox/os/index.lang:222
+#: firefox/os/index.lang:237
 msgid ""
 "All your questions will be answered <a href=\"%(link)s\">Read our extra "
 "helpful FAQ</a>"
@@ -320,51 +337,51 @@ msgstr ""
 "pomocliwe huste prašenja</a>"
 
 #. image alt text
-#: firefox/os/index.lang:227
+#: firefox/os/index.lang:242
 msgid "Email app"
 msgstr "E-mejlowe nałoženje"
 
 #. image alt text
-#: firefox/os/index.lang:232
+#: firefox/os/index.lang:247
 msgid "Contacts app"
 msgstr "Kontaktowe nałoženje"
 
 #. image alt text
-#: firefox/os/index.lang:237
+#: firefox/os/index.lang:252
 msgid "Messages app"
 msgstr "Powěsćowe nałoženje"
 
 #. image alt text
-#: firefox/os/index.lang:242
+#: firefox/os/index.lang:257
 msgid "Camera app"
 msgstr "Kamerowe nałoženje"
 
 #. image alt text
-#: firefox/os/index.lang:247
+#: firefox/os/index.lang:262
 msgid "Facebook app"
 msgstr "Facebookowe nałoženje"
 
 #. image alt text
-#: firefox/os/index.lang:252
+#: firefox/os/index.lang:267
 msgid "Maps app"
 msgstr "Kartowe nałoženje"
 
 #. image alt text
-#: firefox/os/index.lang:257
+#: firefox/os/index.lang:272
 msgid "Photos app"
 msgstr "Fotowe nałoženje"
 
 #. image alt text
-#: firefox/os/index.lang:262
+#: firefox/os/index.lang:277
 msgid "Music app"
 msgstr "Hudźbne nałoženje"
 
 #. image alt text
-#: firefox/os/index.lang:267
+#: firefox/os/index.lang:282
 msgid "Radio app"
 msgstr "Radijowe nałoženje"
 
-#: firefox/os/index.lang:271
+#: firefox/os/index.lang:286
 msgid ""
 "We work with a number of providers to offer Firefox OS on a variety of "
 "devices."
@@ -373,7 +390,7 @@ msgstr ""
 "rozdźělnych gratach poskićili."
 
 #. Case 1: There are several phone providers
-#: firefox/os/index.lang:276
+#: firefox/os/index.lang:291
 msgid ""
 "Choose one from the list below to get a Firefox OS smartphone in your "
 "country."
@@ -382,30 +399,30 @@ msgstr ""
 "Firefox OS dóstał."
 
 #. Case 2: There is only one provider in the country
-#: firefox/os/index.lang:281
+#: firefox/os/index.lang:296
 msgid ""
 "Click on the provider below to get a Firefox OS smartphone in your country."
 msgstr ""
 "Klikńće na slědowaceho poskićowarja, zo byšće w swojim kraju smartfon "
 "Firefox OS dóstał."
 
-#: firefox/os/index.lang:285
+#: firefox/os/index.lang:300
 msgid "Sign up for our monthly newsletter"
 msgstr "Zregistrujće so za naš měsačny powěsćowy list"
 
-#: firefox/os/index.lang:289
+#: firefox/os/index.lang:304
 msgid "Thank you for signing up!"
 msgstr "Wulki dźak za registrowanje!"
 
 #. Page <title> tag, also used for search engines
-#: firefox/os/index.lang:294
+#: firefox/os/index.lang:309
 msgid ""
 "Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More"
 msgstr ""
 "Firefox OS — Přiměrujomny telefon — Wulkotne smartfonowe funkcije, nałoženja "
 "a wjace"
 
-#: firefox/os/index.lang:298
+#: firefox/os/index.lang:313
 msgid ""
 "View the version notes <a href=\"%(link)s\">Read about features, changes and "
 "more</a>"

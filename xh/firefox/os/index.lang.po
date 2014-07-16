@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-08 10:27+0100\n"
+"POT-Creation-Date: 2014-07-16 15:14+0100\n"
 "PO-Revision-Date: 2014-06-21 10:10+0000\n"
 "Last-Translator: xh-ZA03_Fuma <fdyubhele@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1403345421.000000\n"
 
 #. # NOTE: https://www-dev.allizom.org/firefox/os/
@@ -62,21 +62,26 @@ msgstr "Umculo"
 msgid "Maps"
 msgstr "Iimephu"
 
-#. Icon bar item
+#. Icon bar item. This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
 #: firefox/os/index.lang:51
+msgid "Dual SIM"
+msgstr ""
+
+#. Icon bar item
+#: firefox/os/index.lang:56
 msgid "Messages"
 msgstr "Imiyalezo"
 
 #. Icon bar item
-#: firefox/os/index.lang:56
+#: firefox/os/index.lang:61
 msgid "Marketplace"
 msgstr "Imarike"
 
-#: firefox/os/index.lang:60
+#: firefox/os/index.lang:65
 msgid "Make every <br>moment count"
 msgstr "Yenza umzuzu <br>ngamnye ubale"
 
-#: firefox/os/index.lang:64
+#: firefox/os/index.lang:69
 msgid ""
 "Your needs change from one moment to the next. That’s why Firefox OS does "
 "the same. It gives you the power to live every moment to its fullest and "
@@ -87,20 +92,20 @@ msgstr ""
 "ngokupheleleyo nokuthi ube nenxaxheba kwihlabathi elingcono."
 
 #. Button
-#: firefox/os/index.lang:69
+#: firefox/os/index.lang:74
 msgid "Get a Firefox OS smartphone today"
 msgstr "Fumana ifowuni echubekileyo yeFirefox OS namhlanje"
 
-#: firefox/os/index.lang:73
+#: firefox/os/index.lang:78
 msgid "Sign up for our monthly newsletter and get the latest on Firefox OS"
 msgstr ""
 "Bhalisela ileta yethu yeendaba efumaneka nyanga zonke uze ufumane iFirefox OS"
 
-#: firefox/os/index.lang:77
+#: firefox/os/index.lang:82
 msgid "It adapts, so you <br>can too"
 msgstr "Ilungele imeko, nawe <br>unako"
 
-#: firefox/os/index.lang:81
+#: firefox/os/index.lang:86
 msgid ""
 "Firefox OS anticipates your needs, adapts to every situation and instantly "
 "delivers the <br>information you want."
@@ -108,7 +113,7 @@ msgstr ""
 "IFirefox OS ilungele iimfuno zakho, ilungela zonke iimeko ize ngoko nangoko "
 "ikunike <br>inkcazelo oyifunayo."
 
-#: firefox/os/index.lang:85
+#: firefox/os/index.lang:90
 msgid ""
 "That includes popular, big name apps, but also local content that means the "
 "most to you and your life."
@@ -117,32 +122,32 @@ msgstr ""
 "ekhaya loo nto ke ithetha lukhulu kuwe nakubomi bakho."
 
 #. Title
-#: firefox/os/index.lang:90
+#: firefox/os/index.lang:95
 msgid "Adaptive App Search"
 msgstr "Ukukhangela i-App Okulungele Imeko"
 
-#: firefox/os/index.lang:94
+#: firefox/os/index.lang:99
 msgid "Type a word or subject you’re interested in"
 msgstr "Chwetheza igama okanye umbandela onomdla kuwo"
 
-#: firefox/os/index.lang:98
+#: firefox/os/index.lang:103
 msgid "Find exactly what you want — and more"
 msgstr "Fumana kanye le nto uyifunayo — nokunye okungakumbi"
 
-#: firefox/os/index.lang:102
+#: firefox/os/index.lang:107
 msgid "Get instant access or save apps to your phone"
 msgstr "Fumana indlela ekhawulezileyo okanye ugcine ii-apps kwifowuni yakho"
 
-#: firefox/os/index.lang:106
+#: firefox/os/index.lang:111
 msgid "Discover more apps on Firefox Marketplace"
 msgstr "Fumana iiaplikheyishini ezingaphezulu kwiFirefox Marketplace"
 
 #. Title
-#: firefox/os/index.lang:111
+#: firefox/os/index.lang:116
 msgid "Have it all"
 msgstr "Yiba nazo zonke"
 
-#: firefox/os/index.lang:115
+#: firefox/os/index.lang:120
 msgid ""
 "Firefox OS is packed with the features that made you want a smartphone in "
 "the first place. It fits your life perfectly so you can fit in with the "
@@ -153,16 +158,16 @@ msgstr ""
 "elikungqongileyo."
 
 #. Title
-#: firefox/os/index.lang:119
+#: firefox/os/index.lang:124
 msgid "Made for the moments of your life"
 msgstr "Yenzelwe izihlandlo ezikhethekileyo ebomini bakho"
 
 #. Title
-#: firefox/os/index.lang:124
+#: firefox/os/index.lang:129
 msgid "Moments with friends"
 msgstr "Izihlandlo nabahlobo bakho"
 
-#: firefox/os/index.lang:128
+#: firefox/os/index.lang:133
 msgid ""
 "Import your contacts directly from Facebook and share updates instantly."
 msgstr ""
@@ -170,11 +175,11 @@ msgstr ""
 "ngezihlaziywayo ngokukhawuleza."
 
 #. title
-#: firefox/os/index.lang:132
+#: firefox/os/index.lang:137
 msgid "Creative moments"
 msgstr "Izihlandlo zobuchule"
 
-#: firefox/os/index.lang:136
+#: firefox/os/index.lang:141
 msgid ""
 "Take photos on the go then make them amazing using built-in style filters."
 msgstr ""
@@ -182,11 +187,11 @@ msgstr ""
 "zesimbo ezikuyo."
 
 #. Title
-#: firefox/os/index.lang:140
+#: firefox/os/index.lang:145
 msgid "Moments that entertain"
 msgstr "Izihlandlo ezonwabisayo"
 
-#: firefox/os/index.lang:144
+#: firefox/os/index.lang:149
 msgid ""
 "Listen to your favorite songs, artists and radio stations, all from one "
 "device."
@@ -195,42 +200,54 @@ msgstr ""
 "nje kwisixhobo esinye."
 
 #. Title
-#: firefox/os/index.lang:149
+#: firefox/os/index.lang:154
 msgid "Moments in between"
 msgstr "Izihlandlo zaxa useluhambeni"
 
-#: firefox/os/index.lang:153
+#: firefox/os/index.lang:158
 msgid ""
 "Get to where you’re going with directions, traffic and local transit "
 "information."
 msgstr ""
 "Fika kwindawo oya kuyo ngezalathiso, ngenkcazelo yezothutho neyasekuhlaleni."
 
+#. Title: This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
+#: firefox/os/index.lang:163
+msgid "Moments of choice"
+msgstr ""
+
+#. Title: This string is currently visible only for hi-IN and ta, but it might be used in the future for other locales.
+#: firefox/os/index.lang:168
+msgid ""
+"Take full control of calls and messages with dual SIM and dual standby "
+"functionality."
+msgstr ""
+
 #. Title
-#: firefox/os/index.lang:158
+#: firefox/os/index.lang:173
 msgid "Moments of connection"
 msgstr "Izihlandlo zonxibelelwano"
 
-#: firefox/os/index.lang:162
+#: firefox/os/index.lang:177
 msgid "Stay in touch with family and friends by email and text message."
 msgstr ""
 "Hlala unxibelelene nosapho nabahlobo nge-imeyili nemiyalezo ebhaliweyo."
 
 #. Title
-#: firefox/os/index.lang:167
+#: firefox/os/index.lang:182
 msgid "Moments of discovery"
 msgstr "Izihlandlo zokufumanisa ulwazi"
 
-#: firefox/os/index.lang:171
+#: firefox/os/index.lang:186
 msgid "Find the best apps from around the world and your own backyard."
 msgstr "Fumanisa ii-apps ezingcono kwihlabathi lonke nasekuhlaleni."
 
 #. Title
-#: firefox/os/index.lang:176
+#: firefox/os/index.lang:191
 msgid "Transform the future"
 msgstr "Guqula ikamva"
 
-#: firefox/os/index.lang:180
+#: firefox/os/index.lang:195
 msgid ""
 "We’re out to make a difference, not a profit. When you choose Firefox OS, "
 "you’re helping build a brighter future for the Web and users everywhere."
@@ -239,11 +256,11 @@ msgstr ""
 "ikamva eliqaqambileyo leWebhu nelabasebenzisi kwiindawo zonke."
 
 #. Title
-#: firefox/os/index.lang:185
+#: firefox/os/index.lang:200
 msgid "From our community to yours"
 msgstr "Ukusuka kuluntu lwethu ukuya kolwakho"
 
-#: firefox/os/index.lang:189
+#: firefox/os/index.lang:204
 msgid ""
 "Most smartphones are made by a small number of people, all in one place, "
 "probably pretty far from where you live. Firefox OS phones are different. "
@@ -256,11 +273,11 @@ msgstr ""
 "iismartphone nokulukunika oko ukufunayo noko ukusweleyo."
 
 #. Title
-#: firefox/os/index.lang:194
+#: firefox/os/index.lang:209
 msgid "The best of the Web"
 msgstr "Okona kungcono kwiWebhu"
 
-#: firefox/os/index.lang:198
+#: firefox/os/index.lang:213
 msgid ""
 "Firefox changed browsing forever by putting users first and offering a new "
 "level of choice and innovation online. Now we’re doing it all over again "
@@ -276,11 +293,11 @@ msgstr ""
 "apho uya khona."
 
 #. Title
-#: firefox/os/index.lang:202
+#: firefox/os/index.lang:217
 msgid "For partners &amp; developers:"
 msgstr "Kumahlakani &amp; nabaphuhlisi:"
 
-#: firefox/os/index.lang:205
+#: firefox/os/index.lang:220
 msgid ""
 "Learn about partnership opportunities <a href=\"%(link)s\">Visit the Firefox "
 "OS partner site</a>"
@@ -288,7 +305,7 @@ msgstr ""
 "Funda ngamathuba okuba lihlakani lethu <a href=\"%(link)s\">Tyelela isayithi "
 "yamahlakani eFirefox OS</a>"
 
-#: firefox/os/index.lang:209
+#: firefox/os/index.lang:224
 msgid ""
 "Get your app on Firefox OS <a href=\"%(link)s\">Submit it to Firefox "
 "Marketplace</a>"
@@ -297,11 +314,11 @@ msgstr ""
 "kwiFirefox Marketplace</a>"
 
 #. Title
-#: firefox/os/index.lang:214
+#: firefox/os/index.lang:229
 msgid "For users:"
 msgstr "Kubasebenzisi:"
 
-#: firefox/os/index.lang:218
+#: firefox/os/index.lang:233
 msgid ""
 "In case you need a little help <a href=\"%(link)s\">Get it from your friends "
 "at Mozilla Support</a>"
@@ -309,7 +326,7 @@ msgstr ""
 "Xa ngaba ufuna uncedo oluthile <a href=\"%(link)s\">Lufumane kubahlobo bakho "
 "abanika iNkxaso ngeMozilla</a>"
 
-#: firefox/os/index.lang:222
+#: firefox/os/index.lang:237
 msgid ""
 "All your questions will be answered <a href=\"%(link)s\">Read our extra "
 "helpful FAQ</a>"
@@ -318,51 +335,51 @@ msgstr ""
 "eluncedo olukhulu</a>"
 
 #. image alt text
-#: firefox/os/index.lang:227
+#: firefox/os/index.lang:242
 msgid "Email app"
 msgstr "I-app ye-imeyili"
 
 #. image alt text
-#: firefox/os/index.lang:232
+#: firefox/os/index.lang:247
 msgid "Contacts app"
 msgstr "I-app yabantu oqhagamshelana nabo"
 
 #. image alt text
-#: firefox/os/index.lang:237
+#: firefox/os/index.lang:252
 msgid "Messages app"
 msgstr "I-app yemiyalezo"
 
 #. image alt text
-#: firefox/os/index.lang:242
+#: firefox/os/index.lang:257
 msgid "Camera app"
 msgstr "I-app yekhamera"
 
 #. image alt text
-#: firefox/os/index.lang:247
+#: firefox/os/index.lang:262
 msgid "Facebook app"
 msgstr "Iaplikheyishini kaFacebook"
 
 #. image alt text
-#: firefox/os/index.lang:252
+#: firefox/os/index.lang:267
 msgid "Maps app"
 msgstr "I-app yeemaphu"
 
 #. image alt text
-#: firefox/os/index.lang:257
+#: firefox/os/index.lang:272
 msgid "Photos app"
 msgstr "I-app yeefoto"
 
 #. image alt text
-#: firefox/os/index.lang:262
+#: firefox/os/index.lang:277
 msgid "Music app"
 msgstr "I-app yomculo"
 
 #. image alt text
-#: firefox/os/index.lang:267
+#: firefox/os/index.lang:282
 msgid "Radio app"
 msgstr "I-app kanomathotholo"
 
-#: firefox/os/index.lang:271
+#: firefox/os/index.lang:286
 msgid ""
 "We work with a number of providers to offer Firefox OS on a variety of "
 "devices."
@@ -371,7 +388,7 @@ msgstr ""
 "ezahlukeneyo."
 
 #. Case 1: There are several phone providers
-#: firefox/os/index.lang:276
+#: firefox/os/index.lang:291
 msgid ""
 "Choose one from the list below to get a Firefox OS smartphone in your "
 "country."
@@ -380,29 +397,29 @@ msgstr ""
 "yeFirefox OS kwilizwe lakho."
 
 #. Case 2: There is only one provider in the country
-#: firefox/os/index.lang:281
+#: firefox/os/index.lang:296
 msgid ""
 "Click on the provider below to get a Firefox OS smartphone in your country."
 msgstr ""
 "Cofa kumboneleli ongezantsi ukuze ufumane ifowuni echubekileyo yeFirefox OS."
 
-#: firefox/os/index.lang:285
+#: firefox/os/index.lang:300
 msgid "Sign up for our monthly newsletter"
 msgstr "Bhalisela ileta yethu yeendaba yeenyanga zonke"
 
-#: firefox/os/index.lang:289
+#: firefox/os/index.lang:304
 msgid "Thank you for signing up!"
 msgstr "Enkosi ngokubhalisa!"
 
 #. Page <title> tag, also used for search engines
-#: firefox/os/index.lang:294
+#: firefox/os/index.lang:309
 msgid ""
 "Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More"
 msgstr ""
 "IFirefox OS — iFowuni Elungele Iimeko Zonke — Iinkalo Ezintle Zefowuni "
 "Echubekileyo, ii-Apps nokunye okungakumbi"
 
-#: firefox/os/index.lang:298
+#: firefox/os/index.lang:313
 msgid ""
 "View the version notes <a href=\"%(link)s\">Read about features, changes and "
 "more</a>"
