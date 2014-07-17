@@ -4,20 +4,20 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-05-12 10:15+0100\n"
-"PO-Revision-Date: 2014-05-09 14:19+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2014-07-17 14:28+0000\n"
+"Last-Translator: Odin <odinmojica@mozilla-mexico.org>\n"
 "Language-Team: none\n"
 "Language: es_MX\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1405607302.000000\n"
 
 #. # NOTE: Page is available at http://www-dev.allizom.org/about/history/details
 #: mozorg/about/history-details.lang:3
-#, fuzzy
 msgid "History of the Mozilla Project"
-msgstr "Hogar del proyecto Mozilla"
+msgstr "Historia del proyecto Mozilla"
 
 #: mozorg/about/history-details.lang:7
 msgid ""
@@ -25,6 +25,9 @@ msgid ""
 "the <a href=\"%(sourcerelease)s\">release of the Netscape browser suite "
 "source code</a>."
 msgstr ""
+"El proyecto Mozilla fue <a href=\"%(coderush)s\">creado en 1998</a> con la "
+"<a href=\"%(sourcerelease)s\">liberación del código fuente de la suite del "
+"navegador Netscape</a>."
 
 #: mozorg/about/history-details.lang:11
 msgid ""
@@ -32,6 +35,9 @@ msgid ""
 "the Internet and fuel unprecedented levels of innovation in the browser "
 "market."
 msgstr ""
+"Se tenía la intención de aprovechar el poder creativo de miles de "
+"programadores en Internet y de los combustibles a niveles sin precedentes de "
+"innovación en el mercado de los navegadores."
 
 #: mozorg/about/history-details.lang:15
 msgid ""
@@ -40,12 +46,18 @@ msgid ""
 "existing features and became engaged in the management and planning of the "
 "project itself."
 msgstr ""
+"Dentro del <a href=\"%(firstyear)s\">primer año</a>, los nuevos miembros de "
+"la comunidad de todo el mundo ya habían aportado nuevas funcionalidades, "
+"mejorado las características existentes y se comprometieron en la "
+"administración y planificación del proyecto en sí."
 
 #: mozorg/about/history-details.lang:19
 msgid ""
 "By creating an open community, the Mozilla project had become <a href="
 "\"%(stevecase)s\">larger than any one company</a>."
 msgstr ""
+"Mediante la creación de una comunidad abierta, el proyecto Mozilla se había "
+"vuelto <a href=\"%(stevecase)s\">más grande que cualquier compañía</a>."
 
 #: mozorg/about/history-details.lang:23
 msgid ""
@@ -55,6 +67,12 @@ msgid ""
 "variety of browsers</a>, <a href=\"%(bugzilla)s\">development tools</a> and "
 "a range of other <a href=\"%(projects)s\">projects</a>."
 msgstr ""
+"Miembros de la comunidad se involucraron y ampliaron el alcance de la <a "
+"href=\"%(mission)s\">misión original</a> del proyecto — en lugar de "
+"simplemente trabajar en el próximo navegador de Netscape, las personas "
+"comenzaron a crear <a href=\"%(browsers)s\">una variedad de navegadores</a>, "
+"<a href=\"%(bugzilla)s\">herramientas de desarrollo</a> y una serie de otros "
+"<a href=\"%(projects)s\">proyectos</a>."
 
 #: mozorg/about/history-details.lang:27
 msgid ""
@@ -62,6 +80,9 @@ msgid ""
 "about creating free software that would enable people to have a choice in "
 "how they experienced the Internet."
 msgstr ""
+"Las personas contribuyeron en Mozilla de maneras diferentes, pero todo el "
+"mundo era un apasionado de la creación de software libre que permitía a las "
+"personas tener una opción en la forma que experimentaron Internet."
 
 #: mozorg/about/history-details.lang:31
 msgid ""
@@ -70,12 +91,19 @@ msgid ""
 "many improvements to the browser, email client and other applications "
 "included in the suite, but not many people were using it."
 msgstr ""
+"Después de varios años de desarrollo, <a href=\"%(mozilla1)s\">Mozilla 1.0</"
+"a>, la primera gran versión, fue lanzada en 2002. Esta versión incluyó "
+"muchas mejoras al navegador, cliente de correo electrónico y otras "
+"aplicaciones incluidas en la suite, pero no muchas personas la estaban "
+"usando."
 
 #: mozorg/about/history-details.lang:35
 msgid ""
 "By 2002, <a href=\"%(over90)s\">well over 90%% of Internet users</a> were "
 "browsing with Internet Explorer."
 msgstr ""
+"Para el año 2002, <a href=\"%(over90)s\">más del 90%% de usuarios de "
+"Internet</a> navegaban con Internet Explorer."
 
 #: mozorg/about/history-details.lang:39
 msgid ""
@@ -84,6 +112,11 @@ msgid ""
 "with the goal of providing the <a href=\"%(charter)s\">best possible "
 "browsing experience</a> to the widest possible set of people."
 msgstr ""
+"No mucha gente se dio cuenta en ese momento, pero la primera versión de "
+"Phoenix (más tarde renombrado como Firefox) también fue lanzada por miembros "
+"de la comunidad de Mozilla ese año con el objetivo de proporcionar la <a "
+"href=\"%(charter)s\">mejor experiencia de navegación posible</a> a la mayor "
+"cantidad posible de personas."
 
 #: mozorg/about/history-details.lang:43
 msgid ""
@@ -91,6 +124,9 @@ msgid ""
 "\"%(foundation)s\">independent non-profit organization</a> supported by "
 "individual donors and a variety of companies."
 msgstr ""
+"En 2003, el proyecto Mozilla crea la Fundación Mozilla, una <a href="
+"\"%(foundation)s\">organización independiente sin fines de lucro</a> con el "
+"apoyo de donantes individuales y una gran variedad de empresas."
 
 #: mozorg/about/history-details.lang:47
 msgid ""
@@ -99,6 +135,10 @@ msgid ""
 "<a href=\"%(manifesto)s\">openness, innovation and opportunity</a> on the "
 "Internet."
 msgstr ""
+"La nueva Fundación Mozilla siguió el papel de la gestión de las operaciones "
+"diarias del proyecto y también se hizo cargo oficialmente de la función de "
+"promover la <a href=\"%(manifesto)s\">apertura, innovación y oportunidad</a> "
+"en Internet."
 
 #: mozorg/about/history-details.lang:51
 msgid ""
@@ -106,6 +146,10 @@ msgid ""
 "Thunderbird, and expanding to new areas, such as providing <a href="
 "\"%(grants)s\">grants</a> to support accessibility improvements on the Web."
 msgstr ""
+"Lo hizo mediante la continuación para liberar el software, tales como "
+"Firefox y Thunderbird, y expandiéndose a nuevas áreas, tales como la "
+"concesión de <a href=\"%(grants)s\">becas</a> para apoyar las mejoras de "
+"accesibilidad en la Web."
 
 #: mozorg/about/history-details.lang:55
 msgid ""
@@ -113,29 +157,37 @@ msgid ""
 "big success — in less than a year, it was downloaded <a href=\"%(millions)s"
 "\">over 100 million times</a>."
 msgstr ""
+"<a href=\"%(firefox1)s\">Firefox 1.0</a> fue lanzado en 2004 y se convirtió "
+"en un gran éxito — en menos de un año, fue descargado <a href=\"%(millions)s"
+"\">más de 100 millones de veces</a>."
 
 #: mozorg/about/history-details.lang:59
 msgid ""
 "New versions of Firefox have come out regularly since then and keep setting "
 "new records. The popularity of Firefox has helped bring choice back to users."
 msgstr ""
+"Las nuevas versiones de Firefox han salido con regularidad desde entonces y "
+"siguen estableciendo nuevos records. La popularidad de Firefox ha ayudado a "
+"elegir de nuevo a los usuarios. "
 
 #: mozorg/about/history-details.lang:63
 msgid ""
 "The renewed competition has <a href=\"%(innovation)s\">accelerated "
 "innovation</a> and improved the Internet for everyone."
 msgstr ""
+"La competencia renovada ha <a href=\"%(innovation)s\">acelerado la "
+"innovación</a> y la mejora de Internet para todo el mundo."
 
 #: mozorg/about/history-details.lang:67
-#, fuzzy
 msgid ""
 "In 2013, we launched <a href=\"%(firefoxos)s\">Firefox OS</a> to unleash the "
 "full power of the Web on smartphones and once again offer control and choice "
 "to a new generation of people coming online."
 msgstr ""
-"En 2013 Mozilla lanza Firefox OS para liberar todo el poder de la Web en los "
-"teléfonos inteligentes, ofrecer el control y erigirse en un alternativa para "
-"una nueva generación de usuarios que llega a Internet."
+"En 2013 lanzamos <a href=\"%(firefoxos)s\">Firefox OS</a> para liberar todo "
+"el poder de la Web en los teléfonos inteligentes, ofrecer el control y "
+"erigirse en un alternativa para una nueva generación de usuarios que llega a "
+"Internet."
 
 #: mozorg/about/history-details.lang:71
 msgid "Mozilla also celebrated its 15th anniversary in 2013."
@@ -199,21 +251,25 @@ msgstr ""
 #: mozorg/about/history-details.lang:111
 msgid "For more information about Mozilla’s history, see the following:"
 msgstr ""
+"Para obtener más información acerca de la historia de Mozilla, consulta lo "
+"siguiente:"
 
 #: mozorg/about/history-details.lang:115
 msgid "Mozilla Bookmarks"
-msgstr ""
+msgstr "Marcadores de Mozilla"
 
 #: mozorg/about/history-details.lang:119
 msgid "Timeline of Mozilla Project"
-msgstr ""
+msgstr "Cronología del Proyecto Mozilla"
 
 #: mozorg/about/history-details.lang:123
 msgid "Mozilla Digital Memory Bank"
-msgstr ""
+msgstr "Banco de Memoria Digital Mozilla"
 
 #: mozorg/about/history-details.lang:127
 msgid ""
 "<a href=\"%(link)s\">The History of Firefox and Mozilla Posters</a> "
 "(available in English and Japanese)"
 msgstr ""
+"<a href=\"%(link)s\">La Historia de Firefox y Mozilla Posters</a> "
+"(disponible en Inglés y japonés)"

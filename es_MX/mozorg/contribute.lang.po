@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-07-07 15:52+0100\n"
-"PO-Revision-Date: 2014-07-09 06:09+0000\n"
-"Last-Translator: Roberto <ralv888@gmail.com>\n"
+"PO-Revision-Date: 2014-07-17 15:55+0000\n"
+"Last-Translator: Francesco Lodolo <francesco.lodolo@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es_MX\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1404886197.000000\n"
+"X-POOTLE-MTIME: 1405612510.000000\n"
 
 #. # contribute_faces ##
 #. # contribute_mayupdates ##
@@ -237,7 +237,6 @@ msgstr "Control de calidad"
 
 #. # TAG: contribute_mayupdates
 #: mozorg/contribute.lang:188
-#, fuzzy
 msgid ""
 "Quality Assurance testing is one of the easiest ways to get started with "
 "Mozilla and is a great way to get familiar with our code and tools."
@@ -255,6 +254,12 @@ msgid ""
 "\">join us for a Test Day</a>, or <a href=\"%(qateams_url)s\">learn more "
 "about other testing opportunities</a>."
 msgstr ""
+"<a href=\"%(oneanddone_url)s\">Selecciona una tarea desde One and Done</a> "
+"para iniciar, trabaja sobre <a href=\"%(desktopfx_url)s\">Firefox de "
+"escritorio</a>, <a href=\"%(websites_url)s\">prueba sitios Web de Mozilla</"
+"a>, <a href=\"%(testday_url)s\"> únete para el Test Day</a>, o <a href="
+"\"%(qateams_url)s\">aprende más acerca de oportunidades para hacer pruebas</"
+"a>."
 
 #. Coding
 #: mozorg/contribute.lang:198
@@ -326,6 +331,11 @@ msgid ""
 "source values. With <a href=\"%(mktcontrib_url)s\">contribution "
 "opportunities</a> at every skill level, it’s easy to make an impact!"
 msgstr ""
+"<a href=\"%(marketplace_url)s\">Firefox Marketplace</a> provee contenido – "
+"juegos, música, aplicaciones de redes sociales y más – construido con los "
+"estándares de HTML5 y los valores del código abierto. Con<a href="
+"\"%(mktcontrib_url)s\">oportunidades de contribución</a> para todos los "
+"niveles de habilidad, ¡es fácil hacer un impacto!"
 
 #. # TAG: contribute_mayupdates
 #. Add-ons
@@ -386,7 +396,7 @@ msgstr ""
 #. Fellowships
 #: mozorg/contribute.lang:253
 msgid "Fellowships"
-msgstr ""
+msgstr "Becas"
 
 #. # TAG: contribute_fellowship
 #: mozorg/contribute.lang:258
@@ -395,6 +405,10 @@ msgid ""
 "\"%(fellowship)s\">OpenNews Fellowship program</a> matches emerging digital "
 "leaders with journalism opportunities to build the open Web for everyone."
 msgstr ""
+"¿Interesado en la configuración del futuro de la Web abierta, caballeros de "
+"Mozilla? <a href=\"%(fellowship)s\">El programa de becas OpenNews</a> "
+"combina líderes digitales con oportunidades laborales para construir la Web "
+"abierta para todos."
 
 #. Old string, will be removed when all locales have the new text
 #: mozorg/contribute.lang:263
@@ -415,7 +429,7 @@ msgstr "mapa"
 
 #: mozorg/contribute.lang:271
 msgid "Find Mozillians near you"
-msgstr ""
+msgstr "Encuentra Mozilleros cerca de tí"
 
 #: mozorg/contribute.lang:275
 msgid "US and Canada"
@@ -537,7 +551,6 @@ msgstr ""
 
 #. Old string, will be removed when all locales have the new text
 #: mozorg/contribute.lang:363
-#, fuzzy
 msgid ""
 "Quality assurance testing is one of the easiest ways to get started with "
 "Mozilla and is a great way to get familiar with our code and tools. Help us "
@@ -547,10 +560,10 @@ msgid ""
 msgstr ""
 "Garantizar la calidad es una de las formas más fáciles de comenzar con "
 "Mozilla y una forma genial de familiarizarte con nuestro código y nuestras "
-"herramientas. Ayúdanos a <a href=\"%(qa_bugs_url)s\">detectar bugs</a> en "
-"Firefox, <a href=\"%(qa_web_url)s\">probar los sitios web de Mozilla</a> u "
-"obtén más información sobre <a href=\"http://quality.mozilla.org/\">otras "
-"oportunidades de testeo</a>."
+"herramientas. Ayúdanos a <a href=\"%(qa_bugs_url)s\">detectar errores</a> en "
+"Firefox, <a href=\"%(qa_web_url)s\">probar los sitios web de Mozilla</a> y "
+"obtén más información sobre <a href=\"%(qa_url)s\">otras oportunidades de "
+"pruebas</a>."
 
 #. Old string, will be removed when all locales have the new text
 #: mozorg/contribute.lang:368
