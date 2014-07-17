@@ -27,7 +27,7 @@ msgstr "मोज़िला परियोजना का मुखपृष
 #. Used as a label for a button that scrolls through latest news.
 #: mozorg/home.lang:15
 msgid "Next article"
-msgstr "अगला आलेख"
+msgstr "अगला आलेख "
 
 #. Used as a label for a button that scrolls through latest news.
 #: mozorg/home.lang:20
@@ -37,15 +37,16 @@ msgstr "पिछला आलेख"
 #. The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 #: mozorg/home.lang:25
 msgid "We are %(mozilla_wordmark)s"
-msgstr "हम %(mozilla_wordmark)s हैं"
+msgstr "हम %(mozilla_wordmark)s हैं "
 
 #: mozorg/home.lang:29
 msgid "Doing good is part of our code"
 msgstr "अच्छा करना हमारे कोड का हिस्सा है"
 
 #: mozorg/home.lang:33
+#, fuzzy
 msgid "Get involved"
-msgstr "शामिल होएँ"
+msgstr "शामिल हों"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:38
@@ -71,7 +72,7 @@ msgstr "हमारे मिशन के बारे में और अध
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:55
 msgid "<i>Look</i> ahead"
-msgstr "आगे<i> देखें</i>"
+msgstr " आगे<i> देखें</i>"
 
 #: mozorg/home.lang:59
 msgid "Look ahead"
@@ -92,7 +93,7 @@ msgstr "फ़ायरफ़ॉक्स ओएस के बारे मे�
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:72
 msgid "<i>Join</i> our community"
-msgstr "हमारे समुदाय में <i>शामिल हों </i>"
+msgstr "हमारे समुदाय में <i>शामिल हों </i> "
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:77
@@ -162,14 +163,14 @@ msgstr ""
 "स्वयंसेवक के अवसरों के बारे में अधिक जानें.</a>."
 
 #: mozorg/home.lang:135
+#, fuzzy
 msgid ""
 "Thanks to our global community, Mozilla products and websites are available "
 "in over 70 languages. <a rel=\"external\" href=\"%(link_l10n)s\">Help "
 "translate them into yours</a>."
 msgstr ""
 "हमारे वैश्विक समुदाय को धन्यवाद, मोज़िला उत्पादों और वेबसाइटों के 70 से अधिक भाषाओं में "
-"उपलब्ध हैं. अपनी <a rel=\"external\" href=\"%(link_l10n)s\"> में उन्हें अनुवाद में मदद "
-"करें</a>."
+"उपलब्ध हैं. अपनी <a href=\"%(link_l10n)s\"> में उन्हें अनुवाद में मदद करें</a>."
 
 #. # TAG: promo_lightbeam
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
