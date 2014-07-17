@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-07-07 15:52+0100\n"
-"PO-Revision-Date: 2014-07-16 14:13+0000\n"
+"PO-Revision-Date: 2014-07-17 12:37+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
-"X-POOTLE-MTIME: 1405520037.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1405600623.000000\n"
 
 #. # contribute_faces ##
 #. # contribute_mayupdates ##
@@ -74,32 +74,32 @@ msgstr "Qiziqishingiz doirasidami?"
 
 #: mozorg/contribute.lang:52
 msgid "Helping Users"
-msgstr ""
+msgstr "Foydalanuvchilarga yordam berish"
 
 #: mozorg/contribute.lang:56
 msgid "Testing and QA"
-msgstr ""
+msgstr "Sinab ko‘rish va sifatni boshqarish"
 
 #: mozorg/contribute.lang:60
 msgid "Coding"
-msgstr ""
+msgstr "Dastur tuzish"
 
 #: mozorg/contribute.lang:64
 msgid "Marketing"
-msgstr ""
+msgstr "Marketing"
 
 #: mozorg/contribute.lang:68
 msgid "Localization and Translation"
-msgstr ""
+msgstr "Lokalizatsiya va tarjima"
 
 #: mozorg/contribute.lang:72
 msgid "Web Development"
-msgstr ""
+msgstr "Veb dasturlash"
 
 #. # TAG: contribute_mayupdates
 #: mozorg/contribute.lang:77
 msgid "Firefox Marketplace"
-msgstr "Firefox Marketplace"
+msgstr "Firefox do‘koni"
 
 #: mozorg/contribute.lang:81
 msgid "Add-ons"
@@ -107,28 +107,27 @@ msgstr "Qo‘shimcha dasturlar"
 
 #: mozorg/contribute.lang:85
 msgid "Visual Design"
-msgstr ""
+msgstr "Vizual dizayn"
 
 #: mozorg/contribute.lang:89
 msgid "Documentation and Writing"
-msgstr ""
+msgstr "Texnik hujjatlar tuzish"
 
 #: mozorg/contribute.lang:93
 msgid "Education"
-msgstr ""
+msgstr "Taʼlim"
 
 #: mozorg/contribute.lang:97
-#, fuzzy
 msgid "Other"
-msgstr "Boshqa…"
+msgstr "Boshqa"
 
 #: mozorg/contribute.lang:101
 msgid "I have a suggestion for Firefox"
-msgstr ""
+msgstr "Firefox uchun taklifim bor"
 
 #: mozorg/contribute.lang:105
 msgid "I need help with a Firefox issue"
-msgstr ""
+msgstr "Firefox bilan bog‘liq muammolar bo‘yicha yordam kerak"
 
 #: mozorg/contribute.lang:109
 msgid "YOUR EMAIL HERE"
@@ -136,50 +135,53 @@ msgstr "YOUR EMAIL HERE"
 
 #: mozorg/contribute.lang:113
 msgid "Send us a note and we can get you started right away."
-msgstr ""
+msgstr "Ishni boshlashimiz uchun bizga xabar jo‘nating."
 
 #: mozorg/contribute.lang:117
 msgid "Hi, I’m interested in…"
-msgstr ""
+msgstr "Salom, men qiziqib qoldim …"
 
 #: mozorg/contribute.lang:121
 msgid "I’d like to receive regular contribution news by email"
 msgstr ""
+"Ko‘ngillilar uchun dasturlar haqidagi muntazam yangiliklarni e-pochta orqali "
+"olib turishni istayman."
 
 #: mozorg/contribute.lang:125
 msgid "Submit&nbsp;»"
-msgstr ""
+msgstr "Jo‘natish&nbsp;»"
 
 #: mozorg/contribute.lang:129
-#, fuzzy
 msgid "Please enter a valid email address."
-msgstr "Iltimos, to‘g‘ri e-pochta manzilini kiriting"
+msgstr "Iltimos, to‘g‘ri e-pochta manzilini kiriting."
 
 #: mozorg/contribute.lang:133
 msgid "You must agree to the privacy policy."
-msgstr ""
+msgstr "Siz maxfiylik siyosatiga rozi bo‘lishingiz kerak."
 
 #: mozorg/contribute.lang:137
 msgid "Please select an area of interest."
-msgstr ""
+msgstr "Marhamat, qiziqishingiz doirasini ko‘rsating."
 
 #: mozorg/contribute.lang:141
 msgid "Please tell us more about your interests."
-msgstr ""
+msgstr "Qiziqishlaringiz haqida bizga ko‘proq ma’lumot bering."
 
 #: mozorg/contribute.lang:145
 msgid "Your CAPTCHA response did not match. Please try again."
-msgstr ""
+msgstr "Javobingiz CAPTCHA bilan mos kelmadi. Yana urinib ko‘ring."
 
 #: mozorg/contribute.lang:149
 msgid "Thank you for getting in touch."
-msgstr ""
+msgstr "Aloqaga chiqqaningiz uchun rahmat."
 
 #: mozorg/contribute.lang:153
 msgid ""
 "We are sorry, but there was a problem with our system. Please try again "
 "later!"
 msgstr ""
+"Biz juda afsusdamiz, ammo tizimimizda muammo yuz berdi. Qaytadan urinib "
+"ko‘ring!"
 
 #: mozorg/contribute.lang:157
 msgid ""
@@ -187,27 +189,35 @@ msgid ""
 "get involved. While you’re waiting, browse through some of the volunteer "
 "opportunities available below."
 msgstr ""
+"\"Mozilla\"dan biror kishi tezda siz bilan bog‘lanib, loyihada qanday "
+"ishtirok etish mumkinligini aytadi. Hozircha kutib turing, ko‘ngillilarga "
+"mavjud bo‘lgan quyidagi imkoniyatlarga diqqatingizni qarating."
 
 #: mozorg/contribute.lang:161
 msgid ""
 "You don’t have to be a C++ guru (or even know what that means!) to get "
 "involved.<br><b>You just have to love the Web.</b>"
 msgstr ""
+"Loyihada ishtirok etish uchun C++ bo‘yicha mutaxassis bo‘lishingiz shart "
+"emas (yoki uning nima ma’no bildirishini bilishingiz ham shart emas!)."
+"<br><b>Shunchaki internetni sevishingiz kerak.</b>"
 
 #: mozorg/contribute.lang:165
 msgid ""
 "Sign up for a weekly newsletter that is full of community news and "
 "contribution opportunities."
 msgstr ""
+"Har oylik to‘liq jamiyat yangiliklari va ko‘ngillilar imkoniyatlari haqidagi "
+"xabarlarga yoziling."
 
 #. Subject of email sent to end-users
 #: mozorg/contribute.lang:170
 msgid "Welcome to Mozilla!"
-msgstr ""
+msgstr "\"Mozilla\"ga xush kelibsiz!"
 
 #: mozorg/contribute.lang:174
 msgid "Find an opportunity"
-msgstr ""
+msgstr "O‘zingizga ko‘nglingizdagidek mashg‘ulotni toping"
 
 #. Helping users
 #: mozorg/contribute.lang:179
@@ -271,6 +281,11 @@ msgid ""
 "the world about how Mozilla is building a better Internet by <a href="
 "\"%(l10n_web_url)s\">translating content</a> on our web sites."
 msgstr ""
+"Firefox, Thunderbird va boshqa loyihalarni <a href=\"%(l10n_url)s\">ona "
+"tilingizga tarjima</a> qilib Mozilla loyihasida ishtirok eting. Shuningdek, "
+"vebsaytlarimiz<a href=\"%(l10n_web_url)s\">tarjimasida ishtirok etib</a>, "
+"butun dunyoga Mozilla eng zo‘r internet tuzayotganligi haqida aytishimizga "
+"yordam bering."
 
 #. Web development
 #: mozorg/contribute.lang:219
@@ -280,6 +295,10 @@ msgid ""
 "skills can also be used to <a href=\"%(gaia_url)s\">help us build our new "
 "Firefox OS</a>."
 msgstr ""
+"Veb-saytlarimiz har qanday veb-dasturchi uchun ochiq. Uning ustida ishlash "
+"uchun <a href=\"%(webdev_url)s\">veb-sayt loyihasini toping</a>. Sizning veb-"
+"dasturlash sohasidagi bilimlaringiz <a href=\"%(gaia_url)s\">\"Firefox OS"
+"\"ni yaxshilashda</a> yordam beradi."
 
 #. # TAG: contribute_mayupdates
 #. Firefox Marketplace
@@ -453,9 +472,8 @@ msgid "Menu"
 msgstr "Menyu"
 
 #: mozorg/contribute.lang:354
-#, fuzzy
 msgid "Twitter"
-msgstr "Twitter:"
+msgstr ""
 
 #: mozorg/contribute.lang:358
 msgid ""
