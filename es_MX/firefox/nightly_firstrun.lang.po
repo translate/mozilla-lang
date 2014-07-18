@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-07 15:52+0100\n"
+"POT-Creation-Date: 2014-07-18 10:44+0100\n"
 "PO-Revision-Date: 2014-07-09 18:21+0000\n"
 "Last-Translator: Roberto <ralv888@gmail.com>\n"
 "Language-Team: none\n"
@@ -11,7 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1404930069.000000\n"
 
 #. # promo_locale ##
@@ -46,38 +46,62 @@ msgstr ""
 msgid "Start testing"
 msgstr "Iniciar prueba"
 
-#: firefox/nightly_firstrun.lang:30
+#. Link used for the "Start testing" button.
+#. You can instead use your own link if your community have a similar onboarding page about how to test Mozilla products.
+#. If you don't have a community page, just add " {ok}" after the en-US link
+#. Links must start with http:// or https://
+#: firefox/nightly_firstrun.lang:34
+msgid "https://oneanddone.mozilla.org"
+msgstr ""
+
+#: firefox/nightly_firstrun.lang:38
 msgid "Code"
 msgstr "Código"
 
-#: firefox/nightly_firstrun.lang:34
+#: firefox/nightly_firstrun.lang:42
 msgid "File bugs and work on the building blocks of the Firefox browser."
 msgstr ""
 "Archivar errores y trabajar en la construcción de bloques del navegador "
 "Firefox."
 
-#: firefox/nightly_firstrun.lang:38
+#: firefox/nightly_firstrun.lang:46
 msgid "Start coding"
 msgstr "Iniciar la programación"
 
-#: firefox/nightly_firstrun.lang:42
+#. Link used for the "Start coding" button.
+#. You can instead use your own link if your community have a similar onboarding page about how to contribute to Firefox code.
+#. If you don't have a community page, just add " {ok}" after the en-US link
+#. Links must start with http:// or https://
+#: firefox/nightly_firstrun.lang:54
+msgid "https://developer.mozilla.org/docs/Introduction"
+msgstr ""
+
+#: firefox/nightly_firstrun.lang:58
 msgid "Localize"
 msgstr "Traducir"
 
-#: firefox/nightly_firstrun.lang:46
+#: firefox/nightly_firstrun.lang:62
 msgid "Make Firefox available (and better) in more languages around the world."
 msgstr "Haz Firefox disponible (y mejor) en más idiomas alrededor del mundo."
 
-#: firefox/nightly_firstrun.lang:50
+#: firefox/nightly_firstrun.lang:66
 msgid "Start localizing"
 msgstr "Empezar a localizar"
 
-#: firefox/nightly_firstrun.lang:54
+#. Link used for the "Start localizing" button.
+#. You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n.
+#. If you don't have a community page, just add " {ok}" after the en-US link
+#. Links must start with http:// or https://
+#: firefox/nightly_firstrun.lang:74
+msgid "https://wiki.mozilla.org/L10n:Contribute"
+msgstr ""
+
+#: firefox/nightly_firstrun.lang:78
 msgid "Show everyone that you’re helping to build the Web the world needs."
 msgstr ""
 "Mostrar a todos que estás ayudando a construir la Web que el mundo necesita."
 
-#: firefox/nightly_firstrun.lang:58
+#: firefox/nightly_firstrun.lang:82
 msgid "Get your Nightly User badge"
 msgstr "Obtén tu insignia de usuario Nightly"
 
