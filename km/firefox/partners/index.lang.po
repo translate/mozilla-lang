@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-08 10:27+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2014-05-02 09:36+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1399023370.000000\n"
 
 #. <title> tag
@@ -32,31 +32,31 @@ msgstr "ទាក់ទង​ក្រុម​អភិវឌ្ឍន៍​អ
 
 #. Field
 #: firefox/partners/index.lang:20
-msgctxt "./firefox/partners/index.lang:20"
+#, fuzzy
 msgid "First Name"
 msgstr "នាម​ខ្លួន"
 
 #. Field
 #: firefox/partners/index.lang:25
-msgctxt "./firefox/partners/index.lang:25"
+#, fuzzy
 msgid "Last Name"
 msgstr "នាមត្រកូល"
 
-#. Field
+#. Field, e.g. president, CEO...
 #: firefox/partners/index.lang:30
-msgctxt "./firefox/partners/index.lang:30"
+#, fuzzy
 msgid "Title"
 msgstr "មុខងារ"
 
 #. Field
 #: firefox/partners/index.lang:35
-msgctxt "./firefox/partners/index.lang:35"
+#, fuzzy
 msgid "Company"
 msgstr "ក្រុមហ៊ុន"
 
 #. Field
 #: firefox/partners/index.lang:40
-msgctxt "./firefox/partners/index.lang:40"
+#, fuzzy
 msgid "Website"
 msgstr "តំបន់បណ្ដាញ"
 
@@ -67,7 +67,7 @@ msgstr "អ៊ីមែល"
 
 #. Form field
 #: firefox/partners/index.lang:50
-msgctxt "./firefox/partners/index.lang:50"
+#, fuzzy
 msgid "Phone"
 msgstr "ទូរស័ព្ទ"
 
@@ -508,7 +508,6 @@ msgid "For Operators & Manufacturers"
 msgstr "សម្រាប់​ប្រតិបត្តិករ និង​ក្រុមហ៊ុន​ផលិត"
 
 #: firefox/partners/index.lang:397
-msgctxt "./firefox/partners/index.lang:397"
 msgid "Mobile"
 msgstr "ទូរស័ព្ទ​ចល័ត"
 
@@ -573,111 +572,97 @@ msgstr "អាន​អំពី​លក្ខណ, ការ​ផ្លាស�
 msgid "Description"
 msgstr "សេចក្ដី​ពិពណ៌នា"
 
-#. Form field
-#: firefox/partners/index.lang:463
-msgctxt "./firefox/partners/index.lang:463"
-msgid "First Name"
-msgstr "នាម​ខ្លួន"
-
 #. Form error message
-#: firefox/partners/index.lang:468
+#: firefox/partners/index.lang:463
 msgid "Please enter your first name."
 msgstr "សូម​បញ្ចូល​នាម​ខ្លួន​របស់​អ្នក។"
 
-#. Form field
-#: firefox/partners/index.lang:473
-msgctxt "./firefox/partners/index.lang:473"
-msgid "Last Name"
-msgstr "នាមត្រកូល"
-
 #. Form error message
-#: firefox/partners/index.lang:478
+#: firefox/partners/index.lang:468
 msgid "Please enter your last name."
 msgstr "សូម​បញ្ចូល​នាមត្រកូល​របស់​អ្នក។"
 
-#. ex: president, CEO...
-#: firefox/partners/index.lang:483
-msgctxt "./firefox/partners/index.lang:483"
-msgid "Title"
-msgstr "មុខងារ"
-
-#. Form field
-#: firefox/partners/index.lang:488
-msgctxt "./firefox/partners/index.lang:488"
-msgid "Company"
-msgstr "ក្រុមហ៊ុន"
-
 #. Form error message
-#: firefox/partners/index.lang:493
+#: firefox/partners/index.lang:473
 msgid "Please enter your company name."
 msgstr "សូម​បញ្ចូល​ឈ្មោះ​ក្រុមហ៊ុន​របស់​អ្នក។"
 
-#. Form field
-#: firefox/partners/index.lang:498
-msgctxt "./firefox/partners/index.lang:498"
-msgid "Website"
-msgstr "វេបសាយ"
-
 #. Form error message
-#: firefox/partners/index.lang:503
+#: firefox/partners/index.lang:478
 msgid "Please supply a valid URL."
 msgstr "សូម​ផ្ដល់ URL ត្រឹមត្រូវ។"
 
 #. Form error message
-#: firefox/partners/index.lang:508
+#: firefox/partners/index.lang:483
 msgid "Please enter a valid email address"
 msgstr "សូម​បញ្ចូល​អាសយដ្ឋាន​អ៊ីមែល​ត្រឹមត្រូវ។"
 
-#. Form field
-#: firefox/partners/index.lang:513
-msgctxt "./firefox/partners/index.lang:513"
-msgid "Phone"
-msgstr "ទូរស័ព្ទ"
-
-#. form, asking for mobile phone number
-#: firefox/partners/index.lang:518
-msgctxt "./firefox/partners/index.lang:518"
-msgid "Mobile"
-msgstr "ទូរស័ព្ទ​ចល័ត"
-
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:523
+#: firefox/partners/index.lang:488
 msgid "Address"
 msgstr "អាសយដ្ឋាន"
 
 #. Form field
-#: firefox/partners/index.lang:528
+#: firefox/partners/index.lang:493
 msgid "City"
 msgstr "ទីក្រុង​"
 
 #. Form field
-#: firefox/partners/index.lang:533
+#: firefox/partners/index.lang:498
 msgid "State/Province"
 msgstr "រដ្ឋ/ខេត្ត"
 
 #. Form field
-#: firefox/partners/index.lang:538
+#: firefox/partners/index.lang:503
 msgid "Country"
 msgstr "ប្រទេស"
 
 #. Form field, postal code
-#: firefox/partners/index.lang:543
+#: firefox/partners/index.lang:508
 msgid "Zip"
 msgstr "កូដ​តំបន់"
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:548
+#: firefox/partners/index.lang:513
 msgid "Register for a session"
 msgstr "ចុះឈ្មោះ​សម្រាប់​វគ្គ"
 
 #. map header
-#: firefox/partners/index.lang:553
+#: firefox/partners/index.lang:518
 msgid "Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30"
 msgstr "Firefox នៅ MWC 2014 &ndash; Hall 3, Stand 3C30"
 
-#: firefox/partners/index.lang:557
+#: firefox/partners/index.lang:522
 msgid "Download PDF"
 msgstr "ទាញ​យក PDF"
+
+#~ msgctxt "./firefox/partners/index.lang:463"
+#~ msgid "First Name"
+#~ msgstr "នាម​ខ្លួន"
+
+#~ msgctxt "./firefox/partners/index.lang:473"
+#~ msgid "Last Name"
+#~ msgstr "នាមត្រកូល"
+
+#~ msgctxt "./firefox/partners/index.lang:483"
+#~ msgid "Title"
+#~ msgstr "មុខងារ"
+
+#~ msgctxt "./firefox/partners/index.lang:488"
+#~ msgid "Company"
+#~ msgstr "ក្រុមហ៊ុន"
+
+#~ msgctxt "./firefox/partners/index.lang:498"
+#~ msgid "Website"
+#~ msgstr "វេបសាយ"
+
+#~ msgctxt "./firefox/partners/index.lang:513"
+#~ msgid "Phone"
+#~ msgstr "ទូរស័ព្ទ"
+
+#~ msgctxt "./firefox/partners/index.lang:518"
+#~ msgid "Mobile"
+#~ msgstr "ទូរស័ព្ទ​ចល័ត"
 
 #~ msgid "Submit it to the Firefox Marketplace today"
 #~ msgstr "ដាក់​ស្នើ​វា​ទៅកាន់​ឃ្លាំង​កម្មវិធី Firefox ថ្ងៃនេះ"
@@ -820,6 +805,3 @@ msgstr "ទាញ​យក PDF"
 
 #~ msgid "Firefox at Mobile World Congress 2013"
 #~ msgstr "Firefox នៅ​សមាជ​ពិភពលោក​ចល័ត ២០១៣"
-
-#~ msgid "Mobile"
-#~ msgstr "ទូរស័ព្ទ​ចល័ត"

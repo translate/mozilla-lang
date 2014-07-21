@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-28 13:33+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2014-07-16 16:47+0000\n"
 "Last-Translator: Francesco Lodolo <francesco.lodolo@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1405529249.000000\n"
 
 #. <title> tag
@@ -32,31 +32,26 @@ msgstr ""
 
 #. Field
 #: firefox/partners/index.lang:20
-msgctxt "./firefox/partners/index.lang:20"
 msgid "First Name"
-msgstr "Primer Nombre"
+msgstr "Nombre"
 
 #. Field
 #: firefox/partners/index.lang:25
-msgctxt "./firefox/partners/index.lang:25"
 msgid "Last Name"
-msgstr "Apellido"
+msgstr "Apellidos"
 
-#. Field
+#. Field, e.g. president, CEO...
 #: firefox/partners/index.lang:30
-msgctxt "./firefox/partners/index.lang:30"
 msgid "Title"
-msgstr "Título"
+msgstr "Puesto"
 
 #. Field
 #: firefox/partners/index.lang:35
-msgctxt "./firefox/partners/index.lang:35"
 msgid "Company"
 msgstr "Compañía"
 
 #. Field
 #: firefox/partners/index.lang:40
-msgctxt "./firefox/partners/index.lang:40"
 msgid "Website"
 msgstr "Sitio web"
 
@@ -67,7 +62,6 @@ msgstr "Correo"
 
 #. Form field
 #: firefox/partners/index.lang:50
-msgctxt "./firefox/partners/index.lang:50"
 msgid "Phone"
 msgstr "Teléfono"
 
@@ -540,9 +534,8 @@ msgid "For Operators & Manufacturers"
 msgstr "Para operadores y fabricantes"
 
 #: firefox/partners/index.lang:397
-msgctxt "./firefox/partners/index.lang:397"
 msgid "Mobile"
-msgstr "Teléfono celular"
+msgstr "Dispositivo móvil"
 
 #: firefox/partners/index.lang:401
 msgid "Firefox Marketplace — Developer testimonials"
@@ -607,111 +600,97 @@ msgstr "Leer acerca de características, cambios y más"
 msgid "Description"
 msgstr "Descripción"
 
-#. Form field
-#: firefox/partners/index.lang:463
-msgctxt "./firefox/partners/index.lang:463"
-msgid "First Name"
-msgstr "Primer Nombre"
-
 #. Form error message
-#: firefox/partners/index.lang:468
+#: firefox/partners/index.lang:463
 msgid "Please enter your first name."
 msgstr "Por favor ingresa tu nombre."
 
-#. Form field
-#: firefox/partners/index.lang:473
-msgctxt "./firefox/partners/index.lang:473"
-msgid "Last Name"
-msgstr "Apellido"
-
 #. Form error message
-#: firefox/partners/index.lang:478
+#: firefox/partners/index.lang:468
 msgid "Please enter your last name."
 msgstr "Por favor ingresa tu apellido."
 
-#. ex: president, CEO...
-#: firefox/partners/index.lang:483
-msgctxt "./firefox/partners/index.lang:483"
-msgid "Title"
-msgstr "Título"
-
-#. Form field
-#: firefox/partners/index.lang:488
-msgctxt "./firefox/partners/index.lang:488"
-msgid "Company"
-msgstr "Compañía"
-
 #. Form error message
-#: firefox/partners/index.lang:493
+#: firefox/partners/index.lang:473
 msgid "Please enter your company name."
 msgstr "Por favor ingresa el nombre de tu compañía."
 
-#. Form field
-#: firefox/partners/index.lang:498
-msgctxt "./firefox/partners/index.lang:498"
-msgid "Website"
-msgstr "Sitio web"
-
 #. Form error message
-#: firefox/partners/index.lang:503
+#: firefox/partners/index.lang:478
 msgid "Please supply a valid URL."
 msgstr "Por favor ingresa una URL válida."
 
 #. Form error message
-#: firefox/partners/index.lang:508
+#: firefox/partners/index.lang:483
 msgid "Please enter a valid email address"
 msgstr "Por favor ingresa una dirección de correo válida"
 
-#. Form field
-#: firefox/partners/index.lang:513
-msgctxt "./firefox/partners/index.lang:513"
-msgid "Phone"
-msgstr "Teléfono"
-
-#. form, asking for mobile phone number
-#: firefox/partners/index.lang:518
-msgctxt "./firefox/partners/index.lang:518"
-msgid "Mobile"
-msgstr "Móvil"
-
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:523
+#: firefox/partners/index.lang:488
 msgid "Address"
 msgstr "Dirección"
 
 #. Form field
-#: firefox/partners/index.lang:528
+#: firefox/partners/index.lang:493
 msgid "City"
 msgstr "Ciudad"
 
 #. Form field
-#: firefox/partners/index.lang:533
+#: firefox/partners/index.lang:498
 msgid "State/Province"
 msgstr "Estado/Provincia"
 
 #. Form field
-#: firefox/partners/index.lang:538
+#: firefox/partners/index.lang:503
 msgid "Country"
 msgstr "País"
 
 #. Form field, postal code
-#: firefox/partners/index.lang:543
+#: firefox/partners/index.lang:508
 msgid "Zip"
 msgstr "Código postal"
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:548
+#: firefox/partners/index.lang:513
 msgid "Register for a session"
 msgstr "Registrar para una sesión"
 
 #. map header
-#: firefox/partners/index.lang:553
+#: firefox/partners/index.lang:518
 msgid "Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30"
 msgstr "Firefox en el MWC 2014 &ndash; salón 3, puesto 3C30"
 
-#: firefox/partners/index.lang:557
+#: firefox/partners/index.lang:522
 msgid "Download PDF"
 msgstr "Descargar PDF"
+
+#~ msgctxt "./firefox/partners/index.lang:463"
+#~ msgid "First Name"
+#~ msgstr "Primer Nombre"
+
+#~ msgctxt "./firefox/partners/index.lang:473"
+#~ msgid "Last Name"
+#~ msgstr "Apellido"
+
+#~ msgctxt "./firefox/partners/index.lang:483"
+#~ msgid "Title"
+#~ msgstr "Título"
+
+#~ msgctxt "./firefox/partners/index.lang:488"
+#~ msgid "Company"
+#~ msgstr "Compañía"
+
+#~ msgctxt "./firefox/partners/index.lang:498"
+#~ msgid "Website"
+#~ msgstr "Sitio web"
+
+#~ msgctxt "./firefox/partners/index.lang:513"
+#~ msgid "Phone"
+#~ msgstr "Teléfono"
+
+#~ msgctxt "./firefox/partners/index.lang:518"
+#~ msgid "Mobile"
+#~ msgstr "Móvil"
 
 #~ msgid "Submit it to the Firefox Marketplace today"
 #~ msgstr "Envíala a Firefox Marketplace hoy"
@@ -877,24 +856,6 @@ msgstr "Descargar PDF"
 
 #~ msgid "Firefox at Mobile World Congress 2013"
 #~ msgstr "Firefox en el Mobile World Congress 2013"
-
-#~ msgid "First Name"
-#~ msgstr "Nombre"
-
-#~ msgid "Last Name"
-#~ msgstr "Apellidos"
-
-#~ msgid "Title"
-#~ msgstr "Puesto"
-
-#~ msgid "Company"
-#~ msgstr "Compañía"
-
-#~ msgid "Website"
-#~ msgstr "Sitio web"
-
-#~ msgid "Phone"
-#~ msgstr "Teléfono"
 
 #~ msgid "Comments or questions?"
 #~ msgstr "¿Algún comentario o pregunta?"
@@ -1163,9 +1124,6 @@ msgstr "Descargar PDF"
 
 #~ msgid "CEO, Mozilla"
 #~ msgstr "CEO, Mozilla"
-
-#~ msgid "Mobile"
-#~ msgstr "Dispositivo móvil"
 
 #~ msgid "Back to top"
 #~ msgstr "Volver al principio"

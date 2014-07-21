@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-07 15:52+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2014-04-27 18:35+0000\n"
 "Last-Translator: Trung <ndtrung4419@gmail.com>\n"
 "Language-Team: none\n"
@@ -220,28 +220,10 @@ msgstr ""
 "trợ đã cài vào Firefox hãy làm theo các bước sau:"
 
 #: mozorg/plugincheck.lang:170
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:170"
-msgid "Open the Tools menu."
-msgstr "Mở trình đơn Công cụ."
-
-#: mozorg/plugincheck.lang:174
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:174"
-msgid "Choose Add-ons."
-msgstr "Chọn add-on."
-
-#: mozorg/plugincheck.lang:178
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:178"
-msgid "Click the plugins tab."
-msgstr "Nhấn vào thẻ plugin."
-
-#: mozorg/plugincheck.lang:182
 msgid "Want to spread the word?"
 msgstr "Bạn muốn chia sẻ trang này?"
 
-#: mozorg/plugincheck.lang:186
+#: mozorg/plugincheck.lang:174
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -249,41 +231,38 @@ msgstr ""
 "Hãy giúp các bạn của mình an toàn khi trực tuyến! Tới <a href=\"%(url)s"
 "\">Firefox Affiliates</a> để tải một plugin kiểm tra cho trang của bạn."
 
-#: mozorg/plugincheck.lang:190
+#: mozorg/plugincheck.lang:178
 msgid "How do I disable a plugin?"
 msgstr "Làm thế nào để tôi vô hiệu hóa một plugin?"
 
-#: mozorg/plugincheck.lang:194
+#: mozorg/plugincheck.lang:182
 msgid "In Firefox:"
 msgstr "Trong Firefox:"
 
-#: mozorg/plugincheck.lang:198
+#: mozorg/plugincheck.lang:186
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:198"
 msgid "Open the Tools menu."
 msgstr "Mở trình đơn Công cụ."
 
-#: mozorg/plugincheck.lang:202
+#: mozorg/plugincheck.lang:190
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:202"
 msgid "Choose Add-ons."
 msgstr "Chọn add-on."
 
-#: mozorg/plugincheck.lang:206
+#: mozorg/plugincheck.lang:194
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:206"
 msgid "Click the plugins tab."
 msgstr "Nhấn vào thẻ plugin."
 
-#: mozorg/plugincheck.lang:210
+#: mozorg/plugincheck.lang:198
 msgid "Click on a plugin in the list."
 msgstr "Nhấn vào một plugin trên danh sách."
 
-#: mozorg/plugincheck.lang:214
+#: mozorg/plugincheck.lang:202
 msgid "Click the Disable button."
 msgstr "Nhấn vào nút Vô hiệu hóa."
 
-#: mozorg/plugincheck.lang:218
+#: mozorg/plugincheck.lang:206
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -293,19 +272,34 @@ msgstr ""
 "một số việc. Ví dụ, nếu bạn vô hiệu hóa Flash, bạn sẽ không thể xem các "
 "video trên YouTube."
 
-#: mozorg/plugincheck.lang:222
+#: mozorg/plugincheck.lang:210
 msgid "Mozilla Support"
 msgstr "Hỗ trợ từ Mozilla"
 
-#: mozorg/plugincheck.lang:226
+#: mozorg/plugincheck.lang:214
 msgid "Have more questions?"
 msgstr "Còn câu hỏi nào khác?"
 
-#: mozorg/plugincheck.lang:230
+#: mozorg/plugincheck.lang:218
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "Vào trang <a href=\"%(sumo_url)s\">support.mozilla.org</a> để được hộ trợ "
 "thêm!"
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:198"
+#~ msgid "Open the Tools menu."
+#~ msgstr "Mở trình đơn Công cụ."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:202"
+#~ msgid "Choose Add-ons."
+#~ msgstr "Chọn add-on."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:206"
+#~ msgid "Click the plugins tab."
+#~ msgstr "Nhấn vào thẻ plugin."
 
 #~ msgctxt "./mozorg/plugincheck.lang:196"
 #~ msgid "Open the Tools menu."

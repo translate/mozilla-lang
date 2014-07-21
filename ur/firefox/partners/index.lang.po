@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-08 10:27+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2014-02-21 12:32+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: none\n"
@@ -31,36 +31,26 @@ msgstr "شامل ہونے کے لیے ہماری بزنس ڈیولپمنٹ ٹی�
 
 #. Field
 #: firefox/partners/index.lang:20
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:20"
 msgid "First Name"
 msgstr "پہلا نام"
 
 #. Field
 #: firefox/partners/index.lang:25
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:25"
 msgid "Last Name"
 msgstr "آخری نام"
 
-#. Field
+#. Field, e.g. president, CEO...
 #: firefox/partners/index.lang:30
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:30"
 msgid "Title"
 msgstr "عنوان"
 
 #. Field
 #: firefox/partners/index.lang:35
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:35"
 msgid "Company"
 msgstr "کمپنی"
 
 #. Field
 #: firefox/partners/index.lang:40
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:40"
 msgid "Website"
 msgstr "ویب سائٹ"
 
@@ -71,8 +61,6 @@ msgstr "ای میل"
 
 #. Form field
 #: firefox/partners/index.lang:50
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:50"
 msgid "Phone"
 msgstr "فون"
 
@@ -525,8 +513,6 @@ msgid "For Operators & Manufacturers"
 msgstr "اوپریٹرز اور مینیوفیکچررز کے لیے"
 
 #: firefox/partners/index.lang:397
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:397"
 msgid "Mobile"
 msgstr "موبایل"
 
@@ -593,121 +579,107 @@ msgstr "فیچر، تبدیلیوں اور مزید چیزوں کے بارے م�
 msgid "Description"
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:463
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:463"
-msgid "First Name"
-msgstr "پہلا نام"
-
 #. Form error message
-#: firefox/partners/index.lang:468
+#: firefox/partners/index.lang:463
 msgid "Please enter your first name."
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:473
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:473"
-msgid "Last Name"
-msgstr "آخری نام"
-
 #. Form error message
-#: firefox/partners/index.lang:478
+#: firefox/partners/index.lang:468
 msgid "Please enter your last name."
 msgstr ""
 
-#. ex: president, CEO...
-#: firefox/partners/index.lang:483
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:483"
-msgid "Title"
-msgstr "عنوان"
-
-#. Form field
-#: firefox/partners/index.lang:488
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:488"
-msgid "Company"
-msgstr "کمپنی"
-
 #. Form error message
-#: firefox/partners/index.lang:493
+#: firefox/partners/index.lang:473
 msgid "Please enter your company name."
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:498
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:498"
-msgid "Website"
-msgstr "ویب سائٹ"
-
 #. Form error message
-#: firefox/partners/index.lang:503
+#: firefox/partners/index.lang:478
 msgid "Please supply a valid URL."
 msgstr ""
 
 #. Form error message
-#: firefox/partners/index.lang:508
+#: firefox/partners/index.lang:483
 #, fuzzy
 msgid "Please enter a valid email address"
 msgstr "ایک جائز ای میل پتہ داخل کریں۔"
 
-#. Form field
-#: firefox/partners/index.lang:513
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:513"
-msgid "Phone"
-msgstr "فون"
-
-#. form, asking for mobile phone number
-#: firefox/partners/index.lang:518
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:518"
-msgid "Mobile"
-msgstr "موبایل"
-
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:523
+#: firefox/partners/index.lang:488
 #, fuzzy
 msgid "Address"
 msgstr "پتہ:"
 
 #. Form field
-#: firefox/partners/index.lang:528
+#: firefox/partners/index.lang:493
 msgid "City"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:533
+#: firefox/partners/index.lang:498
 msgid "State/Province"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:538
+#: firefox/partners/index.lang:503
 #, fuzzy
 msgid "Country"
 msgstr "ملک:"
 
 #. Form field, postal code
-#: firefox/partners/index.lang:543
+#: firefox/partners/index.lang:508
 msgid "Zip"
 msgstr ""
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:548
+#: firefox/partners/index.lang:513
 msgid "Register for a session"
 msgstr ""
 
 #. map header
-#: firefox/partners/index.lang:553
+#: firefox/partners/index.lang:518
 msgid "Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30"
 msgstr ""
 
-#: firefox/partners/index.lang:557
+#: firefox/partners/index.lang:522
 msgid "Download PDF"
 msgstr "PDF ڈاؤن لوڈ کریں"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:463"
+#~ msgid "First Name"
+#~ msgstr "پہلا نام"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:473"
+#~ msgid "Last Name"
+#~ msgstr "آخری نام"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:483"
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:488"
+#~ msgid "Company"
+#~ msgstr "کمپنی"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:498"
+#~ msgid "Website"
+#~ msgstr "ویب سائٹ"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:513"
+#~ msgid "Phone"
+#~ msgstr "فون"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:518"
+#~ msgid "Mobile"
+#~ msgstr "موبایل"
 
 #~ msgid "Submit it to the Firefox Marketplace today"
 #~ msgstr "اسے آج ہی Firefox Marketplace میں جمع کرائیں"
@@ -873,24 +845,6 @@ msgstr "PDF ڈاؤن لوڈ کریں"
 
 #~ msgid "Firefox at Mobile World Congress 2013"
 #~ msgstr "Mobile World Congress 2013 پر Firefox"
-
-#~ msgid "First Name"
-#~ msgstr "پہلا نام"
-
-#~ msgid "Last Name"
-#~ msgstr "آخری نام"
-
-#~ msgid "Title"
-#~ msgstr "عنوان"
-
-#~ msgid "Company"
-#~ msgstr "کمپنی"
-
-#~ msgid "Website"
-#~ msgstr "ویب سائٹ"
-
-#~ msgid "Phone"
-#~ msgstr "فون"
 
 #~ msgid "Comments or questions?"
 #~ msgstr "تبصرے یا سوالات؟"
@@ -1144,9 +1098,6 @@ msgstr "PDF ڈاؤن لوڈ کریں"
 
 #~ msgid "CEO, Mozilla"
 #~ msgstr "CEO، Mozilla"
-
-#~ msgid "Mobile"
-#~ msgstr "موبایل"
 
 #~ msgid "Back to top"
 #~ msgstr "واپس بالا پر"

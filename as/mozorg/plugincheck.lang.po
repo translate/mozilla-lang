@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-07 15:52+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -212,28 +212,10 @@ msgstr ""
 "প্লাগ-ইনসমূহ চাবলৈ এই স্তৰসমূহ লওক:"
 
 #: mozorg/plugincheck.lang:170
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:170"
-msgid "Open the Tools menu."
-msgstr "সঁজুলিসমূহ মেনু খোলক।"
-
-#: mozorg/plugincheck.lang:174
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:174"
-msgid "Choose Add-ons."
-msgstr "এড-অনসমূহ নিৰ্বাচন কৰক।"
-
-#: mozorg/plugincheck.lang:178
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:178"
-msgid "Click the plugins tab."
-msgstr "প্লাগ-ইনসমূহ টেবত টিপক।"
-
-#: mozorg/plugincheck.lang:182
 msgid "Want to spread the word?"
 msgstr "ইয়াৰ বিষয়ে জনাব বিচাৰে?"
 
-#: mozorg/plugincheck.lang:186
+#: mozorg/plugincheck.lang:174
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -241,41 +223,38 @@ msgstr ""
 "আপোনাৰ বন্ধুসকলক অনলাইন সুৰক্ষিত থকাত সহায় কৰক! আপোনাৰ ছাইটৰ বাবে এটা প্লাগিন চেক "
 "বেজ প্ৰাপ্ত কৰিবলে <a href=\"%(url)s\">Firefox সহকাৰীসকল</a> ভ্ৰমণ কৰক।"
 
-#: mozorg/plugincheck.lang:190
+#: mozorg/plugincheck.lang:178
 msgid "How do I disable a plugin?"
 msgstr "এটা প্লাগ-ইন কেনেদৰে অসামৰ্থবান কৰোঁ?"
 
-#: mozorg/plugincheck.lang:194
+#: mozorg/plugincheck.lang:182
 msgid "In Firefox:"
 msgstr "Firefox ত:"
 
-#: mozorg/plugincheck.lang:198
+#: mozorg/plugincheck.lang:186
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:198"
 msgid "Open the Tools menu."
 msgstr "সঁজুলিসমূহ মেনু খোলক।"
 
-#: mozorg/plugincheck.lang:202
+#: mozorg/plugincheck.lang:190
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:202"
 msgid "Choose Add-ons."
 msgstr "এড-অনসমূহ নিৰ্বাচন কৰক।"
 
-#: mozorg/plugincheck.lang:206
+#: mozorg/plugincheck.lang:194
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:206"
 msgid "Click the plugins tab."
 msgstr "প্লাগ-ইনসমূহ টেবত টিপক।"
 
-#: mozorg/plugincheck.lang:210
+#: mozorg/plugincheck.lang:198
 msgid "Click on a plugin in the list."
 msgstr "তালিকাৰ এটা প্লাগ-ইনত টিপক।"
 
-#: mozorg/plugincheck.lang:214
+#: mozorg/plugincheck.lang:202
 msgid "Click the Disable button."
 msgstr "অসামৰ্থবান কৰক বুটাম টিপক।"
 
-#: mozorg/plugincheck.lang:218
+#: mozorg/plugincheck.lang:206
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -285,18 +264,33 @@ msgstr ""
 "যেনে, আপুনি Flash অসামৰ্থবান কৰিলে, আপুনি জনপ্ৰিয় ভিডিঅ' দেখুওৱা ছাইটৰ পৰা ভিডিঅ' "
 "চাব নোৱাৰিব।"
 
-#: mozorg/plugincheck.lang:222
+#: mozorg/plugincheck.lang:210
 msgid "Mozilla Support"
 msgstr "Mozilla সমৰ্থন"
 
-#: mozorg/plugincheck.lang:226
+#: mozorg/plugincheck.lang:214
 msgid "Have more questions?"
 msgstr "আৰু প্ৰশ্ন আছে?"
 
-#: mozorg/plugincheck.lang:230
+#: mozorg/plugincheck.lang:218
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "অধিক সহায়ৰ বাবে <a href=\"%(sumo_url)s\">support.mozilla.org</a> ভ্ৰমণ কৰক!"
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:198"
+#~ msgid "Open the Tools menu."
+#~ msgstr "সঁজুলিসমূহ মেনু খোলক।"
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:202"
+#~ msgid "Choose Add-ons."
+#~ msgstr "এড-অনসমূহ নিৰ্বাচন কৰক।"
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:206"
+#~ msgid "Click the plugins tab."
+#~ msgstr "প্লাগ-ইনসমূহ টেবত টিপক।"
 
 #, fuzzy
 #~ msgctxt "./mozorg/plugincheck.lang:196"

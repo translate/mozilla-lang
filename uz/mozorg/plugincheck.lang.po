@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-07 15:52+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2014-07-09 17:42+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1404927775.000000\n"
 
 #. # java_notice ##
@@ -220,25 +220,10 @@ msgstr ""
 "o‘rnatilgan plaginlarni aniqlash uchun quyidagi bosqichlarni bajaring:"
 
 #: mozorg/plugincheck.lang:170
-msgctxt "./mozorg/plugincheck.lang:170"
-msgid "Open the Tools menu."
-msgstr "\"Asboblar\" menyusini oching"
-
-#: mozorg/plugincheck.lang:174
-msgctxt "./mozorg/plugincheck.lang:174"
-msgid "Choose Add-ons."
-msgstr "Qo‘shimcha dasturlarni tanlang."
-
-#: mozorg/plugincheck.lang:178
-msgctxt "./mozorg/plugincheck.lang:178"
-msgid "Click the plugins tab."
-msgstr "Plaginlar ichki oynasiga bosing"
-
-#: mozorg/plugincheck.lang:182
 msgid "Want to spread the word?"
 msgstr "So‘zni yoyishni xohlaysizmi?"
 
-#: mozorg/plugincheck.lang:186
+#: mozorg/plugincheck.lang:174
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -247,38 +232,38 @@ msgstr ""
 "plagin tekshirish nishonchasini olish uchun <a href=\"%(url)s\">Firefox "
 "Affiliates</a>ga tashrif buyuring."
 
-#: mozorg/plugincheck.lang:190
+#: mozorg/plugincheck.lang:178
 msgid "How do I disable a plugin?"
 msgstr "Qanday qilib plaginni o‘chirsam bo‘ladi?"
 
-#: mozorg/plugincheck.lang:194
+#: mozorg/plugincheck.lang:182
 msgid "In Firefox:"
 msgstr "\"Firefox\"da:"
 
-#: mozorg/plugincheck.lang:198
-msgctxt "./mozorg/plugincheck.lang:198"
+#: mozorg/plugincheck.lang:186
+#, fuzzy
 msgid "Open the Tools menu."
-msgstr "\"Asboblar\" menyusini oching."
+msgstr "\"Asboblar\" menyusini oching"
 
-#: mozorg/plugincheck.lang:202
-msgctxt "./mozorg/plugincheck.lang:202"
+#: mozorg/plugincheck.lang:190
+#, fuzzy
 msgid "Choose Add-ons."
 msgstr "Qo‘shimcha dasturlarni tanlang."
 
-#: mozorg/plugincheck.lang:206
-msgctxt "./mozorg/plugincheck.lang:206"
+#: mozorg/plugincheck.lang:194
+#, fuzzy
 msgid "Click the plugins tab."
-msgstr "Plaginlar ichki oynasiga bosing."
+msgstr "Plaginlar ichki oynasiga bosing"
 
-#: mozorg/plugincheck.lang:210
+#: mozorg/plugincheck.lang:198
 msgid "Click on a plugin in the list."
 msgstr "Ro‘yxatdagi plaginga bosing."
 
-#: mozorg/plugincheck.lang:214
+#: mozorg/plugincheck.lang:202
 msgid "Click the Disable button."
 msgstr "\"O‘chirish\" tugmasiga bosing."
 
-#: mozorg/plugincheck.lang:218
+#: mozorg/plugincheck.lang:206
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -288,16 +273,28 @@ msgstr ""
 "ishlamasligiga sabab bo‘lishi mumkin. Masalan, agar siz Flash plaginini "
 "o‘chirib qo‘ysangiz, \"Youtube\"dagi videolarni ko‘ra olmaysiz."
 
-#: mozorg/plugincheck.lang:222
+#: mozorg/plugincheck.lang:210
 msgid "Mozilla Support"
 msgstr "Mozilla qo‘llab-quvvatlash"
 
-#: mozorg/plugincheck.lang:226
+#: mozorg/plugincheck.lang:214
 msgid "Have more questions?"
 msgstr "Yana savollar bormi?"
 
-#: mozorg/plugincheck.lang:230
+#: mozorg/plugincheck.lang:218
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "Ko‘proq yordam olish uchun <a href=\"%(sumo_url)s\">support.mozilla.org</a> "
 "saytiga tashrif buyuring!"
+
+#~ msgctxt "./mozorg/plugincheck.lang:198"
+#~ msgid "Open the Tools menu."
+#~ msgstr "\"Asboblar\" menyusini oching."
+
+#~ msgctxt "./mozorg/plugincheck.lang:202"
+#~ msgid "Choose Add-ons."
+#~ msgstr "Qo‘shimcha dasturlarni tanlang."
+
+#~ msgctxt "./mozorg/plugincheck.lang:206"
+#~ msgid "Click the plugins tab."
+#~ msgstr "Plaginlar ichki oynasiga bosing."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-28 13:33+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2014-05-10 00:28+0000\n"
 "Last-Translator: Ibrahima <ibrahima.sarr@pulaagu.com>\n"
 "Language-Team: none\n"
@@ -31,33 +31,26 @@ msgstr ""
 
 #. Field
 #: firefox/partners/index.lang:20
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:20"
 msgid "First Name"
 msgstr "Innde"
 
 #. Field
 #: firefox/partners/index.lang:25
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:25"
 msgid "Last Name"
 msgstr "Yettoode"
 
-#. Field
+#. Field, e.g. president, CEO...
 #: firefox/partners/index.lang:30
-msgctxt "./firefox/partners/index.lang:30"
 msgid "Title"
 msgstr ""
 
 #. Field
 #: firefox/partners/index.lang:35
-msgctxt "./firefox/partners/index.lang:35"
 msgid "Company"
 msgstr ""
 
 #. Field
 #: firefox/partners/index.lang:40
-msgctxt "./firefox/partners/index.lang:40"
 msgid "Website"
 msgstr "Lowre geese"
 
@@ -68,9 +61,8 @@ msgstr "Iimeel"
 
 #. Form field
 #: firefox/partners/index.lang:50
-msgctxt "./firefox/partners/index.lang:50"
 msgid "Phone"
-msgstr "Cinndel"
+msgstr "Noddirde"
 
 #. Form field
 #: firefox/partners/index.lang:55
@@ -478,8 +470,6 @@ msgid "For Operators & Manufacturers"
 msgstr ""
 
 #: firefox/partners/index.lang:397
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:397"
 msgid "Mobile"
 msgstr "Cinndel"
 
@@ -545,119 +535,97 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:463
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:463"
-msgid "First Name"
-msgstr "Innde"
-
 #. Form error message
-#: firefox/partners/index.lang:468
+#: firefox/partners/index.lang:463
 msgid "Please enter your first name."
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:473
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:473"
-msgid "Last Name"
-msgstr "Yettoode"
-
 #. Form error message
-#: firefox/partners/index.lang:478
+#: firefox/partners/index.lang:468
 msgid "Please enter your last name."
 msgstr ""
 
-#. ex: president, CEO...
-#: firefox/partners/index.lang:483
-msgctxt "./firefox/partners/index.lang:483"
-msgid "Title"
-msgstr ""
-
-#. Form field
-#: firefox/partners/index.lang:488
-msgctxt "./firefox/partners/index.lang:488"
-msgid "Company"
-msgstr ""
-
 #. Form error message
-#: firefox/partners/index.lang:493
+#: firefox/partners/index.lang:473
 msgid "Please enter your company name."
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:498
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:498"
-msgid "Website"
-msgstr "Lowre geese"
-
 #. Form error message
-#: firefox/partners/index.lang:503
+#: firefox/partners/index.lang:478
 msgid "Please supply a valid URL."
 msgstr ""
 
 #. Form error message
-#: firefox/partners/index.lang:508
+#: firefox/partners/index.lang:483
 #, fuzzy
 msgid "Please enter a valid email address"
 msgstr "Tiiɗno naatnu ñiiɓirde iimeel moƴƴere."
 
-#. Form field
-#: firefox/partners/index.lang:513
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:513"
-msgid "Phone"
-msgstr "Noddirde"
-
-#. form, asking for mobile phone number
-#: firefox/partners/index.lang:518
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:518"
-msgid "Mobile"
-msgstr "Cinndel"
-
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:523
+#: firefox/partners/index.lang:488
 #, fuzzy
 msgid "Address"
 msgstr "Ñiiɓirde:"
 
 #. Form field
-#: firefox/partners/index.lang:528
+#: firefox/partners/index.lang:493
 msgid "City"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:533
+#: firefox/partners/index.lang:498
 msgid "State/Province"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:538
+#: firefox/partners/index.lang:503
 #, fuzzy
 msgid "Country"
 msgstr "Leydi:"
 
 #. Form field, postal code
-#: firefox/partners/index.lang:543
+#: firefox/partners/index.lang:508
 msgid "Zip"
 msgstr ""
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:548
+#: firefox/partners/index.lang:513
 msgid "Register for a session"
 msgstr ""
 
 #. map header
-#: firefox/partners/index.lang:553
+#: firefox/partners/index.lang:518
 msgid "Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30"
 msgstr ""
 
-#: firefox/partners/index.lang:557
+#: firefox/partners/index.lang:522
 msgid "Download PDF"
 msgstr "Aawto PDF"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:463"
+#~ msgid "First Name"
+#~ msgstr "Innde"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:473"
+#~ msgid "Last Name"
+#~ msgstr "Yettoode"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:498"
+#~ msgid "Website"
+#~ msgstr "Lowre geese"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:513"
+#~ msgid "Phone"
+#~ msgstr "Noddirde"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:518"
+#~ msgid "Mobile"
+#~ msgstr "Cinndel"
 
 #, fuzzy
 #~ msgctxt "./firefox/partners/index.lang:468"
@@ -769,23 +737,8 @@ msgstr "Aawto PDF"
 #~ msgid "Mobile"
 #~ msgstr "Cinndel"
 
-#~ msgid "First Name"
-#~ msgstr "Innde"
-
-#~ msgid "Last Name"
-#~ msgstr "Yettoode"
-
-#~ msgid "Website"
-#~ msgstr "Lowre geese"
-
-#~ msgid "Phone"
-#~ msgstr "Noddirde"
-
 #~ msgid "Location"
 #~ msgstr "Nokkuure"
-
-#~ msgid "Mobile"
-#~ msgstr "Cinndel"
 
 #, fuzzy
 #~ msgid "Back to top"

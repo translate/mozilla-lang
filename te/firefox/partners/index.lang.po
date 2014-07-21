@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-08 10:27+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2014-02-21 12:29+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: none\n"
@@ -33,35 +33,26 @@ msgstr ""
 
 #. Field
 #: firefox/partners/index.lang:20
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:20"
 msgid "First Name"
 msgstr "మొదటి పేరు"
 
 #. Field
 #: firefox/partners/index.lang:25
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:25"
 msgid "Last Name"
 msgstr "ఇంటి పేరు"
 
-#. Field
+#. Field, e.g. president, CEO...
 #: firefox/partners/index.lang:30
-msgctxt "./firefox/partners/index.lang:30"
 msgid "Title"
 msgstr ""
 
 #. Field
 #: firefox/partners/index.lang:35
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:35"
 msgid "Company"
 msgstr "కంపెనీ"
 
 #. Field
 #: firefox/partners/index.lang:40
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:40"
 msgid "Website"
 msgstr "వెబ్‌సైటు"
 
@@ -72,8 +63,6 @@ msgstr "ఈమెయిల్"
 
 #. Form field
 #: firefox/partners/index.lang:50
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:50"
 msgid "Phone"
 msgstr "ఫోను"
 
@@ -478,8 +467,6 @@ msgid "For Operators & Manufacturers"
 msgstr ""
 
 #: firefox/partners/index.lang:397
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:397"
 msgid "Mobile"
 msgstr "మొబైల్"
 
@@ -545,119 +532,101 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:463
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:463"
-msgid "First Name"
-msgstr "మొదటి పేరు"
-
 #. Form error message
-#: firefox/partners/index.lang:468
+#: firefox/partners/index.lang:463
 msgid "Please enter your first name."
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:473
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:473"
-msgid "Last Name"
-msgstr "ఇంటి పేరు"
-
 #. Form error message
-#: firefox/partners/index.lang:478
+#: firefox/partners/index.lang:468
 msgid "Please enter your last name."
 msgstr ""
 
-#. ex: president, CEO...
-#: firefox/partners/index.lang:483
-msgctxt "./firefox/partners/index.lang:483"
-msgid "Title"
-msgstr ""
-
-#. Form field
-#: firefox/partners/index.lang:488
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:488"
-msgid "Company"
-msgstr "కంపెనీ"
-
 #. Form error message
-#: firefox/partners/index.lang:493
+#: firefox/partners/index.lang:473
 msgid "Please enter your company name."
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:498
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:498"
-msgid "Website"
-msgstr "వెబ్‌సైటు"
-
 #. Form error message
-#: firefox/partners/index.lang:503
+#: firefox/partners/index.lang:478
 msgid "Please supply a valid URL."
 msgstr ""
 
 #. Form error message
-#: firefox/partners/index.lang:508
+#: firefox/partners/index.lang:483
 #, fuzzy
 msgid "Please enter a valid email address"
 msgstr "దయచేసి సరైన ఈమెయిలు చిరునామాను ఇవ్వండి."
 
-#. Form field
-#: firefox/partners/index.lang:513
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:513"
-msgid "Phone"
-msgstr "ఫోను"
-
-#. form, asking for mobile phone number
-#: firefox/partners/index.lang:518
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:518"
-msgid "Mobile"
-msgstr "మొబైల్"
-
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:523
+#: firefox/partners/index.lang:488
 #, fuzzy
 msgid "Address"
 msgstr "చిరునామా:"
 
 #. Form field
-#: firefox/partners/index.lang:528
+#: firefox/partners/index.lang:493
 msgid "City"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:533
+#: firefox/partners/index.lang:498
 msgid "State/Province"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:538
+#: firefox/partners/index.lang:503
 msgid "Country"
 msgstr ""
 
 #. Form field, postal code
-#: firefox/partners/index.lang:543
+#: firefox/partners/index.lang:508
 msgid "Zip"
 msgstr ""
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:548
+#: firefox/partners/index.lang:513
 msgid "Register for a session"
 msgstr ""
 
 #. map header
-#: firefox/partners/index.lang:553
+#: firefox/partners/index.lang:518
 msgid "Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30"
 msgstr ""
 
-#: firefox/partners/index.lang:557
+#: firefox/partners/index.lang:522
 msgid "Download PDF"
 msgstr ""
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:463"
+#~ msgid "First Name"
+#~ msgstr "మొదటి పేరు"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:473"
+#~ msgid "Last Name"
+#~ msgstr "ఇంటి పేరు"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:488"
+#~ msgid "Company"
+#~ msgstr "కంపెనీ"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:498"
+#~ msgid "Website"
+#~ msgstr "వెబ్‌సైటు"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:513"
+#~ msgid "Phone"
+#~ msgstr "ఫోను"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:518"
+#~ msgid "Mobile"
+#~ msgstr "మొబైల్"
 
 #, fuzzy
 #~ msgctxt "./firefox/partners/index.lang:468"
@@ -789,23 +758,5 @@ msgstr ""
 #~ msgid "Mobile"
 #~ msgstr "మొబైల్"
 
-#~ msgid "First Name"
-#~ msgstr "మొదటి పేరు"
-
-#~ msgid "Last Name"
-#~ msgstr "ఇంటి పేరు"
-
-#~ msgid "Company"
-#~ msgstr "కంపెనీ"
-
-#~ msgid "Website"
-#~ msgstr "వెబ్‌సైటు"
-
-#~ msgid "Phone"
-#~ msgstr "ఫోను"
-
 #~ msgid "Comments or questions?"
 #~ msgstr "వ్యాఖ్యలు లేదా సందేహాలున్నాయా?"
-
-#~ msgid "Mobile"
-#~ msgstr "మొబైల్"

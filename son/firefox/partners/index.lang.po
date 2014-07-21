@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-28 13:33+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2013-06-01 11:12+0000\n"
 "Last-Translator: Mohomodou  <mh@bollag-areal.ch>\n"
 "Language-Team: none\n"
@@ -32,36 +32,26 @@ msgstr "Ir cinakey kondaa šettekašinay goydogoo cee ka duu fahami."
 
 #. Field
 #: firefox/partners/index.lang:20
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:20"
 msgid "First Name"
 msgstr "Tiira maa"
 
 #. Field
 #: firefox/partners/index.lang:25
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:25"
 msgid "Last Name"
 msgstr "Zammu"
 
-#. Field
+#. Field, e.g. president, CEO...
 #: firefox/partners/index.lang:30
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:30"
 msgid "Title"
 msgstr "Maa"
 
 #. Field
 #: firefox/partners/index.lang:35
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:35"
 msgid "Company"
 msgstr "Konpaɲe"
 
 #. Field
 #: firefox/partners/index.lang:40
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:40"
 msgid "Website"
 msgstr "Interneti nungu"
 
@@ -72,8 +62,6 @@ msgstr "Bataga"
 
 #. Form field
 #: firefox/partners/index.lang:50
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:50"
 msgid "Phone"
 msgstr "Talfon"
 
@@ -479,8 +467,6 @@ msgid "For Operators & Manufacturers"
 msgstr ""
 
 #: firefox/partners/index.lang:397
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:397"
 msgid "Mobile"
 msgstr "Kanbehaya"
 
@@ -546,121 +532,107 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:463
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:463"
-msgid "First Name"
-msgstr "Tiira maa"
-
 #. Form error message
-#: firefox/partners/index.lang:468
+#: firefox/partners/index.lang:463
 msgid "Please enter your first name."
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:473
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:473"
-msgid "Last Name"
-msgstr "Zammu"
-
 #. Form error message
-#: firefox/partners/index.lang:478
+#: firefox/partners/index.lang:468
 msgid "Please enter your last name."
 msgstr ""
 
-#. ex: president, CEO...
-#: firefox/partners/index.lang:483
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:483"
-msgid "Title"
-msgstr "Maa"
-
-#. Form field
-#: firefox/partners/index.lang:488
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:488"
-msgid "Company"
-msgstr "Konpaɲe"
-
 #. Form error message
-#: firefox/partners/index.lang:493
+#: firefox/partners/index.lang:473
 msgid "Please enter your company name."
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:498
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:498"
-msgid "Website"
-msgstr "Interneti nungu"
-
 #. Form error message
-#: firefox/partners/index.lang:503
+#: firefox/partners/index.lang:478
 msgid "Please supply a valid URL."
 msgstr ""
 
 #. Form error message
-#: firefox/partners/index.lang:508
+#: firefox/partners/index.lang:483
 #, fuzzy
 msgid "Please enter a valid email address"
 msgstr "Bataga aderesu boryo dam taare."
 
-#. Form field
-#: firefox/partners/index.lang:513
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:513"
-msgid "Phone"
-msgstr "Talfon"
-
-#. form, asking for mobile phone number
-#: firefox/partners/index.lang:518
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:518"
-msgid "Mobile"
-msgstr "Kanbehaya"
-
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:523
+#: firefox/partners/index.lang:488
 #, fuzzy
 msgid "Address"
 msgstr "Aderesu:"
 
 #. Form field
-#: firefox/partners/index.lang:528
+#: firefox/partners/index.lang:493
 msgid "City"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:533
+#: firefox/partners/index.lang:498
 msgid "State/Province"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:538
+#: firefox/partners/index.lang:503
 #, fuzzy
 msgid "Country"
 msgstr "Laama:"
 
 #. Form field, postal code
-#: firefox/partners/index.lang:543
+#: firefox/partners/index.lang:508
 msgid "Zip"
 msgstr ""
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:548
+#: firefox/partners/index.lang:513
 msgid "Register for a session"
 msgstr ""
 
 #. map header
-#: firefox/partners/index.lang:553
+#: firefox/partners/index.lang:518
 msgid "Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30"
 msgstr ""
 
-#: firefox/partners/index.lang:557
+#: firefox/partners/index.lang:522
 msgid "Download PDF"
 msgstr "PDF zumandi"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:463"
+#~ msgid "First Name"
+#~ msgstr "Tiira maa"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:473"
+#~ msgid "Last Name"
+#~ msgstr "Zammu"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:483"
+#~ msgid "Title"
+#~ msgstr "Maa"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:488"
+#~ msgid "Company"
+#~ msgstr "Konpaɲe"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:498"
+#~ msgid "Website"
+#~ msgstr "Interneti nungu"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:513"
+#~ msgid "Phone"
+#~ msgstr "Talfon"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:518"
+#~ msgid "Mobile"
+#~ msgstr "Kanbehaya"
 
 #, fuzzy
 #~ msgctxt "./firefox/partners/index.lang:468"
@@ -815,32 +787,11 @@ msgstr "PDF zumandi"
 #~ msgid "Firefox at Mobile World Congress 2013"
 #~ msgstr "Firefox Mobile goo World Congress 2013 ra"
 
-#~ msgid "First Name"
-#~ msgstr "Tiira maa"
-
-#~ msgid "Last Name"
-#~ msgstr "Zammu"
-
-#~ msgid "Title"
-#~ msgstr "Maa"
-
-#~ msgid "Company"
-#~ msgstr "Konpaɲe"
-
-#~ msgid "Website"
-#~ msgstr "Interneti nungu"
-
-#~ msgid "Phone"
-#~ msgstr "Talfon"
-
 #~ msgid "Comments or questions?"
 #~ msgstr "Daara wala hãayan?"
 
 #~ msgid "Location"
 #~ msgstr "Gorodoo"
-
-#~ msgid "Mobile"
-#~ msgstr "Kanbehaya"
 
 #, fuzzy
 #~ msgid "Back to top"

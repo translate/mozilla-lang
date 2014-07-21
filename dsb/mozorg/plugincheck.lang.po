@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-07 15:52+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2014-07-07 20:23+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1404764606.000000\n"
 
 #. # java_notice ##
@@ -218,25 +218,10 @@ msgstr ""
 "tykace w Firefox woglědał, slědujśo toś tym kšacam:"
 
 #: mozorg/plugincheck.lang:170
-msgctxt "./mozorg/plugincheck.lang:170"
-msgid "Open the Tools menu."
-msgstr "Wócyńśo meni Rědy."
-
-#: mozorg/plugincheck.lang:174
-msgctxt "./mozorg/plugincheck.lang:174"
-msgid "Choose Add-ons."
-msgstr "Wubjeŕśo dodanki."
-
-#: mozorg/plugincheck.lang:178
-msgctxt "./mozorg/plugincheck.lang:178"
-msgid "Click the plugins tab."
-msgstr "Klikniśo na rejtark Tykace."
-
-#: mozorg/plugincheck.lang:182
 msgid "Want to spread the word?"
 msgstr "Cośo to dalej wulicyś?"
 
-#: mozorg/plugincheck.lang:186
+#: mozorg/plugincheck.lang:174
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -245,38 +230,38 @@ msgstr ""
 "\"%(url)s\">Partnarje Firefox</a>, aby rěd pśespytanja tykacow za swójo "
 "sedło dostał."
 
-#: mozorg/plugincheck.lang:190
+#: mozorg/plugincheck.lang:178
 msgid "How do I disable a plugin?"
 msgstr "Kak mógu tykac znjemóžniś?"
 
-#: mozorg/plugincheck.lang:194
+#: mozorg/plugincheck.lang:182
 msgid "In Firefox:"
 msgstr "W Firefox:"
 
-#: mozorg/plugincheck.lang:198
-msgctxt "./mozorg/plugincheck.lang:198"
+#: mozorg/plugincheck.lang:186
+#, fuzzy
 msgid "Open the Tools menu."
 msgstr "Wócyńśo meni Rědy."
 
-#: mozorg/plugincheck.lang:202
-msgctxt "./mozorg/plugincheck.lang:202"
+#: mozorg/plugincheck.lang:190
+#, fuzzy
 msgid "Choose Add-ons."
 msgstr "Wubjeŕśo dodanki."
 
-#: mozorg/plugincheck.lang:206
-msgctxt "./mozorg/plugincheck.lang:206"
+#: mozorg/plugincheck.lang:194
+#, fuzzy
 msgid "Click the plugins tab."
 msgstr "Klikniśo na rejtark Tykace."
 
-#: mozorg/plugincheck.lang:210
+#: mozorg/plugincheck.lang:198
 msgid "Click on a plugin in the list."
 msgstr "Klikńiśo na tykac w lisćinje."
 
-#: mozorg/plugincheck.lang:214
+#: mozorg/plugincheck.lang:202
 msgid "Click the Disable button."
 msgstr "Klikniśo na tłocašk Znjemóžniś."
 
-#: mozorg/plugincheck.lang:218
+#: mozorg/plugincheck.lang:206
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -286,18 +271,30 @@ msgstr ""
 "cyniś. Jolic znjemóžnijośo na pśikład Flash, njamóžośo se wideo na YouTube "
 "woglědowaś."
 
-#: mozorg/plugincheck.lang:222
+#: mozorg/plugincheck.lang:210
 msgid "Mozilla Support"
 msgstr "Pódpěra Mozilla"
 
-#: mozorg/plugincheck.lang:226
+#: mozorg/plugincheck.lang:214
 msgid "Have more questions?"
 msgstr "Maśo dalšne pšašanja?"
 
-#: mozorg/plugincheck.lang:230
+#: mozorg/plugincheck.lang:218
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "Woglědaj se <a href=\"%(sumo_url)s\">support.mozilla.org</a> za wěcej pomocy!"
+
+#~ msgctxt "./mozorg/plugincheck.lang:198"
+#~ msgid "Open the Tools menu."
+#~ msgstr "Wócyńśo meni Rědy."
+
+#~ msgctxt "./mozorg/plugincheck.lang:202"
+#~ msgid "Choose Add-ons."
+#~ msgstr "Wubjeŕśo dodanki."
+
+#~ msgctxt "./mozorg/plugincheck.lang:206"
+#~ msgid "Click the plugins tab."
+#~ msgstr "Klikniśo na rejtark Tykace."
 
 #~ msgctxt "./mozorg/plugincheck.lang:196"
 #~ msgid "Open the Tools menu."

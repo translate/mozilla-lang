@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-28 13:33+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2014-05-16 17:46+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1400262387.000000\n"
 
 #. <title> tag
@@ -33,31 +33,31 @@ msgstr "Stajśo se z našym wuwijarskim teamom do zwiska, aby was pśiwzeł."
 
 #. Field
 #: firefox/partners/index.lang:20
-msgctxt "./firefox/partners/index.lang:20"
+#, fuzzy
 msgid "First Name"
 msgstr "Pśedmě"
 
 #. Field
 #: firefox/partners/index.lang:25
-msgctxt "./firefox/partners/index.lang:25"
+#, fuzzy
 msgid "Last Name"
 msgstr "Familijowe mě"
 
-#. Field
+#. Field, e.g. president, CEO...
 #: firefox/partners/index.lang:30
-msgctxt "./firefox/partners/index.lang:30"
+#, fuzzy
 msgid "Title"
 msgstr "Titel"
 
 #. Field
 #: firefox/partners/index.lang:35
-msgctxt "./firefox/partners/index.lang:35"
+#, fuzzy
 msgid "Company"
 msgstr "Pśedewześe"
 
 #. Field
 #: firefox/partners/index.lang:40
-msgctxt "./firefox/partners/index.lang:40"
+#, fuzzy
 msgid "Website"
 msgstr "Websedło"
 
@@ -68,7 +68,7 @@ msgstr "E-mail"
 
 #. Form field
 #: firefox/partners/index.lang:50
-msgctxt "./firefox/partners/index.lang:50"
+#, fuzzy
 msgid "Phone"
 msgstr "Telefon"
 
@@ -541,7 +541,7 @@ msgid "For Operators & Manufacturers"
 msgstr "Za póbitowarjow a zgótowarjow"
 
 #: firefox/partners/index.lang:397
-msgctxt "./firefox/partners/index.lang:397"
+#, fuzzy
 msgid "Mobile"
 msgstr "Mobilny"
 
@@ -608,108 +608,94 @@ msgstr "Wo funkcijach, změnach a wěcej cytaś"
 msgid "Description"
 msgstr "Wopisanje"
 
-#. Form field
-#: firefox/partners/index.lang:463
-msgctxt "./firefox/partners/index.lang:463"
-msgid "First Name"
-msgstr "Pśedmě"
-
 #. Form error message
-#: firefox/partners/index.lang:468
+#: firefox/partners/index.lang:463
 msgid "Please enter your first name."
 msgstr "Pšosym zapódajśo swójo pśedmě."
 
-#. Form field
-#: firefox/partners/index.lang:473
-msgctxt "./firefox/partners/index.lang:473"
-msgid "Last Name"
-msgstr "Familijowe mě"
-
 #. Form error message
-#: firefox/partners/index.lang:478
+#: firefox/partners/index.lang:468
 msgid "Please enter your last name."
 msgstr "Pšosym zapódajśo swójo familijowe mě."
 
-#. ex: president, CEO...
-#: firefox/partners/index.lang:483
-msgctxt "./firefox/partners/index.lang:483"
-msgid "Title"
-msgstr "Titel"
-
-#. Form field
-#: firefox/partners/index.lang:488
-msgctxt "./firefox/partners/index.lang:488"
-msgid "Company"
-msgstr "Pśedewześe"
-
 #. Form error message
-#: firefox/partners/index.lang:493
+#: firefox/partners/index.lang:473
 msgid "Please enter your company name."
 msgstr "Pšosym zapódajśo mě swójogo pśedewześa."
 
-#. Form field
-#: firefox/partners/index.lang:498
-msgctxt "./firefox/partners/index.lang:498"
-msgid "Website"
-msgstr "Websedło"
-
 #. Form error message
-#: firefox/partners/index.lang:503
+#: firefox/partners/index.lang:478
 msgid "Please supply a valid URL."
 msgstr "Pšosym pódajśo płaśiwy URL."
 
 #. Form error message
-#: firefox/partners/index.lang:508
+#: firefox/partners/index.lang:483
 msgid "Please enter a valid email address"
 msgstr "Pšosym zapódajśo płaśiwu e-mailowu adresu"
 
-#. Form field
-#: firefox/partners/index.lang:513
-msgctxt "./firefox/partners/index.lang:513"
-msgid "Phone"
-msgstr "Telefon"
-
-#. form, asking for mobile phone number
-#: firefox/partners/index.lang:518
-msgctxt "./firefox/partners/index.lang:518"
-msgid "Mobile"
-msgstr "Mobilny telefon"
-
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:523
+#: firefox/partners/index.lang:488
 msgid "Address"
 msgstr "Adresa"
 
 #. Form field
-#: firefox/partners/index.lang:528
+#: firefox/partners/index.lang:493
 msgid "City"
 msgstr "Město"
 
 #. Form field
-#: firefox/partners/index.lang:533
+#: firefox/partners/index.lang:498
 msgid "State/Province"
 msgstr "Zwězkowy kraj"
 
 #. Form field
-#: firefox/partners/index.lang:538
+#: firefox/partners/index.lang:503
 msgid "Country"
 msgstr "Kraj"
 
 #. Form field, postal code
-#: firefox/partners/index.lang:543
+#: firefox/partners/index.lang:508
 msgid "Zip"
 msgstr "Postowa licba"
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:548
+#: firefox/partners/index.lang:513
 msgid "Register for a session"
 msgstr "Za pósejźenje registrěrowaś"
 
 #. map header
-#: firefox/partners/index.lang:553
+#: firefox/partners/index.lang:518
 msgid "Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30"
 msgstr "Firefox na MWC 2014 &ndash; hala 3, wustajanišćo 3C30"
 
-#: firefox/partners/index.lang:557
+#: firefox/partners/index.lang:522
 msgid "Download PDF"
 msgstr "PDF ześěgnuś"
+
+#~ msgctxt "./firefox/partners/index.lang:463"
+#~ msgid "First Name"
+#~ msgstr "Pśedmě"
+
+#~ msgctxt "./firefox/partners/index.lang:473"
+#~ msgid "Last Name"
+#~ msgstr "Familijowe mě"
+
+#~ msgctxt "./firefox/partners/index.lang:483"
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgctxt "./firefox/partners/index.lang:488"
+#~ msgid "Company"
+#~ msgstr "Pśedewześe"
+
+#~ msgctxt "./firefox/partners/index.lang:498"
+#~ msgid "Website"
+#~ msgstr "Websedło"
+
+#~ msgctxt "./firefox/partners/index.lang:513"
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgctxt "./firefox/partners/index.lang:518"
+#~ msgid "Mobile"
+#~ msgstr "Mobilny telefon"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-07 15:52+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2013-09-20 19:28+0000\n"
 "Last-Translator: Mohomodou  <mh@bollag-areal.ch>\n"
 "Language-Team: none\n"
@@ -209,28 +209,10 @@ msgstr ""
 "Firefox ra hanga ceebandey wey: "
 
 #: mozorg/plugincheck.lang:170
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:170"
-msgid "Open the Tools menu."
-msgstr "Goyjinay šilbayboŋ feeri"
-
-#: mozorg/plugincheck.lang:174
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:174"
-msgid "Choose Add-ons."
-msgstr "Tontoney suuba."
-
-#: mozorg/plugincheck.lang:178
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:178"
-msgid "Click the plugins tab."
-msgstr "Sukarey nor lokoo naagu."
-
-#: mozorg/plugincheck.lang:182
 msgid "Want to spread the word?"
 msgstr "War ga boona ka woo fee?"
 
-#: mozorg/plugincheck.lang:186
+#: mozorg/plugincheck.lang:174
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -238,41 +220,38 @@ msgstr ""
 "War cerey gaa ka saajaw interneti ra! Guna <a href=\"%(url)s\">Firefox "
 "Affiliates</a> ka duu sukari šilbay war nungoo še."
 
-#: mozorg/plugincheck.lang:190
+#: mozorg/plugincheck.lang:178
 msgid "How do I disable a plugin?"
 msgstr "Taka foo nd'ay ga sukari kayandi?"
 
-#: mozorg/plugincheck.lang:194
+#: mozorg/plugincheck.lang:182
 msgid "In Firefox:"
 msgstr "Firefox ra:"
 
-#: mozorg/plugincheck.lang:198
+#: mozorg/plugincheck.lang:186
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:198"
 msgid "Open the Tools menu."
 msgstr "Goyjinay šilbayboŋ feeri"
 
-#: mozorg/plugincheck.lang:202
+#: mozorg/plugincheck.lang:190
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:202"
 msgid "Choose Add-ons."
 msgstr "Tontoney suuba."
 
-#: mozorg/plugincheck.lang:206
+#: mozorg/plugincheck.lang:194
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:206"
 msgid "Click the plugins tab."
 msgstr "Sukarey nor lokoo naagu."
 
-#: mozorg/plugincheck.lang:210
+#: mozorg/plugincheck.lang:198
 msgid "Click on a plugin in the list."
 msgstr "Sukari foo naagu maašeedaa ra."
 
-#: mozorg/plugincheck.lang:214
+#: mozorg/plugincheck.lang:202
 msgid "Click the Disable button."
 msgstr "Kayandi butoŋoo naagu."
 
-#: mozorg/plugincheck.lang:218
+#: mozorg/plugincheck.lang:206
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -281,17 +260,32 @@ msgstr ""
 "Hawgay: sukari kayandiyan maanaa ti war ši hin ka haya fooyaŋ tee koyne. "
 "Sanda, nda war na Flash kayandi, war ši hin widewoyaŋ guna YouTube ga."
 
-#: mozorg/plugincheck.lang:222
+#: mozorg/plugincheck.lang:210
 msgid "Mozilla Support"
 msgstr "Mozilla Support"
 
-#: mozorg/plugincheck.lang:226
+#: mozorg/plugincheck.lang:214
 msgid "Have more questions?"
 msgstr "War hãayan fooyaŋ cindi?"
 
-#: mozorg/plugincheck.lang:230
+#: mozorg/plugincheck.lang:218
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr "Dii <a href=\"%(sumo_url)s\">support.mozilla.org</a> faaba tontoni še!"
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:198"
+#~ msgid "Open the Tools menu."
+#~ msgstr "Goyjinay šilbayboŋ feeri"
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:202"
+#~ msgid "Choose Add-ons."
+#~ msgstr "Tontoney suuba."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:206"
+#~ msgid "Click the plugins tab."
+#~ msgstr "Sukarey nor lokoo naagu."
 
 #, fuzzy
 #~ msgctxt "./mozorg/plugincheck.lang:196"

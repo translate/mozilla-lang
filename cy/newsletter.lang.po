@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-20 22:34+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2014-04-11 00:15+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1397175301.000000\n"
 
 #. These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
@@ -152,20 +152,11 @@ msgstr "Dysgu am yr ychwanegion newydd gorau a nodweddion Firefox symudol."
 msgid "Beta News"
 msgstr "Beta News"
 
-#: newsletter.lang:104
-msgctxt "./newsletter.lang:104"
-msgid ""
-"Read about the latest features for Firefox desktop and mobile before the "
-"final release."
-msgstr ""
-"Darllen am nodweddion diweddaraf Firefox ar y bwrdd gwaith a symudol cyn eu "
-"rhyddhau'n derfynol."
-
-#: newsletter.lang:108
+#: newsletter.lang:105
 msgid "Let’s Be Friends!"
 msgstr "Bod yn Ffrind!"
 
-#: newsletter.lang:112
+#: newsletter.lang:109
 msgid ""
 "Firefox is also on your favorite social networking sites. Connect with us "
 "and join the conversation."
@@ -173,84 +164,84 @@ msgstr ""
 "Mae Firefox hefyd ar eich hoff wefannau rhwydweithio cymdeithasol. "
 "Cysylltwch â ni ac ymuno yn y sgwrs."
 
-#: newsletter.lang:116
+#: newsletter.lang:113
 msgid "Manage your <span>Newsletter Subscriptions</span>"
 msgstr "Rheoli eich <span>Tanysgrifiadau Newyddlen</span>"
 
-#: newsletter.lang:120
+#: newsletter.lang:117
 msgid "Subscribe"
 msgstr "Tanysgrifio"
 
-#: newsletter.lang:124
+#: newsletter.lang:121
 msgid "Unsubscribe"
 msgstr "Dad-danysgrifio"
 
-#: newsletter.lang:128
+#: newsletter.lang:125
 msgid "Check here if you’d like to be removed from all Mozilla emails"
 msgstr ""
 "Ticiwch yma os hoffech chi gael eich tynnu oddi ar holl restrau e-bostio "
 "Mozilla"
 
-#: newsletter.lang:132
+#: newsletter.lang:129
 msgid "Remove me from all Mozilla emails"
 msgstr "Tynnu oddi ar holl e-byst Mozilla"
 
-#: newsletter.lang:136
+#: newsletter.lang:133
 msgid "Save Preferences"
 msgstr "Cadw Dewisiadau"
 
-#: newsletter.lang:139
+#: newsletter.lang:136
 msgid "Thanks for updating your email preferences."
 msgstr "Diolch am ddiweddaru eich dewisiadau e-bost."
 
-#: newsletter.lang:143
+#: newsletter.lang:140
 msgid "You've been unsubscribed."
 msgstr "Rydych wedi eich dad-danysgrifio."
 
-#: newsletter.lang:146
+#: newsletter.lang:143
 msgid ""
 "We’re sorry to see you go. Would you mind telling us why you’re leaving?"
 msgstr ""
 "Rydym yn flin o'ch gweld yn mynd. Fyddech chi'n fodlon dweud pam rydych yn "
 "gadael?"
 
-#: newsletter.lang:150
+#: newsletter.lang:147
 msgid "You send too many emails."
 msgstr "Rydych yn anfon gormod o e-byst."
 
-#: newsletter.lang:154
+#: newsletter.lang:151
 msgid "Your content wasn't relevant to me."
 msgstr "Doedd y cynnwys ddim yn berthnasol i mi."
 
-#: newsletter.lang:158
+#: newsletter.lang:155
 msgid "Your email design was too hard to read."
 msgstr "Roedd cynllun yr e-bost yn rhy anodd ei ddarllen."
 
-#: newsletter.lang:162
+#: newsletter.lang:159
 msgid "I didn't sign up for this."
 msgstr "Doeddwn i ddim wedi gofyn am hyn."
 
-#: newsletter.lang:166
+#: newsletter.lang:163
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
 msgstr "Rwy'n cadw cysylltiad â Mozilla drwy Facebook a Twitter yn lle hynny."
 
-#: newsletter.lang:170
+#: newsletter.lang:167
 msgid "Submit"
 msgstr "Cyflwyno"
 
-#: newsletter.lang:173
+#: newsletter.lang:170
 msgid "Thanks for telling us why you’re leaving."
 msgstr "Diolch am ddweud pam rydych yn gadael."
 
-#: newsletter.lang:177
+#: newsletter.lang:174
 msgid "Mozilla Newsletters"
 msgstr "Newyddlen Mozilla"
 
-#: newsletter.lang:181
+#: newsletter.lang:178
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr "Diolch! Gwiriwch eich Blwch Derbyn i gadarnhau eich tanysgrifiad."
 
-#: newsletter.lang:185
+#: newsletter.lang:182
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -260,7 +251,7 @@ msgstr ""
 "tanysgrifiad. Os nad yw i'w weld, gwiriwch eich hidl sbam. Rhaid i chi "
 "gadarnhau eich tanysgrifiad er mwyn derbyn y newyddlen."
 
-#: newsletter.lang:189
+#: newsletter.lang:186
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
@@ -270,21 +261,21 @@ msgstr ""
 "blwch derbyn."
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: newsletter.lang:194
+#: newsletter.lang:191
 msgid "Get Firefox news"
 msgstr "Derbyn newyddion Firefox"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: newsletter.lang:199
+#: newsletter.lang:196
 msgid "YOUR EMAIL HERE"
 msgstr "EICH E-BOST YMA"
 
 #. Button
-#: newsletter.lang:203
+#: newsletter.lang:200
 msgid "Sign me up"
 msgstr "Cofrestru"
 
-#: newsletter.lang:207
+#: newsletter.lang:204
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
@@ -292,7 +283,7 @@ msgstr ""
 "Rwy'n fodlon i Mozilla drin fy ngwybodaeth fel mae'n cael ei esbonio yn <a "
 "href=\"%s\">y polisi Preifatrwydd hwn</a>"
 
-#: newsletter.lang:211
+#: newsletter.lang:208
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
@@ -300,133 +291,132 @@ msgstr ""
 "Mae'r ddolen yma wedi dod i ben. Byddwch yn derbyn un newydd yn y "
 "cylchlythyr nesaf."
 
-#: newsletter.lang:215
+#: newsletter.lang:212
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr ""
 "Mae rhywbeth o'i le gyda'n system, ymddiheuriadau. Ceisiwch eto yn nes "
 "ymlaen."
 
-#: newsletter.lang:219
+#: newsletter.lang:216
 msgid "English&nbsp;only"
 msgstr "Saesneg&nbsp;yn unig"
 
-#: newsletter.lang:223
+#: newsletter.lang:220
 msgid "Newsletter Subscriptions"
 msgstr "Tanysgrifiadau Cylchlythyr"
 
-#: newsletter.lang:227
+#: newsletter.lang:224
 msgid "Newsletter confirm"
 msgstr "Cadarnhau'r cylchlythyr"
 
-#: newsletter.lang:231
+#: newsletter.lang:228
 msgid "Format:"
 msgstr "Fformat:"
 
-#: newsletter.lang:235
+#: newsletter.lang:232
 msgid "You’ve been unsubscribed."
 msgstr "Rydych wedi eich dad-danysgrifio."
 
-#: newsletter.lang:239
+#: newsletter.lang:236
 msgid "We’re sorry to see you go."
 msgstr "Mae'n flin gennym eich bod yn gadael."
 
-#: newsletter.lang:243
+#: newsletter.lang:240
 msgid "Would you mind telling us why you’re leaving?"
 msgstr "Hoffech chi rannu pam eich bod yn gadael?"
 
-#: newsletter.lang:247
+#: newsletter.lang:244
 msgid "Other…"
 msgstr "Arall…"
 
-#: newsletter.lang:251
+#: newsletter.lang:248
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr "Tra bo chi yma, beth am ddysgu rhagor am ddefnyddioldeb Firefox."
 
-#: newsletter.lang:255
+#: newsletter.lang:252
 msgid "Get up and go"
 msgstr "Cychwyn a mynd"
 
-#: newsletter.lang:259
+#: newsletter.lang:256
 msgid "It’s your Web anywhere you go."
 msgstr "Eich gwe chi, lle bynnag yr ewch chi."
 
-#: newsletter.lang:263
+#: newsletter.lang:260
 msgid "Get Firefox for mobile!"
 msgstr "Firefox ar gyfer ffonau symudol!"
 
-#: newsletter.lang:267
+#: newsletter.lang:264
 msgid "Added extras"
 msgstr "Ychwanegion ychwanegol"
 
-#: newsletter.lang:271
+#: newsletter.lang:268
 msgid "Make Firefox do more with add-ons."
 msgstr "Gall Firefox wneud mwy gydag ychwanegion."
 
-#: newsletter.lang:275
+#: newsletter.lang:272
 msgid "Find out how!"
 msgstr "Dysgu rhagor!"
 
-#: newsletter.lang:279
+#: newsletter.lang:276
 msgid "About us"
 msgstr "Amdanom ni"
 
-#: newsletter.lang:283
+#: newsletter.lang:280
 msgid "What’s Mozilla all about?"
 msgstr "Beth yw Mozilla?"
 
-#: newsletter.lang:287
+#: newsletter.lang:284
 msgid "We’re glad you asked!"
 msgstr "Peth da bod chi wedi gofyn!"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:292
+#: newsletter.lang:289
 msgid ""
 "A monthly newsletter packed with tips to improve your Firefox experience."
 msgstr ""
 "Cylchlythyr misol yn llawn o gynghorion i wella eich profiad gyda Firefox."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:297
+#: newsletter.lang:294
 msgid "Tips and tricks to use Firefox on your Android phone."
 msgstr "Cynghorion ar sut i ddefnyddio Firefox ar eich ffôn Android."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:302
+#: newsletter.lang:299
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr "Newyddion, cynghorion, gwybodaeth am lansio a sut i brynu Firefox OS."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:307
+#: newsletter.lang:304
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr "Darganfod yr apiau HTML5 diweddaraf a gorau ar Firefox OS."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:312
+#: newsletter.lang:309
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr "Derbyniwch gyngor wythnosol ar sut i well eich profiad o Firefox."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:317
-msgctxt "./newsletter.lang:317"
+#: newsletter.lang:314
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
 msgstr ""
 "Darllen am nodweddion diweddaraf Firefox ar y bwrdd gwaith a symudol cyn eu "
-"rhyddhau'n derfynol."
+"rhyddhau'n derfynnol."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:322
+#: newsletter.lang:319
 msgid "News from the Mozilla Project."
 msgstr "Newyddion o Project Mozilla."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:327
+#: newsletter.lang:324
 msgid "Periodic email updates about our annual international film competition."
 msgstr "Diweddariadau achlysurol am ein cystadleuaeth ffilm rhyngwladol."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:332
+#: newsletter.lang:329
 msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
@@ -434,7 +424,7 @@ msgstr ""
 "Cylchlythyr misol i'ch cadw'n gyfredol gyda'n rhaglen Cysylltai Firefox."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:337
+#: newsletter.lang:334
 msgid ""
 "News for developers about Firefox OS, Firefox Marketplace and the Open Web "
 "apps ecosystem."
@@ -443,24 +433,32 @@ msgstr ""
 "amgylchedd Open Web."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:342
+#: newsletter.lang:339
 msgid "Email updates for vouched Mozillians on mozillians.org."
 msgstr "Diweddariadau ar gyfer Moziliaid gwarantedig ar mozillians.org."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:347
+#: newsletter.lang:344
 msgid ""
 "A monthly newsletter on how to get involved with Mozilla on your campus."
 msgstr "Cylchlythyr misol ar sut i ymuno gyda Mozilla ar eich campws."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:352
+#: newsletter.lang:349
 msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
 msgstr ""
 "Rhaglen newydd Firefox Student Ambassadors yn lle hen rhaglen prifysgol "
 "2008-2011."
+
+#~ msgctxt "./newsletter.lang:317"
+#~ msgid ""
+#~ "Read about the latest features for Firefox desktop and mobile before the "
+#~ "final release."
+#~ msgstr ""
+#~ "Darllen am nodweddion diweddaraf Firefox ar y bwrdd gwaith a symudol cyn "
+#~ "eu rhyddhau'n derfynol."
 
 #~ msgid ""
 #~ "I’m okay with you handling this info as you explain in your <a href=\"%s"
@@ -476,10 +474,3 @@ msgstr ""
 #~ msgstr ""
 #~ "Darllenwch am y nodweddion diweddaraf fersiynau bwrdd gwaith a symudol "
 #~ "Mozilla cyn y rhyddhad terfynol."
-
-#~ msgid ""
-#~ "Read about the latest features for Firefox desktop and mobile before the "
-#~ "final release."
-#~ msgstr ""
-#~ "Darllen am nodweddion diweddaraf Firefox ar y bwrdd gwaith a symudol cyn "
-#~ "eu rhyddhau'n derfynnol."

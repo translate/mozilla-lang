@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-08 10:27+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2014-02-21 12:23+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: none\n"
@@ -32,36 +32,26 @@ msgstr "Урбааны сайыннарар салаабытын кытта си
 
 #. Field
 #: firefox/partners/index.lang:20
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:20"
 msgid "First Name"
 msgstr "Аатыҥ"
 
 #. Field
 #: firefox/partners/index.lang:25
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:25"
 msgid "Last Name"
 msgstr "Араспаанньаҥ"
 
-#. Field
+#. Field, e.g. president, CEO...
 #: firefox/partners/index.lang:30
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:30"
 msgid "Title"
 msgstr "Баһа"
 
 #. Field
 #: firefox/partners/index.lang:35
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:35"
 msgid "Company"
 msgstr "Тэрилтэҥ"
 
 #. Field
 #: firefox/partners/index.lang:40
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:40"
 msgid "Website"
 msgstr "Ситим-сириҥ"
 
@@ -72,8 +62,6 @@ msgstr "Эл. почта"
 
 #. Form field
 #: firefox/partners/index.lang:50
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:50"
 msgid "Phone"
 msgstr "Төлөпүөнүҥ"
 
@@ -513,8 +501,6 @@ msgid "For Operators & Manufacturers"
 msgstr ""
 
 #: firefox/partners/index.lang:397
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:397"
 msgid "Mobile"
 msgstr "Мобильнай"
 
@@ -584,118 +570,104 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:463
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:463"
-msgid "First Name"
-msgstr "Аатыҥ"
-
 #. Form error message
-#: firefox/partners/index.lang:468
+#: firefox/partners/index.lang:463
 msgid "Please enter your first name."
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:473
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:473"
-msgid "Last Name"
-msgstr "Араспаанньаҥ"
-
 #. Form error message
-#: firefox/partners/index.lang:478
+#: firefox/partners/index.lang:468
 msgid "Please enter your last name."
 msgstr ""
 
-#. ex: president, CEO...
-#: firefox/partners/index.lang:483
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:483"
-msgid "Title"
-msgstr "Баһа"
-
-#. Form field
-#: firefox/partners/index.lang:488
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:488"
-msgid "Company"
-msgstr "Тэрилтэҥ"
-
 #. Form error message
-#: firefox/partners/index.lang:493
+#: firefox/partners/index.lang:473
 msgid "Please enter your company name."
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:498
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:498"
-msgid "Website"
-msgstr "Ситим-сириҥ"
-
 #. Form error message
-#: firefox/partners/index.lang:503
+#: firefox/partners/index.lang:478
 msgid "Please supply a valid URL."
 msgstr ""
 
 #. Form error message
-#: firefox/partners/index.lang:508
+#: firefox/partners/index.lang:483
 msgid "Please enter a valid email address"
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:513
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:513"
-msgid "Phone"
-msgstr "Төлөпүөнүҥ"
-
-#. form, asking for mobile phone number
-#: firefox/partners/index.lang:518
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:518"
-msgid "Mobile"
-msgstr "Мобильнай"
-
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:523
+#: firefox/partners/index.lang:488
 msgid "Address"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:528
+#: firefox/partners/index.lang:493
 msgid "City"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:533
+#: firefox/partners/index.lang:498
 msgid "State/Province"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:538
+#: firefox/partners/index.lang:503
 msgid "Country"
 msgstr ""
 
 #. Form field, postal code
-#: firefox/partners/index.lang:543
+#: firefox/partners/index.lang:508
 msgid "Zip"
 msgstr ""
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:548
+#: firefox/partners/index.lang:513
 msgid "Register for a session"
 msgstr ""
 
 #. map header
-#: firefox/partners/index.lang:553
+#: firefox/partners/index.lang:518
 msgid "Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30"
 msgstr ""
 
-#: firefox/partners/index.lang:557
+#: firefox/partners/index.lang:522
 msgid "Download PDF"
 msgstr ""
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:463"
+#~ msgid "First Name"
+#~ msgstr "Аатыҥ"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:473"
+#~ msgid "Last Name"
+#~ msgstr "Араспаанньаҥ"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:483"
+#~ msgid "Title"
+#~ msgstr "Баһа"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:488"
+#~ msgid "Company"
+#~ msgstr "Тэрилтэҥ"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:498"
+#~ msgid "Website"
+#~ msgstr "Ситим-сириҥ"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:513"
+#~ msgid "Phone"
+#~ msgstr "Төлөпүөнүҥ"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:518"
+#~ msgid "Mobile"
+#~ msgstr "Мобильнай"
 
 #~ msgid "Submit it to the Firefox Marketplace today"
 #~ msgstr "Бүгүн Firefox Эргиэнин киинигэр ыыт"
@@ -852,24 +824,6 @@ msgstr ""
 
 #~ msgid "Firefox at Mobile World Congress 2013"
 #~ msgstr "Firefox 2013 сыллааҕы Мобайл Ворлд Конгресска "
-
-#~ msgid "First Name"
-#~ msgstr "Аатыҥ"
-
-#~ msgid "Last Name"
-#~ msgstr "Араспаанньаҥ"
-
-#~ msgid "Title"
-#~ msgstr "Баһа"
-
-#~ msgid "Company"
-#~ msgstr "Тэрилтэҥ"
-
-#~ msgid "Website"
-#~ msgstr "Ситим-сириҥ"
-
-#~ msgid "Phone"
-#~ msgstr "Төлөпүөнүҥ"
 
 #~ msgid "Comments or questions?"
 #~ msgstr "Ыйытыылааххын эбэтэр этиилээххин дуо?"
@@ -1033,9 +987,6 @@ msgstr ""
 
 #~ msgid "CEO, Mozilla"
 #~ msgstr "CEO, Mozilla"
-
-#~ msgid "Mobile"
-#~ msgstr "Мобильнай"
 
 #~ msgid "Back to top"
 #~ msgstr "Саҕаланыытыгар төннүү"

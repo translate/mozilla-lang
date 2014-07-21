@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-08 10:27+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2014-06-09 18:42+0000\n"
 "Last-Translator: xh-ZA03_Fuma <fdyubhele@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1402339328.000000\n"
 
 #. <title> tag
@@ -32,31 +32,26 @@ msgstr "Qhagamshelana neqela lethu lophuhliso lwezoshishino ukuze uzimanye."
 
 #. Field
 #: firefox/partners/index.lang:20
-msgctxt "./firefox/partners/index.lang:20"
 msgid "First Name"
 msgstr "Igama Lokuqala"
 
 #. Field
 #: firefox/partners/index.lang:25
-msgctxt "./firefox/partners/index.lang:25"
 msgid "Last Name"
 msgstr "Ifani"
 
-#. Field
+#. Field, e.g. president, CEO...
 #: firefox/partners/index.lang:30
-msgctxt "./firefox/partners/index.lang:30"
 msgid "Title"
 msgstr "Isibizo sakho"
 
 #. Field
 #: firefox/partners/index.lang:35
-msgctxt "./firefox/partners/index.lang:35"
 msgid "Company"
 msgstr "Inkampani"
 
 #. Field
 #: firefox/partners/index.lang:40
-msgctxt "./firefox/partners/index.lang:40"
 msgid "Website"
 msgstr "Iwebhusayithi"
 
@@ -67,7 +62,6 @@ msgstr "I-imeyili"
 
 #. Form field
 #: firefox/partners/index.lang:50
-msgctxt "./firefox/partners/index.lang:50"
 msgid "Phone"
 msgstr "Umnxeba"
 
@@ -538,9 +532,8 @@ msgid "For Operators & Manufacturers"
 msgstr "Kubalawuli & Nabavelisi"
 
 #: firefox/partners/index.lang:397
-msgctxt "./firefox/partners/index.lang:397"
 msgid "Mobile"
-msgstr "Imfonomfono ephathwayo"
+msgstr "Imfonomfono Ephathwayo"
 
 #: firefox/partners/index.lang:401
 msgid "Firefox Marketplace — Developer testimonials"
@@ -609,113 +602,99 @@ msgstr "Funda ngeenkalo, iinguqu nokunye okungakumbi"
 msgid "Description"
 msgstr "Ingcaciso"
 
-#. Form field
-#: firefox/partners/index.lang:463
-msgctxt "./firefox/partners/index.lang:463"
-msgid "First Name"
-msgstr "Igama Lokuqala"
-
 #. Form error message
-#: firefox/partners/index.lang:468
+#: firefox/partners/index.lang:463
 msgid "Please enter your first name."
 msgstr "Sicela ufake igama lakho."
 
-#. Form field
-#: firefox/partners/index.lang:473
-msgctxt "./firefox/partners/index.lang:473"
-msgid "Last Name"
-msgstr "Ifani"
-
 #. Form error message
-#: firefox/partners/index.lang:478
+#: firefox/partners/index.lang:468
 msgid "Please enter your last name."
 msgstr "Sicela ufake ifani yakho."
 
-#. ex: president, CEO...
-#: firefox/partners/index.lang:483
-msgctxt "./firefox/partners/index.lang:483"
-msgid "Title"
-msgstr "Isibizo sakho"
-
-#. Form field
-#: firefox/partners/index.lang:488
-msgctxt "./firefox/partners/index.lang:488"
-msgid "Company"
-msgstr "Inkampani"
-
 #. Form error message
-#: firefox/partners/index.lang:493
+#: firefox/partners/index.lang:473
 msgid "Please enter your company name."
 msgstr "Sicela ufake igama lenkampani yakho."
 
-#. Form field
-#: firefox/partners/index.lang:498
-msgctxt "./firefox/partners/index.lang:498"
-msgid "Website"
-msgstr "Iwebhusayithi"
-
 #. Form error message
-#: firefox/partners/index.lang:503
+#: firefox/partners/index.lang:478
 msgid "Please supply a valid URL."
 msgstr "Nceda ufake i-URL esebenzayo."
 
 #. Form error message
-#: firefox/partners/index.lang:508
+#: firefox/partners/index.lang:483
 msgid "Please enter a valid email address"
 msgstr "Nceda ufake idilesi ye-imeyili esebenzayo"
 
-#. Form field
-#: firefox/partners/index.lang:513
-msgctxt "./firefox/partners/index.lang:513"
-msgid "Phone"
-msgstr "Ifowuni"
-
-#. form, asking for mobile phone number
-#: firefox/partners/index.lang:518
-msgctxt "./firefox/partners/index.lang:518"
-msgid "Mobile"
-msgstr "Imfonomfono ephathwayo"
-
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:523
+#: firefox/partners/index.lang:488
 msgid "Address"
 msgstr "Idilesi"
 
 #. Form field
-#: firefox/partners/index.lang:528
+#: firefox/partners/index.lang:493
 msgid "City"
 msgstr "Isixeko"
 
 #. Form field
-#: firefox/partners/index.lang:533
+#: firefox/partners/index.lang:498
 msgid "State/Province"
 msgstr "Iphondo"
 
 #. Form field
-#: firefox/partners/index.lang:538
+#: firefox/partners/index.lang:503
 msgid "Country"
 msgstr "Ilizwe"
 
 #. Form field, postal code
-#: firefox/partners/index.lang:543
+#: firefox/partners/index.lang:508
 msgid "Zip"
 msgstr "Ikhowudi"
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:548
+#: firefox/partners/index.lang:513
 msgid "Register for a session"
 msgstr "Bhalisela iseshoni"
 
 #. map header
-#: firefox/partners/index.lang:553
+#: firefox/partners/index.lang:518
 msgid "Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30"
 msgstr ""
 "IFirefox kwiNkongolo yeHlabathi yeeMfonomfono ka-2014 &ndash; iHolo 3, "
 "isitendi 3C30"
 
-#: firefox/partners/index.lang:557
+#: firefox/partners/index.lang:522
 msgid "Download PDF"
 msgstr "Khuphela i-PDF"
+
+#~ msgctxt "./firefox/partners/index.lang:463"
+#~ msgid "First Name"
+#~ msgstr "Igama Lokuqala"
+
+#~ msgctxt "./firefox/partners/index.lang:473"
+#~ msgid "Last Name"
+#~ msgstr "Ifani"
+
+#~ msgctxt "./firefox/partners/index.lang:483"
+#~ msgid "Title"
+#~ msgstr "Isibizo sakho"
+
+#~ msgctxt "./firefox/partners/index.lang:488"
+#~ msgid "Company"
+#~ msgstr "Inkampani"
+
+#~ msgctxt "./firefox/partners/index.lang:498"
+#~ msgid "Website"
+#~ msgstr "Iwebhusayithi"
+
+#~ msgctxt "./firefox/partners/index.lang:513"
+#~ msgid "Phone"
+#~ msgstr "Ifowuni"
+
+#~ msgctxt "./firefox/partners/index.lang:518"
+#~ msgid "Mobile"
+#~ msgstr "Imfonomfono ephathwayo"
 
 #~ msgid "Submit it to the Firefox Marketplace today"
 #~ msgstr "Yifake kwiMarike yeFirefox namhlanje"
@@ -851,24 +830,6 @@ msgstr "Khuphela i-PDF"
 
 #~ msgid "Firefox at Mobile World Congress 2013"
 #~ msgstr "Inkongolo Yehlabathi Ka-2013 YeFirefox Yemfonomfono Ephathwayo"
-
-#~ msgid "First Name"
-#~ msgstr "Igama Lokuqala"
-
-#~ msgid "Last Name"
-#~ msgstr "Ifani"
-
-#~ msgid "Title"
-#~ msgstr "Isibizo sakho"
-
-#~ msgid "Company"
-#~ msgstr "Inkampani"
-
-#~ msgid "Website"
-#~ msgstr "Iwebhusayithi"
-
-#~ msgid "Phone"
-#~ msgstr "Umnxeba"
 
 #~ msgid "Comments or questions?"
 #~ msgstr "Unamagqabaza okanye umbuzo?"
@@ -1134,9 +1095,6 @@ msgstr "Khuphela i-PDF"
 
 #~ msgid "CEO, Mozilla"
 #~ msgstr "I-CEO, yeMozilla"
-
-#~ msgid "Mobile"
-#~ msgstr "Imfonomfono Ephathwayo"
 
 #~ msgid "Back to top"
 #~ msgstr "Buyela emantla"

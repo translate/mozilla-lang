@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-07 15:52+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2013-10-27 17:53+0000\n"
 "Last-Translator: Tin Aung <tinaunglinn.eng91@gmail.com>\n"
 "Language-Team: none\n"
@@ -213,28 +213,10 @@ msgstr ""
 "ပလပ်အင်များ အား ကြည့်ရန် အောက်ပါ အဆင့်များအတိုင်း လိုက်လုပ်ပါ"
 
 #: mozorg/plugincheck.lang:170
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:170"
-msgid "Open the Tools menu."
-msgstr "ကိရိယာ မီနူး အားဖွင့်"
-
-#: mozorg/plugincheck.lang:174
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:174"
-msgid "Choose Add-ons."
-msgstr "ထပ်ပေါင်းဆော့ဝဲများအားရွေးပါ"
-
-#: mozorg/plugincheck.lang:178
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:178"
-msgid "Click the plugins tab."
-msgstr "ထပ်ပေါင်းဆော့ဝဲ တပ်ဗ် အားကလစ် နှိပ်ပါ"
-
-#: mozorg/plugincheck.lang:182
 msgid "Want to spread the word?"
 msgstr "အများသိအောင် ဖြန့်ဝေပေးမလား ?"
 
-#: mozorg/plugincheck.lang:186
+#: mozorg/plugincheck.lang:174
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -242,41 +224,38 @@ msgstr ""
 "သင့်သူငယ်ချင်းတွေကို အင်တာနက်မှာ လုံခြုံပါစေ ! <a href=\"%(url)s\">မီးမြေခွေး တရားဝင်ကိုယ်စားလှယ်</"
 "a> ပရိုဂရမ်ကို ဝင်ရောက်ပြီး သင့်ဝတ်ဆိုဒ်မှာ Badge များထည့်နိုင်ပါတယ်"
 
-#: mozorg/plugincheck.lang:190
+#: mozorg/plugincheck.lang:178
 msgid "How do I disable a plugin?"
 msgstr "ထပ်ပေါင်းဆော့ဝဲ တစ်ခုကိုဘယ်လိုပိတ်မလဲ ?"
 
-#: mozorg/plugincheck.lang:194
+#: mozorg/plugincheck.lang:182
 msgid "In Firefox:"
 msgstr "မီးမြေခွေးတွင်၊"
 
-#: mozorg/plugincheck.lang:198
+#: mozorg/plugincheck.lang:186
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:198"
 msgid "Open the Tools menu."
 msgstr "ကိရိယာ မီနူး အားဖွင့်"
 
-#: mozorg/plugincheck.lang:202
+#: mozorg/plugincheck.lang:190
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:202"
 msgid "Choose Add-ons."
 msgstr "ထပ်ပေါင်းဆော့ဝဲများအားရွေးပါ"
 
-#: mozorg/plugincheck.lang:206
+#: mozorg/plugincheck.lang:194
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:206"
 msgid "Click the plugins tab."
 msgstr "ထပ်ပေါင်းဆော့ဝဲ တပ်ဗ် အားကလစ် နှိပ်ပါ"
 
-#: mozorg/plugincheck.lang:210
+#: mozorg/plugincheck.lang:198
 msgid "Click on a plugin in the list."
 msgstr "စာရင်းထဲရှိ ပလပ်အင်တစ်ခု အားနှိပ်ပါ"
 
-#: mozorg/plugincheck.lang:214
+#: mozorg/plugincheck.lang:202
 msgid "Click the Disable button."
 msgstr "ပိတ်မည့် ခလုပ်အားနှိပ်ပါ"
 
-#: mozorg/plugincheck.lang:218
+#: mozorg/plugincheck.lang:206
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -286,18 +265,33 @@ msgstr ""
 "နှင့်တူသှ်။ ဥပမာ သင် Flash အားပိတ်ထားပါက ယူကျု ပေါ်တွင် ဗီဒီယိုများ ကြည့်ရှူ နိုင်မည်မဟုတ်ပါ "
 "( ယခုနောက်ပိုင်းတွင် HTML5 အားထောက်ပံပေးထားသဖြင့် ၎င်းပြသာနာတော့ မရှိတော့ပါ )"
 
-#: mozorg/plugincheck.lang:222
+#: mozorg/plugincheck.lang:210
 msgid "Mozilla Support"
 msgstr "မိုဇီလာ အထောက်အပံ့"
 
-#: mozorg/plugincheck.lang:226
+#: mozorg/plugincheck.lang:214
 msgid "Have more questions?"
 msgstr "နောက်ထပ်မေးခွန်းတွေရှိသေးလား?"
 
-#: mozorg/plugincheck.lang:230
+#: mozorg/plugincheck.lang:218
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "<a href=\"%(sumo_url)s\">support.mozilla.org</a> ကို နောက်ထပ် အကူအညီလိုလျှင် သွားကြည့်ပါ"
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:198"
+#~ msgid "Open the Tools menu."
+#~ msgstr "ကိရိယာ မီနူး အားဖွင့်"
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:202"
+#~ msgid "Choose Add-ons."
+#~ msgstr "ထပ်ပေါင်းဆော့ဝဲများအားရွေးပါ"
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:206"
+#~ msgid "Click the plugins tab."
+#~ msgstr "ထပ်ပေါင်းဆော့ဝဲ တပ်ဗ် အားကလစ် နှိပ်ပါ"
 
 #, fuzzy
 #~ msgctxt "./mozorg/plugincheck.lang:196"

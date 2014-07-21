@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-08 10:27+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2014-04-10 09:15+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1397121355.000000\n"
 
 #. <title> tag
@@ -32,31 +32,26 @@ msgstr "Cysylltwch â'n tîm datblygu busnes i gychwyn arni."
 
 #. Field
 #: firefox/partners/index.lang:20
-msgctxt "./firefox/partners/index.lang:20"
 msgid "First Name"
 msgstr "Enw Cyntaf"
 
 #. Field
 #: firefox/partners/index.lang:25
-msgctxt "./firefox/partners/index.lang:25"
 msgid "Last Name"
 msgstr "Enw Olaf"
 
-#. Field
+#. Field, e.g. president, CEO...
 #: firefox/partners/index.lang:30
-msgctxt "./firefox/partners/index.lang:30"
 msgid "Title"
 msgstr "Teitl"
 
 #. Field
 #: firefox/partners/index.lang:35
-msgctxt "./firefox/partners/index.lang:35"
 msgid "Company"
 msgstr "Cwmni"
 
 #. Field
 #: firefox/partners/index.lang:40
-msgctxt "./firefox/partners/index.lang:40"
 msgid "Website"
 msgstr "Gwefan"
 
@@ -67,7 +62,6 @@ msgstr "E-bost"
 
 #. Form field
 #: firefox/partners/index.lang:50
-msgctxt "./firefox/partners/index.lang:50"
 msgid "Phone"
 msgstr "Ffôn"
 
@@ -531,7 +525,6 @@ msgid "For Operators & Manufacturers"
 msgstr "Darparwyr a Masnachwyr"
 
 #: firefox/partners/index.lang:397
-msgctxt "./firefox/partners/index.lang:397"
 msgid "Mobile"
 msgstr "Symudol"
 
@@ -597,111 +590,97 @@ msgstr "Darllenwch am nodweddion, newidiadau a rhagor"
 msgid "Description"
 msgstr "Disgrifiad"
 
-#. Form field
-#: firefox/partners/index.lang:463
-msgctxt "./firefox/partners/index.lang:463"
-msgid "First Name"
-msgstr "Enw Cyntaf"
-
 #. Form error message
-#: firefox/partners/index.lang:468
+#: firefox/partners/index.lang:463
 msgid "Please enter your first name."
 msgstr "Rhowch eich enw cyntaf."
 
-#. Form field
-#: firefox/partners/index.lang:473
-msgctxt "./firefox/partners/index.lang:473"
-msgid "Last Name"
-msgstr "Enw Olaf"
-
 #. Form error message
-#: firefox/partners/index.lang:478
+#: firefox/partners/index.lang:468
 msgid "Please enter your last name."
 msgstr "Rhowch eich enw olaf."
 
-#. ex: president, CEO...
-#: firefox/partners/index.lang:483
-msgctxt "./firefox/partners/index.lang:483"
-msgid "Title"
-msgstr "Teitl"
-
-#. Form field
-#: firefox/partners/index.lang:488
-msgctxt "./firefox/partners/index.lang:488"
-msgid "Company"
-msgstr "Cwmni"
-
 #. Form error message
-#: firefox/partners/index.lang:493
+#: firefox/partners/index.lang:473
 msgid "Please enter your company name."
 msgstr "Rhowch enw eich cwmni."
 
-#. Form field
-#: firefox/partners/index.lang:498
-msgctxt "./firefox/partners/index.lang:498"
-msgid "Website"
-msgstr "Gwefan"
-
 #. Form error message
-#: firefox/partners/index.lang:503
+#: firefox/partners/index.lang:478
 msgid "Please supply a valid URL."
 msgstr "Darparwch URL dilys."
 
 #. Form error message
-#: firefox/partners/index.lang:508
+#: firefox/partners/index.lang:483
 msgid "Please enter a valid email address"
 msgstr "Rhowch gyfeiriad e-bost dilys, os gwelwch yn dda"
 
-#. Form field
-#: firefox/partners/index.lang:513
-msgctxt "./firefox/partners/index.lang:513"
-msgid "Phone"
-msgstr "Ffôn"
-
-#. form, asking for mobile phone number
-#: firefox/partners/index.lang:518
-msgctxt "./firefox/partners/index.lang:518"
-msgid "Mobile"
-msgstr "Symudol"
-
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:523
+#: firefox/partners/index.lang:488
 msgid "Address"
 msgstr "Cyfeiriad"
 
 #. Form field
-#: firefox/partners/index.lang:528
+#: firefox/partners/index.lang:493
 msgid "City"
 msgstr "Tref/Dinas"
 
 #. Form field
-#: firefox/partners/index.lang:533
+#: firefox/partners/index.lang:498
 msgid "State/Province"
 msgstr "Sir/Talaith"
 
 #. Form field
-#: firefox/partners/index.lang:538
+#: firefox/partners/index.lang:503
 msgid "Country"
 msgstr "Gwlad"
 
 #. Form field, postal code
-#: firefox/partners/index.lang:543
+#: firefox/partners/index.lang:508
 msgid "Zip"
 msgstr "Zip"
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:548
+#: firefox/partners/index.lang:513
 msgid "Register for a session"
 msgstr "Cofrestru am sesiwn"
 
 #. map header
-#: firefox/partners/index.lang:553
+#: firefox/partners/index.lang:518
 msgid "Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30"
 msgstr "Firefox yn MWC 2014 &ndash; Neuadd 3, Stondin 3C30"
 
-#: firefox/partners/index.lang:557
+#: firefox/partners/index.lang:522
 msgid "Download PDF"
 msgstr "Llwytho'r PDF i lawr"
+
+#~ msgctxt "./firefox/partners/index.lang:463"
+#~ msgid "First Name"
+#~ msgstr "Enw Cyntaf"
+
+#~ msgctxt "./firefox/partners/index.lang:473"
+#~ msgid "Last Name"
+#~ msgstr "Enw Olaf"
+
+#~ msgctxt "./firefox/partners/index.lang:483"
+#~ msgid "Title"
+#~ msgstr "Teitl"
+
+#~ msgctxt "./firefox/partners/index.lang:488"
+#~ msgid "Company"
+#~ msgstr "Cwmni"
+
+#~ msgctxt "./firefox/partners/index.lang:498"
+#~ msgid "Website"
+#~ msgstr "Gwefan"
+
+#~ msgctxt "./firefox/partners/index.lang:513"
+#~ msgid "Phone"
+#~ msgstr "Ffôn"
+
+#~ msgctxt "./firefox/partners/index.lang:518"
+#~ msgid "Mobile"
+#~ msgstr "Symudol"
 
 #~ msgid "Submit it to the Firefox Marketplace today"
 #~ msgstr "Cyflwynwch i'r Firefox Marketplace heddiw"
@@ -846,24 +825,6 @@ msgstr "Llwytho'r PDF i lawr"
 
 #~ msgid "Firefox at Mobile World Congress 2013"
 #~ msgstr "Firefox yn y Mobile World Congress 2013"
-
-#~ msgid "First Name"
-#~ msgstr "Enw Cyntaf"
-
-#~ msgid "Last Name"
-#~ msgstr "Enw Olaf"
-
-#~ msgid "Title"
-#~ msgstr "Teitl"
-
-#~ msgid "Company"
-#~ msgstr "Cwmni"
-
-#~ msgid "Website"
-#~ msgstr "Gwefan"
-
-#~ msgid "Phone"
-#~ msgstr "Ffôn"
 
 #~ msgid "Comments or questions?"
 #~ msgstr "Sylwadau neu gwestiynau?"
@@ -1122,9 +1083,6 @@ msgstr "Llwytho'r PDF i lawr"
 
 #~ msgid "CEO, Mozilla"
 #~ msgstr "CEO, Mozilla"
-
-#~ msgid "Mobile"
-#~ msgstr "Symudol"
 
 #~ msgid "Back to top"
 #~ msgstr "Nôl i'r brig"

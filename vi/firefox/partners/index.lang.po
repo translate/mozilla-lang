@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-08 10:27+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2013-11-29 15:20+0000\n"
 "Last-Translator: Đặng <thanhdd.it@gmail.com>\n"
 "Language-Team: none\n"
@@ -32,36 +32,26 @@ msgstr "Liên hệ với đội phát triển kinh doanh của chúng tôi để
 
 #. Field
 #: firefox/partners/index.lang:20
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:20"
 msgid "First Name"
 msgstr "Họ"
 
 #. Field
 #: firefox/partners/index.lang:25
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:25"
 msgid "Last Name"
 msgstr "Tên"
 
-#. Field
+#. Field, e.g. president, CEO...
 #: firefox/partners/index.lang:30
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:30"
 msgid "Title"
 msgstr "Tước vị"
 
 #. Field
 #: firefox/partners/index.lang:35
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:35"
 msgid "Company"
 msgstr "Công ty"
 
 #. Field
 #: firefox/partners/index.lang:40
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:40"
 msgid "Website"
 msgstr "Trang Web"
 
@@ -72,8 +62,6 @@ msgstr "Thư điện tử"
 
 #. Form field
 #: firefox/partners/index.lang:50
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:50"
 msgid "Phone"
 msgstr "Điện thoại"
 
@@ -496,8 +484,6 @@ msgid "For Operators & Manufacturers"
 msgstr ""
 
 #: firefox/partners/index.lang:397
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:397"
 msgid "Mobile"
 msgstr "Di động"
 
@@ -565,120 +551,106 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:463
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:463"
-msgid "First Name"
-msgstr "Họ"
-
 #. Form error message
-#: firefox/partners/index.lang:468
+#: firefox/partners/index.lang:463
 msgid "Please enter your first name."
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:473
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:473"
-msgid "Last Name"
-msgstr "Tên"
-
 #. Form error message
-#: firefox/partners/index.lang:478
+#: firefox/partners/index.lang:468
 msgid "Please enter your last name."
 msgstr ""
 
-#. ex: president, CEO...
-#: firefox/partners/index.lang:483
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:483"
-msgid "Title"
-msgstr "Tước vị"
-
-#. Form field
-#: firefox/partners/index.lang:488
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:488"
-msgid "Company"
-msgstr "Công ty"
-
 #. Form error message
-#: firefox/partners/index.lang:493
+#: firefox/partners/index.lang:473
 msgid "Please enter your company name."
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:498
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:498"
-msgid "Website"
-msgstr "Trang Web"
-
 #. Form error message
-#: firefox/partners/index.lang:503
+#: firefox/partners/index.lang:478
 msgid "Please supply a valid URL."
 msgstr ""
 
 #. Form error message
-#: firefox/partners/index.lang:508
+#: firefox/partners/index.lang:483
 msgid "Please enter a valid email address"
 msgstr ""
 
-#. Form field
-#: firefox/partners/index.lang:513
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:513"
-msgid "Phone"
-msgstr "Điện thoại"
-
-#. form, asking for mobile phone number
-#: firefox/partners/index.lang:518
-#, fuzzy
-msgctxt "./firefox/partners/index.lang:518"
-msgid "Mobile"
-msgstr "Di động"
-
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:523
+#: firefox/partners/index.lang:488
 #, fuzzy
 msgid "Address"
 msgstr "Địa chỉ:"
 
 #. Form field
-#: firefox/partners/index.lang:528
+#: firefox/partners/index.lang:493
 msgid "City"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:533
+#: firefox/partners/index.lang:498
 msgid "State/Province"
 msgstr ""
 
 #. Form field
-#: firefox/partners/index.lang:538
+#: firefox/partners/index.lang:503
 #, fuzzy
 msgid "Country"
 msgstr "Quốc gia:"
 
 #. Form field, postal code
-#: firefox/partners/index.lang:543
+#: firefox/partners/index.lang:508
 msgid "Zip"
 msgstr ""
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:548
+#: firefox/partners/index.lang:513
 msgid "Register for a session"
 msgstr ""
 
 #. map header
-#: firefox/partners/index.lang:553
+#: firefox/partners/index.lang:518
 msgid "Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30"
 msgstr ""
 
-#: firefox/partners/index.lang:557
+#: firefox/partners/index.lang:522
 msgid "Download PDF"
 msgstr ""
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:463"
+#~ msgid "First Name"
+#~ msgstr "Họ"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:473"
+#~ msgid "Last Name"
+#~ msgstr "Tên"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:483"
+#~ msgid "Title"
+#~ msgstr "Tước vị"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:488"
+#~ msgid "Company"
+#~ msgstr "Công ty"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:498"
+#~ msgid "Website"
+#~ msgstr "Trang Web"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:513"
+#~ msgid "Phone"
+#~ msgstr "Điện thoại"
+
+#, fuzzy
+#~ msgctxt "./firefox/partners/index.lang:518"
+#~ msgid "Mobile"
+#~ msgstr "Di động"
 
 #, fuzzy
 #~ msgctxt "./firefox/partners/index.lang:468"
@@ -836,24 +808,6 @@ msgstr ""
 #~ msgid "Firefox at Mobile World Congress 2013"
 #~ msgstr "Firefox tại Hội nghị Di Động Toàn Cầu 2013"
 
-#~ msgid "First Name"
-#~ msgstr "Họ"
-
-#~ msgid "Last Name"
-#~ msgstr "Tên"
-
-#~ msgid "Title"
-#~ msgstr "Tước vị"
-
-#~ msgid "Company"
-#~ msgstr "Công ty"
-
-#~ msgid "Website"
-#~ msgstr "Trang Web"
-
-#~ msgid "Phone"
-#~ msgstr "Điện thoại"
-
 #~ msgid "Comments or questions?"
 #~ msgstr "Bạn có bình luận hay câu hỏi nào không?"
 
@@ -885,9 +839,6 @@ msgstr ""
 
 #~ msgid "Learn more about the technology behind Firefox OS"
 #~ msgstr "Tìm hiểu thêm về những công nghệ đằng sau Firefox OS"
-
-#~ msgid "Mobile"
-#~ msgstr "Di động"
 
 #~ msgid "Back to top"
 #~ msgstr "Lên đầu trang"

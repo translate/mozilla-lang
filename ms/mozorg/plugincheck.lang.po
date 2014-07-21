@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-07 15:52+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2014-04-26 04:55+0000\n"
 "Last-Translator: Arif Fahmi <ryuzaki_l@y7mail.com>\n"
 "Language-Team: none\n"
@@ -220,28 +220,10 @@ msgstr ""
 "yang dipasang dalam Firefox mengikuti langkah tersebut:"
 
 #: mozorg/plugincheck.lang:170
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:170"
-msgid "Open the Tools menu."
-msgstr "Buka menu Alatan."
-
-#: mozorg/plugincheck.lang:174
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:174"
-msgid "Choose Add-ons."
-msgstr "Pilih Addon."
-
-#: mozorg/plugincheck.lang:178
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:178"
-msgid "Click the plugins tab."
-msgstr "Tekan tab plugin."
-
-#: mozorg/plugincheck.lang:182
 msgid "Want to spread the word?"
 msgstr "Mahu sebarkan makluman?"
 
-#: mozorg/plugincheck.lang:186
+#: mozorg/plugincheck.lang:174
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -250,41 +232,38 @@ msgstr ""
 "\"%(url)s\">Firefox Affiliates</a> untuk dapatkan lencana semakan plugin "
 "pada laman anda."
 
-#: mozorg/plugincheck.lang:190
+#: mozorg/plugincheck.lang:178
 msgid "How do I disable a plugin?"
 msgstr "Bagaimana saya boleh melumpuhkan plugin?"
 
-#: mozorg/plugincheck.lang:194
+#: mozorg/plugincheck.lang:182
 msgid "In Firefox:"
 msgstr "Dalam Firefox:"
 
-#: mozorg/plugincheck.lang:198
+#: mozorg/plugincheck.lang:186
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:198"
 msgid "Open the Tools menu."
 msgstr "Buka menu Alatan."
 
-#: mozorg/plugincheck.lang:202
+#: mozorg/plugincheck.lang:190
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:202"
 msgid "Choose Add-ons."
 msgstr "Pilih Addon."
 
-#: mozorg/plugincheck.lang:206
+#: mozorg/plugincheck.lang:194
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:206"
 msgid "Click the plugins tab."
 msgstr "Tekan tab plugin."
 
-#: mozorg/plugincheck.lang:210
+#: mozorg/plugincheck.lang:198
 msgid "Click on a plugin in the list."
 msgstr "Tekan pada satu plugin dalam senarai."
 
-#: mozorg/plugincheck.lang:214
+#: mozorg/plugincheck.lang:202
 msgid "Click the Disable button."
 msgstr "Tekan butang Disable."
 
-#: mozorg/plugincheck.lang:218
+#: mozorg/plugincheck.lang:206
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -294,18 +273,33 @@ msgstr ""
 "dibenarkan perkara lazim. Seperti contoh, jika anda melumpuhkan Flash, anda "
 "tidak dapat menonton video pada YouTube."
 
-#: mozorg/plugincheck.lang:222
+#: mozorg/plugincheck.lang:210
 msgid "Mozilla Support"
 msgstr "Mozilla Support"
 
-#: mozorg/plugincheck.lang:226
+#: mozorg/plugincheck.lang:214
 msgid "Have more questions?"
 msgstr "Ada lebih soalan lagi?"
 
-#: mozorg/plugincheck.lang:230
+#: mozorg/plugincheck.lang:218
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "Layari <a href=\"%(sumo_url)s\">support.mozilla.org</a> untuk lebih bantuan!"
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:198"
+#~ msgid "Open the Tools menu."
+#~ msgstr "Buka menu Alatan."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:202"
+#~ msgid "Choose Add-ons."
+#~ msgstr "Pilih Addon."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:206"
+#~ msgid "Click the plugins tab."
+#~ msgstr "Tekan tab plugin."
 
 #, fuzzy
 #~ msgctxt "./mozorg/plugincheck.lang:196"

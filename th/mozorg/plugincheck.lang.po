@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-07 15:52+0100\n"
+"POT-Creation-Date: 2014-07-21 11:22+0100\n"
 "PO-Revision-Date: 2013-10-05 03:02+0000\n"
 "Last-Translator: pittaya <pittaya@gmail.com>\n"
 "Language-Team: none\n"
@@ -208,28 +208,10 @@ msgstr ""
 "Firefox ทำตามขั้นตอนเหล่านี้ :"
 
 #: mozorg/plugincheck.lang:170
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:170"
-msgid "Open the Tools menu."
-msgstr "ไปที่เมนู เครื่องมือ"
-
-#: mozorg/plugincheck.lang:174
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:174"
-msgid "Choose Add-ons."
-msgstr "เลือก ส่วนเสริม"
-
-#: mozorg/plugincheck.lang:178
-#, fuzzy
-msgctxt "./mozorg/plugincheck.lang:178"
-msgid "Click the plugins tab."
-msgstr "คลิกที่แท็บ โปรแกรมเสริม"
-
-#: mozorg/plugincheck.lang:182
 msgid "Want to spread the word?"
 msgstr "อยากจะบอกต่อ?"
 
-#: mozorg/plugincheck.lang:186
+#: mozorg/plugincheck.lang:174
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -237,41 +219,38 @@ msgstr ""
 "ช่วยให้เพื่อนของคุณออนไลน์อย่างปลอดภัย! รับป้ายตรวจสอบโปรแกรมเสริมสำหรับติดในเว็บของคุณได้ที่ "
 "<a href=\"%(url)s\">Firefox Affiliates</a>"
 
-#: mozorg/plugincheck.lang:190
+#: mozorg/plugincheck.lang:178
 msgid "How do I disable a plugin?"
 msgstr "ฉันจะปิดการใช้งานโปรแกรมเสริมได้อย่างไร?"
 
-#: mozorg/plugincheck.lang:194
+#: mozorg/plugincheck.lang:182
 msgid "In Firefox:"
 msgstr "ใน Firefox:"
 
-#: mozorg/plugincheck.lang:198
+#: mozorg/plugincheck.lang:186
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:198"
 msgid "Open the Tools menu."
 msgstr "ไปที่เมนู เครื่องมือ"
 
-#: mozorg/plugincheck.lang:202
+#: mozorg/plugincheck.lang:190
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:202"
 msgid "Choose Add-ons."
 msgstr "เลือก ส่วนเสริม"
 
-#: mozorg/plugincheck.lang:206
+#: mozorg/plugincheck.lang:194
 #, fuzzy
-msgctxt "./mozorg/plugincheck.lang:206"
 msgid "Click the plugins tab."
 msgstr "คลิกที่แท็บ โปรแกรมเสริม"
 
-#: mozorg/plugincheck.lang:210
+#: mozorg/plugincheck.lang:198
 msgid "Click on a plugin in the list."
 msgstr "คลิกที่โปรแกรมเสริมในรายการ"
 
-#: mozorg/plugincheck.lang:214
+#: mozorg/plugincheck.lang:202
 msgid "Click the Disable button."
 msgstr "คลิกที่ปุ่ม ปิดการใช้งาน"
 
-#: mozorg/plugincheck.lang:218
+#: mozorg/plugincheck.lang:206
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -280,19 +259,34 @@ msgstr ""
 "คำเตือน: การปิดการใช้งานโปรแกรมเสริมจะทำให้คุณไม่สามารถทำบางอย่างได้ ยกตัวอย่างเช่น "
 "ถ้าคุณปิดการใช้งาน Flash คุณจะไม่สามารถดูวิดีโอบน YouTube ได้"
 
-#: mozorg/plugincheck.lang:222
+#: mozorg/plugincheck.lang:210
 msgid "Mozilla Support"
 msgstr "ความช่วยเหลือจาก Mozilla"
 
-#: mozorg/plugincheck.lang:226
+#: mozorg/plugincheck.lang:214
 msgid "Have more questions?"
 msgstr "ยังมีคำถาม?"
 
-#: mozorg/plugincheck.lang:230
+#: mozorg/plugincheck.lang:218
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "เข้าเยี่ยมชม <a href=\"%(sumo_url)s\">support.mozilla.org</a> "
 "เพื่อความช่วยเหลือเพิ่มเติม!"
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:198"
+#~ msgid "Open the Tools menu."
+#~ msgstr "ไปที่เมนู เครื่องมือ"
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:202"
+#~ msgid "Choose Add-ons."
+#~ msgstr "เลือก ส่วนเสริม"
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:206"
+#~ msgid "Click the plugins tab."
+#~ msgstr "คลิกที่แท็บ โปรแกรมเสริม"
 
 #, fuzzy
 #~ msgctxt "./mozorg/plugincheck.lang:196"
