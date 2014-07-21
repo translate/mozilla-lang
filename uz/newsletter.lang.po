@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-28 13:33+0100\n"
-"PO-Revision-Date: 2014-07-11 17:27+0000\n"
+"PO-Revision-Date: 2014-07-20 17:43+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uz\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1405099626.000000\n"
+"X-POOTLE-MTIME: 1405878216.000000\n"
 
 #. These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
 #: newsletter.lang:3
@@ -63,11 +63,12 @@ msgstr "Men <a href=\"%s\">Maxfiylik siyosati</a>ga roziman"
 
 #: newsletter.lang:47
 msgid "Sign me up!"
-msgstr "Meni ro‘yxatga ol!"
+msgstr "Yozilish!"
 
 #: newsletter.lang:51
 msgid "We will only send you Mozilla-related information."
-msgstr "Biz sizga faqatgina Mozillaga aloqador ma’lumotlarni jo‘natib turamiz."
+msgstr ""
+"Biz sizga faqatgina \"Mozilla\"ga aloqador ma’lumotlarni jo‘natib turamiz."
 
 #: newsletter.lang:55
 msgid "Thanks for Subscribing!"
@@ -80,9 +81,9 @@ msgid ""
 "to create a better Web."
 msgstr ""
 "Biz tezda \"Firefox\"dan maksimal darajada foydalanishga imkon beradigan "
-"foydali maslahatlar va usullar bilan bo‘lisha boshlaymiz. Shuningdek, "
-"internetni yaxshilash uchun qanday ishlayotganligimiz bo‘yicha va Mozilla "
-"haqidagi qiziqarli yangiliklardan ham bahra olasiz."
+"foydali maslahatlar va usullarni bo‘lisha boshlaymiz. Shuningdek, internetni "
+"yaxshilash uchun qanday ishlayotganligimiz bo‘yicha va Mozilla haqidagi "
+"qiziqarli yangiliklardan ham bahra olasiz."
 
 #: newsletter.lang:63
 msgid ""
@@ -91,9 +92,9 @@ msgid ""
 "It’s the perfect way for us to keep in touch!"
 msgstr ""
 "Oylik yangiliklarga obuna bo‘ling va joriy Mozilla yangiliklaridan xabardor "
-"bo‘ling, shuningdek, \"Firefox\" brauzeridan maksimal darajada foydalanish "
-"uchun so‘nggi maslahatlar va sirlardan ham boxabar bo‘lishingiz mumkin. Bu "
-"siz bilan aloqada qolishning eng maqbul yo‘lidir."
+"bo‘ling, shuningdek, Firefox brauzeridan maksimal darajada foydalanish uchun "
+"so‘nggi maslahatlar va sirlardan ham boxabar bo‘lishingiz mumkin. Bu siz "
+"bilan aloqada qolishning eng maqul yo‘lidir."
 
 #: newsletter.lang:66
 msgid ""
@@ -111,7 +112,7 @@ msgstr ""
 
 #: newsletter.lang:73
 msgid "Your newsletter subscription has been confirmed."
-msgstr "Yangilik xabarlariga obunangiz tasdiqlandi."
+msgstr "Yangilik xabarlariga obuna bo‘lish tasdiqlandi."
 
 #: newsletter.lang:76
 msgid "Format"
@@ -166,7 +167,7 @@ msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
 msgstr ""
-"So‘nggi reliz chiqishidan oldin stol kompyuterlari va mobil telefonlar uchun "
+"So‘nggi reliz chiqishidan oldin kompyuterlar va mobil telefonlar uchun "
 "so‘nggi Firefox imkoniyatlari haqida o‘qib chiqing."
 
 #: newsletter.lang:108
@@ -196,11 +197,12 @@ msgstr "Obunadan voz kechish"
 #: newsletter.lang:128
 msgid "Check here if you’d like to be removed from all Mozilla emails"
 msgstr ""
-"Mozillaning barcha xatlarini olishni xohlamasangiz, bu yerda belgilab chiqing"
+"\"Mozilla\"ning barcha xatlarini olishni xohlamasangiz, bu yerda belgilab "
+"chiqing"
 
 #: newsletter.lang:132
 msgid "Remove me from all Mozilla emails"
-msgstr "Meni barcha Mozilla e-xatlaridan olib tashla"
+msgstr "Meni barcha Mozilla xatlaridan olib tashla"
 
 #: newsletter.lang:136
 msgid "Save Preferences"
@@ -234,7 +236,7 @@ msgstr "Xatlaringiz dizayni o‘qishni qiyinlashtirib yubordi."
 
 #: newsletter.lang:162
 msgid "I didn't sign up for this."
-msgstr "Menga bunga yozilmagandim."
+msgstr "Men bunga yozilmagandim."
 
 #: newsletter.lang:166
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
@@ -282,12 +284,12 @@ msgstr ""
 #. This string is used for a subscription field on other pages than /newsletter/
 #: newsletter.lang:194
 msgid "Get Firefox news"
-msgstr "Firefox yangiliklaridan boxabar bo‘lib boring"
+msgstr "Firefox yangiliklaridan xabardor bo‘lib turing"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
 #: newsletter.lang:199
 msgid "YOUR EMAIL HERE"
-msgstr "YOUR EMAIL HERE"
+msgstr "E-POCHTA MANZILINGIZ"
 
 #. Button
 #: newsletter.lang:203
@@ -299,8 +301,8 @@ msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
 msgstr ""
-"\"Mozilla\"ning mening ma’lumotlarim bilan ishlshiga <a href=\"%s\">ushbu "
-"Maxfiylik siyosati</a>ga muvofiq roziman."
+"\"Mozilla\"ning mening ma’lumotlarim bilan ishlashiga <a href=\"%s\">ushbu "
+"\"Maxfiylik siyosati\"</a>ga muvofiq roziman."
 
 #: newsletter.lang:211
 msgid ""
@@ -318,7 +320,7 @@ msgstr ""
 
 #: newsletter.lang:219
 msgid "English&nbsp;only"
-msgstr "Faqan ingliz tilida"
+msgstr "Faqat ingliz tilida"
 
 #: newsletter.lang:223
 msgid "Newsletter Subscriptions"
@@ -334,7 +336,7 @@ msgstr "Format:"
 
 #: newsletter.lang:235
 msgid "You’ve been unsubscribed."
-msgstr "Siz obunalarni bekor qilgansiz."
+msgstr "Siz obunalardan voz kechgansiz."
 
 #: newsletter.lang:239
 msgid "We’re sorry to see you go."
@@ -342,7 +344,7 @@ msgstr "Ketayotganingizdan afsusdamiz."
 
 #: newsletter.lang:243
 msgid "Would you mind telling us why you’re leaving?"
-msgstr "Nega tashlab ketayotganligingizni ayta olasizmi?"
+msgstr "Bizni nega tashlab ketayotganligingizni ayta olasizmi?"
 
 #: newsletter.lang:247
 msgid "Other…"
@@ -351,12 +353,12 @@ msgstr "Boshqa…"
 #: newsletter.lang:251
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr ""
-"Shu yerda ekansiz, nega \"Firefox\" ko‘pgina ajoyib xususiyatlaridan bahra "
-"olmaysiz?"
+"Shu yerda ekansiz, nega \"Firefox\"ning ko‘pgina ajoyib xususiyatlari bilan "
+"tanishib chiqmaysiz?"
 
 #: newsletter.lang:255
 msgid "Get up and go"
-msgstr "Siz bilan, qani ketdik."
+msgstr "Siz bilan yo‘lga"
 
 #: newsletter.lang:259
 msgid "It’s your Web anywhere you go."
@@ -373,7 +375,7 @@ msgstr "Yangi tryuklar qo‘shing"
 #: newsletter.lang:271
 msgid "Make Firefox do more with add-ons."
 msgstr ""
-"Qo‘shimcha dasturlar yordamida \"Firefox\" bilan ko‘proq ishlarni qilishni "
+"Qo‘shimcha dasturlar yordamida Firefox bilan ko‘proq ishlarni qilishni "
 "o‘rganing."
 
 #: newsletter.lang:275
@@ -397,7 +399,7 @@ msgstr "So‘raganingizdan xursandmiz!"
 msgid ""
 "A monthly newsletter packed with tips to improve your Firefox experience."
 msgstr ""
-"\"Firefox\" bilan ishlashni yaxshilash uchun maslahatlar mavjud oylik "
+"Firefox bilan ishlashni yaxshilash uchun maslahatlar mavjud oylik "
 "yangiliklar xabarlari."
 
 #. Description for the newsletter in Newsletter subscription page
@@ -425,7 +427,7 @@ msgstr ""
 #: newsletter.lang:312
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr ""
-"Firefox bilan ishlashda tajriba yig‘ishda sizga yordam beradigan "
+"Firefox bilan ishlashda tajriba yig‘ish uchun sizga yordam beradigan "
 "maslahatlarni har hafta olib turing."
 
 #. Description for the newsletter in Newsletter subscription page
@@ -435,7 +437,7 @@ msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
 msgstr ""
-"So‘nggi reliz chiqishidan oldin stol kompyuterlari va mobil telefonlar uchun "
+"So‘nggi reliz chiqishidan oldin kompyuterlar va mobil telefonlar uchun "
 "so‘nggi Firefox imkoniyatlari haqida o‘qib chiqing."
 
 #. Description for the newsletter in Newsletter subscription page
@@ -456,7 +458,7 @@ msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
 msgstr ""
-"\"Firefox Affiliates\" dasturlari yangiliklari mavjud har oylik yangiliklar "
+"\"Firefox Affiliates\" dasturlari yangiliklari mavjud oylik yangiliklar "
 "xabarlari."
 
 #. Description for the newsletter in Newsletter subscription page
@@ -465,8 +467,8 @@ msgid ""
 "News for developers about Firefox OS, Firefox Marketplace and the Open Web "
 "apps ecosystem."
 msgstr ""
-"Firefox OS, Firefox Marketplace do‘koni va ochiq veb-ilova dasturlar "
-"ekosistemasi haqidagi dasturchilar uchun yangiliklar."
+"Firefox OS, Firefox do‘koni va ochiq veb-ilova dasturlar ekosistemasi "
+"haqidagi dasturchilar uchun yangiliklar."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:342
@@ -489,5 +491,5 @@ msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
 msgstr ""
-"Sobiq 2008-2011 yillardagi universitet dasturi, hozir to‘xtatilgan va "
+"Sobiq 2008-2011-yillardagi universitet dasturi, hozir to‘xtatilgan va "
 "\"Firefox Student Ambassadors\" dasturi sifatida qayta ishga tushirilgan."
