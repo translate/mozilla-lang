@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-07-16 15:14+0100\n"
-"PO-Revision-Date: 2014-07-16 16:54+0000\n"
+"PO-Revision-Date: 2014-07-24 03:32+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uz\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1405529686.000000\n"
+"X-POOTLE-MTIME: 1406172728.000000\n"
 
 #. # promo_lightbeam ##
 #. # promo_new_mdn ##
@@ -38,15 +38,15 @@ msgstr "Oldingi maqola"
 #. The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 #: mozorg/home.lang:25
 msgid "We are %(mozilla_wordmark)s"
-msgstr "Biz %(mozilla_wordmark)s"
+msgstr "Biz - %(mozilla_wordmark)s"
 
 #: mozorg/home.lang:29
 msgid "Doing good is part of our code"
-msgstr "Kodimizga yaxshi tomonlama hissa qo‘shing"
+msgstr "Kodimizning negizida ezgulik yotadi"
 
 #: mozorg/home.lang:33
 msgid "Get involved"
-msgstr "Hissangizni qo‘shing"
+msgstr "Jamiyatga qo‘shiling"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:38
@@ -63,11 +63,11 @@ msgid ""
 "keep the Internet alive and accessible."
 msgstr ""
 "Biz internetni yashab qolishi va hamma uchun mavjud bo‘lishi uchun ishlovchi "
-"texnologlar, o‘ylovchilar va tuzuvchilarning global jamiyati hisoblanamiz."
+"texnologlar, o‘ylovchilar va tuzuvchilarning global hamjamiyati hisoblanamiz."
 
 #: mozorg/home.lang:50
 msgid "Read more about our mission"
-msgstr "Bizning vazifamiz haqida ko‘proq o‘qing"
+msgstr "Bizning maqsadimiz haqida ko‘proq o‘qing"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:55
@@ -79,11 +79,12 @@ msgid "Look ahead"
 msgstr "Oldinga qarang"
 
 #: mozorg/home.lang:63
+#, fuzzy
 msgid ""
 "We‘re bringing more people to the Web in more ways and from more places than "
 "ever before."
 msgstr ""
-"Har xil joylardan va har xil yo‘lar bilan  oldingidan ko‘ra ko‘proq "
+"Har xil joylardan va har xil yo‘llar bilan oldingidan ko‘ra ko‘proq "
 "odamlarga internetni namoyon qilamiz."
 
 #: mozorg/home.lang:67
@@ -98,14 +99,14 @@ msgstr "Hamjamiyatimizga <i>qo‘shiling</i>"
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:77
 msgid "Join our<br> developer community"
-msgstr "Bizning dasturchilarimiz<br> jamiyatiga qo‘shiling"
+msgstr "Bizning dasturchilarimiz<br> hamjamiyatiga qo‘shiling"
 
 #: mozorg/home.lang:81
 msgid ""
 "Get docs and demos, tools and tutorials and everything related to the Open "
 "Web."
 msgstr ""
-"Hujjatlar va demolar, asboblar va qo‘llarnmalar hamda barcha ochiq "
+"Hujjatlar va namoyishlar, asboblar va qo‘llanmalar hamda barcha ochiq "
 "internetga aloqador narsalarni oling. "
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
@@ -151,7 +152,7 @@ msgstr "Barcha yangiliklarni ko‘rish"
 #. This string is displayed only for locales where we launch Firefox OS soon
 #: mozorg/home.lang:122
 msgid "Help launch Firefox OS in your country."
-msgstr "\"Firefox OS\"ni davlatingizda ishga tushirishda yordam bering."
+msgstr "\"Firefox OS\"ni mamlakatingizda ishga tushirishda yordam bering."
 
 #. This string is displayed only for locales where we launch Firefox OS soon
 #: mozorg/home.lang:127
@@ -173,9 +174,9 @@ msgid ""
 "in over 70 languages. <a rel=\"external\" href=\"%(link_l10n)s\">Help "
 "translate them into yours</a>."
 msgstr ""
-"Global jamiyatimizga rahmat, Mozilla mahsulotlari va veb sahifasi 70 dan "
-"ortiq tilda mavjud. <a rel=\"external\" href=\"%(link_l10n)s\">Ularga o‘z "
-"tilingizga tarjima qilishda yordam bering</a>."
+"Global hamjamiyatimiz mehnati tufayli Mozilla mahsulotlari va veb sahifasi "
+"70 dan ortiq tilda mavjud. <a rel=\"external\" href=\"%(link_l10n)s\">Ularga "
+"ona tilingizga tarjima qilishda yordam bering</a>."
 
 #. # TAG: promo_lightbeam
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
@@ -187,7 +188,7 @@ msgstr "Kuzatuvchilar ortidan <i>kuzating</i>"
 #. Lightbeam promo
 #: mozorg/home.lang:147
 msgid "See who’s watching you online"
-msgstr "Kim sizni kuzatayotganini ko‘ring"
+msgstr "Kim sizni internetda kuzatayotganini bilib oling"
 
 #. # TAG: promo_lightbeam
 #. Lightbeam promo
@@ -234,7 +235,7 @@ msgstr "Vebmeyker bo‘ling"
 #. New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:186
 msgid "<i>See</i> the new MDN"
-msgstr "Yangi MDN’ni <i>ko‘ring</i>"
+msgstr "Yangi MDN <i> (Mozilla dasturchilar tarmog‘i)ni ko‘ring</i>"
 
 #. # TAG: promo_new_mdn
 #. New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
@@ -249,8 +250,8 @@ msgid ""
 "Our community hub for docs, demos and other resources just got a brand new "
 "look."
 msgstr ""
-"Bizning hujjatlar, demonstratsiya markazalarimiz jamiyatlari va boshqa "
-"manbalar yangicha ko‘rinish oldi."
+"Hujjatlar, namoyish fayllari va boshqa resurslar uchun hamjamiyat markazimiz "
+"o’zgacha ko’rinish oldi."
 
 #. # TAG: promo_new_mdn
 #. New MDN promo:
@@ -273,6 +274,7 @@ msgstr "Qanday turdagi internetni xohlaysiz?"
 #. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, main text
 #: mozorg/home.lang:222
+#, fuzzy
 msgid "Tell us what matters most to you and help shape the future of the Web."
 msgstr "Siz uchun eng asosiysi kelajak internetini shakllantirishni ayting."
 
@@ -280,7 +282,7 @@ msgstr "Siz uchun eng asosiysi kelajak internetini shakllantirishni ayting."
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #: mozorg/home.lang:228
 msgid "Share your vision"
-msgstr "Tasavvurlaringizni baham ko‘ring"
+msgstr "Tasavvurlaringizni bo‘lishing"
 
 #. # TAG: promo_fxdesktop
 #. This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
@@ -300,8 +302,8 @@ msgid ""
 "Learn more about the free desktop browser that’s committed to you, your "
 "privacy and an open Web."
 msgstr ""
-"Ochiq tarmoq, xavfsizligingiz va siz uchun mo‘ljallangan stol kompyuteri "
-"uchun tekin brauzer haqida ko‘proq ma’lumot oling."
+"Siz, sizning xavfsizligingiz va ochiq tarmoq uchun mo‘ljallangan kompyuter "
+"uchun bepul brauzer haqida ko‘proq ma’lumot oling."
 
 #. # TAG: promo_fxdesktop
 #: mozorg/home.lang:250
@@ -328,7 +330,7 @@ msgid ""
 "From July to September, help us teach, learn and make the Web at hands-on "
 "community events."
 msgstr ""
-"Iyuldan Sentabrgacha o‘qitish, o‘rganish va internetni ijtimoiy tadbirlarda "
+"Iyuldan sentabrgacha o‘qitish, o‘rganish va internetni ijtimoiy tadbirlarda "
 "sinab ko‘rishda bizga yordam bering."
 
 #. # TAG: promo_makerparty
