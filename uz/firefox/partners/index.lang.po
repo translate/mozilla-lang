@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-07-21 11:22+0100\n"
-"PO-Revision-Date: 2014-07-16 08:24+0000\n"
+"PO-Revision-Date: 2014-07-28 08:30+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
-"X-POOTLE-MTIME: 1405499070.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1406536236.000000\n"
 
 #. <title> tag
 #: firefox/partners/index.lang:5
@@ -32,33 +32,28 @@ msgstr ""
 
 #. Field
 #: firefox/partners/index.lang:20
-#, fuzzy
 msgid "First Name"
-msgstr "Ismingiz"
+msgstr "Ismi"
 
 #. Field
 #: firefox/partners/index.lang:25
-#, fuzzy
 msgid "Last Name"
-msgstr "Familiyangiz"
+msgstr "Familiyasi"
 
 #. Field, e.g. president, CEO...
 #: firefox/partners/index.lang:30
-#, fuzzy
 msgid "Title"
 msgstr "Sarlavha"
 
 #. Field
 #: firefox/partners/index.lang:35
-#, fuzzy
 msgid "Company"
-msgstr "Kompaniya"
+msgstr "Tashkilot"
 
 #. Field
 #: firefox/partners/index.lang:40
-#, fuzzy
 msgid "Website"
-msgstr "Veb sahifa"
+msgstr "Vebsayt"
 
 #. Field
 #: firefox/partners/index.lang:45
@@ -67,7 +62,6 @@ msgstr "E-pochta"
 
 #. Form field
 #: firefox/partners/index.lang:50
-#, fuzzy
 msgid "Phone"
 msgstr "Telefon"
 
@@ -141,12 +135,18 @@ msgid ""
 "In our first year, we’ve brought openness, accessibility and opportunity to "
 "15 countries with 4 hardware partners, 7 operators and 16 launches."
 msgstr ""
+"Birinchi yildanoq, 15 mamlakatdagi 4 qurilma ishlab chiqaruvchi "
+"hamkorlarimizga, 7 operatorga va 16 yangi ish boshlovchilarga ochiqlik, "
+"qulaylik va imkoniyatlarni olib kelgandik."
 
 #: firefox/partners/index.lang:111
 msgid ""
 "See what’s next for mobile with <a %(url1)s>Firefox OS</a>, <a "
 "%(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>."
 msgstr ""
+"<a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> va <a "
+"%(url3)s>Android uchun Firefox </a> o‘rnatilgan mobil telefon uchun "
+"keyingisi nima ekanligini ko‘ring."
 
 #: firefox/partners/index.lang:115
 msgid "See more partners"
@@ -159,7 +159,7 @@ msgstr "So‘nggi yangiliklar"
 #. press release in English/Polish/French/Spanish/Portuguese/Italian, if your locale is not covered, you choose if you keep it in English or not
 #: firefox/partners/index.lang:124
 msgid "Firefox OS Unleashes the Future of Mobile"
-msgstr ""
+msgstr "Firefox OS mobil telefonlar kelajagi uchun erkinlik yaratadi"
 
 #. This is a button showing the contact form
 #: firefox/partners/index.lang:129
@@ -178,6 +178,11 @@ msgid ""
 "%(url)s>See how you can get involved</a> or <a href=\"%(url2)s\">learn more "
 "about what it means for consumers</a>."
 msgstr ""
+"Bir qancha mashhur ishlab chiqaruchilarga qaraganda Firefox OS ochiq "
+"platforma hisoblanadi. Uning sifatini oshirishda ko‘plab kishilar o‘z "
+"hissalarini qo‘shishlari mumkin.<a %(url)s>Qanday qilib qo‘shilish "
+"mumkinligini ko‘ring</a> or <a href=\"%(url2)s\">(foydalanuvchilar uchun bu "
+"qanday ma’no berishini o‘rganish uchun)</a>."
 
 #. Title
 #: firefox/partners/index.lang:143
@@ -203,11 +208,15 @@ msgid ""
 "Web to keep it open and accessible to all. As a result of our efforts, one "
 "fifth of all Web activity today happens through Firefox products."
 msgstr ""
+"O‘tgan 15 yilda biz uchun internetni ochiq va hamma uchun mavjud bo‘lishini "
+"saqlab qolishda internetni shakllantirish va innovatsiyalarni qo‘llash muhim "
+"rol o‘ynadi. Siyosatimiz natijasida veb faollikning bir beshinchi qismi "
+"bugun Firefox mahsulotlarida ko‘rinmoqda."
 
 #. Title
 #: firefox/partners/index.lang:161
 msgid "The difference the Open Web makes"
-msgstr ""
+msgstr "Ochiq tarmoq farqi"
 
 #. List title
 #: firefox/partners/index.lang:166
@@ -217,27 +226,28 @@ msgstr "Firefox OS taklif qiladi:"
 #. List item
 #: firefox/partners/index.lang:171
 msgid "A level playing field against other OS and marketplace providers"
-msgstr ""
+msgstr "Boshqa OT va ta’minotchilar do‘konlariga qaraganda tutgan o‘rni"
 
 #. List item
 #: firefox/partners/index.lang:176
 msgid "Greater participation in the value chain"
-msgstr ""
+msgstr "Qiymat zanjiriga ko‘proq hissa qo‘shish"
 
 #. List item
 #: firefox/partners/index.lang:181
 msgid "Ownership and control over relationships with customers"
-msgstr ""
+msgstr "Mijozlar bilan munosabatlar o‘rnatish va unni boshqarish"
 
 #. List item
 #: firefox/partners/index.lang:186
 msgid ""
 "Customized phones that meet the specific needs of various target markets"
 msgstr ""
+"Moslangan telefonlar har xil turdagi bozor talablariga ko‘ra turli xil "
+"texnik ko‘rsatgichlarga ega bo‘ladi"
 
 #. This is the same string as the one in the contact form but it doesn't have a final dot
 #: firefox/partners/index.lang:191
-#, fuzzy
 msgid "Contact our business development team to get on board"
 msgstr ""
 "Hamkorlik qilish uchun bizning biznes bo‘yicha bo‘limimiz bilan bog‘laning."
@@ -245,7 +255,7 @@ msgstr ""
 #. Title
 #: firefox/partners/index.lang:196
 msgid "HTML5 apps for all"
-msgstr ""
+msgstr "Hamma uchun HTML5 ilova dasturlar"
 
 #: firefox/partners/index.lang:200
 msgid ""
@@ -254,11 +264,16 @@ msgid ""
 "customers’ local needs. See how that can help <a %(url1)s>operators and "
 "manufacturers</a> as well as <a %(url2)s>developers</a>."
 msgstr ""
+"Dunyodagi eng mashhur ilova dasturlarni ko‘rsatuvchi, shuningdek, eng yaqin, "
+"mijozlarning mahalliy talablariga mos tarkibga yo‘naltirilgan ekotizimda "
+"ishtirok etishda o‘zingiz uchun yangi yo‘l oching. Qanday qilib <a "
+"%(url1)s>operatorlar va ishlab chiqaruchilar</a>ga <a %(url2)s>dasturchilar</"
+"a> sifatida yordam berishni ko‘ring."
 
 #. Title
 #: firefox/partners/index.lang:205
 msgid "Your needs"
-msgstr ""
+msgstr "Ehtiyojlaringiz"
 
 #: firefox/partners/index.lang:209
 msgid ""
@@ -266,6 +281,10 @@ msgid ""
 "open source service offerings, reach new markets and customize purchasing "
 "and app experiences to meet your specific needs."
 msgstr ""
+"Biznesingizni o‘zingizning to‘lov rejalaringizni bizning ochiq manbali "
+"xizmat takliflarimiz bilan birlashtirib, yangi bozorlarni egallab, xaridni "
+"moslab hamda ko‘rsatgan ehtiyojlaringizga moslab ilova dastur tajribalarini "
+"oshiring."
 
 #. Title
 #: firefox/partners/index.lang:214
@@ -279,15 +298,19 @@ msgid ""
 "directory of add-ons serves content to hundreds of millions of users "
 "worldwide."
 msgstr ""
+"Keltirilgan foydalanuvchi tajribalari va ulkan xalqaro auditoriyaga xizmat "
+"ko‘rsatish bo‘yicha bizning isbotlangan yutuqlarimiz bor kuchimiz bilan "
+"qilgan mehnatimiz tufaylidir. Bizning qo‘shimcha dasturlar direktoriyamiz "
+"dunyo bo‘ylab yuz millionlar foydalanuvchilarga xizmat ko‘rsatadi."
 
 #. Title
 #: firefox/partners/index.lang:223
 msgid "Testimonials"
-msgstr ""
+msgstr "Tavsifnoma"
 
 #: firefox/partners/index.lang:227
 msgid "See what Box, SoundCloud and others have to say"
-msgstr ""
+msgstr "Box, SoundCloud va boshqalar nima deganini ko‘ring"
 
 #. Title
 #: firefox/partners/index.lang:232
@@ -315,24 +338,27 @@ msgstr "Marketplace taklif qiladi:"
 #. List item. Tier 1 developers = very famous developpers from top companies
 #: firefox/partners/index.lang:255
 msgid "Commitment from well-known, tier 1 developers"
-msgstr ""
+msgstr "Mashhur, 1-darajali dasturchilar ishonchi"
 
 #. List item
 #: firefox/partners/index.lang:260
 msgid ""
 "Micro-targeted content for every use-case to meet customers’ local needs"
 msgstr ""
+"Har bir mijozning mahalliy ehtiyojlariga mos keladigan mikro-yo‘naltirilgan "
+"kontent"
 
 #. List item
 #: firefox/partners/index.lang:265
 msgid ""
 "Lower barriers to entry for local app developers in both resource and cost"
 msgstr ""
+"Mahalliy ilova dasturchilar har ikki manba va narx uchun ancha past to‘siqlar"
 
 #. Title
 #: firefox/partners/index.lang:270
 msgid "Become a Marketplace developer"
-msgstr ""
+msgstr "Marketplace do‘koni dasturchisi bo‘ling"
 
 #. List item
 #: firefox/partners/index.lang:275
@@ -340,16 +366,18 @@ msgid ""
 "Apps that customers can access across multiple platforms, devices and "
 "operating systems"
 msgstr ""
+"Mijzolar turli xil platformalar, qurilmalar va operatsion tizimlar orqali "
+"kira oladigan ilova dasturlar"
 
 #. List item
 #: firefox/partners/index.lang:280
 msgid "Flexible business models and multiple payment monetization options"
-msgstr ""
+msgstr "Moslashuvchan biznes modellar va turli xil to‘lov moslamalari"
 
 #. List item
 #: firefox/partners/index.lang:285
 msgid "Optional carrier billing in regional currencies"
-msgstr ""
+msgstr "Har qanday hududiy valutada operator to‘lovlari"
 
 #. List item
 #: firefox/partners/index.lang:290
@@ -357,34 +385,36 @@ msgid ""
 "The ability to connect with hundreds of millions of Firefox supporters "
 "around the world"
 msgstr ""
+"Butun dunyodagi yuz millionlab Firefox ishqibozlari bilan bog‘lanish "
+"imkoniyati"
 
 #. List item
 #: firefox/partners/index.lang:295
 msgid "Access to relatively untapped markets"
-msgstr ""
+msgstr "Bir qancha o‘zlashtirilmagan bozorlarga kirish"
 
 #. Title
 #: firefox/partners/index.lang:300
 msgid "Developer hub"
-msgstr ""
+msgstr "Dasturchi markazi"
 
 #: firefox/partners/index.lang:304
 msgid "Learn how to make HTML5 apps for an open marketplace"
-msgstr ""
+msgstr "Ochiq do‘konda HTML5 ilova dasturlarni qanday qilishni o‘rganish"
 
 #. Title
 #: firefox/partners/index.lang:309
 msgid "Have an app?"
-msgstr ""
+msgstr "Ilova dastur bormi?"
 
 #: firefox/partners/index.lang:313
 msgid "Submit it to Firefox Marketplace today"
-msgstr ""
+msgstr "Uni bugun Firefox Marketplace do‘koniga jo‘natish"
 
 #. Title
 #: firefox/partners/index.lang:318
 msgid "A superior Web experience"
-msgstr ""
+msgstr "Eng zo‘r veb tajriba"
 
 #: firefox/partners/index.lang:322
 msgid ""
@@ -397,7 +427,7 @@ msgstr ""
 #. Title
 #: firefox/partners/index.lang:327
 msgid "Strengthen customer relationships"
-msgstr ""
+msgstr "Mijozlar bilan aloqani mustahkamlash"
 
 #: firefox/partners/index.lang:331
 msgid ""
@@ -409,7 +439,7 @@ msgstr ""
 #. Title
 #: firefox/partners/index.lang:336
 msgid "Create new value for both you and your users"
-msgstr ""
+msgstr "O‘zingiz va mijoz uchun yangi narx yarating"
 
 #: firefox/partners/index.lang:340
 msgid ""
@@ -421,103 +451,111 @@ msgstr ""
 #. Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
 #: firefox/partners/index.lang:345
 msgid "Stand out <br>from the crowd"
-msgstr ""
+msgstr "Olomondan <br>ajralib turing"
 
 #: firefox/partners/index.lang:349
 msgid ""
 "Take advantage of our strong brand and service offerings to differentiate "
 "your product and drive sales."
 msgstr ""
+"Mahsulotingizni ajratib ko‘rsatish va savdo hajmini oshirish uchun bizning "
+"kuchli brendimiz va xizmat takliflarimizdan foydalaning."
 
 #. List Title
 #: firefox/partners/index.lang:354
-#, fuzzy
 msgid "Firefox for Android lets you:"
-msgstr "Android san’ati uchun Firefox"
+msgstr "\"Android uchun Firefox\" sizga taklif qiladi:"
 
 #. list item sub-title
 #: firefox/partners/index.lang:359
 msgid "Customize the experience"
-msgstr ""
+msgstr "Tajribalarni moslash"
 
 #: firefox/partners/index.lang:363
 msgid ""
 "Add your brand and content to increase customer touchpoints, improve "
 "retention and drive future sales."
 msgstr ""
+"Mijozlar tashrifini oshirish, ularni saqlab qolishni yaxshilash va kelajakda "
+"savdoni amalga oshirish uchun brendingiz va kontentingizni qo‘shing."
 
 #. list item sub-title
 #: firefox/partners/index.lang:368
 msgid "Build new service offerings"
-msgstr ""
+msgstr "Yangi xizmat takliflarini tuzish"
 
 #: firefox/partners/index.lang:372
 msgid ""
 "Integrate services directly into the browser with Firefox Marketplace and "
 "WebRTC to free yourself from the constraints of proprietary platforms."
 msgstr ""
+"Firefox Marketplace bilan WebRTC’ni platformalar cheklovlaridan o‘zingizni "
+"ozod qilish uchun xizmatlarni to‘g‘ridan to‘g‘ri brauzer ichiga integratsiya "
+"qiling."
 
 #. list item sub-title
 #: firefox/partners/index.lang:377
 msgid "Direct customer billing"
-msgstr ""
+msgstr "To‘g‘ridan to‘g‘ri mijozlar hisoblari"
 
 #: firefox/partners/index.lang:381
 msgid ""
 "Grow your business by combining your own customer payment plans with our "
 "open source service offerings."
 msgstr ""
+"O‘zingizning mijozlarga to‘lash rejalaringiz bilan bizning ochiq manbali "
+"xizmat takliflarimizni birlashtirib, biznesingizni yuksaltiring."
 
 #: firefox/partners/index.lang:385
 msgid "Partner Opportunities"
-msgstr ""
+msgstr "Hamkorlik imkoniyatlari"
 
 #: firefox/partners/index.lang:389
 msgid "For Developers"
-msgstr ""
+msgstr "Dasturchilar uchun"
 
 #: firefox/partners/index.lang:393
 msgid "For Operators & Manufacturers"
-msgstr ""
+msgstr "Operatorlar va ishlab chiqaruvchilar uchun"
 
 #: firefox/partners/index.lang:397
-#, fuzzy
 msgid "Mobile"
 msgstr "Mobil"
 
 #: firefox/partners/index.lang:401
 msgid "Firefox Marketplace — Developer testimonials"
-msgstr ""
+msgstr "Firefox Marketplace — Dasturchi guvohligi"
 
 #: firefox/partners/index.lang:405
-#, fuzzy
 msgid "Get it on Google Play"
-msgstr "Uni \"Google Play\"dan tekinga oling"
+msgstr "Uni \"Google Play\"dan yuklab oling"
 
 #. altenate text on an image
 #: firefox/partners/index.lang:410
 msgid "Mobile World Congress 2014"
-msgstr "Mobil Dunyo Kongresi - 2014"
+msgstr "Mobil Dunyo Kongressi - 2014"
 
 #. Press title in Recent News
 #: firefox/partners/index.lang:415
 msgid "Watch our wrap-up video from Mobile World Congress 2013"
-msgstr ""
+msgstr "\"Mobil Dunyo Kongress 2013\"dan umumiy videoni ko‘rish"
 
 #. Press title in Recent News
 #: firefox/partners/index.lang:420
 msgid "Mozilla and partners prepare to launch first Firefox OS smartphones"
 msgstr ""
+"Mozilla va hamkorlari ilk \"Firefox OS\"ni ishga tushirishga tayyorgarlik "
+"ko‘rishmoqda"
 
 #. Line break below is presentational only
 #: firefox/partners/index.lang:425
 msgid "View available Firefox OS devices"
-msgstr ""
+msgstr "Mavjud Firefox OS qurilmalarini ko‘rish"
 
 #. Line break below is presentational only
 #: firefox/partners/index.lang:430
 msgid "Watch the daily <br>MWC video recap"
-msgstr ""
+msgstr "Kunlik MWC <br>videoni takror ko‘rish"
 
 #. Line break below is presentational only, Fox Den should remain in English, it is a location at the event on the Mozilla stand
 #: firefox/partners/index.lang:435
@@ -532,7 +570,7 @@ msgstr "Firefox bu yerda: MWC 2014 &ndash; Tadbirlar jadvali"
 #. Line break below is presentational only
 #: firefox/partners/index.lang:445
 msgid "Firefox tweets from <br>MWC in Barcelona"
-msgstr "Firefox Barselonadagi<br>MWC tomonidan tweet qoldiradi "
+msgstr "Firefox Barselonadagi<br>MWC tomonidan tweet qoldirdi"
 
 #: firefox/partners/index.lang:449
 msgid "View the version notes"
@@ -565,12 +603,12 @@ msgstr "Marhamat, kompaniyangiz nomini kiriting."
 #. Form error message
 #: firefox/partners/index.lang:478
 msgid "Please supply a valid URL."
-msgstr "Iltimos, toʻgʻri URL manzilini kiriting."
+msgstr "Iltimos, URL manzilini toʻgʻri kiriting."
 
 #. Form error message
 #: firefox/partners/index.lang:483
 msgid "Please enter a valid email address"
-msgstr "Iltimos, to‘g‘ri e-pochta manzilini kiriting"
+msgstr "Iltimos, e-pochta manzilini to‘g‘ri kiriting"
 
 #. Form, Physical address field (street, city...)
 #: firefox/partners/index.lang:488
@@ -609,7 +647,7 @@ msgstr "Firefox ushbu manzilda: MWC 2014 &ndash; Hall 3, Stand 3C30"
 
 #: firefox/partners/index.lang:522
 msgid "Download PDF"
-msgstr "PDF’bu tuklab olish"
+msgstr "PDF’ni yuklab olish"
 
 #~ msgctxt "./firefox/partners/index.lang:463"
 #~ msgid "First Name"
