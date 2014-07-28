@@ -1,18 +1,17 @@
 #. extracted from ./mozorg/contribute.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-07-18 10:44+0100\n"
-"PO-Revision-Date: 2013-10-28 21:41+0000\n"
-"Last-Translator: chandan <chandankumar.093047@gmail.com>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: hi_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.12.0-alpha1\n"
-"X-POOTLE-MTIME: 1382996471.000000\n"
 
 #. # contribute_faces ##
 #. # contribute_mayupdates ##
@@ -22,7 +21,7 @@ msgstr ""
 #. Used for HTML title attribute
 #: mozorg/contribute.lang:8
 msgid "Get Involved: Volunteer Opportunities at Mozilla"
-msgstr "शामिल हो: मोज़िल्ला में स्वयंसेवी अवसर "
+msgstr "शामिल हो: मोज़िल्ला में स्वयंसेवी अवसर"
 
 #. # TAG: contribute_faces
 #: mozorg/contribute.lang:13
@@ -66,7 +65,7 @@ msgstr "मदद करना चाहते हैं?"
 
 #: mozorg/contribute.lang:49
 msgid "Area of interest?"
-msgstr " रुचि का क्षेत्र?"
+msgstr "रुचि का क्षेत्र?"
 
 #: mozorg/contribute.lang:53
 msgid "Helping Users"
@@ -74,7 +73,7 @@ msgstr "उपयोगकर्ताओं की सहायता करे
 
 #: mozorg/contribute.lang:57
 msgid "Testing and QA"
-msgstr "जाँच तथा क्यूए "
+msgstr "जाँच तथा क्यूए"
 
 #: mozorg/contribute.lang:61
 msgid "Coding"
@@ -111,11 +110,11 @@ msgstr "दस्तावेज़ीकरण और लिखावट"
 
 #: mozorg/contribute.lang:94
 msgid "Education"
-msgstr "शिक्षा "
+msgstr "शिक्षा"
 
 #: mozorg/contribute.lang:98
 msgid "Other"
-msgstr "अन्य "
+msgstr "अन्य"
 
 #: mozorg/contribute.lang:102
 msgid "I have a suggestion for Firefox"
@@ -123,7 +122,7 @@ msgstr "मेरे पास फ़ायरफ़ॉक्स के लिए स�
 
 #: mozorg/contribute.lang:106
 msgid "I need help with a Firefox issue"
-msgstr "मुझे फ़ायरफ़ॉक्स समस्या के बारे में मदद चाहिए "
+msgstr "मुझे फ़ायरफ़ॉक्स समस्या के बारे में मदद चाहिए"
 
 #: mozorg/contribute.lang:110
 msgid "YOUR EMAIL HERE"
@@ -224,13 +223,10 @@ msgstr "गुणवत्ता आश्वासन"
 
 #. # TAG: contribute_mayupdates
 #: mozorg/contribute.lang:189
-#, fuzzy
 msgid ""
 "Quality Assurance testing is one of the easiest ways to get started with "
 "Mozilla and is a great way to get familiar with our code and tools."
 msgstr ""
-"गुणवत्ता आश्वासन परीक्षण मोज़िल्ला के साथ शुरुआत करने का सबसे आसन तरीका हैं और हमारे कोड "
-"और उपकरणों के साथ परिचित पाने के लिए एक महान तरीका है."
 
 #. # TAG: contribute_mayupdates
 #: mozorg/contribute.lang:194
@@ -421,7 +417,7 @@ msgstr "के आधार पर छाँटें:"
 
 #: mozorg/contribute.lang:316
 msgid "Interest"
-msgstr " रूचि"
+msgstr "रूचि"
 
 #: mozorg/contribute.lang:320
 msgid "Location"
@@ -471,7 +467,7 @@ msgstr ""
 
 #: mozorg/contribute.lang:344
 msgid "Facebook"
-msgstr "फेसबुक "
+msgstr "फेसबुक"
 
 #: mozorg/contribute.lang:348
 msgid "Firefox Affiliates"
@@ -491,11 +487,11 @@ msgstr "साइन अप करने के लिए आपको धन्
 
 #: mozorg/contribute.lang:364
 msgid "Menu"
-msgstr "मेन्यू "
+msgstr "मेन्यू"
 
 #: mozorg/contribute.lang:367
 msgid "Twitter"
-msgstr "ट्विटर "
+msgstr "ट्विटर"
 
 #: mozorg/contribute.lang:371
 msgid ""
@@ -507,7 +503,6 @@ msgstr ""
 
 #. Old string, will be removed when all locales have the new text
 #: mozorg/contribute.lang:376
-#, fuzzy
 msgid ""
 "Quality assurance testing is one of the easiest ways to get started with "
 "Mozilla and is a great way to get familiar with our code and tools. Help us "
@@ -518,8 +513,8 @@ msgstr ""
 "मोज़िला के साथ शुरुवात करने का गुणवत्ता आश्वासन जाँच(Quality Assurance Testing) एक "
 "बहुतही सरल मार्ग है और कोड तथा टूल्स से परिचित होने का अच्छा मार्ग है | हमें मोज़िला में <a "
 "href=\"%(qa_bugs_url)s\"> त्रुटियाँ खोजने में </a> मदद करें, <a href=\"%(qa_web_url)s"
-"\"> मोज़िला वेबसाइटों की जाँच करें</a> अथवा <a href=\"http://quality.mozilla.org/"
-"\"> अन्य जाँच अवसरों </a> के बारे में अधिक जानें |"
+"\"> मोज़िला वेबसाइटों की जाँच करें</a> अथवा <a href=\"%(qa_url)s\"> अन्य जाँच अवसरों "
+"</a> के बारे में अधिक जानें |"
 
 #. Old string, will be removed when all locales have the new text
 #: mozorg/contribute.lang:381
@@ -529,130 +524,3 @@ msgid ""
 "\"%(addons_url)s\">build an add-on</a>. For experienced developers, find out "
 "how to <a href=\"%(addons_wiki)s\">become an AMO editor</a>."
 msgstr ""
-
-#~ msgid ""
-#~ "Help us <a href=\"http://quality.mozilla.org/teams/desktop-firefox/"
-#~ "\">hunt down bugs</a> in Firefox, <a href=\"http://quality.mozilla.org/"
-#~ "teams/web-qa/\">test Mozilla web sites</a> or learn more about <a href="
-#~ "\"http://quality.mozilla.org/\">other testing opportunities</a>."
-#~ msgstr ""
-#~ "फ़ायरफ़ॉक्स में हमें <a href=\"http://quality.mozilla.org/teams/desktop-firefox/"
-#~ "\">बग को हल करने में</a> मदद करें, <a href=\"http://quality.mozilla.org/teams/"
-#~ "web-qa/\">मोज़िल्ला वेब साइट का  परीक्षण करें </a> या <a href=\"http://quality."
-#~ "mozilla.org/\"> अन्य परीक्षण के अवसरों</a> के बारे में और अधिक जानें."
-
-#~ msgid ""
-#~ "<a href=\"https://developer.mozilla.org/en/Introduction\">Developers can "
-#~ "help</a> Mozilla by adding new features, making our technology smaller "
-#~ "and faster and making development easier for others."
-#~ msgstr ""
-#~ "<a href=\"https://developer.mozilla.org/en/Introduction\">डेवलपर </a> नई "
-#~ "सुविधाएँ जोड़कर, हमारी प्रौद्योगिकी को छोटा और तेज बनाकर और दूसरों के लिए विकास को "
-#~ "आसान बनाकर मोज़िल्ला को मदद कर सकते हैं."
-
-#~ msgid ""
-#~ "You can find many developers on <a href=\"http://irc.mozilla.org\">IRC</"
-#~ "a> so stop by and ask questions to learn more. Our web sites are <a href="
-#~ "\"http://blog.mozilla.com/webdev/get-involved/\">open for web ninjas</a> "
-#~ "to hack on too."
-#~ msgstr ""
-#~ "आपको <a href=\"http://irc.mozilla.org\"> आईआरसी</a> पर कई डेवलपर मिल सकते हैं "
-#~ "और वहाँ रुकें और अधिक जानने के लिए सवाल पूछें.. हमारे वेब साइटों <a href=\"http://"
-#~ "blog.mozilla.com/webdev/get-involved/\"> वेबज्ञानी के लिए</a> हैक करने के लिए "
-#~ "खुला हैं."
-
-#~ msgid ""
-#~ "Help us spread the word about how Firefox and other Mozilla projects are "
-#~ "building a better Internet. Share Firefox with the world by <a href="
-#~ "\"https://affiliates.mozilla.org\">becoming an Affiliate</a> and then "
-#~ "check out our <a href=\"https://wiki.mozilla.org/MarketingGuide"
-#~ "\">Marketing Guide</a> for more ways to get involved."
-#~ msgstr ""
-#~ "फ़ायरफ़ॉक्स और अन्य मोज़िल्ला परियोजनाओं कैसे एक बेहतर इंटरनेट का निर्माण कर रहे हैं के "
-#~ "बारें में जानकारी को फ़ैलाने में हमारी मदद करें. दुनिया के साथ फ़ायरफ़ॉक्स के <a href="
-#~ "\"https://affiliates.mozilla.org\">सहबद्ध बनकर </a> साझा करें और अधिक तरीकों "
-#~ "से शामिल होने के लिए<a href=\"https://wiki.mozilla.org/MarketingGuide"
-#~ "\">विपणन गाइड</a> देख सकते हैं."
-
-#~ msgid ""
-#~ "Find out about <a href=\"/contribute/areas.html\">more areas of interest…"
-#~ "</a>"
-#~ msgstr "<a href=\"/contribute/areas.html\">और अधिक रूचि…</a> के बारें में ढूंढें."
-
-#~ msgid ""
-#~ "You can also join our <a href=\"https://support.mozilla.org/army-of-"
-#~ "awesome\">Army of Awesome</a> by helping users on Twitter."
-#~ msgstr ""
-#~ "उपयोगकर्ताओं को मदद करने के लिए Twitter पर आप <a href=\"https://support."
-#~ "mozilla.org/army-of-awesome\">कमल की सेना</a> के साथ जुड़ सकते हैं. "
-
-#~ msgid ""
-#~ "Find out more about <a href=\"https://support.mozilla.org/kb/superheroes-"
-#~ "wanted\">supporting Firefox</a> and <a href=\"http://support."
-#~ "mozillamessaging.com/en-US/kb/superheroes-wanted\">Thunderbird</a> users."
-#~ msgstr ""
-#~ "<a href=\"https://support.mozilla.org/kb/superheroes-wanted\">फ़ायरफ़ॉक्स का "
-#~ "समर्थन</a> और <a href=\"http://support.mozillamessaging.com/en-US/kb/"
-#~ "superheroes-wanted\">थंडरबर्ड</a> उपयोगकर्ताओं के बारे में और अधिक जानकारी प्राप्त "
-#~ "करें."
-
-#~ msgid ""
-#~ "Interested in helping others get the most out of using Firefox and other "
-#~ "Mozilla projects? Our support process relies on enthusiastic contributors "
-#~ "like you. Find out more about <a href=\"%(fx_support_url)s\">supporting "
-#~ "Firefox</a> and <a href=\"%(tb_support_url)s\">Thunderbird</a> users. You "
-#~ "can also join our <a href=\"%(army_url)s\">Army of Awesome</a> by helping "
-#~ "users on Twitter."
-#~ msgstr ""
-#~ "दूसरो की मदद करने के इछुक फायरफॉक्स और मोज़िला की सहायता से ज्यादा पा सकते हैं? हमारे "
-#~ "समर्थन की प्रक्रिया आप की तरह उत्साही योगदानकर्ताओं पर निर्भर करता है. <a href="
-#~ "\"%(fx_support_url)s\">सपोर्टिंग फायरफॉक्स</a> और <a href="
-#~ "\"%(tb_support_url)s\">थंडरबर्ड</a> के बारे में और अधिक जानकारी प्राप्त करें. आप "
-#~ "ट्विटर उपयोगकर्ता की मदद करके हमारे <a href=\"%(army_url)s\">आर्मी ऑफ़ औसम</a> "
-#~ "को ज्वाइन कर सकते हैं."
-
-#~ msgid ""
-#~ "We believe in the power of well-made and widely distributed art, and want "
-#~ "to make it possible for artists to cover the web and people with designs "
-#~ "inspired by Mozilla. Take part in a <a href=\"%(creative_url)s\">Creative "
-#~ "Collective challenge</a> or <a href=\"%(zazzle_url)s\">add a t-shirt "
-#~ "design</a> to our Community Store."
-#~ msgstr ""
-#~ "हम अच्छी तरह से बनाये हुए और व्यापक रूप से वितरित की हुई कला की शक्ति में विश्वास करते "
-#~ "हैं, और कलाकारों को वेब कवर करने के लिए और मोज़िला द्वारा प्रेरित डिज़ाइनर के लिए इसे "
-#~ "संभव बनाना चाहते हैं. भाग लें <a href=\"%(creative_url)s\">रचनात्मक सामूहिक "
-#~ "चुनौती</a> में या हमारे संस्थान में <a href=\"%(zazzle_url)s\">टी-शर्ट डिजाईन</a> "
-#~ "ऐड करें."
-
-#~ msgid ""
-#~ "<a href=\"%(dev_intro_url)s\">Developers can help</a> Mozilla by adding "
-#~ "new features, making our technology smaller and faster and making "
-#~ "development easier for others. You can find many developers on <a href="
-#~ "\"%(irc_url)s\">IRC</a> so stop by and ask questions to learn more. Our "
-#~ "web sites are <a href=\"%(webdev_blog)s\">open for web ninjas</a> to hack "
-#~ "on too."
-#~ msgstr ""
-#~ "<a href=\"%(dev_intro_url)s\">डेवलपर्स मदद कर सकते हैं</a> मोज़िला को नई सुविधाओं "
-#~ "को जोड़ने में, हमारी प्रौद्योगिकी छोटे और तेज बनाने में और विकास को दूसरों के लिए आसान "
-#~ "बनाने में. आप कई डेवलपर्स को पा सकते हैं<a href=\"%(irc_url)s\">आईआरसी</a> पे और "
-#~ "सीखने के लिए प्रश्न पूछिये. हमारे वेबसाइट <a href=\"%(webdev_blog)s\">वेब निन्जास के "
-#~ "लिए खुले</a> हैं."
-
-#~ msgid ""
-#~ "Firefox and other Mozilla-based applications have a powerful extension "
-#~ "system that allow you to make small tweaks or make major additions to "
-#~ "your programs. If you’re new to this technology, learn how to <a href="
-#~ "\"%(addons_url)s\">build an add-on</a>. For experienced developers, find "
-#~ "out how to <a href=\"%(addons_wiki)s\">become an AMO editor</a>."
-#~ msgstr ""
-#~ "फ़ायरफ़ॉक्स तथा अन्य मोज़िला-आधारित अनुप्रयोगों के पास शक्तिशाली विस्तार प्रणाली है जो "
-#~ "आपको आपके प्रोग्राम्स में छोटे ट्वीक्स बनाने या प्रमुख अनुवृद्धि करने की अनुमति देती है | "
-#~ "अगर आप इस प्रौद्योगिकी से नये है, तो जानें की कैसे <a href=\"%(addons_url)s\"> ऐड-"
-#~ "ऑन बनाये </a>| अनुभवी डेवेलपर्स के लिए, जानिए कैसे <a href=\"%(addons_wiki)s\"> "
-#~ "एएमओ (AMO) संपादक बनें </a>|"
-
-#~ msgid "An error occurred in our system. Please try again later."
-#~ msgstr "हमारे प्रणाली में त्रुटि प्रकट हो गयी है | कृपया कुछ देर बाद पुनः प्रयत्न करें | "
-
-#~ msgid "You must agree to the privacy policy"
-#~ msgstr "आपको गोपनीयता नीति पर सहमत होना आवश्यक है |"
