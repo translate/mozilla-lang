@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-07-18 10:44+0100\n"
-"PO-Revision-Date: 2014-08-03 06:53+0000\n"
+"PO-Revision-Date: 2014-08-03 10:02+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uz\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1407048781.000000\n"
+"X-POOTLE-MTIME: 1407060170.000000\n"
 
 #. # contribute_faces ##
 #. # contribute_mayupdates ##
@@ -245,9 +245,9 @@ msgid ""
 "Quality Assurance testing is one of the easiest ways to get started with "
 "Mozilla and is a great way to get familiar with our code and tools."
 msgstr ""
-"Sifatni boshqarish sinovi Mozilla bilan ish boshlashning eng oson "
-"yo‘llaridan biri va bizning kodlarimiz va asboblarimiz bilan tanishishning "
-"eng zo‘r usulidir."
+"Sifat kafolatini sinash Mozilla bilan ish boshlashning eng oson yo‘llaridan "
+"biri va kodimiz hamda asboblarimiz bilan tanishishning eng zo‘r usullaridan "
+"biri."
 
 #. # TAG: contribute_mayupdates
 #: mozorg/contribute.lang:194
@@ -349,6 +349,11 @@ msgid ""
 "and <a href=\"%(addons_wiki)s\">learn more about the different ways you can "
 "contribute</a>."
 msgstr ""
+"Qo‘shimcha dasturlar Firefox’ni ko‘pgina kengaytmalar qo‘shsa bo‘ladigan va "
+"moslanadigan brauzer sifatida mavjud bo‘lishiga yordam beradi. <a href="
+"\"%(addons_url)s\">Qo‘shimcha dastur tuzish</a>ni boshlang va <a href="
+"\"%(addons_wiki)s\">hissa qo‘shishning boshqa yo‘llari haqida ko‘proq "
+"o‘rganing</a>."
 
 #. Visual design
 #: mozorg/contribute.lang:237
@@ -357,6 +362,10 @@ msgid ""
 "designs inspired by Mozilla. Check out the <a href=\"%(creative_url)s"
 "\">Creative team blog</a> for more information about how to take part."
 msgstr ""
+"Biz rassomlarga internetni qoplash va odamlarni Mozilla tomonidan dizayn "
+"bilan hayratlantirish imkonini berishni xohlaymiz. Qanday qilib ishtirok "
+"etish haqidagi qo‘shimcha ma’lumotlar olish uchun <a href=\"%(creative_url)s"
+"\">Ijodkor guruh blogi</a>ni ko‘rib chiqing."
 
 #. Documentation and writing
 #: mozorg/contribute.lang:242
@@ -366,6 +375,10 @@ msgid ""
 "by writing new content, correcting existing material or translating content "
 "into new languages."
 msgstr ""
+"Mozilla dasturchilar tarmog‘i Mozilla texnologiyalari haqidagi ma’lumot "
+"markazi hisoblanadi. Yangi ma’lumot yozib, mavjud material xatolarini "
+"to‘g‘rilab yoki kontentni yangi tilga tarjima qilib <a href=\"%dev_url)s"
+"\">qo‘llanmalarimizni yaxshiroq qilish</a>ga yordam bering."
 
 #. # TAG: webmaker_update
 #. Education
@@ -377,12 +390,18 @@ msgid ""
 "<a href=\"%(webmaker_resources)s\">teaching resources</a> and <a href="
 "\"%(webmaker_events)s\">community events</a>."
 msgstr ""
+"Boshqalarga internetning qanday ishlashini tushuntirib berishga qiziqib "
+"qoldingizmi? <a href=\"%(webmaker)s\">Mozilla vebmeyker</a> global jamiyati "
+"o‘zini raqamli bilimlarni <a href=\"%(webmaker_tools)s\">bepul asboblar</a>, "
+"<a href=\"%(webmaker_resources)s\">o‘rgatsh manbalari</a> va <a href="
+"\"%(webmaker_events)s\">jamiyat tadbirlari</a>dan foydalanib bo‘lishishga "
+"bag‘ishlaydi."
 
 #. # TAG: contribute_fellowship
 #. Fellowships
 #: mozorg/contribute.lang:254
 msgid "Fellowships"
-msgstr ""
+msgstr "Do‘stlik"
 
 #. # TAG: contribute_fellowship
 #: mozorg/contribute.lang:259
@@ -391,12 +410,16 @@ msgid ""
 "\"%(fellowship)s\">OpenNews Fellowship program</a> matches emerging digital "
 "leaders with journalism opportunities to build the open Web for everyone."
 msgstr ""
+"Ochiq tarmoqning kelajagini shakllantirishga qiziqib qoldingizmi? Mozilla-"
+"ritsar’ning <a href=\"%(fellowship)s\">OpenNews do‘stlik dasturi</a> "
+"favqulodda raqamli sardorlar jurnalistika imkoniyatlari bilan hamma uchun "
+"ochiq tarmoqni tuzishga mos keladi."
 
 #. # TAG: hiveglobal
 #. For reference see http://hivelearningnetworks.org
 #: mozorg/contribute.lang:265
 msgid "Hive Networks"
-msgstr ""
+msgstr "Hive tarmoqlari"
 
 #. # TAG: hiveglobal
 #. For reference see http://hivelearningnetworks.org
@@ -408,6 +431,10 @@ msgid ""
 "\"%(hivenetworks)s\">Learn more</a> about how to start a Hive in your "
 "community."
 msgstr ""
+"<a href=\"%(hivenetworks)s\">Hive o‘rganish tarmoqlari</a> ulangan holda "
+"o‘rganishda raqamli bilimlar go‘libi va veb-savodxonlik bo‘yicha butun dunyo "
+"bo‘ylab o‘smoqda. Hive bilan jamiyatingizda qanday boshlash haqida <a href="
+"\"%(hivenetworks)s\">ko‘proq o‘rganing</a>."
 
 #. Old string, will be removed when all locales have the new text
 #: mozorg/contribute.lang:276
@@ -417,6 +444,10 @@ msgid ""
 "all about</a> or get started teaching others by <a href=\"%(webmaker)s"
 "\">setting up an event in your community today</a>."
 msgstr ""
+"Boshqalarga internet qanday ishlashi haqida o‘rgatib, vebmeykerlar avlodini "
+"tuzing. <a href=\"%(moz_webmaker)s \">Mozilla vebmeyker loyihasi haqidagi "
+"hamma narsani bilib oling</a> yoki boshqalarga <a href=\"%(webmaker)s"
+"\">bugun jamiyatingizdagi tadbirni moslash</a> orqali o‘rgatishni boshlang."
 
 #: mozorg/contribute.lang:280
 msgid "map"
