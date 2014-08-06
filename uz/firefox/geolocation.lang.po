@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-05-15 22:41+0100\n"
-"PO-Revision-Date: 2014-08-05 06:09+0000\n"
+"PO-Revision-Date: 2014-08-06 12:47+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uz\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1407218953.000000\n"
+"X-POOTLE-MTIME: 1407329234.000000\n"
 
 #. # NOTE: url is https://www.mozilla.org/firefox/geolocation/
 #: firefox/geolocation.lang:5
@@ -30,11 +30,11 @@ msgid ""
 "is done in a way that totally respects your privacy. <a href=\"%(url)s\" id="
 "\"%(id)s\" style=\"%(style)s\">Give it a try!</a>"
 msgstr ""
-"Firefox vebsaytlarga qayerda joylashganingizni aytishi mumkin, shuning uchun "
-"eng yaqin va foydali ma’lumotlarni topishingiz mumkin bo‘ladi. Bu internetni "
-"aqlli qilmoqchi va shaxsiy hayotingizni to‘liq hurmat qilish ko‘rinishda "
-"qilinmoqchi <a href=\"%(url)s\" id=\"%(id)s\" style=\"%(style)s\">Foydalanib "
-"ko‘rishga imkokn berish</a>"
+"Firefox vebsahifalarga qayerda joylashganingizni aytishi mumkin, shuning "
+"uchun eng yaqin va foydali ma’lumotlarni topishingiz mumkin bo‘ladi. Bu "
+"internetni aqlli qilmoqchi va shaxsiy hayotingizni to‘liq hurmat qilish "
+"ko‘rinishda qilinmoqchi <a href=\"%(url)s\" id=\"%(id)s\" style=\"%(style)s"
+"\">Foydalanib ko‘rishga imkon berish</a>"
 
 #: firefox/geolocation.lang:17
 msgid "Frequently asked Questions"
@@ -53,6 +53,13 @@ msgid ""
 "“pizza” will bring you the answers you need... no further information or "
 "extra typing required."
 msgstr ""
+"Manzilni aniqlab ko‘rishdan foydalanadigan vebsahifalar sizga eng kerakli "
+"ma’lumotni keltirish yoki izlayotganganingizda vaqtingizni saqlash uchun "
+"qayerdaligingizni so‘raydi. Keling, yaxshisi sizni yaqin hududingizdan pitsa "
+"qidiryapsiz deb hisoblaylik. Vebsahifa sizdan manzilingizni "
+"bo‘lishishingizni so‘raydi, \"pitsa\" uchun oddiy qidiruvingiz sizga kerakli "
+"ma’lumotlarni beradi... ko‘proq ma’lumot kerak bo‘lmaydi yoki qo‘shimcha "
+"yozish talab qilinmaydi."
 
 #: firefox/geolocation.lang:29
 msgid ""
@@ -60,6 +67,9 @@ msgid ""
 "where you’re starting from so all you have to do is tell it where you want "
 "to go."
 msgstr ""
+"Yoki agar siz biror narsani olish uchun yo‘nalishlaringizni xaritangizga "
+"kiritib qo‘ysangiz, vebsahifa siz qayerdan boshlashingizni biladi, shunday "
+"qilib siz faqatgina qayerga borishni xohlashingizni aytishingiz kerak."
 
 #: firefox/geolocation.lang:33
 msgid ""
@@ -68,6 +78,11 @@ msgid ""
 "privacy. And, like all elements of Firefox, it’s being created using open "
 "standards to ease adoption by Web developers."
 msgstr ""
+"Ushbu xizmat umuman olganda majburiy emas &ndash; Firefox ruxsatingizsiz "
+"manzilingizni bo‘lishmaydi &ndash; va maxfiyligingizni hurmat qilish bilan "
+"tayyor bo‘ladi. \"Firefox\"ning barcha boshqa elementlariga o‘xshab u veb "
+"dasturchilar tomonidan oson moslashish uchun ochiq standartlardan foydalanib "
+"yaratiladi."
 
 #: firefox/geolocation.lang:37
 msgid "How does it work?"
@@ -89,14 +104,19 @@ msgid ""
 "get an estimate of your location. That location estimate is then shared with "
 "the requesting website."
 msgstr ""
+"Agar rozi bo‘lsangiz, Firefox yaqin atrofdagi simsiz tarmoq ulanish nuqtasi "
+"va kompyuteringizning IP manzili haqidagi ma’lumotni yig‘adi. So‘ngra "
+"Firefox ushbu ma’lumotni standart geojoylashuv xizmati ta’minotchisi - "
+"Google manzil xizmatlariga manzilingiz bahosini olish uchun jo‘natadi. "
+"So‘ngra manzil bahosi so‘ralgan vebsahifa bilan bo‘lishiladi."
 
 #: firefox/geolocation.lang:49
 msgid "If you say that you do not consent, Firefox will not do anything."
-msgstr ""
+msgstr "Agar siz norozilingizni aytsangiz, Firefox hech narsa qilmaydi."
 
 #: firefox/geolocation.lang:53
 msgid "How accurate are the locations?"
-msgstr ""
+msgstr "Manzillarni qanday aniqlash mumkin?"
 
 #: firefox/geolocation.lang:57
 msgid ""
@@ -107,11 +127,19 @@ msgid ""
 "the accuracy of the locations provided. Please do not use this information "
 "for emergencies. Always use common sense."
 msgstr ""
+"Aniqlik manzildan manzilga qarab turlicha. Ba’zi joylarda bizning xizmat "
+"ta’minotchilarimiz manzilni qisqa o‘lchovlarda keltirishi mumkin. Shunday "
+"ekan, boshqa hududlarda u boshqasiga nisbatan ko‘proq bo‘lishi mumkin. "
+"Bizning xizmat ta’minotchilarimiz tomonidan qaytarilgan barcha manzillar "
+"faqat ular tomonidan baholanadi va biz keltirilgan manzillar aniqligi uchun "
+"kafolat bera olmaymiz. Iltimos, bu ma’lumotlardan favqulodda holatlarda "
+"foydalanmang. Doimo umumiy maqsadlarda foydalaning."
 
 #: firefox/geolocation.lang:61
 msgid ""
 "What information is being sent, and to whom? How is my privacy protected?"
 msgstr ""
+"Qaysi ma’lumt jo‘natiladi va kimga? Mening xavfsizligim qanday himoyalangan?"
 
 #: firefox/geolocation.lang:65
 msgid ""
@@ -120,32 +148,43 @@ msgid ""
 "information, you’ll be asked before any information is shared with the "
 "requesting website and our third-party service provider."
 msgstr ""
+"Sizning maxfiyligingiz biz uchun o‘ta muhim va Firefox ruxsatingizsiz "
+"manzilingizni hech qachon bo‘lishmaydi. Sizning ma’lumotingizni so‘rayotgan "
+"sahifaga tashrif buyursangiz, talab qilayotgan vebsahifa va bizning uchinchi "
+"taraf ta’minotchimiz bilan har qanday ma’lumot bo‘lishishdan oldin sizdan "
+"so‘raladi."
 
 #: firefox/geolocation.lang:69
 msgid ""
 "By default, Firefox uses Google Location Services to determine your location "
 "by sending:"
 msgstr ""
+"Standart holatda Firefox manzilingizni aniqlab jo‘nataishda Google manzil "
+"xizmatlaridan foydalanadi:"
 
 #: firefox/geolocation.lang:73
 msgid "your computer’s IP address,"
-msgstr ""
+msgstr "kompyuteringizning IP manzili,"
 
 #: firefox/geolocation.lang:77
 msgid "information about the nearby wireless access points, and"
-msgstr ""
+msgstr "eng yaqin simsiz tarmoqqa ulanish nuqtasi haqidagi ma’lumot va"
 
 #: firefox/geolocation.lang:81
 msgid ""
 "a random client identifier, which is assigned by Google, that expires every "
 "2 weeks."
 msgstr ""
+"Google tomonidan belgilangan tasodifiy mijoz aniqlagichi har 2 haftada "
+"eskiradi."
 
 #: firefox/geolocation.lang:85
 msgid ""
 "For a complete description of information collected and used by Firefox, "
 "please see the <a href=\"%(url)s\">Firefox Privacy Notice</a>."
 msgstr ""
+"Firefx tomonidan yig‘ilgan va foydalanadigan to‘liq ta’rif uchun, marhamat, "
+"<a href=\"%(url)s\">Firefox maxfiylik eslatmalari</a>ni ko‘rib chiqing."
 
 #: firefox/geolocation.lang:89
 msgid ""
@@ -154,6 +193,11 @@ msgid ""
 "and used by Google, please see the <a href=\"%(url)s\" class=\"%(class)s"
 "\">Google Geolocation Privacy Policy</a>."
 msgstr ""
+"So‘ngra Google manzillar xizmatlari sizning baholangan geomanzil (masalan, "
+"kenglik va geografik uzunlik)ni qaytaradi. Google tomonidan yig‘ilgan va "
+"foydalanilgan ma’lumot to‘liq ta’rifi uchun, marhamat. <a href=\"%(url)s\" "
+"class=\"%(class)s\">Google geojoylashuv maxfiylik siyosati</a>ni ko‘rib "
+"chiqing."
 
 #: firefox/geolocation.lang:93
 msgid ""
@@ -163,34 +207,47 @@ msgid ""
 "you are visiting, or are any cookies, ever shared with Google Location "
 "Services."
 msgstr ""
+"Maxfiyligingizni himoyalash uchun ma’lumot kodlangan ulanish bo‘ylab "
+"almashtirildi. \"Firefox\"da manzilingiz ma’lumoti bo‘lsa, uni so‘ragan "
+"vebsahifaga beradi. Boshqa hech qanday vaqtda siz tashrif buyurgan vebsahifa "
+"manzili yoki nomi uchun yoki kukilar Google manzil xizmatlari bilan "
+"bo‘lishilmaydi."
 
 #: firefox/geolocation.lang:97
 msgid ""
 "Neither Mozilla or Google will ever use the information collected by Google "
 "Location Services to identify or spy on you."
 msgstr ""
+"Mozilla ham yoki Google ham Google manzil xizmatlari tomonidan yig‘ilgan "
+"ma’lumotlardan shaxsiyatingizni aniqlash yoki sizning orqangizdan josuslik "
+"qilish uchun foydalanmaydi."
 
 #: firefox/geolocation.lang:101
 msgid ""
 "For information about what the requesting website does with your location "
 "information, please refer to that website’s privacy policy."
 msgstr ""
+"Manzil ma’lumotingizni so‘rayotgan vebsahifa ma’lumotlarni nima qilishi "
+"haqidagi ma’lumotni bilish uchun, marhamat, vebsahifangiz maxfiylik "
+"siyosatini ko‘rib chiqing."
 
 #: firefox/geolocation.lang:105
 msgid "For more information about your privacy, you should also read:"
 msgstr ""
+"Maxfiyligingiz haqidagi ko‘proq ma’lumot olish uchun siz buni ham "
+"o‘qishingiz kerak:"
 
 #: firefox/geolocation.lang:109
 msgid "Mozilla Firefox Privacy Notice"
-msgstr ""
+msgstr "Mozilla Firefox maxfiylik eslatmalari"
 
 #: firefox/geolocation.lang:113
 msgid "Google privacy policy"
-msgstr ""
+msgstr "Google maxfiylik siyosati"
 
 #: firefox/geolocation.lang:117
 msgid "Am I being tracked as I browse the web?"
-msgstr ""
+msgstr "Men internetni ko‘rayotganimda kuzatilamanmi?"
 
 #: firefox/geolocation.lang:121
 msgid ""
@@ -198,10 +255,13 @@ msgid ""
 "only shares your location when the user has approved the request. Firefox "
 "does not track or remember your location as you browse."
 msgstr ""
+"Yo‘q. Firefox faqat vebsahifa so‘ragandagina manzilni so‘raydi va "
+"foydalanuvchi so‘rovga ruxsat bergandagina manzilingizni bo‘lishadi. Firefox "
+"ko‘rish sifatida sizni kuzatmaydi yoki manzilingizni eslab qolmaydi."
 
 #: firefox/geolocation.lang:125
 msgid "How do I undo a permission granted to a site?"
-msgstr ""
+msgstr "Saytga berilgan ruxsatni qanday qilib bekor qilsam bo‘ladi?"
 
 #: firefox/geolocation.lang:129
 msgid ""
@@ -209,26 +269,32 @@ msgid ""
 "and later change your mind, you can easily revoke that permission. Here's "
 "how:"
 msgstr ""
+"Doimo manzilingizni saytga berish uchun \"Firefox\"ga ruxsat bergan "
+"bo‘lsangiz va keyinroq fikringiz o‘zgarib qolgan bo‘lsa, osongina ruxsatni "
+"bekor qilishingiz mumkin. Mana bu yerda qanday qilish ko‘rsatilgan:"
 
 #: firefox/geolocation.lang:133
 msgid "Navigate to the site to which you’ve given permission"
-msgstr ""
+msgstr "Siz ruxsat bergan saytni kuzatish"
 
 #: firefox/geolocation.lang:137
 msgid "Go to the <em>Tools</em> menu, then select <em>Page Info</em>"
 msgstr ""
+"<em>Asboblar</em> menyusizga o‘ting, so‘ngra <em>Sahifa ma’lumoti</em>ni "
+"tanlang"
 
 #: firefox/geolocation.lang:141
 msgid "Select the <em>Permissions</em> tab"
-msgstr ""
+msgstr "<em>Ruxsatlar</em> ichki oynasini tanlang"
 
 #: firefox/geolocation.lang:145
 msgid "Change the setting for <em>Share Location</em>"
-msgstr ""
+msgstr "<em>Manzilni bo‘lishish</em> so‘zlamalarini o‘zgartiring"
 
 #: firefox/geolocation.lang:149
 msgid "How do I clear the “random client identification number”?"
 msgstr ""
+"Qanday qilib “tasodifiy mijoz identifikatsiya raqami”ni tozalashim mumkin?"
 
 #: firefox/geolocation.lang:153
 msgid ""
