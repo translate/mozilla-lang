@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-07-07 15:52+0100\n"
-"PO-Revision-Date: 2013-12-10 08:53+0000\n"
+"PO-Revision-Date: 2014-08-12 20:05+0000\n"
 "Last-Translator: Emin <mastizada@itu.edu.tr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: az\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
-"X-POOTLE-MTIME: 1386665617.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1407873951.000000\n"
 
 #. # telemetry_notice ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/channel/
@@ -30,12 +30,11 @@ msgstr "Ən son funksiyalar daha stabil mühitdə"
 
 #. # TAG: telemetry_notice
 #: firefox/channel.lang:16
-#, fuzzy
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
 msgstr ""
-"Firefox Aurora avtomatik olaraq Mozilla-ya əks-əlaqə göndərir. <a href="
+"Firefox Beta avtomatik olaraq Mozillaya əks-əlaqə göndərir. <a href="
 "\"%(link)s\">Ətraflı öyrən</a>."
 
 #: firefox/channel.lang:20
@@ -43,6 +42,8 @@ msgid ""
 "<a href=\"%(feedback)s\">Give us feedback</a> to help us put the final "
 "tweaks on performance and functionality in a stable environment."
 msgstr ""
+"<a href=\"%(feedback)s\">Bizə əks-əlaqə verin</a> ki, stabil mühit üçün "
+"performans və funksionallıq üzərində son düzəlişlərimizi edək."
 
 #: firefox/channel.lang:24
 msgid ""
@@ -63,6 +64,8 @@ msgid ""
 "Test performance in an experimental environment, file bugs and <a href="
 "\"%(feedback)s\">help us determine what makes it to Beta</a>."
 msgstr ""
+"Eksperimental mühitdə performansı test et, xətaları xəbər et və <a href="
+"\"%(feedback)s\">Bizə məhsulun Beta qalmaması üçün kömək et</a>."
 
 #. This description applies to Firefox on the Release channel
 #: firefox/channel.lang:39
