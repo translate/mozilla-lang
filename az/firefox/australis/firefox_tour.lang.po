@@ -26,10 +26,12 @@ msgstr ""
 msgid "Welcome to Firefox"
 msgstr ""
 
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 #. Sub-headline in /firstrun page
 #: firefox/australis/firefox_tour.lang:17
+#, fuzzy
 msgid "Committed to you, your privacy and an open Web."
-msgstr ""
+msgstr "Sizin, Məxfiliyiniz və açıq Web üçün edilmişdir"
 
 #: firefox/australis/firefox_tour.lang:21
 msgid "Learn how to customize your Firefox"
@@ -99,7 +101,7 @@ msgstr ""
 
 #: firefox/australis/firefox_tour.lang:85
 msgid "Using an older version of Sync?"
-msgstr ""
+msgstr "Sinxronlaşdırmanın köhnə versiyasını işlədirsiz?"
 
 #: firefox/australis/firefox_tour.lang:89
 msgid "Firefox Features"
@@ -125,7 +127,7 @@ msgstr ""
 
 #: firefox/australis/firefox_tour.lang:111
 msgid "Need help?"
-msgstr ""
+msgstr "Kömək lazımdır?"
 
 #: firefox/australis/firefox_tour.lang:115
 msgid "Now easier to find, use and manage"
@@ -298,9 +300,12 @@ msgstr ""
 msgid "Easy to find, use and manage"
 msgstr ""
 
+# # sync_new_markup ##
+# # NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 #: firefox/australis/firefox_tour.lang:286
+#, fuzzy
 msgid "Keep your Firefox in Sync"
-msgstr ""
+msgstr "Firefox-unuzu sinxron saxlayın"
 
 #: firefox/australis/firefox_tour.lang:290
 msgid "Access your bookmarks, passwords and more from any device."

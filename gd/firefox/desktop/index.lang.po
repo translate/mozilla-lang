@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-28 13:33+0100\n"
+"POT-Creation-Date: 2014-08-19 15:00+0000\n"
 "PO-Revision-Date: 2014-05-30 18:57+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: none\n"
@@ -13,12 +13,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
 "X-POOTLE-MTIME: 1401476275.000000\n"
 
+#. # home_title_update ##
 #. # NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/desktop
+#. # TAG: home_title_update
 #. This is the <title> tag
-#: firefox/desktop/index.lang:5
+#: firefox/desktop/index.lang:7
+msgid ""
+"Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your "
+"privacy and an open Web"
+msgstr ""
+
+#. Previous title (DO NOT REMOVE)
+#: firefox/desktop/index.lang:12
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — There's never been a better "
 "time"
@@ -27,21 +36,21 @@ msgstr ""
 "ann a-riamh"
 
 #. L10n: Line break below is for wide screen formatting only.
-#: firefox/desktop/index.lang:10
+#: firefox/desktop/index.lang:17
 msgid "There’s never been a <br class=\"wide-br\">better time for Firefox"
 msgstr ""
 "Cha robh àm nas fhearr ann <br class=\"wide-br\">a-riamh airson Firefox a "
 "thaghadh"
 
-#: firefox/desktop/index.lang:14
+#: firefox/desktop/index.lang:21
 msgid "Committed to you, your privacy and an open Web."
 msgstr "An dealas dhut, dha do phrìobhaideachd is lìon fosgailte."
 
-#: firefox/desktop/index.lang:18
+#: firefox/desktop/index.lang:25
 msgid "Made with a mission to put you first"
 msgstr "Thusa ann an teis-mheadhan ar misein"
 
-#: firefox/desktop/index.lang:22
+#: firefox/desktop/index.lang:29
 msgid ""
 "We’ve always designed Firefox to protect and respect your private "
 "information."
@@ -49,7 +58,7 @@ msgstr ""
 "Bha sinn a-riamh a' dealbhadh Firefox air dòigh a dhìonas am fiosrachadh "
 "prìobhaideach agad."
 
-#: firefox/desktop/index.lang:26
+#: firefox/desktop/index.lang:33
 msgid ""
 "That’s why we’re proud to be voted the <a href=\"%(url1)s\">Most Trusted "
 "Internet Company for Privacy.</a>"
@@ -57,24 +66,24 @@ msgstr ""
 "Leis a sin, tha sinn toilichte gun deach ar taghadh mar an <a href=\"%(url1)s"
 "\">companaidh-lìn as earbsaiche a thaobh prìobhaideachd.</a>"
 
-#: firefox/desktop/index.lang:30
+#: firefox/desktop/index.lang:37
 msgid "Find out what makes Firefox the most trusted browser on the Web"
 msgstr ""
 "Faigh a-mach carson is e Firefox am brabhsair as earbsaiche air an lìon"
 
-#: firefox/desktop/index.lang:34
+#: firefox/desktop/index.lang:41
 msgid "Works the way you do"
 msgstr "Obraichidh e mar a nì thu fhèin obair"
 
-#: firefox/desktop/index.lang:38
+#: firefox/desktop/index.lang:45
 msgid "How you use the Web is unique."
 msgstr "Cleachdaidh gach neach an lìon air a nòs fhèin."
 
-#: firefox/desktop/index.lang:42
+#: firefox/desktop/index.lang:49
 msgid "Firefox lets you change it to match."
 msgstr "Leigidh Firefox leat a chur air gleus d' a rèir sin."
 
-#: firefox/desktop/index.lang:46
+#: firefox/desktop/index.lang:53
 msgid ""
 "Remove what you don’t use, keep what you do and put it just about anywhere "
 "you want."
@@ -82,7 +91,7 @@ msgstr ""
 "Thoir air falbh na rudan nach eil gu feum dhut, cum na tha gu feum dhut agus "
 "gluais mun cuairt e mar a thogras tu."
 
-#: firefox/desktop/index.lang:50
+#: firefox/desktop/index.lang:57
 msgid ""
 "Find out what makes Firefox <br class=\"wide-br\">the most flexible browser "
 "there is"
@@ -90,11 +99,11 @@ msgstr ""
 "Fiosraich carson is e Firefox <br class=\"wide-br\">am brabhsair as sùbailte "
 "a tha ann"
 
-#: firefox/desktop/index.lang:54
+#: firefox/desktop/index.lang:61
 msgid "Faster at what you do most"
 msgstr "Nas luaithe a thaobh nan rudan a nì thu as trice"
 
-#: firefox/desktop/index.lang:58
+#: firefox/desktop/index.lang:65
 msgid ""
 "Firefox was named the ”speed king” in independent benchmark and performance "
 "tests against other browsers."
@@ -102,7 +111,7 @@ msgstr ""
 "Fhuair Firefox inbhe \"rìgh an astair\" o chionn goirid ann an co-fharpais "
 "neo-eisimeileach ri brabhsairean eile."
 
-#: firefox/desktop/index.lang:62
+#: firefox/desktop/index.lang:69
 msgid ""
 "* Based on <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix XVI</"
 "a> results."
@@ -110,12 +119,12 @@ msgstr ""
 "* Stèidhichte air totaidhean<a href=\"%(url1)s\">Tom’s Hardware Web Browser "
 "Grand Prix XVI</a>."
 
-#: firefox/desktop/index.lang:66
+#: firefox/desktop/index.lang:73
 msgid "Save time and do just about anything quicker than before."
 msgstr ""
 "Sàbhail ùine 's cha mhòr a h-uile rud ag obair nas luaithe na bha e roimhe."
 
-#: firefox/desktop/index.lang:70
+#: firefox/desktop/index.lang:77
 msgid "Find out what makes this the fastest Firefox yet"
 msgstr "Feuch na tha a' dèanamh a' Firefox seo cho luath"
 

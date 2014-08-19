@@ -4,21 +4,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-16 15:14+0100\n"
+"POT-Creation-Date: 2014-08-19 15:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
 
 #. # promo_lightbeam ##
 #. # promo_new_mdn ##
 #. # promo_webmaker ##
 #. # promo_webwewant ##
 #. # promo_fxdesktop ##
-#. # promo_makerparty ##
+#. # promo_sumo ##
 #. # NOTE: demo server for home page is https://www-dev.allizom.org
 #: mozorg/home.lang:10
 msgid "Home of the Mozilla Project"
@@ -302,28 +302,49 @@ msgstr ""
 msgid "See what’s new"
 msgstr "என்ன புதியது என பாருங்கள்"
 
-#. # TAG: promo_makerparty
-#. Maker Party promo:
-#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:258
+#. promo_makerparty, temporarily disabled
+#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
+#: mozorg/home.lang:256
 msgid "<i>Join</i> our <br>Maker Party"
 msgstr ""
 
-#. # TAG: promo_makerparty
+#. promo_makerparty, temporarily disabled
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:264
+#: mozorg/home.lang:262
 msgid "Join our global <br>Maker Party"
 msgstr ""
 
-#. # TAG: promo_makerparty
-#: mozorg/home.lang:269
+#. promo_makerparty, temporarily disabled
+#: mozorg/home.lang:267
 msgid ""
 "From July to September, help us teach, learn and make the Web at hands-on "
 "community events."
 msgstr ""
 
-#. # TAG: promo_makerparty
-#: mozorg/home.lang:274
+#. promo_makerparty, temporarily disabled
+#: mozorg/home.lang:272
 msgid "Learn about events near you"
+msgstr ""
+
+#. # TAG: promo_sumo
+#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+#: mozorg/home.lang:278
+msgid "<i>Help</i> Mozilla users"
+msgstr ""
+
+#. # TAG: promo_sumo
+#: mozorg/home.lang:283
+msgid "We need your help"
+msgstr ""
+
+#. # TAG: promo_sumo
+#: mozorg/home.lang:288
+msgid ""
+"Learn about the ways you can help millions of users get the most out of "
+"their favorite browser."
+msgstr ""
+
+#. # TAG: promo_sumo
+#: mozorg/home.lang:293
+msgid "Join our support team"
 msgstr ""

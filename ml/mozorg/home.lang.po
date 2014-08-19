@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-16 15:14+0100\n"
+"POT-Creation-Date: 2014-08-19 15:00+0000\n"
 "PO-Revision-Date: 2013-10-31 14:38+0000\n"
 "Last-Translator: Bijeesh <ekbijeesh@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
 "X-POOTLE-MTIME: 1383230293.000000\n"
 
 #. # promo_lightbeam ##
@@ -20,7 +20,7 @@ msgstr ""
 #. # promo_webmaker ##
 #. # promo_webwewant ##
 #. # promo_fxdesktop ##
-#. # promo_makerparty ##
+#. # promo_sumo ##
 #. # NOTE: demo server for home page is https://www-dev.allizom.org
 #: mozorg/home.lang:10
 msgid "Home of the Mozilla Project"
@@ -178,8 +178,9 @@ msgstr ""
 #. # TAG: promo_lightbeam
 #. Lightbeam promo
 #: mozorg/home.lang:147
+#, fuzzy
 msgid "See who’s watching you online"
-msgstr ""
+msgstr "നിങ്ങളെ ഓണ്‍ലൈനില്‍ ആരാണ് നിരീക്ഷിക്കുന്നതെന്ന് കാണൂ"
 
 #. # TAG: promo_lightbeam
 #. Lightbeam promo
@@ -254,7 +255,7 @@ msgstr ""
 #. Australis launch promo tile on April 29, headline
 #: mozorg/home.lang:216
 msgid "What kind of Web do you want?"
-msgstr ""
+msgstr "ഏതുതരത്തിലുള്ള വെബ്ബാണ് താങ്കള്‍ക്കു വേണ്ടത് ?"
 
 #. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, main text
@@ -266,7 +267,7 @@ msgstr ""
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #: mozorg/home.lang:228
 msgid "Share your vision"
-msgstr ""
+msgstr "താങ്കളുടെ കാഴ്ചപ്പാടുകള്‍ പങ്കുവെയ്ക്കൂ"
 
 #. # TAG: promo_fxdesktop
 #. This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
@@ -290,32 +291,53 @@ msgstr ""
 #. # TAG: promo_fxdesktop
 #: mozorg/home.lang:250
 msgid "See what’s new"
-msgstr ""
+msgstr "പുതിയവ എന്തൊക്കെയെന്ന് കാണാം"
 
-#. # TAG: promo_makerparty
-#. Maker Party promo:
-#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:258
+#. promo_makerparty, temporarily disabled
+#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
+#: mozorg/home.lang:256
 msgid "<i>Join</i> our <br>Maker Party"
 msgstr ""
 
-#. # TAG: promo_makerparty
+#. promo_makerparty, temporarily disabled
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:264
+#: mozorg/home.lang:262
 msgid "Join our global <br>Maker Party"
 msgstr ""
 
-#. # TAG: promo_makerparty
-#: mozorg/home.lang:269
+#. promo_makerparty, temporarily disabled
+#: mozorg/home.lang:267
 msgid ""
 "From July to September, help us teach, learn and make the Web at hands-on "
 "community events."
 msgstr ""
 
-#. # TAG: promo_makerparty
-#: mozorg/home.lang:274
+#. promo_makerparty, temporarily disabled
+#: mozorg/home.lang:272
 msgid "Learn about events near you"
+msgstr ""
+
+#. # TAG: promo_sumo
+#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+#: mozorg/home.lang:278
+msgid "<i>Help</i> Mozilla users"
+msgstr ""
+
+#. # TAG: promo_sumo
+#: mozorg/home.lang:283
+msgid "We need your help"
+msgstr ""
+
+#. # TAG: promo_sumo
+#: mozorg/home.lang:288
+msgid ""
+"Learn about the ways you can help millions of users get the most out of "
+"their favorite browser."
+msgstr ""
+
+#. # TAG: promo_sumo
+#: mozorg/home.lang:293
+msgid "Join our support team"
 msgstr ""
 
 #, fuzzy
