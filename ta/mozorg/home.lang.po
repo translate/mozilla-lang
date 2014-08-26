@@ -1,17 +1,19 @@
 #. extracted from ./mozorg/home.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-08-19 15:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-08-26 07:59+0000\n"
+"Last-Translator: Francesco Lodolo <francesco.lodolo@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1409039962.000000\n"
 
 #. # promo_lightbeam ##
 #. # promo_new_mdn ##
@@ -22,7 +24,7 @@ msgstr ""
 #. # NOTE: demo server for home page is https://www-dev.allizom.org
 #: mozorg/home.lang:10
 msgid "Home of the Mozilla Project"
-msgstr "மொசில்லா திட்டத்தின் முகப்பு"
+msgstr "மொசில்லா திட்ட முகப்பு"
 
 #. Used as a label for a button that scrolls through latest news.
 #: mozorg/home.lang:15
@@ -41,11 +43,11 @@ msgstr "நாங்கள் %(mozilla_wordmark)s"
 
 #: mozorg/home.lang:29
 msgid "Doing good is part of our code"
-msgstr "நன்றாக செய்வது எங்களுடைய நிரலாக்கத்தின் ஒப்பற்ற பணியாகம்"
+msgstr "நன்றாக செய்வது எங்களுடைய நிரலாக்கத்தின் ஒப்பற்ற பணியாகும்"
 
 #: mozorg/home.lang:33
 msgid "Get involved"
-msgstr ""
+msgstr "பங்குபெறுங்கள்"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:38
@@ -62,7 +64,7 @@ msgid ""
 "keep the Internet alive and accessible."
 msgstr ""
 "நாங்கள் ஒரு உலகலாவிய தொழில்நுட்ப வல்லுநர்கள், சிந்தனையாளர்கள் மற்றும் உருவாக்குனர்கள் "
-"போன்றோரை குழுவாக இணைந்து இணையத்தை தொடர்ந்து இயக்கவும் அனுகவும் பங்களிப்பு செய்கிறோம்."
+"போன்றோரை குழுவாக இணைந்து இணையத்தை தொடர்ந்து இயக்கவும் அணுகவும் பங்களிக்கிறோம்."
 
 #: mozorg/home.lang:50
 msgid "Read more about our mission"
@@ -75,7 +77,7 @@ msgstr "முன்னோக்கி <i>பார்</i>"
 
 #: mozorg/home.lang:59
 msgid "Look ahead"
-msgstr "முன்னோக்கு பார்வை"
+msgstr "முன்னோக்கி பார்"
 
 #: mozorg/home.lang:63
 msgid ""
@@ -97,7 +99,7 @@ msgstr "எங்களுடைய குழுவில் <i>இணையவ�
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:77
 msgid "Join our<br> developer community"
-msgstr "எங்களுடைய உருவாக்குனர் குழுவுடன் <br> இணையுங்கள்"
+msgstr "எங்களுடைய உருவாக்குனர் குழுவுடன் <br> இணைந்து"
 
 #: mozorg/home.lang:81
 msgid ""
@@ -110,11 +112,11 @@ msgstr ""
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:86
 msgid "<i>Forge</i> the future"
-msgstr "எதிர்க்காலத்தை <i>மாற்று</i>"
+msgstr "எதிர்க்காலத்தை <i>மாற்றுங்கள்</i>"
 
 #: mozorg/home.lang:90
 msgid "Mozilla Festival"
-msgstr "மோசில்லா திருவிழா"
+msgstr "மொசில்லா திருவிழா"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:95
@@ -163,7 +165,7 @@ msgid ""
 "\">Learn more about our volunteer opportunities</a>."
 msgstr ""
 "Mozilla வுக்குப் பங்களிக்க உங்களுக்கு குறியீடாக்கம் தெரிந்திருக்க வேண்டிய அவசியமில்லை. <a "
-"href=\"%s\">தன்னார்வப் பங்களிப்பு வாய்ப்புகள் பற்றி மேலும் அறிக</a>."
+"href=\"%s\">தன்னார்வத்துடன் பங்களிக்க இருக்கும் வாய்ப்புகள் பற்றி மேலும் அறியவும்</a>."
 
 #: mozorg/home.lang:135
 msgid ""
@@ -238,8 +240,9 @@ msgstr "புதிய MDN ஐ <i>பார்</i>"
 #. New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:192
 msgid "See what’s new <br>for developers"
-msgstr "<br>உருவாக்குனர்களுக்கு எது பதியவை என பார்"
+msgstr "<br>உருவாக்குனர்களுக்கு பதியவை எது எனப் பார்"
 
+# New MDN promo:
 #. # TAG: promo_new_mdn
 #. New MDN promo:
 #: mozorg/home.lang:198
@@ -247,18 +250,22 @@ msgid ""
 "Our community hub for docs, demos and other resources just got a brand new "
 "look."
 msgstr ""
+"நம்முடைய சமுதாயத்திற்குத் தேவையான ஆவணங்கள் காட்சிமுறைகள் வளங்கள் ஆகியன புதிய பொழிவைப் "
+"பெற்றுள்ளன."
 
+# New MDN promo:
 #. # TAG: promo_new_mdn
 #. New MDN promo:
 #: mozorg/home.lang:204
 msgid "Visit the Mozilla Developer Network"
-msgstr ""
+msgstr "மொசில்லா டெவலப்பர் நெட்வொர்க்கை பார்க்கவும்"
 
+# Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #: mozorg/home.lang:210
 msgid "The Web needs you"
-msgstr ""
+msgstr "உங்களுக்கு வேண்டிய இணையம்"
 
 #. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, headline
@@ -266,11 +273,14 @@ msgstr ""
 msgid "What kind of Web do you want?"
 msgstr "உங்களுக்கு எப்படிப்பட்ட இணையம் வேண்டும்?"
 
+# Australis launch promo tile on April 29, main text
 #. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, main text
 #: mozorg/home.lang:222
 msgid "Tell us what matters most to you and help shape the future of the Web."
 msgstr ""
+"எதிர்கால இணையத்தை செம்மைப்படுத்திட உங்களை எது பொருட்டுபடுத்துகிறது என்பதை "
+"தெரிவியுங்கள்."
 
 #. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
@@ -278,17 +288,19 @@ msgstr ""
 msgid "Share your vision"
 msgstr "உங்களுடைய பதிப்பை பகிரவும்"
 
+# This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
 #. # TAG: promo_fxdesktop
 #. This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
 #: mozorg/home.lang:234
 msgid "<i>Try the best</i> Firefox yet"
-msgstr ""
+msgstr "இதுவரை காணாத<i>சிறந்த பயர்பாக்ஸை</i> முயற்சிக்கவும்"
 
+# This is the headline seen when the panel is open so it can be longer than the panel label.
 #. # TAG: promo_fxdesktop
 #. This is the headline seen when the panel is open so it can be longer than the panel label.
 #: mozorg/home.lang:240
 msgid "Try the best Firefox yet"
-msgstr ""
+msgstr "இதுவரை காணாத சிறந்த பயர்பாக்ஸை முயற்சிக்கவும்"
 
 #. # TAG: promo_fxdesktop
 #: mozorg/home.lang:245
@@ -296,46 +308,57 @@ msgid ""
 "Learn more about the free desktop browser that’s committed to you, your "
 "privacy and an open Web."
 msgstr ""
+"திறந்த இணையத்திற்கும் உங்களின் பாதுகாப்பிற்கும் முக்கியத்துவம் கொடுக்கும் மேசைக்கணினிக்கான "
+"இலவசமான உலாவிப் பற்றி மேலும் அறியவும்."
 
 #. # TAG: promo_fxdesktop
 #: mozorg/home.lang:250
 msgid "See what’s new"
-msgstr "என்ன புதியது என பாருங்கள்"
+msgstr "புதியது என்ன எனப் பாருங்கள்"
 
+# promo_makerparty, temporarily disabled
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #. promo_makerparty, temporarily disabled
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:256
 msgid "<i>Join</i> our <br>Maker Party"
-msgstr ""
+msgstr "Maker Party இல் <br> <i>இணையுங்கள்</i>"
 
+# promo_makerparty, temporarily disabled
+# This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #. promo_makerparty, temporarily disabled
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:262
 msgid "Join our global <br>Maker Party"
-msgstr ""
+msgstr "உலகலாவிய <br>Maker Party இல் இணையுங்கள்"
 
+# promo_makerparty, temporarily disabled
 #. promo_makerparty, temporarily disabled
 #: mozorg/home.lang:267
 msgid ""
 "From July to September, help us teach, learn and make the Web at hands-on "
 "community events."
 msgstr ""
+"சூலை முதல் செப்டம்பர் வரை நிகழ்ச்சிகள் கைமுறை பயிற்சிகள் மூலம் சமூகத்தினர் அறியும்படிச் "
+"செய்து இணையத்தை உருவாக்க உதவுங்கள்."
 
+# promo_makerparty, temporarily disabled
 #. promo_makerparty, temporarily disabled
 #: mozorg/home.lang:272
 msgid "Learn about events near you"
-msgstr ""
+msgstr "உங்களுக்கு அருகிலுள்ள நிகழ்ச்சிகள் பற்றி அறியவும்"
 
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #. # TAG: promo_sumo
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:278
 msgid "<i>Help</i> Mozilla users"
-msgstr ""
+msgstr "மொசில்லா பயனர்களே <i>உதவுங்கள்</i>"
 
 #. # TAG: promo_sumo
 #: mozorg/home.lang:283
 msgid "We need your help"
-msgstr ""
+msgstr "உங்கள் உதவி எங்களுக்கு தேவை"
 
 #. # TAG: promo_sumo
 #: mozorg/home.lang:288
@@ -343,8 +366,10 @@ msgid ""
 "Learn about the ways you can help millions of users get the most out of "
 "their favorite browser."
 msgstr ""
+"மில்லியன் பயனர்களில் பெரும்பாண்மையானவர்களின் விருப்ப உலாவி கிடைத்திட உதவும் பல வழிகளைப் "
+"பற்றி அறியவும்."
 
 #. # TAG: promo_sumo
 #: mozorg/home.lang:293
 msgid "Join our support team"
-msgstr ""
+msgstr "எங்கள் ஆதரவு அணியில் சேருங்கள்"
