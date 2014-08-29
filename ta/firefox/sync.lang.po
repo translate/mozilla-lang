@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
 "X-POOTLE-MTIME: 1409218304.000000\n"
 
 #. # sync_new_markup ##
@@ -47,10 +47,14 @@ msgstr ""
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:24
+#, fuzzy
 msgid ""
 "Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of "
 "Firefox and select “Sign in to Sync.”"
 msgstr ""
+"பயர்பொக்ஸ் வலது மேல் மூலையில் உள்ள <a class=\"menu\" href=\"%(url)s#w_a-handy-new-"
+"menu\">பட்டியை</a> திறந்து “<strong> உள்நுழை என்பதை தெரிவு செய்து ஒத்திசைவை "
+"ஆரம்பியுங்கள். </strong>”"
 
 #. # TAG: sync_new_markup
 #. (NEW STRING) <strong> tags used for font color formatting.
@@ -86,8 +90,11 @@ msgstr ""
 
 #. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
 #: firefox/sync.lang:57
+#, fuzzy
 msgid "Click “Next” to get a verification sent to your email."
 msgstr ""
+"“<strong>அடுத்து</strong>” என்பதைச் சொடுக்குவதன் மூலம் உறுதிப்படுத்தலை உங்கள் "
+"மின்னஞ்சலிற்கு அனுப்பிக்கொள்ளுங்கள்."
 
 #: firefox/sync.lang:61
 msgid "Check your email and click the verification link."
