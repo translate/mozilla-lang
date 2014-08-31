@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-08-19 15:00+0000\n"
-"PO-Revision-Date: 2014-04-18 03:18+0000\n"
-"Last-Translator: syafiqmazli <creativeneuron8@gmail.com>\n"
+"PO-Revision-Date: 2014-08-31 13:18+0000\n"
+"Last-Translator: Mahrazi Mohd Kamal <mahrazi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
-"X-POOTLE-MTIME: 1397791096.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1409491095.000000\n"
 
 #. # promo_lightbeam ##
 #. # promo_new_mdn ##
@@ -46,9 +46,8 @@ msgid "Doing good is part of our code"
 msgstr "Berbuat baik adalah sebahagian daripada kod etika kami"
 
 #: mozorg/home.lang:33
-#, fuzzy
 msgid "Get involved"
-msgstr "Libatkan diri anda"
+msgstr "Libatkan diri"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:38
@@ -169,15 +168,14 @@ msgstr ""
 "Mozilla. <a href=\"%s\">Pelajari lagi tentang peluang sukarelawan kami</a>."
 
 #: mozorg/home.lang:135
-#, fuzzy
 msgid ""
 "Thanks to our global community, Mozilla products and websites are available "
 "in over 70 languages. <a rel=\"external\" href=\"%(link_l10n)s\">Help "
 "translate them into yours</a>."
 msgstr ""
 "Terima kasih kepada komuniti global, produk dan laman web Mozilla boleh "
-"didapati dalam 70 lebih bahasa. <a href=\"%(link_l10n)s\">Membantu "
-"menterjemahkannya menjadi milik anda</a>."
+"didapati dalam 70 lebih bahasa. <a rel=\"external\" href=\"%(link_l10n)s"
+"\">Bantu dalam menterjemah ke bahasa anda</a>."
 
 #. # TAG: promo_lightbeam
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
@@ -289,13 +287,13 @@ msgstr "Kongsi visi anda"
 #. This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
 #: mozorg/home.lang:234
 msgid "<i>Try the best</i> Firefox yet"
-msgstr ""
+msgstr "<i>Cuba yang terbaik</i> daripada Firefox"
 
 #. # TAG: promo_fxdesktop
 #. This is the headline seen when the panel is open so it can be longer than the panel label.
 #: mozorg/home.lang:240
 msgid "Try the best Firefox yet"
-msgstr ""
+msgstr "Cuba Firefox yang paling terbaik"
 
 #. # TAG: promo_fxdesktop
 #: mozorg/home.lang:245
@@ -303,6 +301,8 @@ msgid ""
 "Learn more about the free desktop browser that’s committed to you, your "
 "privacy and an open Web."
 msgstr ""
+"Pelajari lebih lagi tentang pelayar desktop bebas yang komited kepada anda, "
+"privasi anda dan Web terbuka."
 
 #. # TAG: promo_fxdesktop
 #: mozorg/home.lang:250
@@ -313,13 +313,13 @@ msgstr "Lihat apa yang baru"
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:256
 msgid "<i>Join</i> our <br>Maker Party"
-msgstr ""
+msgstr "<i>Sertailah</i><br>Maker Party kami"
 
 #. promo_makerparty, temporarily disabled
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:262
 msgid "Join our global <br>Maker Party"
-msgstr ""
+msgstr "Sertai Maker Party global kami"
 
 #. promo_makerparty, temporarily disabled
 #: mozorg/home.lang:267
@@ -327,22 +327,24 @@ msgid ""
 "From July to September, help us teach, learn and make the Web at hands-on "
 "community events."
 msgstr ""
+"Dari Julai hingga September, berilah kami mengajar, belajar dan membuat Web "
+"pada acara komuniti hands-on."
 
 #. promo_makerparty, temporarily disabled
 #: mozorg/home.lang:272
 msgid "Learn about events near you"
-msgstr ""
+msgstr "Pelajari tentang acara berhampiran anda"
 
 #. # TAG: promo_sumo
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:278
 msgid "<i>Help</i> Mozilla users"
-msgstr ""
+msgstr "<i>Bantu</i> pengguna Mozilla"
 
 #. # TAG: promo_sumo
 #: mozorg/home.lang:283
 msgid "We need your help"
-msgstr ""
+msgstr "Kami perlukan bantuan anda"
 
 #. # TAG: promo_sumo
 #: mozorg/home.lang:288
@@ -350,11 +352,13 @@ msgid ""
 "Learn about the ways you can help millions of users get the most out of "
 "their favorite browser."
 msgstr ""
+"Pelajari tentang bagaimana anda boleh membantu jutaan pengguna mendapatkan "
+"yang terbaik antara pelayar kegemaran mereka."
 
 #. # TAG: promo_sumo
 #: mozorg/home.lang:293
 msgid "Join our support team"
-msgstr ""
+msgstr "Sertai pasukan sokongan kami"
 
 #~ msgctxt "./mozorg/home.lang:118"
 #~ msgid "Get involved"
