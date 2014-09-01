@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-05-12 10:15+0100\n"
-"PO-Revision-Date: 2014-08-31 12:41+0000\n"
+"PO-Revision-Date: 2014-09-01 01:18+0000\n"
 "Last-Translator: Mahrazi Mohd Kamal <mahrazi@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ms\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1409488904.000000\n"
+"X-POOTLE-MTIME: 1409534306.000000\n"
 
 #. # NOTE: Page is available at http://www-dev.allizom.org/about/history/details
 #: mozorg/about/history-details.lang:3
@@ -47,12 +47,18 @@ msgid ""
 "existing features and became engaged in the management and planning of the "
 "project itself."
 msgstr ""
+"Dalam <a href=\"%(firstyear)s\">tahun pertama</a>, ahli komuniti baru dari "
+"serata dunia telah menyumbang  kepada kefungsian baru, meningkatkan ciri "
+"sedia ada dan terlibat di dalam pengurusan dan perancangan projek itu "
+"sendiri."
 
 #: mozorg/about/history-details.lang:19
 msgid ""
 "By creating an open community, the Mozilla project had become <a href="
 "\"%(stevecase)s\">larger than any one company</a>."
 msgstr ""
+"Dengan mencipta komuniti terbuka, projek Mozilla menjadi <a href="
+"\"%(stevecase)s\">syarikat yang lebih besar daripada yang lain</a>."
 
 #: mozorg/about/history-details.lang:23
 msgid ""
@@ -62,6 +68,11 @@ msgid ""
 "variety of browsers</a>, <a href=\"%(bugzilla)s\">development tools</a> and "
 "a range of other <a href=\"%(projects)s\">projects</a>."
 msgstr ""
+"Ahli komuniti melibatkan diri dan mengembangkan skop projek<a href="
+"\"%(mission)s\">misi asal</a> — bukan sahaja hanya bekerja pada pelayar akan "
+"datang Netscape, orang sudah mula mencipta <a href=\"%(browsers)s\">pelayar "
+"yang pelbagai</a>, <a href=\"%(bugzilla)s\">alatan pembangunan</a> dan lain-"
+"lain bidang <a href=\"%(projects)s\">projek</a>."
 
 #: mozorg/about/history-details.lang:27
 msgid ""
@@ -69,6 +80,9 @@ msgid ""
 "about creating free software that would enable people to have a choice in "
 "how they experienced the Internet."
 msgstr ""
+"Orang menyumbang kepada Mozilla dalam pelbagai cara, tetapi setiap orang "
+"berminat tentang mencipta perisian bebas yang membolehkan orang membuat "
+"pilihan bagaimana mereka ingin menikmati Internet."
 
 #: mozorg/about/history-details.lang:31
 msgid ""
@@ -77,12 +91,18 @@ msgid ""
 "many improvements to the browser, email client and other applications "
 "included in the suite, but not many people were using it."
 msgstr ""
+"Selepas beberapa tahun pembangunan, <a href=\"%(mozilla1)s\">Mozilla 1.0</"
+"a>, versi major pertama, telah dikeluarkan dalam 2002, Versi ini bercirikan "
+"banyak peningkatan kepada pelayar, klien emel dan lain-lain aplikasi yang "
+"termasuk di dalam satu suit, tetapi tidak ramai yang menggunakannya."
 
 #: mozorg/about/history-details.lang:35
 msgid ""
 "By 2002, <a href=\"%(over90)s\">well over 90%% of Internet users</a> were "
 "browsing with Internet Explorer."
 msgstr ""
+"Pada 2002, <a href=\"%(over90)s\">terdapat lebih daripada 90% % daripada "
+"pengguna Internet</a> telah melayari menggunakan Internet Explorer."
 
 #: mozorg/about/history-details.lang:39
 msgid ""
@@ -91,6 +111,11 @@ msgid ""
 "with the goal of providing the <a href=\"%(charter)s\">best possible "
 "browsing experience</a> to the widest possible set of people."
 msgstr ""
+"Tidak ramai orang yang tahu pada masa itu, tetapi versi pertama Phoenix "
+"(kemudiannya dinamakan sebagai Firefox) juga telah dikeluarkan oleh ahli "
+"komuniti Mozilla pada tahun itu dengan tujuan untuk menyediakan <a href="
+"\"%(charter)s\">pengalaman pelayaran yang terbaik mungkin</a> kepada "
+"golongan sasaran yang seluas muungkin."
 
 #: mozorg/about/history-details.lang:43
 msgid ""
@@ -98,6 +123,9 @@ msgid ""
 "\"%(foundation)s\">independent non-profit organization</a> supported by "
 "individual donors and a variety of companies."
 msgstr ""
+"Dalam 2013, Projek Mozilla telah mencipta Mozilla Foundation, sebuah<a href="
+"\"%(foundation)s\">organisasi tanpa-keuntungan bebas</a> yang disokong oleh "
+"penderma individu dan syarikat yang pelbagai."
 
 #: mozorg/about/history-details.lang:47
 msgid ""
@@ -106,6 +134,9 @@ msgid ""
 "<a href=\"%(manifesto)s\">openness, innovation and opportunity</a> on the "
 "Internet."
 msgstr ""
+"Mozilla Foundation menyambung tugas menguruskan operasi harian projek dan "
+"juga secara rasminya mengambil tugas mempromosikan <a href=\"%(manifesto)s"
+"\">keterbukaan, inovasi dan peluang</a> di Internet."
 
 #: mozorg/about/history-details.lang:51
 msgid ""
@@ -113,6 +144,9 @@ msgid ""
 "Thunderbird, and expanding to new areas, such as providing <a href="
 "\"%(grants)s\">grants</a> to support accessibility improvements on the Web."
 msgstr ""
+"Ia melakukannya dengan sentiasa mengeluarkan perisian, seperti Firefox dan "
+"Thunderbird, dan mengembangkan ke bidang lain, seperti menyediakan <a href="
+"\"%(grants)s\">gran</a> bagi menyokong peningkatan kebolehcapaian pada Web."
 
 #: mozorg/about/history-details.lang:55
 msgid ""
@@ -206,10 +240,12 @@ msgid ""
 "Mozilla will continue to provide an opportunity for people to make their "
 "voices heard and to shape their own online lives."
 msgstr ""
+"Mozilla akan terus menyediakan peluang untuk pengguna bagi menjadikan "
+"suaranya didengar dan untuk membentuk hidup atas taliannya sendiri."
 
 #: mozorg/about/history-details.lang:99
 msgid "Of course, we’re not alone in doing this."
-msgstr ""
+msgstr "Sudah tentu, kami tidak bersendirian dalam melakukannya."
 
 #: mozorg/about/history-details.lang:103
 msgid ""
@@ -217,31 +253,38 @@ msgid ""
 "public benefit organizations, exists only because of the people who are "
 "engaged in making our common goals a reality."
 msgstr ""
+"Komuniti Mozilla, bersama dengan projek sumber terbuka lain dan organisasi "
+"kepentingan awan lain, wujud hanya kerana orang yang menguruskannya dalam "
+"menjadikan wawasan kami sebagai realiti."
 
 #: mozorg/about/history-details.lang:107
 msgid ""
 "If you want to join us in our mission, please <a href=\"%(contribute)s\">get "
 "involved</a>."
 msgstr ""
+"Jika anda ingin menyertai misi kami, sila <a href=\"%(contribute)s\">turut "
+"serta</a>."
 
 #: mozorg/about/history-details.lang:111
 msgid "For more information about Mozilla’s history, see the following:"
-msgstr ""
+msgstr "Untuk maklumat lanjut tentang sejarah Mozilla, lihat berikut:"
 
 #: mozorg/about/history-details.lang:115
 msgid "Mozilla Bookmarks"
-msgstr ""
+msgstr "Tandabuku Mozilla"
 
 #: mozorg/about/history-details.lang:119
 msgid "Timeline of Mozilla Project"
-msgstr ""
+msgstr "Garis masa Projek Mozilla"
 
 #: mozorg/about/history-details.lang:123
 msgid "Mozilla Digital Memory Bank"
-msgstr ""
+msgstr "Bank Memori Digital Mozilla"
 
 #: mozorg/about/history-details.lang:127
 msgid ""
 "<a href=\"%(link)s\">The History of Firefox and Mozilla Posters</a> "
 "(available in English and Japanese)"
 msgstr ""
+"<a href=\"%(link)s\">Poster Sejarah Firefox dan Mozilla</a> (terdapat dalam "
+"Inggeris dan Jepun)"
