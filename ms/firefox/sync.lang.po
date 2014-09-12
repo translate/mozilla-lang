@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-12 09:19+0000\n"
+"POT-Creation-Date: 2014-07-07 15:52+0100\n"
 "PO-Revision-Date: 2014-08-31 13:26+0000\n"
 "Last-Translator: Mahrazi Mohd Kamal <mahrazi@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,261 +12,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"X-Generator: Pootle 2.5.1\n"
 "X-POOTLE-MTIME: 1409491596.000000\n"
 
-#. # firefox_sync_redesign ##
 #. # sync_new_markup ##
 #. # NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:7
+#: firefox/sync.lang:5
 msgid "Keep your Firefox in sync"
 msgstr "Pastikan Firefox Anda dalam Sync"
 
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:12
-msgid "Ready, Set, Sync"
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:17
-msgid ""
-"You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:22
-msgid "Take your Web with you"
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:27
-msgid ""
-"Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
-"and more from any smartphone, tablet or computer."
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:32
-#, fuzzy
-msgid "It looks like you’re running an older version of Firefox."
-msgstr "Seperti anda menggunakan versi daripada Firefox yang lama."
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:37
-msgid "The new version of Sync only works with the latest version of Firefox"
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:42
-msgid ""
-"Sync is just one of the great features you’ll only get with Firefox. "
-"Discover them all!"
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:47
-#, fuzzy
-msgid "Download Firefox for Android"
-msgstr "Muat turun Beta untuk Android"
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:52
-msgid "Need help?"
-msgstr "Perlukan bantuan?"
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:57
-msgid "Get started with Sync"
-msgstr "Bermula dengan Sync"
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:62
-msgid "Update your Firefox"
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:67
-msgid "Download Firefox"
-msgstr "Muat turun Firefox"
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:72
-msgid "Get started with Sync in four easy steps:"
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:77
-#, fuzzy
-msgid ""
-"Open the <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">menu</"
-"a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
-msgstr ""
-"Buka <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a>cdi "
-"sebelah kanan atas Firefox dan pilih “<strong>Daftar masuk Sync.</strong>”"
-
-#. # TAG: firefox_sync_redesign
-#. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:83
-msgid "Click “<strong>Get started</strong>” in the tab that opens."
-msgstr "Klik “<strong>Mulakan</strong>” di dalam tab yang terbuka."
-
-#. # TAG: firefox_sync_redesign
-#. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:89
-msgid ""
-"Enter an email address and password to “<strong>Create a Firefox Account.</"
-"strong>”"
-msgstr ""
-"Masukkan alamat emel dan kata laluan untuk “<strong>Buat Akaun Firefox.</"
-"strong>”"
-
-#. # TAG: firefox_sync_redesign
-#. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:95
-msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
-msgstr ""
-"Klik “<strong>Seterusnya</strong>” untuk mendapatkan pengesahan yang "
-"dihantar ke emel anda."
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:100
-msgid ""
-"After you check your email and click the verification link, you’ll be all "
-"set! Firefox will automatically sync in the background from then on."
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:105
-msgid "Get more detailed instructions."
-msgstr "Dapatkan arahan yang lebih terperinci."
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:110
-msgid "Using an older version of Sync?"
-msgstr "Menggunakan Sync versi yang sebelumnya?"
-
-#. # TAG: firefox_sync_redesign
-#. This string is displayed on Android devices
-#: firefox/sync.lang:116
-msgid "How to set up Sync in five easy steps:"
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#. <strong> tags below used for font color formatting.
-#. This string is displayed on Android devices
-#: firefox/sync.lang:123
-msgid ""
-"Tap the <strong>Menu</strong> button (either below the screen or at the top "
-"right corner of the browser)."
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#. This string is displayed on Android devices
-#: firefox/sync.lang:129
-msgid ""
-"Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
-"first)."
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#. This string is displayed on Android devices
-#: firefox/sync.lang:135
-msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#. This string is displayed on Android devices
-#: firefox/sync.lang:141
-msgid ""
-"The <strong>Create a Firefox Account page</strong> will open in a new tab."
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#. This string is displayed on Android devices
-#: firefox/sync.lang:147
-msgid "Fill out the form and click <strong>Next</strong>."
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#. This string is displayed on Android devices
-#: firefox/sync.lang:153
-msgid ""
-"After you check your email and click the verification link, you’ll be ready "
-"to go! Don’t forget to connect all your other devices to get the most of "
-"Sync."
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:158
-msgid "Sync a little. Sync a lot."
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:163
-msgid ""
-"You choose what parts of your Firefox you want to sync and where you want to "
-"sync them. Take your open tabs on your daily commute. Access your bookmarks "
-"at work. Whatever, whenever, everywhere."
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:168
-msgid "At home"
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:173
-msgid ""
-"Move from your desk to the couch without skipping a beat. Access your open "
-"tabs on your smartphone, or keeping browsing your bookmarks right on your "
-"tablet."
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:178
-msgid "At work"
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:183
-msgid ""
-"Stay connected to all of your important information. Sync the passwords and "
-"bookmarks that you might need to access at any time. Just like Firefox, it’s "
-"safe as can be."
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:188
-msgid "On the go"
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:193
-msgid ""
-"Keep up with your favorite sites, or finish that story you started at home — "
-"wherever you go. With Sync, it’s never been easier."
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:198
-msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:203
-msgid "DOWNLOAD FIREFOX FOR ANDROID"
-msgstr ""
-
-#. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:208
-msgid ""
-"To get the full Sync experience, take your Web with you everywhere you use "
-"Firefox. Connect your smartphone, tablet, computer and laptop."
-msgstr ""
-
-#. Used in old page, do not remove , do not remove
-#: firefox/sync.lang:213
+#: firefox/sync.lang:9
 msgid ""
 "Instantly make Firefox your own wherever you use it. Seamlessly sync your "
 "bookmarks, history, passwords and more and access them from any device."
@@ -275,14 +30,13 @@ msgstr ""
 "Lancar sync penanda halaman, sejarah, kata laluan dan lain lagi dan akses "
 "dari mana-mana peranti."
 
-#. Used in old page, do not remove
-#: firefox/sync.lang:218
+#: firefox/sync.lang:13
 msgid "Get started with Sync. It’s fast, safe and easy:"
 msgstr "Bermula dengan Sync. Ia cepat, selamat dan mudah:"
 
 #. # TAG: sync_new_markup
-#. Used in old page, do not remove
-#: firefox/sync.lang:224
+#. (NEW STRING) You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+#: firefox/sync.lang:19
 msgid ""
 "Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> in "
 "the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
@@ -290,8 +44,8 @@ msgstr ""
 "Buka <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a>cdi "
 "sebelah kanan atas Firefox dan pilih “<strong>Daftar masuk Sync.</strong>”"
 
-#. Used in old page, do not remove
-#: firefox/sync.lang:229
+#. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
+#: firefox/sync.lang:24
 msgid ""
 "Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of "
 "Firefox and select “Sign in to Sync.”"
@@ -299,29 +53,51 @@ msgstr ""
 "Buka <a href=\"%(url)s#w_a-handy-new-menu\">menu</a>di sebelah kanan atas "
 "Firefox dan pilih “Daftar masuk ke Sync.”"
 
-#. Used in old page, do not remove
-#: firefox/sync.lang:234
+#. # TAG: sync_new_markup
+#. (NEW STRING) <strong> tags used for font color formatting.
+#: firefox/sync.lang:30
+msgid "Click “<strong>Get started</strong>” in the tab that opens."
+msgstr "Klik “<strong>Mulakan</strong>” di dalam tab yang terbuka."
+
+#. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
+#: firefox/sync.lang:35
 msgid "Click “Get started” in the tab that opens."
 msgstr "Klik “Bermula” dalam tab yang terbuka."
 
-#. Used in old page, do not remove
-#: firefox/sync.lang:239
+#. # TAG: sync_new_markup
+#. (NEW STRING) <strong> tags used for font color formatting.
+#: firefox/sync.lang:41
+msgid ""
+"Enter an email address and password to “<strong>Create a Firefox Account.</"
+"strong>”"
+msgstr ""
+"Masukkan alamat emel dan kata laluan untuk “<strong>Buat Akaun Firefox.</"
+"strong>”"
+
+#. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
+#: firefox/sync.lang:46
 msgid "Enter an email address and password to “Create a Firefox Account.”"
 msgstr "Masukkan alamat emel dan kata laluan untuk “Buat Akaun Firefox.”"
 
-#. Used in old page, do not remove
-#: firefox/sync.lang:244
+#. # TAG: sync_new_markup
+#. (NEW STRING) <strong> tags used for font color formatting.
+#: firefox/sync.lang:52
+msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
+msgstr ""
+"Klik “<strong>Seterusnya</strong>” untuk mendapatkan pengesahan yang "
+"dihantar ke emel anda."
+
+#. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
+#: firefox/sync.lang:57
 msgid "Click “Next” to get a verification sent to your email."
 msgstr ""
 "Klik “Seterusnya” untuk mendapatkan pengesahan yang dihantar ke emel anda."
 
-#. Used in old page, do not remove
-#: firefox/sync.lang:249
+#: firefox/sync.lang:61
 msgid "Check your email and click the verification link."
 msgstr "Semak emel anda dan klik link pengesahan."
 
-#. Used in old page, do not remove
-#: firefox/sync.lang:254
+#: firefox/sync.lang:65
 msgid ""
 "You’re all set! Firefox will automatically sync in the background from now "
 "on."
@@ -329,13 +105,21 @@ msgstr ""
 "Anda bersedia! Firefox akan secara automatik sync di latar belakang mulai "
 "dari sekarang."
 
-#. Used in old page, do not remove
-#: firefox/sync.lang:259
+#: firefox/sync.lang:69
+msgid "Get more detailed instructions."
+msgstr "Dapatkan arahan yang lebih terperinci."
+
+#: firefox/sync.lang:73
+msgid "Using an older version of Sync?"
+msgstr "Menggunakan Sync versi yang sebelumnya?"
+
+#: firefox/sync.lang:77
 msgid "Have an Android phone or tablet?"
 msgstr "Mempunyai telefon Android atau tablet?"
 
-#. Used in old page, do not remove
-#: firefox/sync.lang:264
+#. # TAG: sync_new_markup
+#. (NEW STRING)
+#: firefox/sync.lang:83
 msgid ""
 "<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
 "desktop and mobile devices."
@@ -343,15 +127,14 @@ msgstr ""
 "<a href=\"%(url)s\">Muat turun Firefox untuk Android</a> untuk sync antara "
 "desktop dan peranti mudah alih anda."
 
-#. Used in old page, do not remove
-#: firefox/sync.lang:269
+#. (OBSOLETE STRING) Don't remove, strings are still used on production and will be reported as missing on the dashboard.
+#: firefox/sync.lang:88
 msgid ""
 "Download Firefox for Android to sync between your desktop and mobile devices."
 msgstr ""
 "Muat turun Firefox untuk Android untuk sync antara desktop dan peranti mudah "
 "alih."
 
-#. Used in old page, do not remove
-#: firefox/sync.lang:274
+#: firefox/sync.lang:92
 msgid "Get it free from Google Play"
 msgstr "Dapatkan secara percuma di Google Play"
