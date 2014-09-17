@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-17 09:04+0000\n"
-"PO-Revision-Date: 2014-05-16 16:18+0000\n"
+"PO-Revision-Date: 2014-09-17 18:48+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
 "Language: hsb\n"
@@ -13,8 +13,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
-"X-POOTLE-MTIME: 1400257103.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1410979695.000000\n"
 
 #. # firefox_sync_redesign ##
 #. # sync_new_markup ##
@@ -27,18 +27,20 @@ msgstr "Dźeržće swój Firefox synchrony"
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:12
 msgid "Ready, Set, Sync"
-msgstr ""
+msgstr "Hotowo, nastajić, synchronizować"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:17
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
 msgstr ""
+"Sće zregistrowany a hotowy za přistup na <em>swój</em> Firefox, wšudźe a "
+"kóždy čas."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:22
 msgid "Take your Web with you"
-msgstr ""
+msgstr "Wzmiće swój web sobu"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:27
@@ -46,17 +48,18 @@ msgid ""
 "Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
 "and more from any smartphone, tablet or computer."
 msgstr ""
+"Snychronizujće Firefox, hdźežkuli jón wužiwaće, zo byšće přistup na swoje "
+"zapołožki, hesła, rajtarki a wjace ze smartfona, tableta abo ličaka měł."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:32
-#, fuzzy
 msgid "It looks like you’re running an older version of Firefox."
 msgstr "Zda so, zo staršu wersiju Firefox wužiwaće."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:37
 msgid "The new version of Sync only works with the latest version of Firefox"
-msgstr ""
+msgstr "Nowa wersija Sync jenož z najnowšej wersiju Firefox funguje"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:42
@@ -64,12 +67,13 @@ msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
 "Discover them all!"
 msgstr ""
+"Sync je jedna z wulkotnych funkcijiw, kotrež jenož z Firefox dóstawaće. "
+"Wotkryjće je wšě!"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:47
-#, fuzzy
 msgid "Download Firefox for Android"
-msgstr "Sćehńće beta za Android"
+msgstr "Sćehńće Firefox za Android"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:52
@@ -84,7 +88,7 @@ msgstr "Prěnje kroki ze Sync"
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:62
 msgid "Update your Firefox"
-msgstr ""
+msgstr "Zaktualizujće swój Firefox"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:67
@@ -94,18 +98,18 @@ msgstr "Firefox sćahnyć"
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:72
 msgid "Get started with Sync in four easy steps:"
-msgstr ""
+msgstr "Započńće ze Sync w štyrjoch lochkich krokach:"
 
 #. # TAG: firefox_sync_redesign
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #: firefox/sync.lang:78
-#, fuzzy
 msgid ""
 "Open the <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">menu</"
 "a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
-"Wočińće <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">meni</a> "
-"horjeka naprawo we Firefox a wubjerće “<strong>Pola Sync přizjewić.</strong>”"
+"Wočińće <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">meni</"
+"a> horjeka naprawo we Firefox a wubjerće “<strong>Pola Sync přizjewić.</"
+"strong>”"
 
 #. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
@@ -136,6 +140,8 @@ msgid ""
 "After you check your email and click the verification link, you’ll be all "
 "set! Firefox will automatically sync in the background from then on."
 msgstr ""
+"Po tym zo sće swoju e-mejl přepruwował a na wobkrućenski wotkaz kliknył, sće "
+"za start přihotowany! Firefox budźe wot toho w pozadku synchronizować."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:106
@@ -151,7 +157,7 @@ msgstr "Wužiwaće staršu wersiju Sync?"
 #. This string is displayed on Android devices
 #: firefox/sync.lang:117
 msgid "How to set up Sync in five easy steps:"
-msgstr ""
+msgstr "Kak Sync w pjeć lochkich krokach konfigurujeće:"
 
 #. # TAG: firefox_sync_redesign
 #. <strong> tags below used for font color formatting.
@@ -161,6 +167,8 @@ msgid ""
 "Tap the <strong>Menu</strong> button (either below the screen or at the top "
 "right corner of the browser)."
 msgstr ""
+"Podótkńće so tłóčatka <strong>Meni</strong> (pak pod wobrazowku pak horjeka "
+"w prawym róžku wobhladowaka)."
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
@@ -169,12 +177,14 @@ msgid ""
 "Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
 "first)."
 msgstr ""
+"Wubjerće <strong>Nastajenja</strong> (dyrbiće so snadź najprjedy "
+"<strong>Wjace<strong> podótknyć)."
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:136
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
-msgstr ""
+msgstr "Podótkńće so <strong>Sync</strong> a potom <strong>Započeć</strong>."
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
@@ -182,12 +192,13 @@ msgstr ""
 msgid ""
 "The <strong>Create a Firefox Account page</strong> will open in a new tab."
 msgstr ""
+"<strong>Strona Konto Firefox wutworić</strong> so w nowym rajtarku wočini."
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:148
 msgid "Fill out the form and click <strong>Next</strong>."
-msgstr ""
+msgstr "Wupjelńće formular a klikńće na <strong>Dale</strong>."
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
@@ -257,7 +268,7 @@ msgstr ""
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:204
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
-msgstr ""
+msgstr "SĆEHŃĆE FIREFOX ZA ANDROID"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:209
