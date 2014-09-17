@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-21 11:22+0100\n"
+"POT-Creation-Date: 2014-09-17 09:04+0000\n"
 "PO-Revision-Date: 2014-07-28 04:45+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,27 +11,28 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
 "X-POOTLE-MTIME: 1406522736.000000\n"
 
+#. # firefox_os_faq_updates ##
 #. # NOTE: page is https://www-dev.allizom.org/firefox/os/faq/
-#: firefox/os/faq.lang:4
+#: firefox/os/faq.lang:5
 msgid "Firefox OS Frequently Asked Questions"
 msgstr "Firefox OS bo‘yicha tez-tez so‘raladigan savollar"
 
-#: firefox/os/faq.lang:8
+#: firefox/os/faq.lang:9
 msgid "Firefox OS FAQ"
 msgstr "Firefox OS FAQ"
 
-#: firefox/os/faq.lang:12
+#: firefox/os/faq.lang:13
 msgid "About Firefox OS"
 msgstr "Firefox OS haqida"
 
-#: firefox/os/faq.lang:16
+#: firefox/os/faq.lang:17
 msgid "What is Firefox OS?"
 msgstr "Firefox OS nima?"
 
-#: firefox/os/faq.lang:20
+#: firefox/os/faq.lang:21
 msgid ""
 "Backed by some of the biggest names in the industry, Firefox OS is a new "
 "open operating system for smartphones developed by Mozilla."
@@ -40,7 +41,7 @@ msgstr ""
 "uchun Mozilla tomonidan ishlab chiqilgan yangi ochiq operatsion tizim "
 "hisoblanadi."
 
-#: firefox/os/faq.lang:24
+#: firefox/os/faq.lang:25
 msgid ""
 "Built entirely using HTML5 and other open Web standards, Firefox OS is free "
 "from the rules and restrictions of existing proprietary platforms."
@@ -48,16 +49,16 @@ msgstr ""
 "HTML5 va boshqa ochiq veb standartlar yordamida to‘liq foydalanishda Firefox "
 "OS qoidalar va mavjud platforma xususiyatlarini cheklashlardan holi."
 
-#: firefox/os/faq.lang:28
+#: firefox/os/faq.lang:29
 msgid "How is Firefox OS different from other operating systems?"
 msgstr "\"Firefox OS\"nig boshqa operatsion tizimlardan farqi nimada?"
 
-#: firefox/os/faq.lang:32
+#: firefox/os/faq.lang:33
 msgid "Firefox OS is the only operating system with Adaptive App Search."
 msgstr ""
 "Firefox OS yahona Adaptive App Search bilan ishlaydigan operatsion tizimdir."
 
-#: firefox/os/faq.lang:36
+#: firefox/os/faq.lang:37
 msgid ""
 "While every other phone today is static, giving you the exact same apps each "
 "time you turn it on, Firefox OS is always changing to offer exactly the apps "
@@ -68,13 +69,13 @@ msgstr ""
 "hayotingizning har lahzasiga mos mavjud ilova dasturlar taklifini "
 "o‘zgartirib turadi."
 
-#: firefox/os/faq.lang:40
+#: firefox/os/faq.lang:41
 msgid "It adapts so you can live every moment to its fullest."
 msgstr ""
 "U moslashib turadi, shunday ekan hayotning har lahzasida to‘lig‘icha "
 "yashashingiz mumkin."
 
-#: firefox/os/faq.lang:44
+#: firefox/os/faq.lang:45
 msgid ""
 "Firefox OS is brought to you by Mozilla, a global nonprofit organization "
 "that emphasizes principle over profit."
@@ -82,7 +83,7 @@ msgstr ""
 "Firefox OS Mozilla tomonidan ishlab chiqilgan, u xalqaro notijorat tashkilot "
 "hisoblanadi va foyda olish prinsiplarini rad etadi."
 
-#: firefox/os/faq.lang:48
+#: firefox/os/faq.lang:49
 msgid ""
 "We believe that the Web is a shared public resource to be cared for, not a "
 "commodity to be sold."
@@ -90,7 +91,7 @@ msgstr ""
 "Ishonamizki, internet bo‘lishilgan umumiy jamoa resursi hisoblanadi, u "
 "sotiladigan mahsulot emas."
 
-#: firefox/os/faq.lang:52
+#: firefox/os/faq.lang:53
 msgid ""
 "We work with a worldwide community to create open source products like "
 "Mozilla Firefox and to innovate for the benefit of the individual and the "
@@ -100,7 +101,7 @@ msgstr ""
 "dunyo hamjamiyati bilan ishlaymiz va internetni yaxshilash, odamlar uchun "
 "qiziqarli bo‘lgan xususiyatlarni kiritish bilan shug‘ullanamiz."
 
-#: firefox/os/faq.lang:56
+#: firefox/os/faq.lang:57
 msgid ""
 "The result is great products built by passionate people and better choices "
 "for everyone."
@@ -108,15 +109,23 @@ msgstr ""
 "Mashhur mahsulotlar jo‘shqin odamlar tomonidan tuziladi va hamma uchun eng "
 "yaxshi tanlov hisoblanadi."
 
-#: firefox/os/faq.lang:60
+#: firefox/os/faq.lang:61
 msgid "Buying Firefox OS"
 msgstr "\"Firefox OS\"ni xarid qilish"
 
-#: firefox/os/faq.lang:64
+#: firefox/os/faq.lang:65
 msgid "What phones will Firefox OS be available on?"
 msgstr "Qaysi telefonlarda Firefox OS mavjud?"
 
-#: firefox/os/faq.lang:68
+#. # TAG: firefox_os_faq_updates
+#: firefox/os/faq.lang:70
+msgid ""
+"To see a full list of available Firefox OS phones, please visit the <a href="
+"\"%(link)s\">devices page</a>."
+msgstr ""
+
+#. String for previous version of the page
+#: firefox/os/faq.lang:75
 msgid ""
 "You can purchase Firefox OS on a ZTE Open, LG Fireweb or an Alcatel One "
 "Touch device."
@@ -124,11 +133,19 @@ msgstr ""
 "Siz \"Firefox OS\"ni ZTE Open, LG Fireweb yoki Alcatel One Touch qurilmasida "
 "sotib olishingiz mumkin."
 
-#: firefox/os/faq.lang:72
+#: firefox/os/faq.lang:79
 msgid "Where can I buy Firefox OS?"
 msgstr "\"Firefox OS\"ni qayerdan sotib olsam bo‘ladi?"
 
-#: firefox/os/faq.lang:76
+#. # TAG: firefox_os_faq_updates
+#: firefox/os/faq.lang:84
+msgid ""
+"To purchase a Firefox OS phone, please visit the <a href=\"%(link)s"
+"\">devices page</a> and select your available country."
+msgstr ""
+
+#. String for previous version of the page
+#: firefox/os/faq.lang:89
 msgid ""
 "Firefox OS is available to buy across 14 countries across the globe. You can "
 "purchase a device in:"
@@ -136,69 +153,85 @@ msgstr ""
 "\"Firefox OS\"ni dunyo bo‘ylab 14 mamlakatdan sotib olish mumkin. Siz uni "
 "quyidagi qurilmalarda sotib olishingiz mumkin:"
 
-#: firefox/os/faq.lang:80
+#. String for previous version of the page
+#: firefox/os/faq.lang:94
 msgid "Spain with <a href=\"%s\">Movistar</a>"
 msgstr "Ispaniyada <a href=\"%s\">Movistar</a>bilan"
 
-#: firefox/os/faq.lang:84
+#. String for previous version of the page
+#: firefox/os/faq.lang:99
 msgid "Chile with <a href=\"%s\">Movistar</a>"
 msgstr "Chileda <a href=\"%s\">Movistar</a> bilan"
 
-#: firefox/os/faq.lang:88
+#. String for previous version of the page
+#: firefox/os/faq.lang:104
 msgid "Poland with <a href=\"%s\">T-Mobile</a>"
 msgstr "Polshada <a href=\"%s\">T-Mobile</a> bilan"
 
-#: firefox/os/faq.lang:92
+#. String for previous version of the page
+#: firefox/os/faq.lang:109
 msgid "Venezuela with <a href=\"%s\">Movistar</a>"
 msgstr "Venesuelada <a href=\"%s\">Movistar</a> bilan"
 
-#: firefox/os/faq.lang:96
+#. String for previous version of the page
+#: firefox/os/faq.lang:114
 msgid "Colombia with <a href=\"%s\">Movistar</a>"
 msgstr "Kolumbiyada <a href=\"%s\">Movistar</a> bilan"
 
-#: firefox/os/faq.lang:100
+#. String for previous version of the page
+#: firefox/os/faq.lang:119
 msgid ""
 "Hungary with both <a href=\"%s\">Telenor</a> and <a href=\"%s\">T-Mobile</a>"
 msgstr ""
 "Vengriyada <a href=\"%s\">Telenor</a> va <a href=\"%s\">T-Mobile</a> bilan"
 
-#: firefox/os/faq.lang:104
+#. String for previous version of the page
+#: firefox/os/faq.lang:124
 msgid "Peru with <a href=\"%s\">Movistar</a>"
 msgstr "Peruda <a href=\"%s\">Movistar</a>bilan"
 
-#: firefox/os/faq.lang:108
+#. String for previous version of the page
+#: firefox/os/faq.lang:129
 msgid "Serbia with <a href=\"%s\">Telenor</a>"
 msgstr "Serbiyada <a href=\"%s\">Telenor</a> bilan"
 
-#: firefox/os/faq.lang:112
+#. String for previous version of the page
+#: firefox/os/faq.lang:134
 msgid "Montenegro with <a href=\"%s\">Telenor</a>"
 msgstr "Montenegroda <a href=\"%s\">Telenor</a> bilan"
 
-#: firefox/os/faq.lang:116
+#. String for previous version of the page
+#: firefox/os/faq.lang:139
 msgid "Greece with <a href=\"%s\">Cosmote</a>"
 msgstr "Gretsiyada <a href=\"%s\">Cosmote</a> bilan"
 
-#: firefox/os/faq.lang:120
+#. String for previous version of the page
+#: firefox/os/faq.lang:144
 msgid "Germany with <a href=\"%s\">Congstar</a>"
 msgstr "Germaniyada <a href=\"%s\">Congstar</a> bilan"
 
-#: firefox/os/faq.lang:124
+#. String for previous version of the page
+#: firefox/os/faq.lang:149
 msgid "Brazil with <a href=\"%s\">Vivo</a>"
 msgstr "Braziliyada <a href=\"%s\">Vivo</a> bilan"
 
-#: firefox/os/faq.lang:128
+#. String for previous version of the page
+#: firefox/os/faq.lang:154
 msgid "Mexico with <a href=\"%s\">Movistar</a>"
 msgstr "Meksikada <a href=\"%s\">Movistar</a> bilan"
 
-#: firefox/os/faq.lang:132
+#. String for previous version of the page
+#: firefox/os/faq.lang:159
 msgid "Italy with <a href=\"%s\">TIM</a>"
 msgstr "Italiyada <a href=\"%s\">TIM</a> bilan"
 
-#: firefox/os/faq.lang:136
+#. String for previous version of the page
+#: firefox/os/faq.lang:164
 msgid "Uruguay with <a href=\"%s\">Movistar</a>"
 msgstr "Urugvayda <a href=\"%s\">Movistar</a> bilan"
 
-#: firefox/os/faq.lang:140
+#. String for previous version of the page
+#: firefox/os/faq.lang:169
 msgid ""
 "To date, 17 Operators spanning the globe have committed to distributing "
 "Firefox OS devices:"
@@ -206,7 +239,8 @@ msgstr ""
 "Bugungi kunda dunyo bo‘ylab 17 ta operator Firefox OS qurilmalarini "
 "tarqatishni mo‘ljallashgan:"
 
-#: firefox/os/faq.lang:144
+#. String for previous version of the page
+#: firefox/os/faq.lang:174
 msgid ""
 "América Móvil, China Unicom, Deutsche Telekom, Etisalat, Hutchison Three "
 "Group, KDDI, Korea Telecom, MegaFon, Qtel, SingTel, Smart, Sprint, Telecom "
@@ -216,7 +250,8 @@ msgstr ""
 "Group, KDDI, Korea Telecom, MegaFon, Qtel, SingTel, Smart, Sprint, Telecom "
 "Italia Group, Telefónica, Telenor, TMN va VimpelCom."
 
-#: firefox/os/faq.lang:148
+#. String for previous version of the page
+#: firefox/os/faq.lang:179
 msgid ""
 "As a result, more countries and mobile phone operators will be selling "
 "Firefox OS in the future."
@@ -224,7 +259,8 @@ msgstr ""
 "Natijada ko‘plab mamlakatlar va mobil telefon operatorlari \"Firefox OS\"ni "
 "kelajakda sota boshlashadi."
 
-#: firefox/os/faq.lang:152
+#. String for previous version of the page
+#: firefox/os/faq.lang:184
 msgid ""
 "Our operator partners will distribute the phones through a variety of "
 "locally-specific channels."
@@ -232,11 +268,11 @@ msgstr ""
 "Bizning hamkor operatorlarimiz telefonlarni har xil mahalliy maxsus kanallar "
 "orqali tarqata boshlashadi."
 
-#: firefox/os/faq.lang:156
+#: firefox/os/faq.lang:188
 msgid "What will be the price of the phone?"
 msgstr "Telefonning narxi qancha bo‘ladi?"
 
-#: firefox/os/faq.lang:160
+#: firefox/os/faq.lang:192
 msgid ""
 "Pricing is not set by Mozilla and will be established by our operator and "
 "manufacturer partners based on local market dynamics."
@@ -245,11 +281,11 @@ msgstr ""
 "chiqaruvchilarimiz tomonidan mahalliy bozor o‘zgarishlariga mos tarzda "
 "o‘rnatiladi."
 
-#: firefox/os/faq.lang:164
+#: firefox/os/faq.lang:196
 msgid "What apps will be available on Firefox OS?"
 msgstr "\"Firefox OS\"da qanaqa ilova dasturlar bo‘ladi?"
 
-#: firefox/os/faq.lang:168
+#: firefox/os/faq.lang:200
 msgid ""
 "The growing list includes leading apps like Facebook, Twitter, Nokia HERE "
 "maps, Cut the Rope, and Time Out."
@@ -257,15 +293,15 @@ msgstr ""
 "O‘sib boruvchi ro‘yxatga Facebook, Twitter, Nokia HERE maps, Cut the Rope va "
 "Time Out kabi mashhur ilova dasturlar ham qo‘shiladi."
 
-#: firefox/os/faq.lang:172
+#: firefox/os/faq.lang:204
 msgid "Many more are being made available every day."
 msgstr "Har kuni ko‘pdan ko‘p ilova dasturlar mavjud bo‘lib boraveradi."
 
-#: firefox/os/faq.lang:176
+#: firefox/os/faq.lang:208
 msgid "Is Firefox OS available in my language?"
 msgstr "Firefox OS mening ona tilimda mavjudmi?"
 
-#: firefox/os/faq.lang:180
+#: firefox/os/faq.lang:212
 msgid ""
 "Firefox OS is currently available in Spanish, Polish, English, Italian, "
 "Portuguese, German, Serbian, Hungarian and Greek."
@@ -273,51 +309,51 @@ msgstr ""
 "Firefox OS hozirda ispan, polsha, ingliz, italyan, portugal, nemis, serb, "
 "venger va grek tillarida mavjud."
 
-#: firefox/os/faq.lang:184
+#: firefox/os/faq.lang:216
 msgid "We’re working on adding more languages all the time."
 msgstr "Biz hamma vaqt ko‘proq tillarni qo‘shish ustida ishlayapmiz."
 
-#: firefox/os/faq.lang:188
+#: firefox/os/faq.lang:220
 msgid "Using Firefox OS"
 msgstr "\"Firefox OS\"dan foydalanish"
 
-#: firefox/os/faq.lang:192
+#: firefox/os/faq.lang:224
 msgid "How do I…"
 msgstr "Qanday qilib…"
 
-#: firefox/os/faq.lang:196
+#: firefox/os/faq.lang:228
 msgid "…make a call?"
 msgstr "…qo‘ng‘iroq qilaman?"
 
-#: firefox/os/faq.lang:200
+#: firefox/os/faq.lang:232
 msgid "…import my contacts?"
 msgstr "…kontaktlarimni import qilaman?"
 
-#: firefox/os/faq.lang:204
+#: firefox/os/faq.lang:236
 msgid "…create and view messages?"
 msgstr "…xabarlar yaratishim va ularni ko‘rishim mumkin?"
 
-#: firefox/os/faq.lang:208
+#: firefox/os/faq.lang:240
 msgid "…use the internet?"
 msgstr "…internetdan foydalanishim mumkin?"
 
-#: firefox/os/faq.lang:212
+#: firefox/os/faq.lang:244
 msgid "…download and install an app?"
 msgstr "…ilova dasturlarni yuklab olib o‘rnatishim mumkin?"
 
-#: firefox/os/faq.lang:216
+#: firefox/os/faq.lang:248
 msgid "…take pictures?"
 msgstr "…rasmga olaman?"
 
-#: firefox/os/faq.lang:220
+#: firefox/os/faq.lang:252
 msgid "…compose and send an email?"
 msgstr "…xat yozib, uni jo‘natishim mumkin?"
 
-#: firefox/os/faq.lang:224
+#: firefox/os/faq.lang:256
 msgid "Adaptive App Search"
 msgstr "Moslashuvchan ilova dastur qidiruvi"
 
-#: firefox/os/faq.lang:228
+#: firefox/os/faq.lang:260
 msgid ""
 "Get information on any subject right when you need it, brought to you and "
 "your phone by Firefox OS."
@@ -325,67 +361,67 @@ msgstr ""
 "Sizga va telefoningizga Firefox OS tomonidan keltirilgan har qanday "
 "mavzudagi ma’lumotlarni kerak bo‘lgan vaqtda oling."
 
-#: firefox/os/faq.lang:232
+#: firefox/os/faq.lang:264
 msgid "Firefox Marketplace"
 msgstr "Firefox Marketplace"
 
-#: firefox/os/faq.lang:236
+#: firefox/os/faq.lang:268
 msgid "Your go-to source for the best apps for Firefox OS."
 msgstr "Sizning Firefox OS uchun eng zo‘r ilova dasturlar manbalaringiz."
 
-#: firefox/os/faq.lang:240
+#: firefox/os/faq.lang:272
 msgid "Firefox browser"
 msgstr "Firefox brauzeri"
 
-#: firefox/os/faq.lang:244
+#: firefox/os/faq.lang:276
 msgid "The fast, smart, safe way to get the best of the Web."
 msgstr "Internetdan eng samarali foydalanishning tez, qulay va xavfsiz yo‘li."
 
-#: firefox/os/faq.lang:248
+#: firefox/os/faq.lang:280
 msgid "Deep integration with social media"
 msgstr "Ijtimoiy media bilan chuqur integratisya"
 
-#: firefox/os/faq.lang:252
+#: firefox/os/faq.lang:284
 msgid "Full access to every Twitter and Facebook update from wherever you are."
 msgstr ""
 "Har bir Twitter va Facebook yangilanishiga qayerda bo‘lishingizga qat’i "
 "nazar to‘liq ruxsat."
 
-#: firefox/os/faq.lang:256
+#: firefox/os/faq.lang:288
 msgid "Camera"
 msgstr "Camera"
 
-#: firefox/os/faq.lang:260
+#: firefox/os/faq.lang:292
 msgid "With built-in style filters for fun, creative shots."
 msgstr "Tashqi uslub filterlari yordamida, qiziqarli, ijodiy tasvirlar."
 
-#: firefox/os/faq.lang:264
+#: firefox/os/faq.lang:296
 msgid "FM Radio"
 msgstr "FM radio"
 
-#: firefox/os/faq.lang:268
+#: firefox/os/faq.lang:300
 msgid "All the audio you want on the go, all on one device."
 msgstr "Yo‘lda eshitishni istagan barcha audiolaringiz bitta qurilmada."
 
-#: firefox/os/faq.lang:272
+#: firefox/os/faq.lang:304
 msgid "Maps"
 msgstr "Xaritalar"
 
-#: firefox/os/faq.lang:276
+#: firefox/os/faq.lang:308
 msgid "Includes directions, traffic and local transit information."
 msgstr ""
 "Yo‘nalishlar, traffik va mahalliy tranzit ma’lumotlarini o‘zida jamlaydi."
 
-#: firefox/os/faq.lang:280
+#: firefox/os/faq.lang:312
 msgid "Privacy and Security"
 msgstr "Maxfiylik va xavfsizlik"
 
-#: firefox/os/faq.lang:284
+#: firefox/os/faq.lang:316
 msgid "Mozilla was the first to implement the Do Not Track privacy feature."
 msgstr ""
 "Mozilla \"Kuzatmang\" maxfiylik xususiyatini birinchi bo‘lib amalga oshirgan."
 
-#: firefox/os/faq.lang:288
+#: firefox/os/faq.lang:320
 msgid ""
 "Firefox also features customizable security settings to manage passwords, "
 "history, private data, cookies, site options and add-ons. <a href=\"%(url)s"
@@ -395,11 +431,11 @@ msgstr ""
 "moslamalari va qo‘shimcha dasturlarni boshqarish uchun moslanadigan "
 "xavfsizlik sozlamalariga ega.. <a href=\"%(url)s\">Ko‘proq o‘rganing.</a>"
 
-#: firefox/os/faq.lang:292
+#: firefox/os/faq.lang:324
 msgid "Developer Questions"
 msgstr "Dasturchi savollari"
 
-#: firefox/os/faq.lang:296
+#: firefox/os/faq.lang:328
 msgid ""
 "Are you a developer? Have questions? <a href=\"%(url)s\">Learn more at the "
 "Mozilla Developer Network.</a>"
