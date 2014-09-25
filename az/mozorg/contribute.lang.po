@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-18 10:44+0100\n"
+"POT-Creation-Date: 2014-09-25 13:02+0000\n"
 "PO-Revision-Date: 2013-12-15 08:34+0000\n"
 "Last-Translator: Emin <mastizada@itu.edu.tr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,27 +12,775 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
 "X-POOTLE-MTIME: 1387096468.000000\n"
 
+#. # contribute-2015 ##
 #. # contribute_faces ##
 #. # contribute_mayupdates ##
 #. # webmaker_update ##
 #. # contribute_fellowship ##
 #. # hiveglobal ##
+#. # NOTE: https://www-demo3.allizom.org/en-US/contribute/
+#. # TAG: contribute-2015
 #. Used for HTML title attribute
-#: mozorg/contribute.lang:8
+#: mozorg/contribute.lang:11
+msgid "Volunteer Opportunities at Mozilla"
+msgstr ""
+
+#. # TAG: contribute-2015
+#. this string is used for accessibility reasons, it's not visible in the page
+#: mozorg/contribute.lang:17
+msgid "Menu"
+msgstr "Menyu"
+
+#. # TAG: contribute-2015
+#. this br is for formatting, omit or reposition as needed
+#: mozorg/contribute.lang:23
+msgid "Why<br> volunteer"
+msgstr ""
+
+#. # TAG: contribute-2015
+#. this br is for formatting, omit or reposition as needed
+#: mozorg/contribute.lang:29
+msgid "Find<br> an event"
+msgstr ""
+
+#. # TAG: contribute-2015
+#. this br is for formatting, omit or reposition as needed
+#: mozorg/contribute.lang:35
+msgid "Meet<br> Mozillians"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:40
+msgid "Get involved"
+msgstr "Qoşul"
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:45
+msgid "Your country"
+msgstr ""
+
+#. # TAG: contribute-2015
+#. This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
+#: mozorg/contribute.lang:51
+msgid "I live in&hellip;"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:56
+msgid "Volunteer with Mozilla!"
+msgstr ""
+
+#. # TAG: contribute-2015
+#. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+#: mozorg/contribute.lang:62
+msgid "active Mozillians worldwide"
+msgstr ""
+
+#. # TAG: contribute-2015
+#. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+#: mozorg/contribute.lang:68
+msgid "upcoming events around the globe"
+msgstr ""
+
+#. # TAG: contribute-2015
+#. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
+#: mozorg/contribute.lang:74
+msgid "languages and counting, on every continent"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:79
+msgid "Join a global community of game-changers."
+msgstr ""
+
+#. # TAG: contribute-2015
+#. this br is for formatting, omit or reposition as needed
+#: mozorg/contribute.lang:85
+msgid ""
+"Volunteer as much as you like. Or as little.<br> It’s totally up to you."
+msgstr ""
+
+#. # TAG: contribute-2015
+#. this br is for formatting, omit or reposition as needed
+#: mozorg/contribute.lang:91
+msgid "Share your skills and pick up<br> a few new ones along the way."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:96
+msgid "Volunteering with Mozilla&hellip;"
+msgstr ""
+
+#. # TAG: contribute-2015
+#. This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment
+#: mozorg/contribute.lang:102
+msgid ""
+"is about more than lending a hand. It’s about learning, collaborating and "
+"sharing your skills with a global community of Mozillians — coders, "
+"organizers, activists and more — who help shape the Web every day."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:107
+msgid "See our community in action"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:112
+msgid "How Mozillians help every day"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:117
+msgid "Read his story"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:122
+msgid "Read her story"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:127
+msgid "Want to get involved? Here’s how."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:132
+msgid "Choose what interests you and tell us how you’d like to help"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:137
+msgid "Stand by for an email that will connect you to the Mozilla community"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:142
+msgid ""
+"Create your Mozillians account and share your contributions with the world"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:147
+msgid "Get started"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:152
+msgid "Not ready to dive in just yet?"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:157
+msgid "Here are a few other ways you can support Mozilla right now."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:162
+msgid "Donate to Mozilla"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:167
+msgid "Read our Manifesto"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:172
+msgid "Like us on Facebook"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:177
+msgid "Follow us on Twitter"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:182
+msgid "Upcoming event"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:187
+msgid "See all events"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:192
+msgid "Communicate"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:197
+msgid "Mozilla communities"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:202
+msgid "Mailing lists"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:207
+msgid "IRC channels"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:212
+msgid "More links"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:217
+msgid "Submit Firefox feedback"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:222
+msgid "Explore Mozilla careers"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:227
+msgid "Get help with Firefox"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:232
+msgid "Get community updates"
+msgstr ""
+
+#. # TAG: contribute-2015
+#. Used as title of the /stories sub-page
+#: mozorg/contribute.lang:238
+msgid "Mozillian Stories"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:243
+msgid ""
+"Meet Mozilla volunteers from all around the world. Learn about the projects "
+"they’ve worked on and see what they’re currently helping with."
+msgstr ""
+
+#. # TAG: contribute-2015
+#. Used as a toggle to display more content.
+#: mozorg/contribute.lang:249
+msgid "More"
+msgstr ""
+
+#. # TAG: contribute-2015
+#. Used as a toggle to display less content.
+#: mozorg/contribute.lang:255
+msgid "Less"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:260
+msgid "Read more Mozillian stories"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:265
+msgid ""
+"Discover even more stories on Twitter with <a href=\"%(link_hashtag)s"
+"\">#IAmAMozillian</a>"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:270
+msgid "More coming soon"
+msgstr ""
+
+#. # TAG: contribute-2015
+#. Used as title of the /signup sub-page
+#: mozorg/contribute.lang:276
 msgid "Get Involved: Volunteer Opportunities at Mozilla"
 msgstr ""
 
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:281
+msgid "To get started, tell us what interests you."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:286
+msgid "Choose one for now. You can always contribute to other areas later."
+msgstr ""
+
+#. # TAG: contribute-2015
+#. This text is used for accessibility reasons, it's not visible
+#: mozorg/contribute.lang:292
+msgid "Where would you like to get started?"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:297
+msgid "Coding"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:302
+msgid "More about coding"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:307
+msgid ""
+"Contribute code to a whole range of Mozilla products, including Firefox and "
+"Firefox OS."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:312
+msgid "Testing"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:317
+msgid "More about testing"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:322
+msgid "Help make the Mozilla products you use — and love — even better."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:327
+msgid "Writing"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:332
+msgid "More about writing"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:337
+msgid ""
+"Lend your voice to Mozilla — from blogging and social media to providing "
+"technical documents for users and developers."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:342
+msgid "Teaching"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:347
+msgid "More about teaching"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:352
+msgid ""
+"Share your skills with a community that’s eager to learn. Take advantage of "
+"our free tools, teaching resources and events."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:357
+msgid "Helping"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:362
+msgid "More about helping"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:367
+msgid ""
+"Provide support to users who need it and help everyone get the most out of "
+"their Mozilla products."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:372
+msgid "Translating"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:377
+msgid "More about translating"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:382
+msgid ""
+"Help make Mozilla stuff available in other languages. Translate everything "
+"from newsletters and websites to copy for Firefox and Firefox OS."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:387
+msgid "Activism"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:392
+msgid "More about activism"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:397
+msgid ""
+"Get involved with our opportunities to support freedom, security and privacy "
+"on the open Web."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:402
+msgid "I don’t know"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:407
+msgid "More about how you can contribute"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:412
+msgid ""
+"Not sure how you want to help? No problem. We can find the appropriate "
+"contribution activity for you."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:417
+msgid "Now tell us a little about yourself:"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:422
+msgid "Name"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:427
+msgid "Email address"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:432
+#, fuzzy
+msgid "Country"
+msgstr "Ölkə:"
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:437
+msgid "select"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:442
+msgid "Why do you want to be a Mozilla volunteer?"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:447
+msgid "(Optional)"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:452
+msgid "Start contributing"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:457
+msgid "Sign me up for community updates"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:462
+#, fuzzy
+msgid "(English)"
+msgstr "(İngiliscə)"
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:467
+msgid "What particular area?"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:472
+msgid "Firefox"
+msgstr "Firefox"
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:477
+msgid "Firefox OS"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:482
+#, fuzzy
+msgid "Websites"
+msgstr "Vebsayt"
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:487
+msgid "Firefox add-ons"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:492
+msgid "HTML5 apps"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:497
+msgid "Diagnosing Web compatibility issues"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:502
+msgid "Online services"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:507
+msgid "Firefox and Firefox OS"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:512
+msgid "Web compatibility"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:517
+msgid "Product localization"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:522
+msgid "Website localization"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:527
+msgid "Localization tools"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:532
+msgid "Social media"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:537
+msgid "Journalism"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:542
+msgid "Technical docs for users"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:547
+msgid "Technical docs for developers"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:552
+msgid "Technical docs for Firefox add-ons"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:557
+msgid "Technical docs for HTML5 apps"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:562
+msgid "Teach the Web (Webmaker)"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:567
+msgid "Open News fellowships"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:572
+msgid "Hive - Community based digital education"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:577
+msgid "Open Web science research"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:582
+msgid "Community Events"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:587
+msgid "Find events"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:592
+msgid "By city, country, or event:"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:597
+msgid "By date:"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:602
+msgid "month"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:607
+msgid "year"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:612
+msgid "Date"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:617
+msgid "Event"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:622
+msgid "City"
+msgstr ""
+
+#. # TAG: contribute-2015
+#. Used as title of the thank you page displayed after users send the form
+#: mozorg/contribute.lang:628
+msgid "Thank you!"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:633
+msgid "Thanks!"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:638
+msgid ""
+"We’re thrilled to see that you’re interested in coding and can’t wait to get "
+"you started."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:643
+msgid ""
+"We’re thrilled to see that you’re interested in testing and can’t wait to "
+"get you started."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:648
+msgid ""
+"We’re thrilled to see that you’re interested in writing and can’t wait to "
+"get you started."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:653
+msgid ""
+"We’re thrilled to see that you’re interested in teaching and can’t wait to "
+"get you started."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:658
+msgid ""
+"We’re thrilled to see that you’re interested in helping and can’t wait to "
+"get you started."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:663
+msgid ""
+"We’re thrilled to see that you’re interested in translating and can’t wait "
+"to get you started."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:668
+msgid ""
+"We’re thrilled to see that you’re interested in activism and can’t wait to "
+"get you started."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:673
+msgid ""
+"We’re thrilled to see that you’re interested in volunteering and can’t wait "
+"to get you started."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:678
+msgid "Keep an eye on your inbox for an important message from us."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:683
+msgid "Hello!"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:688
+msgid "Your Name"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:693
+msgid "In the meantime&hellip;"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:698
+msgid ""
+"You can create your Mozillians account now to connect with fellow Mozillians."
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:703
+msgid "Yes, create my Mozillians account"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:708
+msgid "You will be asked to sign in before proceeding"
+msgstr ""
+
+#. # TAG: contribute-2015
+#: mozorg/contribute.lang:713
+msgid "No thanks, I’ll just wait for the email"
+msgstr ""
+
 #. # TAG: contribute_faces
-#: mozorg/contribute.lang:13
+#: mozorg/contribute.lang:718
 msgid ""
 "The success of our mission depends on participation from people like you."
 msgstr ""
 
 #. # TAG: contribute_faces
-#: mozorg/contribute.lang:18
+#: mozorg/contribute.lang:723
 msgid ""
 "Proudly non-profit, Mozilla makes products like Firefox with a mission to "
 "keep the power of the Web in the hands of users everywhere."
@@ -40,172 +788,168 @@ msgstr ""
 
 #. # TAG: contribute_faces
 #. Used as caption of the video in the new design
-#: mozorg/contribute.lang:24
+#: mozorg/contribute.lang:729
 msgid "We are Mozillians"
 msgstr ""
 
 #. # TAG: contribute_faces
-#: mozorg/contribute.lang:29
+#: mozorg/contribute.lang:734
 msgid "This video shows members of the worldwide Mozilla community."
 msgstr ""
 
 #. # TAG: contribute_faces
 #. L10n: Used as a label for a button that plays a video.
-#: mozorg/contribute.lang:35
+#: mozorg/contribute.lang:740
 msgid "Play video"
 msgstr ""
 
 #. # TAG: contribute_faces
 #. L10n: Used as a label for a button that pauses a video.
-#: mozorg/contribute.lang:41
+#: mozorg/contribute.lang:746
 msgid "Pause video"
 msgstr ""
 
-#: mozorg/contribute.lang:45
+#: mozorg/contribute.lang:750
 msgid "Want to help?"
 msgstr ""
 
-#: mozorg/contribute.lang:49
+#: mozorg/contribute.lang:754
 msgid "Area of interest?"
 msgstr ""
 
-#: mozorg/contribute.lang:53
+#: mozorg/contribute.lang:758
 msgid "Helping Users"
 msgstr ""
 
-#: mozorg/contribute.lang:57
+#: mozorg/contribute.lang:762
 msgid "Testing and QA"
 msgstr ""
 
-#: mozorg/contribute.lang:61
-msgid "Coding"
-msgstr ""
-
-#: mozorg/contribute.lang:65
+#: mozorg/contribute.lang:766
 msgid "Marketing"
 msgstr ""
 
-#: mozorg/contribute.lang:69
+#: mozorg/contribute.lang:770
 msgid "Localization and Translation"
 msgstr ""
 
-#: mozorg/contribute.lang:73
+#: mozorg/contribute.lang:774
 msgid "Web Development"
 msgstr ""
 
 #. # TAG: contribute_mayupdates
-#: mozorg/contribute.lang:78
+#: mozorg/contribute.lang:779
 msgid "Firefox Marketplace"
 msgstr ""
 
-#: mozorg/contribute.lang:82
+#: mozorg/contribute.lang:783
 msgid "Add-ons"
 msgstr "Əlavələr"
 
-#: mozorg/contribute.lang:86
+#: mozorg/contribute.lang:787
 msgid "Visual Design"
 msgstr ""
 
-#: mozorg/contribute.lang:90
+#: mozorg/contribute.lang:791
 msgid "Documentation and Writing"
 msgstr ""
 
-#: mozorg/contribute.lang:94
+#: mozorg/contribute.lang:795
 msgid "Education"
 msgstr ""
 
-#: mozorg/contribute.lang:98
+#: mozorg/contribute.lang:799
 msgid "Other"
 msgstr "Digər"
 
-#: mozorg/contribute.lang:102
+#: mozorg/contribute.lang:803
 msgid "I have a suggestion for Firefox"
 msgstr ""
 
-#: mozorg/contribute.lang:106
+#: mozorg/contribute.lang:807
 msgid "I need help with a Firefox issue"
 msgstr ""
 
-#: mozorg/contribute.lang:110
+#: mozorg/contribute.lang:811
 msgid "YOUR EMAIL HERE"
 msgstr "SİZİN E-POÇT ÜNVANINIZ"
 
-#: mozorg/contribute.lang:114
+#: mozorg/contribute.lang:815
 msgid "Send us a note and we can get you started right away."
 msgstr ""
 
-#: mozorg/contribute.lang:118
+#: mozorg/contribute.lang:819
 msgid "Hi, I’m interested in…"
 msgstr ""
 
-#: mozorg/contribute.lang:122
+#: mozorg/contribute.lang:823
 msgid "I’d like to receive regular contribution news by email"
 msgstr ""
 
-#: mozorg/contribute.lang:126
+#: mozorg/contribute.lang:827
 msgid "Submit&nbsp;»"
 msgstr ""
 
-#: mozorg/contribute.lang:130
+#: mozorg/contribute.lang:831
 msgid "Please enter a valid email address."
 msgstr ""
 
-#: mozorg/contribute.lang:134
+#: mozorg/contribute.lang:835
 msgid "You must agree to the privacy policy."
 msgstr ""
 
-#: mozorg/contribute.lang:138
+#: mozorg/contribute.lang:839
 msgid "Please select an area of interest."
 msgstr ""
 
-#: mozorg/contribute.lang:142
+#: mozorg/contribute.lang:843
 msgid "Please tell us more about your interests."
 msgstr ""
 
-#: mozorg/contribute.lang:146
+#: mozorg/contribute.lang:847
 msgid "Your CAPTCHA response did not match. Please try again."
 msgstr ""
 
-#: mozorg/contribute.lang:150
+#: mozorg/contribute.lang:851
 msgid "Thank you for getting in touch."
 msgstr ""
 
-#: mozorg/contribute.lang:154
+#: mozorg/contribute.lang:855
 msgid ""
 "We are sorry, but there was a problem with our system. Please try again "
 "later!"
 msgstr ""
 
-#: mozorg/contribute.lang:158
+#: mozorg/contribute.lang:859
 msgid ""
 "Someone from Mozilla will get back to you soon with information about how to "
 "get involved. While you’re waiting, browse through some of the volunteer "
 "opportunities available below."
 msgstr ""
 
-#: mozorg/contribute.lang:162
+#: mozorg/contribute.lang:863
 msgid ""
 "You don’t have to be a C++ guru (or even know what that means!) to get "
 "involved.<br><b>You just have to love the Web.</b>"
 msgstr ""
 
-#: mozorg/contribute.lang:166
+#: mozorg/contribute.lang:867
 msgid ""
 "Sign up for a weekly newsletter that is full of community news and "
 "contribution opportunities."
 msgstr ""
 
 #. Subject of email sent to end-users
-#: mozorg/contribute.lang:171
+#: mozorg/contribute.lang:872
 msgid "Welcome to Mozilla!"
 msgstr ""
 
-#: mozorg/contribute.lang:175
+#: mozorg/contribute.lang:876
 msgid "Find an opportunity"
 msgstr ""
 
 #. Helping users
-#: mozorg/contribute.lang:180
+#: mozorg/contribute.lang:881
 msgid ""
 "Our support process relies on enthusiastic contributors like you to help "
 "others get the most out of Mozilla products. Find out more about <a href="
@@ -213,19 +957,19 @@ msgid ""
 "\"%(tb_support_url)s\">how to help Thunderbird users</a>."
 msgstr ""
 
-#: mozorg/contribute.lang:184
+#: mozorg/contribute.lang:885
 msgid "Quality Assurance"
 msgstr ""
 
 #. # TAG: contribute_mayupdates
-#: mozorg/contribute.lang:189
+#: mozorg/contribute.lang:890
 msgid ""
 "Quality Assurance testing is one of the easiest ways to get started with "
 "Mozilla and is a great way to get familiar with our code and tools."
 msgstr ""
 
 #. # TAG: contribute_mayupdates
-#: mozorg/contribute.lang:194
+#: mozorg/contribute.lang:895
 msgid ""
 "<a href=\"%(oneanddone_url)s\">Pick a task from One and Done</a> to get "
 "started, work on <a href=\"%(desktopfx_url)s\">Desktop Firefox</a>, <a href="
@@ -235,7 +979,7 @@ msgid ""
 msgstr ""
 
 #. Coding
-#: mozorg/contribute.lang:199
+#: mozorg/contribute.lang:900
 msgid ""
 "<a href=\"%(dev_intro_url)s\">Developers can help</a> Mozilla by adding new "
 "features, making our technology smaller and faster and making development "
@@ -243,11 +987,11 @@ msgid ""
 "programming language</a> and we'll find the project for you."
 msgstr ""
 
-#: mozorg/contribute.lang:203
+#: mozorg/contribute.lang:904
 msgid "Spread the Word"
 msgstr ""
 
-#: mozorg/contribute.lang:207
+#: mozorg/contribute.lang:908
 msgid ""
 "Help us spread the word about how Firefox and other Mozilla projects are "
 "building a better Internet. Share Firefox with the world by <a href="
@@ -255,11 +999,11 @@ msgid ""
 "href=\"%(marketing_url)s\">Marketing Guide</a> for more ways to get involved."
 msgstr ""
 
-#: mozorg/contribute.lang:211
+#: mozorg/contribute.lang:912
 msgid "Localization"
 msgstr ""
 
-#: mozorg/contribute.lang:215
+#: mozorg/contribute.lang:916
 msgid ""
 "Get involved with Mozilla by making Firefox, Thunderbird and other projects "
 "<a href=\"%(l10n_url)s\">available in your language</a>. Also help us tell "
@@ -268,7 +1012,7 @@ msgid ""
 msgstr ""
 
 #. Web development
-#: mozorg/contribute.lang:220
+#: mozorg/contribute.lang:921
 msgid ""
 "Our web sites are open for web developers to hack on. <a href="
 "\"%(webdev_url)s\">Find a web site project</a> to get started on. Your web "
@@ -278,7 +1022,7 @@ msgstr ""
 
 #. # TAG: contribute_mayupdates
 #. Firefox Marketplace
-#: mozorg/contribute.lang:226
+#: mozorg/contribute.lang:927
 msgid ""
 "<a href=\"%(marketplace_url)s\">Firefox Marketplace</a> provides content – "
 "games, music, social apps and more – built with HTML5 standards and open "
@@ -288,7 +1032,7 @@ msgstr ""
 
 #. # TAG: contribute_mayupdates
 #. Add-ons
-#: mozorg/contribute.lang:232
+#: mozorg/contribute.lang:933
 msgid ""
 "Add-ons are what make Firefox the most extensible and customizable browser "
 "available. Get started <a href=\"%(addons_url)s\">building an add-on</a>, "
@@ -297,7 +1041,7 @@ msgid ""
 msgstr ""
 
 #. Visual design
-#: mozorg/contribute.lang:237
+#: mozorg/contribute.lang:938
 msgid ""
 "We want to make it possible for artists to cover the web and people with "
 "designs inspired by Mozilla. Check out the <a href=\"%(creative_url)s"
@@ -305,7 +1049,7 @@ msgid ""
 msgstr ""
 
 #. Documentation and writing
-#: mozorg/contribute.lang:242
+#: mozorg/contribute.lang:943
 msgid ""
 "The Mozilla Developer Network is the hub for information about Mozilla "
 "technologies. Help <a href=\"%(dev_url)s\">make our documentation better</a> "
@@ -315,7 +1059,7 @@ msgstr ""
 
 #. # TAG: webmaker_update
 #. Education
-#: mozorg/contribute.lang:248
+#: mozorg/contribute.lang:949
 msgid ""
 "Interested in helping others understand how the Web works? <a href="
 "\"%(webmaker)s\">Mozilla Webmaker</a> is a global community dedicated to "
@@ -326,12 +1070,12 @@ msgstr ""
 
 #. # TAG: contribute_fellowship
 #. Fellowships
-#: mozorg/contribute.lang:254
+#: mozorg/contribute.lang:955
 msgid "Fellowships"
 msgstr ""
 
 #. # TAG: contribute_fellowship
-#: mozorg/contribute.lang:259
+#: mozorg/contribute.lang:960
 msgid ""
 "Interested in shaping the future of the open Web? Knight-Mozilla’s <a href="
 "\"%(fellowship)s\">OpenNews Fellowship program</a> matches emerging digital "
@@ -340,13 +1084,13 @@ msgstr ""
 
 #. # TAG: hiveglobal
 #. For reference see http://hivelearningnetworks.org
-#: mozorg/contribute.lang:265
+#: mozorg/contribute.lang:966
 msgid "Hive Networks"
 msgstr ""
 
 #. # TAG: hiveglobal
 #. For reference see http://hivelearningnetworks.org
-#: mozorg/contribute.lang:271
+#: mozorg/contribute.lang:972
 msgid ""
 "<a href=\"%(hivenetworks)s\">Hive Learning Networks</a> are a growing "
 "constellation of communities around the globe that are championing digital "
@@ -356,7 +1100,7 @@ msgid ""
 msgstr ""
 
 #. Old string, will be removed when all locales have the new text
-#: mozorg/contribute.lang:276
+#: mozorg/contribute.lang:977
 msgid ""
 "Help build a generation of webmakers by teaching others how the web works. "
 "<a href=\"%(moz_webmaker)s \">Explore what the Mozilla Webmaker project is "
@@ -364,67 +1108,63 @@ msgid ""
 "\">setting up an event in your community today</a>."
 msgstr ""
 
-#: mozorg/contribute.lang:280
+#: mozorg/contribute.lang:981
 msgid "map"
 msgstr ""
 
-#: mozorg/contribute.lang:284
+#: mozorg/contribute.lang:985
 msgid "Find Mozillians near you"
 msgstr ""
 
-#: mozorg/contribute.lang:288
+#: mozorg/contribute.lang:989
 msgid "US and Canada"
 msgstr ""
 
-#: mozorg/contribute.lang:292
+#: mozorg/contribute.lang:993
 msgid "Europe"
 msgstr ""
 
-#: mozorg/contribute.lang:296
+#: mozorg/contribute.lang:997
 msgid "Latin America"
 msgstr ""
 
-#: mozorg/contribute.lang:300
+#: mozorg/contribute.lang:1001
 msgid "Africa and the Middle East"
 msgstr ""
 
-#: mozorg/contribute.lang:304
+#: mozorg/contribute.lang:1005
 msgid "Asia and the South Pacific"
 msgstr ""
 
-#: mozorg/contribute.lang:308
+#: mozorg/contribute.lang:1009
 msgid "Antarctica"
 msgstr ""
 
-#: mozorg/contribute.lang:312
+#: mozorg/contribute.lang:1013
 msgid "Sort By:"
 msgstr ""
 
-#: mozorg/contribute.lang:316
+#: mozorg/contribute.lang:1017
 #, fuzzy
 msgid "Interest"
 msgstr "Maraq:"
 
-#: mozorg/contribute.lang:320
+#: mozorg/contribute.lang:1021
 msgid "Location"
 msgstr ""
 
-#: mozorg/contribute.lang:324
+#: mozorg/contribute.lang:1025
 msgid "Newsletter"
 msgstr ""
 
-#: mozorg/contribute.lang:328
+#: mozorg/contribute.lang:1029
 msgid ""
 "Interested in helping others get the most out of using Firefox and other "
 "Mozilla projects? Our support process relies on enthusiastic contributors "
 "like you."
 msgstr ""
 
-#: mozorg/contribute.lang:332
-msgid "Thank you!"
-msgstr ""
-
-#: mozorg/contribute.lang:336
+#: mozorg/contribute.lang:1033
 msgid ""
 "Accessibility is about making things work for everyone. Help <a href="
 "\"%(access_url)s\">create tools and resources for Firefox end users with "
@@ -432,7 +1172,7 @@ msgid ""
 "available to non visual agents</a> such as screen readers."
 msgstr ""
 
-#: mozorg/contribute.lang:340
+#: mozorg/contribute.lang:1037
 msgid ""
 "Be part of the research team&mdash;whether you want to be a <a href="
 "\"%(survey_url)s\">participant in an upcoming study</a>, <a href="
@@ -441,43 +1181,39 @@ msgid ""
 "join us!"
 msgstr ""
 
-#: mozorg/contribute.lang:344
+#: mozorg/contribute.lang:1041
 msgid "Facebook"
 msgstr ""
 
-#: mozorg/contribute.lang:348
+#: mozorg/contribute.lang:1045
 msgid "Firefox Affiliates"
 msgstr ""
 
-#: mozorg/contribute.lang:352
+#: mozorg/contribute.lang:1049
 msgid "Developer Documentation"
 msgstr ""
 
-#: mozorg/contribute.lang:356
+#: mozorg/contribute.lang:1053
 msgid "Mozilla"
 msgstr ""
 
-#: mozorg/contribute.lang:360
+#: mozorg/contribute.lang:1057
 msgid "Thank you for signing up!"
 msgstr ""
 
-#: mozorg/contribute.lang:364
-msgid "Menu"
-msgstr "Menyu"
-
-#: mozorg/contribute.lang:367
+#: mozorg/contribute.lang:1061
 #, fuzzy
 msgid "Twitter"
 msgstr "Tvitter:"
 
-#: mozorg/contribute.lang:371
+#: mozorg/contribute.lang:1065
 msgid ""
 "This video requires a browser with support for open video or the <a href="
 "\"http://www.adobe.com/go/getflashplayer\">Adobe Flash Player</a>."
 msgstr ""
 
 #. Old string, will be removed when all locales have the new text
-#: mozorg/contribute.lang:376
+#: mozorg/contribute.lang:1070
 msgid ""
 "Quality assurance testing is one of the easiest ways to get started with "
 "Mozilla and is a great way to get familiar with our code and tools. Help us "
@@ -487,7 +1223,7 @@ msgid ""
 msgstr ""
 
 #. Old string, will be removed when all locales have the new text
-#: mozorg/contribute.lang:381
+#: mozorg/contribute.lang:1075
 msgid ""
 "Mozilla products have a powerful extension system that allows you to make "
 "small tweaks or major additions. Learn more about how to <a href="
