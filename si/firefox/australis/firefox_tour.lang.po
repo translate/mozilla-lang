@@ -1,13 +1,13 @@
 #. extracted from ./firefox/australis/firefox_tour.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-07-07 15:52+0100\n"
-"PO-Revision-Date: 2014-04-07 15:36+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: si\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +21,6 @@ msgstr ""
 msgid "Take a quick tour"
 msgstr ""
 
-# # NOTE: https://www-demo3.allizom.org/firefox/29.0/whatsnew/ , https://www-demo3.allizom.org/firefox/29.0/firstrun/
 #. Headline in /whatsnew page
 #: firefox/australis/firefox_tour.lang:12
 msgid "Welcome to Firefox"
@@ -30,7 +29,7 @@ msgstr "Firefox වෙතට ආයුබෝවන්"
 #. Sub-headline in /firstrun page
 #: firefox/australis/firefox_tour.lang:17
 msgid "Committed to you, your privacy and an open Web."
-msgstr "ඔබට, ඔබේ  පුද්ගලිකත්වයට සහ විවඍත වෙබයටම කැපවූ."
+msgstr "ඔබගේ පෞද්ගලිකත්වය හා විවෘත ජාලයක් සඳහාම කැපවී ඇත."
 
 #: firefox/australis/firefox_tour.lang:21
 msgid "Learn how to customize your Firefox"
@@ -48,7 +47,6 @@ msgstr "නව Firefox පිළිබඳ වැඩිදුරටත් හද�
 msgid "Grouped together for quick, easy access"
 msgstr "පහසු, වේගවත් ප්‍රවේශණයකට ගොනු කර ඇත"
 
-# <br> tag below used for formatting only.
 #. <br> tag below used for formatting only.
 #: firefox/australis/firefox_tour.lang:38
 msgid "Your favorite sites are<br> closer than ever"
@@ -62,16 +60,14 @@ msgstr "add-ons මඟින් නව පහසුකම් හා පසුත
 msgid "Have Firefox on another device?"
 msgstr "තවත් උපාංගයක Firefox තිබේද ?"
 
-# <br> tag below used for formatting only.
 #. <br> tag below used for formatting only.
 #: firefox/australis/firefox_tour.lang:51
 msgid "Designed so you can<br> make it your own"
 msgstr "ඔබගේම කර ගැනීමට <br> නිපදවා ඇත"
 
 #: firefox/australis/firefox_tour.lang:55
-#, fuzzy
 msgid "Firefox Help"
-msgstr "Firefox Beta"
+msgstr "Firefox උපකාරක"
 
 #: firefox/australis/firefox_tour.lang:59
 msgid "You don’t have to start over. Access your history, bookmarks and more."
@@ -92,13 +88,11 @@ msgstr "ඔබට පමණක් පිළිතුරු දෙන පිර�
 msgid "Opens new window"
 msgstr "නව කවුලුවක් විවර කරන්න"
 
-# This is the text for a door-hanger menu that shows in the browser chrome
 #. This is the text for a door-hanger menu that shows in the browser chrome
 #: firefox/australis/firefox_tour.lang:76
 msgid "It’s the fastest, most flexible Firefox ever."
 msgstr "මෙතෙක් බිහිවුනු වේගවත්ම, නම්‍යශීලීම Firefox සංස්කරණය මෙයයි."
 
-# This is the label for a button that opens the tour modal dialog
 #. This is the label for a button that opens the tour modal dialog
 #: firefox/australis/firefox_tour.lang:81
 msgid "Open tour"
@@ -120,28 +114,24 @@ msgstr "තනි ක්ලික් කිරීමකින් පමණක්
 msgid "There’s never been a better time for Firefox"
 msgstr "Firefox භාවිතයට මීටත් වඩා හොඳ වේලාවක් තිබේද"
 
-# This is the label for a button that closes the tour modal dialog
 #. This is the label for a button that closes the tour modal dialog
 #: firefox/australis/firefox_tour.lang:102
 msgid "Close tour"
 msgstr "සවාරිය වසන්න"
 
-# <br> tag below used for formatting only.
 #. <br> tag below used for formatting only.
 #: firefox/australis/firefox_tour.lang:107
 msgid "Thousands of ways to<br> make Firefox do more"
 msgstr "දහස් සංඛ්‍යාත වූ නව ක්‍රමයන්<br>Firefox හී කාර්යක්ෂමතාවය ඉහල නැංවීමට සූදානමින්"
 
 #: firefox/australis/firefox_tour.lang:111
-#, fuzzy
 msgid "Need help?"
-msgstr "සහායය අවශ්‍යද?"
+msgstr "උපකාරයක් අවශ්‍ය ද?"
 
 #: firefox/australis/firefox_tour.lang:115
 msgid "Now easier to find, use and manage"
 msgstr "සොයන්න, භාවිතා කරන්න හා හසුරුවාගන්න දැන් වඩාත් පහසුයි"
 
-# This is the title for a door-hanger menu that shows in the browser chrome
 #. This is the title for a door-hanger menu that shows in the browser chrome
 #: firefox/australis/firefox_tour.lang:120
 msgid "See what’s new"
@@ -160,15 +150,13 @@ msgid "Move or remove any button to match"
 msgstr "ගැලපෙන අයුරින් ඕනෑම බොත්තමක් ස්ථාන වෙනස් කිරීමකට හෝ ඉවත් කිරීමකට ලක් කරන්න"
 
 #: firefox/australis/firefox_tour.lang:136
-#, fuzzy
 msgid "How you use Firefox is unique"
-msgstr "ඔබ වෙබය භාවිතා කරන ආකාරය අනනය වෙයි."
+msgstr "ඔබ Firefox ඔබගේ අනන්‍ය ආකාරයෙනුයි භාවිතය ගන්නේ"
 
 #: firefox/australis/firefox_tour.lang:140
 msgid "Add and view bookmarks from a new location"
 msgstr "නව ස්ථානයක සිට පිටු සලකුණු එක් කිරීම හා නැරඹීම සිදුකරන්න"
 
-# This is the text for a call to action that appears in the web page
 #. This is the text for a call to action that appears in the web page
 #: firefox/australis/firefox_tour.lang:145
 msgid "Take the tour to see what’s new"
@@ -190,37 +178,31 @@ msgstr "පිටුසලකුණක් සෑදීමට තරුව භා
 msgid "Share your vision"
 msgstr "ඔබගේ දැක්ම බෙදාහදාගන්න"
 
-# This is the label for a button that delays starting the tour
 #. This is the label for a button that delays starting the tour
 #: firefox/australis/firefox_tour.lang:166
 msgid "Not now"
 msgstr "දැන්ම නොවේ"
 
-# This is the label for a button that starts the tour
 #. This is the label for a button that starts the tour
 #: firefox/australis/firefox_tour.lang:171
 msgid "Let’s go"
 msgstr "අරඹමු"
 
-# This is the label that represents tour step one of four
 #. This is the label that represents tour step one of four
 #: firefox/australis/firefox_tour.lang:176
 msgid "1/4"
 msgstr "1/4"
 
-# This is the label that represents tour step three of four
 #. This is the label that represents tour step three of four
 #: firefox/australis/firefox_tour.lang:181
 msgid "3/4"
 msgstr "3/4"
 
-# This is the label that represents tour step two of four
 #. This is the label that represents tour step two of four
 #: firefox/australis/firefox_tour.lang:186
 msgid "2/4"
 msgstr "2/4"
 
-# This is the label that represents tour step four of four
 #. This is the label that represents tour step four of four
 #: firefox/australis/firefox_tour.lang:191
 msgid "4/4"
@@ -254,7 +236,6 @@ msgstr "<span>පෙර:</span> Add-ons"
 msgid "Learn about the new design"
 msgstr "නව පසුතලය පිළිබඳ අධ්‍යයනය කරන්න"
 
-# <br> tag below used for formatting only.
 #. <br> tag below used for formatting only.
 #: firefox/australis/firefox_tour.lang:224
 msgid "It starts with the new,<br> intuitive menu"
@@ -265,9 +246,8 @@ msgid "The features you use most, all in one place"
 msgstr "වැඩිපුරම භාවිතයට ගන්න ‍පහසුකම් දැන් එකම තැනකින්"
 
 #: firefox/australis/firefox_tour.lang:232
-#, fuzzy
 msgid "How you use the Web is unique"
-msgstr "ඔබ වෙබය භාවිතා කරන ආකාරය අනනය වෙයි."
+msgstr "ඔබගේ වෙබ් භාවිතය ඔබගේ අනන්‍ය තාවයකි"
 
 #: firefox/australis/firefox_tour.lang:236
 msgid "Get started with Sync"
@@ -293,7 +273,6 @@ msgstr "ඔබ Firefox භාවිතා කරන අතරතුරදීම 
 msgid "Start browsing"
 msgstr "පිරික්සුව අරඹන්න"
 
-# <br> tag below used for formatting only.
 #. <br> tag below used for formatting only.
 #: firefox/australis/firefox_tour.lang:261
 msgid "Your favorite sites<br> are closer than ever"
@@ -311,7 +290,6 @@ msgstr "තවත් උපාංගයක් සබැදීමට අවශ්
 msgid "What kind of Web do you want?"
 msgstr "ඔබ‍ට අවශ්‍ය කුමනාකාරයේ වෙබ් අත්දැකීමක් ද?"
 
-# <br> tag below used for formatting only.
 #. <br> tag below used for formatting only.
 #: firefox/australis/firefox_tour.lang:278
 msgid "It starts with the redesigned,<br> intuitive menu"

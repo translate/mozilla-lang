@@ -1,13 +1,13 @@
 #. extracted from ./firefox/sync.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-22 13:24+0000\n"
-"PO-Revision-Date: 2014-04-04 14:44+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: si\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -70,9 +70,8 @@ msgstr "Android සඳහා බීටා අනුවාදනය බාගන�
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:52
-#, fuzzy
 msgid "Need help?"
-msgstr "සහායය අවශ්‍යද?"
+msgstr "උපකාරයක් අවශ්‍ය ද?"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:57
@@ -87,7 +86,7 @@ msgstr ""
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:67
 msgid "Download Firefox"
-msgstr "Firefox බාගත කරන්න"
+msgstr ""
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:72
@@ -112,16 +111,18 @@ msgstr ""
 #. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:91
+#, fuzzy
 msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
-msgstr ""
+msgstr "\"Firefox ගිණුමක්\" සෑදීමට ඊමේල් ලිපිනයක් සහ පුරපදයක් ඇතුලත් කරන්න."
 
 #. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:97
+#, fuzzy
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
-msgstr ""
+msgstr "තහවුරු කිරීමක් ඔබගේ ඊමේල් ලිපිනයට ගෙන්වා ගැනීමට \"ඊළඟ\" ක්ලික් කරන්න."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:102
@@ -133,7 +134,7 @@ msgstr ""
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:107
 msgid "Get more detailed instructions."
-msgstr ""
+msgstr "වැඩිදුර උපදෙස් ලබාගන්න."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:112
@@ -265,19 +266,24 @@ msgid ""
 "Instantly make Firefox your own wherever you use it. Seamlessly sync your "
 "bookmarks, history, passwords and more and access them from any device."
 msgstr ""
+"ඔබ භාවිතා කරන ඕනෑම තැනක ක්ෂනිකව Firefox ඔබේම කරගන්න. ඔබගේ පිටු සළකුණු, අතීතය, මුරපද සහ "
+"තවත් දෑ ඉතා පහසුවෙන් සමකාලීන කර ඕනෑම මෙවලමකින් ඒවාට පිවිසෙන්න."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:220
 msgid "Get started with Sync. It’s fast, safe and easy:"
-msgstr ""
+msgstr "සමකාලීන කිරීම භාවිතා කරන්න. එය වේගවත්, ආරක්සහාකාරී සහ පාහසුයි:"
 
 #. # TAG: sync_new_markup
 #. Used in old page, do not remove
 #: firefox/sync.lang:226
+#, fuzzy
 msgid ""
 "Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> in "
 "the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
+"Firefox හි ඉහළ දකුණු පස <a href=\"%(url)s#w_a-handy-new-menu\">මෙනුව</a> විවඍත කර "
+"\"සමකාලීන කිරීම සමඟ එක්වන්න\" තෝරන්න"
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:231
@@ -285,54 +291,60 @@ msgid ""
 "Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of "
 "Firefox and select “Sign in to Sync.”"
 msgstr ""
+"Firefox හි ඉහළ දකුණු පස <a href=\"%(url)s#w_a-handy-new-menu\">මෙනුව</a> විවඍත කර "
+"\"සමකාලීන කිරීම සමඟ එක්වන්න\" තෝරන්න"
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:236
 msgid "Click “Get started” in the tab that opens."
-msgstr ""
+msgstr "විවඍත වන ටැබයේ \"භාවිතා කිරීම අරභන්න\" ක්ලික් කරන්න."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:241
 msgid "Enter an email address and password to “Create a Firefox Account.”"
-msgstr ""
+msgstr "\"Firefox ගිණුමක්\" සෑදීමට ඊමේල් ලිපිනයක් සහ පුරපදයක් ඇතුලත් කරන්න."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:246
 msgid "Click “Next” to get a verification sent to your email."
-msgstr ""
+msgstr "තහවුරු කිරීමක් ඔබගේ ඊමේල් ලිපිනයට ගෙන්වා ගැනීමට \"ඊළඟ\" ක්ලික් කරන්න."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:251
 msgid "Check your email and click the verification link."
-msgstr ""
+msgstr "ඔබගේ ඊමේල් පරීක්සහා කර තහවුරු කිරීම ක්ලික් කරන්න."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:256
 msgid ""
 "You’re all set! Firefox will automatically sync in the background from now "
 "on."
-msgstr ""
+msgstr "දැන් සියල්ල සූදානම්. Firefox මෙතැන් සිට පසුබිමින් සමකාලීන කරනු ඇත."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:261
 msgid "Have an Android phone or tablet?"
-msgstr ""
+msgstr "Android දුරකතනයක් හෝ ටැබ්ලට් එකක් තිබේද?"
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:266
+#, fuzzy
 msgid ""
 "<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
 "desktop and mobile devices."
 msgstr ""
+"ඔබගේ පරිගණකය සහ ජනඟගම මෙවලම් අතර සමකාලීන කිරීම සදඟහා Android සදඟහා Firefox භාගත "
+"කරන්න."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:271
 msgid ""
 "Download Firefox for Android to sync between your desktop and mobile devices."
 msgstr ""
+"ඔබගේ පරිගණකය සහ ජනඟගම මෙවලම් අතර සමකාලීන කිරීම සදඟහා Android සදඟහා Firefox භාගත "
+"කරන්න."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:276
-#, fuzzy
 msgid "Get it free from Google Play"
 msgstr "Google Play හි එය නොමිළේ ලබාගන්න"
