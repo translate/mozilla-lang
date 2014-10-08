@@ -1,17 +1,18 @@
 #. extracted from ./mozorg/home.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-08-19 15:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-10-08 02:55+0000\n"
+"Last-Translator: Talha <talhaanwar.anwar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hi_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1412736915.000000\n"
 
 #. # promo_lightbeam ##
 #. # promo_new_mdn ##
@@ -22,7 +23,7 @@ msgstr ""
 #. # NOTE: demo server for home page is https://www-dev.allizom.org
 #: mozorg/home.lang:10
 msgid "Home of the Mozilla Project"
-msgstr "मोज़िला परियोजना का मुखपृष्ठ"
+msgstr "Mozilla परियोजना का मुखपृष्ठ"
 
 #. Used as a label for a button that scrolls through latest news.
 #: mozorg/home.lang:15
@@ -54,7 +55,7 @@ msgstr "हमारे मिशन को <i>एक्सप्लोर क�
 
 #: mozorg/home.lang:42
 msgid "Our principles guide us"
-msgstr "हमारे सिद्धांतों हमें मार्गदर्शन देते हैं"
+msgstr "हमारे सिद्धांत हमें मार्गदर्शन देते हैं"
 
 #: mozorg/home.lang:46
 msgid ""
@@ -62,7 +63,7 @@ msgid ""
 "keep the Internet alive and accessible."
 msgstr ""
 "हम इंटरनेट को जिंदा और सुलभ बनाये रखने के लिए प्रौद्योगिकीविदों, विचारकों और बिल्डरों की "
-"एक वैश्विक समुदाय बना रहे हैं."
+"एक वैश्विक समुदाय हैं |"
 
 #: mozorg/home.lang:50
 msgid "Read more about our mission"
@@ -151,7 +152,7 @@ msgstr "आपके देश में फ़ायरफ़ॉक्स ओ�
 #. This string is displayed only for locales where we launch Firefox OS soon
 #: mozorg/home.lang:127
 msgid "Become a Mobilizer today."
-msgstr "आज ही मोज़िल्ला के समर्थक बनें"
+msgstr "आज ही एक Mobilizer बनें."
 
 #: mozorg/home.lang:131
 msgid ""
@@ -175,13 +176,13 @@ msgstr ""
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:141
 msgid "<i>Watch</i> the watchers"
-msgstr ""
+msgstr "नजर रखने वालों को <i>देखें</i>"
 
 #. # TAG: promo_lightbeam
 #. Lightbeam promo
 #: mozorg/home.lang:147
 msgid "See who’s watching you online"
-msgstr ""
+msgstr "देखें, कौन आपको ऑनलाइन देख रहा है"
 
 #. # TAG: promo_lightbeam
 #. Lightbeam promo
@@ -190,23 +191,24 @@ msgid ""
 "Shine a light on the third parties that are collecting data about your "
 "online activity."
 msgstr ""
+"तीसरा पक्ष जो आपके ऑनलाइन गतिविधियों के बारे में डेटा एकत्रित कर रहे हैं पर एक प्रकाश डालें."
 
 #. # TAG: promo_lightbeam
 #: mozorg/home.lang:158
 msgid "Install the Lightbeam add-on"
-msgstr ""
+msgstr "Lightbeam ऐड-ओन स्थापित करें"
 
 #. # TAG: promo_webmaker
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:164
 msgid "<i>Learn</i> the Web"
-msgstr ""
+msgstr "वेब <i>सीखें</i>"
 
 #. # TAG: promo_webmaker
 #. Webmaker promo
 #: mozorg/home.lang:170
 msgid "We teach the Web"
-msgstr ""
+msgstr "हम वेब को सिखाते हैं"
 
 #. # TAG: promo_webmaker
 #: mozorg/home.lang:175
@@ -214,23 +216,25 @@ msgid ""
 "Let‘s explore, tinker and create together to build a Web that‘s open and "
 "made by everyone."
 msgstr ""
+"चलो हम समन्वेषण करें, मरम्मत करें और साथ मिल कर एक एैसा वेब का निर्माण करें जो खुला और हर "
+"किसी के द्वारा बनाया है."
 
 #. # TAG: promo_webmaker
 #: mozorg/home.lang:180
 msgid "Become a Webmaker"
-msgstr ""
+msgstr "एक Webmaker बनें"
 
 #. # TAG: promo_new_mdn
 #. New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:186
 msgid "<i>See</i> the new MDN"
-msgstr ""
+msgstr "नई MDN <i>देखें</i>"
 
 #. # TAG: promo_new_mdn
 #. New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:192
 msgid "See what’s new <br>for developers"
-msgstr ""
+msgstr "डेवलपर्स के लिए <br> नया क्या है, देखें"
 
 #. # TAG: promo_new_mdn
 #. New MDN promo:
@@ -239,6 +243,8 @@ msgid ""
 "Our community hub for docs, demos and other resources just got a brand new "
 "look."
 msgstr ""
+"डॉक्स, नमूने, और अन्य संसाधनों के लिए हमारे समुदाय हब को अभी अभी एक बिलकुल नया रूप मिला "
+"है."
 
 #. # TAG: promo_new_mdn
 #. New MDN promo:
@@ -250,7 +256,7 @@ msgstr "मोज़िला डेवलपर नेटवर्क पर �
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #: mozorg/home.lang:210
 msgid "The Web needs you"
-msgstr ""
+msgstr "वेब को आप की जरूरत है"
 
 #. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, headline
