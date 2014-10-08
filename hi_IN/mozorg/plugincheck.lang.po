@@ -1,17 +1,18 @@
 #. extracted from ./mozorg/plugincheck.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-01 17:04+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-10-08 18:30+0000\n"
+"Last-Translator: Talha <talhaanwar.anwar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hi_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1412793040.000000\n"
 
 #. # java_notice ##
 #. # plugin_disable_warning ##
@@ -72,6 +73,8 @@ msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
 msgstr ""
+"हमे एक समस्या के बारे में पता है जो जावा प्लगइन के वर्तमान संस्करण का अनुसन्धान करता है और "
+"उन्हें गलत तरीके से असुरक्षित बताता है."
 
 #. # TAG: java_notice
 #: mozorg/plugincheck.lang:63
@@ -79,6 +82,8 @@ msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
 msgstr ""
+"हम इस त्रुटि को दूर करने के लिए काम कर रहे हैं. इस दौरान, आप नवीनतम संस्करण को डाउनलोड "
+"करने के लिए <a href=\"%(download)s\">जावा वेबसाइट</a> पर जा सकते हैं."
 
 #: mozorg/plugincheck.lang:67
 msgid "Plugin Status"
@@ -225,7 +230,7 @@ msgstr "हम प्लगइन को निष्क्रिय कैस�
 
 #: mozorg/plugincheck.lang:184
 msgid "In Firefox:"
-msgstr "फ़ायरफ़ॉक्स में"
+msgstr "फ़ायरफ़ॉक्स में:"
 
 #: mozorg/plugincheck.lang:188
 msgid "Open the Tools menu."
@@ -235,11 +240,11 @@ msgstr "उपकरण मेनू खोलें."
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:194
 msgid "Open the <span class=\"menu\">menu</span>."
-msgstr ""
+msgstr "<span class=\"menu\">मेनू</span> खोलें."
 
 #: mozorg/plugincheck.lang:198
 msgid "Choose Add-ons."
-msgstr "सहयुक्ति चुनें"
+msgstr "सहयुक्ति चुनें."
 
 #: mozorg/plugincheck.lang:202
 msgid "Click the plugins tab."
@@ -249,6 +254,8 @@ msgstr "प्लगिन टैब पर क्लिक करें."
 #: mozorg/plugincheck.lang:207
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr ""
+"आप जिस प्लगइन को निष्क्रिय करना चाहते हैं उसके नीचे के बगल में स्थित ड्रॉप डाउन पर क्लिक "
+"करें."
 
 #: mozorg/plugincheck.lang:211
 msgid "Click on a plugin in the list."
@@ -257,7 +264,7 @@ msgstr "सूची में प्लगइन पर क्लिक कर�
 #. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:216
 msgid "Select \"Never Activate\" from the available choices."
-msgstr ""
+msgstr "उपलब्ध विकल्पों से \"कभी सक्रिय न करें\" का चयन करें."
 
 #: mozorg/plugincheck.lang:220
 msgid "Click the Disable button."
@@ -269,19 +276,18 @@ msgid ""
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on YouTube."
 msgstr ""
-"सावधान: एक प्लगइन को अक्षम करने से आप कुछ कम नहीं कर पाएंगे. जैसे कि, अगर आप फ़्लैश को "
+"सावधान: एक प्लगइन को अक्षम करने से आप कुछ काम नहीं कर पाएंगे. जैसे कि, अगर आप फ़्लैश को "
 "अक्षम करते हैं तो आप यूट्यूब पर विडियो नहीं देख पाएंगे."
 
 #. # TAG: plugin_disable_warning
 #: mozorg/plugincheck.lang:229
-#, fuzzy
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on some streaming video websites."
 msgstr ""
 "सावधान: एक प्लगइन को अक्षम करने से आप कुछ कम नहीं कर पाएंगे. जैसे कि, अगर आप फ़्लैश को "
-"अक्षम करते हैं तो आप यूट्यूब पर विडियो नहीं देख पाएंगे."
+"अक्षम करते हैं तो आप कुछ स्ट्रीमिंग वीडियो वेबसाइटों पर विडियो नहीं देख पाएंगे."
 
 #: mozorg/plugincheck.lang:233
 msgid "Mozilla Support"
@@ -294,4 +300,4 @@ msgstr "और अधिक प्रश्न हैं?"
 #: mozorg/plugincheck.lang:241
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
-"और अधिक मदद के लिये <a href=\"%(sumo_url)s\">support.mozilla.org</a> में जाएँ.!"
+"और अधिक मदद के लिये <a href=\"%(sumo_url)s\">support.mozilla.org</a> पर जाएँ!"
