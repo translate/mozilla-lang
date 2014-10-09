@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-01 17:04+0000\n"
+"POT-Creation-Date: 2014-10-09 17:33+0000\n"
 "PO-Revision-Date: 2014-05-09 15:14+0000\n"
 "Last-Translator: Omshivaprakash <omshivaprakash@gmail.com>\n"
 "Language-Team: none\n"
@@ -11,7 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1399648493.000000\n"
 
 #. # java_notice ##
@@ -67,124 +67,128 @@ msgstr "ನಿಮ್ಮ ಪ್ಲಗಿನ್‌ಗಳನ್ನು ಪರೀಕ�
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
 
+#: mozorg/plugincheck.lang:57
+msgid "Looks like you’re using an older version of Firefox."
+msgstr "ನೀವು ಫೈರ್ಫಾಕ್ಸ್‌ನ ಹಳೆಯ ಆವೃತ್ತಿಯನ್ನು ಬಳಸುತ್ತಿದ್ದೀರಿ ಎಂದು ಕಾಣುತ್ತಿದೆ."
+
 #. # TAG: java_notice
-#: mozorg/plugincheck.lang:58
+#: mozorg/plugincheck.lang:62
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
 msgstr ""
 
 #. # TAG: java_notice
-#: mozorg/plugincheck.lang:63
+#: mozorg/plugincheck.lang:67
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
 msgstr ""
 
-#: mozorg/plugincheck.lang:67
+#: mozorg/plugincheck.lang:71
 msgid "Plugin Status"
 msgstr "ಪ್ಲಗಿನ್ ಸ್ಥಿತಿ"
 
-#: mozorg/plugincheck.lang:71
+#: mozorg/plugincheck.lang:75
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
 msgstr ""
 
-#: mozorg/plugincheck.lang:75
+#: mozorg/plugincheck.lang:79
 msgid "Step 1: Click Update to update a plugin."
 msgstr "ಹಂತ 1. ವಿಸ್ತರಣಿಕೆ (ಪ್ಲಗ್ ಇನ್) ಅನ್ನು ಪರಿಷ್ಕರಿಸಲು ಪರಿಷ್ಕರಿಸಿ ಅನ್ನು ಒತ್ತಿ."
 
-#: mozorg/plugincheck.lang:79
+#: mozorg/plugincheck.lang:83
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
 "ಹಂತ 2. ನಿಮ್ಮ ಬ್ರೌಸರ್ ಅನ್ನು ಮರು-ಚಾಲಿಸುವ ಮೊದಲು ಸೂಚಿಸಿದ ಎಲ್ಲಾ ಪರಿಷ್ಕರಣೆಗಳನ್ನು "
 "ಪೂರ್ಣಗೊಳಿಸಿ."
 
-#: mozorg/plugincheck.lang:83
+#: mozorg/plugincheck.lang:87
 msgid "Potentially vulnerable plugins"
 msgstr "ಸಂದೇಹಾಸ್ಪದ ಪ್ಲಗಿನ್ ಗಳು"
 
-#: mozorg/plugincheck.lang:87
+#: mozorg/plugincheck.lang:91
 msgid "Plugin"
 msgstr "ಪ್ಲಗಿನ್"
 
-#: mozorg/plugincheck.lang:91
+#: mozorg/plugincheck.lang:95
 msgid "Status"
 msgstr "ಸ್ಥಿತಿಗತಿ"
 
-#: mozorg/plugincheck.lang:95
+#: mozorg/plugincheck.lang:99
 msgid "Action"
 msgstr "ಕ್ರಿಯೆ"
 
-#: mozorg/plugincheck.lang:99
+#: mozorg/plugincheck.lang:103
 msgid "Outdated Plugins"
 msgstr "ಹಳೆಯದಾದ ಪ್ಲಗ್‌ಇನ್‌ಗಳು"
 
-#: mozorg/plugincheck.lang:103
+#: mozorg/plugincheck.lang:107
 msgid "Unknown Plugins"
 msgstr "ಅಜ್ಞಾತ ಪ್ಲಗ್ಇನ್‌ಗಳು"
 
-#: mozorg/plugincheck.lang:107
+#: mozorg/plugincheck.lang:111
 msgid "These plugins are up to date"
 msgstr "ಈ ಎಲ್ಲಾ ಪ್ಲಗಿನ್ ಗಳು ಸಂದರ್ಭೋಚಿತವಾಗಿವೆ."
 
-#: mozorg/plugincheck.lang:111
+#: mozorg/plugincheck.lang:115
 msgid "Back to Top"
 msgstr "ಮತ್ತೆ ಮೇಲ್ಗಡೆಗೆ"
 
-#: mozorg/plugincheck.lang:115
+#: mozorg/plugincheck.lang:119
 msgid "Frequently Asked Questions"
 msgstr "ಸಾಮಾನ್ಯವಾಗಿ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳು"
 
-#: mozorg/plugincheck.lang:119
+#: mozorg/plugincheck.lang:123
 msgid "What is a plugin?"
 msgstr "ಪ್ಲಗಿನ್ ಅಂದರೇನು?"
 
-#: mozorg/plugincheck.lang:123
+#: mozorg/plugincheck.lang:127
 msgid "Plugins power videos, animation and games"
 msgstr ""
 
-#: mozorg/plugincheck.lang:127
+#: mozorg/plugincheck.lang:131
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr "ಇವು ಫೈರ್ಫಾಕ್ಸ್ ನ ಹೊರಗಡೆ ಅಡೋಬ್ ಸಿಸ್ಟಂ ಮತ್ತು ಆಪಲ್ ನಂತಹ ಸಂಸ್ಥೆಗಳಿಂದ ತಯಾರಿಸಲ್ಪಟ್ಟಿವೆ"
 
-#: mozorg/plugincheck.lang:131
+#: mozorg/plugincheck.lang:135
 msgid "Plugins don't always update automatically."
 msgstr "ಪ್ಲಗಿನ್ ಯಾವಾಗಲೂ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪರಷ್ಕರಣೆಗೊಳ್ಳುವುದಿಲ್ಲ."
 
-#: mozorg/plugincheck.lang:135
+#: mozorg/plugincheck.lang:139
 msgid "Why should I update my plugins?"
 msgstr "ನನ್ನ ಪ್ಲಗಿನ್ ಗಳನ್ನು ಏಕೆ ಪರಿಷ್ಕರಿಸಬೇಕು?"
 
-#: mozorg/plugincheck.lang:139
+#: mozorg/plugincheck.lang:143
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr "ಹಳೆಯ ಪ್ಲಗಿನ್ ಗಳು ಜಾಲಾಟವನ್ನು ಅಡಚಣೆಗೊಳಿಸಬಹುದು ಮತ್ತು ನಿಮ್ಮ ಸಮಯ ವ್ಯರ್ಥಗೊಳಿಸಬಹುದು."
 
-#: mozorg/plugincheck.lang:143
+#: mozorg/plugincheck.lang:147
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
 msgstr ""
 
-#: mozorg/plugincheck.lang:147
+#: mozorg/plugincheck.lang:151
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
 msgstr ""
 
 #. alt image
-#: mozorg/plugincheck.lang:152
+#: mozorg/plugincheck.lang:156
 msgid "Screenshot of Add-Ons manager"
 msgstr "ಆಡ್-ಆನ್ ನಿರ್ವಾಹಕದ ಭಿತ್ತಿಚಿತ್ರ"
 
-#: mozorg/plugincheck.lang:156
+#: mozorg/plugincheck.lang:160
 msgid "How can Firefox help me?"
 msgstr "ಫೈರ್ಫಾಕ್ಸ್ ನನಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಲ್ಲದು?"
 
-#: mozorg/plugincheck.lang:160
+#: mozorg/plugincheck.lang:164
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
@@ -193,74 +197,74 @@ msgstr ""
 "ಸುರಕ್ಷಿತವಾಗಿರಲು ನೀವು ಈ ಪುಟವನ್ನು ನಿಯಮಿತವಾಗಿ ಸಂದರ್ಶಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಪ್ಲಗಿನ್ ಗಳನ್ನು "
 "ಪರಿಷ್ಕರಿಸಿಕೊಳ್ಳಿ."
 
-#: mozorg/plugincheck.lang:164
+#: mozorg/plugincheck.lang:168
 msgid "Which Plugins do I have?"
 msgstr "ನನ್ನಲ್ಲಿ ಯಾವ ಪ್ಲಗಿನ್‌ಗಳಿವೆ?"
 
-#: mozorg/plugincheck.lang:168
+#: mozorg/plugincheck.lang:172
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
 msgstr ""
 
-#: mozorg/plugincheck.lang:172
+#: mozorg/plugincheck.lang:176
 msgid "Want to spread the word?"
 msgstr "ಮಾತೊಂದನ್ನು ಪ್ರಚುರಪಡಿಸಲು ಇಚ್ಛಿಸುವಿರಾ?"
 
-#: mozorg/plugincheck.lang:176
+#: mozorg/plugincheck.lang:180
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
 msgstr ""
 
-#: mozorg/plugincheck.lang:180
+#: mozorg/plugincheck.lang:184
 msgid "How do I disable a plugin?"
 msgstr "ಪ್ಲಗಿನ್ ಅನ್ನು ಹೇಗೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಿ?"
 
-#: mozorg/plugincheck.lang:184
+#: mozorg/plugincheck.lang:188
 msgid "In Firefox:"
 msgstr "ಫೈರ್ಫಾಕ್ಸ್‌ನಲ್ಲಿ:"
 
-#: mozorg/plugincheck.lang:188
+#: mozorg/plugincheck.lang:192
 #, fuzzy
 msgid "Open the Tools menu."
 msgstr "ಉಪಕರಣಗಳ ಪರಿವಿಡಿ ತೆಗೆ."
 
 #. # TAG: plugin_updated_content
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
-#: mozorg/plugincheck.lang:194
+#: mozorg/plugincheck.lang:198
 msgid "Open the <span class=\"menu\">menu</span>."
 msgstr ""
 
-#: mozorg/plugincheck.lang:198
+#: mozorg/plugincheck.lang:202
 #, fuzzy
 msgid "Choose Add-ons."
 msgstr "ಆಡ್-ಆನ್‌ಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡು"
 
-#: mozorg/plugincheck.lang:202
+#: mozorg/plugincheck.lang:206
 #, fuzzy
 msgid "Click the plugins tab."
 msgstr "ಪ್ಲಗಿನ್ ಹಾಳೆ ಕ್ಲಿಕ್ ಮಾಡು."
 
 #. # TAG: plugin_updated_content
-#: mozorg/plugincheck.lang:207
+#: mozorg/plugincheck.lang:211
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr ""
 
-#: mozorg/plugincheck.lang:211
+#: mozorg/plugincheck.lang:215
 msgid "Click on a plugin in the list."
 msgstr "ಪಟ್ಟಿಯಲ್ಲಿ ಪ್ಲಗಿನ್ ಅನ್ನು ಒತ್ತಿರಿ."
 
 #. # TAG: plugin_updated_content
-#: mozorg/plugincheck.lang:216
+#: mozorg/plugincheck.lang:220
 msgid "Select \"Never Activate\" from the available choices."
 msgstr ""
 
-#: mozorg/plugincheck.lang:220
+#: mozorg/plugincheck.lang:224
 msgid "Click the Disable button."
 msgstr "ನಿಷ್ಕ್ರಿಯ ಗುಂಡಿಯನ್ನು ಒತ್ತು."
 
-#: mozorg/plugincheck.lang:224
+#: mozorg/plugincheck.lang:228
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -268,22 +272,22 @@ msgid ""
 msgstr ""
 
 #. # TAG: plugin_disable_warning
-#: mozorg/plugincheck.lang:229
+#: mozorg/plugincheck.lang:233
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on some streaming video websites."
 msgstr ""
 
-#: mozorg/plugincheck.lang:233
+#: mozorg/plugincheck.lang:237
 msgid "Mozilla Support"
 msgstr "ಮೊಝಿಲ್ಲಾ ಬೆಂಬಲ"
 
-#: mozorg/plugincheck.lang:237
+#: mozorg/plugincheck.lang:241
 msgid "Have more questions?"
 msgstr "ಮತ್ತಷ್ಟು ಪ್ರಶ್ನೆ‌ಗಳು ಇವೆಯೇ?"
 
-#: mozorg/plugincheck.lang:241
+#: mozorg/plugincheck.lang:245
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "ಹೆಚ್ಚಿನ ಸಹಾಯಕ್ಕೆ <a href=\"%(sumo_url)s\">support.mozilla.org</a> ಭೇಟಿಕೊಡಿ!"

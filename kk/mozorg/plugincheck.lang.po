@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-01 17:04+0000\n"
+"POT-Creation-Date: 2014-10-09 17:33+0000\n"
 "PO-Revision-Date: 2013-09-11 16:33+0000\n"
 "Last-Translator: Baurzhan <baurthefirst@gmail.com>\n"
 "Language-Team: none\n"
@@ -11,7 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1378917195.000000\n"
 
 #. # java_notice ##
@@ -69,25 +69,29 @@ msgstr ""
 "Плагиндерді заманауи күйінде ұстау Firefox жұмысын жылдам әрі қауіпсіз "
 "қылуға көмектеседі."
 
+#: mozorg/plugincheck.lang:57
+msgid "Looks like you’re using an older version of Firefox."
+msgstr "Сіз Firefox ескі нұсқасын қолданатын секілді."
+
 #. # TAG: java_notice
-#: mozorg/plugincheck.lang:58
+#: mozorg/plugincheck.lang:62
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
 msgstr ""
 
 #. # TAG: java_notice
-#: mozorg/plugincheck.lang:63
+#: mozorg/plugincheck.lang:67
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
 msgstr ""
 
-#: mozorg/plugincheck.lang:67
+#: mozorg/plugincheck.lang:71
 msgid "Plugin Status"
 msgstr "Плагин қалып-күйі"
 
-#: mozorg/plugincheck.lang:71
+#: mozorg/plugincheck.lang:75
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
@@ -96,83 +100,83 @@ msgstr ""
 "шектелген. Сонымен қатар, сіз Саймандар &gt; Қосымшаларды баптау мәзірі "
 "қолдана аласыз"
 
-#: mozorg/plugincheck.lang:75
+#: mozorg/plugincheck.lang:79
 msgid "Step 1: Click Update to update a plugin."
 msgstr "Қадам 1: Плагинді жаңарту үшін «Қазір жаңарту» шертіңіз."
 
-#: mozorg/plugincheck.lang:79
+#: mozorg/plugincheck.lang:83
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
 "Қадам 2: Барлық ұсынылатын жаңартуларды орнатуды браузеріңізді қайта қосудың "
 "алдында аяқтаңыз."
 
-#: mozorg/plugincheck.lang:83
+#: mozorg/plugincheck.lang:87
 msgid "Potentially vulnerable plugins"
 msgstr "Осал болуы мүмкін плагиндер"
 
-#: mozorg/plugincheck.lang:87
+#: mozorg/plugincheck.lang:91
 msgid "Plugin"
 msgstr "Плагин"
 
-#: mozorg/plugincheck.lang:91
+#: mozorg/plugincheck.lang:95
 msgid "Status"
 msgstr "Қалып-күйі"
 
-#: mozorg/plugincheck.lang:95
+#: mozorg/plugincheck.lang:99
 msgid "Action"
 msgstr "Әрекет"
 
-#: mozorg/plugincheck.lang:99
+#: mozorg/plugincheck.lang:103
 msgid "Outdated Plugins"
 msgstr "Ескірген плагиндер"
 
-#: mozorg/plugincheck.lang:103
+#: mozorg/plugincheck.lang:107
 msgid "Unknown Plugins"
 msgstr "Белгісіз плагиндер"
 
-#: mozorg/plugincheck.lang:107
+#: mozorg/plugincheck.lang:111
 msgid "These plugins are up to date"
 msgstr "Бұл плагиндер ескірмеген"
 
-#: mozorg/plugincheck.lang:111
+#: mozorg/plugincheck.lang:115
 msgid "Back to Top"
 msgstr "Жоғарыға қайту"
 
-#: mozorg/plugincheck.lang:115
+#: mozorg/plugincheck.lang:119
 msgid "Frequently Asked Questions"
 msgstr "Жиі қойылатын сұрақтар"
 
-#: mozorg/plugincheck.lang:119
+#: mozorg/plugincheck.lang:123
 msgid "What is a plugin?"
 msgstr "Плагин дегеніміз не?"
 
-#: mozorg/plugincheck.lang:123
+#: mozorg/plugincheck.lang:127
 msgid "Plugins power videos, animation and games"
 msgstr "Плагиндер видео, анимация, ойындардың жұмысын мүмкін қылады"
 
-#: mozorg/plugincheck.lang:127
+#: mozorg/plugincheck.lang:131
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr ""
 "Олар Adobe Systems және Apple сияқты компаниялармен жасалып, Firefox "
 "құрамына жатпайды."
 
-#: mozorg/plugincheck.lang:131
+#: mozorg/plugincheck.lang:135
 msgid "Plugins don't always update automatically."
 msgstr "Плагиндер әрқашан өздігінен жаңартыла бермейді."
 
-#: mozorg/plugincheck.lang:135
+#: mozorg/plugincheck.lang:139
 msgid "Why should I update my plugins?"
 msgstr "Плагиндерді неге жаңартуым керек?"
 
-#: mozorg/plugincheck.lang:139
+#: mozorg/plugincheck.lang:143
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr ""
 "Ескі плагиндер сіздің Интернеттегі жұмысыңызды үзіп, уақытыңызды босқа "
 "кетіре алады."
 
-#: mozorg/plugincheck.lang:143
+#: mozorg/plugincheck.lang:147
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
@@ -181,7 +185,7 @@ msgstr ""
 "қауіпсіздік қатерлерінен зардап шегудің <strong>мүмкіндігін арттырады</"
 "strong>."
 
-#: mozorg/plugincheck.lang:147
+#: mozorg/plugincheck.lang:151
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
@@ -190,15 +194,15 @@ msgstr ""
 "<strong>жақсы әрі қауіпсіздеу</strong> қылады."
 
 #. alt image
-#: mozorg/plugincheck.lang:152
+#: mozorg/plugincheck.lang:156
 msgid "Screenshot of Add-Ons manager"
 msgstr "Қосымшаларды басқарушы терезесінің скриншоты"
 
-#: mozorg/plugincheck.lang:156
+#: mozorg/plugincheck.lang:160
 msgid "How can Firefox help me?"
 msgstr "Firefox маған қалай көмектесе алады?"
 
-#: mozorg/plugincheck.lang:160
+#: mozorg/plugincheck.lang:164
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
@@ -207,11 +211,11 @@ msgstr ""
 "Оған дейін, сіз осы парақа үнемі кіріп, қауіпсіздік дейгейін сақтау үшін "
 "плагиндеріңізді жаңартып отыруыңыз керек."
 
-#: mozorg/plugincheck.lang:164
+#: mozorg/plugincheck.lang:168
 msgid "Which Plugins do I have?"
 msgstr "Менде қандай плагиндер орнатылған?"
 
-#: mozorg/plugincheck.lang:168
+#: mozorg/plugincheck.lang:172
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
@@ -220,11 +224,11 @@ msgstr ""
 "Firefox ішінде орнатылған плагиндерді қарап шығу үшін келесі әрекеттерді "
 "орындаңыз:"
 
-#: mozorg/plugincheck.lang:172
+#: mozorg/plugincheck.lang:176
 msgid "Want to spread the word?"
 msgstr "Осы туралы басқаларға айтуды қалайсыз ба?"
 
-#: mozorg/plugincheck.lang:176
+#: mozorg/plugincheck.lang:180
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -233,54 +237,54 @@ msgstr ""
 "плагиндерді тексеру таңбашасын алу үшін <a href=\"%(url)s\">Firefox "
 "көмекшілері</a> сайтын шолыңыз."
 
-#: mozorg/plugincheck.lang:180
+#: mozorg/plugincheck.lang:184
 msgid "How do I disable a plugin?"
 msgstr "Маған плагинды қалай өшіруге болады?"
 
-#: mozorg/plugincheck.lang:184
+#: mozorg/plugincheck.lang:188
 msgid "In Firefox:"
 msgstr "Firefox ішінде:"
 
-#: mozorg/plugincheck.lang:188
+#: mozorg/plugincheck.lang:192
 #, fuzzy
 msgid "Open the Tools menu."
 msgstr "Саймандар мәзірін ашыңыз."
 
 #. # TAG: plugin_updated_content
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
-#: mozorg/plugincheck.lang:194
+#: mozorg/plugincheck.lang:198
 msgid "Open the <span class=\"menu\">menu</span>."
 msgstr ""
 
-#: mozorg/plugincheck.lang:198
+#: mozorg/plugincheck.lang:202
 #, fuzzy
 msgid "Choose Add-ons."
 msgstr "Қосымшалар мәзірін таңдаңыз."
 
-#: mozorg/plugincheck.lang:202
+#: mozorg/plugincheck.lang:206
 #, fuzzy
 msgid "Click the plugins tab."
 msgstr "Плагиндер бетін шертіңіз."
 
 #. # TAG: plugin_updated_content
-#: mozorg/plugincheck.lang:207
+#: mozorg/plugincheck.lang:211
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr ""
 
-#: mozorg/plugincheck.lang:211
+#: mozorg/plugincheck.lang:215
 msgid "Click on a plugin in the list."
 msgstr "Тізімдегі плагинды таңдаңыз."
 
 #. # TAG: plugin_updated_content
-#: mozorg/plugincheck.lang:216
+#: mozorg/plugincheck.lang:220
 msgid "Select \"Never Activate\" from the available choices."
 msgstr ""
 
-#: mozorg/plugincheck.lang:220
+#: mozorg/plugincheck.lang:224
 msgid "Click the Disable button."
 msgstr "Сөндіру батырмасын шертіңіз."
 
-#: mozorg/plugincheck.lang:224
+#: mozorg/plugincheck.lang:228
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -291,7 +295,7 @@ msgstr ""
 "алмайтын боласыз."
 
 #. # TAG: plugin_disable_warning
-#: mozorg/plugincheck.lang:229
+#: mozorg/plugincheck.lang:233
 #, fuzzy
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
@@ -302,15 +306,15 @@ msgstr ""
 "алмайтын боласыз. Мысалы, Flash сөндірсеңіз, YouTube видеоларын көре "
 "алмайтын боласыз."
 
-#: mozorg/plugincheck.lang:233
+#: mozorg/plugincheck.lang:237
 msgid "Mozilla Support"
 msgstr "Mozilla қолдауы"
 
-#: mozorg/plugincheck.lang:237
+#: mozorg/plugincheck.lang:241
 msgid "Have more questions?"
 msgstr "Тағы да сұрақтар бар ма?"
 
-#: mozorg/plugincheck.lang:241
+#: mozorg/plugincheck.lang:245
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "Көмек алу үшін <a href=\"%(sumo_url)s\">support.mozilla.org</a> шолыңыз!"
