@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-09 17:33+0000\n"
-"PO-Revision-Date: 2014-10-10 05:43+0000\n"
+"PO-Revision-Date: 2014-10-10 06:54+0000\n"
 "Last-Translator: Harish  <harishkumawat29@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1412919791.000000\n"
+"X-POOTLE-MTIME: 1412924074.000000\n"
 
 #. # contribute_2015 ##
 #. # contribute_faces ##
@@ -53,7 +53,6 @@ msgstr "मोज़िल्लिंस <br>से मिलो "
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:40
-#, fuzzy
 msgid "Get involved"
 msgstr "शामिल हों"
 
@@ -118,7 +117,6 @@ msgstr "मोज़िला के साथ स्वयं सेवा&hell
 #. # TAG: contribute_2015
 #. This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 #: mozorg/contribute.lang:102
-#, fuzzy
 msgid ""
 "is about more than lending a hand. It’s about learning, collaborating and "
 "sharing your skills with a global community of Mozillians — coders, "
@@ -546,7 +544,6 @@ msgstr "समुदाय के अपडेट के लिए मुझे 
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:486
-#, fuzzy
 msgid "(English)"
 msgstr "(अंग्रेजी में)"
 
@@ -592,7 +589,6 @@ msgstr "Firefox OS "
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:531
-#, fuzzy
 msgid "Websites"
 msgstr "वेबसाइट"
 
@@ -738,7 +734,6 @@ msgstr "शहर"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:676
-#, fuzzy
 msgid "Events"
 msgstr "घटना "
 
@@ -1185,6 +1180,9 @@ msgid ""
 "designs inspired by Mozilla. Check out the <a href=\"%(creative_url)s"
 "\">Creative team blog</a> for more information about how to take part."
 msgstr ""
+"हम यह संभव कलाकारों मोज़िला से प्रेरित डिजाइन के साथ वेब और लोगों को कवर करने के लिए "
+"करना चाहते हैं. | <a href=\"%(creative_url)s\">भाग लेने के लिए कैसे करें के बारे में अधिक "
+"जानकारी </a> के लिए रचनात्मक टीम ब्लॉग  की जाँच करें."
 
 #. Documentation and writing
 #: mozorg/contribute.lang:997
@@ -1208,6 +1206,11 @@ msgid ""
 "<a href=\"%(webmaker_resources)s\">teaching resources</a> and <a href="
 "\"%(webmaker_events)s\">community events</a>."
 msgstr ""
+"दूसरों की मदद करने में रुचि रखते  तो सीखे वेब कैसे काम करता है ? <a href=\"%(webmaker)s"
+"\">Mozilla वेब-मेकर</a><a href=\"%(webmaker_tools)s\">  नि: शुल्क उपकरण</a><a "
+"href=\"%(webmaker_resources)s\"> शिक्षण संसाधनों </a> और<a href="
+"\"%(webmaker_events)s\"> समुदाय की घटनाओं </a> का उपयोग कर डिजिटल कौशल साझा "
+"करने के लिए समर्पित एक वैश्विक समुदाय है | "
 
 #. # TAG: contribute_fellowship
 #. Fellowships
@@ -1222,6 +1225,9 @@ msgid ""
 "\"%(fellowship)s\">OpenNews Fellowship program</a> matches emerging digital "
 "leaders with journalism opportunities to build the open Web for everyone."
 msgstr ""
+"खुला वेब के भविष्य को आकार देने के इच्छुक हैं? Knight-Mozilla’s <a href=\"%(fellowship)s"
+"\"> फैलोशिप कार्यक्रम </a>सभी के लिए खुला वेब का निर्माण करने के लिए पत्रकारिता के "
+"अवसरों के साथ डिजिटल नेताओं उभरते मेल खाता है."
 
 #. # TAG: hiveglobal
 #. For reference see http://hivelearningnetworks.org
@@ -1239,6 +1245,9 @@ msgid ""
 "\"%(hivenetworks)s\">Learn more</a> about how to start a Hive in your "
 "community."
 msgstr ""
+"<a href=\"%(hivenetworks)s\">Hive लर्निंग नेटवर्क </a>जुड़ा शिक्षा के माध्यम से डिजिटल "
+"कौशल और वेब साक्षरता championing रहे हैं कि विश्व भर में समुदायों की बढ़ती नक्षत्र हैं. अपने "
+"समुदाय में एक <a href=\"%(hivenetworks)s\"> Hive शुरू करने के बारे में अधिक जानें.</a>"
 
 #. Old string, will be removed when all locales have the new text
 #: mozorg/contribute.lang:1031
@@ -1248,6 +1257,10 @@ msgid ""
 "all about</a> or get started teaching others by <a href=\"%(webmaker)s"
 "\">setting up an event in your community today</a>."
 msgstr ""
+"एक इसे समुदाय की रचना करो जहा लोगो को वेब के काम करने के तरीके के बारे में मालूम हो |<a "
+"href=\"%(moz_webmaker)s \"> mozilla के वेब-मकर</a> प्रोजेक्ट के बारे में बताओ और दुसरो "
+"को पढना सुरु करदे , एक <a href=\"%(webmaker)s\">घटना अपने समुदाय के आयोजीत करे </"
+"a>ताकि लोग  वेब-मेकर से रुब -रु हो सके | "
 
 #: mozorg/contribute.lang:1035
 msgid "map"
@@ -1386,6 +1399,10 @@ msgid ""
 "\"%(addons_url)s\">build an add-on</a>. For experienced developers, find out "
 "how to <a href=\"%(addons_wiki)s\">become an AMO editor</a>."
 msgstr ""
+"mozilla एक शक्तिशाली विस्तार प्रणाली है. जो आपको उत्पादों आप छोटे tweaks या प्रमुख "
+"फाईल बनाने के लिए अनुमति देता है | <a href=\"%(addons_url)s\">ऐड -ओं केसे बनाते है जाने "
+"</a> | अनुभवी डेवलपर्स के लिए, एक जाने केसे<a href=\"%(addons_wiki)s\"> AMO संपादक "
+"बने | </a>"
 
 #~ msgid ""
 #~ "Meet Mozilla volunteers from all around the world. Learn about the "
