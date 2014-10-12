@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-09 17:33+0000\n"
-"PO-Revision-Date: 2014-10-12 15:03+0000\n"
+"PO-Revision-Date: 2014-10-12 15:57+0000\n"
 "Last-Translator: Zameka <zamekas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: xh\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1413126213.000000\n"
+"X-POOTLE-MTIME: 1413129432.000000\n"
 
 #. # contribute_2015 ##
 #. # contribute_faces ##
@@ -312,11 +312,13 @@ msgid ""
 "Discover even more stories on Twitter with <a href=\"%(link_hashtag)s"
 "\">#IAmAMozillian</a>"
 msgstr ""
+"Famuna nangakumbi amabali ku-Twitter no <a href=\"%(link_hashtag)s"
+"\">#IAmAMoaillian</a>"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:289
 msgid "More coming soon"
-msgstr ""
+msgstr "Ziyeza kwamsinyane nangaphezulu "
 
 #. # TAG: contribute_2015
 #. Used as title of the /signup sub-page
@@ -327,18 +329,19 @@ msgstr "Zibandakanye: Amathuba okuba litsha-ntliziyo kwaMozilla"
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:300
 msgid "To get started, tell us what interests you."
-msgstr ""
+msgstr "Ukuqalisa, sixelele yintoni ekunika umdla."
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:305
 msgid "Choose one for now. You can always contribute to other areas later."
 msgstr ""
+"Khetha ibe nye okwangoku. Ungalenza igalelo naninina nakwezinye iindawo mva."
 
 #. # TAG: contribute_2015
 #. This text is used for accessibility reasons, it's not visible
 #: mozorg/contribute.lang:311
 msgid "Where would you like to get started?"
-msgstr ""
+msgstr "Ungathanda ukuqalisa phi?"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:316
@@ -402,9 +405,8 @@ msgstr "Ukufundisa"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:366
-#, fuzzy
 msgid "More about teaching"
-msgstr "Ngakumbi malunga nokuvavanya"
+msgstr "Ngakumbi malunga nokufundisa"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:371
@@ -412,17 +414,18 @@ msgid ""
 "Share your skills with a community that’s eager to learn. Take advantage of "
 "our free tools, teaching resources and events."
 msgstr ""
+"Yabelana ngezakhono zakho noluntu olunomdla wokufunda. Zimxhamlele "
+"kwizixhobo zethu ezimahala, koovimba bokufundisa nemicimbi."
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:376
 msgid "Helping"
-msgstr ""
+msgstr "Ukuncedisa"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:381
-#, fuzzy
 msgid "More about helping"
-msgstr "Ngakumbi malunga nokuvavanya"
+msgstr "Ngakumbi malunga nokuncedisa"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:386
@@ -430,17 +433,18 @@ msgid ""
 "Provide support to users who need it and help everyone get the most out of "
 "their Mozilla products."
 msgstr ""
+"Nika inkxaso kubasebenzisi abayifunayo uze uncede wonke ubani afumane konke "
+"kwimveliso zika-Mozilla."
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:391
 msgid "Translating"
-msgstr ""
+msgstr "Ukuguqulela ulwimi kolunye ulwimi"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:396
-#, fuzzy
 msgid "More about translating"
-msgstr "Ngakumbi malunga nokuvavanya"
+msgstr "Ngakumbi malunga nokuguqulelwa kolwimi kolunye ulwimi"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:401
@@ -448,11 +452,14 @@ msgid ""
 "Help make Mozilla stuff available in other languages. Translate everything "
 "from newsletters and websites to copy for Firefox and Firefox OS."
 msgstr ""
+"Unceda ukwenza izinto zika-Mozilla zibe nokufumaneka nakwezinye iilwimi. "
+"Uguqulela yonke into ukusesela kwiincwadi zeendaba newebhusayithi ukuya "
+"ekukopeni i-Firefox ne-Firefox OS."
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:406
 msgid "Activism"
-msgstr ""
+msgstr "i-Activism"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:411
@@ -515,60 +522,56 @@ msgstr "khetha"
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:461
 msgid "Why do you want to be a Mozilla volunteer?"
-msgstr ""
+msgstr "Kutheni ufuna ukuvoluntiyela i-Mozilla?"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:466
 msgid "(Optional)"
-msgstr ""
+msgstr "(Okukhethwayo)"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:471
-#, fuzzy
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%(privacy)s"
 "\">this Privacy Policy</a>"
 msgstr ""
-"Ndilungile kwiMozilla ukuba isingathe inkcazelo njengoko kuchaziwe <a href="
-"\"%s\">kule Mgaqo-nkqubo Wabucala</a>"
+"Ndilungile kwi-Mozilla ukuba isingathe inkcazelo njengoko kuchaziwe kwi-<a "
+"href=\"%(privacy)s\">kulo Mgaqo-nkqubo Wabucala</a>"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:476
 msgid "Start contributing"
-msgstr ""
+msgstr "Qalisa ukwenza igalelo"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:481
 msgid "Sign me up for community updates"
-msgstr ""
+msgstr "Ndisayine kuhlaziyo loluntu"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:486
-#, fuzzy
 msgid "(English)"
-msgstr "(ngesiNgesi)"
+msgstr "(isiNgesi)"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:491
 msgid "What particular area?"
-msgstr ""
+msgstr "Eyiphi kanye ingingqi?"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:496
-#, fuzzy
 msgid "What would you like to code?"
-msgstr "Yintoni ongafuna ukuyibhala?"
+msgstr "Yintoni ongafuna ukuyikhowuda?"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:501
-#, fuzzy
 msgid "What would you like to test?"
-msgstr "Yintoni ongafuna ukuyifundisa?"
+msgstr "Yintoni ongafuna ukuyivavanya?"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:506
 msgid "What would you like to translate?"
-msgstr "Ungafuna ukuguqulela ntoni?"
+msgstr "Yintoni ongafuna ukuyiguqulela?"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:511
@@ -583,12 +586,12 @@ msgstr "Yintoni ongafuna ukuyifundisa?"
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:521
 msgid "Firefox"
-msgstr "IFirefox"
+msgstr "I-Firefox"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:526
 msgid "Firefox OS"
-msgstr "IFirefox OS"
+msgstr "I-Firefox OS"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:531
@@ -623,47 +626,47 @@ msgstr "I-Firefox ne-Firefox OS"
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:561
 msgid "Web compatibility"
-msgstr ""
+msgstr "Ukuhambelana neWebhu"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:566
 msgid "Product localization"
-msgstr ""
+msgstr "Imveliso ze-localization"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:571
 msgid "Website localization"
-msgstr ""
+msgstr "IWebhusayithi ya-localization"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:576
 msgid "I’d like to work on localization tools"
-msgstr ""
+msgstr "Ndingathanda ukusebenzisa izixhobo ze-localization"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:581
 msgid "Social media"
-msgstr ""
+msgstr "Imidiya yokuntu"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:586
 msgid "Journalism"
-msgstr ""
+msgstr "Ijenali"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:591
 msgid "Technical docs for users"
-msgstr ""
+msgstr "Amaxwebhu obuchwepheshe babasebenzisi"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:596
 msgid "Technical docs for developers"
-msgstr ""
+msgstr "Amaxwebhu obuchwepheshe babavelisi"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:601
 msgid "Technical docs for Firefox add-ons"
-msgstr ""
+msgstr "Amaxwebhu obuchwepheshe ka-Firefox add-ons"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:606
@@ -693,17 +696,17 @@ msgstr "IWebhu evulelekileyo yophando lobugcisa"
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:631
 msgid "Community Events"
-msgstr "Iziganeko zoluntu"
+msgstr "Imicimbi yoluntu"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:636
 msgid "Find events"
-msgstr "Fumana iziganeko"
+msgstr "Fumana imicimbi"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:641
 msgid "By city, country, or event:"
-msgstr "Ngedolophu, ilizwe, okanye isiganeko:"
+msgstr "Ngedolophu, ilizwe, okanye imicimbi:"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:646
@@ -713,22 +716,22 @@ msgstr "Ngomhla:"
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:651
 msgid "month"
-msgstr ""
+msgstr "inyanga"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:656
 msgid "year"
-msgstr ""
+msgstr "unyaka"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:661
 msgid "Date"
-msgstr ""
+msgstr "umhla"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:666
 msgid "Event"
-msgstr ""
+msgstr "Umcimbi"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:671
@@ -738,7 +741,7 @@ msgstr "Isixeko"
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:676
 msgid "Events"
-msgstr ""
+msgstr "Imicimbi"
 
 #. # TAG: contribute_2015
 #. Used as title of the thank you page displayed after users send the form
@@ -749,25 +752,23 @@ msgstr "Enkosi!"
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:687
 msgid "Thanks!"
-msgstr ""
+msgstr "Enkosi!"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:692
-#, fuzzy
 msgid ""
 "We’re thrilled to see that you’re interested in coding and can’t wait to get "
 "you started."
 msgstr ""
-"Siyavuya ukubona ukuba unomdla ekubhaleni kwaye sikungxamele ukuqalisa."
+"Siyavuya ukubona ukuba unomdla ekukhowudeni kwaye sikungxamele ukuqalisa."
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:697
-#, fuzzy
 msgid ""
 "We’re thrilled to see that you’re interested in testing and can’t wait to "
 "get you started."
 msgstr ""
-"Siyavuya ukubona ukuba unomdla ekufundiseni kwaye sikungxamele ukuqalisa."
+"Siyavuya ukubona ukuba unomdla ekuvavanyeni kwaye sikungxamele ukuqalisa."
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:702
@@ -808,7 +809,7 @@ msgid ""
 "We’re thrilled to see that you’re interested in activism and can’t wait to "
 "get you started."
 msgstr ""
-"Siyavuya ukubona ukuva unomdla kwi-activism kwaye sikungxamela ukuqalisa."
+"Siyavuya ukubona ukuba unomdla kwi-activism kwaye sikungxamela ukuqalisa."
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:727
@@ -843,17 +844,18 @@ msgstr "Okwangoku&hellip;"
 msgid ""
 "You can create your Mozillians account now to connect with fellow Mozillians."
 msgstr ""
-"Ungazenzela i-akhawunti ye-Mozilla yakho unxibelelane nabanye be-Mozilla."
+"Ungazenzela i-akhawunti yoluntu luka-Mozilla yakho unxibelelane noluntu lwe-"
+"Mozilla."
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:757
 msgid "Yes, create my Mozillians account"
-msgstr "Ewe, ndenza i-akhawunti yam ye-Mozilla"
+msgstr "Ewe, yenza i-akhawunti yam ye-Mozilla"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:762
 msgid "You will be asked to sign in before proceeding"
-msgstr "Uyakucelwa ukuba usayinele ukungena phambi kokuba uqhubeleke"
+msgstr "Uyakucelwa ukuba usayinele ukungena phambi kokuba uqhubeke"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:767
@@ -865,7 +867,7 @@ msgstr "Hayi enkosi, ndakulindela nje i-imeyili"
 msgid ""
 "The success of our mission depends on participation from people like you."
 msgstr ""
-"Impumelelo yomsebenzi wethu ixhomekeke kuthatho-nxaxheba yabantu njengawe."
+"Impumelelo yomsebenzi wethu ixhomekeke kuthatho-nxaxheba yabantu abanjengawe."
 
 #. # TAG: contribute_faces
 #: mozorg/contribute.lang:777
@@ -873,19 +875,19 @@ msgid ""
 "Proudly non-profit, Mozilla makes products like Firefox with a mission to "
 "keep the power of the Web in the hands of users everywhere."
 msgstr ""
-"IMozilla ezingcayo nengenzi ngeniso yenza imveliso efana neFirefox ngenjongo "
-"yokugcina iwebhu isezandleni zabayisebenzisayo naphi na."
+"IMozilla ezingcayo nengenzi ngeniso yenza imveliso efana ne-Firefox "
+"ngenjongo yokugcina iwebhu isezandleni zabayisebenzisayo naphi na."
 
 #. # TAG: contribute_faces
 #. Used as caption of the video in the new design
 #: mozorg/contribute.lang:783
 msgid "We are Mozillians"
-msgstr "SingabeMozillia"
+msgstr "Siluluntu lwe-Mozilla"
 
 #. # TAG: contribute_faces
 #: mozorg/contribute.lang:788
 msgid "This video shows members of the worldwide Mozilla community."
-msgstr "Le vidiyo ibonisa amalungu ehlabathi akwaMozilla."
+msgstr "Le vidiyo ibonisa amalungu ehlabathi oluntu lakwa-Mozilla."
 
 #. # TAG: contribute_faces
 #. L10n: Used as a label for a button that plays a video.
@@ -921,7 +923,7 @@ msgstr "Urhwebo"
 
 #: mozorg/contribute.lang:824
 msgid "Localization and Translation"
-msgstr "Ilokhalizeyishini Nokuguqulela"
+msgstr "I-localization nenguququlelo yolwimi "
 
 #: mozorg/contribute.lang:828
 msgid "Web Development"
@@ -930,7 +932,7 @@ msgstr "Uphuhliso lweWebhu"
 #. # TAG: contribute_mayupdates
 #: mozorg/contribute.lang:833
 msgid "Firefox Marketplace"
-msgstr "IMarike yeFirefox"
+msgstr "IMarike ye-Firefox"
 
 #: mozorg/contribute.lang:837
 msgid "Add-ons"
@@ -954,11 +956,11 @@ msgstr "Okunye"
 
 #: mozorg/contribute.lang:857
 msgid "I have a suggestion for Firefox"
-msgstr "Ndinecebiso ngeFirefox"
+msgstr "Ndinecebiso nge-Firefox"
 
 #: mozorg/contribute.lang:861
 msgid "I need help with a Firefox issue"
-msgstr "Ndifuna uncedo kumbandela weFirefox"
+msgstr "Ndifuna uncedo kumbandela we-Firefox"
 
 #: mozorg/contribute.lang:865
 msgid "YOUR EMAIL HERE"
@@ -986,7 +988,7 @@ msgstr "Nceda ufake idilesi ye-imeyili esebenzayo."
 
 #: mozorg/contribute.lang:889
 msgid "You must agree to the privacy policy."
-msgstr "Ufanele uvumelane nomgaqo-nkqubo wabucala weemfihlo."
+msgstr "Ufanele uvumelane nomgaqo-nkqubo wabucala."
 
 #: mozorg/contribute.lang:893
 msgid "Please select an area of interest."
@@ -1016,9 +1018,9 @@ msgid ""
 "get involved. While you’re waiting, browse through some of the volunteer "
 "opportunities available below."
 msgstr ""
-"Umntu wakwaMozilla uza kubuyela kuwe kungekudala akunike inkcazelo ngendlela "
-"onokuzibandakanya ngayo. Ngelixa usalindile, khawuphendlaphendle ukhangele "
-"amanye amathuba okuba litsha-ntliziyo akhoyo apha ngezantsi."
+"Umntu wakwa-Mozilla uza kubuyela kuwe kungekudala akunike inkcazelo "
+"ngendlela onokuzibandakanya ngayo. Ngelixa usalindile, khawuphendlaphendle "
+"ukhangele amanye amathuba okuba litsha-ntliziyo akhoyo apha ngezantsi."
 
 #: mozorg/contribute.lang:917
 msgid ""
@@ -1055,10 +1057,10 @@ msgid ""
 "\"%(tb_support_url)s\">how to help Thunderbird users</a>."
 msgstr ""
 "Inkqubo yethu yenkxaso ixhomekeke kubanikeli abanentumekelelo njengawe "
-"ekuncedeni abanye bafumane okona kungcono kwiimveliso zeMozilla. Fumana "
+"ekuncedeni abanye bafumane okona kungcono kwiimveliso ze-Mozilla. Fumana "
 "okungakumbi <a href=\"%(fx_support_url)s\">ngendlela yokunceda abasebenzisi "
-"beFirefox</a> kunye <a href=\"%(tb_support_url)s\">nendlela yokunceda "
-"abasebenzisi beThunderbird</a>."
+"be-Firefox</a> kunye <a href=\"%(tb_support_url)s\">nendlela yokunceda "
+"abasebenzisi be-Thunderbird</a>."
 
 #: mozorg/contribute.lang:939
 msgid "Quality Assurance"
