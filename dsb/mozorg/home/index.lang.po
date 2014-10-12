@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-09 17:33+0000\n"
-"PO-Revision-Date: 2014-10-12 11:07+0000\n"
+"PO-Revision-Date: 2014-10-12 20:46+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: dsb\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1413112048.000000\n"
+"X-POOTLE-MTIME: 1413146764.000000\n"
 
 #. # NOTE: demo server at https://www-demo5.allizom.org/
 #: mozorg/home/index.lang:3
@@ -121,7 +121,7 @@ msgstr "Wótegroniś"
 #. Used in Twitter feed
 #: mozorg/home/index.lang:102
 msgid "Retweet"
-msgstr ""
+msgstr "Tweet znowego pósłaś"
 
 #. <strong> tags below are for visual formatting only.
 #: mozorg/home/index.lang:107
@@ -129,40 +129,39 @@ msgid ""
 "Committed to <strong>you, your privacy</strong> and an <strong>open Web</"
 "strong>"
 msgstr ""
+"<strong>Wam, wašej priwatnosći</strong> a <strong>wótwórjonemu weboju</"
+"strong> zawězany "
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/home/index.lang:112
-#, fuzzy
 msgid "active Mozillians <br>worldwide"
-msgstr "aktiwnych Mozillanarjow swětodaloko"
+msgstr "aktiwnych Mozillanarjow <br>swětodaloko"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/home/index.lang:117
-#, fuzzy
 msgid "upcoming events <br>around the globe"
-msgstr "pśed nami stojecych tšojenjow wokoło zesmkeje kule"
+msgstr "pśed nami stojecych tšojenjow <br>wokoło zesmkeje kule"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/home/index.lang:122
-#, fuzzy
 msgid "languages and counting, <br>on every continent"
-msgstr "rěcow na kuždem kontinenśe, z pśiběrajuceju tendencu"
+msgstr "rěcow na kuždem kontinenśe, <br>z pśiběrajuceju tendencu"
 
 #: mozorg/home/index.lang:126
 msgid "Get Involved with Mozilla today"
-msgstr ""
+msgstr "Cyńśo źinsa pla Mozilla sobu"
 
 #: mozorg/home/index.lang:130
 msgid "Upcoming events"
-msgstr ""
+msgstr "Pśed nami stojece tšojenja"
 
 #: mozorg/home/index.lang:134
 msgid "Next event"
-msgstr ""
+msgstr "Pśiduce tšojenje"
 
 #: mozorg/home/index.lang:138
 msgid "See all events"
-msgstr ""
+msgstr "Wšykne tšojenja pokazaś"
 
 #: mozorg/home/index.lang:142
 msgid ""
@@ -193,10 +192,12 @@ msgid ""
 "Get answers to your questions about Firefox and all Mozilla products from "
 "our support team."
 msgstr ""
+"Dostańśo wótegrona na swóje pšašanja wó Firefox a wšych produktach Mozilla "
+"wót našogo teama pomocy."
 
 #: mozorg/home/index.lang:162
 msgid "Discover more"
-msgstr ""
+msgstr "Wuslěźćo wěcej"
 
 #~ msgid "Get Firefox OS"
 #~ msgstr "Wobstarajśo se Firefox OS"
