@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-09 17:33+0000\n"
-"PO-Revision-Date: 2014-10-13 18:27+0000\n"
+"PO-Revision-Date: 2014-10-14 13:00+0000\n"
 "Last-Translator: umesh <umesh.agarwal1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1413224844.000000\n"
+"X-POOTLE-MTIME: 1413291641.000000\n"
 
 #. # contribute_2015 ##
 #. # contribute_faces ##
@@ -25,7 +25,7 @@ msgstr ""
 #. Used for HTML title attribute
 #: mozorg/contribute.lang:11
 msgid "Volunteer Opportunities at Mozilla"
-msgstr "मोज़िला में स्वयंसेवी अवसर "
+msgstr "मोज़िला में स्वयंसेवी अवसर"
 
 #. # TAG: contribute_2015
 #. this string is used for accessibility reasons, it's not visible in the page
@@ -37,7 +37,7 @@ msgstr "मेन्यू"
 #. this br is for formatting, omit or reposition as needed
 #: mozorg/contribute.lang:23
 msgid "Why<br> volunteer"
-msgstr "स्वयंसेवक <br> क्यों "
+msgstr "स्वयंसेवक <br> क्यों"
 
 #. # TAG: contribute_2015
 #. this br is for formatting, omit or reposition as needed
@@ -49,7 +49,7 @@ msgstr "ईवेंट<br> का पता लगाएं"
 #. this br is for formatting, omit or reposition as needed
 #: mozorg/contribute.lang:35
 msgid "Meet<br> Mozillians"
-msgstr "मोज़िल्लिंस <br>से मिलो "
+msgstr "मोज़िल्लिंस <br>से मिलो"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:40
@@ -65,12 +65,12 @@ msgstr "आपका देश"
 #. This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
 #: mozorg/contribute.lang:51
 msgid "I live in&hellip;"
-msgstr "में रहता हु&hellip "
+msgstr "में रहता हु&hellip;"
 
 #. # TAG: contribute_2015
 #: mozorg/contribute.lang:56
 msgid "Volunteer with Mozilla!"
-msgstr "मोज़िला के साथ स्वयंसेवक! "
+msgstr "मोज़िला के साथ स्वयंसेवक!"
 
 #. # TAG: contribute_2015
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
@@ -117,7 +117,6 @@ msgstr "मोज़िला के साथ स्वयं सेवा&hell
 #. # TAG: contribute_2015
 #. This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 #: mozorg/contribute.lang:102
-#, fuzzy
 msgid ""
 "is about more than lending a hand. It’s about learning, collaborating and "
 "sharing your skills with a global community of Mozillians — coders, "
@@ -1055,6 +1054,10 @@ msgid ""
 "\"%(fx_support_url)s\">how to help Firefox users</a> and <a href="
 "\"%(tb_support_url)s\">how to help Thunderbird users</a>."
 msgstr ""
+"हमारे समर्थन प्रक्रिया आप जैसे उत्साही योगदानकर्ताओं पर निर्भर करता है जो दूसरों मोज़िला "
+"उत्पादों का बेहतरीन बहार लाने में मदद करता हैं. और अधिक जानकारी प्राप्त करें <a href="
+"\"%(fx_support_url)s\">Firefox उपयोगकर्ताओं की मदद कैसे करने </a> और <a href="
+"\"%(tb_support_url)s\">Thunderbird उपयोगकर्ताओं की मदद कैसे करने </a>."
 
 #: mozorg/contribute.lang:939
 msgid "Quality Assurance"
@@ -1078,6 +1081,11 @@ msgid ""
 "\">join us for a Test Day</a>, or <a href=\"%(qateams_url)s\">learn more "
 "about other testing opportunities</a>."
 msgstr ""
+"<a href=\"%(oneanddone_url)s\">एक और किया हुआ से एक कार्य उठाओ </a> आरंभ करने के "
+"लिए, इस पर काम करे <a href=\"%(desktopfx_url)s\">डेस्कटॉप Firefox</a>, <a href="
+"\"%(websites_url)s\">Mozilla वेब साइट का परीक्षण करें</a>, <a href="
+"\"%(testday_url)s\">एक टेस्ट दिवस के लिए हमारे साथ शामिल हों</a>, or <a href="
+"\"%(qateams_url)s\">अन्य परीक्षण अवसरों के बारे में अधिक जानने</a>."
 
 #. Coding
 #: mozorg/contribute.lang:954
