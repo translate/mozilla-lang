@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-09 17:33+0000\n"
+"POT-Creation-Date: 2014-10-15 13:09+0000\n"
 "PO-Revision-Date: 2014-10-12 20:48+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1413146890.000000\n"
 
 #. # NOTE: demo server at https://www-demo5.allizom.org/
@@ -75,56 +75,69 @@ msgid "Volunteer <br>with Mozilla"
 msgstr "Budźće dobrowólnik <br>pola Mozilla"
 
 #: mozorg/home/index.lang:60
+msgid "Try the best Firefox yet"
+msgstr "Wuprobujće dotal najlěpši Firefox"
+
+#: mozorg/home/index.lang:64
+#, fuzzy
+msgid "Made with a mission to put you first."
+msgstr "Z misiju sčinjeny, kotraž was na prěnje městno staja"
+
+#: mozorg/home/index.lang:68
+msgid "Learn more about Firefox"
+msgstr "Zhońće wjace wo Firefox"
+
+#: mozorg/home/index.lang:72
 msgid "Put your Firefox on your Android"
 msgstr "Přinjesće swój Firefox na swój Android"
 
-#: mozorg/home/index.lang:64
+#: mozorg/home/index.lang:76
 msgid "The features <br>you love. <br>The privacy <br>you trust."
 msgstr "Funkcije, <br>kotrež lubujeće. <br>Priwatnosć, <br>kotrejž dowěrjeće."
 
-#: mozorg/home/index.lang:68
+#: mozorg/home/index.lang:80
 msgid "Learn about <br>Firefox for Android"
 msgstr "Zhońće wjace wo <br>Firefox za Android"
 
-#: mozorg/home/index.lang:72
+#: mozorg/home/index.lang:84
 msgid "Official Mozilla gear is here"
 msgstr "Oficielny grat Mozilla je tu"
 
-#: mozorg/home/index.lang:76
+#: mozorg/home/index.lang:88
 msgid ""
 "Merch with a mission. <br>Products with a purpose. <br>Goods that do good."
 msgstr ""
 "Twora z misiju. <br>Produkty ze zaměrom. <br>Twory, kotrež dobre činja."
 
-#: mozorg/home/index.lang:80
+#: mozorg/home/index.lang:92
 msgid "Get your Mozilla gear"
 msgstr "Wobstarajće sej grat Mozilla"
 
-#: mozorg/home/index.lang:84
+#: mozorg/home/index.lang:96
 msgid "Help Mozilla users"
 msgstr "Pomhajće wužiwarjam Mozilla"
 
-#: mozorg/home/index.lang:88
+#: mozorg/home/index.lang:100
 msgid "Help millions <br>get the most from their <br>favorite browser."
 msgstr ""
 "Pomhajće milionam, <br>najlěpše z jich <br>najlubšeho wobhladowaka wućahnyć."
 
-#: mozorg/home/index.lang:92
+#: mozorg/home/index.lang:104
 msgid "Join our support team"
 msgstr "Přidružće so našemu podpěranskemu teamej"
 
 #. Used in Twitter feed
-#: mozorg/home/index.lang:97
+#: mozorg/home/index.lang:109
 msgid "Reply"
 msgstr "Wotmołwić"
 
 #. Used in Twitter feed
-#: mozorg/home/index.lang:102
+#: mozorg/home/index.lang:114
 msgid "Retweet"
 msgstr "Tweet znowa pósłać"
 
 #. <strong> tags below are for visual formatting only.
-#: mozorg/home/index.lang:107
+#: mozorg/home/index.lang:119
 msgid ""
 "Committed to <strong>you, your privacy</strong> and an <strong>open Web</"
 "strong>"
@@ -133,37 +146,37 @@ msgstr ""
 "strong> zawjazany "
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
-#: mozorg/home/index.lang:112
+#: mozorg/home/index.lang:124
 msgid "active Mozillians <br>worldwide"
 msgstr "aktiwnych Mozillačanow <br>swětodaloko"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
-#: mozorg/home/index.lang:117
+#: mozorg/home/index.lang:129
 msgid "upcoming events <br>around the globe"
 msgstr "předstejacych podawkow <br>wokoło zemjekule"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
-#: mozorg/home/index.lang:122
+#: mozorg/home/index.lang:134
 msgid "languages and counting, <br>on every continent"
 msgstr "rěčow na kóždym kontinenće, <br>z přiběracej tendencu"
 
-#: mozorg/home/index.lang:126
+#: mozorg/home/index.lang:138
 msgid "Get Involved with Mozilla today"
 msgstr "Čińce dźensa pola Mozilla sobu"
 
-#: mozorg/home/index.lang:130
+#: mozorg/home/index.lang:142
 msgid "Upcoming events"
 msgstr "Předstejace podawki"
 
-#: mozorg/home/index.lang:134
+#: mozorg/home/index.lang:146
 msgid "Next event"
 msgstr "Přichodny podawk"
 
-#: mozorg/home/index.lang:138
+#: mozorg/home/index.lang:150
 msgid "See all events"
 msgstr "Wšě podawki pokazać"
 
-#: mozorg/home/index.lang:142
+#: mozorg/home/index.lang:154
 msgid ""
 "Compare prices, check the weather, listen to music, send a tweet and more "
 "right from Firefox."
@@ -171,11 +184,11 @@ msgstr ""
 "Přirunajće płaćizny, informujće so wo wjedrje, poskajće na hudźbu, pósćelće "
 "tweet a čińće wjace direktnje z Firefox."
 
-#: mozorg/home/index.lang:146
+#: mozorg/home/index.lang:158
 msgid "Careers"
 msgstr "Powołanja"
 
-#: mozorg/home/index.lang:150
+#: mozorg/home/index.lang:162
 msgid ""
 "Learn about the benefits of working at Mozilla and view open positions "
 "around the world."
@@ -183,11 +196,11 @@ msgstr ""
 "Zhońće wjace wo lěpšinach dźěła pola Mozilla a pytajće za wotewrjenymi "
 "dźěłowymi městnami w cyłym swěće "
 
-#: mozorg/home/index.lang:154
+#: mozorg/home/index.lang:166
 msgid "Need help?"
 msgstr "Trjebaće pomoc?"
 
-#: mozorg/home/index.lang:158
+#: mozorg/home/index.lang:170
 msgid ""
 "Get answers to your questions about Firefox and all Mozilla products from "
 "our support team."
@@ -195,7 +208,7 @@ msgstr ""
 "Dóstańće wotmołwy na swoje prašenja wo Firefox a wšěch produktach Mozilla "
 "wot našeho teama pomocy."
 
-#: mozorg/home/index.lang:162
+#: mozorg/home/index.lang:174
 msgid "Discover more"
 msgstr "Wotkryjće wjace"
 
@@ -565,9 +578,6 @@ msgstr "Wotkryjće wjace"
 
 #~ msgid "Committed to you, your privacy and an open Web."
 #~ msgstr "Wam, wašej priwatnosći a wotewrjenemu webej zawjazany."
-
-#~ msgid "Made with a mission to put you first"
-#~ msgstr "Z misiju sčinjeny, kotraž was na prěnje městno staja"
 
 #~ msgid ""
 #~ "We’ve always designed Firefox to protect and respect your private "
