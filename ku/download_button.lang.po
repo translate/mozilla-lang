@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-05 11:56+0100\n"
+"POT-Creation-Date: 2014-10-20 09:08+0000\n"
 "PO-Revision-Date: 2013-11-04 14:18+0000\n"
 "Last-Translator: Amed Çeko <amedcj@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!= 1);\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1383574704.000000\n"
 
 #. Strings used in our download buttons
@@ -56,18 +56,23 @@ msgstr "Firefox Aurora"
 msgid "Free Download"
 msgstr "Belaş Jêbar bike"
 
-#: download_button.lang:39
+#. Displayed in the download button for users of old versions of Firefox (should be short)
+#: download_button.lang:40
+msgid "Update your Firefox"
+msgstr ""
+
+#: download_button.lang:44
 msgid "Supported Devices"
 msgstr "Cîhazên Piştgirîkirî"
 
-#: download_button.lang:43
+#: download_button.lang:48
 msgid "What’s New"
 msgstr "Tiştên Nû"
 
-#: download_button.lang:47
+#: download_button.lang:52
 msgid "Privacy"
 msgstr "Nepenî"
 
-#: download_button.lang:51
+#: download_button.lang:56
 msgid "Systems &amp; Languages"
 msgstr "Pergal û Zimanên din"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-25 22:12+0100\n"
+"POT-Creation-Date: 2014-10-20 09:08+0000\n"
 "PO-Revision-Date: 2014-04-25 02:27+0000\n"
 "Last-Translator: Emin <mastizada@itu.edu.tr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1398392827.000000\n"
 
 #. Strings used in our download buttons
@@ -56,18 +56,23 @@ msgstr "Firefox Aurora"
 msgid "Free Download"
 msgstr "Pulsuz Endir"
 
-#: download_button.lang:39
+#. Displayed in the download button for users of old versions of Firefox (should be short)
+#: download_button.lang:40
+msgid "Update your Firefox"
+msgstr ""
+
+#: download_button.lang:44
 msgid "Supported Devices"
 msgstr "Dəstəklənən Cihazlar"
 
-#: download_button.lang:43
+#: download_button.lang:48
 msgid "What’s New"
 msgstr "Yeniliklər"
 
-#: download_button.lang:47
+#: download_button.lang:52
 msgid "Privacy"
 msgstr "Gizlilik"
 
-#: download_button.lang:51
+#: download_button.lang:56
 msgid "Systems &amp; Languages"
 msgstr "Sistemlər &amp; Dillər"
