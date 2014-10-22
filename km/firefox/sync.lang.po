@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-22 13:24+0000\n"
-"PO-Revision-Date: 2014-10-17 03:14+0000\n"
+"PO-Revision-Date: 2014-10-22 07:40+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: none\n"
 "Language: km\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1413515655.000000\n"
+"X-POOTLE-MTIME: 1413963607.000000\n"
 
 #. # firefox_sync_redesign ##
 #. # sync_new_markup ##
@@ -100,13 +100,12 @@ msgstr "ដើម្បី​ចាប់ផ្ដើម​ជាមួយ​ក
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 #: firefox/sync.lang:79
-#, fuzzy
 msgid ""
 "Open the <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">menu</"
 "a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
-"បើក <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">ម៉ឺនុយ</a> នៅ​ខាងស្ដាំ​"
-"ផ្នែក​ខាងលើ​នៃ Firefox ហើយ​ជ្រើស “<strong>ចូល​ដើម្បី​ធ្វើ​​សមកាលកម្ម។</strong>”"
+"បើក <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">ម៉ឺនុយ</a> នៅ​"
+"ខាង​ស្ដាំ​ផ្នែក​ខាងលើ​នៃ Firefox ហើយ​ជ្រើស “<strong>ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម។</strong>”"
 
 #. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
@@ -135,6 +134,8 @@ msgid ""
 "After you check your email and click the verification link, you’ll be all "
 "set! Firefox will automatically sync in the background from then on."
 msgstr ""
+"បន្ទាប់​ពី​អ្នក​ពិនិត្យមើល​អ៊ីមែល​របស់​អ្នក ហើយ​ចុច​ផ្ទៀងផ្ទាត់​តំណ, អ្នក​នឹង​ត្រូវ​បាន​កំណត់​ទាំងអស់! Firefox នឹង​"
+"ធ្វើ​សមកាលកម្ម​ដោយ​ស្វ័យប្រវត្តិ​ក្នុង​ផ្ទៃ​ខាងក្រោយ​ពី​ខាងលើ។"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:107
@@ -189,7 +190,7 @@ msgstr "<strong>បង្កើត​ទំព័រ​គណនី Firefox </st
 #. This string is displayed on Android devices
 #: firefox/sync.lang:149
 msgid "Fill out the form and click <strong>Next</strong>."
-msgstr ""
+msgstr "បំពេញ​ទម្រង់ ហើយ​ចុច <strong>បន្ទាប់</strong>។"
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
