@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-20 09:08+0000\n"
-"PO-Revision-Date: 2014-10-27 09:01+0000\n"
+"PO-Revision-Date: 2014-10-27 09:47+0000\n"
 "Last-Translator: Arun Kumar <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1414400509.000000\n"
+"X-POOTLE-MTIME: 1414403238.000000\n"
 
 #. # NOTE: demo page at https://www-demo1.allizom.org/firefox/android/
 #. Used in HTML as page title
@@ -75,7 +75,7 @@ msgstr ""
 
 #: firefox/android/index.lang:51
 msgid "Smarter sharing for all"
-msgstr ""
+msgstr "அனைவருக்குமான அறிவார்ந்த பகிர்வு"
 
 #: firefox/android/index.lang:55
 msgid ""
@@ -184,6 +184,8 @@ msgid ""
 "When activated, Firefox for Android won’t accept cookies, remember passwords "
 "or record any sites that you’ve visited."
 msgstr ""
+"இதைச் செயல்படுத்தும்போது ஆண்ட்ராய்டு பயர்பாக்ஸ் நினைவிகளை ஏற்காது, கடவுச்சொற்களை நினைவில் "
+"கொள்ளாது அல்லது நீங்கள் பாரத்த தளங்களை மறந்துவிடும்."
 
 #: firefox/android/index.lang:143
 msgid "See how Private Browsing works"
@@ -191,47 +193,55 @@ msgstr "தனிப்பட்ட உலாவல் எப்படி வே
 
 #: firefox/android/index.lang:147
 msgid "Clear history"
-msgstr ""
+msgstr "வரலாற்றைத் துடை"
 
 #: firefox/android/index.lang:151
 msgid "Delete your browsing history, passwords and more in a single tap."
 msgstr ""
+"உங்கள் உலாவல் வரலாற்றையும், கடவுச்சொற்களையும் பிறவற்றையும் ஒரே தொடுதலில் அழிக்கவும்."
 
 #: firefox/android/index.lang:155
 msgid "Choose the private data you want to remove whenever you need to do so."
-msgstr ""
+msgstr "உங்கள் தனிப்பட்ட தரவை எப்பொழுது வேண்டுமானலும் தேர்ந்தெடுத்து நீக்க இயலும்."
 
 #: firefox/android/index.lang:159
 msgid "Learn how to clear your history"
-msgstr ""
+msgstr "எப்படி உங்கள் வரலாற்றைத் துடைப்பது என அறியவும்"
 
 #: firefox/android/index.lang:163
 msgid "Guest browsing"
-msgstr ""
+msgstr "விருந்தினர் உலாவல்"
 
 #: firefox/android/index.lang:167
 msgid ""
 "Share your browser with friends and family without worrying that you’ll see "
 "each other’s online activity."
 msgstr ""
+"உங்கள் இணையச் செயல்களை மற்றவர்கள் பார்த்துவிடுவார்கள் எனக் கவளைப்படாமல் உலாவியை "
+"நண்பர்களுடனும் குடும்பத்தினருடனும் பகிரவும்."
 
 #: firefox/android/index.lang:171
 msgid "See how Guest Browsing works"
-msgstr ""
+msgstr "விருந்தினர் உலாவல் எப்படி வேலைச் செய்கிறது எனப் பார்க்கவும்"
 
 #: firefox/android/index.lang:175
 msgid "Don’t leave home without being in Sync"
-msgstr ""
+msgstr "ஒத்திசைவுச் செய்யாமல் வீட்டை விட்டு வெளியேச் செல்ல வேண்டாம்"
 
 #: firefox/android/index.lang:179
 msgid "Bring your passwords, bookmarks, open tabs and more everywhere you go."
 msgstr ""
+"நீங்கள் செல்லும் இடமெல்லாம் உங்கள் புத்தகக் கடவுச்சொற்களையும் குறிகளையும் திறந்த கீற்றுகளையும் "
+"எடுத்துச் செல்லலாம்."
 
 #: firefox/android/index.lang:183
 msgid ""
 "Use Sync on your smartphone or tablet to access whatever you need from your "
 "desktop &mdash; and vice versa &mdash; without having to remember URLs."
 msgstr ""
+"URLகளை பற்றிக் கவளை படாமல் ஒத்திசைவைப் பயன்படுத்தி உங்கள் மேசைக் கணினியிலிருந்து "
+"தேவையானவற்றை &mdash; கைக்கணினியில் அணுகவும் &mdash; இதற்கு நேர்மாறாக அணுகவும் "
+"முடியும்."
 
 #: firefox/android/index.lang:187
 msgid "Learn more about Sync"
@@ -239,16 +249,15 @@ msgstr "ஒத்திசைவு பற்றி மேலும் தெர
 
 #: firefox/android/index.lang:191
 msgid "Choose Firefox"
-msgstr ""
+msgstr "பயர்பாக்ஸை தேர்ந்தெடு"
 
 #: firefox/android/index.lang:195
 msgid "Supported devices"
 msgstr "ஆதரிக்கபப்டும் சாதனங்கள்"
 
 #: firefox/android/index.lang:199
-#, fuzzy
 msgid "Release notes"
-msgstr "வெளியீட்டு அறிக்கை"
+msgstr "வெளியீட்டு குறிப்புகள்"
 
 #~ msgid "Get Firefox OS"
 #~ msgstr "Firefox OSஐ பெறவும்"
