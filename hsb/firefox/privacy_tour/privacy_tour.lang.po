@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-20 09:08+0000\n"
+"POT-Creation-Date: 2014-10-29 09:15+0000\n"
 "PO-Revision-Date: 2014-10-24 17:55+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1414173335.000000\n"
 
 #. # NOTE: we don't have a demo server yet
@@ -95,80 +95,72 @@ msgid "Play the video"
 msgstr "Widejo wothrać"
 
 #: firefox/privacy_tour/privacy_tour.lang:77
-msgid "Replay the video"
-msgstr "Widejo znowa wothrać"
-
-#: firefox/privacy_tour/privacy_tour.lang:81
 msgid "Share"
 msgstr "Dźělić"
 
-#: firefox/privacy_tour/privacy_tour.lang:85
-msgid "Share the video"
-msgstr "Widejo dźělić"
-
-#: firefox/privacy_tour/privacy_tour.lang:89
+#: firefox/privacy_tour/privacy_tour.lang:81
 msgid "Start browsing"
 msgstr "Přehladowanje započeć"
 
-#: firefox/privacy_tour/privacy_tour.lang:93
+#: firefox/privacy_tour/privacy_tour.lang:85
 msgid "Previous"
 msgstr "Předchadny"
 
-#: firefox/privacy_tour/privacy_tour.lang:97
+#: firefox/privacy_tour/privacy_tour.lang:89
 msgid "Next"
 msgstr "Přichodny"
 
-#: firefox/privacy_tour/privacy_tour.lang:101
+#: firefox/privacy_tour/privacy_tour.lang:93
 msgid "Close"
 msgstr "Začinić"
 
 #. STEP 1 of the tour (Forget button)
 #. %s is a searchplugin name
-#: firefox/privacy_tour/privacy_tour.lang:107
+#: firefox/privacy_tour/privacy_tour.lang:99
 msgid "<span>Next:</span> %s"
 msgstr "<span>Přichodny:</span> %s"
 
 #. <br> tag below used for formatting only.
 #. Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
-#: firefox/privacy_tour/privacy_tour.lang:114
+#: firefox/privacy_tour/privacy_tour.lang:106
 msgid "Use Forget to cover your tracks or escape from sites you don’t trust"
 msgstr ""
 "Wužijće Zabudź, zo byšće swoje slědy zamazował abo sydłam wućeknył, kotrymž "
 "njedowěrjeće"
 
-#: firefox/privacy_tour/privacy_tour.lang:118
+#: firefox/privacy_tour/privacy_tour.lang:110
 msgid "Remove browsing history from your computer"
 msgstr "Přehladowansku historiju z wašeho ličaka wotstronić"
 
-#: firefox/privacy_tour/privacy_tour.lang:122
+#: firefox/privacy_tour/privacy_tour.lang:114
 msgid "Erase website information after the fact"
 msgstr "Informacije websydła po tym zhašeć"
 
-#: firefox/privacy_tour/privacy_tour.lang:126
+#: firefox/privacy_tour/privacy_tour.lang:118
 msgid "Add it above for quick, easy access"
 msgstr "Přidajće to horjeka, za spěšny, lochki přistup"
 
-#: firefox/privacy_tour/privacy_tour.lang:130
+#: firefox/privacy_tour/privacy_tour.lang:122
 msgid "The new Forget button"
 msgstr "Nowe tłóčatko Zabudź"
 
-#: firefox/privacy_tour/privacy_tour.lang:134
+#: firefox/privacy_tour/privacy_tour.lang:126
 msgid ""
 "Want to cover your tracks? Activate the Forget button and leave no trace."
 msgstr ""
 "Chceće swoje slědy zamazać? Aktiwizujće tłóčatko Zabudź a njezawostajejće "
 "žane slědy."
 
-#: firefox/privacy_tour/privacy_tour.lang:138
+#: firefox/privacy_tour/privacy_tour.lang:130
 msgid "Add it now"
 msgstr "Nětko přidać"
 
-#: firefox/privacy_tour/privacy_tour.lang:142
+#: firefox/privacy_tour/privacy_tour.lang:134
 msgid "Later"
 msgstr "Pozdźišo"
 
-#: firefox/privacy_tour/privacy_tour.lang:146
+#: firefox/privacy_tour/privacy_tour.lang:138
 msgid ""
 "Now it’s here whenever you need it. To move or remove it, just open the menu "
 "and select Customize."
@@ -176,7 +168,7 @@ msgstr ""
 "Nětko to je tu, hdyžkuli to trjebaće. Zo byšće to přesunył abo wotstronił, "
 "wočińće prosće meni a wubjerće Přiměrić."
 
-#: firefox/privacy_tour/privacy_tour.lang:150
+#: firefox/privacy_tour/privacy_tour.lang:142
 msgid ""
 "Want to add it later? Open this menu and select Customize. Then drag it (or "
 "any other button) where you want."
@@ -185,50 +177,56 @@ msgstr ""
 "jo (abo druhe tłóčatko) tam, hdźež chceće, zo ma być."
 
 #. STEP 2 of the tour (search engines)
-#: firefox/privacy_tour/privacy_tour.lang:155
+#: firefox/privacy_tour/privacy_tour.lang:147
 msgid "<span>Previous:</span> Forget"
 msgstr "<span>Předchadny:</span> Zabyć"
 
-#: firefox/privacy_tour/privacy_tour.lang:159
+#: firefox/privacy_tour/privacy_tour.lang:151
 msgid "<span>Next:</span> Private Browsing"
 msgstr "<span>Přichodny:</span> Priwatny modus"
 
 #. %s is a searchplugin name. <br> tag below used for formatting only.
-#: firefox/privacy_tour/privacy_tour.lang:164
+#: firefox/privacy_tour/privacy_tour.lang:156
 msgid "%s lets you <br>search anonymously"
 msgstr "%s wam zmóžnja, <br>anonymnje pytać"
 
-#: firefox/privacy_tour/privacy_tour.lang:168
+#: firefox/privacy_tour/privacy_tour.lang:160
 msgid "Get great results with less tracking"
 msgstr "Dóstańće wulkotne wuslědki z mjenje slědowanjom"
 
-#: firefox/privacy_tour/privacy_tour.lang:172
+#: firefox/privacy_tour/privacy_tour.lang:164
 msgid "Make it (or any other) your default"
 msgstr "Jo (abo druhe) k standardej činić"
 
-#: firefox/privacy_tour/privacy_tour.lang:176
+#: firefox/privacy_tour/privacy_tour.lang:168
 msgid "Find what you’re looking for, your way"
 msgstr "Namakajće na swoje wašnje, za čimž pytaće"
 
 #. %s is a searchplugin name
-#: firefox/privacy_tour/privacy_tour.lang:181
+#: firefox/privacy_tour/privacy_tour.lang:173
 msgid "<span>Previous:</span> %s"
 msgstr "<span>Předchadny:</span> %s"
 
 #. STEP 3 of the tour (Private Browsing)
 #. <br> tag below used for formatting only.
-#: firefox/privacy_tour/privacy_tour.lang:187
+#: firefox/privacy_tour/privacy_tour.lang:179
 msgid "Private Browsing: <br>Our original privacy tool"
 msgstr "Priwatny modus: <br>Naš originalny nastroj priwatnosće"
 
-#: firefox/privacy_tour/privacy_tour.lang:191
+#: firefox/privacy_tour/privacy_tour.lang:183
 msgid "Keep history and other info off your computer"
 msgstr "Wotdźeržće historiju a druhe informacije wot wašeho ličaka"
 
-#: firefox/privacy_tour/privacy_tour.lang:195
+#: firefox/privacy_tour/privacy_tour.lang:187
 msgid "Browse without recording where you’ve been"
 msgstr "Přehladujće, bjeztoho zo so składuje, hdźež sće był"
 
-#: firefox/privacy_tour/privacy_tour.lang:199
+#: firefox/privacy_tour/privacy_tour.lang:191
 msgid "So others using your computer can’t see it"
 msgstr "zo njebychu druzy to widźeli, kotřiž waš ličak wužiwaja"
+
+#~ msgid "Replay the video"
+#~ msgstr "Widejo znowa wothrać"
+
+#~ msgid "Share the video"
+#~ msgstr "Widejo dźělić"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-20 09:08+0000\n"
+"POT-Creation-Date: 2014-10-29 09:15+0000\n"
 "PO-Revision-Date: 2014-10-20 11:34+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1413804885.000000\n"
 
 #: main.lang:1
@@ -204,71 +204,84 @@ msgstr "Dalšne informacije"
 msgid "Learn more"
 msgstr "Dalšne informacije"
 
-#: main.lang:184
+#. Link used to play again an animation or a video
+#: main.lang:185
+msgid "Replay"
+msgstr "Wóspjetowaś"
+
+#: main.lang:189
 msgid "Watch the video"
 msgstr "Wideo se woglědaś"
 
-#: main.lang:188
+#: main.lang:193
+msgid "Replay the video"
+msgstr "Wideo znowego wótgraś"
+
+#: main.lang:197
+msgid "Share the video"
+msgstr "Wideo źěliś"
+
+#: main.lang:201
 msgid "WebM format"
 msgstr "Format WebM"
 
-#: main.lang:192
+#: main.lang:205
 msgid "Ogg Theora format"
 msgstr "Format Ogg Theora"
 
-#: main.lang:196
+#: main.lang:209
 msgid "MPEG-4 format"
 msgstr "Format MPEG-4"
 
-#: main.lang:200
+#: main.lang:213
 msgid "Mobile"
 msgstr "Mobilny"
 
-#: main.lang:204
+#: main.lang:217
 msgid "Check out the new look and feel of Firefox."
 msgstr "Wopytajśo nowe wuglědanje a zacuśe Firefox."
 
-#: main.lang:208
+#: main.lang:221
 msgid "View Full Site"
 msgstr "Dopołne sedło se woglědaś"
 
-#: main.lang:212
+#: main.lang:225
 msgid "Get Firefox for Android"
 msgstr "Wobstarajśo se Firefox za Android"
 
-#: main.lang:216
+#: main.lang:229
 msgid "Download for <span>Android</span>"
 msgstr "Ześěgnjenje za <span>Android</span>"
 
-#: main.lang:220
+#: main.lang:233
 msgid "Desktop"
 msgstr "Desktop"
 
-#: main.lang:224
+#: main.lang:237
 msgid "Firefox Beta for mobile"
 msgstr "Firefox Beta mobilny"
 
-#: main.lang:228
+#: main.lang:241
 msgid "Firefox for mobile"
 msgstr "Firefox mobilny"
 
-#: main.lang:232
+#: main.lang:245
 msgid "Email"
 msgstr "E-mail"
 
-#: main.lang:236
+#: main.lang:249
 msgid "Super speed"
 msgstr "Supermalsnosć"
 
-#: main.lang:240
+#: main.lang:253
 msgid "Stunning graphics"
 msgstr "Wjelicna grafika"
 
-#: main.lang:244
+#: main.lang:257
 msgid "The latest technologies"
 msgstr "Nejnowše technologije"
 
-#: main.lang:248
+#: main.lang:261
 msgid ""
 "You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
 "new Firefox for the best in browsing and customization on the Web. <br/>   "
@@ -278,30 +291,30 @@ msgstr ""
 "Wužyjśo nowy Firefox za nejlěpše pśeglědowanje a pśiměrjenje we webje. <br/> "
 "Jo malsny a dermotny!"
 
-#: main.lang:252
+#: main.lang:265
 msgid "Upgrade now"
 msgstr "Něnto aktualizěrowaś"
 
-#: main.lang:256
+#: main.lang:269
 msgid "Update now"
 msgstr "Něnto aktualizěrowaś"
 
-#: main.lang:260
+#: main.lang:273
 msgid "Supported Devices"
 msgstr "Pódpěrane rědy"
 
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-#: main.lang:265
+#: main.lang:278
 msgid "What’s New"
 msgstr "Což jo nowe"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
-#: main.lang:270
+#: main.lang:283
 msgid "Privacy"
 msgstr "Priwatnosć"
 
 #. Footer string
-#: main.lang:275
+#: main.lang:288
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
@@ -312,312 +325,312 @@ msgstr ""
 "\"%(url)s\">Creative Commons license</a> k dispoziciji."
 
 #. Footer string
-#: main.lang:280
+#: main.lang:293
 msgid "Contribute to this page"
 msgstr "K toś tomu bokoju pśinosowaś"
 
 #. Top menu item
-#: main.lang:285
+#: main.lang:298
 msgid "Mission"
 msgstr "Misija"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:290
+#: main.lang:303
 msgid "Tour"
 msgstr "Tura"
 
 #. Footer item
-#: main.lang:295
+#: main.lang:308
 msgid "Partner with Us"
 msgstr "Buźćo naš partnaŕ"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:300
+#: main.lang:313
 msgid "Sync"
 msgstr "Sync"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:305
+#: main.lang:318
 msgid "Desktop Add-ons"
 msgstr "Desktopowe dodanki"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:310
+#: main.lang:323
 msgid "Android Add-ons"
 msgstr "Dodanki za Android"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:315
+#: main.lang:328
 msgid "Themes"
 msgstr "Drastwy"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:320
+#: main.lang:333
 msgid "Desktop Support"
 msgstr "Desktopowa pódpěra"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:325
+#: main.lang:338
 msgid "Android Support"
 msgstr "Pódpěra za Android"
 
 #. Top menu item on firefox/update page
-#: main.lang:330
+#: main.lang:343
 msgid "Performance"
 msgstr "Wugbaśe"
 
 #. Top menu item on firefox/update page
-#: main.lang:335
+#: main.lang:348
 msgid "Technology"
 msgstr "Technologija"
 
 #. Top menu item on firefox/update page
-#: main.lang:340
+#: main.lang:353
 msgid "Privacy &amp; Security"
 msgstr "Priwatnosć a wěstota"
 
 #. Top menu item on firefox/update page
-#: main.lang:345
+#: main.lang:358
 msgid "Releases"
 msgstr "Pśipušćenja"
 
 #. Top menu item on firefox/update page
-#: main.lang:350
+#: main.lang:363
 msgid "Overview"
 msgstr "Pśeglěd"
 
 #. Top menu item on firefox/update page
-#: main.lang:355
+#: main.lang:368
 msgid "Firefox"
 msgstr "Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:360
+#: main.lang:373
 msgid "Firefox for Organizations"
 msgstr "Firefox za organizacije"
 
 #. Top menu item on firefox/update page
-#: main.lang:365
+#: main.lang:378
 msgid "Mobile Add-ons"
 msgstr "Mobilne dodanki"
 
 #. Top menu item on firefox/update page
-#: main.lang:370
+#: main.lang:383
 msgid "Mobile Support"
 msgstr "Mobilna pódpěra"
 
 #. Top menu item on firefox/update page
-#: main.lang:375
+#: main.lang:388
 msgid "Blog"
 msgstr "Blog"
 
 #. Top menu item on firefox/update page
-#: main.lang:380
+#: main.lang:393
 msgid "About Firefox"
 msgstr "Wó Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:385
+#: main.lang:398
 msgid "Join Mozilla"
 msgstr "Pśizamkniśo Mozilla"
 
 #. Top menu item on firefox/update page
-#: main.lang:390
+#: main.lang:403
 msgid "Participate"
 msgstr "Wobźěliś se"
 
 #. Top menu item on firefox/update page
-#: main.lang:395
+#: main.lang:408
 msgid "Brand Toolkit"
 msgstr "Brand Toolkit"
 
 #. Top menu item on firefox/update page
-#: main.lang:400
+#: main.lang:413
 msgid "Partnerships"
 msgstr "Partnarstwa"
 
 #. Newsletter subscription form above footer on some pages
-#: main.lang:405
+#: main.lang:418
 msgid "Get Mozilla updates"
 msgstr "Aktualizacije Mozilla se wobstaraś"
 
 #. share button for social networks
-#: main.lang:410
+#: main.lang:423
 msgid "Share"
 msgstr "Źěliś"
 
 #. footer link
-#: main.lang:415
+#: main.lang:428
 msgid "Mozilla on Twitter"
 msgstr "Mozilla na Twitter"
 
 #. footer link
-#: main.lang:420
+#: main.lang:433
 msgid "Firefox on Twitter"
 msgstr "Firefox na Twitter"
 
 #. footer link
-#: main.lang:425
+#: main.lang:438
 msgid "Mozilla on Facebook"
 msgstr "Mozilla na Facebooku"
 
 #. footer link
-#: main.lang:430
+#: main.lang:443
 msgid "Firefox on Facebook"
 msgstr "Firefox na Facebooku"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:435
+#: main.lang:448
 msgid "Forums"
 msgstr "Forumy"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:440
+#: main.lang:453
 msgid "Governance"
 msgstr "Wjednistwo"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:445
+#: main.lang:458
 msgid "History"
 msgstr "Historija"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:450
+#: main.lang:463
 msgid "Our Products"
 msgstr "Naše produkty"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:455
+#: main.lang:468
 msgid "Software and other innovations designed to advance our mission."
 msgstr "Software a druge nowoty, wuwyte, aby našu misiju doprědka spórali."
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:460
+#: main.lang:473
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "Buźćo dobrowólny sobustatkujucy na wšakich pólach."
 
 #. This is a non-visible string for blind people to indicate where the menu is
-#: main.lang:465
+#: main.lang:478
 msgid "Menu"
 msgstr "Meni"
 
 #. Menu item on top of Australis Firefox pages
-#: main.lang:470
+#: main.lang:483
 msgid "Trusted"
 msgstr "Dowěry gódny"
 
 #. Menu item on top of Australis Firefox pages
-#: main.lang:475
+#: main.lang:488
 msgid "Flexible"
 msgstr "Fleksibelny"
 
 #. Menu item on top of Australis Firefox pages
-#: main.lang:480
+#: main.lang:493
 msgid "Fast"
 msgstr "Malsny"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
-#: main.lang:485
+#: main.lang:498
 msgid "Committed to you, your privacy and an open Web"
 msgstr "Wam, wašej priwatnosći a wótwórjonemu weboju zawězany"
 
-#. Link used to play again an animation
-#: main.lang:490
-msgid "Replay"
-msgstr "Wóspjetowaś"
+#. Common title used in Fx 10 pages
+#: main.lang:503
+msgid "Choose Independent"
+msgstr ""
 
-#: main.lang:494
+#: main.lang:507
 msgid "January"
 msgstr "Januar"
 
-#: main.lang:498
+#: main.lang:511
 msgid "February"
 msgstr "Februar"
 
-#: main.lang:502
+#: main.lang:515
 msgid "March"
 msgstr "Měrc"
 
-#: main.lang:506
+#: main.lang:519
 msgid "April"
 msgstr "Apryl"
 
-#: main.lang:510
+#: main.lang:523
 msgid "May"
 msgstr "Maj"
 
-#: main.lang:514
+#: main.lang:527
 msgid "June"
 msgstr "Junij"
 
-#: main.lang:518
+#: main.lang:531
 msgid "July"
 msgstr "Julij"
 
-#: main.lang:522
+#: main.lang:535
 msgid "August"
 msgstr "Awgust"
 
-#: main.lang:526
+#: main.lang:539
 msgid "September"
 msgstr "September"
 
-#: main.lang:530
+#: main.lang:543
 msgid "October"
 msgstr "Oktober"
 
-#: main.lang:534
+#: main.lang:547
 msgid "November"
 msgstr "Nowember"
 
-#: main.lang:538
+#: main.lang:551
 msgid "December"
 msgstr "December"
 
-#: main.lang:542
+#: main.lang:555
 msgid "<abbr>Jan</abbr>"
 msgstr "<abbr>Jan</abbr>"
 
-#: main.lang:546
+#: main.lang:559
 msgid "<abbr>Feb</abbr>"
 msgstr "<abbr>Feb</abbr>"
 
-#: main.lang:550
+#: main.lang:563
 msgid "<abbr>Mar</abbr>"
 msgstr "<abbr>Měr</abbr>"
 
-#: main.lang:554
+#: main.lang:567
 msgid "<abbr>Apr</abbr>"
 msgstr "<abbr>Apr</abbr>"
 
-#: main.lang:558
+#: main.lang:571
 msgid "<abbr>May</abbr>"
 msgstr "<abbr>Maj</abbr>"
 
-#: main.lang:562
+#: main.lang:575
 msgid "<abbr>Jun</abbr>"
 msgstr "<abbr>Jun</abbr>"
 
-#: main.lang:566
+#: main.lang:579
 msgid "<abbr>Jul</abbr>"
 msgstr "<abbr>Jul</abbr>"
 
-#: main.lang:570
+#: main.lang:583
 msgid "<abbr>Aug</abbr>"
 msgstr "<abbr>Awg</abbr>"
 
-#: main.lang:574
+#: main.lang:587
 msgid "<abbr>Sep</abbr>"
 msgstr "<abbr>Sep</abbr>"
 
-#: main.lang:578
+#: main.lang:591
 msgid "<abbr>Oct</abbr>"
 msgstr "<abbr>Okt</abbr>"
 
-#: main.lang:582
+#: main.lang:595
 msgid "<abbr>Nov</abbr>"
 msgstr "<abbr>Now</abbr>"
 
-#: main.lang:586
+#: main.lang:599
 msgid "<abbr>Dec</abbr>"
 msgstr "<abbr>Dec</abbr>"

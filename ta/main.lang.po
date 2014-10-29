@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-20 09:08+0000\n"
+"POT-Creation-Date: 2014-10-29 09:15+0000\n"
 "PO-Revision-Date: 2014-07-14 16:54+0000\n"
 "Last-Translator: SyedKhaleel <jskcse4@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -203,71 +203,84 @@ msgstr "மேலும் அறிய"
 msgid "Learn more"
 msgstr "மேலும் அறிய"
 
-#: main.lang:184
+#. Link used to play again an animation or a video
+#: main.lang:185
+msgid "Replay"
+msgstr "மீட்டுயக்கு"
+
+#: main.lang:189
 msgid "Watch the video"
 msgstr "வீடியோவைப் பார்க்கவும்"
 
-#: main.lang:188
+#: main.lang:193
+msgid "Replay the video"
+msgstr ""
+
+#: main.lang:197
+msgid "Share the video"
+msgstr ""
+
+#: main.lang:201
 msgid "WebM format"
 msgstr "WebM வடிவம்"
 
-#: main.lang:192
+#: main.lang:205
 msgid "Ogg Theora format"
 msgstr "Ogg Theora வடிவம்"
 
-#: main.lang:196
+#: main.lang:209
 msgid "MPEG-4 format"
 msgstr "MPEG-4 வடிவம்"
 
-#: main.lang:200
+#: main.lang:213
 msgid "Mobile"
 msgstr "மொபைல்"
 
-#: main.lang:204
+#: main.lang:217
 msgid "Check out the new look and feel of Firefox."
 msgstr "Firefox இன் புதிய பார்வையை பாருங்கள்."
 
-#: main.lang:208
+#: main.lang:221
 msgid "View Full Site"
 msgstr "முழு தளத்தை பார்க்கவும்"
 
-#: main.lang:212
+#: main.lang:225
 msgid "Get Firefox for Android"
 msgstr "Androidக்கான Firefoxஐ பெறு"
 
-#: main.lang:216
+#: main.lang:229
 msgid "Download for <span>Android</span>"
 msgstr "<span>Android</span>க்கு பதிவிறக்கு"
 
-#: main.lang:220
+#: main.lang:233
 msgid "Desktop"
 msgstr "கணினி"
 
-#: main.lang:224
+#: main.lang:237
 msgid "Firefox Beta for mobile"
 msgstr "கைபேசிக்கான Firefox Beta"
 
-#: main.lang:228
+#: main.lang:241
 msgid "Firefox for mobile"
 msgstr "கைபேசிக்கான Firefox"
 
-#: main.lang:232
+#: main.lang:245
 msgid "Email"
 msgstr "மின்னஞ்சல்"
 
-#: main.lang:236
+#: main.lang:249
 msgid "Super speed"
 msgstr "அதிக வேகம்"
 
-#: main.lang:240
+#: main.lang:253
 msgid "Stunning graphics"
 msgstr "பிரமிக்கத்தக்க கிராபிக்ஸ்"
 
-#: main.lang:244
+#: main.lang:257
 msgid "The latest technologies"
 msgstr "புதிய தொழில்நுட்பம்"
 
-#: main.lang:248
+#: main.lang:261
 msgid ""
 "You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
 "new Firefox for the best in browsing and customization on the Web. <br/>   "
@@ -277,30 +290,30 @@ msgstr ""
 "பெறுங்கள். <br/> சிறந்த உலாவுதல் மற்றும் வலை விருப்பமைக்கு உங்கள் புதிய Firefoxஐ "
 "பயன்படுத்த துவங்குகள். <br/>   இது வேகமானது மற்றும் இலவசமானது!"
 
-#: main.lang:252
+#: main.lang:265
 msgid "Upgrade now"
 msgstr "இப்போதே மேம்படுத்து"
 
-#: main.lang:256
+#: main.lang:269
 msgid "Update now"
 msgstr "இப்போதே புதுப்பி"
 
-#: main.lang:260
+#: main.lang:273
 msgid "Supported Devices"
 msgstr "Supported devices"
 
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-#: main.lang:265
+#: main.lang:278
 msgid "What’s New"
 msgstr "புதிதாக என்ன"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
-#: main.lang:270
+#: main.lang:283
 msgid "Privacy"
 msgstr "தனிஉரிமை"
 
 #. Footer string
-#: main.lang:275
+#: main.lang:288
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
@@ -311,315 +324,315 @@ msgstr ""
 "உள்ளடக்கங்கள் கிடைக்கிறது</a>."
 
 #. Footer string
-#: main.lang:280
+#: main.lang:293
 msgid "Contribute to this page"
 msgstr "இந்த பக்கத்திற்கு பங்களிதிடுங்கள்"
 
 #. Top menu item
-#: main.lang:285
+#: main.lang:298
 msgid "Mission"
 msgstr "தன்னேற்புத் திட்டம்"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:290
+#: main.lang:303
 msgid "Tour"
 msgstr "உலா"
 
 #. Footer item
-#: main.lang:295
+#: main.lang:308
 msgid "Partner with Us"
 msgstr "எங்களுடன் பங்காளியாகு"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:300
+#: main.lang:313
 msgid "Sync"
 msgstr ""
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:305
+#: main.lang:318
 msgid "Desktop Add-ons"
 msgstr "திரைகணினிக்கான கூடுதல் இணைப்புகள்"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:310
+#: main.lang:323
 msgid "Android Add-ons"
 msgstr ""
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:315
+#: main.lang:328
 msgid "Themes"
 msgstr "தோற்றங்கள்"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:320
+#: main.lang:333
 msgid "Desktop Support"
 msgstr "திரைக்கணினிக்கான ஆதரவு"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:325
+#: main.lang:338
 msgid "Android Support"
 msgstr ""
 
 #. Top menu item on firefox/update page
-#: main.lang:330
+#: main.lang:343
 msgid "Performance"
 msgstr "செயல்திறன்"
 
 #. Top menu item on firefox/update page
-#: main.lang:335
+#: main.lang:348
 msgid "Technology"
 msgstr "தொழில்நுட்பம்"
 
 #. Top menu item on firefox/update page
-#: main.lang:340
+#: main.lang:353
 msgid "Privacy &amp; Security"
 msgstr "தனி உரிமை &amp; பாதுகாப்பு"
 
 #. Top menu item on firefox/update page
-#: main.lang:345
+#: main.lang:358
 msgid "Releases"
 msgstr "வெளியீடுகள்"
 
 #. Top menu item on firefox/update page
-#: main.lang:350
+#: main.lang:363
 msgid "Overview"
 msgstr "மேலோட்டம்"
 
 #. Top menu item on firefox/update page
-#: main.lang:355
+#: main.lang:368
 msgid "Firefox"
 msgstr "பயர்பாக்ஸ்"
 
 #. Top menu item on firefox/update page
-#: main.lang:360
+#: main.lang:373
 msgid "Firefox for Organizations"
 msgstr "நிறுவனங்களுக்கான பயர்பாக்ஸ்"
 
 #. Top menu item on firefox/update page
-#: main.lang:365
+#: main.lang:378
 msgid "Mobile Add-ons"
 msgstr "செல்பேசியின் கூடுதல் இணைப்புகள்"
 
 #. Top menu item on firefox/update page
-#: main.lang:370
+#: main.lang:383
 msgid "Mobile Support"
 msgstr "செல்பேசிக்கான ஆதரவு"
 
 #. Top menu item on firefox/update page
-#: main.lang:375
+#: main.lang:388
 msgid "Blog"
 msgstr "வலைப்பூ"
 
 #. Top menu item on firefox/update page
-#: main.lang:380
+#: main.lang:393
 msgid "About Firefox"
 msgstr "பயர்பாக்ஸ் பற்றி"
 
 #. Top menu item on firefox/update page
-#: main.lang:385
+#: main.lang:398
 msgid "Join Mozilla"
 msgstr "Mozilla இல் சேரவும்"
 
 #. Top menu item on firefox/update page
-#: main.lang:390
+#: main.lang:403
 msgid "Participate"
 msgstr "பங்கெடுக்கவும்"
 
 #. Top menu item on firefox/update page
-#: main.lang:395
+#: main.lang:408
 msgid "Brand Toolkit"
 msgstr "பிராண்ட் கருவிகள்"
 
 #. Top menu item on firefox/update page
-#: main.lang:400
+#: main.lang:413
 msgid "Partnerships"
 msgstr "பங்காளித்தனங்கள்"
 
 #. Newsletter subscription form above footer on some pages
-#: main.lang:405
+#: main.lang:418
 msgid "Get Mozilla updates"
 msgstr "மொசில்லா மேம்பாடுகளை பெறவும்"
 
 #. share button for social networks
-#: main.lang:410
+#: main.lang:423
 msgid "Share"
 msgstr "பகிர்க"
 
 #. footer link
-#: main.lang:415
+#: main.lang:428
 msgid "Mozilla on Twitter"
 msgstr "டிவிட்டரில் மொசில்லா"
 
 #. footer link
-#: main.lang:420
+#: main.lang:433
 msgid "Firefox on Twitter"
 msgstr "டிவிட்டரில் பயர்பாக்ஸ்"
 
 #. footer link
-#: main.lang:425
+#: main.lang:438
 msgid "Mozilla on Facebook"
 msgstr "முகநூலில் மொசில்லா "
 
 #. footer link
-#: main.lang:430
+#: main.lang:443
 msgid "Firefox on Facebook"
 msgstr "முகநூலில் பயர்பாக்ஸ் "
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:435
+#: main.lang:448
 msgid "Forums"
 msgstr "இணையவழி மன்றங்கள்"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:440
+#: main.lang:453
 msgid "Governance"
 msgstr "ஆளுமை"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:445
+#: main.lang:458
 msgid "History"
 msgstr "வரலாறு"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:450
+#: main.lang:463
 msgid "Our Products"
 msgstr "எங்களுடைய தயாரிப்புகள்"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:455
+#: main.lang:468
 msgid "Software and other innovations designed to advance our mission."
 msgstr ""
 "மென்பொருள் மற்றும் மற்ற கண்டுபிடிப்புகள்எங்களின் நோக்கத்தை முன்னெடுத்து செல்ல "
 "அடித்தளமிடுகிறது."
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:460
+#: main.lang:473
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr " பல திட்டங்களில் நீங்கள் ஒரு தன்னார்வ பங்களிப்பாளராக வேண்டும்."
 
 #. This is a non-visible string for blind people to indicate where the menu is
-#: main.lang:465
+#: main.lang:478
 msgid "Menu"
 msgstr "மெனு"
 
 #. Menu item on top of Australis Firefox pages
-#: main.lang:470
+#: main.lang:483
 msgid "Trusted"
 msgstr "நம்பகமானது"
 
 #. Menu item on top of Australis Firefox pages
-#: main.lang:475
+#: main.lang:488
 msgid "Flexible"
 msgstr "இலுகுவானது"
 
 #. Menu item on top of Australis Firefox pages
-#: main.lang:480
+#: main.lang:493
 msgid "Fast"
 msgstr "வேகமானது"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
-#: main.lang:485
+#: main.lang:498
 msgid "Committed to you, your privacy and an open Web"
 msgstr "ஒரு திறந்த இணையத்தை உங்களுக்கும் உங்களுடைய தனியுரிமைக்கும் உறுதியளிக்கிறது"
 
-#. Link used to play again an animation
-#: main.lang:490
-msgid "Replay"
-msgstr "மீட்டுயக்கு"
+#. Common title used in Fx 10 pages
+#: main.lang:503
+msgid "Choose Independent"
+msgstr ""
 
-#: main.lang:494
+#: main.lang:507
 msgid "January"
 msgstr ""
 
-#: main.lang:498
+#: main.lang:511
 msgid "February"
 msgstr ""
 
-#: main.lang:502
+#: main.lang:515
 msgid "March"
 msgstr ""
 
-#: main.lang:506
+#: main.lang:519
 msgid "April"
 msgstr ""
 
-#: main.lang:510
+#: main.lang:523
 msgid "May"
 msgstr ""
 
-#: main.lang:514
+#: main.lang:527
 msgid "June"
 msgstr ""
 
-#: main.lang:518
+#: main.lang:531
 msgid "July"
 msgstr ""
 
-#: main.lang:522
+#: main.lang:535
 msgid "August"
 msgstr ""
 
-#: main.lang:526
+#: main.lang:539
 msgid "September"
 msgstr ""
 
-#: main.lang:530
+#: main.lang:543
 msgid "October"
 msgstr ""
 
-#: main.lang:534
+#: main.lang:547
 msgid "November"
 msgstr ""
 
-#: main.lang:538
+#: main.lang:551
 msgid "December"
 msgstr ""
 
-#: main.lang:542
+#: main.lang:555
 msgid "<abbr>Jan</abbr>"
 msgstr ""
 
-#: main.lang:546
+#: main.lang:559
 msgid "<abbr>Feb</abbr>"
 msgstr ""
 
-#: main.lang:550
+#: main.lang:563
 msgid "<abbr>Mar</abbr>"
 msgstr ""
 
-#: main.lang:554
+#: main.lang:567
 msgid "<abbr>Apr</abbr>"
 msgstr ""
 
-#: main.lang:558
+#: main.lang:571
 msgid "<abbr>May</abbr>"
 msgstr ""
 
-#: main.lang:562
+#: main.lang:575
 msgid "<abbr>Jun</abbr>"
 msgstr ""
 
-#: main.lang:566
+#: main.lang:579
 msgid "<abbr>Jul</abbr>"
 msgstr ""
 
-#: main.lang:570
+#: main.lang:583
 msgid "<abbr>Aug</abbr>"
 msgstr ""
 
-#: main.lang:574
+#: main.lang:587
 msgid "<abbr>Sep</abbr>"
 msgstr ""
 
-#: main.lang:578
+#: main.lang:591
 msgid "<abbr>Oct</abbr>"
 msgstr ""
 
-#: main.lang:582
+#: main.lang:595
 msgid "<abbr>Nov</abbr>"
 msgstr ""
 
-#: main.lang:586
+#: main.lang:599
 msgid "<abbr>Dec</abbr>"
 msgstr ""
 

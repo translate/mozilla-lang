@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-07 15:52+0100\n"
+"POT-Creation-Date: 2014-10-29 09:15+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,31 +11,44 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 
-#. # NOTE: Used for the new http://www.mozilla.org/firefox/new
+#. # fx10_independent ##
 #. # mobile_links ##
+#. # NOTE: Used for the new http://www.mozilla.org/firefox/new
 #: firefox/new.lang:5
 msgid "Firefox for desktop"
 msgstr "Firefox za desktop"
 
-#: firefox/new.lang:9
+#. alternative main title (currently not used)
+#. # TAG: fx10_independent
+#: firefox/new.lang:11
+msgid "Choose Independent."
+msgstr ""
+
+#. alternative main title (currently not used)
+#. # TAG: fx10_independent
+#: firefox/new.lang:17
+msgid "Choose Firefox."
+msgstr ""
+
+#: firefox/new.lang:21
 msgid "Different by design"
 msgstr "Drugačiji s razlogom"
 
-#: firefox/new.lang:13
+#: firefox/new.lang:25
 msgid "Proudly<br />non-profit"
 msgstr "Ponosno<br />neprofitan"
 
-#: firefox/new.lang:17
+#: firefox/new.lang:29
 msgid "Innovating<br />for you"
 msgstr "Inovira<br />za vas"
 
-#: firefox/new.lang:21
+#: firefox/new.lang:33
 msgid "Fast, flexible,<br />secure"
 msgstr "Brz, fleksibilan<br />i siguran"
 
-#: firefox/new.lang:25
+#: firefox/new.lang:37
 msgid ""
 "As a non-profit, we’re free to innovate on your behalf without any pressure "
 "to compromise. You’re going to love the difference."
@@ -43,19 +56,19 @@ msgstr ""
 "Kao neprofitna organizacija, slobodni smo inovirati u vaše ime bez pritiska "
 "za kompromisom. Svidjet će vam se razlika."
 
-#: firefox/new.lang:29
+#: firefox/new.lang:41
 msgid "Firefox screenshot"
 msgstr "Firefox prikaz zaslona"
 
-#: firefox/new.lang:33
+#: firefox/new.lang:45
 msgid "Thanks for downloading Firefox!"
 msgstr "Hvala na preuzimanju Firefoxa!"
 
-#: firefox/new.lang:37
+#: firefox/new.lang:49
 msgid "Start the process by clicking Run."
 msgstr "Započnite klikom na tipku \"Run\"."
 
-#: firefox/new.lang:41
+#: firefox/new.lang:53
 msgid ""
 "Your download should begin automatically. If not, <a id=\"%s\" href="
 "\"\">click here</a>. It could take a few minutes, but it’s worth the wait."
@@ -64,14 +77,14 @@ msgstr ""
 "\"%s\" href=\"\">kliknite ovdje</a>. Preuzimanje može potrajati nekoliko "
 "minuta, ali čekanje se isplati."
 
-#: firefox/new.lang:45
+#: firefox/new.lang:57
 msgid ""
 "When prompted, drag the Firefox icon into the image of your Applications "
 "folder."
 msgstr ""
 "Kad budete upitani, odvucite Firefox ikonu na sliku vaše mape s aplikacijama."
 
-#: firefox/new.lang:49
+#: firefox/new.lang:61
 msgid ""
 "Click Run to launch the Mozilla Firefox setup wizard. Then, just follow the "
 "steps (we've made the process as painless as possible)."
@@ -80,7 +93,7 @@ msgstr ""
 "samo slijedite korake (proces instalacije smo pojednostavili da bude što "
 "brži i jednostavniji)."
 
-#: firefox/new.lang:53
+#: firefox/new.lang:65
 msgid ""
 "Drag the Firefox icon from the Applications folder into the dock. Then, just "
 "click on Firefox whenever you want to use the web!"
@@ -88,7 +101,7 @@ msgstr ""
 "Odvucite Firefox ikonu iz mape aplikacija na pokretača, te potom kliknite na "
 "Firefox kad god želite otići na web!"
 
-#: firefox/new.lang:57
+#: firefox/new.lang:69
 msgid ""
 "Now you’re ready to leap boldly into a new era of Web surfing. Double-click "
 "on the Firefox icon whenever you want to go online."
@@ -96,107 +109,107 @@ msgstr ""
 "Sada ste spremi za upuštanje u novu generaciju nove ere surfanja Webom. "
 "Dvaput kliknite na ikonu Firefoxa kad god želite otići na web."
 
-#: firefox/new.lang:61
+#: firefox/new.lang:73
 msgid "1"
 msgstr "1"
 
-#: firefox/new.lang:65
+#: firefox/new.lang:77
 msgid "2"
 msgstr "2"
 
-#: firefox/new.lang:69
+#: firefox/new.lang:81
 msgid "3"
 msgstr "3"
 
 #. file <title> tag
-#: firefox/new.lang:74
+#: firefox/new.lang:86
 msgid "Mozilla Firefox Web Browser"
 msgstr "Mozilla Firefox web preglednik"
 
 #. New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
-#: firefox/new.lang:79
+#: firefox/new.lang:91
 msgid "Sorry, Firefox is currently unsupported by iOS devices."
 msgstr "Žao nam je, ali Firefox trenutno nije podržan na iOS uređajima."
 
-#: firefox/new.lang:83
+#: firefox/new.lang:95
 msgid "Congrats! You’re using the latest version of Firefox."
 msgstr "Čestitamo! Koristite najnoviju inačicu Firefoxa."
 
-#: firefox/new.lang:87
+#: firefox/new.lang:99
 msgid ""
 "Looks like you’re using an older version of Firefox. Update on Google Play."
 msgstr ""
 "Čini se da koristite stariju inačicu Firefoxa. Ažurirajte Firefox kroz "
 "Google Play."
 
-#: firefox/new.lang:91
+#: firefox/new.lang:103
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "Čini se da koristite stariju inačicu Firefoxa."
 
-#: firefox/new.lang:95
+#: firefox/new.lang:107
 msgid "Update to stay fast and safe."
 msgstr "Ažurirajte da biste bili brži i sigurniji."
 
-#: firefox/new.lang:99
+#: firefox/new.lang:111
 msgid "Get it free on Google Play"
 msgstr "Preuzmite ga besplatno u Google Play trgovini"
 
-#: firefox/new.lang:103
+#: firefox/new.lang:115
 msgid "Learn more about Firefox for desktop"
 msgstr "Saznajte više o Firefoxu za desktop"
 
-#: firefox/new.lang:107
+#: firefox/new.lang:119
 msgid "Need help?"
 msgstr "Trebate pomoć?"
 
-#: firefox/new.lang:111
+#: firefox/new.lang:123
 msgid "Looking for mobile?"
 msgstr "Tražite inačicu za mobilne telefone?"
 
-#: firefox/new.lang:115
+#: firefox/new.lang:127
 msgid "Download a fresh copy"
 msgstr "Preuzmite sviježu kopiju"
 
-#: firefox/new.lang:119
+#: firefox/new.lang:131
 msgid "Learn more about Firefox for Mobile"
 msgstr "Saznajte više o Firefoxu za mobitele"
 
-#: firefox/new.lang:123
+#: firefox/new.lang:135
 #, fuzzy
 msgid "Learn more about Firefox OS"
 msgstr "Saznajte više o Firefox OS-u?"
 
 #. # TAG: mobile_links
-#: firefox/new.lang:128
+#: firefox/new.lang:140
 msgid "Get Firefox on your Android device"
 msgstr ""
 
 #. # TAG: mobile_links
-#: firefox/new.lang:133
+#: firefox/new.lang:145
 #, fuzzy
 msgid "Learn about Firefox OS"
 msgstr "Saznajte više o Firefox OS-u?"
 
-#: firefox/new.lang:137
+#: firefox/new.lang:149
 msgid "Discover all the ways to take Firefox on the go"
 msgstr "Otkrijte sve načine za korištenje Firefoxa u pokretu"
 
-#: firefox/new.lang:141
+#: firefox/new.lang:153
 msgid "Why don’t we offer an iOS version?"
 msgstr "Zašto ne nudimo iOS inačicu?"
 
 #. The following two strings are used in the <title> tag of the page
-#: firefox/new.lang:146
+#: firefox/new.lang:158
 msgid "Download Firefox"
 msgstr "Preuzmite Firefox"
 
 #. Note: 'free' as in free of charge
-#: firefox/new.lang:151
+#: firefox/new.lang:163
 msgid "Free Web Browser"
 msgstr "Besplatan web preglednik"
 
 #. Meta tag description (visible in the code)
-#: firefox/new.lang:156
+#: firefox/new.lang:168
 msgid ""
 "Download Mozilla Firefox, a free Web browser. Firefox is created by a global "
 "non-profit dedicated to putting individuals in control online. Get Firefox "
@@ -204,7 +217,7 @@ msgid ""
 msgstr ""
 
 #. Schema.org tag description (visible in the code)
-#: firefox/new.lang:161
+#: firefox/new.lang:173
 msgid ""
 "Mozilla Firefox, free web browser, is created by a global non-profit "
 "dedicated to putting individuals in control &amp; shaping the future of the "

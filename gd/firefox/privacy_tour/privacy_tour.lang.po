@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-20 09:08+0000\n"
+"POT-Creation-Date: 2014-10-29 09:15+0000\n"
 "PO-Revision-Date: 2014-10-25 21:51+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: none\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1414273909.000000\n"
 
 #. # NOTE: we don't have a demo server yet
@@ -96,80 +96,72 @@ msgid "Play the video"
 msgstr "Cluich a' video"
 
 #: firefox/privacy_tour/privacy_tour.lang:77
-msgid "Replay the video"
-msgstr "Cluich a' video a-rithist"
-
-#: firefox/privacy_tour/privacy_tour.lang:81
 msgid "Share"
 msgstr "Co-roinn"
 
-#: firefox/privacy_tour/privacy_tour.lang:85
-msgid "Share the video"
-msgstr "Co-roinn a' video"
-
-#: firefox/privacy_tour/privacy_tour.lang:89
+#: firefox/privacy_tour/privacy_tour.lang:81
 msgid "Start browsing"
 msgstr "Tòisich air brabhsadh"
 
-#: firefox/privacy_tour/privacy_tour.lang:93
+#: firefox/privacy_tour/privacy_tour.lang:85
 msgid "Previous"
 msgstr "Air ais"
 
-#: firefox/privacy_tour/privacy_tour.lang:97
+#: firefox/privacy_tour/privacy_tour.lang:89
 msgid "Next"
 msgstr "Air adhart"
 
-#: firefox/privacy_tour/privacy_tour.lang:101
+#: firefox/privacy_tour/privacy_tour.lang:93
 msgid "Close"
 msgstr "Dùin"
 
 #. STEP 1 of the tour (Forget button)
 #. %s is a searchplugin name
-#: firefox/privacy_tour/privacy_tour.lang:107
+#: firefox/privacy_tour/privacy_tour.lang:99
 msgid "<span>Next:</span> %s"
 msgstr "<span>Air adhart:</span> %s"
 
 #. <br> tag below used for formatting only.
 #. Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
-#: firefox/privacy_tour/privacy_tour.lang:114
+#: firefox/privacy_tour/privacy_tour.lang:106
 msgid "Use Forget to cover your tracks or escape from sites you don’t trust"
 msgstr ""
 "Cleachd \"Dìochuimhnich\" airson na nì thu a chumail dìomhair no airson "
 "teicheadh o làraichean nach eil earbsa agad annta"
 
-#: firefox/privacy_tour/privacy_tour.lang:118
+#: firefox/privacy_tour/privacy_tour.lang:110
 msgid "Remove browsing history from your computer"
 msgstr "Thoir air falbh an eachdraidh brabhsaidh on choimpiutair agad"
 
-#: firefox/privacy_tour/privacy_tour.lang:122
+#: firefox/privacy_tour/privacy_tour.lang:114
 msgid "Erase website information after the fact"
 msgstr "Suath fiosrachadh à làraichean-lìn"
 
-#: firefox/privacy_tour/privacy_tour.lang:126
+#: firefox/privacy_tour/privacy_tour.lang:118
 msgid "Add it above for quick, easy access"
 msgstr "Cuir ris e gu h-àrd airson cothrom fhaighinn air gu luath"
 
-#: firefox/privacy_tour/privacy_tour.lang:130
+#: firefox/privacy_tour/privacy_tour.lang:122
 msgid "The new Forget button"
 msgstr "Am putan \"Dìochuimhnich\" ùr agad"
 
-#: firefox/privacy_tour/privacy_tour.lang:134
+#: firefox/privacy_tour/privacy_tour.lang:126
 msgid ""
 "Want to cover your tracks? Activate the Forget button and leave no trace."
 msgstr ""
 "Airson rudan a chumail dìomhair? Cleachd am putan \"Dìochuimhnich\" is na "
 "fàg lorg sam bith."
 
-#: firefox/privacy_tour/privacy_tour.lang:138
+#: firefox/privacy_tour/privacy_tour.lang:130
 msgid "Add it now"
 msgstr "Cuir ris e an-dràsta"
 
-#: firefox/privacy_tour/privacy_tour.lang:142
+#: firefox/privacy_tour/privacy_tour.lang:134
 msgid "Later"
 msgstr "Uaireigin eile"
 
-#: firefox/privacy_tour/privacy_tour.lang:146
+#: firefox/privacy_tour/privacy_tour.lang:138
 msgid ""
 "Now it’s here whenever you need it. To move or remove it, just open the menu "
 "and select Customize."
@@ -177,7 +169,7 @@ msgstr ""
 "Bidh e ri do làimh uair sam bith a bhios feum agad air. gus a ghluasad no a "
 "thoirt air falbh, fosgail an clàr-taice is tagh \"Gnàthaich\"."
 
-#: firefox/privacy_tour/privacy_tour.lang:150
+#: firefox/privacy_tour/privacy_tour.lang:142
 msgid ""
 "Want to add it later? Open this menu and select Customize. Then drag it (or "
 "any other button) where you want."
@@ -186,50 +178,56 @@ msgstr ""
 "\". Agus slaod e (no putan sam bith eile) far a bheil thu 'ga iarraidh."
 
 #. STEP 2 of the tour (search engines)
-#: firefox/privacy_tour/privacy_tour.lang:155
+#: firefox/privacy_tour/privacy_tour.lang:147
 msgid "<span>Previous:</span> Forget"
 msgstr "<span>Air ais:</span> Dìochuimhnich"
 
-#: firefox/privacy_tour/privacy_tour.lang:159
+#: firefox/privacy_tour/privacy_tour.lang:151
 msgid "<span>Next:</span> Private Browsing"
 msgstr "<span>Air adhart:</span> Brabhsadh prìobhaideach"
 
 #. %s is a searchplugin name. <br> tag below used for formatting only.
-#: firefox/privacy_tour/privacy_tour.lang:164
+#: firefox/privacy_tour/privacy_tour.lang:156
 msgid "%s lets you <br>search anonymously"
 msgstr "Bheir %s comas dhut lorg <br>a dhèanamh gun urra"
 
-#: firefox/privacy_tour/privacy_tour.lang:168
+#: firefox/privacy_tour/privacy_tour.lang:160
 msgid "Get great results with less tracking"
 msgstr "Faigh deagh-thoraidhean gun uiread a thracadh"
 
-#: firefox/privacy_tour/privacy_tour.lang:172
+#: firefox/privacy_tour/privacy_tour.lang:164
 msgid "Make it (or any other) your default"
 msgstr "Cleachd e (no fear sam bith eile) mar a' bhun-roghainn agad"
 
-#: firefox/privacy_tour/privacy_tour.lang:176
+#: firefox/privacy_tour/privacy_tour.lang:168
 msgid "Find what you’re looking for, your way"
 msgstr "Faigh greim air na tha a dhìth ort air mar a lùigeas tu"
 
 #. %s is a searchplugin name
-#: firefox/privacy_tour/privacy_tour.lang:181
+#: firefox/privacy_tour/privacy_tour.lang:173
 msgid "<span>Previous:</span> %s"
 msgstr "<span>Air ais:</span> %s"
 
 #. STEP 3 of the tour (Private Browsing)
 #. <br> tag below used for formatting only.
-#: firefox/privacy_tour/privacy_tour.lang:187
+#: firefox/privacy_tour/privacy_tour.lang:179
 msgid "Private Browsing: <br>Our original privacy tool"
 msgstr "Brabhsadh prìobhaideach: <br>An t-inneal prìobhaideachd tùsail againn"
 
-#: firefox/privacy_tour/privacy_tour.lang:191
+#: firefox/privacy_tour/privacy_tour.lang:183
 msgid "Keep history and other info off your computer"
 msgstr "Cum an eachdraidh 's fiosrachadh eile air falbh on choimpiutair agad"
 
-#: firefox/privacy_tour/privacy_tour.lang:195
+#: firefox/privacy_tour/privacy_tour.lang:187
 msgid "Browse without recording where you’ve been"
 msgstr "Dèan brabhsadh gun sgeul air na h-àitichean air an tadhail thu"
 
-#: firefox/privacy_tour/privacy_tour.lang:199
+#: firefox/privacy_tour/privacy_tour.lang:191
 msgid "So others using your computer can’t see it"
 msgstr "Airson 's nach fhaic daoine eile e a chleachdas an coimpiutair agad"
+
+#~ msgid "Replay the video"
+#~ msgstr "Cluich a' video a-rithist"
+
+#~ msgid "Share the video"
+#~ msgstr "Co-roinn a' video"
