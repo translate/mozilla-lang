@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-29 09:15+0000\n"
+"POT-Creation-Date: 2014-10-30 21:15+0000\n"
 "PO-Revision-Date: 2014-10-29 20:38+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1414615118.000000\n"
 
 #. # NOTE: page is not available online yet, it will be in the next days at https://www-dev.allizom.org/firefox/tiles. This is how the page will look http://flod.org/screenshots/tiles.png
@@ -162,35 +162,14 @@ msgstr ""
 "moel neu'r modd Gwag."
 
 #: firefox/tiles.lang:83
-msgid "Empowering the Mozilla Community"
-msgstr "Ymrymuso Cymuned Mozilla"
-
-#: firefox/tiles.lang:87
-msgid ""
-"Tiles play a role in empowering thousands of Mozilla volunteers to support "
-"our mission by promoting local open source events and content."
-msgstr ""
-"Mae teils yn chwarae rhan mewn ymrymuso miloedd o wirfoddolwyr Mozilla i "
-"gefnogi ein cenhadaeth drwy hyrwyddo digwyddiadau a chynnwys cod agored "
-"lleol."
-
-#: firefox/tiles.lang:91
-msgid ""
-"You can learn more about how to participate in your local Mozilla community "
-"<a href=\"%s\">here</a>."
-msgstr ""
-"Gallwch ddysgu mwy am sut i gymryd rhan yn eich cymuned Mozilla lleol <a "
-"href=\"%s\">yma</a>."
-
-#: firefox/tiles.lang:95
 msgid "Frequently Asked Questions"
 msgstr "Cwestiynau Poblogaidd"
 
-#: firefox/tiles.lang:99
+#: firefox/tiles.lang:87
 msgid "Are you tracking users now?"
 msgstr "Ydych chi'n tracio defnyddwyr nawr?"
 
-#: firefox/tiles.lang:103
+#: firefox/tiles.lang:91
 msgid ""
 "We only collect data from the New Tab page in aggregate form, meaning no "
 "data is personally identifiable."
@@ -198,11 +177,11 @@ msgstr ""
 "Dim ond mewn ffurf gyfanredol fyddwn ni'n casglu data o'r dudalen Tab "
 "Newydd, felly does dim modd adnabod data personol."
 
-#: firefox/tiles.lang:107
+#: firefox/tiles.lang:95
 msgid "What data is being collected?"
 msgstr "Pa ddata sy'n cael ei gasglu?"
 
-#: firefox/tiles.lang:111
+#: firefox/tiles.lang:99
 msgid ""
 "Aggregate data from the New Tab page includes impressions, clicks and tile "
 "placement."
@@ -210,11 +189,11 @@ msgstr ""
 "Data cyfanredol o'r dudalen Tab Newydd sy'n cynnwys golwg, cliciau a lleoli "
 "teils."
 
-#: firefox/tiles.lang:115
+#: firefox/tiles.lang:103
 msgid "What data is collected when I opt out?"
 msgstr "Pa ddata sy'n cael ei gasglu os fyddai'n penderfynu dewis peidio?"
 
-#: firefox/tiles.lang:119
+#: firefox/tiles.lang:107
 msgid ""
 "No data is collected when a user chooses to opt out of the enhanced Tiles "
 "experience."
@@ -222,52 +201,65 @@ msgstr ""
 "Bydd dim data'n cael ei gasglu os fydd defnyddiwr yn penderfynu peidio bod "
 "yn rhan o'r profiad Teils amgen."
 
-#: firefox/tiles.lang:123
+#: firefox/tiles.lang:111
 msgid "Where can I learn more?"
 msgstr "Lle gaf i wybod rhagor?"
 
 #. Link to https://blog.mozilla.org/futurereleases/2014/09/04/new-tab-page-experiments-in-firefox-beta/
-#: firefox/tiles.lang:129
+#: firefox/tiles.lang:117
 msgid "New Tab Experiments in Firefox Beta"
 msgstr "Arbrofion Tab newydd yn Firefox Beta"
 
 #. Link to https://blog.mozilla.org/advancingcontent/2014/08/21/a-call-for-trust-transparency-and-user-control-in-advertising/
-#: firefox/tiles.lang:134
+#: firefox/tiles.lang:122
 msgid "A Call for Trust, Transparency and User Control in Advertising"
 msgstr ""
 "Galwad am Ymddiriedaeth, Tryloywder a Rheolaeth gan y Defnyddwyr wrth "
 "Hysbysebu"
 
 #. Link to https://blog.mozilla.org/netpolicy/2014/08/21/trust-should-be-the-currency/
-#: firefox/tiles.lang:139
+#: firefox/tiles.lang:127
 msgid "Trust should be the currency"
 msgstr "Thâl hi ddim heb ymddiriedaeth"
 
-#. Link to https://blog.mozilla.org/futurereleases/2014/05/09/new-tab-experiments/
-#: firefox/tiles.lang:144
-msgid "New Tab Experiments"
-msgstr "Arbrofion Tab Newydd"
-
-#. Link to https://blog.mozilla.org/advancingcontent/2014/02/13/more-details-on-directory-tiles/
-#: firefox/tiles.lang:149
-msgid "More Details on Directory Tiles"
-msgstr "Rhagor o fanylion ar Deils Cyfeiriadur"
-
-#. Link to https://blog.mozilla.org/advancingcontent/2014/02/11/publisher-transformation-with-users-at-the-center/
-#: firefox/tiles.lang:154
-msgid "Publisher Transformation with Users at the Center"
-msgstr "Trawsnewid Cyhoeddi gyda'r Defnyddiwr yn y Canol"
-
 #. Used as title of the screenshot
-#: firefox/tiles.lang:159
+#: firefox/tiles.lang:132
 msgid "Tiles Preferences"
 msgstr "Dewisiadau Teils"
 
-#: firefox/tiles.lang:163
+#: firefox/tiles.lang:136
 msgid "Screenshot"
 msgstr "Llun sgrin"
 
-#: firefox/tiles.lang:167
+#. Link points to https://support.mozilla.org/kb/how-do-tiles-work-firefox
+#: firefox/tiles.lang:141
 msgid "For more help please see the <a href=\"%(url)s\">Tiles Support Page</a>"
 msgstr ""
 "Am gymorth pellach, gw. <a href=\"%(url)s\">Tudalen Cefnogaeth ar Deils</a>"
+
+#~ msgid "Empowering the Mozilla Community"
+#~ msgstr "Ymrymuso Cymuned Mozilla"
+
+#~ msgid ""
+#~ "Tiles play a role in empowering thousands of Mozilla volunteers to "
+#~ "support our mission by promoting local open source events and content."
+#~ msgstr ""
+#~ "Mae teils yn chwarae rhan mewn ymrymuso miloedd o wirfoddolwyr Mozilla i "
+#~ "gefnogi ein cenhadaeth drwy hyrwyddo digwyddiadau a chynnwys cod agored "
+#~ "lleol."
+
+#~ msgid ""
+#~ "You can learn more about how to participate in your local Mozilla "
+#~ "community <a href=\"%s\">here</a>."
+#~ msgstr ""
+#~ "Gallwch ddysgu mwy am sut i gymryd rhan yn eich cymuned Mozilla lleol <a "
+#~ "href=\"%s\">yma</a>."
+
+#~ msgid "New Tab Experiments"
+#~ msgstr "Arbrofion Tab Newydd"
+
+#~ msgid "More Details on Directory Tiles"
+#~ msgstr "Rhagor o fanylion ar Deils Cyfeiriadur"
+
+#~ msgid "Publisher Transformation with Users at the Center"
+#~ msgstr "Trawsnewid Cyhoeddi gyda'r Defnyddiwr yn y Canol"
