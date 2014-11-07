@@ -1,13 +1,13 @@
 #. extracted from ./firefox/geolocation.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-30 21:15+0000\n"
-"PO-Revision-Date: 2014-05-15 22:41+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: \n"
+"POT-Creation-Date: 2014-11-07 15:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,11 +16,11 @@ msgstr ""
 #. # NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
 #: firefox/geolocation.lang:5
 msgid "Geolocation in Firefox"
-msgstr ""
+msgstr "Firefox'ta Konum Belirleme"
 
 #: firefox/geolocation.lang:9
 msgid "Location-Aware Browsing"
-msgstr ""
+msgstr "Konumdan Haberdar Gezinme"
 
 #: firefox/geolocation.lang:13
 msgid ""
@@ -29,14 +29,19 @@ msgid ""
 "is done in a way that totally respects your privacy. <a href=\"%(url)s\" id="
 "\"%(id)s\" style=\"%(style)s\">Give it a try!</a>"
 msgstr ""
+"Firefox, web sitelerine nerede olduğunuzu söyleyebilir ve bu sayede "
+"aradığınıza daha uygun ve kullanışlı bilgi bulabilmemiz mümkün olur. Bu "
+"özellik Web'i daha akıllı hale getirmek içindir ve gizliliğinize tamamen "
+"saygı duyar.<a href=\"%(url)s\" id=\"%(id)s\" style=\"%(style)s\">Bir "
+"Deneyin!</a>"
 
 #: firefox/geolocation.lang:17
 msgid "Frequently asked Questions"
-msgstr ""
+msgstr "Sıkça Sorulan Sorular"
 
 #: firefox/geolocation.lang:21
 msgid "What is Location-Aware Browsing?"
-msgstr ""
+msgstr "Konumdan Haberdar Gezinme Nedir?"
 
 #: firefox/geolocation.lang:25
 msgid ""
@@ -47,6 +52,12 @@ msgid ""
 "“pizza” will bring you the answers you need... no further information or "
 "extra typing required."
 msgstr ""
+"Konumdan haberdar gezinmeyi kullanan web siteleri, size amacınıza daha uygun "
+"bilgi sunabilmek veya arama yaparken zaman kazandırmak için nerede "
+"olduğunuzu soracak. Diyelim ki bulunduğunuz muhitte bir pizza restoranı "
+"arıyorsunuz. Bir web sitesi sizden konumunuzu paylaşmanızı isteyebilecek ve "
+"böylelikle sadece \"pizza\" kelimesini aratarak istediğiniz cevapları "
+"alacaksınız. Fazladan hiçbir bilgiye veya veri girişine gerek yok."
 
 #: firefox/geolocation.lang:29
 msgid ""
@@ -54,6 +65,9 @@ msgid ""
 "where you’re starting from so all you have to do is tell it where you want "
 "to go."
 msgstr ""
+"Veya, eğer bir yere gitmek için yol istikameti çıkarıyorsanız, web sitesi "
+"nereden yola başladığınızı bilecek ve böylece yapacağınız tek şey nereye "
+"gitmek istediğinizi yazmak olacak."
 
 #: firefox/geolocation.lang:33
 msgid ""
@@ -62,16 +76,23 @@ msgid ""
 "privacy. And, like all elements of Firefox, it’s being created using open "
 "standards to ease adoption by Web developers."
 msgstr ""
+"Bu hizmet tamamıyla isteğe bağlıdır. Firefox sizin konumunuzu izniniz "
+"olmadan başkalarıyla paylaşmaz. İşlemler gizliliğinize en yüksek derecede "
+"saygı gösterilerek gerçekleştirilir. Firefox'un diğer tüm unsurları gibi bu "
+"unsur da Web geliştiricileri tarafından benimsenmesinin kolaylaştırılması "
+"için açık standartlar kullanılarak oluşturuluyor."
 
 #: firefox/geolocation.lang:37
 msgid "How does it work?"
-msgstr ""
+msgstr "Bu sistem nasıl işliyor?"
 
 #: firefox/geolocation.lang:41
 msgid ""
 "When you visit a location-aware website, Firefox will ask you if you want to "
 "share your location."
 msgstr ""
+"Konumdan haberdar bir web sitesini ziyaret ettiğinizde, Firefox size "
+"konumuzu paylaşmayı isteyip istemediğinizi soracak."
 
 #: firefox/geolocation.lang:45
 msgid ""
@@ -81,14 +102,19 @@ msgid ""
 "get an estimate of your location. That location estimate is then shared with "
 "the requesting website."
 msgstr ""
+"Eğer kabul ederseniz, Firefox en yakın kablosuz erişim noktaları ve "
+"bilgisayarınızın IP adresi hakkında bilgi toplar. Daha sonra Firefox bu "
+"bilgileri konumunuz hakkında bir tahmin almak için varsayılan konum "
+"belirleme servis sağlayıcısı, Google Konum Hizmetleri'ne gönderir. Alınan "
+"tahmini konum bilgisi istekte bulunan web sitesiyle paylaşılır."
 
 #: firefox/geolocation.lang:49
 msgid "If you say that you do not consent, Firefox will not do anything."
-msgstr ""
+msgstr "Eğer kabul etmediğinizi belirtirseniz, Firefox hiçbir şey yapmaz."
 
 #: firefox/geolocation.lang:53
 msgid "How accurate are the locations?"
-msgstr ""
+msgstr "Konum bilgisi ne kadar kesindir?"
 
 #: firefox/geolocation.lang:57
 msgid ""
@@ -99,11 +125,18 @@ msgid ""
 "the accuracy of the locations provided. Please do not use this information "
 "for emergencies. Always use common sense."
 msgstr ""
+"Kesinlik bölgeden bölgeye büyük ölçüde değişir. Bazı bölgelerde, servis "
+"sağlayıcılarımız sadece birkaç metre içerisinde konum bilgisi sunabilirler. "
+"Buna rağmen bazı bölgelerde, bundan çok daha geniş bir alan içerisinde bilgi "
+"sunulabilir. Servis sağlayıcılarımız tarafından sunulan tüm konum bilgileri "
+"sadece tahminidir ve sunulan konum bilgilerinin doğruluğunu garanti "
+"edemeyiz. Lütfen acil durımlar için bu bilgiyi kullanmayın. Her zaman "
+"sağduyunuzu kullanın."
 
 #: firefox/geolocation.lang:61
 msgid ""
 "What information is being sent, and to whom? How is my privacy protected?"
-msgstr ""
+msgstr "Hangi bilgi, kime gönderiliyor? Gizliliğim nasıl korunuyor?"
 
 #: firefox/geolocation.lang:65
 msgid ""
@@ -112,32 +145,43 @@ msgid ""
 "information, you’ll be asked before any information is shared with the "
 "requesting website and our third-party service provider."
 msgstr ""
+"Gizliliğiniz bizim için son derece önemlidir ve Firefox izniniz olmadan "
+"konumunuzu başkalarıyla asla paylaşmaz. Bilginizi isteyen bir web sitesini "
+"ziyaret ettiğinizde, üçüncü taraf olan servis sağlayıcımız ve bilgi talep "
+"eden siteyle herhangi bir bilgi paylaşılmadan önce size sorulacaktır."
 
 #: firefox/geolocation.lang:69
 msgid ""
 "By default, Firefox uses Google Location Services to determine your location "
 "by sending:"
 msgstr ""
+"Firefox varsayılan olarak Google Konum Hizmetleri'ne konumunuzu tespit etmek "
+"için şu bilgileri gönderir:"
 
 #: firefox/geolocation.lang:73
 msgid "your computer’s IP address,"
-msgstr ""
+msgstr "Bilgisayarınızın IP adresi"
 
 #: firefox/geolocation.lang:77
 msgid "information about the nearby wireless access points, and"
-msgstr ""
+msgstr "Yakınlardaki kablosuz erişim noktaları hakkında bilgi"
 
 #: firefox/geolocation.lang:81
 msgid ""
 "a random client identifier, which is assigned by Google, that expires every "
 "2 weeks."
 msgstr ""
+"Google tarafından rastsal atanan ve 2 haftada bir sıfırlanan bir istemci "
+"kimliği"
 
 #: firefox/geolocation.lang:85
 msgid ""
 "For a complete description of information collected and used by Firefox, "
 "please see the <a href=\"%(url)s\">Firefox Privacy Notice</a>."
 msgstr ""
+"Firefox tarafından toplanan ve kullanılan bilginin tam bir açıklaması için, "
+"lütfen <a href=\"%(url)s\">Firefox Gizlilik Politikası</a> (İngilizce) "
+"sayfasına bakın."
 
 #: firefox/geolocation.lang:89
 msgid ""
@@ -146,6 +190,10 @@ msgid ""
 "and used by Google, please see the <a href=\"%(url)s\" class=\"%(class)s"
 "\">Google Geolocation Privacy Policy</a>."
 msgstr ""
+"Daha sonra, Google Konum Hizmetleri tahmini konum bilgilerinizi (enlem ve "
+"boylam gibi) sunar. Google tarafından toplanan ve kullanılan bilginin tam "
+"bir açıklaması için, lütfen <a href=\"%(url)s\" class=\"%(class)s\">Google "
+"Konum Belirleme Gizlilik Politikası</a> (İngilizce) sayfasına bakın."
 
 #: firefox/geolocation.lang:93
 msgid ""
@@ -155,34 +203,43 @@ msgid ""
 "you are visiting, or are any cookies, ever shared with Google Location "
 "Services."
 msgstr ""
+"Gizliliğinizi korumak için bilgi, şifreli bir bağlantı üzerinden aktarılır. "
+"Firefox konum bilginizi elde eder etmez, talepte bulunan siteye yollar. "
+"Hiçbir zaman ziyaret ettiğiniz sitenin adı veya konumu veya hiçbir çerezi, "
+"Google Konum Hizmetleri ile paylaşılmaz."
 
 #: firefox/geolocation.lang:97
 msgid ""
 "Neither Mozilla or Google will ever use the information collected by Google "
 "Location Services to identify or spy on you."
 msgstr ""
+"Ne Mozilla ne de Google, Google Konum Hizmetleri tarafından toplanan bilgiyi "
+"sizi tanımlamak ya da casusluk yapmak maksadıyla asla kullanmaz."
 
 #: firefox/geolocation.lang:101
 msgid ""
 "For information about what the requesting website does with your location "
 "information, please refer to that website’s privacy policy."
 msgstr ""
+"Konum bilginizi talep eden sitenin bu bilgiyle ne yaptığı hakkında bilgi "
+"için, lütfen o sitenin gizlilik politikasına bakın."
 
 #: firefox/geolocation.lang:105
 msgid "For more information about your privacy, you should also read:"
 msgstr ""
+"Gizliliğiniz hakkında daha fazla bilgi için ayrıca şunları da okumalısınız:"
 
 #: firefox/geolocation.lang:109
 msgid "Mozilla Firefox Privacy Notice"
-msgstr ""
+msgstr "Mozilla Firefox gizlilik politkası"
 
 #: firefox/geolocation.lang:113
 msgid "Google privacy policy"
-msgstr ""
+msgstr "Google gizlilik politkası"
 
 #: firefox/geolocation.lang:117
 msgid "Am I being tracked as I browse the web?"
-msgstr ""
+msgstr "Ben İnternette gezinirken takip ediliyor muyum?"
 
 #: firefox/geolocation.lang:121
 msgid ""
@@ -190,10 +247,13 @@ msgid ""
 "only shares your location when the user has approved the request. Firefox "
 "does not track or remember your location as you browse."
 msgstr ""
+"Hayır. Firefox, sadece bir site talep ettiğinde konum bilgisi ister ve "
+"konumunuzu, sadece kullanıcı kabul ederse paylaşır. Firefox, siz internette "
+"gezinirken, konumunuzu takip etmez veya kayıt altına almaz."
 
 #: firefox/geolocation.lang:125
 msgid "How do I undo a permission granted to a site?"
-msgstr ""
+msgstr "Bir siteye verilen izni nasıl geri alırım?"
 
 #: firefox/geolocation.lang:129
 msgid ""
@@ -201,47 +261,54 @@ msgid ""
 "and later change your mind, you can easily revoke that permission. Here's "
 "how:"
 msgstr ""
+"Eğer Firefox'a bir siteye her zaman konum bilginizi verme izni verdiyseniz "
+"ve sonra kararınızı değiştirdiyseniz, o izni kolaylıkla geri alabilirsiniz. "
+"İşte yapılışı:"
 
 #: firefox/geolocation.lang:133
 msgid "Navigate to the site to which you’ve given permission"
-msgstr ""
+msgstr "İzin verdiğiniz siteye girin"
 
 #: firefox/geolocation.lang:137
 msgid "Go to the <em>Tools</em> menu, then select <em>Page Info</em>"
 msgstr ""
+"<em>Araçlar</em> menüsüne gidin ve <em>Sayfa bilgileri</em> seçeneğine "
+"tıklayın"
 
 #: firefox/geolocation.lang:141
 msgid "Select the <em>Permissions</em> tab"
-msgstr ""
+msgstr "<em>İzinler</em> sekmesini seçin"
 
 #: firefox/geolocation.lang:145
 msgid "Change the setting for <em>Share Location</em>"
-msgstr ""
+msgstr "<em>Konumu paylaş</em> özelliği için istediğiniz seçeneği belirleyin"
 
 #: firefox/geolocation.lang:149
 msgid "How do I clear the “random client identification number”?"
-msgstr ""
+msgstr "\"Rastgele alıcı tanımlama numarası”nı nasıl temizlerim?"
 
 #: firefox/geolocation.lang:153
 msgid ""
 "Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>"
 msgstr ""
+"<em>Araçlar</em> menüsüne gidin, sonra <em>Yakın geçmişi temizle</em> "
+"seçeneğine tıklayın"
 
 #: firefox/geolocation.lang:157
 msgid "Click the <em>Details</em> arrow"
-msgstr ""
+msgstr "<em>Ayrıntılar</em> okuna tıklayın"
 
 #: firefox/geolocation.lang:161
 msgid "Ensure that <em>Cookies</em> is selected"
-msgstr ""
+msgstr "<em>Çerezler</em>'in seçili olduğuna emin olun"
 
 #: firefox/geolocation.lang:165
 msgid "Click on <em>Clear Now</em>"
-msgstr ""
+msgstr "<em>Şimdi temizle</em> düğmesine tıklayın"
 
 #: firefox/geolocation.lang:169
 msgid "How do I turn off Location-Aware Browsing permanently?"
-msgstr ""
+msgstr "Konumdan Haberdar Gezinme'yi kalıcı olarak nasıl kapatabilirim?"
 
 #: firefox/geolocation.lang:173
 msgid ""
@@ -249,27 +316,30 @@ msgid ""
 "is ever sent without your permission. If you wish to disable the feature "
 "completely, please follow this set of steps:"
 msgstr ""
+"Konumdan Haberdar Gezinme, Firefox'te her zaman isteğe bağlı kullanılabilen "
+"bir özelliktir. İzniniz olmadan hiçbir konum bilgisi gönderilmez. Eğer bu "
+"özelliğitamamen kaldırmak istiyorsanız, lütfen aşağıdaki adımları takip edin:"
 
 #: firefox/geolocation.lang:177
 msgid "In the URL bar, type <code>about:config</code>"
-msgstr ""
+msgstr "Konum çubuğuna <code>about:config</code> yazın"
 
 #: firefox/geolocation.lang:181
 msgid "Type <code>geo.enabled</code>"
-msgstr ""
+msgstr "Süzgeç çubuğuna <code>geo.enabled</code> yazın"
 
 #: firefox/geolocation.lang:185
 msgid "Double click on the <em>geo.enabled</em> preference"
-msgstr ""
+msgstr "<em>geo.enabled</em> seçeneğine çift tıklayın"
 
 #: firefox/geolocation.lang:189
 msgid "Location-Aware Browsing is now disabled"
-msgstr ""
+msgstr "Konumdan Haberdar Gezinme artık devre dışı"
 
 #: firefox/geolocation.lang:193
 msgid "Where am I?"
-msgstr ""
+msgstr "Ben neredeyim?"
 
 #: firefox/geolocation.lang:197
 msgid "Oops! An error occurred while trying to determine your position."
-msgstr ""
+msgstr "Eyvah! Konumunuzu tespit etmeye çalışırken bir hata meydana geldi."

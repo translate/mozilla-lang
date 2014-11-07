@@ -1,4 +1,5 @@
 #. extracted from ./firefox/channel.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -7,7 +8,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,11 +19,13 @@ msgstr ""
 #: firefox/channel.lang:6
 msgid "Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox"
 msgstr ""
+"Firefox Aurora veya Beta'yı indirin, Firefox'un geleceğini belirlememize "
+"yardım edin"
 
 #. This description applies to Firefox Beta
 #: firefox/channel.lang:11
 msgid "The latest features in a more stable environment"
-msgstr ""
+msgstr "En yeni özellikleri daha güvenilir bir ortamda test edin"
 
 #. # TAG: telemetry_notice
 #: firefox/channel.lang:16
@@ -31,23 +33,29 @@ msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
 msgstr ""
+"Firefox Beta otomatik olarak Mozilla'ya geri bildirim gönderir. <a href="
+"\"%(link)s\">Daha fazla bilgi alın</a>."
 
 #: firefox/channel.lang:20
 msgid ""
 "<a href=\"%(feedback)s\">Give us feedback</a> to help us put the final "
 "tweaks on performance and functionality in a stable environment."
 msgstr ""
+"En son performans ve işlevsellik güncellemelerini güvenilir bir ortamda test "
+"ederek <a href=\"%(feedback)s\">geri bildiriminizi paylaşın</a>."
 
 #: firefox/channel.lang:24
 msgid ""
 "Firefox Aurora automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
 msgstr ""
+"Firefox Aurora otomatik olarak Mozilla'ya geri bildirim gönderir. <a href="
+"\"%(link)s\">Daha fazla bilgi alın</a>."
 
 #. This description applies to Firefox Aurora
 #: firefox/channel.lang:29
 msgid "The newest innovations in an experimental environment"
-msgstr ""
+msgstr "Deneysel bir ortamda en güncel yeniliklerin tadına bakın"
 
 #. # TAG: telemetry_notice
 #: firefox/channel.lang:34
@@ -55,20 +63,22 @@ msgid ""
 "Test performance in an experimental environment, file bugs and <a href="
 "\"%(feedback)s\">help us determine what makes it to Beta</a>."
 msgstr ""
+"Deneysel bir ortamda performansı test edin, hataları raporların ve <a href="
+"\"%(feedback)s\">nelerin Beta'ya geçeceğini belirlememize yardımcı olun</a>."
 
 #. This description applies to Firefox on the Release channel
 #: firefox/channel.lang:39
 msgid "Tried, tested and used by millions around the world"
-msgstr ""
+msgstr "Test edildi ve dünya çapında milyonlarca kişi tarafından kullanılıyor"
 
 #: firefox/channel.lang:43
 msgid "Learn more about Firefox Beta"
-msgstr ""
+msgstr "Firefox Beta hakkında bilgi alın"
 
 #: firefox/channel.lang:47
 msgid "Learn more about Firefox Aurora"
-msgstr ""
+msgstr "Firefox Aurora hakkında bilgi alın"
 
 #: firefox/channel.lang:51
 msgid "Learn more about Firefox"
-msgstr ""
+msgstr "Firefox hakkında bilgi alın"

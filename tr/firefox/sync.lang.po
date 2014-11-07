@@ -1,13 +1,13 @@
 #. extracted from ./firefox/sync.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-29 09:15+0000\n"
-"PO-Revision-Date: 2014-04-04 14:44+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: \n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,23 +20,25 @@ msgstr ""
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:8
 msgid "Keep your Firefox in sync"
-msgstr ""
+msgstr "Firefox’unuzu eşitleyin"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:13
 msgid "Ready, Set, Sync"
-msgstr ""
+msgstr "Eşitlemeye hazır olun"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:18
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
 msgstr ""
+"Kaydınız tamamlandı ve <em>kendi</em> Firefox’unuza her yerden, her zaman "
+"erişmeye hazırsınız."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:23
 msgid "Take your Web with you"
-msgstr ""
+msgstr "Kendi Web’ini yanında taşı"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:28
@@ -44,16 +46,18 @@ msgid ""
 "Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
 "and more from any smartphone, tablet or computer."
 msgstr ""
+"Tüm akıllı telefon, tablet ve bilgisayarlardan yer imlerinize, "
+"parolalarınıza, sekmelerinize erişmek için Firefox’u eşitleyin."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:33
 msgid "It looks like you’re running an older version of Firefox."
-msgstr ""
+msgstr "Firefox’un eski bir sürümünü kullanıyorsunuz."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:38
 msgid "The new version of Sync only works with the latest version of Firefox"
-msgstr ""
+msgstr "Sync’in yeni sürümü yalnızca Firefox’un son sürümüyle çalışır"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:43
@@ -61,44 +65,46 @@ msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
 "Discover them all!"
 msgstr ""
+"Sync, Firefox’la  sahip olacağınız harika özelliklerden sadece bir tanesi. "
+"Hepsini keşfedin!"
 
 #. # TAG: firefox_sync_non_fx
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 #: firefox/sync.lang:49
 msgid "Sync is just one of the great features you’ll only get with Firefox."
 msgstr ""
+"Sync, sadece Firefox’la elde edebileceğiniz harika özelliklerden sadece bir "
+"tanesidir."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:54
-#, fuzzy
 msgid "Download Firefox for Android"
-msgstr "Android'in için Beta'yı indirin"
+msgstr "Android için Firefox’u indir"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:59
-#, fuzzy
 msgid "Need help?"
 msgstr "Yardım mı lazım?"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:64
 msgid "Get started with Sync"
-msgstr ""
+msgstr "Sync’i kullanmaya başlayın"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:69
 msgid "Update your Firefox"
-msgstr ""
+msgstr "Firefox’unuzu güncelleyin"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:74
 msgid "Download Firefox"
-msgstr "Firefox'u indir"
+msgstr "Firefox’u indirin"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:79
 msgid "Get started with Sync in four easy steps:"
-msgstr ""
+msgstr "Dört kolay adımda Sync’i kullanmaya başlayın:"
 
 #. # TAG: firefox_sync_redesign
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
@@ -108,12 +114,14 @@ msgid ""
 "Open the <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">menu</"
 "a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
+"Firefox’un sağ üst köşesindeki <a class=\"menu ga-link\" href=\"%(url)s#w_a-"
+"handy-new-menu\">menüyü</a> açıp “<strong>Sync oturumu aç</strong>”ı seçin."
 
 #. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:92
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
-msgstr ""
+msgstr "Açılan sekmeden “<strong>Başlayın</strong>”a tıklayın."
 
 #. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
@@ -122,12 +130,16 @@ msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
 msgstr ""
+"E-posta adresinizi ve bir parola girip “<strong>Firefox hesabı oluştur</"
+"strong>”a tıklayın."
 
 #. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:104
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr ""
+"E-posta adresinize doğrulama linki gönderilmesi için “<strong>İleri</"
+"strong>”ye tıklayın."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:109
@@ -135,22 +147,24 @@ msgid ""
 "After you check your email and click the verification link, you’ll be all "
 "set! Firefox will automatically sync in the background from then on."
 msgstr ""
+"E-postanızı kontrol edip onay bağlantısına tıkladıktan sonra her şey bitmiş "
+"oluyor! Firefox artık arka planda otomatik olarak eşitlenecek."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:114
 msgid "Get more detailed instructions."
-msgstr ""
+msgstr "Daha ayrıntılı yönergeleri görün."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:119
 msgid "Using an older version of Sync?"
-msgstr ""
+msgstr "Sync’in eski bir sürümünü mü kullanıyorsunuz?"
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:125
 msgid "How to set up Sync in five easy steps:"
-msgstr ""
+msgstr "Beş kolay adımda Sync’i kurun:"
 
 #. # TAG: firefox_sync_redesign
 #. <strong> tags below used for font color formatting.
@@ -160,6 +174,8 @@ msgid ""
 "Tap the <strong>Menu</strong> button (either below the screen or at the top "
 "right corner of the browser)."
 msgstr ""
+"<strong>Menü</strong> düğmesine dokunun. (Ekranın altında veya tarayıcınızın "
+"sağ üst köşesinde olabilir.)"
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
@@ -168,12 +184,15 @@ msgid ""
 "Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
 "first)."
 msgstr ""
+"<strong>Ayarlar</strong>’ı seçin. (Önce <strong>Diğer</strong> düğmesine "
+"tıklamanız gerekebilir.)"
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:144
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
 msgstr ""
+"<strong>Sync</strong>’e ve ardından <strong>Başlayın</strong>’a tıklayın."
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
@@ -181,12 +200,13 @@ msgstr ""
 msgid ""
 "The <strong>Create a Firefox Account page</strong> will open in a new tab."
 msgstr ""
+"Yeni bir sekmede <strong>Firefox Hesabı oluştur</strong> sayfası açılacaktır."
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:156
 msgid "Fill out the form and click <strong>Next</strong>."
-msgstr ""
+msgstr "Formu doldurup <strong>İleri</strong>’ye tıklayın."
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
@@ -196,11 +216,14 @@ msgid ""
 "to go! Don’t forget to connect all your other devices to get the most of "
 "Sync."
 msgstr ""
+"E-postanızı kontrol edip onay bağlantısına tıkladıktan sonra her şey hazır "
+"oluyor! Sync’ten daha iyi yararlanmak için tüm cihazlarınızı bağlamayı "
+"unutmayın."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:167
 msgid "Sync a little. Sync a lot."
-msgstr ""
+msgstr "İster az eşitle, ister çok."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:172
@@ -209,11 +232,14 @@ msgid ""
 "sync them. Take your open tabs on your daily commute. Access your bookmarks "
 "at work. Whatever, whenever, everywhere."
 msgstr ""
+"Firefox’unuzun hangi kısımlarının hangi cihazlarınızla eşitleneceğini siz "
+"seçersiniz. Açık sekmelerinize yolda bakın. Yer imlerinize işyerinizden "
+"erişin. Her şey, her zaman, her yerde."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:177
 msgid "At home"
-msgstr ""
+msgstr "Evde"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:182
@@ -222,11 +248,14 @@ msgid ""
 "tabs on your smartphone, or keeping browsing your bookmarks right on your "
 "tablet."
 msgstr ""
+"Hiçbir şeyi arkanızda bırakmadan masanızdan kanepeye geçin. Açık "
+"sekmelerinize akıllı telefonunuzdan erişebilir veya yer imlerinize "
+"tabletinizden ulaşabilirsiniz."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:187
 msgid "At work"
-msgstr ""
+msgstr "İşte"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:192
@@ -235,11 +264,14 @@ msgid ""
 "bookmarks that you might need to access at any time. Just like Firefox, it’s "
 "safe as can be."
 msgstr ""
+"Önemli bilgilerinizle bağınız hiç kopmasın. Her an ihtiyacınız olabilecek "
+"parola ve yer imlerinizi eşitleyebilirsiniz. Tıpkı Firefox gibi, Sync de çok "
+"güvenli."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:197
 msgid "On the go"
-msgstr ""
+msgstr "Yolda"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:202
@@ -247,16 +279,18 @@ msgid ""
 "Keep up with your favorite sites, or finish that story you started at home — "
 "wherever you go. With Sync, it’s never been easier."
 msgstr ""
+"Nereye giderseniz gidin, sevdiğiniz siteleri veya evde okumaya başladığınız "
+"yazıları yanınızda taşıyın. Sync’ten daha kolayı yok."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:207
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
-msgstr ""
+msgstr "<b>Android akıllı telefonunuz</b> veya <b>tabletiniz</b> mi var?"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:212
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
-msgstr ""
+msgstr "ANDROID İÇİN FIREFOX’U İNDİRİN"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:217
@@ -264,6 +298,9 @@ msgid ""
 "To get the full Sync experience, take your Web with you everywhere you use "
 "Firefox. Connect your smartphone, tablet, computer and laptop."
 msgstr ""
+"Sync deneyimini tamamlamak için Web’inizi Firefox kullandığınız her yere "
+"taşıyın. Akıllı telefon, tablet, masaüstü ve dizüstü bilgisayarınızı "
+"bağlayın."
 
 #. Used in old page, do not remove , do not remove
 #: firefox/sync.lang:222
@@ -271,11 +308,14 @@ msgid ""
 "Instantly make Firefox your own wherever you use it. Seamlessly sync your "
 "bookmarks, history, passwords and more and access them from any device."
 msgstr ""
+"Nerede bir Firefox varsa, o Firefox sizin Firefox’unuz. Yer imlerinizi, "
+"geçmişinizi, parolalarınızı ve daha fazlasını anında eşitleyerek onlara tüm "
+"cihazlardan erişin."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:227
 msgid "Get started with Sync. It’s fast, safe and easy:"
-msgstr ""
+msgstr "Sync’i kullanmaya başlayın. Hızlı, güvenli ve basit:"
 
 #. # TAG: sync_new_markup
 #. Used in old page, do not remove
@@ -284,6 +324,8 @@ msgid ""
 "Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> in "
 "the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
+"Firefox’un sağ üst köşesinden <a class=\"menu\" href=\"%(url)s#w_a-handy-new-"
+"menu\">menüyü</a> açıp “<strong>Sync oturumu aç</strong>”ı seçin."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:238
@@ -291,38 +333,42 @@ msgid ""
 "Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of "
 "Firefox and select “Sign in to Sync.”"
 msgstr ""
+"Firefox’un sağ köşesinden <a href=\"%(url)s#w_a-handy-new-menu\">menüyü</a> "
+"açıp “Sync oturumu aç”ı seçin."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:243
 msgid "Click “Get started” in the tab that opens."
-msgstr ""
+msgstr "Açılan sekmeden “Başlayın”a tıklayın."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:248
 msgid "Enter an email address and password to “Create a Firefox Account.”"
 msgstr ""
+"E-posta adresinizi ve bir parola girip “Firefox hesabı oluştur”a tıklayın."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:253
 msgid "Click “Next” to get a verification sent to your email."
 msgstr ""
+"E-posta adresinize doğrulama linki gönderilmesi için “İleri”ye tıklayın."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:258
 msgid "Check your email and click the verification link."
-msgstr ""
+msgstr "E-postanızı kontrol edip doğrulama linkine tıklayın."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:263
 msgid ""
 "You’re all set! Firefox will automatically sync in the background from now "
 "on."
-msgstr ""
+msgstr "Hepsi bu kadar! Firefox artık arka planda otomatik olarak eşitlenecek."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:268
 msgid "Have an Android phone or tablet?"
-msgstr ""
+msgstr "Android telefon veya tabletiniz mi var?"
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:273
@@ -330,15 +376,18 @@ msgid ""
 "<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
 "desktop and mobile devices."
 msgstr ""
+"Masaüstü ve mobil cihazlarınız arasında eşitleme yapmak için <a href="
+"\"%(url)s\">Android için Firefox’u indirin</a>."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:278
 msgid ""
 "Download Firefox for Android to sync between your desktop and mobile devices."
 msgstr ""
+"Masaüstü ve mobil cihazlarınız arasında eşitleme yapmak için Android için "
+"Firefox’u indirin."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:283
-#, fuzzy
 msgid "Get it free from Google Play"
-msgstr "Google Play'den ücretsiz edinin"
+msgstr "Google Play’den ücretsiz edinin"
