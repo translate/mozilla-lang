@@ -4,20 +4,21 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-07 18:05+0000\n"
-"PO-Revision-Date: 2014-11-07 18:05+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2014-11-08 12:33+0000\n"
+"Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1415449991.000000\n"
 
 #. # NOTE: Demo page not currently available
 #: firefox/developer.lang:3
-#, fuzzy
 msgid "Firefox Developer Edition"
-msgstr "Estyn Firefox ar gyfer Datblygwyr"
+msgstr "Firefox Datblygwyr"
 
 #: firefox/developer.lang:7
 msgid ""
@@ -31,15 +32,15 @@ msgstr ""
 
 #: firefox/developer.lang:11
 msgid "Built for those who build the Web"
-msgstr ""
+msgstr "Wedi ei adeiladu ar gyfer y rhai sy'n adeiladu'r We"
 
 #: firefox/developer.lang:15
 msgid "Introducing the only browser made for developers like you."
-msgstr ""
+msgstr "Dyma'r unig borwr sydd wedi ei wneud ar gyfer datblygwyr fel chi."
 
 #: firefox/developer.lang:19
 msgid "Designed for developers"
-msgstr ""
+msgstr "Cynlluniwyd ar gyfer datblygwyr"
 
 #: firefox/developer.lang:23
 msgid ""
@@ -47,10 +48,13 @@ msgid ""
 "created with your workflow in mind. Build, test, scale and more all from one "
 "place, for the first time ever."
 msgstr ""
+"Yr unig borwr wedi ei greu ar gyfer datblygwyr, crëwyd Firefox Datblygwyr "
+"gyda golwg ar eich llif gwaith. Adeiladwch, profwch, cynyddwch a mwy o'r un "
+"fan, am y tro cyntaf."
 
 #: firefox/developer.lang:27
 msgid "Debug any browser"
-msgstr ""
+msgstr "Dadfygiwch unrhyw borwr"
 
 #: firefox/developer.lang:31
 msgid ""
@@ -58,20 +62,25 @@ msgid ""
 "powerful, pre-installed extension that you’ll only find in Firefox Developer "
 "Edition."
 msgstr ""
+"Gallwch archwilio a dadfygio eich apiau ar unrhyw borwr neu ddyfais gyda "
+"Valence — estyniad pwerus sydd wedi ei rhagosod yn unig o fewn Firefox "
+"Datblygwyr"
 
 #: firefox/developer.lang:35
 msgid "Pixel-perfect coding"
-msgstr ""
+msgstr "Codio picsel perffaith"
 
 #: firefox/developer.lang:39
 msgid ""
 "Target screen sizes with the Responsive Design View and tweak your CSS on "
 "the fly with the built-in Style Editor for pixel-perfect coding."
 msgstr ""
+"Targedwch maint sgriniau gyda'r Golwg Cynllunio Ymatebol a newid eich CSS "
+"wrth weithio gyda'r Golygydd Arddull ar gyfer codio picsel perffaith."
 
 #: firefox/developer.lang:43
 msgid "All your favorite dev tools and more"
-msgstr ""
+msgstr "Eich hoff offer datblygu a mwy"
 
 #: firefox/developer.lang:47
 msgid ""
@@ -80,6 +89,10 @@ msgid ""
 "platforms from one place. It’s everything you’re used to, only better. And "
 "only from Firefox."
 msgstr ""
+"Mae Firefox Datblygwyr yn crynhoi eich prif offer datblygu mewn un man gyda "
+"rhai newydd pwerus fydd yn estyn eich gallu i weithio ar draws platfformau "
+"lluosog o un man. Mae'n bopeth rydych wedi arfer ag ef ond yn well. A dim "
+"ond gan Firefox."
 
 #: firefox/developer.lang:51
 msgid "Screenshot"
@@ -87,35 +100,40 @@ msgstr "Llun sgrin"
 
 #: firefox/developer.lang:55
 msgid "WebIDE"
-msgstr ""
+msgstr "WebIDE"
 
 #: firefox/developer.lang:59
 msgid ""
 "Develop, deploy and debug Firefox OS apps directly in your browser, or on a "
 "Firefox OS device, with this tool that replaces App Manager."
 msgstr ""
+"Datblygwch, defnyddiwch a dadfygiwch apiau Firefox OS yn uniongyrchol yn "
+"eich porwr neu ar ddyfais Firefox OS, gyda'r offeryn yma sy'n cymryd lle'r "
+"Rheolwr Apiau."
 
 #: firefox/developer.lang:63
 msgid "Learn more about WebIDE"
-msgstr ""
+msgstr "Dysgu rhagor am WebIDE"
 
 #: firefox/developer.lang:67
 msgid "Responsive Design View"
-msgstr ""
+msgstr "Golwg Cynllunio Ymatebol"
 
 #: firefox/developer.lang:71
 msgid ""
 "See how your Website or Web app will look on different screen sizes without "
 "changing the size of your browser window."
 msgstr ""
+"Gwelwch sut fydd eich Gwefan neu ap Gwe'n edrych ar sgriniau maint gwahanol "
+"heb newid maint ffenestr eich porwr."
 
 #: firefox/developer.lang:75
 msgid "Learn more about Responsive Design View"
-msgstr ""
+msgstr "Dysgu rhagor am Olwg Cynllunio Ymatebol"
 
 #: firefox/developer.lang:79
 msgid "Valence"
-msgstr ""
+msgstr "Valence"
 
 #: firefox/developer.lang:83
 msgid ""
@@ -168,45 +186,51 @@ msgstr ""
 
 #: firefox/developer.lang:123
 msgid "Learn more about Web Console"
-msgstr ""
+msgstr "Dysgu rhagor am y Consol Gwe"
 
 #: firefox/developer.lang:127
 msgid "JavaScript Debugger"
-msgstr ""
+msgstr "Dadfygiwr JavaScript"
 
 #: firefox/developer.lang:131
 msgid ""
 "Step through JavaScript code and examine or modify its state to help track "
 "down bugs."
 msgstr ""
+"Camwch drwy god JavaScript ac archwilio neu newid ei gyflwr er mwyn olrhain "
+"gwallau."
 
 #: firefox/developer.lang:135
 msgid "Learn more about JavaScript Debugger"
-msgstr ""
+msgstr "Dysgu rhagor am y Dadfygiwr JavaScript"
 
 #: firefox/developer.lang:139
 msgid "Network Monitor"
-msgstr ""
+msgstr "Monitor Rhwydwaith"
 
 #: firefox/developer.lang:143
 msgid ""
 "See all the network requests your browser makes, how long each request takes "
 "and details of each request."
 msgstr ""
+"Gweld yr holl geisiadau rhwydwaith mae eich porwr yn ei wneud, faint o amser "
+"mae pob cais yn ei gymryd a manylion pob cais."
 
 #: firefox/developer.lang:147
 msgid "Learn more about Network Monitor"
-msgstr ""
+msgstr "Dysgu rhagor a y Monitor Rhwydwaith"
 
 #: firefox/developer.lang:151
 msgid "Style Editor"
-msgstr ""
+msgstr "Golygydd Arddull"
 
 #: firefox/developer.lang:155
 msgid ""
 "View and edit CSS styles associated with a Web page, create new ones and "
 "apply existing CSS stylesheets to any page."
 msgstr ""
+"Gweld a golygu arddulliau CSS sy'n gysylltiedig â thudalen Gwe, creu rhai "
+"newydd a gosod tudalennau arddull CSS i unrhyw dudalen."
 
 #: firefox/developer.lang:159
 msgid "Learn more about Style Editor"
@@ -259,36 +283,41 @@ msgid ""
 "Sync your Firefox desktop and mobile browsers to get instant access to your "
 "bookmarks, open tabs, passwords and more."
 msgstr ""
+"Cydweddwch eich Firefox bwrdd gwaith â phorwyr symudol i gael mynediad "
+"uniongyrchol i'ch nodau tudalen, tabiau agored, cyfrineiriau a rhagor."
 
 #: firefox/developer.lang:204
 msgid "Sync my Firefox"
-msgstr ""
+msgstr "Cydweddu fy Firefox"
 
 #: firefox/developer.lang:208
-#, fuzzy
 msgid "No thanks"
 msgstr "Na, dim diolch."
 
 #: firefox/developer.lang:212
 msgid "Welcome to <span>Firefox Developer Edition</span>"
-msgstr ""
+msgstr "Croeso i<span>Firefox Datblygwr</span>"
 
 #: firefox/developer.lang:216
 msgid ""
 "Get to know the features that make it the most complete browser for building "
 "the Web."
 msgstr ""
+"Dewch i adnabod y nodweddion sy'n creu'r porwr mwyaf cyflawn ar gyfer "
+"adeiladu'r We."
 
 #: firefox/developer.lang:220
 msgid "Want the old look back?"
-msgstr ""
+msgstr "Eisiau'r hen olwg nôl?"
 
 #: firefox/developer.lang:224
 msgid ""
 "If you want the familiar look and feel of Firefox Aurora back, we’ve made it "
 "super easy for you."
 msgstr ""
+"Os hoffech chi gael y golwg a'r teimlad o Firefox Aurora yn ei ôl, mae'n "
+"hawdd."
 
 #: firefox/developer.lang:228
 msgid "Features and tools"
-msgstr ""
+msgstr "Nodweddion ac offer"
