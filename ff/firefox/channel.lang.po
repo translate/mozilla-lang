@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-07 15:52+0100\n"
+"POT-Creation-Date: 2014-11-08 07:04+0000\n"
 "PO-Revision-Date: 2014-06-01 10:31+0000\n"
 "Last-Translator: Ibrahima <ibrahima.sarr@pulaagu.com>\n"
 "Language-Team: FULAH LOCALIZATION\n"
@@ -12,23 +12,43 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1401618710.000000\n"
 
 #. # telemetry_notice ##
+#. # channel_dev_edition ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/channel/
+#. # TAG: channel_dev_edition
 #. This is the string for the <title> tag on the page.
-#: firefox/channel.lang:6
+#: firefox/channel.lang:8
+#, fuzzy
+msgid ""
+"Download Firefox Developer Edition or Beta &amp; Help Determine the Next "
+"Firefox"
+msgstr "Aawto Firefox Aurora walla Beta &amp; Wallu Yuɓɓinde Firefox Garoowo"
+
+#. This is the string for the <title> tag on the page.
+#: firefox/channel.lang:13
 msgid "Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox"
 msgstr "Aawto Firefox Aurora walla Beta &amp; Wallu Yuɓɓinde Firefox Garoowo"
 
+#. # TAG: channel_dev_edition
+#: firefox/channel.lang:18
+#, fuzzy
+msgid ""
+"Download and test Firefox future releases. Experience the newest innovations "
+"with the Developer Edition or Beta builds."
+msgstr ""
+"Aawto ngam ƴeewndaade jame Firefox payɗe bayyineede. Ƴeewndo fannuuji ɓurɗi "
+"hesɗude huutoraade jame Aurora walla Betaa."
+
 #. This description applies to Firefox Beta
-#: firefox/channel.lang:11
+#: firefox/channel.lang:23
 msgid "The latest features in a more stable environment"
 msgstr "Fannuuji cakkitiiɗi e weeyo ɓurngo yamɗude"
 
 #. # TAG: telemetry_notice
-#: firefox/channel.lang:16
+#: firefox/channel.lang:28
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -36,7 +56,7 @@ msgstr ""
 "Firefox Bata neldat duttine e jaajol to Mozilla. <a href=\"%(link)s\">Ɓeydu "
 "humpito</a>."
 
-#: firefox/channel.lang:20
+#: firefox/channel.lang:32
 msgid ""
 "<a href=\"%(feedback)s\">Give us feedback</a> to help us put the final "
 "tweaks on performance and functionality in a stable environment."
@@ -44,7 +64,23 @@ msgstr ""
 "<a href=\"%(feedback)s\">Neldu duttine</a> ngam wallude-en addude bayle "
 "moƴƴugol e fannuuji kesi e weeyo yamɗungo."
 
-#: firefox/channel.lang:24
+#. # TAG: telemetry_notice
+#: firefox/channel.lang:37
+msgctxt "./firefox/channel.lang:37"
+msgid ""
+"Firefox Aurora and Firefox Developer Edition automatically send feedback to "
+"Mozilla. <a href=\"%(link)s\">Learn more</a>."
+msgstr ""
+
+#. # TAG: channel_dev_edition
+#: firefox/channel.lang:42
+msgctxt "./firefox/channel.lang:42"
+msgid ""
+"Firefox Aurora and Firefox Developer Edition automatically send feedback to "
+"Mozilla. <a href=\"%(link)s\">Learn more</a>."
+msgstr ""
+
+#: firefox/channel.lang:46
 msgid ""
 "Firefox Aurora automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -52,13 +88,18 @@ msgstr ""
 "Firefox Aurora neldat duttine e jaajol to Mozilla. <a href=\"%(link)s"
 "\">Ɓeydu humpito</a>."
 
+#. # TAG: channel_dev_edition
+#: firefox/channel.lang:51
+msgid "Built for those who build the Web"
+msgstr ""
+
 #. This description applies to Firefox Aurora
-#: firefox/channel.lang:29
+#: firefox/channel.lang:56
 msgid "The newest innovations in an experimental environment"
 msgstr "Kesameeje cakkitiiɗe e weeyo ƴeewtindorgol"
 
 #. # TAG: telemetry_notice
-#: firefox/channel.lang:34
+#: firefox/channel.lang:61
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="
 "\"%(feedback)s\">help us determine what makes it to Beta</a>."
@@ -67,18 +108,18 @@ msgstr ""
 "\">mballa-en suɓaade ko ɓennata to yamre Beta</a>."
 
 #. This description applies to Firefox on the Release channel
-#: firefox/channel.lang:39
+#: firefox/channel.lang:66
 msgid "Tried, tested and used by millions around the world"
 msgstr "Ena ƴeewndaa, ƴeewtindaa e ordinateer miliyoŋaaji neɗɗo e winndere"
 
-#: firefox/channel.lang:43
+#: firefox/channel.lang:70
 msgid "Learn more about Firefox Beta"
 msgstr "Ɓeydu humpito baɗte Firefox Beta"
 
-#: firefox/channel.lang:47
+#: firefox/channel.lang:74
 msgid "Learn more about Firefox Aurora"
 msgstr "Ɓeydu humpito baɗte Firefox Aurora"
 
-#: firefox/channel.lang:51
+#: firefox/channel.lang:78
 msgid "Learn more about Firefox"
 msgstr "Ɓeydu humpito baɗte Firefox"
