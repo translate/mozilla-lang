@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-08 07:04+0000\n"
+"POT-Creation-Date: 2014-11-08 14:05+0000\n"
 "PO-Revision-Date: 2014-11-08 11:18+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1415445485.000000\n"
 
 #. # telemetry_notice ##
@@ -66,19 +66,9 @@ msgstr ""
 "kónčne dokładne nastajenja za wukon a funkcionalnosć w stabilnej wokolinje "
 "stajić."
 
-#. # TAG: telemetry_notice
-#: firefox/channel.lang:37
-msgctxt "./firefox/channel.lang:37"
-msgid ""
-"Firefox Aurora and Firefox Developer Edition automatically send feedback to "
-"Mozilla. <a href=\"%(link)s\">Learn more</a>."
-msgstr ""
-"Firefox Aurora a wuwiwarska edicija Firefox awtomatisce komentary na Mozilla "
-"sćelu. <a href=\"%(link)s\">Dalše informacije</a>."
-
 #. # TAG: channel_dev_edition
-#: firefox/channel.lang:42
-msgctxt "./firefox/channel.lang:42"
+#: firefox/channel.lang:37
+#, fuzzy
 msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
 "Mozilla. <a href=\"%(link)s\">Learn more</a>."
@@ -86,7 +76,7 @@ msgstr ""
 "Firefox Aurora a wuwiwarska edicija Firefox awtomatisce komentary na Mozilla "
 "sćelu. <a href=\"%(link)s\">Dalše informacije</a>."
 
-#: firefox/channel.lang:46
+#: firefox/channel.lang:41
 msgid ""
 "Firefox Aurora automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -95,17 +85,17 @@ msgstr ""
 "\">Dalše informacije</a>."
 
 #. # TAG: channel_dev_edition
-#: firefox/channel.lang:51
+#: firefox/channel.lang:46
 msgid "Built for those who build the Web"
 msgstr "Za tych wutworjeny, kotřiž web twarja"
 
 #. This description applies to Firefox Aurora
-#: firefox/channel.lang:56
+#: firefox/channel.lang:51
 msgid "The newest innovations in an experimental environment"
 msgstr "Najnowše inowacije w eksperimentelnej wokolinje"
 
 #. # TAG: telemetry_notice
-#: firefox/channel.lang:61
+#: firefox/channel.lang:56
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="
 "\"%(feedback)s\">help us determine what makes it to Beta</a>."
@@ -114,18 +104,26 @@ msgstr ""
 "href=\"%(feedback)s\">pomhajće nam, postajić, štož to k Beta čini</a>."
 
 #. This description applies to Firefox on the Release channel
-#: firefox/channel.lang:66
+#: firefox/channel.lang:61
 msgid "Tried, tested and used by millions around the world"
 msgstr "Wot milionow kołowokoło swěta wuprobowany, testowany a wužity"
 
-#: firefox/channel.lang:70
+#: firefox/channel.lang:65
 msgid "Learn more about Firefox Beta"
 msgstr "Zhońće wjace wo Firefox Beta"
 
-#: firefox/channel.lang:74
+#: firefox/channel.lang:69
 msgid "Learn more about Firefox Aurora"
 msgstr "Zhońce wjace wo Firefox Aurora"
 
-#: firefox/channel.lang:78
+#: firefox/channel.lang:73
 msgid "Learn more about Firefox"
 msgstr "Zhońće wjace wo Firefox"
+
+#~ msgctxt "./firefox/channel.lang:42"
+#~ msgid ""
+#~ "Firefox Aurora and Firefox Developer Edition automatically send feedback "
+#~ "to Mozilla. <a href=\"%(link)s\">Learn more</a>."
+#~ msgstr ""
+#~ "Firefox Aurora a wuwiwarska edicija Firefox awtomatisce komentary na "
+#~ "Mozilla sćelu. <a href=\"%(link)s\">Dalše informacije</a>."

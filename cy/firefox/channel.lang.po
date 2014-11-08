@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-08 07:04+0000\n"
+"POT-Creation-Date: 2014-11-08 14:05+0000\n"
 "PO-Revision-Date: 2014-11-08 12:03+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1415448192.000000\n"
 
 #. # telemetry_notice ##
@@ -64,9 +64,9 @@ msgstr ""
 "<a href=\"%(feedback)s\">Anfonwch adborth</a> fel bo modd i ni wella "
 "perfformiad a swyddogaethau mewn amgylchedd sefydlog."
 
-#. # TAG: telemetry_notice
+#. # TAG: channel_dev_edition
 #: firefox/channel.lang:37
-msgctxt "./firefox/channel.lang:37"
+#, fuzzy
 msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
 "Mozilla. <a href=\"%(link)s\">Learn more</a>."
@@ -74,17 +74,7 @@ msgstr ""
 "Mae Firefox Aurora a Firefox Datblygwyr yn anfon adborth yn awtomatig at "
 "Mozilla. <a href=\"%(link)s\">Dysgu rhagor</a>."
 
-#. # TAG: channel_dev_edition
-#: firefox/channel.lang:42
-msgctxt "./firefox/channel.lang:42"
-msgid ""
-"Firefox Aurora and Firefox Developer Edition automatically send feedback to "
-"Mozilla. <a href=\"%(link)s\">Learn more</a>."
-msgstr ""
-"Mae Firefox Aurora a Firefox Datblygwyr yn anfon adborth yn awtomatig at "
-"Mozilla. <a href=\"%(link)s\">Dysgu rhagor</a>. "
-
-#: firefox/channel.lang:46
+#: firefox/channel.lang:41
 msgid ""
 "Firefox Aurora automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -93,17 +83,17 @@ msgstr ""
 "\"%(link)s\">Dysgu rhagor</a>."
 
 #. # TAG: channel_dev_edition
-#: firefox/channel.lang:51
+#: firefox/channel.lang:46
 msgid "Built for those who build the Web"
 msgstr "Adeiladwyd ar gyfer y rhai sy'n adeiladu'r We"
 
 #. This description applies to Firefox Aurora
-#: firefox/channel.lang:56
+#: firefox/channel.lang:51
 msgid "The newest innovations in an experimental environment"
 msgstr "Y nodweddion diweddaraf mewn amgylchedd arbrofol"
 
 #. # TAG: telemetry_notice
-#: firefox/channel.lang:61
+#: firefox/channel.lang:56
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="
 "\"%(feedback)s\">help us determine what makes it to Beta</a>."
@@ -112,18 +102,26 @@ msgstr ""
 "\"%(feedback)s\">cynorthwyo beth sy'n cyrraedd y Beta</a>."
 
 #. This description applies to Firefox on the Release channel
-#: firefox/channel.lang:66
+#: firefox/channel.lang:61
 msgid "Tried, tested and used by millions around the world"
 msgstr "Wedi eu profi, eu treialu a'u defnyddio gan filiynau o amgylch y byd"
 
-#: firefox/channel.lang:70
+#: firefox/channel.lang:65
 msgid "Learn more about Firefox Beta"
 msgstr "Dysgu rhagor am Firefox Beta"
 
-#: firefox/channel.lang:74
+#: firefox/channel.lang:69
 msgid "Learn more about Firefox Aurora"
 msgstr "Dysgu rhagor am Firefox Aurora"
 
-#: firefox/channel.lang:78
+#: firefox/channel.lang:73
 msgid "Learn more about Firefox"
 msgstr "Dysgu rhagor am Firefox"
+
+#~ msgctxt "./firefox/channel.lang:42"
+#~ msgid ""
+#~ "Firefox Aurora and Firefox Developer Edition automatically send feedback "
+#~ "to Mozilla. <a href=\"%(link)s\">Learn more</a>."
+#~ msgstr ""
+#~ "Mae Firefox Aurora a Firefox Datblygwyr yn anfon adborth yn awtomatig at "
+#~ "Mozilla. <a href=\"%(link)s\">Dysgu rhagor</a>. "
