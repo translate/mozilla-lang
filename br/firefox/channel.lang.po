@@ -1,4 +1,5 @@
 #. extracted from ./firefox/channel.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -7,7 +8,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,34 +19,45 @@ msgstr ""
 #. # TAG: channel_dev_edition
 #. This is the string for the <title> tag on the page.
 #: firefox/channel.lang:8
+#, fuzzy
 msgid ""
 "Download Firefox Developer Edition or Beta &amp; Help Determine the Next "
 "Firefox"
 msgstr ""
+"Pellgargit Firefox Aurora pe vBeta ha roit skoazell didermenañ petra a vo e-"
+"barzh handelv gentañ Firefox."
 
 #. This is the string for the <title> tag on the page.
 #: firefox/channel.lang:13
 msgid "Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox"
 msgstr ""
+"Pellgargit Firefox Aurora pe vBeta ha roit skoazell didermenañ petra a vo e-"
+"barzh handelv gentañ Firefox."
 
 #. # TAG: channel_dev_edition
 #: firefox/channel.lang:18
+#, fuzzy
 msgid ""
 "Download and test Firefox future releases. Experience the newest innovations "
 "with the Developer Edition or Beta builds."
 msgstr ""
+"Pellgargit hag amprouit handelvoù da zont Firefox. Arnodit an nevezadennoù "
+"diwezhañ gant an handelvoù Aurora pe Beta."
 
 #. This description applies to Firefox Beta
 #: firefox/channel.lang:23
 msgid "The latest features in a more stable environment"
-msgstr ""
+msgstr "Ar c'heweriusterioù diwezhañ e-barzh un endro stabiloc'h"
 
 #. # TAG: telemetry_notice
 #: firefox/channel.lang:28
+#, fuzzy
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
 msgstr ""
+"Firefox Aurora a gas evezhiadennoù ent emgefreek da vMozilla. <a href="
+"\"%(link)s\">Gouzout hiroc'h</a>."
 
 #: firefox/channel.lang:32
 msgid ""
@@ -66,6 +77,8 @@ msgid ""
 "Firefox Aurora automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
 msgstr ""
+"Firefox Aurora a gas evezhiadennoù ent emgefreek da vMozilla. <a href="
+"\"%(link)s\">Gouzout hiroc'h</a>."
 
 #. # TAG: channel_dev_edition
 #: firefox/channel.lang:46
@@ -75,7 +88,7 @@ msgstr ""
 #. This description applies to Firefox Aurora
 #: firefox/channel.lang:51
 msgid "The newest innovations in an experimental environment"
-msgstr ""
+msgstr "An nevezintioù nevesañ e-barzh un endro arnodel"
 
 #. # TAG: telemetry_notice
 #: firefox/channel.lang:56
@@ -87,16 +100,16 @@ msgstr ""
 #. This description applies to Firefox on the Release channel
 #: firefox/channel.lang:61
 msgid "Tried, tested and used by millions around the world"
-msgstr ""
+msgstr "Prouadet, peurlipet hag arveret gant milionoù a dud er bed a-bezh"
 
 #: firefox/channel.lang:65
 msgid "Learn more about Firefox Beta"
-msgstr ""
+msgstr "Gouzout hiroc'h a-zivout Firefox Beta"
 
 #: firefox/channel.lang:69
 msgid "Learn more about Firefox Aurora"
-msgstr ""
+msgstr "Gouzout hiroc'h a-zivout Firefox Aurora"
 
 #: firefox/channel.lang:73
 msgid "Learn more about Firefox"
-msgstr ""
+msgstr "Gouzout hiroc'h a-zivout Firefox"

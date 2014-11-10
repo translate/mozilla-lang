@@ -1,4 +1,5 @@
 #. extracted from ./newsletter.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -7,7 +8,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,59 +16,61 @@ msgstr ""
 #. These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
 #: newsletter.lang:3
 msgid "Get Monthly News"
-msgstr ""
+msgstr "Kaout hol lizher miziek"
 
 #: newsletter.lang:7
 msgid "Your Email Address"
-msgstr ""
+msgstr "Ho chomlec'h postel"
 
 #: newsletter.lang:11
 msgid "Your email address:"
-msgstr ""
+msgstr "Ho chomlec'h postel:"
 
 #: newsletter.lang:15
 msgid "Text"
-msgstr ""
+msgstr "Testenn"
 
 #: newsletter.lang:19
 msgid "Available Languages"
-msgstr ""
+msgstr "Yezhoù hegerz"
 
 #: newsletter.lang:23
 msgid "Language:"
-msgstr ""
+msgstr "Yezh :"
 
 #: newsletter.lang:27
 msgid "Select country"
-msgstr ""
+msgstr "Diuzañ ur vro"
 
 #: newsletter.lang:31
 msgid "Country:"
-msgstr ""
+msgstr "Bro :"
 
 #: newsletter.lang:35
 msgid "Whoops! Be sure to enter a valid email address."
-msgstr ""
+msgstr "Hopala ! Ho chomlec'h postel n'eo ket talvoudek."
 
 #: newsletter.lang:39
 msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
 msgstr ""
+"Mar plij, lennit ar reolennoù eus Mozilla a-fet buhez prevez ha degemerit "
+"anezho en ur gevaskañ al log."
 
 #: newsletter.lang:43
 msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
-msgstr ""
+msgstr "A-du on gant ar <a href=\"%s\">reolennoù a-fet buhez prevez</a>"
 
 #: newsletter.lang:47
 msgid "Sign me up!"
-msgstr ""
+msgstr "Koumanantiñ a ran !"
 
 #: newsletter.lang:51
 msgid "We will only send you Mozilla-related information."
-msgstr ""
+msgstr "Kaset e vo titouroù deoc'h diwar-benn Mozilla nemetken."
 
 #: newsletter.lang:55
 msgid "Thanks for Subscribing!"
-msgstr ""
+msgstr "Trugarez deoc'h da vezañ koumanantet !"
 
 #: newsletter.lang:59
 msgid ""
@@ -76,6 +78,9 @@ msgid ""
 "out of Firefox, as well as exciting news about Mozilla and how we’re working "
 "to create a better Web."
 msgstr ""
+"Kaset e vo deoc'h bremaik tunioù ha korvigelloù a roio tro deoc'h da gaout "
+"ar pep gwellañ eus Firefox, evel keleier a-zivout Mozilla hag hol labour "
+"evit krouiñ ur gwellañ Web."
 
 #: newsletter.lang:63
 msgid ""
@@ -83,143 +88,164 @@ msgid ""
 "the latest tips and tricks for getting the most out of your Firefox browser. "
 "It’s the perfect way for us to keep in touch!"
 msgstr ""
+"Koumanantit d'hol lizher miziek ha degemerit keleier Mozilla, enno an tunioù "
+"ha ar c'horvigelloù diwezhañ evit kaout ar pep gwellañ eus Firefox. An doare "
+"gwellañ da chom e darempred."
 
 #: newsletter.lang:66
 msgid ""
 "We just sent you a confirmation message by email. Click on the confirmation "
 "link in this email to validate your subscription to this mailing list."
 msgstr ""
+"Emaomp o paouez kas deoc'h ur gemennadenn kadarnaat dre bostel. Klikit war "
+"an ere kadarnaat e-barzh ar postel-mañ a-benn peurechuiñ ho koumanant d'ar "
+"roll skignañ-mañ."
 
 #: newsletter.lang:69
 msgid "Read all about it in our <span>newsletter</span>"
-msgstr ""
+msgstr "Dizoloit hol <span>lizher kelaouiñ</span>"
 
 #: newsletter.lang:73
 msgid "Your newsletter subscription has been confirmed."
-msgstr ""
+msgstr "Kadarnaet eo bet ho koumanant d'al lizher kelaouiñ."
 
 #: newsletter.lang:76
 msgid "Format"
-msgstr ""
+msgstr "Mentrezh"
 
 #: newsletter.lang:79
 msgid "You’re All Set! <span>But Wait, There’s More</span>"
-msgstr ""
+msgstr "Prest oc'h ! <span>Met gortozit, n'eo ket echu</span>"
 
 #: newsletter.lang:83
 msgid ""
 "Want to get the most relevant info? Tell us a little more about yourself. "
 "And while you’re here, sign up for other Mozilla news."
 msgstr ""
+"Fellout a ra deoc'h kaout ar c'heleier talvoudusañ evidoc'h ? Lavarit deomp "
+"un nebeud traoù diwar ho penn. Ha pa 'z emaoc'h amañ, koumanantit da lizhiri "
+"kelaouiñ all a-zivout Mozilla."
 
 #: newsletter.lang:86
 msgid "Firefox & You"
-msgstr ""
+msgstr "Firefox ha c'hwi"
 
 #: newsletter.lang:89
 msgid "Our Other Newsletters:"
-msgstr ""
+msgstr "Hol lizhiri kelaouiñ all :"
 
 #: newsletter.lang:92
 msgid ""
 "Get the latest tips and tricks for getting the most out of your favorite "
 "browser."
 msgstr ""
+"Kaout an tunioù ha korvigelloù diwezhañ a-benn kaout ar pep gwellañ eus ho "
+"merdeer gwellañ plijet."
 
 #: newsletter.lang:95
 msgid "Firefox Mobile"
-msgstr ""
+msgstr "Firefox evit an hezougelloù"
 
 #: newsletter.lang:98
 msgid "Learn about the hottest new add-ons and features for Firefox mobile."
 msgstr ""
+"Deskit traoù a-zivout an askouezhioù hag ar c'heweriusterioù diwezhañ evit "
+"Firefox evit an hezougelloù."
 
 #: newsletter.lang:101
 msgid "Beta News"
-msgstr ""
+msgstr "Keleier an handelv Beta"
 
 #: newsletter.lang:105
 msgid "Let’s Be Friends!"
-msgstr ""
+msgstr "Bezomp mignoned !"
 
 #: newsletter.lang:109
 msgid ""
 "Firefox is also on your favorite social networking sites. Connect with us "
 "and join the conversation."
 msgstr ""
+"War ho rouedadoù kevredadel muiañ plijet emañ ivez Firefox. Kit e darempred "
+"ganeomp ha kemerit perzh er gaozeadeg."
 
 #: newsletter.lang:113
 msgid "Manage your <span>Newsletter Subscriptions</span>"
-msgstr ""
+msgstr "Ardeiñ ho <span>koumanantoù</span>"
 
 #: newsletter.lang:117
 msgid "Subscribe"
-msgstr ""
+msgstr "Koumanantiñ"
 
 #: newsletter.lang:121
 msgid "Unsubscribe"
-msgstr ""
+msgstr "Digoumanantiñ"
 
 #: newsletter.lang:125
 msgid "Check here if you’d like to be removed from all Mozilla emails"
 msgstr ""
+"Kevaskit amañ mar fell deoc'h bezañ digoumanantet eus an holl lizhiri "
+"kelaouiñ o tont eus Mozilla"
 
 #: newsletter.lang:129
 msgid "Remove me from all Mozilla emails"
-msgstr ""
+msgstr "Digoumanantiñ ac'hanon eus an holl lizhiri kelaouiñ eus Mozilla"
 
 #: newsletter.lang:133
 msgid "Save Preferences"
-msgstr ""
+msgstr "Enrollañ ar gwellvezioù"
 
 #: newsletter.lang:136
 msgid "Thanks for updating your email preferences."
-msgstr ""
+msgstr "Trugarez deoc'h da vezañ hizivaet ho kwellvezioù."
 
 #: newsletter.lang:140
 msgid "You've been unsubscribed."
-msgstr ""
+msgstr "Digoumanantet oc'h bet."
 
 #: newsletter.lang:143
 msgid ""
 "We’re sorry to see you go. Would you mind telling us why you’re leaving?"
 msgstr ""
+"Diskonfort omp da welout ac'hanoc'h o vont kuit. Fellout a ra deoc'h lavar "
+"deomp perak e fell deoc'h kuit ?"
 
 #: newsletter.lang:147
 msgid "You send too many emails."
-msgstr ""
+msgstr "Kas a rit re a bosteloù."
 
 #: newsletter.lang:151
 msgid "Your content wasn't relevant to me."
-msgstr ""
+msgstr "An endalc'had ne oa ket talvoudus evidon."
 
 #: newsletter.lang:155
 msgid "Your email design was too hard to read."
-msgstr ""
+msgstr "Re ziaes da lenn e oa ho postel"
 
 #: newsletter.lang:159
 msgid "I didn't sign up for this."
-msgstr ""
+msgstr "N'em eus ket koumanantet d'an dra-se."
 
 #: newsletter.lang:163
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
 msgstr ""
+"Mont a ran e darempred gant Mozilla war Facebook pe dTwitter en e lec'h."
 
 #: newsletter.lang:167
 msgid "Submit"
-msgstr ""
+msgstr "Kas"
 
 #: newsletter.lang:170
 msgid "Thanks for telling us why you’re leaving."
-msgstr ""
+msgstr "Trugarez deoc'h da vezañ lavaret deomp perak ez it kuit."
 
 #: newsletter.lang:174
 msgid "Mozilla Newsletters"
-msgstr ""
+msgstr "Lizhiri kelaouiñ eus Mozilla"
 
 #: newsletter.lang:178
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr ""
+"Trugarez ! Mar plij, gwirit ho poest degemer evit kadarnaat ho koumanantiñ."
 
 #: newsletter.lang:182
 msgid ""
@@ -227,141 +253,160 @@ msgid ""
 "subscription. If you don't see it, check your spam filter. You must confirm "
 "your subscription to receive our newsletter."
 msgstr ""
+"Ur postel a berzh mozilla@e.mozilla.org a zegemerot evit kadarnaat ho "
+"koumanantiñ. Ma ne welit ket anezhañ, gwirit ho siloù spam. Ret eo deoc'h "
+"kadarnaat ho koumanantiñ evit degemer hol lizhiri kelaouiñ."
 
 #: newsletter.lang:186
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
 msgstr ""
+"Mar plij, ouzhpennit hor chomlec'h kas : mozilla@e.mozilla.org d'ho karned "
+"chomlec'hioù evit bezañ sur e c'hellimp tizhout ho poest degemer."
 
 #. This string is used for a subscription field on other pages than /newsletter/
 #: newsletter.lang:191
 msgid "Get Firefox news"
-msgstr ""
+msgstr "Kaout keleier a-zivout Firefox"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
 #: newsletter.lang:196
 msgid "YOUR EMAIL HERE"
-msgstr ""
+msgstr "HO POSTEL AMAÑ"
 
 #. Button
 #: newsletter.lang:200
 msgid "Sign me up"
-msgstr ""
+msgstr "Koumanantiñ a ran"
 
 #: newsletter.lang:204
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
 msgstr ""
+"An doare ma vez keweriet ma zitouroù gant Mozilla zo mat din evel ma 'z eo "
+"bet displeget er <a href=\"%s\">reolenn-mañ a fet buhez prevez</a>"
 
 #: newsletter.lang:208
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
 msgstr ""
+"Diamzeret eo an ere bet pourchaset. Degemeret e vo un ere nevez ganeoc'h e-"
+"barzh al lizher kelaouiñ da zont."
 
 #: newsletter.lang:212
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr ""
+"Degouezhet ez eus bet ur fazi gant hor reizhiad ha diskonfort omp ! Klaskit "
+"en-dro diwezhatoc'h, mar plij."
 
 #: newsletter.lang:216
 msgid "English&nbsp;only"
-msgstr ""
+msgstr "Saozneg&nbsp;nemetken"
 
 #: newsletter.lang:220
 msgid "Newsletter Subscriptions"
-msgstr ""
+msgstr "Koumanantoù d'al lizher kelaouiñ"
 
 #: newsletter.lang:224
 msgid "Newsletter confirm"
-msgstr ""
+msgstr "Kadarnaat ar c'houmanant d'al lizher kelaouiñ"
 
 #: newsletter.lang:228
 msgid "Format:"
-msgstr ""
+msgstr "Mentrezh :"
 
 #: newsletter.lang:232
 msgid "You’ve been unsubscribed."
-msgstr ""
+msgstr "Digoumanantet oc'h bet."
 
 #: newsletter.lang:236
 msgid "We’re sorry to see you go."
-msgstr ""
+msgstr "Diskonfort omp da welout ac'hanoc'h o vont kuit."
 
 #: newsletter.lang:240
 msgid "Would you mind telling us why you’re leaving?"
-msgstr ""
+msgstr "Fellout a ra deoc'h lavar deomp perak ez it kuit ?"
 
 #: newsletter.lang:244
 msgid "Other…"
-msgstr ""
+msgstr "All…"
 
 #: newsletter.lang:248
 msgid "While here, why not check out some more Firefox awesomeness."
-msgstr ""
+msgstr "Kemerit tro ac'hano evit dizoleiñ keweriusterioù all eus Firefox."
 
 #: newsletter.lang:252
 msgid "Get up and go"
-msgstr ""
+msgstr "Deomp dezhi"
 
 #: newsletter.lang:256
 msgid "It’s your Web anywhere you go."
-msgstr ""
+msgstr "Kemerit ho Web da forzh pelec'h ez eot."
 
 #: newsletter.lang:260
 msgid "Get Firefox for mobile!"
-msgstr ""
+msgstr "Ho pezet Firefox evit an hezougelloù !"
 
 #: newsletter.lang:264
 msgid "Added extras"
-msgstr ""
+msgstr "Keweriusterioù ouzhpenn"
 
 #: newsletter.lang:268
 msgid "Make Firefox do more with add-ons."
 msgstr ""
+"Ouzhpennit keweriusterioù nevez da Firefox a-drugarez d'an askouezhioù."
 
 #: newsletter.lang:272
 msgid "Find out how!"
-msgstr ""
+msgstr "Dizoloit penaos hen ober !"
 
 #: newsletter.lang:276
 msgid "About us"
-msgstr ""
+msgstr "Diwar hor penn"
 
 #: newsletter.lang:280
 msgid "What’s Mozilla all about?"
-msgstr ""
+msgstr "Petra eo Mozilla ?"
 
 #: newsletter.lang:284
 msgid "We’re glad you asked!"
-msgstr ""
+msgstr "Trugarez da vezañ goulennet !"
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:289
 msgid ""
 "A monthly newsletter packed with tips to improve your Firefox experience."
 msgstr ""
+"Ul lizher kelaouiñ miziek gant tunioù da wellaat ho toare d'ober gant "
+"Firefox."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:294
 msgid "Tips and tricks to use Firefox on your Android phone."
 msgstr ""
+"Tunioù ha korvigelloù evit arverañ Firefox war ho hezougell mod Android."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:299
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr ""
+"Keleier a-zivout Firefox OS, tunioù, al lec'hioù gwerzhañ ha titouroù diwar-"
+"benn al lañsañ."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:304
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr ""
+"Dizoloit an arloadoù disparañ diwezhañ evit an HTLM5 war on Firefox OS."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:309
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr ""
+"Kaout un tun sizhuniek evit gouzout penaos mont don gant arver Firefox."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:314
@@ -369,16 +414,21 @@ msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
 msgstr ""
+"Lennit traoù a-zivout keweriusterioù diwezhañ an handelvoù evit an "
+"urzhiataerioù burev hag an hezougelloù eus Firefox a-raok an ermaeziadur "
+"diwezhañ."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:319
 msgid "News from the Mozilla Project."
-msgstr ""
+msgstr "Keleier a-berzh Raktres Mozilla."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:324
 msgid "Periodic email updates about our annual international film competition."
 msgstr ""
+"Hizivadennoù ar postel trovezhiek a-zivout hor c'hevezadeg etrevroadel ar "
+"filmoù."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:329
@@ -386,6 +436,8 @@ msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
 msgstr ""
+"Ul lizher kelaouiñ miziek da chom gant titouroù hizivaet a-zivout ar "
+"programm Firefox Affiliates."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:334
@@ -393,17 +445,21 @@ msgid ""
 "News for developers about Firefox OS, Firefox Marketplace and the Open Web "
 "apps ecosystem."
 msgstr ""
+"Keleier evit an diorroerien a-zivout Firefox OS, Firefox Marketplace ha "
+"trevreizhiad arloadoù ar web digor."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:339
 msgid "Email updates for vouched Mozillians on mozillians.org."
-msgstr ""
+msgstr "Hizivadennoù evit ar posteloù evit ar Vozillianed war mozillians.org."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:344
 msgid ""
 "A monthly newsletter on how to get involved with Mozilla on your campus."
 msgstr ""
+"Ul lizher kelaouiñ miziek evit gouzout penaos kemer perzh e Mozilla en ho "
+"skol-Veur."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:349
@@ -411,3 +467,5 @@ msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
 msgstr ""
+"Anvet a-raok 'Programm ar Skolioù-Meur' etre 2008 ha 2011e oa bet dilamet "
+"hag adlañset bremañ gant an anv 'Programm Kannaded-Studierien Firefox."
