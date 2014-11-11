@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-28 13:33+0100\n"
+"POT-Creation-Date: 2014-11-11 10:05+0000\n"
 "PO-Revision-Date: 2013-11-02 01:28+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1383355703.000000\n"
 
 #. # NOTE: This is for the Whatsnew page: http://www-dev.allizom.org/b/firefox/whatsnew/
@@ -111,75 +111,67 @@ msgstr ""
 msgid "Now get the mobile browser that’s got your back"
 msgstr "Faigh brabhsair airson fònaichean-làimhe a tha fo do smachd fhèin."
 
-#: firefox/whatsnew.lang:71
-msgid "Firefox Features"
-msgstr "Feartan Firefox"
-
 #. This is the tab title
-#: firefox/whatsnew.lang:76
+#: firefox/whatsnew.lang:72
 msgid "Welcome to Firefox"
 msgstr "Fàilte gu Firefox"
 
-#: firefox/whatsnew.lang:80
-msgid "Firefox Help"
-msgstr "Cobhair le Firefox"
-
 #. This is the alternate text for the Android image for blind people
-#: firefox/whatsnew.lang:85
+#: firefox/whatsnew.lang:77
 msgid "Firefox for Android artwork"
 msgstr "Obair-ealain airson Firefox air Android"
 
 #. Firefox for Android slogan, part of the fallback if we don't have a promotional video ready
-#: firefox/whatsnew.lang:90
+#: firefox/whatsnew.lang:82
 msgid "Fast. Smart. Safe."
 msgstr "Luath. Tapaidh. Sàbhailte."
 
 #. This message is displayed as a fallback if we don't have a promotional video ready
-#: firefox/whatsnew.lang:95
+#: firefox/whatsnew.lang:87
 msgid "Get the mobile browser that’s got your back."
 msgstr "Faigh brabhsair airson fònaichean-làimhe a tha fo do smachd fhèin."
 
 #. Fx17: social API strings
-#: firefox/whatsnew.lang:100
+#: firefox/whatsnew.lang:92
 msgid "Facebook Messenger for Firefox"
 msgstr "Facebook Messenger airson Firefox"
 
-#: firefox/whatsnew.lang:104
+#: firefox/whatsnew.lang:96
 msgid "Now you can keep up with friends wherever you go on the Web."
 msgstr ""
 "'S urrainn dhut cumail suas ri do charaidean a-nis ge be càit air an lìon a "
 "bhios tu."
 
 #. This is a button you can click
-#: firefox/whatsnew.lang:109
+#: firefox/whatsnew.lang:101
 msgid "Visit Facebook to turn it on"
 msgstr "Tadhail air Facebook gus a chur air"
 
-#: firefox/whatsnew.lang:113
+#: firefox/whatsnew.lang:105
 msgid "Get notified right away"
 msgstr "Faigh brath sa bhad"
 
-#: firefox/whatsnew.lang:117
+#: firefox/whatsnew.lang:109
 msgid "See new comments, photo tags & other Facebook updates instantly."
 msgstr ""
 "Faic beachdan ùra, tagaichean dhealbhan ⁊ naidheachdan Facebook eile sa bhad."
 
-#: firefox/whatsnew.lang:121
+#: firefox/whatsnew.lang:113
 msgid "Chat while you browse"
 msgstr "Dèan cabadaich fhad 's a nì thu brabhsadh"
 
-#: firefox/whatsnew.lang:125
+#: firefox/whatsnew.lang:117
 msgid "Stay connected to your Facebook friends without having to click away."
 msgstr ""
 "Cum suas ri do charaidean air Facebook gun fheum air briogadh air falbh."
 
-#: firefox/whatsnew.lang:129
+#: firefox/whatsnew.lang:121
 msgid "Facebook is a trademark of <a href=\"%(url)s\">Facebook, Inc.</a>"
 msgstr ""
 "Tha Facebook 'na chomharra-malairt aig <a href=\"%(url)s\">Facebook, Inc.</a>"
 
 #. The line breaks in this headline are for visual formatting only
-#: firefox/whatsnew.lang:134
+#: firefox/whatsnew.lang:126
 msgid ""
 "Congratulations!<br> Your browser is safer and<br>more secure than ever."
 msgstr ""
@@ -187,10 +179,16 @@ msgstr ""
 "riamh roimhe."
 
 #. The line breaks in this headline are for visual formatting only
-#: firefox/whatsnew.lang:139
+#: firefox/whatsnew.lang:131
 msgid "Get the same level of<br> choice and innovation<br> in a smartphone."
 msgstr "Faigh an aon ìre de<br> roghainn is tionnsgnadh<br> air fòn tapaidh."
 
-#: firefox/whatsnew.lang:143
+#: firefox/whatsnew.lang:135
 msgid "Learn more about Firefox OS"
 msgstr "Barrachd fiosrachaidh air Firefox OS"
+
+#~ msgid "Firefox Features"
+#~ msgstr "Feartan Firefox"
+
+#~ msgid "Firefox Help"
+#~ msgstr "Cobhair le Firefox"
