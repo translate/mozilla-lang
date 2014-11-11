@@ -4,16 +4,18 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-30 21:15+0000\n"
-"PO-Revision-Date: 2014-11-03 21:40+0000\n"
-"Last-Translator: Odin <odinmojica@mozilla-mexico.org>\n"
+"PO-Revision-Date: 2014-11-11 08:13+0000\n"
+"Last-Translator: Francesco Lodolo <francesco.lodolo@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es_MX\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1415050808.000000\n"
+"X-POOTLE-MTIME: 1415693594.000000\n"
 
+# # fx10_independent ##
+# # NOTE: demo server at https://www-dev.allizom.org/
 #. # fx10_independent ##
 #. # NOTE: demo server at https://www-dev.allizom.org/
 #: mozorg/home/index.lang:4
@@ -28,23 +30,24 @@ msgstr "Leer más"
 msgid "Community"
 msgstr "Comunidad"
 
+# New tiles for Firefox Anniversary are visible on https://www-demo3.allizom.org/
 #. # TAG: fx10_independent
 #. New tiles for Firefox Anniversary are visible on https://www-demo3.allizom.org/
 #: mozorg/home/index.lang:18
 msgid "Firefox: The independent choice"
-msgstr "Firefox: La elección independiente "
+msgstr "Firefox: La elección independiente"
 
 #. # TAG: fx10_independent
 #: mozorg/home/index.lang:23
 msgid "Help us celebrate 10 years of choice and independence online."
-msgstr ""
-"Ayúdanos a celebrar los 10 años de la elección y la independencia en línea."
+msgstr "Celebra con nosotros los 10 años de Firefox."
 
 #. # TAG: fx10_independent
 #: mozorg/home/index.lang:28
 msgid "Watch our video"
 msgstr "Ver el video"
 
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
 #. # TAG: fx10_independent
 #. This is used as a link to dismiss the video overlay and continue to mozilla.org website
 #: mozorg/home/index.lang:34
@@ -135,11 +138,13 @@ msgstr ""
 msgid "Learn about <br>Firefox for Android"
 msgstr "Aprende sobre <br>Firefox para Android"
 
+# This string is currently unused (tile will link to Mozilla Gear Store)
 #. This string is currently unused (tile will link to Mozilla Gear Store)
 #: mozorg/home/index.lang:122
 msgid "Official Mozilla gear is here"
 msgstr "Los accesorios oficiales de Mozilla han llegado"
 
+# This string is currently unused (tile will link to Mozilla Gear Store)
 #. This string is currently unused (tile will link to Mozilla Gear Store)
 #: mozorg/home/index.lang:127
 msgid ""
@@ -148,6 +153,7 @@ msgstr ""
 "Mercancía con una misión. <br>Productos con un objetivo. <br>Bienes que "
 "hacen el bien."
 
+# This string is currently unused (tile will link to Mozilla Gear Store)
 #. This string is currently unused (tile will link to Mozilla Gear Store)
 #: mozorg/home/index.lang:132
 msgid "Get your Mozilla gear"
@@ -167,16 +173,19 @@ msgstr ""
 msgid "Join our support team"
 msgstr "Únete a nuestro equipo de soporte"
 
+# Used in Twitter feed
 #. Used in Twitter feed
 #: mozorg/home/index.lang:149
 msgid "Reply"
 msgstr "Responder"
 
+# Used in Twitter feed
 #. Used in Twitter feed
 #: mozorg/home/index.lang:154
 msgid "Retweet"
 msgstr "Retuitear"
 
+# <strong> tags below are for visual formatting only.
 #. <strong> tags below are for visual formatting only.
 #: mozorg/home/index.lang:159
 msgid ""
@@ -186,16 +195,19 @@ msgstr ""
 "Comprometido <strong>contigo, tu privacidad</strong> y con una <strong>web "
 "abierta</strong>"
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/home/index.lang:164
 msgid "active Mozillians <br>worldwide"
 msgstr "Mozillians activos <br>alrededor del mundo"
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/home/index.lang:169
 msgid "upcoming events <br>around the globe"
 msgstr "próximos eventos <br>alrededor del mundo"
 
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/home/index.lang:174
 msgid "languages and counting, <br>on every continent"

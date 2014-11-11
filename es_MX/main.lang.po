@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-07 20:04+0000\n"
-"PO-Revision-Date: 2014-11-05 23:55+0000\n"
-"Last-Translator: Odin <odinmojica@mozilla-mexico.org>\n"
+"PO-Revision-Date: 2014-11-11 08:09+0000\n"
+"Last-Translator: Francesco Lodolo <francesco.lodolo@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es_MX\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
-"X-POOTLE-MTIME: 1415231723.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1415693375.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -82,6 +82,7 @@ msgstr "Contacto"
 msgid "Other languages:"
 msgstr "Otros idiomas:"
 
+# Year / Month / Day, indicate your prefered date format for your language
 #. Year / Month / Day, indicate your prefered date format for your language
 #: main.lang:70
 msgid "%Y-%m-%d"
@@ -91,11 +92,13 @@ msgstr "%d-%m-%Y"
 msgid "Legal"
 msgstr "Aviso legal"
 
+# Used as link in the footer
 #. Used as link in the footer
 #: main.lang:79
 msgid "Cookies"
 msgstr "Cookies"
 
+# Used as link in the footer
 #. Used as link in the footer
 #: main.lang:84
 msgid "Firefox Affiliates"
@@ -149,6 +152,7 @@ msgstr "Anterior"
 msgid "Next"
 msgstr "Siguiente"
 
+# MegaBytes abbreviation
 #. MegaBytes abbreviation
 #: main.lang:138
 msgid "MB"
@@ -184,6 +188,7 @@ msgstr "Reportar abuso de marcas"
 msgid "Free Upgrade"
 msgstr "Actualización gratuita"
 
+# social networks such as Facebook and Twitter
 #. social networks such as Facebook and Twitter
 #: main.lang:167
 msgid "Follow us on:"
@@ -197,11 +202,13 @@ msgstr "Personaliza con complementos"
 msgid "Learn More"
 msgstr "Leer más"
 
+# Same as previous above but with no capitalization on More
 #. Same as previous above but with no capitalization on More
 #: main.lang:180
 msgid "Learn more"
 msgstr "Leer más"
 
+# Link used to play again an animation or a video
 #. Link used to play again an animation or a video
 #: main.lang:185
 msgid "Replay"
@@ -301,16 +308,19 @@ msgstr "Actualiza ahora"
 msgid "Supported Devices"
 msgstr "Dispositivos compatibles"
 
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 #: main.lang:278
 msgid "What’s New"
 msgstr "Qué hay de nuevo"
 
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 #: main.lang:283
 msgid "Privacy"
 msgstr "Privacidad"
 
+# Footer string
 #. Footer string
 #: main.lang:288
 msgid ""
@@ -322,222 +332,267 @@ msgstr ""
 "de mozilla.org. Contenido disponible bajo una licencia <a href=\"%(url)s"
 "\">Creative Commons</a>."
 
+# Footer string
 #. Footer string
 #: main.lang:293
 msgid "Contribute to this page"
 msgstr "Colaborar en esta página"
 
+# Top menu item
 #. Top menu item
 #: main.lang:298
 msgid "Mission"
 msgstr "Misión"
 
+# Footer item on some pages to link to a tour of features
 #. Footer item on some pages to link to a tour of features
 #: main.lang:303
 msgid "Tour"
 msgstr "Paseo"
 
+# Footer item
 #. Footer item
 #: main.lang:308
 msgid "Partner with Us"
 msgstr "Conviértete en nuestro socio"
 
+# Top menu item on pages like firefox/desktop/tips/
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:313
 msgid "Sync"
 msgstr "Sync"
 
+# Top menu item on pages like firefox/desktop/tips/
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:318
 msgid "Desktop Add-ons"
 msgstr "Complementos para tu equipo"
 
+# Top menu item on pages like firefox/desktop/tips/
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:323
 msgid "Android Add-ons"
 msgstr "Complementos de Android"
 
+# Top menu item on pages like firefox/desktop/tips/
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:328
 msgid "Themes"
 msgstr "Temas"
 
+# Top menu item on pages like firefox/desktop/tips/
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:333
 msgid "Desktop Support"
 msgstr "Soporte de Escritorio"
 
+# Top menu item on pages like firefox/desktop/tips/
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:338
 msgid "Android Support"
 msgstr "Soporte para Android"
 
+# Top menu item on firefox/update page
 #. Top menu item on firefox/update page
 #: main.lang:343
 msgid "Performance"
 msgstr "Rendimiento"
 
+# Top menu item on firefox/update page
 #. Top menu item on firefox/update page
 #: main.lang:348
 msgid "Technology"
 msgstr "Tecnología"
 
+# Top menu item on firefox/update page
 #. Top menu item on firefox/update page
 #: main.lang:353
 msgid "Privacy &amp; Security"
 msgstr "Privacidad y seguridad"
 
+# Top menu item on firefox/update page
 #. Top menu item on firefox/update page
 #: main.lang:358
 msgid "Releases"
 msgstr "Publicaciones"
 
+# Top menu item on firefox/update page
 #. Top menu item on firefox/update page
 #: main.lang:363
 msgid "Overview"
 msgstr "Inicio"
 
+# Top menu item on firefox/update page
 #. Top menu item on firefox/update page
 #: main.lang:368
 msgid "Firefox"
 msgstr "Firefox"
 
+# Top menu item on firefox/update page
 #. Top menu item on firefox/update page
 #: main.lang:373
 msgid "Firefox for Organizations"
 msgstr "Firefox para organizaciones"
 
+# Top menu item on firefox/update page
 #. Top menu item on firefox/update page
 #: main.lang:378
 msgid "Mobile Add-ons"
 msgstr "Complementos para móviles"
 
+# Top menu item on firefox/update page
 #. Top menu item on firefox/update page
 #: main.lang:383
 msgid "Mobile Support"
 msgstr "Soporte de Mozilla"
 
+# Top menu item on firefox/update page
 #. Top menu item on firefox/update page
 #: main.lang:388
 msgid "Blog"
 msgstr "Blog"
 
+# Top menu item on firefox/update page
 #. Top menu item on firefox/update page
 #: main.lang:393
 msgid "About Firefox"
 msgstr "Acerca de Firefox"
 
+# Top menu item on firefox/update page
 #. Top menu item on firefox/update page
 #: main.lang:398
 msgid "Join Mozilla"
 msgstr "Únete a Mozilla"
 
+# Top menu item on firefox/update page
 #. Top menu item on firefox/update page
 #: main.lang:403
 msgid "Participate"
 msgstr "Participa"
 
+# Top menu item on firefox/update page
 #. Top menu item on firefox/update page
 #: main.lang:408
 msgid "Brand Toolkit"
 msgstr "Manual de la marca"
 
+# Top menu item on firefox/update page
 #. Top menu item on firefox/update page
 #: main.lang:413
 msgid "Partnerships"
 msgstr "Asociaciones"
 
+# Newsletter subscription form above footer on some pages
 #. Newsletter subscription form above footer on some pages
 #: main.lang:418
 msgid "Get Mozilla updates"
 msgstr "Recibe actualizaciones de Mozilla"
 
+# share button for social networks
 #. share button for social networks
 #: main.lang:423
 msgid "Share"
 msgstr "Compartir"
 
+# footer link
 #. footer link
 #: main.lang:428
 msgid "Mozilla on Twitter"
 msgstr "Mozilla en Twitter"
 
+# footer link
 #. footer link
 #: main.lang:433
 msgid "Firefox on Twitter"
 msgstr "Firefox en Twitter"
 
+# footer link
 #. footer link
 #: main.lang:438
 msgid "Mozilla on Facebook"
 msgstr "Mozilla en Facebook"
 
+# footer link
 #. footer link
 #: main.lang:443
 msgid "Firefox on Facebook"
 msgstr "Firefox en Facebook"
 
+# sidebar link in some /about pages (e.g. Manifesto)
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:448
 msgid "Forums"
 msgstr "Foros"
 
+# sidebar link in some /about pages (e.g. Manifesto)
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:453
 msgid "Governance"
 msgstr "Gobernanza"
 
+# sidebar link in some /about pages (e.g. Manifesto)
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:458
 msgid "History"
 msgstr "Historia"
 
+# sidebar link in some /about pages (e.g. Manifesto)
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:463
 msgid "Our Products"
 msgstr "Nuestros productos"
 
+# sidebar link in some /about pages (e.g. Manifesto)
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:468
 msgid "Software and other innovations designed to advance our mission."
 msgstr ""
 "Software y otras innovaciones diseñadas para avanzar en nuestra misión."
 
+# sidebar link in some /about pages (e.g. Manifesto)
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:473
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "Conviértete en un colaborador voluntario en diferentes áreas."
 
+# This is a non-visible string for blind people to indicate where the menu is
 #. This is a non-visible string for blind people to indicate where the menu is
 #: main.lang:478
 msgid "Menu"
 msgstr "Menú"
 
+# Menu item on top of Australis Firefox pages
 #. Menu item on top of Australis Firefox pages
 #: main.lang:483
 msgid "Trusted"
 msgstr "De confianza"
 
+# Menu item on top of Australis Firefox pages
 #. Menu item on top of Australis Firefox pages
 #: main.lang:488
 msgid "Flexible"
 msgstr "Flexible"
 
+# Menu item on top of Australis Firefox pages
 #. Menu item on top of Australis Firefox pages
 #: main.lang:493
 msgid "Fast"
 msgstr "Rápido"
 
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 #: main.lang:498
 msgid "Committed to you, your privacy and an open Web"
 msgstr "Comprometido contigo, con tu privacidad y con una red abierta"
 
+# Common title used in Fx 10 pages
 #. Common title used in Fx 10 pages
 #: main.lang:503
 msgid "Choose Independent"
-msgstr "Elegir ser independiente"
+msgstr "Elige ser independiente"
 
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
 #. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 #. The '#ChooseIndependent' hashtag should not be translated.
 #: main.lang:510
@@ -548,6 +603,7 @@ msgstr ""
 "¡Mantén la pasión por un Internet libre y abierto, ardiente y brillante! "
 "#ChooseIndependent. Elige Firefox:"
 
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 #: main.lang:516
 msgid "Please turn on JavaScript to display this page correctly."
@@ -603,48 +659,60 @@ msgstr "Diciembre"
 
 #: main.lang:568
 msgid "<abbr>Jan</abbr>"
-msgstr "<abbr>Enero</abbr>"
+msgstr "<abbr>Ene</abbr>"
 
 #: main.lang:572
 msgid "<abbr>Feb</abbr>"
-msgstr "<abbr>Febrero</abbr>"
+msgstr ""
 
 #: main.lang:576
 msgid "<abbr>Mar</abbr>"
-msgstr "<abbr>Marzo</abbr>"
+msgstr ""
 
 #: main.lang:580
 msgid "<abbr>Apr</abbr>"
-msgstr "<abbr>Abril</abbr>"
+msgstr "<abbr>Abr</abbr>"
 
 #: main.lang:584
 msgid "<abbr>May</abbr>"
-msgstr "<abbr>Mayo</abbr>"
+msgstr ""
 
 #: main.lang:588
 msgid "<abbr>Jun</abbr>"
-msgstr "<abbr>Junio</abbr>"
+msgstr ""
 
 #: main.lang:592
 msgid "<abbr>Jul</abbr>"
-msgstr "<abbr>Julio</abbr>"
+msgstr ""
 
 #: main.lang:596
 msgid "<abbr>Aug</abbr>"
-msgstr "<abbr>Agosto</abbr>"
+msgstr "<abbr>Agos</abbr>"
 
 #: main.lang:600
 msgid "<abbr>Sep</abbr>"
-msgstr "<abbr>Septiembre</abbr>"
+msgstr ""
 
 #: main.lang:604
 msgid "<abbr>Oct</abbr>"
-msgstr "<abbr>Octubre</abbr>"
+msgstr ""
 
 #: main.lang:608
 msgid "<abbr>Nov</abbr>"
-msgstr "<abbr>Noviembre</abbr>"
+msgstr ""
 
 #: main.lang:612
 msgid "<abbr>Dec</abbr>"
-msgstr "<abbr>Diciembre</abbr>"
+msgstr "<abbr>Dic</abbr>"
+
+# Used as link to /firefox/desktop in footers on some pages
+#. Used as link to /firefox/desktop in footers on some pages
+#: :518
+msgid "Firefox Features"
+msgstr "Características de Firefox"
+
+# Used as link to SUMO in footers on some pages
+#. Used as link to SUMO in footers on some pages
+#: :523
+msgid "Firefox Help"
+msgstr "Ayuda de Firefox"
