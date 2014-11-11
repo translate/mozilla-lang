@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-08 14:05+0000\n"
-"PO-Revision-Date: 2014-05-23 17:46+0000\n"
+"PO-Revision-Date: 2014-11-11 12:33+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gd\n"
@@ -13,8 +13,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
-"X-POOTLE-MTIME: 1400867204.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1415709223.000000\n"
 
 #. # telemetry_notice ##
 #. # channel_dev_edition ##
@@ -22,13 +22,12 @@ msgstr ""
 #. # TAG: channel_dev_edition
 #. This is the string for the <title> tag on the page.
 #: firefox/channel.lang:8
-#, fuzzy
 msgid ""
 "Download Firefox Developer Edition or Beta &amp; Help Determine the Next "
 "Firefox"
 msgstr ""
-"Luchdaich a-nuas Firefox Aurora no Beta ⁊ cuidich leinn a' dealbhan an ath "
-"Firefox"
+"Luchdaich a-nuas Firefox luchd-leasachaidh no Beta ⁊ cuidich leinn a' "
+"dealbhadh an ath Firefox"
 
 #. This is the string for the <title> tag on the page.
 #: firefox/channel.lang:13
@@ -39,14 +38,13 @@ msgstr ""
 
 #. # TAG: channel_dev_edition
 #: firefox/channel.lang:18
-#, fuzzy
 msgid ""
 "Download and test Firefox future releases. Experience the newest innovations "
 "with the Developer Edition or Beta builds."
 msgstr ""
-"Luchdaich a-nuas is cuir Firefox fo dheucheainn a tha ri sgaoileadh san àm "
-"ri teachd. Feuch na tionnsgnaidhean as ùire leis na tionndaidhean Aurora no "
-"Beta."
+"Luchdaich a-nuas is cuir Firefox fo dheuchainn a tha ri sgaoileadh san àm ri "
+"teachd. Feuch na tionnsgnaidhean as ùire leis na tionndaidhean luchd-"
+"leasachaidh no Beta."
 
 #. This description applies to Firefox Beta
 #: firefox/channel.lang:23
@@ -77,6 +75,8 @@ msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
 "Mozilla. <a href=\"%(link)s\">Learn more</a>."
 msgstr ""
+"Cuiridh Firefox Aurora agus Firefox luchd-leasachaidh fiosrachadh air ais gu "
+"Mozilla gu fèin-obrachail. <a href=\"%(link)s\">Barrachd fiosrachaidh</a>."
 
 #: firefox/channel.lang:41
 msgid ""
@@ -89,7 +89,7 @@ msgstr ""
 #. # TAG: channel_dev_edition
 #: firefox/channel.lang:46
 msgid "Built for those who build the Web"
-msgstr ""
+msgstr "Air a dhealbhadh dha na daoine a dhealbhas an lìon"
 
 #. This description applies to Firefox Aurora
 #: firefox/channel.lang:51
