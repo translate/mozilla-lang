@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-08 14:05+0000\n"
+"POT-Creation-Date: 2014-11-12 18:05+0000\n"
 "PO-Revision-Date: 2014-10-12 06:51+0000\n"
 "Last-Translator: Nishant  <nishant_cs@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,9 +17,10 @@ msgstr ""
 #. # telemetry_notice ##
 #. # channel_dev_edition ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/channel/
+#. # NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 #. # TAG: channel_dev_edition
 #. This is the string for the <title> tag on the page.
-#: firefox/channel.lang:8
+#: firefox/channel.lang:9
 #, fuzzy
 msgid ""
 "Download Firefox Developer Edition or Beta &amp; Help Determine the Next "
@@ -28,13 +29,13 @@ msgstr ""
 "फ़ायरफ़ॉक्स औरोरा या बीटा डाउनलोड करें &amp; अगला फ़ायरफ़ॉक्स निर्धारित करने में मदद करें"
 
 #. This is the string for the <title> tag on the page.
-#: firefox/channel.lang:13
+#: firefox/channel.lang:14
 msgid "Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox"
 msgstr ""
 "फ़ायरफ़ॉक्स औरोरा या बीटा डाउनलोड करें &amp; अगला फ़ायरफ़ॉक्स निर्धारित करने में मदद करें"
 
 #. # TAG: channel_dev_edition
-#: firefox/channel.lang:18
+#: firefox/channel.lang:19
 #, fuzzy
 msgid ""
 "Download and test Firefox future releases. Experience the newest innovations "
@@ -44,12 +45,12 @@ msgstr ""
 "नवाचार का अनुभव लें."
 
 #. This description applies to Firefox Beta
-#: firefox/channel.lang:23
+#: firefox/channel.lang:24
 msgid "The latest features in a more stable environment"
 msgstr "अधिक स्थिर वातावरण में नवीनतम सुविधाएँ"
 
 #. # TAG: telemetry_notice
-#: firefox/channel.lang:28
+#: firefox/channel.lang:29
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -57,7 +58,7 @@ msgstr ""
 "फ़ायरफ़ॉक्स बीटा स्वतः मोज़िला को प्रतिक्रिया भेजता. है <a href=\"%(link)s\">अधिक "
 "जानें</a>."
 
-#: firefox/channel.lang:32
+#: firefox/channel.lang:33
 msgid ""
 "<a href=\"%(feedback)s\">Give us feedback</a> to help us put the final "
 "tweaks on performance and functionality in a stable environment."
@@ -66,13 +67,13 @@ msgstr ""
 "कार्यक्षमता में मदद करने के लिए"
 
 #. # TAG: channel_dev_edition
-#: firefox/channel.lang:37
+#: firefox/channel.lang:38
 msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
 "Mozilla. <a href=\"%(link)s\">Learn more</a>."
 msgstr ""
 
-#: firefox/channel.lang:41
+#: firefox/channel.lang:42
 msgid ""
 "Firefox Aurora automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -81,17 +82,17 @@ msgstr ""
 "जानें</a>."
 
 #. # TAG: channel_dev_edition
-#: firefox/channel.lang:46
+#: firefox/channel.lang:47
 msgid "Built for those who build the Web"
 msgstr ""
 
 #. This description applies to Firefox Aurora
-#: firefox/channel.lang:51
+#: firefox/channel.lang:52
 msgid "The newest innovations in an experimental environment"
 msgstr "प्रयोग्यात्मक वातावरण में नवीनतम नवाचार"
 
 #. # TAG: telemetry_notice
-#: firefox/channel.lang:56
+#: firefox/channel.lang:57
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="
 "\"%(feedback)s\">help us determine what makes it to Beta</a>."
@@ -100,18 +101,18 @@ msgstr ""
 "\"> हमारी ये बता कर मदद करें की इसे क्या बीटा बनता है </a>"
 
 #. This description applies to Firefox on the Release channel
-#: firefox/channel.lang:61
+#: firefox/channel.lang:62
 msgid "Tried, tested and used by millions around the world"
 msgstr "दुनिया भर के लाखों लोगों द्वारा आज़माया ,प्रयोग, एवं परीक्षित किया गया"
 
-#: firefox/channel.lang:65
+#: firefox/channel.lang:66
 msgid "Learn more about Firefox Beta"
 msgstr "फ़ायरफ़ॉक्स बीटा के बारे में अधिक जानें"
 
-#: firefox/channel.lang:69
+#: firefox/channel.lang:70
 msgid "Learn more about Firefox Aurora"
 msgstr "फ़ायरफ़ॉक्स औरोरा के बारे में अधिक जानें"
 
-#: firefox/channel.lang:73
+#: firefox/channel.lang:74
 msgid "Learn more about Firefox"
 msgstr "फ़ायरफ़ॉक्स के बारे में अधिक जानें"

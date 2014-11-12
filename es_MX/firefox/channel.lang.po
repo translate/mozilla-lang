@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-08 14:05+0000\n"
+"POT-Creation-Date: 2014-11-12 18:05+0000\n"
 "PO-Revision-Date: 2014-11-11 23:12+0000\n"
 "Last-Translator: Roberto <ralv888@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,15 +11,16 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1415747527.000000\n"
 
 #. # telemetry_notice ##
 #. # channel_dev_edition ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/channel/
+#. # NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 #. # TAG: channel_dev_edition
 #. This is the string for the <title> tag on the page.
-#: firefox/channel.lang:8
+#: firefox/channel.lang:9
 msgid ""
 "Download Firefox Developer Edition or Beta &amp; Help Determine the Next "
 "Firefox"
@@ -28,13 +29,13 @@ msgstr ""
 "Ayuda a crear el siguiente Firefox"
 
 #. This is the string for the <title> tag on the page.
-#: firefox/channel.lang:13
+#: firefox/channel.lang:14
 msgid "Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox"
 msgstr ""
 "Descargar Firefox Aurora o Beta &amp; Ayuda a determinar el siguiente Firefox"
 
 #. # TAG: channel_dev_edition
-#: firefox/channel.lang:18
+#: firefox/channel.lang:19
 msgid ""
 "Download and test Firefox future releases. Experience the newest innovations "
 "with the Developer Edition or Beta builds."
@@ -43,12 +44,12 @@ msgstr ""
 "recientes operaciones con la edición de desarrollaor y la versiones Beta."
 
 #. This description applies to Firefox Beta
-#: firefox/channel.lang:23
+#: firefox/channel.lang:24
 msgid "The latest features in a more stable environment"
 msgstr "Las últimas características en un entorno más estable"
 
 #. # TAG: telemetry_notice
-#: firefox/channel.lang:28
+#: firefox/channel.lang:29
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -56,7 +57,7 @@ msgstr ""
 "Firefox Aurora envía un reporte automáticamente a Mozilla. <a href=\"%(link)s"
 "\">Saber más</a>"
 
-#: firefox/channel.lang:32
+#: firefox/channel.lang:33
 msgid ""
 "<a href=\"%(feedback)s\">Give us feedback</a> to help us put the final "
 "tweaks on performance and functionality in a stable environment."
@@ -65,13 +66,13 @@ msgstr ""
 "los últimos ajustes en el rendimiento y funcionalidad en un entorno estable."
 
 #. # TAG: channel_dev_edition
-#: firefox/channel.lang:37
+#: firefox/channel.lang:38
 msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
 "Mozilla. <a href=\"%(link)s\">Learn more</a>."
 msgstr ""
 
-#: firefox/channel.lang:41
+#: firefox/channel.lang:42
 msgid ""
 "Firefox Aurora automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -80,17 +81,17 @@ msgstr ""
 "\">Saber más</a>"
 
 #. # TAG: channel_dev_edition
-#: firefox/channel.lang:46
+#: firefox/channel.lang:47
 msgid "Built for those who build the Web"
-msgstr ""
+msgstr "Hecho para aquellos que construyen la Web"
 
 #. This description applies to Firefox Aurora
-#: firefox/channel.lang:51
+#: firefox/channel.lang:52
 msgid "The newest innovations in an experimental environment"
 msgstr "Las últimas innovaciones en un entorno experimental"
 
 #. # TAG: telemetry_notice
-#: firefox/channel.lang:56
+#: firefox/channel.lang:57
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="
 "\"%(feedback)s\">help us determine what makes it to Beta</a>."
@@ -99,18 +100,18 @@ msgstr ""
 "\"%(feedback)s\">ayúdanos a determinar qué incluir en la versión beta</a>."
 
 #. This description applies to Firefox on the Release channel
-#: firefox/channel.lang:61
+#: firefox/channel.lang:62
 msgid "Tried, tested and used by millions around the world"
 msgstr "Probado, evaluado y usado por millones de personas alrededor del mundo"
 
-#: firefox/channel.lang:65
+#: firefox/channel.lang:66
 msgid "Learn more about Firefox Beta"
 msgstr "Aprender más acerca de Firefox Beta"
 
-#: firefox/channel.lang:69
+#: firefox/channel.lang:70
 msgid "Learn more about Firefox Aurora"
 msgstr "Aprender más acerca de Firefox Aurora"
 
-#: firefox/channel.lang:73
+#: firefox/channel.lang:74
 msgid "Learn more about Firefox"
 msgstr "Aprender más acerca de Firefox"

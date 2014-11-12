@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-08 14:05+0000\n"
+"POT-Creation-Date: 2014-11-12 18:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,9 +16,10 @@ msgstr ""
 #. # telemetry_notice ##
 #. # channel_dev_edition ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/channel/
+#. # NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 #. # TAG: channel_dev_edition
 #. This is the string for the <title> tag on the page.
-#: firefox/channel.lang:8
+#: firefox/channel.lang:9
 #, fuzzy
 msgid ""
 "Download Firefox Developer Edition or Beta &amp; Help Determine the Next "
@@ -26,12 +27,12 @@ msgid ""
 msgstr "பயர்பாக்ஸ் அரூரா அல்லது பீட்டா பதிவிறக்கம் &amp; அடுத்த பயர்பாக்ஸை கணிக்க உதவும்"
 
 #. This is the string for the <title> tag on the page.
-#: firefox/channel.lang:13
+#: firefox/channel.lang:14
 msgid "Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox"
 msgstr "பயர்பாக்ஸ் அரூரா அல்லது பீட்டா பதிவிறக்கம் &amp; அடுத்த பயர்பாக்ஸை கணிக்க உதவும்"
 
 #. # TAG: channel_dev_edition
-#: firefox/channel.lang:18
+#: firefox/channel.lang:19
 #, fuzzy
 msgid ""
 "Download and test Firefox future releases. Experience the newest innovations "
@@ -41,12 +42,12 @@ msgstr ""
 "கட்டுகளுடன் புதிய புத்தமைவுகளை அனுபவியுங்கள்."
 
 #. This description applies to Firefox Beta
-#: firefox/channel.lang:23
+#: firefox/channel.lang:24
 msgid "The latest features in a more stable environment"
 msgstr "மிகவும் நிலையான சூழலில் புதிய வசதிகள்"
 
 #. # TAG: telemetry_notice
-#: firefox/channel.lang:28
+#: firefox/channel.lang:29
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -54,7 +55,7 @@ msgstr ""
 "மொசில்லாவிற்கு பயர்பாக்ஸ் பீட்டா தானாக பின்னூட்டங்களை அனுப்புகிறது. <a href=\"%(link)s"
 "\">மேலும் அறிய</a>."
 
-#: firefox/channel.lang:32
+#: firefox/channel.lang:33
 msgid ""
 "<a href=\"%(feedback)s\">Give us feedback</a> to help us put the final "
 "tweaks on performance and functionality in a stable environment."
@@ -63,13 +64,13 @@ msgstr ""
 "\"%(feedback)s\">எங்களுக்கு கருத்துக்களைத் தெரிவித்து</a> உதவுங்கள்."
 
 #. # TAG: channel_dev_edition
-#: firefox/channel.lang:37
+#: firefox/channel.lang:38
 msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
 "Mozilla. <a href=\"%(link)s\">Learn more</a>."
 msgstr ""
 
-#: firefox/channel.lang:41
+#: firefox/channel.lang:42
 msgid ""
 "Firefox Aurora automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -78,17 +79,17 @@ msgstr ""
 "\">மேலும் அறிய</a>."
 
 #. # TAG: channel_dev_edition
-#: firefox/channel.lang:46
+#: firefox/channel.lang:47
 msgid "Built for those who build the Web"
 msgstr ""
 
 #. This description applies to Firefox Aurora
-#: firefox/channel.lang:51
+#: firefox/channel.lang:52
 msgid "The newest innovations in an experimental environment"
 msgstr "சோதனை சூழலுக்களில் புதிய கண்டுபிடிப்புகள்"
 
 #. # TAG: telemetry_notice
-#: firefox/channel.lang:56
+#: firefox/channel.lang:57
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="
 "\"%(feedback)s\">help us determine what makes it to Beta</a>."
@@ -98,20 +99,20 @@ msgstr ""
 "உதவுகிறது</a>."
 
 #. This description applies to Firefox on the Release channel
-#: firefox/channel.lang:61
+#: firefox/channel.lang:62
 msgid "Tried, tested and used by millions around the world"
 msgstr ""
 "மில்லியன் கணக்கான மக்களால் உலகெங்கும் முயற்சிக்கப்பட்டு சோதிக்கப்பட்டு பயன்படுத்தப்பட்டு "
 "வருகிறது"
 
-#: firefox/channel.lang:65
+#: firefox/channel.lang:66
 msgid "Learn more about Firefox Beta"
 msgstr "பயர்பாக்ஸ் பீட்டா பற்றி மேலும் தெரிந்துகொள்ள"
 
-#: firefox/channel.lang:69
+#: firefox/channel.lang:70
 msgid "Learn more about Firefox Aurora"
 msgstr "பயர்பாக்ஸ் அரூரா பற்றி மேலும் தெரிந்துகொள்ள"
 
-#: firefox/channel.lang:73
+#: firefox/channel.lang:74
 msgid "Learn more about Firefox"
 msgstr "பயர்பாக்ஸ் பற்றி மேலும் தெரிந்துகொள்ள"

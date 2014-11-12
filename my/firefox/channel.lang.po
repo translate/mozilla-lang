@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-08 14:05+0000\n"
+"POT-Creation-Date: 2014-11-12 18:05+0000\n"
 "PO-Revision-Date: 2014-05-12 02:48+0000\n"
 "Last-Translator: Tin Aung <tinaunglinn.eng91@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,21 +17,22 @@ msgstr ""
 #. # telemetry_notice ##
 #. # channel_dev_edition ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/channel/
+#. # NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
 #. # TAG: channel_dev_edition
 #. This is the string for the <title> tag on the page.
-#: firefox/channel.lang:8
+#: firefox/channel.lang:9
 msgid ""
 "Download Firefox Developer Edition or Beta &amp; Help Determine the Next "
 "Firefox"
 msgstr ""
 
 #. This is the string for the <title> tag on the page.
-#: firefox/channel.lang:13
+#: firefox/channel.lang:14
 msgid "Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox"
 msgstr ""
 
 #. # TAG: channel_dev_edition
-#: firefox/channel.lang:18
+#: firefox/channel.lang:19
 #, fuzzy
 msgid ""
 "Download and test Firefox future releases. Experience the newest innovations "
@@ -41,12 +42,12 @@ msgstr ""
 "ဘီတာဗားရှင်းတွေသုံးပြီး ခံစားကြည့်ပါ။"
 
 #. This description applies to Firefox Beta
-#: firefox/channel.lang:23
+#: firefox/channel.lang:24
 msgid "The latest features in a more stable environment"
 msgstr ""
 
 #. # TAG: telemetry_notice
-#: firefox/channel.lang:28
+#: firefox/channel.lang:29
 #, fuzzy
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
@@ -55,20 +56,20 @@ msgstr ""
 "မီးမြေခွေး Aurora ဟာ မိုဇီလာသို့ အကြံပေးချက်တွေ အလိုအလျောက်ပေးပို့ပေးတယ်။ <a href=\"%(link)s"
 "\">ဆက်လက်</a>"
 
-#: firefox/channel.lang:32
+#: firefox/channel.lang:33
 msgid ""
 "<a href=\"%(feedback)s\">Give us feedback</a> to help us put the final "
 "tweaks on performance and functionality in a stable environment."
 msgstr ""
 
 #. # TAG: channel_dev_edition
-#: firefox/channel.lang:37
+#: firefox/channel.lang:38
 msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
 "Mozilla. <a href=\"%(link)s\">Learn more</a>."
 msgstr ""
 
-#: firefox/channel.lang:41
+#: firefox/channel.lang:42
 msgid ""
 "Firefox Aurora automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -77,35 +78,35 @@ msgstr ""
 "\">ဆက်လက်</a>"
 
 #. # TAG: channel_dev_edition
-#: firefox/channel.lang:46
+#: firefox/channel.lang:47
 msgid "Built for those who build the Web"
 msgstr ""
 
 #. This description applies to Firefox Aurora
-#: firefox/channel.lang:51
+#: firefox/channel.lang:52
 msgid "The newest innovations in an experimental environment"
 msgstr "နောက်ဆုံးတီထွင်မှူတွေကို စမ်းသပ်တဲ့အနေနဲ့ထည့်ထားပေးတယ်"
 
 #. # TAG: telemetry_notice
-#: firefox/channel.lang:56
+#: firefox/channel.lang:57
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="
 "\"%(feedback)s\">help us determine what makes it to Beta</a>."
 msgstr ""
 
 #. This description applies to Firefox on the Release channel
-#: firefox/channel.lang:61
+#: firefox/channel.lang:62
 msgid "Tried, tested and used by millions around the world"
 msgstr "သန်းပေါင်းများစွာသော ကမ္ဘာတစ်ဝှမ်းရှိ လူတွေကိုတိုင် စမ်းသပ်ထားတယ်"
 
-#: firefox/channel.lang:65
+#: firefox/channel.lang:66
 msgid "Learn more about Firefox Beta"
 msgstr "မီးမြေခွေး​ ဘီတာ စနစ်အား ဆက်လက်လေ့လာ"
 
-#: firefox/channel.lang:69
+#: firefox/channel.lang:70
 msgid "Learn more about Firefox Aurora"
 msgstr "မီးမြေခွေး Aurora အားဆက်လက်လေ့လာ"
 
-#: firefox/channel.lang:73
+#: firefox/channel.lang:74
 msgid "Learn more about Firefox"
 msgstr "မီးမြေခွေးအကြောင်းဆက်လက်လေ့လာ"
