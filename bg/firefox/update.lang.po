@@ -1,4 +1,5 @@
 #. extracted from ./firefox/update.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -7,7 +8,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,11 +16,11 @@ msgstr ""
 #. # NOTE: Update page available at url: https://www-dev.allizom.org/b/en-GB/firefox/update/
 #: firefox/update.lang:5
 msgid "Welcome"
-msgstr ""
+msgstr "Добре дошли"
 
 #: firefox/update.lang:9
 msgid "Are Firefox updates safe?"
-msgstr ""
+msgstr "Безопасни ли са актуализациите за Firefox?"
 
 #: firefox/update.lang:13
 msgid ""
@@ -28,24 +28,29 @@ msgid ""
 "older version. To start the upgrade process, just click the green download "
 "button to the right."
 msgstr ""
+"Не. Новата версия на Firefox автоматично ще презапише по-старата ви версия. "
+"За да стартирате процеса по обновяване, просто кликнете зеления бутон в "
+"дясно."
 
 #: firefox/update.lang:17
 msgid ""
 "It varies slightly depending on the operating system you're using. You can "
 "find <a %(link)s>instructions for your computer here</a>."
 msgstr ""
+"Варира леко в зависимост от операционната система, която използвате. Можете "
+"да намерите <a %(link)s>тук инструкции за вашия компютър</a>."
 
 #: firefox/update.lang:21
 msgid "Your Firefox is out of date."
-msgstr ""
+msgstr "Вашата версия на Firefox е стара."
 
 #: firefox/update.lang:25
 msgid "Follow the step-by-step process"
-msgstr ""
+msgstr "Следвайте процеса стъпка по стъпка"
 
 #: firefox/update.lang:29
 msgid "Congratulations!"
-msgstr ""
+msgstr "Поздравления!"
 
 #: firefox/update.lang:33
 msgid ""
@@ -55,52 +60,68 @@ msgid ""
 "discovered, we write a patch and release an update to stay one step ahead. "
 "Downloading Firefox updates is a very important part of staying safe online."
 msgstr ""
+"Вашата сигурност е наш приоритет. Имаме международна общност от експерти, "
+"които работят денонощно, за да следят за нови заплахи за сигурността. "
+"Веднага, след като такава заплаха е намерена, ние пишем поправка за нея и "
+"пускаме актуализация, за да сме една крачка напред. Изтеглянето на "
+"актуализации за Firefox е много важна част от поддържането на онлайн "
+"сигурността."
 
 #: firefox/update.lang:37
 msgid ""
 "If I already have Firefox, and then do a fresh install, what happens to my "
 "settings?"
 msgstr ""
+"Ако вече имам Firefox и направя нова инсталация, какво става с моите "
+"настройки?"
 
 #: firefox/update.lang:41
 msgid "What is a Firefox software update?"
-msgstr ""
+msgstr "Какво е софтуерна актуализация за Firefox?"
 
 #: firefox/update.lang:45
 msgid ""
 "Yes. Firefox is configured to automatically check for updates, but it’s also "
 "possible to check for updates yourself."
 msgstr ""
+"Да. Firefox е настроен да проверява автоматично за актуализации, но е "
+"възможно и Вие сами да проверите за такива."
 
 #: firefox/update.lang:49
 msgid ""
 "Nothing. Re-installing Firefox will not affect your settings, bookmarks or "
 "preferences in any way."
 msgstr ""
+"Нищо. Преинсталирането на Firefox няма да промени върху вашите настройки, "
+"отметки и предпочитания по никакъв начин."
 
 #: firefox/update.lang:53
 msgid ""
 "Not long at all – the entire process just takes a minute or two. Visit our "
 "support page for <a %(link)s>step-by-step instructions</a>."
 msgstr ""
+"Съвсем кратко – целият процес отнема една-две минути. Посетете нашата "
+"страница за поддръжка за <a %(link)s>инструкции стъпка по стъпка</a>."
 
 #: firefox/update.lang:57
 msgid ""
 "You are also able to check for updates manually. For details, check out the "
 "<a %(link)s>step-by-step guide</a>.</p>"
 msgstr ""
+"Можете също така ръчно да проверите за актуализации. За подробности, вижте "
+"<a %(link)s>ръководството стъпка по стъпка</a>.</p>"
 
 #: firefox/update.lang:61
 msgid "Check for Updates"
-msgstr ""
+msgstr "Провери за актуализации"
 
 #: firefox/update.lang:65
 msgid "What if I miss an update? Can I check for one myself?"
-msgstr ""
+msgstr "А ако пропусна актуализация? Мога ли аз да проверя за такава?"
 
 #: firefox/update.lang:69
 msgid "Your Firefox is up to date."
-msgstr ""
+msgstr "Вашият Firefox е актуален."
 
 #: firefox/update.lang:73
 msgid ""
@@ -109,10 +130,14 @@ msgid ""
 "fixes or other little changes to the browser to ensure that you are using "
 "the best version of Firefox available."
 msgstr ""
+"Актуализация за Firefox е бързо изтегляне на малко количество нов код към "
+"вашият Firefox браузър. Тези малки поправки могат да бъдат свързани със "
+"сигурността или с  малки промени по браузъра, за да сте сигурни, че "
+"използвате най-добрата възможна версия на Firefox."
 
 #: firefox/update.lang:77
 msgid "How long will it take to update?"
-msgstr ""
+msgstr "Колко време ще отнеме актуализацията?"
 
 #: firefox/update.lang:81
 msgid ""
@@ -122,42 +147,48 @@ msgid ""
 "smartest, fastest and – most importantly – safest version of Firefox "
 "available."
 msgstr ""
+"Firefox постоянно се развива, като нашето общество намира начини да го "
+"направи по-добър и като се приспособяваме към най-новите заплахи за "
+"сигурността. Поддържането на Firefox актуален е най-добрият начин да сте "
+"сигурни, че използвате най-добрата, най-бързата, и най-важното - най-"
+"сигурната възможна версия на Firefox."
 
 #: firefox/update.lang:85
 msgid "How do I know what version of Firefox I am currently on?"
-msgstr ""
+msgstr "Как да разбера коя версия на Firefox използвам?"
 
 #: firefox/update.lang:89
 msgid "Frequently asked questions"
-msgstr ""
+msgstr "Често задавани въпроси"
 
 #: firefox/update.lang:93
 msgid "Will the update affect my settings and bookmarks?"
-msgstr ""
+msgstr "Ще промени ли актуализацията моито настройки и отметки?"
 
 #: firefox/update.lang:97
 msgid "Do I need to uninstall my current version of Firefox before upgrading?"
 msgstr ""
+"Трябва ли да премахна настоящата версия на Firefox, преди актуализацията?"
 
 #: firefox/update.lang:101
 msgid "Visit support.mozilla.org"
-msgstr ""
+msgstr "Посетете support.mozilla.org"
 
 #: firefox/update.lang:105
 msgid "Get the newest version <a href=\"{url}\">here</a>."
-msgstr ""
+msgstr "Вземете най-новата версия <a href=\"{url}\">тук</a>."
 
 #: firefox/update.lang:109
 msgid "Need Help?"
-msgstr ""
+msgstr "Нужда от помощ?"
 
 #: firefox/update.lang:113
 msgid "How do I update Firefox?"
-msgstr ""
+msgstr "Как да актуализирам Firefox?"
 
 #: firefox/update.lang:117
 msgid "Why do I need to update?"
-msgstr ""
+msgstr "Защо трябва да актуализирам?"
 
 #: firefox/update.lang:121
 msgid ""
@@ -166,6 +197,11 @@ msgid ""
 "and the newest version will be downloaded and installed on your computer. "
 "You’ll need to restart Firefox to begin using the new version."
 msgstr ""
+"По подразбиране Firefox е настроен автоматично да проверява за актуализации "
+"и да Ви уведомява, ако такава е налична. Когато бъдете уведомени, просто "
+"кликнете OK и най-новата версия ще бъде свалена и инсталирана на вашия "
+"компютър. Ще трябва да рестартирате Firefox, за да започнете да използвате "
+"новата версия."
 
 #: firefox/update.lang:125
 msgid ""
@@ -173,7 +209,10 @@ msgid ""
 "passwords or other settings. However, there is a possibility that some of "
 "your Add-ons won’t be immediately compatible with new updates."
 msgstr ""
+"Не. Актуализация на Firefox няма да направи промени по вашите отметки, "
+"запазени пароли или други настройки. Има обаче вероятност някои от вашите "
+"Добавки да не са съвместими веднага с новите актуализации."
 
 #: firefox/update.lang:129
 msgid "Download Firefox to get started."
-msgstr ""
+msgstr "Изтеглете Firefox, за да започнете."

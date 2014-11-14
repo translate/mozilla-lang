@@ -1,159 +1,167 @@
 #. extracted from ./mozorg/home.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-16 15:14+0100\n"
+"POT-Creation-Date: 2014-08-19 15:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
 
 #. # promo_lightbeam ##
 #. # promo_new_mdn ##
 #. # promo_webmaker ##
 #. # promo_webwewant ##
 #. # promo_fxdesktop ##
-#. # promo_makerparty ##
+#. # promo_sumo ##
 #. # NOTE: demo server for home page is https://www-dev.allizom.org
 #: mozorg/home.lang:10
 msgid "Home of the Mozilla Project"
-msgstr ""
+msgstr "Тук живее проектът Mozilla"
 
 #. Used as a label for a button that scrolls through latest news.
 #: mozorg/home.lang:15
 msgid "Next article"
-msgstr ""
+msgstr "Следваща"
 
 #. Used as a label for a button that scrolls through latest news.
 #: mozorg/home.lang:20
 msgid "Previous article"
-msgstr ""
+msgstr "Предишна"
 
 #. The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 #: mozorg/home.lang:25
 msgid "We are %(mozilla_wordmark)s"
-msgstr ""
+msgstr "Ние сме %(mozilla_wordmark)s"
 
 #: mozorg/home.lang:29
 msgid "Doing good is part of our code"
-msgstr ""
+msgstr "Да правим добро е част от нашата същност"
 
 #: mozorg/home.lang:33
 msgid "Get involved"
-msgstr ""
+msgstr "Участвай"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:38
 msgid "<i>Explore</i> our mission"
-msgstr ""
+msgstr "<i>Научи</i> мисията ни"
 
 #: mozorg/home.lang:42
 msgid "Our principles guide us"
-msgstr ""
+msgstr "Принципите, които ни водят"
 
 #: mozorg/home.lang:46
 msgid ""
 "We’re a global community of technologists, thinkers and builders working to "
 "keep the Internet alive and accessible."
 msgstr ""
+"Ние сме глобална общност от хора с интерес в технологиите, мислители и "
+"разработчици, работещи да запазят Интернет жив и достъпен."
 
 #: mozorg/home.lang:50
 msgid "Read more about our mission"
-msgstr ""
+msgstr "Прочети повече за мисията ни"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:55
 msgid "<i>Look</i> ahead"
-msgstr ""
+msgstr "<i>Гледай</i> напред"
 
 #: mozorg/home.lang:59
 msgid "Look ahead"
-msgstr ""
+msgstr "Гледай напред"
 
 #: mozorg/home.lang:63
 msgid ""
 "We‘re bringing more people to the Web in more ways and from more places than "
 "ever before."
 msgstr ""
+"Ние разкриваме Уеб на повече хора и от повече места, отколкото когато и да е "
+"било."
 
 #: mozorg/home.lang:67
 msgid "Learn more about Firefox OS"
-msgstr ""
+msgstr "Научи повече за Firefox OS"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:72
 msgid "<i>Join</i> our community"
-msgstr ""
+msgstr "<i>Стани част</i> от нашата общност"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:77
 msgid "Join our<br> developer community"
-msgstr ""
+msgstr "Влез в<br> обществото ни за разработчици"
 
 #: mozorg/home.lang:81
 msgid ""
 "Get docs and demos, tools and tutorials and everything related to the Open "
 "Web."
 msgstr ""
+"Намери документи, демонстрации, инструменти и всичко свързано с отворения "
+"Уеб."
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:86
 msgid "<i>Forge</i> the future"
-msgstr ""
+msgstr "<i>Изкови</i> бъдещето"
 
 #: mozorg/home.lang:90
 msgid "Mozilla Festival"
-msgstr ""
+msgstr "Фестивалът Mozilla"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:95
 msgid "Forge the future<br> of the Web"
-msgstr ""
+msgstr "Изкови бъдещето <br> на Уеб"
 
 #: mozorg/home.lang:99
 msgid ""
 "Learn from some of the most passionate thinkers and inventors from around "
 "the world."
-msgstr ""
+msgstr "Научи повече за изобретателите и смелите мислители от цял свят."
 
 #: mozorg/home.lang:103
 msgid "Come to the Mozilla Festival"
-msgstr ""
+msgstr "Ела на фестивала на Mozilla"
 
 #: mozorg/home.lang:107
 msgid "Different by&nbsp;design"
-msgstr ""
+msgstr "Различен по&nbsp;дизайн"
 
 #. This string is displayed only for locales with a press agency blog
 #: mozorg/home.lang:112
 msgid "In the news"
-msgstr ""
+msgstr "Медиите за нас"
 
 #. This string is displayed only for locales with a press agency blog
 #: mozorg/home.lang:117
 msgid "See all news"
-msgstr ""
+msgstr "Виж всички новини"
 
 #. This string is displayed only for locales where we launch Firefox OS soon
 #: mozorg/home.lang:122
 msgid "Help launch Firefox OS in your country."
-msgstr ""
+msgstr "Помогнете ни да въведем Firefox OS във вашата страна"
 
 #. This string is displayed only for locales where we launch Firefox OS soon
 #: mozorg/home.lang:127
 msgid "Become a Mobilizer today."
-msgstr ""
+msgstr "Станете Мобилизатор"
 
 #: mozorg/home.lang:131
 msgid ""
 "You don’t have to know how to code to get involved with Mozilla. <a href=\"%s"
 "\">Learn more about our volunteer opportunities</a>."
 msgstr ""
+"Не е нужно да знаеш, как се пише код, за да се присъединиш към Mozilla. <a "
+"href=\"%s\">Научи повече за това, как да станеш част от нас</a>."
 
 #: mozorg/home.lang:135
 msgid ""
@@ -161,18 +169,21 @@ msgid ""
 "in over 70 languages. <a rel=\"external\" href=\"%(link_l10n)s\">Help "
 "translate them into yours</a>."
 msgstr ""
+"Благодарение на нашата световна общност, продуктите на Mozilla и уеб-"
+"сайтовете ни са достъпни на над 70 езика. <a rel=\"external\" href="
+"\"%(link_l10n)s\">Помогнете ни да ги преведем на вашия</a>."
 
 #. # TAG: promo_lightbeam
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:141
 msgid "<i>Watch</i> the watchers"
-msgstr ""
+msgstr "<i>Наблюдавай</i> наблюдаващите"
 
 #. # TAG: promo_lightbeam
 #. Lightbeam promo
 #: mozorg/home.lang:147
 msgid "See who’s watching you online"
-msgstr ""
+msgstr "Виж кой те гледа онлайн"
 
 #. # TAG: promo_lightbeam
 #. Lightbeam promo
@@ -181,23 +192,25 @@ msgid ""
 "Shine a light on the third parties that are collecting data about your "
 "online activity."
 msgstr ""
+"Хвърли светлина върху тези, които събират информация за твоите онлайн "
+"активности."
 
 #. # TAG: promo_lightbeam
 #: mozorg/home.lang:158
 msgid "Install the Lightbeam add-on"
-msgstr ""
+msgstr "Инсталирайте Lightbeam добавката"
 
 #. # TAG: promo_webmaker
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:164
 msgid "<i>Learn</i> the Web"
-msgstr ""
+msgstr "<i>Научи</i> Уеб"
 
 #. # TAG: promo_webmaker
 #. Webmaker promo
 #: mozorg/home.lang:170
 msgid "We teach the Web"
-msgstr ""
+msgstr "Ние преподаваме Уеб"
 
 #. # TAG: promo_webmaker
 #: mozorg/home.lang:175
@@ -205,23 +218,25 @@ msgid ""
 "Let‘s explore, tinker and create together to build a Web that‘s open and "
 "made by everyone."
 msgstr ""
+"Нека изследваме, бърникаме и създаваме заедно, за да изградим Уеб, който е "
+"отворен и направен от всички."
 
 #. # TAG: promo_webmaker
 #: mozorg/home.lang:180
 msgid "Become a Webmaker"
-msgstr ""
+msgstr "Стани Webmaker"
 
 #. # TAG: promo_new_mdn
 #. New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:186
 msgid "<i>See</i> the new MDN"
-msgstr ""
+msgstr "<i>Виж</i> новия MDN"
 
 #. # TAG: promo_new_mdn
 #. New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:192
 msgid "See what’s new <br>for developers"
-msgstr ""
+msgstr "Вижте какво е новото<br>за разработчици"
 
 #. # TAG: promo_new_mdn
 #. New MDN promo:
@@ -230,36 +245,40 @@ msgid ""
 "Our community hub for docs, demos and other resources just got a brand new "
 "look."
 msgstr ""
+"Центърът за документи, демонстрации и други ресурси на нашата общност, доби "
+"нов изглед."
 
 #. # TAG: promo_new_mdn
 #. New MDN promo:
 #: mozorg/home.lang:204
 msgid "Visit the Mozilla Developer Network"
-msgstr ""
+msgstr "Посети мрежата за разработчици на Mozilla (MDN)"
 
 #. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #: mozorg/home.lang:210
 msgid "The Web needs you"
-msgstr ""
+msgstr "Уеб се нуждае от теб"
 
 #. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, headline
 #: mozorg/home.lang:216
 msgid "What kind of Web do you want?"
-msgstr ""
+msgstr "Какъв вид Уеб искате?"
 
 #. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, main text
 #: mozorg/home.lang:222
 msgid "Tell us what matters most to you and help shape the future of the Web."
 msgstr ""
+"Кажете ни какво е най-важното за Вас и помогнете за оформянето на бъдещия "
+"Уеб."
 
 #. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #: mozorg/home.lang:228
 msgid "Share your vision"
-msgstr ""
+msgstr "Споделете своята визия"
 
 #. # TAG: promo_fxdesktop
 #. This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
@@ -283,30 +302,51 @@ msgstr ""
 #. # TAG: promo_fxdesktop
 #: mozorg/home.lang:250
 msgid "See what’s new"
-msgstr ""
+msgstr "Вижте какво ново"
 
-#. # TAG: promo_makerparty
-#. Maker Party promo:
-#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
-#. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:258
+#. promo_makerparty, temporarily disabled
+#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
+#: mozorg/home.lang:256
 msgid "<i>Join</i> our <br>Maker Party"
 msgstr ""
 
-#. # TAG: promo_makerparty
+#. promo_makerparty, temporarily disabled
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
-#: mozorg/home.lang:264
+#: mozorg/home.lang:262
 msgid "Join our global <br>Maker Party"
 msgstr ""
 
-#. # TAG: promo_makerparty
-#: mozorg/home.lang:269
+#. promo_makerparty, temporarily disabled
+#: mozorg/home.lang:267
 msgid ""
 "From July to September, help us teach, learn and make the Web at hands-on "
 "community events."
 msgstr ""
 
-#. # TAG: promo_makerparty
-#: mozorg/home.lang:274
+#. promo_makerparty, temporarily disabled
+#: mozorg/home.lang:272
 msgid "Learn about events near you"
+msgstr ""
+
+#. # TAG: promo_sumo
+#. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+#: mozorg/home.lang:278
+msgid "<i>Help</i> Mozilla users"
+msgstr ""
+
+#. # TAG: promo_sumo
+#: mozorg/home.lang:283
+msgid "We need your help"
+msgstr ""
+
+#. # TAG: promo_sumo
+#: mozorg/home.lang:288
+msgid ""
+"Learn about the ways you can help millions of users get the most out of "
+"their favorite browser."
+msgstr ""
+
+#. # TAG: promo_sumo
+#: mozorg/home.lang:293
+msgid "Join our support team"
 msgstr ""

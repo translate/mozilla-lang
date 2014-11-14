@@ -1,80 +1,88 @@
 #. extracted from ./firefox/whatsnew.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-28 13:33+0100\n"
+"POT-Creation-Date: 2014-11-11 10:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 
 #. # NOTE: This is for the Whatsnew page: http://www-dev.allizom.org/b/firefox/whatsnew/
 #: firefox/whatsnew.lang:3
 msgid "Hooray! Your Firefox is up to date."
-msgstr ""
+msgstr "Урааа! Вашият Firefox е обновен."
 
 #: firefox/whatsnew.lang:7
 msgid "Your Firefox is out of date."
-msgstr ""
+msgstr "Вашият Firefox е с остаряла версия."
 
 #: firefox/whatsnew.lang:11
 msgid ""
 "For security reasons, we recommend upgrading to the <a href=\"{url}\">latest "
 "and greatest version</a>."
 msgstr ""
+"От гледна точка на сигурността, препоръчваме да обновите до <a href="
+"\"{url}\">най-новата и невероятна версия</a>."
 
 #: firefox/whatsnew.lang:15
 msgid "You’re running an unknown version of Firefox."
-msgstr ""
+msgstr "Използвате непозната версия на Firefox."
 
 #: firefox/whatsnew.lang:19
 msgid ""
 "For security reasons, we recommend downloading to the <a href="
 "\"{url}\">latest and greatest version</a>."
 msgstr ""
+"От гледна точка на сигурността, препоръчваме да свалите <a href="
+"\"{url}\">най-новата и невероятна версия</a>."
 
 #: firefox/whatsnew.lang:23
 msgid "Get to your next task<br/>faster than ever"
-msgstr ""
+msgstr "Стигнете до следващата си задача<br/>по-бързо от всякога"
 
 #: firefox/whatsnew.lang:27
 msgid ""
 "See how the new features in Firefox help you browse faster and more "
 "efficiently."
 msgstr ""
+"Вижте как новата функционалност на Firefox ви помага да сърфирате из Уеб "
+"пространството по-бързо и ефективно."
 
 #: firefox/whatsnew.lang:31
 msgid "Learn more about <a href=\"{url}\">the New Tab feature »</a>"
-msgstr ""
+msgstr "Научете повече за <a href=\"{url}\">новата Tab фунционалност »</a>"
 
 #: firefox/whatsnew.lang:35
 msgid "Learn more about our <a href=\"{url}\">redesigned home page »</a>"
 msgstr ""
+"Научете повече за <a href=\"{url}\">новия дизайн на нашата начална страница "
+"»</a>"
 
 #: firefox/whatsnew.lang:39
 msgid "Keep in touch"
-msgstr ""
+msgstr "Поддържайте връзка"
 
 #: firefox/whatsnew.lang:43
 msgid "Keep it moving"
-msgstr ""
+msgstr "Останете в ритъм"
 
 #: firefox/whatsnew.lang:47
 msgid "Get Firefox » <b>for Android</b>"
-msgstr ""
+msgstr "Вземете Firefox » <b>за Android</b>"
 
 #: firefox/whatsnew.lang:51
 msgid "Keep it going"
-msgstr ""
+msgstr "Продължавайте напред"
 
 #: firefox/whatsnew.lang:55
 msgid "Join Mozilla"
-msgstr ""
+msgstr "Присъединете се към Mozilla"
 
 #: firefox/whatsnew.lang:59
 msgid ""
@@ -82,90 +90,99 @@ msgid ""
 "by Google</a> and used according to terms described in the <a href=\"%s"
 "\">Creative Commons 3.0 Attribution License</a>."
 msgstr ""
+"Роботът на Android е репродукция на изображение, създадено и <a href=\"%s"
+"\">споделено от Google</a> и се използва в съответствие с условията, описани "
+"в <a href=\"%s\">Creative Commons 3.0 Attribution License</a>."
 
 #: firefox/whatsnew.lang:63
 msgid ""
 "<a href=\"%s\">Get Firefox for Android</a> and put the power of the Web in "
 "your hands. It’s fast, smart and safe!"
 msgstr ""
+"<a href=\"%s\">Използвайте Firefox за Android</a> и вземете силата на Уеб "
+"пространството в ръцете си. Той е бърз, интелигентен и сигурен!"
 
 #: firefox/whatsnew.lang:67
 msgid "Now get the mobile browser that’s got your back"
-msgstr ""
-
-#: firefox/whatsnew.lang:71
-msgid "Firefox Features"
-msgstr ""
+msgstr "Вземете мобилния браузър, който ще се грижи за вас, сега"
 
 #. This is the tab title
-#: firefox/whatsnew.lang:76
+#: firefox/whatsnew.lang:72
 msgid "Welcome to Firefox"
-msgstr ""
-
-#: firefox/whatsnew.lang:80
-msgid "Firefox Help"
-msgstr ""
+msgstr "Добре дошли във Firefox"
 
 #. This is the alternate text for the Android image for blind people
-#: firefox/whatsnew.lang:85
+#: firefox/whatsnew.lang:77
 msgid "Firefox for Android artwork"
-msgstr ""
+msgstr "Firefox за Android илюстрация"
 
 #. Firefox for Android slogan, part of the fallback if we don't have a promotional video ready
-#: firefox/whatsnew.lang:90
+#: firefox/whatsnew.lang:82
 msgid "Fast. Smart. Safe."
-msgstr ""
+msgstr "Бърз. Интелигентен. Сигурен."
 
 #. This message is displayed as a fallback if we don't have a promotional video ready
-#: firefox/whatsnew.lang:95
+#: firefox/whatsnew.lang:87
 msgid "Get the mobile browser that’s got your back."
-msgstr ""
+msgstr "Вземете мобилния браузър, който ще се грижи за вас."
 
 #. Fx17: social API strings
-#: firefox/whatsnew.lang:100
+#: firefox/whatsnew.lang:92
 msgid "Facebook Messenger for Firefox"
-msgstr ""
+msgstr "Facebook Messenger за Firefox"
 
-#: firefox/whatsnew.lang:104
+#: firefox/whatsnew.lang:96
 msgid "Now you can keep up with friends wherever you go on the Web."
 msgstr ""
+"Сега можете да сте във връзка с приятелите си където и да се намирате в Уеб "
+"пространството."
 
 #. This is a button you can click
-#: firefox/whatsnew.lang:109
+#: firefox/whatsnew.lang:101
 msgid "Visit Facebook to turn it on"
-msgstr ""
+msgstr "Посетете Facebook, за да го включите"
 
-#: firefox/whatsnew.lang:113
+#: firefox/whatsnew.lang:105
 msgid "Get notified right away"
-msgstr ""
+msgstr "Получавайте незабавни уведомления"
 
-#: firefox/whatsnew.lang:117
+#: firefox/whatsnew.lang:109
 msgid "See new comments, photo tags & other Facebook updates instantly."
 msgstr ""
+"Виждайте моментално нови коментари, маркиране на снимки и други новини от "
+"Facebook."
 
-#: firefox/whatsnew.lang:121
+#: firefox/whatsnew.lang:113
 msgid "Chat while you browse"
-msgstr ""
+msgstr "Пишете си докато сърфирате"
 
-#: firefox/whatsnew.lang:125
+#: firefox/whatsnew.lang:117
 msgid "Stay connected to your Facebook friends without having to click away."
 msgstr ""
+"Останете във връзка с приятелите си без всяко кликване на мишката да "
+"прекъсва разговора."
 
-#: firefox/whatsnew.lang:129
+#: firefox/whatsnew.lang:121
 msgid "Facebook is a trademark of <a href=\"%(url)s\">Facebook, Inc.</a>"
-msgstr ""
+msgstr "Facebook е търговска марка на <a href=\"%(url)s\">Facebook, Inc.</a>"
 
 #. The line breaks in this headline are for visual formatting only
-#: firefox/whatsnew.lang:134
+#: firefox/whatsnew.lang:126
 msgid ""
 "Congratulations!<br> Your browser is safer and<br>more secure than ever."
 msgstr ""
 
 #. The line breaks in this headline are for visual formatting only
-#: firefox/whatsnew.lang:139
+#: firefox/whatsnew.lang:131
 msgid "Get the same level of<br> choice and innovation<br> in a smartphone."
 msgstr ""
 
-#: firefox/whatsnew.lang:143
+#: firefox/whatsnew.lang:135
 msgid "Learn more about Firefox OS"
-msgstr ""
+msgstr "Научи повече за Firefox OS"
+
+#~ msgid "Firefox Features"
+#~ msgstr "Firefox функции"
+
+#~ msgid "Firefox Help"
+#~ msgstr "Firefox Помощ"

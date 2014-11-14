@@ -1,4 +1,5 @@
 #. extracted from ./newsletter.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -7,7 +8,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,59 +16,61 @@ msgstr ""
 #. These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
 #: newsletter.lang:3
 msgid "Get Monthly News"
-msgstr ""
+msgstr "Абонирай се за месечните новини"
 
 #: newsletter.lang:7
 msgid "Your Email Address"
-msgstr ""
+msgstr "Твоята електронна поща"
 
 #: newsletter.lang:11
 msgid "Your email address:"
-msgstr ""
+msgstr "Твоята електронна поща:"
 
 #: newsletter.lang:15
 msgid "Text"
-msgstr ""
+msgstr "Текст"
 
 #: newsletter.lang:19
 msgid "Available Languages"
-msgstr ""
+msgstr "Език на новините"
 
 #: newsletter.lang:23
 msgid "Language:"
-msgstr ""
+msgstr "Език:"
 
 #: newsletter.lang:27
 msgid "Select country"
-msgstr ""
+msgstr "Избери държава"
 
 #: newsletter.lang:31
 msgid "Country:"
-msgstr ""
+msgstr "Държава:"
 
 #: newsletter.lang:35
 msgid "Whoops! Be sure to enter a valid email address."
-msgstr ""
+msgstr "Ехххей! Моля, уверете се, че е въведен валиден имейл адрес."
 
 #: newsletter.lang:39
 msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
 msgstr ""
+"Моля, прочетете Политиката за поверителност на Mozilla и се съгласете с нея, "
+"като сложите отметка."
 
 #: newsletter.lang:43
 msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
-msgstr ""
+msgstr "Съгласен съм с <a href=\"%s\">Политиката за поверителност</a>"
 
 #: newsletter.lang:47
 msgid "Sign me up!"
-msgstr ""
+msgstr "Запишете ме!"
 
 #: newsletter.lang:51
 msgid "We will only send you Mozilla-related information."
-msgstr ""
+msgstr "Ще ви изпращаме само информация, свързана с Мozilla."
 
 #: newsletter.lang:55
 msgid "Thanks for Subscribing!"
-msgstr ""
+msgstr "Благодарим за абонамента!"
 
 #: newsletter.lang:59
 msgid ""
@@ -76,6 +78,9 @@ msgid ""
 "out of Firefox, as well as exciting news about Mozilla and how we’re working "
 "to create a better Web."
 msgstr ""
+"Нямаме търпение да започнем да споделяме трикове и идеи за това как да "
+"вземете най-доброто от Firefox, вълнуващи новини за Mozilla, както и над "
+"какво работим, за да създадем едно по-добро Интернет пространство."
 
 #: newsletter.lang:63
 msgid ""
@@ -83,143 +88,159 @@ msgid ""
 "the latest tips and tricks for getting the most out of your Firefox browser. "
 "It’s the perfect way for us to keep in touch!"
 msgstr ""
+"Запишете се за месечните ни новини и бъдете в крак с новите неща около "
+"Mozilla, включително и последните сътвети как да направите вашия Firefox по-"
+"добър. Това е идеален начин да следите какво става с нас!"
 
 #: newsletter.lang:66
 msgid ""
 "We just sent you a confirmation message by email. Click on the confirmation "
 "link in this email to validate your subscription to this mailing list."
 msgstr ""
+"Току що ви изпратихме съобщение за потвърждение по e-mail. Цъкнете на "
+"препратката в него, за да потвърдите желанието си да бъдете абониран за този "
+"пощенски списък."
 
 #: newsletter.lang:69
 msgid "Read all about it in our <span>newsletter</span>"
-msgstr ""
+msgstr "Прочетете повече за всичко това в нашия <span>бюлетин</span>"
 
 #: newsletter.lang:73
 msgid "Your newsletter subscription has been confirmed."
-msgstr ""
+msgstr "Вашият абонамент е потвърден."
 
 #: newsletter.lang:76
 msgid "Format"
-msgstr ""
+msgstr "Формат"
 
 #: newsletter.lang:79
 msgid "You’re All Set! <span>But Wait, There’s More</span>"
-msgstr ""
+msgstr "Всичко е готово! <span>Но чакай, има и още</span>"
 
 #: newsletter.lang:83
 msgid ""
 "Want to get the most relevant info? Tell us a little more about yourself. "
 "And while you’re here, sign up for other Mozilla news."
 msgstr ""
+"Искате да получите най-подходящата информация? Разкажете ни повече за себе "
+"си. И докато сте тук, запишете се за други Mozilla новини."
 
 #: newsletter.lang:86
 msgid "Firefox & You"
-msgstr ""
+msgstr "Firefox и Ти"
 
 #: newsletter.lang:89
 msgid "Our Other Newsletters:"
-msgstr ""
+msgstr "Другите ни бюлетини:"
 
 #: newsletter.lang:92
 msgid ""
 "Get the latest tips and tricks for getting the most out of your favorite "
 "browser."
 msgstr ""
+"Вземете най-новите съвети и трикове, за да извлечете максимума от любимия Ви "
+"браузър."
 
 #: newsletter.lang:95
 msgid "Firefox Mobile"
-msgstr ""
+msgstr "Firefox Mobile"
 
 #: newsletter.lang:98
 msgid "Learn about the hottest new add-ons and features for Firefox mobile."
 msgstr ""
+"Научете повече за най-горещите нови добавки и функции на мобилната версия на "
+"Firefox."
 
 #: newsletter.lang:101
 msgid "Beta News"
-msgstr ""
+msgstr "Beta Новини"
 
 #: newsletter.lang:105
 msgid "Let’s Be Friends!"
-msgstr ""
+msgstr "Нека бъдем приятели!"
 
 #: newsletter.lang:109
 msgid ""
 "Firefox is also on your favorite social networking sites. Connect with us "
 "and join the conversation."
 msgstr ""
+"Можете да намерите Firefox и в любимите Ви социални сайтове. Свържете се с "
+"нас и се присъединете към разговорите."
 
 #: newsletter.lang:113
 msgid "Manage your <span>Newsletter Subscriptions</span>"
-msgstr ""
+msgstr "Управлявайте своите <span>абонаменти за бюлетини</span>"
 
 #: newsletter.lang:117
 msgid "Subscribe"
-msgstr ""
+msgstr "Абонирай"
 
 #: newsletter.lang:121
 msgid "Unsubscribe"
-msgstr ""
+msgstr "Отпиши"
 
 #: newsletter.lang:125
 msgid "Check here if you’d like to be removed from all Mozilla emails"
 msgstr ""
+"Отбележете тук, ако не искате да получавате каквито и да е имейли от Mozilla"
 
 #: newsletter.lang:129
 msgid "Remove me from all Mozilla emails"
-msgstr ""
+msgstr "Махни ме от всички имейли от Mozilla"
 
 #: newsletter.lang:133
 msgid "Save Preferences"
-msgstr ""
+msgstr "Запази настройките"
 
 #: newsletter.lang:136
 msgid "Thanks for updating your email preferences."
-msgstr ""
+msgstr "Благодарим, че актуализирахте имейл настройките си."
 
 #: newsletter.lang:140
 msgid "You've been unsubscribed."
-msgstr ""
+msgstr "Бяхте отписан."
 
 #: newsletter.lang:143
 msgid ""
 "We’re sorry to see you go. Would you mind telling us why you’re leaving?"
-msgstr ""
+msgstr "Съжаляваме, че се отказвате. Имате ли нещо против да ни кажете защо?"
 
 #: newsletter.lang:147
 msgid "You send too many emails."
-msgstr ""
+msgstr "Изпращате прекалено много имейли."
 
 #: newsletter.lang:151
 msgid "Your content wasn't relevant to me."
-msgstr ""
+msgstr "Вашето съдържание не е от значение за мен."
 
 #: newsletter.lang:155
 msgid "Your email design was too hard to read."
-msgstr ""
+msgstr "Вашият имейл дизайн се чете твърде трудно."
 
 #: newsletter.lang:159
 msgid "I didn't sign up for this."
-msgstr ""
+msgstr "Не съм се записвал за това."
 
 #: newsletter.lang:163
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
-msgstr ""
+msgstr "Поддържам връзка с Mozilla във Facebook и Twitter."
 
 #: newsletter.lang:167
 msgid "Submit"
-msgstr ""
+msgstr "Изпрати"
 
 #: newsletter.lang:170
 msgid "Thanks for telling us why you’re leaving."
-msgstr ""
+msgstr "Благодарим, че ни казахте защо си тръгвате."
 
 #: newsletter.lang:174
 msgid "Mozilla Newsletters"
-msgstr ""
+msgstr "Mozilla Бюлетини"
 
 #: newsletter.lang:178
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr ""
+"Благодарим! Моля проверете входящата си поща, за да потвърдите абонамента си."
 
 #: newsletter.lang:182
 msgid ""
@@ -227,27 +248,33 @@ msgid ""
 "subscription. If you don't see it, check your spam filter. You must confirm "
 "your subscription to receive our newsletter."
 msgstr ""
+"Ще получите имейл от mozilla@e.mozilla.org, за да потвърдите абонамента си. "
+"Ако не го видите, проверете спам филтъра си. Трябва да потвърдите абонамента "
+"си, за да получавате бюлетина ни."
 
 #: newsletter.lang:186
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
 msgstr ""
+"Моля, не забравяйте да добавите нашия имейл адрес: mozilla@e.mozilla.org в "
+"адресната си книга, за да бъдете сигурни, че винаги ще достигнем до вашата "
+"пощенска кутия."
 
 #. This string is used for a subscription field on other pages than /newsletter/
 #: newsletter.lang:191
 msgid "Get Firefox news"
-msgstr ""
+msgstr "Вземи Firefox новини"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
 #: newsletter.lang:196
 msgid "YOUR EMAIL HERE"
-msgstr ""
+msgstr "ВЪВЕДЕТЕ EMAIL-А СИ ТУК"
 
 #. Button
 #: newsletter.lang:200
 msgid "Sign me up"
-msgstr ""
+msgstr "Запишете ме"
 
 #: newsletter.lang:204
 msgid ""
@@ -260,82 +287,84 @@ msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
 msgstr ""
+"Предоставената препратка вече не е валидна. Ще получите нова със следващия "
+"бюлетин."
 
 #: newsletter.lang:212
 msgid "Something is amiss with our system, sorry! Please try again later."
-msgstr ""
+msgstr "Нещо не е наред при нас! Моля, опитайте отново."
 
 #: newsletter.lang:216
 msgid "English&nbsp;only"
-msgstr ""
+msgstr "Само&nbsp;на&nbsp;английски"
 
 #: newsletter.lang:220
 msgid "Newsletter Subscriptions"
-msgstr ""
+msgstr "Абонаменти"
 
 #: newsletter.lang:224
 msgid "Newsletter confirm"
-msgstr ""
+msgstr "Потвърждение на абонамента"
 
 #: newsletter.lang:228
 msgid "Format:"
-msgstr ""
+msgstr "Формат:"
 
 #: newsletter.lang:232
 msgid "You’ve been unsubscribed."
-msgstr ""
+msgstr "Бяхте отписан/а."
 
 #: newsletter.lang:236
 msgid "We’re sorry to see you go."
-msgstr ""
+msgstr "Съжаляваме, че си тръгвате."
 
 #: newsletter.lang:240
 msgid "Would you mind telling us why you’re leaving?"
-msgstr ""
+msgstr "Бихте ли споделили каква в прочината да се отпишете?"
 
 #: newsletter.lang:244
 msgid "Other…"
-msgstr ""
+msgstr "Друга…"
 
 #: newsletter.lang:248
 msgid "While here, why not check out some more Firefox awesomeness."
-msgstr ""
+msgstr "Докато сте тук, защо не видите някоя и друга Firefox чудесия."
 
 #: newsletter.lang:252
 msgid "Get up and go"
-msgstr ""
+msgstr "Давай"
 
 #: newsletter.lang:256
 msgid "It’s your Web anywhere you go."
-msgstr ""
+msgstr "Това е твоят Уеб, където и да отидеш."
 
 #: newsletter.lang:260
 msgid "Get Firefox for mobile!"
-msgstr ""
+msgstr "Вземете Firefox за мобилен телефон!"
 
 #: newsletter.lang:264
 msgid "Added extras"
-msgstr ""
+msgstr "Добавени екстри"
 
 #: newsletter.lang:268
 msgid "Make Firefox do more with add-ons."
-msgstr ""
+msgstr "Разшири възможностите на Firefox с добавки."
 
 #: newsletter.lang:272
 msgid "Find out how!"
-msgstr ""
+msgstr "Разбери как!"
 
 #: newsletter.lang:276
 msgid "About us"
-msgstr ""
+msgstr "За нас"
 
 #: newsletter.lang:280
 msgid "What’s Mozilla all about?"
-msgstr ""
+msgstr "За какво се бори Mozilla_"
 
 #: newsletter.lang:284
 msgid "We’re glad you asked!"
-msgstr ""
+msgstr "Радваме се, че попитахте!"
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:289
@@ -369,6 +398,8 @@ msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
 msgstr ""
+"Прочетете за най-новите функции на настолната и мобилната версия на Firefox, "
+"преди да излезе финалната версия."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:319

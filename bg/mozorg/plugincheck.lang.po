@@ -1,262 +1,320 @@
 #. extracted from ./mozorg/plugincheck.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-25 11:11+0100\n"
+"POT-Creation-Date: 2014-10-09 17:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 
 #. # java_notice ##
 #. # plugin_disable_warning ##
+#. # plugin_updated_content ##
 #. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 #. Page <title> tag
-#: mozorg/plugincheck.lang:8
+#: mozorg/plugincheck.lang:9
 msgid "Plugin Check &amp; Updates"
-msgstr ""
+msgstr "Проверка и обновяване на приставки"
 
 #. This is a button telling the user to update their plugin
-#: mozorg/plugincheck.lang:13
+#: mozorg/plugincheck.lang:14
 msgid "Update Now"
-msgstr ""
+msgstr "Обновяване сега"
 
 #. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
-#: mozorg/plugincheck.lang:18
+#: mozorg/plugincheck.lang:19
 msgid "Research"
-msgstr ""
+msgstr "Изследване"
 
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
-#: mozorg/plugincheck.lang:23
+#: mozorg/plugincheck.lang:24
 msgid "current version plugin"
-msgstr ""
+msgstr "текуща версия на приставката"
 
 #. This is a button informing the user that their plugin is up to date
-#: mozorg/plugincheck.lang:28
+#: mozorg/plugincheck.lang:29
 msgid "Up to Date"
-msgstr ""
+msgstr "Обновена"
 
 #. L10n: This is alt text used on plugin icon images
-#: mozorg/plugincheck.lang:33
+#: mozorg/plugincheck.lang:34
 msgid "Plugin icon"
-msgstr ""
+msgstr "Иконка на приставката"
 
 #. This is the string used to indicate that the plugin is unknown
-#: mozorg/plugincheck.lang:38
+#: mozorg/plugincheck.lang:39
 msgid "unknown"
-msgstr ""
+msgstr "непозната"
 
 #. This is the string used to indicate that the plugin is vulnerable
-#: mozorg/plugincheck.lang:43
+#: mozorg/plugincheck.lang:44
 msgid "vulnerable"
-msgstr ""
+msgstr "уязвима"
 
 #. Main title
-#: mozorg/plugincheck.lang:48
+#: mozorg/plugincheck.lang:49
 msgid "Check Your Plugins"
-msgstr ""
+msgstr "Проверете вашите приставки"
 
-#: mozorg/plugincheck.lang:52
+#: mozorg/plugincheck.lang:53
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
+"Поддържайки приставките си актуални, помагате на Firefox да бъде по-сигурен."
 
-#. # TAG: java_notice
 #: mozorg/plugincheck.lang:57
-msgid ""
-"We are aware of a problem detecting current versions of the Java plugin and "
-"misreporting them as vulnerable."
-msgstr ""
+msgid "Looks like you’re using an older version of Firefox."
+msgstr "Изглежда използвате стара версия на Firefox."
 
 #. # TAG: java_notice
 #: mozorg/plugincheck.lang:62
 msgid ""
+"We are aware of a problem detecting current versions of the Java plugin and "
+"misreporting them as vulnerable."
+msgstr ""
+"Знаем за проблем с разпознаването на текущата версия на приставката за Java "
+"и грешното докладване като уязвима."
+
+#. # TAG: java_notice
+#: mozorg/plugincheck.lang:67
+msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
 msgstr ""
+"Работим над поправянето на тази грешка. Междувременно, можете да<a href="
+"\"%(download)s\">посетите уебсайта на Java</a> и да изтеглите последната "
+"версия."
 
-#: mozorg/plugincheck.lang:66
+#: mozorg/plugincheck.lang:71
 msgid "Plugin Status"
-msgstr ""
+msgstr "Състояние на приставката"
 
-#: mozorg/plugincheck.lang:70
+#: mozorg/plugincheck.lang:75
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
 msgstr ""
+"Проверката на приставките <strong>ограничено поддържа Internet Explorer</"
+"strong>. Също използвайте Инструменти &gt; Управление на Добавки (Tools &gt; "
+"Manage Addons)"
 
-#: mozorg/plugincheck.lang:74
+#: mozorg/plugincheck.lang:79
 msgid "Step 1: Click Update to update a plugin."
-msgstr ""
+msgstr "Стъпка 1: Изберете „Обновяване“, за да обновите приставката."
 
-#: mozorg/plugincheck.lang:78
+#: mozorg/plugincheck.lang:83
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
+"Стъпка 2: Извършете всички препоръчани обновления преди да рестартирате "
+"браузъра."
 
-#: mozorg/plugincheck.lang:82
+#: mozorg/plugincheck.lang:87
 msgid "Potentially vulnerable plugins"
-msgstr ""
+msgstr "Потенциално уязвими приставки"
 
-#: mozorg/plugincheck.lang:86
+#: mozorg/plugincheck.lang:91
 msgid "Plugin"
-msgstr ""
+msgstr "Приставка"
 
-#: mozorg/plugincheck.lang:90
+#: mozorg/plugincheck.lang:95
 msgid "Status"
-msgstr ""
+msgstr "Състояние"
 
-#: mozorg/plugincheck.lang:94
+#: mozorg/plugincheck.lang:99
 msgid "Action"
-msgstr ""
+msgstr "Действие"
 
-#: mozorg/plugincheck.lang:98
+#: mozorg/plugincheck.lang:103
 msgid "Outdated Plugins"
-msgstr ""
+msgstr "Остарели приставки"
 
-#: mozorg/plugincheck.lang:102
+#: mozorg/plugincheck.lang:107
 msgid "Unknown Plugins"
-msgstr ""
+msgstr "Непознати приставки"
 
-#: mozorg/plugincheck.lang:106
+#: mozorg/plugincheck.lang:111
 msgid "These plugins are up to date"
-msgstr ""
+msgstr "Тези приставки са остарели"
 
-#: mozorg/plugincheck.lang:110
+#: mozorg/plugincheck.lang:115
 msgid "Back to Top"
-msgstr ""
+msgstr "Връщане в началото"
 
-#: mozorg/plugincheck.lang:114
+#: mozorg/plugincheck.lang:119
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Често задавани въпроси"
 
-#: mozorg/plugincheck.lang:118
+#: mozorg/plugincheck.lang:123
 msgid "What is a plugin?"
-msgstr ""
+msgstr "Какво е приставка?"
 
-#: mozorg/plugincheck.lang:122
+#: mozorg/plugincheck.lang:127
 msgid "Plugins power videos, animation and games"
-msgstr ""
+msgstr "Приставките задвижват видео, анимации и игри."
 
-#: mozorg/plugincheck.lang:126
+#: mozorg/plugincheck.lang:131
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
-msgstr ""
+msgstr "Те се разработват извън Firefox от фирми като Adobe Systems и Apple."
 
-#: mozorg/plugincheck.lang:130
+#: mozorg/plugincheck.lang:135
 msgid "Plugins don't always update automatically."
-msgstr ""
+msgstr "Приставките не винаги се обновяват автоматично."
 
-#: mozorg/plugincheck.lang:134
+#: mozorg/plugincheck.lang:139
 msgid "Why should I update my plugins?"
-msgstr ""
+msgstr "Защо трябва да обновявам приставките си?"
 
-#: mozorg/plugincheck.lang:138
+#: mozorg/plugincheck.lang:143
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr ""
+"Старите приставки могат да прекъсват вашата работа с Интернет и да губят "
+"времето ви."
 
-#: mozorg/plugincheck.lang:142
+#: mozorg/plugincheck.lang:147
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
 msgstr ""
+"Старите приставки <strong>увеличават риска</strong> от зловредни елементи, "
+"вируси и други заплахи за сигурността."
 
-#: mozorg/plugincheck.lang:146
+#: mozorg/plugincheck.lang:151
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
 msgstr ""
+"<strong>Обновените приставки имат усъвършенствания</strong>, който спомагат "
+"Мрежата да бъде <strong>по-добра и по-безопасна</strong> за вас."
 
 #. alt image
-#: mozorg/plugincheck.lang:151
+#: mozorg/plugincheck.lang:156
 msgid "Screenshot of Add-Ons manager"
-msgstr ""
+msgstr "Екранна снимка на управлението на добавките"
 
-#: mozorg/plugincheck.lang:155
+#: mozorg/plugincheck.lang:160
 msgid "How can Firefox help me?"
-msgstr ""
+msgstr "Как може да ми помогне Firefox?"
 
-#: mozorg/plugincheck.lang:159
+#: mozorg/plugincheck.lang:164
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
 msgstr ""
+"За в бъдеще Firefox ще обновява приставките за вас автоматично. Дотогава е "
+"желателно да проверявате тази страница редовно и да обновявате приставките, "
+"което е за ваше добро."
 
-#: mozorg/plugincheck.lang:163
+#: mozorg/plugincheck.lang:168
 msgid "Which Plugins do I have?"
-msgstr ""
+msgstr "Какви приставки имам?"
 
-#: mozorg/plugincheck.lang:167
+#: mozorg/plugincheck.lang:172
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
 msgstr ""
+"Ние автоматично засякохме упоменатите приставки. За да прегледате вашите "
+"инсталирани приставки към Firefox, следвайте тези стъпки:"
 
-#: mozorg/plugincheck.lang:171
+#: mozorg/plugincheck.lang:176
 msgid "Want to spread the word?"
-msgstr ""
+msgstr "Искате да кажете на други за това?"
 
-#: mozorg/plugincheck.lang:175
+#: mozorg/plugincheck.lang:180
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
 msgstr ""
+"Помогнете на приятелите си да се чувстват сигурни онлайн! Посетете <a href="
+"\"%(url)s\">Фirefox Affiliates</a>, за да вземете специална джаджа за "
+"проверка на приставки за вашия сайт."
 
-#: mozorg/plugincheck.lang:179
+#: mozorg/plugincheck.lang:184
 msgid "How do I disable a plugin?"
-msgstr ""
+msgstr "Как да изключа приставка?"
 
-#: mozorg/plugincheck.lang:183
+#: mozorg/plugincheck.lang:188
 msgid "In Firefox:"
-msgstr ""
+msgstr "Във Firefox:"
 
-#: mozorg/plugincheck.lang:187
+#: mozorg/plugincheck.lang:192
 msgid "Open the Tools menu."
-msgstr ""
+msgstr "Отворете менюто Инструменти (Tools)."
 
-#: mozorg/plugincheck.lang:191
+#. # TAG: plugin_updated_content
+#. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
+#: mozorg/plugincheck.lang:198
+msgid "Open the <span class=\"menu\">menu</span>."
+msgstr "Отворете <span class=\"menu\">менюто</span>."
+
+#: mozorg/plugincheck.lang:202
 msgid "Choose Add-ons."
-msgstr ""
+msgstr "Изберете Добавки (Add-ons)."
 
-#: mozorg/plugincheck.lang:195
+#: mozorg/plugincheck.lang:206
 msgid "Click the plugins tab."
-msgstr ""
+msgstr "Щравкнете на раздел Приставки (Plugins)"
 
-#: mozorg/plugincheck.lang:199
+#. # TAG: plugin_updated_content
+#: mozorg/plugincheck.lang:211
+msgid "Click on the drop down next to the plugin you wish to disable."
+msgstr ""
+"Щракнете върху падащия списък, отдясно на приставката, която искате да "
+"изключите"
+
+#: mozorg/plugincheck.lang:215
 msgid "Click on a plugin in the list."
-msgstr ""
+msgstr "Щракнете на приставка от списъка."
 
-#: mozorg/plugincheck.lang:203
+#. # TAG: plugin_updated_content
+#: mozorg/plugincheck.lang:220
+msgid "Select \"Never Activate\" from the available choices."
+msgstr ""
+"Изберете „Никога да не се активира“ (Never Activate) измежду наличните "
+"възможности."
+
+#: mozorg/plugincheck.lang:224
 msgid "Click the Disable button."
-msgstr ""
+msgstr "Щракнете бутона Деактивиране (Disable)."
 
-#: mozorg/plugincheck.lang:207
+#: mozorg/plugincheck.lang:228
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on YouTube."
 msgstr ""
+"Внимание: спирайки приставките си означава, че няма да можете да извършвате "
+"определени действия. Например, ако спрете Flash, няма да можете да гледате "
+"този видео формат на много Интернет страници в мрежата."
 
 #. # TAG: plugin_disable_warning
-#: mozorg/plugincheck.lang:212
+#: mozorg/plugincheck.lang:233
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on some streaming video websites."
 msgstr ""
+"Внимание: спирайки приставките си означава, че няма да можете да извършвате "
+"определени действия. Например, ако спрете Flash, няма да можете да гледате "
+"видео на много сайтове за поточно видео."
 
-#: mozorg/plugincheck.lang:216
+#: mozorg/plugincheck.lang:237
 msgid "Mozilla Support"
-msgstr ""
+msgstr "Поддръжка на Mozilla"
 
-#: mozorg/plugincheck.lang:220
+#: mozorg/plugincheck.lang:241
 msgid "Have more questions?"
-msgstr ""
+msgstr "Имате други въпроси?"
 
-#: mozorg/plugincheck.lang:224
+#: mozorg/plugincheck.lang:245
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
+"Посетете <a href=\"%(sumo_url)s\">support.mozilla.org</a> за повече полезни "
+"съвети!"
