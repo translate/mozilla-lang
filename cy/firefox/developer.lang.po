@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-17 20:05+0000\n"
+"POT-Creation-Date: 2014-11-18 17:04+0000\n"
 "PO-Revision-Date: 2014-11-10 10:27+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -257,11 +257,13 @@ msgstr "Dewis Firefox"
 msgid "Welcome to Firefox Developer Edition"
 msgstr "Croeso i Firefox Datblygwyr"
 
-#: firefox/developer.lang:176
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:177
 msgid "Developer Tools"
 msgstr "Offer Datblygwyr"
 
-#: firefox/developer.lang:180
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:182
 msgid ""
 "The most complete browser made just for developers, Firefox Developer "
 "Edition has every dev tool you’ll need built right in."
@@ -269,15 +271,18 @@ msgstr ""
 "Y porwr mwyaf cyflawn wedi ei wneud yn benodol ar gyfer datblygwyr, mae gan "
 "Firefox pob offeryn datblygwr o'i fewn yn barod."
 
-#: firefox/developer.lang:184
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:187
 msgid "Next: WebIDE"
 msgstr "Nesaf: WebIDE"
 
-#: firefox/developer.lang:188
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:192
 msgid "Try WebIDE"
 msgstr "Defnyddiwch WebIDE"
 
-#: firefox/developer.lang:192
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:197
 msgid ""
 "Develop, deploy and debug Firefox OS apps directly in your browser or on a "
 "Firefox OS device."
@@ -285,17 +290,20 @@ msgstr ""
 "Datblygwch, defnyddiwch a dadfygiwch apiau Firefox o fewn eich porwr neu ar "
 "ddyfais Firefox OS."
 
-#: firefox/developer.lang:196
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:202
 msgid "Next: Sync"
 msgstr "Nesaf: Sync"
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:201
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:208
 msgid "Important"
 msgstr ""
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:206
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:214
 msgid ""
 "Sync your new Developer Edition profile to your Firefox Account to access "
 "bookmarks, browsing history, passwords and more from your existing Firefox "
@@ -303,15 +311,18 @@ msgid ""
 msgstr ""
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:211
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:220
 msgid "Sync now"
 msgstr ""
 
-#: firefox/developer.lang:215
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:225
 msgid "Keep your browser in Sync"
 msgstr "Cydweddu eich porwr"
 
-#: firefox/developer.lang:219
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:230
 msgid ""
 "Sync your Firefox desktop and mobile browsers to get instant access to your "
 "bookmarks, open tabs, passwords and more."
@@ -319,21 +330,25 @@ msgstr ""
 "Cydweddwch eich Firefox bwrdd gwaith â phorwyr symudol i gael mynediad "
 "uniongyrchol i'ch nodau tudalen, tabiau agored, cyfrineiriau a rhagor."
 
-#: firefox/developer.lang:223
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:235
 msgid "Sync my Firefox"
 msgstr "Cydweddu fy Firefox"
 
-#: firefox/developer.lang:227
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:240
 msgid "No thanks"
 msgstr "Na, dim diolch"
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:232
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:246
 msgid "Before you go&hellip;"
 msgstr ""
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:237
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:252
 msgid ""
 "If you continue without syncing your new Developer Edition profile, you "
 "could lose access to important browsing data from your existing Firefox "
@@ -341,15 +356,16 @@ msgid ""
 msgstr ""
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:242
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:258
 msgid "To sync now, choose the Sync option from this menu."
 msgstr ""
 
-#: firefox/developer.lang:246
+#: firefox/developer.lang:262
 msgid "Welcome to <span>Firefox Developer Edition</span>"
 msgstr "Croeso i<span>Firefox Datblygwr</span>"
 
-#: firefox/developer.lang:250
+#: firefox/developer.lang:266
 msgid ""
 "Get to know the features that make it the most complete browser for building "
 "the Web."
@@ -358,29 +374,29 @@ msgstr ""
 "adeiladu'r We."
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:255
+#: firefox/developer.lang:271
 msgid "Important: Sync your new profile"
 msgstr ""
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:260
+#: firefox/developer.lang:276
 msgid ""
 "Developer Edition comes with a new profile so you can run it alongside other "
 "versions of Firefox."
 msgstr ""
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:265
+#: firefox/developer.lang:281
 msgid ""
 "To access your bookmarks, browsing history and more, you need to sync the "
 "profile with your existing Firefox Account, or create a new one."
 msgstr ""
 
-#: firefox/developer.lang:269
+#: firefox/developer.lang:285
 msgid "Want the old look back?"
 msgstr "Eisiau'r hen olwg nôl?"
 
-#: firefox/developer.lang:273
+#: firefox/developer.lang:289
 msgid ""
 "If you want the familiar look and feel of Firefox Aurora back, we’ve made it "
 "super easy for you."
@@ -388,7 +404,7 @@ msgstr ""
 "Os hoffech chi gael y golwg a'r teimlad o Firefox Aurora yn ei ôl, mae'n "
 "hawdd."
 
-#: firefox/developer.lang:277
+#: firefox/developer.lang:293
 msgid "Features and tools"
 msgstr "Nodweddion ac offer"
 

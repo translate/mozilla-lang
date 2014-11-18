@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-17 20:05+0000\n"
+"POT-Creation-Date: 2014-11-18 17:04+0000\n"
 "PO-Revision-Date: 2014-11-17 21:05+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1416258335.000000\n"
 
 #. # NOTE: Demo page at https://www-dev.allizom.org/firefox/developer
@@ -262,11 +262,13 @@ msgstr "Firefox wubraś"
 msgid "Welcome to Firefox Developer Edition"
 msgstr "Witajśo do wuwijarskeje edicije Firefox"
 
-#: firefox/developer.lang:176
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:177
 msgid "Developer Tools"
 msgstr "Wuwijarske rědy"
 
-#: firefox/developer.lang:180
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:182
 msgid ""
 "The most complete browser made just for developers, Firefox Developer "
 "Edition has every dev tool you’ll need built right in."
@@ -274,15 +276,18 @@ msgstr ""
 "Nejdopołnjejšy wobglědowak, kótaryž jo se za wuwijarjow napórał, wuwijarska "
 "edicija Firefox, ma kuždy rěd, kótaryž trjebaśo."
 
-#: firefox/developer.lang:184
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:187
 msgid "Next: WebIDE"
 msgstr "Dalej: WebIDE"
 
-#: firefox/developer.lang:188
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:192
 msgid "Try WebIDE"
 msgstr "WebIDE wuproběrowaś"
 
-#: firefox/developer.lang:192
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:197
 msgid ""
 "Develop, deploy and debug Firefox OS apps directly in your browser or on a "
 "Firefox OS device."
@@ -290,17 +295,20 @@ msgstr ""
 "Wuwijajśo, instalěrujśo nałoženja Firefox OS a pśepytujśo je za zmólkami "
 "direktnje w swójom wobglědowaku abo na rěźe Firefox OS."
 
-#: firefox/developer.lang:196
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:202
 msgid "Next: Sync"
 msgstr "Dalej: Synchronizacija"
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:201
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:208
 msgid "Important"
 msgstr "Wažny"
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:206
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:214
 msgid ""
 "Sync your new Developer Edition profile to your Firefox Account to access "
 "bookmarks, browsing history, passwords and more from your existing Firefox "
@@ -311,15 +319,18 @@ msgstr ""
 "znamjenja, pśeglědowańsku historiju, gronidła a wěcej měł."
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:211
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:220
 msgid "Sync now"
 msgstr ""
 
-#: firefox/developer.lang:215
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:225
 msgid "Keep your browser in Sync"
 msgstr "Źaržćo swój wobglědowak synchronizěrowany"
 
-#: firefox/developer.lang:219
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:230
 msgid ""
 "Sync your Firefox desktop and mobile browsers to get instant access to your "
 "bookmarks, open tabs, passwords and more."
@@ -328,21 +339,25 @@ msgstr ""
 "pśistup na swóje cytańske znamjenja, wócynjone rejtarki, gronidła a wěcej "
 "dostał."
 
-#: firefox/developer.lang:223
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:235
 msgid "Sync my Firefox"
 msgstr "Firefox synchronizěrowaś"
 
-#: firefox/developer.lang:227
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:240
 msgid "No thanks"
 msgstr "Ně, źěkujom se"
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:232
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:246
 msgid "Before you go&hellip;"
 msgstr ""
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:237
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:252
 msgid ""
 "If you continue without syncing your new Developer Edition profile, you "
 "could lose access to important browsing data from your existing Firefox "
@@ -350,15 +365,16 @@ msgid ""
 msgstr ""
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:242
+#. UI Tour: don't add HTML tags in this string
+#: firefox/developer.lang:258
 msgid "To sync now, choose the Sync option from this menu."
 msgstr ""
 
-#: firefox/developer.lang:246
+#: firefox/developer.lang:262
 msgid "Welcome to <span>Firefox Developer Edition</span>"
 msgstr "Witajśo do <span>wuwijarskeje edicije Firefox</span>"
 
-#: firefox/developer.lang:250
+#: firefox/developer.lang:266
 msgid ""
 "Get to know the features that make it the most complete browser for building "
 "the Web."
@@ -367,29 +383,29 @@ msgstr ""
 "twarjenje weba."
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:255
+#: firefox/developer.lang:271
 msgid "Important: Sync your new profile"
 msgstr ""
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:260
+#: firefox/developer.lang:276
 msgid ""
 "Developer Edition comes with a new profile so you can run it alongside other "
 "versions of Firefox."
 msgstr ""
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:265
+#: firefox/developer.lang:281
 msgid ""
 "To access your bookmarks, browsing history and more, you need to sync the "
 "profile with your existing Firefox Account, or create a new one."
 msgstr ""
 
-#: firefox/developer.lang:269
+#: firefox/developer.lang:285
 msgid "Want the old look back?"
 msgstr "Cośo stary naglěd slědk měś?"
 
-#: firefox/developer.lang:273
+#: firefox/developer.lang:289
 msgid ""
 "If you want the familiar look and feel of Firefox Aurora back, we’ve made it "
 "super easy for you."
@@ -397,7 +413,7 @@ msgstr ""
 "Jolic cośo znaty naglěd Firefox Aurora slědk, smy to za was superlažko "
 "cynili."
 
-#: firefox/developer.lang:277
+#: firefox/developer.lang:293
 msgid "Features and tools"
 msgstr "Funkcije a rědy"
 
