@@ -1,17 +1,20 @@
 #. extracted from ./main.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-11 10:05+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-11-19 21:20+0000\n"
+"Last-Translator: Rimas <rq@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1416432015.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -208,15 +211,15 @@ msgstr "Kartoti"
 
 #: main.lang:189
 msgid "Watch the video"
-msgstr "Žiūrėti filmuką"
+msgstr "Žiūrėti vaizdo įrašą"
 
 #: main.lang:193
 msgid "Replay the video"
-msgstr ""
+msgstr "Kartoti vaizdo įrašą"
 
 #: main.lang:197
 msgid "Share the video"
-msgstr ""
+msgstr "Dalintis vaizdo įrašu"
 
 #: main.lang:201
 msgid "WebM format"
@@ -344,7 +347,7 @@ msgstr "Bendradarbiaukime"
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:313
 msgid "Sync"
-msgstr ""
+msgstr "Sinchronizavimas"
 
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:318
@@ -354,7 +357,7 @@ msgstr "Priedai kompiuteryje"
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:323
 msgid "Android Add-ons"
-msgstr ""
+msgstr "„Android“ priedai"
 
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:328
@@ -369,7 +372,7 @@ msgstr "Stalinės „Firefox“ palaikymas"
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:338
 msgid "Android Support"
-msgstr ""
+msgstr "„Android“ palaikymas"
 
 #. Top menu item on firefox/update page
 #: main.lang:343
@@ -399,7 +402,7 @@ msgstr "Apžvalga"
 #. Top menu item on firefox/update page
 #: main.lang:368
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. Top menu item on firefox/update page
 #: main.lang:373
@@ -534,7 +537,7 @@ msgstr "Pašvęsta jums, jūsų privatumui ir atvirajam saitynui"
 #. Common title used in Fx 10 pages
 #: main.lang:503
 msgid "Choose Independent"
-msgstr ""
+msgstr "Rinkitės nepriklausomą"
 
 #. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 #. The '#ChooseIndependent' hashtag should not be translated.
@@ -543,11 +546,15 @@ msgid ""
 "Keep the passion for a free and open Internet burning bright! "
 "#ChooseIndependent. Choose Firefox:"
 msgstr ""
+"Išlaikykime internetą laisvu ir atviru visiems! #ChooseIndependent. Rinkimės "
+"„Firefox“:"
 
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 #: main.lang:516
 msgid "Please turn on JavaScript to display this page correctly."
 msgstr ""
+"Kad šis tinklalapis tinkamai veiktų, turite įgalinti „JavaScript“ scenarijų "
+"vykdymą."
 
 #. Used as link to /firefox/desktop in footers on some pages
 #: main.lang:521
