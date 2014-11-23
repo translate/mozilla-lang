@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-09 17:33+0000\n"
-"PO-Revision-Date: 2013-09-20 19:28+0000\n"
+"PO-Revision-Date: 2014-11-23 22:34+0000\n"
 "Last-Translator: Mohomodou  <mh@bollag-areal.ch>\n"
 "Language-Team: none\n"
 "Language: son\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
-"X-POOTLE-MTIME: 1379705333.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1416782094.000000\n"
 
 #. # java_notice ##
 #. # plugin_disable_warning ##
@@ -78,6 +78,8 @@ msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
 msgstr ""
+"Ir ga šenday foo se alhabar, kaŋ ga too Java sukari dumi kokorantey ši "
+"maatandi nd'i bangay ka tee yaalafanteyaŋ."
 
 #. # TAG: java_notice
 #: mozorg/plugincheck.lang:67
@@ -85,6 +87,8 @@ msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
 msgstr ""
+"Ir goo ma ceeci ka firkaa woo šerrandi. Woo se jine, war ga hin ka <a href="
+"\"%(download)s\">dii Java interneti nungoo</a> ka dumi kokorantaa zumandi."
 
 #: mozorg/plugincheck.lang:71
 msgid "Plugin Status"
@@ -235,30 +239,27 @@ msgid "In Firefox:"
 msgstr "Firefox ra:"
 
 #: mozorg/plugincheck.lang:192
-#, fuzzy
 msgid "Open the Tools menu."
-msgstr "Goyjinay šilbayboŋ feeri"
+msgstr "Goyjinay šilbayboŋoo feeri."
 
 #. # TAG: plugin_updated_content
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:198
 msgid "Open the <span class=\"menu\">menu</span>."
-msgstr ""
+msgstr "<span class=\"menu\">Šilbayboŋoo</span> feeri."
 
 #: mozorg/plugincheck.lang:202
-#, fuzzy
 msgid "Choose Add-ons."
 msgstr "Tontoney suuba."
 
 #: mozorg/plugincheck.lang:206
-#, fuzzy
 msgid "Click the plugins tab."
 msgstr "Sukarey nor lokoo naagu."
 
 #. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:211
 msgid "Click on the drop down next to the plugin you wish to disable."
-msgstr ""
+msgstr "Naagu zuu zunbantaa sukaroo jeroo ga kaŋ war ga baa k'a kayandi."
 
 #: mozorg/plugincheck.lang:215
 msgid "Click on a plugin in the list."
@@ -267,7 +268,7 @@ msgstr "Sukari foo naagu maašeedaa ra."
 #. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:220
 msgid "Select \"Never Activate\" from the available choices."
-msgstr ""
+msgstr "\"Ma ši tunandi abada\" zaa suubari barantey ra."
 
 #: mozorg/plugincheck.lang:224
 msgid "Click the Disable button."
@@ -284,14 +285,14 @@ msgstr ""
 
 #. # TAG: plugin_disable_warning
 #: mozorg/plugincheck.lang:233
-#, fuzzy
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on some streaming video websites."
 msgstr ""
 "Hawgay: sukari kayandiyan maanaa ti war ši hin ka haya fooyaŋ tee koyne. "
-"Sanda, nda war na Flash kayandi, war ši hin widewoyaŋ guna YouTube ga."
+"Sanda, nda war na Flash kayandi, war ši hin ka dii widewoyaŋ widewo gunayan "
+"interneti nungu tana fooyaŋ ga."
 
 #: mozorg/plugincheck.lang:237
 msgid "Mozilla Support"
