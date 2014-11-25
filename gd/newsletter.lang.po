@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-21 11:22+0100\n"
+"POT-Creation-Date: 2014-11-25 21:04+0000\n"
 "PO-Revision-Date: 2014-02-16 19:41+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,70 +13,70 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1392579673.000000\n"
 
-#. These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
-#: newsletter.lang:3
+#. # NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
+#: newsletter.lang:4
 msgid "Get Monthly News"
 msgstr "Faigh na naidheachdan gach mìos"
 
-#: newsletter.lang:7
+#: newsletter.lang:8
 msgid "Your Email Address"
 msgstr "An seòladh puist-dhealain agad"
 
-#: newsletter.lang:11
+#: newsletter.lang:12
 msgid "Your email address:"
 msgstr "An seòladh puist-d agad:"
 
-#: newsletter.lang:15
+#: newsletter.lang:16
 msgid "Text"
 msgstr "Teacsa"
 
-#: newsletter.lang:19
+#: newsletter.lang:20
 msgid "Available Languages"
 msgstr "Na cànain a tha ri fhaighinn"
 
-#: newsletter.lang:23
+#: newsletter.lang:24
 msgid "Language:"
 msgstr "Cànan:"
 
-#: newsletter.lang:27
+#: newsletter.lang:28
 msgid "Select country"
 msgstr "Tagh do dhùthaich"
 
-#: newsletter.lang:31
+#: newsletter.lang:32
 msgid "Country:"
 msgstr "Dùthaich:"
 
-#: newsletter.lang:35
+#: newsletter.lang:36
 msgid "Whoops! Be sure to enter a valid email address."
 msgstr "Ìoc! Dèan cinnteach gun cuir thu a-steach seòladh dligheach."
 
-#: newsletter.lang:39
+#: newsletter.lang:40
 msgid "Please read the Mozilla Privacy Policy and agree by checking the box."
 msgstr ""
 "Leugh Poileasaidh Prìobhaideachd Mozilla agus aontaich ris le bhith a' cur "
 "cromag sa bhogsa."
 
-#: newsletter.lang:43
+#: newsletter.lang:44
 msgid "I agree to the <a href=\"%s\">Privacy Policy</a>"
 msgstr ""
 "Tha mi ag aontachadh ris a' <a href=\"%s\">Phoileasaidh Phrìobhaideachd</a>"
 
-#: newsletter.lang:47
+#: newsletter.lang:48
 msgid "Sign me up!"
 msgstr "Clàraich mi!"
 
-#: newsletter.lang:51
+#: newsletter.lang:52
 msgid "We will only send you Mozilla-related information."
 msgstr "Cha chuir sinn thugad ach fiosrachadh mu Mozilla."
 
-#: newsletter.lang:55
+#: newsletter.lang:56
 msgid "Thanks for Subscribing!"
 msgstr "Gun robh math agad airson fo-sgrìobhadh!"
 
-#: newsletter.lang:59
+#: newsletter.lang:60
 msgid ""
 "We look forward to soon begin sharing tips &amp; tricks on getting the most "
 "out of Firefox, as well as exciting news about Mozilla and how we’re working "
@@ -87,7 +87,7 @@ msgstr ""
 "naidheachdan inntinneach mu Mozilla agus an obair a nì sinn gus lìon nas "
 "fhearr a chruthachadh."
 
-#: newsletter.lang:63
+#: newsletter.lang:64
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
@@ -97,7 +97,7 @@ msgstr ""
 "agad, a' gabhail a-steach na gleusan as ùire leis an cur thu Firefox gu làn "
 "fheum dhut fhèin. Chan eil dòigh nas fhearr gus cumail suas rinn!"
 
-#: newsletter.lang:66
+#: newsletter.lang:68
 msgid ""
 "We just sent you a confirmation message by email. Click on the confirmation "
 "link in this email to validate your subscription to this mailing list."
@@ -106,23 +106,23 @@ msgstr ""
 "cheangal dearbhaidh sa phost-d ud gus a chur an cèill gu bheil thu airson fo-"
 "sgrìobhadh dhan liosta-phuist seo."
 
-#: newsletter.lang:69
+#: newsletter.lang:72
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Na naidheachdan uile sa <span>chuairt-litir</span> againn"
 
-#: newsletter.lang:73
+#: newsletter.lang:76
 msgid "Your newsletter subscription has been confirmed."
 msgstr "Chaidh am fo-sgrìobhadh agad dhan chuairt-litir a dhearbhadh."
 
-#: newsletter.lang:76
+#: newsletter.lang:80
 msgid "Format"
 msgstr "Fòrmat"
 
-#: newsletter.lang:79
+#: newsletter.lang:84
 msgid "You’re All Set! <span>But Wait, There’s More</span>"
 msgstr "Sin thu deiseil! <span>Ach fuirich ort, tha barrachd ann</span>"
 
-#: newsletter.lang:83
+#: newsletter.lang:88
 msgid ""
 "Want to get the most relevant info? Tell us a little more about yourself. "
 "And while you’re here, sign up for other Mozilla news."
@@ -131,15 +131,136 @@ msgstr ""
 "dheidhinn. Agus fhad 's a tha thu a-seo, carson nach clàraich thu airson "
 "naidheachdan Mozilla eile?"
 
-#: newsletter.lang:86
+#. Name for the newsletter in Newsletter subscription page
+#: newsletter.lang:93
 msgid "Firefox & You"
 msgstr "Firefox ┐ thusa"
 
-#: newsletter.lang:89
+#. Description for the newsletter in Newsletter subscription page (Firefox & You)
+#: newsletter.lang:98
+msgid ""
+"A monthly newsletter and special announcements giving you tips to improve "
+"your experience with Firefox on your desktop and Android device."
+msgstr ""
+
+#. Name for the newsletter in Newsletter subscription page
+#: newsletter.lang:103
+msgid "Firefox OS News"
+msgstr ""
+
+#. Description for the newsletter in Newsletter subscription page (Firefox OS News)
+#: newsletter.lang:108
+msgid ""
+"A monthly newsletter and special announcements on how to get the most from "
+"your Firefox OS device, including the latest features and coolest Firefox "
+"Marketplace apps."
+msgstr ""
+
+#. Name for the newsletter in Newsletter subscription page
+#: newsletter.lang:113
+msgid "Mozilla Communities"
+msgstr ""
+
+#. Description for the newsletter in Newsletter subscription page (Mozilla Communities)
+#: newsletter.lang:118
+msgid "Bringing you the best new opportunities to help support the open Web."
+msgstr ""
+
+#. Name for the newsletter in Newsletter subscription page
+#: newsletter.lang:123
+msgid "Firefox Student Ambassadors"
+msgstr ""
+
+#. Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+#: newsletter.lang:128
+msgid ""
+"A monthly newsletter on how to get involved with Mozilla on your campus."
+msgstr ""
+"Cuairt-litir mhìosail a dh'innseas dhut mar as urrainn dhut pàirt a ghabhail "
+"ann am Mozilla o raon na sgoile agad fhèin."
+
+#. Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+#: newsletter.lang:133
+msgid ""
+"A monthly newsletter to keep you up to date with the Firefox Affiliates "
+"program."
+msgstr ""
+"Cuairt-litir mhìosail a bheir dhut na naidheachdan as ùire a thaobh prògram "
+"nan dlùth-chompanach aig Firefox."
+
+#. Name for the newsletter in Newsletter subscription page
+#: newsletter.lang:138
+msgid "Firefox Apps & Hacks"
+msgstr ""
+
+#. Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
+#: newsletter.lang:143
+msgid ""
+"News for developers about Firefox OS, Firefox Marketplace and the Open Web "
+"apps ecosystem."
+msgstr ""
+"Naidheachdan dhan luchd-leasachaidh air Firefox OS, margaidh Firefox agus "
+"àrainneachd aplacaidean an Open Web."
+
+#. Name for the newsletter in Newsletter subscription page
+#: newsletter.lang:148
+msgid "Mozillians"
+msgstr ""
+
+#. Name for the newsletter in Newsletter subscription page
+#: newsletter.lang:153
+msgid "Firefox for desktop"
+msgstr "Firefox airson desktop"
+
+#. Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+#: newsletter.lang:158
+msgid "Don’t miss the latest announcements about our desktop browser."
+msgstr ""
+
+#. Name for the newsletter in Newsletter subscription page
+#: newsletter.lang:163
+#, fuzzy
+msgid "Firefox for Android"
+msgstr "Faigh Firefox airson Android"
+
+#. Description for the newsletter in Newsletter subscription page (Firefox for Android)
+#: newsletter.lang:168
+msgid "Keep up with releases and news about Firefox for Android."
+msgstr ""
+
+#. Description for the in Newsletter subscription page (Firefox OS)
+#: newsletter.lang:173
+msgid ""
+"Be the first to know when Firefox OS devices are available in your country."
+msgstr ""
+
+#. Description for the newsletter in Newsletter subscription page (Mozilla)
+#: newsletter.lang:178
+msgid ""
+"Special announcements and messages from the team dedicated to keeping the "
+"Web free and open."
+msgstr ""
+
+#. Description for the newsletter in Newsletter subscription page (Firefox Marketplace)
+#: newsletter.lang:183
+msgid "Know when the coolest apps hit the Marketplace for your platform:"
+msgstr ""
+
+#. Name for the newsletter in Newsletter subscription page
+#: newsletter.lang:188
+msgid "Firefox OS smartphone owner?"
+msgstr ""
+
+#. Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+#: newsletter.lang:193
+msgid "Don’t miss important news and updates about your Firefox OS device."
+msgstr ""
+
+#: newsletter.lang:197
 msgid "Our Other Newsletters:"
 msgstr "Na cuairt-litrichean eile againn:"
 
-#: newsletter.lang:92
+#: newsletter.lang:201
 msgid ""
 "Get the latest tips and tricks for getting the most out of your favorite "
 "browser."
@@ -147,25 +268,25 @@ msgstr ""
 "Faigh na gliocasan is gleusan as ùire ach an cuir thu am brabhsair as fhearr "
 "leat gu làn fheum."
 
-#: newsletter.lang:95
+#: newsletter.lang:205
 msgid "Firefox Mobile"
 msgstr "Firfox Mobile"
 
-#: newsletter.lang:98
+#: newsletter.lang:209
 msgid "Learn about the hottest new add-ons and features for Firefox mobile."
 msgstr ""
 "Fiosrachadh mu na tuilleadain is feartan as ùire 's as snasail airson "
 "Mobile, no Firefox Beag mar a chanas sinne."
 
-#: newsletter.lang:101
+#: newsletter.lang:213
 msgid "Beta News"
 msgstr "Naidheachdan Beta"
 
-#: newsletter.lang:105
+#: newsletter.lang:217
 msgid "Let’s Be Friends!"
 msgstr "Bitheamaid nar caraidean!"
 
-#: newsletter.lang:109
+#: newsletter.lang:221
 msgid ""
 "Firefox is also on your favorite social networking sites. Connect with us "
 "and join the conversation."
@@ -173,85 +294,129 @@ msgstr ""
 "Tha Firefox air na lìonraidhean sòisealta as fhearr leat. Dèan ceangal rinn "
 "agus gabh pàirt sa chòmhradh."
 
-#: newsletter.lang:113
+#: newsletter.lang:225
 msgid "Manage your <span>Newsletter Subscriptions</span>"
 msgstr "Rianaich <span>fo-sgrìobhaidhean nan cuairt-litrichean</span> agad"
 
-#: newsletter.lang:117
+#: newsletter.lang:229
+msgid "Manage your Email Preferences"
+msgstr ""
+
+#: newsletter.lang:233
+msgid ""
+"We love sharing updates about all the awesome things happening at Mozilla."
+msgstr ""
+
+#: newsletter.lang:237
+msgid ""
+"Set your preferences below to make sure you always receive the news you want."
+msgstr ""
+
+#: newsletter.lang:241
+#, fuzzy
+msgid "Newsletters"
+msgstr "Cuairt-litir"
+
+#: newsletter.lang:245
+msgid "Getting too much email from us?"
+msgstr ""
+
+#: newsletter.lang:249
+msgid ""
+"Not interested in our newsletters, but like those special announcements? No "
+"problem."
+msgstr ""
+
+#: newsletter.lang:253
+msgid "We can keep in touch with occasional messages that matter most to you."
+msgstr ""
+
+#: newsletter.lang:257
+msgid ""
+"Check all categories that apply to you, and we promise to keep the mail to a "
+"minimum."
+msgstr ""
+
+#: newsletter.lang:261
+#, fuzzy
+msgid "I’m interested in:"
+msgstr "Hi, tha ùidh agam ann an…"
+
+#: newsletter.lang:265
 msgid "Subscribe"
 msgstr "Fo-sgrìobh"
 
-#: newsletter.lang:121
+#: newsletter.lang:269
 msgid "Unsubscribe"
 msgstr "Sguir dhen fho-sgrìobhadh"
 
-#: newsletter.lang:125
+#: newsletter.lang:273
 msgid "Check here if you’d like to be removed from all Mozilla emails"
 msgstr ""
 "Cuir cromag an-seo mur eil thu airson post-d sam bith fhaighinn o Mozilla "
 "tuilleadh"
 
-#: newsletter.lang:129
+#: newsletter.lang:277
 msgid "Remove me from all Mozilla emails"
 msgstr "Chan eil mi ag iarraidh post-d sam bith o Mozilla tuilleadh"
 
-#: newsletter.lang:133
+#: newsletter.lang:281
 msgid "Save Preferences"
 msgstr "Sàbhail na roghainnean"
 
-#: newsletter.lang:136
+#: newsletter.lang:285
 msgid "Thanks for updating your email preferences."
 msgstr "Tapadh leat airson roghainnean a' phuist-d agad ùrachadh."
 
-#: newsletter.lang:140
+#: newsletter.lang:289
 msgid "You've been unsubscribed."
 msgstr "Chaidh crìoch a chur air an fho-sgrìobhadh agad."
 
-#: newsletter.lang:143
+#: newsletter.lang:293
 msgid ""
 "We’re sorry to see you go. Would you mind telling us why you’re leaving?"
 msgstr ""
 "Tha sinn duilich gu bheil thu 'gar fàgail. Saoil an innis thu dhuinn carson?"
 
-#: newsletter.lang:147
+#: newsletter.lang:297
 msgid "You send too many emails."
 msgstr "Tha mi a' faighinn cus phost-d uaibh."
 
-#: newsletter.lang:151
+#: newsletter.lang:301
 msgid "Your content wasn't relevant to me."
 msgstr "Cha robh dad a shusbaint iomchaidh ann dhomhsa."
 
-#: newsletter.lang:155
+#: newsletter.lang:305
 msgid "Your email design was too hard to read."
 msgstr "Bha e duilich an leughadh leis an dealbhadh a bh' orra."
 
-#: newsletter.lang:159
+#: newsletter.lang:309
 msgid "I didn't sign up for this."
 msgstr "Cha do rinn mise clàradh air a shon."
 
-#: newsletter.lang:163
+#: newsletter.lang:313
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
 msgstr "Tha mi a' leantainn Mozilla air Facebook is Twitter 'na àite."
 
-#: newsletter.lang:167
+#: newsletter.lang:317
 msgid "Submit"
 msgstr "Cuir a-null"
 
-#: newsletter.lang:170
+#: newsletter.lang:321
 msgid "Thanks for telling us why you’re leaving."
 msgstr "Mòran taing son innse dhuinn carson a tha thu a' fàgail."
 
-#: newsletter.lang:174
+#: newsletter.lang:325
 msgid "Mozilla Newsletters"
 msgstr "Cuairt-litrichean Mozilla"
 
-#: newsletter.lang:178
+#: newsletter.lang:329
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr ""
 "Gun robh math agad! Thoir sùil air a' bhogsa phuist agad is dearbh am fo-"
 "sgrìobhadh agad."
 
-#: newsletter.lang:182
+#: newsletter.lang:333
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -262,7 +427,7 @@ msgstr ""
 "Feumaidh tu am fo-sgrìobhadh a dhearbhadh mus fhaigh thu a' chuairt-litir "
 "againn."
 
-#: newsletter.lang:186
+#: newsletter.lang:337
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
@@ -271,21 +436,21 @@ msgstr ""
 "leabhar nan seòladh agad ach am faigh thu e gun teagamh sam bith."
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: newsletter.lang:191
+#: newsletter.lang:342
 msgid "Get Firefox news"
 msgstr "Faigh naidheachdan Firefox"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: newsletter.lang:196
+#: newsletter.lang:347
 msgid "YOUR EMAIL HERE"
 msgstr "CUIR AM POST-D AGAD AN-SEO"
 
 #. Button
-#: newsletter.lang:200
+#: newsletter.lang:352
 msgid "Sign me up"
 msgstr "Clàraich mi"
 
-#: newsletter.lang:204
+#: newsletter.lang:356
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
@@ -293,7 +458,7 @@ msgstr ""
 "Tha mi a' toirt cead dha Mozilla am fiosrachadh seo a chleachdadh mar a "
 "mhìnich sibh sa <a href=\"%s\">phoileasaidh phrìobhaideachd</a> seo"
 
-#: newsletter.lang:208
+#: newsletter.lang:360
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
@@ -301,88 +466,88 @@ msgstr ""
 "Dh'fhalbh an ùine air a cheangal ud. Gheibh thu fear ùr san ath chuairt-"
 "litir."
 
-#: newsletter.lang:212
+#: newsletter.lang:364
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr ""
 "Tha rudeigin cearr air na siostaman againn, tha sinn duilich! Nach fheuch "
 "thu ris a-rithist an ceann greis?"
 
-#: newsletter.lang:216
+#: newsletter.lang:368
 msgid "English&nbsp;only"
 msgstr "Beurla&nbsp;a-mhàin"
 
-#: newsletter.lang:220
+#: newsletter.lang:372
 msgid "Newsletter Subscriptions"
 msgstr "Fo-sgrìobhaidhean gu cuairt-litrichean"
 
-#: newsletter.lang:224
+#: newsletter.lang:376
 msgid "Newsletter confirm"
 msgstr "Dearbhaich a' chuairt-litir"
 
-#: newsletter.lang:228
+#: newsletter.lang:380
 msgid "Format:"
 msgstr "Fòrmat"
 
-#: newsletter.lang:232
+#: newsletter.lang:384
 msgid "You’ve been unsubscribed."
 msgstr "Chaidh crìoch a chur air an fho-sgrìobhadh agad."
 
-#: newsletter.lang:236
+#: newsletter.lang:388
 msgid "We’re sorry to see you go."
 msgstr "Tha sinn duilich gu bheil thu airson falbh."
 
-#: newsletter.lang:240
+#: newsletter.lang:392
 msgid "Would you mind telling us why you’re leaving?"
 msgstr "Saoil an innis thu duinn carson a tha thu 'gar fàgail?"
 
-#: newsletter.lang:244
+#: newsletter.lang:396
 msgid "Other…"
 msgstr "Eile…"
 
-#: newsletter.lang:248
+#: newsletter.lang:400
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr ""
 "Fhad 's a tha thu an-seo, nach doir thu sùil air na rudan eile a tha snasail "
 "a thaobh Firefox?"
 
-#: newsletter.lang:252
+#: newsletter.lang:404
 msgid "Get up and go"
 msgstr "Thoir leat e"
 
-#: newsletter.lang:256
+#: newsletter.lang:408
 msgid "It’s your Web anywhere you go."
 msgstr "An lìon deas ri do làimh àite sam bith."
 
-#: newsletter.lang:260
+#: newsletter.lang:412
 msgid "Get Firefox for mobile!"
 msgstr "Firefox airson innealan-làimhe"
 
-#: newsletter.lang:264
+#: newsletter.lang:416
 msgid "Added extras"
 msgstr "Buannachdan eile"
 
-#: newsletter.lang:268
+#: newsletter.lang:420
 msgid "Make Firefox do more with add-ons."
 msgstr "Dèan barrachd ann am Firefox le tuilleadain."
 
-#: newsletter.lang:272
+#: newsletter.lang:424
 msgid "Find out how!"
 msgstr "Faigh fiosrachadh!"
 
-#: newsletter.lang:276
+#: newsletter.lang:428
 msgid "About us"
 msgstr "Mu ar dèidhinn"
 
-#: newsletter.lang:280
+#: newsletter.lang:432
 msgid "What’s Mozilla all about?"
 msgstr "Dè an sgeul aig Mozilla?"
 
-#: newsletter.lang:284
+#: newsletter.lang:436
 msgid "We’re glad you asked!"
 msgstr "Toilichte gun do dh'fhaighnich thu!"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:289
+#: newsletter.lang:441
 msgid ""
 "A monthly newsletter packed with tips to improve your Firefox experience."
 msgstr ""
@@ -390,31 +555,31 @@ msgstr ""
 "chur gu làn-fheum."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:294
+#: newsletter.lang:446
 msgid "Tips and tricks to use Firefox on your Android phone."
 msgstr "Gliocasan is gleusan airson Firefox air an fhòn Android agad."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:299
+#: newsletter.lang:451
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr ""
 "Naidheachdan is gliocasan Firefox OS agus fiosrachadh mu na h-àitichean far "
 "am faigh thu fear."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:304
+#: newsletter.lang:456
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr "Feuch na h-aplacaidean HTML5 as ùire agus as snasaile air Firefox OS."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:309
+#: newsletter.lang:461
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr ""
 "Faigh gliocas seachdaineil a dh'inneas dhut mar a chuireas tu am Firefox "
 "agad gu làn-fheum."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:314
+#: newsletter.lang:466
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
@@ -423,51 +588,25 @@ msgstr ""
 "tionndadh deireannach a-mach."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:319
+#: newsletter.lang:471
 msgid "News from the Mozilla Project."
 msgstr "Naidheachdan o phròiseact Mozilla."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:324
+#: newsletter.lang:476
 msgid "Periodic email updates about our annual international film competition."
 msgstr ""
 "Naidheachdan o àm gu àm air co-fharpais eadar-nàiseanta bhliadhnail nam film "
 "againn, air a' phost-d."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:329
-msgid ""
-"A monthly newsletter to keep you up to date with the Firefox Affiliates "
-"program."
-msgstr ""
-"Cuairt-litir mhìosail a bheir dhut na naidheachdan as ùire a thaobh prògram "
-"nan dlùth-chompanach aig Firefox."
-
-#. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:334
-msgid ""
-"News for developers about Firefox OS, Firefox Marketplace and the Open Web "
-"apps ecosystem."
-msgstr ""
-"Naidheachdan dhan luchd-leasachaidh air Firefox OS, margaidh Firefox agus "
-"àrainneachd aplacaidean an Open Web."
-
-#. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:339
+#: newsletter.lang:481
 msgid "Email updates for vouched Mozillians on mozillians.org."
 msgstr ""
 "Naidheachdan puist-d do shluagh Mozilla barantaichte air mozilians.org."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:344
-msgid ""
-"A monthly newsletter on how to get involved with Mozilla on your campus."
-msgstr ""
-"Cuairt-litir mhìosail a dh'innseas dhut mar as urrainn dhut pàirt a ghabhail "
-"ann am Mozilla o raon na sgoile agad fhèin."
-
-#. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:349
+#: newsletter.lang:486
 msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
