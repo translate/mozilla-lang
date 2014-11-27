@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-24 15:05+0000\n"
-"PO-Revision-Date: 2014-11-26 22:48+0000\n"
+"PO-Revision-Date: 2014-11-27 10:01+0000\n"
 "Last-Translator: Mohomodou  <mh@bollag-areal.ch>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: son\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1417042122.000000\n"
+"X-POOTLE-MTIME: 1417082479.000000\n"
 
 #. # contribute_faces ##
 #. # contribute_mayupdates ##
@@ -253,6 +253,11 @@ msgid ""
 "\">join us for a Test Day</a>, or <a href=\"%(qateams_url)s\">learn more "
 "about other testing opportunities</a>."
 msgstr ""
+"<a href=\"%(oneanddone_url)s\">Goy foo suuba Affoo nda Ben ra</a> ka šintin, "
+"goy <a href=\"%(desktopfx_url)s\">Desktop Firefox</a> ga, <a href="
+"\"%(websites_url)s\">ka Mozilla interneti nungey šii</a>, <a href="
+"\"%(testday_url)s\">kaa ir bande šiiyan zaari se</a>, wala <a href="
+"\"%(qateams_url)s\">bay ka tonton šiiyan fondawey ga</a>."
 
 #. Coding
 #: mozorg/contribute.lang:200
@@ -262,6 +267,10 @@ msgid ""
 "easier for others. Tell us <a href=\"%(what_url)s\">your favorite "
 "programming language</a> and we'll find the project for you."
 msgstr ""
+"<a href=\"%(dev_intro_url)s\">Cinakey ga hin ka faaba</a> nd'i ga Mozilla "
+"alhaali taagey tonton, k'ir goyyan dabari taagey boryandi nda cahãndi nda ga "
+"cinayan faaalandi borey se. Har ir se <a href=\"%(what_url)s\">war porogaram "
+"hantumyan šennoo kaasoo</a> nd'ir ga porožewoo ceeci war se."
 
 #: mozorg/contribute.lang:204
 msgid "Spread the Word"
@@ -282,7 +291,7 @@ msgstr ""
 
 #: mozorg/contribute.lang:212
 msgid "Localization"
-msgstr ""
+msgstr "Berandiyan"
 
 #: mozorg/contribute.lang:216
 msgid ""
@@ -291,6 +300,10 @@ msgid ""
 "the world about how Mozilla is building a better Internet by <a href="
 "\"%(l10n_web_url)s\">translating content</a> on our web sites."
 msgstr ""
+"Kanbe dam Mozilla ka Firefox, Thunderbird nda porože taney <a href="
+"\"%(l10n_url)s\">kaŋ ga bara war šennoo ra</a>. Nd'ir gaa ka har adduɲɲaa se "
+"takaa kaŋ nda Mozilla goo nda interneti bešere cin nda <a href="
+"\"%(l10n_web_url)s\">gundekuna berandiyan</a> ir interneti nungey ra."
 
 #. Web development
 #: mozorg/contribute.lang:221
@@ -300,6 +313,10 @@ msgid ""
 "skills can also be used to <a href=\"%(gaia_url)s\">help us build our new "
 "Firefox OS</a>."
 msgstr ""
+"Ir interneti nungey ga feera interneti cinakey se ka alhiila šii. <a href="
+"\"%(webdev_url)s\">Zaa interneti porože foo</a> ka šintin a ga. War "
+"interneti waanaa ga hin ka <a href=\"%(gaia_url)s\">ir gaa k'ir Firefox OS "
+"taagaa tee</a>."
 
 #. # TAG: contribute_mayupdates
 #. Firefox Marketplace
@@ -310,6 +327,10 @@ msgid ""
 "source values. With <a href=\"%(mktcontrib_url)s\">contribution "
 "opportunities</a> at every skill level, it’s easy to make an impact!"
 msgstr ""
+"<a href=\"%(marketplace_url)s\">Firefox Marketplace</a ga gundekuna noo – "
+"hooray, miiziki, jama porogaramize nda tanayaŋ – kaŋ cinandi nda HTML5 "
+"alhaali tabatantey nda aššil feerante anniya. Nda waanay alkadar kul <a href="
+"\"%(mktcontrib_url)s\">kanbuzaamay</a>, a ga faala boro ma nga kayna tee!"
 
 #. # TAG: contribute_mayupdates
 #. Add-ons
@@ -320,6 +341,10 @@ msgid ""
 "and <a href=\"%(addons_wiki)s\">learn more about the different ways you can "
 "contribute</a>."
 msgstr ""
+"Tontoney ga too Firefox ma hin ka cendandi ka tee ceecikaw kul ifaalaataa "
+"kaŋ ga bara. Šintin <a href=\"%(addons_url)s\">ka tontoni foo cin</a>, nda "
+"<a href=\"%(addons_wiki)s\">bay ka tonton fondawey kaŋ nda war ga hin ka "
+"kanbuzaamay tee</a>."
 
 #. Visual design
 #: mozorg/contribute.lang:238
@@ -328,6 +353,9 @@ msgid ""
 "designs inspired by Mozilla. Check out the <a href=\"%(creative_url)s"
 "\">Creative team blog</a> for more information about how to take part."
 msgstr ""
+"Ir ga baa goyteerey ma hin ka hin ka interneti nda borey taalam nda Mozilla "
+"noonawey. Ir <a href=\"%(creative_url)s\">Goyteeri konday blogoo</a> guna ka "
+"duu alhabar tontoni kanbedamyan fondaa ga."
 
 #. Documentation and writing
 #: mozorg/contribute.lang:243
@@ -337,6 +365,10 @@ msgid ""
 "by writing new content, correcting existing material or translating content "
 "into new languages."
 msgstr ""
+"Mozilla Developer Network ti marga doo Mozilla dabaribayray alhabarey se. "
+"Gaa <a href=\"%(dev_url)s\">k'ir fahamandi tiiraa boryandi ka tonton</a> nda "
+"gundekuna hantumm hantum barantey šerrandi wala ka gundekuna berandi šenni "
+"taagayaŋ ra."
 
 #. # TAG: webmaker_update
 #. Education
@@ -348,12 +380,17 @@ msgid ""
 "<a href=\"%(webmaker_resources)s\">teaching resources</a> and <a href="
 "\"%(webmaker_events)s\">community events</a>."
 msgstr ""
+"War ga boona ka gaa ka borey fahamandi nda interneti goyyan? <a href="
+"\"%(webmaker)s\">Mozilla Webmaker</a> ti adduɲɲaa-mee jamaa kaŋ ga durkutu "
+"ka ordinater goy waanay žemni nda <a href=\"%(webmaker_tools)s\">goyjinay "
+"forba</a>, <a href=\"%(webmaker_resources)s\">cawandi tiira</a> nda <a href="
+"\"%(webmaker_events)s\">jama batey</a>."
 
 #. # TAG: contribute_fellowship
 #. Fellowships
 #: mozorg/contribute.lang:255
 msgid "Fellowships"
-msgstr ""
+msgstr "Cawyan nooru"
 
 #. # TAG: contribute_fellowship
 #: mozorg/contribute.lang:260
@@ -362,12 +399,16 @@ msgid ""
 "\"%(fellowship)s\">OpenNews Fellowship program</a> matches emerging digital "
 "leaders with journalism opportunities to build the open Web for everyone."
 msgstr ""
+"War ga baa ka hiino internetoo fasal? Knight-Mozilla <a href=\"%(fellowship)s"
+"\">OpenNews Cawyan nooru porogaramoo</a> ka kanbe dam ka interneti goy "
+"jineborey sahãndi nda alhabar toonandiyan ka interneti cin kaŋ ga feeri "
+"borey kul se."
 
 #. # TAG: hiveglobal
 #. For reference see http://hivelearningnetworks.org
 #: mozorg/contribute.lang:266
 msgid "Hive Networks"
-msgstr ""
+msgstr "Networks"
 
 #. # TAG: hiveglobal
 #. For reference see http://hivelearningnetworks.org
@@ -379,6 +420,10 @@ msgid ""
 "\"%(hivenetworks)s\">Learn more</a> about how to start a Hive in your "
 "community."
 msgstr ""
+"<a href=\"%(hivenetworks)s\">Hive Learning Networks</a> ti jama margayaŋ kaŋ "
+"goo ma fatta adduɲɲaa kul ra ka ordinater nda interneti waanay boobandi nda "
+"interneti-bande cawyan. <a href=\"%(hivenetworks)s\">Bay ka tonton</a> taka "
+"kaŋ war ga hin ka Hive foo šintin war gandaa ra.  "
 
 #. Old string, will be removed when all locales have the new text
 #: mozorg/contribute.lang:277
