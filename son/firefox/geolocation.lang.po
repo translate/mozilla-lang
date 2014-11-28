@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-30 21:15+0000\n"
-"PO-Revision-Date: 2014-11-28 15:34+0000\n"
+"PO-Revision-Date: 2014-11-28 16:03+0000\n"
 "Last-Translator: Mohomodou  <mh@bollag-areal.ch>\n"
 "Language-Team: none\n"
 "Language: son\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1417188889.000000\n"
+"X-POOTLE-MTIME: 1417190584.000000\n"
 
 #. # NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
 #: firefox/geolocation.lang:5
@@ -67,6 +67,8 @@ msgid ""
 "where you’re starting from so all you have to do is tell it where you want "
 "to go."
 msgstr ""
+"Wala, nda war goo ma fondo šilbay toodoo foo se, interneti nungoo ga bay man "
+"noo war ga hima ka šintin, adiši war toodogoo hinne no war hima k'a noo."
 
 #: firefox/geolocation.lang:33
 msgid ""
@@ -75,16 +77,22 @@ msgid ""
 "privacy. And, like all elements of Firefox, it’s being created using open "
 "standards to ease adoption by Web developers."
 msgstr ""
+"Goymiɲoo ti suubayan haya &ndash; Firefox ši war gorodogoo žemni bila nda "
+"war ma woo duɲe &ndash; nda woo kul ga tee ka war suturaa gaabu ka timme. "
+"Nda, sanda Firefox alhaaley kul, woo ga tee nda aššil feerante alhaali "
+"tabatanteyaŋ kaŋyaŋ hangaroo ga faala interneti cinakey se."
 
 #: firefox/geolocation.lang:37
 msgid "How does it work?"
-msgstr ""
+msgstr "Taka foo nd'a ga goy?"
 
 #: firefox/geolocation.lang:41
 msgid ""
 "When you visit a location-aware website, Firefox will ask you if you want to "
 "share your location."
 msgstr ""
+"Nda war na gorodoo-maate interneti nungu guna, Firefox ga war hãa wala war "
+"ga boona war gorodogoo noo."
 
 #: firefox/geolocation.lang:45
 msgid ""
@@ -94,14 +102,19 @@ msgid ""
 "get an estimate of your location. That location estimate is then shared with "
 "the requesting website."
 msgstr ""
+"Nda war yadda, Firefox g'alhabar marga war talfon fargandu ciyari dogoo nda "
+"war interneti IP aderesoo ga. Waati din Firefox g'alhabaroo woo sanba "
+"goydogoo kaŋ ga doona ka gorodogey šilbay, kaŋ ti Google Location Services, "
+"ka doo manantaa. A goo manantaa din bisandi ga interneti nungu kaŋ n'a wiri "
+"se."
 
 #: firefox/geolocation.lang:49
 msgid "If you say that you do not consent, Firefox will not do anything."
-msgstr ""
+msgstr "Nda war nee kaŋ war ši yadda, Firefox ši haya kul tee."
 
 #: firefox/geolocation.lang:53
 msgid "How accurate are the locations?"
-msgstr ""
+msgstr "Taka foo nda gorodogey goo nd'alhakiika?"
 
 #: firefox/geolocation.lang:57
 msgid ""
@@ -112,11 +125,18 @@ msgid ""
 "the accuracy of the locations provided. Please do not use this information "
 "for emergencies. Always use common sense."
 msgstr ""
+"Alhakiikataray dimmawey ga hansa ka waani gorodogey bande. Doo fooyaŋ ra, ir "
+"šilbaykey ga hin ka man war dogoo nda meetar fooyaŋ. Amma, ganda fooyaŋ da "
+"ra ga hin ka mooru ka bisa woo. Gorodogey kul kaŋ ir šilbaykey n'i willi "
+"manti kala hiiseyaŋ de nd'ir si hin ka tabatandi kaŋ doo alhakiikantey noo "
+"ka noondi. Adiši war ma ši alhabarooo woo ka ciya tilasu mise ra. Wa lakkal "
+"ka laasaabu waati din."
 
 #: firefox/geolocation.lang:61
 msgid ""
 "What information is being sent, and to whom? How is my privacy protected?"
 msgstr ""
+"Alhabar foo ma sanbandi, nda may se? Taka foo nd'ay suturaa ga jejebandi? "
 
 #: firefox/geolocation.lang:65
 msgid ""
@@ -125,16 +145,20 @@ msgid ""
 "information, you’ll be asked before any information is shared with the "
 "requesting website and our third-party service provider."
 msgstr ""
+"War suturaa ti huzun beeri ir se, nda Firefox ši war dogoo har bila nda war "
+"ma yadda. Nda war na moo guna kaŋ ga war alhabaroo hãa, ir ga war hãa jina "
+"hal'alhabar kul ma sanbandi interneti nungoo nda goydoo tana kaŋ n'a wiri se."
 
 #: firefox/geolocation.lang:69
 msgid ""
 "By default, Firefox uses Google Location Services to determine your location "
 "by sending:"
 msgstr ""
+"Firefox ga doona ka goy Google Location Services ka war gorodogoo tabatandi:"
 
 #: firefox/geolocation.lang:73
 msgid "your computer’s IP address,"
-msgstr ""
+msgstr "a ga war ordinateroo IP aderesoo sanba,"
 
 #: firefox/geolocation.lang:77
 msgid "information about the nearby wireless access points, and"
