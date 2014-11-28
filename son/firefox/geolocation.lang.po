@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-30 21:15+0000\n"
-"PO-Revision-Date: 2014-11-28 16:03+0000\n"
+"PO-Revision-Date: 2014-11-28 16:22+0000\n"
 "Last-Translator: Mohomodou  <mh@bollag-areal.ch>\n"
 "Language-Team: none\n"
 "Language: son\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1417190584.000000\n"
+"X-POOTLE-MTIME: 1417191769.000000\n"
 
 #. # NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
 #: firefox/geolocation.lang:5
@@ -154,27 +154,31 @@ msgid ""
 "By default, Firefox uses Google Location Services to determine your location "
 "by sending:"
 msgstr ""
-"Firefox ga doona ka goy Google Location Services ka war gorodogoo tabatandi:"
+"Firefox ga doona ka goy Google Location Services ka war gorodogoo tabatandi, "
+"a ga wey sanba:"
 
 #: firefox/geolocation.lang:73
 msgid "your computer’s IP address,"
-msgstr "a ga war ordinateroo IP aderesoo sanba,"
+msgstr "war ordinateroo IP aderesoo,"
 
 #: firefox/geolocation.lang:77
 msgid "information about the nearby wireless access points, and"
-msgstr ""
+msgstr "alhabar war fargandoo talfon duu dogoo ga, nda"
 
 #: firefox/geolocation.lang:81
 msgid ""
 "a random client identifier, which is assigned by Google, that expires every "
 "2 weeks."
 msgstr ""
+"saaye-bande daykaw šilbaykaw kaŋ Google g'a noo, amm'a ga buu jirbiyye 2 ra."
 
 #: firefox/geolocation.lang:85
 msgid ""
 "For a complete description of information collected and used by Firefox, "
 "please see the <a href=\"%(url)s\">Firefox Privacy Notice</a>."
 msgstr ""
+"Alhabar timmante ga duwandi takaa kaŋ nda Firefox g'alhabar marga ka goy "
+"nd'a, wa dii <a href=\"%(url)s\">Firefox sutura bayrandoo</a>."
 
 #: firefox/geolocation.lang:89
 msgid ""
@@ -183,6 +187,10 @@ msgid ""
 "and used by Google, please see the <a href=\"%(url)s\" class=\"%(class)s"
 "\">Google Geolocation Privacy Policy</a>."
 msgstr ""
+"Waati din Google Location Services ga war gorodoo hiisantaa willi (sanda "
+"ganda hayyan nda kuuyan). Alhabar timmante ga duwandi takaa kaŋ nda Google "
+"g'alhabar marga k'a ka goy, wa dii <a href=\"%(url)s\" class=\"%(class)s"
+"\">Google gorodoo maateyan laadaa</a>."
 
 #: firefox/geolocation.lang:93
 msgid ""
@@ -192,22 +200,30 @@ msgid ""
 "you are visiting, or are any cookies, ever shared with Google Location "
 "Services."
 msgstr ""
+"Alhabaroo ga žemnandi ciyari kufalante bande ka war suturaa gaabu. Za "
+"Firefox doo war gorodogoo alhabaroo kul a g'a bisandi interneti nungoo "
+"kaŋ n'a wiri do. Abada interneti nungoo kaŋ g'a ka ceeci maaɲoo wala dogoo, "
+"wala war aleewayaŋ ši bisandi Google Location Services do."
 
 #: firefox/geolocation.lang:97
 msgid ""
 "Neither Mozilla or Google will ever use the information collected by Google "
 "Location Services to identify or spy on you."
 msgstr ""
+"Mozilla wala Google ši goy nd'alhabaroo kaŋ Google Location Services n'a "
+"marga ka war šilbay wala ka war fuuni."
 
 #: firefox/geolocation.lang:101
 msgid ""
 "For information about what the requesting website does with your location "
 "information, please refer to that website’s privacy policy."
 msgstr ""
+"Ka bay ka tonton haya kaŋ nda interneti nungey ga tee nda war gorodoo "
+"alhabaroo kaŋ i n'a wiri, interneti nungoo din sutura laadaa caw."
 
 #: firefox/geolocation.lang:105
 msgid "For more information about your privacy, you should also read:"
-msgstr ""
+msgstr "Ka bay ka tonton war suturaa ga, war ga hima ka caw ne:"
 
 #: firefox/geolocation.lang:109
 msgid "Mozilla Firefox Privacy Notice"
@@ -275,19 +291,19 @@ msgstr ""
 
 #: firefox/geolocation.lang:157
 msgid "Click the <em>Details</em> arrow"
-msgstr ""
+msgstr "<em>šilbayhayey</em> biraa naagu"
 
 #: firefox/geolocation.lang:161
 msgid "Ensure that <em>Cookies</em> is selected"
-msgstr ""
+msgstr "Tabatandi kaŋ <em>Aleewawey</em> suubandi"
 
 #: firefox/geolocation.lang:165
 msgid "Click on <em>Clear Now</em>"
-msgstr ""
+msgstr "<em>Tuusu sohõda</em> naagu"
 
 #: firefox/geolocation.lang:169
 msgid "How do I turn off Location-Aware Browsing permanently?"
-msgstr ""
+msgstr "Taka foo nd'ay ga gorodoo-maate ceeciyan wii?"
 
 #: firefox/geolocation.lang:173
 msgid ""
