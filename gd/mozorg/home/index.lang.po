@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-18 07:04+0000\n"
-"PO-Revision-Date: 2014-12-05 05:28+0000\n"
+"PO-Revision-Date: 2014-12-05 06:56+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gd\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1417757300.000000\n"
+"X-POOTLE-MTIME: 1417762576.000000\n"
 
 #. # fx10_independent ##
 #. # fundraising_2014 ##
@@ -142,47 +142,50 @@ msgstr ""
 
 #: mozorg/home/index.lang:119
 msgid "Learn about <br>Firefox for Android"
-msgstr ""
+msgstr "Fàs eòlach air <br>Firefox airson Android"
 
 #. # TAG: fundraising_2014
 #: mozorg/home/index.lang:124
-#, fuzzy
 msgid "Donate to Mozilla"
-msgstr "A' toirt tabhartas dha Mozilla"
+msgstr "Thoir tabhartas dha Mozilla"
 
 #. # TAG: fundraising_2014
 #: mozorg/home/index.lang:129
 msgid "Your gift helps us build the Internet the world needs."
 msgstr ""
+"Cruthaichidh sinn an t-eadar-lìon a tha a dhìth air an t-saoghal le do chuid "
+"tabhartais."
 
 #. # TAG: fundraising_2014
 #: mozorg/home/index.lang:134
 msgid "Donate today"
-msgstr ""
+msgstr "Thoir tabhartas an-diugh"
 
 #. This string is currently unused (tile will link to Mozilla Gear Store)
 #: mozorg/home/index.lang:139
 msgid "Official Mozilla gear is here"
-msgstr ""
+msgstr "Tha acainnean Mozilla oifigeach ri fhaighinn"
 
 #. This string is currently unused (tile will link to Mozilla Gear Store)
 #: mozorg/home/index.lang:144
 msgid ""
 "Merch with a mission. <br>Products with a purpose. <br>Goods that do good."
 msgstr ""
+"Bathar aig a bheil misean. <br>Bathar aig a bheil los. <br>Bathar a nì math."
 
 #. This string is currently unused (tile will link to Mozilla Gear Store)
 #: mozorg/home/index.lang:149
 msgid "Get your Mozilla gear"
-msgstr ""
+msgstr "Faigh acainn Mozilla dhut"
 
 #: mozorg/home/index.lang:153
 msgid "Help Mozilla users"
-msgstr ""
+msgstr "Cuidich luchd-cleachdaidh Mozilla"
 
 #: mozorg/home/index.lang:157
 msgid "Help millions <br>get the most from their <br>favorite browser."
 msgstr ""
+"Cuidich na mìltean a dhaoine <br>a' cur am brabhsair aca <br>gu làn-fheum."
 
 #: mozorg/home/index.lang:161
 msgid "Join our support team"
@@ -190,14 +193,13 @@ msgstr "Gabh pàirt san sgioba taic againn"
 
 #. Used in Twitter feed
 #: mozorg/home/index.lang:166
-#, fuzzy
 msgid "Reply"
-msgstr "Ath-chluich"
+msgstr "Freagair"
 
 #. Used in Twitter feed
 #: mozorg/home/index.lang:171
 msgid "Retweet"
-msgstr ""
+msgstr "Dèan retweet"
 
 #. <strong> tags below are for visual formatting only.
 #: mozorg/home/index.lang:176
@@ -205,43 +207,47 @@ msgid ""
 "Committed to <strong>you, your privacy</strong> and an <strong>open Web</"
 "strong>"
 msgstr ""
+"An dealas <strong>riut-sa, ri do phrìobhaideachd</strong> agus <strong>lìon "
+"fosgailte</strong>"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/home/index.lang:181
 msgid "active Mozillians <br>worldwide"
-msgstr ""
+msgstr "Mozillians gnìomhach <br>air feadh an t-saoghail"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/home/index.lang:186
 msgid "upcoming events <br>around the globe"
-msgstr ""
+msgstr "tachartasan san àm ri teachd <br>air feadh an t-saoghail"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/home/index.lang:191
 msgid "languages and counting, <br>on every continent"
-msgstr ""
+msgstr "cànan 's iad a' sìor-dhol am meud, <br>air gach tìr-mòr"
 
 #: mozorg/home/index.lang:195
 msgid "Get Involved with Mozilla today"
-msgstr ""
+msgstr "Gabh pàirt ann am Mozilla an-diugh fhèin"
 
 #: mozorg/home/index.lang:199
 msgid "Upcoming events"
-msgstr ""
+msgstr "Tachartasan san àm ri teachd"
 
 #: mozorg/home/index.lang:203
 msgid "Next event"
-msgstr ""
+msgstr "An ath-thachartas"
 
 #: mozorg/home/index.lang:207
 msgid "See all events"
-msgstr ""
+msgstr "Faic na tachartasan air fad"
 
 #: mozorg/home/index.lang:211
 msgid ""
 "Compare prices, check the weather, listen to music, send a tweet and more "
 "right from Firefox."
 msgstr ""
+"Dèan coimeas eadar prìsean, faigh aithris na sìde, èist ri ceòl, cuir tweet "
+"is mòran a bharrachd o bhroinn Firefox fhèin."
 
 #: mozorg/home/index.lang:215
 msgid "Careers"
@@ -252,6 +258,8 @@ msgid ""
 "Learn about the benefits of working at Mozilla and view open positions "
 "around the world."
 msgstr ""
+"Fàs eòlach air na buannachdan a gheibhear ri linn dreuchd aig Mozilla agus "
+"faic na h-obraichean a tha bàn air feadh an t-saoghail."
 
 #: mozorg/home/index.lang:223
 msgid "Need help?"
@@ -262,15 +270,17 @@ msgid ""
 "Get answers to your questions about Firefox and all Mozilla products from "
 "our support team."
 msgstr ""
+"Faigh freagairtean air do cheistean mu Firefox is bathar Mozilla air fad on "
+"sgioba taice againn."
 
 #: mozorg/home/index.lang:231
 msgid "Discover more"
-msgstr ""
+msgstr "Fidir barrachd"
 
 #. # TAG: fx10_independent
 #: mozorg/home/index.lang:236
 msgid "Help us celebrate 10 years of Firefox."
-msgstr ""
+msgstr "Comharraich 10 bliadhna de Firefox còmhla rinn."
 
 #~ msgid "Get Firefox OS"
 #~ msgstr "Faigh Firefox OS"
