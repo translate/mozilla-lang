@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-04 15:27+0000\n"
-"PO-Revision-Date: 2014-12-05 04:59+0000\n"
+"PO-Revision-Date: 2014-12-05 05:19+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: none\n"
 "Language: gd\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1417755548.000000\n"
+"X-POOTLE-MTIME: 1417756765.000000\n"
 
 #. # NOTE: demo available at https://www-dev.allizom.org/firefox/tiles
 #: firefox/tiles.lang:3
@@ -120,31 +120,40 @@ msgstr ""
 
 #: firefox/tiles.lang:59
 msgid "Respects your privacy"
-msgstr ""
+msgstr "Suim dha do phrìobhaideachd"
 
 #: firefox/tiles.lang:63
 msgid ""
 "As with all Mozilla products, Tiles provide users with extensive control "
 "over their personal data."
 msgstr ""
+"Mar gach bathar eile a tha aig Mozilla, bheir na leacagan làn-smachd dhan "
+"chleachdaiche a thaobh an dàta phearsanta aca."
 
 #: firefox/tiles.lang:67
 msgid ""
 "Data collection is limited to the aggregate number of impressions, clicks "
 "and Tile placement."
 msgstr ""
+"Cha dèid dàta sam bith a chruinneachadh ach suim nan impressions, co mheud "
+"briogadh a rinneadh agus càit an deach an cur."
 
 #: firefox/tiles.lang:71
 msgid ""
 "Nothing is ever personally identifiable. In other words, we don’t know who "
 "clicks on what."
 msgstr ""
+"Chan aithnichear thu fhèin air gin dheth idir. No ann am facal eile, chan "
+"eil spùt againn a thaobh cò tha a' briogadh air dè."
 
 #: firefox/tiles.lang:75
 msgid ""
 "We just know the total number of views and clicks an individual Tile "
 "receives. This helps us deliver the most interesting and relevant content."
 msgstr ""
+"Chan fhaic sinne ach co mheud duine a choimhead 's a bhriog air leacag. Leis "
+"a sin, bidh e nas fhasa dhuinn susbaint a shealltainn a bhios ùidh aig "
+"daoine ann."
 
 #: firefox/tiles.lang:79
 msgid ""
@@ -152,6 +161,10 @@ msgid ""
 "icon on the top right corner of the new tab page, and selecting Classic to "
 "show only unenhanced History Tiles or Blank mode."
 msgstr ""
+"'S urrainn dhut tracadh nam briogadh 's nan impressions a chur à comas le "
+"bhith a' briogadh air dealbh a' ghèar air an taobh deas gu h-àrd air an "
+"duilleag ùr 's a' taghadh \"Clasaigeach\" ann is chan fhaic thu ach leacagan "
+"na h-eachdraidh gun leasachadh no feadhainn bhàna."
 
 #: firefox/tiles.lang:83
 msgid "Frequently Asked Questions"
@@ -159,64 +172,74 @@ msgstr "CÀBHA - Na Ceistean Àbhaisteach"
 
 #: firefox/tiles.lang:87
 msgid "Are you tracking users now?"
-msgstr ""
+msgstr "A bheil sibh ri tracadh luchd-cleachdaidh a-nis?"
 
 #: firefox/tiles.lang:91
 msgid ""
 "We only collect data from the New Tab page in aggregate form, meaning no "
 "data is personally identifiable."
 msgstr ""
+"Cha chruinnich sinn o dhuilleagan nan tabaichean ùra ach suim dàta agus is "
+"ciall dha sinn nach aithnichear thu gu pearsanta air gin dheth."
 
 #: firefox/tiles.lang:95
 msgid "What data is being collected?"
-msgstr ""
+msgstr "Dè seòrsa dàta a thathar 'ga chruinneachadh?"
 
 #: firefox/tiles.lang:99
 msgid ""
 "Aggregate data from the New Tab page includes impressions, clicks and tile "
 "placement."
 msgstr ""
+"Tha suim an dàta o dhuilleagan nan tabaichean ùra a' gabhail a-steach dàta "
+"air impressions, briogaidhean is ionad nan leacagan."
 
 #: firefox/tiles.lang:103
 msgid "What data is collected when I opt out?"
 msgstr ""
+"Dè seòrsa dàta a thèid a chruinneachadh ma bheir mi air falbh an ro-aonta?"
 
 #: firefox/tiles.lang:107
 msgid ""
 "No data is collected when a user chooses to opt out of the enhanced Tiles "
 "experience."
 msgstr ""
+"Cha dèid dàta sam bith a chruinneachadh nuair a chuireas tu romhad do ro-"
+"aonta a thaobh nan leacagan leasaichte a thoirt air falbh."
 
 #: firefox/tiles.lang:111
 msgid "Where can I learn more?"
-msgstr ""
+msgstr "Càit am faigh mi barrachd fiosrachaidh?"
 
 #. Link to https://blog.mozilla.org/futurereleases/2014/09/04/new-tab-page-experiments-in-firefox-beta/
 #: firefox/tiles.lang:117
 msgid "New Tab Experiments in Firefox Beta"
-msgstr ""
+msgstr "Deuchainnean ann am Firefox Beta air tabaichean ùra"
 
 #. Link to https://blog.mozilla.org/advancingcontent/2014/08/21/a-call-for-trust-transparency-and-user-control-in-advertising/
 #: firefox/tiles.lang:122
 msgid "A Call for Trust, Transparency and User Control in Advertising"
 msgstr ""
+"Gairm airson earbsa, soilleireachd is smachd luchd-cleachdaidh ann an "
+"sanasachd"
 
 #. Link to https://blog.mozilla.org/netpolicy/2014/08/21/trust-should-be-the-currency/
 #: firefox/tiles.lang:127
 msgid "Trust should be the currency"
-msgstr ""
+msgstr "Bu chòir do dh'earbsa a bith ann"
 
 #. Used as title of the screenshot
 #: firefox/tiles.lang:132
-#, fuzzy
 msgid "Tiles Preferences"
-msgstr "Sàbhail na roghainnean"
+msgstr "Roghainnean nan leacagan"
 
 #: firefox/tiles.lang:136
 msgid "Screenshot"
-msgstr ""
+msgstr "Glacadh-sgrìn"
 
 #. Link points to https://support.mozilla.org/kb/how-do-tiles-work-firefox
 #: firefox/tiles.lang:141
 msgid "For more help please see the <a href=\"%(url)s\">Tiles Support Page</a>"
 msgstr ""
+"Airson barrachd cuideachaidh, thoirt sùil air <a href=\"%(url)s\">duilleag "
+"taic nan leacagan</a>"
