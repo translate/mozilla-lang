@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-24 15:05+0000\n"
-"PO-Revision-Date: 2014-12-06 14:59+0000\n"
+"PO-Revision-Date: 2014-12-06 15:16+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gd\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1417877945.000000\n"
+"X-POOTLE-MTIME: 1417878985.000000\n"
 
 #. # contribute_faces ##
 #. # contribute_mayupdates ##
@@ -369,6 +369,10 @@ msgid ""
 "designs inspired by Mozilla. Check out the <a href=\"%(creative_url)s"
 "\">Creative team blog</a> for more information about how to take part."
 msgstr ""
+"Tha e a' còrdadh rinn cothrom a thoirt do luchd-ealain dealbhadh a "
+"chruthachadh a fhuair brosnachadh o Mozilla. Thoir sùil air <a href="
+"\"%(creative_url)s\">bloga an sgioba chruthachail</a> airson barrachd "
+"fiosrachaidh."
 
 #. Documentation and writing
 #: mozorg/contribute.lang:243
@@ -378,6 +382,10 @@ msgid ""
 "by writing new content, correcting existing material or translating content "
 "into new languages."
 msgstr ""
+"'S e lìonra luchd-leasachaidh Mozilla an làr-ionad airson fiosrachadh mu "
+"dhèidhinn teicneolasan Mozilla. 'S urrainn dhut <a href=\"%(dev_url)s"
+"\">piseach a chur air an docamaideadh againn</a> 's tu a' sgrìobhadh "
+"susbaint ùr, a' ceartachadh na tha ann an-dràsta no 'ga eadar-theangachadh."
 
 #. # TAG: webmaker_update
 #. Education
@@ -389,12 +397,18 @@ msgid ""
 "<a href=\"%(webmaker_resources)s\">teaching resources</a> and <a href="
 "\"%(webmaker_events)s\">community events</a>."
 msgstr ""
+"Am bu toigh leat taic a thoirt do dhaoine nach eil a' tuigsinn an eadar-lìn "
+"gu tur? 'S e <a href=\"%(webmaker)s\">Mozilla Webmaker</a> a' "
+"choimhearsnachd eadar-nàiseanta a tha an dealas ri sgilean digiteach "
+"ionnsachadh do dhaoine slighe <a href=\"%(webmaker_tools)s\">innealan a tha "
+"an-asgaidh</a>, <a href=\"%(webmaker_resources)s\">goireasan teagaisg</a> "
+"agus <a href=\"%(webmaker_events)s\">tachartasan coimhearsnachd</a>."
 
 #. # TAG: contribute_fellowship
 #. Fellowships
 #: mozorg/contribute.lang:255
 msgid "Fellowships"
-msgstr ""
+msgstr "Companasan"
 
 #. # TAG: contribute_fellowship
 #: mozorg/contribute.lang:260
@@ -403,12 +417,17 @@ msgid ""
 "\"%(fellowship)s\">OpenNews Fellowship program</a> matches emerging digital "
 "leaders with journalism opportunities to build the open Web for everyone."
 msgstr ""
+"Ma tha ùidh agad sa cheist cò ris a bhios an lìon fosgailte coltach ris san "
+"àm ri teachd, thoir sùil air <a href=\"%(fellowship)s\">prògram chompanasan "
+"OpenNews</a> aig Knight-Mozilla. Cuiridh iad còmhla luchd nan naidheachdan "
+"agus daoine a bhios mòr san t-saoghal digiteach ach an tog sinn lìon "
+"fosgailte dhan a h-uile duine còmhla."
 
 #. # TAG: hiveglobal
 #. For reference see http://hivelearningnetworks.org
 #: mozorg/contribute.lang:266
 msgid "Hive Networks"
-msgstr ""
+msgstr "Lìonraidhean-guir"
 
 #. # TAG: hiveglobal
 #. For reference see http://hivelearningnetworks.org
@@ -420,6 +439,11 @@ msgid ""
 "\"%(hivenetworks)s\">Learn more</a> about how to start a Hive in your "
 "community."
 msgstr ""
+"Tha <a href=\"%(hivenetworks)s\">lìonraidhean-guir ionnsachaidh</a> 'na "
+"lìonra de choimhearsnachdan air feadh an t-saoghail a tha a' sìor-fhàs agus "
+"a' brosnachadh sgilean digiteach is litreachas-lìn slighe ionnsachaidh cho-"
+"cheangailte. <a href=\"%(hivenetworks)s\">Faigh barrachd fiosrachaidh</a> ma "
+"tha thu airson tè a stèidheachadh 'nad choimhearsnachd fhèin."
 
 #. Old string, will be removed when all locales have the new text
 #: mozorg/contribute.lang:277
@@ -429,6 +453,11 @@ msgid ""
 "all about</a> or get started teaching others by <a href=\"%(webmaker)s"
 "\">setting up an event in your community today</a>."
 msgstr ""
+"Cum taic ris an ath-ghinealach de luchd-cruthachaidh an lìn le bhith a' "
+"teagasg do dhaoine eile mar a tha an lìon ag obair. <a href="
+"\"%(moz_webmaker)s \">Fàs eòlach air pròiseact Mozilla Webmaker</a> no "
+"tòisich air beagan teagaisg <a href=\"%(webmaker)s\">'s tu a' cur air cois "
+"tachartas 'nad choimhearsnachd an-diugh</a>."
 
 #: mozorg/contribute.lang:281
 msgid "map"
