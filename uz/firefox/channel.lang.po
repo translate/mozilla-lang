@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-25 22:05+0000\n"
-"PO-Revision-Date: 2014-07-05 07:46+0000\n"
+"PO-Revision-Date: 2014-12-08 09:47+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
-"X-POOTLE-MTIME: 1404546408.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1418032058.000000\n"
 
 #. # telemetry_notice ##
 #. # channel_dev_edition ##
@@ -21,36 +21,34 @@ msgstr ""
 #. # TAG: channel_dev_edition
 #. This is the string for the <title> tag on the page.
 #: firefox/channel.lang:10
-#, fuzzy
 msgid ""
 "Download Firefox Developer Edition or Beta &amp; Help Determine the Next "
 "Firefox"
 msgstr ""
-"Firefox Aurora yoki Beta’ni yuklab olish &amp; Keyingi \"Firefox\"ni "
-"aniqlashda yordam"
+"Firefox Developer Edition yoki Beta’ni yuklab olingva keyingi Firefox’ning "
+"qanday bo‘lishini aniqlashga yordam bering."
 
 #. This is the string for the <title> tag on the page.
 #: firefox/channel.lang:15
 msgid "Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox"
 msgstr ""
-"Firefox Aurora yoki Beta’ni yuklab olish &amp; Keyingi \"Firefox\"ni "
-"aniqlashda yordam"
+"Firefox Aurora yoki Beta’ni yuklab oling va keyingi Firefox’ning qanday "
+"bo‘lishiga yordam bering"
 
 #. # TAG: channel_dev_edition
 #: firefox/channel.lang:20
-#, fuzzy
 msgid ""
 "Download and test Firefox future releases. Experience the newest innovations "
 "with the Developer Edition or Beta builds."
 msgstr ""
-"\"Firefox\"ning kelajakdagi versiyalarini sinab ko‘ring va yuklab oling. "
-"Yangi innovatsiya tajribasi \"Aurora\" yoki beta versiyalar bilan birga "
-"bo‘ladi."
+"\"Firefox\"ning kelajakdagi versiyalarini yuklab oling va sinab ko‘ring. Eng "
+"yangi innovatsiyalarni Developer Edition yoki Beta relizlari bilan ishlatib "
+"ko‘ring."
 
 #. This description applies to Firefox Beta
 #: firefox/channel.lang:25
 msgid "The latest features in a more stable environment"
-msgstr "Ancha ishonchli muhitda so‘nggi xususiyatlar"
+msgstr "So‘nggi xususiyatlar ancha ishonarli muhitda"
 
 #. # TAG: telemetry_notice
 #: firefox/channel.lang:30
@@ -58,17 +56,17 @@ msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
 msgstr ""
-"\"Firefox Beta\" avtomatik tarzda \"Mozilla\"ga ma’lumotlar jo‘natib turadi. "
-"<a href=\"%(link)s\">Ko‘proq o‘rganing</a>."
+"Firefox Beta automatik tarzda Mozilla’ga fikr-mulohazalarni jo‘natib turadi. "
+"<a href=\"%(link)s\">Ko‘proq ma’lumot olish</a>."
 
 #: firefox/channel.lang:34
 msgid ""
 "<a href=\"%(feedback)s\">Give us feedback</a> to help us put the final "
 "tweaks on performance and functionality in a stable environment."
 msgstr ""
-"<a href=\"%(feedback)s\">Bizga mulohazalaringizni bildiring</a>. Bu bizga "
-"so‘nggi ishonchli muhitni shakllantirish va ishlashini yaxshilashda so‘nggi "
-"qulayliklarni qo‘shishda yordam beradi."
+"Ishonarli muhitga so‘nggi xususiyatlarni qo‘shish va ishlash tezligini "
+"yaxshilash uchun <a href=\"%(feedback)s\">bizga fikr-mulohazalaringizni "
+"jo‘nating</a>."
 
 #. # TAG: channel_dev_edition
 #: firefox/channel.lang:39
@@ -76,6 +74,8 @@ msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
 "Mozilla. <a href=\"%(link)s\">Learn more</a>."
 msgstr ""
+"Firefox Aurora va Firefox Developer Edition avtomatik tarzda Mozilla’ga "
+"mulohazalar jo‘natib turadi. <a href=\"%(link)s\">Ko‘proq o‘rganish</a>."
 
 #: firefox/channel.lang:43
 msgid ""
@@ -88,12 +88,12 @@ msgstr ""
 #. # TAG: channel_dev_edition
 #: firefox/channel.lang:48
 msgid "Built for those who build the Web"
-msgstr ""
+msgstr "Internetni tuzadiganlar uchun tuzilgan"
 
 #. This description applies to Firefox Aurora
 #: firefox/channel.lang:53
 msgid "The newest innovations in an experimental environment"
-msgstr "Eng yangi innovatsiyalar sinov muhitida"
+msgstr "Eng yangi innovatsion g‘oyalar tajriba muhitida"
 
 #. # TAG: telemetry_notice
 #: firefox/channel.lang:58
@@ -101,24 +101,25 @@ msgid ""
 "Test performance in an experimental environment, file bugs and <a href="
 "\"%(feedback)s\">help us determine what makes it to Beta</a>."
 msgstr ""
-"Sinov muhitidagi ishlash tezligi,fayl nosozliklari va <a href=\"%(feedback)s"
-"\"> bizga \"Beta\"da nima qilish kerakligiga yordam beradi</a>."
+"Sinov muhitida ishlash tezligini sinash, fayl nosozliklari va <a href="
+"\"%(mulohaza)lar\">Beta’ga turli o‘zgartirishlar kiritishimizga yordam "
+"beradi</a>."
 
 #. This description applies to Firefox on the Release channel
 #: firefox/channel.lang:63
 msgid "Tried, tested and used by millions around the world"
 msgstr ""
-"Butun dunyodagi millionlab kishilar tomonidan ishlatib ko‘rilgan, sinalgan "
-"va foydalanilgan"
+"Butun dunyo bo‘ylab millionlab odamlar tomonidan ishlatib ko‘rilgan, "
+"sinalgan va foydalanilgan"
 
 #: firefox/channel.lang:67
 msgid "Learn more about Firefox Beta"
-msgstr "\"Firefox Beta\" haqida ko‘proq o‘rganing"
+msgstr "Firefox Beta haqida ko‘proq o‘rganing"
 
 #: firefox/channel.lang:71
 msgid "Learn more about Firefox Aurora"
-msgstr "\"Firefox Aurora\" haqida ko‘proq o‘rganing"
+msgstr "Firefox Aurora haqida ko‘proq o‘rganing"
 
 #: firefox/channel.lang:75
 msgid "Learn more about Firefox"
-msgstr "\"Firefox\" haqida ko‘proq o‘rganing"
+msgstr "Firefox haqida ko‘proq o‘rganing"
