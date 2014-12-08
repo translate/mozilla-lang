@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-29 09:15+0000\n"
-"PO-Revision-Date: 2014-06-22 12:34+0000\n"
+"PO-Revision-Date: 2014-12-08 06:31+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
-"X-POOTLE-MTIME: 1403440481.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1418020273.000000\n"
 
 #. # firefox_sync_non_fx ##
 #. # firefox_sync_redesign ##
@@ -26,7 +26,7 @@ msgstr "\"Firefox\"ni sinxronlab turing"
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:13
 msgid "Ready, Set, Sync"
-msgstr ""
+msgstr "Tayyor, moslash, sinxronlash"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:18
@@ -37,7 +37,7 @@ msgstr ""
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:23
 msgid "Take your Web with you"
-msgstr ""
+msgstr "Internet doim siz bilan birga"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:28
@@ -48,9 +48,8 @@ msgstr ""
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:33
-#, fuzzy
 msgid "It looks like you’re running an older version of Firefox."
-msgstr "Siz \"Firefox\"ning eski versiyasidan foydalaayotganga o‘xshaysiz."
+msgstr "Siz \"Firefox\"ning eski versiyasidan foydalanayotganga o‘xshaysiz."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:38
@@ -63,6 +62,8 @@ msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
 "Discover them all!"
 msgstr ""
+"Sinxronlash Firefox’ning zo‘r xususiyatlaridan faqatgina bittasi. Ularning "
+"hammasini kashf qiling!"
 
 #. # TAG: firefox_sync_non_fx
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
@@ -72,9 +73,8 @@ msgstr ""
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:54
-#, fuzzy
 msgid "Download Firefox for Android"
-msgstr "Android uchun Beta versiyasini yuklab olish"
+msgstr "Android uchun Firefox’ni yuklab olish"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:59
@@ -89,17 +89,17 @@ msgstr "Sinxronloash bilan boshlang"
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:69
 msgid "Update your Firefox"
-msgstr ""
+msgstr "Firefox’ni yangilash"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:74
 msgid "Download Firefox"
-msgstr ""
+msgstr "\"Firefox\"ni yuklab  olish"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:79
 msgid "Get started with Sync in four easy steps:"
-msgstr ""
+msgstr "To‘rtta oson bosqichda sinxronlashni ishlatishni boshlang:"
 
 #. # TAG: firefox_sync_redesign
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
@@ -144,6 +144,9 @@ msgid ""
 "After you check your email and click the verification link, you’ll be all "
 "set! Firefox will automatically sync in the background from then on."
 msgstr ""
+"E-pochtangizni tekshirganingizdan so‘ng tasdiqlash linkini bosing - sizda "
+"hammasi o‘zi moslanadi! Shu vaqtdan boshlab Firefox avtomatik tarzda orqa "
+"fonda sinxronlashni boshlaydi."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:114
@@ -159,7 +162,7 @@ msgstr "Sinxronlashning eskiroq versiyasidan foydalanilsinmi?"
 #. This string is displayed on Android devices
 #: firefox/sync.lang:125
 msgid "How to set up Sync in five easy steps:"
-msgstr ""
+msgstr "Sinxronlashni oson besh bosqichda qanday moslash mumkin:"
 
 #. # TAG: firefox_sync_redesign
 #. <strong> tags below used for font color formatting.
@@ -177,12 +180,16 @@ msgid ""
 "Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
 "first)."
 msgstr ""
+"<strong>Sozlamalar</strong>ni tanlang (avval siz <strong>Ko‘proq</strong>ni "
+"bosishingiz kerak)."
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:144
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
 msgstr ""
+"<strong>Sinxronlash</strong>ni bosing va so‘ngra <strong>U boshlanadi</"
+"strong>."
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
@@ -195,7 +202,7 @@ msgstr ""
 #. This string is displayed on Android devices
 #: firefox/sync.lang:156
 msgid "Fill out the form and click <strong>Next</strong>."
-msgstr ""
+msgstr "Shaklni to‘ldiring va <strong>Keyingi</strong>ni bosing."
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
@@ -205,11 +212,14 @@ msgid ""
 "to go! Don’t forget to connect all your other devices to get the most of "
 "Sync."
 msgstr ""
+"E-pochtangizni tekshirganingizdan so‘ng tasdiqlash linkini bosing - siz "
+"o‘tishga tayyor bo‘lasiz! Barcha boshqa qurilmalaringizni so‘nggi "
+"sinxronlashni olish bilan ulashni unutmang."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:167
 msgid "Sync a little. Sync a lot."
-msgstr ""
+msgstr "Ozroq sinxornlang. Ko‘proq sinxronlang."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:172
@@ -218,11 +228,14 @@ msgid ""
 "sync them. Take your open tabs on your daily commute. Access your bookmarks "
 "at work. Whatever, whenever, everywhere."
 msgstr ""
+"Siz sinxronlashni xohlagan Firefox’ingizning qismlarini va qayerda ularni "
+"sinxronlashni tanladingiz. Ochiq ichki oynalaringizni kunlik safaringizda "
+"o‘zingiz bilan olib yurasiz. Hamma yerda, har qachon, har qanday holatda."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:177
 msgid "At home"
-msgstr ""
+msgstr "Uyda"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:182
@@ -235,7 +248,7 @@ msgstr ""
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:187
 msgid "At work"
-msgstr ""
+msgstr "Ishda"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:192
@@ -244,11 +257,14 @@ msgid ""
 "bookmarks that you might need to access at any time. Just like Firefox, it’s "
 "safe as can be."
 msgstr ""
+"Muhim ma’lumotlaringizning barchasiga ulangan holda qoling. Parollaringiz va "
+"xatcho‘plaringizni sinxronlash xohlagan vaqtingizda kirishingiz uchun kerak "
+"bo‘ladi. Firefox’ga o‘xshab, u xavfsiz."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:197
 msgid "On the go"
-msgstr ""
+msgstr "Yo‘l-yo‘lakay"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:202
@@ -256,16 +272,19 @@ msgid ""
 "Keep up with your favorite sites, or finish that story you started at home — "
 "wherever you go. With Sync, it’s never been easier."
 msgstr ""
+"Sevimli saytlaringizni saqlab qo‘ying yoki uyda boshlagan ishingizni qayerda "
+"bo‘lsangiz ham tugatib qo‘ying. Sinxronlash hozirgiday hech qachon oson "
+"bo‘lmagan."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:207
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
-msgstr ""
+msgstr "<b>Android smartfon</b>ingiz yoki <b>planshet</b>ingiz bormi?"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:212
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
-msgstr ""
+msgstr "Android uchun Firefox’ni yuklab olish"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:217
@@ -273,6 +292,9 @@ msgid ""
 "To get the full Sync experience, take your Web with you everywhere you use "
 "Firefox. Connect your smartphone, tablet, computer and laptop."
 msgstr ""
+"To‘liq sinxronlashdan foydalanmoqchi bo‘lsangiz, internetni har qanday joyda "
+"Firefox’dan foydalanib olib yuring. Smartfoningiz, planshetingiz, "
+"kompyuteringiz va notebookingizni ulang."
 
 #. Used in old page, do not remove , do not remove
 #: firefox/sync.lang:222
