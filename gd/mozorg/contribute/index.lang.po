@@ -1,11 +1,10 @@
 #. extracted from ./mozorg/contribute/index.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-26 17:05+0000\n"
-"PO-Revision-Date: 2014-10-13 20:58+0000\n"
+"PO-Revision-Date: 2014-12-09 16:32+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gd\n"
@@ -14,8 +13,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
-"X-POOTLE-MTIME: 1413233920.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1418142738.000000\n"
 
 #. # NOTE: https://www-dev.allizom.org/contribute/
 #. Used for HTML title attribute
@@ -57,27 +56,23 @@ msgid "I live in&hellip;"
 msgstr ""
 
 #: mozorg/contribute/index.lang:41
-#, fuzzy
 msgid "Volunteer with Mozilla!"
-msgstr "Dèan obair shaor-thoileach <br>dha Mozilla"
+msgstr "Dèan obair shaor-thoileach le Mozilla!"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:46
-#, fuzzy
 msgid "active Mozillians worldwide"
-msgstr "Mozillians gnìomhach <br>air feadh an t-saoghail"
+msgstr "Mozillians gnìomhach air feadh an t-saoghail"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:51
-#, fuzzy
 msgid "upcoming events around the globe"
-msgstr "tachartasan san àm ri teachd <br>air feadh an t-saoghail"
+msgstr "tachartasan san àm ri teachd air feadh an t-saoghail"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 #: mozorg/contribute/index.lang:56
-#, fuzzy
 msgid "languages and counting, on every continent"
-msgstr "cànan 's iad a' sìor-dhol am meud, <br>air gach tìr-mòr"
+msgstr "cànan 's iad a' sìor-dhol am meud, air gach tìr-mòr"
 
 #: mozorg/contribute/index.lang:60
 msgid "Join a global community of game-changers."
@@ -172,7 +167,6 @@ msgid "Here are a few other ways you can support Mozilla right now."
 msgstr ""
 
 #: mozorg/contribute/index.lang:147
-#, fuzzy
 msgid "Donate to Mozilla"
 msgstr "A' toirt tabhartas dha Mozilla"
 
@@ -189,7 +183,6 @@ msgid "Follow us on Twitter"
 msgstr ""
 
 #: mozorg/contribute/index.lang:163
-#, fuzzy
 msgid "Upcoming event"
 msgstr "Tachartasan san àm ri teachd"
 
@@ -202,7 +195,6 @@ msgid "Communicate"
 msgstr ""
 
 #: mozorg/contribute/index.lang:175
-#, fuzzy
 msgid "Mozilla communities"
 msgstr "Coimhearsnachdan Mozilla"
 
@@ -424,13 +416,12 @@ msgid "(Optional)"
 msgstr ""
 
 #: mozorg/contribute/index.lang:380
-#, fuzzy
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%(privacy)s"
 "\">this Privacy Policy</a>"
 msgstr ""
 "Tha mi a' toirt cead dha Mozilla am fiosrachadh seo a chleachdadh mar a "
-"mhìnich sibh sa <a href=\"%s\">phoileasaidh phrìobhaideachd</a> seo"
+"mhìnich sibh sa <a href=\"%(privacy)s\">phoileasaidh phrìobhaideachd</a> seo"
 
 #: mozorg/contribute/index.lang:384
 msgid "Start contributing"
@@ -441,7 +432,6 @@ msgid "Sign me up for community updates"
 msgstr ""
 
 #: mozorg/contribute/index.lang:392
-#, fuzzy
 msgid "(English)"
 msgstr "(ann am Beurla)"
 
@@ -478,9 +468,8 @@ msgid "Firefox OS"
 msgstr "Firefox OS"
 
 #: mozorg/contribute/index.lang:428
-#, fuzzy
 msgid "Websites"
-msgstr "Làrach-lìn"
+msgstr "Làraichean-lìn"
 
 #: mozorg/contribute/index.lang:432
 msgid "Firefox add-ons"
