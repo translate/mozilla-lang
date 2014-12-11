@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-09 17:33+0000\n"
-"PO-Revision-Date: 2014-01-16 08:23+0000\n"
+"PO-Revision-Date: 2014-12-11 09:59+0000\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: none\n"
 "Language: af\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
-"X-POOTLE-MTIME: 1389860583.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1418291943.000000\n"
 
 #. # java_notice ##
 #. # plugin_disable_warning ##
@@ -239,7 +239,6 @@ msgid "In Firefox:"
 msgstr "In Firefox:"
 
 #: mozorg/plugincheck.lang:192
-#, fuzzy
 msgid "Open the Tools menu."
 msgstr "Gaan na die Nutsgoed-kieslys."
 
@@ -247,22 +246,20 @@ msgstr "Gaan na die Nutsgoed-kieslys."
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:198
 msgid "Open the <span class=\"menu\">menu</span>."
-msgstr ""
+msgstr "Open die <span class=\"menu\">kieslys</span>."
 
 #: mozorg/plugincheck.lang:202
-#, fuzzy
 msgid "Choose Add-ons."
 msgstr "Kies Byvoegings."
 
 #: mozorg/plugincheck.lang:206
-#, fuzzy
 msgid "Click the plugins tab."
 msgstr "Klik op die Inproppe-oortjie."
 
 #. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:211
 msgid "Click on the drop down next to the plugin you wish to disable."
-msgstr ""
+msgstr "Klik op die opdraglys langs die inprop wat u wil deaktiveer."
 
 #: mozorg/plugincheck.lang:215
 msgid "Click on a plugin in the list."
@@ -271,7 +268,7 @@ msgstr "Klik op 'n inprop in die lys."
 #. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:220
 msgid "Select \"Never Activate\" from the available choices."
-msgstr ""
+msgstr "Kies \"Moet nooit aktiveer nie\" uit die beskikbare keuses."
 
 #: mozorg/plugincheck.lang:224
 msgid "Click the Disable button."
@@ -289,15 +286,14 @@ msgstr ""
 
 #. # TAG: plugin_disable_warning
 #: mozorg/plugincheck.lang:233
-#, fuzzy
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on some streaming video websites."
 msgstr ""
 "Waarskuwing: deur 'n inprop te deaktiveer sal u nie meer sekere dinge kan "
-"doen nie. By voorbeeld, as mens Flash deaktiveer, sal sekere video's op "
-"YouTube nie meer speel nie."
+"doen nie. By voorbeeld, as mens Flash deaktiveer, sal video's op sekere "
+"videowerwe nie meer speel nie."
 
 #: mozorg/plugincheck.lang:237
 msgid "Mozilla Support"
