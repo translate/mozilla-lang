@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-29 09:15+0000\n"
-"PO-Revision-Date: 2014-12-11 09:42+0000\n"
+"PO-Revision-Date: 2014-12-11 10:53+0000\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: none\n"
 "Language: af\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1418290963.000000\n"
+"X-POOTLE-MTIME: 1418295190.000000\n"
 
 #. # NOTE: we don't have a demo server yet
 #. This is the title for a door-hanger menu that shows in the browser chrome
@@ -115,9 +115,8 @@ msgstr "Sluit"
 #. STEP 1 of the tour (Forget button)
 #. %s is a searchplugin name
 #: firefox/privacy_tour/privacy_tour.lang:99
-#, fuzzy
 msgid "<span>Next:</span> %s"
-msgstr "<span>Volgende:</span> Byvoegings"
+msgstr "<span>Volgende:</span> %s"
 
 #. <br> tag below used for formatting only.
 #. Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)

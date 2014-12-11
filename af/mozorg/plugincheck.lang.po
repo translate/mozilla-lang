@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-09 17:33+0000\n"
-"PO-Revision-Date: 2014-12-11 09:59+0000\n"
+"PO-Revision-Date: 2014-12-11 10:55+0000\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: none\n"
 "Language: af\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1418291943.000000\n"
+"X-POOTLE-MTIME: 1418295319.000000\n"
 
 #. # java_notice ##
 #. # plugin_disable_warning ##
@@ -79,6 +79,8 @@ msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
 msgstr ""
+"Ons is bewus van 'n probleem om huidige weergawes van die Java-inprop te "
+"bepaal wat dit verkeerdelik as kwesbaar aandui."
 
 #. # TAG: java_notice
 #: mozorg/plugincheck.lang:67
@@ -86,6 +88,8 @@ msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
 msgstr ""
+"Ons werk hieraan. <a href=\"%(download)s\">Besoek gerus die Java-webwerf</a> "
+"intussen om die laaste weergawe af te laai."
 
 #: mozorg/plugincheck.lang:71
 msgid "Plugin Status"
@@ -242,11 +246,12 @@ msgstr "In Firefox:"
 msgid "Open the Tools menu."
 msgstr "Gaan na die Nutsgoed-kieslys."
 
+# Die ikoontjie wys by die openingsetiket, dus hanteer ons dit as 'n samestelling met 'n simbool.
 #. # TAG: plugin_updated_content
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:198
 msgid "Open the <span class=\"menu\">menu</span>."
-msgstr "Open die <span class=\"menu\">kieslys</span>."
+msgstr "Open die <span class=\"menu\">-kieslys</span>."
 
 #: mozorg/plugincheck.lang:202
 msgid "Choose Add-ons."
