@@ -1,17 +1,19 @@
 #. extracted from ./firefox/channel.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-25 22:05+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-12-14 19:08+0000\n"
+"Last-Translator: Alan <alan.monfort@free.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1418584135.000000\n"
 
 #. # telemetry_notice ##
 #. # channel_dev_edition ##
@@ -20,13 +22,12 @@ msgstr ""
 #. # TAG: channel_dev_edition
 #. This is the string for the <title> tag on the page.
 #: firefox/channel.lang:10
-#, fuzzy
 msgid ""
 "Download Firefox Developer Edition or Beta &amp; Help Determine the Next "
 "Firefox"
 msgstr ""
-"Pellgargit Firefox Aurora pe vBeta ha roit skoazell didermenañ petra a vo e-"
-"barzh handelv gentañ Firefox."
+"Pellgargit Embannadenn an diorroerien eus Firefox pe vBeta ha roit skoazell "
+"didermenañ petra a vo e-barzh handelv da zont Firefox."
 
 #. This is the string for the <title> tag on the page.
 #: firefox/channel.lang:15
@@ -37,13 +38,12 @@ msgstr ""
 
 #. # TAG: channel_dev_edition
 #: firefox/channel.lang:20
-#, fuzzy
 msgid ""
 "Download and test Firefox future releases. Experience the newest innovations "
 "with the Developer Edition or Beta builds."
 msgstr ""
 "Pellgargit hag amprouit handelvoù da zont Firefox. Arnodit an nevezadennoù "
-"diwezhañ gant an handelvoù Aurora pe Beta."
+"diwezhañ gant embannadenn an diorroerien eus Firefox pe savadurioù beta."
 
 #. This description applies to Firefox Beta
 #: firefox/channel.lang:25
@@ -52,7 +52,6 @@ msgstr "Ar c'heweriusterioù diwezhañ e-barzh un endro stabiloc'h"
 
 #. # TAG: telemetry_notice
 #: firefox/channel.lang:30
-#, fuzzy
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -84,7 +83,7 @@ msgstr ""
 #. # TAG: channel_dev_edition
 #: firefox/channel.lang:48
 msgid "Built for those who build the Web"
-msgstr ""
+msgstr "Savet evit ar re a sav ar Web"
 
 #. This description applies to Firefox Aurora
 #: firefox/channel.lang:53
