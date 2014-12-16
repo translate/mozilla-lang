@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-29 09:15+0000\n"
-"PO-Revision-Date: 2014-12-16 14:49+0000\n"
+"PO-Revision-Date: 2014-12-16 16:55+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uz\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1418741372.000000\n"
+"X-POOTLE-MTIME: 1418748911.000000\n"
 
 #. # NOTE: we don't have a demo server yet
 #. This is the title for a door-hanger menu that shows in the browser chrome
@@ -116,9 +116,8 @@ msgstr "Yopish"
 #. STEP 1 of the tour (Forget button)
 #. %s is a searchplugin name
 #: firefox/privacy_tour/privacy_tour.lang:99
-#, fuzzy
 msgid "<span>Next:</span> %s"
-msgstr "<span>Keyingi:</span> Qo‘shimcha dasturlar"
+msgstr "<span>Keyingi:</span> %s"
 
 #. <br> tag below used for formatting only.
 #. Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
@@ -126,6 +125,8 @@ msgstr "<span>Keyingi:</span> Qo‘shimcha dasturlar"
 #: firefox/privacy_tour/privacy_tour.lang:106
 msgid "Use Forget to cover your tracks or escape from sites you don’t trust"
 msgstr ""
+"O‘zingiz ishonmagan saytlardan qochish yoki izlaringizni yashirish uchun "
+"\"Unutish\"dan foydalaning"
 
 #: firefox/privacy_tour/privacy_tour.lang:110
 msgid "Remove browsing history from your computer"
@@ -141,12 +142,14 @@ msgstr "Tez va oson kirish uchun uni tepaga qo‘shing"
 
 #: firefox/privacy_tour/privacy_tour.lang:122
 msgid "The new Forget button"
-msgstr ""
+msgstr "Yangi \"Unutish\" tugmasini bosing"
 
 #: firefox/privacy_tour/privacy_tour.lang:126
 msgid ""
 "Want to cover your tracks? Activate the Forget button and leave no trace."
 msgstr ""
+"Izingizni yashirishni xohlaysizmi? \"Unutish\" tumasini faollashtiring va iz "
+"qoldirmang."
 
 #: firefox/privacy_tour/privacy_tour.lang:130
 msgid "Add it now"
