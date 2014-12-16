@@ -4,14 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-15 16:05+0000\n"
-"PO-Revision-Date: 2014-12-15 16:05+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2014-12-16 16:25+0000\n"
+"Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1418747115.000000\n"
 
 #. # NOTE: page is at https://www-dev.allizom.org/firefox/dnt/
 #: firefox/dnt.lang:4
@@ -19,23 +21,24 @@ msgid ""
 "Mozilla Firefox offers a Do Not Track feature that lets you express a "
 "preference not to be tracked by websites."
 msgstr ""
+"Mae Mozilla Firefox yn cynnig nodwedd Dim Tracio sy'n caniatáu i chi fynegi "
+"i beidio cael eich tracio gan wefannau."
 
 #: firefox/dnt.lang:8
-#, fuzzy
 msgid "Do Not Track FAQ"
-msgstr "Peidio Tracio"
+msgstr "Cwestiynau Dim Tracio"
 
 #: firefox/dnt.lang:12
 msgid "Your Status:"
-msgstr ""
+msgstr "Eich Statws:"
 
 #: firefox/dnt.lang:16
 msgid "Do Not Track is ON"
-msgstr ""
+msgstr "Mae Dim Tracio YMLAEN"
 
 #: firefox/dnt.lang:20
 msgid "Do Not Track is OFF"
-msgstr ""
+msgstr "Mae Dim Tracio wedi ei DDIFFODD"
 
 #: firefox/dnt.lang:24
 msgid ""
@@ -47,6 +50,13 @@ msgid ""
 "into the ways your personal information is collected, used, stored and "
 "shared online."
 msgstr ""
+"Mae Mozilla’n gorff byd eang, dim er elw sy'n ymroddedig i wneud y We'n le "
+"gwell. Rydym yn credu mewn egwyddor o flaen elw, a bod y We'n adnodd "
+"cyhoeddus i bawb, yn adnodd sydd angen gofal ac nid dim ond ei werthu. Rydym "
+"yn ateb i neb ond i chi ac rydym yn credu ei fod yn hanfodol eich bod gallu "
+"rheoli eich profiad ar-lein. Rydym yn anelu at roi mwy o fewnbwn a rheolaeth "
+"ar y ffordd mae eich manylion personol yn cael eu casglu, eu defnyddio, eu "
+"cadw a'u rhannu ar-lein."
 
 #: firefox/dnt.lang:28
 msgid ""
@@ -56,14 +66,19 @@ msgid ""
 "that you want to opt-out of tracking for purposes like behavioral "
 "advertising."
 msgstr ""
+"Mae Mozilla Firefox yn cynnig y nodwedd Dim Tracio sy'n caniatáu i chi "
+"ddewis p'un ai i gael eich tracio neu beidio gan wefannau. Pan mae'r nodwedd "
+"ymlaen, bydd Firefox yn dweud wrth rwydweithiau hysbysebu, gwefannau a "
+"rhaglenni nad ydych am gael eich cynnwys ar gyfer dibenion fel hysbysebu "
+"ymddygiadol."
 
 #: firefox/dnt.lang:32
 msgid "Frequently Asked <span>Questions</span>"
-msgstr ""
+msgstr "<span>Cwestiynau</span>Cyffredin"
 
 #: firefox/dnt.lang:36
 msgid "What is Do Not Track?"
-msgstr ""
+msgstr "Beth yw Dim Tracio?"
 
 #: firefox/dnt.lang:40
 msgid ""
@@ -74,6 +89,12 @@ msgid ""
 "this by transmitting a Do Not Track HTTP header every time your data is "
 "requested from the Web."
 msgstr ""
+"Mae Dim Tracio'n gam tuag at eich rhoi i chi reolaeth o'r ffordd mae eich "
+"manylion yn cael eu casglu a'i ddefnyddio ar-lein. Mae Dim Tracio'n nodwedd "
+"o fewn Firefox sy'n caniatáu i chi adael i wefannau wybod nad ydych am fod "
+"yn rhan o dracio trydydd parti ar gyfer pethau fel hysbysebu ymddygiadol. "
+"Mae'n gwneud hyn drwy ddangos pennyn HTTP Dim Tracio bob tro mae cais am "
+"eich manylion ar y We."
 
 #: firefox/dnt.lang:44
 msgid "Is Do Not Track available on Firefox for Android?"
