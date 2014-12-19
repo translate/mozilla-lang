@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-15 16:05+0000\n"
-"PO-Revision-Date: 2014-12-19 09:00+0000\n"
+"PO-Revision-Date: 2014-12-19 09:30+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1418979623.000000\n"
+"X-POOTLE-MTIME: 1418981450.000000\n"
 
 #. # NOTE: page is at https://www-dev.allizom.org/firefox/dnt/
 #: firefox/dnt.lang:4
@@ -246,38 +246,50 @@ msgid ""
 "<a href=\"%s\">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from "
 "Mozilla’s Technology and Privacy Officer"
 msgstr ""
+"<a href=\"%s\">Blog Mozilla Alex Fowler&#8212; y newyddion diweddaraf gan "
+"Swyddog Technoleg a Phreifatrwydd Mozilla."
 
 #: firefox/dnt.lang:120
 msgid ""
 "<a href=\"%s\">donottrack.us</a> project &#8212; Stanford researchers "
 "working on the ideas behind Do Not Track"
 msgstr ""
+"Project&#8212; <a href=\"%s\">donottrack.us</a> yr ymchwilwyr o Stanford "
+"sy'n gweithio ar y syniadau tu ól i Dim Tracio"
 
 #: firefox/dnt.lang:124
+#, fuzzy
 msgid ""
 "The Tracking Preference Expression (DNT) <a href=\"%s\">W3C Editor’s Draft</"
 "a>"
 msgstr ""
+"The Tracking Preference Expression (DNT) <a href=\"%s\">Drafft Golygyddol "
+"W3C</a>"
 
 #: firefox/dnt.lang:128
 msgid "Tracking Compliance and Scope <a href=\"%s\">W3C Editor’s Draft</a>"
 msgstr ""
+"Tracking Compliance and Scope <a href=\"%s\">Drafft Golygyddol W3C</a></a>"
 
 #: firefox/dnt.lang:132
 msgid "The W3C <a href=\"%s\">Tracking Protection Working Group</a>"
-msgstr ""
+msgstr "<a href=\"%s\">Tracking Protection Working Group</a> y W3C"
 
 #: firefox/dnt.lang:136
 msgid ""
 "<a href=\"%s\">Ghostery</a> &#8212; a tool that lets you learn which sites "
 "are tracking you online"
 msgstr ""
+"<a href=\"%s\">Ghostery</a> &#8212; teclyn sy'n dangos pa wefannau sy'n eich "
+"tracio ar-lein"
 
 #: firefox/dnt.lang:140
 msgid ""
 "See <a href=\"%s\">where your data goes</a> before you click &#8212; an "
 "image from the Future of Privacy Forum"
 msgstr ""
+"Gweld <a href=\"%s\">lle mae'ch manylion yn mynd</a> cyn clicio &#8212; "
+"delwedd o'r Future of Privacy Forum"
 
 #: firefox/dnt.lang:144
 msgid ""
@@ -285,26 +297,29 @@ msgid ""
 "IETF</a> &#8212; IETF is a standards body that helps define how the Web "
 "works, regardless of which Internet browser you use"
 msgstr ""
+"Cyflwyniad Mozilla a Stanford ar Do Not Track (Dim Tracio) <a href=\"%(url)s"
+"\">i'r IETF</a> &#8212; Mae IETF yn gorff safoni sy'n cynorthwyo i ddiffinio "
+"sut mae'r We'n gweithio, pa bynnag borwr rydych yn ei ddefnyddio"
 
 #: firefox/dnt.lang:148
 msgid "Enable Do Not Track in Firefox"
-msgstr ""
+msgstr "Cychwyn Dim Tracio yn Firefox"
 
 #: firefox/dnt.lang:152
 msgid "Options window - Advanced panel - Do Not Track"
-msgstr ""
+msgstr "Ffenestr Dewisiadau - Panel uwch - Dim Tracio"
 
 #: firefox/dnt.lang:156
 msgid "Enabling Do Not Track"
-msgstr ""
+msgstr "Cychwyn Dim Tracio"
 
 #: firefox/dnt.lang:160
 msgid "Click for Instructions"
-msgstr ""
+msgstr "Cliciwch am Gyfarwyddiadau"
 
 #: firefox/dnt.lang:164
 msgid "Enable Do Not Track in Internet Explorer 9"
-msgstr ""
+msgstr "Cychwyn Dim Tracio ar Internet Explorer 9"
 
 #: firefox/dnt.lang:168
 msgid ""
@@ -313,3 +328,7 @@ msgid ""
 "<a href=\"%(tpl)s\">Mozilla’s Simple Tracking Protection List</a>. If you "
 "view this page in IE 9, there will be instructions right here."
 msgstr ""
+"I gychwyn Dim Tracio yn IE 9 mae angen i chi gychwyn ei nodwedd <a href="
+"\"%(url)s\">Diogelu Rhag Tracio</a>. Y ffordd hawsaf o wneud hynny yw gosod "
+"<a href=\"%(tpl)s\">Rhestr Syml Diogelu Rhag Tracio Mozilla</a>. Os ydych yn "
+"darllen y dudalen hon yn IE 9 bydd cyfarwyddiadau ar gael ar eich cyfer yma."
