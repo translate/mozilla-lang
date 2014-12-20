@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-04 15:27+0000\n"
-"PO-Revision-Date: 2014-12-20 09:54+0000\n"
+"PO-Revision-Date: 2014-12-20 16:53+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uz\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1419069268.000000\n"
+"X-POOTLE-MTIME: 1419094407.000000\n"
 
 #. # NOTE: demo available at https://www-dev.allizom.org/firefox/tiles
 #: firefox/tiles.lang:3
@@ -122,24 +122,33 @@ msgid ""
 "As with all Mozilla products, Tiles provide users with extensive control "
 "over their personal data."
 msgstr ""
+"Barcha Mozilla mahsulotlari kabi kataklar ham foydalanuvchilarga o‘zlarining "
+"shaxsiy ma’lumotlari ustida keng boshqarish imkonini beradi."
 
 #: firefox/tiles.lang:67
 msgid ""
 "Data collection is limited to the aggregate number of impressions, clicks "
 "and Tile placement."
 msgstr ""
+"Ma’lumot to‘plash izlar, bosishlar va katak joylashuvining jami miqdoriga "
+"bog‘liq."
 
 #: firefox/tiles.lang:71
 msgid ""
 "Nothing is ever personally identifiable. In other words, we don’t know who "
 "clicks on what."
 msgstr ""
+"Hech narsani shaxsan kim qilganini aniqlab bo‘lmaydi. Boshqacha qilib "
+"aytganda, biz kim nimaga bosganini bilmaymiz."
 
 #: firefox/tiles.lang:75
 msgid ""
 "We just know the total number of views and clicks an individual Tile "
 "receives. This helps us deliver the most interesting and relevant content."
 msgstr ""
+"Biz shunchaki ko‘rishlar va individual katak qabullariga bosishlarning jami "
+"miqdorini bilamiz. Bu bizga eng qiziqarli va kerakli saytni yetkazib "
+"berishimizga yordam beradi."
 
 #: firefox/tiles.lang:79
 msgid ""
@@ -147,6 +156,10 @@ msgid ""
 "icon on the top right corner of the new tab page, and selecting Classic to "
 "show only unenhanced History Tiles or Blank mode."
 msgstr ""
+"Yangi ichki oyna sahifasining yuqori o‘ng burchagidagi shesterna "
+"nishonchasiga bosish va faqat yaxshilanmagan tarix katakchalari yoki bo‘sh "
+"usulda ko‘rish uchun \"Klassik\"ni tanlash orqali bosish va iz qoldirishni "
+"kuzatishni o‘chirib qo‘yishingiz mumkin. "
 
 #: firefox/tiles.lang:83
 msgid "Frequently Asked Questions"
@@ -154,52 +167,58 @@ msgstr "Tez-tez so‘raladigan savollar"
 
 #: firefox/tiles.lang:87
 msgid "Are you tracking users now?"
-msgstr ""
+msgstr "Siz hozir foydalanuvchilarni kuzatyapsizmi?"
 
 #: firefox/tiles.lang:91
 msgid ""
 "We only collect data from the New Tab page in aggregate form, meaning no "
 "data is personally identifiable."
 msgstr ""
+"Biz faqat yangi ichki oynadan shaxsiy aniqlab bo‘lmaydigan ma’lumotlarni "
+"bildirmaydigan jami shakldagi ma’lumotlarni yig‘amiz."
 
 #: firefox/tiles.lang:95
 msgid "What data is being collected?"
-msgstr ""
+msgstr "Qanday ma’lumotlar yig‘iladi?"
 
 #: firefox/tiles.lang:99
 msgid ""
 "Aggregate data from the New Tab page includes impressions, clicks and tile "
 "placement."
 msgstr ""
+"Yangi icki oyna sahifasidan jami ma’lumotlarga taassurotlar, bosish va katak "
+"joylashuvi ham qo‘shiladi."
 
 #: firefox/tiles.lang:103
 msgid "What data is collected when I opt out?"
-msgstr ""
+msgstr "Men rad qilganimda, qanday ma’lumotlar to‘planadi?"
 
 #: firefox/tiles.lang:107
 msgid ""
 "No data is collected when a user chooses to opt out of the enhanced Tiles "
 "experience."
 msgstr ""
+"Foydalanuvchi yaxshilangan katak tajribasini rad qilishni tanlaganda hech "
+"qanday ma’lumotlar yig‘ilmaydi."
 
 #: firefox/tiles.lang:111
 msgid "Where can I learn more?"
-msgstr ""
+msgstr "Qayerdan ko‘proq o‘rganishim mumkin?"
 
 #. Link to https://blog.mozilla.org/futurereleases/2014/09/04/new-tab-page-experiments-in-firefox-beta/
 #: firefox/tiles.lang:117
 msgid "New Tab Experiments in Firefox Beta"
-msgstr ""
+msgstr "Yangi ichki oyna tajribalari Firefox Beta’da"
 
 #. Link to https://blog.mozilla.org/advancingcontent/2014/08/21/a-call-for-trust-transparency-and-user-control-in-advertising/
 #: firefox/tiles.lang:122
 msgid "A Call for Trust, Transparency and User Control in Advertising"
-msgstr ""
+msgstr "Ishonchli qo‘ng‘iroq, shaffof va reklamada foydalanuvchi boshqaruvi"
 
 #. Link to https://blog.mozilla.org/netpolicy/2014/08/21/trust-should-be-the-currency/
 #: firefox/tiles.lang:127
 msgid "Trust should be the currency"
-msgstr ""
+msgstr "Ishonch valyuta bo‘lishi kerak"
 
 #. Used as title of the screenshot
 #: firefox/tiles.lang:132
@@ -214,6 +233,8 @@ msgstr "Ekran rasmi"
 #: firefox/tiles.lang:141
 msgid "For more help please see the <a href=\"%(url)s\">Tiles Support Page</a>"
 msgstr ""
+"Qo‘shimcha yordam olish uchun <a href=\"%(url)s\">Kataklar yordam sahifasi</"
+"a>ga qarang"
 
 #, fuzzy
 #~ msgid "Empowering the Mozilla Community"
