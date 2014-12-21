@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-15 16:05+0000\n"
-"PO-Revision-Date: 2014-12-21 16:01+0000\n"
+"PO-Revision-Date: 2014-12-21 16:36+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
 "Language: dsb\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1419177671.000000\n"
+"X-POOTLE-MTIME: 1419179794.000000\n"
 
 #. # NOTE: page is at https://www-dev.allizom.org/firefox/dnt/
 #: firefox/dnt.lang:4
@@ -120,7 +120,7 @@ msgstr ""
 
 #: firefox/dnt.lang:68
 msgid "Will Do Not Track affect the rest of my Web experience?"
-msgstr ""
+msgstr "Buźo funkcija Njeslědowaś zbytk mójogo webdožywjenja wobwliwowaś?"
 
 #: firefox/dnt.lang:72
 msgid ""
@@ -133,7 +133,7 @@ msgstr ""
 
 #: firefox/dnt.lang:76
 msgid "How do I enable Do Not Track in Firefox?"
-msgstr ""
+msgstr "Kak dajo se funkcija Njeslědowaś w Firefox aktiwěrowaś?"
 
 #: firefox/dnt.lang:80
 msgid ""
@@ -141,12 +141,17 @@ msgid ""
 "request on the Privacy pane. <span id=\"%(id)s\">On Windows, go to Tools "
 "&gt; Options&hellip; &gt; Privacy.</span>"
 msgstr ""
+"Toś ta funkcija njejo zmóžnjona pó standarźe. Móžośo funkciju Njeslědowaś na "
+"rejtarku Priwatnosć namakaś. <span id=\"%(id)s\">Na Windowsu źośo k Rědy "
+"&gt; Nastajenja&hellip; &gt; Priwatnosć.</span>"
 
 #: firefox/dnt.lang:84
 msgid ""
 "On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to "
 "Edit &gt; Preferences &gt; Privacy."
 msgstr ""
+"Na Mac OS X, źiśo k Firefox &gt; Nastajenja… &gt; Priwatnosć. Na Linux, źiśo "
+"k Wobźěłaś &gt; Nastajenja &gt; Priwatnosć."
 
 #: firefox/dnt.lang:88
 msgid ""
@@ -154,10 +159,13 @@ msgid ""
 "tracked&quot;. For more information, see the help file on <a href=\"%(url)s"
 "\">how to stop websites from tracking you</a>."
 msgstr ""
+"Klikniśo do tłocaška pódla &quot;Sedłam  k wěsći daś, až njamaju mě "
+"slědowaś&quot;. Za dalšne informacije glejśo dataju pomocy pód <a href="
+"\"%(url)s\">kak jo móžno websedłam zajźowaś, was slědowaś</a>."
 
 #: firefox/dnt.lang:92
 msgid "Will companies honor my Do Not Track preference?"
-msgstr ""
+msgstr "Budu se pśedewześa za mójim nastajenim źaržaś?"
 
 #: firefox/dnt.lang:96
 msgid ""
@@ -172,19 +180,24 @@ msgstr "Źo mógu wěcej wó tom zgóniś?"
 
 #: firefox/dnt.lang:104
 msgid "Other interesting work about Do Not Track and online privacy:"
-msgstr ""
+msgstr "Druge zajmne źěło wó funkciji Njeslědowaś a priwatnosći online:"
 
 #: firefox/dnt.lang:108
 msgid ""
 "<a href=\"%s\">Private browsing</a> in Firefox &#8212; limits saving data "
 "about which sites and pages you have visited online"
 msgstr ""
+"<a href=\"%s\">Priwatny modus</a> w Firefox &#8212; wobgranicujo składowanje "
+"datow na to, kótare websedła a webboki sćo se online woglědał"
 
 #: firefox/dnt.lang:112
 msgid ""
 "<a href=\"%(url1)s\">Managing cookies</a> in Firefox &#8212; lets you "
 "control how <a href=\"%(url2)s\">cookies</a> are saved on your computer"
 msgstr ""
+"<a href=\"%(url1)s\">Cookieje zastojaś</a> w Firefox &#8212; wam zmóžnja "
+"kontrolěrowaś, kak a href=\"%(url2)s\">cookieje</a> składuju se na wašom "
+"licadle"
 
 #: firefox/dnt.lang:116
 msgid ""
@@ -203,26 +216,32 @@ msgid ""
 "The Tracking Preference Expression (DNT) <a href=\"%s\">W3C Editor’s Draft</"
 "a>"
 msgstr ""
+"The Tracking Preference Expression (DNT) <a href=\"%s\">W3C Editor’s Draft</"
+"a>"
 
 #: firefox/dnt.lang:128
 msgid "Tracking Compliance and Scope <a href=\"%s\">W3C Editor’s Draft</a>"
-msgstr ""
+msgstr "Tracking Compliance and Scope <a href=\"%s\">W3C Editor’s Draft</a>"
 
 #: firefox/dnt.lang:132
 msgid "The W3C <a href=\"%s\">Tracking Protection Working Group</a>"
-msgstr ""
+msgstr "W3C<a href=\"%s\">Źěłowa kupka za šćit pśeśiwo slědowanjeju</a>"
 
 #: firefox/dnt.lang:136
 msgid ""
 "<a href=\"%s\">Ghostery</a> &#8212; a tool that lets you learn which sites "
 "are tracking you online"
 msgstr ""
+"<a href=\"%s\">Ghostery</a> &#8212; rěd, kótaryž wam pokazujo, kótare "
+"websedła slěduju was online"
 
 #: firefox/dnt.lang:140
 msgid ""
 "See <a href=\"%s\">where your data goes</a> before you click &#8212; an "
 "image from the Future of Privacy Forum"
 msgstr ""
+"Woglědajśo se, <a href=\"%s\">źož waše daty se dostanu</a>, nježli až "
+"kliknjośo &#8212; wobraz ze foruma pśichoda priwatnosći"
 
 #: firefox/dnt.lang:144
 msgid ""
@@ -233,23 +252,23 @@ msgstr ""
 
 #: firefox/dnt.lang:148
 msgid "Enable Do Not Track in Firefox"
-msgstr ""
+msgstr "Funkciju Njeslědowaś w Firefox zmóžniś"
 
 #: firefox/dnt.lang:152
 msgid "Options window - Advanced panel - Do Not Track"
-msgstr ""
+msgstr "Wokno Nastajenja - Rozšyrjony - Njeslědowaś"
 
 #: firefox/dnt.lang:156
 msgid "Enabling Do Not Track"
-msgstr ""
+msgstr "Funkciju Njeslědowaś zmóžniś"
 
 #: firefox/dnt.lang:160
 msgid "Click for Instructions"
-msgstr ""
+msgstr "Za instrukcije kliknuś"
 
 #: firefox/dnt.lang:164
 msgid "Enable Do Not Track in Internet Explorer 9"
-msgstr ""
+msgstr "Funkciju Njeslědowaś w Internet Explorer 9 zmóžniś"
 
 #: firefox/dnt.lang:168
 msgid ""
@@ -258,3 +277,8 @@ msgid ""
 "<a href=\"%(tpl)s\">Mozilla’s Simple Tracking Protection List</a>. If you "
 "view this page in IE 9, there will be instructions right here."
 msgstr ""
+"Aby funkciju Njeslědowaś w IE 9 zmóžnił, musyśo funkciju <a href=\"%(url)s"
+"\">Slědowański šćit</a> w IE 9 zmóžniś. Nejlažčejšy nałog, aby to cynił, jo "
+"instalěrowanje <a href=\"%(tpl)s\">lisćiny za jadnory slědowański šćit "
+"Mozilla</a>. Jolic wobglědujośo se toś ten bok w IE 9, namakajośo rowno how "
+"instrukcije."
