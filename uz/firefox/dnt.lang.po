@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-15 16:05+0000\n"
-"PO-Revision-Date: 2014-12-21 20:55+0000\n"
+"PO-Revision-Date: 2014-12-22 08:52+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uz\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1419195345.000000\n"
+"X-POOTLE-MTIME: 1419238358.000000\n"
 
 #. # NOTE: page is at https://www-dev.allizom.org/firefox/dnt/
 #: firefox/dnt.lang:4
@@ -167,10 +167,15 @@ msgid ""
 "weather automatically displayed. Personalization on websites can save you "
 "time and repetitive typing, but it requires data."
 msgstr ""
+"\"Kuzatilmasin\" ba’zi sizga yoqqan moslangan xizmatlarga aralashishi "
+"mumkin. Masalan, \"Kuzatilmasin\" so‘rovi tufayli ob-havo ma’lumotini "
+"ko‘rishni xohlaganingizda avtomatik ko‘satilmaydi va har safar indeks "
+"kodingizni yozishingiz kerak bo‘ladi. Vebsahifalarda shaxsiylashtirish "
+"vaqtingizni tejaydi va qayta kiritmaysiz, ammo ma’lumtlarni talab qiladi."
 
 #: firefox/dnt.lang:76
 msgid "How do I enable Do Not Track in Firefox?"
-msgstr ""
+msgstr "Firefox’da \"Kuzatilmasin\" xususiyati qanday yoqiladi?"
 
 #: firefox/dnt.lang:80
 msgid ""
@@ -178,12 +183,18 @@ msgid ""
 "request on the Privacy pane. <span id=\"%(id)s\">On Windows, go to Tools "
 "&gt; Options&hellip; &gt; Privacy.</span>"
 msgstr ""
+"Ushbu xususiyat standart holat bo‘yicha yoqilmaydi. Siz \"Kuzatilmasin\" "
+"so‘rovini Maxfiylik yon oynasidan topishingiz mumkin. <span id=\"%(id)s"
+"\">Windows’da Asboblar &gt; Moslamalar&hellip; &gt; Maxfiylik’ka o‘ting.</"
+"span>"
 
 #: firefox/dnt.lang:84
 msgid ""
 "On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to "
 "Edit &gt; Preferences &gt; Privacy."
 msgstr ""
+"Mac OS X’da Firefox &gt; Parametrlar… &gt; Maxfiylik’ka o‘ting. Linux’da, "
+"Tahrirlash &gt; Parametrlar &gt; Maxfiylik’ka o‘ting."
 
 #: firefox/dnt.lang:88
 msgid ""
@@ -191,10 +202,15 @@ msgid ""
 "tracked&quot;. For more information, see the help file on <a href=\"%(url)s"
 "\">how to stop websites from tracking you</a>."
 msgstr ""
+"&quot;Saytlarga meni kuzatishlarini xohlamasligim aytilsin&quot; yonidagi "
+"katakchaga belgi qo‘ying. Ko‘proq ma’lumot olish uchun <a href=\"%(url)s"
+"\">qanday qilib saytlarni sizni kuzatishlarini to‘xatish mumkin</a>dagi "
+"yordam faylini ko‘ring."
 
 #: firefox/dnt.lang:92
 msgid "Will companies honor my Do Not Track preference?"
 msgstr ""
+"Kompaniyalar mening \"Kuzatilmasin\"dagi xususiyatlarimni hurmat qilishadimi?"
 
 #: firefox/dnt.lang:96
 msgid ""
@@ -202,64 +218,84 @@ msgid ""
 "changes initially. We are actively working with companies that have started "
 "to implement Do Not Track, with others who have committed to doing so soon."
 msgstr ""
+"Kompaniyalar \"Kuzatilmasin\" xususiyatini qo‘llab-quvvatlashni boshlashdi, "
+"ammo siz boshlang‘ich o‘zgarishlarga e’tibor qaratmasligingiz mumkin. Biz "
+"\"Kuzatilmasin\" xususiyatini amalga oshirishni boshlayotgan kompaniyalar "
+"bilan, buni tezda amalga oshirishni maqsad qilgan boshqalar bilan faol "
+"ishlaymiz."
 
 #: firefox/dnt.lang:100
 msgid "Where can I learn more?"
-msgstr ""
+msgstr "Qayerdan ko‘proq o‘rganishim mumkin?"
 
 #: firefox/dnt.lang:104
 msgid "Other interesting work about Do Not Track and online privacy:"
-msgstr ""
+msgstr "\"Kuzatilmasin\" va onlayn maxfiylik haqidagi boshqa qiziqarli ish:"
 
 #: firefox/dnt.lang:108
 msgid ""
 "<a href=\"%s\">Private browsing</a> in Firefox &#8212; limits saving data "
 "about which sites and pages you have visited online"
 msgstr ""
+"Firefox’da <a href=\"%s\">Maxfiy ko‘rish</a> &#8212; siz onlayn tashrif "
+"buyurgan saytlar va sahifalar haqida ma’lumotlarni saqlashni cheklaydi"
 
 #: firefox/dnt.lang:112
 msgid ""
 "<a href=\"%(url1)s\">Managing cookies</a> in Firefox &#8212; lets you "
 "control how <a href=\"%(url2)s\">cookies</a> are saved on your computer"
 msgstr ""
+"Firefox’da <a href=\"%(url1)s\">Kukilarni boshqarish</a> &#8212; <a href="
+"\"%(url2)s\">kukilar</a>ni kompyuteringizda  qanday saqlanishini boshqarish "
+"imkonini beradi"
 
 #: firefox/dnt.lang:116
 msgid ""
 "<a href=\"%s\">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from "
 "Mozilla’s Technology and Privacy Officer"
 msgstr ""
+"<a href=\"%s\">Alex Fowlerning Mozilla Blogi</a> &#8212; Mozilla’ning "
+"texnologiyasi va maxfiylik ofitseridan so‘nggi yangiliklar"
 
 #: firefox/dnt.lang:120
 msgid ""
 "<a href=\"%s\">donottrack.us</a> project &#8212; Stanford researchers "
 "working on the ideas behind Do Not Track"
 msgstr ""
+"<a href=\"%s\">donottrack.us</a> loyihasi &#8212; Stanford \"Kuzatilmasin\" "
+"ostidagi go‘yalar ustida ishlaydi"
 
 #: firefox/dnt.lang:124
 msgid ""
 "The Tracking Preference Expression (DNT) <a href=\"%s\">W3C Editor’s Draft</"
 "a>"
 msgstr ""
+"Kuzatish paramerlari kengaytmasi (DNT) <a href=\"%s\">W3C muharririning "
+"qoralamasi</a>"
 
 #: firefox/dnt.lang:128
 msgid "Tracking Compliance and Scope <a href=\"%s\">W3C Editor’s Draft</a>"
-msgstr ""
+msgstr "<a href=\"%s\">W3C muharriri qoralamasi</a> hududi va kuzatish mosligi"
 
 #: firefox/dnt.lang:132
 msgid "The W3C <a href=\"%s\">Tracking Protection Working Group</a>"
-msgstr ""
+msgstr "W3C <a href=\"%Kuzatishdan himoyalash ishi guruhi</a>"
 
 #: firefox/dnt.lang:136
 msgid ""
 "<a href=\"%s\">Ghostery</a> &#8212; a tool that lets you learn which sites "
 "are tracking you online"
 msgstr ""
+"<a href=\"%s\">Ghostery</a> &#8212; asbobi sizni qaysi saytlar onlayn "
+"kuzatayotganini o‘rganish imkonini beradi"
 
 #: firefox/dnt.lang:140
 msgid ""
 "See <a href=\"%s\">where your data goes</a> before you click &#8212; an "
 "image from the Future of Privacy Forum"
 msgstr ""
+"<a href=\"%s\">Ma’lumotlaringiz qayerga ketganini</a> Maxfiylik forumi "
+"kelajagidagi &#8212;rasmga bosishdan oldin ko‘ring"
 
 #: firefox/dnt.lang:144
 msgid ""
@@ -267,18 +303,22 @@ msgid ""
 "IETF</a> &#8212; IETF is a standards body that helps define how the Web "
 "works, regardless of which Internet browser you use"
 msgstr ""
+"Mozilla va Stanford’ning \"Kuzatilmasin\" <a href=\"%(url)s\">  IETF’ga "
+"jo‘natmalari</a> &#8212; IETF qaysi bruzerdan foydalaishingizdan qat’i "
+"naazar internet qanday ishlashini aniqlashga yordam beradigan asosiy "
+"standartlardir"
 
 #: firefox/dnt.lang:148
 msgid "Enable Do Not Track in Firefox"
-msgstr ""
+msgstr "Firefox’da \"Kuzatilmasin\" xususiyatini yoqish"
 
 #: firefox/dnt.lang:152
 msgid "Options window - Advanced panel - Do Not Track"
-msgstr ""
+msgstr "Moslamalar oynasi - Qo‘shimcha panel - Kuzatilmasin"
 
 #: firefox/dnt.lang:156
 msgid "Enabling Do Not Track"
-msgstr ""
+msgstr "\"Kuzatilmasin\" yoqilmoqda"
 
 #: firefox/dnt.lang:160
 msgid "Click for Instructions"
@@ -295,3 +335,8 @@ msgid ""
 "<a href=\"%(tpl)s\">Mozilla’s Simple Tracking Protection List</a>. If you "
 "view this page in IE 9, there will be instructions right here."
 msgstr ""
+"IE 9’da \"Kuzatilmasin\" xususiyatini yoqish uchun siz IE 9’ning <a href="
+"\"%(url)s\">Kuzatishdan himoyalanish</a> xususiyatini o‘chirishingiz kerak. "
+"Buni amalga oshirishning eng oson yo‘li <a href=\"%(tpl)s\">Mozilla’ning "
+"oddiy kuzatishdan himoyalanish ro‘yxati</a>ni o‘rnatishingiz kerak. Agar siz "
+"ushbu sahifani IE 9’da ko‘rsangiz, u yerda ko‘rsatmalar bo‘lishi kerak."
