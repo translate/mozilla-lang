@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-07-10 16:30+0100\n"
-"PO-Revision-Date: 2014-08-01 19:45+0000\n"
+"PO-Revision-Date: 2015-01-02 08:05+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uz\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1406922345.000000\n"
+"X-POOTLE-MTIME: 1420185932.000000\n"
 
 #. # NOTE: http://www-dev.allizom.org/lightbeam
 #. Navigation
@@ -60,27 +60,33 @@ msgstr ""
 
 #: lightbeam/lightbeam.lang:40
 msgid "Get it from Mozilla Add-Ons"
-msgstr ""
+msgstr "Uni Mozilla qo‘shimcha dasturlaridan yuklab oling"
 
 #: lightbeam/lightbeam.lang:44
 msgid "How Lightbeam Works"
-msgstr ""
+msgstr "Lightbeam qanday ishlaydi"
 
 #: lightbeam/lightbeam.lang:48
 msgid "Download and run the Lightbeam add-on in your Firefox browser."
 msgstr ""
+"Lightbeam qo‘shimcha dasturini Firefox brauzeringizga yuklab oling va ishga "
+"tushiring."
 
 #: lightbeam/lightbeam.lang:52
 msgid ""
 "Lightbeam will create a record of events for every site you visit and every "
 "third party site that is stored locally on your browser."
 msgstr ""
+"Lightbeam siz kirgan har bir sayt va har bir brauzeringizga joylashgan "
+"begona sayt uchun voqealar yozuvini yaratadi."
 
 #: lightbeam/lightbeam.lang:56
 msgid ""
 "Lightbeam visually graphs these events to highlight the interactions between "
 "sites you intentionally visit and the third parties."
 msgstr ""
+"Lightbeam siz kirgan saytlar va uchinchi tomon o‘rtasidagi o‘zaro faoliyatni "
+"ajratib ko‘rsatish uchun ushbu hodisalarni vizual grafik tarzda ko‘rsatadi."
 
 #: lightbeam/lightbeam.lang:60
 msgid ""
@@ -88,24 +94,31 @@ msgid ""
 "stop Lightbeam at any time by disabling it or uninstalling the add-on. Your "
 "Lightbeam data can be easily saved or deleted."
 msgstr ""
+"Lightbeam internetga kirganingiz sayin grafikaga ma’lumotlar qo‘shishni "
+"davom ettiradi. Siz Lightbeam’ni xohlagan vaqtingizda o‘chirib qo‘yish yoki "
+"qo‘shimcha dasturni o‘chirish bilan to‘xtatishingiz mumkin. Lightbeam "
+"ma’lumotlarini osongina saqlashingiz yomi o‘chirishingiz mumkin."
 
 #: lightbeam/lightbeam.lang:64
 msgid "Tracking & privacy"
-msgstr ""
+msgstr "Kuzatish va maxfiylik"
 
 #: lightbeam/lightbeam.lang:68
 msgid ""
 "Not all tracking is bad. Many services rely on user data to provide relevant "
 "content and enhance your online experience."
 msgstr ""
+"Kuzatishning barcha turi yomon emas. Ko‘pgina xizmatlar sizga eng kerakli "
+"saytni ko‘rsatish va onlayn tajribangizni oshirish uchun foydalanuvchi "
+"ma’lumotlariga tayanadi."
 
 #: lightbeam/lightbeam.lang:72
 msgid "But tracking can happen without the user’s knowledge."
-msgstr ""
+msgstr "Ammo kuzatish foydalanuvchiga bildirmasdan amalga oshirilishi mumkin."
 
 #: lightbeam/lightbeam.lang:76
 msgid "That’s not okay for some."
-msgstr ""
+msgstr "Bu esa ba’z hollarda yaxshi emas."
 
 #: lightbeam/lightbeam.lang:80
 msgid ""
@@ -116,13 +129,16 @@ msgstr ""
 
 #: lightbeam/lightbeam.lang:84
 msgid "Explore the database"
-msgstr ""
+msgstr "Ma’lumotlar bazangizni ko‘rib chiqing"
 
 #: lightbeam/lightbeam.lang:88
 msgid ""
 "In the Lightbeam database, you will be able to browse first and third-party "
 "connection data uploaded by donors who use the Lightbeam add-on."
 msgstr ""
+"Lightbeam ma’lumotlar bazasida siz birinchi va Lightbeam qo‘shimcha "
+"dasturidan foydalanuvchilar yuklagan uchinchi taraf ulanish ma’lumotlarini "
+"ko‘rishingiz mumkin."
 
 #: lightbeam/lightbeam.lang:92
 msgid ""
@@ -133,7 +149,7 @@ msgstr ""
 
 #: lightbeam/lightbeam.lang:96
 msgid "Visualize your data"
-msgstr ""
+msgstr "Ma’lumotlarni ko‘z oldingizga keltiring"
 
 #: lightbeam/lightbeam.lang:100
 msgid ""
@@ -141,10 +157,14 @@ msgid ""
 "begin to create a real time visualization of the websites you visit and all "
 "the third parties that are also active on those pages."
 msgstr ""
+"Lightbeam qo‘shimcha dasturini yuklab olganingizdan va  Firefox’ga "
+"o‘rnatganingizdan so‘ng, siz kirgan saytlarni va barcha ushbu sahifalarda "
+"faol bo‘lgan uchinchi taraf faoliyatini o‘z vaqti bilan ko‘rsatishni "
+"boshlaydi."
 
 #: lightbeam/lightbeam.lang:104
 msgid "Analyze your connections"
-msgstr ""
+msgstr "Ulanishlarni tashxis qiling"
 
 #: lightbeam/lightbeam.lang:108
 msgid ""
@@ -155,7 +175,7 @@ msgstr ""
 
 #: lightbeam/lightbeam.lang:112
 msgid "Contribute your data"
-msgstr ""
+msgstr "Ma’lumotlaringizga hissa qo‘shing"
 
 #: lightbeam/lightbeam.lang:116
 msgid ""
@@ -166,10 +186,12 @@ msgstr ""
 #: lightbeam/lightbeam.lang:120
 msgid "To help us, you can contribute your data to our Lightbeam database."
 msgstr ""
+"Bizga yordam berish uchun, siz bizning Lightbeam bazasidagi ma’lumotlarga "
+"hissa qo‘shishingiz mumkin."
 
 #: lightbeam/lightbeam.lang:124
 msgid "Supported by the Ford Foundation"
-msgstr ""
+msgstr "Ford Foundation tomonidan qo‘llab-quvvatlangan"
 
 #: lightbeam/lightbeam.lang:128
 msgid ""
