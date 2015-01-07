@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-12-22 20:06+0000\n"
+"POT-Creation-Date: 2015-01-07 12:06+0000\n"
 "PO-Revision-Date: 2014-12-23 06:19+0000\n"
 "Last-Translator: Mihovil <mozilla@miho.im>\n"
 "Language-Team: none\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1419315590.000000\n"
 
 #. # NOTE: Thunderbird start page,  url is https://www-dev.allizom.org/thunderbird/release/start/
@@ -93,26 +93,32 @@ msgstr ""
 "Ukoliko ne možete pronaći odgovor, <a href=\"%s\">postavite vaše pitanje na "
 "našem forumu za pomoć</a>."
 
-#: thunderbird/start/release.lang:53
+#. If your locale has a dedicated Thunderbird support forum, you can localize the URL
+#. used in the previous string to point there. Otherwise simply mark the string as {ok}
+#: thunderbird/start/release.lang:55
+msgid "https://support.mozilla.org/questions/new/thunderbird"
+msgstr ""
+
+#: thunderbird/start/release.lang:59
 msgid "Features"
 msgstr "Mogućnosti"
 
-#: thunderbird/start/release.lang:57
+#: thunderbird/start/release.lang:63
 msgid "Visit our blog"
 msgstr "Posjetite naš blog"
 
-#: thunderbird/start/release.lang:61
+#: thunderbird/start/release.lang:67
 msgid "Contribute"
 msgstr "Doprinesite"
 
-#: thunderbird/start/release.lang:65
+#: thunderbird/start/release.lang:71
 msgid "Tips"
 msgstr "Savjeti"
 
-#: thunderbird/start/release.lang:69
+#: thunderbird/start/release.lang:75
 msgid "Add-ons"
 msgstr "Dodaci"
 
-#: thunderbird/start/release.lang:73
+#: thunderbird/start/release.lang:79
 msgid "Get help"
 msgstr "Tražite pomoć"
