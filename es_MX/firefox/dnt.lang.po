@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-15 16:05+0000\n"
-"PO-Revision-Date: 2015-01-10 21:56+0000\n"
+"PO-Revision-Date: 2015-01-10 22:23+0000\n"
 "Last-Translator: Tanner <tanner.sperry@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_MX\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1420927017.000000\n"
+"X-POOTLE-MTIME: 1420928628.000000\n"
 
 #. # NOTE: page is at https://www-dev.allizom.org/firefox/dnt/
 #: firefox/dnt.lang:4
@@ -133,6 +133,7 @@ msgid "Does Do Not Track block ads?"
 msgstr "¿Bloquea anuncios la característica No Rastrear?"
 
 #: firefox/dnt.lang:56
+#, fuzzy
 msgid ""
 "No, you will still see ads with Do Not Track enabled. However, Do Not Track "
 "may change the type of ads you see. For example, behavioral ads are targeted "
@@ -141,24 +142,38 @@ msgid ""
 "your privacy preferences, you will see more generic ads in place of "
 "behavioral ads."
 msgstr ""
+"No, aún aparecerán los anuncios con No Rasguear habilitado. Empero, No "
+"Rasguear puede cambiar los tipos de anuncios que aparecen. Por ejemplo, los "
+"anuncios de comportamiento se concentran en los intereses según los sitios "
+"Web visitados y el término de búsqueda usado. Si pides que los sitios Web no "
+"te rastreen, y los sitios respetan tus preferencias de privacidad, verás "
+"anuncios más genéricos en lugar de anuncios de comportamiento."
 
 #: firefox/dnt.lang:60
+#, fuzzy
 msgid "How does Do Not Track work with other privacy tools?"
-msgstr ""
+msgstr "¿Cómo funciona No Rasguear con otras herramientas de privacidad?"
 
 #: firefox/dnt.lang:64
+#, fuzzy
 msgid ""
 "Do Not Track is one of many privacy solutions. Do Not Track does not replace "
 "your anti-virus software, will not encrypt data, and is not a security "
 "mechanism. There are several other <a href=\"%(url)s\">privacy and security</"
 "a> features within Firefox."
 msgstr ""
+"No Rasguear es una de varias soluciones para la privacidad. No Rasguear no "
+"reemplaza tu software anti-virus, no va a cifrar los datos, y no es un "
+"mecanismo de seguridad. Hay varias otras características de <a href=\"%(url)s"
+"\">privacidad y seguridad</a> dentro de Firefox."
 
 #: firefox/dnt.lang:68
+#, fuzzy
 msgid "Will Do Not Track affect the rest of my Web experience?"
-msgstr ""
+msgstr "¿Afectará No Rasguear al resto de mi experiencia de la Web?"
 
 #: firefox/dnt.lang:72
+#, fuzzy
 msgid ""
 "Do Not Track may interfere with some personalized services you enjoy. For "
 "example, a Do Not Track request might mean you would have to type in your "
@@ -166,6 +181,12 @@ msgid ""
 "weather automatically displayed. Personalization on websites can save you "
 "time and repetitive typing, but it requires data."
 msgstr ""
+"No Rasguear puede interferir con algunos servicios personalizados de los que "
+"disfrutas. Por ejemplo, una solicitud para No Rasguear puede causar que "
+"tengas que teclear tu código postal cada vez que deseas ver un informe "
+"meteorológico, más bien que ver el tiempo automáticamente. La "
+"personalización de sitios Web puede ahorrarte tiempo y repeticiones de "
+"teclear, pero requiere los datos."
 
 #: firefox/dnt.lang:76
 msgid "How do I enable Do Not Track in Firefox?"
