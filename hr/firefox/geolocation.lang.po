@@ -1,13 +1,13 @@
 #. extracted from ./firefox/geolocation.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-30 21:15+0000\n"
-"PO-Revision-Date: 2014-05-15 22:41+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: \n"
+"POT-Creation-Date: 2015-01-12 15:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,11 +16,11 @@ msgstr ""
 #. # NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
 #: firefox/geolocation.lang:5
 msgid "Geolocation in Firefox"
-msgstr ""
+msgstr "Geolociranje u Firefoxu"
 
 #: firefox/geolocation.lang:9
 msgid "Location-Aware Browsing"
-msgstr ""
+msgstr "Geolokacijsko pretraživanje"
 
 #: firefox/geolocation.lang:13
 msgid ""
@@ -29,15 +29,18 @@ msgid ""
 "is done in a way that totally respects your privacy. <a href=\"%(url)s\" id="
 "\"%(id)s\" style=\"%(style)s\">Give it a try!</a>"
 msgstr ""
+"Kako biste pronašli relevantnije i korisnije informacije, Firefox može "
+"javiti web stranicama gdje se nalazite. Cilj je učiniti Web još pametnijim "
+"&ndash; a sve se obavlja na način koji u potpunosti poštuje vašu privatnost. "
+"<a href=\"%(url)s\" id=\"%(id)s\" style=\"%(style)s\">Isprobajte sami!</a>"
 
 #: firefox/geolocation.lang:17
-#, fuzzy
 msgid "Frequently asked Questions"
-msgstr "Često postavljena pitanja"
+msgstr "Često postavljana pitanja"
 
 #: firefox/geolocation.lang:21
 msgid "What is Location-Aware Browsing?"
-msgstr ""
+msgstr "Kakvo je to geolokacijsko pretraživanje?"
 
 #: firefox/geolocation.lang:25
 msgid ""
@@ -48,6 +51,12 @@ msgid ""
 "“pizza” will bring you the answers you need... no further information or "
 "extra typing required."
 msgstr ""
+"Web stranice koje koriste geolokacijsko pretraživanje će vas upitati gdje se "
+"nalazite, kako bi vam isporučile relevantnije informacije ili uštedjele "
+"vrijeme dok ih tražite. Pretpostavimo da tražite pizzu u restoranu u vašem "
+"području. Web stranica će vas moći upitati da joj otkrijete svoju lokaciju "
+"kako bi vam pretraživanjem pojma “pizza” mogla dati konkretne odgovore, bez "
+"unosa dodatnih informacija."
 
 #: firefox/geolocation.lang:29
 msgid ""
@@ -55,6 +64,8 @@ msgid ""
 "where you’re starting from so all you have to do is tell it where you want "
 "to go."
 msgstr ""
+"Ili, ako izrađujete plan puta do određenog mjesta, web stranica će znati "
+"otkuda krećete, stoga jedino što trebate učiniti jest upisati vaše odredište."
 
 #: firefox/geolocation.lang:33
 msgid ""
@@ -63,16 +74,23 @@ msgid ""
 "privacy. And, like all elements of Firefox, it’s being created using open "
 "standards to ease adoption by Web developers."
 msgstr ""
+"Ova usluga je u potpunosti opcionalna &ndash; Firefox ne otkriva vašu "
+"lokaciju bez vašeg odobrenja &ndash; a sve funkcionira na način koji u "
+"potpunosti poštuje vašu privatnost. Kao i svi ostali elementi Firefoxa, "
+"usluga se temelji na otvorenim standardima, kako bi se razvojnim "
+"programerima olakšalo njezino usvajanje."
 
 #: firefox/geolocation.lang:37
 msgid "How does it work?"
-msgstr ""
+msgstr "Kako to funkcionira?"
 
 #: firefox/geolocation.lang:41
 msgid ""
 "When you visit a location-aware website, Firefox will ask you if you want to "
 "share your location."
 msgstr ""
+"Kada posjetite geolokacijsku web stranicu, Firefox će vas upitati želite li "
+"otkriti svoju lokaciju."
 
 #: firefox/geolocation.lang:45
 msgid ""
@@ -82,14 +100,19 @@ msgid ""
 "get an estimate of your location. That location estimate is then shared with "
 "the requesting website."
 msgstr ""
+"Ako odobrite otkrivanje, Firefox će prikupiti informacije o obližnjim "
+"bežičnim pristupnim točkama i IP adresu vašeg računala. Nakon toga, Firefox "
+"te informacije šalje zadanom pružatelju geolokacijskih usluga, Google "
+"Location Servicesu, kako bi se približno odredila vaša lokacija, koja se "
+"kasnije šalje web stranici koju ste posjetili."
 
 #: firefox/geolocation.lang:49
 msgid "If you say that you do not consent, Firefox will not do anything."
-msgstr ""
+msgstr "Ako ne odobrite otkrivanje lokacije, Firefox neće učiniti ništa."
 
 #: firefox/geolocation.lang:53
 msgid "How accurate are the locations?"
-msgstr ""
+msgstr "Koliko je precizno određivanje lokacije?"
 
 #: firefox/geolocation.lang:57
 msgid ""
@@ -100,11 +123,19 @@ msgid ""
 "the accuracy of the locations provided. Please do not use this information "
 "for emergencies. Always use common sense."
 msgstr ""
+"Preciznost uvelike varira od lokacije do lokacije. Na nekim će mjestima naši "
+"pružatelji usluga biti u mogućnosti odrediti vašu točnu lokaciju unutar "
+"nekoliko metara. Međutim, na nekim drugim mjestima, vašu će lokaciju teže "
+"odrediti. Sve lokacije koje odrede naši pružatelji usluga su tek procijene, "
+"stoga ne jamčimo preciznost određenih lokacija. Molimo vas da ove "
+"informacije ne koristite u hitnim slučajevima. Uvijek upotrijebite zdrav "
+"razum."
 
 #: firefox/geolocation.lang:61
 msgid ""
 "What information is being sent, and to whom? How is my privacy protected?"
 msgstr ""
+"Koje se informacije šalju i kome se šalju? Kako je moja privatnost zaštićena?"
 
 #: firefox/geolocation.lang:65
 msgid ""
@@ -113,32 +144,43 @@ msgid ""
 "information, you’ll be asked before any information is shared with the "
 "requesting website and our third-party service provider."
 msgstr ""
+"Vaša privatnost nam je iznimno važna, stoga Firefox nikad ne otkriva vašu "
+"lokaciju bez prethodnog odobrenja. Kad posjetite stranicu koja traži vaše "
+"informacije, prije bilo kakvog otkrivanja informacija toj stranici ili našim "
+"pružateljima usluga, bit ćete upitani za potvrdu."
 
 #: firefox/geolocation.lang:69
 msgid ""
 "By default, Firefox uses Google Location Services to determine your location "
 "by sending:"
 msgstr ""
+"Prema zadanim postavkama, Firefox koristi Google Location Services za "
+"određivanje vaše lokacije, šaljući pritom:"
 
 #: firefox/geolocation.lang:73
 msgid "your computer’s IP address,"
-msgstr ""
+msgstr "IP adresu vašeg računala,"
 
 #: firefox/geolocation.lang:77
 msgid "information about the nearby wireless access points, and"
-msgstr ""
+msgstr "informacije o obližnjim bežičnim pristupnim točkama i"
 
 #: firefox/geolocation.lang:81
 msgid ""
 "a random client identifier, which is assigned by Google, that expires every "
 "2 weeks."
 msgstr ""
+"nasumični klijentski identifikator, kojeg dodijeljuje Google i koji istječe "
+"svaka 2 tjedna."
 
 #: firefox/geolocation.lang:85
 msgid ""
 "For a complete description of information collected and used by Firefox, "
 "please see the <a href=\"%(url)s\">Firefox Privacy Notice</a>."
 msgstr ""
+"Za potpuni opis informacija koje Firefox prikuplja i koristi, molimo vas da "
+"pogledate <a href=\"%(url)s\">Firefoxovu politiku privatnosti</a> (na "
+"engleskom jeziku)."
 
 #: firefox/geolocation.lang:89
 msgid ""
@@ -147,6 +189,11 @@ msgid ""
 "and used by Google, please see the <a href=\"%(url)s\" class=\"%(class)s"
 "\">Google Geolocation Privacy Policy</a>."
 msgstr ""
+"Google Location Services tada vraća procijenjenu geolokaciju (na primjer, "
+"geografsku širinu i dužinu). Za potpuni opis informacija koje Google "
+"prikuplja i koristi, molimo vas da pogledate <a href=\"%(url)s\" class="
+"\"%(class)s\">Google Geolocation politiku privatnosti</a> (na engleskom "
+"jeziku)."
 
 #: firefox/geolocation.lang:93
 msgid ""
@@ -156,34 +203,45 @@ msgid ""
 "you are visiting, or are any cookies, ever shared with Google Location "
 "Services."
 msgstr ""
+"Da bi se zaštitila vaša privatnost, informacije se šalju putem šifrirane "
+"veze. Kad Firefox dobije informacije o vašoj lokaciji, šalje ih web stranici "
+"koja ih je zatražila. U niti jednom trenutku se kolačići, te naziv ili "
+"lokacija web stranice koju posjećujete, ne otkrivaju Google Location "
+"Servicesu."
 
 #: firefox/geolocation.lang:97
 msgid ""
 "Neither Mozilla or Google will ever use the information collected by Google "
 "Location Services to identify or spy on you."
 msgstr ""
+"Mozilla i Google neće nikad iskoristiti informacije prikupljene putem Google "
+"Location Servicesa da bi vas identificirali ili špijunirali."
 
 #: firefox/geolocation.lang:101
 msgid ""
 "For information about what the requesting website does with your location "
 "information, please refer to that website’s privacy policy."
 msgstr ""
+"Za dodatne informacije o tome što određena web stranica čini s vašim "
+"lokacijskim informacijama, molimo vas da pogledate politiku privatnosti te "
+"stranice."
 
 #: firefox/geolocation.lang:105
 msgid "For more information about your privacy, you should also read:"
 msgstr ""
+"Za dodatne informacije o vašoj privatnosti, također biste trebali pročitati:"
 
 #: firefox/geolocation.lang:109
 msgid "Mozilla Firefox Privacy Notice"
-msgstr ""
+msgstr "Politiku privatnosti Mozille Firefox"
 
 #: firefox/geolocation.lang:113
 msgid "Google privacy policy"
-msgstr ""
+msgstr "Googleovu politiku privatnosti"
 
 #: firefox/geolocation.lang:117
 msgid "Am I being tracked as I browse the web?"
-msgstr ""
+msgstr "Prati li me netko dok pretražujem Web?"
 
 #: firefox/geolocation.lang:121
 msgid ""
@@ -191,10 +249,13 @@ msgid ""
 "only shares your location when the user has approved the request. Firefox "
 "does not track or remember your location as you browse."
 msgstr ""
+"Ne. Firefox traži lokaciju samo kad ju zatraži web stranica, a lokaciju "
+"otkriva samo uz odobrenje korisnika. Firefox ne prati niti pamti vašu "
+"lokaciju dok pretražujete Web."
 
 #: firefox/geolocation.lang:125
 msgid "How do I undo a permission granted to a site?"
-msgstr ""
+msgstr "Kako mogu poništiti dopuštenje dano nekoj stranici?"
 
 #: firefox/geolocation.lang:129
 msgid ""
@@ -202,47 +263,54 @@ msgid ""
 "and later change your mind, you can easily revoke that permission. Here's "
 "how:"
 msgstr ""
+"Ako ste Firefoxu dali dopuštenje da uvijek otkriva vašu lokaciju određenoj "
+"stranici, te se kasnije predomislili, dopuštenje možete veoma lako "
+"poništiti. Evo kako:"
 
 #: firefox/geolocation.lang:133
 msgid "Navigate to the site to which you’ve given permission"
-msgstr ""
+msgstr "Otvorite stranicu kojoj ste dali dopuštenje"
 
 #: firefox/geolocation.lang:137
 msgid "Go to the <em>Tools</em> menu, then select <em>Page Info</em>"
 msgstr ""
+"Otvorite izbornik <em>Alati</em>, potom odaberite <em>Informacije o "
+"stranici</em>"
 
 #: firefox/geolocation.lang:141
 msgid "Select the <em>Permissions</em> tab"
-msgstr ""
+msgstr "Označite karticu <em>Dopuštenja</em> tab"
 
 #: firefox/geolocation.lang:145
 msgid "Change the setting for <em>Share Location</em>"
-msgstr ""
+msgstr "Promijenite postavku u <em>Dijeli lokaciju</em>"
 
 #: firefox/geolocation.lang:149
 msgid "How do I clear the “random client identification number”?"
-msgstr ""
+msgstr "Kako mogu obrisati “nasumični identifikacijski broj klijenta”?"
 
 #: firefox/geolocation.lang:153
 msgid ""
 "Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>"
 msgstr ""
+"Otvorite izbornik <em>Alati</em>, potom odaberite <em>Očisti skorašnju "
+"povijest</em>"
 
 #: firefox/geolocation.lang:157
 msgid "Click the <em>Details</em> arrow"
-msgstr ""
+msgstr "Kliknite na strelicu <em>Detalji</em>"
 
 #: firefox/geolocation.lang:161
 msgid "Ensure that <em>Cookies</em> is selected"
-msgstr ""
+msgstr "Provjerite da je stavka <em>Kolačići</em> označena"
 
 #: firefox/geolocation.lang:165
 msgid "Click on <em>Clear Now</em>"
-msgstr ""
+msgstr "Kliknite na <em>Očisti odmah</em>"
 
 #: firefox/geolocation.lang:169
 msgid "How do I turn off Location-Aware Browsing permanently?"
-msgstr ""
+msgstr "Kako mogu trajno isključiti geolokacijsko pretraživanje?"
 
 #: firefox/geolocation.lang:173
 msgid ""
@@ -250,27 +318,30 @@ msgid ""
 "is ever sent without your permission. If you wish to disable the feature "
 "completely, please follow this set of steps:"
 msgstr ""
+"Geolokacijsko pretraživanje u Firefoxu je uvijek opcionalno. Nikakve "
+"lokacijske informacije se ne šalju bez vašeg dopuštenja. Ako želite trajno "
+"isključiti ovu mogućnost, molimo vas da pratite sljedećih nekoliko koraka:"
 
 #: firefox/geolocation.lang:177
 msgid "In the URL bar, type <code>about:config</code>"
-msgstr ""
+msgstr "U adresnoj traci upišite <code>about:config</code>"
 
 #: firefox/geolocation.lang:181
 msgid "Type <code>geo.enabled</code>"
-msgstr ""
+msgstr "Upišite <code>geo.enabled</code>"
 
 #: firefox/geolocation.lang:185
 msgid "Double click on the <em>geo.enabled</em> preference"
-msgstr ""
+msgstr "Dvaput kliknite na osobitost <em>geo.enabled</em>"
 
 #: firefox/geolocation.lang:189
 msgid "Location-Aware Browsing is now disabled"
-msgstr ""
+msgstr "Geolokacijsko pretraživanje je sada isključeno"
 
 #: firefox/geolocation.lang:193
 msgid "Where am I?"
-msgstr ""
+msgstr "Gdje se nalazim?"
 
 #: firefox/geolocation.lang:197
 msgid "Oops! An error occurred while trying to determine your position."
-msgstr ""
+msgstr "Ups! Došlo je do greške prilikom određivanja vaše pozicije."

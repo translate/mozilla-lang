@@ -1,20 +1,17 @@
 #. extracted from ./mozorg/home.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-08-19 15:00+0000\n"
-"PO-Revision-Date: 2014-02-21 12:05+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Translate Toolkit 1.12.0\n"
-"X-POOTLE-MTIME: 1392984348.000000\n"
 
 #. # promo_lightbeam ##
 #. # promo_new_mdn ##
@@ -47,7 +44,6 @@ msgid "Doing good is part of our code"
 msgstr "Činiti dobro je dio našeg kodeksa"
 
 #: mozorg/home.lang:33
-#, fuzzy
 msgid "Get involved"
 msgstr "Uključite se"
 
@@ -118,7 +114,7 @@ msgstr "<i>Stvorite</i> budućnost"
 
 #: mozorg/home.lang:90
 msgid "Mozilla Festival"
-msgstr "Mozilla Festival{ok}"
+msgstr "Mozilla Festival"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:95
@@ -170,27 +166,26 @@ msgstr ""
 "\">Saznajte više o našim volonterskim pozicijama</a>."
 
 #: mozorg/home.lang:135
-#, fuzzy
 msgid ""
 "Thanks to our global community, Mozilla products and websites are available "
 "in over 70 languages. <a rel=\"external\" href=\"%(link_l10n)s\">Help "
 "translate them into yours</a>."
 msgstr ""
 "Zahvaljujući našoj globalnoj zajednici, Mozillini proizvodi i web stranice "
-"su dostupne na više od 70 jezika. <a href=\"%(link_l10n)s\">Pomognite ih "
-"prevesti na vaš jezik</a>."
+"su dostupne na više od 70 jezika. <a rel=\"external\" href=\"%(link_l10n)s"
+"\">Pomognite ih prevesti na vaš jezik</a>."
 
 #. # TAG: promo_lightbeam
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:141
 msgid "<i>Watch</i> the watchers"
-msgstr ""
+msgstr "<i>Pratite</i> pratitelje"
 
 #. # TAG: promo_lightbeam
 #. Lightbeam promo
 #: mozorg/home.lang:147
 msgid "See who’s watching you online"
-msgstr ""
+msgstr "Provjerite tko vas prati dok surfate"
 
 #. # TAG: promo_lightbeam
 #. Lightbeam promo
@@ -199,23 +194,24 @@ msgid ""
 "Shine a light on the third parties that are collecting data about your "
 "online activity."
 msgstr ""
+"Osvijetlite treće strane koje skupljaju informacije o vama dok ste online."
 
 #. # TAG: promo_lightbeam
 #: mozorg/home.lang:158
 msgid "Install the Lightbeam add-on"
-msgstr ""
+msgstr "Instalirajte Lightbeam dodatak"
 
 #. # TAG: promo_webmaker
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:164
 msgid "<i>Learn</i> the Web"
-msgstr ""
+msgstr "<i>Naučite</i> Web"
 
 #. # TAG: promo_webmaker
 #. Webmaker promo
 #: mozorg/home.lang:170
 msgid "We teach the Web"
-msgstr ""
+msgstr "Mi učimo o Webu"
 
 #. # TAG: promo_webmaker
 #: mozorg/home.lang:175
@@ -223,23 +219,25 @@ msgid ""
 "Let‘s explore, tinker and create together to build a Web that‘s open and "
 "made by everyone."
 msgstr ""
+"Istražujmo, eksperimentirajmo i stvarajmo zajedno Web koji je otvoren i "
+"stvoren za sve."
 
 #. # TAG: promo_webmaker
 #: mozorg/home.lang:180
 msgid "Become a Webmaker"
-msgstr ""
+msgstr "Postanite Webmaker"
 
 #. # TAG: promo_new_mdn
 #. New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:186
 msgid "<i>See</i> the new MDN"
-msgstr ""
+msgstr "<i>Pogledajte</i> novi MDN"
 
 #. # TAG: promo_new_mdn
 #. New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:192
 msgid "See what’s new <br>for developers"
-msgstr ""
+msgstr "Pogledajte što je novo <br>za programere"
 
 #. # TAG: promo_new_mdn
 #. New MDN promo:
@@ -248,6 +246,8 @@ msgid ""
 "Our community hub for docs, demos and other resources just got a brand new "
 "look."
 msgstr ""
+"Centar naše zajednice za dokumente, demonstracije i ostale resurse je upravo "
+"redizajniran."
 
 #. # TAG: promo_new_mdn
 #. New MDN promo:
@@ -259,25 +259,26 @@ msgstr "Posjetite Mozilla Developer Network"
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #: mozorg/home.lang:210
 msgid "The Web needs you"
-msgstr ""
+msgstr "Web vas treba"
 
 #. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, headline
 #: mozorg/home.lang:216
 msgid "What kind of Web do you want?"
-msgstr ""
+msgstr "Kakav web želite?"
 
 #. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, main text
 #: mozorg/home.lang:222
 msgid "Tell us what matters most to you and help shape the future of the Web."
 msgstr ""
+"Recite nam što vam je najbitnije i pomognite oblikovati budućnost weba."
 
 #. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #: mozorg/home.lang:228
 msgid "Share your vision"
-msgstr ""
+msgstr "Podijelite vašu viziju"
 
 #. # TAG: promo_fxdesktop
 #. This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
@@ -301,7 +302,7 @@ msgstr ""
 #. # TAG: promo_fxdesktop
 #: mozorg/home.lang:250
 msgid "See what’s new"
-msgstr ""
+msgstr "Pogledajte novosti"
 
 #. promo_makerparty, temporarily disabled
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
@@ -349,21 +350,3 @@ msgstr ""
 #: mozorg/home.lang:293
 msgid "Join our support team"
 msgstr ""
-
-#, fuzzy
-#~ msgctxt "./mozorg/home.lang:118"
-#~ msgid "Get involved"
-#~ msgstr "Uključite se"
-
-#, fuzzy
-#~ msgctxt "./mozorg/home.lang:119"
-#~ msgid "Get involved"
-#~ msgstr "Uključite se"
-
-#~ msgid "Learn more"
-#~ msgstr "Saznaj više"
-
-#, fuzzy
-#~ msgctxt "./mozorg/home.lang:122"
-#~ msgid "Get involved"
-#~ msgstr "Uključite se"

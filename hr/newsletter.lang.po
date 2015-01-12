@@ -1,20 +1,17 @@
 #. extracted from ./newsletter.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-25 21:04+0000\n"
-"PO-Revision-Date: 2014-02-21 12:05+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Translate Toolkit 1.13.0-alpha1\n"
-"X-POOTLE-MTIME: 1392984352.000000\n"
 
 #. # NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 #: newsletter.lang:4
@@ -443,6 +440,8 @@ msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
 msgstr ""
+"Slažem se s Mozillinim rukovođenjem ovih informacija, kao što je objašnjeno "
+"u <a href=\"%s\">politici privatnosti</a>"
 
 #: newsletter.lang:360
 msgid ""
@@ -470,7 +469,7 @@ msgstr "Newsletter potvrda"
 
 #: newsletter.lang:380
 msgid "Format:"
-msgstr "Format:{ok}"
+msgstr "Format:"
 
 #: newsletter.lang:384
 msgid "You’ve been unsubscribed."
@@ -558,7 +557,6 @@ msgstr "Primajte tjedne savjete kako poboljšati vaše Firefox iskustvo."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:466
-#, fuzzy
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
@@ -589,28 +587,3 @@ msgid ""
 msgstr ""
 "Nekadašnji University program od 2008. do 2011., sada poznatiji kao Firefox "
 "student ambassadors program."
-
-#, fuzzy
-#~ msgctxt "./newsletter.lang:317"
-#~ msgid ""
-#~ "Read about the latest features for Firefox desktop and mobile before the "
-#~ "final release."
-#~ msgstr ""
-#~ "Pročitajte o najnovijim mogućnostima u Firefoxu za desktop i mobitele, "
-#~ "prije nego što stignu u finalno izdanje."
-
-#~ msgid ""
-#~ "I’m okay with you handling this info as you explain in your <a href=\"%s"
-#~ "\">Privacy Policy</a>"
-#~ msgstr ""
-#~ "Slažem se s rukovođenjem ovih informacija, kao što je objašnjeno u <a "
-#~ "href=\"%s\">politici privatnosti</a>"
-
-#, fuzzy
-#~ msgctxt "./newsletter.lang:322"
-#~ msgid ""
-#~ "Read about the latest features for Firefox desktop and mobile before the "
-#~ "final release."
-#~ msgstr ""
-#~ "Pročitajte o najnovijim mogućnostima u Firefoxu za desktop i mobitele, "
-#~ "prije nego što stignu u finalno izdanje."
