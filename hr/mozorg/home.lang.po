@@ -1,17 +1,20 @@
 #. extracted from ./mozorg/home.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-08-19 15:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-01-12 21:49+0000\n"
+"Last-Translator: Mihovil <mozilla@miho.im>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1421099352.000000\n"
 
 #. # promo_lightbeam ##
 #. # promo_new_mdn ##
@@ -284,13 +287,13 @@ msgstr "Podijelite vašu viziju"
 #. This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
 #: mozorg/home.lang:234
 msgid "<i>Try the best</i> Firefox yet"
-msgstr ""
+msgstr "<i>Probajte najbolji</i> Firefox do sada"
 
 #. # TAG: promo_fxdesktop
 #. This is the headline seen when the panel is open so it can be longer than the panel label.
 #: mozorg/home.lang:240
 msgid "Try the best Firefox yet"
-msgstr ""
+msgstr "Probajte najbolji Firefox do sada"
 
 #. # TAG: promo_fxdesktop
 #: mozorg/home.lang:245
@@ -298,6 +301,8 @@ msgid ""
 "Learn more about the free desktop browser that’s committed to you, your "
 "privacy and an open Web."
 msgstr ""
+"Saznajte više o besplatnom pregledniku koji je posvećen vama, vašoj "
+"privatnosti i otvorenom Webu."
 
 #. # TAG: promo_fxdesktop
 #: mozorg/home.lang:250
@@ -308,13 +313,13 @@ msgstr "Pogledajte novosti"
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:256
 msgid "<i>Join</i> our <br>Maker Party"
-msgstr ""
+msgstr "<i>Pridružite</i> se našoj <br>Maker zabavi"
 
 #. promo_makerparty, temporarily disabled
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:262
 msgid "Join our global <br>Maker Party"
-msgstr ""
+msgstr "Pridružite se našoj globalnoj <br>Maker zabavi"
 
 #. promo_makerparty, temporarily disabled
 #: mozorg/home.lang:267
@@ -322,22 +327,24 @@ msgid ""
 "From July to September, help us teach, learn and make the Web at hands-on "
 "community events."
 msgstr ""
+"Od srpnja do rujna, pomozite nam obučavati, učiti i izrađivati web uživo na "
+"događajima zajednice."
 
 #. promo_makerparty, temporarily disabled
 #: mozorg/home.lang:272
 msgid "Learn about events near you"
-msgstr ""
+msgstr "Saznajte više o događajima blizu vas"
 
 #. # TAG: promo_sumo
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:278
 msgid "<i>Help</i> Mozilla users"
-msgstr ""
+msgstr "<i>Pomozite</i> Mozilla korisnicima"
 
 #. # TAG: promo_sumo
 #: mozorg/home.lang:283
 msgid "We need your help"
-msgstr ""
+msgstr "Trebamo vašu pomoć"
 
 #. # TAG: promo_sumo
 #: mozorg/home.lang:288
@@ -345,8 +352,10 @@ msgid ""
 "Learn about the ways you can help millions of users get the most out of "
 "their favorite browser."
 msgstr ""
+"Saznajte na koje načine možete pomoći milionima korisnika da dobiju najviše "
+"od svog omiljenog preglednika."
 
 #. # TAG: promo_sumo
 #: mozorg/home.lang:293
 msgid "Join our support team"
-msgstr ""
+msgstr "Pridružite se timu za podršku"

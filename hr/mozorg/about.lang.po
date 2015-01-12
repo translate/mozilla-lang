@@ -1,17 +1,20 @@
 #. extracted from ./mozorg/about.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-08-19 15:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-01-12 21:43+0000\n"
+"Last-Translator: Mihovil <mozilla@miho.im>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1421098981.000000\n"
 
 #. # about_links ##
 #. # NOTE: https://www-dev.allizom.org/about/
@@ -42,9 +45,8 @@ msgstr "Centar za karijere"
 
 #. # TAG: about_links
 #: mozorg/about.lang:26
-#, fuzzy
 msgid "Want to work at Mozilla? Apply today!"
-msgstr "Želite raditi na Firefoxu? Prijavite se danas!"
+msgstr "Želite raditi u Mozilli? Prijavite se danas!"
 
 #: mozorg/about.lang:30
 msgid "Want to work on Firefox? Apply today!"
@@ -77,12 +79,12 @@ msgstr "Adrese, e-pošta, podrška i obrasci za povratne informacije"
 #. # TAG: about_links
 #: mozorg/about.lang:59
 msgid "The Mozilla Corporation"
-msgstr ""
+msgstr "Mozilla korporacija"
 
 #. # TAG: about_links
 #: mozorg/about.lang:64
 msgid "A corporation that serves the public good. Seriously."
-msgstr ""
+msgstr "Korporacija koja služi javnom dobru. Ozbiljno."
 
 #: mozorg/about.lang:68
 msgid "Our products"
@@ -127,9 +129,9 @@ msgstr "Detalji o stvaranju partnerstvu s nama"
 #. # TAG: about_links
 #: mozorg/about.lang:109
 msgid "The Mozilla Foundation"
-msgstr ""
+msgstr "Mozilla zaklada"
 
 #. # TAG: about_links
 #: mozorg/about.lang:114
 msgid "The non-profit organization behind Firefox and all Mozilla products"
-msgstr ""
+msgstr "Neprofitna organizacija iza Firefoxa i svih Mozilla proizvoda"
