@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-06 11:04+0000\n"
+"POT-Creation-Date: 2015-01-12 17:07+0000\n"
 "PO-Revision-Date: 2014-11-22 21:29+0000\n"
 "Last-Translator: Mohomodou  <mh@bollag-areal.ch>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1416691754.000000\n"
 
 #. # fx10_independent ##
@@ -226,3 +226,19 @@ msgstr ""
 "Mozilla Firefox ti baytal interneti ceecikaw kaŋ adduɲɲaa-mee jamaa n'a "
 "kanba dam k'a fasal nda k'a juwal ka interneti zamanoo tee nafaw wane borey "
 "kul še."
+
+#. This string is displayed after download only to users on release channel and latest version of Firefox.
+#. Links to https://support.mozilla.org/kb/reset-firefox-easily-fix-most-problems
+#. You should keep the translation consistent with Firefox:
+#. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/safeMode.dtd:refreshProfile.label&repo=beta
+#: firefox/new.lang:182
+msgid "Refresh Firefox"
+msgstr ""
+
+#. This string is displayed after download only to users on release channel and latest version of Firefox.
+#. Links to https://support.mozilla.org/kb/reset-firefox-easily-fix-most-problems
+#. You should keep the translation consistent with Firefox:
+#. http://transvision.mozfr.org/string/?entity=toolkit/chrome/global/resetProfile.dtd:refreshProfile.dialog.description1&repo=beta
+#: firefox/new.lang:190
+msgid "Fix problems and restore performance"
+msgstr ""
