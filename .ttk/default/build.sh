@@ -8,7 +8,7 @@ log_info "Processing languages '$langs'"
 function update_source() {
 	log_info "Updating '$SOURCE_DIR'"
 	if [ ! -d $SOURCE_DIR/.svn ]; then
-		svn co $svnverbosity $MOZREPONAME/projects/mozilla.com/trunk/locales/en-GB $SOURCE_DIR
+		svn co $svnverbosity $MOZREPONAME/projects/mozilla.com/trunk/locales/en-US $SOURCE_DIR
 	else
 		svn up $svnverbosity $SOURCE_DIR
 	fi
