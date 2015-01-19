@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-13 11:07+0000\n"
+"POT-Creation-Date: 2015-01-19 18:06+0000\n"
 "PO-Revision-Date: 2014-12-22 19:12+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
@@ -206,35 +206,41 @@ msgstr "Prašenja?"
 msgid "Visit Mozilla Support"
 msgstr "Pomoc Mozilla wopytać"
 
+#. %s will be replaced by an image of Telefonica's logo. The current string is the same used in Firefox for Firefox Hello
+#. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/loop/loop.properties:powered_by_beforeLogo&repo=beta
+#: firefox/hello.lang:159
+msgid "Powered by %s"
+msgstr ""
+
 #. The following strings are used for the First Time interactive experience, don't add HTML tags.
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:159
+#: firefox/hello.lang:165
 msgid "Welcome to Hello"
 msgstr "Witajće do Hello"
 
-#: firefox/hello.lang:163
+#: firefox/hello.lang:169
 msgid ""
 "Open a video conversation with a single click, then invite a friend to join."
 msgstr ""
 "Započńće widejorozmołwu z jednorym kliknjenjom a přeprošće potom přećela so "
 "přidružić."
 
-#: firefox/hello.lang:167
+#: firefox/hello.lang:173
 msgid "Share your link with a friend"
 msgstr "Dźělće swój wotkaz z přećelom"
 
-#: firefox/hello.lang:171
+#: firefox/hello.lang:177
 msgid "They don’t even need Firefox to join. They just need to click the link."
 msgstr ""
 "Woni samo njetrjebaja Firefox, zo bychu so přidružili. Trjebaja jenož na "
 "wotkaz kliknyć."
 
-#: firefox/hello.lang:175
+#: firefox/hello.lang:181
 msgid "No need to wait around"
 msgstr "Njetrjebaće dołho čakać"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:180
+#: firefox/hello.lang:186
 msgid ""
 "Once your friend clicks the link, the Hello icon will change to blue, "
 "letting you know they’re there."
@@ -242,50 +248,50 @@ msgstr ""
 "Hdyž waš přećel na wotkaz kliknje, budźe so symbol hello módrić, tak zo "
 "wěsće, zo je přitomny."
 
-#: firefox/hello.lang:184
+#: firefox/hello.lang:190
 msgid "You have a conversation waiting"
 msgstr "Rozmołwa na was čaka"
 
 #. In this case “hello” is just a greeting (think of it as “hi”)
-#: firefox/hello.lang:189
+#: firefox/hello.lang:195
 msgid "Click now to join and say hello."
 msgstr "Klikńće nětko, zo byšće so přidružił a witaj prajił."
 
-#: firefox/hello.lang:193
+#: firefox/hello.lang:199
 msgid "The easiest way to have a free video conversation with anyone, anywhere"
 msgstr "Najlóše wašnje darmotnu widejorozmołwu z někim wšudźe měć"
 
-#: firefox/hello.lang:197
+#: firefox/hello.lang:203
 msgid "Start a conversation right from Firefox"
 msgstr "Započńće rozmołwu direktnje z Firefox"
 
-#: firefox/hello.lang:201
+#: firefox/hello.lang:207
 msgid "Invite a friend by sending them a link"
 msgstr "Přeprošće přećela sćelo jemu wotkaz"
 
-#: firefox/hello.lang:205
+#: firefox/hello.lang:211
 msgid "The Hello icon will change to blue once they’ve joined"
 msgstr "Symbol Hello so módri, tak ruče kaž sće so přidružił"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:210
+#: firefox/hello.lang:216
 msgid "Tell a friend about Hello"
 msgstr "Informujće přećela wo Hello"
 
-#: firefox/hello.lang:214
+#: firefox/hello.lang:220
 msgid "Need help? Get support here"
 msgstr "Trjebaće pomoc? Wobstarajće sej tu pomoc"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:219
+#: firefox/hello.lang:225
 msgid "Learn all about Hello"
 msgstr "Zhońće wšitko wo Hello"
 
-#: firefox/hello.lang:223
+#: firefox/hello.lang:229
 msgid "The easiest way to connect for free over video"
 msgstr "Najlóše wašnje so darmo přez widejo zwjazać"
 
-#: firefox/hello.lang:227
+#: firefox/hello.lang:233
 msgid ""
 "Start right from Firefox and invite anyone, anywhere to have a conversation. "
 "All they have to do is click a link to join. There’s no account or sign-in "
@@ -295,7 +301,7 @@ msgstr ""
 "započał. Wšitko, štož dyrbiće činić, je, zo kliknjeće na wotkaz, zo byšće so "
 "přidružił. Ani konto ani přizjewjenje trjeba njeje."
 
-#: firefox/hello.lang:231
+#: firefox/hello.lang:237
 msgid "You’ve started your first conversation. Wasn’t that easy?"
 msgstr "Sće swoju prěnju rozmołwu započał. Njeje to lochko było?"
 
