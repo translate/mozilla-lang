@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-09 17:33+0000\n"
-"PO-Revision-Date: 2014-05-09 15:14+0000\n"
+"PO-Revision-Date: 2015-01-13 20:22+0000\n"
 "Last-Translator: Omshivaprakash <omshivaprakash@gmail.com>\n"
 "Language-Team: none\n"
 "Language: kn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
-"X-POOTLE-MTIME: 1399648493.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1421180547.000000\n"
 
 #. # java_notice ##
 #. # plugin_disable_warning ##
@@ -56,7 +56,7 @@ msgstr "ಅಜ್ಞಾತ"
 #. This is the string used to indicate that the plugin is vulnerable
 #: mozorg/plugincheck.lang:44
 msgid "vulnerable"
-msgstr ""
+msgstr "ಸಂದೇಹಾಸ್ಪದ"
 
 #. Main title
 #: mozorg/plugincheck.lang:49
@@ -66,6 +66,8 @@ msgstr "ನಿಮ್ಮ ಪ್ಲಗಿನ್‌ಗಳನ್ನು ಪರೀಕ�
 #: mozorg/plugincheck.lang:53
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
+"ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ಆಗಾಗ್ಗೆ ನವೀಕರಿಸುವುದು Firefox ಅನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಹಾಗೂ ಸುಲಲಿತವಾಗಿ "
+"ಚಾಲನೆಯಲ್ಲಿರಿಸುವಲ್ಲಿ ಸಹಕಾರಿಯಾಗುತ್ತದೆ."
 
 #: mozorg/plugincheck.lang:57
 msgid "Looks like you’re using an older version of Firefox."
@@ -77,6 +79,8 @@ msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
 msgstr ""
+"ಸಧ್ಯದ ಆವೃತ್ತಿಗಳ ಜಾವಾ ಪ್ಲಗಿನ್‌ಗಳನ್ನು ಗುರುತಿಸುವಲ್ಲಿನ ದೋಷ ಹಾಗೂ ಅವುಗಳನ್ನು "
+"ಸಂದೇಹಾಸ್ಪದವುಗಳೆಂದು ತಪ್ಪು ವರದಿಯಾಗುತ್ತಿರುವ ಬಗ್ಗೆ ನಮಗೆ ಅರಿವಿದೆ."
 
 #. # TAG: java_notice
 #: mozorg/plugincheck.lang:67
@@ -84,6 +88,8 @@ msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
 msgstr ""
+"ಈ ದೋಷವನ್ನು ಸರಿಪಡಿಸಲು ಯತ್ನಿಸುತ್ತಿದ್ದೇವೆ. ಈ ಮಧ್ಯೆ ನೀವು ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು "
+"ಇಳಿಸಿಕೊಳ್ಳಲು <a href=\"%(download)s\">ಜಾವಾ ಜಾಲತಾಣಕ್ಕೆ ಭೇಟಿಕೊಡಿ</a> ."
 
 #: mozorg/plugincheck.lang:71
 msgid "Plugin Status"
@@ -94,6 +100,8 @@ msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
 msgstr ""
+"<strong>Internet Explorer ನಲ್ಲಿನ ವಿಸ್ತರಣಿಕೆ (ಪ್ಲಗಿನ್) ಪರಿಶೀಲನಾ ಸಹಾಯ ಮಿತಿಯಲ್ಲಿದೆ</"
+"strong>. ಪರಿಕರಗಳು &gt; ವಿಸ್ತರಣಿಕೆ ನಿರ್ವಹಿಸಿ ಅನ್ನು ಬಳಸಿ."
 
 #: mozorg/plugincheck.lang:79
 msgid "Step 1: Click Update to update a plugin."
@@ -172,12 +180,16 @@ msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
 msgstr ""
+"ಹಳೆಯ ವಿಸ್ತರಣಿಕೆ (ಪ್ಲಗಿನ್) ಗಳು ನಿಮಗೆ ಮಾಲ್ವೇರ್, ವೈರಾಣುಗಳ ಅಪಾಯ ಮತ್ತು ಇತರೆ ಭದ್ರತಾ "
+"ಆತಂಕಗಳ <strong>ಸಾಧ್ಯತೆಗಳನ್ನು ಹೆಚ್ಚಿಸುತ್ತವೆ</strong>."
 
 #: mozorg/plugincheck.lang:151
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
 msgstr ""
+"ಅಂತರ್ಜಾಲವನ್ನು ನಿಮಗಾಗಿ <strong>ಉತ್ತಮ ಹಾಗೂ ಸುರಕ್ಷಿತ</strong>ವಾಗಿಸಲು "
+"<strong>ಪರಿಷ್ಕೃತ ವಿಸ್ತರಣಿಕೆ (ಪ್ಲಗಿನ್)ಗಳು ಸುಧಾರಣೆಗಳನ್ನು ಒಳಗೊಂಡಿವೆ </strong>."
 
 #. alt image
 #: mozorg/plugincheck.lang:156
@@ -206,6 +218,8 @@ msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
 msgstr ""
+"ಈ ಮೇಲಿನ ಪ್ಲಗಿನ್ ಗಳನ್ನು ನಾವು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪತ್ತೆಮಾಡಿದ್ದೇವೆ, Firefox ನಲ್ಲಿ "
+"ಸ್ಥಾಪನೆಯಾಗಿರುವ ನಿಮ್ಮ ಪ್ಲಗಿನ್ ಗಳನ್ನು ನೋಡಲು ಈ ಸೂಚನಾ ಹಂತಗಳನ್ನು ಪಾಲಿಸಿ:"
 
 #: mozorg/plugincheck.lang:176
 msgid "Want to spread the word?"
@@ -216,6 +230,9 @@ msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
 msgstr ""
+"ನಿಮ್ಮ ಗೆಳೆಯರು ಅಂತರ್ಜಾಲದಲ್ಲಿ ಸುರಕ್ಷಿತವಾಗಿರಲು ಸಹಕರಿಸಿ! ನಿಮ್ಮ ಜಾಲತಾಣಕ್ಕೆ ಪ್ಲಗಿನ್ "
+"ಪರಿಶೀಲನಾ ಪದಕವನ್ನು ಪಡೆಯಲು <a href=\"%(url)s\"> Firefox ಸಹಭಾಗಿಗಳು</a> ಗೆ "
+"ಭೇಟಿಕೊಡಿ."
 
 #: mozorg/plugincheck.lang:184
 msgid "How do I disable a plugin?"
@@ -226,7 +243,6 @@ msgid "In Firefox:"
 msgstr "ಫೈರ್ಫಾಕ್ಸ್‌ನಲ್ಲಿ:"
 
 #: mozorg/plugincheck.lang:192
-#, fuzzy
 msgid "Open the Tools menu."
 msgstr "ಉಪಕರಣಗಳ ಪರಿವಿಡಿ ತೆಗೆ."
 
@@ -234,15 +250,13 @@ msgstr "ಉಪಕರಣಗಳ ಪರಿವಿಡಿ ತೆಗೆ."
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:198
 msgid "Open the <span class=\"menu\">menu</span>."
-msgstr ""
+msgstr "<span class=\"menu\">ಪರಿವಿಡಿ</span> ತೆಗೆ."
 
 #: mozorg/plugincheck.lang:202
-#, fuzzy
 msgid "Choose Add-ons."
-msgstr "ಆಡ್-ಆನ್‌ಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡು"
+msgstr "ಆಡ್-ಆನ್‌ಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡು."
 
 #: mozorg/plugincheck.lang:206
-#, fuzzy
 msgid "Click the plugins tab."
 msgstr "ಪ್ಲಗಿನ್ ಹಾಳೆ ಕ್ಲಿಕ್ ಮಾಡು."
 
@@ -270,6 +284,9 @@ msgid ""
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on YouTube."
 msgstr ""
+"ಎಚ್ಚರಿಕೆ: ಪ್ಲಗಿನ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುವುದೆಂದರೆ ನೀವು ಕೆಲವು ಕಾರ್ಯಗಳನ್ನು "
+"ನಿರ್ಬಂಧಿಸುತ್ತಿದ್ದೀರೆಂದು ಅರ್ಥ. ಉದಾಹರಣೆಗೆ, ಫ್ಲಾಶ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದರೆ, ನೀವು "
+"YouTube ನಲ್ಲಿ ದೃಶ್ಯಾವಳಿಗಳನ್ನು ನೋಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ."
 
 #. # TAG: plugin_disable_warning
 #: mozorg/plugincheck.lang:233

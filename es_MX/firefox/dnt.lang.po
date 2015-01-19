@@ -4,45 +4,40 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-15 16:05+0000\n"
-"PO-Revision-Date: 2015-01-10 22:23+0000\n"
-"Last-Translator: Tanner <tanner.sperry@gmail.com>\n"
+"PO-Revision-Date: 2015-01-15 18:12+0000\n"
+"Last-Translator: Mauricio <mautematico@mozilla-mexico.org>\n"
 "Language-Team: none\n"
 "Language: es_MX\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1420928628.000000\n"
+"X-POOTLE-MTIME: 1421345565.000000\n"
 
 #. # NOTE: page is at https://www-dev.allizom.org/firefox/dnt/
 #: firefox/dnt.lang:4
-#, fuzzy
 msgid ""
 "Mozilla Firefox offers a Do Not Track feature that lets you express a "
 "preference not to be tracked by websites."
 msgstr ""
-"Mozilla Firefox ofrece una característica No Rasguear que te permite a "
-"expresar la preferencia de que no te rastreen los sitios web."
+"Mozilla Firefox ofrece la característica Do Not Track que te permite "
+"solicitar no ser rastreado por los sitios web."
 
 #: firefox/dnt.lang:8
-#, fuzzy
 msgid "Do Not Track FAQ"
-msgstr "No rastrees PMF"
+msgstr "PUF sobre Do Not Track."
 
 #: firefox/dnt.lang:12
-#, fuzzy
 msgid "Your Status:"
-msgstr "tu estado:"
+msgstr "Tu estado:"
 
 #: firefox/dnt.lang:16
-#, fuzzy
 msgid "Do Not Track is ON"
-msgstr "No Rasguear está Activado"
+msgstr "Do Not Track está ACTIVADO"
 
 #: firefox/dnt.lang:20
-#, fuzzy
 msgid "Do Not Track is OFF"
-msgstr "No Rasguear está Desactivado"
+msgstr "Do Not Track está DESACTIVADO"
 
 #: firefox/dnt.lang:24
 #, fuzzy
@@ -72,7 +67,7 @@ msgid ""
 "that you want to opt-out of tracking for purposes like behavioral "
 "advertising."
 msgstr ""
-"Mozilla Firefox ofrece una característica No Rastrear que te permite "
+"Mozilla Firefox ofrece una característica Do Not Track que te permite "
 "expresar la preferencia de que los sitios Web no te rastreen. Mientras la "
 "característica está activada, Firefox se comunicará con las redes de "
 "anuncios y con otros sitios Web y aplicaciones que no quieres ser rasgueado "
@@ -84,9 +79,8 @@ msgid "Frequently Asked <span>Questions</span>"
 msgstr "<span>Preguntas</span> frecuentes"
 
 #: firefox/dnt.lang:36
-#, fuzzy
 msgid "What is Do Not Track?"
-msgstr "¿Qué es No Rastrear?"
+msgstr "¿Qué es Do Not Track?"
 
 #: firefox/dnt.lang:40
 #, fuzzy
@@ -98,17 +92,16 @@ msgid ""
 "this by transmitting a Do Not Track HTTP header every time your data is "
 "requested from the Web."
 msgstr ""
-"No rasguear es un paso adelante hacia encomendarte el control de la forma en "
-"que tu información se recopila y se utiliza por la red. No Rasguear es una "
-"característica de Firefox que te permite informar a un sitio web de que "
+"Do Not Track es un paso adelante hacia encomendarte el control de la forma "
+"en que tu información se recopila y se utiliza por la red. No Rasguear es "
+"una característica de Firefox que te permite informar a un sitio web de que "
 "quieres terminar el seguimiento de entidades terceras con fines de "
 "publicidad para comportamientos. Lo hace por transmitir un encabezamiento "
 "HTTP No rasguear cada vez que se piden tus datos de la Web."
 
 #: firefox/dnt.lang:44
-#, fuzzy
 msgid "Is Do Not Track available on Firefox for Android?"
-msgstr "¿No rasguear está disponible en Firefox para Android?"
+msgstr "¿Do Not Track está disponible en Firefox para Android?"
 
 #: firefox/dnt.lang:48
 #, fuzzy
@@ -120,17 +113,16 @@ msgid ""
 "sites not to track me&quot; to turn this option on or off."
 msgstr ""
 "Sí, Firefox para Android es el primer navegador Web para dispositivos "
-"móviles que ofrece la característica de privacidad No Rasguear, y funciona "
-"igual como en el desktop. Para activar No Rasguear en Firefox para Android, "
-"simplemente haz swipe para la izquierda y selecciona herramientas del "
-"navegador. Del panel de preferencias selecciona el cuadro al lado de &quot;"
-"Informa a los sitios que no me rastreen&quot; Para activar o desactivar esta "
-"opción."
+"móviles que ofrece la característica de privacidad Do Not Track, y funciona "
+"igual que en el escritorio. Para activar Do Not Track en Firefox para "
+"Android, simplemente haz swipe para la izquierda y selecciona herramientas "
+"del navegador. Del panel de preferencias selecciona el cuadro al lado de "
+"&quot;Informa a los sitios que no me rastreen&quot; Para activar o "
+"desactivar esta opción."
 
 #: firefox/dnt.lang:52
-#, fuzzy
 msgid "Does Do Not Track block ads?"
-msgstr "¿Bloquea anuncios la característica No Rastrear?"
+msgstr "¿Do Not Track bloquea anuncios?"
 
 #: firefox/dnt.lang:56
 #, fuzzy
@@ -142,17 +134,16 @@ msgid ""
 "your privacy preferences, you will see more generic ads in place of "
 "behavioral ads."
 msgstr ""
-"No, aún aparecerán los anuncios con No Rasguear habilitado. Empero, No "
-"Rasguear puede cambiar los tipos de anuncios que aparecen. Por ejemplo, los "
+"No, aún aparecerán los anuncios con Do Not Track habilitado. Empero, Do Not "
+"Track puede cambiar los tipos de anuncios que aparecen. Por ejemplo, los "
 "anuncios de comportamiento se concentran en los intereses según los sitios "
 "Web visitados y el término de búsqueda usado. Si pides que los sitios Web no "
 "te rastreen, y los sitios respetan tus preferencias de privacidad, verás "
 "anuncios más genéricos en lugar de anuncios de comportamiento."
 
 #: firefox/dnt.lang:60
-#, fuzzy
 msgid "How does Do Not Track work with other privacy tools?"
-msgstr "¿Cómo funciona No Rasguear con otras herramientas de privacidad?"
+msgstr "¿Cómo funciona Do Not Track con otras herramientas de privacidad?"
 
 #: firefox/dnt.lang:64
 #, fuzzy
@@ -162,15 +153,14 @@ msgid ""
 "mechanism. There are several other <a href=\"%(url)s\">privacy and security</"
 "a> features within Firefox."
 msgstr ""
-"No Rasguear es una de varias soluciones para la privacidad. No Rasguear no "
+"Do Not Track es una de varias soluciones para la privacidad. Do Not Track no "
 "reemplaza tu software anti-virus, no va a cifrar los datos, y no es un "
 "mecanismo de seguridad. Hay varias otras características de <a href=\"%(url)s"
 "\">privacidad y seguridad</a> dentro de Firefox."
 
 #: firefox/dnt.lang:68
-#, fuzzy
 msgid "Will Do Not Track affect the rest of my Web experience?"
-msgstr "¿Afectará No Rasguear al resto de mi experiencia de la Web?"
+msgstr "¿Do Not Track afectará el resto de mi experiencia de la Web?"
 
 #: firefox/dnt.lang:72
 #, fuzzy
@@ -181,16 +171,16 @@ msgid ""
 "weather automatically displayed. Personalization on websites can save you "
 "time and repetitive typing, but it requires data."
 msgstr ""
-"No Rasguear puede interferir con algunos servicios personalizados de los que "
-"disfrutas. Por ejemplo, una solicitud para No Rasguear puede causar que "
+"Do Not Track puede interferir con algunos servicios personalizados de los "
+"que disfrutas. Por ejemplo, una solicitud de Do Not Track puede causar que "
 "tengas que teclear tu código postal cada vez que deseas ver un informe "
-"meteorológico, más bien que ver el tiempo automáticamente. La "
-"personalización de sitios Web puede ahorrarte tiempo y repeticiones de "
-"teclear, pero requiere los datos."
+"meteorológico, en lugar de ver el tiempo automáticamente. La personalización "
+"de sitios Web puede ahorrarte tiempo y repeticiones de teclear, pero "
+"requiere información."
 
 #: firefox/dnt.lang:76
 msgid "How do I enable Do Not Track in Firefox?"
-msgstr ""
+msgstr "¿Cómo habilito Do Not Track en Firefox?"
 
 #: firefox/dnt.lang:80
 msgid ""
@@ -198,12 +188,17 @@ msgid ""
 "request on the Privacy pane. <span id=\"%(id)s\">On Windows, go to Tools "
 "&gt; Options&hellip; &gt; Privacy.</span>"
 msgstr ""
+"Esta característica está deshabilitada de forma predeterminada. Puedes "
+"activar Do Not Track en el panel de privacidad. <span id=\"%(id)s\">En "
+"Windows, ve a Herramientas &gt; Opciones &hellip; &gt; Privacidad.</span>"
 
 #: firefox/dnt.lang:84
 msgid ""
 "On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to "
 "Edit &gt; Preferences &gt; Privacy."
 msgstr ""
+"En Mac OS X, ve a Firefox &gt; Preferencias… &gt; Privacidad. En GNU/Linux, "
+"ve a Editar &gt; Preferencias &gt; Privacidad."
 
 #: firefox/dnt.lang:88
 msgid ""
@@ -214,7 +209,7 @@ msgstr ""
 
 #: firefox/dnt.lang:92
 msgid "Will companies honor my Do Not Track preference?"
-msgstr ""
+msgstr "¿Las compañías respetarán mi solicitud sobre Do Not Track?"
 
 #: firefox/dnt.lang:96
 msgid ""
