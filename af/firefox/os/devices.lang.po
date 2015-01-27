@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-24 08:06+0000\n"
-"PO-Revision-Date: 2015-01-15 08:55+0000\n"
+"PO-Revision-Date: 2015-01-27 20:29+0000\n"
 "Last-Translator: af-ZA04_Karen <translation@lando.co.za>\n"
 "Language-Team: none\n"
 "Language: af\n"
@@ -13,18 +13,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1421312102.000000\n"
+"X-POOTLE-MTIME: 1422390557.000000\n"
 
 #. # NOTE: page is https://www-dev.allizom.org/firefox/os/devices/
 #. Page title
 #: firefox/os/devices.lang:5
 msgid "Firefox OS - Devices &amp; Availability"
-msgstr "Firefox OS - Toestelle &amp; Beskikbaarheid"
+msgstr "Firefox OS - Toestelle en beskikbaarheid"
 
 #. Main title - <br> tag below used for formatting only.
 #: firefox/os/devices.lang:10
 msgid "Find Firefox OS <br>near you"
-msgstr "Find Firefox OS <br>naby jou"
+msgstr "Vind Firefox OS <br>naby jou"
 
 #. <br> tag below used for formatting only.
 #: firefox/os/devices.lang:15
@@ -37,7 +37,7 @@ msgstr "Firefox OS"
 
 #: firefox/os/devices.lang:23
 msgid "Firefox OS FAQ"
-msgstr "Firefox OS FAQ"
+msgstr "Firefox OS V&amp;A"
 
 #: firefox/os/devices.lang:27
 msgid "Get a phone"
@@ -69,7 +69,7 @@ msgstr "Brasilië"
 
 #: firefox/os/devices.lang:55
 msgid "Czech Republic"
-msgstr "Die Tsjeggiese Republiek"
+msgstr "Tsjeggiese Republiek"
 
 #: firefox/os/devices.lang:59
 msgid "Chile"
@@ -77,7 +77,7 @@ msgstr "Chili"
 
 #: firefox/os/devices.lang:63
 msgid "Colombia"
-msgstr "Colombië"
+msgstr "Colombia"
 
 #: firefox/os/devices.lang:67
 msgid "Costa Rica"
@@ -117,7 +117,7 @@ msgstr "Italië"
 
 #: firefox/os/devices.lang:103
 msgid "Japan"
-msgstr ""
+msgstr "Japan"
 
 #: firefox/os/devices.lang:107
 msgid "Luxembourg"
@@ -149,7 +149,7 @@ msgstr "Peru"
 
 #: firefox/os/devices.lang:135
 msgid "Philippines"
-msgstr "Die Filippyne"
+msgstr "Filippyne"
 
 #: firefox/os/devices.lang:139
 msgid "Poland"
@@ -177,7 +177,7 @@ msgstr "Verenigde Koninkryk"
 
 #: firefox/os/devices.lang:163
 msgid "United States"
-msgstr "Verenigde State"
+msgstr "Verenigde State van Amerika"
 
 #: firefox/os/devices.lang:167
 msgid "Uruguay"
@@ -189,7 +189,7 @@ msgstr "Venezuela"
 
 #: firefox/os/devices.lang:175
 msgid "Features"
-msgstr "Eienskappe"
+msgstr "Kenmerke"
 
 #: firefox/os/devices.lang:179
 msgid "Specifications"
@@ -197,7 +197,7 @@ msgstr "Spesifikasies"
 
 #: firefox/os/devices.lang:183
 msgid "Close"
-msgstr "Sluit"
+msgstr "Maak toe"
 
 #: firefox/os/devices.lang:187
 msgid "No"
@@ -254,9 +254,9 @@ msgid ""
 "Available storage for user content varies depending on the version and is "
 "subject to change based on phone software updates and apps usage."
 msgstr ""
-"Beskikbare berging vir gebruikerinhoud wissel, afhangende van die weergawe "
-"en is onderhewig aan verandering wat op foonsagtewarebywerkings en "
-"programgebruik gebaseer is."
+"Beskikbare berging vir gebruikerinhoud wissel afhangende van die weergawe, "
+"en is onderhewig aan verandering op grond van foon-sagtewarebywerkings en "
+"programgebruik."
 
 #. Specifications panel
 #: firefox/os/devices.lang:242
@@ -313,7 +313,7 @@ msgstr "Praattyd"
 
 #: firefox/os/devices.lang:294
 msgid "Standby time"
-msgstr "Bystandstyd"
+msgstr "Bystandtyd"
 
 #: firefox/os/devices.lang:298
 msgid "Networks"
@@ -325,7 +325,7 @@ msgstr "Draadloos"
 
 #: firefox/os/devices.lang:306
 msgid "Ports"
-msgstr "Poorte"
+msgstr "Sokke"
 
 #: firefox/os/devices.lang:310
 msgid "Radio"
@@ -358,7 +358,7 @@ msgstr "512 MB RAM"
 
 #: firefox/os/devices.lang:339
 msgid "1.5 GB"
-msgstr ""
+msgstr "1,5 GB"
 
 #: firefox/os/devices.lang:343
 msgid "2 GB"
@@ -370,73 +370,72 @@ msgstr "4 GB"
 
 #: firefox/os/devices.lang:351
 msgid "16 GB"
-msgstr ""
+msgstr "16 GB"
 
 #: firefox/os/devices.lang:355
 msgid "Up to 16 GB"
-msgstr "Tot en met 16 GB"
+msgstr "Tot 16 GB"
 
 #: firefox/os/devices.lang:359
-#, fuzzy
 msgid "Up to 64 GB"
-msgstr "Tot en met 16 GB"
+msgstr "Tot 64 GB"
 
 #: firefox/os/devices.lang:363
 msgid "MicroSD up to 32 GB, 2 GB included"
-msgstr "MicroSD tot en met 32 GB, 2 GB ingesluit"
+msgstr "MicroSD tot 32 GB, 2 GB ingesluit"
 
 #: firefox/os/devices.lang:367
 msgid "MicroSD up to 32 GB"
-msgstr "MicroSD tot en met 32 GB"
+msgstr "MicroSD tot 32 GB"
 
 #: firefox/os/devices.lang:371
 msgid "MicroSD up to 4 GB"
-msgstr "MicroSD tot en met 4 GB"
+msgstr "MicroSD tot 4 GB"
 
 #. Weight/Dimensions
 #: firefox/os/devices.lang:376
 msgid "70 x 139 x 10.5 mm"
-msgstr ""
+msgstr "70 x 139 x 10,5 mm"
 
 #: firefox/os/devices.lang:380
 msgid "115 x 62.3 x 12.2 mm"
-msgstr "115 x 62.3 x 12.2 mm"
+msgstr "115 x 62,3 x 12,2 mm"
 
 #: firefox/os/devices.lang:384
 msgid "115 x 62 x 11.8 mm"
-msgstr "115 x 62 x 11.8 mm"
+msgstr "115 x 62 x 11,8 mm"
 
 #: firefox/os/devices.lang:388
 msgid "113.8 x 66.5 x 9 mm"
-msgstr "113.8 x 66.5 x 9 mm"
+msgstr "113,8 x 66,5 x 9 mm"
 
 #: firefox/os/devices.lang:392
 msgid "114 x 62 x 12.5 mm"
-msgstr "114 x 62 x 12.5 mm"
+msgstr "114 x 62 x 12,5 mm"
 
 #: firefox/os/devices.lang:396
 msgid "115.6 x 62 x 11.2 mm"
-msgstr "115.6 x 62 x 11.2 mm"
+msgstr "115,6 x 62 x 11,2 mm"
 
 #: firefox/os/devices.lang:400
 msgid "112.2 x 62 x 11.95 mm"
-msgstr "112.2 x 62 x 11.95 mm"
+msgstr "112,2 x 62 x 11,95 mm"
 
 #: firefox/os/devices.lang:404
 msgid "120 g (4.2 oz)"
-msgstr "120 g (4.2 oz)"
+msgstr "120 g (4,2 oz)"
 
 #: firefox/os/devices.lang:408
 msgid "122.5 g (4.30 oz)"
-msgstr "122.5 g (4.30 oz)"
+msgstr "122,5 g (4,30 oz)"
 
 #: firefox/os/devices.lang:412
 msgid "108 g (3.81 oz)"
-msgstr "108 g (3.81 oz)"
+msgstr "108 g (3,81 oz)"
 
 #: firefox/os/devices.lang:416
 msgid "148 g"
-msgstr ""
+msgstr "148 g"
 
 #. Processor
 #: firefox/os/devices.lang:421
@@ -457,28 +456,27 @@ msgid ""
 "GHz per core"
 msgstr ""
 "Qualcomm Snapdragon 200-verwerker met dubbelkern-CPU teen 'n spoed van tot "
-"en met 1.2 GHz per kern"
+"1,2 GHz per kern"
 
 #: firefox/os/devices.lang:437
 msgid "MSM8210 dual core 1.2 GHz"
-msgstr "MSM8210-dubbelkern 1.2 GHz"
+msgstr "MSM8210-dubbelkern 1,2 GHz"
 
 #: firefox/os/devices.lang:441
 msgid "Dual core 1.2 GHz"
-msgstr "Dubbelkern-1.2 GHz"
+msgstr "Dubbelkern, 1,2 GHz"
 
 #: firefox/os/devices.lang:445
 msgid "QCT 8210 dual core 1.2 GHz"
-msgstr "QCT 8210-dubbelkern 1.2 GHz"
+msgstr "QCT 8210-dubbelkern 1,2 GHz"
 
 #: firefox/os/devices.lang:449
 msgid "1.0 GHz"
-msgstr "1.0 GHz"
+msgstr "1,0 GHz"
 
 #: firefox/os/devices.lang:453
-#, fuzzy
 msgid "1.2 GHz"
-msgstr "1.0 GHz"
+msgstr "1,2 GHz"
 
 #: firefox/os/devices.lang:457
 msgid "Spreadtrum SC6821"
@@ -486,15 +484,15 @@ msgstr "Spreadtrum SC6821"
 
 #: firefox/os/devices.lang:461
 msgid "Spreadtrum 6821 1.0 GHz"
-msgstr "Spreadtrum 6821 1.0 GHz"
+msgstr "Spreadtrum 6821 1,0 GHz"
 
 #. Networks
 #: firefox/os/devices.lang:466
 msgid ""
 "UMTS 900/2100 and 850/1900/2100 - 3G Data up to 7.2 Mbps DL and 384 Kbps UL"
 msgstr ""
-"UMTS 900/2100 en 850/1900/2100 - 3G-data tot en met 7.2 Mbps DL en 384 Kbps "
-"UL"
+"UMTS 900/2100 en 850/1900/2100 - 3G-data tot 7,2 Mbps aflaai en 384 Kbps "
+"oplaai"
 
 #: firefox/os/devices.lang:470
 msgid "3G/EDGE"
@@ -518,11 +516,11 @@ msgstr "GSM (850/900/1800/1900)"
 
 #: firefox/os/devices.lang:490
 msgid "UMTS/HSDPA/HSPA/HSPA+: MSM7225A: HSPA (7.2 Mbps DL / 5.76 Mbps UL)"
-msgstr "UMTS/HSDPA/HSPA/HSPA+: MSM7225A: HSPA (7.2 Mbps DL / 5.76 Mbps UL)"
+msgstr "UMTS/HSDPA/HSPA/HSPA+: MSM7225A: HSPA (7,2 Mbps DL / 5,76 Mbps UL)"
 
 #: firefox/os/devices.lang:494
 msgid "GSM Dualband 850/1900 (4020A/E); 900/1800 (4020X/D)"
-msgstr "GSM Dualband 850/1900 (4020A/E); 900/1800 (4020X/D)"
+msgstr "GSM-dubbelband 850/1900 (4020A/E); 900/1800 (4020X/D)"
 
 #: firefox/os/devices.lang:498
 msgid "EDGE"
@@ -563,11 +561,11 @@ msgstr "Wi-Fi 802.11 b/g/n"
 
 #: firefox/os/devices.lang:535
 msgid "Micro USB 2.0 high speed"
-msgstr "Mikro-USB 2.0 teen hoë spoed"
+msgstr "Mikro-USB 2.0 (hoë spoed)"
 
 #: firefox/os/devices.lang:539
 msgid "3.5 mm stereo headset jack"
-msgstr "3.5 mm stereo-kopstelhefboom"
+msgstr "3.5 mm stereo-kopstelsok"
 
 #: firefox/os/devices.lang:543
 msgid "Stereo FM"
@@ -576,65 +574,63 @@ msgstr "Stereo FM"
 #. Camera
 #: firefox/os/devices.lang:548
 msgid "1.3 MP"
-msgstr "1.3 MP"
+msgstr "1,3 MP"
 
 #: firefox/os/devices.lang:552
 msgid "1.3 MP rear, VGA front"
-msgstr "1.3 MP-trukamera, VGA-voorkant"
+msgstr "1,3 MP-trukamera, VGA-voorkamera"
 
 #: firefox/os/devices.lang:556
 msgid "2.0 MP"
-msgstr "2.0 MP"
+msgstr "2,0 MP"
 
 #: firefox/os/devices.lang:560
 msgid "2.0 MP rear camera"
-msgstr "2.0 MP-trukamera"
+msgstr "2,0 MP-trukamera"
 
 #: firefox/os/devices.lang:564
 msgid "2.0 MP rear with flash, VGA front"
-msgstr "2.0 MP-trukamera met flits, VGA-voorkant"
+msgstr "2,0 MP-trukamera met flits, VGA-voorkamera"
 
 #: firefox/os/devices.lang:568
 msgid "3.0 MP"
-msgstr "3.0 MP"
+msgstr "3,0 MP"
 
 #: firefox/os/devices.lang:572
 msgid "3.2 MP"
-msgstr "3.2 MP"
+msgstr "3,2 MP"
 
 #: firefox/os/devices.lang:576
 msgid "3 MP (Fixed-focus)"
-msgstr "3 MP (Vastefokus)"
+msgstr "3 MP (vastefokus)"
 
 #: firefox/os/devices.lang:580
 msgid "3.0 MP (Fixed-focus)"
-msgstr "3.0 MP (Vastefokus)"
+msgstr "3,0 MP (vastefokus)"
 
 #: firefox/os/devices.lang:584
 msgid "3.2 MP rear, 0.3 MP front"
-msgstr "3.2 MP-trukamera, 0.3 MP-voorkamera"
+msgstr "3,2 MP-trukamera, 0,3 MP-voorkamera"
 
 #: firefox/os/devices.lang:588
 msgid "5.0 MP"
-msgstr "5.0 MP"
+msgstr "5,0 MP"
 
 #: firefox/os/devices.lang:592
 msgid "5.0 MP, LED flash"
-msgstr "5.0 MP, LED-flits"
+msgstr "5,0 MP, LED-flits"
 
 #: firefox/os/devices.lang:596
 msgid "5.0 MP rear, VGA front"
-msgstr "5.0 MP-trukamera, VGA-voorkant"
+msgstr "5,0 MP-trukamera, VGA-voorkamera"
 
 #: firefox/os/devices.lang:600
-#, fuzzy
 msgid "8.0 MP"
-msgstr "2.0 MP"
+msgstr "8,0 MP"
 
 #: firefox/os/devices.lang:604
-#, fuzzy
 msgid "8.0 MP rear, 2.1 MP front"
-msgstr "3.2 MP-trukamera, 0.3 MP-voorkamera"
+msgstr "8,0 MP-trukamera, 2,1 MP-voorkamera"
 
 #: firefox/os/devices.lang:608
 msgid "Rear camera, VGA Front camera"
@@ -642,7 +638,7 @@ msgstr "Trukamera, VGA-voorkamera"
 
 #: firefox/os/devices.lang:612
 msgid "Rear camera, 0.3 MP Front camera"
-msgstr "Trukamera, 0.3 MP-voorkamera"
+msgstr "Trukamera, 0,3 MP-voorkamera"
 
 #: firefox/os/devices.lang:616
 msgid "VGA"
@@ -712,76 +708,75 @@ msgstr "1730 mAh"
 
 #: firefox/os/devices.lang:682
 msgid "2370 mAh"
-msgstr ""
+msgstr "2370 mAh"
 
 #: firefox/os/devices.lang:686
 msgid "5.3 h"
-msgstr "5.3 h"
+msgstr "5,3 uur"
 
 #: firefox/os/devices.lang:690
 msgid "6.7 h"
-msgstr "6.7 h"
+msgstr "6,7 uur"
 
 #: firefox/os/devices.lang:694
 msgid "7 h"
-msgstr "7 h"
+msgstr "7 uur"
 
 #: firefox/os/devices.lang:698
 msgid "9 h"
-msgstr "9 h"
+msgstr "9 uur"
 
 #: firefox/os/devices.lang:702
 msgid "9 h 20 m"
-msgstr "9 h 20 m"
+msgstr "9 uur 20 m"
 
 #: firefox/os/devices.lang:706
 msgid "160 h"
-msgstr "160 h"
+msgstr "160 uur"
 
 #: firefox/os/devices.lang:710
 msgid "176 h"
-msgstr "176 h"
+msgstr "176 uur"
 
 #: firefox/os/devices.lang:714
 msgid "Up to 5.3 h"
-msgstr "Tot en met 5.3 h"
+msgstr "Tot 5,3 uur"
 
 #: firefox/os/devices.lang:718
 msgid "Up to 8 h"
-msgstr "Tot en met 8 h"
+msgstr "Tot 8 uur"
 
 #: firefox/os/devices.lang:722
-#, fuzzy
 msgid "Up to 16 h"
-msgstr "Tot en met 16 GB"
+msgstr "Tot 16 uur"
 
 #: firefox/os/devices.lang:726
 msgid "Up to 350 h"
-msgstr "Tot en met 350 h"
+msgstr "Tot 350 uur"
 
 #: firefox/os/devices.lang:730
 msgid "Up to 744 h"
-msgstr "Tot en met 744 h"
+msgstr "Tot 744 uur"
 
 #: firefox/os/devices.lang:734
 msgid "Up to 6.7 h (2G), 3 h (3G)"
-msgstr "Tot en met 6.7 h (2G), 3 h (3G)"
+msgstr "Tot 6,7 uur (2G), 3 uur (3G)"
 
 #: firefox/os/devices.lang:738
 msgid "Up to 8 h (2G), 8 h (3G)"
-msgstr "Tot en met 8 h (2G), 8 h (3G)"
+msgstr "Tot 8 uur (2G), 8 uur (3G)"
 
 #: firefox/os/devices.lang:742
 msgid "Up to 280 h"
-msgstr "Tot en met 280 h"
+msgstr "Tot 280 uur"
 
 #: firefox/os/devices.lang:746
 msgid "Up to 280 h (2G)"
-msgstr "Tot en met 280 h (2G)"
+msgstr "Tot 280 uur (2G)"
 
 #: firefox/os/devices.lang:750
 msgid "Up to 720 h (LTE), 820 h (3G)"
-msgstr ""
+msgstr "Tot 720 uur (LTE), 820 uur (3G)"
 
 #. Screen
 #: firefox/os/devices.lang:755
@@ -798,11 +793,11 @@ msgstr "3.5\" HVGA-kapasitief"
 
 #: firefox/os/devices.lang:767
 msgid "3.5\" HVGA 320 x 480 pixels, 262K color display"
-msgstr "3.5\" HVGA 320 x 480-pixels, 262K-kleurbeeld"
+msgstr "3.5\" HVGA 320 x 480 pixels, 262K-kleurbeeld"
 
 #: firefox/os/devices.lang:771
 msgid "3.5\" HVGA 320 x 480 pixels"
-msgstr "3.5\" HVGA 320 x 480-pixels"
+msgstr "3.5\" HVGA 320 x 480 pixels"
 
 #: firefox/os/devices.lang:775
 msgid "4.0\" WVGA"
@@ -830,7 +825,7 @@ msgstr "4.5\" qHD"
 
 #: firefox/os/devices.lang:799
 msgid "4.7\""
-msgstr ""
+msgstr "4.7\""
 
 #. other screen strings
 #: firefox/os/devices.lang:804
@@ -843,7 +838,7 @@ msgstr "480 x 800 pixels"
 
 #: firefox/os/devices.lang:812
 msgid "TFT capacitive touch"
-msgstr "TFT-kapasitiewe aanraking"
+msgstr "TFT- kapasitiewe raakskerm"
 
 #: firefox/os/devices.lang:816
 msgid "TFT color display"
@@ -856,7 +851,7 @@ msgstr "Meer inligting oor Firefox OS"
 
 #: firefox/os/devices.lang:825
 msgid "Read about the features and mission behind Firefox OS"
-msgstr "Lees meer omtrent die kenmerke en strewe agter Firefox OS"
+msgstr "Lees meer oor die kenmerke en strewe agter Firefox OS"
 
 #: firefox/os/devices.lang:829
 msgid "Get help with your Firefox OS device from Mozilla Support"
@@ -868,7 +863,7 @@ msgstr "Kyk wat Firefox OS alles bied en vir ontwikkelaars beteken"
 
 #: firefox/os/devices.lang:837
 msgid "Learn about Firefox OS apps in Firefox Marketplace"
-msgstr "Leer meer omtrent Firefox OS-programme in Firefox Markplek"
+msgstr "Leer meer oor Firefox OS-programme in Firefox Markplek"
 
 #. Popup after clicking on "Get a phone"
 #: firefox/os/devices.lang:842
@@ -884,7 +879,7 @@ msgid ""
 "Please read our FAQ for a <a href=\"%(link)s\">full list of providers in "
 "available countries</a>."
 msgstr ""
-"Lees asseblief ons FAQ vir 'n <a href=\"%(link)s\">volledige lys van "
+"Lees asseblief ons V&amp;A vir 'n <a href=\"%(link)s\">volledige lys "
 "verskaffers in beskikbare lande</a>."
 
 #. Case 1: There are several phone providers
