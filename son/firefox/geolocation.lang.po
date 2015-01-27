@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-30 21:15+0000\n"
+"POT-Creation-Date: 2015-01-27 17:07+0000\n"
 "PO-Revision-Date: 2014-11-30 23:23+0000\n"
 "Last-Translator: Mohomodou  <mh@bollag-areal.ch>\n"
 "Language-Team: none\n"
@@ -12,9 +12,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1417389834.000000\n"
 
+#. # geolocation_faq_update ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
 #: firefox/geolocation.lang:5
 msgid "Geolocation in Firefox"
@@ -331,10 +332,23 @@ msgstr "Naagu cee hinka <em>geo.enabled</em> ibaayoo ga"
 msgid "Location-Aware Browsing is now disabled"
 msgstr "Gorodoo-maate ceeciyan n' ka kay sohõda"
 
-#: firefox/geolocation.lang:193
+#. # TAG: geolocation_faq_update
+#: firefox/geolocation.lang:194
+msgid "How can I add support for Geolocation to my web site?"
+msgstr ""
+
+#. # TAG: geolocation_faq_update
+#. Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
+#: firefox/geolocation.lang:200
+msgid ""
+"You can integrate Geolocation support into your service by following the "
+"instruction at <a href=\"%(url)s\">Mozilla Developer Center</a>."
+msgstr ""
+
+#: firefox/geolocation.lang:204
 msgid "Where am I?"
 msgstr "Man ay go?"
 
-#: firefox/geolocation.lang:197
+#: firefox/geolocation.lang:208
 msgid "Oops! An error occurred while trying to determine your position."
 msgstr "Aywa! Firka foo bangay kaŋ a wiri ka war gorodogoo tabatandi."

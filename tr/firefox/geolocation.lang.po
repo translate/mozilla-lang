@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-07 15:54+0000\n"
+"POT-Creation-Date: 2015-01-27 17:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,6 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 
+#. # geolocation_faq_update ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
 #: firefox/geolocation.lang:5
 msgid "Geolocation in Firefox"
@@ -336,10 +337,23 @@ msgstr "<em>geo.enabled</em> seçeneğine çift tıklayın"
 msgid "Location-Aware Browsing is now disabled"
 msgstr "Konumdan Haberdar Gezinme artık devre dışı"
 
-#: firefox/geolocation.lang:193
+#. # TAG: geolocation_faq_update
+#: firefox/geolocation.lang:194
+msgid "How can I add support for Geolocation to my web site?"
+msgstr ""
+
+#. # TAG: geolocation_faq_update
+#. Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
+#: firefox/geolocation.lang:200
+msgid ""
+"You can integrate Geolocation support into your service by following the "
+"instruction at <a href=\"%(url)s\">Mozilla Developer Center</a>."
+msgstr ""
+
+#: firefox/geolocation.lang:204
 msgid "Where am I?"
 msgstr "Ben neredeyim?"
 
-#: firefox/geolocation.lang:197
+#: firefox/geolocation.lang:208
 msgid "Oops! An error occurred while trying to determine your position."
 msgstr "Eyvah! Konumunuzu tespit etmeye çalışırken bir hata meydana geldi."
