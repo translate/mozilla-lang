@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-19 13:35+0000\n"
+"POT-Creation-Date: 2015-01-28 09:06+0000\n"
 "PO-Revision-Date: 2015-01-22 15:37+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1421941059.000000\n"
 
 #. # NOTE: demo page is available at https://www-dev.allizom.org/about/legal/
@@ -101,25 +101,40 @@ msgstr "Ceisiadau i beidio dangos"
 msgid "Report abuse of your copyrights and trademarks."
 msgstr "Adrodd ar y camddefnydd o'ch hawlfraint a nodau masnach."
 
-#. Used in sub-pages to return to the main index https://www.mozilla.org/about/legal/
+#. Used in legal docs to collapse (hide) a paragraph
 #: legal/index.lang:80
+msgid "Show Less"
+msgstr ""
+
+#. Used in sub-pages to return to the main index https://www.mozilla.org/about/legal/
+#: legal/index.lang:85
 msgid "Back to Legal"
 msgstr "Nôl i'r Cyfreithiol"
 
+#. Used in sub-pages to return to the main index https://www.mozilla.org/privacy
+#: legal/index.lang:90
+msgid "Back to Mozilla Privacy Policy"
+msgstr ""
+
 #. Title for https://www.mozilla.org/about/legal/terms/mozilla/
-#: legal/index.lang:85
+#: legal/index.lang:95
 msgid "Websites & Communications Terms of Use"
 msgstr "Amodau Defnydd Gwefannau a Chyfathrebu"
 
 #. Title for https://www.mozilla.org/about/legal/acceptable-use/
-#: legal/index.lang:90
+#: legal/index.lang:100
 msgid "Acceptable Use Policy"
 msgstr "Polisi Defnydd Derbyniol"
 
 #. Title for https://www.mozilla.org/about/legal/terms/firefox-hello/
-#: legal/index.lang:95
+#: legal/index.lang:105
 msgid "Firefox Hello Terms of Service"
 msgstr "Amodau Gwasanaeth Firefox Hello"
+
+#. Title for https://www.mozilla.org/about/legal/terms/services/
+#: legal/index.lang:110
+msgid "Firefox Cloud Services: Terms of Service"
+msgstr ""
 
 #~ msgid "Legal Notices"
 #~ msgstr "Hysbysiadau Cyfreithiol"

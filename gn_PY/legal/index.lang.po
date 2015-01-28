@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-19 13:35+0000\n"
+"POT-Creation-Date: 2015-01-28 09:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -94,22 +94,37 @@ msgstr ""
 msgid "Report abuse of your copyrights and trademarks."
 msgstr ""
 
-#. Used in sub-pages to return to the main index https://www.mozilla.org/about/legal/
+#. Used in legal docs to collapse (hide) a paragraph
 #: legal/index.lang:80
+msgid "Show Less"
+msgstr ""
+
+#. Used in sub-pages to return to the main index https://www.mozilla.org/about/legal/
+#: legal/index.lang:85
 msgid "Back to Legal"
 msgstr ""
 
+#. Used in sub-pages to return to the main index https://www.mozilla.org/privacy
+#: legal/index.lang:90
+msgid "Back to Mozilla Privacy Policy"
+msgstr ""
+
 #. Title for https://www.mozilla.org/about/legal/terms/mozilla/
-#: legal/index.lang:85
+#: legal/index.lang:95
 msgid "Websites & Communications Terms of Use"
 msgstr ""
 
 #. Title for https://www.mozilla.org/about/legal/acceptable-use/
-#: legal/index.lang:90
+#: legal/index.lang:100
 msgid "Acceptable Use Policy"
 msgstr ""
 
 #. Title for https://www.mozilla.org/about/legal/terms/firefox-hello/
-#: legal/index.lang:95
+#: legal/index.lang:105
 msgid "Firefox Hello Terms of Service"
+msgstr ""
+
+#. Title for https://www.mozilla.org/about/legal/terms/services/
+#: legal/index.lang:110
+msgid "Firefox Cloud Services: Terms of Service"
 msgstr ""
