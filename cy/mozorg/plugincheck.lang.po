@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-09 17:33+0000\n"
-"PO-Revision-Date: 2015-01-01 09:59+0000\n"
+"PO-Revision-Date: 2015-01-30 15:24+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1420106355.000000\n"
+"X-POOTLE-MTIME: 1422631449.000000\n"
 
 #. # java_notice ##
 #. # plugin_disable_warning ##
@@ -129,7 +129,7 @@ msgstr "Statws"
 
 #: mozorg/plugincheck.lang:99
 msgid "Action"
-msgstr "Gweithred"
+msgstr "Gweithredu"
 
 #: mozorg/plugincheck.lang:103
 msgid "Outdated Plugins"
@@ -163,7 +163,7 @@ msgstr "Mae ategion yn gyrru fideos, animeiddiadau a gemau"
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr ""
-"Mae nhw'n cael eu creu y tu allan i Firefox gan gwmniau fel Adobe Systems ac "
+"Mae nhw'n cael eu creu y tu allan i Firefox gan gwmnïau fel Adobe Systems ac "
 "Apple"
 
 #: mozorg/plugincheck.lang:135
@@ -233,8 +233,9 @@ msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
 msgstr ""
-"Cynorthwywch i'ch ffrindiau aros yn ddiogel ar-lein? Ewch i <a href=\"%(url)s"
-"\">Firefox Affiliates</a> i gael bathodyn gwirio ar gyfer eich gwefan."
+"Cynorthwywch eich ffrindiau i aros yn ddiogel ar-lein? Ewch i <a href="
+"\"%(url)s\">Firefox Affiliates</a> i gael bathodyn gwirio ar gyfer eich "
+"gwefan."
 
 #: mozorg/plugincheck.lang:184
 msgid "How do I disable a plugin?"
@@ -252,7 +253,7 @@ msgstr "Agor dewislen Offer."
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:198
 msgid "Open the <span class=\"menu\">menu</span>."
-msgstr "Agor y <span class=\"menu\">ddewislen</span>."
+msgstr "Agor y <span class=\"menurev\">ddewislen</span>."
 
 #: mozorg/plugincheck.lang:202
 msgid "Choose Add-ons."
@@ -260,21 +261,21 @@ msgstr "Dewis Ychwanegion."
 
 #: mozorg/plugincheck.lang:206
 msgid "Click the plugins tab."
-msgstr "Cliciwch tab ategion."
+msgstr "Cliciwch y tab ategion."
 
 #. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:211
 msgid "Click on the drop down next to the plugin you wish to disable."
-msgstr "Clicio ar y gwymplen nesaf at yr ategyn rydych am ei analluogi."
+msgstr "Cliciwch ar y gwymplen nesaf at yr ategyn rydych am ei hanalluogi."
 
 #: mozorg/plugincheck.lang:215
 msgid "Click on a plugin in the list."
-msgstr "Cliciwch ategyn yn y rhestr."
+msgstr "Cliciwch ar ategyn yn y rhestr."
 
 #. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:220
 msgid "Select \"Never Activate\" from the available choices."
-msgstr "Dewis \"Peidio Gweithredu\" o'r dewisiadau sydd ar gael."
+msgstr "Dewiswch \"Peidio Gweithredu\" o'r dewisiadau sydd ar gael."
 
 #: mozorg/plugincheck.lang:224
 msgid "Click the Disable button."
