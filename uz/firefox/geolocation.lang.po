@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-27 17:07+0000\n"
+"POT-Creation-Date: 2015-02-03 09:06+0000\n"
 "PO-Revision-Date: 2014-12-20 15:27+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,15 +16,16 @@ msgstr ""
 
 #. # geolocation_faq_update ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
-#: firefox/geolocation.lang:5
+#. # URL: https://www-dev.allizom.org/firefox/geolocation/
+#: firefox/geolocation.lang:6
 msgid "Geolocation in Firefox"
 msgstr "Firefox’da geojoylashuv"
 
-#: firefox/geolocation.lang:9
+#: firefox/geolocation.lang:10
 msgid "Location-Aware Browsing"
 msgstr "Manzilni aniqlab ko‘rish"
 
-#: firefox/geolocation.lang:13
+#: firefox/geolocation.lang:14
 msgid ""
 "Firefox can tell websites where you’re located so you can find info that’s "
 "more relevant and more useful. It’s about making the Web smarter &ndash; and "
@@ -37,15 +38,15 @@ msgstr ""
 "ko‘rinishda qilinmoqchi <a href=\"%(url)s\" id=\"%(id)s\" style=\"%(style)s"
 "\">Foydalanib ko‘rishga imkon berish</a>"
 
-#: firefox/geolocation.lang:17
+#: firefox/geolocation.lang:18
 msgid "Frequently asked Questions"
 msgstr "Tez-tez so‘raladigan savollar"
 
-#: firefox/geolocation.lang:21
+#: firefox/geolocation.lang:22
 msgid "What is Location-Aware Browsing?"
 msgstr "Manzilni aniqlab ko‘rish nima?"
 
-#: firefox/geolocation.lang:25
+#: firefox/geolocation.lang:26
 msgid ""
 "Websites that use location-aware browsing will ask where you are in order to "
 "bring you more relevant information, or to save you time while searching. "
@@ -62,7 +63,7 @@ msgstr ""
 "ma’lumotlarni beradi... ko‘proq ma’lumot kerak bo‘lmaydi yoki qo‘shimcha "
 "yozish talab qilinmaydi."
 
-#: firefox/geolocation.lang:29
+#: firefox/geolocation.lang:30
 msgid ""
 "Or, if you’re mapping out directions to get somewhere, the website will know "
 "where you’re starting from so all you have to do is tell it where you want "
@@ -72,7 +73,7 @@ msgstr ""
 "kiritib qo‘ysangiz, vebsahifa siz qayerdan boshlashingizni biladi, shunday "
 "qilib siz faqatgina qayerga borishni xohlashingizni aytishingiz kerak."
 
-#: firefox/geolocation.lang:33
+#: firefox/geolocation.lang:34
 msgid ""
 "This service is totally optional &ndash; Firefox doesn’t share your location "
 "without your permission &ndash; and is done with the utmost respect for your "
@@ -85,11 +86,11 @@ msgstr ""
 "dasturchilar tomonidan oson moslashish uchun ochiq standartlardan foydalanib "
 "yaratiladi."
 
-#: firefox/geolocation.lang:37
+#: firefox/geolocation.lang:38
 msgid "How does it work?"
 msgstr "U qanday ishlaydi?"
 
-#: firefox/geolocation.lang:41
+#: firefox/geolocation.lang:42
 msgid ""
 "When you visit a location-aware website, Firefox will ask you if you want to "
 "share your location."
@@ -97,7 +98,7 @@ msgstr ""
 "Manzilni aniqlashni so‘raydigan vebsaytga tashrif buyursangiz, Firefox "
 "manzilingizni bo‘lishishni so‘raydi."
 
-#: firefox/geolocation.lang:45
+#: firefox/geolocation.lang:46
 msgid ""
 "If you consent, Firefox gathers information about nearby wireless access "
 "points and your computer’s IP address. Then Firefox sends this information "
@@ -111,15 +112,15 @@ msgstr ""
 "Google manzil xizmatlariga manzilingiz bahosini olish uchun jo‘natadi. "
 "So‘ngra manzil bahosi so‘ralgan vebsahifa bilan bo‘lishiladi."
 
-#: firefox/geolocation.lang:49
+#: firefox/geolocation.lang:50
 msgid "If you say that you do not consent, Firefox will not do anything."
 msgstr "Agar siz norozilingizni aytsangiz, Firefox hech narsa qilmaydi."
 
-#: firefox/geolocation.lang:53
+#: firefox/geolocation.lang:54
 msgid "How accurate are the locations?"
 msgstr "Manzillarni qanday aniqlash mumkin?"
 
-#: firefox/geolocation.lang:57
+#: firefox/geolocation.lang:58
 msgid ""
 "Accuracy varies greatly from location to location. In some places, our "
 "service providers may be able to provide a location to within a few meters. "
@@ -136,13 +137,13 @@ msgstr ""
 "kafolat bera olmaymiz. Iltimos, bu ma’lumotlardan favqulodda holatlarda "
 "foydalanmang. Doimo umumiy maqsadlarda foydalaning."
 
-#: firefox/geolocation.lang:61
+#: firefox/geolocation.lang:62
 msgid ""
 "What information is being sent, and to whom? How is my privacy protected?"
 msgstr ""
 "Qaysi ma’lumt jo‘natiladi va kimga? Mening xavfsizligim qanday himoyalangan?"
 
-#: firefox/geolocation.lang:65
+#: firefox/geolocation.lang:66
 msgid ""
 "Your privacy is extremely important to us, and Firefox never shares your "
 "location without your permission. When you visit a page that requests your "
@@ -155,7 +156,7 @@ msgstr ""
 "taraf ta’minotchimiz bilan har qanday ma’lumot bo‘lishishdan oldin sizdan "
 "so‘raladi."
 
-#: firefox/geolocation.lang:69
+#: firefox/geolocation.lang:70
 msgid ""
 "By default, Firefox uses Google Location Services to determine your location "
 "by sending:"
@@ -163,15 +164,15 @@ msgstr ""
 "Standart holatda Firefox manzilingizni aniqlab jo‘nataishda Google manzil "
 "xizmatlaridan foydalanadi:"
 
-#: firefox/geolocation.lang:73
+#: firefox/geolocation.lang:74
 msgid "your computer’s IP address,"
 msgstr "kompyuteringizning IP manzili,"
 
-#: firefox/geolocation.lang:77
+#: firefox/geolocation.lang:78
 msgid "information about the nearby wireless access points, and"
 msgstr "eng yaqin simsiz tarmoqqa ulanish nuqtasi haqidagi ma’lumot va"
 
-#: firefox/geolocation.lang:81
+#: firefox/geolocation.lang:82
 msgid ""
 "a random client identifier, which is assigned by Google, that expires every "
 "2 weeks."
@@ -179,7 +180,7 @@ msgstr ""
 "Google tomonidan belgilangan tasodifiy mijoz aniqlagichi har 2 haftada "
 "eskiradi."
 
-#: firefox/geolocation.lang:85
+#: firefox/geolocation.lang:86
 msgid ""
 "For a complete description of information collected and used by Firefox, "
 "please see the <a href=\"%(url)s\">Firefox Privacy Notice</a>."
@@ -187,7 +188,7 @@ msgstr ""
 "Firefx tomonidan yig‘ilgan va foydalanadigan to‘liq ta’rif uchun, marhamat, "
 "<a href=\"%(url)s\">Firefox maxfiylik eslatmalari</a>ni ko‘rib chiqing."
 
-#: firefox/geolocation.lang:89
+#: firefox/geolocation.lang:90
 msgid ""
 "Google Location Services then returns your estimated geolocation (e.g., "
 "latitude and longitude). For a complete description of information collected "
@@ -200,7 +201,7 @@ msgstr ""
 "class=\"%(class)s\">Google geojoylashuv maxfiylik siyosati</a>ni ko‘rib "
 "chiqing."
 
-#: firefox/geolocation.lang:93
+#: firefox/geolocation.lang:94
 msgid ""
 "The information is exchanged over an encrypted connection to protect your "
 "privacy. Once Firefox has your location information, it passes it to the "
@@ -214,7 +215,7 @@ msgstr ""
 "manzili yoki nomi uchun yoki kukilar Google manzil xizmatlari bilan "
 "bo‘lishilmaydi."
 
-#: firefox/geolocation.lang:97
+#: firefox/geolocation.lang:98
 msgid ""
 "Neither Mozilla or Google will ever use the information collected by Google "
 "Location Services to identify or spy on you."
@@ -223,7 +224,7 @@ msgstr ""
 "ma’lumotlardan shaxsiyatingizni aniqlash yoki sizning orqangizdan josuslik "
 "qilish uchun foydalanmaydi."
 
-#: firefox/geolocation.lang:101
+#: firefox/geolocation.lang:102
 msgid ""
 "For information about what the requesting website does with your location "
 "information, please refer to that website’s privacy policy."
@@ -232,25 +233,25 @@ msgstr ""
 "haqidagi ma’lumotni bilish uchun, marhamat, vebsahifangiz maxfiylik "
 "siyosatini ko‘rib chiqing."
 
-#: firefox/geolocation.lang:105
+#: firefox/geolocation.lang:106
 msgid "For more information about your privacy, you should also read:"
 msgstr ""
 "Maxfiyligingiz haqidagi ko‘proq ma’lumot olish uchun siz buni ham "
 "o‘qishingiz kerak:"
 
-#: firefox/geolocation.lang:109
+#: firefox/geolocation.lang:110
 msgid "Mozilla Firefox Privacy Notice"
 msgstr "Mozilla Firefox maxfiylik eslatmalari"
 
-#: firefox/geolocation.lang:113
+#: firefox/geolocation.lang:114
 msgid "Google privacy policy"
 msgstr "Google maxfiylik siyosati"
 
-#: firefox/geolocation.lang:117
+#: firefox/geolocation.lang:118
 msgid "Am I being tracked as I browse the web?"
 msgstr "Men internetni ko‘rayotganimda kuzatilamanmi?"
 
-#: firefox/geolocation.lang:121
+#: firefox/geolocation.lang:122
 msgid ""
 "No. Firefox only requests a location when a website makes a request, and "
 "only shares your location when the user has approved the request. Firefox "
@@ -260,11 +261,11 @@ msgstr ""
 "foydalanuvchi so‘rovga ruxsat bergandagina manzilingizni bo‘lishadi. Firefox "
 "ko‘rish sifatida sizni kuzatmaydi yoki manzilingizni eslab qolmaydi."
 
-#: firefox/geolocation.lang:125
+#: firefox/geolocation.lang:126
 msgid "How do I undo a permission granted to a site?"
 msgstr "Saytga berilgan ruxsatni qanday qilib bekor qilsam bo‘ladi?"
 
-#: firefox/geolocation.lang:129
+#: firefox/geolocation.lang:130
 msgid ""
 "If you've given Firefox permission to always give your location to a site "
 "and later change your mind, you can easily revoke that permission. Here's "
@@ -274,53 +275,53 @@ msgstr ""
 "bo‘lsangiz va keyinroq fikringiz o‘zgarib qolgan bo‘lsa, osongina ruxsatni "
 "bekor qilishingiz mumkin. Mana bu yerda qanday qilish ko‘rsatilgan:"
 
-#: firefox/geolocation.lang:133
+#: firefox/geolocation.lang:134
 msgid "Navigate to the site to which you’ve given permission"
 msgstr "Siz ruxsat bergan saytni kuzatish"
 
-#: firefox/geolocation.lang:137
+#: firefox/geolocation.lang:138
 msgid "Go to the <em>Tools</em> menu, then select <em>Page Info</em>"
 msgstr ""
 "<em>Asboblar</em> menyusizga o‘ting, so‘ngra <em>Sahifa ma’lumoti</em>ni "
 "tanlang"
 
-#: firefox/geolocation.lang:141
+#: firefox/geolocation.lang:142
 msgid "Select the <em>Permissions</em> tab"
 msgstr "<em>Ruxsatlar</em> ichki oynasini tanlang"
 
-#: firefox/geolocation.lang:145
+#: firefox/geolocation.lang:146
 msgid "Change the setting for <em>Share Location</em>"
 msgstr "<em>Manzilni bo‘lishish</em> so‘zlamalarini o‘zgartiring"
 
-#: firefox/geolocation.lang:149
+#: firefox/geolocation.lang:150
 msgid "How do I clear the “random client identification number”?"
 msgstr ""
 "Qanday qilib “tasodifiy mijoz identifikatsiya raqami”ni tozalashim mumkin?"
 
-#: firefox/geolocation.lang:153
+#: firefox/geolocation.lang:154
 msgid ""
 "Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>"
 msgstr ""
 "<em>Asboblar</em> menyusiga o‘ting, so‘ngra <em>So‘nggi tarixni tozalash</"
 "em>ni tanlang"
 
-#: firefox/geolocation.lang:157
+#: firefox/geolocation.lang:158
 msgid "Click the <em>Details</em> arrow"
 msgstr "<em>Tafsilotlar</em> ko‘rsatgichiga bosing"
 
-#: firefox/geolocation.lang:161
+#: firefox/geolocation.lang:162
 msgid "Ensure that <em>Cookies</em> is selected"
 msgstr "<em>Kukilar</em> tanlanganiga ishonch hosil qiling"
 
-#: firefox/geolocation.lang:165
+#: firefox/geolocation.lang:166
 msgid "Click on <em>Clear Now</em>"
 msgstr "<em>Hozir tozalash</em>ning ustiga bosing"
 
-#: firefox/geolocation.lang:169
+#: firefox/geolocation.lang:170
 msgid "How do I turn off Location-Aware Browsing permanently?"
 msgstr "Manzilni bilib internetni ko‘rishni qanday o‘chirib qo‘ysam bo‘ladi?"
 
-#: firefox/geolocation.lang:173
+#: firefox/geolocation.lang:174
 msgid ""
 "Location-Aware Browsing is always opt-in in Firefox. No location information "
 "is ever sent without your permission. If you wish to disable the feature "
@@ -331,39 +332,39 @@ msgstr ""
 "butunlay oʻchirib qoʻymoqchi boʻlsangiz, quyidagi bosqichlardan oʻtishingiz "
 "kerak:"
 
-#: firefox/geolocation.lang:177
+#: firefox/geolocation.lang:178
 msgid "In the URL bar, type <code>about:config</code>"
 msgstr "Manzillar paneliga <code>about:config</code> deb yozing"
 
-#: firefox/geolocation.lang:181
+#: firefox/geolocation.lang:182
 msgid "Type <code>geo.enabled</code>"
 msgstr "<em>geo.enabled</em> deb yozing>"
 
-#: firefox/geolocation.lang:185
+#: firefox/geolocation.lang:186
 msgid "Double click on the <em>geo.enabled</em> preference"
 msgstr "<em>geo.enabled</em> moslamalari ustiga ikki marta bosing"
 
-#: firefox/geolocation.lang:189
+#: firefox/geolocation.lang:190
 msgid "Location-Aware Browsing is now disabled"
 msgstr "Manzilni bilib internetni ko‘rish o‘chirib qoʻyilgan"
 
 #. # TAG: geolocation_faq_update
-#: firefox/geolocation.lang:194
+#: firefox/geolocation.lang:195
 msgid "How can I add support for Geolocation to my web site?"
 msgstr ""
 
 #. # TAG: geolocation_faq_update
 #. Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
-#: firefox/geolocation.lang:200
+#: firefox/geolocation.lang:201
 msgid ""
 "You can integrate Geolocation support into your service by following the "
 "instruction at <a href=\"%(url)s\">Mozilla Developer Center</a>."
 msgstr ""
 
-#: firefox/geolocation.lang:204
+#: firefox/geolocation.lang:205
 msgid "Where am I?"
 msgstr "Men qayerdaman?"
 
-#: firefox/geolocation.lang:208
+#: firefox/geolocation.lang:209
 msgid "Oops! An error occurred while trying to determine your position."
 msgstr "Obbo! Joylashgan o‘rningizni aniqlashda xato yuz berdi."

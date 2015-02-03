@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-27 17:07+0000\n"
+"POT-Creation-Date: 2015-02-03 09:06+0000\n"
 "PO-Revision-Date: 2014-09-01 00:03+0000\n"
 "Last-Translator: Mahrazi Mohd Kamal <mahrazi@gmail.com>\n"
 "Language-Team: none\n"
@@ -17,15 +17,16 @@ msgstr ""
 
 #. # geolocation_faq_update ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
-#: firefox/geolocation.lang:5
+#. # URL: https://www-dev.allizom.org/firefox/geolocation/
+#: firefox/geolocation.lang:6
 msgid "Geolocation in Firefox"
 msgstr "Geolokasi dalam Firefox"
 
-#: firefox/geolocation.lang:9
+#: firefox/geolocation.lang:10
 msgid "Location-Aware Browsing"
 msgstr "Pelayaran Peka-Lokasi"
 
-#: firefox/geolocation.lang:13
+#: firefox/geolocation.lang:14
 msgid ""
 "Firefox can tell websites where you’re located so you can find info that’s "
 "more relevant and more useful. It’s about making the Web smarter &ndash; and "
@@ -38,15 +39,15 @@ msgstr ""
 "anda. <a href=\"%(url)s\" id=\"%(id)s\" style=\"%(style)s\">Beri peluang "
 "untuk mencubanya! </a>"
 
-#: firefox/geolocation.lang:17
+#: firefox/geolocation.lang:18
 msgid "Frequently asked Questions"
 msgstr "Soalan Sering Ditanya"
 
-#: firefox/geolocation.lang:21
+#: firefox/geolocation.lang:22
 msgid "What is Location-Aware Browsing?"
 msgstr "Apa itu Pelayaran Peka-Lokasi?"
 
-#: firefox/geolocation.lang:25
+#: firefox/geolocation.lang:26
 msgid ""
 "Websites that use location-aware browsing will ask where you are in order to "
 "bring you more relevant information, or to save you time while searching. "
@@ -63,7 +64,7 @@ msgstr ""
 "memberikan anda jawapan yang anda ingnikan... tiada maklumat lanjut atau "
 "taipan tambahan diperlukan."
 
-#: firefox/geolocation.lang:29
+#: firefox/geolocation.lang:30
 msgid ""
 "Or, if you’re mapping out directions to get somewhere, the website will know "
 "where you’re starting from so all you have to do is tell it where you want "
@@ -73,7 +74,7 @@ msgstr ""
 "mengetahui dari mana anda akan bermula supaya apa yang anda perlu lakukan "
 "adalah beritahu di mana anda ingin pergi."
 
-#: firefox/geolocation.lang:33
+#: firefox/geolocation.lang:34
 msgid ""
 "This service is totally optional &ndash; Firefox doesn’t share your location "
 "without your permission &ndash; and is done with the utmost respect for your "
@@ -86,11 +87,11 @@ msgstr ""
 "Firefox, ianya dicipta menggunakan standard terbuka bagi memudahkan diterima "
 "pakai oleh pembangun Web."
 
-#: firefox/geolocation.lang:37
+#: firefox/geolocation.lang:38
 msgid "How does it work?"
 msgstr "Bagaimana ianya berfungsi?"
 
-#: firefox/geolocation.lang:41
+#: firefox/geolocation.lang:42
 msgid ""
 "When you visit a location-aware website, Firefox will ask you if you want to "
 "share your location."
@@ -98,7 +99,7 @@ msgstr ""
 "Apabila anda melawat laman web peka-lokasi, Firefox akan bertanyakan anda "
 "jika anda ingin berkongsi lokasi anda."
 
-#: firefox/geolocation.lang:45
+#: firefox/geolocation.lang:46
 msgid ""
 "If you consent, Firefox gathers information about nearby wireless access "
 "points and your computer’s IP address. Then Firefox sends this information "
@@ -112,17 +113,17 @@ msgstr ""
 "Lokasi Geolokasi, mendapatkan lokasi anggaran anda. Lokasi anggaran itu "
 "kemudiannya dikongsi dengan laman web yang bertanya."
 
-#: firefox/geolocation.lang:49
+#: firefox/geolocation.lang:50
 msgid "If you say that you do not consent, Firefox will not do anything."
 msgstr ""
 "Jika anda katakan yang anda tidak bersetuju, Firefox tidak akan melakukan "
 "apa-apa."
 
-#: firefox/geolocation.lang:53
+#: firefox/geolocation.lang:54
 msgid "How accurate are the locations?"
 msgstr "Berapa tepatkah lokasi?"
 
-#: firefox/geolocation.lang:57
+#: firefox/geolocation.lang:58
 msgid ""
 "Accuracy varies greatly from location to location. In some places, our "
 "service providers may be able to provide a location to within a few meters. "
@@ -138,14 +139,14 @@ msgstr ""
 "tidak menjamin ketepatan lokasi yang disediakan. Sila tidak menggunakan "
 "maklumat ini untuk tujuan kecemasan. Sentiasalah gunakan kewarasan akal."
 
-#: firefox/geolocation.lang:61
+#: firefox/geolocation.lang:62
 msgid ""
 "What information is being sent, and to whom? How is my privacy protected?"
 msgstr ""
 "Apakah maklumat yang dihantar, dan kepada siapa? Bagaimana privasi saya "
 "dilindungi?"
 
-#: firefox/geolocation.lang:65
+#: firefox/geolocation.lang:66
 msgid ""
 "Your privacy is extremely important to us, and Firefox never shares your "
 "location without your permission. When you visit a page that requests your "
@@ -157,7 +158,7 @@ msgstr ""
 "memohon maklumat anda, anda akan ditanya sebelum sebarang maklumat dikongsi "
 "dengan laman web yang memohon dan juga penyedia khidmat pihak ketiga kami."
 
-#: firefox/geolocation.lang:69
+#: firefox/geolocation.lang:70
 msgid ""
 "By default, Firefox uses Google Location Services to determine your location "
 "by sending:"
@@ -165,22 +166,22 @@ msgstr ""
 "Secara lalai, Firefox menggunakan Khidmat Lokasi Google bagi menentukan "
 "lokasi anda dengan menghantar:"
 
-#: firefox/geolocation.lang:73
+#: firefox/geolocation.lang:74
 msgid "your computer’s IP address,"
 msgstr "alamat IP komputer anda,"
 
-#: firefox/geolocation.lang:77
+#: firefox/geolocation.lang:78
 msgid "information about the nearby wireless access points, and"
 msgstr "maklumat tentang titik capaian tanpa wayar berhampiran, dan"
 
-#: firefox/geolocation.lang:81
+#: firefox/geolocation.lang:82
 msgid ""
 "a random client identifier, which is assigned by Google, that expires every "
 "2 weeks."
 msgstr ""
 "pengenal klien rawak, yang diberikan oleh Google, yang luput setiap 2 minggu."
 
-#: firefox/geolocation.lang:85
+#: firefox/geolocation.lang:86
 msgid ""
 "For a complete description of information collected and used by Firefox, "
 "please see the <a href=\"%(url)s\">Firefox Privacy Notice</a>."
@@ -188,7 +189,7 @@ msgstr ""
 "Untuk penerangan lengkap maklumat yang dikumpul dan digunakan oleh Firefox, "
 "sila lihat <a href=\"%(url)s\">Notis Privasi Firefox</a>."
 
-#: firefox/geolocation.lang:89
+#: firefox/geolocation.lang:90
 msgid ""
 "Google Location Services then returns your estimated geolocation (e.g., "
 "latitude and longitude). For a complete description of information collected "
@@ -200,7 +201,7 @@ msgstr ""
 "dikumpul dan digunakan oleh Google, sila lihat <a href=\"%(url)s\" class="
 "\"%(class)s\">Polisi Privasi Geolokasi Google</a>."
 
-#: firefox/geolocation.lang:93
+#: firefox/geolocation.lang:94
 msgid ""
 "The information is exchanged over an encrypted connection to protect your "
 "privacy. Once Firefox has your location information, it passes it to the "
@@ -214,7 +215,7 @@ msgstr ""
 "lokasi laman web yang anda lawati, atau sebarang kuki, yang pernah dikongsi "
 "dengan Khidmat Lokasi Google."
 
-#: firefox/geolocation.lang:97
+#: firefox/geolocation.lang:98
 msgid ""
 "Neither Mozilla or Google will ever use the information collected by Google "
 "Location Services to identify or spy on you."
@@ -222,7 +223,7 @@ msgstr ""
 "Tidak Mozilla atau Google akan menggunakan maklumat yang dikumpul oleh "
 "Khidmat Lokasi Google bagi mengenal atau mengintip anda."
 
-#: firefox/geolocation.lang:101
+#: firefox/geolocation.lang:102
 msgid ""
 "For information about what the requesting website does with your location "
 "information, please refer to that website’s privacy policy."
@@ -230,23 +231,23 @@ msgstr ""
 "Untuk maklumat tentang apa yang laman web mohon lakukan dengan maklumat "
 "lokasi anda, sila rujuk polisi privasi laman web berkenaan."
 
-#: firefox/geolocation.lang:105
+#: firefox/geolocation.lang:106
 msgid "For more information about your privacy, you should also read:"
 msgstr "Untuk maklumat lanjut tentang privasi anda, anda juga perlu membaca:"
 
-#: firefox/geolocation.lang:109
+#: firefox/geolocation.lang:110
 msgid "Mozilla Firefox Privacy Notice"
 msgstr "Notis Privasi Mozilla Firefox"
 
-#: firefox/geolocation.lang:113
+#: firefox/geolocation.lang:114
 msgid "Google privacy policy"
 msgstr "Polisi privasi Google"
 
-#: firefox/geolocation.lang:117
+#: firefox/geolocation.lang:118
 msgid "Am I being tracked as I browse the web?"
 msgstr "Adakah saya ini dijejaki sebaik sahaja saya melayari web ini?"
 
-#: firefox/geolocation.lang:121
+#: firefox/geolocation.lang:122
 msgid ""
 "No. Firefox only requests a location when a website makes a request, and "
 "only shares your location when the user has approved the request. Firefox "
@@ -257,12 +258,12 @@ msgstr ""
 "permohonan. Firefox tidak menjejaki atau mengingati lokasi anda sebaik "
 "sahaja anda melayari."
 
-#: firefox/geolocation.lang:125
+#: firefox/geolocation.lang:126
 msgid "How do I undo a permission granted to a site?"
 msgstr ""
 "Bagaimana untuk saya membatalkan keizinan yang telah diberikan kepada laman?"
 
-#: firefox/geolocation.lang:129
+#: firefox/geolocation.lang:130
 msgid ""
 "If you've given Firefox permission to always give your location to a site "
 "and later change your mind, you can easily revoke that permission. Here's "
@@ -272,50 +273,50 @@ msgstr ""
 "anda kepada laman dan kemudian berubah fikiran, anda boleh dengan mudah "
 "menarik balik keizinan. Begini caranya:"
 
-#: firefox/geolocation.lang:133
+#: firefox/geolocation.lang:134
 msgid "Navigate to the site to which you’ve given permission"
 msgstr "Navigasi ke laman yang anda telah berikan keizinan"
 
-#: firefox/geolocation.lang:137
+#: firefox/geolocation.lang:138
 msgid "Go to the <em>Tools</em> menu, then select <em>Page Info</em>"
 msgstr "Pergi ke menu <em>Alatan</em>, kemudian pilih <em>Info Laman</em>"
 
-#: firefox/geolocation.lang:141
+#: firefox/geolocation.lang:142
 msgid "Select the <em>Permissions</em> tab"
 msgstr "Pilih tab<em>Keizinan</em>"
 
-#: firefox/geolocation.lang:145
+#: firefox/geolocation.lang:146
 msgid "Change the setting for <em>Share Location</em>"
 msgstr "Tukar tetapan untuk <em>Kongsi Lokasi</em>"
 
-#: firefox/geolocation.lang:149
+#: firefox/geolocation.lang:150
 msgid "How do I clear the “random client identification number”?"
 msgstr "Bagaimana untuk saya melapangkan “nombor pengenalan klien rawak”?"
 
-#: firefox/geolocation.lang:153
+#: firefox/geolocation.lang:154
 msgid ""
 "Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>"
 msgstr ""
 "Pergi ke menu <em>Alatan</em>, kemudian pilih <em>Lapangkan Sejarah "
 "Kebelakangan</em>"
 
-#: firefox/geolocation.lang:157
+#: firefox/geolocation.lang:158
 msgid "Click the <em>Details</em> arrow"
 msgstr "Klik busar <em>Perincian</em>"
 
-#: firefox/geolocation.lang:161
+#: firefox/geolocation.lang:162
 msgid "Ensure that <em>Cookies</em> is selected"
 msgstr "Pastikan yang <em>Kuki</em> telah dipilih"
 
-#: firefox/geolocation.lang:165
+#: firefox/geolocation.lang:166
 msgid "Click on <em>Clear Now</em>"
 msgstr "Klik pada <em>Lapangkan Sekarang</em>"
 
-#: firefox/geolocation.lang:169
+#: firefox/geolocation.lang:170
 msgid "How do I turn off Location-Aware Browsing permanently?"
 msgstr "Bagaimana untuk saya mematikan Pelayaran Peka-Lokasi secara kekal?"
 
-#: firefox/geolocation.lang:173
+#: firefox/geolocation.lang:174
 msgid ""
 "Location-Aware Browsing is always opt-in in Firefox. No location information "
 "is ever sent without your permission. If you wish to disable the feature "
@@ -325,39 +326,39 @@ msgstr ""
 "yang akan menghantar tanpa kebenaran anda. Jika anda ingin melumpuhkan ciri "
 "secara keseluruhannya, sila ikuti langkah berikut:"
 
-#: firefox/geolocation.lang:177
+#: firefox/geolocation.lang:178
 msgid "In the URL bar, type <code>about:config</code>"
 msgstr "Di bar URL, taipkan <code>about:config</code>"
 
-#: firefox/geolocation.lang:181
+#: firefox/geolocation.lang:182
 msgid "Type <code>geo.enabled</code>"
 msgstr "Taip <code>geo.enabled</code>"
 
-#: firefox/geolocation.lang:185
+#: firefox/geolocation.lang:186
 msgid "Double click on the <em>geo.enabled</em> preference"
 msgstr "Dwi klik pada keutamaan <em>geo.enabled</em>"
 
-#: firefox/geolocation.lang:189
+#: firefox/geolocation.lang:190
 msgid "Location-Aware Browsing is now disabled"
 msgstr "Pelayaran Peka-Lokasi kini dilumpuhkan"
 
 #. # TAG: geolocation_faq_update
-#: firefox/geolocation.lang:194
+#: firefox/geolocation.lang:195
 msgid "How can I add support for Geolocation to my web site?"
 msgstr ""
 
 #. # TAG: geolocation_faq_update
 #. Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
-#: firefox/geolocation.lang:200
+#: firefox/geolocation.lang:201
 msgid ""
 "You can integrate Geolocation support into your service by following the "
 "instruction at <a href=\"%(url)s\">Mozilla Developer Center</a>."
 msgstr ""
 
-#: firefox/geolocation.lang:204
+#: firefox/geolocation.lang:205
 msgid "Where am I?"
 msgstr "Di mana saya?"
 
-#: firefox/geolocation.lang:208
+#: firefox/geolocation.lang:209
 msgid "Oops! An error occurred while trying to determine your position."
 msgstr "Oops! Ralat berlaku ketika cuba untuk menentukan posisi anda."

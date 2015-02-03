@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-27 17:07+0000\n"
+"POT-Creation-Date: 2015-02-03 09:06+0000\n"
 "PO-Revision-Date: 2014-05-21 04:06+0000\n"
 "Last-Translator: Arun Kumar <thangam.arunx@gmail.com>\n"
 "Language-Team: none\n"
@@ -17,15 +17,16 @@ msgstr ""
 
 #. # geolocation_faq_update ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
-#: firefox/geolocation.lang:5
+#. # URL: https://www-dev.allizom.org/firefox/geolocation/
+#: firefox/geolocation.lang:6
 msgid "Geolocation in Firefox"
 msgstr "பயர்பாக்ஸில் இருப்பிடம்"
 
-#: firefox/geolocation.lang:9
+#: firefox/geolocation.lang:10
 msgid "Location-Aware Browsing"
 msgstr "புவியிருப்பிட-விழிப்புணர்வு உலாவல்"
 
-#: firefox/geolocation.lang:13
+#: firefox/geolocation.lang:14
 msgid ""
 "Firefox can tell websites where you’re located so you can find info that’s "
 "more relevant and more useful. It’s about making the Web smarter &ndash; and "
@@ -38,15 +39,15 @@ msgstr ""
 "காக்கவும் செய்யப்பட்டுள்ளது. <a href=\"%(url)s\" id=\"%(id)s\" style=\"%(style)s"
 "\">முயற்சியுங்கள்!</a>"
 
-#: firefox/geolocation.lang:17
+#: firefox/geolocation.lang:18
 msgid "Frequently asked Questions"
 msgstr "அடிக்கடி எழும் வினாக்கள்"
 
-#: firefox/geolocation.lang:21
+#: firefox/geolocation.lang:22
 msgid "What is Location-Aware Browsing?"
 msgstr "புவியிருப்பிட-விழிப்புணர்வு உலாவல் என்றால் என்ன?"
 
-#: firefox/geolocation.lang:25
+#: firefox/geolocation.lang:26
 msgid ""
 "Websites that use location-aware browsing will ask where you are in order to "
 "bring you more relevant information, or to save you time while searching. "
@@ -62,7 +63,7 @@ msgstr ""
 "“பிட்சா”விற்கான விடையை இது உங்களுக்குக் கொண்டுவரும்... மேலும் தகவல்கள் அல்லது தட்டச்சோ "
 "தேவைப்படாது."
 
-#: firefox/geolocation.lang:29
+#: firefox/geolocation.lang:30
 msgid ""
 "Or, if you’re mapping out directions to get somewhere, the website will know "
 "where you’re starting from so all you have to do is tell it where you want "
@@ -72,7 +73,7 @@ msgstr ""
 "என்பது இணையத் தளத்திற்கு தெரிய வரும். ஆகவே நீங்கள் செய்ய வேண்டியது எங்கே போக வேண்டும் எனச் "
 "சொல்ல வேண்டும்."
 
-#: firefox/geolocation.lang:33
+#: firefox/geolocation.lang:34
 msgid ""
 "This service is totally optional &ndash; Firefox doesn’t share your location "
 "without your permission &ndash; and is done with the utmost respect for your "
@@ -84,11 +85,11 @@ msgstr ""
 "செய்யப்பட்டுள்ளது. மேலும் அனைத்து பயர்பாக்ஸின் கூறுகளைப் போன்றே இணைய வல்லுனர்களின் வசதியைக் "
 "கருத்தில் கொண்டு இதிலும் திறந்த தரப்படுத்தல்கள் பயன்படுத்தப்பட்டுள்ளன."
 
-#: firefox/geolocation.lang:37
+#: firefox/geolocation.lang:38
 msgid "How does it work?"
 msgstr "இது எப்படி வேலை செய்கிறது?"
 
-#: firefox/geolocation.lang:41
+#: firefox/geolocation.lang:42
 msgid ""
 "When you visit a location-aware website, Firefox will ask you if you want to "
 "share your location."
@@ -96,7 +97,7 @@ msgstr ""
 "இருப்பிட விழிப்புணர்வு இணையத்தளம் ஒன்றைப் பார்வையிடும் போது, உங்களுடைய இடத்தை நீங்கள் "
 "பகிர்ந்து கொள்ள விரும்பினால், பயர்பாக்ஸ் உங்களைக் கேட்கும்."
 
-#: firefox/geolocation.lang:45
+#: firefox/geolocation.lang:46
 msgid ""
 "If you consent, Firefox gathers information about nearby wireless access "
 "points and your computer’s IP address. Then Firefox sends this information "
@@ -109,15 +110,15 @@ msgstr ""
 "இருப்பிட சேவை வழங்குநர், கூகுள் இருப்பிட சேவைகளுக்கு உங்களுடைய இடத்தின் மதிப்பீட்டைப் "
 "பெற்றுக் கொள்ள இந்த தகவலை அனுப்பும். அந்த இட மதிப்பீடு கோரப்படும் இணையதளத்துடன் பகிரப்படும்."
 
-#: firefox/geolocation.lang:49
+#: firefox/geolocation.lang:50
 msgid "If you say that you do not consent, Firefox will not do anything."
 msgstr "நீங்கள் அனுமதிக்கவில்லை என்றால், பயர்பாக்ஸ் எதுவும் செய்யாது."
 
-#: firefox/geolocation.lang:53
+#: firefox/geolocation.lang:54
 msgid "How accurate are the locations?"
 msgstr "இடங்கள் எவ்வளவு சரியானவையாக இருக்கும்?"
 
-#: firefox/geolocation.lang:57
+#: firefox/geolocation.lang:58
 msgid ""
 "Accuracy varies greatly from location to location. In some places, our "
 "service providers may be able to provide a location to within a few meters. "
@@ -132,12 +133,12 @@ msgstr ""
 "மதிப்பீட்டளவிலானவை, வழங்கப்பட்ட இடங்களின் சரிநுட்பம் பற்றி உத்தரவாதம் அளிப்பதில்லை. "
 "அவசரப்பட்டு இந்த தகவலைப் பயன்படுத்த வேண்டாம். எப்போதும் அறிவைப் பயன்படுத்தவும்."
 
-#: firefox/geolocation.lang:61
+#: firefox/geolocation.lang:62
 msgid ""
 "What information is being sent, and to whom? How is my privacy protected?"
 msgstr "என்ன தகவல் அனுப்பப்பட்டது? யாருக்கு? என் தனிப்பட்ட விஷயங்கள் பாதுகாப்பானதா?"
 
-#: firefox/geolocation.lang:65
+#: firefox/geolocation.lang:66
 msgid ""
 "Your privacy is extremely important to us, and Firefox never shares your "
 "location without your permission. When you visit a page that requests your "
@@ -149,7 +150,7 @@ msgstr ""
 "தகவல்களை கேட்கும்போது, தகவல்களை இணையதளத்துடனும் எங்கள் மூன்றாம் நபர் சேவை வழங்குநருடனும் "
 "பகிர்வதற்கு முன் உங்களிடம் கேட்கப்படும்."
 
-#: firefox/geolocation.lang:69
+#: firefox/geolocation.lang:70
 msgid ""
 "By default, Firefox uses Google Location Services to determine your location "
 "by sending:"
@@ -157,15 +158,15 @@ msgstr ""
 "முன்னிருப்பாக, அனுப்புவதன் மூலம் உங்களுடைய இடத்தைத் தீர்மானிப்பதற்கு பயர்பாக்ஸ், கூகுள் "
 "இருப்பிட சேவையைப் பயன்படுத்துகிறது:"
 
-#: firefox/geolocation.lang:73
+#: firefox/geolocation.lang:74
 msgid "your computer’s IP address,"
 msgstr "உங்கள் கணினியின் IP முகவரி,"
 
-#: firefox/geolocation.lang:77
+#: firefox/geolocation.lang:78
 msgid "information about the nearby wireless access points, and"
 msgstr "அருகில் காணப்படும் வயர்லெஸ் அணுகல் புள்ளிகள் பற்றி தகவல், மற்றும்"
 
-#: firefox/geolocation.lang:81
+#: firefox/geolocation.lang:82
 msgid ""
 "a random client identifier, which is assigned by Google, that expires every "
 "2 weeks."
@@ -173,7 +174,7 @@ msgstr ""
 "கூகுளால் ஒதுக்கப்பட்ட குறிப்பில்லா கிளையன் அடையாளப்படுத்தி, இது ஒவ்வொரு 2 வாரங்களுக்கும் "
 "காலாவதியாகும்."
 
-#: firefox/geolocation.lang:85
+#: firefox/geolocation.lang:86
 msgid ""
 "For a complete description of information collected and used by Firefox, "
 "please see the <a href=\"%(url)s\">Firefox Privacy Notice</a>."
@@ -181,7 +182,7 @@ msgstr ""
 "பயர்பாக்ஸால் தகவல் சேகரிக்கப்படுதல் மற்றும் பயன்படுத்தப்படுதல் போன்ற மேலும் விவரங்களுக்கு, "
 "இதைப் பார்க்கவும் <a href=\"%(url)s\">பயர்பாக்ஸ் தனியுரிமை கொள்கை</a>."
 
-#: firefox/geolocation.lang:89
+#: firefox/geolocation.lang:90
 msgid ""
 "Google Location Services then returns your estimated geolocation (e.g., "
 "latitude and longitude). For a complete description of information collected "
@@ -193,7 +194,7 @@ msgstr ""
 "விவரங்களுக்கு, இதைப் பார்க்கவும் <a href=\"%(url)s\" class=\"%(class)s\">கூகுள் "
 "புவியிருப்பிட தனியுரிமை கொள்கை</a>."
 
-#: firefox/geolocation.lang:93
+#: firefox/geolocation.lang:94
 msgid ""
 "The information is exchanged over an encrypted connection to protect your "
 "privacy. Once Firefox has your location information, it passes it to the "
@@ -206,7 +207,7 @@ msgstr ""
 "அனுப்பும். எந்த ஒரு நேரத்திலும் பெயரோ அல்லது நாம் செல்லும் இணையத்தளத்தின் முகவரியோ, "
 "அல்லது ஏதாவது குக்கிஸ் போன்றனவோ கூகுள் இருப்பிட சேவைகளுடன் பகிரப்படமாட்டாது."
 
-#: firefox/geolocation.lang:97
+#: firefox/geolocation.lang:98
 msgid ""
 "Neither Mozilla or Google will ever use the information collected by Google "
 "Location Services to identify or spy on you."
@@ -214,7 +215,7 @@ msgstr ""
 "அடையாளப்படுத்த கூகுள் இருப்பிட சேவைகளால் சேகரிக்கப்பட்ட தகவலை மொசில்லா அல்லது கூகுள் "
 "எப்போதாவது பயன்படுத்தும்."
 
-#: firefox/geolocation.lang:101
+#: firefox/geolocation.lang:102
 msgid ""
 "For information about what the requesting website does with your location "
 "information, please refer to that website’s privacy policy."
@@ -222,25 +223,25 @@ msgstr ""
 "உங்களுடைய இடத் தகவலுடன் கோரப்படும் இணையத்தளம் என்ன செய்துள்ளது என்ற தகவல்களுக்காக, "
 "இணையத்தளங்களின் தனிப்பட்ட கொள்கையைப் பார்க்கவும்."
 
-#: firefox/geolocation.lang:105
+#: firefox/geolocation.lang:106
 msgid "For more information about your privacy, you should also read:"
 msgstr ""
 "உங்களுடைய தனிப்பட்ட விஷயங்கள் பற்றிய மேலும் தகவல்களுக்கு, நீங்கள் கட்டாயமாக வாசிக்க "
 "வேண்டியது:"
 
-#: firefox/geolocation.lang:109
+#: firefox/geolocation.lang:110
 msgid "Mozilla Firefox Privacy Notice"
 msgstr "மொசில்லா பயர்பாக்ஸின் தனியுரிமை கொள்கை"
 
-#: firefox/geolocation.lang:113
+#: firefox/geolocation.lang:114
 msgid "Google privacy policy"
 msgstr "கூகுள் தனியுரிமை கொள்கை"
 
-#: firefox/geolocation.lang:117
+#: firefox/geolocation.lang:118
 msgid "Am I being tracked as I browse the web?"
 msgstr "இணையத்தில் உலாவரும்போது எனது செயல்பாடுகள் பதிவு செய்யப்படுமா?"
 
-#: firefox/geolocation.lang:121
+#: firefox/geolocation.lang:122
 msgid ""
 "No. Firefox only requests a location when a website makes a request, and "
 "only shares your location when the user has approved the request. Firefox "
@@ -250,11 +251,11 @@ msgstr ""
 "விண்ணப்பத்தை பயனர் உறுதிப்படுத்திய பின்னரே உங்களின் இடத்தைப் பகிரும். உலாவலில் பயர்பாக்ஸ் "
 "உங்கள் இடத்தை நினைவில் வைத்துக் கொள்ளாது."
 
-#: firefox/geolocation.lang:125
+#: firefox/geolocation.lang:126
 msgid "How do I undo a permission granted to a site?"
 msgstr "தளம் ஒன்றிற்கு வழங்கப்பட்ட அனுமதியை எவ்வாறு நான் மறைப்பது?"
 
-#: firefox/geolocation.lang:129
+#: firefox/geolocation.lang:130
 msgid ""
 "If you've given Firefox permission to always give your location to a site "
 "and later change your mind, you can easily revoke that permission. Here's "
@@ -263,51 +264,51 @@ msgstr ""
 "உங்கள் இடத்தை எப்போதும் கொடுக்கவும் என்பதை தேர்ந்தெடுத்து, பின்னர் உங்கள் மனதை "
 "மாற்றிக்கொண்டால், நீங்கள் இதனை எளிதாக மாற்றிக்கொள்ளலாம். அதுபற்றி இங்கே காண்க:"
 
-#: firefox/geolocation.lang:133
+#: firefox/geolocation.lang:134
 msgid "Navigate to the site to which you’ve given permission"
 msgstr "நீங்கள் அனுமதி வழங்கிய தளத்தில் நகரவும்"
 
-#: firefox/geolocation.lang:137
+#: firefox/geolocation.lang:138
 msgid "Go to the <em>Tools</em> menu, then select <em>Page Info</em>"
 msgstr ""
 "<em>கருவிகள்</em> மெனுவுக்கு சென்று, <em>பக்க தகவல்</em> என்பதை தேர்ந்தெடுக்கவும்"
 
-#: firefox/geolocation.lang:141
+#: firefox/geolocation.lang:142
 msgid "Select the <em>Permissions</em> tab"
 msgstr "<em>அனுமதிகள்</em> தத்தலை தேர்ந்தெடுக்கவும்"
 
-#: firefox/geolocation.lang:145
+#: firefox/geolocation.lang:146
 msgid "Change the setting for <em>Share Location</em>"
 msgstr "<em>இடத்தைப் பகிர்தல்</em> என்பதற்கான அமைவை மாற்றவும்"
 
-#: firefox/geolocation.lang:149
+#: firefox/geolocation.lang:150
 msgid "How do I clear the “random client identification number”?"
 msgstr "“குறிப்பில்லாத கிளையன் அடையாள எண்ணை” எவ்வாறு நீக்கவது?"
 
-#: firefox/geolocation.lang:153
+#: firefox/geolocation.lang:154
 msgid ""
 "Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>"
 msgstr ""
 "<em>கருவிகள்</em> மெனுவுக்கு செல்லவும், <em>சமீபத்திய வரலாற்றை துடைக்கவும்</em> என்பதை "
 "தேர்ந்தெடுக்கவும்"
 
-#: firefox/geolocation.lang:157
+#: firefox/geolocation.lang:158
 msgid "Click the <em>Details</em> arrow"
 msgstr "<em>விவரங்கள்</em> அம்புக்குறியை சொடுக்கவும்"
 
-#: firefox/geolocation.lang:161
+#: firefox/geolocation.lang:162
 msgid "Ensure that <em>Cookies</em> is selected"
 msgstr "<em>குக்கீஸ்</em> தேர்ந்தெடுக்கப்பட்டது என உறுதி செய்யவும்"
 
-#: firefox/geolocation.lang:165
+#: firefox/geolocation.lang:166
 msgid "Click on <em>Clear Now</em>"
 msgstr "<em>இப்போது துடை</em> என்பதை சொடுக்கவும்"
 
-#: firefox/geolocation.lang:169
+#: firefox/geolocation.lang:170
 msgid "How do I turn off Location-Aware Browsing permanently?"
 msgstr "இருப்பிட விழிப்புணர்வு உலாவுதலை எவ்வாறு நான் நிரந்தரமாக நிறுத்துவது?"
 
-#: firefox/geolocation.lang:173
+#: firefox/geolocation.lang:174
 msgid ""
 "Location-Aware Browsing is always opt-in in Firefox. No location information "
 "is ever sent without your permission. If you wish to disable the feature "
@@ -317,39 +318,39 @@ msgstr ""
 "உங்களின் அனுமதியில்லாமல் அனுப்புப்படமாட்டாது. நீங்கள் இந்த வசதியை செயல்நீக்க, இந்த "
 "வழிமுறைகளைப் பின்பற்றவும்:"
 
-#: firefox/geolocation.lang:177
+#: firefox/geolocation.lang:178
 msgid "In the URL bar, type <code>about:config</code>"
 msgstr "URL பட்டையில், <code>about:config</code> என தட்டச்சு செய்யவும்"
 
-#: firefox/geolocation.lang:181
+#: firefox/geolocation.lang:182
 msgid "Type <code>geo.enabled</code>"
 msgstr "<code>geo.enabled</code> என தட்டச்சு செய்"
 
-#: firefox/geolocation.lang:185
+#: firefox/geolocation.lang:186
 msgid "Double click on the <em>geo.enabled</em> preference"
 msgstr "<em>geo.enabled</em> விருப்பம் மீது இருமுறை சொடுக்கவும்"
 
-#: firefox/geolocation.lang:189
+#: firefox/geolocation.lang:190
 msgid "Location-Aware Browsing is now disabled"
 msgstr "இட விழிப்புணர்வு உலாவல் இப்போது செயல்நீக்கப்பட்டுள்ளது"
 
 #. # TAG: geolocation_faq_update
-#: firefox/geolocation.lang:194
+#: firefox/geolocation.lang:195
 msgid "How can I add support for Geolocation to my web site?"
 msgstr ""
 
 #. # TAG: geolocation_faq_update
 #. Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
-#: firefox/geolocation.lang:200
+#: firefox/geolocation.lang:201
 msgid ""
 "You can integrate Geolocation support into your service by following the "
 "instruction at <a href=\"%(url)s\">Mozilla Developer Center</a>."
 msgstr ""
 
-#: firefox/geolocation.lang:204
+#: firefox/geolocation.lang:205
 msgid "Where am I?"
 msgstr "நான் எங்கே?"
 
-#: firefox/geolocation.lang:208
+#: firefox/geolocation.lang:209
 msgid "Oops! An error occurred while trying to determine your position."
 msgstr "அய்யோ! உங்களுடைய நிலையை தீர்மானிக்க முயற்சிக்கும் போது பிழை ஏற்பட்டுள்ளது."

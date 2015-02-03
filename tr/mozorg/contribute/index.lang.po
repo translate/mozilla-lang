@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-05 19:06+0000\n"
+"POT-Creation-Date: 2015-02-03 09:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,85 +13,86 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 
-#. # NOTE: https://www-dev.allizom.org/contribute/
+#. # NOTE: Demo server available at https://www-dev.allizom.org/contribute
+#. # URL: https://www-dev.allizom.org/contribute
 #. Used for HTML title attribute
-#: mozorg/contribute/index.lang:4
+#: mozorg/contribute/index.lang:5
 msgid "Volunteer Opportunities at Mozilla"
 msgstr "Mozilla'da gönüllülük olanakları"
 
 #. this string is used for accessibility reasons, it's not visible in the page
-#: mozorg/contribute/index.lang:9
+#: mozorg/contribute/index.lang:10
 msgid "Menu"
 msgstr "Menü"
 
 #. this br is for formatting, omit or reposition as needed
-#: mozorg/contribute/index.lang:14
+#: mozorg/contribute/index.lang:15
 msgid "Why<br> volunteer"
 msgstr "Neden<br> gönüllülük?"
 
 #. this br is for formatting, omit or reposition as needed
-#: mozorg/contribute/index.lang:19
+#: mozorg/contribute/index.lang:20
 msgid "Find<br> an event"
 msgstr "Bir etkinlik<br> bulun"
 
 #. this br is for formatting, omit or reposition as needed
-#: mozorg/contribute/index.lang:24
+#: mozorg/contribute/index.lang:25
 msgid "Meet<br> Mozillians"
 msgstr "Mozillian’larla<br> tanışın"
 
-#: mozorg/contribute/index.lang:28
+#: mozorg/contribute/index.lang:29
 msgid "Get involved"
 msgstr "Aramıza katılın"
 
-#: mozorg/contribute/index.lang:32
+#: mozorg/contribute/index.lang:33
 msgid "Your country"
 msgstr "Ülkeniz"
 
 #. This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
-#: mozorg/contribute/index.lang:37
+#: mozorg/contribute/index.lang:38
 msgid "I live in&hellip;"
 msgstr "Ülkem&hellip;"
 
-#: mozorg/contribute/index.lang:41
+#: mozorg/contribute/index.lang:42
 msgid "Volunteer with Mozilla!"
 msgstr "Mozilla’da gönüllü olun!"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
-#: mozorg/contribute/index.lang:46
+#: mozorg/contribute/index.lang:47
 msgid "active Mozillians worldwide"
 msgstr "aktif Mozillian (tüm dünyada)"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
-#: mozorg/contribute/index.lang:51
+#: mozorg/contribute/index.lang:52
 msgid "upcoming events around the globe"
 msgstr "yaklaşan etkinlik (dünya çapında)"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
-#: mozorg/contribute/index.lang:56
+#: mozorg/contribute/index.lang:57
 msgid "languages and counting, on every continent"
 msgstr "dil (tüm kıtalarda)"
 
-#: mozorg/contribute/index.lang:60
+#: mozorg/contribute/index.lang:61
 msgid "Join a global community of game-changers."
 msgstr "Dünyayı değiştiren küresel bir topluluğa katılın."
 
 #. this br is for formatting, omit or reposition as needed
-#: mozorg/contribute/index.lang:65
+#: mozorg/contribute/index.lang:66
 msgid ""
 "Volunteer as much as you like. Or as little.<br> It’s totally up to you."
 msgstr "İster az vakit ayırın, ister çok.<br> Tamamen size bağlı."
 
 #. this br is for formatting, omit or reposition as needed
-#: mozorg/contribute/index.lang:70
+#: mozorg/contribute/index.lang:71
 msgid "Share your skills and pick up<br> a few new ones along the way."
 msgstr "Becerilerinizi paylaşırken<br> yeni bir şeyler de öğreneceksiniz."
 
-#: mozorg/contribute/index.lang:74
+#: mozorg/contribute/index.lang:75
 msgid "Volunteering with Mozilla&hellip;"
 msgstr "Mozilla’da gönüllü olmak&hellip;"
 
 #. This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
-#: mozorg/contribute/index.lang:79
+#: mozorg/contribute/index.lang:80
 msgid ""
 "is about more than lending a hand. It’s about learning, collaborating and "
 "sharing your skills with a global community of Mozillians — coders, "
@@ -101,157 +102,157 @@ msgstr ""
 "Mozillian’lardan (programcılar, organizatörler, aktivistler) oluşan küresel "
 "bir toplulukla becerilerinizi paylaşacak, öğrenecek, işbirliği yapacaksınız."
 
-#: mozorg/contribute/index.lang:83
+#: mozorg/contribute/index.lang:84
 msgid "See our community in action"
 msgstr "Topluluğumuzun nasıl çalıştığını görün"
 
-#: mozorg/contribute/index.lang:87
+#: mozorg/contribute/index.lang:88
 msgid "How Mozillians help every day"
 msgstr "Bakın Mozillian’lar her gün neler yapıyor"
 
 #. Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
-#: mozorg/contribute/index.lang:92
+#: mozorg/contribute/index.lang:93
 msgid "Spain &middot; Activism"
 msgstr "İspanya &middot; Aktivizm"
 
 #. Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
-#: mozorg/contribute/index.lang:97
+#: mozorg/contribute/index.lang:98
 msgid "Philippines &middot; Activism"
 msgstr "Filipinler &middot; Aktivizm"
 
 #. Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
-#: mozorg/contribute/index.lang:102
+#: mozorg/contribute/index.lang:103
 msgid "Switzerland &middot; Coding"
 msgstr "İsviçre &middot; Programlama"
 
 #. Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
-#: mozorg/contribute/index.lang:107
+#: mozorg/contribute/index.lang:108
 msgid "India &middot; Teaching"
 msgstr "Hindistan &middot; Eğitim"
 
-#: mozorg/contribute/index.lang:111
+#: mozorg/contribute/index.lang:112
 msgid "Read his story"
 msgstr "Öyküsünü oku"
 
-#: mozorg/contribute/index.lang:115
+#: mozorg/contribute/index.lang:116
 msgid "Read her story"
 msgstr "Öyküsünü oku"
 
-#: mozorg/contribute/index.lang:119
+#: mozorg/contribute/index.lang:120
 msgid "Want to get involved? Here’s how."
 msgstr "Aramıza katılmak ister misiniz? İşte yapmanız gerekenler:"
 
-#: mozorg/contribute/index.lang:123
+#: mozorg/contribute/index.lang:124
 msgid "Choose what interests you and tell us how you’d like to help"
 msgstr ""
 "İlginizi çeken konuları ve nasıl yardımcı olmak istediğinizi bize söyleyin"
 
-#: mozorg/contribute/index.lang:127
+#: mozorg/contribute/index.lang:128
 msgid "Stand by for an email that will connect you to the Mozilla community"
 msgstr "Sizi Mozilla topluluğuna bağlayacak e-postayı bekleyin"
 
-#: mozorg/contribute/index.lang:131
+#: mozorg/contribute/index.lang:132
 msgid ""
 "Create your Mozillians account and share your contributions with the world"
 msgstr ""
 "Mozillians hesabınızı oluşturup katkılarınızı dünyaya ulaştırmaya başlayın"
 
-#: mozorg/contribute/index.lang:135
+#: mozorg/contribute/index.lang:136
 msgid "Get started"
 msgstr "Başlayalım"
 
-#: mozorg/contribute/index.lang:139
+#: mozorg/contribute/index.lang:140
 msgid "Not ready to dive in just yet?"
 msgstr "Henüz hazır değil misiniz?"
 
-#: mozorg/contribute/index.lang:143
+#: mozorg/contribute/index.lang:144
 msgid "Here are a few other ways you can support Mozilla right now."
 msgstr "Mozilla’yı hemen desteklemenizin birkaç yolu daha var."
 
-#: mozorg/contribute/index.lang:147
+#: mozorg/contribute/index.lang:148
 msgid "Donate to Mozilla"
 msgstr "Mozilla’ya bağış yapın"
 
-#: mozorg/contribute/index.lang:151
+#: mozorg/contribute/index.lang:152
 msgid "Read our Manifesto"
 msgstr "Manifestomuzu okuyun"
 
-#: mozorg/contribute/index.lang:155
+#: mozorg/contribute/index.lang:156
 msgid "Like us on Facebook"
 msgstr "Facebook’ta bizi beğenin"
 
-#: mozorg/contribute/index.lang:159
+#: mozorg/contribute/index.lang:160
 msgid "Follow us on Twitter"
 msgstr "Twitter’da bizi takip edin"
 
-#: mozorg/contribute/index.lang:163
+#: mozorg/contribute/index.lang:164
 msgid "Upcoming event"
 msgstr "Yaklaşan etkilik"
 
-#: mozorg/contribute/index.lang:167
+#: mozorg/contribute/index.lang:168
 msgid "See all events"
 msgstr "Tüm etkinlikleri görün"
 
-#: mozorg/contribute/index.lang:171
+#: mozorg/contribute/index.lang:172
 msgid "Communicate"
 msgstr "İletişim kurun"
 
-#: mozorg/contribute/index.lang:175
+#: mozorg/contribute/index.lang:176
 msgid "Mozilla communities"
 msgstr "Mozilla toplulukları"
 
-#: mozorg/contribute/index.lang:179
+#: mozorg/contribute/index.lang:180
 msgid "Mailing lists"
 msgstr "Yazışma listeleri"
 
-#: mozorg/contribute/index.lang:183
+#: mozorg/contribute/index.lang:184
 msgid "IRC channels"
 msgstr "IRC kanalları"
 
-#: mozorg/contribute/index.lang:187
+#: mozorg/contribute/index.lang:188
 msgid "More links"
 msgstr "Diğer bağlantılar"
 
-#: mozorg/contribute/index.lang:191
+#: mozorg/contribute/index.lang:192
 msgid "Submit Firefox feedback"
 msgstr "Firefox’la ilgili geri bildirim"
 
-#: mozorg/contribute/index.lang:195
+#: mozorg/contribute/index.lang:196
 msgid "Explore Mozilla careers"
 msgstr "Mozilla’da kariyer olanakları"
 
-#: mozorg/contribute/index.lang:199
+#: mozorg/contribute/index.lang:200
 msgid "Get help with Firefox"
 msgstr "Firefox’la ilgili yardım alın"
 
-#: mozorg/contribute/index.lang:203
+#: mozorg/contribute/index.lang:204
 msgid "Subscribe to community events"
 msgstr ""
 
-#: mozorg/contribute/index.lang:207
+#: mozorg/contribute/index.lang:208
 msgid "Get community updates"
 msgstr "Topluluktan haberleri alın"
 
 #. Used as title of the /stories sub-page
-#: mozorg/contribute/index.lang:212
+#: mozorg/contribute/index.lang:213
 msgid "Mozillian Stories"
 msgstr "Mozillian Öyküleri"
 
 #. Used as a toggle to display more content.
-#: mozorg/contribute/index.lang:217
+#: mozorg/contribute/index.lang:218
 msgid "More"
 msgstr "Devamı"
 
 #. Used as a toggle to display less content.
-#: mozorg/contribute/index.lang:222
+#: mozorg/contribute/index.lang:223
 msgid "Less"
 msgstr "Kısalt"
 
-#: mozorg/contribute/index.lang:226
+#: mozorg/contribute/index.lang:227
 msgid "Read more Mozillian stories"
 msgstr "Daha fazla Mozillian öyküsü okuyun"
 
-#: mozorg/contribute/index.lang:230
+#: mozorg/contribute/index.lang:231
 msgid ""
 "Discover even more stories on Twitter with <a href=\"%(link_hashtag)s"
 "\">#IAmAMozillian</a>"
@@ -259,39 +260,39 @@ msgstr ""
 "Twitter’da <a href=\"%(link_hashtag)s\">#IAmAMozillian</a> ile daha da fazla "
 "öyküyü keşfedin"
 
-#: mozorg/contribute/index.lang:234
+#: mozorg/contribute/index.lang:235
 msgid "More coming soon"
 msgstr "Devamı çok yakında"
 
 #. Used as title of the /signup sub-page
-#: mozorg/contribute/index.lang:239
+#: mozorg/contribute/index.lang:240
 msgid "Get Involved: Volunteer Opportunities at Mozilla"
 msgstr "Aramıza Katılın: Mozilla’daki Gönüllü Görevleri"
 
-#: mozorg/contribute/index.lang:243
+#: mozorg/contribute/index.lang:244
 msgid "To get started, tell us what interests you."
 msgstr "Başlamak için bize ilgi alanınızı söyleyin."
 
-#: mozorg/contribute/index.lang:247
+#: mozorg/contribute/index.lang:248
 msgid "Choose one for now. You can always contribute to other areas later."
 msgstr ""
 "Şimdilik bir tane seçin. Daha sonra başka alanlarda da katkıda "
 "bulunabilirsiniz."
 
 #. This text is used for accessibility reasons, it's not visible
-#: mozorg/contribute/index.lang:252
+#: mozorg/contribute/index.lang:253
 msgid "Where would you like to get started?"
 msgstr "Nereden başlamak istersiniz?"
 
-#: mozorg/contribute/index.lang:256
+#: mozorg/contribute/index.lang:257
 msgid "Coding"
 msgstr "Programlama"
 
-#: mozorg/contribute/index.lang:260
+#: mozorg/contribute/index.lang:261
 msgid "More about coding"
 msgstr "Kodlama hakkında daha fazla bilgi"
 
-#: mozorg/contribute/index.lang:264
+#: mozorg/contribute/index.lang:265
 msgid ""
 "Contribute code to a whole range of Mozilla products, including Firefox and "
 "Firefox OS."
@@ -299,29 +300,29 @@ msgstr ""
 "Firefox ve Firefox OS de dahil olmak üzere çeşitli Mozilla ürünlerinin "
 "kodlarına katkıda bulunun."
 
-#: mozorg/contribute/index.lang:268
+#: mozorg/contribute/index.lang:269
 msgid "Testing"
 msgstr "Test"
 
-#: mozorg/contribute/index.lang:272
+#: mozorg/contribute/index.lang:273
 msgid "More about testing"
 msgstr "Test hakkında daha fazla bilgi"
 
-#: mozorg/contribute/index.lang:276
+#: mozorg/contribute/index.lang:277
 msgid "Help make the Mozilla products you use — and love — even better."
 msgstr ""
 "Kullandığınız ve sevdiğiniz Mozila ürünlerinin daha da iyi hale gelmesini "
 "sağlayın."
 
-#: mozorg/contribute/index.lang:280
+#: mozorg/contribute/index.lang:281
 msgid "Writing"
 msgstr "Yazarlık"
 
-#: mozorg/contribute/index.lang:284
+#: mozorg/contribute/index.lang:285
 msgid "More about writing"
 msgstr "Yazma hakkında daha fazla bilgi"
 
-#: mozorg/contribute/index.lang:288
+#: mozorg/contribute/index.lang:289
 msgid ""
 "Lend your voice to Mozilla — from blogging and social media to providing "
 "technical documents for users and developers."
@@ -330,15 +331,15 @@ msgstr ""
 "geliştiriciler için teknik dokümanlar sağlamaya kadar birçok alanda yardımcı "
 "olabilirsiniz."
 
-#: mozorg/contribute/index.lang:292
+#: mozorg/contribute/index.lang:293
 msgid "Teaching"
 msgstr "Öğretim"
 
-#: mozorg/contribute/index.lang:296
+#: mozorg/contribute/index.lang:297
 msgid "More about teaching"
 msgstr "Öğretim hakkında daha fazla bilgi"
 
-#: mozorg/contribute/index.lang:300
+#: mozorg/contribute/index.lang:301
 msgid ""
 "Share your skills with a community that’s eager to learn. Take advantage of "
 "our free tools, teaching resources and events."
@@ -346,30 +347,30 @@ msgstr ""
 "Becerilerinizi öğrenmeye meraklı bir toplulukla paylaşın. Ücetsiz "
 "araçlarımızdan, eğitim kaynaklarımızdan ve etkinliklerimizden faydalanın."
 
-#: mozorg/contribute/index.lang:304
+#: mozorg/contribute/index.lang:305
 msgid "Helping"
 msgstr "Yardım etme"
 
-#: mozorg/contribute/index.lang:308
+#: mozorg/contribute/index.lang:309
 msgid "More about helping"
 msgstr "Yardım etme hakkında daha fazla bilgi"
 
-#: mozorg/contribute/index.lang:312
+#: mozorg/contribute/index.lang:313
 msgid ""
 "Provide support to users who need it and help everyone get the most out of "
 "their Mozilla products."
 msgstr ""
 "Mozilla ürünleriyle ilgili yardıma ihtiyacı olan kullanıcılara destek verin."
 
-#: mozorg/contribute/index.lang:316
+#: mozorg/contribute/index.lang:317
 msgid "Translating"
 msgstr "Çeviri"
 
-#: mozorg/contribute/index.lang:320
+#: mozorg/contribute/index.lang:321
 msgid "More about translating"
 msgstr "Çeviri hakkında daha fazla bilgi"
 
-#: mozorg/contribute/index.lang:324
+#: mozorg/contribute/index.lang:325
 msgid ""
 "Help make Mozilla stuff available in other languages. Translate everything "
 "from newsletters and websites to copy for Firefox and Firefox OS."
@@ -378,15 +379,15 @@ msgstr ""
 "Bültenlerden web sitelerine, Firefox’tan Firefox OS’e kadar birçok şeyi "
 "çeviriyoruz."
 
-#: mozorg/contribute/index.lang:328
+#: mozorg/contribute/index.lang:329
 msgid "Activism"
 msgstr "Aktivizm"
 
-#: mozorg/contribute/index.lang:332
+#: mozorg/contribute/index.lang:333
 msgid "More about activism"
 msgstr "Aktivizm hakkında daha fazla bilgi"
 
-#: mozorg/contribute/index.lang:336
+#: mozorg/contribute/index.lang:337
 msgid ""
 "Get involved with our opportunities to support freedom, security and privacy "
 "on the open Web."
@@ -394,15 +395,15 @@ msgstr ""
 "Web’de özgürlüğü, güvenliği ve gizliliği destekleyen olanaklarımıza katkıda "
 "bulunun."
 
-#: mozorg/contribute/index.lang:340
+#: mozorg/contribute/index.lang:341
 msgid "I don’t know"
 msgstr "Bilmiyorum"
 
-#: mozorg/contribute/index.lang:344
+#: mozorg/contribute/index.lang:345
 msgid "More about how you can contribute"
 msgstr "Nasıl katkıda bulunabilirsiniz?"
 
-#: mozorg/contribute/index.lang:348
+#: mozorg/contribute/index.lang:349
 msgid ""
 "Not sure how you want to help? No problem. We can find the appropriate "
 "contribution activity for you."
@@ -410,35 +411,35 @@ msgstr ""
 "Nasıl yardım etmek istediğinizden emin değil misiniz? Sorun değil. Size en "
 "uygun katkıda bulunma yolunu bulabiliriz."
 
-#: mozorg/contribute/index.lang:352
+#: mozorg/contribute/index.lang:353
 msgid "Now tell us a little about yourself:"
 msgstr "Bize biraz kendinizden bahsedin:"
 
-#: mozorg/contribute/index.lang:356
+#: mozorg/contribute/index.lang:357
 msgid "Name"
 msgstr "Adınız"
 
-#: mozorg/contribute/index.lang:360
+#: mozorg/contribute/index.lang:361
 msgid "Email address"
 msgstr "E-posta adresiniz"
 
-#: mozorg/contribute/index.lang:364
+#: mozorg/contribute/index.lang:365
 msgid "Country"
 msgstr "Ülkeniz"
 
-#: mozorg/contribute/index.lang:368
+#: mozorg/contribute/index.lang:369
 msgid "select"
 msgstr "seçin"
 
-#: mozorg/contribute/index.lang:372
+#: mozorg/contribute/index.lang:373
 msgid "Why do you want to be a Mozilla volunteer?"
 msgstr "Neden Mozilla gönüllüsü olmak istiyorsunuz?"
 
-#: mozorg/contribute/index.lang:376
+#: mozorg/contribute/index.lang:377
 msgid "(Optional)"
 msgstr "(Tercihe bağlı)"
 
-#: mozorg/contribute/index.lang:380
+#: mozorg/contribute/index.lang:381
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%(privacy)s"
 "\">this Privacy Policy</a>"
@@ -446,184 +447,184 @@ msgstr ""
 "Mozilla’nın bilgilerimi <a href=\"%(privacy)s\">bu Gizlilik İlkelerinde</a> "
 "açıklandığı şekilde kullanmasına izin veriyorum"
 
-#: mozorg/contribute/index.lang:384
+#: mozorg/contribute/index.lang:385
 msgid "Start contributing"
 msgstr "Katkıda bulunmaya başla"
 
-#: mozorg/contribute/index.lang:388
+#: mozorg/contribute/index.lang:389
 msgid "Sign me up for community updates"
 msgstr "Topluluktan haberleri almak istiyorum"
 
-#: mozorg/contribute/index.lang:392
+#: mozorg/contribute/index.lang:393
 msgid "(English)"
 msgstr "(İngilizce)"
 
-#: mozorg/contribute/index.lang:396
+#: mozorg/contribute/index.lang:397
 msgid "What particular area?"
 msgstr "Hangi alan?"
 
-#: mozorg/contribute/index.lang:400
+#: mozorg/contribute/index.lang:401
 msgid "What would you like to code?"
 msgstr "Neyi kodlamak istersiniz?"
 
-#: mozorg/contribute/index.lang:404
+#: mozorg/contribute/index.lang:405
 msgid "What would you like to test?"
 msgstr "Neyi test etmek istersiniz?"
 
-#: mozorg/contribute/index.lang:408
+#: mozorg/contribute/index.lang:409
 msgid "What would you like to translate?"
 msgstr "Neyi çevirmek istersiniz?"
 
-#: mozorg/contribute/index.lang:412
+#: mozorg/contribute/index.lang:413
 msgid "What would you like to write?"
 msgstr "Ne yazmak istersiniz?"
 
-#: mozorg/contribute/index.lang:416
+#: mozorg/contribute/index.lang:417
 msgid "What would you like to teach?"
 msgstr "Ne öğretmek istersiniz?"
 
-#: mozorg/contribute/index.lang:420
+#: mozorg/contribute/index.lang:421
 msgid "Firefox"
 msgstr "Firefox"
 
-#: mozorg/contribute/index.lang:424
+#: mozorg/contribute/index.lang:425
 msgid "Firefox OS"
 msgstr "Firefox OS"
 
-#: mozorg/contribute/index.lang:428
+#: mozorg/contribute/index.lang:429
 msgid "Websites"
 msgstr "Web siteleri"
 
-#: mozorg/contribute/index.lang:432
+#: mozorg/contribute/index.lang:433
 msgid "Firefox add-ons"
 msgstr "Firefox eklentileri"
 
-#: mozorg/contribute/index.lang:436
+#: mozorg/contribute/index.lang:437
 msgid "HTML5 apps"
 msgstr "HTML5 uygulamaları"
 
-#: mozorg/contribute/index.lang:440
+#: mozorg/contribute/index.lang:441
 msgid "Diagnosing Web compatibility issues"
 msgstr "Web uyumlululuk sorunlarının tespiti"
 
-#: mozorg/contribute/index.lang:444
+#: mozorg/contribute/index.lang:445
 msgid "Online services"
 msgstr "Çevrimiçi hizmetler"
 
-#: mozorg/contribute/index.lang:448
+#: mozorg/contribute/index.lang:449
 msgid "Firefox and Firefox OS"
 msgstr "Firefox ve Firefox OS"
 
-#: mozorg/contribute/index.lang:452
+#: mozorg/contribute/index.lang:453
 msgid "Web compatibility"
 msgstr "Web uyumlululuğu"
 
-#: mozorg/contribute/index.lang:456
+#: mozorg/contribute/index.lang:457
 msgid "Product localization"
 msgstr "Ürün yerelleştirme"
 
-#: mozorg/contribute/index.lang:460
+#: mozorg/contribute/index.lang:461
 msgid "Website localization"
 msgstr "Web sitesi yerelleştirme"
 
-#: mozorg/contribute/index.lang:464
+#: mozorg/contribute/index.lang:465
 msgid "I’d like to work on localization tools"
 msgstr "Yerelleştirme araçları üzerinde çalışmak istiyorum"
 
-#: mozorg/contribute/index.lang:468
+#: mozorg/contribute/index.lang:469
 msgid "Social media"
 msgstr "Sosyal medya"
 
-#: mozorg/contribute/index.lang:472
+#: mozorg/contribute/index.lang:473
 msgid "Journalism"
 msgstr "Gazetecilik"
 
-#: mozorg/contribute/index.lang:476
+#: mozorg/contribute/index.lang:477
 msgid "Technical docs for users"
 msgstr "Kullanıcılar için teknik belgeler"
 
-#: mozorg/contribute/index.lang:480
+#: mozorg/contribute/index.lang:481
 msgid "Technical docs for developers"
 msgstr "Geliştiriciler için teknik belgeler"
 
-#: mozorg/contribute/index.lang:484
+#: mozorg/contribute/index.lang:485
 msgid "Technical docs for Firefox add-ons"
 msgstr "Firefox eklentileri için teknik belgeler"
 
-#: mozorg/contribute/index.lang:488
+#: mozorg/contribute/index.lang:489
 msgid "Technical docs for HTML5 apps"
 msgstr "HTML5 uygulamaları için teknik belgeler"
 
-#: mozorg/contribute/index.lang:492
+#: mozorg/contribute/index.lang:493
 msgid "Teach the Web (Webmaker)"
 msgstr "Web öğretmek (Webmaker)"
 
-#: mozorg/contribute/index.lang:496
+#: mozorg/contribute/index.lang:497
 msgid "Open News fellowships"
 msgstr "Open News bursları"
 
-#: mozorg/contribute/index.lang:500
+#: mozorg/contribute/index.lang:501
 msgid "Hive - Community networks of educators/mentors"
 msgstr ""
 
-#: mozorg/contribute/index.lang:504
+#: mozorg/contribute/index.lang:505
 msgid "Open Web science research"
 msgstr "Açık Web bilimsel araştırmaları"
 
-#: mozorg/contribute/index.lang:508
+#: mozorg/contribute/index.lang:509
 msgid "Community Events"
 msgstr "Topluluk Etkinlikleri"
 
-#: mozorg/contribute/index.lang:512
+#: mozorg/contribute/index.lang:513
 msgid "Find events"
 msgstr "Etkinlik arama"
 
-#: mozorg/contribute/index.lang:516
+#: mozorg/contribute/index.lang:517
 msgid "By city, country, or event:"
 msgstr "Şehre, ülkeye veya etkinliğe göre:"
 
-#: mozorg/contribute/index.lang:520
+#: mozorg/contribute/index.lang:521
 msgid "By date:"
 msgstr "Tarihe göre:"
 
-#: mozorg/contribute/index.lang:524
+#: mozorg/contribute/index.lang:525
 msgid "month"
 msgstr "ay"
 
-#: mozorg/contribute/index.lang:528
+#: mozorg/contribute/index.lang:529
 msgid "year"
 msgstr "yıl"
 
-#: mozorg/contribute/index.lang:532
+#: mozorg/contribute/index.lang:533
 msgid "Date"
 msgstr "Tarih"
 
-#: mozorg/contribute/index.lang:536
+#: mozorg/contribute/index.lang:537
 msgid "Event"
 msgstr "Etkinlik"
 
-#: mozorg/contribute/index.lang:540
+#: mozorg/contribute/index.lang:541
 msgid "Location"
 msgstr "Konum"
 
-#: mozorg/contribute/index.lang:544
+#: mozorg/contribute/index.lang:545
 msgid "City"
 msgstr "Şehir"
 
-#: mozorg/contribute/index.lang:548
+#: mozorg/contribute/index.lang:549
 msgid "Events"
 msgstr "Etkinlikler"
 
 #. Used as title of the thank you page displayed after users send the form
-#: mozorg/contribute/index.lang:553
+#: mozorg/contribute/index.lang:554
 msgid "Thank you!"
 msgstr "Teşekkür ederiz!"
 
-#: mozorg/contribute/index.lang:557
+#: mozorg/contribute/index.lang:558
 msgid "Thanks!"
 msgstr "Teşekkürler!"
 
-#: mozorg/contribute/index.lang:561
+#: mozorg/contribute/index.lang:562
 msgid ""
 "We’re thrilled to see that you’re interested in coding and can’t wait to get "
 "you started."
@@ -631,7 +632,7 @@ msgstr ""
 "Programlama konusuyla ilgilenmenize çok sevindik. Desteğinizi görmek için "
 "sabırsızlanıyoruz."
 
-#: mozorg/contribute/index.lang:565
+#: mozorg/contribute/index.lang:566
 msgid ""
 "We’re thrilled to see that you’re interested in testing and can’t wait to "
 "get you started."
@@ -639,7 +640,7 @@ msgstr ""
 "Test konusuyla ilgilenmenize çok sevindik. Desteğinizi görmek için "
 "sabırsızlanıyoruz."
 
-#: mozorg/contribute/index.lang:569
+#: mozorg/contribute/index.lang:570
 msgid ""
 "We’re thrilled to see that you’re interested in writing and can’t wait to "
 "get you started."
@@ -647,7 +648,7 @@ msgstr ""
 "Yazım konusuyla ilgilenmenize çok sevindik. Desteğinizi görmek için "
 "sabırsızlanıyoruz."
 
-#: mozorg/contribute/index.lang:573
+#: mozorg/contribute/index.lang:574
 msgid ""
 "We’re thrilled to see that you’re interested in teaching and can’t wait to "
 "get you started."
@@ -655,7 +656,7 @@ msgstr ""
 "Öğretim konusuyla ilgilenmenize çok sevindik. Desteğinizi görmek için "
 "sabırsızlanıyoruz."
 
-#: mozorg/contribute/index.lang:577
+#: mozorg/contribute/index.lang:578
 msgid ""
 "We’re thrilled to see that you’re interested in helping and can’t wait to "
 "get you started."
@@ -663,7 +664,7 @@ msgstr ""
 "Yardım konusuyla ilgilenmenize çok sevindik. Desteğinizi görmek için "
 "sabırsızlanıyoruz."
 
-#: mozorg/contribute/index.lang:581
+#: mozorg/contribute/index.lang:582
 msgid ""
 "We’re thrilled to see that you’re interested in translating and can’t wait "
 "to get you started."
@@ -671,7 +672,7 @@ msgstr ""
 "Çeviri konusuyla ilgilenmenize çok sevindik. Desteğinizi görmek için "
 "sabırsızlanıyoruz."
 
-#: mozorg/contribute/index.lang:585
+#: mozorg/contribute/index.lang:586
 msgid ""
 "We’re thrilled to see that you’re interested in activism and can’t wait to "
 "get you started."
@@ -679,7 +680,7 @@ msgstr ""
 "Aktivizm konusuyla ilgilenmenize çok sevindik. Desteğinizi görmek için "
 "sabırsızlanıyoruz."
 
-#: mozorg/contribute/index.lang:589
+#: mozorg/contribute/index.lang:590
 msgid ""
 "We’re thrilled to see that you’re interested in volunteering and can’t wait "
 "to get you started."
@@ -687,48 +688,48 @@ msgstr ""
 "Gönüllü olmak istemenize çok sevindik. Desteğinizi görmek için "
 "sabırsızlanıyoruz."
 
-#: mozorg/contribute/index.lang:593
+#: mozorg/contribute/index.lang:594
 msgid "Keep an eye on your inbox for an important message from us."
 msgstr "Bizden gelecek önemli bir mesajı yakında gelen kutunuzda bulacaksınız."
 
-#: mozorg/contribute/index.lang:597
+#: mozorg/contribute/index.lang:598
 msgid "Hello!"
 msgstr "Merhaba!"
 
-#: mozorg/contribute/index.lang:601
+#: mozorg/contribute/index.lang:602
 msgid "Your Name"
 msgstr "Adınız"
 
-#: mozorg/contribute/index.lang:605
+#: mozorg/contribute/index.lang:606
 msgid "In the meantime&hellip;"
 msgstr "Bu arada&hellip;"
 
-#: mozorg/contribute/index.lang:609
+#: mozorg/contribute/index.lang:610
 msgid ""
 "You can create your Mozillians account now to connect with fellow Mozillians."
 msgstr ""
 "Diğer Mozillian’larla iletişime geçmek için Mozillians hesabınızı hemen "
 "oluşturabilirsiniz."
 
-#: mozorg/contribute/index.lang:613
+#: mozorg/contribute/index.lang:614
 msgid "Yes, create my Mozillians account"
 msgstr "Evet, Mozillians hesabımı oluştur"
 
-#: mozorg/contribute/index.lang:617
+#: mozorg/contribute/index.lang:618
 msgid "You will be asked to sign in before proceeding"
 msgstr "Devam etmeden önce oturum açmanız istenecektir"
 
-#: mozorg/contribute/index.lang:621
+#: mozorg/contribute/index.lang:622
 msgid "No thanks, I’ll just wait for the email"
 msgstr "Gerek yok, e-postayı bekleyeceğim"
 
 #. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:626
+#: mozorg/contribute/index.lang:627
 msgid "Send us a note and we can get you started right away."
 msgstr "Size uygun bir şeyler bulmamız için bize bilgi verin."
 
 #. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:631
+#: mozorg/contribute/index.lang:632
 msgid "Hi, I’m interested in…"
 msgstr "Merhaba, ilgi alanım…"
 
