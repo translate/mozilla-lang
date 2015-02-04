@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-28 10:06+0000\n"
+"POT-Creation-Date: 2015-02-04 20:07+0000\n"
 "PO-Revision-Date: 2015-01-30 16:11+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,10 +12,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1422634270.000000\n"
 
 #. # NOTE: demo page is available at https://www-dev.allizom.org/privacy/
+#. # URL: https://www-dev.allizom.org/%LOCALE%/privacy/tips
 #: privacy/index.lang:4
 msgid "Mozilla Privacy"
 msgstr "Preifatrwydd Mozilla"
@@ -33,42 +34,10 @@ msgstr ""
 "preifatrwydd, cysylltwch â:"
 
 #: privacy/index.lang:16
-msgid ""
-"Please use this form to send us your questions, concerns or thoughts related "
-"to privacy at Mozilla."
-msgstr ""
-"Defnyddiwch y ffurflen hon i anfon eich cwestiynau, pryderon neu awgrymiadau "
-"am breifatrwydd Mozilla."
-
-#: privacy/index.lang:20
-msgid "Your request could not be completed. Please try again."
-msgstr "Nid oedd modd cwblhau eich cais. Ceisiwch eto."
-
-#: privacy/index.lang:24
-msgid "Your email:"
-msgstr "Eich e-bost:"
-
-#: privacy/index.lang:28
-msgid "Your comments:"
-msgstr "Eich sylwadau:"
-
-#: privacy/index.lang:32
-msgid "Send comments"
-msgstr "Anfon eich sylwadau"
-
-#: privacy/index.lang:36
-msgid ""
-"<strong>Thank you</strong> for sending us your questions or comments. A "
-"member of the privacy team will be in contact shortly."
-msgstr ""
-"<strong>Diolch yn fawr</strong> am anfon eich cwestiynau neu sylwadau. Bydd "
-"aelod o'r tîm preifatrwydd mewn cysylltiad â chi'n fuan."
-
-#: privacy/index.lang:40
 msgid "Data Privacy Principles"
 msgstr "Egwyddorion Preifatrwydd Data"
 
-#: privacy/index.lang:44
+#: privacy/index.lang:20
 msgid ""
 "Mozilla is an open source project with a mission to improve your Internet "
 "experience. This is a driving force behind our data privacy practices. <a "
@@ -78,11 +47,11 @@ msgstr ""
 "rhyngrwyd. Hwn sy'n gyrru'n arferion preifatrwydd data. <a href=\"%(link)s"
 "\">Darllenwch Ragor</a>"
 
-#: privacy/index.lang:48
+#: privacy/index.lang:24
 msgid "Our Privacy Notices"
 msgstr "Ein Hysbysiadau Preifatrwydd"
 
-#: privacy/index.lang:52
+#: privacy/index.lang:28
 msgid ""
 "We created short and clear Privacy Notices to describe how each of our "
 "products and services receives, shares, and uses data and what your choices "
@@ -92,19 +61,19 @@ msgstr ""
 "mae ein cynnyrch a'n gwasanaethau'n derbyn, rhannu a defnyddio data a beth "
 "yw eich dewisiadau. Dysgwch ragor:"
 
-#: privacy/index.lang:56
+#: privacy/index.lang:32
 msgid "Mozilla Websites, Communications &amp; Cookies"
 msgstr "Gwefannau Mozilla, Cyfathrebu a Chwcis"
 
-#: privacy/index.lang:60
+#: privacy/index.lang:36
 msgid "Firefox Browser"
 msgstr "Y Porwr Firefox"
 
-#: privacy/index.lang:64
+#: privacy/index.lang:40
 msgid "Firefox Cloud Services"
 msgstr "Gwasanaethau Cwmwl Firefox"
 
-#: privacy/index.lang:69
+#: privacy/index.lang:45
 msgid ""
 "To review and comment on proposed changes to our privacy policies <a href="
 "\"%(group)s\"> subscribe to Mozilla’s Governance Group</a>."
@@ -113,7 +82,7 @@ msgstr ""
 "polisïau preifatrwydd <a href=\"%(group)s\"> tanysgrifiwch i'r Grŵp "
 "Llywodraethu Mozilla</a>."
 
-#: privacy/index.lang:73
+#: privacy/index.lang:49
 msgid ""
 "Our ongoing work on privacy is covered by the <a href=\"%(blog)s\">Privacy "
 "&amp; Data Safety Blog</a> and information about our ongoing work is "
@@ -123,24 +92,50 @@ msgstr ""
 "\"%(blog)s\">Mlog Preifatrwydd a Diogelwch Data</a> ac mae gwybodaeth am ein "
 "gwaith ar gael ar<a href=\"%(wiki)s\"> wici tîm preifatrwydd Mozilla</a>."
 
-#: privacy/index.lang:77
+#: privacy/index.lang:53
 msgid "Outdated Policies"
 msgstr "Hen Bolisïau"
 
 #. Used at the top of the page for navigation (breadcrumbs)
-#: privacy/index.lang:82
+#: privacy/index.lang:58
 msgid "Home"
 msgstr "Cartref"
 
 #. Used in legal docs to collapse (hide) a paragraph
-#: privacy/index.lang:87
+#: privacy/index.lang:63
 msgid "Show Less"
 msgstr "Dangos Llai"
 
 #. Used in sub-pages to return to the main index https://www.mozilla.org/privacy
-#: privacy/index.lang:92
+#: privacy/index.lang:68
 msgid "Back to Mozilla Privacy Policy"
 msgstr "Nôl i Bolisi Preifatrwydd Mozilla"
+
+#~ msgid ""
+#~ "Please use this form to send us your questions, concerns or thoughts "
+#~ "related to privacy at Mozilla."
+#~ msgstr ""
+#~ "Defnyddiwch y ffurflen hon i anfon eich cwestiynau, pryderon neu "
+#~ "awgrymiadau am breifatrwydd Mozilla."
+
+#~ msgid "Your request could not be completed. Please try again."
+#~ msgstr "Nid oedd modd cwblhau eich cais. Ceisiwch eto."
+
+#~ msgid "Your email:"
+#~ msgstr "Eich e-bost:"
+
+#~ msgid "Your comments:"
+#~ msgstr "Eich sylwadau:"
+
+#~ msgid "Send comments"
+#~ msgstr "Anfon eich sylwadau"
+
+#~ msgid ""
+#~ "<strong>Thank you</strong> for sending us your questions or comments. A "
+#~ "member of the privacy team will be in contact shortly."
+#~ msgstr ""
+#~ "<strong>Diolch yn fawr</strong> am anfon eich cwestiynau neu sylwadau. "
+#~ "Bydd aelod o'r tîm preifatrwydd mewn cysylltiad â chi'n fuan."
 
 #~ msgid "Get Firefox OS"
 #~ msgstr "Estyn Firefox OS"

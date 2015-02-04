@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-28 10:06+0000\n"
+"POT-Creation-Date: 2015-02-04 20:07+0000\n"
 "PO-Revision-Date: 2015-01-28 13:35+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,10 +13,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1422452118.000000\n"
 
 #. # NOTE: demo page is available at https://www-dev.allizom.org/privacy/
+#. # URL: https://www-dev.allizom.org/%LOCALE%/privacy/tips
 #: privacy/index.lang:4
 msgid "Mozilla Privacy"
 msgstr "Datowy škit Mozilla"
@@ -34,42 +35,10 @@ msgstr ""
 "prawidłach priwatnosće, stajće so do zwiska z:"
 
 #: privacy/index.lang:16
-msgid ""
-"Please use this form to send us your questions, concerns or thoughts related "
-"to privacy at Mozilla."
-msgstr ""
-"Prošu wužijće tutón formular, zo byšće nam swoje prašenja, naležnosće abo "
-"mysle nastupajo priwatnosć na Mozilla pósłał."
-
-#: privacy/index.lang:20
-msgid "Your request could not be completed. Please try again."
-msgstr "Waše naprašowanje njeda so dokónčić. Prošu spytajće hišće raz."
-
-#: privacy/index.lang:24
-msgid "Your email:"
-msgstr "Waša e-mejlowa adresa:"
-
-#: privacy/index.lang:28
-msgid "Your comments:"
-msgstr "Waše komentary:"
-
-#: privacy/index.lang:32
-msgid "Send comments"
-msgstr "Komentary pósłać"
-
-#: privacy/index.lang:36
-msgid ""
-"<strong>Thank you</strong> for sending us your questions or comments. A "
-"member of the privacy team will be in contact shortly."
-msgstr ""
-"<strong>Dźakujemy so</strong>, zo sće nam swoje prašenja abo komentary "
-"pósłał. Čłon teama priwatnosće so bórze z wami do zwiska staji."
-
-#: privacy/index.lang:40
 msgid "Data Privacy Principles"
 msgstr "Principy datoweho škita"
 
-#: privacy/index.lang:44
+#: privacy/index.lang:20
 msgid ""
 "Mozilla is an open source project with a mission to improve your Internet "
 "experience. This is a driving force behind our data privacy practices. <a "
@@ -79,11 +48,11 @@ msgstr ""
 "polěpšić. To je ćěrjaca móc za našimi praktikami datoweho škita. <a href="
 "\"%(link)s\">Dalše informacije</a>"
 
-#: privacy/index.lang:48
+#: privacy/index.lang:24
 msgid "Our Privacy Notices"
 msgstr "Naše postajenja priwatnosće"
 
-#: privacy/index.lang:52
+#: privacy/index.lang:28
 msgid ""
 "We created short and clear Privacy Notices to describe how each of our "
 "products and services receives, shares, and uses data and what your choices "
@@ -93,19 +62,19 @@ msgstr ""
 "kóždy z našich produktow a słužbow daty přijima, dźěli a wužiwa a kotre "
 "wólby maće. Zhońće wjace:"
 
-#: privacy/index.lang:56
+#: privacy/index.lang:32
 msgid "Mozilla Websites, Communications &amp; Cookies"
 msgstr "Websydła, zdźělenki a placki Mozilla"
 
-#: privacy/index.lang:60
+#: privacy/index.lang:36
 msgid "Firefox Browser"
 msgstr "Wobhladowak Firefox"
 
-#: privacy/index.lang:64
+#: privacy/index.lang:40
 msgid "Firefox Cloud Services"
 msgstr "Firefox Cloud Services"
 
-#: privacy/index.lang:69
+#: privacy/index.lang:45
 msgid ""
 "To review and comment on proposed changes to our privacy policies <a href="
 "\"%(group)s\"> subscribe to Mozilla’s Governance Group</a>."
@@ -113,7 +82,7 @@ msgstr ""
 "Zo byšće sej změny na našich prawidłach priwatnosće wobhladał a komentował, "
 "<a href=\"%(group)s\">abonujće skupinu mozilla.governance</a>."
 
-#: privacy/index.lang:73
+#: privacy/index.lang:49
 msgid ""
 "Our ongoing work on privacy is covered by the <a href=\"%(blog)s\">Privacy "
 "&amp; Data Safety Blog</a> and information about our ongoing work is "
@@ -123,24 +92,50 @@ msgstr ""
 "Mozilla</a> widźeć a informacije wo našim běžnym dźěle namakaće we <a href="
 "\"%(wiki)s\"> wikiju teama priwatnosće Mozilla</a>."
 
-#: privacy/index.lang:77
+#: privacy/index.lang:53
 msgid "Outdated Policies"
 msgstr "Zestarjene prawidła"
 
 #. Used at the top of the page for navigation (breadcrumbs)
-#: privacy/index.lang:82
+#: privacy/index.lang:58
 msgid "Home"
 msgstr "Startowa strona"
 
 #. Used in legal docs to collapse (hide) a paragraph
-#: privacy/index.lang:87
+#: privacy/index.lang:63
 msgid "Show Less"
 msgstr "Mjenje pokazać"
 
 #. Used in sub-pages to return to the main index https://www.mozilla.org/privacy
-#: privacy/index.lang:92
+#: privacy/index.lang:68
 msgid "Back to Mozilla Privacy Policy"
 msgstr "Wróćo k prawidłam priwatnosće Mozilla"
+
+#~ msgid ""
+#~ "Please use this form to send us your questions, concerns or thoughts "
+#~ "related to privacy at Mozilla."
+#~ msgstr ""
+#~ "Prošu wužijće tutón formular, zo byšće nam swoje prašenja, naležnosće abo "
+#~ "mysle nastupajo priwatnosć na Mozilla pósłał."
+
+#~ msgid "Your request could not be completed. Please try again."
+#~ msgstr "Waše naprašowanje njeda so dokónčić. Prošu spytajće hišće raz."
+
+#~ msgid "Your email:"
+#~ msgstr "Waša e-mejlowa adresa:"
+
+#~ msgid "Your comments:"
+#~ msgstr "Waše komentary:"
+
+#~ msgid "Send comments"
+#~ msgstr "Komentary pósłać"
+
+#~ msgid ""
+#~ "<strong>Thank you</strong> for sending us your questions or comments. A "
+#~ "member of the privacy team will be in contact shortly."
+#~ msgstr ""
+#~ "<strong>Dźakujemy so</strong>, zo sće nam swoje prašenja abo komentary "
+#~ "pósłał. Čłon teama priwatnosće so bórze z wami do zwiska staji."
 
 #~ msgid "Get Firefox OS"
 #~ msgstr "Wobstarajće sej Firefox OS"
