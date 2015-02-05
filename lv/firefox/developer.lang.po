@@ -1,4 +1,5 @@
 #. extracted from ./firefox/developer.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -7,7 +8,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,23 +22,26 @@ msgid ""
 "non-profit dedicated to putting individuals in control online. Get Firefox "
 "today!"
 msgstr ""
+"Lejupielādējiet Mozilla Firefox, brīvs tīmekļa pārlūks. Firefox veido "
+"globālu bezpeļņas organizāciju kura veltīta tiešsaistes dzīves kontroles "
+"atdošanai cilvēkiem. Iegūstiet Firefox šodien!"
 
 #: firefox/developer.lang:9
 msgid "Built for those who build the Web"
-msgstr ""
+msgstr "Veidots tiem kuri veido tīmekļi"
 
 #: firefox/developer.lang:13
 msgid "Introducing the only browser made for developers like you."
-msgstr ""
+msgstr "Piedāvājam vienīgo pārlūku veidots izstrādātajiem kā jūs."
 
 #. # TAG: new_doorhanger
 #: firefox/developer.lang:18
 msgid "Firefox Developer Edition automatically sends feedback to Mozilla."
-msgstr ""
+msgstr "Firefox Developer Edition automātiski sūta atsauksmes uz Mozilla."
 
 #: firefox/developer.lang:22
 msgid "Designed for developers"
-msgstr ""
+msgstr "Paredzēts izstrādātajiem"
 
 #: firefox/developer.lang:26
 msgid ""
@@ -49,7 +52,7 @@ msgstr ""
 
 #: firefox/developer.lang:30
 msgid "Debug any browser"
-msgstr ""
+msgstr "Atkļūdojiet jebkuru pārlūku"
 
 #: firefox/developer.lang:34
 msgid ""
@@ -70,7 +73,7 @@ msgstr ""
 
 #: firefox/developer.lang:46
 msgid "All your favorite dev tools and more"
-msgstr ""
+msgstr "Visi jūs iecienītie izstrādāšanas rīki un vēl vairāk"
 
 #: firefox/developer.lang:50
 msgid ""
@@ -96,21 +99,23 @@ msgstr ""
 
 #: firefox/developer.lang:66
 msgid "Learn more about WebIDE"
-msgstr ""
+msgstr "Uzziniet vairāk par WebIDE"
 
 #: firefox/developer.lang:70
 msgid "Responsive Design View"
-msgstr ""
+msgstr "Adaptīva dizaina skats"
 
 #: firefox/developer.lang:74
 msgid ""
 "See how your Website or Web app will look on different screen sizes without "
 "changing the size of your browser window."
 msgstr ""
+"Skatieties kā jūsu mājaslapa izskatīsies vai tīmekļa aplikācija izskatīsies "
+"uz atšķirīgiem ekrānu izmēriem, nemainot sava pārlūka loga izmēru."
 
 #: firefox/developer.lang:78
 msgid "Learn more about Responsive Design View"
-msgstr ""
+msgstr "Uzziniet vairāk par adaptīva dizaina skatu"
 
 #: firefox/developer.lang:82
 msgid "Valence"
@@ -121,10 +126,12 @@ msgid ""
 "Develop and debug your apps across multiple browsers and devices with this "
 "powerful extension that comes pre-installed with Firefox Developer Edition."
 msgstr ""
+"Izstrādājiet un atkļūdojiet savas aplikācijas dažādos pārlūkos un ierīcēs ar "
+"šo spēcīgo spraudņi kas jau ir iekļauts ar Firefox Developer Edition."
 
 #: firefox/developer.lang:90
 msgid "Learn more about Valence"
-msgstr ""
+msgstr "Uzziniet vairāk par Valence"
 
 #: firefox/developer.lang:94
 msgid "Web Audio Editor"
@@ -142,7 +149,7 @@ msgstr ""
 
 #: firefox/developer.lang:106
 msgid "Page Inspector"
-msgstr ""
+msgstr "Lapu inspektors"
 
 #: firefox/developer.lang:110
 msgid ""
@@ -152,7 +159,7 @@ msgstr ""
 
 #: firefox/developer.lang:114
 msgid "Learn more about Page Inspector"
-msgstr ""
+msgstr "Uzziniet vairāk par lapu inspektoru"
 
 #: firefox/developer.lang:118
 msgid "Web Console"
@@ -170,7 +177,7 @@ msgstr ""
 
 #: firefox/developer.lang:130
 msgid "JavaScript Debugger"
-msgstr ""
+msgstr "JavaScript Atkļūdotājs"
 
 #: firefox/developer.lang:134
 msgid ""
@@ -180,7 +187,7 @@ msgstr ""
 
 #: firefox/developer.lang:138
 msgid "Learn more about JavaScript Debugger"
-msgstr ""
+msgstr "Uzziniet vairāk par JavaScript Atkļūdotājs"
 
 #: firefox/developer.lang:142
 msgid "Network Monitor"
@@ -198,7 +205,7 @@ msgstr ""
 
 #: firefox/developer.lang:154
 msgid "Style Editor"
-msgstr ""
+msgstr "Stilu redaktors"
 
 #: firefox/developer.lang:158
 msgid ""
@@ -208,22 +215,22 @@ msgstr ""
 
 #: firefox/developer.lang:162
 msgid "Learn more about Style Editor"
-msgstr ""
+msgstr "Uzziniet vairāk par stilu redaktoru"
 
 #: firefox/developer.lang:166
 msgid "Choose Firefox"
-msgstr ""
+msgstr "Izvēlieties Firefox"
 
 #. The following strings are used for the tour displayed on /firstrun
 #. https://www.mozilla.org/firefox/35.0a2/firstrun/
 #: firefox/developer.lang:172
 msgid "Welcome to Firefox Developer Edition"
-msgstr ""
+msgstr "Sveicināti uz Firefox Developer Edition"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:177
 msgid "Developer Tools"
-msgstr ""
+msgstr "Izstrādātāju Rīki"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:182
@@ -235,12 +242,12 @@ msgstr ""
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:187
 msgid "Next: WebIDE"
-msgstr ""
+msgstr "Nākamais: WebIDE"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:192
 msgid "Try WebIDE"
-msgstr ""
+msgstr "Izmēģiniet WebIDE"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:197
@@ -252,13 +259,13 @@ msgstr ""
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:202
 msgid "Next: Sync"
-msgstr ""
+msgstr "Nākamais: Sinhronizācija"
 
 #. # TAG: new_doorhanger
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:208
 msgid "Important"
-msgstr ""
+msgstr "Svarīgi"
 
 #. # TAG: new_doorhanger
 #. UI Tour: don't add HTML tags in this string
@@ -273,12 +280,12 @@ msgstr ""
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:220
 msgid "Sync now"
-msgstr ""
+msgstr "Sinhronizēt tagad"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:225
 msgid "Keep your browser in Sync"
-msgstr ""
+msgstr "Paturiet savu pārlūku sinhronizācijā"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:230
@@ -290,18 +297,18 @@ msgstr ""
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:235
 msgid "Sync my Firefox"
-msgstr ""
+msgstr "Sinhronizēt manu Firefox"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:240
 msgid "No thanks"
-msgstr ""
+msgstr "Ne paldies"
 
 #. # TAG: new_doorhanger
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:246
 msgid "Before you go&hellip;"
-msgstr ""
+msgstr "Pirms jūs turpiniet&hellip;"
 
 #. # TAG: new_doorhanger
 #. UI Tour: don't add HTML tags in this string
@@ -320,7 +327,7 @@ msgstr ""
 
 #: firefox/developer.lang:262
 msgid "Welcome to <span>Firefox Developer Edition</span>"
-msgstr ""
+msgstr "Sveicināti uz <span>Firefox Developer Edition</span>"
 
 #: firefox/developer.lang:266
 msgid ""
@@ -331,7 +338,7 @@ msgstr ""
 #. # TAG: new_doorhanger
 #: firefox/developer.lang:271
 msgid "Important: Sync your new profile"
-msgstr ""
+msgstr "Svarīgi: Sinhronizējiet savu jauno profilu"
 
 #. # TAG: new_doorhanger
 #: firefox/developer.lang:276
@@ -349,7 +356,7 @@ msgstr ""
 
 #: firefox/developer.lang:285
 msgid "Want the old look back?"
-msgstr ""
+msgstr "Gribiet veco izskatu atpakaļ?"
 
 #: firefox/developer.lang:289
 msgid ""
@@ -359,4 +366,4 @@ msgstr ""
 
 #: firefox/developer.lang:293
 msgid "Features and tools"
-msgstr ""
+msgstr "Iespējas un rīki"

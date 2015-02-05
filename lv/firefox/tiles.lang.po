@@ -1,4 +1,5 @@
 #. extracted from ./firefox/tiles.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -7,7 +8,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -92,7 +92,7 @@ msgstr ""
 
 #: firefox/tiles.lang:59
 msgid "Respects your privacy"
-msgstr ""
+msgstr "Ievēro jūsu privātumu"
 
 #: firefox/tiles.lang:63
 msgid ""
@@ -127,7 +127,7 @@ msgstr ""
 
 #: firefox/tiles.lang:83
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Biežāk uzdotie jautājumi"
 
 #: firefox/tiles.lang:87
 msgid "Are you tracking users now?"
@@ -161,7 +161,7 @@ msgstr ""
 
 #: firefox/tiles.lang:111
 msgid "Where can I learn more?"
-msgstr ""
+msgstr "Ko es vēl varu uzzināt?"
 
 #. Link to https://blog.mozilla.org/futurereleases/2014/09/04/new-tab-page-experiments-in-firefox-beta/
 #: firefox/tiles.lang:117
@@ -180,8 +180,9 @@ msgstr ""
 
 #. Used as title of the screenshot
 #: firefox/tiles.lang:132
+#, fuzzy
 msgid "Tiles Preferences"
-msgstr ""
+msgstr "Saglabāt iestatījumus"
 
 #: firefox/tiles.lang:136
 msgid "Screenshot"

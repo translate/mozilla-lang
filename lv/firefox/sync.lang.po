@@ -1,4 +1,5 @@
 #. extracted from ./firefox/sync.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -7,7 +8,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,7 +20,7 @@ msgstr ""
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:8
 msgid "Keep your Firefox in sync"
-msgstr ""
+msgstr "Ņem līdz Firefox visur kur esi"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:13
@@ -32,11 +32,13 @@ msgstr ""
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
 msgstr ""
+"Jūs esat iegājis un esat gatavs lai piekļūt <em>savam</em> Firefox jebkur, "
+"jebkad."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:23
 msgid "Take your Web with you"
-msgstr ""
+msgstr "Paņem līdz tīmekļi ar sevi"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:28
@@ -48,12 +50,13 @@ msgstr ""
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:33
 msgid "It looks like you’re running an older version of Firefox."
-msgstr ""
+msgstr "Izskatās ka jūs izmantojat vecāku Firefox versiju."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:38
 msgid "The new version of Sync only works with the latest version of Firefox"
 msgstr ""
+"Jaunākā Sinhronizācijas versija darbojas tikai ar Firefox pēdējo versiju."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:43
@@ -71,32 +74,32 @@ msgstr ""
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:54
 msgid "Download Firefox for Android"
-msgstr ""
+msgstr "Lejupielādēt Firefox Android ierīcēm"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:59
 msgid "Need help?"
-msgstr ""
+msgstr "Nepieciešama palīdzība?"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:64
 msgid "Get started with Sync"
-msgstr ""
+msgstr "Sāciet izmantot Sinhronizāciju"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:69
 msgid "Update your Firefox"
-msgstr ""
+msgstr "Atjaunināt savu Firefox"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:74
 msgid "Download Firefox"
-msgstr ""
+msgstr "Lejupielādēt Firefox"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:79
 msgid "Get started with Sync in four easy steps:"
-msgstr ""
+msgstr "Sāciet izmantot Sinhronizāciju četros vienkāršo soļos:"
 
 #. # TAG: firefox_sync_redesign
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
@@ -120,12 +123,16 @@ msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
 msgstr ""
+"Ievadiet epastu adresi un paroli lai “<strong>Izveidot Firefox Kontu.</"
+"strong>”"
 
 #. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:104
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr ""
+"Spiediet “<strong>Nākamais</strong>” lai saņemt apstiprinājuma saiti savā "
+"epastā."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:109
@@ -137,18 +144,18 @@ msgstr ""
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:114
 msgid "Get more detailed instructions."
-msgstr ""
+msgstr "Iegūt sīkākas instrukcijas."
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:119
 msgid "Using an older version of Sync?"
-msgstr ""
+msgstr "Izmanto vecāku Sinhronizēšanas versiju?"
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:125
 msgid "How to set up Sync in five easy steps:"
-msgstr ""
+msgstr "Kā uzstādīt Sinhronizāciju četros vienkāršos soļos:"
 
 #. # TAG: firefox_sync_redesign
 #. <strong> tags below used for font color formatting.
@@ -172,6 +179,7 @@ msgstr ""
 #: firefox/sync.lang:144
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
 msgstr ""
+"Spiediet '<strong>Sinhronizācija</strong>' un tad '<strong>Iesākt</strong>'."
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
@@ -211,7 +219,7 @@ msgstr ""
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:177
 msgid "At home"
-msgstr ""
+msgstr "Mājās"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:182
@@ -224,7 +232,7 @@ msgstr ""
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:187
 msgid "At work"
-msgstr ""
+msgstr "Darbā"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:192
@@ -249,12 +257,12 @@ msgstr ""
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:207
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
-msgstr ""
+msgstr "Vai jums ir kādu <b>Android viedtālruni</b> vai <b>planšetdatoru</b>?"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:212
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
-msgstr ""
+msgstr "LEJUPIELĀDĒT FIREFOX ANDROID IERĪCĒM"
 
 #. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:217
@@ -269,19 +277,24 @@ msgid ""
 "Instantly make Firefox your own wherever you use it. Seamlessly sync your "
 "bookmarks, history, passwords and more and access them from any device."
 msgstr ""
+"Paņem līdz savu Firefox visur, kur esi. Ļauj grāmatzīmēm, vēsturei, parolēm "
+"un citām lietām ceļot Tev līdz, lai kur arī Tu ietu."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:227
 msgid "Get started with Sync. It’s fast, safe and easy:"
-msgstr ""
+msgstr "Sāc lietot Sinhronizēšanu. Tas ir ātri un vienkārši:"
 
 #. # TAG: sync_new_markup
 #. Used in old page, do not remove
 #: firefox/sync.lang:233
+#, fuzzy
 msgid ""
 "Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> in "
 "the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
+"Atver <a href=\"%(url)s#w_a-handy-new-menu\">izvēlni</a> labajā augšējā "
+"Firefox loga stūrī un izvēlies “Sākt Sinhronizēt.”"
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:238
@@ -289,38 +302,40 @@ msgid ""
 "Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of "
 "Firefox and select “Sign in to Sync.”"
 msgstr ""
+"Atver <a href=\"%(url)s#w_a-handy-new-menu\">izvēlni</a> labajā augšējā "
+"Firefox loga stūrī un izvēlies “Sākt Sinhronizēt.”"
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:243
 msgid "Click “Get started” in the tab that opens."
-msgstr ""
+msgstr "Klikšķini uz “Kā sākt” cilnē, kas atvērsies."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:248
 msgid "Enter an email address and password to “Create a Firefox Account.”"
-msgstr ""
+msgstr "Ievadi epastu un paroli, lai “Izveidotu Firefox kontu.”"
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:253
 msgid "Click “Next” to get a verification sent to your email."
-msgstr ""
+msgstr "Klikšķini “tālāk”, lai apstiprinātu savu epastu."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:258
 msgid "Check your email and click the verification link."
-msgstr ""
+msgstr "Pārbaudi epastu un uzklikšķini uz apstiprinājuma saites."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:263
 msgid ""
 "You’re all set! Firefox will automatically sync in the background from now "
 "on."
-msgstr ""
+msgstr "Viss gatavs! Firefox turpmāk fonā automātiski sinhronizēsies."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:268
 msgid "Have an Android phone or tablet?"
-msgstr ""
+msgstr "Tev ir Android telefons vai planšetdators?"
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:273
@@ -328,14 +343,18 @@ msgid ""
 "<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
 "desktop and mobile devices."
 msgstr ""
+"<a href=\"%(url)s\">Lejupielādēt Firefox Android ierīcēm</a> lai "
+"sinhronizētu jūsu datoru ar savam mobilām ierīcēm."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:278
 msgid ""
 "Download Firefox for Android to sync between your desktop and mobile devices."
 msgstr ""
+"Lejupielādē Firefox Android ierīcēm, lai sinhronizētu datoru ar mobilo "
+"ierīci."
 
 #. Used in old page, do not remove
 #: firefox/sync.lang:283
 msgid "Get it free from Google Play"
-msgstr ""
+msgstr "Iegūsti to bez maksas no Google Play"

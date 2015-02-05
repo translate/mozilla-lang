@@ -1,4 +1,5 @@
 #. extracted from ./firefox/hello.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -7,7 +8,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -45,7 +45,7 @@ msgstr ""
 #. “Firefox Hello” is the product name and should not be localized
 #: firefox/hello.lang:30
 msgid "Try Firefox Hello"
-msgstr ""
+msgstr "Izmēģiniet Firefox Hello"
 
 #: firefox/hello.lang:34
 msgid "All you need is Firefox"
@@ -178,17 +178,17 @@ msgstr ""
 
 #: firefox/hello.lang:149
 msgid "Questions?"
-msgstr ""
+msgstr "Jautājumi?"
 
 #: firefox/hello.lang:153
 msgid "Visit Mozilla Support"
-msgstr ""
+msgstr "Apmeklējiet Mozilla Atbalsts"
 
 #. %s will be replaced by an image of Telefonica's logo. The current string is the same used in Firefox for Firefox Hello
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/loop/loop.properties:powered_by_beforeLogo&repo=beta
 #: firefox/hello.lang:159
 msgid "Powered by %s"
-msgstr ""
+msgstr "Nodrošina %s"
 
 #. The following strings are used for the First Time interactive experience, don't add HTML tags.
 #. “Hello” is the product name and should not be localized
@@ -272,4 +272,4 @@ msgstr ""
 
 #: firefox/hello.lang:237
 msgid "You’ve started your first conversation. Wasn’t that easy?"
-msgstr ""
+msgstr "Jūs iesācāt savu pirmo sarunu. Vai nebija vienkārši?"

@@ -23,7 +23,7 @@ msgstr ""
 #. this string is used for accessibility reasons, it's not visible in the page
 #: mozorg/contribute/index.lang:10
 msgid "Menu"
-msgstr ""
+msgstr "Izvēlne"
 
 #. this br is for formatting, omit or reposition as needed
 #: mozorg/contribute/index.lang:15
@@ -41,8 +41,9 @@ msgid "Meet<br> Mozillians"
 msgstr ""
 
 #: mozorg/contribute/index.lang:29
+#, fuzzy
 msgid "Get involved"
-msgstr ""
+msgstr "Iesaisties!"
 
 #: mozorg/contribute/index.lang:33
 msgid "Your country"
@@ -54,23 +55,27 @@ msgid "I live in&hellip;"
 msgstr ""
 
 #: mozorg/contribute/index.lang:42
+#, fuzzy
 msgid "Volunteer with Mozilla!"
-msgstr ""
+msgstr "Kļūsti par Mozilla brīvprātīgo"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:47
+#, fuzzy
 msgid "active Mozillians worldwide"
-msgstr ""
+msgstr "aktīvie Mozillieši <br>visā pasaulē"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:52
+#, fuzzy
 msgid "upcoming events around the globe"
-msgstr ""
+msgstr "gaidāmie notikumi <br>visās pasaules malās"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 #: mozorg/contribute/index.lang:57
+#, fuzzy
 msgid "languages and counting, on every continent"
-msgstr ""
+msgstr "valodas un vairāk, <br>katrā kontinentā"
 
 #: mozorg/contribute/index.lang:61
 msgid "Join a global community of game-changers."
@@ -166,7 +171,7 @@ msgstr ""
 
 #: mozorg/contribute/index.lang:148
 msgid "Donate to Mozilla"
-msgstr ""
+msgstr "Ziedot Mozilla"
 
 #: mozorg/contribute/index.lang:152
 msgid "Read our Manifesto"
@@ -181,12 +186,13 @@ msgid "Follow us on Twitter"
 msgstr ""
 
 #: mozorg/contribute/index.lang:164
+#, fuzzy
 msgid "Upcoming event"
-msgstr ""
+msgstr "Gaidāmie pasākumi"
 
 #: mozorg/contribute/index.lang:168
 msgid "See all events"
-msgstr ""
+msgstr "Skatīt visus pasākumus"
 
 #: mozorg/contribute/index.lang:172
 msgid "Communicate"
@@ -398,8 +404,9 @@ msgid "Email address"
 msgstr ""
 
 #: mozorg/contribute/index.lang:365
+#, fuzzy
 msgid "Country"
-msgstr ""
+msgstr "Valsts:"
 
 #: mozorg/contribute/index.lang:369
 msgid "select"
@@ -414,10 +421,13 @@ msgid "(Optional)"
 msgstr ""
 
 #: mozorg/contribute/index.lang:381
+#, fuzzy
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%(privacy)s"
 "\">this Privacy Policy</a>"
 msgstr ""
+"Esmu ar mieru lai mozilla apietos ar manam datnēm kā noteiks šajā <a href="
+"\"%s\">Privātuma Politikā</a>"
 
 #: mozorg/contribute/index.lang:385
 msgid "Start contributing"
@@ -428,8 +438,9 @@ msgid "Sign me up for community updates"
 msgstr ""
 
 #: mozorg/contribute/index.lang:393
+#, fuzzy
 msgid "(English)"
-msgstr ""
+msgstr "(Angliski)"
 
 #: mozorg/contribute/index.lang:397
 msgid "What particular area?"
@@ -457,7 +468,7 @@ msgstr ""
 
 #: mozorg/contribute/index.lang:421
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #: mozorg/contribute/index.lang:425
 msgid "Firefox OS"
