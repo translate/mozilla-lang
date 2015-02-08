@@ -1,17 +1,19 @@
 #. extracted from ./main.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-11 10:05+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-02-08 10:38+0000\n"
+"Last-Translator: Kalpa <callkalpa@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: si\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1423391931.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -88,12 +90,12 @@ msgstr "%d-%m-%Y"
 
 #: main.lang:74
 msgid "Legal"
-msgstr ""
+msgstr "නීතිමය"
 
 #. Used as link in the footer
 #: main.lang:79
 msgid "Cookies"
-msgstr ""
+msgstr "කුකී"
 
 #. Used as link in the footer
 #: main.lang:84
@@ -142,7 +144,7 @@ msgstr "බාගත කරන්න"
 
 #: main.lang:129
 msgid "Previous"
-msgstr ""
+msgstr "පෙර"
 
 #: main.lang:133
 msgid "Next"
@@ -216,7 +218,7 @@ msgstr ""
 
 #: main.lang:197
 msgid "Share the video"
-msgstr ""
+msgstr "වීඩියෝව හවුල් කරන්න"
 
 #: main.lang:201
 msgid "WebM format"
@@ -321,12 +323,12 @@ msgstr ""
 #. Footer string
 #: main.lang:293
 msgid "Contribute to this page"
-msgstr ""
+msgstr "මෙම පිටුවට දායක වෙන්න"
 
 #. Top menu item
 #: main.lang:298
 msgid "Mission"
-msgstr ""
+msgstr "මෙහෙයුම"
 
 #. Footer item on some pages to link to a tour of features
 #: main.lang:303
@@ -336,12 +338,12 @@ msgstr ""
 #. Footer item
 #: main.lang:308
 msgid "Partner with Us"
-msgstr ""
+msgstr "අප සමඟ හවුල් වෙන්න"
 
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:313
 msgid "Sync"
-msgstr ""
+msgstr "සම්මුහුර්ත"
 
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:318
@@ -371,7 +373,7 @@ msgstr ""
 #. Top menu item on firefox/update page
 #: main.lang:343
 msgid "Performance"
-msgstr ""
+msgstr "ක්‍රියාකාරිත්වය"
 
 #. Top menu item on firefox/update page
 #: main.lang:348
@@ -416,22 +418,22 @@ msgstr ""
 #. Top menu item on firefox/update page
 #: main.lang:388
 msgid "Blog"
-msgstr ""
+msgstr "බ්ලොග්"
 
 #. Top menu item on firefox/update page
 #: main.lang:393
 msgid "About Firefox"
-msgstr ""
+msgstr "Firefox ගැන"
 
 #. Top menu item on firefox/update page
 #: main.lang:398
 msgid "Join Mozilla"
-msgstr ""
+msgstr "Mozilla හා සම්බන්ධ වෙන්න"
 
 #. Top menu item on firefox/update page
 #: main.lang:403
 msgid "Participate"
-msgstr ""
+msgstr "සහභාගී වෙන්න"
 
 #. Top menu item on firefox/update page
 #: main.lang:408
@@ -446,32 +448,32 @@ msgstr ""
 #. Newsletter subscription form above footer on some pages
 #: main.lang:418
 msgid "Get Mozilla updates"
-msgstr ""
+msgstr "Mozilla යාවත්කාල ලබාගන්න"
 
 #. share button for social networks
 #: main.lang:423
 msgid "Share"
-msgstr ""
+msgstr "හවුල් කරන්න"
 
 #. footer link
 #: main.lang:428
 msgid "Mozilla on Twitter"
-msgstr ""
+msgstr "Twitter හි Mozilla"
 
 #. footer link
 #: main.lang:433
 msgid "Firefox on Twitter"
-msgstr ""
+msgstr "Twitter හි Firefox "
 
 #. footer link
 #: main.lang:438
 msgid "Mozilla on Facebook"
-msgstr ""
+msgstr "Facebook හි Mozilla "
 
 #. footer link
 #: main.lang:443
 msgid "Firefox on Facebook"
-msgstr ""
+msgstr "Facebook හි Firefox "
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:448
@@ -486,7 +488,7 @@ msgstr ""
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:458
 msgid "History"
-msgstr ""
+msgstr "ඉතිහාසය"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:463
@@ -506,12 +508,12 @@ msgstr ""
 #. This is a non-visible string for blind people to indicate where the menu is
 #: main.lang:478
 msgid "Menu"
-msgstr ""
+msgstr "මෙනුව"
 
 #. Menu item on top of Australis Firefox pages
 #: main.lang:483
 msgid "Trusted"
-msgstr ""
+msgstr "විශ්වාසිත"
 
 #. Menu item on top of Australis Firefox pages
 #: main.lang:488
@@ -521,7 +523,7 @@ msgstr ""
 #. Menu item on top of Australis Firefox pages
 #: main.lang:493
 msgid "Fast"
-msgstr ""
+msgstr "වේගවත්"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 #: main.lang:498
@@ -558,96 +560,96 @@ msgstr "Firefox උපකාරක"
 
 #: main.lang:530
 msgid "January"
-msgstr ""
+msgstr "ජනවාරි"
 
 #: main.lang:534
 msgid "February"
-msgstr ""
+msgstr "පෙබරවාරි"
 
 #: main.lang:538
 msgid "March"
-msgstr ""
+msgstr "මාර්තු"
 
 #: main.lang:542
 msgid "April"
-msgstr ""
+msgstr "අප්‍රේල්"
 
 #: main.lang:546
 msgid "May"
-msgstr ""
+msgstr "මැයි"
 
 #: main.lang:550
 msgid "June"
-msgstr ""
+msgstr "ජුනි"
 
 #: main.lang:554
 msgid "July"
-msgstr ""
+msgstr "ජූලි"
 
 #: main.lang:558
 msgid "August"
-msgstr ""
+msgstr "අගෝස්තු"
 
 #: main.lang:562
 msgid "September"
-msgstr ""
+msgstr "සැප්තැම්බර්"
 
 #: main.lang:566
 msgid "October"
-msgstr ""
+msgstr "ඔක්තෝම්බර්"
 
 #: main.lang:570
 msgid "November"
-msgstr ""
+msgstr "නොවැම්බර්"
 
 #: main.lang:574
 msgid "December"
-msgstr ""
+msgstr "දෙසැම්බර්"
 
 #: main.lang:578
 msgid "<abbr>Jan</abbr>"
-msgstr ""
+msgstr "<abbr>ජනවාරි</abbr>"
 
 #: main.lang:582
 msgid "<abbr>Feb</abbr>"
-msgstr ""
+msgstr "<abbr>පෙබරවාරි</abbr>"
 
 #: main.lang:586
 msgid "<abbr>Mar</abbr>"
-msgstr ""
+msgstr "<abbr>මාර්තු</abbr>"
 
 #: main.lang:590
 msgid "<abbr>Apr</abbr>"
-msgstr ""
+msgstr "<abbr>අප්‍රේල්</abbr>"
 
 #: main.lang:594
 msgid "<abbr>May</abbr>"
-msgstr ""
+msgstr "<abbr>මැයි</abbr>"
 
 #: main.lang:598
 msgid "<abbr>Jun</abbr>"
-msgstr ""
+msgstr "<abbr>ජුනි</abbr>"
 
 #: main.lang:602
 msgid "<abbr>Jul</abbr>"
-msgstr ""
+msgstr "<abbr>ජූලි</abbr>"
 
 #: main.lang:606
 msgid "<abbr>Aug</abbr>"
-msgstr ""
+msgstr "<abbr>අගෝස්තු</abbr>"
 
 #: main.lang:610
 msgid "<abbr>Sep</abbr>"
-msgstr ""
+msgstr "<abbr>සැප්තැම්බර්</abbr>"
 
 #: main.lang:614
 msgid "<abbr>Oct</abbr>"
-msgstr ""
+msgstr "<abbr>ඔක්තෝබර්</abbr>"
 
 #: main.lang:618
 msgid "<abbr>Nov</abbr>"
-msgstr ""
+msgstr "<abbr>නොවැම්බර්</abbr>"
 
 #: main.lang:622
 msgid "<abbr>Dec</abbr>"
-msgstr ""
+msgstr "<abbr>දෙසැම්බර්</abbr>"
