@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-03 12:06+0000\n"
-"PO-Revision-Date: 2015-02-09 06:09+0000\n"
+"PO-Revision-Date: 2015-02-10 05:00+0000\n"
 "Last-Translator: Roberto <ralv888@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_MX\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1423462157.000000\n"
+"X-POOTLE-MTIME: 1423544424.000000\n"
 
 #. # NOTE: page is at https://www-dev.allizom.org/firefox/dnt/
 #. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/dnt/
@@ -302,26 +302,30 @@ msgid ""
 "IETF</a> &#8212; IETF is a standards body that helps define how the Web "
 "works, regardless of which Internet browser you use"
 msgstr ""
+"Do Not Track de Mozilla y Stanford han sido <a href=\"%(url)s\">enviados al "
+"IETF</a> &#8212; IETF es el que normaliza lo estándares y ayuda a definir "
+"como trabaja la Web, independientemente del navegador que utilices en "
+"Internet."
 
 #: firefox/dnt.lang:149
 msgid "Enable Do Not Track in Firefox"
-msgstr ""
+msgstr "Activar Do Not Track en Firefox"
 
 #: firefox/dnt.lang:153
 msgid "Options window - Advanced panel - Do Not Track"
-msgstr ""
+msgstr "Opciones de ventana - Panel avanzado - Do Not Track "
 
 #: firefox/dnt.lang:157
 msgid "Enabling Do Not Track"
-msgstr ""
+msgstr "Activando Do Not Track"
 
 #: firefox/dnt.lang:161
 msgid "Click for Instructions"
-msgstr ""
+msgstr "Haz clic para las instrucciones"
 
 #: firefox/dnt.lang:165
 msgid "Enable Do Not Track in Internet Explorer 9"
-msgstr ""
+msgstr "Activar Do Not Track en Internet Explorer 9"
 
 #: firefox/dnt.lang:169
 msgid ""
@@ -330,3 +334,8 @@ msgid ""
 "<a href=\"%(tpl)s\">Mozilla’s Simple Tracking Protection List</a>. If you "
 "view this page in IE 9, there will be instructions right here."
 msgstr ""
+"Para activar Do Not Track en IE 9, necesitas activar la característica de IE "
+"9 <a href=\"%(url)s\">Protección de seguimiento</a>. La manera más fácil de "
+"instalarlo es desde <a href=\"%(tpl)s\">La Lista Protección de Seguimiento "
+"Simple de Mozilla</a>. Si tu ves esta página en IE 9, habrán instrucciones "
+"justo aquí."
