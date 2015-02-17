@@ -6,16 +6,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-07-18 10:44+0100\n"
-"PO-Revision-Date: 2014-05-01 11:17+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2015-02-17 20:24+0000\n"
+"Last-Translator: papapep <papapep@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
-"X-POOTLE-MTIME: 1409533479.000000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1424204665.000000\n"
 
 #. # promo_locale ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/nightly/firstrun/
@@ -41,23 +41,8 @@ msgstr ""
 "Laman Larian Kali Pertama Firefox Nightly"
 
 #: firefox/nightly_firstrun.lang:10
-#, fuzzy
 msgid "Thank you for using Firefox Nightly"
-msgstr ""
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"\"Firefox Nightly\"dan foydalanayotganligingiz uchun rahmat\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Gracias por usar Firefox Nightly\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Diolch am ddefnyddio Firefox Nightly\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"फायरफॉक्स नाइटली इस्तेमाल करने के लिए धन्यवाद\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Źěkujomy se, až wužywaśo Firefox Nightly\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Dźakujemy so, zo Firefox Nightly wužiwaće\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Terima kasih kerana menggunakan Firefox Nightly"
+msgstr "Gràcies per utilitzar el Firefox Nightly"
 
 #: firefox/nightly_firstrun.lang:14
 #, fuzzy
@@ -88,23 +73,8 @@ msgstr ""
 "baik untuk pengguna di mana jua"
 
 #: firefox/nightly_firstrun.lang:18
-#, fuzzy
 msgid "Test"
-msgstr ""
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Sinov\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Prueba\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Prawf\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"पाठ\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Test\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Test\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Ujian"
+msgstr "Prova"
 
 #: firefox/nightly_firstrun.lang:22
 #, fuzzy
@@ -133,65 +103,20 @@ msgstr ""
 "sebagaimana yang sepatutnya."
 
 #: firefox/nightly_firstrun.lang:26
-#, fuzzy
 msgid "Start testing"
-msgstr ""
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Sinovni boshlash\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Iniciar prueba\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Cychwyn profi\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"परिक्षण शुरू करें\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Test zachopiś\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Test započeć\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Mula menguji"
+msgstr "Inicia les proves"
 
 #. Link used for the "Start testing" button.
 #. You can instead use your own link if your community have a similar onboarding page about how to test Mozilla products.
 #. If you don't have a community page, just add " {ok}" after the en-US link
 #. Links must start with http:// or https://
 #: firefox/nightly_firstrun.lang:34
-#, fuzzy
 msgid "https://oneanddone.mozilla.org"
-msgstr ""
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"https://oneanddone.mozilla.org\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"https://oneanddone.mozilla.org{ok}\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"https://oneanddone.mozilla.org\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"https://oneanddone.mozilla.org\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"https://oneanddone.mozilla.org {ok}\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"https://oneanddone.mozilla.org {ok}\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"https://oneanddone.mozilla.org"
+msgstr "https://oneanddone.mozilla.org"
 
 #: firefox/nightly_firstrun.lang:38
-#, fuzzy
 msgid "Code"
-msgstr ""
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Kod\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Código\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Cod\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"कोड\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Kode\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Kod\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Kod"
+msgstr "Codi"
 
 #: firefox/nightly_firstrun.lang:42
 #, fuzzy
@@ -216,23 +141,8 @@ msgstr ""
 "Failkan pepijat dan lakukan pada blok binaan pelayar Firefox."
 
 #: firefox/nightly_firstrun.lang:46
-#, fuzzy
 msgid "Start coding"
-msgstr ""
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Dasturlashni boshlash\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Inicia la programación\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Cychwyn codio\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"कोडिंग शुरू करें\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Zachopśo kode pisaś\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Započńće kod pisać\n"
-"#-#-#-#-#  nightly_firstrun.lang.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Mula mengekod"
+msgstr "Comenceu a programar"
 
 #. Link used for the "Start coding" button.
 #. You can instead use your own link if your community have a similar onboarding page about how to contribute to Firefox code.
