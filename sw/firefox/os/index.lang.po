@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-07-16 15:14+0100\n"
-"PO-Revision-Date: 2015-02-17 19:04+0000\n"
+"PO-Revision-Date: 2015-02-17 19:40+0000\n"
 "Last-Translator: Stephen <wanjaustev@gmail.com>\n"
 "Language-Team: none\n"
 "Language: sw\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1424199895.000000\n"
+"X-POOTLE-MTIME: 1424202040.000000\n"
 
 #. # NOTE: https://www-dev.allizom.org/firefox/os/
 #. alt text on Firefox logo
@@ -87,19 +87,24 @@ msgid ""
 "the same. It gives you the power to live every moment to its fullest and "
 "participate in a better world."
 msgstr ""
+"Mahitaji yako yanabadilika mara kwa mara. Hiyo ndio sababu ya Firefox OS "
+"kufanya hivyo pia. Inakupea nguvu ya kuishi kila muda ipasavyo na kushiriki "
+"katika dunia njema."
 
 #. Button
 #: firefox/os/index.lang:74
 msgid "Get a Firefox OS smartphone today"
-msgstr ""
+msgstr "Pata simu ya Firefox OS leo"
 
 #: firefox/os/index.lang:78
 msgid "Sign up for our monthly newsletter and get the latest on Firefox OS"
 msgstr ""
+"Jiandikishe kwa jarida letu la kila mwezi na upate yaliyojiri katika Firefox "
+"OS"
 
 #: firefox/os/index.lang:82
 msgid "It adapts, so you <br>can too"
-msgstr ""
+msgstr "Inapata uzoefu, kwa hivyo pia <br> wewe unaweza"
 
 #: firefox/os/index.lang:86
 msgid ""
@@ -120,7 +125,7 @@ msgstr ""
 #. Title
 #: firefox/os/index.lang:95
 msgid "Adaptive App Search"
-msgstr ""
+msgstr "Utafutaji wa programu ulio na uzoefu"
 
 #: firefox/os/index.lang:99
 msgid "Type a word or subject you’re interested in"
@@ -143,6 +148,7 @@ msgstr "Gundua programu tumizi zaidi katika Firefox Marketplace"
 msgid "Have it all"
 msgstr "Kuwa na yote"
 
+# I feel we should translate smartphone.
 #: firefox/os/index.lang:120
 msgid ""
 "Firefox OS is packed with the features that made you want a smartphone in "
@@ -153,7 +159,7 @@ msgstr ""
 #. Title
 #: firefox/os/index.lang:124
 msgid "Made for the moments of your life"
-msgstr ""
+msgstr "Imetengenezewa muda wa maisha yako"
 
 #. Title
 #: firefox/os/index.lang:129
@@ -209,12 +215,12 @@ msgstr "Muda mfupi wa kuchagua"
 msgid ""
 "Take full control of calls and messages with dual SIM and dual standby "
 "functionality."
-msgstr ""
+msgstr "Chukua udhibiti kamili wa simu na ujumbe kwa SIM pacha na utendaji."
 
 #. Title
 #: firefox/os/index.lang:173
 msgid "Moments of connection"
-msgstr ""
+msgstr "Muda mfupi wa uhusiano"
 
 #: firefox/os/index.lang:177
 msgid "Stay in touch with family and friends by email and text message."
@@ -240,11 +246,14 @@ msgid ""
 "We’re out to make a difference, not a profit. When you choose Firefox OS, "
 "you’re helping build a brighter future for the Web and users everywhere."
 msgstr ""
+"Tuko nje kufanya jambo tofauti, si kupata faida. Ukichagua Firefox OS, "
+"unasaidia kujenga baadaye Brighter kwa ajili ya Mtandao na watumiaji kila "
+"mahali."
 
 #. Title
 #: firefox/os/index.lang:200
 msgid "From our community to yours"
-msgstr ""
+msgstr "Kutoka kwa jamii yetu hadi kwa yako"
 
 #: firefox/os/index.lang:204
 msgid ""
@@ -253,11 +262,15 @@ msgid ""
 "They’re made by a huge global community and are the only smartphones that "
 "understand and deliver what you want and need."
 msgstr ""
+"Simu nyingi zinatengenezwa na idadi ndogo ya watu, wote katika sehemu moja, "
+"pengine mbali kiasi na unakoishi. Simu za Firefox OS ni tofauti. "
+"Zinatengenezwa na jamii kubwa ya kimataifa na ndizo simu tu zinazoelewa na "
+"kutoa kile unataka na kuhitaji."
 
 #. Title
 #: firefox/os/index.lang:209
 msgid "The best of the Web"
-msgstr ""
+msgstr "Nzuri zaidi ya Mtandao"
 
 #: firefox/os/index.lang:213
 msgid ""
@@ -267,17 +280,24 @@ msgid ""
 "your smartphone. So you can take control of your life online and get the "
 "best the Web has to offer no matter where you go."
 msgstr ""
+"Firefox ilibadili kuvinjari milele kwa kuweka watumiaji kwanza na kutoa "
+"ngazi mpya ya chaguo na ubunifu matandaoni. Sasa tunafanya hivyo tena na "
+"Firefox OS,huku tukileta huo uzoefu mkuu wa kuvinjari kwa simu yako. Hivyo "
+"unaweza kuchukua udhibiti wa maisha yako mtandaoni na kupata yaliyo bora "
+"katika mtandao popote uendapo."
 
 #. Title
 #: firefox/os/index.lang:217
 msgid "For partners &amp; developers:"
-msgstr ""
+msgstr "Kwa washirika &amp; waendelezi:"
 
 #: firefox/os/index.lang:220
 msgid ""
 "Learn about partnership opportunities <a href=\"%(link)s\">Visit the Firefox "
 "OS partner site</a>"
 msgstr ""
+"Soma kuhusu nafasi za ushirika <a href=\"%(link)s\">Tembelea tovuti ya "
+"mshirika wa Firefox OS</a>"
 
 #: firefox/os/index.lang:224
 msgid ""
@@ -339,23 +359,25 @@ msgstr "Programu ya Ramani"
 #. image alt text
 #: firefox/os/index.lang:272
 msgid "Photos app"
-msgstr ""
+msgstr "Programu tumizi ya picha"
 
 #. image alt text
 #: firefox/os/index.lang:277
 msgid "Music app"
-msgstr ""
+msgstr "Programu tumizi ya muziki"
 
 #. image alt text
 #: firefox/os/index.lang:282
 msgid "Radio app"
-msgstr ""
+msgstr "Programu tumizi ya redio"
 
 #: firefox/os/index.lang:286
 msgid ""
 "We work with a number of providers to offer Firefox OS on a variety of "
 "devices."
 msgstr ""
+"Tunafanya kazi na idadi fulani ya watoa huduma kutoa Firefox OS katika aina "
+"mbalimbali ya vifaa."
 
 #. Case 1: There are several phone providers
 #: firefox/os/index.lang:291
@@ -386,6 +408,8 @@ msgstr "Ahsante kwa kujiadnikisha!"
 msgid ""
 "Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More"
 msgstr ""
+"Firefox OS — Simu Tohozi — Vipengele Vikubwa Vya Simu, Programu tumizi na "
+"Zaidi"
 
 #: firefox/os/index.lang:313
 msgid ""
