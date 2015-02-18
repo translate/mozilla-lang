@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-03 12:06+0000\n"
-"PO-Revision-Date: 2015-02-18 04:12+0000\n"
-"Last-Translator: Chandrakant <cpdhutadmal@yahoo.com>\n"
+"PO-Revision-Date: 2015-02-18 07:23+0000\n"
+"Last-Translator: Francesco Lodolo <francesco.lodolo@gmail.com>\n"
 "Language-Team: none\n"
 "Language: sat\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1424232762.000000\n"
+"X-POOTLE-MTIME: 1424244202.000000\n"
 
 #. # geolocation_faq_update ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
@@ -35,7 +35,7 @@ msgstr ""
 "फायारफॉक्स वेबसाइट ए  ला़य दाड़ेयाया ओकारे आमेम ठांव आकाना ओना ते-आम ला़य सोदोर एम ञाम "
 "दाड़ेयाक् आ ओका दो बाड़ती सोम्बोंधा आर बाड़ती लाब आना, नोवा दो वेब स्मार्टार r &ndash; "
 "तेयार ला़गिदोक् काना आर मित् होर रे का़मी याकाना ओका आमाक् निजेराक् पुरा़य मानोता. <a "
-"href=\"%(url)को\" id=\"%(id)s\"हुना़र=\"%(हुना़र )को\">नोवा मित् कुरुमुटु एमा !</a>"
+"href=\"%(url)s\" id=\"%(id)s\" style=\"%(style)s\">नोवा मित् कुरुमुटु एमा !</a>"
 
 #: firefox/geolocation.lang:18
 msgid "Frequently asked Questions"
@@ -176,7 +176,7 @@ msgid ""
 "please see the <a href=\"%(url)s\">Firefox Privacy Notice</a>."
 msgstr ""
 "ला़य सोदोर तुमा़ल जारवा रेयाक् पुरा़ बोरनोन ला़गित् आर फायारफॉक्स दाराय ते बेभार, ञेल मे  "
-"<a href=\"%(url) को\">फायारफॉक्स निजेराक् इतला़य </a>."
+"<a href=\"%(url)s\">फायारफॉक्स निजेराक् इतला़य </a>."
 
 #: firefox/geolocation.lang:90
 msgid ""
@@ -187,7 +187,7 @@ msgid ""
 msgstr ""
 "गुगाल ठांव का़मी को इना़ तायोम आमाक् पोड़ता ओतनोक ठांव रे रुवा़ड़ा  (जे लेका ., आक्षांस आर "
 "देसान्तर ). ला़य सोदोर तुमा़ल जारवा आर गुगाल दाराय ते बेभार रेयाक् पुरा़ बोरनोन ला़गित्, "
-"ञेल मे   <a href=\"%(url)को\"चानेच् =\"%(चानेच्)को\"> गुगाल ओतनोक् ठांव निजेराक् नीति </"
+"ञेल मे   <a href=\"%(url)s\" class=\"%(class)s\"> गुगाल ओतनोक् ठांव निजेराक् नीति </"
 "a>."
 
 #: firefox/geolocation.lang:94
@@ -314,11 +314,11 @@ msgstr ""
 
 #: firefox/geolocation.lang:178
 msgid "In the URL bar, type <code>about:config</code>"
-msgstr " URL बार रे,  <कोड >बाबोत् ते : भितिर तेयार </कोड> टाइप मे."
+msgstr " URL बार रे,  <code>बाबोत् ते : भितिर तेयार </code> टाइप मे."
 
 #: firefox/geolocation.lang:182
 msgid "Type <code>geo.enabled</code>"
-msgstr " <कोड>ओतनो. हुय होचो </कोड> टाइप मे."
+msgstr "<code>ओतनो. हुय होचो </code> टाइप मे."
 
 #: firefox/geolocation.lang:186
 msgid "Double click on the <em>geo.enabled</em> preference"
