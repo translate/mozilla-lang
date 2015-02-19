@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-12 18:07+0000\n"
+"POT-Creation-Date: 2015-02-19 16:07+0000\n"
 "PO-Revision-Date: 2015-01-14 01:05+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1421197530.000000\n"
 
 #. # firefox_new_refresh_button ##
@@ -168,55 +168,51 @@ msgid "Learn more about Firefox for desktop"
 msgstr "Barrachd fiosrachaidh air Firefox air desktops"
 
 #: firefox/new.lang:121
-msgid "Need help?"
-msgstr "Cobhair a dhìth?"
-
-#: firefox/new.lang:125
 msgid "Looking for mobile?"
 msgstr "A' lorg an tionndadh mobile?"
 
-#: firefox/new.lang:129
+#: firefox/new.lang:125
 msgid "Download a fresh copy"
 msgstr "Luchdaich a-nuas lethbhreac ùr dheth"
 
-#: firefox/new.lang:133
+#: firefox/new.lang:129
 msgid "Learn more about Firefox for Mobile"
 msgstr "Barrachd fiosrachaidh air Firefox Mobile"
 
-#: firefox/new.lang:137
+#: firefox/new.lang:133
 msgid "Learn more about Firefox OS"
 msgstr "Faigh barrachd fiosrachaidh air Firefox OS"
 
 #. # TAG: mobile_links
-#: firefox/new.lang:142
+#: firefox/new.lang:138
 msgid "Get Firefox on your Android device"
 msgstr "Faigh Firefox air an uidheam Android agad"
 
 #. # TAG: mobile_links
-#: firefox/new.lang:147
+#: firefox/new.lang:143
 msgid "Learn about Firefox OS"
 msgstr "Faigh barrachd fiosrachaidh air Firefox OS"
 
-#: firefox/new.lang:151
+#: firefox/new.lang:147
 msgid "Discover all the ways to take Firefox on the go"
 msgstr "Fiosraich mar a chleachdas tu Firefox air an rathad"
 
-#: firefox/new.lang:155
+#: firefox/new.lang:151
 msgid "Why don’t we offer an iOS version?"
 msgstr "Carson nach eil tionndadh iOS againn?"
 
 #. The following two strings are used in the <title> tag of the page
-#: firefox/new.lang:160
+#: firefox/new.lang:156
 msgid "Download Firefox"
 msgstr "Luchdaich a-nuas Firefox"
 
 #. Note: 'free' as in free of charge
-#: firefox/new.lang:165
+#: firefox/new.lang:161
 msgid "Free Web Browser"
 msgstr "Brabhsair-lìn saor an-asgaidh"
 
 #. Meta tag description (visible in the code)
-#: firefox/new.lang:170
+#: firefox/new.lang:166
 msgid ""
 "Download Mozilla Firefox, a free Web browser. Firefox is created by a global "
 "non-profit dedicated to putting individuals in control online. Get Firefox "
@@ -228,7 +224,7 @@ msgstr ""
 "nach fheuch thu Firefox an-diugh?"
 
 #. Schema.org tag description (visible in the code)
-#: firefox/new.lang:175
+#: firefox/new.lang:171
 msgid ""
 "Mozilla Firefox, free web browser, is created by a global non-profit "
 "dedicated to putting individuals in control &amp; shaping the future of the "
@@ -244,7 +240,7 @@ msgstr ""
 #. You should keep the translation consistent with Firefox:
 #. http://transvision.mozfr.org/string/?entity=toolkit/chrome/global/resetProfile.dtd:refreshProfile.title&repo=beta
 #. # TAG: firefox_new_refresh_button
-#: firefox/new.lang:184
+#: firefox/new.lang:180
 msgid "Give Firefox a tune up"
 msgstr "Cuir Firefox air gleus"
 
@@ -253,6 +249,9 @@ msgstr "Cuir Firefox air gleus"
 #. You should keep the translation consistent with Firefox:
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/safeMode.dtd:refreshProfile.label&repo=beta
 #. # TAG: firefox_new_refresh_button
-#: firefox/new.lang:193
+#: firefox/new.lang:189
 msgid "Refresh Firefox"
 msgstr "Ath-nuadhaich Firefox"
+
+#~ msgid "Need help?"
+#~ msgstr "Cobhair a dhìth?"
