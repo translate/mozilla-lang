@@ -4,14 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-03 12:06+0000\n"
-"PO-Revision-Date: 2014-05-15 22:41+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2015-02-21 04:55+0000\n"
+"Last-Translator: Roberto <ralv888@gmail.com>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: es_MX\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1424494547.000000\n"
 
 #. # geolocation_faq_update ##
 #. # NOTE: url is https://www-dev.allizom.org/firefox/geolocation/
@@ -352,16 +353,20 @@ msgstr "Da doble clic en el registro <em>geo.enabled</em>"
 
 #. # TAG: geolocation_faq_update
 #: firefox/geolocation.lang:195
+#, fuzzy
 msgid "How can I add support for Geolocation to my web site?"
-msgstr ""
+msgstr "¿Cómo puedo agregar soporte para Geolocalización en mi sitio web?"
 
 #. # TAG: geolocation_faq_update
 #. Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 #: firefox/geolocation.lang:201
+#, fuzzy
 msgid ""
 "You can integrate Geolocation support into your service by following the "
 "instruction at <a href=\"%(url)s\">Mozilla Developer Center</a>."
 msgstr ""
+"Puedes integrar soporte de Geolocalización en tu servicio siguiendo las "
+"instrucciones en <a href=\"%(url)s\">Centro de Desarrollo de Mozilla</a>."
 
 #: firefox/geolocation.lang:205
 msgid "Where am I?"
