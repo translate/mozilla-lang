@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 20:07+0000\n"
+"POT-Creation-Date: 2015-02-23 19:07+0000\n"
 "PO-Revision-Date: 2014-12-11 10:55+0000\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: none\n"
@@ -18,64 +18,73 @@ msgstr ""
 #. # java_notice ##
 #. # plugin_disable_warning ##
 #. # plugin_updated_content ##
+#. # share_cta ##
 #. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 #. # URL: https://www-dev.allizom.org/%LOCALE%/plugincheck
 #. Page <title> tag
-#: mozorg/plugincheck.lang:10
+#: mozorg/plugincheck.lang:11
 msgid "Plugin Check &amp; Updates"
 msgstr "Kontroleer inproppe"
 
 #. This is a button telling the user to update their plugin
-#: mozorg/plugincheck.lang:15
+#: mozorg/plugincheck.lang:16
 msgid "Update Now"
 msgstr "Werk nou by"
 
 #. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
-#: mozorg/plugincheck.lang:20
+#: mozorg/plugincheck.lang:21
 msgid "Research"
 msgstr "Ondersoek"
 
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
-#: mozorg/plugincheck.lang:25
+#: mozorg/plugincheck.lang:26
 msgid "current version plugin"
 msgstr ""
 
 #. This is a button informing the user that their plugin is up to date
-#: mozorg/plugincheck.lang:30
+#: mozorg/plugincheck.lang:31
 msgid "Up to Date"
 msgstr "Op datum"
 
 #. L10n: This is alt text used on plugin icon images
-#: mozorg/plugincheck.lang:35
+#: mozorg/plugincheck.lang:36
 msgid "Plugin icon"
 msgstr "Inprop se ikoon"
 
 #. This is the string used to indicate that the plugin is unknown
-#: mozorg/plugincheck.lang:40
+#: mozorg/plugincheck.lang:41
 msgid "unknown"
 msgstr "onbekend"
 
 #. This is the string used to indicate that the plugin is vulnerable
-#: mozorg/plugincheck.lang:45
+#: mozorg/plugincheck.lang:46
 msgid "vulnerable"
 msgstr "kwesbaar"
 
 #. Main title
-#: mozorg/plugincheck.lang:50
+#: mozorg/plugincheck.lang:51
 msgid "Check Your Plugins"
 msgstr "Kontroleer inproppe"
 
-#: mozorg/plugincheck.lang:54
+#: mozorg/plugincheck.lang:55
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
 "Om inproppe op datum te hou, help om Firefox veilig en glad te laat loop."
 
-#: mozorg/plugincheck.lang:58
+#. # TAG: share_cta
+#. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
+#: mozorg/plugincheck.lang:61
+msgid ""
+"Plugins don’t always update automatically. Check yours now to stay safe and "
+"browse without interruption!"
+msgstr ""
+
+#: mozorg/plugincheck.lang:65
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "Dit lyk of u 'n ouer weergawe van Firefox gebruik."
 
 #. # TAG: java_notice
-#: mozorg/plugincheck.lang:63
+#: mozorg/plugincheck.lang:70
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
@@ -84,7 +93,7 @@ msgstr ""
 "bepaal wat dit verkeerdelik as kwesbaar aandui."
 
 #. # TAG: java_notice
-#: mozorg/plugincheck.lang:68
+#: mozorg/plugincheck.lang:75
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
@@ -92,11 +101,11 @@ msgstr ""
 "Ons werk hieraan. <a href=\"%(download)s\">Besoek gerus die Java-webwerf</a> "
 "intussen om die laaste weergawe af te laai."
 
-#: mozorg/plugincheck.lang:72
+#: mozorg/plugincheck.lang:79
 msgid "Plugin Status"
 msgstr "Inpropstatus"
 
-#: mozorg/plugincheck.lang:76
+#: mozorg/plugincheck.lang:83
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
@@ -104,80 +113,80 @@ msgstr ""
 "Inpropkontrole se <strong>ondersteuning vir Internet Explorer is beperk</"
 "strong>. Gebruik ook Nutsgoed &gt; Bestuur byvoegings"
 
-#: mozorg/plugincheck.lang:80
+#: mozorg/plugincheck.lang:87
 msgid "Step 1: Click Update to update a plugin."
 msgstr "Stap 1: Klik Werk by om 'n inprop by te werk."
 
-#: mozorg/plugincheck.lang:84
+#: mozorg/plugincheck.lang:91
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
 "Stap 2: Voltooi alle bywerkings wat aanbeveel word voor die blaaier herbegin "
 "word."
 
-#: mozorg/plugincheck.lang:88
+#: mozorg/plugincheck.lang:95
 msgid "Potentially vulnerable plugins"
 msgstr "Moontlik kwesbare inproppe"
 
-#: mozorg/plugincheck.lang:92
+#: mozorg/plugincheck.lang:99
 msgid "Plugin"
 msgstr "Inprop"
 
-#: mozorg/plugincheck.lang:96
+#: mozorg/plugincheck.lang:103
 msgid "Status"
 msgstr "Status"
 
-#: mozorg/plugincheck.lang:100
+#: mozorg/plugincheck.lang:107
 msgid "Action"
 msgstr "Aksie"
 
-#: mozorg/plugincheck.lang:104
+#: mozorg/plugincheck.lang:111
 msgid "Outdated Plugins"
 msgstr "Gedateerde inprop"
 
-#: mozorg/plugincheck.lang:108
+#: mozorg/plugincheck.lang:115
 msgid "Unknown Plugins"
 msgstr "Onbekende inproppe"
 
-#: mozorg/plugincheck.lang:112
+#: mozorg/plugincheck.lang:119
 msgid "These plugins are up to date"
 msgstr "Hierdie inproppe is op datum"
 
-#: mozorg/plugincheck.lang:116
+#: mozorg/plugincheck.lang:123
 msgid "Back to Top"
 msgstr "Terug boontoe"
 
-#: mozorg/plugincheck.lang:120
+#: mozorg/plugincheck.lang:127
 msgid "Frequently Asked Questions"
 msgstr "Algemene vrae"
 
-#: mozorg/plugincheck.lang:124
+#: mozorg/plugincheck.lang:131
 msgid "What is a plugin?"
 msgstr "Wat is 'n inprop?"
 
-#: mozorg/plugincheck.lang:128
+#: mozorg/plugincheck.lang:135
 msgid "Plugins power videos, animation and games"
 msgstr "Inproppe verskaf funksionaliteit vir video's, animasie en speletjies"
 
-#: mozorg/plugincheck.lang:132
+#: mozorg/plugincheck.lang:139
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr ""
 "Hulle word gebou buite Firefox deur maatskappye soos Adobe Systems en Apple"
 
-#: mozorg/plugincheck.lang:136
+#: mozorg/plugincheck.lang:143
 msgid "Plugins don't always update automatically."
 msgstr "Inproppe werk nie altyd vanself by nie."
 
-#: mozorg/plugincheck.lang:140
+#: mozorg/plugincheck.lang:147
 msgid "Why should I update my plugins?"
 msgstr "Hoekom moet ek die inproppe bywerk?"
 
-#: mozorg/plugincheck.lang:144
+#: mozorg/plugincheck.lang:151
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr "Ou inproppe kan blaaiwerk onderbreek en mens se tyd mors."
 
-#: mozorg/plugincheck.lang:148
+#: mozorg/plugincheck.lang:155
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
@@ -185,7 +194,7 @@ msgstr ""
 "Ou inproppe <strong>verhoog risiko</strong> vir aanvalle deur virusse, "
 "kwaadaardige sagteware en ander sekuriteitsbedreigings."
 
-#: mozorg/plugincheck.lang:152
+#: mozorg/plugincheck.lang:159
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
@@ -194,15 +203,15 @@ msgstr ""
 "<strong>beter en veiliger</strong> maak."
 
 #. alt image
-#: mozorg/plugincheck.lang:157
+#: mozorg/plugincheck.lang:164
 msgid "Screenshot of Add-Ons manager"
 msgstr "Skermskoot van Byvoegingbestuurder"
 
-#: mozorg/plugincheck.lang:161
+#: mozorg/plugincheck.lang:168
 msgid "How can Firefox help me?"
 msgstr "Hoe kan Firefox my help?"
 
-#: mozorg/plugincheck.lang:165
+#: mozorg/plugincheck.lang:172
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
@@ -210,11 +219,11 @@ msgstr ""
 "In die toekoms sal Firefox inproppe self bywerk. Totdat dit in plek is, "
 "kontroleer dié bladsy gereeld en werk die inproppe by om veilig te bly."
 
-#: mozorg/plugincheck.lang:169
+#: mozorg/plugincheck.lang:176
 msgid "Which Plugins do I have?"
 msgstr "Watter inproppe het ek?"
 
-#: mozorg/plugincheck.lang:173
+#: mozorg/plugincheck.lang:180
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
@@ -222,11 +231,11 @@ msgstr ""
 "Die inproppe hierbo is outomaties bespeur. Om die geïnstalleerde inproppe in "
 "Firefox te sien, volg hierdie stappe:"
 
-#: mozorg/plugincheck.lang:177
+#: mozorg/plugincheck.lang:184
 msgid "Want to spread the word?"
 msgstr "Lus om die woord te help versprei?"
 
-#: mozorg/plugincheck.lang:181
+#: mozorg/plugincheck.lang:188
 #, fuzzy
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
@@ -235,52 +244,52 @@ msgstr ""
 "Help vriende om veilig te bly aanlyn! Besoek <a href=\"%(url)s\">Firefox-"
 "affiliale</a> om 'n inpropkontrole-badge vir u werf te kry."
 
-#: mozorg/plugincheck.lang:185
+#: mozorg/plugincheck.lang:192
 msgid "How do I disable a plugin?"
 msgstr "Hoe deaktiveer ek 'n inprop?"
 
-#: mozorg/plugincheck.lang:189
+#: mozorg/plugincheck.lang:196
 msgid "In Firefox:"
 msgstr "In Firefox:"
 
-#: mozorg/plugincheck.lang:193
+#: mozorg/plugincheck.lang:200
 msgid "Open the Tools menu."
 msgstr "Gaan na die Nutsgoed-kieslys."
 
 # Die ikoontjie wys by die openingsetiket, dus hanteer ons dit as 'n samestelling met 'n simbool.
 #. # TAG: plugin_updated_content
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
-#: mozorg/plugincheck.lang:199
+#: mozorg/plugincheck.lang:206
 msgid "Open the <span class=\"menu\">menu</span>."
 msgstr "Open die <span class=\"menu\">-kieslys</span>."
 
-#: mozorg/plugincheck.lang:203
+#: mozorg/plugincheck.lang:210
 msgid "Choose Add-ons."
 msgstr "Kies Byvoegings."
 
-#: mozorg/plugincheck.lang:207
+#: mozorg/plugincheck.lang:214
 msgid "Click the plugins tab."
 msgstr "Klik op die Inproppe-oortjie."
 
 #. # TAG: plugin_updated_content
-#: mozorg/plugincheck.lang:212
+#: mozorg/plugincheck.lang:219
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr "Klik op die opdraglys langs die inprop wat u wil deaktiveer."
 
-#: mozorg/plugincheck.lang:216
+#: mozorg/plugincheck.lang:223
 msgid "Click on a plugin in the list."
 msgstr "Klik op 'n inprop in die lys."
 
 #. # TAG: plugin_updated_content
-#: mozorg/plugincheck.lang:221
+#: mozorg/plugincheck.lang:228
 msgid "Select \"Never Activate\" from the available choices."
 msgstr "Kies \"Moet nooit aktiveer nie\" uit die beskikbare keuses."
 
-#: mozorg/plugincheck.lang:225
+#: mozorg/plugincheck.lang:232
 msgid "Click the Disable button."
 msgstr "Klik die Deaktiveer-knoppie."
 
-#: mozorg/plugincheck.lang:229
+#: mozorg/plugincheck.lang:236
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -291,7 +300,7 @@ msgstr ""
 "YouTube nie meer speel nie."
 
 #. # TAG: plugin_disable_warning
-#: mozorg/plugincheck.lang:234
+#: mozorg/plugincheck.lang:241
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -301,15 +310,15 @@ msgstr ""
 "doen nie. By voorbeeld, as mens Flash deaktiveer, sal video's op sekere "
 "videowerwe nie meer speel nie."
 
-#: mozorg/plugincheck.lang:238
+#: mozorg/plugincheck.lang:245
 msgid "Mozilla Support"
 msgstr "Mozilla-steun"
 
-#: mozorg/plugincheck.lang:242
+#: mozorg/plugincheck.lang:249
 msgid "Have more questions?"
 msgstr "Meer vrae?"
 
-#: mozorg/plugincheck.lang:246
+#: mozorg/plugincheck.lang:253
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr "Besoek <a href=\"%(sumo_url)s\">support.mozilla.org</a> vir meer hulp!"
 

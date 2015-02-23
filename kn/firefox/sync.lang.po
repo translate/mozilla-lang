@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-19 16:07+0000\n"
+"POT-Creation-Date: 2015-02-23 19:07+0000\n"
 "PO-Revision-Date: 2015-02-05 18:15+0000\n"
 "Last-Translator: Omshivaprakash <omshivaprakash@gmail.com>\n"
 "Language-Team: none\n"
@@ -16,48 +16,55 @@ msgstr ""
 
 #. # firefox_sync_non_fx ##
 #. # firefox_sync_redesign ##
+#. # ios_announce ##
 #. # sync_new_markup ##
 #. # NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
+#. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/sync/
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:8
+#: firefox/sync.lang:10
 msgid "Keep your Firefox in sync"
 msgstr "ನಿಮ್ಮ ಫೈರ್ಫಾಕ್ಸ್ ಅನ್ನು ಸಿಂಕ್ ಮಾಡಿಡಿ"
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:13
+#: firefox/sync.lang:15
 msgid "Ready, Set, Sync"
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:18
+#: firefox/sync.lang:20
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:23
+#: firefox/sync.lang:25
 msgid "Take your Web with you"
 msgstr "ಜಾಲವನ್ನು ನಿಮ್ಮೊಂದಿಗೆ ಒಯ್ಯಿರಿ"
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:28
+#: firefox/sync.lang:30
 msgid ""
 "Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
 "and more from any smartphone, tablet or computer."
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:33
+#: firefox/sync.lang:35
 msgid "It looks like you’re running an older version of Firefox."
 msgstr "ನೀವು Firefoxನ ಹಳೆಯ ಆವೃತ್ತಿಯನ್ನು ಬಳಸುತ್ತಿದ್ದೀರಿ ಎಂದು ಕಾಣುತ್ತಿದೆ."
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:38
+#: firefox/sync.lang:40
 msgid "The new version of Sync only works with the latest version of Firefox"
 msgstr ""
 
+#. # TAG: ios_announce
+#: firefox/sync.lang:45
+msgid "Soon you’ll be able to use Sync on your iOS device"
+msgstr ""
+
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:43
+#: firefox/sync.lang:50
 msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
 "Discover them all!"
@@ -65,39 +72,39 @@ msgstr ""
 
 #. # TAG: firefox_sync_non_fx
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
-#: firefox/sync.lang:49
+#: firefox/sync.lang:56
 msgid "Sync is just one of the great features you’ll only get with Firefox."
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:54
+#: firefox/sync.lang:61
 msgid "Download Firefox for Android"
 msgstr "ಆಂಡ್ರಾಯ್ಡ್‌ಗಾಗಿ Firefox ಡೌನ್‌ಲೋಡ್ ಮಾಡು"
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:59
+#: firefox/sync.lang:66
 msgid "Get started with Sync"
 msgstr "ಸಿಂಕ್‌ ಅನ್ನು ಬಳಸಲು ಆರಂಭಿಸಿ"
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:64
+#: firefox/sync.lang:71
 msgid "Update your Firefox"
 msgstr "ನಿಮ್ಮ Firefox ಪರಿಷ್ಕರಿಸು"
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:69
+#: firefox/sync.lang:76
 msgid "Download Firefox"
 msgstr "Firefox ಡೌನ್‌ಲೋಡ್ ಮಾಡು"
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:74
+#: firefox/sync.lang:81
 msgid "Get started with Sync in four easy steps:"
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
-#: firefox/sync.lang:81
+#: firefox/sync.lang:88
 #, fuzzy
 msgid ""
 "Open the <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">menu</"
@@ -108,13 +115,13 @@ msgstr ""
 
 #. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:87
+#: firefox/sync.lang:94
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
 msgstr "ತೆರೆಯಲ್ಪಡುವ ಟ್ಯಾಬ್ ನಲ್ಲಿ “<strong>ಆರಂಭಿಸಿ</strong>” ಅನ್ನು ಒತ್ತಿರಿ."
 
 #. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:93
+#: firefox/sync.lang:100
 msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
@@ -124,38 +131,38 @@ msgstr ""
 
 #. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:99
+#: firefox/sync.lang:106
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr ""
 "ಧೃಡೀಕರಣವನ್ನು ನಿಮ್ಮ ವಿ-ಅಂಚೆಗೆ ಕಳಿಸಿಕೊಳ್ಳಲು ““<strong>ಮುಂದೆ“<strong>” ಕ್ಲಿಕ್ಕಿಸಿ."
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:104
+#: firefox/sync.lang:111
 msgid ""
 "After you check your email and click the verification link, you’ll be all "
 "set! Firefox will automatically sync in the background from then on."
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:109
+#: firefox/sync.lang:116
 msgid "Get more detailed instructions."
 msgstr "ಹೆಚ್ಚು ವಿವರವಾದ ಸೂಚನೆಗಳನ್ನು ಪಡೆಯಿರಿ."
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:114
+#: firefox/sync.lang:121
 msgid "Using an older version of Sync?"
 msgstr "ಹಳೆಯ ಸಿಂಕ್ ಆವೃತ್ತಿಯನ್ನು ಬಳಸುತ್ತಿದ್ದೀರಾ?"
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
-#: firefox/sync.lang:120
+#: firefox/sync.lang:127
 msgid "How to set up Sync in five easy steps:"
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
 #. <strong> tags below used for font color formatting.
 #. This string is displayed on Android devices
-#: firefox/sync.lang:127
+#: firefox/sync.lang:134
 msgid ""
 "Tap the <strong>Menu</strong> button (either below the screen or at the top "
 "right corner of the browser)."
@@ -163,7 +170,7 @@ msgstr ""
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
-#: firefox/sync.lang:133
+#: firefox/sync.lang:140
 msgid ""
 "Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
 "first)."
@@ -171,26 +178,26 @@ msgstr ""
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
-#: firefox/sync.lang:139
+#: firefox/sync.lang:146
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
-#: firefox/sync.lang:145
+#: firefox/sync.lang:152
 msgid ""
 "The <strong>Create a Firefox Account page</strong> will open in a new tab."
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
-#: firefox/sync.lang:151
+#: firefox/sync.lang:158
 msgid "Fill out the form and click <strong>Next</strong>."
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
-#: firefox/sync.lang:157
+#: firefox/sync.lang:164
 msgid ""
 "After you check your email and click the verification link, you’ll be ready "
 "to go! Don’t forget to connect all your other devices to get the most of "
@@ -198,12 +205,12 @@ msgid ""
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:162
+#: firefox/sync.lang:169
 msgid "Sync a little. Sync a lot."
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:167
+#: firefox/sync.lang:174
 msgid ""
 "You choose what parts of your Firefox you want to sync and where you want to "
 "sync them. Take your open tabs on your daily commute. Access your bookmarks "
@@ -211,12 +218,12 @@ msgid ""
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:172
+#: firefox/sync.lang:179
 msgid "At home"
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:177
+#: firefox/sync.lang:184
 msgid ""
 "Move from your desk to the couch without skipping a beat. Access your open "
 "tabs on your smartphone, or keeping browsing your bookmarks right on your "
@@ -224,12 +231,12 @@ msgid ""
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:182
+#: firefox/sync.lang:189
 msgid "At work"
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:187
+#: firefox/sync.lang:194
 msgid ""
 "Stay connected to all of your important information. Sync the passwords and "
 "bookmarks that you might need to access at any time. Just like Firefox, it’s "
@@ -237,36 +244,36 @@ msgid ""
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:192
+#: firefox/sync.lang:199
 msgid "On the go"
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:197
+#: firefox/sync.lang:204
 msgid ""
 "Keep up with your favorite sites, or finish that story you started at home — "
 "wherever you go. With Sync, it’s never been easier."
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:202
+#: firefox/sync.lang:209
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
 msgstr ""
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:207
+#: firefox/sync.lang:214
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
 msgstr "DOWNLOAD FIREFOX FOR ANDROID"
 
 #. # TAG: firefox_sync_redesign
-#: firefox/sync.lang:212
+#: firefox/sync.lang:219
 msgid ""
 "To get the full Sync experience, take your Web with you everywhere you use "
 "Firefox. Connect your smartphone, tablet, computer and laptop."
 msgstr ""
 
 #. Used in old page, do not remove , do not remove
-#: firefox/sync.lang:217
+#: firefox/sync.lang:224
 msgid ""
 "Instantly make Firefox your own wherever you use it. Seamlessly sync your "
 "bookmarks, history, passwords and more and access them from any device."
@@ -276,13 +283,13 @@ msgstr ""
 "ಸಾಧನಗಳಿಂದ ಬಳಸಿಕೊಳ್ಳಿ."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:222
+#: firefox/sync.lang:229
 msgid "Get started with Sync. It’s fast, safe and easy:"
 msgstr "ಸಿಂಕ್ ನ ಜೊತೆಯಾಗಿ. ಇದು ಸುಲಲಿತ, ಸುರಕ್ಷಿತ ಮತ್ತು ಸುಲಭವಾಗಿದೆ:"
 
 #. # TAG: sync_new_markup
 #. Used in old page, do not remove
-#: firefox/sync.lang:228
+#: firefox/sync.lang:235
 msgid ""
 "Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> in "
 "the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
@@ -291,7 +298,7 @@ msgstr ""
 "\">ಪರಿವಿಡಿ</a> ತೆರೆಯಿರಿ ಮತ್ತು ಆಯ್ಕೆ ಮಾಡಿ “<strong>ಸಿಂಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್.</strong>”"
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:233
+#: firefox/sync.lang:240
 msgid ""
 "Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of "
 "Firefox and select “Sign in to Sync.”"
@@ -300,27 +307,27 @@ msgstr ""
 "ತೆರೆಯಿರಿ ಮತ್ತು “ಸಿಂಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್” ಆಯ್ಕೆ ಮಾಡಿ."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:238
+#: firefox/sync.lang:245
 msgid "Click “Get started” in the tab that opens."
 msgstr "ತೆರೆದುಕೊಳ್ಳುವ ಹಾಳೆಯಲ್ಲಿ “ಶುರು ಮಾಡು” ಕ್ಲಿಕ್ ಮಾಡು"
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:243
+#: firefox/sync.lang:250
 msgid "Enter an email address and password to “Create a Firefox Account.”"
 msgstr "ಇದಕ್ಕೆ ವಿ-ಅಂಚೆ ವಿಳಾಸ ಮತ್ತು ಪ್ರವೇಶ ಪದ ನಮೂದಿಸಿ “ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆ ಸೃಷ್ಟಿಸು.”"
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:248
+#: firefox/sync.lang:255
 msgid "Click “Next” to get a verification sent to your email."
 msgstr "ಧೃಡೀಕರಣವನ್ನು ನಿಮ್ಮ ವಿ-ಅಂಚೆಗೆ ಕಳಿಸಿಕೊಳ್ಳಲು “ಮುಂದೆ” ಕ್ಲಿಕ್ಕಿಸಿ."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:253
+#: firefox/sync.lang:260
 msgid "Check your email and click the verification link."
 msgstr "ನಿಮ್ಮ ವಿ-ಅಂಚೆ ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಧೃಡೀಕರಣ ಕೊಂಡಿಯನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:258
+#: firefox/sync.lang:265
 msgid ""
 "You’re all set! Firefox will automatically sync in the background from now "
 "on."
@@ -328,12 +335,12 @@ msgstr ""
 "ನೀವು ಸಿದ್ದರಾಗಿದ್ದೀರ! ಫೈರ್ಫಾಕ್ಸ್ ಇನ್ಮುಂದೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಹಿನ್ನಲೆಯಲ್ಲಿ ಸಿಂಕ್ ಆಗುತ್ತದೆ."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:263
+#: firefox/sync.lang:270
 msgid "Have an Android phone or tablet?"
 msgstr "ಆಂಡ್ರಾಯ್ಡ್ ಫೋನ್ ಅಥವಾ ಟ್ಯಾಬ್ಲೆಟ್ ಇದೆಯೇ?"
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:268
+#: firefox/sync.lang:275
 msgid ""
 "<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
 "desktop and mobile devices."
@@ -342,7 +349,7 @@ msgstr ""
 "ಫೈರ್ ಫಾಕ್ಸ್ ಅನ್ನು ಇಳಿಸಿಕೊಳ್ಳಿ</a>."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:273
+#: firefox/sync.lang:280
 msgid ""
 "Download Firefox for Android to sync between your desktop and mobile devices."
 msgstr ""
@@ -350,7 +357,7 @@ msgstr ""
 "ಇಳಿಸಿಕೊಳ್ಳಿ."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:278
+#: firefox/sync.lang:285
 msgid "Get it free from Google Play"
 msgstr "ಗೂಗಲ್‌ ಪ್ಲೇಯಲ್ಲಿ ಉಚಿತವಾಗಿ ಪಡೆಯಿರಿ"
 

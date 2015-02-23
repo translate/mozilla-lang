@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-20 08:06+0000\n"
+"POT-Creation-Date: 2015-02-23 19:07+0000\n"
 "PO-Revision-Date: 2015-02-21 13:30+0000\n"
 "Last-Translator: egamonal <egamonal@softcatala.cat>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1424525431.000000\n"
 
 #. # NOTE: demo URL available at https://www-demo3.allizom.org/firefox/os
@@ -35,39 +35,46 @@ msgstr ""
 "adaptatives i apps que us permeten viure cada moment al màxim, mentre "
 "construïu un futur brillant pel Web."
 
-#: firefox/os/index-new.lang:15
-msgid "Designed to give you just what you need, just when you need it."
-msgstr "Dissenyat per a donar-vos el què necessiteu, just quan ho necessiteu."
-
-#. Will be used in the animation at the top of the page
-#: firefox/os/index-new.lang:20
-msgid "Scroll the homepage"
-msgstr "Desplaceu la pàgina d'inici"
-
-#. Will be used in the animation at the top of the page
-#: firefox/os/index-new.lang:25
-msgid "Swipe between apps"
-msgstr "Canvieu entre apps"
-
 #. Alternative text for top image
-#: firefox/os/index-new.lang:30
+#: firefox/os/index-new.lang:16
 msgid "Firefox OS device illustration"
 msgstr "Il·lustració d'un dispositiu amb Firefox OS"
 
-#: firefox/os/index-new.lang:34
+#: firefox/os/index-new.lang:20
+msgid "Designed to give you just what you need, just when you need it."
+msgstr "Dissenyat per a donar-vos el què necessiteu, just quan ho necessiteu."
+
+#. Title used above the animation (click on the phone image)
+#: firefox/os/index-new.lang:25
+msgid "Give these a try"
+msgstr ""
+
+#. Used as a button label in the animation at the top of the page
+#: firefox/os/index-new.lang:30
+msgid "Scroll the homepage"
+msgstr "Desplaceu la pàgina d'inici"
+
+#. Used as a button label in the animation at the top of the page
+#: firefox/os/index-new.lang:35
+msgid "Swipe between apps"
+msgstr "Canvieu entre apps"
+
+#. Title
+#: firefox/os/index-new.lang:40
 msgid "Smart has never been so simple"
 msgstr "La intel·ligència no ha estat mai tan senzilla"
 
 #. Alternative text for icon
-#: firefox/os/index-new.lang:39
+#: firefox/os/index-new.lang:45
 msgid "interaction icon"
 msgstr "Icona d'interacció"
 
-#: firefox/os/index-new.lang:43
+#. Sub-section title
+#: firefox/os/index-new.lang:50
 msgid "Scroll for what you need"
 msgstr "Desplaceu-vos per trobar el què necessiteu"
 
-#: firefox/os/index-new.lang:47
+#: firefox/os/index-new.lang:54
 msgid ""
 "Say goodbye to multiple home screens. Everything you need is right there in "
 "one clean, continuous scroll. What could be easier?"
@@ -75,11 +82,12 @@ msgstr ""
 "Digueu adéu a diverses pàgines d'inici. Tot el què necessiteu és un "
 "desplaçament clar i continu. Què pot ser més fàcil?"
 
-#: firefox/os/index-new.lang:51
+#. Sub-section title
+#: firefox/os/index-new.lang:59
 msgid "Search in a snap"
 msgstr "Cerqueu en un instant"
 
-#: firefox/os/index-new.lang:55
+#: firefox/os/index-new.lang:63
 msgid ""
 "Search the Web and the Firefox Marketplace, or visit a website directly — "
 "all from the search bar at the top of your home screen."
@@ -87,7 +95,14 @@ msgstr ""
 "Cerqueu al Web i al Marketplace del Firefox, o visiteu directament un lloc "
 "web, des de la barra de cerca al capdamunt de la pàgina d'inici."
 
-#: firefox/os/index-new.lang:59
+#. Sub-section title
+#. The &nbsp; (non-breaking space) is used only to differentiate this title from the button label "Swipe" between apps
+#. Feel free to use the same translation and drop the non-breaking space in your translation.
+#: firefox/os/index-new.lang:70
+msgid "Swipe&nbsp;between apps"
+msgstr ""
+
+#: firefox/os/index-new.lang:74
 msgid ""
 "Access your recently used apps in a flash. Just swipe from the edge of the "
 "screen to cycle through all of your open apps."
@@ -95,137 +110,137 @@ msgstr ""
 "Accediu en un instant a les últimes apps que heu utilitzat. Passeu el dit "
 "per la vora de la pantalla per moure-us per les apps obertes."
 
-#: firefox/os/index-new.lang:63
+#: firefox/os/index-new.lang:78
 msgid "Apps for all you do"
 msgstr "Teniu apps per tot el què feu"
 
-#: firefox/os/index-new.lang:67
+#: firefox/os/index-new.lang:82
 msgid "Stay connected"
 msgstr "Connecteu-vos"
 
-#: firefox/os/index-new.lang:71
+#: firefox/os/index-new.lang:86
 msgid "Stay entertained"
 msgstr "Entreteniu-vos"
 
-#: firefox/os/index-new.lang:75
+#: firefox/os/index-new.lang:90
 msgid "Stay organized"
 msgstr "Organitzeu-vos"
 
 #. Placeholder text for the search bar, imported from Gaia 2.0
-#: firefox/os/index-new.lang:80
+#: firefox/os/index-new.lang:95
 msgid "Search or enter address"
 msgstr "Feu una cerca o poseu l'adreça"
 
 #. Time used in the phone image. It should replicate Gaia's actual time format for your locale.
-#: firefox/os/index-new.lang:85
+#: firefox/os/index-new.lang:100
 msgid "12:34 PM"
 msgstr "12:34 PM"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:90
+#: firefox/os/index-new.lang:105
 msgid "Phone"
 msgstr "Telèfon"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:95
+#: firefox/os/index-new.lang:110
 msgid "Camera"
 msgstr "Càmera"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:100
+#: firefox/os/index-new.lang:115
 msgid "Video"
 msgstr "Vídeos"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:105
+#: firefox/os/index-new.lang:120
 msgid "E-Mail"
 msgstr "Correu electrònic"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:110
+#: firefox/os/index-new.lang:125
 msgid "Messages"
 msgstr "Missatges"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:115
+#: firefox/os/index-new.lang:130
 msgid "Calendar"
 msgstr "Calendari"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:120
+#: firefox/os/index-new.lang:135
 msgid "Browser"
 msgstr "Navegador web"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:125
+#: firefox/os/index-new.lang:140
 msgid "Clock"
 msgstr "Rellotge"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:130
+#: firefox/os/index-new.lang:145
 msgid "Contacts"
 msgstr "Contactes"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:135
+#: firefox/os/index-new.lang:150
 msgid "Music"
 msgstr "Música"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:140
+#: firefox/os/index-new.lang:155
 msgid "FM Radio"
 msgstr "Ràdio FM"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:145
+#: firefox/os/index-new.lang:160
 msgid "Settings"
 msgstr "Paràmetres"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:150
+#: firefox/os/index-new.lang:165
 msgid "Gallery"
 msgstr "Galeria"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:155
+#: firefox/os/index-new.lang:170
 msgid "Usage"
 msgstr "Utilització"
 
-#: firefox/os/index-new.lang:159
+#: firefox/os/index-new.lang:174
 msgid "Add more from the Firefox Marketplace"
 msgstr "Afegiu-ne més del Marketplace del Firefox"
 
-#: firefox/os/index-new.lang:163
+#: firefox/os/index-new.lang:178
 msgid "Get all the most popular games and social networking apps right here."
 msgstr "Aquí trobareu els jocs més populars i les apps de les xarxes socials."
 
-#: firefox/os/index-new.lang:167
+#: firefox/os/index-new.lang:182
 msgid "Go to the Marketplace"
 msgstr "Vés al Marketplace"
 
-#: firefox/os/index-new.lang:171
+#: firefox/os/index-new.lang:186
 msgid "* Pre-installed apps may vary by manufacturers and operators."
 msgstr ""
 "* Les apps instal·lades poden variar segons el fabricant i l'operadora."
 
-#: firefox/os/index-new.lang:175
+#: firefox/os/index-new.lang:190
 msgid "In the news"
 msgstr "A les notícies"
 
-#: firefox/os/index-new.lang:179
+#: firefox/os/index-new.lang:194
 msgid "See more"
 msgstr "Més informació"
 
 #. Alternative text for community image
-#: firefox/os/index-new.lang:184
+#: firefox/os/index-new.lang:199
 msgid "Mozilla community photo"
 msgstr "Fotografia de la comunitat Mozilla"
 
-#: firefox/os/index-new.lang:188
+#: firefox/os/index-new.lang:203
 msgid "Powered by the Mozilla community"
 msgstr "Funciona amb la comunitat Mozilla"
 
-#: firefox/os/index-new.lang:192
+#: firefox/os/index-new.lang:207
 msgid ""
 "Mozilla is a non-profit organization fueled by a passionate global "
 "community. Together, we’re able to create and innovate with local interests "
@@ -237,55 +252,55 @@ msgstr ""
 "interessos locals en ment, mentre fem un Web millor i més accessible a "
 "tothom i a tot arreu."
 
-#: firefox/os/index-new.lang:196
+#: firefox/os/index-new.lang:211
 msgid "Learn more about Mozilla"
 msgstr "Més informació sobre Mozilla"
 
-#: firefox/os/index-new.lang:200
+#: firefox/os/index-new.lang:215
 msgid "Need Help?"
 msgstr "Necessiteu ajuda?"
 
-#: firefox/os/index-new.lang:204
+#: firefox/os/index-new.lang:219
 msgid "Firefox OS Support"
 msgstr "Assistència del Firefox OS"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:209
+#: firefox/os/index-new.lang:224
 msgid "Find My Device"
 msgstr "Troba el meu dispositiu"
 
-#: firefox/os/index-new.lang:213
+#: firefox/os/index-new.lang:228
 msgid "For Developers"
 msgstr "Per a desenvolupadors"
 
-#: firefox/os/index-new.lang:217
+#: firefox/os/index-new.lang:232
 msgid "Mozilla Developer Network"
 msgstr "Mozilla Developer Network{ok}"
 
-#: firefox/os/index-new.lang:221
+#: firefox/os/index-new.lang:236
 msgid "Mozilla Appmaker"
 msgstr "Mozilla Appmaker"
 
-#: firefox/os/index-new.lang:225
+#: firefox/os/index-new.lang:240
 msgid "Firefox OS devices"
 msgstr "Dispositius amb Firefox OS"
 
-#: firefox/os/index-new.lang:229
+#: firefox/os/index-new.lang:244
 msgid "Where is Firefox OS available?"
 msgstr "On es pot trobar el Firefox OS?"
 
-#: firefox/os/index-new.lang:233
+#: firefox/os/index-new.lang:248
 msgid "Other Firefox OS versions"
 msgstr "Altres versions del Firefox OS"
 
-#: firefox/os/index-new.lang:237
+#: firefox/os/index-new.lang:252
 msgid "For Partners"
 msgstr "Per socis"
 
-#: firefox/os/index-new.lang:241
+#: firefox/os/index-new.lang:256
 msgid "Partnership opportunities"
 msgstr "Oportunitats com a socis"
 
-#: firefox/os/index-new.lang:245
+#: firefox/os/index-new.lang:260
 msgid "Sign up for our monthly newsletter"
 msgstr "Subscriviu-vos al butlletí mensual"

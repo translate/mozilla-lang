@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-19 16:07+0000\n"
+"POT-Creation-Date: 2015-02-23 19:07+0000\n"
 "PO-Revision-Date: 2013-10-27 18:17+0000\n"
 "Last-Translator: Tin Aung <tinaunglinn.eng91@gmail.com>\n"
 "Language-Team: none\n"
@@ -16,41 +16,43 @@ msgstr ""
 
 #. # firefox_new_refresh_button ##
 #. # fx10_independent ##
+#. # ios_announce ##
 #. # mobile_links ##
 #. # NOTE: Used for the new http://www.mozilla.org/firefox/new
-#: firefox/new.lang:7
+#. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/new/
+#: firefox/new.lang:9
 msgid "Firefox for desktop"
 msgstr "ဒတ်စတော့ အတွက် မီးမြေခွေး"
 
 #. alternative main title (currently not used)
 #. # TAG: fx10_independent
-#: firefox/new.lang:13
+#: firefox/new.lang:15
 msgid "Choose Independent."
 msgstr ""
 
 #. alternative main title (currently not used)
 #. # TAG: fx10_independent
-#: firefox/new.lang:19
+#: firefox/new.lang:21
 msgid "Choose Firefox."
 msgstr ""
 
-#: firefox/new.lang:23
+#: firefox/new.lang:25
 msgid "Different by design"
 msgstr "ထူးခြားသော ဒီဇိုင်း"
 
-#: firefox/new.lang:27
+#: firefox/new.lang:29
 msgid "Proudly<br />non-profit"
 msgstr "ဂုဏ်ယူစွာဖြင့်<br/>ပရဟိတအဖွဲ့အစည်း"
 
-#: firefox/new.lang:31
+#: firefox/new.lang:33
 msgid "Innovating<br />for you"
 msgstr "အသစ်များကိုသင့်အတွက်<br />ဖန်တီးလျက်"
 
-#: firefox/new.lang:35
+#: firefox/new.lang:37
 msgid "Fast, flexible,<br />secure"
 msgstr "မြန်တယ်,ပြုပြင်လွယ်မယ်<br />ပြီးတော့ လုံခြုံတယ်"
 
-#: firefox/new.lang:39
+#: firefox/new.lang:41
 msgid ""
 "As a non-profit, we’re free to innovate on your behalf without any pressure "
 "to compromise. You’re going to love the difference."
@@ -58,19 +60,19 @@ msgstr ""
 "အကျိုးမြတ်မဲ့အဖွဲ့အစည်းတစ်ခုအနေနဲ့ ကျွနု်ပ်တို့ဟာသင့်ကို အတင်းအကြပ်လက်ခံရယူခြင်းမျိုးမဟုတ်ပဲ အသစ်တွေ "
 "ဆက်ပေးနေမှာဖြစ်ပါတယ်။မကြာခင်မှာပဲ မတူတာကို သိသွားပါလိမ့်မယ်။"
 
-#: firefox/new.lang:43
+#: firefox/new.lang:45
 msgid "Firefox screenshot"
 msgstr "မီးမြေခွေး စကရင်မှတ်တမ်း"
 
-#: firefox/new.lang:47
+#: firefox/new.lang:49
 msgid "Thanks for downloading Firefox!"
 msgstr "မီးမြေခွေးကိုရွေးချယ်တဲ့ အတွက်​ကျေးဇူးပါ"
 
-#: firefox/new.lang:51
+#: firefox/new.lang:53
 msgid "Start the process by clicking Run."
 msgstr "Run အားနှိပ်ပြီးစတင်လိုက်ပါ"
 
-#: firefox/new.lang:55
+#: firefox/new.lang:57
 msgid ""
 "Your download should begin automatically. If not, <a id=\"%s\" href="
 "\"\">click here</a>. It could take a few minutes, but it’s worth the wait."
@@ -78,20 +80,20 @@ msgstr ""
 "သင်၏ ဒေါင်းလုဒ်ရယူမှသည် မကြာခင်စတင်လိမ့်မည်။ အကယ်လို့မကျသေးပါက <a id=\"%s\" href=\"\">ဒီကို</"
 "a>နှိပ်ပါ။ မိနစ်အချို့ကြာချင်ကြာသွားနိုင်သည် ဒါပေမယ့်လည်း စောင့်ရတာ တန်ပါသည်။"
 
-#: firefox/new.lang:59
+#: firefox/new.lang:61
 msgid ""
 "When prompted, drag the Firefox icon into the image of your Applications "
 "folder."
 msgstr "ဝင်းဒိုးတစ်ခုတက်ပြီဆိုပါက မီးမြေခွေး အိုင်ကွန်လေးကို အက်ပလီကေးရှင်း ဖိုဒါထဲ ဆွဲထည့်လိုက်ပါ။"
 
-#: firefox/new.lang:63
+#: firefox/new.lang:65
 msgid ""
 "Click Run to launch the Mozilla Firefox setup wizard. Then, just follow the "
 "steps (we've made the process as painless as possible)."
 msgstr ""
 "Run အားနှိပ်ပြီး မော်ဇီလာ မီးမြေခွေးတပ်ဆင်မှူကို စတင်လိုက်ပါ။ အဆင့်ဆင့် ညွှန်ပြထားသည့်အတိုင်းလုပ်ဆောင်လိုက်ယုံပါ။"
 
-#: firefox/new.lang:67
+#: firefox/new.lang:69
 msgid ""
 "Drag the Firefox icon from the Applications folder into the dock. Then, just "
 "click on Firefox whenever you want to use the web!"
@@ -99,7 +101,7 @@ msgstr ""
 "မီးမြေခွေးအိုင်ကွန်အား အက်ပလီကေးရှင်း မှ Dock ပေါ်ကိုဆွဲတင်လိုက်ပါ ။ ကဲ နောက်ခါ သင်အင်တာနက်သုံးတယ် "
 "မီးမြေခွေးကို နှိပ်လိုက်ပါ။"
 
-#: firefox/new.lang:71
+#: firefox/new.lang:73
 msgid ""
 "Now you’re ready to leap boldly into a new era of Web surfing. Double-click "
 "on the Firefox icon whenever you want to go online."
@@ -107,101 +109,106 @@ msgstr ""
 "အခုသင် အင်တာနက်ခေတ်ကြီး မှာ ထူးခြားစွာ ခုန်ကျော်ပျော်လွှားဖို့ အဆင်သင့်ဖြစ်နေပါပြီ။ "
 "သင်အွန်လိုင်းပေါ်သွားချင်တိုင်း မီးမြေခွေး အိုင်ကွန်ကို နှိပ်လိုက်ပါ။"
 
-#: firefox/new.lang:75
+#: firefox/new.lang:77
 msgid "1"
 msgstr "၁"
 
-#: firefox/new.lang:79
+#: firefox/new.lang:81
 msgid "2"
 msgstr "၂"
 
-#: firefox/new.lang:83
+#: firefox/new.lang:85
 msgid "3"
 msgstr "၃"
 
 #. file <title> tag
-#: firefox/new.lang:88
+#: firefox/new.lang:90
 msgid "Mozilla Firefox Web Browser"
 msgstr "မိုဇီလာမီးမြေခွေး ဝတ်ဘယောက်ဆာ"
 
-#. New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
-#: firefox/new.lang:93
+#: firefox/new.lang:94
 msgid "Sorry, Firefox is currently unsupported by iOS devices."
 msgstr "လောလောဆယ် မီးမြေခွေး အား iOS တွင် အသုံးပြုနိုင်မည် မဟုတ်ပါ"
 
-#: firefox/new.lang:97
+#: firefox/new.lang:98
 msgid "Congrats! You’re using the latest version of Firefox."
 msgstr "ဂုဏ်ယူပါတယ်! သင်ဟာ မီးမြေခွေး နောက်ဆုံးထွက် ကိုအသုံးပြုနေပြီး ဖြစ်ပါတယ်"
 
-#: firefox/new.lang:101
+#: firefox/new.lang:102
 msgid ""
 "Looks like you’re using an older version of Firefox. Update on Google Play."
 msgstr "ကြည့်ရတာ မီးမြေခွေး ဗားရှင်း အဟောင်းကို သုံးနေတယ်ထင်တယ် ။ ဂူးဂဲလ် ပလေးစတိုးကနေ အဆင်မြှင့်လိုက်ပါ"
 
-#: firefox/new.lang:105
+#: firefox/new.lang:106
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "ကြည့်ရတာ မီးမြေခွေး ဗားရှင်း အဟောင်းကို သုံးနေတယ်ထင်တယ်"
 
-#: firefox/new.lang:109
+#: firefox/new.lang:110
 msgid "Update to stay fast and safe."
 msgstr "မြန်ဆန်ပြီး လုံခြုံရန် အဆင့်မြှင့်ပါ"
 
-#: firefox/new.lang:113
+#: firefox/new.lang:114
 msgid "Get it free on Google Play"
 msgstr "ဂူးဂဲစတိုး မှ အခမဲ့ ရယူလိုက်ပါ"
 
-#: firefox/new.lang:117
+#: firefox/new.lang:118
 msgid "Learn more about Firefox for desktop"
 msgstr "ဒတ်စတော့ခ်အတွက် မီးမြေခွေး အကြောင်း ဆက်လက်လေ့လာ"
 
-#: firefox/new.lang:121
+#: firefox/new.lang:122
 msgid "Looking for mobile?"
 msgstr "မိုဘိုင်းအတွက် ရှာနေသလား?"
 
-#: firefox/new.lang:125
+#: firefox/new.lang:126
 msgid "Download a fresh copy"
 msgstr "နောက်ဆုံးထုတ်အား ဒေါင်းလုဒ်ရယူမည်"
 
-#: firefox/new.lang:129
+#: firefox/new.lang:130
 msgid "Learn more about Firefox for Mobile"
 msgstr "မိုဘိုင်းအတွက် မီးမြေခွေးအား ဆက်လက်လေ့လာ"
 
-#: firefox/new.lang:133
+#: firefox/new.lang:134
 #, fuzzy
 msgid "Learn more about Firefox OS"
 msgstr "မီးမြေခွေး ကွန်ပျူတာစနစ်အား ဆက်လက်လေ့လာ"
 
 #. # TAG: mobile_links
-#: firefox/new.lang:138
+#: firefox/new.lang:139
 msgid "Get Firefox on your Android device"
 msgstr ""
 
 #. # TAG: mobile_links
-#: firefox/new.lang:143
+#: firefox/new.lang:144
 #, fuzzy
 msgid "Learn about Firefox OS"
 msgstr "မီးမြေခွေး ကွန်ပျူတာစနစ်အား ဆက်လက်လေ့လာ"
 
-#: firefox/new.lang:147
+#: firefox/new.lang:148
 msgid "Discover all the ways to take Firefox on the go"
 msgstr "မီးမြေခွေးအား သုံးရန် နည်းလမ်းအားလုံး အားရှာဖွေ လေ့လာမည်"
 
-#: firefox/new.lang:151
+#. # TAG: ios_announce
+#: firefox/new.lang:153
+#, fuzzy
+msgid "Learn more about Firefox on iOS"
+msgstr "မီးမြေခွေး ကွန်ပျူတာစနစ်အား ဆက်လက်လေ့လာ"
+
+#: firefox/new.lang:157
 msgid "Why don’t we offer an iOS version?"
 msgstr "ဘာကြောင့် iOS အတွက် မထုတ်ပေးတာလဲ ?"
 
 #. The following two strings are used in the <title> tag of the page
-#: firefox/new.lang:156
+#: firefox/new.lang:162
 msgid "Download Firefox"
 msgstr "မီးမြေခွေးအားဒေါင်းလုဒ်ရယူပါ"
 
 #. Note: 'free' as in free of charge
-#: firefox/new.lang:161
+#: firefox/new.lang:167
 msgid "Free Web Browser"
 msgstr "အခမဲ့ ဝတ်ဘယောက်ဆာ"
 
 #. Meta tag description (visible in the code)
-#: firefox/new.lang:166
+#: firefox/new.lang:172
 msgid ""
 "Download Mozilla Firefox, a free Web browser. Firefox is created by a global "
 "non-profit dedicated to putting individuals in control online. Get Firefox "
@@ -209,7 +216,7 @@ msgid ""
 msgstr ""
 
 #. Schema.org tag description (visible in the code)
-#: firefox/new.lang:171
+#: firefox/new.lang:177
 msgid ""
 "Mozilla Firefox, free web browser, is created by a global non-profit "
 "dedicated to putting individuals in control &amp; shaping the future of the "
@@ -224,7 +231,7 @@ msgstr ""
 #. You should keep the translation consistent with Firefox:
 #. http://transvision.mozfr.org/string/?entity=toolkit/chrome/global/resetProfile.dtd:refreshProfile.title&repo=beta
 #. # TAG: firefox_new_refresh_button
-#: firefox/new.lang:180
+#: firefox/new.lang:186
 msgid "Give Firefox a tune up"
 msgstr ""
 
@@ -233,7 +240,7 @@ msgstr ""
 #. You should keep the translation consistent with Firefox:
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/safeMode.dtd:refreshProfile.label&repo=beta
 #. # TAG: firefox_new_refresh_button
-#: firefox/new.lang:189
+#: firefox/new.lang:195
 msgid "Refresh Firefox"
 msgstr ""
 

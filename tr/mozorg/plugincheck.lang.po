@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-04 20:07+0000\n"
+"POT-Creation-Date: 2015-02-23 19:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,65 +16,74 @@ msgstr ""
 #. # java_notice ##
 #. # plugin_disable_warning ##
 #. # plugin_updated_content ##
+#. # share_cta ##
 #. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 #. # URL: https://www-dev.allizom.org/%LOCALE%/plugincheck
 #. Page <title> tag
-#: mozorg/plugincheck.lang:10
+#: mozorg/plugincheck.lang:11
 msgid "Plugin Check &amp; Updates"
 msgstr "Yan Uygulama Denetimi ve Güncellemeleri"
 
 #. This is a button telling the user to update their plugin
-#: mozorg/plugincheck.lang:15
+#: mozorg/plugincheck.lang:16
 msgid "Update Now"
 msgstr "Şimdi güncelle"
 
 #. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
-#: mozorg/plugincheck.lang:20
+#: mozorg/plugincheck.lang:21
 msgid "Research"
 msgstr "Araştır"
 
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
-#: mozorg/plugincheck.lang:25
+#: mozorg/plugincheck.lang:26
 msgid "current version plugin"
 msgstr "current version plugin"
 
 #. This is a button informing the user that their plugin is up to date
-#: mozorg/plugincheck.lang:30
+#: mozorg/plugincheck.lang:31
 msgid "Up to Date"
 msgstr "Güncel"
 
 #. L10n: This is alt text used on plugin icon images
-#: mozorg/plugincheck.lang:35
+#: mozorg/plugincheck.lang:36
 msgid "Plugin icon"
 msgstr "Yan uygulama simgesi"
 
 #. This is the string used to indicate that the plugin is unknown
-#: mozorg/plugincheck.lang:40
+#: mozorg/plugincheck.lang:41
 msgid "unknown"
 msgstr "bilinmiyor"
 
 #. This is the string used to indicate that the plugin is vulnerable
-#: mozorg/plugincheck.lang:45
+#: mozorg/plugincheck.lang:46
 msgid "vulnerable"
 msgstr "açığı var"
 
 #. Main title
-#: mozorg/plugincheck.lang:50
+#: mozorg/plugincheck.lang:51
 msgid "Check Your Plugins"
 msgstr "Yan Uygulamalarınızı Denetleyin"
 
-#: mozorg/plugincheck.lang:54
+#: mozorg/plugincheck.lang:55
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
 "Yan uygulamalarınızın güncel olması, Firefox'un güvenli ve akıcı çalışmasına "
 "yardımcı olur."
 
-#: mozorg/plugincheck.lang:58
+#. # TAG: share_cta
+#. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
+#: mozorg/plugincheck.lang:61
+msgid ""
+"Plugins don’t always update automatically. Check yours now to stay safe and "
+"browse without interruption!"
+msgstr ""
+
+#: mozorg/plugincheck.lang:65
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "Görünüşe bakılırsa Firefox’un eski bir sürümünü kullanıyorsunuz."
 
 #. # TAG: java_notice
-#: mozorg/plugincheck.lang:63
+#: mozorg/plugincheck.lang:70
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
@@ -83,7 +92,7 @@ msgstr ""
 "bu sürümlerin yanlış rapor edildiğinin farkındayız."
 
 #. # TAG: java_notice
-#: mozorg/plugincheck.lang:68
+#: mozorg/plugincheck.lang:75
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
@@ -91,11 +100,11 @@ msgstr ""
 "Bu hatayı düzeltmek için çalışıyoruz. Bu arada siz de son sürümü indirmek "
 "için <a href=\"%(download)s\">Java web sitesini</a> ziyaret edebilirsiniz."
 
-#: mozorg/plugincheck.lang:72
+#: mozorg/plugincheck.lang:79
 msgid "Plugin Status"
 msgstr "Yan uygulama durumu"
 
-#: mozorg/plugincheck.lang:76
+#: mozorg/plugincheck.lang:83
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
@@ -103,83 +112,83 @@ msgstr ""
 "Internet Explorer için Yan Uygulama Denetimi desteği <strong>kısıtlıdır</"
 "strong>. Araçlar &gt; Eklentileri yönet seçeneğini de kullanın."
 
-#: mozorg/plugincheck.lang:80
+#: mozorg/plugincheck.lang:87
 msgid "Step 1: Click Update to update a plugin."
 msgstr "1. adım: Bir yan uygulamayı güncellemek için Güncelle'ye tıklayın."
 
-#: mozorg/plugincheck.lang:84
+#: mozorg/plugincheck.lang:91
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
 "2. adım: Önerilen tüm güncellemeleri tamamladıktan sonra tarayıcınızı "
 "yeniden başlatın."
 
-#: mozorg/plugincheck.lang:88
+#: mozorg/plugincheck.lang:95
 msgid "Potentially vulnerable plugins"
 msgstr "Potansiyel açığı olan yan uygulamalar"
 
-#: mozorg/plugincheck.lang:92
+#: mozorg/plugincheck.lang:99
 msgid "Plugin"
 msgstr "Yan uygulama"
 
-#: mozorg/plugincheck.lang:96
+#: mozorg/plugincheck.lang:103
 msgid "Status"
 msgstr "Durum"
 
-#: mozorg/plugincheck.lang:100
+#: mozorg/plugincheck.lang:107
 msgid "Action"
 msgstr "Eylem"
 
-#: mozorg/plugincheck.lang:104
+#: mozorg/plugincheck.lang:111
 msgid "Outdated Plugins"
 msgstr "Eskimiş yan uygulamalar"
 
-#: mozorg/plugincheck.lang:108
+#: mozorg/plugincheck.lang:115
 msgid "Unknown Plugins"
 msgstr "Bilinmeyen yan uygulamalar"
 
-#: mozorg/plugincheck.lang:112
+#: mozorg/plugincheck.lang:119
 msgid "These plugins are up to date"
 msgstr "Bu yan uygulamalar güncel"
 
-#: mozorg/plugincheck.lang:116
+#: mozorg/plugincheck.lang:123
 msgid "Back to Top"
 msgstr "Başa dön"
 
-#: mozorg/plugincheck.lang:120
+#: mozorg/plugincheck.lang:127
 msgid "Frequently Asked Questions"
 msgstr "Sıkça sorulan sorular"
 
-#: mozorg/plugincheck.lang:124
+#: mozorg/plugincheck.lang:131
 msgid "What is a plugin?"
 msgstr "Yan uygulama nedir?"
 
-#: mozorg/plugincheck.lang:128
+#: mozorg/plugincheck.lang:135
 msgid "Plugins power videos, animation and games"
 msgstr "Yan uygulamalar videoları, animasyonları ve oyunları çalıştırır."
 
-#: mozorg/plugincheck.lang:132
+#: mozorg/plugincheck.lang:139
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr ""
 "Firefox dışındaki Adobe Systems ve Apple gibi şirketler tarafından "
 "geliştirilirler."
 
-#: mozorg/plugincheck.lang:136
+#: mozorg/plugincheck.lang:143
 msgid "Plugins don't always update automatically."
 msgstr "Yan uygulamalar her zaman otomatik olarak güncellenmez."
 
-#: mozorg/plugincheck.lang:140
+#: mozorg/plugincheck.lang:147
 msgid "Why should I update my plugins?"
 msgstr "Yan uygulamalarımı neden güncellemeliyim?"
 
-#: mozorg/plugincheck.lang:144
+#: mozorg/plugincheck.lang:151
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr ""
 "Eski yan uygulamalar web'de gezintinizi kesintiye uğratarak zaman kaybına "
 "yol açabilir."
 
-#: mozorg/plugincheck.lang:148
+#: mozorg/plugincheck.lang:155
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
@@ -187,7 +196,7 @@ msgstr ""
 "Eski yan uygulamalar kötü niyetli yazılım, virüs ve diğer güvenlik "
 "tehditlerinin <strong>zarar verme riskini artırır</strong>."
 
-#: mozorg/plugincheck.lang:152
+#: mozorg/plugincheck.lang:159
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
@@ -196,15 +205,15 @@ msgstr ""
 "güvenli</strong> kılacak <strong>gelişmelere</strong> sahiptir."
 
 #. alt image
-#: mozorg/plugincheck.lang:157
+#: mozorg/plugincheck.lang:164
 msgid "Screenshot of Add-Ons manager"
 msgstr "Eklenti yöneticisi ekran görüntüsü"
 
-#: mozorg/plugincheck.lang:161
+#: mozorg/plugincheck.lang:168
 msgid "How can Firefox help me?"
 msgstr "Firefox benim için ne yapabilir?"
 
-#: mozorg/plugincheck.lang:165
+#: mozorg/plugincheck.lang:172
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
@@ -213,11 +222,11 @@ msgstr ""
 "sayfayı düzenli olarak kontrol etmeli ve güvende kalmak için yan "
 "uygulamalarınızı güncellemelisiniz."
 
-#: mozorg/plugincheck.lang:169
+#: mozorg/plugincheck.lang:176
 msgid "Which Plugins do I have?"
 msgstr "Tarayıcımda hangi yan uygulamalar yüklü?"
 
-#: mozorg/plugincheck.lang:173
+#: mozorg/plugincheck.lang:180
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
@@ -225,11 +234,11 @@ msgstr ""
 "Yukarıdaki yan uygulamalarınızı otomatik olarak tespit ettik. Firefox'ta "
 "yüklü yan uygulamalarınızı görmek için şu adımları izleyin:"
 
-#: mozorg/plugincheck.lang:177
+#: mozorg/plugincheck.lang:184
 msgid "Want to spread the word?"
 msgstr "Sözümüzü yaymak ister misiniz?"
 
-#: mozorg/plugincheck.lang:181
+#: mozorg/plugincheck.lang:188
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -238,53 +247,53 @@ msgstr ""
 "ekleyebileceğiniz bir yan uygulama denetimi banner'ı edinmek için <a href="
 "\"%(url)s\">Firefox Kardeşleri</a>'ni ziyaret edin."
 
-#: mozorg/plugincheck.lang:185
+#: mozorg/plugincheck.lang:192
 msgid "How do I disable a plugin?"
 msgstr "Bir yan uygulamayı nasıl etkisizleştiririm?"
 
-#: mozorg/plugincheck.lang:189
+#: mozorg/plugincheck.lang:196
 msgid "In Firefox:"
 msgstr "Firefox'ta:"
 
-#: mozorg/plugincheck.lang:193
+#: mozorg/plugincheck.lang:200
 msgid "Open the Tools menu."
 msgstr "Araçlar menüsünü açın."
 
 #. # TAG: plugin_updated_content
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
-#: mozorg/plugincheck.lang:199
+#: mozorg/plugincheck.lang:206
 msgid "Open the <span class=\"menu\">menu</span>."
 msgstr "<span class=\"menurev\">Menüyü</span> açın."
 
-#: mozorg/plugincheck.lang:203
+#: mozorg/plugincheck.lang:210
 msgid "Choose Add-ons."
 msgstr "Eklentiler'i seçin."
 
-#: mozorg/plugincheck.lang:207
+#: mozorg/plugincheck.lang:214
 msgid "Click the plugins tab."
 msgstr "Yan uygulamalar sekmesine tıklayın."
 
 #. # TAG: plugin_updated_content
-#: mozorg/plugincheck.lang:212
+#: mozorg/plugincheck.lang:219
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr ""
 "Devre dışı bırakmak istediğiniz yan uygulamanın yanındaki açılır menüye "
 "tıklayın."
 
-#: mozorg/plugincheck.lang:216
+#: mozorg/plugincheck.lang:223
 msgid "Click on a plugin in the list."
 msgstr "Listedeki bir yan uygulamaya tıklayın."
 
 #. # TAG: plugin_updated_content
-#: mozorg/plugincheck.lang:221
+#: mozorg/plugincheck.lang:228
 msgid "Select \"Never Activate\" from the available choices."
 msgstr "Seçenekler arasından \"Asla etkinleştirme\"yi seçin."
 
-#: mozorg/plugincheck.lang:225
+#: mozorg/plugincheck.lang:232
 msgid "Click the Disable button."
 msgstr "Etkisizleştir düğmesine tıklayın."
 
-#: mozorg/plugincheck.lang:229
+#: mozorg/plugincheck.lang:236
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -295,7 +304,7 @@ msgstr ""
 "etkisizleştirirseniz popüler video sitelerindeki videoları izleyemezsiniz."
 
 #. # TAG: plugin_disable_warning
-#: mozorg/plugincheck.lang:234
+#: mozorg/plugincheck.lang:241
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -305,15 +314,15 @@ msgstr ""
 "işleri artık yapamayacağınız anlamına gelir. Örneğin Flash'ı "
 "etkisizleştirirseniz bazı video sitelerindeki videoları izleyemezsiniz."
 
-#: mozorg/plugincheck.lang:238
+#: mozorg/plugincheck.lang:245
 msgid "Mozilla Support"
 msgstr "Mozilla Desteği"
 
-#: mozorg/plugincheck.lang:242
+#: mozorg/plugincheck.lang:249
 msgid "Have more questions?"
 msgstr "Başka sorularınız mı var?"
 
-#: mozorg/plugincheck.lang:246
+#: mozorg/plugincheck.lang:253
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "Daha fazla yardım almak için <a href=\"%(sumo_url)s\">support.mozilla.org</"
