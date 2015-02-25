@@ -1,4 +1,5 @@
 #. extracted from ./firefox/tiles.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -7,7 +8,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,7 +16,7 @@ msgstr ""
 #. # NOTE: demo available at https://www-dev.allizom.org/firefox/tiles
 #: firefox/tiles.lang:3
 msgid "A Brand New Tiles Experience"
-msgstr ""
+msgstr "Una nova experiència Tiles"
 
 #: firefox/tiles.lang:7
 msgid ""
@@ -24,99 +24,128 @@ msgid ""
 "to interesting, relevant content, whether it’s the sites they visit most or "
 "new sites for them to discover."
 msgstr ""
+"Amb Tiles Millorats i Tiles de Directoris, el Firefox proporciona als "
+"usuaris un accés simple a contingut interessant i relevant, tant si són els "
+"llocs que visiteu molt o llocs nous a descobrir."
 
 #: firefox/tiles.lang:11
 msgid "What are Tiles?"
-msgstr ""
+msgstr "Què són els Tiles?"
 
 #: firefox/tiles.lang:15
 msgid ""
 "When you open a new tab in Firefox, you see several rectangles that link to "
 "different websites."
 msgstr ""
+"Quan obriu una pestanya nova al Firefox, veureu molts rectangles que "
+"enllacen a diferents llocs web."
 
 #: firefox/tiles.lang:19
 msgid ""
 "Some people call them squares, windows or bookmarks; we call them Tiles."
 msgstr ""
+"Algunes persones els anomena quadrats, finestres o adreces d'interès; "
+"nosaltres els anomenem Tiles."
 
 #: firefox/tiles.lang:23
 msgid "What are Enhanced Tiles?"
-msgstr ""
+msgstr "Què són els Tiles Millorats?"
 
 #: firefox/tiles.lang:27
 msgid ""
 "Existing Firefox users will be offered a set of Enhanced Tiles based on "
 "their browsing history."
 msgstr ""
+"Els usuaris ja existents del Firefox tindran accés a un joc de Tiles "
+"Millorats basats en la seva història de navegació."
 
 #: firefox/tiles.lang:31
 msgid ""
 "The Enhanced versions replace the default screenshot with a better image and "
 "are displayed only for sites that the user has visited."
 msgstr ""
+"Les versions Millorades substitueixen la captura de pantalla predeterminada "
+"amb una imatge millor i es mostren només dels llocs que heu visitat."
 
 #: firefox/tiles.lang:35
 msgid ""
 "The improved image is supplied by the site or partner and can include a logo "
 "plus a rollover image."
 msgstr ""
+"La imatge millorada la proporciona el lloc o col·laborador i pot incloure un "
+"logotip o imatge rotativa."
 
 #: firefox/tiles.lang:39
 msgid ""
 "If you frequent Amazon.com, for example, you might see the Amazon logo or "
 "icon, instead of a screenshot."
 msgstr ""
+"Si visiteu sovint Amazon.com, per exemple, podeu veure el logotip o icona  "
+"d'Amazon, en comptes d'una captura de pantalla."
 
 #: firefox/tiles.lang:43
 msgid "What are Directory Tiles?"
-msgstr ""
+msgstr "Què són els Tiles de Directoris?"
 
 #: firefox/tiles.lang:47
 msgid ""
 "New Firefox users are initially given a set of Directory Tiles as "
 "suggestions for sites that may be of interest to them."
 msgstr ""
+"Els nous usuaris del Firefox tenen accés a un joc de Tiles de Directoris com "
+"a suggeriment de llocs que els podrien interessar."
 
 #: firefox/tiles.lang:51
 msgid ""
 "Instead of displaying a blank set of Tiles, Firefox shows content from "
 "Mozilla and some Mozilla partners."
 msgstr ""
+"En comptes de mostrar un joc de Tiles en blanc, el Firefox mostra contingut "
+"de Mozilla i d'alguns col·laboradors de Mozilla."
 
 #: firefox/tiles.lang:55
 msgid ""
 "All partner content is marked as “sponsored” and users have complete control "
 "to edit or remove any Tile."
 msgstr ""
+"Tot el contingut dels col·laboradors és marcat amb \"Patrocinat\" i els "
+"usuaris tenen el control complet per editar o esborrar qualsevol Tile."
 
 #: firefox/tiles.lang:59
 msgid "Respects your privacy"
-msgstr ""
+msgstr "Respecta la vostra privadesa"
 
 #: firefox/tiles.lang:63
 msgid ""
 "As with all Mozilla products, Tiles provide users with extensive control "
 "over their personal data."
 msgstr ""
+"Com amb tots els productes Mozilla, Tiles proporciona als usuaris un control "
+"exhaustiu sobre les seves dades personals."
 
 #: firefox/tiles.lang:67
 msgid ""
 "Data collection is limited to the aggregate number of impressions, clicks "
 "and Tile placement."
 msgstr ""
+"La recollida de dades es limita al nombre agregat d'impressions, clics i "
+"posicionament de Tiles."
 
 #: firefox/tiles.lang:71
 msgid ""
 "Nothing is ever personally identifiable. In other words, we don’t know who "
 "clicks on what."
 msgstr ""
+"Rés permet identificar personalment. En altres paraules, no sabem qui fa "
+"clic on."
 
 #: firefox/tiles.lang:75
 msgid ""
 "We just know the total number of views and clicks an individual Tile "
 "receives. This helps us deliver the most interesting and relevant content."
 msgstr ""
+"Només sabem el nombre total de visualitzacions i clics que rep un Tile "
+"individual. Això ens ajuda a mostrar el contingut més interessant i relevant."
 
 #: firefox/tiles.lang:79
 msgid ""
@@ -124,6 +153,10 @@ msgid ""
 "icon on the top right corner of the new tab page, and selecting Classic to "
 "show only unenhanced History Tiles or Blank mode."
 msgstr ""
+"Podeu desactivar el seguiment de clics i impressions fent clic a la icona de "
+"l'engranatge a la cantonada de la dreta a dalt de la pàgina de pestanya "
+"nova, i seleccionant Classic per mostrar només l'històric de Tiles o Mode "
+"Blank."
 
 #: firefox/tiles.lang:83
 msgid "Frequently Asked Questions"
@@ -131,58 +164,65 @@ msgstr "Preguntes més freqüents"
 
 #: firefox/tiles.lang:87
 msgid "Are you tracking users now?"
-msgstr ""
+msgstr "Esteu seguint usuaris ara?"
 
 #: firefox/tiles.lang:91
 msgid ""
 "We only collect data from the New Tab page in aggregate form, meaning no "
 "data is personally identifiable."
 msgstr ""
+"Només recollim dades de la pàgina Pestanya Nova de forma agregada, "
+"significant que cap dada pot identificar cap persona."
 
 #: firefox/tiles.lang:95
 msgid "What data is being collected?"
-msgstr ""
+msgstr "Quines dades es recullen?"
 
 #: firefox/tiles.lang:99
 msgid ""
 "Aggregate data from the New Tab page includes impressions, clicks and tile "
 "placement."
 msgstr ""
+"Les dades agregades de la pàgina Nova Pestanya inclouen impressions, clics i "
+"posicionament de Tile."
 
 #: firefox/tiles.lang:103
 msgid "What data is collected when I opt out?"
-msgstr ""
+msgstr "Quines dades es recullen i com puc evitar-ho?"
 
 #: firefox/tiles.lang:107
 msgid ""
 "No data is collected when a user chooses to opt out of the enhanced Tiles "
 "experience."
 msgstr ""
+"No es recull cap dada quan l'usuari tria no participar de l'experiència de "
+"Tiles Millorats."
 
 #: firefox/tiles.lang:111
 msgid "Where can I learn more?"
-msgstr ""
+msgstr "On en puc saber més?"
 
 #. Link to https://blog.mozilla.org/futurereleases/2014/09/04/new-tab-page-experiments-in-firefox-beta/
 #: firefox/tiles.lang:117
 msgid "New Tab Experiments in Firefox Beta"
-msgstr ""
+msgstr "Experiments de Pestanya Nova al Firefox Beta"
 
 #. Link to https://blog.mozilla.org/advancingcontent/2014/08/21/a-call-for-trust-transparency-and-user-control-in-advertising/
 #: firefox/tiles.lang:122
 msgid "A Call for Trust, Transparency and User Control in Advertising"
 msgstr ""
+"Una crida a la confiança, la transparència i el control de l'usuari de la "
+"publicitat"
 
 #. Link to https://blog.mozilla.org/netpolicy/2014/08/21/trust-should-be-the-currency/
 #: firefox/tiles.lang:127
 msgid "Trust should be the currency"
-msgstr ""
+msgstr "Confiança hauria de ser l'habitual"
 
 #. Used as title of the screenshot
 #: firefox/tiles.lang:132
-#, fuzzy
 msgid "Tiles Preferences"
-msgstr "Desa les preferències"
+msgstr "Preferències dels Tiles"
 
 #: firefox/tiles.lang:136
 msgid "Screenshot"
@@ -192,3 +232,5 @@ msgstr "Captura de pantalla"
 #: firefox/tiles.lang:141
 msgid "For more help please see the <a href=\"%(url)s\">Tiles Support Page</a>"
 msgstr ""
+"Per a més informació consulteu la <a href=\"%(url)s\">pàgina de suport del "
+"Tiles</a>"
