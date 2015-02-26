@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-23 19:07+0000\n"
+"POT-Creation-Date: 2015-02-26 13:08+0000\n"
 "PO-Revision-Date: 2014-11-19 22:25+0000\n"
 "Last-Translator: Mohomodou  <mh@bollag-areal.ch>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,155 +19,203 @@ msgstr ""
 msgid "Navigation"
 msgstr "Naaruyan"
 
-#: main.lang:5
+#. Used in the new Firefox family navigation menu. Main level item.
+#. Menu will be enabled on Firefox OS family on March 1st.
+#. Example: https://www-demo2.allizom.org/it/mwc/
+#: main.lang:8
+msgid "<span>for</span> Desktop"
+msgstr ""
+
+#. Used in the new Firefox family navigation menu. Sub-item.
+#: main.lang:13
+msgid "Overview"
+msgstr "Moo-daaru"
+
+#. Used in the new Firefox family navigation menu. Sub-item.
+#: main.lang:18
+msgid "Trusted"
+msgstr "Naanante"
+
+#. Used in the new Firefox family navigation menu. Sub-item.
+#: main.lang:23
+msgid "Flexible"
+msgstr "Baana"
+
+#. Used in the new Firefox family navigation menu. Sub-item.
+#: main.lang:28
+msgid "Fast"
+msgstr "Cahã"
+
+#. Used in the new Firefox family navigation menu. Main level item.
+#: main.lang:33
+msgid "<span>for</span> Android"
+msgstr ""
+
+#. Used in the new Firefox family navigation menu. Main level item.
+#: main.lang:38
+msgid "OS"
+msgstr "OS"
+
+#. Used in the new Firefox family navigation menu. Sub-item.
+#: main.lang:43
 msgid "About"
 msgstr "Ga"
 
-#: main.lang:9
+#. Used in the new Firefox family navigation menu. Sub-item.
+#: main.lang:48
+msgid "Devices"
+msgstr ""
+
+#. Used in the new Firefox family navigation menu. Sub-item.
+#: main.lang:53
+msgid "For partners"
+msgstr ""
+
+#: main.lang:57
 msgid "Donate"
 msgstr "Noo"
 
-#: main.lang:13
+#: main.lang:61
 msgid "Support"
 msgstr "Gaakašinay"
 
-#: main.lang:17
+#: main.lang:65
 msgid "Products"
 msgstr "Jinawey"
 
-#: main.lang:21
+#: main.lang:69
 msgid "Add-ons"
 msgstr "Tontoney"
 
-#: main.lang:25
+#: main.lang:73
 msgid "About Us"
 msgstr "Iri ga"
 
-#: main.lang:29
+#: main.lang:77
 msgid "Labs"
 msgstr "Šiiyanhugey"
 
-#: main.lang:33
+#: main.lang:81
 msgid "skip to Navigation"
 msgstr "sar naaruyan do"
 
-#: main.lang:37
+#: main.lang:85
 msgid "switch language"
 msgstr "šenni barmay"
 
-#: main.lang:41
+#: main.lang:89
 msgid "Back to home page"
 msgstr "Willi šintin moo ga"
 
-#: main.lang:45
+#: main.lang:93
 msgid "About Mozilla"
 msgstr "Mozilla ga"
 
-#: main.lang:49
+#: main.lang:97
 msgid "Get Involved"
 msgstr "Wa huru goyoo ra"
 
-#: main.lang:53
+#: main.lang:101
 msgid "Careers"
 msgstr "Goy ceebandu"
 
-#: main.lang:57
+#: main.lang:105
 msgid "Press Center"
 msgstr "Alhabarkoyni gam"
 
-#: main.lang:61
+#: main.lang:109
 msgid "Contact Us"
 msgstr "Hantum ir še"
 
-#: main.lang:65
+#: main.lang:113
 msgid "Other languages:"
 msgstr "Šenni waaney:"
 
 #. Year / Month / Day, indicate your prefered date format for your language
-#: main.lang:70
+#: main.lang:118
 msgid "%Y-%m-%d"
 msgstr "%Y-%m-%d"
 
-#: main.lang:74
+#: main.lang:122
 msgid "Legal"
 msgstr "Alhukum bande"
 
 #. Used as link in the footer
-#: main.lang:79
+#: main.lang:127
 msgid "Cookies"
 msgstr "Aleewawey"
 
 #. Used as link in the footer
-#: main.lang:84
+#: main.lang:132
 msgid "Firefox Affiliates"
 msgstr "Firefox kondantey"
 
-#: main.lang:88
+#: main.lang:136
 msgid "Legal Notices"
 msgstr "Alhukum bayrandiyaney"
 
-#: main.lang:92
+#: main.lang:140
 msgid "Privacy Policy"
 msgstr "Sutura laada"
 
-#: main.lang:96
+#: main.lang:144
 msgid "Release Notes"
 msgstr "Kaatarayyan hantumey"
 
-#: main.lang:100
+#: main.lang:148
 msgid "Other Systems and Languages"
 msgstr "Dabariɲaa nda šenni waaney"
 
-#: main.lang:104
+#: main.lang:152
 msgid "Close"
 msgstr "Daabu"
 
-#: main.lang:108
+#: main.lang:156
 msgid "(in English)"
 msgstr "(ingiliši šenni ra)"
 
-#: main.lang:112
+#: main.lang:160
 msgid "Return to top"
 msgstr "Willi beene"
 
-#: main.lang:116
+#: main.lang:164
 msgid "Features"
 msgstr "Alhaaley"
 
-#: main.lang:120
+#: main.lang:168
 msgid "Customize"
 msgstr "Hanse boŋše"
 
-#: main.lang:125
+#: main.lang:173
 msgid "Download"
 msgstr "Zumandi"
 
-#: main.lang:129
+#: main.lang:177
 msgid "Previous"
 msgstr "Bisante"
 
-#: main.lang:133
+#: main.lang:181
 msgid "Next"
 msgstr "Jine"
 
 #. MegaBytes abbreviation
-#: main.lang:138
+#: main.lang:186
 msgid "MB"
 msgstr "MB"
 
-#: main.lang:142
+#: main.lang:190
 msgid "MegaBytes"
 msgstr "Cebsumiliyon"
 
-#: main.lang:146
+#: main.lang:194
 msgid "FAQ"
 msgstr "Hãayan fillantey"
 
-#: main.lang:150
+#: main.lang:198
 msgid "Videos"
 msgstr "Widewowey"
 
-#: main.lang:154
+#: main.lang:202
 msgid ""
 "Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
 "licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
@@ -177,110 +225,110 @@ msgstr ""
 "ga duɲe <br /><a href=\"%s\">Creative Commons Attribution Share-Alike "
 "License v3.0</a> waafakaa bande wala dumi kokorante tana."
 
-#: main.lang:158
+#: main.lang:206
 msgid "Report Trademark Abuse"
 msgstr "Teekaw tammaasa yahaaza bayrandi"
 
-#: main.lang:162
+#: main.lang:210
 msgid "Free Upgrade"
 msgstr "Taagandiri forba"
 
 #. social networks such as Facebook and Twitter
-#: main.lang:167
+#: main.lang:215
 msgid "Follow us on:"
 msgstr "Ir gana ne:"
 
-#: main.lang:171
+#: main.lang:219
 msgid "Customize with Add-ons"
 msgstr "W'a hanse war boŋše nda tontoniyaŋ"
 
-#: main.lang:175
+#: main.lang:223
 msgid "Learn More"
 msgstr "Bay ka tonton"
 
 #. Same as previous above but with no capitalization on More
-#: main.lang:180
+#: main.lang:228
 msgid "Learn more"
 msgstr "Bay ka tonton"
 
 #. Link used to play again an animation or a video
-#: main.lang:185
+#: main.lang:233
 msgid "Replay"
 msgstr "Hẽenandi taaga"
 
-#: main.lang:189
+#: main.lang:237
 msgid "Watch the video"
 msgstr "Widewowoo guna"
 
-#: main.lang:193
+#: main.lang:241
 msgid "Replay the video"
 msgstr "Widewo hẽenandi koyne"
 
-#: main.lang:197
+#: main.lang:245
 msgid "Share the video"
 msgstr "Widewo woo žemna"
 
-#: main.lang:201
+#: main.lang:249
 msgid "WebM format"
 msgstr "WebM takari"
 
-#: main.lang:205
+#: main.lang:253
 msgid "Ogg Theora format"
 msgstr "Ogg Theora takari"
 
-#: main.lang:209
+#: main.lang:257
 msgid "MPEG-4 format"
 msgstr "MPEG-4 takari"
 
-#: main.lang:213
+#: main.lang:261
 msgid "Mobile"
 msgstr "Kanbehaya"
 
-#: main.lang:217
+#: main.lang:265
 msgid "Check out the new look and feel of Firefox."
 msgstr "Firefox guna nda maate da kaŋ a ga taaga."
 
-#: main.lang:221
+#: main.lang:269
 msgid "View Full Site"
 msgstr "Interneti nungoo kul guna"
 
-#: main.lang:225
+#: main.lang:273
 msgid "Get Firefox for Android"
 msgstr "Firefox zaa Android še"
 
-#: main.lang:229
+#: main.lang:277
 msgid "Download for <span>Android</span>"
 msgstr "Zumandiyan <span>Android</span> še"
 
-#: main.lang:233
+#: main.lang:281
 msgid "Desktop"
 msgstr "Ordinater"
 
-#: main.lang:237
+#: main.lang:285
 msgid "Firefox Beta for mobile"
 msgstr "Firefox Beta kanbe talfon še"
 
-#: main.lang:241
+#: main.lang:289
 msgid "Firefox for mobile"
 msgstr "Firefox kanbe talfon še"
 
-#: main.lang:245
+#: main.lang:293
 msgid "Email"
 msgstr "Bataga"
 
-#: main.lang:249
+#: main.lang:297
 msgid "Super speed"
 msgstr "Cahãri šifante"
 
-#: main.lang:253
+#: main.lang:301
 msgid "Stunning graphics"
 msgstr "Kayfi bii takariyaŋ"
 
-#: main.lang:257
+#: main.lang:305
 msgid "The latest technologies"
 msgstr "Dabaribayray kokorantey"
 
-#: main.lang:261
+#: main.lang:309
 msgid ""
 "You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
 "new Firefox for the best in browsing and customization on the Web. <br/>   "
@@ -290,35 +338,35 @@ msgstr ""
 "ka goy nda Firefox taaga ka duu Interneti ceeciyan and boŋše-hanseyan felle. "
 "<br/>  Cahãnte nda forba!"
 
-#: main.lang:265
+#: main.lang:313
 msgid "Upgrade now"
 msgstr "Taagandi sohõ"
 
-#: main.lang:269
+#: main.lang:317
 msgid "Update now"
 msgstr "Sohõ taagandiri"
 
-#: main.lang:273
+#: main.lang:321
 msgid "Supported Devices"
 msgstr "Jinay gaakašinantey"
 
 #. Used in several pages (firefox/new, firefox/sync, etc.) as a link to SUMO
-#: main.lang:278
+#: main.lang:326
 msgid "Need help?"
 msgstr "Ga baa faaba?"
 
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-#: main.lang:283
+#: main.lang:331
 msgid "What’s New"
 msgstr "Haya teejey"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
-#: main.lang:288
+#: main.lang:336
 msgid "Privacy"
 msgstr "Sutura"
 
 #. Footer string
-#: main.lang:293
+#: main.lang:341
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
@@ -329,223 +377,203 @@ msgstr ""
 "kaddasu</a> ra."
 
 #. Footer string
-#: main.lang:298
+#: main.lang:346
 msgid "Contribute to this page"
 msgstr "Tonton moɲoo woo ga"
 
 #. Top menu item
-#: main.lang:303
+#: main.lang:351
 msgid "Mission"
 msgstr "Anniya"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:308
+#: main.lang:356
 msgid "Tour"
 msgstr "Cebeyan"
 
 #. Footer item
-#: main.lang:313
+#: main.lang:361
 msgid "Partner with Us"
 msgstr "Šettakašinay nd'iri"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:318
+#: main.lang:366
 msgid "Sync"
 msgstr "Sync"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:323
+#: main.lang:371
 msgid "Desktop Add-ons"
 msgstr "Ordinater tontoney"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:328
+#: main.lang:376
 msgid "Android Add-ons"
 msgstr "Android tontoney"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:333
+#: main.lang:381
 msgid "Themes"
 msgstr "Furarey"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:338
+#: main.lang:386
 msgid "Desktop Support"
 msgstr "Ordinater gaakašinay"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:343
+#: main.lang:391
 msgid "Android Support"
 msgstr "Android gaakašinay"
 
 #. Top menu item on firefox/update page
-#: main.lang:348
+#: main.lang:396
 msgid "Performance"
 msgstr "Teeyan sahã"
 
 #. Top menu item on firefox/update page
-#: main.lang:353
+#: main.lang:401
 msgid "Technology"
 msgstr "Dabaribayray"
 
 #. Top menu item on firefox/update page
-#: main.lang:358
+#: main.lang:406
 msgid "Privacy &amp; Security"
 msgstr "Sutura nda saajaw"
 
 #. Top menu item on firefox/update page
-#: main.lang:363
+#: main.lang:411
 msgid "Releases"
 msgstr "Kaataray"
 
 #. Top menu item on firefox/update page
-#: main.lang:368
-msgid "Overview"
-msgstr "Moo-daaru"
-
-#. Top menu item on firefox/update page
-#: main.lang:373
+#: main.lang:416
 msgid "Firefox"
 msgstr "Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:378
+#: main.lang:421
 msgid "Firefox for Organizations"
 msgstr "Goykondawey še"
 
 #. Top menu item on firefox/update page
-#: main.lang:383
+#: main.lang:426
 msgid "Mobile Add-ons"
 msgstr "Kanbe tontoney"
 
 #. Top menu item on firefox/update page
-#: main.lang:388
+#: main.lang:431
 msgid "Mobile Support"
 msgstr "Kanbe gaakašinay"
 
 #. Top menu item on firefox/update page
-#: main.lang:393
+#: main.lang:436
 msgid "Blog"
 msgstr "Bulogu"
 
 #. Top menu item on firefox/update page
-#: main.lang:398
+#: main.lang:441
 msgid "About Firefox"
 msgstr "Firefox ga"
 
 #. Top menu item on firefox/update page
-#: main.lang:403
+#: main.lang:446
 msgid "Join Mozilla"
 msgstr "Huru Mozilla ra"
 
 #. Top menu item on firefox/update page
-#: main.lang:408
+#: main.lang:451
 msgid "Participate"
 msgstr "Kanbe dam"
 
 #. Top menu item on firefox/update page
-#: main.lang:413
+#: main.lang:456
 msgid "Brand Toolkit"
 msgstr "Haŋakaari goyjinay"
 
 #. Top menu item on firefox/update page
-#: main.lang:418
+#: main.lang:461
 msgid "Partnerships"
 msgstr "Goykašiney"
 
 #. Newsletter subscription form above footer on some pages
-#: main.lang:423
+#: main.lang:466
 msgid "Get Mozilla updates"
 msgstr "Mozilla taagandirey zaa"
 
 #. share button for social networks
-#: main.lang:428
+#: main.lang:471
 msgid "Share"
 msgstr "Žemna"
 
 #. footer link
-#: main.lang:433
+#: main.lang:476
 msgid "Mozilla on Twitter"
 msgstr "Mozilla Twitter ga"
 
 #. footer link
-#: main.lang:438
+#: main.lang:481
 msgid "Firefox on Twitter"
 msgstr "Firefox Twitter ga"
 
 #. footer link
-#: main.lang:443
+#: main.lang:486
 msgid "Mozilla on Facebook"
 msgstr "Mozilla Facebook ga"
 
 #. footer link
-#: main.lang:448
+#: main.lang:491
 msgid "Firefox on Facebook"
 msgstr "Firefox Facebook ga"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:453
+#: main.lang:496
 msgid "Forums"
 msgstr "Batey"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:458
+#: main.lang:501
 msgid "Governance"
 msgstr "Juwalyan"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:463
+#: main.lang:506
 msgid "History"
 msgstr "Taariki"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:468
+#: main.lang:511
 msgid "Our Products"
 msgstr "Ir jinawey"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:473
+#: main.lang:516
 msgid "Software and other innovations designed to advance our mission."
 msgstr "Porogaram nda tejandiyan taney kaŋ tee hal'ir anniyaa ma koy jine."
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:478
+#: main.lang:521
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "Wa tee faaba nda kanbuzaamay fondo booboyaŋ ra."
 
 #. This is a non-visible string for blind people to indicate where the menu is
-#: main.lang:483
+#: main.lang:526
 msgid "Menu"
 msgstr "Šilbayboŋ"
 
-#. Menu item on top of Australis Firefox pages
-#: main.lang:488
-msgid "Trusted"
-msgstr "Naanante"
-
-#. Menu item on top of Australis Firefox pages
-#: main.lang:493
-msgid "Flexible"
-msgstr "Baana"
-
-#. Menu item on top of Australis Firefox pages
-#: main.lang:498
-msgid "Fast"
-msgstr "Cahã"
-
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
-#: main.lang:503
+#: main.lang:531
 msgid "Committed to you, your privacy and an open Web"
 msgstr "N'allahidu zaa war suturaa nda interneti feerante se"
 
 #. Common title used in Fx 10 pages
-#: main.lang:508
+#: main.lang:536
 msgid "Choose Independent"
 msgstr "Suuba boŋhangakaw"
 
 #. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 #. The '#ChooseIndependent' hashtag should not be translated.
-#: main.lang:515
+#: main.lang:543
 msgid ""
 "Keep the passion for a free and open Internet burning bright! "
 "#ChooseIndependent. Choose Firefox:"
@@ -554,118 +582,118 @@ msgstr ""
 "#ChooseIndependent. Firefox suuba:"
 
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
-#: main.lang:521
+#: main.lang:549
 msgid "Please turn on JavaScript to display this page correctly."
 msgstr "JavaScript tunandi ka moɲoo woo cebe ka boori."
 
 #. Used as link to /firefox/desktop in footers on some pages
-#: main.lang:526
+#: main.lang:554
 msgid "Firefox Features"
 msgstr "Firefox alhaaley"
 
 #. Used as link to SUMO in footers on some pages
-#: main.lang:531
+#: main.lang:559
 msgid "Firefox Help"
 msgstr "Firefox faaba"
 
-#: main.lang:535
+#: main.lang:563
 msgid "January"
 msgstr "Žanwiye"
 
-#: main.lang:539
+#: main.lang:567
 msgid "February"
 msgstr "Fewiriye"
 
-#: main.lang:543
+#: main.lang:571
 msgid "March"
 msgstr "Marsi"
 
-#: main.lang:547
+#: main.lang:575
 msgid "April"
 msgstr "Awiril"
 
-#: main.lang:551
+#: main.lang:579
 msgid "May"
 msgstr "Me"
 
-#: main.lang:555
+#: main.lang:583
 msgid "June"
 msgstr "Žuweŋ"
 
-#: main.lang:559
+#: main.lang:587
 msgid "July"
 msgstr "Žuyye"
 
-#: main.lang:563
+#: main.lang:591
 msgid "August"
 msgstr "Ut"
 
-#: main.lang:567
+#: main.lang:595
 msgid "September"
 msgstr "Sektanbur"
 
-#: main.lang:571
+#: main.lang:599
 msgid "October"
 msgstr "Oktoobur"
 
-#: main.lang:575
+#: main.lang:603
 msgid "November"
 msgstr "Noowanbur"
 
-#: main.lang:579
+#: main.lang:607
 msgid "December"
 msgstr "Deesanbur"
 
-#: main.lang:583
+#: main.lang:611
 msgid "<abbr>Jan</abbr>"
 msgstr "<abbr>Žan</abbr>"
 
-#: main.lang:587
+#: main.lang:615
 msgid "<abbr>Feb</abbr>"
 msgstr "<abbr>Few</abbr>"
 
-#: main.lang:591
+#: main.lang:619
 msgid "<abbr>Mar</abbr>"
 msgstr "<abbr>Mar</abbr>"
 
-#: main.lang:595
+#: main.lang:623
 msgid "<abbr>Apr</abbr>"
 msgstr "<abbr>Awi</abbr>"
 
-#: main.lang:599
+#: main.lang:627
 msgid "<abbr>May</abbr>"
 msgstr "<abbr>Me</abbr>"
 
-#: main.lang:603
+#: main.lang:631
 msgid "<abbr>Jun</abbr>"
 msgstr "<abbr>Žuw</abbr>"
 
-#: main.lang:607
+#: main.lang:635
 msgid "<abbr>Jul</abbr>"
 msgstr "<abbr>Žul</abbr>"
 
-#: main.lang:611
+#: main.lang:639
 msgid "<abbr>Aug</abbr>"
 msgstr "<abbr>Ut</abbr>"
 
-#: main.lang:615
+#: main.lang:643
 msgid "<abbr>Sep</abbr>"
 msgstr "<abbr>Sekt</abbr>"
 
-#: main.lang:619
+#: main.lang:647
 msgid "<abbr>Oct</abbr>"
 msgstr "<abbr>Okt</abbr>"
 
-#: main.lang:623
+#: main.lang:651
 msgid "<abbr>Nov</abbr>"
 msgstr "<abbr>Now</abbr>"
 
-#: main.lang:627
+#: main.lang:655
 msgid "<abbr>Dec</abbr>"
 msgstr "<abbr>Des</abbr>"
 
 #. Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-#: main.lang:632
+#: main.lang:660
 msgid ""
 "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
 msgstr ""

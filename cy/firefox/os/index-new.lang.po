@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-23 19:07+0000\n"
+"POT-Creation-Date: 2015-02-26 13:08+0000\n"
 "PO-Revision-Date: 2015-02-25 16:48+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1424882896.000000\n"
 
 #. # NOTE: demo URL available at https://www-demo3.allizom.org/firefox/os
@@ -299,6 +299,39 @@ msgstr "Ar gyfer Partneriaid"
 msgid "Partnership opportunities"
 msgstr "Cyfleoedd ar gyfer Partneriaid"
 
-#: firefox/os/index-new.lang:260
+#. Module "Get a phone", displayed in countries where phones are commercialized by operators
+#: firefox/os/index-new.lang:261
+msgid ""
+"We work with a number of providers to offer Firefox OS on a variety of "
+"devices."
+msgstr ""
+"Rydym yn gweithio gyda nifer o ddarparwyr i gynnig Firefox OS ar amrywiaeth "
+"o ddyfeisiau."
+
+#. Case 1: There are several phone providers
+#: firefox/os/index-new.lang:266
+msgid ""
+"Choose one from the list below to get a Firefox OS smartphone in your "
+"country."
+msgstr ""
+"Dewiswch un o'r rhestr isod i brynu ffôn clyfar Firefox OS yn eich gwlad."
+
+#. Case 2: There is only one provider in the country
+#: firefox/os/index-new.lang:271
+msgid ""
+"Click on the provider below to get a Firefox OS smartphone in your country."
+msgstr ""
+"Cliciwch ar y darparwr isod i brynu ffôn clyfar Firefox OS yn eich gwlad."
+
+#: firefox/os/index-new.lang:275
 msgid "Sign up for our monthly newsletter"
 msgstr "Ymunwch er mwyn derbyn ein cylchlythyr misol"
+
+#: firefox/os/index-new.lang:279
+msgid "Thank you for signing up!"
+msgstr "Diolch am ymuno!"
+
+#: firefox/os/index-new.lang:283
+msgid "Sign up for our monthly newsletter and get the latest on Firefox OS"
+msgstr ""
+"Ymunwch a derbyn ein cylchlythyr misol a chael y diweddaraf ar Firefox OS"
