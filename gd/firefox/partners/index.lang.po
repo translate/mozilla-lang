@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-18 16:07+0000\n"
+"POT-Creation-Date: 2015-02-26 15:07+0000\n"
 "PO-Revision-Date: 2015-02-26 14:56+0000\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: none\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1424962571.000000\n"
 
 #. # mwc_2015 ##
@@ -628,95 +628,108 @@ msgstr "Coimheadaibh air gearr-chunntas <br>làitheil a' MWC"
 msgid "Fox Den &amp; other <br>MWC events"
 msgstr "Saobhaidh an t-sionnaich ⁊ <br>tachartasan MWC eile"
 
-#. Title for the schedule overlay
-#: firefox/partners/index.lang:503
-msgid "Firefox at MWC 2014 &ndash; Schedule of Events"
-msgstr "Firefox aig MWC 2014 &ndash; Clàr-ama nan tachartasan"
-
 #. Line break below is presentational only
-#: firefox/partners/index.lang:508
+#: firefox/partners/index.lang:503
 msgid "Firefox tweets from <br>MWC in Barcelona"
 msgstr "Tweets Firefox on MWC <br>ann am Barcelona"
 
-#: firefox/partners/index.lang:512
+#: firefox/partners/index.lang:507
 msgid "View the version notes"
 msgstr "Faicibh nòtaichean nan tionndaidhean"
 
-#: firefox/partners/index.lang:516
+#: firefox/partners/index.lang:511
 msgid "Read about features, changes and more"
 msgstr "Leughaibh fiosrachadh air feartan, atharraichean is mòran a bharrachd"
 
 #. Form field
-#: firefox/partners/index.lang:521
+#: firefox/partners/index.lang:516
 msgid "Description"
 msgstr "Tuairisgeul"
 
 #. Form error message
-#: firefox/partners/index.lang:526
+#: firefox/partners/index.lang:521
 msgid "Please enter your first name."
 msgstr "Cuiribh a-steach ur n-ainm."
 
 #. Form error message
-#: firefox/partners/index.lang:531
+#: firefox/partners/index.lang:526
 msgid "Please enter your last name."
 msgstr "Cuiribh a-steach ur sloinneadh."
 
 #. Form error message
-#: firefox/partners/index.lang:536
+#: firefox/partners/index.lang:531
 msgid "Please enter your company name."
 msgstr "Cuiribh a-steach ainm ur companaidh."
 
 #. Form error message
-#: firefox/partners/index.lang:541
+#: firefox/partners/index.lang:536
 msgid "Please supply a valid URL."
 msgstr "Cuiribh a-steach URL dligheach."
 
 #. Form error message
-#: firefox/partners/index.lang:546
+#: firefox/partners/index.lang:541
 msgid "Please enter a valid email address"
 msgstr "Cuiribh a-steach seòladh puist-d dligheach"
 
 #. Form, Physical address field (street, city...)
-#: firefox/partners/index.lang:551
+#: firefox/partners/index.lang:546
 msgid "Address"
 msgstr "Seòladh"
 
 #. Form field
-#: firefox/partners/index.lang:556
+#: firefox/partners/index.lang:551
 msgid "City"
 msgstr "Baile"
 
 #. Form field
-#: firefox/partners/index.lang:561
+#: firefox/partners/index.lang:556
 msgid "State/Province"
 msgstr "Siorrachd/Còigeamh/Stàit"
 
 #. Form field
-#: firefox/partners/index.lang:566
+#: firefox/partners/index.lang:561
 msgid "Country"
 msgstr "Dùthaich"
 
 #. Form field, postal code
-#: firefox/partners/index.lang:571
+#: firefox/partners/index.lang:566
 msgid "Zip"
 msgstr "Còd-puist"
 
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
-#: firefox/partners/index.lang:576
+#: firefox/partners/index.lang:571
 msgid "Register for a session"
 msgstr "Clàraichibh airson seisean"
 
-#. map header
+#. Used for accessibility on the menu button
+#: firefox/partners/index.lang:576
+#, fuzzy
+msgid "Map"
+msgstr "Mapaichean"
+
+#. Title for the map overlay
 #: firefox/partners/index.lang:581
-msgid "Firefox at MWC 2014 &ndash; Hall 3, Stand 3C30"
+#, fuzzy
+msgid "Firefox at MWC 2015 &ndash; Hall 3, Stand 3C30"
 msgstr "Firefox aig MWC 2014 &ndash; Talla 3, Stannd 3C30"
 
-#: firefox/partners/index.lang:585
+#. Used for accessibility on the menu button
+#: firefox/partners/index.lang:586
+msgid "Schedule"
+msgstr ""
+
+#. Title for the schedule overlay
+#: firefox/partners/index.lang:591
+#, fuzzy
+msgid "Firefox at MWC 2015 &ndash; Schedule of Events"
+msgstr "Firefox aig MWC 2014 &ndash; Clàr-ama nan tachartasan"
+
+#: firefox/partners/index.lang:595
 msgid "Download PDF"
 msgstr "Luchdaich a-nuas am PDF"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:590
+#: firefox/partners/index.lang:600
 msgid ""
 "In our first year, we’ve brought openness, accessibility and opportunity to "
 "15 countries with 4 hardware partners, 7 operators and 16 launches."
@@ -726,12 +739,12 @@ msgstr ""
 "bhliadhna."
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:595
+#: firefox/partners/index.lang:605
 msgid "Partner with us"
 msgstr "Rach ann an com-pàirteachas leinn"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:600
+#: firefox/partners/index.lang:610
 msgid ""
 "Backed by some of the biggest names in the industry, Firefox OS is an open "
 "platform that fosters greater participation in the value chain. <a "
@@ -744,17 +757,17 @@ msgstr ""
 "\">faigh fiosrachadh air a’ bhuaidh a bhios aige air an luchd-chaitheimh</a>."
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:605
+#: firefox/partners/index.lang:615
 msgid "View available Firefox OS devices"
 msgstr "Faicibh na h-uidheaman Firefox OS a tha ri fhaighinn"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:610
+#: firefox/partners/index.lang:620
 msgid "Made of the Web"
 msgstr "Air a dhèanamh leis an lìon"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:615
+#: firefox/partners/index.lang:625
 msgid ""
 "Built entirely using HTML5 and other open Web standards, Firefox OS is free "
 "from the rules and restrictions of existing proprietary platforms."
@@ -764,45 +777,45 @@ msgstr ""
 "gheibhear air ùrlaran malairteach."
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:620
+#: firefox/partners/index.lang:630
 msgid "The difference the Open Web makes"
 msgstr "An diofar a nì lìon fosgailte"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:625
+#: firefox/partners/index.lang:635
 msgid "Firefox OS offers:"
 msgstr "Seo na bheir Firefox OS dhut:"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:630
+#: firefox/partners/index.lang:640
 msgid "A level playing field against other OS and marketplace providers"
 msgstr "Co-fharpais chothromach an aghaidh solaraichean OS is margaidh eile"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:635
+#: firefox/partners/index.lang:645
 msgid "Greater participation in the value chain"
 msgstr "Com-pàirteachas nas motha"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:640
+#: firefox/partners/index.lang:650
 msgid "Ownership and control over relationships with customers"
 msgstr "Seilbh is smachd air an dàimh ris na custamairean"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:645
+#: firefox/partners/index.lang:655
 msgid ""
 "Customized phones that meet the specific needs of various target markets"
 msgstr ""
 "Fònaichean gnàthaichte a fhreagras air an dh’fheumas na diofar margaidhean"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:650
+#: firefox/partners/index.lang:660
 msgid "Contact our business development team to get on board"
 msgstr ""
 "Cuir fios gun sgioba leasachadh ghnìomhachais againn airson tighinn air bòrd"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:655
+#: firefox/partners/index.lang:665
 msgid ""
 "Discover a new way to participate in an ecosystem that features the world’s "
 "most popular apps as well as more relevant, targeted content to suit "
@@ -815,12 +828,12 @@ msgstr ""
 "saothraichean</a> agus <a %(url2)s>luchd-leasachaidh</a>."
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:660
+#: firefox/partners/index.lang:670
 msgid "Your needs"
 msgstr "Na tha a dhìth ort"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:665
+#: firefox/partners/index.lang:675
 msgid ""
 "Grow your business by combining your own customer payment plans with our "
 "open source service offerings, reach new markets and customize purchasing "
@@ -832,12 +845,12 @@ msgstr ""
 "freagair iad ort fhèin."
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:670
+#: firefox/partners/index.lang:680
 msgid "Our experience"
 msgstr "Ar n-eòlas"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:675
+#: firefox/partners/index.lang:685
 msgid ""
 "Our proven track record of providing excellent user experiences and serving "
 "content to huge global audiences runs through everything we do. Our "
@@ -850,18 +863,18 @@ msgstr ""
 "cleachdaidh air feadh an t-saoghail."
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:680
+#: firefox/partners/index.lang:690
 msgid "The world’s largest developer community"
 msgstr "A' choimhearsnachd luchd-leasachaidh as motha san t-saoghal"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:685
+#: firefox/partners/index.lang:695
 msgid ""
 "Micro-targeted content for every use-case to meet customers’ local needs"
 msgstr "Susbaint a choileanas mion-fheumalachdan nan custamairean ionadail"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:690
+#: firefox/partners/index.lang:700
 msgid ""
 "Apps that customers can access across multiple platforms, devices and "
 "operating systems"
@@ -870,12 +883,12 @@ msgstr ""
 "uidheaman is siostaman-obrachaidh"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:695
+#: firefox/partners/index.lang:705
 msgid "Flexible business models and multiple payment monetization options"
 msgstr "Modailean gnìomhachais sùbailte is iomadh roghainn pàighidh"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:700
+#: firefox/partners/index.lang:710
 msgid ""
 "The ability to connect with hundreds of millions of Firefox supporters "
 "around the world"
@@ -884,12 +897,12 @@ msgstr ""
 "cleachdaidh Firefox air feadh an t-saoghail"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:705
+#: firefox/partners/index.lang:715
 msgid "A superior Web experience"
 msgstr "An lìon ach air dòigh nas fhearr"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:710
+#: firefox/partners/index.lang:720
 msgid ""
 "With high-performance, advanced cross-platform features and the latest in "
 "security, our top-rated browser offers an alternative to closed platforms, "
@@ -903,12 +916,12 @@ msgstr ""
 "<a %(url)s>Barrachd fiosrachaidh air cothroman com-pàirteachais.</a>"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:715
+#: firefox/partners/index.lang:725
 msgid "Strengthen customer relationships"
 msgstr "Neartaichibh an dàimh ri ur custamairean"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:720
+#: firefox/partners/index.lang:730
 msgid ""
 "Create your own unique branded sections of Firefox for Android and Firefox "
 "Marketplace for a more engaging user experience and to increase the "
@@ -919,12 +932,12 @@ msgstr ""
 "custamairean agaibh."
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:725
+#: firefox/partners/index.lang:735
 msgid "Create new value for both you and your users"
 msgstr "Cruthaichibh luach ùr dhuibh fhèin agus dhan luchd-chleachdaidh agaibh"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:730
+#: firefox/partners/index.lang:740
 msgid ""
 "Take advantage of service opportunities like Firefox Marketplace and WebRTC "
 "to create new, platform-independent offerings and establish direct customer "
@@ -935,7 +948,7 @@ msgstr ""
 "ùrlaran agus airson bileachadh dìreach a stèidheachadh."
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:735
+#: firefox/partners/index.lang:745
 msgid ""
 "Take advantage of our strong brand and service offerings to differentiate "
 "your product and drive sales."
@@ -944,12 +957,12 @@ msgstr ""
 "seirbheise airson 's gum bi am bathar agaibh-se eadar-dhealaichte o chàch."
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:740
+#: firefox/partners/index.lang:750
 msgid "Build new service offerings"
 msgstr "Cruthaichibh tairgsean seirbheise ùra"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:745
+#: firefox/partners/index.lang:755
 msgid ""
 "Integrate services directly into the browser with Firefox Marketplace and "
 "WebRTC to free yourself from the constraints of proprietary platforms."
@@ -958,12 +971,12 @@ msgstr ""
 "agus WebRTC airson a bhith saor o chuing nan ùrlaran coimeirsealta."
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:750
+#: firefox/partners/index.lang:760
 msgid "Direct customer billing"
 msgstr "Bileachadh chustamairean dìreach"
 
 #. Old version of the page (do not remove)
-#: firefox/partners/index.lang:755
+#: firefox/partners/index.lang:765
 msgid ""
 "Grow your business by combining your own customer payment plans with our "
 "open source service offerings."
