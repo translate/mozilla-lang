@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-28 13:33+0100\n"
+"POT-Creation-Date: 2015-02-27 09:06+0000\n"
 "PO-Revision-Date: 2013-10-22 00:27+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: none\n"
@@ -13,19 +13,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Translate Toolkit 1.12.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1382401628.000000\n"
 
 #. # NOTE: Update page available at url: https://www-dev.allizom.org/b/en-GB/firefox/update/
-#: firefox/update.lang:5
+#: firefox/update.lang:4
 msgid "Welcome"
 msgstr "Fàilte ort"
 
-#: firefox/update.lang:9
+#: firefox/update.lang:8
 msgid "Are Firefox updates safe?"
 msgstr "A bheil ùrachaidhean Firefox sàbhailte?"
 
-#: firefox/update.lang:13
+#: firefox/update.lang:12
 msgid ""
 "No. The new version of Firefox will automatically take the place of your "
 "older version. To start the upgrade process, just click the green download "
@@ -35,7 +35,7 @@ msgstr ""
 "tionndaidh. Airson tòiseachadh air an àrdachadh, cha leig thu leas ach "
 "briogadh air a' phutan uaine air an taobh deas."
 
-#: firefox/update.lang:17
+#: firefox/update.lang:16
 msgid ""
 "It varies slightly depending on the operating system you're using. You can "
 "find <a %(link)s>instructions for your computer here</a>."
@@ -44,19 +44,19 @@ msgstr ""
 "agad. Gheibh thu <a %(link)s>stiùireadh airson a' choimpiutair agad-sa an-"
 "seo</a>."
 
-#: firefox/update.lang:21
+#: firefox/update.lang:20
 msgid "Your Firefox is out of date."
 msgstr "Tha am Firefox agad gu math aosta."
 
-#: firefox/update.lang:25
+#: firefox/update.lang:24
 msgid "Follow the step-by-step process"
 msgstr "Lean ris a' phròiseas ceum air cheum"
 
-#: firefox/update.lang:29
+#: firefox/update.lang:28
 msgid "Congratulations!"
 msgstr "Meal do naidheachd!"
 
-#: firefox/update.lang:33
+#: firefox/update.lang:32
 msgid ""
 "Very much so – your security is our top priority. Our open source security "
 "process means we have an international community of experts working around "
@@ -72,7 +72,7 @@ msgstr ""
 "sinn ùrachadh. Mar is cunbhalaiche a gheibh thu na h-ùrachaidhean, 's ann as "
 "sàbhailte a bhios tu air an lìon."
 
-#: firefox/update.lang:37
+#: firefox/update.lang:36
 msgid ""
 "If I already have Firefox, and then do a fresh install, what happens to my "
 "settings?"
@@ -80,11 +80,11 @@ msgstr ""
 "Ma tha Firefox agam mu thràth 's ma stàlaicheas mi e às ùr, dè thachras ris "
 "na roghainnean agam?"
 
-#: firefox/update.lang:41
+#: firefox/update.lang:40
 msgid "What is a Firefox software update?"
 msgstr "Dè th' ann an ùrachadh bathar-bog Firefox?"
 
-#: firefox/update.lang:45
+#: firefox/update.lang:44
 msgid ""
 "Yes. Firefox is configured to automatically check for updates, but it’s also "
 "possible to check for updates yourself."
@@ -92,7 +92,7 @@ msgstr ""
 "'S urrainn. Bheir Firefox sùil airson ùrachaidhean e fhèin ach is urrainn "
 "dhut sùil a thoirt thu fhèin cuideachd."
 
-#: firefox/update.lang:49
+#: firefox/update.lang:48
 msgid ""
 "Nothing. Re-installing Firefox will not affect your settings, bookmarks or "
 "preferences in any way."
@@ -100,7 +100,7 @@ msgstr ""
 "Cha tachair dad. Cha bhi buaidh sam bith air na roghainnean no comharran-lìn "
 "ma stàlaicheas tu Firefox às ùr."
 
-#: firefox/update.lang:53
+#: firefox/update.lang:52
 msgid ""
 "Not long at all – the entire process just takes a minute or two. Visit our "
 "support page for <a %(link)s>step-by-step instructions</a>."
@@ -108,7 +108,7 @@ msgstr ""
 "Chan fheum e fada idir – mionaid no dhà. Tadhail air an duilleag taice "
 "againn airson <a %(link)s>stiùireadh ceum air cheum</a>."
 
-#: firefox/update.lang:57
+#: firefox/update.lang:56
 msgid ""
 "You are also able to check for updates manually. For details, check out the "
 "<a %(link)s>step-by-step guide</a>.</p>"
@@ -117,20 +117,20 @@ msgstr ""
 "Airson mion-fhiosrachadh, thoir sùil air an <a %(link)s>stiùireadh ceum air "
 "cheum</a>.</p>"
 
-#: firefox/update.lang:61
+#: firefox/update.lang:60
 msgid "Check for Updates"
 msgstr "Thoir sùil airson ùrachaidhean"
 
-#: firefox/update.lang:65
+#: firefox/update.lang:64
 msgid "What if I miss an update? Can I check for one myself?"
 msgstr ""
 "Dè thachras ma dh'fhalbhas ùrachadh orm? An urrainn dhomh fhìn a stàladh?"
 
-#: firefox/update.lang:69
+#: firefox/update.lang:68
 msgid "Your Firefox is up to date."
 msgstr "Tha am Firefox agad cho ùr 's a ghabhas."
 
-#: firefox/update.lang:73
+#: firefox/update.lang:72
 msgid ""
 "A Firefox software update is a quick download of small amounts of new code "
 "to your existing Firefox browser. These small patches can contain security "
@@ -143,11 +143,11 @@ msgstr ""
 "'na bhroinn airson a' bhrabhsair a nì cinnteach gu bheil am Firefox agad ag "
 "obair cho math 's a ghabhas."
 
-#: firefox/update.lang:77
+#: firefox/update.lang:76
 msgid "How long will it take to update?"
 msgstr "Dè cho fad 's a dh'fheumas an t-ùrachadh?"
 
-#: firefox/update.lang:81
+#: firefox/update.lang:80
 msgid ""
 "Firefox is constantly evolving as our community finds ways to make it "
 "better, and as we adjust to the latest security threats. Keeping your "
@@ -161,46 +161,46 @@ msgstr ""
 "cudromach seo – as tèarainte agad, 's e ùrachaidhean cunbhalach an dòigh as "
 "fhearr."
 
-#: firefox/update.lang:85
+#: firefox/update.lang:84
 msgid "How do I know what version of Firefox I am currently on?"
 msgstr ""
 "Ciamar a dh'fhiosraicheas dè an tionndadh de Firefox a tha agam an-dràsta?"
 
-#: firefox/update.lang:89
+#: firefox/update.lang:88
 msgid "Frequently asked questions"
 msgstr "Na Ceistean Àbhaisteach"
 
-#: firefox/update.lang:93
+#: firefox/update.lang:92
 msgid "Will the update affect my settings and bookmarks?"
 msgstr "Am bi buaidh aig an ùrachadh air na roghainnean is comharran-lìn agam?"
 
-#: firefox/update.lang:97
+#: firefox/update.lang:96
 msgid "Do I need to uninstall my current version of Firefox before upgrading?"
 msgstr ""
 "Am bi agam ris an tionndadh làithreach de Firefox a thoir air falbh mu dèan "
 "mi àrdachadh?"
 
-#: firefox/update.lang:101
+#: firefox/update.lang:100
 msgid "Visit support.mozilla.org"
 msgstr "Tadhail air support.mozilla.org"
 
-#: firefox/update.lang:105
+#: firefox/update.lang:104
 msgid "Get the newest version <a href=\"{url}\">here</a>."
 msgstr "Faigh an tionndadh as ùire <a href=\"{url}\">an-seo</a>."
 
-#: firefox/update.lang:109
+#: firefox/update.lang:108
 msgid "Need Help?"
 msgstr "Cobhair a dhìth?"
 
-#: firefox/update.lang:113
+#: firefox/update.lang:112
 msgid "How do I update Firefox?"
 msgstr "Ciamar a stàlaicheas mi Firefox?"
 
-#: firefox/update.lang:117
+#: firefox/update.lang:116
 msgid "Why do I need to update?"
 msgstr "Carson a dh'fheumas mi ùrachadh?"
 
-#: firefox/update.lang:121
+#: firefox/update.lang:120
 msgid ""
 "By default, Firefox is configured to automatically check for updates for "
 "itself and notify you when one is available. When prompted, just click OK "
@@ -213,7 +213,7 @@ msgstr ""
 "luchdadh a-nuas is a stàladh air a' choimpiutair agad. Bidh agad ri Firefox "
 "ath-thòiseachadh mus obraich an tionndadh ùr."
 
-#: firefox/update.lang:125
+#: firefox/update.lang:124
 msgid ""
 "No. A Firefox update will not make any changes to your bookmarks, saved "
 "passwords or other settings. However, there is a possibility that some of "
@@ -223,6 +223,6 @@ msgstr ""
 "faclan-faire no na roghainnean eile. Ge-tà, tha teans beag nach bi cuid dhe "
 "na tuilleadain agad co-chòrdail leis an ùrachadh sa bhad."
 
-#: firefox/update.lang:129
+#: firefox/update.lang:128
 msgid "Download Firefox to get started."
 msgstr "Luchdaich a-nuas Firefox airson toiseach tòiseachaidh."

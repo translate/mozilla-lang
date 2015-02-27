@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-30 21:15+0000\n"
+"POT-Creation-Date: 2015-02-27 09:06+0000\n"
 "PO-Revision-Date: 2014-11-05 09:02+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -12,14 +12,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1415178122.000000\n"
 
-#. # home_title_update ##
 #. # NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop
+#. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/desktop/
+#. # home_title_update ##
 #. # TAG: home_title_update
 #. This is the <title> tag
-#: firefox/desktop/index.lang:7
+#: firefox/desktop/index.lang:8
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your "
 "privacy and an open Web"
@@ -28,33 +29,33 @@ msgstr ""
 "anghenion, eich preifatrwydd ac i'r We agored"
 
 #. Previous title (DO NOT REMOVE)
-#: firefox/desktop/index.lang:12
+#: firefox/desktop/index.lang:13
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — There's never been a better "
 "time"
 msgstr "Porwr Gwe Firefox — Dibynadwy, Hyblyg, Cyflym — Nawr yw'r amser"
 
 #. L10n: Line break below is for wide screen formatting only.
-#: firefox/desktop/index.lang:17
+#: firefox/desktop/index.lang:18
 msgid "There’s never been a <br class=\"wide-br\">better time for Firefox"
 msgstr "Nawr yw'r amser <br class=\"wide-br\">ar gyfer Firefox"
 
-#: firefox/desktop/index.lang:21
+#: firefox/desktop/index.lang:22
 msgid "Committed to you, your privacy and an open Web."
 msgstr "Yn ymroddedig i chi, eich preifatrwydd ac i We agored."
 
-#: firefox/desktop/index.lang:25
+#: firefox/desktop/index.lang:26
 msgid "Made with a mission to put you first"
 msgstr "Wedi ei greu gyda'r bwriad o'ch rhoi chi'n gyntaf"
 
-#: firefox/desktop/index.lang:29
+#: firefox/desktop/index.lang:30
 msgid ""
 "We’ve always designed Firefox to protect and respect your private "
 "information."
 msgstr ""
 "Rydym wedi cynllunio Firefox i diogelu a pharchu eich gwybodaeth breifat."
 
-#: firefox/desktop/index.lang:33
+#: firefox/desktop/index.lang:34
 msgid ""
 "That’s why we’re proud to be voted the <a href=\"%(url1)s\">Most Trusted "
 "Internet Company for Privacy.</a>"
@@ -62,23 +63,23 @@ msgstr ""
 "Dyma pam rydym yn falch o fod wedi ein dewis fel y <a href=\"%(url1)s\">Most "
 "Trusted Internet Company for Privacy.</a>"
 
-#: firefox/desktop/index.lang:37
+#: firefox/desktop/index.lang:38
 msgid "Find out what makes Firefox the most trusted browser on the Web"
 msgstr "Beth sy'n gwneud Firefox yn fwy dibynadwy ar y We"
 
-#: firefox/desktop/index.lang:41
+#: firefox/desktop/index.lang:42
 msgid "Works the way you do"
 msgstr "Mae'n gwneud yn ôl eich ffordd chi"
 
-#: firefox/desktop/index.lang:45
+#: firefox/desktop/index.lang:46
 msgid "How you use the Web is unique."
 msgstr "Mae'r ffordd rydych yn defnyddio'r we yn unigryw."
 
-#: firefox/desktop/index.lang:49
+#: firefox/desktop/index.lang:50
 msgid "Firefox lets you change it to match."
 msgstr "Mae Firefox yn caniatáu i chi ei newid i gydweddu."
 
-#: firefox/desktop/index.lang:53
+#: firefox/desktop/index.lang:54
 msgid ""
 "Remove what you don’t use, keep what you do and put it just about anywhere "
 "you want."
@@ -86,18 +87,18 @@ msgstr ""
 "Tynnwch beth sydd ddim ei angen, cadw beth sydd ei angen a'i osod lle bynnag "
 "sy'n ddefnyddiol."
 
-#: firefox/desktop/index.lang:57
+#: firefox/desktop/index.lang:58
 msgid ""
 "Find out what makes Firefox <br class=\"wide-br\">the most flexible browser "
 "there is"
 msgstr ""
 "Dysgu am beth sy'n gwneud Firefox <br class=\"wide-br\">y porwr mwyaf hyblyg"
 
-#: firefox/desktop/index.lang:61
+#: firefox/desktop/index.lang:62
 msgid "Faster at what you do most"
 msgstr "Yn gyflym ar eich tasgau cyffredin"
 
-#: firefox/desktop/index.lang:65
+#: firefox/desktop/index.lang:66
 msgid ""
 "Firefox was named the ”speed king” in independent benchmark and performance "
 "tests against other browsers."
@@ -105,7 +106,7 @@ msgstr ""
 "Cafodd Firefox ei enwi fel y ”speed king” mewn profion meincnodi a "
 "pherfformiad yn erbyn porwyr eraill."
 
-#: firefox/desktop/index.lang:69
+#: firefox/desktop/index.lang:70
 msgid ""
 "* Based on <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix XVI</"
 "a> results."
@@ -113,11 +114,11 @@ msgstr ""
 "* Yn seiliedig ar ganlyniadau <a href=\"%(url1)s\">Tom’s Hardware Web "
 "Browser Grand Prix XVI</a>."
 
-#: firefox/desktop/index.lang:73
+#: firefox/desktop/index.lang:74
 msgid "Save time and do just about anything quicker than before."
 msgstr "Arbedwch amser a gwneud bron unrhyw beth yn gynt nag o'r blaen."
 
-#: firefox/desktop/index.lang:77
+#: firefox/desktop/index.lang:78
 msgid "Find out what makes this the fastest Firefox yet"
 msgstr "Dysgwch beth sy'n gwneud hwn y Firefox cyflymaf erioed"
 

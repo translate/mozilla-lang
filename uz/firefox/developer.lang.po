@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-26 13:08+0000\n"
+"POT-Creation-Date: 2015-02-27 09:06+0000\n"
 "PO-Revision-Date: 2014-12-26 10:23+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: none\n"
@@ -14,11 +14,12 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1419589427.000000\n"
 
-#. # new_doorhanger ##
-#. # share_cta ##
 #. # NOTE: Demo page at https://www-dev.allizom.org/firefox/developer
 #. # NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated. It also won't be localizable inside the product, like "Beta" or "Nightly"
-#: firefox/developer.lang:6
+#. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/developer/
+#. # new_doorhanger ##
+#. # share_cta ##
+#: firefox/developer.lang:8
 msgid ""
 "Download Mozilla Firefox, a free Web browser. Firefox is created by a global "
 "non-profit dedicated to putting individuals in control online. Get Firefox "
@@ -28,35 +29,35 @@ msgstr ""
 "xalqaro notijorat tashkilot tomonidan har bir shaxsni internetda ishlashi "
 "imkoniyatini yaratish uchun tuzilgan. \"Firefox\"ni bugunoq o‘rnating!"
 
-#: firefox/developer.lang:10
+#: firefox/developer.lang:12
 msgid "Built for those who build the Web"
 msgstr "Internetni tuzadiganlar uchun tuzilgan"
 
-#: firefox/developer.lang:14
+#: firefox/developer.lang:16
 msgid "Introducing the only browser made for developers like you."
 msgstr ""
 "Sizga o‘xshagan dasturchilar uchun qilingan yagona brauzer haqida ma’lumot."
 
 #. # TAG: share_cta
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
-#: firefox/developer.lang:20
+#: firefox/developer.lang:22
 msgid ""
 "Design, build and debug the Web without ever leaving your browser with the "
 "new Firefox Developer Edition!"
 msgstr ""
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:25
+#: firefox/developer.lang:27
 msgid "Firefox Developer Edition automatically sends feedback to Mozilla."
 msgstr ""
 "Firefox Developer Edition avtomatik tarzda Mozilla’ga mulohazalar jo‘natib "
 "turadi."
 
-#: firefox/developer.lang:29
+#: firefox/developer.lang:31
 msgid "Designed for developers"
 msgstr "Dasturchilar uchun tuzilgan"
 
-#: firefox/developer.lang:33
+#: firefox/developer.lang:35
 msgid ""
 "The only browser made just for developers, Firefox Developer Edition was "
 "created with your workflow in mind. Build, test, scale and more all from one "
@@ -66,11 +67,11 @@ msgstr ""
 "miyangizdagi ish jarayoni bilan yaratilgan. Tuzing, sinang, hajmini "
 "o‘zgartiring va birinchi martadayoq bir joydan ko‘pgina narsalar."
 
-#: firefox/developer.lang:37
+#: firefox/developer.lang:39
 msgid "Debug any browser"
 msgstr "Har qanday brauzerni tuzatish"
 
-#: firefox/developer.lang:41
+#: firefox/developer.lang:43
 msgid ""
 "Inspect and debug your app across any browser or device with Valence — a "
 "powerful, pre-installed extension that you’ll only find in Firefox Developer "
@@ -80,11 +81,11 @@ msgstr ""
 "oldindan o‘rnatilgan kengaytma bilan har qanday brauzer yoki qurilmalar "
 "bo‘ylab ilova dasturlaringizni nazorat qiling va tuzating."
 
-#: firefox/developer.lang:45
+#: firefox/developer.lang:47
 msgid "Pixel-perfect coding"
 msgstr "Mukammal-piksel kodlash"
 
-#: firefox/developer.lang:49
+#: firefox/developer.lang:51
 msgid ""
 "Target screen sizes with the Responsive Design View and tweak your CSS on "
 "the fly with the built-in Style Editor for pixel-perfect coding."
@@ -93,11 +94,11 @@ msgstr ""
 "va Uslub tahrirlagichga mukammal-piksel kodlash uchun o‘rnatilgan uchgich "
 "bilan CSS’ni tanlab oling."
 
-#: firefox/developer.lang:53
+#: firefox/developer.lang:55
 msgid "All your favorite dev tools and more"
 msgstr "Barcha sevimli dasturlash asboblaringiz va ko‘proq"
 
-#: firefox/developer.lang:57
+#: firefox/developer.lang:59
 msgid ""
 "Firefox Developer Edition brings your core dev tools together with some "
 "powerful new ones that will extend your ability to work across multiple "
@@ -109,15 +110,15 @@ msgstr ""
 "asosiy dev asboblarini ham olib keladi.  Siz o‘rgangan, faqat yaxshi "
 "imkoniyatlar mavjud va faqat hammasi Firefox’dan."
 
-#: firefox/developer.lang:61
+#: firefox/developer.lang:63
 msgid "Screenshot"
 msgstr "Ekran rasmi"
 
-#: firefox/developer.lang:65
+#: firefox/developer.lang:67
 msgid "WebIDE"
 msgstr "WebIDE"
 
-#: firefox/developer.lang:69
+#: firefox/developer.lang:71
 msgid ""
 "Develop, deploy and debug Firefox OS apps directly in your browser, or on a "
 "Firefox OS device, with this tool that replaces App Manager."
@@ -126,15 +127,15 @@ msgstr ""
 "OS qurilmasida Ilova dasturi menejeri o‘rniga ushbu asbob bilan tuzing, "
 "tayyor holga keltiring va tuzating."
 
-#: firefox/developer.lang:73
+#: firefox/developer.lang:75
 msgid "Learn more about WebIDE"
 msgstr "WebIDE haqida ko‘proq o‘rganish"
 
-#: firefox/developer.lang:77
+#: firefox/developer.lang:79
 msgid "Responsive Design View"
 msgstr "Talabga javob beradigan dizayn ko‘rinishi"
 
-#: firefox/developer.lang:81
+#: firefox/developer.lang:83
 msgid ""
 "See how your Website or Web app will look on different screen sizes without "
 "changing the size of your browser window."
@@ -142,15 +143,15 @@ msgstr ""
 "Vebsaytingiz yoki veb ilova dasturingizni turli ekran hajmlarida brauzer "
 "oynasi hajmini o‘zgartirmasdan qanday ko‘rinishini ko‘ring."
 
-#: firefox/developer.lang:85
+#: firefox/developer.lang:87
 msgid "Learn more about Responsive Design View"
 msgstr "Talabga javob beradigan dizayn ko‘rinishi haqida ko‘proq o‘rganish"
 
-#: firefox/developer.lang:89
+#: firefox/developer.lang:91
 msgid "Valence"
 msgstr "Valentlik"
 
-#: firefox/developer.lang:93
+#: firefox/developer.lang:95
 msgid ""
 "Develop and debug your apps across multiple browsers and devices with this "
 "powerful extension that comes pre-installed with Firefox Developer Edition."
@@ -159,15 +160,15 @@ msgstr ""
 "Developer Edition bilan oldindan o‘rnatib chiqarilgan ushbu kuchli kengaytma "
 "bilan tuzing va tuzating."
 
-#: firefox/developer.lang:97
+#: firefox/developer.lang:99
 msgid "Learn more about Valence"
 msgstr "Valentlik haqida ko‘proq o‘rganing"
 
-#: firefox/developer.lang:101
+#: firefox/developer.lang:103
 msgid "Web Audio Editor"
 msgstr "Veb audio tahrirlagich"
 
-#: firefox/developer.lang:105
+#: firefox/developer.lang:107
 msgid ""
 "Inspect and interact with Web Audio API in real time to ensure that all "
 "audio nodes are connected in the way you expect."
@@ -175,15 +176,15 @@ msgstr ""
 "Barcha audio ulamlar siz kutgan usulda ulanganligiga ishonch hosil qiish "
 "uchun haqiqiy vaqtda Veb audio API bilan nazorat qiling va ta’sir qiling."
 
-#: firefox/developer.lang:109
+#: firefox/developer.lang:111
 msgid "Learn more about Web Audio Editor"
 msgstr "Veb audio tahrirlagich haqida ko‘proq o‘rganish"
 
-#: firefox/developer.lang:113
+#: firefox/developer.lang:115
 msgid "Page Inspector"
 msgstr "Sahifa nazoratchisi"
 
-#: firefox/developer.lang:117
+#: firefox/developer.lang:119
 msgid ""
 "Examine the HTML and CSS of any Web page and easily modify the structure and "
 "layout of a page."
@@ -191,15 +192,15 @@ msgstr ""
 "Har qanday sahifadagi HTML va CSS’ni tekshirib, sinab ko‘ring va sahifa "
 "tartibi va tuzilishini osongina o‘zgartiring."
 
-#: firefox/developer.lang:121
+#: firefox/developer.lang:123
 msgid "Learn more about Page Inspector"
 msgstr "Sahifa nazoratchisi haqida ko‘proq o‘rganing"
 
-#: firefox/developer.lang:125
+#: firefox/developer.lang:127
 msgid "Web Console"
 msgstr "Veb terminal"
 
-#: firefox/developer.lang:129
+#: firefox/developer.lang:131
 msgid ""
 "See logged information associated with a Web page and use Web Console to "
 "interact with Web pages using JavaScript."
@@ -207,15 +208,15 @@ msgstr ""
 "Veb sahifa bilan bog‘liq kiritilgan ma’lumotlarni ko‘ring va JavaScript’dan "
 "foydalanib veb sahifalar bilan bog‘lanish uchun veb terminaldan foydalaning."
 
-#: firefox/developer.lang:133
+#: firefox/developer.lang:135
 msgid "Learn more about Web Console"
 msgstr "Veb terminal haqida ko‘proq o‘rganish"
 
-#: firefox/developer.lang:137
+#: firefox/developer.lang:139
 msgid "JavaScript Debugger"
 msgstr "JavaScript Debugger"
 
-#: firefox/developer.lang:141
+#: firefox/developer.lang:143
 msgid ""
 "Step through JavaScript code and examine or modify its state to help track "
 "down bugs."
@@ -223,15 +224,15 @@ msgstr ""
 "JavaScript kodi ichiga kiring va nosozliklarni yuklash holatiga yordam "
 "berish uchun uning holatini sinab ko‘ring yoki o‘zgartiring."
 
-#: firefox/developer.lang:145
+#: firefox/developer.lang:147
 msgid "Learn more about JavaScript Debugger"
 msgstr "JavaScript Debugger haqida ko‘proq o‘rganish"
 
-#: firefox/developer.lang:149
+#: firefox/developer.lang:151
 msgid "Network Monitor"
 msgstr "Tarmoqni nazoratchisi"
 
-#: firefox/developer.lang:153
+#: firefox/developer.lang:155
 msgid ""
 "See all the network requests your browser makes, how long each request takes "
 "and details of each request."
@@ -239,15 +240,15 @@ msgstr ""
 "Brauzeringiz yuborgan barcha tarmoq so‘rovlar, har bir so‘rov qancha vaqt "
 "olishi va har bir so‘rov tafsilotlarini ko‘ring."
 
-#: firefox/developer.lang:157
+#: firefox/developer.lang:159
 msgid "Learn more about Network Monitor"
 msgstr "Tarmoq nazoratchisi haqida ko‘proq o‘rganish"
 
-#: firefox/developer.lang:161
+#: firefox/developer.lang:163
 msgid "Style Editor"
 msgstr "Uslubni tahrirlagich"
 
-#: firefox/developer.lang:165
+#: firefox/developer.lang:167
 msgid ""
 "View and edit CSS styles associated with a Web page, create new ones and "
 "apply existing CSS stylesheets to any page."
@@ -256,27 +257,27 @@ msgstr ""
 "yarating va mavjud CSS uslub jadvallarini har qanday sahifa uchun qo‘llab "
 "ko‘ring."
 
-#: firefox/developer.lang:169
+#: firefox/developer.lang:171
 msgid "Learn more about Style Editor"
 msgstr "Uslubni tahrirlagich haqida ko‘proq o‘rganish"
 
-#: firefox/developer.lang:173
+#: firefox/developer.lang:175
 msgid "Choose Firefox"
 msgstr "Firefox’ni tanlang"
 
 #. The following strings are used for the tour displayed on /firstrun
 #. https://www.mozilla.org/firefox/35.0a2/firstrun/
-#: firefox/developer.lang:179
+#: firefox/developer.lang:181
 msgid "Welcome to Firefox Developer Edition"
 msgstr "Firefox Developer Edition’ga xush kelibsiz"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:184
+#: firefox/developer.lang:186
 msgid "Developer Tools"
 msgstr "Dasturchi asboblari"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:189
+#: firefox/developer.lang:191
 msgid ""
 "The most complete browser made just for developers, Firefox Developer "
 "Edition has every dev tool you’ll need built right in."
@@ -286,17 +287,17 @@ msgstr ""
 "hamma narsa bor."
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:194
+#: firefox/developer.lang:196
 msgid "Next: WebIDE"
 msgstr "Keyingi: WebIDE"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:199
+#: firefox/developer.lang:201
 msgid "Try WebIDE"
 msgstr "WebIDE’ni sinab ko‘ring"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:204
+#: firefox/developer.lang:206
 msgid ""
 "Develop, deploy and debug Firefox OS apps directly in your browser or on a "
 "Firefox OS device."
@@ -305,19 +306,19 @@ msgstr ""
 "OS qurilmasida tuzing, tayyor holga keltiring va tuzating."
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:209
+#: firefox/developer.lang:211
 msgid "Next: Sync"
 msgstr "Keyingi: Sinx"
 
 #. # TAG: new_doorhanger
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:215
+#: firefox/developer.lang:217
 msgid "Important"
 msgstr "Muhim"
 
 #. # TAG: new_doorhanger
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:221
+#: firefox/developer.lang:223
 msgid ""
 "Sync your new Developer Edition profile to your Firefox Account to access "
 "bookmarks, browsing history, passwords and more from your existing Firefox "
@@ -329,17 +330,17 @@ msgstr ""
 
 #. # TAG: new_doorhanger
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:227
+#: firefox/developer.lang:229
 msgid "Sync now"
 msgstr "Hozir sinxronlash"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:232
+#: firefox/developer.lang:234
 msgid "Keep your browser in Sync"
 msgstr "Brauzeringizni sinxronlab turing"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:237
+#: firefox/developer.lang:239
 msgid ""
 "Sync your Firefox desktop and mobile browsers to get instant access to your "
 "bookmarks, open tabs, passwords and more."
@@ -349,24 +350,24 @@ msgstr ""
 "brauzeringizni sinxronlang."
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:242
+#: firefox/developer.lang:244
 msgid "Sync my Firefox"
 msgstr "Firefox’imni sinxronlash"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:247
+#: firefox/developer.lang:249
 msgid "No thanks"
 msgstr "Yo‘q, rahmat, kerak emas!"
 
 #. # TAG: new_doorhanger
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:253
+#: firefox/developer.lang:255
 msgid "Before you go&hellip;"
 msgstr "O‘tishingizdan oldin&hellip;"
 
 #. # TAG: new_doorhanger
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:259
+#: firefox/developer.lang:261
 msgid ""
 "If you continue without syncing your new Developer Edition profile, you "
 "could lose access to important browsing data from your existing Firefox "
@@ -378,15 +379,15 @@ msgstr ""
 
 #. # TAG: new_doorhanger
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:265
+#: firefox/developer.lang:267
 msgid "To sync now, choose the Sync option from this menu."
 msgstr "Hozir sinxronlash uchun menyudan \"Sinx\"ni tanlang."
 
-#: firefox/developer.lang:269
+#: firefox/developer.lang:271
 msgid "Welcome to <span>Firefox Developer Edition</span>"
 msgstr "<span>Firefox Developer Edition</span>ga xush kelibsiz"
 
-#: firefox/developer.lang:273
+#: firefox/developer.lang:275
 msgid ""
 "Get to know the features that make it the most complete browser for building "
 "the Web."
@@ -395,12 +396,12 @@ msgstr ""
 "oling."
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:278
+#: firefox/developer.lang:280
 msgid "Important: Sync your new profile"
 msgstr "Muhim: yangi profilingizni sinxornlang"
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:283
+#: firefox/developer.lang:285
 msgid ""
 "Developer Edition comes with a new profile so you can run it alongside other "
 "versions of Firefox."
@@ -409,7 +410,7 @@ msgstr ""
 "boshqa versiyalari bilan ham ishga tushirishingiz mumkin."
 
 #. # TAG: new_doorhanger
-#: firefox/developer.lang:288
+#: firefox/developer.lang:290
 msgid ""
 "To access your bookmarks, browsing history and more, you need to sync the "
 "profile with your existing Firefox Account, or create a new one."
@@ -418,11 +419,11 @@ msgstr ""
 "siz mavjud Firefox hisobiingiz bilan profilni sinxronlashingiz kerak yoki "
 "yangisini yaratishingiz kerak."
 
-#: firefox/developer.lang:292
+#: firefox/developer.lang:294
 msgid "Want the old look back?"
 msgstr "Eski ko‘rinishiga qaytarishni xohlaysizmi?"
 
-#: firefox/developer.lang:296
+#: firefox/developer.lang:298
 msgid ""
 "If you want the familiar look and feel of Firefox Aurora back, we’ve made it "
 "super easy for you."
@@ -431,6 +432,6 @@ msgstr ""
 "Aurora’ga qaytarmoqchi bo‘lsangiz, buni biz siz uchun o‘ta oson qilib "
 "qo‘yganmiz."
 
-#: firefox/developer.lang:300
+#: firefox/developer.lang:302
 msgid "Features and tools"
 msgstr "Xususiyatlar va asboblar"

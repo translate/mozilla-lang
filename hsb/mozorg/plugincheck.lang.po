@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-23 19:07+0000\n"
+"POT-Creation-Date: 2015-02-27 09:06+0000\n"
 "PO-Revision-Date: 2015-02-23 20:43+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,61 +13,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1424724230.000000\n"
 
+#. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
+#. # URL: https://www-dev.allizom.org/%LOCALE%/plugincheck
 #. # java_notice ##
 #. # plugin_disable_warning ##
 #. # plugin_updated_content ##
 #. # share_cta ##
-#. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
-#. # URL: https://www-dev.allizom.org/%LOCALE%/plugincheck
 #. Page <title> tag
-#: mozorg/plugincheck.lang:11
+#: mozorg/plugincheck.lang:10
 msgid "Plugin Check &amp; Updates"
 msgstr "Přepruwowanje a aktualizacije tykačow"
 
 #. This is a button telling the user to update their plugin
-#: mozorg/plugincheck.lang:16
+#: mozorg/plugincheck.lang:15
 msgid "Update Now"
 msgstr "Nětko aktualizować"
 
 #. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
-#: mozorg/plugincheck.lang:21
+#: mozorg/plugincheck.lang:20
 msgid "Research"
 msgstr "Pytać"
 
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
-#: mozorg/plugincheck.lang:26
+#: mozorg/plugincheck.lang:25
 msgid "current version plugin"
 msgstr "aktualna wersija tykača"
 
 #. This is a button informing the user that their plugin is up to date
-#: mozorg/plugincheck.lang:31
+#: mozorg/plugincheck.lang:30
 msgid "Up to Date"
 msgstr "Aktualny"
 
 #. L10n: This is alt text used on plugin icon images
-#: mozorg/plugincheck.lang:36
+#: mozorg/plugincheck.lang:35
 msgid "Plugin icon"
 msgstr "Symbol tykača"
 
 #. This is the string used to indicate that the plugin is unknown
-#: mozorg/plugincheck.lang:41
+#: mozorg/plugincheck.lang:40
 msgid "unknown"
 msgstr "njeznaty"
 
 #. This is the string used to indicate that the plugin is vulnerable
-#: mozorg/plugincheck.lang:46
+#: mozorg/plugincheck.lang:45
 msgid "vulnerable"
 msgstr "napadliwy"
 
 #. Main title
-#: mozorg/plugincheck.lang:51
+#: mozorg/plugincheck.lang:50
 msgid "Check Your Plugins"
 msgstr "Waše tykače přepruwować"
 
-#: mozorg/plugincheck.lang:55
+#: mozorg/plugincheck.lang:54
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
 "Hdyž tykače aktualne dźeržiće, pomhaće, wěste a hładke dźěło za Firefox "
@@ -75,7 +75,7 @@ msgstr ""
 
 #. # TAG: share_cta
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
-#: mozorg/plugincheck.lang:61
+#: mozorg/plugincheck.lang:60
 msgid ""
 "Plugins don’t always update automatically. Check yours now to stay safe and "
 "browse without interruption!"
@@ -83,12 +83,12 @@ msgstr ""
 "Tykački so přeco awtomatisce njeaktualizuja. Přepruwujće swoje tykače, zo "
 "byšće wěsty wostał a bjez přetorhnjenja přehladował!"
 
-#: mozorg/plugincheck.lang:65
+#: mozorg/plugincheck.lang:64
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "Zda so, zo staršu wersiju Firefox wužiwaće."
 
 #. # TAG: java_notice
-#: mozorg/plugincheck.lang:70
+#: mozorg/plugincheck.lang:69
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
@@ -97,7 +97,7 @@ msgstr ""
 "meldowanju toho jako napadliwy."
 
 #. # TAG: java_notice
-#: mozorg/plugincheck.lang:75
+#: mozorg/plugincheck.lang:74
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
@@ -106,11 +106,11 @@ msgstr ""
 "\"%(download)s\">websydło Java wopytać</a>, zo byšće najnowšu wersiju "
 "sćahnył."
 
-#: mozorg/plugincheck.lang:79
+#: mozorg/plugincheck.lang:78
 msgid "Plugin Status"
 msgstr "Status tykača"
 
-#: mozorg/plugincheck.lang:83
+#: mozorg/plugincheck.lang:82
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
@@ -118,79 +118,79 @@ msgstr ""
 "Podpěra přepruwowanja tykačow <strong>za Internet Explorer je wobmjezowana</"
 "strong>. Wužijće tež Extras &gt; Add-Ons verwalten"
 
-#: mozorg/plugincheck.lang:87
+#: mozorg/plugincheck.lang:86
 msgid "Step 1: Click Update to update a plugin."
 msgstr "Krok 1: Klikńće na Aktualizować, zo byšće tykač aktualizował."
 
-#: mozorg/plugincheck.lang:91
+#: mozorg/plugincheck.lang:90
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
 "Krok 2: Přewjedźće wšě doporučene aktualizacije, prjedy hač swój wobhladowak "
 "znowa startujeće."
 
-#: mozorg/plugincheck.lang:95
+#: mozorg/plugincheck.lang:94
 msgid "Potentially vulnerable plugins"
 msgstr "Potencielnje napadliwe tykače"
 
-#: mozorg/plugincheck.lang:99
+#: mozorg/plugincheck.lang:98
 msgid "Plugin"
 msgstr "Tykač"
 
-#: mozorg/plugincheck.lang:103
+#: mozorg/plugincheck.lang:102
 msgid "Status"
 msgstr "Status"
 
-#: mozorg/plugincheck.lang:107
+#: mozorg/plugincheck.lang:106
 msgid "Action"
 msgstr "Akcija"
 
-#: mozorg/plugincheck.lang:111
+#: mozorg/plugincheck.lang:110
 msgid "Outdated Plugins"
 msgstr "Zestarjene tykače"
 
-#: mozorg/plugincheck.lang:115
+#: mozorg/plugincheck.lang:114
 msgid "Unknown Plugins"
 msgstr "Njeznate tykače"
 
-#: mozorg/plugincheck.lang:119
+#: mozorg/plugincheck.lang:118
 msgid "These plugins are up to date"
 msgstr "Tute tykače su aktualne"
 
-#: mozorg/plugincheck.lang:123
+#: mozorg/plugincheck.lang:122
 msgid "Back to Top"
 msgstr "Wróćo horje"
 
-#: mozorg/plugincheck.lang:127
+#: mozorg/plugincheck.lang:126
 msgid "Frequently Asked Questions"
 msgstr "Huste prašenja"
 
-#: mozorg/plugincheck.lang:131
+#: mozorg/plugincheck.lang:130
 msgid "What is a plugin?"
 msgstr "Što je tykač?"
 
-#: mozorg/plugincheck.lang:135
+#: mozorg/plugincheck.lang:134
 msgid "Plugins power videos, animation and games"
 msgstr "Tykače so za to staraja, zo wideja, animacije a hry funguja"
 
-#: mozorg/plugincheck.lang:139
+#: mozorg/plugincheck.lang:138
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr "Wutworjeja so zwonka Firefox přez předewzaća kaž Adobe Systems a Apple"
 
-#: mozorg/plugincheck.lang:143
+#: mozorg/plugincheck.lang:142
 msgid "Plugins don't always update automatically."
 msgstr "Tykače so přeco awtomatisće njeaktualizuja."
 
-#: mozorg/plugincheck.lang:147
+#: mozorg/plugincheck.lang:146
 msgid "Why should I update my plugins?"
 msgstr "Čehodla tykače aktualizować?"
 
-#: mozorg/plugincheck.lang:151
+#: mozorg/plugincheck.lang:150
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr "Stare tykače móža přehladowanje mylić a waš čas přečinić."
 
-#: mozorg/plugincheck.lang:155
+#: mozorg/plugincheck.lang:154
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
@@ -198,7 +198,7 @@ msgstr ""
 "Stare tykače <strong>powyšeja waše riziko</strong> za nadpady přez złomyslnu "
 "software, wirusy a druhe wohroženja wěstoty."
 
-#: mozorg/plugincheck.lang:159
+#: mozorg/plugincheck.lang:158
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
@@ -207,15 +207,15 @@ msgstr ""
 "<strong>polěpšeja a wěsćiši činja</strong>."
 
 #. alt image
-#: mozorg/plugincheck.lang:164
+#: mozorg/plugincheck.lang:163
 msgid "Screenshot of Add-Ons manager"
 msgstr "Foto wobrazowki zrjadowaka přidatkow"
 
-#: mozorg/plugincheck.lang:168
+#: mozorg/plugincheck.lang:167
 msgid "How can Firefox help me?"
 msgstr "Kak móže mi Firefox pomhać?"
 
-#: mozorg/plugincheck.lang:172
+#: mozorg/plugincheck.lang:171
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
@@ -224,11 +224,11 @@ msgstr ""
 "tutu stronu prawidłownje kontrolować a swoje tykače aktualizować, zo byšće "
 "wěsty wostał."
 
-#: mozorg/plugincheck.lang:176
+#: mozorg/plugincheck.lang:175
 msgid "Which Plugins do I have?"
 msgstr "Kotre tykače mam?"
 
-#: mozorg/plugincheck.lang:180
+#: mozorg/plugincheck.lang:179
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
@@ -236,11 +236,11 @@ msgstr ""
 "Smy horjeka podate tykače awtomatisće wotkryli, zo byšće sej instalowane "
 "tykače w Firefox wobhladał, slědujće tute kroki:"
 
-#: mozorg/plugincheck.lang:184
+#: mozorg/plugincheck.lang:183
 msgid "Want to spread the word?"
 msgstr "Chceće to dale powědać?"
 
-#: mozorg/plugincheck.lang:188
+#: mozorg/plugincheck.lang:187
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -249,53 +249,53 @@ msgstr ""
 "\">Partnerojo Firefox</a>, zo byšće rjad přepruwowanja tykačow za swoje "
 "sydło dóstał."
 
-#: mozorg/plugincheck.lang:192
+#: mozorg/plugincheck.lang:191
 msgid "How do I disable a plugin?"
 msgstr "Kak móžu tykač znjemóžnić?"
 
-#: mozorg/plugincheck.lang:196
+#: mozorg/plugincheck.lang:195
 msgid "In Firefox:"
 msgstr "W Firefox:"
 
-#: mozorg/plugincheck.lang:200
+#: mozorg/plugincheck.lang:199
 msgid "Open the Tools menu."
 msgstr "Wočińće meni Nastroje."
 
 #. # TAG: plugin_updated_content
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
-#: mozorg/plugincheck.lang:206
+#: mozorg/plugincheck.lang:205
 msgid "Open the <span class=\"menu\">menu</span>."
 msgstr "Wočińće <span class=\"menu\">meni</span>."
 
-#: mozorg/plugincheck.lang:210
+#: mozorg/plugincheck.lang:209
 msgid "Choose Add-ons."
 msgstr "Wubjerće Přidatki."
 
-#: mozorg/plugincheck.lang:214
+#: mozorg/plugincheck.lang:213
 msgid "Click the plugins tab."
 msgstr "Klikńće na rajtark Tykače."
 
 #. # TAG: plugin_updated_content
-#: mozorg/plugincheck.lang:219
+#: mozorg/plugincheck.lang:218
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr "Klikńće na padacy meni pódla tykača, kotryž chceće znjemóžnić."
 
-#: mozorg/plugincheck.lang:223
+#: mozorg/plugincheck.lang:222
 msgid "Click on a plugin in the list."
 msgstr "Klikńće na tykač w lisćinje."
 
 #. # TAG: plugin_updated_content
-#: mozorg/plugincheck.lang:228
+#: mozorg/plugincheck.lang:227
 msgid "Select \"Never Activate\" from the available choices."
 msgstr ""
 "Wubjerće \"Ženje njeaktizować\" z k dispoziciji stejacych wuběranskich "
 "móžnosćow."
 
-#: mozorg/plugincheck.lang:232
+#: mozorg/plugincheck.lang:231
 msgid "Click the Disable button."
 msgstr "Klikńće na tłóčatko Znjemóžnić."
 
-#: mozorg/plugincheck.lang:236
+#: mozorg/plugincheck.lang:235
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -306,7 +306,7 @@ msgstr ""
 "wobhladować."
 
 #. # TAG: plugin_disable_warning
-#: mozorg/plugincheck.lang:241
+#: mozorg/plugincheck.lang:240
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -316,15 +316,15 @@ msgstr ""
 "činić. Jeli na přikład Flash znjemóžniće, njemóžeće sej wideja na někotrych "
 "websydłach z kontinuěrowanym přenošowanjom widejow wobhladować."
 
-#: mozorg/plugincheck.lang:245
+#: mozorg/plugincheck.lang:244
 msgid "Mozilla Support"
 msgstr "Podpěra Mozilla"
 
-#: mozorg/plugincheck.lang:249
+#: mozorg/plugincheck.lang:248
 msgid "Have more questions?"
 msgstr "Maće dalše prašenja?"
 
-#: mozorg/plugincheck.lang:253
+#: mozorg/plugincheck.lang:252
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "Wopytajće <a href=\"%(sumo_url)s\">support.mozilla.org</a> za dalšu pomoc!"
