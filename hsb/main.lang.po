@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-26 13:08+0000\n"
+"POT-Creation-Date: 2015-02-27 17:06+0000\n"
 "PO-Revision-Date: 2015-02-26 16:34+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
 "X-POOTLE-MTIME: 1424968483.000000\n"
 
 #: main.lang:1
@@ -72,151 +72,161 @@ msgstr "Graty"
 msgid "For partners"
 msgstr "Za partnerow"
 
-#: main.lang:57
+#. Used in the new Firefox family navigation menu. Item in the '...' button
+#: main.lang:58
+msgid "News"
+msgstr ""
+
+#. Used in the new Firefox family navigation menu. Item in the '...' button
+#: main.lang:63
+msgid "Developers"
+msgstr "Wuwiwarjo"
+
+#: main.lang:67
 msgid "Donate"
 msgstr "Darić"
 
-#: main.lang:61
+#: main.lang:71
 msgid "Support"
 msgstr "Podpěra"
 
-#: main.lang:65
+#: main.lang:75
 msgid "Products"
 msgstr "Produkty"
 
-#: main.lang:69
+#: main.lang:79
 msgid "Add-ons"
 msgstr "Přidatki"
 
-#: main.lang:73
+#: main.lang:83
 msgid "About Us"
 msgstr "Wo nas"
 
-#: main.lang:77
+#: main.lang:87
 msgid "Labs"
 msgstr "Labory"
 
-#: main.lang:81
+#: main.lang:91
 msgid "skip to Navigation"
 msgstr "hnydom dale k nawigaciji"
 
-#: main.lang:85
+#: main.lang:95
 msgid "switch language"
 msgstr "rěč změnić"
 
-#: main.lang:89
+#: main.lang:99
 msgid "Back to home page"
 msgstr "Wróćo k startowej stronje"
 
-#: main.lang:93
+#: main.lang:103
 msgid "About Mozilla"
 msgstr "Wo Mozilla"
 
-#: main.lang:97
+#: main.lang:107
 msgid "Get Involved"
 msgstr "Čińće sobu"
 
-#: main.lang:101
+#: main.lang:111
 msgid "Careers"
 msgstr "Powołanja"
 
-#: main.lang:105
+#: main.lang:115
 msgid "Press Center"
 msgstr "Nowinski centrum"
 
-#: main.lang:109
+#: main.lang:119
 msgid "Contact Us"
 msgstr "Stajće so z nami do zwiska"
 
-#: main.lang:113
+#: main.lang:123
 msgid "Other languages:"
 msgstr "Druhe rěče:"
 
 #. Year / Month / Day, indicate your prefered date format for your language
-#: main.lang:118
+#: main.lang:128
 msgid "%Y-%m-%d"
 msgstr "%d.%m.%Y"
 
-#: main.lang:122
+#: main.lang:132
 msgid "Legal"
 msgstr "Prawniski"
 
 #. Used as link in the footer
-#: main.lang:127
+#: main.lang:137
 msgid "Cookies"
 msgstr "Placki"
 
 #. Used as link in the footer
-#: main.lang:132
+#: main.lang:142
 msgid "Firefox Affiliates"
 msgstr "Partnerojo Firefox"
 
-#: main.lang:136
+#: main.lang:146
 msgid "Legal Notices"
 msgstr "Impresum"
 
-#: main.lang:140
+#: main.lang:150
 msgid "Privacy Policy"
 msgstr "Prawidła priwatnosće"
 
-#: main.lang:144
+#: main.lang:154
 msgid "Release Notes"
 msgstr "Wersijowe informacije"
 
-#: main.lang:148
+#: main.lang:158
 msgid "Other Systems and Languages"
 msgstr "Druhe systemy a rěče"
 
-#: main.lang:152
+#: main.lang:162
 msgid "Close"
 msgstr "Začinić"
 
-#: main.lang:156
+#: main.lang:166
 msgid "(in English)"
 msgstr "(jendźelsce)"
 
-#: main.lang:160
+#: main.lang:170
 msgid "Return to top"
 msgstr "Wróćo horje"
 
-#: main.lang:164
+#: main.lang:174
 msgid "Features"
 msgstr "Funkcije"
 
-#: main.lang:168
+#: main.lang:178
 msgid "Customize"
 msgstr "Přiměrić"
 
-#: main.lang:173
+#: main.lang:183
 msgid "Download"
 msgstr "Sćahnyć"
 
-#: main.lang:177
+#: main.lang:187
 msgid "Previous"
 msgstr "Předchadny"
 
-#: main.lang:181
+#: main.lang:191
 msgid "Next"
 msgstr "Dale"
 
 #. MegaBytes abbreviation
-#: main.lang:186
+#: main.lang:196
 msgid "MB"
 msgstr "MB"
 
-#: main.lang:190
+#: main.lang:200
 msgid "MegaBytes"
 msgstr "Megabajty"
 
-#: main.lang:194
+#: main.lang:204
 msgid "FAQ"
 msgstr "Huste prašenja"
 
-#: main.lang:198
+#: main.lang:208
 msgid "Videos"
 msgstr "Wideja"
 
-#: main.lang:202
+#: main.lang:212
 msgid ""
 "Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
 "licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
@@ -226,110 +236,110 @@ msgstr ""
 "pod licencu <br /><a href=\"%s\">Creative Commons Attribution Share-Alike "
 "License v3.0</a> abo pod nowšej wersiju."
 
-#: main.lang:206
+#: main.lang:216
 msgid "Report Trademark Abuse"
 msgstr "Znjewužiwanje wikowanskeho znamjenja zdźělić"
 
-#: main.lang:210
+#: main.lang:220
 msgid "Free Upgrade"
 msgstr "Darmotna aktualizacija"
 
 #. social networks such as Facebook and Twitter
-#: main.lang:215
+#: main.lang:225
 msgid "Follow us on:"
 msgstr "Slědujće nam na:"
 
-#: main.lang:219
+#: main.lang:229
 msgid "Customize with Add-ons"
 msgstr "Z přidatkami přiměrić"
 
-#: main.lang:223
+#: main.lang:233
 msgid "Learn More"
 msgstr "Dalše informacije"
 
 #. Same as previous above but with no capitalization on More
-#: main.lang:228
+#: main.lang:238
 msgid "Learn more"
 msgstr "Dalše informacije"
 
 #. Link used to play again an animation or a video
-#: main.lang:233
+#: main.lang:243
 msgid "Replay"
 msgstr "Wospjetować"
 
-#: main.lang:237
+#: main.lang:247
 msgid "Watch the video"
 msgstr "Widejo sej wobhladać"
 
-#: main.lang:241
+#: main.lang:251
 msgid "Replay the video"
 msgstr "Widejo znowa wothrać"
 
-#: main.lang:245
+#: main.lang:255
 msgid "Share the video"
 msgstr "Widejo dźělić"
 
-#: main.lang:249
+#: main.lang:259
 msgid "WebM format"
 msgstr "Format WebM"
 
-#: main.lang:253
+#: main.lang:263
 msgid "Ogg Theora format"
 msgstr "Format Ogg Theora"
 
-#: main.lang:257
+#: main.lang:267
 msgid "MPEG-4 format"
 msgstr "Format MPEG-4"
 
-#: main.lang:261
+#: main.lang:271
 msgid "Mobile"
 msgstr "Mobilny"
 
-#: main.lang:265
+#: main.lang:275
 msgid "Check out the new look and feel of Firefox."
 msgstr "Wuprobujće nowy napohlad a začuće Firefox."
 
-#: main.lang:269
+#: main.lang:279
 msgid "View Full Site"
 msgstr "Dospołne sydło sej wobhladać"
 
-#: main.lang:273
+#: main.lang:283
 msgid "Get Firefox for Android"
 msgstr "Wobstarajće sej Firefox za Android"
 
-#: main.lang:277
+#: main.lang:287
 msgid "Download for <span>Android</span>"
 msgstr "Sćehnjenje za <span>Android</span>"
 
-#: main.lang:281
+#: main.lang:291
 msgid "Desktop"
 msgstr "Desktop"
 
-#: main.lang:285
+#: main.lang:295
 msgid "Firefox Beta for mobile"
 msgstr "Firefox Beta mobilny"
 
-#: main.lang:289
+#: main.lang:299
 msgid "Firefox for mobile"
 msgstr "Firefox mobilny"
 
-#: main.lang:293
+#: main.lang:303
 msgid "Email"
 msgstr "E-mejl"
 
-#: main.lang:297
+#: main.lang:307
 msgid "Super speed"
 msgstr "Superspěšnosć"
 
-#: main.lang:301
+#: main.lang:311
 msgid "Stunning graphics"
 msgstr "Wulkotna grafika"
 
-#: main.lang:305
+#: main.lang:315
 msgid "The latest technologies"
 msgstr "Najnowše techniki"
 
-#: main.lang:309
+#: main.lang:319
 msgid ""
 "You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
 "new Firefox for the best in browsing and customization on the Web. <br/>   "
@@ -339,35 +349,35 @@ msgstr ""
 "Wužijće nowy Firefox za najlěpše přehladowanje a přiměrjenje we webje. <br/> "
 "Je spěšny a darmotny!"
 
-#: main.lang:313
+#: main.lang:323
 msgid "Upgrade now"
 msgstr "Nětko aktualizować"
 
-#: main.lang:317
+#: main.lang:327
 msgid "Update now"
 msgstr "Nětko aktualizować"
 
-#: main.lang:321
+#: main.lang:331
 msgid "Supported Devices"
 msgstr "Podpěrane graty"
 
 #. Used in several pages (firefox/new, firefox/sync, etc.) as a link to SUMO
-#: main.lang:326
+#: main.lang:336
 msgid "Need help?"
 msgstr "Trjebaće pomoc?"
 
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-#: main.lang:331
+#: main.lang:341
 msgid "What’s New"
 msgstr "Štož je nowe"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
-#: main.lang:336
+#: main.lang:346
 msgid "Privacy"
 msgstr "Priwatnosć"
 
 #. Footer string
-#: main.lang:341
+#: main.lang:351
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
@@ -378,204 +388,204 @@ msgstr ""
 "\">Creative Commons license</a> k dispoziciji."
 
 #. Footer string
-#: main.lang:346
+#: main.lang:356
 msgid "Contribute to this page"
 msgstr "K tutej stronje přinošować"
 
 #. Top menu item
-#: main.lang:351
+#: main.lang:361
 msgid "Mission"
 msgstr "Misija"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:356
+#: main.lang:366
 msgid "Tour"
 msgstr "Tura"
 
 #. Footer item
-#: main.lang:361
+#: main.lang:371
 msgid "Partner with Us"
 msgstr "Stańće so z našim partnerom"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:366
+#: main.lang:376
 msgid "Sync"
 msgstr "Sync"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:371
+#: main.lang:381
 msgid "Desktop Add-ons"
 msgstr "Desktopowe přidatki"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:376
+#: main.lang:386
 msgid "Android Add-ons"
 msgstr "Přidatki za Android"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:381
+#: main.lang:391
 msgid "Themes"
 msgstr "Drasty"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:386
+#: main.lang:396
 msgid "Desktop Support"
 msgstr "Desktopowa podpěra"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:391
+#: main.lang:401
 msgid "Android Support"
 msgstr "Podpěra za Android"
 
 #. Top menu item on firefox/update page
-#: main.lang:396
+#: main.lang:406
 msgid "Performance"
 msgstr "Wukon"
 
 #. Top menu item on firefox/update page
-#: main.lang:401
+#: main.lang:411
 msgid "Technology"
 msgstr "Technika"
 
 #. Top menu item on firefox/update page
-#: main.lang:406
+#: main.lang:416
 msgid "Privacy &amp; Security"
 msgstr "Priwatnosć a wěstota"
 
 #. Top menu item on firefox/update page
-#: main.lang:411
+#: main.lang:421
 msgid "Releases"
 msgstr "Přepodaća"
 
 #. Top menu item on firefox/update page
-#: main.lang:416
+#: main.lang:426
 msgid "Firefox"
 msgstr "Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:421
+#: main.lang:431
 msgid "Firefox for Organizations"
 msgstr "Firefox za organizacije"
 
 #. Top menu item on firefox/update page
-#: main.lang:426
+#: main.lang:436
 msgid "Mobile Add-ons"
 msgstr "Mobilne přidatki"
 
 #. Top menu item on firefox/update page
-#: main.lang:431
+#: main.lang:441
 msgid "Mobile Support"
 msgstr "Mobilna podpěra"
 
 #. Top menu item on firefox/update page
-#: main.lang:436
+#: main.lang:446
 msgid "Blog"
 msgstr "Blog"
 
 #. Top menu item on firefox/update page
-#: main.lang:441
+#: main.lang:451
 msgid "About Firefox"
 msgstr "Wo Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:446
+#: main.lang:456
 msgid "Join Mozilla"
 msgstr "Přidružće so Mozilla"
 
 #. Top menu item on firefox/update page
-#: main.lang:451
+#: main.lang:461
 msgid "Participate"
 msgstr "Wobdźělić so"
 
 #. Top menu item on firefox/update page
-#: main.lang:456
+#: main.lang:466
 msgid "Brand Toolkit"
 msgstr "Brand Toolkit"
 
 #. Top menu item on firefox/update page
-#: main.lang:461
+#: main.lang:471
 msgid "Partnerships"
 msgstr "Partnerstwa"
 
 #. Newsletter subscription form above footer on some pages
-#: main.lang:466
+#: main.lang:476
 msgid "Get Mozilla updates"
 msgstr "Aktualizacije Mozilla sej wobstarać"
 
 #. share button for social networks
-#: main.lang:471
+#: main.lang:481
 msgid "Share"
 msgstr "Dźělić"
 
 #. footer link
-#: main.lang:476
+#: main.lang:486
 msgid "Mozilla on Twitter"
 msgstr "Mozilla na Twitter"
 
 #. footer link
-#: main.lang:481
+#: main.lang:491
 msgid "Firefox on Twitter"
 msgstr "Firefox na Twitter"
 
 #. footer link
-#: main.lang:486
+#: main.lang:496
 msgid "Mozilla on Facebook"
 msgstr "Mozilla na Facebooku"
 
 #. footer link
-#: main.lang:491
+#: main.lang:501
 msgid "Firefox on Facebook"
 msgstr "Firefox na Facebooku"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:496
+#: main.lang:506
 msgid "Forums"
 msgstr "Forumy"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:501
+#: main.lang:511
 msgid "Governance"
 msgstr "Wjednistwo"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:506
+#: main.lang:516
 msgid "History"
 msgstr "Historija"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:511
+#: main.lang:521
 msgid "Our Products"
 msgstr "Naše produkty"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:516
+#: main.lang:526
 msgid "Software and other innovations designed to advance our mission."
 msgstr ""
 "Software a druhe nowosće, wuwite, zo bychu našu misiju doprědka ćěrili."
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:521
+#: main.lang:531
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "Budźće dobrowólny sobuskutkowar na wšelakich polach."
 
 #. This is a non-visible string for blind people to indicate where the menu is
-#: main.lang:526
+#: main.lang:536
 msgid "Menu"
 msgstr "Meni"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
-#: main.lang:531
+#: main.lang:541
 msgid "Committed to you, your privacy and an open Web"
 msgstr "Wam, wašej priwatnosći a wotewrjenemu webej zawjazany"
 
 #. Common title used in Fx 10 pages
-#: main.lang:536
+#: main.lang:546
 msgid "Choose Independent"
 msgstr "Wubjerće njewotwisnje"
 
 #. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 #. The '#ChooseIndependent' hashtag should not be translated.
-#: main.lang:543
+#: main.lang:553
 msgid ""
 "Keep the passion for a free and open Internet burning bright! "
 "#ChooseIndependent. Choose Firefox:"
@@ -584,118 +594,118 @@ msgstr ""
 "#ChooseIndependent. Wubjerće Firefox:"
 
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
-#: main.lang:549
+#: main.lang:559
 msgid "Please turn on JavaScript to display this page correctly."
 msgstr "Prošu zmóžńće JavaScript, zo byšće tutu stronu korektnje zwobraznił."
 
 #. Used as link to /firefox/desktop in footers on some pages
-#: main.lang:554
+#: main.lang:564
 msgid "Firefox Features"
 msgstr "Funkcije Firefox"
 
 #. Used as link to SUMO in footers on some pages
-#: main.lang:559
+#: main.lang:569
 msgid "Firefox Help"
 msgstr "Pomoc Firefox"
 
-#: main.lang:563
+#: main.lang:573
 msgid "January"
 msgstr "Januar"
 
-#: main.lang:567
+#: main.lang:577
 msgid "February"
 msgstr "Februar"
 
-#: main.lang:571
+#: main.lang:581
 msgid "March"
 msgstr "Měrc"
 
-#: main.lang:575
+#: main.lang:585
 msgid "April"
 msgstr "Apryl"
 
-#: main.lang:579
+#: main.lang:589
 msgid "May"
 msgstr "Meja"
 
-#: main.lang:583
+#: main.lang:593
 msgid "June"
 msgstr "Junij"
 
-#: main.lang:587
+#: main.lang:597
 msgid "July"
 msgstr "Julij"
 
-#: main.lang:591
+#: main.lang:601
 msgid "August"
 msgstr "Awgust"
 
-#: main.lang:595
+#: main.lang:605
 msgid "September"
 msgstr "September"
 
-#: main.lang:599
+#: main.lang:609
 msgid "October"
 msgstr "Oktober"
 
-#: main.lang:603
+#: main.lang:613
 msgid "November"
 msgstr "Nowember"
 
-#: main.lang:607
+#: main.lang:617
 msgid "December"
 msgstr "December"
 
-#: main.lang:611
+#: main.lang:621
 msgid "<abbr>Jan</abbr>"
 msgstr "<abbr>Jan</abbr>"
 
-#: main.lang:615
+#: main.lang:625
 msgid "<abbr>Feb</abbr>"
 msgstr "<abbr>Feb</abbr>"
 
-#: main.lang:619
+#: main.lang:629
 msgid "<abbr>Mar</abbr>"
 msgstr "<abbr>Měr</abbr>"
 
-#: main.lang:623
+#: main.lang:633
 msgid "<abbr>Apr</abbr>"
 msgstr "<abbr>Apr</abbr>"
 
-#: main.lang:627
+#: main.lang:637
 msgid "<abbr>May</abbr>"
 msgstr "<abbr>Mej</abbr>"
 
-#: main.lang:631
+#: main.lang:641
 msgid "<abbr>Jun</abbr>"
 msgstr "<abbr>Jun</abbr>"
 
-#: main.lang:635
+#: main.lang:645
 msgid "<abbr>Jul</abbr>"
 msgstr "<abbr>Jul</abbr>"
 
-#: main.lang:639
+#: main.lang:649
 msgid "<abbr>Aug</abbr>"
 msgstr "<abbr>Awg</abbr>"
 
-#: main.lang:643
+#: main.lang:653
 msgid "<abbr>Sep</abbr>"
 msgstr "<abbr>Sep</abbr>"
 
-#: main.lang:647
+#: main.lang:657
 msgid "<abbr>Oct</abbr>"
 msgstr "<abbr>Okt</abbr>"
 
-#: main.lang:651
+#: main.lang:661
 msgid "<abbr>Nov</abbr>"
 msgstr "<abbr>Now</abbr>"
 
-#: main.lang:655
+#: main.lang:665
 msgid "<abbr>Dec</abbr>"
 msgstr "<abbr>Dec</abbr>"
 
 #. Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-#: main.lang:660
+#: main.lang:670
 msgid ""
 "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
 msgstr ""

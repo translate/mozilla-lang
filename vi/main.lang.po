@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-26 13:08+0000\n"
+"POT-Creation-Date: 2015-02-27 17:06+0000\n"
 "PO-Revision-Date: 2014-04-27 17:33+0000\n"
 "Last-Translator: hainp <hainp2604@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -71,151 +71,161 @@ msgstr ""
 msgid "For partners"
 msgstr ""
 
-#: main.lang:57
+#. Used in the new Firefox family navigation menu. Item in the '...' button
+#: main.lang:58
+msgid "News"
+msgstr ""
+
+#. Used in the new Firefox family navigation menu. Item in the '...' button
+#: main.lang:63
+msgid "Developers"
+msgstr "Nhà phát triển"
+
+#: main.lang:67
 msgid "Donate"
 msgstr "Quyên góp"
 
-#: main.lang:61
+#: main.lang:71
 msgid "Support"
 msgstr "Hỗ trợ"
 
-#: main.lang:65
+#: main.lang:75
 msgid "Products"
 msgstr "Sản phẩm"
 
-#: main.lang:69
+#: main.lang:79
 msgid "Add-ons"
 msgstr "Add-on"
 
-#: main.lang:73
+#: main.lang:83
 msgid "About Us"
 msgstr "Giới thiệu"
 
-#: main.lang:77
+#: main.lang:87
 msgid "Labs"
 msgstr "Phòng nghiên cứu"
 
-#: main.lang:81
+#: main.lang:91
 msgid "skip to Navigation"
 msgstr "chuyển qua Khám phá"
 
-#: main.lang:85
+#: main.lang:95
 msgid "switch language"
 msgstr "chuyển đổi ngôn ngữ"
 
-#: main.lang:89
+#: main.lang:99
 msgid "Back to home page"
 msgstr "Trở về trang chủ"
 
-#: main.lang:93
+#: main.lang:103
 msgid "About Mozilla"
 msgstr "Giới thiệu Mozilla"
 
-#: main.lang:97
+#: main.lang:107
 msgid "Get Involved"
 msgstr "Tham gia"
 
-#: main.lang:101
+#: main.lang:111
 msgid "Careers"
 msgstr "Nghề nghiệp"
 
-#: main.lang:105
+#: main.lang:115
 msgid "Press Center"
 msgstr "Trung tâm Báo chí"
 
-#: main.lang:109
+#: main.lang:119
 msgid "Contact Us"
 msgstr "Liên hệ với chúng tôi"
 
-#: main.lang:113
+#: main.lang:123
 msgid "Other languages:"
 msgstr "Ngôn ngữ khác:"
 
 #. Year / Month / Day, indicate your prefered date format for your language
-#: main.lang:118
+#: main.lang:128
 msgid "%Y-%m-%d"
 msgstr "%d-%m-%Y"
 
-#: main.lang:122
+#: main.lang:132
 msgid "Legal"
 msgstr ""
 
 #. Used as link in the footer
-#: main.lang:127
+#: main.lang:137
 msgid "Cookies"
 msgstr ""
 
 #. Used as link in the footer
-#: main.lang:132
+#: main.lang:142
 msgid "Firefox Affiliates"
 msgstr ""
 
-#: main.lang:136
+#: main.lang:146
 msgid "Legal Notices"
 msgstr "Thông cáo pháp lý"
 
-#: main.lang:140
+#: main.lang:150
 msgid "Privacy Policy"
 msgstr "Chính sách riêng tư"
 
-#: main.lang:144
+#: main.lang:154
 msgid "Release Notes"
 msgstr "Ghi chú Phát hành"
 
-#: main.lang:148
+#: main.lang:158
 msgid "Other Systems and Languages"
 msgstr "Hệ thống và Ngôn ngữ khác"
 
-#: main.lang:152
+#: main.lang:162
 msgid "Close"
 msgstr "Đóng"
 
-#: main.lang:156
+#: main.lang:166
 msgid "(in English)"
 msgstr "(tiếng Anh)"
 
-#: main.lang:160
+#: main.lang:170
 msgid "Return to top"
 msgstr "Trở về đầu trang"
 
-#: main.lang:164
+#: main.lang:174
 msgid "Features"
 msgstr "Tính năng"
 
-#: main.lang:168
+#: main.lang:178
 msgid "Customize"
 msgstr "Tùy biến"
 
-#: main.lang:173
+#: main.lang:183
 msgid "Download"
 msgstr "Tải xuống"
 
-#: main.lang:177
+#: main.lang:187
 msgid "Previous"
 msgstr ""
 
-#: main.lang:181
+#: main.lang:191
 msgid "Next"
 msgstr "Tiếp"
 
 #. MegaBytes abbreviation
-#: main.lang:186
+#: main.lang:196
 msgid "MB"
 msgstr "MB"
 
-#: main.lang:190
+#: main.lang:200
 msgid "MegaBytes"
 msgstr "MegaBytes"
 
-#: main.lang:194
+#: main.lang:204
 msgid "FAQ"
 msgstr "Câu hỏi thường gặp"
 
-#: main.lang:198
+#: main.lang:208
 msgid "Videos"
 msgstr "Video"
 
-#: main.lang:202
+#: main.lang:212
 msgid ""
 "Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
 "licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
@@ -225,110 +235,110 @@ msgstr ""
 "theo <br /><a href=\"%s\">Creative Commons Attribution Share-Alike phiên bản "
 "3.0</a> và bất kì phiên bản nào sau này của nó."
 
-#: main.lang:206
+#: main.lang:216
 msgid "Report Trademark Abuse"
 msgstr "Báo cáo Lạm dụng Thương hiệu"
 
-#: main.lang:210
+#: main.lang:220
 msgid "Free Upgrade"
 msgstr "Nâng cấp Miễn phí"
 
 #. social networks such as Facebook and Twitter
-#: main.lang:215
+#: main.lang:225
 msgid "Follow us on:"
 msgstr "Theo dõi chúng tôi trên:"
 
-#: main.lang:219
+#: main.lang:229
 msgid "Customize with Add-ons"
 msgstr "Tùy biến bằng Add-on"
 
-#: main.lang:223
+#: main.lang:233
 msgid "Learn More"
 msgstr "Tìm hiểu thêm"
 
 #. Same as previous above but with no capitalization on More
-#: main.lang:228
+#: main.lang:238
 msgid "Learn more"
 msgstr "Tìm hiểu thêm"
 
 #. Link used to play again an animation or a video
-#: main.lang:233
+#: main.lang:243
 msgid "Replay"
 msgstr "Phát lại"
 
-#: main.lang:237
+#: main.lang:247
 msgid "Watch the video"
 msgstr "Xem video"
 
-#: main.lang:241
+#: main.lang:251
 msgid "Replay the video"
 msgstr ""
 
-#: main.lang:245
+#: main.lang:255
 msgid "Share the video"
 msgstr ""
 
-#: main.lang:249
+#: main.lang:259
 msgid "WebM format"
 msgstr "Định dạng WebM"
 
-#: main.lang:253
+#: main.lang:263
 msgid "Ogg Theora format"
 msgstr "Định dạng Ogg Theora"
 
-#: main.lang:257
+#: main.lang:267
 msgid "MPEG-4 format"
 msgstr "Định dạng MPEG-4"
 
-#: main.lang:261
+#: main.lang:271
 msgid "Mobile"
 msgstr "Di động"
 
-#: main.lang:265
+#: main.lang:275
 msgid "Check out the new look and feel of Firefox."
 msgstr "Trải nghiệm giao diện mới của Firefox."
 
-#: main.lang:269
+#: main.lang:279
 msgid "View Full Site"
 msgstr "Xem trang đầy đủ"
 
-#: main.lang:273
+#: main.lang:283
 msgid "Get Firefox for Android"
 msgstr "Tải Firefox cho Android"
 
-#: main.lang:277
+#: main.lang:287
 msgid "Download for <span>Android</span>"
 msgstr "Tải xuống bản cho <span>Android</span>"
 
-#: main.lang:281
+#: main.lang:291
 msgid "Desktop"
 msgstr "Màn hình nền"
 
-#: main.lang:285
+#: main.lang:295
 msgid "Firefox Beta for mobile"
 msgstr "Firefox Beta cho di động"
 
-#: main.lang:289
+#: main.lang:299
 msgid "Firefox for mobile"
 msgstr "Firefox cho di động"
 
-#: main.lang:293
+#: main.lang:303
 msgid "Email"
 msgstr "Thư điện tử"
 
-#: main.lang:297
+#: main.lang:307
 msgid "Super speed"
 msgstr "Siêu nhanh"
 
-#: main.lang:301
+#: main.lang:311
 msgid "Stunning graphics"
 msgstr "Đồ họa ấn tượng"
 
-#: main.lang:305
+#: main.lang:315
 msgid "The latest technologies"
 msgstr "Công nghệ mới nhất"
 
-#: main.lang:309
+#: main.lang:319
 msgid ""
 "You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
 "new Firefox for the best in browsing and customization on the Web. <br/>   "
@@ -338,36 +348,36 @@ msgstr ""
 "dùng Firefox để duyệt web và được tùy biến tốt nhất. <br/> Firefox nhanh và "
 "miễn phí!"
 
-#: main.lang:313
+#: main.lang:323
 msgid "Upgrade now"
 msgstr "Nâng cấp ngay"
 
-#: main.lang:317
+#: main.lang:327
 msgid "Update now"
 msgstr "Cập nhật ngay"
 
-#: main.lang:321
+#: main.lang:331
 msgid "Supported Devices"
 msgstr "Thiết bị được hỗ trợ"
 
 #. Used in several pages (firefox/new, firefox/sync, etc.) as a link to SUMO
-#: main.lang:326
+#: main.lang:336
 #, fuzzy
 msgid "Need help?"
 msgstr "Cần trợ giúp?"
 
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-#: main.lang:331
+#: main.lang:341
 msgid "What’s New"
 msgstr "Có gì mới"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
-#: main.lang:336
+#: main.lang:346
 msgid "Privacy"
 msgstr "Riêng tư"
 
 #. Footer string
-#: main.lang:341
+#: main.lang:351
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
@@ -378,321 +388,321 @@ msgstr ""
 "Commons</a>."
 
 #. Footer string
-#: main.lang:346
+#: main.lang:356
 msgid "Contribute to this page"
 msgstr "Đóng góp cho trang này"
 
 #. Top menu item
-#: main.lang:351
+#: main.lang:361
 msgid "Mission"
 msgstr "Nhiệm vụ"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:356
+#: main.lang:366
 msgid "Tour"
 msgstr "Tham quan"
 
 #. Footer item
-#: main.lang:361
+#: main.lang:371
 msgid "Partner with Us"
 msgstr "Cộng tác với chúng tôi"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:366
+#: main.lang:376
 msgid "Sync"
 msgstr ""
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:371
+#: main.lang:381
 msgid "Desktop Add-ons"
 msgstr "Add-on cho Desktop"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:376
+#: main.lang:386
 msgid "Android Add-ons"
 msgstr ""
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:381
+#: main.lang:391
 msgid "Themes"
 msgstr "Chủ đề"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:386
+#: main.lang:396
 msgid "Desktop Support"
 msgstr "Hỗ trợ Desktop"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:391
+#: main.lang:401
 msgid "Android Support"
 msgstr ""
 
 #. Top menu item on firefox/update page
-#: main.lang:396
+#: main.lang:406
 msgid "Performance"
 msgstr "Hiệu năng "
 
 #. Top menu item on firefox/update page
-#: main.lang:401
+#: main.lang:411
 msgid "Technology"
 msgstr "Công nghệ"
 
 #. Top menu item on firefox/update page
-#: main.lang:406
+#: main.lang:416
 msgid "Privacy &amp; Security"
 msgstr "Riêng tư  &amp;  Bảo mật"
 
 #. Top menu item on firefox/update page
-#: main.lang:411
+#: main.lang:421
 msgid "Releases"
 msgstr "Phát hành"
 
 #. Top menu item on firefox/update page
-#: main.lang:416
+#: main.lang:426
 msgid "Firefox"
 msgstr "Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:421
+#: main.lang:431
 msgid "Firefox for Organizations"
 msgstr "Firefox dành cho các Tổ chức"
 
 #. Top menu item on firefox/update page
-#: main.lang:426
+#: main.lang:436
 msgid "Mobile Add-ons"
 msgstr "Add-on cho di động"
 
 #. Top menu item on firefox/update page
-#: main.lang:431
+#: main.lang:441
 msgid "Mobile Support"
 msgstr "Hỗ trợ di động"
 
 #. Top menu item on firefox/update page
-#: main.lang:436
+#: main.lang:446
 msgid "Blog"
 msgstr "Blog"
 
 #. Top menu item on firefox/update page
-#: main.lang:441
+#: main.lang:451
 msgid "About Firefox"
 msgstr "Giới thiệu Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:446
+#: main.lang:456
 msgid "Join Mozilla"
 msgstr "Tham gia Mozilla"
 
 #. Top menu item on firefox/update page
-#: main.lang:451
+#: main.lang:461
 msgid "Participate"
 msgstr "Tham gia"
 
 #. Top menu item on firefox/update page
-#: main.lang:456
+#: main.lang:466
 msgid "Brand Toolkit"
 msgstr "Bộ công cụ đóng nhãn"
 
 #. Top menu item on firefox/update page
-#: main.lang:461
+#: main.lang:471
 msgid "Partnerships"
 msgstr "Hiệp hội"
 
 #. Newsletter subscription form above footer on some pages
-#: main.lang:466
+#: main.lang:476
 msgid "Get Mozilla updates"
 msgstr "Tải các cập nhật Mozilla"
 
 #. share button for social networks
-#: main.lang:471
+#: main.lang:481
 msgid "Share"
 msgstr "Chia sẻ"
 
 #. footer link
-#: main.lang:476
+#: main.lang:486
 msgid "Mozilla on Twitter"
 msgstr "Mozilla trên Twitter"
 
 #. footer link
-#: main.lang:481
+#: main.lang:491
 msgid "Firefox on Twitter"
 msgstr "Firefox trên Twitter"
 
 #. footer link
-#: main.lang:486
+#: main.lang:496
 msgid "Mozilla on Facebook"
 msgstr "Mozilla trên Facebook"
 
 #. footer link
-#: main.lang:491
+#: main.lang:501
 msgid "Firefox on Facebook"
 msgstr "Firefox trên Facebook"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:496
+#: main.lang:506
 msgid "Forums"
 msgstr "Diễn đàn"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:501
+#: main.lang:511
 msgid "Governance"
 msgstr "Quản trị"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:506
+#: main.lang:516
 msgid "History"
 msgstr "Lịch sử"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:511
+#: main.lang:521
 msgid "Our Products"
 msgstr "Sản phẩm của chúng tôi"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:516
+#: main.lang:526
 msgid "Software and other innovations designed to advance our mission."
 msgstr "Phần mềm và các cải tiến khác giúp thúc đẩy sứ mạng của chúng tôi."
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:521
+#: main.lang:531
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "Trở thành một tình nguyện viên trong các lĩnh vực khác nhau."
 
 #. This is a non-visible string for blind people to indicate where the menu is
-#: main.lang:526
+#: main.lang:536
 msgid "Menu"
 msgstr "Trình đơn"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
-#: main.lang:531
+#: main.lang:541
 msgid "Committed to you, your privacy and an open Web"
 msgstr "Vì bạn, vì tự do cá nhân và vì một nền tảng Web mở"
 
 #. Common title used in Fx 10 pages
-#: main.lang:536
+#: main.lang:546
 msgid "Choose Independent"
 msgstr ""
 
 #. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 #. The '#ChooseIndependent' hashtag should not be translated.
-#: main.lang:543
+#: main.lang:553
 msgid ""
 "Keep the passion for a free and open Internet burning bright! "
 "#ChooseIndependent. Choose Firefox:"
 msgstr ""
 
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
-#: main.lang:549
+#: main.lang:559
 msgid "Please turn on JavaScript to display this page correctly."
 msgstr ""
 
 #. Used as link to /firefox/desktop in footers on some pages
-#: main.lang:554
+#: main.lang:564
 msgid "Firefox Features"
 msgstr "Tính năng của Firefox"
 
 #. Used as link to SUMO in footers on some pages
-#: main.lang:559
+#: main.lang:569
 msgid "Firefox Help"
 msgstr "Hỗ trợ Firefox"
 
-#: main.lang:563
+#: main.lang:573
 msgid "January"
 msgstr ""
 
-#: main.lang:567
+#: main.lang:577
 msgid "February"
 msgstr ""
 
-#: main.lang:571
+#: main.lang:581
 msgid "March"
 msgstr ""
 
-#: main.lang:575
+#: main.lang:585
 msgid "April"
 msgstr ""
 
-#: main.lang:579
+#: main.lang:589
 msgid "May"
 msgstr ""
 
-#: main.lang:583
+#: main.lang:593
 msgid "June"
 msgstr ""
 
-#: main.lang:587
+#: main.lang:597
 msgid "July"
 msgstr ""
 
-#: main.lang:591
+#: main.lang:601
 msgid "August"
 msgstr ""
 
-#: main.lang:595
+#: main.lang:605
 msgid "September"
 msgstr ""
 
-#: main.lang:599
+#: main.lang:609
 msgid "October"
 msgstr ""
 
-#: main.lang:603
+#: main.lang:613
 msgid "November"
 msgstr ""
 
-#: main.lang:607
+#: main.lang:617
 msgid "December"
 msgstr ""
 
-#: main.lang:611
+#: main.lang:621
 msgid "<abbr>Jan</abbr>"
 msgstr ""
 
-#: main.lang:615
+#: main.lang:625
 msgid "<abbr>Feb</abbr>"
 msgstr ""
 
-#: main.lang:619
+#: main.lang:629
 msgid "<abbr>Mar</abbr>"
 msgstr ""
 
-#: main.lang:623
+#: main.lang:633
 msgid "<abbr>Apr</abbr>"
 msgstr ""
 
-#: main.lang:627
+#: main.lang:637
 msgid "<abbr>May</abbr>"
 msgstr ""
 
-#: main.lang:631
+#: main.lang:641
 msgid "<abbr>Jun</abbr>"
 msgstr ""
 
-#: main.lang:635
+#: main.lang:645
 msgid "<abbr>Jul</abbr>"
 msgstr ""
 
-#: main.lang:639
+#: main.lang:649
 msgid "<abbr>Aug</abbr>"
 msgstr ""
 
-#: main.lang:643
+#: main.lang:653
 msgid "<abbr>Sep</abbr>"
 msgstr ""
 
-#: main.lang:647
+#: main.lang:657
 msgid "<abbr>Oct</abbr>"
 msgstr ""
 
-#: main.lang:651
+#: main.lang:661
 msgid "<abbr>Nov</abbr>"
 msgstr ""
 
-#: main.lang:655
+#: main.lang:665
 msgid "<abbr>Dec</abbr>"
 msgstr ""
 
 #. Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-#: main.lang:660
+#: main.lang:670
 msgid ""
 "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
 msgstr ""
