@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-26 13:08+0000\n"
-"PO-Revision-Date: 2015-03-04 20:03+0000\n"
+"PO-Revision-Date: 2015-03-04 20:58+0000\n"
 "Last-Translator: Rimas <rq@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lt\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1425499384.000000\n"
+"X-POOTLE-MTIME: 1425502706.000000\n"
 
 #. # fx10_independent ##
 #. # fundraising_2014 ##
@@ -39,7 +39,7 @@ msgstr "Bendruomenė"
 #. This is used as a link to dismiss the video overlay and continue to mozilla.org website
 #: mozorg/home/index.lang:24
 msgid "Continue to mozilla.org"
-msgstr ""
+msgstr "Eiti į mozilla.org"
 
 #. # TAG: hello_promo
 #: mozorg/home/index.lang:29
@@ -109,7 +109,7 @@ msgstr "Mokykite saityno pagrindų"
 
 #: mozorg/home/index.lang:92
 msgid "Let’s build a Web that’s open <br>and made by everyone."
-msgstr ""
+msgstr "Kurkime saityną kartu –<br> atvirą ir su kiekvieno indėliu."
 
 #: mozorg/home/index.lang:96
 msgid "Build an app <br>in seconds"
@@ -185,19 +185,20 @@ msgstr "Oficiali „Mozillos“ atributika jau čia!"
 msgid ""
 "Merch with a mission. <br>Products with a purpose. <br>Goods that do good."
 msgstr ""
+"Aprėdai su misija.<br> Produktai su vizija.<br> Gėrybės, skatinančios gerovę."
 
 #. This string is currently unused (tile will link to Mozilla Gear Store)
 #: mozorg/home/index.lang:171
 msgid "Get your Mozilla gear"
-msgstr ""
+msgstr "Įsigykite „Mozillos“ atributikos"
 
 #: mozorg/home/index.lang:175
 msgid "Help Mozilla users"
-msgstr ""
+msgstr "Padėkite „Mozillos“ naudotojams"
 
 #: mozorg/home/index.lang:179
 msgid "Help millions <br>get the most from their <br>favorite browser."
-msgstr ""
+msgstr "Padėkite milijonams geriau išnaudoti jų mėgstamas programas."
 
 #: mozorg/home/index.lang:183
 msgid "Join our support team"
@@ -205,14 +206,13 @@ msgstr "Prisijunkite prie mūsų pagalbos komandos"
 
 #. Used in Twitter feed
 #: mozorg/home/index.lang:188
-#, fuzzy
 msgid "Reply"
-msgstr "Kartoti"
+msgstr "Atsakyti"
 
 #. Used in Twitter feed
 #: mozorg/home/index.lang:193
 msgid "Retweet"
-msgstr ""
+msgstr "Atkartoti"
 
 #. <strong> tags below are for visual formatting only.
 #: mozorg/home/index.lang:198
@@ -220,68 +220,76 @@ msgid ""
 "Committed to <strong>you, your privacy</strong> and an <strong>open Web</"
 "strong>"
 msgstr ""
+"Pašvęsta <strong>jums, jūsų privatumui</strong> ir <strong>atvirajam "
+"saitynui</strong>"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/home/index.lang:203
 msgid "active Mozillians <br>worldwide"
-msgstr ""
+msgstr "– tiek pasaulyje yra<br> aktyvių moziliečių"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/home/index.lang:208
 msgid "upcoming events <br>around the globe"
-msgstr ""
+msgstr "– tiek planuojama<br> surengti renginių"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/home/index.lang:213
 msgid "languages and counting, <br>on every continent"
-msgstr ""
+msgstr "– tai augantis skaičius kalbų,<br> kuriomis mes bendraujame"
 
 #: mozorg/home/index.lang:217
 msgid "Get Involved with Mozilla today"
-msgstr ""
+msgstr "Įsitraukite į „Mozillos“ veiklą jau šiandien"
 
 #: mozorg/home/index.lang:221
 msgid "Upcoming events"
-msgstr ""
+msgstr "Netrukus vyksiantys renginiai"
 
 #: mozorg/home/index.lang:225
 msgid "Next event"
-msgstr ""
+msgstr "Artimiausias renginys"
 
 #: mozorg/home/index.lang:229
 msgid "See all events"
-msgstr ""
+msgstr "Pamatykite visų renginių sąrašą"
 
 #: mozorg/home/index.lang:233
 msgid ""
 "Compare prices, check the weather, listen to music, send a tweet and more "
 "right from Firefox."
 msgstr ""
+"Lyginkite kainas, žinokite orų prognozes, klausykitės muzikos, bendraukite – "
+"visa tai galite atlikti tiesiai „Firefox“ naršyklės lange."
 
 #: mozorg/home/index.lang:237
 msgid "Careers"
-msgstr "Karjeros galimybės"
+msgstr "Karjera"
 
 #: mozorg/home/index.lang:241
 msgid ""
 "Learn about the benefits of working at Mozilla and view open positions "
 "around the world."
 msgstr ""
+"Sužinokite apie darbo „Mozilloje“ privalumus ir susipažinkite su šiuo metu "
+"visame pasaulyje siūlomomis pozicijomis."
 
 #: mozorg/home/index.lang:245
 msgid ""
 "Get answers to your questions about Firefox and all Mozilla products from "
 "our support team."
 msgstr ""
+"Turite klausimų apie „Firefox“ ir kitus „Mozillos“ produktus? Mūsų "
+"pagalbininkai visuomet pasirengę į juos atsakyti."
 
 #: mozorg/home/index.lang:249
 msgid "Discover more"
-msgstr ""
+msgstr "Atraskite dar daugiau"
 
 #. # TAG: fx10_independent
 #: mozorg/home/index.lang:254
 msgid "Help us celebrate 10 years of Firefox."
-msgstr ""
+msgstr "Švęskite „Firefox“ dešimtmetį kartu su mumis."
 
 #, fuzzy
 #~ msgid "Watch our video"
