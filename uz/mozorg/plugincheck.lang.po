@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-27 09:06+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2014-12-20 16:10+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,15 +11,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1419091851.000000\n"
 
-#. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
-#. # URL: https://www-dev.allizom.org/%LOCALE%/plugincheck
-#. # java_notice ##
-#. # plugin_disable_warning ##
-#. # plugin_updated_content ##
-#. # share_cta ##
 #. Page <title> tag
 #: mozorg/plugincheck.lang:10
 msgid "Plugin Check &amp; Updates"
@@ -71,7 +65,6 @@ msgstr ""
 "Plaginlarni yangilab turish \"Firefox\"ni tez va xavfsiz ishlashini "
 "ta’minlaydi."
 
-#. # TAG: share_cta
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 #: mozorg/plugincheck.lang:60
 msgid ""
@@ -83,7 +76,6 @@ msgstr ""
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "Siz \"Firefox\"ning eski versiyasidan foydalaayotganga o‘xshaysiz."
 
-#. # TAG: java_notice
 #: mozorg/plugincheck.lang:69
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
@@ -92,7 +84,6 @@ msgstr ""
 "Biz Java plaginning joriy versiyalarida muammoni anqilashdan xabardormiz va "
 "ular zararli sifatida xabar berilmayapti."
 
-#. # TAG: java_notice
 #: mozorg/plugincheck.lang:74
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
@@ -260,7 +251,6 @@ msgstr "\"Firefox\"da:"
 msgid "Open the Tools menu."
 msgstr "\"Asboblar\" menyusini oching"
 
-#. # TAG: plugin_updated_content
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:205
 msgid "Open the <span class=\"menu\">menu</span>."
@@ -274,7 +264,6 @@ msgstr "Qo‘shimcha dasturlarni tanlang."
 msgid "Click the plugins tab."
 msgstr "Plaginlar ichki oynasiga bosing"
 
-#. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:218
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr "O‘chirishni xohlagan plaginga yaqin paydo bo‘luvchi ro‘yxatga bosing."
@@ -283,7 +272,6 @@ msgstr "O‘chirishni xohlagan plaginga yaqin paydo bo‘luvchi ro‘yxatga bosi
 msgid "Click on a plugin in the list."
 msgstr "Ro‘yxatdagi plaginga bosing."
 
-#. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:227
 msgid "Select \"Never Activate\" from the available choices."
 msgstr "Mavjud tanlovlardan \"Hech qachon faollashtirilmasin\"ni tanlang."
@@ -302,7 +290,6 @@ msgstr ""
 "ishlamasligiga sabab bo‘lishi mumkin. Masalan, agar siz Flash plaginini "
 "o‘chirib qo‘ysangiz, \"Youtube\"dagi videolarni ko‘ra olmaysiz."
 
-#. # TAG: plugin_disable_warning
 #: mozorg/plugincheck.lang:240
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "

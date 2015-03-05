@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-27 09:06+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2014-11-04 10:16+0000\n"
 "Last-Translator: Arun Kumar <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,15 +12,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1415096201.000000\n"
 
-#. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
-#. # URL: https://www-dev.allizom.org/%LOCALE%/plugincheck
-#. # java_notice ##
-#. # plugin_disable_warning ##
-#. # plugin_updated_content ##
-#. # share_cta ##
 #. Page <title> tag
 #: mozorg/plugincheck.lang:10
 msgid "Plugin Check &amp; Updates"
@@ -72,7 +66,6 @@ msgstr ""
 "உங்கள் செருகிகளை புதுப்பித்து வைப்பது Firefox ஐப் பாதுகாப்பாகவும் நல்ல முறையில் இயக்க "
 "உதவுகிறது."
 
-#. # TAG: share_cta
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 #: mozorg/plugincheck.lang:60
 msgid ""
@@ -84,14 +77,12 @@ msgstr ""
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "உங்களைப் பார்ப்பதற்கு பயர்பாக்ஸின் பழைய பதிப்பை பயன்படுத்துவது பொலே இருக்கிறது."
 
-#. # TAG: java_notice
 #: mozorg/plugincheck.lang:69
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
 msgstr ""
 
-#. # TAG: java_notice
 #: mozorg/plugincheck.lang:74
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
@@ -255,7 +246,6 @@ msgstr "Firefox இல்:"
 msgid "Open the Tools menu."
 msgstr "கருவிகள் மெனுவைத் திறக்கவும்."
 
-#. # TAG: plugin_updated_content
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:205
 msgid "Open the <span class=\"menu\">menu</span>."
@@ -271,7 +261,6 @@ msgstr "துணை நிரல்கள் என்பதைத் தேர
 msgid "Click the plugins tab."
 msgstr "செருகு நிரல்கள் தத்தலை சொடுக்கவும்."
 
-#. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:218
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr ""
@@ -280,7 +269,6 @@ msgstr ""
 msgid "Click on a plugin in the list."
 msgstr "பட்டியலில் இருந்து ஒரு செருகு நிரலை சொடுக்கவும்."
 
-#. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:227
 msgid "Select \"Never Activate\" from the available choices."
 msgstr ""
@@ -299,7 +287,6 @@ msgstr ""
 "போகக்கூடும்,. எடுத்துக்காட்டுக்கு, நீங்கள் Flash ஐ முடக்கினால், பிரபல வீடியோ ஸ்ட்ரீமிங் "
 "தளங்களில் உள்ள வீடியோக்களை நீங்கள் காண முடியாது."
 
-#. # TAG: plugin_disable_warning
 #: mozorg/plugincheck.lang:240
 #, fuzzy
 msgid ""

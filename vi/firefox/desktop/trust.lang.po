@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-27 09:06+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2014-04-24 13:36+0000\n"
 "Last-Translator: Trung <ndtrung4419@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,12 +12,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1398346598.000000\n"
 
-#. # NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
-#. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/desktop/trust/
-#. # forget_button ##
 #. <title> tag
 #: firefox/desktop/trust.lang:7
 msgid ""
@@ -111,24 +108,20 @@ msgstr "Bật tính năng này để bảo vệ lược sử duyệt web của b
 msgid "Learn how to open a private window"
 msgstr "Tìm hiểu cách mở một cửa sổ ẩn danh"
 
-#. # TAG: forget_button
 #. Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 #: firefox/desktop/trust.lang:81
 msgid "Forget Button"
 msgstr ""
 
-#. # TAG: forget_button
 #: firefox/desktop/trust.lang:86
 msgid "Remove browsing information from your computer after the fact."
 msgstr ""
 
-#. # TAG: forget_button
 #: firefox/desktop/trust.lang:91
 msgid "Use it when you’ve visited a site that you don’t want in your history."
 msgstr ""
 
-#. # TAG: forget_button
 #: firefox/desktop/trust.lang:96
 msgid "Add the Forget Button to your toolbar"
 msgstr ""

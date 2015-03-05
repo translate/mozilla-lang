@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-27 09:06+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2014-11-08 23:00+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,15 +13,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1415487655.000000\n"
 
-#. # NOTE: url is https://www-dev.allizom.org/firefox/channel/
-#. # NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
-#. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/channel/
-#. # channel_dev_edition ##
-#. # telemetry_notice ##
-#. # TAG: channel_dev_edition
 #. This is the string for the <title> tag on the page.
 #: firefox/channel.lang:10
 msgid ""
@@ -36,7 +30,6 @@ msgstr ""
 msgid "Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox"
 msgstr "Ześěgniśo Firefox Aurora abo Beta a pomagajśo pśiducy Firefox póstajiś"
 
-#. # TAG: channel_dev_edition
 #: firefox/channel.lang:20
 msgid ""
 "Download and test Firefox future releases. Experience the newest innovations "
@@ -50,7 +43,6 @@ msgstr ""
 msgid "The latest features in a more stable environment"
 msgstr "Nejnowše funkcije w stabilnjejšej wokolinje"
 
-#. # TAG: telemetry_notice
 #: firefox/channel.lang:30
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
@@ -67,7 +59,6 @@ msgstr ""
 "<a href=\"%(feedback)s\">Pósćelśo nam komentar</a>, aby nam pomagał, kóńcne "
 "dokradne nastajenja za wugbaśe a funkcionalnosć w stabilnej wokolinje stajiś."
 
-#. # TAG: channel_dev_edition
 #: firefox/channel.lang:39
 msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
@@ -84,7 +75,6 @@ msgstr ""
 "Firefox Aurora sćelo awtomatiski komentary do Mozilla. <a href=\"%(link)s"
 "\">Dalšne informacije</a>."
 
-#. # TAG: channel_dev_edition
 #: firefox/channel.lang:48
 msgid "Built for those who build the Web"
 msgstr "Za tych napórany, kótarež twarje web"
@@ -94,7 +84,6 @@ msgstr "Za tych napórany, kótarež twarje web"
 msgid "The newest innovations in an experimental environment"
 msgstr "Nejnowše inowacije w eksperimentelnej wokolinje"
 
-#. # TAG: telemetry_notice
 #: firefox/channel.lang:58
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="

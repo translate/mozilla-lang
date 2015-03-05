@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-27 09:06+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2014-04-27 18:35+0000\n"
 "Last-Translator: Trung <ndtrung4419@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,15 +12,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1398623703.000000\n"
 
-#. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
-#. # URL: https://www-dev.allizom.org/%LOCALE%/plugincheck
-#. # java_notice ##
-#. # plugin_disable_warning ##
-#. # plugin_updated_content ##
-#. # share_cta ##
 #. Page <title> tag
 #: mozorg/plugincheck.lang:10
 msgid "Plugin Check &amp; Updates"
@@ -72,7 +66,6 @@ msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
 "Giữ các plugin của bạn được cập nhật giúp Firefox chạy an toàn và mượt."
 
-#. # TAG: share_cta
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 #: mozorg/plugincheck.lang:60
 msgid ""
@@ -84,7 +77,6 @@ msgstr ""
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "Có vẻ như bạn đang sử dụng phiên bản Firefox cũ."
 
-#. # TAG: java_notice
 #: mozorg/plugincheck.lang:69
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
@@ -93,7 +85,6 @@ msgstr ""
 "Chúng tôi nhận thấy có một vấn đề khi đang xác định các phiên bản hiện tại "
 "của Java plugin và báo cáo nhầm chúng như là nguy cơ."
 
-#. # TAG: java_notice
 #: mozorg/plugincheck.lang:74
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
@@ -260,7 +251,6 @@ msgstr "Trong Firefox:"
 msgid "Open the Tools menu."
 msgstr "Mở trình đơn Công cụ."
 
-#. # TAG: plugin_updated_content
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:205
 msgid "Open the <span class=\"menu\">menu</span>."
@@ -276,7 +266,6 @@ msgstr "Chọn add-on."
 msgid "Click the plugins tab."
 msgstr "Nhấn vào thẻ plugin."
 
-#. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:218
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr ""
@@ -285,7 +274,6 @@ msgstr ""
 msgid "Click on a plugin in the list."
 msgstr "Nhấn vào một plugin trên danh sách."
 
-#. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:227
 msgid "Select \"Never Activate\" from the available choices."
 msgstr ""
@@ -304,7 +292,6 @@ msgstr ""
 "một số việc. Ví dụ, nếu bạn vô hiệu hóa Flash, bạn sẽ không thể xem các "
 "video trên YouTube."
 
-#. # TAG: plugin_disable_warning
 #: mozorg/plugincheck.lang:240
 #, fuzzy
 msgid ""

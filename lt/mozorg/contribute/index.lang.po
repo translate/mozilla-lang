@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-03 12:06+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2015-03-01 08:06+0000\n"
 "Last-Translator: Rimas <rq@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,11 +13,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1425197178.000000\n"
 
-#. # NOTE: Demo server available at https://www-dev.allizom.org/contribute
-#. # URL: https://www-dev.allizom.org/%LOCALE%/contribute
 #. Used for HTML title attribute
 #: mozorg/contribute/index.lang:5
 msgid "Volunteer Opportunities at Mozilla"
@@ -57,23 +55,27 @@ msgid "I live in&hellip;"
 msgstr ""
 
 #: mozorg/contribute/index.lang:42
+#, fuzzy
 msgid "Volunteer with Mozilla!"
-msgstr ""
+msgstr "Savanoriaukite „Mozilloje“"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:47
+#, fuzzy
 msgid "active Mozillians worldwide"
-msgstr ""
+msgstr "– tiek pasaulyje yra<br> aktyvių moziliečių"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:52
+#, fuzzy
 msgid "upcoming events around the globe"
-msgstr ""
+msgstr "– tiek renginių<br> vyks netrukus"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 #: mozorg/contribute/index.lang:57
+#, fuzzy
 msgid "languages and counting, on every continent"
-msgstr ""
+msgstr "– tai augantis skaičius kalbų,<br> kuriomis mes bendraujame"
 
 #: mozorg/contribute/index.lang:61
 msgid "Join a global community of game-changers."
@@ -169,7 +171,7 @@ msgstr ""
 
 #: mozorg/contribute/index.lang:148
 msgid "Donate to Mozilla"
-msgstr ""
+msgstr "Paaukokite „Mozillai“"
 
 #: mozorg/contribute/index.lang:152
 msgid "Read our Manifesto"
@@ -184,12 +186,13 @@ msgid "Follow us on Twitter"
 msgstr ""
 
 #: mozorg/contribute/index.lang:164
+#, fuzzy
 msgid "Upcoming event"
-msgstr ""
+msgstr "Netrukus vyksiantys renginiai"
 
 #: mozorg/contribute/index.lang:168
 msgid "See all events"
-msgstr ""
+msgstr "Pamatykite visų renginių sąrašą"
 
 #: mozorg/contribute/index.lang:172
 msgid "Communicate"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-19 15:00+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2014-08-31 13:18+0000\n"
 "Last-Translator: Mahrazi Mohd Kamal <mahrazi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,16 +12,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1409491095.000000\n"
 
-#. # promo_lightbeam ##
-#. # promo_new_mdn ##
-#. # promo_webmaker ##
-#. # promo_webwewant ##
-#. # promo_fxdesktop ##
-#. # promo_sumo ##
-#. # NOTE: demo server for home page is https://www-dev.allizom.org
 #: mozorg/home.lang:10
 msgid "Home of the Mozilla Project"
 msgstr "Laman utama daripada Projek Mozilla"
@@ -177,19 +170,16 @@ msgstr ""
 "didapati dalam 70 lebih bahasa. <a rel=\"external\" href=\"%(link_l10n)s"
 "\">Bantu dalam menterjemah ke bahasa anda</a>."
 
-#. # TAG: promo_lightbeam
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:141
 msgid "<i>Watch</i> the watchers"
 msgstr "<i>Awasi</i> si permerhati"
 
-#. # TAG: promo_lightbeam
 #. Lightbeam promo
 #: mozorg/home.lang:147
 msgid "See who’s watching you online"
 msgstr "Lihat siapa yang memerhati anda dalam talian"
 
-#. # TAG: promo_lightbeam
 #. Lightbeam promo
 #: mozorg/home.lang:153
 msgid ""
@@ -199,24 +189,20 @@ msgstr ""
 "Sinari cahaya pada pihak ketiga yang telah mengambil data mengenai aktiviti "
 "dalam talian anda."
 
-#. # TAG: promo_lightbeam
 #: mozorg/home.lang:158
 msgid "Install the Lightbeam add-on"
 msgstr "Pasang addon Lightbeam"
 
-#. # TAG: promo_webmaker
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:164
 msgid "<i>Learn</i> the Web"
 msgstr "<i>Pelajari</i> Web"
 
-#. # TAG: promo_webmaker
 #. Webmaker promo
 #: mozorg/home.lang:170
 msgid "We teach the Web"
 msgstr "Kami mengajar tentang Web"
 
-#. # TAG: promo_webmaker
 #: mozorg/home.lang:175
 msgid ""
 "Let‘s explore, tinker and create together to build a Web that‘s open and "
@@ -225,24 +211,20 @@ msgstr ""
 "Ayuh jelajahi, bermain dan cipta bersama untuk membangunkan Web yang seharus "
 "terbuka dan dilakukan oleh semua orang."
 
-#. # TAG: promo_webmaker
 #: mozorg/home.lang:180
 msgid "Become a Webmaker"
 msgstr "Sebagai seorang Webmaker"
 
-#. # TAG: promo_new_mdn
 #. New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:186
 msgid "<i>See</i> the new MDN"
 msgstr "<i>Lihat</i> MDN yang baharu"
 
-#. # TAG: promo_new_mdn
 #. New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:192
 msgid "See what’s new <br>for developers"
 msgstr "Lihat apa yang terbaharu <br>untuk pembangun"
 
-#. # TAG: promo_new_mdn
 #. New MDN promo:
 #: mozorg/home.lang:198
 msgid ""
@@ -251,25 +233,21 @@ msgid ""
 msgstr ""
 "Hub komuniti kami untuk dokumen, demo dan sumber lain telah berwajah baru."
 
-#. # TAG: promo_new_mdn
 #. New MDN promo:
 #: mozorg/home.lang:204
 msgid "Visit the Mozilla Developer Network"
 msgstr "Layari Mozilla Developer Network"
 
-#. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #: mozorg/home.lang:210
 msgid "The Web needs you"
 msgstr "Web perlukan anda"
 
-#. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, headline
 #: mozorg/home.lang:216
 msgid "What kind of Web do you want?"
 msgstr "Apakah jenis Web yang anda mahukan?"
 
-#. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, main text
 #: mozorg/home.lang:222
 msgid "Tell us what matters most to you and help shape the future of the Web."
@@ -277,25 +255,21 @@ msgstr ""
 "Beritahu kamu apa perkara yang penting bagi anda dan bantu membentuk masa "
 "depan daripada Web."
 
-#. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #: mozorg/home.lang:228
 msgid "Share your vision"
 msgstr "Kongsi visi anda"
 
-#. # TAG: promo_fxdesktop
 #. This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
 #: mozorg/home.lang:234
 msgid "<i>Try the best</i> Firefox yet"
 msgstr "<i>Cuba yang terbaik</i> daripada Firefox"
 
-#. # TAG: promo_fxdesktop
 #. This is the headline seen when the panel is open so it can be longer than the panel label.
 #: mozorg/home.lang:240
 msgid "Try the best Firefox yet"
 msgstr "Cuba Firefox yang paling terbaik"
 
-#. # TAG: promo_fxdesktop
 #: mozorg/home.lang:245
 msgid ""
 "Learn more about the free desktop browser that’s committed to you, your "
@@ -304,7 +278,6 @@ msgstr ""
 "Pelajari lebih lagi tentang pelayar desktop bebas yang komited kepada anda, "
 "privasi anda dan Web terbuka."
 
-#. # TAG: promo_fxdesktop
 #: mozorg/home.lang:250
 msgid "See what’s new"
 msgstr "Lihat apa yang baru"
@@ -335,18 +308,15 @@ msgstr ""
 msgid "Learn about events near you"
 msgstr "Pelajari tentang acara berhampiran anda"
 
-#. # TAG: promo_sumo
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:278
 msgid "<i>Help</i> Mozilla users"
 msgstr "<i>Bantu</i> pengguna Mozilla"
 
-#. # TAG: promo_sumo
 #: mozorg/home.lang:283
 msgid "We need your help"
 msgstr "Kami perlukan bantuan anda"
 
-#. # TAG: promo_sumo
 #: mozorg/home.lang:288
 msgid ""
 "Learn about the ways you can help millions of users get the most out of "
@@ -355,7 +325,6 @@ msgstr ""
 "Pelajari tentang bagaimana anda boleh membantu jutaan pengguna mendapatkan "
 "yang terbaik antara pelayar kegemaran mereka."
 
-#. # TAG: promo_sumo
 #: mozorg/home.lang:293
 msgid "Join our support team"
 msgstr "Sertai pasukan sokongan kami"

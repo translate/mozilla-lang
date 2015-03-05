@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-23 19:07+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2015-03-05 06:50+0000\n"
 "Last-Translator: xh-ZA42_Beauty <nomonde.mantambo@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,26 +12,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1425538231.000000\n"
 
-#. # firefox_sync_non_fx ##
-#. # firefox_sync_redesign ##
-#. # ios_announce ##
-#. # sync_new_markup ##
-#. # NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
-#. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/sync/
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:10
 msgid "Keep your Firefox in sync"
 msgstr "Gcina iFirefox yakho kungqamaniso"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:15
 msgid "Ready, Set, Sync"
 msgstr "Ulungile, Seta, Sayinka"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:20
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
@@ -39,12 +30,10 @@ msgstr ""
 "Usayinelwe ukungena nokulungela ukufikelela <em> yakho <em> iFirefox "
 "naphina, naninina."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:25
 msgid "Take your Web with you"
 msgstr "Phatha iWebhu yakho apho ukhoyo"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:30
 msgid ""
 "Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
@@ -53,23 +42,19 @@ msgstr ""
 "Sayinka iFirefox naninina  ufuna ukufikelela kwiibhukhimakhi, iiphasiwedi, "
 "ithebhu nangaphezulu nakwesiphi ismartphone, ithablet okanye ikhompuyutha."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:35
 msgid "It looks like you’re running an older version of Firefox."
 msgstr "Ingathi usebenzisa inguqulelo endalana yeFirefox."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:40
 msgid "The new version of Sync only works with the latest version of Firefox"
 msgstr ""
 "Inguqulelo entsha yeSayinki isebenza kuphela nengququlelo yangoku yeFirefox"
 
-#. # TAG: ios_announce
 #: firefox/sync.lang:45
 msgid "Soon you’ll be able to use Sync on your iOS device"
 msgstr "Kwakamsinya uzokwazi ukusebenzisa uNgqamaniso kwisixhobo sakho se-iOS"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:50
 msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
@@ -78,7 +63,6 @@ msgstr ""
 "ISayinki yenye nje yeefitsha eziphakamileyo oyakuyifumana kuphela "
 "kwiFirefox. Zifumanele konke!"
 
-#. # TAG: firefox_sync_non_fx
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 #: firefox/sync.lang:56
 msgid "Sync is just one of the great features you’ll only get with Firefox."
@@ -86,32 +70,26 @@ msgstr ""
 "Ungqamaniso yenye nje yeefitsha eziphakamileyo oyakuyifumana kuphela kwi-"
 "Firefox."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:61
 msgid "Download Firefox for Android"
 msgstr "Khuphela iFirefox ye-Android"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:66
 msgid "Get started with Sync"
 msgstr "Qalisa ngongqamaniso"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:71
 msgid "Update your Firefox"
 msgstr "Hlaziya iFirefox yakho"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:76
 msgid "Download Firefox"
 msgstr "Khuphela iFirefox"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:81
 msgid "Get started with Sync in four easy steps:"
 msgstr "Qalisa ukuSayinka ngalemigaqo mine ilula:"
 
-#. # TAG: firefox_sync_redesign
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 #: firefox/sync.lang:88
@@ -122,13 +100,11 @@ msgstr ""
 "Vula <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">ienyu</a> "
 "phezulu ekunene kweFirefox uze ukhethe \"<strong> Sayina kuSayinka.</strong>”"
 
-#. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:94
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
 msgstr "Cofa “<strong>Qalisa</strong>” kwithebhu evulekayo."
 
-#. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:100
 msgid ""
@@ -138,7 +114,6 @@ msgstr ""
 "Faka idilesi yeimeyile nepasiwedi “<strong>ukuyila iakhawunti yeFirefox.</"
 "strong>”"
 
-#. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:106
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
@@ -146,7 +121,6 @@ msgstr ""
 "Cofa “<strong>okulandelayo</strong>” ukufumana ingqinisekiso ethunyelwe kwi-"
 "imeyile yakho."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:111
 msgid ""
 "After you check your email and click the verification link, you’ll be all "
@@ -156,23 +130,19 @@ msgstr ""
 "ukulungele ukuqala! Iirefox iyakukusayinka ngokwayo emfihlakalweni ukususela "
 "ngoko."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:116
 msgid "Get more detailed instructions."
 msgstr "Fumana imiyalelo ebanzi."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:121
 msgid "Using an older version of Sync?"
 msgstr "Usebenzisa uhlelo oludala lokuNgqamanisa?"
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:127
 msgid "How to set up Sync in five easy steps:"
 msgstr "Uyiseta njani isayinke ngemigaqo emihlanu elula:"
 
-#. # TAG: firefox_sync_redesign
 #. <strong> tags below used for font color formatting.
 #. This string is displayed on Android devices
 #: firefox/sync.lang:134
@@ -183,7 +153,6 @@ msgstr ""
 "Betha i <strong> Menyu <strong> qhosha (ngaphantsi kweskrini okanye ekoneni "
 "yebhrawuza esekunene phezulu)."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:140
 msgid ""
@@ -193,14 +162,12 @@ msgstr ""
 "Khetha <strong> iisethingi <strong> (kungafuneka ubethe <strong> ngakumbi "
 "<strong> kuqala)."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:146
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
 msgstr ""
 "Betha <strong> iSayinki <strong> uze wandule <strong> Ukuqalisa <strong>."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:152
 msgid ""
@@ -209,13 +176,11 @@ msgstr ""
 "I <strong> Idala ikhasi leAkhawunti yeFirefox <strong> ivuleke kwithebhu "
 "entsha."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:158
 msgid "Fill out the form and click <strong>Next</strong>."
 msgstr "Gcwalisa ifomu uze ucofe <strong> kulandele <strong>."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:164
 msgid ""
@@ -227,12 +192,10 @@ msgstr ""
 "uyakube ukulungele ukuqhubeka! Ungalibali ukuqhagamshelana nazo zonke "
 "iidivayisi zakho ukufumana okuninzi ngeSayinki."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:169
 msgid "Sync a little. Sync a lot."
 msgstr "Sayinka kancinci. Sayinka kakhulu."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:174
 msgid ""
 "You choose what parts of your Firefox you want to sync and where you want to "
@@ -244,12 +207,10 @@ msgstr ""
 "lwemihla ngemihla. Fikelela kwiibhukhimakhi zakho emsebenzini. Nantonina, "
 "naninina, naphina."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:179
 msgid "At home"
 msgstr "Ekhaya"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:184
 msgid ""
 "Move from your desk to the couch without skipping a beat. Access your open "
@@ -260,12 +221,10 @@ msgstr ""
 "zakho ezivulekileyo kwismartphone sakho, okanye uqhubeleke ubhrawuza "
 "iibhukhimakhi zakho kanye kwithablet yakho."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:189
 msgid "At work"
 msgstr "Emsebenzini"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:194
 msgid ""
 "Stay connected to all of your important information. Sync the passwords and "
@@ -276,12 +235,10 @@ msgstr ""
 "iphasiwedi neebhukhimakhi onokufuna ukufikelela kuzo naninina. Njenge "
 "Firefox, ikhuselekile kangangoko."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:199
 msgid "On the go"
 msgstr "Eluhambeni"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:204
 msgid ""
 "Keep up with your favorite sites, or finish that story you started at home — "
@@ -290,17 +247,14 @@ msgstr ""
 "Zigcine usemgceni nesayithi zakho ozithandayo, okanye gqiba elabali "
 "uliqalileyo ekhaya - naphina uyakhona. NgeSayinki, akuzange kubelula kangaka."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:209
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
 msgstr "Yiba ne <b> Android smartphone <b> okanye <b> ithablet <b>?"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:214
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
 msgstr "DOWNLOAD FIREFOX FOR ANDROID"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:219
 msgid ""
 "To get the full Sync experience, take your Web with you everywhere you use "
@@ -325,7 +279,6 @@ msgstr ""
 msgid "Get started with Sync. It’s fast, safe and easy:"
 msgstr "Qalisa ngongqamaniso. Iyakhawuleza, ikhuselekile kwaye ilula:"
 
-#. # TAG: sync_new_markup
 #. Used in old page, do not remove
 #: firefox/sync.lang:235
 msgid ""

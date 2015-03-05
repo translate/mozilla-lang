@@ -4,21 +4,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-27 09:06+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 
-#. # NOTE: url is https://www-dev.allizom.org/firefox/channel/
-#. # NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
-#. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/channel/
-#. # channel_dev_edition ##
-#. # telemetry_notice ##
-#. # TAG: channel_dev_edition
 #. This is the string for the <title> tag on the page.
 #: firefox/channel.lang:10
 #, fuzzy
@@ -36,7 +30,6 @@ msgstr ""
 "Firefox Aurora veya Beta'yı indirin, Firefox'un geleceğini belirlememize "
 "yardım edin"
 
-#. # TAG: channel_dev_edition
 #: firefox/channel.lang:20
 #, fuzzy
 msgid ""
@@ -51,7 +44,6 @@ msgstr ""
 msgid "The latest features in a more stable environment"
 msgstr "En yeni özellikleri daha güvenilir bir ortamda test edin"
 
-#. # TAG: telemetry_notice
 #: firefox/channel.lang:30
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
@@ -68,7 +60,6 @@ msgstr ""
 "En son performans ve işlevsellik güncellemelerini güvenilir bir ortamda test "
 "ederek <a href=\"%(feedback)s\">geri bildiriminizi paylaşın</a>."
 
-#. # TAG: channel_dev_edition
 #: firefox/channel.lang:39
 msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
@@ -83,7 +74,6 @@ msgstr ""
 "Firefox Aurora otomatik olarak Mozilla'ya geri bildirim gönderir. <a href="
 "\"%(link)s\">Daha fazla bilgi alın</a>."
 
-#. # TAG: channel_dev_edition
 #: firefox/channel.lang:48
 msgid "Built for those who build the Web"
 msgstr ""
@@ -93,7 +83,6 @@ msgstr ""
 msgid "The newest innovations in an experimental environment"
 msgstr "Deneysel bir ortamda en güncel yeniliklerin tadına bakın"
 
-#. # TAG: telemetry_notice
 #: firefox/channel.lang:58
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="

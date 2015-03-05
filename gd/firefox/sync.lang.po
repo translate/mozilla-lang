@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-23 19:07+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2015-02-26 14:48+0000\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: none\n"
@@ -13,26 +13,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1424962135.000000\n"
 
-#. # firefox_sync_non_fx ##
-#. # firefox_sync_redesign ##
-#. # ios_announce ##
-#. # sync_new_markup ##
-#. # NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
-#. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/sync/
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:10
 msgid "Keep your Firefox in sync"
 msgstr "Cum am Firefox agad sioncronaichte"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:15
 msgid "Ready, Set, Sync"
 msgstr "Deiseil, deònach, dèan sioncronachadh"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:20
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
@@ -40,12 +31,10 @@ msgstr ""
 "Rinn thu clàradh agus gheibh thu greim air am Firefox <em>agad fhèin</em> "
 "àite sam bith a-nis."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:25
 msgid "Take your Web with you"
 msgstr "Thoir leat an lìon"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:30
 msgid ""
 "Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
@@ -55,26 +44,22 @@ msgstr ""
 "faire 's tabaichean agad o àite sam bith, ge b' ann air fòn tapaidh, tablaid "
 "no coimpiutair."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:35
 msgid "It looks like you’re running an older version of Firefox."
 msgstr "Tha coltas gu bheil thu a' cleachdadh seann-tionndadh de Firefox."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:40
 msgid "The new version of Sync only works with the latest version of Firefox"
 msgstr ""
 "Chan obraich an tionndadh as ùire dhen ghleus sioncronachaidh ach leis an "
 "tionndadh as ùire de Firefox"
 
-#. # TAG: ios_announce
 #: firefox/sync.lang:45
 msgid "Soon you’ll be able to use Sync on your iOS device"
 msgstr ""
 "Chan fhada gus an urrainn dhut sioncronachadh a dhèanamh air an uidheam iOS "
 "agad"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:50
 msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
@@ -83,7 +68,6 @@ msgstr ""
 "Chan eil san t-sioncronachadh ach aon dhe na gleusan snasail againn ann am "
 "Firefox. Nach fheuch thu iad uile?"
 
-#. # TAG: firefox_sync_non_fx
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 #: firefox/sync.lang:56
 msgid "Sync is just one of the great features you’ll only get with Firefox."
@@ -91,33 +75,27 @@ msgstr ""
 "Chan eil san t-sioncronachadh ach aon dhe na gleusan snasail againn ann am "
 "Firefox."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:61
 msgid "Download Firefox for Android"
 msgstr "Luchdaich a-nuas Firefox airson Android"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:66
 msgid "Get started with Sync"
 msgstr "Toiseach-tòiseachaidh leis an t-sioncronachadh"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:71
 msgid "Update your Firefox"
 msgstr "Ùraich am Firefox agad"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:76
 msgid "Download Firefox"
 msgstr "Luchdaich a-nuas Firefox"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:81
 msgid "Get started with Sync in four easy steps:"
 msgstr ""
 "Toiseach-tòiseachaidh leis an t-sioncronachadh ann an ceithir ceumannan:"
 
-#. # TAG: firefox_sync_redesign
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 #: firefox/sync.lang:88
@@ -129,7 +107,6 @@ msgstr ""
 "\">clàr-taice</a> gu h-àrd ann am Firefox air an taobh deas is tagh "
 "\"<strong>Clàraich a-steach airson sioncronachadh.</strong>\""
 
-#. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:94
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
@@ -137,7 +114,6 @@ msgstr ""
 "Briog air \"<strong>Toiseach-tòiseachaidh</strong>\" anns an taba a "
 "dh'fhosglas."
 
-#. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:100
 msgid ""
@@ -147,14 +123,12 @@ msgstr ""
 "Cuir a-steach seòladh puist-d agus facal-faire is briog air "
 "\"<strong>Cruthaich cunntas Firefox.</strong>\""
 
-#. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:106
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr ""
 "Briog air \"<strong>Air adhart</strong>\" is gheibh thu post-d dearbhaidh."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:111
 msgid ""
 "After you check your email and click the verification link, you’ll be all "
@@ -164,24 +138,20 @@ msgstr ""
 "dearbhaidh, bidh gach rud deiseil! Nì Firefox sioncronachadh sa chùlaibh o "
 "seo a-mach gu fèin-obrachail."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:116
 msgid "Get more detailed instructions."
 msgstr "Faigh stiùireadh nas mionaidiche."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:121
 msgid "Using an older version of Sync?"
 msgstr ""
 "A bheil thu a' cleachdadh tionndadh nas sine dhen ghleus sioncronachaidh?"
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:127
 msgid "How to set up Sync in five easy steps:"
 msgstr "Ma r a shuidhicheas tu an sioncronachadh ann an còig ceumannan:"
 
-#. # TAG: firefox_sync_redesign
 #. <strong> tags below used for font color formatting.
 #. This string is displayed on Android devices
 #: firefox/sync.lang:134
@@ -192,7 +162,6 @@ msgstr ""
 "Thoir gnogag air putan <strong>a' chlàir-thaice</strong> (air an sgrìn gu h-"
 "ìosal no aig barr a' bhrabhsair air an taobh deas)."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:140
 msgid ""
@@ -202,7 +171,6 @@ msgstr ""
 "Tagh <strong>Roghainnean</strong> (tha teans gum bi agad ri gnogag a thoirt "
 "air <strong>Barrachd</strong> an toiseach)."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:146
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
@@ -210,7 +178,6 @@ msgstr ""
 "Thoir gnogag air <strong>Sioncronaich</strong> agus an uairsin "
 "<strong>Toiseach-tòiseachaidh</strong>."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:152
 msgid ""
@@ -219,13 +186,11 @@ msgstr ""
 "Thèid an duilleag <strong>Cruthaich cunntas Firefox ùr</strong> fhosgladh "
 "ann an taba ùr."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:158
 msgid "Fill out the form and click <strong>Next</strong>."
 msgstr "Lìon am foirm is briog air <strong>Air adhart</strong>."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:164
 msgid ""
@@ -237,12 +202,10 @@ msgstr ""
 "dearbhaidh, bidh thu deiseil. Ceangail na h-uidheaman eile agad ris airson "
 "gleus an t-sioncronachaidh a chur gu làn-fheum."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:169
 msgid "Sync a little. Sync a lot."
 msgstr "Sioncronachadh, mòr no beag."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:174
 msgid ""
 "You choose what parts of your Firefox you want to sync and where you want to "
@@ -254,12 +217,10 @@ msgstr ""
 "cothrom air na comharran-lìn agad aig an obair. Rud sam bith, uair sam bith, "
 "àite sam bith."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:179
 msgid "At home"
 msgstr "Aig an taigh"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:184
 msgid ""
 "Move from your desk to the couch without skipping a beat. Access your open "
@@ -269,12 +230,10 @@ msgstr ""
 "O sheòmar gu seòmar gun stadadh sam bith. Na tabaichean fosgailte agad air "
 "an fhòn tapaidh agad no na comharran-lìn agad air an tablaid agad."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:189
 msgid "At work"
 msgstr "Aig an obair"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:194
 msgid ""
 "Stay connected to all of your important information. Sync the passwords and "
@@ -285,12 +244,10 @@ msgstr ""
 "faire 's comharran-lìn a tha feum agad orra fad an t-siubhail. Mar a tha "
 "Firefox, tha e cho sàbhailte 's a dh'fhaodadh a bhith."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:199
 msgid "On the go"
 msgstr "Air an rathad"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:204
 msgid ""
 "Keep up with your favorite sites, or finish that story you started at home — "
@@ -300,17 +257,14 @@ msgstr ""
 "thu aig an taigh — ge be càit a bheil thu. Cha robh e na b' fhasa a-riamh "
 "roimhe."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:209
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
 msgstr "A bheil <b>fòn tapaidh</b> no <b>tablaid Android</b> agad?"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:214
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
 msgstr "LUCHDAICH A-NUAS FIREFOX AIRSON ANDROID"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:219
 msgid ""
 "To get the full Sync experience, take your Web with you everywhere you use "
@@ -335,7 +289,6 @@ msgstr ""
 msgid "Get started with Sync. It’s fast, safe and easy:"
 msgstr "Tòisich air an t-sioncronachadh. Tha e luath, sàbhailte is furasta:"
 
-#. # TAG: sync_new_markup
 #. Used in old page, do not remove
 #: firefox/sync.lang:235
 msgid ""

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-23 19:07+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2015-03-01 07:45+0000\n"
 "Last-Translator: Rimas <rq@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,26 +13,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1425195944.000000\n"
 
-#. # firefox_sync_non_fx ##
-#. # firefox_sync_redesign ##
-#. # ios_announce ##
-#. # sync_new_markup ##
-#. # NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
-#. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/sync/
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:10
 msgid "Keep your Firefox in sync"
 msgstr "Sinchronizuokite savo „Firefox“"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:15
 msgid "Ready, Set, Sync"
 msgstr "Pasiruošti, dėmesio, sinchronizuojam!"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:20
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
@@ -40,12 +31,10 @@ msgstr ""
 "Jūs jau prisijungėte ir esate pasirengę pasiekti <em>savo</em> „Firefox“ bet "
 "kur ir bet kada."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:25
 msgid "Take your Web with you"
 msgstr "Pasiimkite savo saityną kartu"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:30
 msgid ""
 "Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
@@ -55,22 +44,18 @@ msgstr ""
 "slaptažodžius, korteles ir kitką iš bet kurio išmaniojo telefono, planšetės "
 "ar kompiuterio."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:35
 msgid "It looks like you’re running an older version of Firefox."
 msgstr "Panašu, jog jūs naudojatės senesne „Firefox“ laida."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:40
 msgid "The new version of Sync only works with the latest version of Firefox"
 msgstr "Naujoji „Sync“ laida veikia tik kartu su paskiausia „Firefox“"
 
-#. # TAG: ios_announce
 #: firefox/sync.lang:45
 msgid "Soon you’ll be able to use Sync on your iOS device"
 msgstr "Netrukus savo „iOS“ įrenginyje galėsite naudotis „Sync“"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:50
 msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
@@ -79,39 +64,32 @@ msgstr ""
 "„Sync“ – tik viena puikių savybių, kurios džiugina, kai naudojatės "
 "„Firefox“. Atraskite jas visas!"
 
-#. # TAG: firefox_sync_non_fx
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 #: firefox/sync.lang:56
 msgid "Sync is just one of the great features you’ll only get with Firefox."
 msgstr ""
 "„Sync“ – tik viena puikių savybių, kurios džiugina, kai naudojatės „Firefox“."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:61
 msgid "Download Firefox for Android"
 msgstr "Parsisiųskite „Firefox“ „Android’ams“"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:66
 msgid "Get started with Sync"
 msgstr "„Sync“ pradžiamokslis"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:71
 msgid "Update your Firefox"
 msgstr "Atnaujinkite savo „Firefox“ naršyklę"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:76
 msgid "Download Firefox"
 msgstr "Parsisiųskite „Firefox“"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:81
 msgid "Get started with Sync in four easy steps:"
 msgstr "Pradėkite naudotis „Sync“ – keturi paprasti žingsneliai:"
 
-#. # TAG: firefox_sync_redesign
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 #: firefox/sync.lang:88
@@ -123,13 +101,11 @@ msgstr ""
 "\">meniu</a>, esantį viršutiniame dešiniajame „Firefox“ lango kampe ir "
 "pasirinkite punktą <strong>Jungtis prie „Sync“</strong>;"
 
-#. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:94
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
 msgstr "atsivėrusioje kortelėje spustelėkite mygtuką <strong>Pradėti</strong>;"
 
-#. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:100
 msgid ""
@@ -139,7 +115,6 @@ msgstr ""
 "įveskite savo el. pašto adresą ir slaptažodį, kad būtų <strong>sukurta "
 "„Firefox“ paskyra</strong>;"
 
-#. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:106
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
@@ -147,7 +122,6 @@ msgstr ""
 "spustelėkite mygtuką <strong>Toliau</strong>, kad gautumėte elektroninį "
 "laišką su paskyros patvirtinimo saitu."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:111
 msgid ""
 "After you check your email and click the verification link, you’ll be all "
@@ -156,23 +130,19 @@ msgstr ""
 "Patikrinę savo elektroninį paštą ir spustelėję patvirtinimo saitą, paruošite "
 "„Firefox“ sinchronizuoti duomenis. Nuo šiol ji tai automatiškai atliks fone."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:116
 msgid "Get more detailed instructions."
 msgstr "Išsamesnė instrukcija."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:121
 msgid "Using an older version of Sync?"
 msgstr "Naudojatės senesne „Sync“ versija?"
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:127
 msgid "How to set up Sync in five easy steps:"
 msgstr "Kaip sukonfigūruoti „Sync“ – penki paprasti žingsneliai:"
 
-#. # TAG: firefox_sync_redesign
 #. <strong> tags below used for font color formatting.
 #. This string is displayed on Android devices
 #: firefox/sync.lang:134
@@ -183,7 +153,6 @@ msgstr ""
 "bakstelėkite <strong>Meniu</strong> mygtuką (jį rasite po ekranu arba "
 "naršyklė viršutiniame dešiniajame kampe);"
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:140
 msgid ""
@@ -193,7 +162,6 @@ msgstr ""
 "pasirinkite meniu punktą <strong>Nuostatos</strong> (gali būti, jog prieš "
 "tai teks bakstelėti užrašą <strong>Daugiau</strong>);"
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:146
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
@@ -201,7 +169,6 @@ msgstr ""
 "bakstelėkite užrašą <strong>Sinchronizavimas</strong>, tada – mygtuką "
 "<strong>Pradėti</strong>;"
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:152
 msgid ""
@@ -210,14 +177,12 @@ msgstr ""
 "bus atverta nauja kortelė, kurioje galėsite <strong>susikurti „Firefox“ "
 "paskyrą</strong>;"
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:158
 msgid "Fill out the form and click <strong>Next</strong>."
 msgstr ""
 "užpildykite formos laukus ir bakstelėkite mygtuką <strong>Toliau</strong>."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:164
 msgid ""
@@ -229,12 +194,10 @@ msgstr ""
 "„Firefox“ sinchronizuoti duomenis. Kad iš sinchronizavimo gautumėte "
 "daugiausia naudos, nepamirškite jo įjungti ir kituose savo įrenginiuose."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:169
 msgid "Sync a little. Sync a lot."
 msgstr "Sinchronizuokite truputį. Arba daug."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:174
 msgid ""
 "You choose what parts of your Firefox you want to sync and where you want to "
@@ -246,12 +209,10 @@ msgstr ""
 "norėsite naudotis savo adresynu. Sinchronizuoti galite bet ką, bet kur ir "
 "bet kada."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:179
 msgid "At home"
 msgstr "Namuose"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:184
 msgid ""
 "Move from your desk to the couch without skipping a beat. Access your open "
@@ -261,12 +222,10 @@ msgstr ""
 "Pabodus sėdėti prie stalo, įsitaisykite ant sofos ir skaitykite toliau. "
 "Matykite savo atvertas korteles telefone. Naudokitės adresynu planšetėje."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:189
 msgid "At work"
 msgstr "Darbe"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:194
 msgid ""
 "Stay connected to all of your important information. Sync the passwords and "
@@ -277,12 +236,10 @@ msgstr ""
 "adresyną bei naudokitės jais kada tik prireiks. Kaip ir „Firefox“ atveju – "
 "vargu ar berasite ką saugesnio."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:199
 msgid "On the go"
 msgstr "Kelyje"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:204
 msgid ""
 "Keep up with your favorite sites, or finish that story you started at home — "
@@ -292,17 +249,14 @@ msgstr ""
 "straipsnį – kur bekeliautumėte. Su „Sync“ tai tikrai paprasta. Paprasčiau "
 "tiesiog nebūna."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:209
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
 msgstr "Turite <b>„Android“ telefoną</b> arba <b>planšetę</b>?"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:214
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
 msgstr "PARSISIŲSKITE „FIREFOX“ „ANDROID’AMS“"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:219
 msgid ""
 "To get the full Sync experience, take your Web with you everywhere you use "
@@ -327,7 +281,6 @@ msgstr ""
 msgid "Get started with Sync. It’s fast, safe and easy:"
 msgstr "Pradėti naudotis „Sync“ saugu ir paprasta:"
 
-#. # TAG: sync_new_markup
 #. Used in old page, do not remove
 #: firefox/sync.lang:235
 msgid ""

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-27 09:06+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2015-01-22 05:11+0000\n"
 "Last-Translator: Wichai <chengings@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,15 +12,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1421903467.000000\n"
 
-#. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
-#. # URL: https://www-dev.allizom.org/%LOCALE%/plugincheck
-#. # java_notice ##
-#. # plugin_disable_warning ##
-#. # plugin_updated_content ##
-#. # share_cta ##
 #. Page <title> tag
 #: mozorg/plugincheck.lang:10
 msgid "Plugin Check &amp; Updates"
@@ -70,7 +64,6 @@ msgstr "ตรวจสอบโปรแกรมเสริมของคุ
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr "ดูแลโปรแกรมเสริมของคุณให้ทันสมัยอยู่เสมอ ช่วยให้ Firefox ปลอดภัยและไหลลื่น"
 
-#. # TAG: share_cta
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 #: mozorg/plugincheck.lang:60
 msgid ""
@@ -82,7 +75,6 @@ msgstr ""
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "ดูเหมือนคุณกำลังใช้งาน Firefox รุ่นเก่าอยู่"
 
-#. # TAG: java_notice
 #: mozorg/plugincheck.lang:69
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
@@ -91,7 +83,6 @@ msgstr ""
 "เราตระหนักถึงปัญหาการตรวจสอบรุ่นล่าสุดของโปรแกรมเสริม Java "
 "และรายงานคลาดเคลื่อนว่ามีช่องโหว่"
 
-#. # TAG: java_notice
 #: mozorg/plugincheck.lang:74
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
@@ -251,7 +242,6 @@ msgstr "ใน Firefox:"
 msgid "Open the Tools menu."
 msgstr "เปิดเมนู เครื่องมือ"
 
-#. # TAG: plugin_updated_content
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:205
 msgid "Open the <span class=\"menu\">menu</span>."
@@ -265,7 +255,6 @@ msgstr "เลือก ส่วนเสริม"
 msgid "Click the plugins tab."
 msgstr "คลิกที่แท็บ โปรแกรมเสริม"
 
-#. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:218
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr "คลิกบนรายการเลือกแบบดึงลงที่อยู่ถัดจากโปรแกรมเสริมที่คุณต้องการปิดการใช้งาน"
@@ -274,7 +263,6 @@ msgstr "คลิกบนรายการเลือกแบบดึงล
 msgid "Click on a plugin in the list."
 msgstr "คลิกที่โปรแกรมเสริมในรายการ"
 
-#. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:227
 msgid "Select \"Never Activate\" from the available choices."
 msgstr "เลือก \"ไม่เปิดใช้งาน\" จากตัวเลือกที่มีอยู่"
@@ -292,7 +280,6 @@ msgstr ""
 "คำเตือน: การปิดการใช้งานโปรแกรมเสริมจะทำให้คุณไม่สามารถทำบางอย่างได้ ยกตัวอย่างเช่น "
 "ถ้าคุณปิดการใช้งาน Flash คุณจะไม่สามารถดูวิดีโอบน YouTube ได้"
 
-#. # TAG: plugin_disable_warning
 #: mozorg/plugincheck.lang:240
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "

@@ -4,21 +4,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-27 09:06+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 
-#. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
-#. # URL: https://www-dev.allizom.org/%LOCALE%/plugincheck
-#. # java_notice ##
-#. # plugin_disable_warning ##
-#. # plugin_updated_content ##
-#. # share_cta ##
 #. Page <title> tag
 #: mozorg/plugincheck.lang:10
 msgid "Plugin Check &amp; Updates"
@@ -68,7 +62,6 @@ msgstr "ඔබගේ ප්ලගීන පරීක්ෂා කරන්න"
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
 
-#. # TAG: share_cta
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 #: mozorg/plugincheck.lang:60
 msgid ""
@@ -80,14 +73,12 @@ msgstr ""
 msgid "Looks like you’re using an older version of Firefox."
 msgstr ""
 
-#. # TAG: java_notice
 #: mozorg/plugincheck.lang:69
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
 msgstr ""
 
-#. # TAG: java_notice
 #: mozorg/plugincheck.lang:74
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
@@ -254,7 +245,6 @@ msgstr "ෆයර්ෆොක්ස් තුළදී:"
 msgid "Open the Tools menu."
 msgstr "මෙනුවේ මෙවලම් වෙත යන්න."
 
-#. # TAG: plugin_updated_content
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:205
 msgid "Open the <span class=\"menu\">menu</span>."
@@ -268,7 +258,6 @@ msgstr "ඇඩෝන  තෝරන්න."
 msgid "Click the plugins tab."
 msgstr "ප්ලගීන ටැබය ක්ලික් කරන්න."
 
-#. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:218
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr ""
@@ -277,7 +266,6 @@ msgstr ""
 msgid "Click on a plugin in the list."
 msgstr "ලැයිස්තුවේ ප්ලගීනයක් ක්ලික් කරන්න."
 
-#. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:227
 msgid "Select \"Never Activate\" from the available choices."
 msgstr ""
@@ -297,7 +285,6 @@ msgstr ""
 "(Flash)                  අබල කළේ නම්, ඔබට ජනප්‍රිය වීඩියෝ විකාශණ නැරඹිය "
 "නොහැකි                  වනු ඇත."
 
-#. # TAG: plugin_disable_warning
 #: mozorg/plugincheck.lang:240
 #, fuzzy
 msgid ""

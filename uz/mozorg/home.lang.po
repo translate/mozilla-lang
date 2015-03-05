@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-19 15:00+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2014-09-06 16:20+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,16 +11,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1410020428.000000\n"
 
-#. # promo_lightbeam ##
-#. # promo_new_mdn ##
-#. # promo_webmaker ##
-#. # promo_webwewant ##
-#. # promo_fxdesktop ##
-#. # promo_sumo ##
-#. # NOTE: demo server for home page is https://www-dev.allizom.org
 #: mozorg/home.lang:10
 msgid "Home of the Mozilla Project"
 msgstr "Mozilla loyihasi uy sahifasi"
@@ -177,19 +170,16 @@ msgstr ""
 "70 dan ortiq tilda mavjud. <a rel=\"external\" href=\"%(link_l10n)s\">Ularga "
 "ona tilingizga tarjima qilishda yordam bering</a>."
 
-#. # TAG: promo_lightbeam
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:141
 msgid "<i>Watch</i> the watchers"
 msgstr "Kuzatuvchilar ortidan <i>kuzating</i>"
 
-#. # TAG: promo_lightbeam
 #. Lightbeam promo
 #: mozorg/home.lang:147
 msgid "See who’s watching you online"
 msgstr "Kim sizni internetda kuzatayotganini bilib oling"
 
-#. # TAG: promo_lightbeam
 #. Lightbeam promo
 #: mozorg/home.lang:153
 msgid ""
@@ -199,24 +189,20 @@ msgstr ""
 "Sizning internetdagi faoliyingiz haqida ma’lumot to‘plovchi begona shaxslar "
 "ustida yorug‘likni yoqing."
 
-#. # TAG: promo_lightbeam
 #: mozorg/home.lang:158
 msgid "Install the Lightbeam add-on"
 msgstr "Lightbeam qo‘shimcha dasturini o‘rnating"
 
-#. # TAG: promo_webmaker
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:164
 msgid "<i>Learn</i> the Web"
 msgstr "Internetni <i>o‘rganing</i>"
 
-#. # TAG: promo_webmaker
 #. Webmaker promo
 #: mozorg/home.lang:170
 msgid "We teach the Web"
 msgstr "Biz internetni o‘rgatamiz"
 
-#. # TAG: promo_webmaker
 #: mozorg/home.lang:175
 msgid ""
 "Let‘s explore, tinker and create together to build a Web that‘s open and "
@@ -225,24 +211,20 @@ msgstr ""
 "Keling, umumiy va ochiq internet tuzish uchun tadqiq qilamiz, sinaymiz va "
 "birgalikda yaratamiz."
 
-#. # TAG: promo_webmaker
 #: mozorg/home.lang:180
 msgid "Become a Webmaker"
 msgstr "Vebmeyker bo‘ling"
 
-#. # TAG: promo_new_mdn
 #. New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:186
 msgid "<i>See</i> the new MDN"
 msgstr "Yangi MDN <i> (Mozilla dasturchilar tarmog‘i)ni ko‘ring</i>"
 
-#. # TAG: promo_new_mdn
 #. New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:192
 msgid "See what’s new <br>for developers"
 msgstr "Dasturchilar uchun <br>yangiliklarni ko‘ring"
 
-#. # TAG: promo_new_mdn
 #. New MDN promo:
 #: mozorg/home.lang:198
 msgid ""
@@ -252,25 +234,21 @@ msgstr ""
 "Hujjatlar, namoyish fayllari va boshqa resurslar uchun hamjamiyat markazimiz "
 "o’zgacha ko’rinish oldi."
 
-#. # TAG: promo_new_mdn
 #. New MDN promo:
 #: mozorg/home.lang:204
 msgid "Visit the Mozilla Developer Network"
 msgstr "Mozilla dasturchilari tarmog‘iga tashrif buyuring"
 
-#. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #: mozorg/home.lang:210
 msgid "The Web needs you"
 msgstr "Internetga siz keraksiz"
 
-#. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, headline
 #: mozorg/home.lang:216
 msgid "What kind of Web do you want?"
 msgstr "Qanday turdagi internetni xohlaysiz?"
 
-#. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, main text
 #: mozorg/home.lang:222
 msgid "Tell us what matters most to you and help shape the future of the Web."
@@ -278,25 +256,21 @@ msgstr ""
 "Siz uchun eng asosiysi va kelajak internetini shakllantirishga qanday yordam "
 "berish mumkinligini bizga ayting."
 
-#. # TAG: promo_webwewant
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #: mozorg/home.lang:228
 msgid "Share your vision"
 msgstr "Tasavvurlaringizni bo‘lishing"
 
-#. # TAG: promo_fxdesktop
 #. This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
 #: mozorg/home.lang:234
 msgid "<i>Try the best</i> Firefox yet"
 msgstr "<i>Eng zo‘r</i> \"Firefox\"ni sinab ko‘ring"
 
-#. # TAG: promo_fxdesktop
 #. This is the headline seen when the panel is open so it can be longer than the panel label.
 #: mozorg/home.lang:240
 msgid "Try the best Firefox yet"
 msgstr "Eng zo‘r \"Firefox\"ni sinab ko‘ring"
 
-#. # TAG: promo_fxdesktop
 #: mozorg/home.lang:245
 msgid ""
 "Learn more about the free desktop browser that’s committed to you, your "
@@ -305,7 +279,6 @@ msgstr ""
 "Siz, sizning xavfsizligingiz va ochiq tarmoq uchun mo‘ljallangan kompyuter "
 "uchun bepul brauzer haqida ko‘proq ma’lumot oling."
 
-#. # TAG: promo_fxdesktop
 #: mozorg/home.lang:250
 msgid "See what’s new"
 msgstr "Yangi xususiyatlar bilan tanishing"
@@ -336,18 +309,15 @@ msgstr ""
 msgid "Learn about events near you"
 msgstr "Yaqin hududingizdagi tadbirlar haqida ma’lumot oling"
 
-#. # TAG: promo_sumo
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:278
 msgid "<i>Help</i> Mozilla users"
 msgstr "<i>Yordam</i> Mozilla foydalanuvchilari"
 
-#. # TAG: promo_sumo
 #: mozorg/home.lang:283
 msgid "We need your help"
 msgstr "Bizga yordamingiz kerak"
 
-#. # TAG: promo_sumo
 #: mozorg/home.lang:288
 msgid ""
 "Learn about the ways you can help millions of users get the most out of "
@@ -356,7 +326,6 @@ msgstr ""
 "Millionlab foydalanuvchilarning sevimli brauzerlaridan rohatlanishlariga "
 "yordam berishingiz mumkin bo‘lgan yo‘llar haqida o‘rganing."
 
-#. # TAG: promo_sumo
 #: mozorg/home.lang:293
 msgid "Join our support team"
 msgstr "Yordam guruhimizga qo‘shiling"

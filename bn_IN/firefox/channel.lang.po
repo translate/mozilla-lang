@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-27 09:06+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2014-12-31 16:38+0000\n"
 "Last-Translator: Debapriya <dbbhattacharya6@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,15 +12,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1420043880.000000\n"
 
-#. # NOTE: url is https://www-dev.allizom.org/firefox/channel/
-#. # NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
-#. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/channel/
-#. # channel_dev_edition ##
-#. # telemetry_notice ##
-#. # TAG: channel_dev_edition
 #. This is the string for the <title> tag on the page.
 #: firefox/channel.lang:10
 msgid ""
@@ -37,7 +31,6 @@ msgstr ""
 "Firefox Aurora অথবা Beta &amp; ডাউনলোড করুন এবং পরবর্তী Firefox নির্ধারণে "
 "সহায়তা করুন"
 
-#. # TAG: channel_dev_edition
 #: firefox/channel.lang:20
 msgid ""
 "Download and test Firefox future releases. Experience the newest innovations "
@@ -51,7 +44,6 @@ msgstr ""
 msgid "The latest features in a more stable environment"
 msgstr "আরো স্থিতিশীল পরিবেশে সর্বশেষ বৈশিষ্ট্য"
 
-#. # TAG: telemetry_notice
 #: firefox/channel.lang:30
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
@@ -68,7 +60,6 @@ msgstr ""
 "<a href=\"%(feedback)s\"> আমাদেরকে মতামত জানান </a> স্থিতিশীল পরিবেশে "
 "কার্যকারীতা এবং তা সম্পাদনের জন্য চুড়ান্ত ট্যুইক যুক্ত করা।"
 
-#. # TAG: channel_dev_edition
 #: firefox/channel.lang:39
 msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
@@ -85,7 +76,6 @@ msgstr ""
 "Firefox Aurora স্বয়ংক্রিয় ভাবে Mozilla-কে মতামত প্রেরণ করে। <a href=\"%(link)s"
 "\"> আরও জানুন </a>।"
 
-#. # TAG: channel_dev_edition
 #: firefox/channel.lang:48
 msgid "Built for those who build the Web"
 msgstr "তাদের জন্য তৈরি যারা ওয়েব বানায়"
@@ -95,7 +85,6 @@ msgstr "তাদের জন্য তৈরি যারা ওয়েব ব�
 msgid "The newest innovations in an experimental environment"
 msgstr "সর্বাপেক্ষা নতুন বিষয়টি এখন পরীক্ষামূলক পরিবেশে।"
 
-#. # TAG: telemetry_notice
 #: firefox/channel.lang:58
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="

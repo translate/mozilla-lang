@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-23 19:07+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2014-11-22 22:01+0000\n"
 "Last-Translator: Mohomodou  <mh@bollag-areal.ch>\n"
 "Language-Team: none\n"
@@ -12,26 +12,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1416693668.000000\n"
 
-#. # firefox_sync_non_fx ##
-#. # firefox_sync_redesign ##
-#. # ios_announce ##
-#. # sync_new_markup ##
-#. # NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
-#. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/sync/
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:10
 msgid "Keep your Firefox in sync"
 msgstr "War Firefox gaabu Sync ra"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:15
 msgid "Ready, Set, Sync"
 msgstr "Soolu, kanandi, Sync"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:20
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
@@ -39,12 +30,10 @@ msgstr ""
 "War hantum ka huru nda soolu ka duu <em>war</em>Firefox-oo nungu kul ra, "
 "waati kul."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:25
 msgid "Take your Web with you"
 msgstr "Interneti kanbe war bande"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:30
 msgid ""
 "Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
@@ -54,22 +43,18 @@ msgstr ""
 "šennikufaley, nor lokey nda haya booboyaŋ kaŋ hun talfon carma, walha wala "
 "ordinater ga."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:35
 msgid "It looks like you’re running an older version of Firefox."
 msgstr "A ga hima kaŋ Firefox dumi žeena foo ma dira war do."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:40
 msgid "The new version of Sync only works with the latest version of Firefox"
 msgstr "Firefox dumi kokorantaa hinne ga Sync dumi taaga ga dira"
 
-#. # TAG: ios_announce
 #: firefox/sync.lang:45
 msgid "Soon you’ll be able to use Sync on your iOS device"
 msgstr ""
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:50
 msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
@@ -78,39 +63,32 @@ msgstr ""
 "Sync ti alhaali šifante foo de ibooboyaŋ ra kaŋ ga kaa war se Firefox ra. "
 "Ikul guna sohõ!"
 
-#. # TAG: firefox_sync_non_fx
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 #: firefox/sync.lang:56
 msgid "Sync is just one of the great features you’ll only get with Firefox."
 msgstr ""
 "Sync ti alhaali šifante foo de ibooboyaŋ ra kaŋ ga kaa war se Firefox ra."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:61
 msgid "Download Firefox for Android"
 msgstr "Firefox zumandi Android se"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:66
 msgid "Get started with Sync"
 msgstr "Šintin nda Sync"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:71
 msgid "Update your Firefox"
 msgstr "Wa Firefox taagandi"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:76
 msgid "Download Firefox"
 msgstr "Firefox zumandi"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:81
 msgid "Get started with Sync in four easy steps:"
 msgstr "Wa šintin nda Sync fondo faala taaci ra:"
 
-#. # TAG: firefox_sync_redesign
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 #: firefox/sync.lang:88
@@ -122,13 +100,11 @@ msgstr ""
 "feeri Firefox beene kanbe guma lokoo ra nda “<strong>Huru Sync ra</strong>” "
 "suba."
 
-#. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:94
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
 msgstr "Naagu “<strong>Šintin</strong> nor lokoo kaŋ ga feera ra."
 
-#. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:100
 msgid ""
@@ -137,7 +113,6 @@ msgid ""
 msgstr ""
 "Bataga aderesu nda šennikufal dam ka “<strong>Firefox kontu tee</strong>”"
 
-#. # TAG: firefox_sync_redesign
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:106
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
@@ -145,7 +120,6 @@ msgstr ""
 "Naagu “<strong>Jine</strong> hala duu tabatandiyan tiira ma sanbandi war se "
 "bataga ra."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:111
 msgid ""
 "After you check your email and click the verification link, you’ll be all "
@@ -155,23 +129,19 @@ msgstr ""
 "soolu ka ben! Firefox ga hayey hangandi cere nga boŋ se bandafaaroo ra hiino "
 "se."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:116
 msgid "Get more detailed instructions."
 msgstr "Wa duu šilbayyaŋ ka tonton."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:121
 msgid "Using an older version of Sync?"
 msgstr "Goo ma goy nda Sync dumi žeena?"
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:127
 msgid "How to set up Sync in five easy steps:"
 msgstr "Taka kaŋ nda Sync ga kayandi fondo faala guu ra:"
 
-#. # TAG: firefox_sync_redesign
 #. <strong> tags below used for font color formatting.
 #. This string is displayed on Android devices
 #: firefox/sync.lang:134
@@ -182,7 +152,6 @@ msgstr ""
 "<strong>Šilbayboŋ</strong> butoŋoo karkar (dijoo ganda here wala ceecikaa "
 "beene kanbe guma lokoo)."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:140
 msgid ""
@@ -192,26 +161,22 @@ msgstr ""
 "<strong>Kayandiyaney</strong> (war ga hin ka <strong>Ka tonton</strong> "
 "naagu jinay)."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:146
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
 msgstr "<strong>Sync</strong> naagu de wa <strong>Šintin</strong>."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:152
 msgid ""
 "The <strong>Create a Firefox Account page</strong> will open in a new tab."
 msgstr "<strong>Firefox kontu tee moo</strong> ga feera nor loku taaga foo ra."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:158
 msgid "Fill out the form and click <strong>Next</strong>."
 msgstr "Takaddaa toonandi nda <strong>Jine</strong> naagu."
 
-#. # TAG: firefox_sync_redesign
 #. This string is displayed on Android devices
 #: firefox/sync.lang:164
 msgid ""
@@ -222,12 +187,10 @@ msgstr ""
 "Za war na war batagaa guna nda tabatandiyan doboo naagu, kul war soolu ka "
 "koy! Wa ši dirŋa ka war jinawey dobu ka Snyc fellaa."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:169
 msgid "Sync a little. Sync a lot."
 msgstr "Sync kayna. Snyc boobo."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:174
 msgid ""
 "You choose what parts of your Firefox you want to sync and where you want to "
@@ -238,12 +201,10 @@ msgstr ""
 "kaŋ r'i ga marga. War nor loku feerantey kanbe war zaari dirawey ra. Duu war "
 "doo-šilbawey goydogoo ra. Haya kul, waati kul, nungu kul ra."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:179
 msgid "At home"
 msgstr "Hugay do"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:184
 msgid ""
 "Move from your desk to the couch without skipping a beat. Access your open "
@@ -254,12 +215,10 @@ msgstr ""
 "war nor loku feerantey war talfon carmaa ra wala gaabandi ka war nor  lokey "
 "naaru ne da war walhaa ga. "
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:189
 msgid "At work"
 msgstr "Goydogoo ra"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:194
 msgid ""
 "Stay connected to all of your important information. Sync the passwords and "
@@ -270,12 +229,10 @@ msgstr ""
 "šilbawey hangandi cere kaŋ war ma hin ka too i ga waati kul. Sanda de "
 "Firefox, a ga saajaw taka kul kaŋ ga hima ra."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:199
 msgid "On the go"
 msgstr "Fondaa ra"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:204
 msgid ""
 "Keep up with your favorite sites, or finish that story you started at home — "
@@ -285,17 +242,14 @@ msgstr ""
 "hugay do — nungu kul kaŋ ra war koy. Haya kul ši faala ka bisa goyyan nda "
 "Sync."
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:209
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
 msgstr "Goo nda <b>Android talfon carma</b> wala <b>walha</b> foo?"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:214
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
 msgstr "FIREFOX ZUMANDI ANDROID SE"
 
-#. # TAG: firefox_sync_redesign
 #: firefox/sync.lang:219
 msgid ""
 "To get the full Sync experience, take your Web with you everywhere you use "
@@ -320,7 +274,6 @@ msgstr ""
 msgid "Get started with Sync. It’s fast, safe and easy:"
 msgstr "Šintin nda Sync. A ga cahã, saajaw nda faala:"
 
-#. # TAG: sync_new_markup
 #. Used in old page, do not remove
 #: firefox/sync.lang:235
 msgid ""

@@ -4,21 +4,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-27 09:06+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 
-#. # NOTE: url is https://www-dev.allizom.org/firefox/channel/
-#. # NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
-#. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/channel/
-#. # channel_dev_edition ##
-#. # telemetry_notice ##
-#. # TAG: channel_dev_edition
 #. This is the string for the <title> tag on the page.
 #: firefox/channel.lang:10
 msgid ""
@@ -35,7 +29,6 @@ msgstr ""
 "Preuzmite Firefox Aurora ili beta izdanje i pomozite oblikovati sljedeći "
 "Firefox"
 
-#. # TAG: channel_dev_edition
 #: firefox/channel.lang:20
 msgid ""
 "Download and test Firefox future releases. Experience the newest innovations "
@@ -49,7 +42,6 @@ msgstr ""
 msgid "The latest features in a more stable environment"
 msgstr "Najnovije mogućnosti u stabilnijem okruženju"
 
-#. # TAG: telemetry_notice
 #: firefox/channel.lang:30
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
@@ -66,7 +58,6 @@ msgstr ""
 "<a href=\"%(feedback)s\">Povratne</a> informacije doprinose povećanju "
 "performansi i funkcionalnosti u konačnim inačicama."
 
-#. # TAG: channel_dev_edition
 #: firefox/channel.lang:39
 msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
@@ -83,7 +74,6 @@ msgstr ""
 "Firefox Aurora automatski šalje povratne informacije Mozilli. <a href="
 "\"%(link)s\">Saznajte više</a>."
 
-#. # TAG: channel_dev_edition
 #: firefox/channel.lang:48
 msgid "Built for those who build the Web"
 msgstr "Napravljen za one koji grade web"
@@ -93,7 +83,6 @@ msgstr "Napravljen za one koji grade web"
 msgid "The newest innovations in an experimental environment"
 msgstr "Najnovije inovacije u eksperimentalnom okruženju"
 
-#. # TAG: telemetry_notice
 #: firefox/channel.lang:58
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-27 09:06+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2015-02-23 20:43+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,15 +13,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1424724230.000000\n"
 
-#. # NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
-#. # URL: https://www-dev.allizom.org/%LOCALE%/plugincheck
-#. # java_notice ##
-#. # plugin_disable_warning ##
-#. # plugin_updated_content ##
-#. # share_cta ##
 #. Page <title> tag
 #: mozorg/plugincheck.lang:10
 msgid "Plugin Check &amp; Updates"
@@ -73,7 +67,6 @@ msgstr ""
 "Hdyž tykače aktualne dźeržiće, pomhaće, wěste a hładke dźěło za Firefox "
 "zaručić."
 
-#. # TAG: share_cta
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 #: mozorg/plugincheck.lang:60
 msgid ""
@@ -87,7 +80,6 @@ msgstr ""
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "Zda so, zo staršu wersiju Firefox wužiwaće."
 
-#. # TAG: java_notice
 #: mozorg/plugincheck.lang:69
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
@@ -96,7 +88,6 @@ msgstr ""
 "Znajemy problem při wotkrywanju aktualnych wersijow tykača Java a mylnej "
 "meldowanju toho jako napadliwy."
 
-#. # TAG: java_notice
 #: mozorg/plugincheck.lang:74
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
@@ -261,7 +252,6 @@ msgstr "W Firefox:"
 msgid "Open the Tools menu."
 msgstr "Wočińće meni Nastroje."
 
-#. # TAG: plugin_updated_content
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:205
 msgid "Open the <span class=\"menu\">menu</span>."
@@ -275,7 +265,6 @@ msgstr "Wubjerće Přidatki."
 msgid "Click the plugins tab."
 msgstr "Klikńće na rajtark Tykače."
 
-#. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:218
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr "Klikńće na padacy meni pódla tykača, kotryž chceće znjemóžnić."
@@ -284,7 +273,6 @@ msgstr "Klikńće na padacy meni pódla tykača, kotryž chceće znjemóžnić."
 msgid "Click on a plugin in the list."
 msgstr "Klikńće na tykač w lisćinje."
 
-#. # TAG: plugin_updated_content
 #: mozorg/plugincheck.lang:227
 msgid "Select \"Never Activate\" from the available choices."
 msgstr ""
@@ -305,7 +293,6 @@ msgstr ""
 "činić. Jeli na přikład Flash znjemóžniće, njemóžeće sej wideja na YouTube "
 "wobhladować."
 
-#. # TAG: plugin_disable_warning
 #: mozorg/plugincheck.lang:240
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "

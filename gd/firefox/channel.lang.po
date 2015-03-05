@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-27 09:06+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2014-11-11 12:33+0000\n"
 "Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,15 +13,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1415709223.000000\n"
 
-#. # NOTE: url is https://www-dev.allizom.org/firefox/channel/
-#. # NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
-#. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/channel/
-#. # channel_dev_edition ##
-#. # telemetry_notice ##
-#. # TAG: channel_dev_edition
 #. This is the string for the <title> tag on the page.
 #: firefox/channel.lang:10
 msgid ""
@@ -38,7 +32,6 @@ msgstr ""
 "Luchdaich a-nuas Firefox Aurora no Beta ⁊ cuidich leinn a' dealbhan an ath "
 "Firefox"
 
-#. # TAG: channel_dev_edition
 #: firefox/channel.lang:20
 msgid ""
 "Download and test Firefox future releases. Experience the newest innovations "
@@ -53,7 +46,6 @@ msgstr ""
 msgid "The latest features in a more stable environment"
 msgstr "Na feartan as ùire ann an àrainneachd nas seasmhaiche"
 
-#. # TAG: telemetry_notice
 #: firefox/channel.lang:30
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
@@ -71,7 +63,6 @@ msgstr ""
 "an dreach mu dheireadh a dhèanamh foirfe a thaobh dèanadas is obrachadh ann "
 "an àrainneachd sheasmhach."
 
-#. # TAG: channel_dev_edition
 #: firefox/channel.lang:39
 msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
@@ -88,7 +79,6 @@ msgstr ""
 "Cuiridh Firefox Aurora fiosrachadh dha Mozilla gu fèin-obrachail. <a href="
 "\"%(link)s\">Barrachd fiosrachaidh</a>."
 
-#. # TAG: channel_dev_edition
 #: firefox/channel.lang:48
 msgid "Built for those who build the Web"
 msgstr "Air a dhealbhadh dha na daoine a dhealbhas an lìon"
@@ -98,7 +88,6 @@ msgstr "Air a dhealbhadh dha na daoine a dhealbhas an lìon"
 msgid "The newest innovations in an experimental environment"
 msgstr "Na gleusan as ùire ann an àrainneachd dheuchainneil"
 
-#. # TAG: telemetry_notice
 #: firefox/channel.lang:58
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="

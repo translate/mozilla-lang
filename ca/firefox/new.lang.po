@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-23 19:07+0000\n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
 "PO-Revision-Date: 2015-02-24 18:51+0000\n"
 "Last-Translator: papapep <papapep@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,27 +12,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1424803908.000000\n"
 
-#. # firefox_new_refresh_button ##
-#. # fx10_independent ##
-#. # ios_announce ##
-#. # mobile_links ##
-#. # NOTE: Used for the new http://www.mozilla.org/firefox/new
-#. # URL: https://www-dev.allizom.org/%LOCALE%/firefox/new/
 #: firefox/new.lang:9
 msgid "Firefox for desktop"
 msgstr "Firefox per a l'escriptori"
 
 #. alternative main title (currently not used)
-#. # TAG: fx10_independent
 #: firefox/new.lang:15
 msgid "Choose Independent."
 msgstr "Trieu l'independent."
 
 #. alternative main title (currently not used)
-#. # TAG: fx10_independent
 #: firefox/new.lang:21
 msgid "Choose Firefox."
 msgstr "Trieu el Firefox"
@@ -178,12 +170,10 @@ msgstr "Més informació del el Firefox per a mòbils"
 msgid "Learn more about Firefox OS"
 msgstr "Més informació del Firefox OS"
 
-#. # TAG: mobile_links
 #: firefox/new.lang:139
 msgid "Get Firefox on your Android device"
 msgstr "Baixeu el Firefox al vostre dispositiu Android"
 
-#. # TAG: mobile_links
 #: firefox/new.lang:144
 msgid "Learn about Firefox OS"
 msgstr "Més informació sobre el Firefox OS"
@@ -192,7 +182,6 @@ msgstr "Més informació sobre el Firefox OS"
 msgid "Discover all the ways to take Firefox on the go"
 msgstr "Descobriu les maneres d'emportar-vos el Firefox"
 
-#. # TAG: ios_announce
 #: firefox/new.lang:153
 msgid "Learn more about Firefox on iOS"
 msgstr "Més informació del Firefox en l'iOS"
@@ -237,7 +226,6 @@ msgstr ""
 #. Links to https://support.mozilla.org/kb/reset-firefox-easily-fix-most-problems
 #. You should keep the translation consistent with Firefox:
 #. http://transvision.mozfr.org/string/?entity=toolkit/chrome/global/resetProfile.dtd:refreshProfile.title&repo=beta
-#. # TAG: firefox_new_refresh_button
 #: firefox/new.lang:186
 msgid "Give Firefox a tune up"
 msgstr "Milloreu el Firefox"
@@ -246,7 +234,6 @@ msgstr "Milloreu el Firefox"
 #. Links to https://support.mozilla.org/kb/reset-firefox-easily-fix-most-problems
 #. You should keep the translation consistent with Firefox:
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/safeMode.dtd:refreshProfile.label&repo=beta
-#. # TAG: firefox_new_refresh_button
 #: firefox/new.lang:195
 msgid "Refresh Firefox"
 msgstr "Refresqueu el Firefox"
