@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-03-06 16:48+0000\n"
+"PO-Revision-Date: 2015-03-06 19:03+0000\n"
 "Last-Translator: Rimas <rq@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lt\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1425660499.000000\n"
+"X-POOTLE-MTIME: 1425668595.000000\n"
 
 #. Used for HTML title attribute
 #: mozorg/contribute/index.lang:5
@@ -47,54 +47,52 @@ msgstr "Prisidėkite"
 
 #: mozorg/contribute/index.lang:33
 msgid "Your country"
-msgstr ""
+msgstr "Jūsų valstybė"
 
 #. This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
 #: mozorg/contribute/index.lang:38
 msgid "I live in&hellip;"
-msgstr ""
+msgstr "Aš gyvenu&hellip;"
 
 #: mozorg/contribute/index.lang:42
-#, fuzzy
 msgid "Volunteer with Mozilla!"
-msgstr "Savanoriaukite „Mozilloje“"
+msgstr "Savanoriaukite „Mozilloje“!"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:47
-#, fuzzy
 msgid "active Mozillians worldwide"
 msgstr "– tiek pasaulyje yra<br> aktyvių moziliečių"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:52
-#, fuzzy
 msgid "upcoming events around the globe"
 msgstr "– tiek renginių<br> vyks netrukus"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 #: mozorg/contribute/index.lang:57
-#, fuzzy
 msgid "languages and counting, on every continent"
 msgstr "– tai augantis skaičius kalbų,<br> kuriomis mes bendraujame"
 
 #: mozorg/contribute/index.lang:61
 msgid "Join a global community of game-changers."
-msgstr ""
+msgstr "Prisijunkite prie pasaulį keičiančios bendruomenės."
 
 #. this br is for formatting, omit or reposition as needed
 #: mozorg/contribute/index.lang:66
 msgid ""
 "Volunteer as much as you like. Or as little.<br> It’s totally up to you."
 msgstr ""
+"Prisidėkite tiek daug, kiek norite. Arba tiek mažai.<br> Viskas priklauso "
+"nuo jūsų."
 
 #. this br is for formatting, omit or reposition as needed
 #: mozorg/contribute/index.lang:71
 msgid "Share your skills and pick up<br> a few new ones along the way."
-msgstr ""
+msgstr "Dalinkitės savo įgūdžiais,<br> tuo pat metu įgydami naujų."
 
 #: mozorg/contribute/index.lang:75
 msgid "Volunteering with Mozilla&hellip;"
-msgstr ""
+msgstr "Savanorystė „Mozilloje“&hellip;"
 
 #. This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 #: mozorg/contribute/index.lang:80
@@ -103,10 +101,14 @@ msgid ""
 "sharing your skills with a global community of Mozillians — coders, "
 "organizers, activists and more — who help shape the Web every day."
 msgstr ""
+"&hellip;reiškia daugiau nei ištiesti pagalbos ranką. Tai – ir mokymasis, "
+"bendradarbiavimas, dalinimasis savo įgūdžiais su pasauline moziliečių&nbsp;– "
+"programuotojų, organizatorių, aktyvistų ir kitų&nbsp;– bendruomene, kasdien "
+"prisidedančia prie saityno ateities."
 
 #: mozorg/contribute/index.lang:84
 msgid "See our community in action"
-msgstr ""
+msgstr "Susipažinkite su mūsų bendruomene"
 
 #: mozorg/contribute/index.lang:88
 msgid "How Mozillians help every day"
@@ -115,59 +117,65 @@ msgstr ""
 #. Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 #: mozorg/contribute/index.lang:93
 msgid "Spain &middot; Activism"
-msgstr ""
+msgstr "Ispanija &middot; Aktyvistas"
 
 #. Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 #: mozorg/contribute/index.lang:98
 msgid "Philippines &middot; Activism"
-msgstr ""
+msgstr "Filipinai &middot; Aktyvistas"
 
 #. Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 #: mozorg/contribute/index.lang:103
 msgid "Switzerland &middot; Coding"
-msgstr ""
+msgstr "Šveicarija &middot; Programuotojas"
 
 #. Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 #: mozorg/contribute/index.lang:108
 msgid "India &middot; Teaching"
-msgstr ""
+msgstr "Indija &middot; Mokytojas"
 
 #: mozorg/contribute/index.lang:112
 msgid "Read his story"
-msgstr ""
+msgstr "Paskaitykite jo istoriją"
 
 #: mozorg/contribute/index.lang:116
 msgid "Read her story"
-msgstr ""
+msgstr "Paskaitykite jos istoriją"
 
 #: mozorg/contribute/index.lang:120
 msgid "Want to get involved? Here’s how."
-msgstr ""
+msgstr "Norite įsitraukti? Štai instrukcija."
 
 #: mozorg/contribute/index.lang:124
 msgid "Choose what interests you and tell us how you’d like to help"
 msgstr ""
+"Išsirinkite jus dominančias veiklos sritis ir papasakokite, kuo norėtumėte "
+"prisidėti"
 
 #: mozorg/contribute/index.lang:128
 msgid "Stand by for an email that will connect you to the Mozilla community"
 msgstr ""
+"Luktelėkite, kol gausite el. laišką, padėsiantį užmegzti ryšį su „Mozillos“ "
+"bendruomene"
 
 #: mozorg/contribute/index.lang:132
 msgid ""
 "Create your Mozillians account and share your contributions with the world"
 msgstr ""
+"Susikurkite paskyrą moziliečių kataloge ir dalinkitės savo pasiekimais su "
+"pasauliu"
 
 #: mozorg/contribute/index.lang:136
 msgid "Get started"
-msgstr ""
+msgstr "Pradėkite čia"
 
 #: mozorg/contribute/index.lang:140
 msgid "Not ready to dive in just yet?"
-msgstr ""
+msgstr "Dar nesate pasirengę nerti taip giliai?"
 
 #: mozorg/contribute/index.lang:144
 msgid "Here are a few other ways you can support Mozilla right now."
-msgstr ""
+msgstr "Štai dar keletas būdų, kuriais galite padėti „Mozillai“ tiesiog dabar."
 
 #: mozorg/contribute/index.lang:148
 msgid "Donate to Mozilla"
@@ -175,20 +183,19 @@ msgstr "Paaukokite „Mozillai“"
 
 #: mozorg/contribute/index.lang:152
 msgid "Read our Manifesto"
-msgstr ""
+msgstr "Susipažinkite su mūsų Manifestu"
 
 #: mozorg/contribute/index.lang:156
 msgid "Like us on Facebook"
-msgstr ""
+msgstr "Pamėkite mus „Facebook‘e“"
 
 #: mozorg/contribute/index.lang:160
 msgid "Follow us on Twitter"
-msgstr ""
+msgstr "Sekite mus „Twitter‘yje“"
 
 #: mozorg/contribute/index.lang:164
-#, fuzzy
 msgid "Upcoming event"
-msgstr "Netrukus vyksiantys renginiai"
+msgstr "Artimiausias renginys"
 
 #: mozorg/contribute/index.lang:168
 msgid "See all events"
@@ -196,91 +203,94 @@ msgstr "Pamatykite visų renginių sąrašą"
 
 #: mozorg/contribute/index.lang:172
 msgid "Communicate"
-msgstr ""
+msgstr "Bendraukime"
 
 #: mozorg/contribute/index.lang:176
-#, fuzzy
 msgid "Mozilla communities"
 msgstr "„Mozillos“ bendruomenės"
 
 #: mozorg/contribute/index.lang:180
 msgid "Mailing lists"
-msgstr ""
+msgstr "El. pašto grupės"
 
 #: mozorg/contribute/index.lang:184
 msgid "IRC channels"
-msgstr ""
+msgstr "IRC kambariai"
 
 #: mozorg/contribute/index.lang:188
 msgid "More links"
-msgstr ""
+msgstr "Kiti ištekliai"
 
 #: mozorg/contribute/index.lang:192
 msgid "Submit Firefox feedback"
-msgstr ""
+msgstr "Pateikite atsiliepimą apie „Firefox“"
 
 #: mozorg/contribute/index.lang:196
 msgid "Explore Mozilla careers"
-msgstr ""
+msgstr "Susipažinkite su karjeros galimybėmis „Mozilloje“"
 
 #: mozorg/contribute/index.lang:200
 msgid "Get help with Firefox"
-msgstr ""
+msgstr "Gaukite pagalbos su „Firefox“"
 
 #: mozorg/contribute/index.lang:204
 msgid "Subscribe to community events"
-msgstr ""
+msgstr "Prenumeruokite bendruomenės renginių kalendorių"
 
 #: mozorg/contribute/index.lang:208
 msgid "Get community updates"
-msgstr ""
+msgstr "Prenumeruokite bendruomenės naujienas"
 
 #. Used as title of the /stories sub-page
 #: mozorg/contribute/index.lang:213
 msgid "Mozillian Stories"
-msgstr ""
+msgstr "Moziliečių istorijos"
 
 #. Used as a toggle to display more content.
 #: mozorg/contribute/index.lang:218
 msgid "More"
-msgstr ""
+msgstr "Daugiau"
 
 #. Used as a toggle to display less content.
 #: mozorg/contribute/index.lang:223
 msgid "Less"
-msgstr ""
+msgstr "Mažiau"
 
 #: mozorg/contribute/index.lang:227
 msgid "Read more Mozillian stories"
-msgstr ""
+msgstr "Peržvelkite kitų moziliečių istorijas"
 
 #: mozorg/contribute/index.lang:231
 msgid ""
 "Discover even more stories on Twitter with <a href=\"%(link_hashtag)s"
 "\">#IAmAMozillian</a>"
 msgstr ""
+"Atraskite kitų moziliečių istorijas „Twitter‘yje“: <a href=\"%(link_hashtag)s"
+"\">#IAmAMozillian</a>"
 
 #: mozorg/contribute/index.lang:235
 msgid "More coming soon"
-msgstr ""
+msgstr "Daugiau istorijų – netrukus"
 
 #. Used as title of the /signup sub-page
 #: mozorg/contribute/index.lang:240
 msgid "Get Involved: Volunteer Opportunities at Mozilla"
-msgstr "Įsitraukimas: Galimybės savanoriams „Mozilloje“"
+msgstr "Įsitraukimas: galimybės savanoriams „Mozilloje“"
 
 #: mozorg/contribute/index.lang:244
 msgid "To get started, tell us what interests you."
-msgstr ""
+msgstr "Pirmiausia pasakykite, kas jus domina."
 
 #: mozorg/contribute/index.lang:248
 msgid "Choose one for now. You can always contribute to other areas later."
 msgstr ""
+"Pasirinkite sritį, kuri jums įdomiausia. Kitose srityse taip pat galėsite "
+"padėti vėliau."
 
 #. This text is used for accessibility reasons, it's not visible
 #: mozorg/contribute/index.lang:253
 msgid "Where would you like to get started?"
-msgstr ""
+msgstr "Nuo ko norėtumėte padėti?"
 
 #: mozorg/contribute/index.lang:257
 msgid "Coding"
@@ -288,67 +298,78 @@ msgstr "Programavimas"
 
 #: mozorg/contribute/index.lang:261
 msgid "More about coding"
-msgstr ""
+msgstr "Išsamiau apie programavimą"
 
 #: mozorg/contribute/index.lang:265
 msgid ""
 "Contribute code to a whole range of Mozilla products, including Firefox and "
 "Firefox OS."
 msgstr ""
+"Rinkitės šį punktą, jeigu norite rašyti kodą „Mozillos“ produktams – "
+"„Firefox“, „Firefox OS“ ar kitiems."
 
 #: mozorg/contribute/index.lang:269
 msgid "Testing"
-msgstr ""
+msgstr "Testavimas"
 
 #: mozorg/contribute/index.lang:273
 msgid "More about testing"
-msgstr ""
+msgstr "Išsamiau apie testavimą"
 
 #: mozorg/contribute/index.lang:277
 msgid "Help make the Mozilla products you use — and love — even better."
 msgstr ""
+"Prisidėkite tobulinant jūsų naudojamus – ir taip mėgiamus – „Mozillos“ "
+"produktus."
 
 #: mozorg/contribute/index.lang:281
 msgid "Writing"
-msgstr ""
+msgstr "Rašymas"
 
 #: mozorg/contribute/index.lang:285
 msgid "More about writing"
-msgstr ""
+msgstr "Išsamiau apie rašymą"
 
 #: mozorg/contribute/index.lang:289
 msgid ""
 "Lend your voice to Mozilla — from blogging and social media to providing "
 "technical documents for users and developers."
 msgstr ""
+"Leiskite „Mozillai“ kalbėti jūsų lūpomis – nesvarbu, ar tai būtų "
+"tinklaraštis, ar diskusija socialiniame tinkle, ar pagalba rengiant techninę "
+"dokumentaciją naudotojams ir programuotojams."
 
 #: mozorg/contribute/index.lang:293
 msgid "Teaching"
-msgstr ""
+msgstr "Mokymas"
 
 #: mozorg/contribute/index.lang:297
 msgid "More about teaching"
-msgstr ""
+msgstr "Išsamiau apie mokymą"
 
 #: mozorg/contribute/index.lang:301
 msgid ""
 "Share your skills with a community that’s eager to learn. Take advantage of "
 "our free tools, teaching resources and events."
 msgstr ""
+"Pasidalinkite savo žiniomis su bendruomene, trokštančia mokytis. Pasitelkite "
+"mūsų nemokamus įrankius, mokymo priemones ir renginius."
 
 #: mozorg/contribute/index.lang:305
 msgid "Helping"
-msgstr ""
+msgstr "Pagalba"
 
 #: mozorg/contribute/index.lang:309
 msgid "More about helping"
-msgstr ""
+msgstr "Išsamiau apie pagalbą"
 
 #: mozorg/contribute/index.lang:313
 msgid ""
 "Provide support to users who need it and help everyone get the most out of "
 "their Mozilla products."
 msgstr ""
+"Padėkite naudotojams spręsti iškylančias problemas ir geriau išnaudoti "
+"„Mozillos“ programas."
 
 #: mozorg/contribute/index.lang:317
 msgid "Translating"
