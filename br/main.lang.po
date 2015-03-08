@@ -1,17 +1,19 @@
 #. extracted from ./main.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-03 19:06+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-03-08 15:39+0000\n"
+"Last-Translator: tornoz <tornoz@laposte.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1425829166.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -22,7 +24,7 @@ msgstr "Merdeiñ"
 #. Example: https://www-dev.allizom.org/it/firefox/os
 #: main.lang:8
 msgid "<span>for</span> Desktop"
-msgstr ""
+msgstr "<span>evit</span> an urzhiataer"
 
 #. Used in the new Firefox family navigation menu. Sub-item.
 #: main.lang:13
@@ -47,7 +49,7 @@ msgstr "Herrek"
 #. Used in the new Firefox family navigation menu. Main level item.
 #: main.lang:33
 msgid "<span>for</span> Android"
-msgstr ""
+msgstr "<span>evit</span> Android"
 
 #. Used in the new Firefox family navigation menu. Main level item.
 #: main.lang:38
@@ -62,17 +64,17 @@ msgstr "A-zivout"
 #. Used in the new Firefox family navigation menu. Sub-item.
 #: main.lang:48
 msgid "Devices"
-msgstr ""
+msgstr "Trobarzhelloù"
 
 #. Used in the new Firefox family navigation menu. Sub-item.
 #: main.lang:53
 msgid "For partners"
-msgstr ""
+msgstr "Evit keneskemmerien"
 
 #. Used in the new Firefox family navigation menu. Item in the '...' button
 #: main.lang:58
 msgid "News"
-msgstr ""
+msgstr "Nevezadennoù"
 
 #. Used in the new Firefox family navigation menu. Item in the '...' button
 #: main.lang:63
@@ -146,7 +148,7 @@ msgstr "%d-%m-%Y"
 
 #: main.lang:132
 msgid "Legal"
-msgstr ""
+msgstr "Lezennel"
 
 #. Used as link in the footer
 #: main.lang:137
@@ -270,11 +272,11 @@ msgstr "Gwelout ar video"
 
 #: main.lang:251
 msgid "Replay the video"
-msgstr ""
+msgstr "Adlenn ar video"
 
 #: main.lang:255
 msgid "Share the video"
-msgstr ""
+msgstr "Rannañ ar video"
 
 #: main.lang:259
 msgid "WebM format"
@@ -360,9 +362,8 @@ msgstr "Trevnadoù skoret"
 
 #. Used in several pages (firefox/new, firefox/sync, etc.) as a link to SUMO
 #: main.lang:336
-#, fuzzy
 msgid "Need help?"
-msgstr "Ezhomm hoc'h eus skoazell ?"
+msgstr "Ezhomm skoazell ?"
 
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 #: main.lang:341
@@ -578,7 +579,7 @@ msgstr "Gouestlet deoc'h, d'ho puhez prevez ha d'ar Web digor"
 #. Common title used in Fx 10 pages
 #: main.lang:546
 msgid "Choose Independent"
-msgstr ""
+msgstr "Dibabit dizalc'h"
 
 #. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 #. The '#ChooseIndependent' hashtag should not be translated.
@@ -587,11 +588,13 @@ msgid ""
 "Keep the passion for a free and open Internet burning bright! "
 "#ChooseIndependent. Choose Firefox:"
 msgstr ""
+"Dalc'hit ar youl evit un internet frank ha digor ! #DibabitDizalc'h. Dibabit "
+"Firefox :"
 
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 #: main.lang:559
 msgid "Please turn on JavaScript to display this page correctly."
-msgstr ""
+msgstr "Gweredekait JavaScript evit skrammañ ar pajenn-mañ en un doare reizh."
 
 #. Used as link to /firefox/desktop in footers on some pages
 #: main.lang:564
@@ -704,3 +707,5 @@ msgstr "<abbr>Kzu</abbr>"
 msgid ""
 "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
 msgstr ""
+"O tont war iOS emañ Firefox a-benn nebeut ! <a href=\"{url}\">Emezelit evit "
+"gouzout hiroc'h</a>."

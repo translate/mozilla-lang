@@ -1,21 +1,23 @@
 #. extracted from ./mozorg/home.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-03-08 15:50+0000\n"
+"Last-Translator: tornoz <tornoz@laposte.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1425829830.000000\n"
 
 #: mozorg/home.lang:10
 msgid "Home of the Mozilla Project"
-msgstr "Pajenn degemer ar raktres Mozilla"
+msgstr "Pajenn degemer raktres Mozilla"
 
 #. Used as a label for a button that scrolls through latest news.
 #: mozorg/home.lang:15
@@ -165,8 +167,8 @@ msgid ""
 "translate them into yours</a>."
 msgstr ""
 "A-drugarez d'hor c'humuniezh vedel ez eo hegerz kenderc'hadoù ha lec'hiennoù "
-"Mozilla e ouzhpenn 70 yezh. <a href=\\\"%(link_l10n)s\\\">Roit skoazell evit "
-"treiñ anezho en ho yezh</a>."
+"Mozilla e ouzhpenn 70 yezh. <a rel=\"external\" href=\"%(link_l10n)s\">Roit "
+"skoazell evit treiñ anezho en ho yezh</a>."
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:141
@@ -262,18 +264,20 @@ msgstr "Rannit ho soñj"
 #. This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
 #: mozorg/home.lang:234
 msgid "<i>Try the best</i> Firefox yet"
-msgstr ""
+msgstr "<i>Prouadit ar Firefox gwellañ</i> evit poent"
 
 #. This is the headline seen when the panel is open so it can be longer than the panel label.
 #: mozorg/home.lang:240
 msgid "Try the best Firefox yet"
-msgstr ""
+msgstr "Prouadit ar Firefox gwellañ evit poent"
 
 #: mozorg/home.lang:245
 msgid ""
 "Learn more about the free desktop browser that’s committed to you, your "
 "privacy and an open Web."
 msgstr ""
+"Deskit muioc' a draoù a-zivout ar merdeer burev digor gouestlet deoc'h, d'ho "
+"puhez prevez ha d'ar web digor."
 
 #: mozorg/home.lang:250
 msgid "See what’s new"
@@ -283,13 +287,13 @@ msgstr "Gwelout pezh a zo nevez"
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:256
 msgid "<i>Join</i> our <br>Maker Party"
-msgstr ""
+msgstr "<i>Mont gant</i> hor <br>Maker Party"
 
 #. promo_makerparty, temporarily disabled
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:262
 msgid "Join our global <br>Maker Party"
-msgstr ""
+msgstr "Mont gant hor <br>Maker Party bedel"
 
 #. promo_makerparty, temporarily disabled
 #: mozorg/home.lang:267
@@ -297,27 +301,31 @@ msgid ""
 "From July to September, help us teach, learn and make the Web at hands-on "
 "community events."
 msgstr ""
+"Eus miz Gouere betek miz Gwengolo, roit skoazell deoc'h a-benn kelenn, "
+"deskiñ ha lakaat ar Web da vezañ pleustret e-pad degouezhioù ar gummuniezh."
 
 #. promo_makerparty, temporarily disabled
 #: mozorg/home.lang:272
 msgid "Learn about events near you"
-msgstr ""
+msgstr "Dizoloit degouezhioù tost d'ho kêr"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:278
 msgid "<i>Help</i> Mozilla users"
-msgstr ""
+msgstr "<i>Roit skoazell</i> da arveriaded Mozilla"
 
 #: mozorg/home.lang:283
 msgid "We need your help"
-msgstr ""
+msgstr "Ho skoazell hon eus ezhomm"
 
 #: mozorg/home.lang:288
 msgid ""
 "Learn about the ways you can help millions of users get the most out of "
 "their favorite browser."
 msgstr ""
+"Dizoloit penaos e c'hallit reiñ skoazell da vilionoù a arveriaded da gaout "
+"ar pep gwellañ eus o merdeer gwellañ plijet."
 
 #: mozorg/home.lang:293
 msgid "Join our support team"
-msgstr ""
+msgstr "Mont gant hor skipailh skorañ"
