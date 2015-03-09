@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-03-08 15:09+0000\n"
+"PO-Revision-Date: 2015-03-09 09:41+0000\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gd\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1425827383.000000\n"
+"X-POOTLE-MTIME: 1425894086.000000\n"
 
 #. Used for HTML title attribute
 #: mozorg/contribute.lang:9
@@ -566,6 +566,7 @@ msgstr ""
 
 #. Old string, will be removed when all locales have the new text
 #: mozorg/contribute.lang:377
+#, fuzzy
 msgid ""
 "Quality assurance testing is one of the easiest ways to get started with "
 "Mozilla and is a great way to get familiar with our code and tools. Help us "
@@ -573,6 +574,12 @@ msgid ""
 "\"%(qa_web_url)s\">test Mozilla web sites</a> or learn more about <a href="
 "\"%(qa_url)s\">other testing opportunities</a>."
 msgstr ""
+"Is deuchainn air barantachd càileachd aon dhe na dòighean as fhasa gus dol "
+"an sàs le Mozilla agus ’s e deagh dhòigh a th’ ann gus eòlas fhaighinn air "
+"a’ chòd ’s na h-innealan againn. Cuidich sinn gus <a href=\"%(qa_bugs_url)s"
+"\">bugaichean a lorg</a> ann am Firefox no <a href=\"%(qa_web_url)s"
+"\">làraichean-lìn Mhozilla a chur fo dheuchainn</a> no faigh a-mach barrachd "
+"mu <a href=\"%(qa_url)s\">cothroman deuchainn eile</a>."
 
 #. Old string, will be removed when all locales have the new text
 #: mozorg/contribute.lang:382
