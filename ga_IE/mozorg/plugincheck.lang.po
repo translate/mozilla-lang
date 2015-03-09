@@ -1,4 +1,5 @@
 #. extracted from ./mozorg/plugincheck.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -7,7 +8,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,51 +16,52 @@ msgstr ""
 #. Page <title> tag
 #: mozorg/plugincheck.lang:10
 msgid "Plugin Check &amp; Updates"
-msgstr ""
+msgstr "Nuashonruithe Forlíontán"
 
 #. This is a button telling the user to update their plugin
 #: mozorg/plugincheck.lang:15
 msgid "Update Now"
-msgstr ""
+msgstr "Nuashonraigh Anois"
 
 #. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 #: mozorg/plugincheck.lang:20
 msgid "Research"
-msgstr ""
+msgstr "Taighde"
 
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
 #: mozorg/plugincheck.lang:25
 msgid "current version plugin"
-msgstr ""
+msgstr "current version plugin"
 
 #. This is a button informing the user that their plugin is up to date
 #: mozorg/plugincheck.lang:30
 msgid "Up to Date"
-msgstr ""
+msgstr "Cothrom Le Dáta"
 
 #. L10n: This is alt text used on plugin icon images
 #: mozorg/plugincheck.lang:35
 msgid "Plugin icon"
-msgstr ""
+msgstr "Deilbhín forlíontáin"
 
 #. This is the string used to indicate that the plugin is unknown
 #: mozorg/plugincheck.lang:40
 msgid "unknown"
-msgstr ""
+msgstr "anaithnid"
 
 #. This is the string used to indicate that the plugin is vulnerable
 #: mozorg/plugincheck.lang:45
 msgid "vulnerable"
-msgstr ""
+msgstr "contúirteach"
 
 #. Main title
 #: mozorg/plugincheck.lang:50
 msgid "Check Your Plugins"
-msgstr ""
+msgstr "Seiceáil do chuid Forlíontán"
 
 #: mozorg/plugincheck.lang:54
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
+"Coinnigh do chuid breiseán cothrom le dáta le bheith níos sábháilte ar líne."
 
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 #: mozorg/plugincheck.lang:60
@@ -71,187 +72,215 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:64
 msgid "Looks like you’re using an older version of Firefox."
-msgstr ""
+msgstr "De réir cosúlachta, tá seanleagan de Firefox agat."
 
 #: mozorg/plugincheck.lang:69
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
 msgstr ""
+"Is eol dúinn nach féidir linn an leagan ceart den fhorlíontán Java a "
+"dhéanamh amach."
 
 #: mozorg/plugincheck.lang:74
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
 msgstr ""
+"Táimid ag déanamh ár ndícheall an earráid seo a cheartú. Idir an dá linn, is "
+"féidir leat <a href=\"%(download)s\">dul go dtí suíomh Java</a> chun an "
+"leagan is déanaí a íosluchtú."
 
 #: mozorg/plugincheck.lang:78
 msgid "Plugin Status"
-msgstr ""
+msgstr "Stádas na bhForlíontán"
 
 #: mozorg/plugincheck.lang:82
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
 msgstr ""
+"Ní oibríonn an Seiceálaí Forlíontán le <strong>hInternet Explorer</strong>. "
+"Bain triail as Uirlisí  &gt; Bainistigh Breiseáin freisin"
 
 #: mozorg/plugincheck.lang:86
 msgid "Step 1: Click Update to update a plugin."
-msgstr ""
+msgstr "Céim 1: Cliceáil Nuashonraigh le forlíontán a nuashonrú."
 
 #: mozorg/plugincheck.lang:90
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
+"Céim 2: Cuir na nuashonruithe molta i bhfeidhm sula n-atosóidh tú do "
+"bhrabhsálaí."
 
 #: mozorg/plugincheck.lang:94
 msgid "Potentially vulnerable plugins"
-msgstr ""
+msgstr "Forlíontáin a d'fhéadfadh a bheith contúirteach"
 
 #: mozorg/plugincheck.lang:98
 msgid "Plugin"
-msgstr ""
+msgstr "Forlíontán"
 
 #: mozorg/plugincheck.lang:102
 msgid "Status"
-msgstr ""
+msgstr "Stádas"
 
 #: mozorg/plugincheck.lang:106
 msgid "Action"
-msgstr ""
+msgstr "Gníomh"
 
 #: mozorg/plugincheck.lang:110
 msgid "Outdated Plugins"
-msgstr ""
+msgstr "Forlíontáin As Dáta"
 
 #: mozorg/plugincheck.lang:114
 msgid "Unknown Plugins"
-msgstr ""
+msgstr "Forlíontáin Anaithnid"
 
 #: mozorg/plugincheck.lang:118
 msgid "These plugins are up to date"
-msgstr ""
+msgstr "Tá na forlíontáin seo cothrom le dáta"
 
 #: mozorg/plugincheck.lang:122
 msgid "Back to Top"
-msgstr ""
+msgstr "Go dtí an barr"
 
 #: mozorg/plugincheck.lang:126
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Ceisteanna Coitianta"
 
 #: mozorg/plugincheck.lang:130
 msgid "What is a plugin?"
-msgstr ""
+msgstr "Cad is forlíontán ann?"
 
 #: mozorg/plugincheck.lang:134
 msgid "Plugins power videos, animation and games"
 msgstr ""
+"Is forlíontáin atá taobh thiar de go leor físeán, beochan, agus cluichí."
 
 #: mozorg/plugincheck.lang:138
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr ""
+"Tá siad cruthaithe ag comhlachtaí lasmuigh de Firefox, mar shampla Adobe "
+"Systems agus Apple."
 
 #: mozorg/plugincheck.lang:142
 msgid "Plugins don't always update automatically."
-msgstr ""
+msgstr "Níl siad nuashonraithe go huathoibríoch i gcónaí."
 
 #: mozorg/plugincheck.lang:146
 msgid "Why should I update my plugins?"
-msgstr ""
+msgstr "Cén fáth ar chóir dom mo chuid forlíontán a nuashonrú?"
 
 #: mozorg/plugincheck.lang:150
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr ""
+"Uaireanta, cuireann seanleaganacha isteach ar bhrabhsáil agus do chuid ama a "
+"chur amú."
 
 #: mozorg/plugincheck.lang:154
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
 msgstr ""
+"Le seanleaganacha, <strong>beidh tú i mbaol</strong> ó bhogearraí "
+"mailíseacha, víris, agus contúirtí slándála eile."
 
 #: mozorg/plugincheck.lang:158
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
 msgstr ""
+"<strong>Cuirtear feabhas ar fhorlíontáin i gcónaí</strong> le do chuairt ar "
+"líne a fheabhsú agus do shlándáil a chosaint."
 
 #. alt image
 #: mozorg/plugincheck.lang:163
 msgid "Screenshot of Add-Ons manager"
-msgstr ""
+msgstr "Grianghraf de Bhainisteoir na mBreiseán"
 
 #: mozorg/plugincheck.lang:167
 msgid "How can Firefox help me?"
-msgstr ""
+msgstr "Conas is féidir le Firefox teacht i gcabhair orm?"
 
 #: mozorg/plugincheck.lang:171
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
 msgstr ""
+"Amach anseo, déanfaidh Firefox nuashonrú ar do chuid forlíontán go "
+"huathoibríoch.  Go dtí sin, ba chóir duit filleadh ar an leathanach seo go "
+"minic agus do chuid forlíontán a nuashonrú le do shlándáil a chosaint."
 
 #: mozorg/plugincheck.lang:175
 msgid "Which Plugins do I have?"
-msgstr ""
+msgstr "Cé hiad na forlíontáin atá agam?"
 
 #: mozorg/plugincheck.lang:179
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
 msgstr ""
+"Bhraitheamar do chuid forlíontán thuas go huathoibríoch; chun na forlíontáin "
+"atá agat a fheiceáil i bhFirefox lean na treoracha seo:"
 
 #: mozorg/plugincheck.lang:183
 msgid "Want to spread the word?"
-msgstr ""
+msgstr "Ar mhaith leat an focal a scaipeadh?"
 
 #: mozorg/plugincheck.lang:187
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
 msgstr ""
+"Cabhraigh le cairde bheith slán sábháilte ar líne! Tabhair cuairt ar <a href="
+"\"%(url)s\">Firefox Affiliates</a> chun suaitheantas breiseáin a chur ar do "
+"shuíomh."
 
 #: mozorg/plugincheck.lang:191
 msgid "How do I disable a plugin?"
-msgstr ""
+msgstr "Cén chaoi a ndíchumasóinn forlíontán?"
 
 #: mozorg/plugincheck.lang:195
 msgid "In Firefox:"
-msgstr ""
+msgstr "I bhFirefox:"
 
 #: mozorg/plugincheck.lang:199
 msgid "Open the Tools menu."
-msgstr ""
+msgstr "Oscail an roghchlár Uirlisí."
 
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:205
 msgid "Open the <span class=\"menu\">menu</span>."
-msgstr ""
+msgstr "Oscail an <span class=\"menu\">roghchlár</span>."
 
 #: mozorg/plugincheck.lang:209
 msgid "Choose Add-ons."
-msgstr ""
+msgstr "Roghnaigh Breiseáin."
 
 #: mozorg/plugincheck.lang:213
 msgid "Click the plugins tab."
-msgstr ""
+msgstr "Cliceáil an cluaisín Forlíontáin."
 
 #: mozorg/plugincheck.lang:218
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr ""
+"Cliceáil an roghchlár anuas in aice leis an mbreiseán is mian leat a "
+"dhíchumasú."
 
 #: mozorg/plugincheck.lang:222
 msgid "Click on a plugin in the list."
-msgstr ""
+msgstr "Cliceáil forlíontán sa liosta."
 
 #: mozorg/plugincheck.lang:227
 msgid "Select \"Never Activate\" from the available choices."
-msgstr ""
+msgstr "Roghnaigh \"Ná Gníomhachtaigh Riamh\"."
 
 #: mozorg/plugincheck.lang:231
 msgid "Click the Disable button."
-msgstr ""
+msgstr "Cliceáil an cnaipe Díchumasaigh."
 
 #: mozorg/plugincheck.lang:235
 msgid ""
@@ -259,6 +288,9 @@ msgid ""
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on YouTube."
 msgstr ""
+"Rabhadh: Má dhíchumasaíonn tú forlíontán, ní bheidh tú in ann rudaí áirithe "
+"a dhéanamh a thuilleadh. Mar shampla, má dhíchumasaíonn tú Flash, ní bheidh "
+"tú in ann féachaint ar fhíseáin ar YouTube."
 
 #: mozorg/plugincheck.lang:240
 msgid ""
@@ -266,15 +298,20 @@ msgid ""
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on some streaming video websites."
 msgstr ""
+"Rabhadh: Má dhíchumasaíonn tú forlíontán, ní bheidh tú in ann rudaí áirithe "
+"a dhéanamh a thuilleadh. Mar shampla, má dhíchumasaíonn tú Flash, ní bheidh "
+"tú in ann féachaint ar fhíseáin ar shuímh mhór-le-rá."
 
 #: mozorg/plugincheck.lang:244
 msgid "Mozilla Support"
-msgstr ""
+msgstr "Tacaíocht Mozilla"
 
 #: mozorg/plugincheck.lang:248
 msgid "Have more questions?"
-msgstr ""
+msgstr "Tuilleadh Ceisteanna?"
 
 #: mozorg/plugincheck.lang:252
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
+"Tabhair cuairt ar <a href=\"%(sumo_url)s\">support.mozilla.org</a> chun "
+"cabhair a fháil!"
