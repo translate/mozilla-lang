@@ -4,14 +4,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-01-27 17:07+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2015-03-09 17:48+0000\n"
+"Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: gd\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3 ;\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1425923338.000000\n"
 
 #: firefox/australis/fx36_tour.lang:4
 msgid "Open tour"
@@ -35,6 +38,8 @@ msgid ""
 "Firefox Hello is the easiest way to connect with friends and family for free "
 "over video."
 msgstr ""
+"Is Firefox Hello an dòigh as fhasa gus ceangal ris na caraidean ’s do "
+"theaghlach le video saor ’s an-asgaidh."
 
 #. %s will be replaced by an image of Telefonica's logo.
 #: firefox/australis/fx36_tour.lang:26
@@ -51,7 +56,7 @@ msgstr "Na gleusan a chleachdas tu as trice, san aon àite"
 
 #: firefox/australis/fx36_tour.lang:38
 msgid "Connect with anyone over video right from Firefox"
-msgstr ""
+msgstr "Ceangail ri daoine eile le video ann am Firefox fhèin"
 
 #. “Firefox Hello” is the product name and should not be localized
 #: firefox/australis/fx36_tour.lang:43
@@ -61,31 +66,32 @@ msgstr ""
 #. “Firefox Hello” is the product name and should not be localized
 #: firefox/australis/fx36_tour.lang:48
 msgid "<span>Previous:</span> Firefox Hello"
-msgstr ""
+msgstr "<span>Air ais:</span> Firefox Hello"
 
 #. “Hello” is the product name and should not be localized
 #: firefox/australis/fx36_tour.lang:53
 msgid "Meet Hello"
-msgstr ""
+msgstr "Faigh eòlas air Hello"
 
 #: firefox/australis/fx36_tour.lang:57
-#, fuzzy
 msgid "The easiest way to connect for free over video with anyone, anywhere"
 msgstr ""
-"Seo dhut Firefox Hello, an dòigh as fhasa airson còmhradh video a dhèanamh "
-"le duine sam bith, àite sam bith."
+"Seo dhut an dòigh as fhasa airson còmhradh video a dhèanamh le duine sam "
+"bith, àite sam bith."
 
 #: firefox/australis/fx36_tour.lang:61
 msgid "Show me how"
-msgstr ""
+msgstr "Seall dhomh mar a nì mi seo"
 
 #: firefox/australis/fx36_tour.lang:65
 msgid "Did you know?"
-msgstr ""
+msgstr "An robh fios agad?"
 
 #: firefox/australis/fx36_tour.lang:69
 msgid "You can have free video conversations right from your Firefox browser."
 msgstr ""
+"’S urrainn dhut còmhradh air video ann am brabhsair Firefox fhèin saor ’s an-"
+"asgaidh."
 
 #. This is the label that represents tour step one of two
 #: firefox/australis/fx36_tour.lang:74
@@ -107,33 +113,35 @@ msgstr ""
 
 #: firefox/australis/fx36_tour.lang:88
 msgid "<span>Next:</span> Get started"
-msgstr ""
+msgstr "<span>Air adhart:</span> Toiseach tòiseachaidh"
 
 #. <br> tag below used for formatting only.
 #: firefox/australis/fx36_tour.lang:93
 msgid "Free video conversations,<br> right from Firefox"
-msgstr ""
+msgstr "Còmhraidhean video saor ’s an-asgaidh<br> am broinn Firefox fhèin"
 
 #: firefox/australis/fx36_tour.lang:97
 msgid "No account, sign-in or downloads required"
-msgstr ""
+msgstr "Gun fheum air cunntas, clàradh a-steach no luchdadh a-nuas"
 
 #: firefox/australis/fx36_tour.lang:101
 msgid "Simply start a conversation and share a link"
 msgstr ""
+"Cha leig thu leas ach còmhradh a thòiseachadh agus ceangal a cho-roinneadh"
 
 #: firefox/australis/fx36_tour.lang:105
 msgid "Invite anyone, anywhere to join"
-msgstr ""
+msgstr "Thoir cuireadh do dhuine sam bith, àite sam bith"
 
 #: firefox/australis/fx36_tour.lang:109
 msgid "Keep conversations one click away"
-msgstr ""
+msgstr "Dèan còmhradh sa bhad le briogadh a-mhàin"
 
 #. "Hello” is the product name and should not be localized
 #: firefox/australis/fx36_tour.lang:114
 msgid "Add Hello to your toolbar so it’s here whenever you need it."
 msgstr ""
+"Cuir Hello ris a’ bhàr-inneal agad gus am bi e ri làimh dhut an-còmhnaidh."
 
 #: firefox/australis/fx36_tour.lang:118
 msgid "Add it now"
@@ -141,11 +149,11 @@ msgstr "Cuir ris e an-dràsta"
 
 #: firefox/australis/fx36_tour.lang:122
 msgid "Later"
-msgstr "Uaireigin eile"
+msgstr "Cuir ris e an-dràsta"
 
 #: firefox/australis/fx36_tour.lang:126
 msgid "Perfect!"
-msgstr ""
+msgstr "Foirfe!"
 
 #. “Hello” is the product name and should not be localized
 #: firefox/australis/fx36_tour.lang:131
@@ -153,6 +161,9 @@ msgid ""
 "Now using Hello will be even easier. To move or remove the icon, just open "
 "the menu and select Customize."
 msgstr ""
+"Bidh e fiù ’s nas fhasa a-nis Hello a chleachdadh. Gus an ìomhaigheag a chur "
+"ris no a thoirt air falbh, cha leig thu leas ach an clàr-taice fhosgladh "
+"agus \"Gnàthaich\" a thaghadh."
 
 #: firefox/australis/fx36_tour.lang:135
 msgid "Try it now"
@@ -160,7 +171,7 @@ msgstr "Feuch e an-dràsta"
 
 #: firefox/australis/fx36_tour.lang:139
 msgid "Want to add it later?"
-msgstr ""
+msgstr "Am b’ fhearr leat a chur ris uaireigin eile?"
 
 #. “Firefox Hello” is the product name and should not be localized
 #: firefox/australis/fx36_tour.lang:144
@@ -168,6 +179,9 @@ msgid ""
 "No problem. Just open this menu, select Customize and simply drag the Hello "
 "icon into your toolbar."
 msgstr ""
+"Tha sin taghta. Cha leig thu leas ach an clàr-taice seo fhosgladh, "
+"\"Gnàthaich\" a thaghadh agus ìomhaigheag Hello a shlaodadh dhan bhàr-inneal "
+"agad."
 
 #. In this case 'hello' is simply a greeting, not the product name. The message is that Firefox Hello is easy to use, as easy as greeting someone.
 #. An alternative headline could be "The easiest way to connect".
@@ -177,7 +191,7 @@ msgstr "Cho simplidh ri 's a ghabhas"
 
 #: firefox/australis/fx36_tour.lang:154
 msgid "Start a video conversation with a single click"
-msgstr ""
+msgstr "Tòisich còmhradh video le briogadh a-mhàin"
 
 #: firefox/australis/fx36_tour.lang:158
 #, fuzzy
@@ -186,15 +200,16 @@ msgstr "Thoir cuireadh do charaid le bhith a' cur ceangal thuca"
 
 #: firefox/australis/fx36_tour.lang:162
 msgid "Anyone can join — with or without Firefox"
-msgstr ""
+msgstr "’S urrainn do dhuine sam bith pàirt a ghabhail ann — Firefox ann no às"
 
 #: firefox/australis/fx36_tour.lang:166
 msgid "Here when you need it"
-msgstr ""
+msgstr "Bidh e an-seo nuair a bhios feum agad air"
 
 #: firefox/australis/fx36_tour.lang:170
 msgid "Start and join conversations right from your toolbar."
 msgstr ""
+"Tòisich air agus gabh pàirt ann an còmhraidhean on bhàr-inneal agad fhèin."
 
 #: firefox/australis/fx36_tour.lang:174
 msgid "Let’s go"
