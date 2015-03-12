@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-03 19:06+0000\n"
+"POT-Creation-Date: 2015-03-12 20:08+0000\n"
 "PO-Revision-Date: 2015-03-09 14:37+0000\n"
 "Last-Translator: seoc <sociardhuain@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,220 +12,270 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1425911836.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
 msgstr "Nascleanúint"
 
-#. Used in the new Firefox family navigation menu. Main level item.
-#. Menu will be enabled on Firefox OS family on March 1st.
-#. Example: https://www-dev.allizom.org/it/firefox/os
-#: main.lang:8
+#. Firefox family navigation menu. Main level item.
+#. Example: https://www-demo2.allizom.org/firefox/os
+#: main.lang:7
 msgid "<span>for</span> Desktop"
 msgstr "<span>ar an</span> Deasc"
 
-#. Used in the new Firefox family navigation menu. Sub-item.
-#: main.lang:13
-msgid "Overview"
-msgstr "Foramharc"
-
-#. Used in the new Firefox family navigation menu. Sub-item.
-#: main.lang:18
-msgid "Trusted"
-msgstr "Iontaofa"
-
-#. Used in the new Firefox family navigation menu. Sub-item.
-#: main.lang:23
-msgid "Flexible"
-msgstr "Solúbtha"
-
-#. Used in the new Firefox family navigation menu. Sub-item.
-#: main.lang:28
-msgid "Fast"
-msgstr "Sciobtha"
-
-#. Used in the new Firefox family navigation menu. Main level item.
-#: main.lang:33
+#. Firefox family navigation menu. Main level item.
+#: main.lang:12
 msgid "<span>for</span> Android"
 msgstr "<span>ar</span> Android"
 
-#. Used in the new Firefox family navigation menu. Main level item.
-#: main.lang:38
+#. Firefox family navigation menu. Main level item.
+#: main.lang:17
 msgid "OS"
 msgstr "Firefox OS"
 
-#. Used in the new Firefox family navigation menu. Sub-item.
-#: main.lang:43
+#. Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+#: main.lang:22
+msgid "For desktops &amp; laptops"
+msgstr ""
+
+#. Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+#: main.lang:27
+msgid "For phones &amp; tablets"
+msgstr ""
+
+#. Firefox family navigation menu. Second-level item shared across different menus.
+#: main.lang:32
+msgid "Overview"
+msgstr "Foramharc"
+
+#. Firefox family navigation menu. Second-level item shared across different menus.
+#: main.lang:37
+msgid "Trusted"
+msgstr "Iontaofa"
+
+#. Firefox family navigation menu. Second-level item shared across different menus.
+#: main.lang:42
+msgid "Flexible"
+msgstr "Solúbtha"
+
+#. Firefox family navigation menu. Second-level item shared across different menus.
+#: main.lang:47
+msgid "Fast"
+msgstr "Sciobtha"
+
+#. Used in the new Firefox family navigation menu. Second-level item of "OS"
+#: main.lang:52
 msgid "About"
 msgstr "Eolas"
 
-#. Used in the new Firefox family navigation menu. Sub-item.
-#: main.lang:48
+#. Used in the new Firefox family navigation menu. Second-level item of "OS"
+#: main.lang:57
 msgid "Devices"
 msgstr "Gléasanna"
 
-#. Used in the new Firefox family navigation menu. Sub-item.
-#: main.lang:53
+#. Used in the new Firefox family navigation menu. Second-level item of "OS"
+#: main.lang:62
 msgid "For partners"
 msgstr "Do comhpháirtithe"
 
-#. Used in the new Firefox family navigation menu. Item in the '...' button
-#: main.lang:58
+#. Firefox family navigation menu. Item displayed pressing the "…" button.
+#: main.lang:67
+msgid "Do Not Track"
+msgstr "Ná Rianaigh"
+
+#. Firefox family navigation menu. Item displayed pressing the "…" button.
+#: main.lang:72
+msgid "Tiles"
+msgstr ""
+
+#. Firefox family navigation menu. Item displayed pressing the "…" button.
+#. Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+#: main.lang:78
+msgid "Interest Dashboard"
+msgstr ""
+
+#. Firefox family navigation menu. Item displayed pressing the "…" button.
+#: main.lang:83
+msgid "Developer Edition"
+msgstr ""
+
+#. Firefox family navigation menu. Item displayed pressing the "…" button.
+#: main.lang:88
+msgid "Private Browsing"
+msgstr "Brabhsáil Phríobháideach"
+
+#. Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+#: main.lang:93
+msgid "Need help?"
+msgstr "Cabhair uait?"
+
+#. Firefox family navigation menu. Item displayed pressing the "…" button.
+#: main.lang:98
 msgid "News"
 msgstr "Nuacht"
 
-#. Used in the new Firefox family navigation menu. Item in the '...' button
-#: main.lang:63
+#. Firefox family navigation menu. Item displayed pressing the "…" button.
+#: main.lang:103
+msgid "For developers"
+msgstr ""
+
+#. Firefox family navigation menu. Item displayed pressing the "…" button.
+#: main.lang:108
+msgid "Find My Device"
+msgstr ""
+
+#. Firefox family navigation menu. Item displayed pressing the "…" button.
+#: main.lang:113
 msgid "Developers"
 msgstr "Forbróirí"
 
-#: main.lang:67
+#: main.lang:117
 msgid "Donate"
 msgstr "Bronn"
 
-#: main.lang:71
+#: main.lang:121
 msgid "Support"
 msgstr "Tacaíocht"
 
-#: main.lang:75
+#: main.lang:125
 msgid "Products"
 msgstr "Táirgí"
 
-#: main.lang:79
+#: main.lang:129
 msgid "Add-ons"
 msgstr "Breiseáin"
 
-#: main.lang:83
+#: main.lang:133
 msgid "About Us"
 msgstr "Maidir linn"
 
-#: main.lang:87
+#: main.lang:137
 msgid "Labs"
 msgstr "Saotharlanna"
 
-#: main.lang:91
+#: main.lang:141
 msgid "skip to Navigation"
 msgstr "léim go Nascleanúint"
 
-#: main.lang:95
+#: main.lang:145
 msgid "switch language"
 msgstr "athraigh an teanga"
 
-#: main.lang:99
+#: main.lang:149
 msgid "Back to home page"
 msgstr "Ar ais go dtí an leathanach baile"
 
-#: main.lang:103
+#: main.lang:153
 msgid "About Mozilla"
 msgstr "Maidir le Mozilla"
 
-#: main.lang:107
+#: main.lang:157
 msgid "Get Involved"
 msgstr "Rannpháirtíocht"
 
-#: main.lang:111
+#: main.lang:161
 msgid "Careers"
 msgstr "Gairmeacha"
 
-#: main.lang:115
+#: main.lang:165
 msgid "Press Center"
 msgstr "Ionad na Meán Cumarsáide"
 
-#: main.lang:119
+#: main.lang:169
 msgid "Contact Us"
 msgstr "Déan teagmháil linn"
 
-#: main.lang:123
+#: main.lang:173
 msgid "Other languages:"
 msgstr "Teangacha eile:"
 
 #. Year / Month / Day, indicate your prefered date format for your language
-#: main.lang:128
+#: main.lang:178
 msgid "%Y-%m-%d"
 msgstr "%Y-%m-%d"
 
-#: main.lang:132
+#: main.lang:182
 msgid "Legal"
 msgstr "Cúrsaí Dlí"
 
 #. Used as link in the footer
-#: main.lang:137
+#: main.lang:187
 msgid "Cookies"
 msgstr "Fianáin"
 
 #. Used as link in the footer
-#: main.lang:142
+#: main.lang:192
 msgid "Firefox Affiliates"
 msgstr "Cleamhnaithe Firefox"
 
-#: main.lang:146
+#: main.lang:196
 msgid "Legal Notices"
 msgstr "Fógraí Dlí"
 
-#: main.lang:150
+#: main.lang:200
 msgid "Privacy Policy"
 msgstr "Polasaí Príobháideachta"
 
-#: main.lang:154
+#: main.lang:204
 msgid "Release Notes"
 msgstr "Nótaí Eisiúna"
 
-#: main.lang:158
+#: main.lang:208
 msgid "Other Systems and Languages"
 msgstr "Teangacha agus Córais Eile"
 
-#: main.lang:162
+#: main.lang:212
 msgid "Close"
 msgstr "Dún"
 
-#: main.lang:166
+#: main.lang:216
 msgid "(in English)"
 msgstr "(i mBéarla)"
 
-#: main.lang:170
+#: main.lang:220
 msgid "Return to top"
 msgstr "Go dtí an barr"
 
-#: main.lang:174
+#: main.lang:224
 msgid "Features"
 msgstr "Gnéithe"
 
-#: main.lang:178
+#: main.lang:228
 msgid "Customize"
 msgstr "Saincheap"
 
-#: main.lang:183
+#: main.lang:233
 msgid "Download"
 msgstr "Íosluchtaigh"
 
-#: main.lang:187
+#: main.lang:237
 msgid "Previous"
 msgstr "Siar"
 
-#: main.lang:191
+#: main.lang:241
 msgid "Next"
 msgstr "Ar Aghaidh"
 
 #. MegaBytes abbreviation
-#: main.lang:196
+#: main.lang:246
 msgid "MB"
 msgstr "MB"
 
-#: main.lang:200
+#: main.lang:250
 msgid "MegaBytes"
 msgstr "Meigibhearta"
 
-#: main.lang:204
+#: main.lang:254
 msgid "FAQ"
 msgstr "Ceisteanna Coitianta"
 
-#: main.lang:208
+#: main.lang:258
 msgid "Videos"
 msgstr "Físeáin"
 
-#: main.lang:212
+#: main.lang:262
 msgid ""
 "Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
 "licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
@@ -235,110 +285,110 @@ msgstr ""
 "an t-ábhar ar an suíomh seo ar fáil faoin <br /><a href=\"%s\">Creative "
 "Commons Attribution Share-Alike License v3.0</a> nó aon leagan níos déanaí."
 
-#: main.lang:216
+#: main.lang:266
 msgid "Report Trademark Abuse"
 msgstr "Déan Tuairisc ar Dhrochúsáid Trádmharcanna"
 
-#: main.lang:220
+#: main.lang:270
 msgid "Free Upgrade"
 msgstr "Nuashonrú Saor in Aisce"
 
 #. social networks such as Facebook and Twitter
-#: main.lang:225
+#: main.lang:275
 msgid "Follow us on:"
 msgstr "Bí dár leanúint ar:"
 
-#: main.lang:229
+#: main.lang:279
 msgid "Customize with Add-ons"
 msgstr "Saincheap Firefox le Breiseáin"
 
-#: main.lang:233
+#: main.lang:283
 msgid "Learn More"
 msgstr "Tuilleadh Eolais"
 
 #. Same as previous above but with no capitalization on More
-#: main.lang:238
+#: main.lang:288
 msgid "Learn more"
 msgstr "Tuilleadh Eolais"
 
 #. Link used to play again an animation or a video
-#: main.lang:243
+#: main.lang:293
 msgid "Replay"
 msgstr "Seinn arís"
 
-#: main.lang:247
+#: main.lang:297
 msgid "Watch the video"
 msgstr "Féach ar an bhfíseán"
 
-#: main.lang:251
+#: main.lang:301
 msgid "Replay the video"
 msgstr "Seinn an físeán arís"
 
-#: main.lang:255
+#: main.lang:305
 msgid "Share the video"
 msgstr "Comhroinn an físeán"
 
-#: main.lang:259
+#: main.lang:309
 msgid "WebM format"
 msgstr "Formáid WebM"
 
-#: main.lang:263
+#: main.lang:313
 msgid "Ogg Theora format"
 msgstr "Formáid Ogg Theora"
 
-#: main.lang:267
+#: main.lang:317
 msgid "MPEG-4 format"
 msgstr "Formáid MPEG-4"
 
-#: main.lang:271
+#: main.lang:321
 msgid "Mobile"
 msgstr "Soghluaiste"
 
-#: main.lang:275
+#: main.lang:325
 msgid "Check out the new look and feel of Firefox."
 msgstr "Bainfidh tú sult as an gcuma úrnua ar Firefox."
 
-#: main.lang:279
+#: main.lang:329
 msgid "View Full Site"
 msgstr "Féach ar an Suíomh Iomlán"
 
-#: main.lang:283
+#: main.lang:333
 msgid "Get Firefox for Android"
 msgstr "Faigh Firefox ar Android"
 
-#: main.lang:287
+#: main.lang:337
 msgid "Download for <span>Android</span>"
 msgstr "Íosluchtaigh le haghaidh <span>Android</span>"
 
-#: main.lang:291
+#: main.lang:341
 msgid "Desktop"
 msgstr "Deasc"
 
-#: main.lang:295
+#: main.lang:345
 msgid "Firefox Beta for mobile"
 msgstr "Firefox Soghluaiste - Béite"
 
-#: main.lang:299
+#: main.lang:349
 msgid "Firefox for mobile"
 msgstr "Firefox Soghluaiste"
 
-#: main.lang:303
+#: main.lang:353
 msgid "Email"
 msgstr "Ríomhphost"
 
-#: main.lang:307
+#: main.lang:357
 msgid "Super speed"
 msgstr "Ardluas"
 
-#: main.lang:311
+#: main.lang:361
 msgid "Stunning graphics"
 msgstr "Grafaic álainn"
 
-#: main.lang:315
+#: main.lang:365
 msgid "The latest technologies"
 msgstr "Na teicneolaíochtaí is déanaí"
 
-#: main.lang:319
+#: main.lang:369
 msgid ""
 "You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
 "new Firefox for the best in browsing and customization on the Web. <br/>   "
@@ -348,35 +398,30 @@ msgstr ""
 "Faigh an Firefox nua agus bain an tairbhe is mó as an nGréasán. <br/> Tá sé "
 "an-tapa agus saor in aisce!"
 
-#: main.lang:323
+#: main.lang:373
 msgid "Upgrade now"
 msgstr "Nuashonraigh anois"
 
-#: main.lang:327
+#: main.lang:377
 msgid "Update now"
 msgstr "Nuashonraigh anois"
 
-#: main.lang:331
+#: main.lang:381
 msgid "Supported Devices"
 msgstr "Gléasanna Tacaithe"
 
-#. Used in several pages (firefox/new, firefox/sync, etc.) as a link to SUMO
-#: main.lang:336
-msgid "Need help?"
-msgstr "Cabhair uait?"
-
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-#: main.lang:341
+#: main.lang:386
 msgid "What’s New"
 msgstr "Gnéithe Nua"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
-#: main.lang:346
+#: main.lang:391
 msgid "Privacy"
 msgstr "Príobháideachas"
 
 #. Footer string
-#: main.lang:351
+#: main.lang:396
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
@@ -386,203 +431,208 @@ msgstr ""
 "ar fáil de réir téarmaí <a href=\"%(url)s\">Cheadúnas Creative Commons</a>."
 
 #. Footer string
-#: main.lang:356
+#: main.lang:401
 msgid "Contribute to this page"
 msgstr "Cuir feabhas ar an leathanach seo"
 
 #. Top menu item
-#: main.lang:361
+#: main.lang:406
 msgid "Mission"
 msgstr "Misean"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:366
+#: main.lang:411
 msgid "Tour"
 msgstr "Turas"
 
 #. Footer item
-#: main.lang:371
+#: main.lang:416
 msgid "Partner with Us"
 msgstr "Comhpháirtíocht"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:376
+#: main.lang:421
 msgid "Sync"
 msgstr "Sync"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:381
+#: main.lang:426
 msgid "Desktop Add-ons"
 msgstr "Breiseáin ar an Deasc"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:386
+#: main.lang:431
 msgid "Android Add-ons"
 msgstr "Breiseáin Android"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:391
+#: main.lang:436
 msgid "Themes"
 msgstr "Téamaí"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:396
+#: main.lang:441
 msgid "Desktop Support"
 msgstr "Tacaíocht (Deasc)"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:401
+#: main.lang:446
 msgid "Android Support"
 msgstr "Tacaíocht Android"
 
 #. Top menu item on firefox/update page
-#: main.lang:406
+#: main.lang:451
 msgid "Performance"
 msgstr "Feidhmíocht"
 
 #. Top menu item on firefox/update page
-#: main.lang:411
+#: main.lang:456
 msgid "Technology"
 msgstr "Teicneolaíocht"
 
 #. Top menu item on firefox/update page
-#: main.lang:416
+#: main.lang:461
 msgid "Privacy &amp; Security"
 msgstr "Príobháideacht &amp; Slándáil"
 
 #. Top menu item on firefox/update page
-#: main.lang:421
+#: main.lang:466
 msgid "Releases"
 msgstr "Leaganacha"
 
 #. Top menu item on firefox/update page
-#: main.lang:426
+#: main.lang:471
 msgid "Firefox"
 msgstr "Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:431
+#: main.lang:476
 msgid "Firefox for Organizations"
 msgstr "Firefox i d'Eagraíocht"
 
 #. Top menu item on firefox/update page
-#: main.lang:436
+#: main.lang:481
 msgid "Mobile Add-ons"
 msgstr "Breiseáin Shoghluaiste"
 
 #. Top menu item on firefox/update page
-#: main.lang:441
+#: main.lang:486
 msgid "Mobile Support"
 msgstr "Tacaíocht (Soghluaiste)"
 
 #. Top menu item on firefox/update page
-#: main.lang:446
+#: main.lang:491
 msgid "Blog"
 msgstr "Blag"
 
 #. Top menu item on firefox/update page
-#: main.lang:451
+#: main.lang:496
 msgid "About Firefox"
 msgstr "Maidir le Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:456
+#: main.lang:501
 msgid "Join Mozilla"
 msgstr "Bí Linn"
 
 #. Top menu item on firefox/update page
-#: main.lang:461
+#: main.lang:506
 msgid "Participate"
 msgstr "Glac Páirt"
 
 #. Top menu item on firefox/update page
-#: main.lang:466
+#: main.lang:511
 msgid "Brand Toolkit"
 msgstr "Uirlisí Brandála"
 
 #. Top menu item on firefox/update page
-#: main.lang:471
+#: main.lang:516
 msgid "Partnerships"
 msgstr "Comhpháirtíocht"
 
 #. Newsletter subscription form above footer on some pages
-#: main.lang:476
+#: main.lang:521
 msgid "Get Mozilla updates"
 msgstr "Faigh nuacht ó Mhozilla"
 
 #. share button for social networks
-#: main.lang:481
+#: main.lang:526
 msgid "Share"
 msgstr "Comhroinn"
 
 #. footer link
-#: main.lang:486
+#: main.lang:531
 msgid "Mozilla on Twitter"
 msgstr "Mozilla ar Twitter"
 
 #. footer link
-#: main.lang:491
+#: main.lang:536
 msgid "Firefox on Twitter"
 msgstr "Firefox ar Twitter"
 
 #. footer link
-#: main.lang:496
+#: main.lang:541
 msgid "Mozilla on Facebook"
 msgstr "Mozilla ar Facebook"
 
 #. footer link
-#: main.lang:501
+#: main.lang:546
 msgid "Firefox on Facebook"
 msgstr "Firefox ar Facebook"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:506
+#: main.lang:551
 msgid "Forums"
 msgstr "Fóraim"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:511
+#: main.lang:556
+msgid "Leadership"
+msgstr ""
+
+#. sidebar link in some /about pages (e.g. Manifesto)
+#: main.lang:561
 msgid "Governance"
 msgstr "Rialachas"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:516
+#: main.lang:566
 msgid "History"
 msgstr "Stair"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:521
+#: main.lang:571
 msgid "Our Products"
 msgstr "Táirgí"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:526
+#: main.lang:576
 msgid "Software and other innovations designed to advance our mission."
 msgstr "Bogearraí agus nuálaíocht a chuireann ár misean chun cinn"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:531
+#: main.lang:581
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "Is féidir leat cabhrú linn ar go leor bealaí éagsúla."
 
 #. This is a non-visible string for blind people to indicate where the menu is
-#: main.lang:536
+#: main.lang:586
 msgid "Menu"
 msgstr "Roghchlár"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
-#: main.lang:541
+#: main.lang:591
 msgid "Committed to you, your privacy and an open Web"
 msgstr "Tiomanta don phríobháideacht, don Ghréasán oscailte, agus duitse"
 
 #. Common title used in Fx 10 pages
-#: main.lang:546
+#: main.lang:596
 msgid "Choose Independent"
 msgstr "Roghnaigh an Neamhspleáchas"
 
 #. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 #. The '#ChooseIndependent' hashtag should not be translated.
-#: main.lang:553
+#: main.lang:603
 msgid ""
 "Keep the passion for a free and open Internet burning bright! "
 "#ChooseIndependent. Choose Firefox:"
@@ -591,120 +641,120 @@ msgstr ""
 "#Neamhspleáchas. Roghnaigh Firefox:"
 
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
-#: main.lang:559
+#: main.lang:609
 msgid "Please turn on JavaScript to display this page correctly."
 msgstr ""
 "Caithfidh tú JavaScript a chur ar siúl chun an leathanach seo a chur ar "
 "taispeáint."
 
 #. Used as link to /firefox/desktop in footers on some pages
-#: main.lang:564
+#: main.lang:614
 msgid "Firefox Features"
 msgstr "Gnéithe Firefox"
 
 #. Used as link to SUMO in footers on some pages
-#: main.lang:569
+#: main.lang:619
 msgid "Firefox Help"
 msgstr "Cabhair le Firefox"
 
-#: main.lang:573
+#: main.lang:623
 msgid "January"
 msgstr "Eanáir"
 
-#: main.lang:577
+#: main.lang:627
 msgid "February"
 msgstr "Feabhra"
 
-#: main.lang:581
+#: main.lang:631
 msgid "March"
 msgstr "Márta"
 
-#: main.lang:585
+#: main.lang:635
 msgid "April"
 msgstr "Aibreán"
 
-#: main.lang:589
+#: main.lang:639
 msgid "May"
 msgstr "Bealtaine"
 
-#: main.lang:593
+#: main.lang:643
 msgid "June"
 msgstr "Meitheamh"
 
-#: main.lang:597
+#: main.lang:647
 msgid "July"
 msgstr "Iúil"
 
-#: main.lang:601
+#: main.lang:651
 msgid "August"
 msgstr "Lúnasa"
 
-#: main.lang:605
+#: main.lang:655
 msgid "September"
 msgstr "Meán Fómhair"
 
-#: main.lang:609
+#: main.lang:659
 msgid "October"
 msgstr "Deireadh Fómhair"
 
-#: main.lang:613
+#: main.lang:663
 msgid "November"
 msgstr "Samhain"
 
-#: main.lang:617
+#: main.lang:667
 msgid "December"
 msgstr "Nollaig"
 
-#: main.lang:621
+#: main.lang:671
 msgid "<abbr>Jan</abbr>"
 msgstr "<abbr>Ean</abbr>"
 
-#: main.lang:625
+#: main.lang:675
 msgid "<abbr>Feb</abbr>"
 msgstr "<abbr>Fea</abbr>"
 
-#: main.lang:629
+#: main.lang:679
 msgid "<abbr>Mar</abbr>"
 msgstr "<abbr>Már</abbr>"
 
-#: main.lang:633
+#: main.lang:683
 msgid "<abbr>Apr</abbr>"
 msgstr "<abbr>Aib</abbr>"
 
-#: main.lang:637
+#: main.lang:687
 msgid "<abbr>May</abbr>"
 msgstr "<abbr>Bea</abbr>"
 
-#: main.lang:641
+#: main.lang:691
 msgid "<abbr>Jun</abbr>"
 msgstr "<abbr>Mei</abbr>"
 
-#: main.lang:645
+#: main.lang:695
 msgid "<abbr>Jul</abbr>"
 msgstr "<abbr>Iúi</abbr>"
 
-#: main.lang:649
+#: main.lang:699
 msgid "<abbr>Aug</abbr>"
 msgstr "<abbr>Lún</abbr>"
 
-#: main.lang:653
+#: main.lang:703
 msgid "<abbr>Sep</abbr>"
 msgstr "<abbr>MFó</abbr>"
 
-#: main.lang:657
+#: main.lang:707
 msgid "<abbr>Oct</abbr>"
 msgstr "<abbr>DFó</abbr>"
 
-#: main.lang:661
+#: main.lang:711
 msgid "<abbr>Nov</abbr>"
 msgstr "<abbr>Sam</abbr>"
 
-#: main.lang:665
+#: main.lang:715
 msgid "<abbr>Dec</abbr>"
 msgstr "<abbr>Nol</abbr>"
 
 #. Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-#: main.lang:670
+#: main.lang:720
 msgid ""
 "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
 msgstr ""

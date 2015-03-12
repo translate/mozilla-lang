@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-03-12 20:08+0000\n"
 "PO-Revision-Date: 2015-03-02 16:54+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: none\n"
@@ -14,16 +14,23 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1425315275.000000\n"
 
-#. Use as meta HTML tag (page title)
-#: firefox/os/index-new.lang:6
+#. Used as meta HTML tag (page description)
+#: firefox/os/index-new.lang:8
+msgid ""
+"Designed to give you just what you need in a smartphone, with apps for all "
+"you do and more. Smart has never been so simple."
+msgstr ""
+
+#. Used as meta HTML tag (page title)
+#: firefox/os/index-new.lang:13
 msgid ""
 "Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More"
 msgstr ""
 "Firefox OS — Moslashuvchan telefon — Buyuk smartfon xususiyatlari, ilova "
 "dasturlari va boshqalar"
 
-#. Use as meta HTML tag (page description)
-#: firefox/os/index-new.lang:11
+#. OLD: Used as meta HTML tag (page description)
+#: firefox/os/index-new.lang:18
 msgid ""
 "Firefox OS smartphones give you great adaptive features and apps that let "
 "you live every moment to its fullest and build a brighter future for the Web."
@@ -34,45 +41,45 @@ msgstr ""
 "hadya qiladi."
 
 #. Alternative text for top image
-#: firefox/os/index-new.lang:16
+#: firefox/os/index-new.lang:23
 msgid "Firefox OS device illustration"
 msgstr "Firefox OS qurilmasi tavirlari"
 
-#: firefox/os/index-new.lang:20
+#: firefox/os/index-new.lang:27
 msgid "Designed to give you just what you need, just when you need it."
 msgstr "Siz kerakli vaqtda kerakli narsalarni berish uchun tuzilgan."
 
 #. Title used above the animation (click on the phone image)
-#: firefox/os/index-new.lang:25
+#: firefox/os/index-new.lang:32
 msgid "Give these a try"
 msgstr "Bularni bir sinab ko‘ring"
 
 #. Used as a button label in the animation at the top of the page
-#: firefox/os/index-new.lang:30
+#: firefox/os/index-new.lang:37
 msgid "Scroll the homepage"
 msgstr "Bosh sahifaga o‘ting"
 
 #. Used as a button label in the animation at the top of the page
-#: firefox/os/index-new.lang:35
+#: firefox/os/index-new.lang:42
 msgid "Swipe between apps"
 msgstr "Ilovalararo almashish"
 
 #. Title
-#: firefox/os/index-new.lang:40
+#: firefox/os/index-new.lang:47
 msgid "Smart has never been so simple"
 msgstr "Qulaylik hech qachon bunchalik oddiy bo‘lmagan"
 
 #. Alternative text for icon
-#: firefox/os/index-new.lang:45
+#: firefox/os/index-new.lang:52
 msgid "interaction icon"
 msgstr "o‘zaro muloqot nishonchasi"
 
 #. Sub-section title
-#: firefox/os/index-new.lang:50
+#: firefox/os/index-new.lang:57
 msgid "Scroll for what you need"
 msgstr "Kerakli joyga o‘ting"
 
-#: firefox/os/index-new.lang:54
+#: firefox/os/index-new.lang:61
 msgid ""
 "Say goodbye to multiple home screens. Everything you need is right there in "
 "one clean, continuous scroll. What could be easier?"
@@ -81,11 +88,11 @@ msgstr ""
 "bitta toza, davomiy siljiydigan sahifada joylashgan. Oson ekanmi?"
 
 #. Sub-section title
-#: firefox/os/index-new.lang:59
+#: firefox/os/index-new.lang:66
 msgid "Search in a snap"
 msgstr "Bir chertishda izlang"
 
-#: firefox/os/index-new.lang:63
+#: firefox/os/index-new.lang:70
 msgid ""
 "Search the Web and the Firefox Marketplace, or visit a website directly — "
 "all from the search bar at the top of your home screen."
@@ -97,11 +104,11 @@ msgstr ""
 #. Sub-section title
 #. The &nbsp; (non-breaking space) is used only to differentiate this title from the button label "Swipe" between apps
 #. Feel free to use the same translation and drop the non-breaking space in your translation.
-#: firefox/os/index-new.lang:70
+#: firefox/os/index-new.lang:77
 msgid "Swipe&nbsp;between apps"
 msgstr "Ilovalararo&nbsp;o‘ting"
 
-#: firefox/os/index-new.lang:74
+#: firefox/os/index-new.lang:81
 msgid ""
 "Access your recently used apps in a flash. Just swipe from the edge of the "
 "screen to cycle through all of your open apps."
@@ -109,140 +116,148 @@ msgstr ""
 "So‘nggi foydalanilgan ilova dasturlaringizga bir lahzada kiring. Ekranning "
 "chetidan halqaga barcha ochiq ilova dasturlaringiz bo‘ylab silang."
 
-#: firefox/os/index-new.lang:78
+#. Currently not used in the page, will be used for 1.1 fallback content
+#: firefox/os/index-new.lang:87
+msgid ""
+"Firefox OS is designed to fit your life and with Adaptive App Search it does "
+"just that. Just start typing to get fast and easy access to related apps and "
+"local content. It’s smart and simple — the way every search should be."
+msgstr ""
+
+#: firefox/os/index-new.lang:91
 msgid "Apps for all you do"
 msgstr "Siz uchun kerakli ilova dasturlar"
 
-#: firefox/os/index-new.lang:82
+#: firefox/os/index-new.lang:95
 msgid "Stay connected"
 msgstr "Aloqada qoling"
 
-#: firefox/os/index-new.lang:86
+#: firefox/os/index-new.lang:99
 msgid "Stay entertained"
 msgstr "Hamisha xursand qoling"
 
-#: firefox/os/index-new.lang:90
+#: firefox/os/index-new.lang:103
 msgid "Stay organized"
 msgstr "Tartibli bo‘lib qoling"
 
 #. Placeholder text for the search bar, imported from Gaia 2.0
-#: firefox/os/index-new.lang:95
+#: firefox/os/index-new.lang:108
 msgid "Search or enter address"
 msgstr "Izlang yoki manzilni kiriting"
 
 #. Time used in the phone image. It should replicate Gaia's actual time format for your locale.
-#: firefox/os/index-new.lang:100
+#: firefox/os/index-new.lang:113
 msgid "12:34 PM"
 msgstr "12:34 PM"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:105
+#: firefox/os/index-new.lang:118
 msgid "Phone"
 msgstr "Telefon"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:110
+#: firefox/os/index-new.lang:123
 msgid "Camera"
 msgstr "Kamera"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:115
+#: firefox/os/index-new.lang:128
 msgid "Video"
 msgstr "Video"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:120
+#: firefox/os/index-new.lang:133
 msgid "E-Mail"
 msgstr "E-pochta"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:125
+#: firefox/os/index-new.lang:138
 msgid "Messages"
 msgstr "Xabarlar"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:130
+#: firefox/os/index-new.lang:143
 msgid "Calendar"
 msgstr "Taqvim"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:135
+#: firefox/os/index-new.lang:148
 msgid "Browser"
 msgstr "Brauzer"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:140
+#: firefox/os/index-new.lang:153
 msgid "Clock"
 msgstr "Soat"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:145
+#: firefox/os/index-new.lang:158
 msgid "Contacts"
 msgstr "Aloqalar"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:150
+#: firefox/os/index-new.lang:163
 msgid "Music"
 msgstr "Musiqa"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:155
+#: firefox/os/index-new.lang:168
 msgid "FM Radio"
 msgstr "FM radio"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:160
+#: firefox/os/index-new.lang:173
 msgid "Settings"
 msgstr "Sozlamalar"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:165
+#: firefox/os/index-new.lang:178
 msgid "Gallery"
 msgstr "Galleriya"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:170
+#: firefox/os/index-new.lang:183
 msgid "Usage"
 msgstr "Foydalanish"
 
-#: firefox/os/index-new.lang:174
+#: firefox/os/index-new.lang:187
 msgid "Add more from the Firefox Marketplace"
 msgstr "Firefox do‘konidan ko‘proq qo‘shing"
 
-#: firefox/os/index-new.lang:178
+#: firefox/os/index-new.lang:191
 msgid "Get all the most popular games and social networking apps right here."
 msgstr ""
 "Barcha mashhur o‘yinlar va ijtimoiy tarmoq ilova dasturlarini aynan shu "
 "yerdan yuklab oling."
 
-#: firefox/os/index-new.lang:182
+#: firefox/os/index-new.lang:195
 msgid "Go to the Marketplace"
 msgstr "Marketplace’ga o‘ting"
 
-#: firefox/os/index-new.lang:186
+#: firefox/os/index-new.lang:199
 msgid "* Pre-installed apps may vary by manufacturers and operators."
 msgstr ""
 "* Oldindan o‘rnatilgan ilova dasturlar ishlab chiqaruvchilar va "
 "operatorlarga tegishli bo‘lishi mumkin."
 
-#: firefox/os/index-new.lang:190
+#: firefox/os/index-new.lang:203
 msgid "In the news"
 msgstr "Yangiliklarda"
 
-#: firefox/os/index-new.lang:194
+#: firefox/os/index-new.lang:207
 msgid "See more"
 msgstr "Ko‘proq ko‘rish"
 
 #. Alternative text for community image
-#: firefox/os/index-new.lang:199
+#: firefox/os/index-new.lang:212
 msgid "Mozilla community photo"
 msgstr "Mozilla jamoasi rasmi"
 
-#: firefox/os/index-new.lang:203
+#: firefox/os/index-new.lang:216
 msgid "Powered by the Mozilla community"
 msgstr "Mozilla jamoasi tomonidan yaratilgan"
 
-#: firefox/os/index-new.lang:207
+#: firefox/os/index-new.lang:220
 msgid ""
 "Mozilla is a non-profit organization fueled by a passionate global "
 "community. Together, we’re able to create and innovate with local interests "
@@ -255,57 +270,57 @@ msgstr ""
 "mumkin. Bu bilan internetni yanada yaxshilashimiz va har qanday yerdagi har "
 "qanday inson uchun yanada qulay qilishimiz mumkin."
 
-#: firefox/os/index-new.lang:211
+#: firefox/os/index-new.lang:224
 msgid "Learn more about Mozilla"
 msgstr "Mozilla haqida ko‘proq o‘rganing"
 
-#: firefox/os/index-new.lang:215
+#: firefox/os/index-new.lang:228
 msgid "Need Help?"
 msgstr "Yordam kerakmi?"
 
-#: firefox/os/index-new.lang:219
+#: firefox/os/index-new.lang:232
 msgid "Firefox OS Support"
 msgstr "Firefox OS yordami"
 
 #. App name imported from Gaia 2.0
-#: firefox/os/index-new.lang:224
+#: firefox/os/index-new.lang:237
 msgid "Find My Device"
 msgstr "Qurilmamni topish"
 
-#: firefox/os/index-new.lang:228
+#: firefox/os/index-new.lang:241
 msgid "For Developers"
 msgstr "Dasturchilar uchun"
 
-#: firefox/os/index-new.lang:232
+#: firefox/os/index-new.lang:245
 msgid "Mozilla Developer Network"
 msgstr "Mozilla dasturchilar tarmog‘i"
 
-#: firefox/os/index-new.lang:236
+#: firefox/os/index-new.lang:249
 msgid "Mozilla Appmaker"
 msgstr "Mozilla Appmaker"
 
-#: firefox/os/index-new.lang:240
+#: firefox/os/index-new.lang:253
 msgid "Firefox OS devices"
 msgstr "Firefox OS qurilmalari"
 
-#: firefox/os/index-new.lang:244
+#: firefox/os/index-new.lang:257
 msgid "Where is Firefox OS available?"
 msgstr "Firefox OS qayerda bor?"
 
-#: firefox/os/index-new.lang:248
+#: firefox/os/index-new.lang:261
 msgid "Other Firefox OS versions"
 msgstr "Boshqa Firefox OS versiyalari"
 
-#: firefox/os/index-new.lang:252
+#: firefox/os/index-new.lang:265
 msgid "For Partners"
 msgstr "Hamkorlar uchun"
 
-#: firefox/os/index-new.lang:256
+#: firefox/os/index-new.lang:269
 msgid "Partnership opportunities"
 msgstr "Hamkorlik imkoniyatlari"
 
 #. Module "Get a phone", displayed in countries where phones are commercialized by operators
-#: firefox/os/index-new.lang:261
+#: firefox/os/index-new.lang:274
 msgid ""
 "We work with a number of providers to offer Firefox OS on a variety of "
 "devices."
@@ -314,7 +329,7 @@ msgstr ""
 "ko‘rsatuvchilar bilan birga ishlaymiz."
 
 #. Case 1: There are several phone providers
-#: firefox/os/index-new.lang:266
+#: firefox/os/index-new.lang:279
 msgid ""
 "Choose one from the list below to get a Firefox OS smartphone in your "
 "country."
@@ -323,22 +338,22 @@ msgstr ""
 "ro‘yxatdan birini tanlang."
 
 #. Case 2: There is only one provider in the country
-#: firefox/os/index-new.lang:271
+#: firefox/os/index-new.lang:284
 msgid ""
 "Click on the provider below to get a Firefox OS smartphone in your country."
 msgstr ""
 "\"Firefox OS\" o‘rnatilgan smartonni mamlakatingizda olish uchun pastdagi "
 "ro‘yxatdan birini tanlang."
 
-#: firefox/os/index-new.lang:275
+#: firefox/os/index-new.lang:288
 msgid "Sign up for our monthly newsletter"
 msgstr "Oylik yangilik xatlaridan ro‘yxatdan o‘ting"
 
-#: firefox/os/index-new.lang:279
+#: firefox/os/index-new.lang:292
 msgid "Thank you for signing up!"
 msgstr "Ro‘yxatdan o‘tganingiz uchun rahmat!"
 
-#: firefox/os/index-new.lang:283
+#: firefox/os/index-new.lang:296
 msgid "Sign up for our monthly newsletter and get the latest on Firefox OS"
 msgstr ""
 "Oylik yangiliklar xabarlariga obuna bo‘ling va \"Firefox OS\"dagi so‘nggi "

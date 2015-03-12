@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-03-12 20:08+0000\n"
 "PO-Revision-Date: 2015-03-08 14:51+0000\n"
 "Last-Translator: tornoz <tornoz@laposte.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,61 +12,73 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1425826284.000000\n"
 
-#. Page <title> tag
-#: mozorg/plugincheck.lang:10
+#. Used as page title in HTML meta tag
+#: mozorg/plugincheck.lang:12
+msgid "Keep your Firefox healthy with a quick checkup"
+msgstr ""
+
+#. Used as page description in HTML meta tag
+#: mozorg/plugincheck.lang:18
+msgid ""
+"Use Flash? QuickTime? Java? If you use these to make your Firefox experience "
+"more awesome, check your plugins! They may need to be updated."
+msgstr ""
+
+#. Old page <title> tag
+#: mozorg/plugincheck.lang:23
 msgid "Plugin Check &amp; Updates"
 msgstr "Gwiriadur ha hizivadur an enlugelladoù"
 
 #. This is a button telling the user to update their plugin
-#: mozorg/plugincheck.lang:15
+#: mozorg/plugincheck.lang:28
 msgid "Update Now"
 msgstr "Hizivaat bremañ"
 
 #. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
-#: mozorg/plugincheck.lang:20
+#: mozorg/plugincheck.lang:33
 msgid "Research"
 msgstr "Klask"
 
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
-#: mozorg/plugincheck.lang:25
+#: mozorg/plugincheck.lang:38
 msgid "current version plugin"
 msgstr "handelv vremanel an enlugellad"
 
 #. This is a button informing the user that their plugin is up to date
-#: mozorg/plugincheck.lang:30
+#: mozorg/plugincheck.lang:43
 msgid "Up to Date"
 msgstr "Hizivaet"
 
 #. L10n: This is alt text used on plugin icon images
-#: mozorg/plugincheck.lang:35
+#: mozorg/plugincheck.lang:48
 msgid "Plugin icon"
 msgstr "Arlun an enlugellad"
 
 #. This is the string used to indicate that the plugin is unknown
-#: mozorg/plugincheck.lang:40
+#: mozorg/plugincheck.lang:53
 msgid "unknown"
 msgstr "dianav"
 
 #. This is the string used to indicate that the plugin is vulnerable
-#: mozorg/plugincheck.lang:45
+#: mozorg/plugincheck.lang:58
 msgid "vulnerable"
 msgstr "bresk"
 
 #. Main title
-#: mozorg/plugincheck.lang:50
+#: mozorg/plugincheck.lang:63
 msgid "Check Your Plugins"
 msgstr "Gwiriadur hoc'h enlugelladoù"
 
-#: mozorg/plugincheck.lang:54
+#: mozorg/plugincheck.lang:67
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
 "Hizivait hoc'h enlugelladoù evit gwellaat diogelroez ha mont en-dro Firefox."
 
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
-#: mozorg/plugincheck.lang:60
+#: mozorg/plugincheck.lang:73
 msgid ""
 "Plugins don’t always update automatically. Check yours now to stay safe and "
 "browse without interruption!"
@@ -74,11 +86,11 @@ msgstr ""
 "N'eo ket hizivaet ent emgefreek enlugelladoù 'zo. Gwiriekait ho re bremañ "
 "evit chom diarvar ha merdeiñ hep troc'hadenn."
 
-#: mozorg/plugincheck.lang:64
+#: mozorg/plugincheck.lang:77
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "Emaoc'h oc'h arverañ un handelv kozh eus Firefox war ar seblant."
 
-#: mozorg/plugincheck.lang:69
+#: mozorg/plugincheck.lang:82
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
@@ -86,7 +98,7 @@ msgstr ""
 "Gouzout a ouzomp ez eus ur gudenn evit dinoiñ handelvoù an enlugellad Java "
 "ha marilhet int bet da vresk."
 
-#: mozorg/plugincheck.lang:74
+#: mozorg/plugincheck.lang:87
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
@@ -95,11 +107,11 @@ msgstr ""
 "\"%(download)s\">weladenniñ lec'hienn Java</a> da bellgargañ an handelv "
 "diwezhañ."
 
-#: mozorg/plugincheck.lang:78
+#: mozorg/plugincheck.lang:91
 msgid "Plugin Status"
 msgstr "Stad an enlugellad"
 
-#: mozorg/plugincheck.lang:82
+#: mozorg/plugincheck.lang:95
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
@@ -107,82 +119,82 @@ msgstr ""
 "Diglok eo <strong>skor eus gwiriadur an enlugelladoù</strong> evit Internet "
 "Explorer. Arverit ivez Binvioù &gt; Ardeiñ an askouezhioù"
 
-#: mozorg/plugincheck.lang:86
+#: mozorg/plugincheck.lang:99
 msgid "Step 1: Click Update to update a plugin."
 msgstr "Pazenn 1 : Klikit war Hizivaat evit hizivaat un enlugellad."
 
-#: mozorg/plugincheck.lang:90
+#: mozorg/plugincheck.lang:103
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
 "Pazenn 2 : Peurechuit an holl hizivadurioù erbedet a-raok adloc'hañ ho "
 "merdeer."
 
-#: mozorg/plugincheck.lang:94
+#: mozorg/plugincheck.lang:107
 msgid "Potentially vulnerable plugins"
 msgstr "Enlugelladoù a c'hell bezañ bresk"
 
-#: mozorg/plugincheck.lang:98
+#: mozorg/plugincheck.lang:111
 msgid "Plugin"
 msgstr "Enlugellad"
 
-#: mozorg/plugincheck.lang:102
+#: mozorg/plugincheck.lang:115
 msgid "Status"
 msgstr "Stad"
 
-#: mozorg/plugincheck.lang:106
+#: mozorg/plugincheck.lang:119
 msgid "Action"
 msgstr "Gwezh"
 
-#: mozorg/plugincheck.lang:110
+#: mozorg/plugincheck.lang:123
 msgid "Outdated Plugins"
 msgstr "Enlugelladoù diamzeret"
 
-#: mozorg/plugincheck.lang:114
+#: mozorg/plugincheck.lang:127
 msgid "Unknown Plugins"
 msgstr "Enlugelladoù dianav"
 
-#: mozorg/plugincheck.lang:118
+#: mozorg/plugincheck.lang:131
 msgid "These plugins are up to date"
 msgstr "Hizivaet eo an enlugelladoù-mañ"
 
-#: mozorg/plugincheck.lang:122
+#: mozorg/plugincheck.lang:135
 msgid "Back to Top"
 msgstr "Distreiñ d'al lein"
 
-#: mozorg/plugincheck.lang:126
+#: mozorg/plugincheck.lang:139
 msgid "Frequently Asked Questions"
 msgstr "Foar ar Goulennoù"
 
-#: mozorg/plugincheck.lang:130
+#: mozorg/plugincheck.lang:143
 msgid "What is a plugin?"
 msgstr "Petra eo un enlugellad ?"
 
-#: mozorg/plugincheck.lang:134
+#: mozorg/plugincheck.lang:147
 msgid "Plugins power videos, animation and games"
 msgstr "Arveret eo an enlugelladoù gant videoioù, bliverezhioù ha c'hoarioù."
 
-#: mozorg/plugincheck.lang:138
+#: mozorg/plugincheck.lang:151
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr ""
 "Savet int er-maez eus Firefox gant embregerezhioù evel Adobe Systems hag "
 "Apple."
 
-#: mozorg/plugincheck.lang:142
+#: mozorg/plugincheck.lang:155
 msgid "Plugins don't always update automatically."
 msgstr "An enlugelladoù ne vezint ket bepred hizivaet ent emgefreek."
 
-#: mozorg/plugincheck.lang:146
+#: mozorg/plugincheck.lang:159
 msgid "Why should I update my plugins?"
 msgstr "Perak e rankfen hizivaat ma enlugelladoù ?"
 
-#: mozorg/plugincheck.lang:150
+#: mozorg/plugincheck.lang:163
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr ""
 "An enlugelladoù kozh a c'hell paouez gant ho merdeiñ ha debriñ hoc'h amzer."
 
-#: mozorg/plugincheck.lang:154
+#: mozorg/plugincheck.lang:167
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
@@ -190,7 +202,7 @@ msgstr ""
 "Gant an enlugelladoù kozh <strong>e kresk ar riskl</strong> da vezañ taget "
 "gant meziantoù droukrañsus, viruzoù ha gourdrouzoù diogelroez all."
 
-#: mozorg/plugincheck.lang:158
+#: mozorg/plugincheck.lang:171
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
@@ -199,15 +211,15 @@ msgstr ""
 "genrouedad da vezañ <strong>gwelloc'h ha diogeloc'h</strong> evidoc'h."
 
 #. alt image
-#: mozorg/plugincheck.lang:163
+#: mozorg/plugincheck.lang:176
 msgid "Screenshot of Add-Ons manager"
 msgstr "Tapadenn-skramm eus ardoer an askouezhioù"
 
-#: mozorg/plugincheck.lang:167
+#: mozorg/plugincheck.lang:180
 msgid "How can Firefox help me?"
 msgstr "Penaos e c'hell Firefox skoazellañ ac'hanon ?"
 
-#: mozorg/plugincheck.lang:171
+#: mozorg/plugincheck.lang:184
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
@@ -216,11 +228,11 @@ msgstr ""
 "gweladenniñ ar bajenn-mañ ingal ha hizivaat hoc'h enlugelladoù evit chom e "
 "savete."
 
-#: mozorg/plugincheck.lang:175
+#: mozorg/plugincheck.lang:188
 msgid "Which Plugins do I have?"
 msgstr "Peseurt enlugelladoù zo staliet ?"
 
-#: mozorg/plugincheck.lang:179
+#: mozorg/plugincheck.lang:192
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
@@ -228,11 +240,11 @@ msgstr ""
 "Dinoet hon eus an enlugelladoù amañ-dindan ent emgefreek. Heuilhit ar "
 "pazennoù da-heul evit gwelout hoc'h holl enlugelladoù bet staliet e Firefox :"
 
-#: mozorg/plugincheck.lang:183
+#: mozorg/plugincheck.lang:196
 msgid "Want to spread the word?"
 msgstr "Fellout a ra deoc'h kelaouiñ an dud ?"
 
-#: mozorg/plugincheck.lang:187
+#: mozorg/plugincheck.lang:200
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -241,50 +253,50 @@ msgstr ""
 "href=\"%(url)s\">Firefox Affiliates</a> evit kaout un arlun gwiriadur "
 "enlugelladoù evit ho lec'hienn."
 
-#: mozorg/plugincheck.lang:191
+#: mozorg/plugincheck.lang:204
 msgid "How do I disable a plugin?"
 msgstr "Penaos diweredekaat un enlugellad ?"
 
-#: mozorg/plugincheck.lang:195
+#: mozorg/plugincheck.lang:208
 msgid "In Firefox:"
 msgstr "E-barzh Firefox:"
 
-#: mozorg/plugincheck.lang:199
+#: mozorg/plugincheck.lang:212
 msgid "Open the Tools menu."
 msgstr "Digorit al lañser Binvioù."
 
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
-#: mozorg/plugincheck.lang:205
+#: mozorg/plugincheck.lang:218
 msgid "Open the <span class=\"menu\">menu</span>."
 msgstr "Digeriñ al <span class=\"menu\">lañser</span>."
 
-#: mozorg/plugincheck.lang:209
+#: mozorg/plugincheck.lang:222
 msgid "Choose Add-ons."
 msgstr "Dibabit Askouezhioù."
 
-#: mozorg/plugincheck.lang:213
+#: mozorg/plugincheck.lang:226
 msgid "Click the plugins tab."
 msgstr "Klikit war an ivinell Enlugelladoù."
 
-#: mozorg/plugincheck.lang:218
+#: mozorg/plugincheck.lang:231
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr ""
 "Klikit war al lañser disachañ e-kichen an enlugellad ho peus c'hoant "
 "diweredekaat."
 
-#: mozorg/plugincheck.lang:222
+#: mozorg/plugincheck.lang:235
 msgid "Click on a plugin in the list."
 msgstr "Klikit war un enlugellad e-barzh ar roll."
 
-#: mozorg/plugincheck.lang:227
+#: mozorg/plugincheck.lang:240
 msgid "Select \"Never Activate\" from the available choices."
 msgstr "Diuzit \"Na gweredekaat\" e-touez an dibaboù kinniget."
 
-#: mozorg/plugincheck.lang:231
+#: mozorg/plugincheck.lang:244
 msgid "Click the Disable button."
 msgstr "Klikit war an afell Diweredekaat."
 
-#: mozorg/plugincheck.lang:235
+#: mozorg/plugincheck.lang:248
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -294,7 +306,7 @@ msgstr ""
 "skouer ne c'hellot ket mui sellout ouzh videoioù Flash war an darn vrasañ "
 "eus lec'hiennoù a skign videoioù."
 
-#: mozorg/plugincheck.lang:240
+#: mozorg/plugincheck.lang:253
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -304,15 +316,15 @@ msgstr ""
 "skouer ne c'hellot ket mui sellout ouzh videoioù Flash war an darn vrasañ "
 "eus lec'hiennoù a skign videoioù ma vez diweredekaet Flash ganeoc'h."
 
-#: mozorg/plugincheck.lang:244
+#: mozorg/plugincheck.lang:257
 msgid "Mozilla Support"
 msgstr "Skor Mozilla"
 
-#: mozorg/plugincheck.lang:248
+#: mozorg/plugincheck.lang:261
 msgid "Have more questions?"
 msgstr "Goulennoù all zo ganeoc'h ?"
 
-#: mozorg/plugincheck.lang:252
+#: mozorg/plugincheck.lang:265
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "Gweladennit <a href=\"%(sumo_url)s\">support.mozilla.org</a> evit kaout "

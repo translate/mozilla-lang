@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-03-12 20:08+0000\n"
 "PO-Revision-Date: 2014-10-12 06:08+0000\n"
 "Last-Translator: Nishant  <nishant_cs@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,37 +14,49 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1413094119.000000\n"
 
-#: firefox/new.lang:9
+#. Used as og:title (meta tag for Open Graphs, not visible in the page)
+#: firefox/new.lang:12
+msgid "Choose the independent browser"
+msgstr ""
+
+#. Used as og:description (meta tag for Open Graphs, not visible in the page)
+#: firefox/new.lang:18
+msgid ""
+"Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox "
+"isn’t just choosing a browser. It’s a vote for personal freedom."
+msgstr ""
+
+#: firefox/new.lang:22
 msgid "Firefox for desktop"
 msgstr "डेस्कटॉप के लिए फ़ायरफ़ॉक्स"
 
 #. alternative main title (currently not used)
-#: firefox/new.lang:15
+#: firefox/new.lang:28
 msgid "Choose Independent."
 msgstr ""
 
 #. alternative main title (currently not used)
-#: firefox/new.lang:21
+#: firefox/new.lang:34
 msgid "Choose Firefox."
 msgstr ""
 
-#: firefox/new.lang:25
+#: firefox/new.lang:38
 msgid "Different by design"
 msgstr "कमाल का डिजायन"
 
-#: firefox/new.lang:29
+#: firefox/new.lang:42
 msgid "Proudly<br />non-profit"
 msgstr "हमें गर्व है कि हम <br />गैर-लाभकारी संस्था हैं"
 
-#: firefox/new.lang:33
+#: firefox/new.lang:46
 msgid "Innovating<br />for you"
 msgstr "नवाचार <br />आपके लिए"
 
-#: firefox/new.lang:37
+#: firefox/new.lang:50
 msgid "Fast, flexible,<br />secure"
 msgstr "तेज, लचीला, <br />सुरक्षित"
 
-#: firefox/new.lang:41
+#: firefox/new.lang:54
 msgid ""
 "As a non-profit, we’re free to innovate on your behalf without any pressure "
 "to compromise. You’re going to love the difference."
@@ -52,19 +64,19 @@ msgstr ""
 "बतौर एक गैर-लाभकारी संस्था हम आपके बदले बिना किसी समझौते के नवाचार के लिए स्वतंत्र हैं. "
 "आपको यह अंतर वाकई पसंद आनेवाला है."
 
-#: firefox/new.lang:45
+#: firefox/new.lang:58
 msgid "Firefox screenshot"
 msgstr "फ़ायरफ़ॉक्स स्क्रीनशॉट"
 
-#: firefox/new.lang:49
+#: firefox/new.lang:62
 msgid "Thanks for downloading Firefox!"
 msgstr "फ़ायरफ़ॉक्स डाउनलोड करने के लिए धन्यवाद!"
 
-#: firefox/new.lang:53
+#: firefox/new.lang:66
 msgid "Start the process by clicking Run."
 msgstr "रन पर क्लिक करके प्रक्रिया आरंभ करें|"
 
-#: firefox/new.lang:57
+#: firefox/new.lang:70
 msgid ""
 "Your download should begin automatically. If not, <a id=\"%s\" href="
 "\"\">click here</a>. It could take a few minutes, but it’s worth the wait."
@@ -72,13 +84,13 @@ msgstr ""
 "आपका डाउनलोड स्वतः प्रारंभ होना चाहिए, अगर ऐसा नहीं होता, <a id=\"%s\" href="
 "\"\">तो यहाँ क्लिक करें</a>. इसमें कुछ मिनट लग सकते हैं किन्तु यह इंतज़ार करने योग्य है."
 
-#: firefox/new.lang:61
+#: firefox/new.lang:74
 msgid ""
 "When prompted, drag the Firefox icon into the image of your Applications "
 "folder."
 msgstr "संकेत मिलने पर, आपके अनुप्रयोग फोल्डर के इमेज में फ़ायरफ़ॉक्स आइकॉन ड्रैग करें."
 
-#: firefox/new.lang:65
+#: firefox/new.lang:78
 msgid ""
 "Click Run to launch the Mozilla Firefox setup wizard. Then, just follow the "
 "steps (we've made the process as painless as possible)."
@@ -86,7 +98,7 @@ msgstr ""
 "मोज़िला फ़ायरफ़ॉक्स सेटअप विज़ार्ड शुरू करने के लिए रन पर क्लिक करें. फिर, सिर्फ क़दमों का "
 "अनुसरण करें (हमने यह प्रक्रिया जितनी हो सके उतनी पीड़ारहित बनाया है)."
 
-#: firefox/new.lang:69
+#: firefox/new.lang:82
 msgid ""
 "Drag the Firefox icon from the Applications folder into the dock. Then, just "
 "click on Firefox whenever you want to use the web!"
@@ -94,7 +106,7 @@ msgstr ""
 "अनुप्रयोग फोल्डर से फ़ायरफ़ॉक्स आइकॉन डॉक में ड्रैग करें. फिर, जब आप वेब का इस्तेमाल करना "
 "चाहे सिर्फ फ़ायरफ़ॉक्स आइकॉन पर क्लिक करें!"
 
-#: firefox/new.lang:73
+#: firefox/new.lang:86
 msgid ""
 "Now you’re ready to leap boldly into a new era of Web surfing. Double-click "
 "on the Firefox icon whenever you want to go online."
@@ -102,103 +114,103 @@ msgstr ""
 "अब आप वेब सर्फिंग के नए युग में साहसपूर्वक छलांग लगाने के लिए तैयार हैं. जब-जब आप ऑनलाइन "
 "जाना चाहे, फ़ायरफ़ॉक्स के आइकॉन पर डबल-क्लिक करें."
 
-#: firefox/new.lang:77
+#: firefox/new.lang:90
 msgid "1"
 msgstr "1"
 
-#: firefox/new.lang:81
+#: firefox/new.lang:94
 msgid "2"
 msgstr "2"
 
-#: firefox/new.lang:85
+#: firefox/new.lang:98
 msgid "3"
 msgstr "3"
 
 #. file <title> tag
-#: firefox/new.lang:90
+#: firefox/new.lang:103
 msgid "Mozilla Firefox Web Browser"
 msgstr "मोज़िल्ला फ़ायरफ़ॉक्स वेब ब्राउज़र"
 
-#: firefox/new.lang:94
+#: firefox/new.lang:107
 msgid "Sorry, Firefox is currently unsupported by iOS devices."
 msgstr "माफ़ करें, फ़ायरफ़ॉक्स अभी iOS युक्ति के द्वारा समर्थित है."
 
-#: firefox/new.lang:98
+#: firefox/new.lang:111
 msgid "Congrats! You’re using the latest version of Firefox."
 msgstr "बधाई! आप फ़ायरफ़ॉक्स के हालिया संस्करण का उपयोग कर रहे हैं."
 
-#: firefox/new.lang:102
+#: firefox/new.lang:115
 msgid ""
 "Looks like you’re using an older version of Firefox. Update on Google Play."
 msgstr ""
 "ऐसा लग रहा है कि आप फ़ायरफ़ॉक्स के पुराने संस्करण का उपयोग कर रहे हैं. गूगल प्ले पर अद्यतन "
 "करें."
 
-#: firefox/new.lang:106
+#: firefox/new.lang:119
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "ऐसा लग रहा है कि आप फ़ायरफ़ॉक्स के पुराने संस्करण का उपयोग कर रहे हैं."
 
-#: firefox/new.lang:110
+#: firefox/new.lang:123
 msgid "Update to stay fast and safe."
 msgstr "तेज और सुरक्षित रहने के लिए अद्यतन रखें."
 
-#: firefox/new.lang:114
+#: firefox/new.lang:127
 msgid "Get it free on Google Play"
 msgstr "इसे गूगल प्ले पर पायें"
 
-#: firefox/new.lang:118
+#: firefox/new.lang:131
 msgid "Learn more about Firefox for desktop"
 msgstr "डेस्कटॉप के फ़ॉयरफ़ॉक्स के बारे में अधिक जानकारी पाएँ"
 
-#: firefox/new.lang:122
+#: firefox/new.lang:135
 msgid "Looking for mobile?"
 msgstr "मोबाइल की तलाश में हैं?"
 
-#: firefox/new.lang:126
+#: firefox/new.lang:139
 msgid "Download a fresh copy"
 msgstr "एक नए सिरे से प्रतिलिपि डाउनलोड करें"
 
-#: firefox/new.lang:130
+#: firefox/new.lang:143
 msgid "Learn more about Firefox for Mobile"
 msgstr "मोबाइल के लिए फ़ायरफ़ॉक्स के बारे में अधिक और जानें"
 
-#: firefox/new.lang:134
+#: firefox/new.lang:147
 msgid "Learn more about Firefox OS"
 msgstr "फ़ायरफ़ॉक्स ओएस के बारे में अधिक और जानें"
 
-#: firefox/new.lang:139
+#: firefox/new.lang:152
 msgid "Get Firefox on your Android device"
 msgstr "अपने एंड्राइड यंत्र पर फायरफॉक्स प्राप्त करें"
 
-#: firefox/new.lang:144
+#: firefox/new.lang:157
 msgid "Learn about Firefox OS"
 msgstr "फ़ायरफ़ॉक्स ओएस के बारे में अधिक और जानें"
 
-#: firefox/new.lang:148
+#: firefox/new.lang:161
 msgid "Discover all the ways to take Firefox on the go"
 msgstr "फ़ायरफ़ॉक्स को अपने कार्य में प्रयोग करने के लिए सभी तरीकों का खोज करें"
 
-#: firefox/new.lang:153
+#: firefox/new.lang:166
 #, fuzzy
 msgid "Learn more about Firefox on iOS"
 msgstr "फ़ायरफ़ॉक्स ओएस के बारे में अधिक और जानें"
 
-#: firefox/new.lang:157
+#: firefox/new.lang:170
 msgid "Why don’t we offer an iOS version?"
 msgstr "हम IOS संस्करण क्यों नहीं प्रदान करते हैं?"
 
 #. The following two strings are used in the <title> tag of the page
-#: firefox/new.lang:162
+#: firefox/new.lang:175
 msgid "Download Firefox"
 msgstr "फ़ायरफ़ॉक्स डाउनलोड करें"
 
 #. Note: 'free' as in free of charge
-#: firefox/new.lang:167
+#: firefox/new.lang:180
 msgid "Free Web Browser"
 msgstr "मुफ्त वेब ब्राउज़र"
 
 #. Meta tag description (visible in the code)
-#: firefox/new.lang:172
+#: firefox/new.lang:185
 msgid ""
 "Download Mozilla Firefox, a free Web browser. Firefox is created by a global "
 "non-profit dedicated to putting individuals in control online. Get Firefox "
@@ -209,7 +221,7 @@ msgstr ""
 "करें !"
 
 #. Schema.org tag description (visible in the code)
-#: firefox/new.lang:177
+#: firefox/new.lang:190
 msgid ""
 "Mozilla Firefox, free web browser, is created by a global non-profit "
 "dedicated to putting individuals in control &amp; shaping the future of the "
@@ -223,7 +235,7 @@ msgstr ""
 #. Links to https://support.mozilla.org/kb/reset-firefox-easily-fix-most-problems
 #. You should keep the translation consistent with Firefox:
 #. http://transvision.mozfr.org/string/?entity=toolkit/chrome/global/resetProfile.dtd:refreshProfile.title&repo=beta
-#: firefox/new.lang:186
+#: firefox/new.lang:199
 msgid "Give Firefox a tune up"
 msgstr ""
 
@@ -231,7 +243,7 @@ msgstr ""
 #. Links to https://support.mozilla.org/kb/reset-firefox-easily-fix-most-problems
 #. You should keep the translation consistent with Firefox:
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/safeMode.dtd:refreshProfile.label&repo=beta
-#: firefox/new.lang:195
+#: firefox/new.lang:208
 msgid "Refresh Firefox"
 msgstr ""
 
