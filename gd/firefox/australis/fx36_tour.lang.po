@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-03-09 17:48+0000\n"
-"Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
+"PO-Revision-Date: 2015-03-12 14:40+0000\n"
+"Last-Translator: Michael <fios@akerbeltz.org>\n"
 "Language-Team: none\n"
 "Language: gd\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1425923338.000000\n"
+"X-POOTLE-MTIME: 1426171252.000000\n"
 
 #: firefox/australis/fx36_tour.lang:4
 msgid "Open tour"
@@ -44,7 +44,7 @@ msgstr ""
 #. %s will be replaced by an image of Telefonica's logo.
 #: firefox/australis/fx36_tour.lang:26
 msgid "Powered by %s"
-msgstr ""
+msgstr "Le cumhachd %s"
 
 #: firefox/australis/fx36_tour.lang:30
 msgid "Start browsing"
@@ -61,7 +61,7 @@ msgstr "Ceangail ri daoine eile le video ann am Firefox fhèin"
 #. “Firefox Hello” is the product name and should not be localized
 #: firefox/australis/fx36_tour.lang:43
 msgid "Get to know Firefox Hello"
-msgstr ""
+msgstr "Fàs eòlach air Firefox Hello"
 
 #. “Firefox Hello” is the product name and should not be localized
 #: firefox/australis/fx36_tour.lang:48
@@ -96,12 +96,12 @@ msgstr ""
 #. This is the label that represents tour step one of two
 #: firefox/australis/fx36_tour.lang:74
 msgid "1/2"
-msgstr ""
+msgstr "1/2"
 
 #. This is the label that represents tour step two of two
 #: firefox/australis/fx36_tour.lang:79
 msgid "2/2"
-msgstr ""
+msgstr "2/2"
 
 #. “Firefox Hello” is the product name and should not be localized
 #: firefox/australis/fx36_tour.lang:84
@@ -110,6 +110,9 @@ msgid ""
 "you can’t be there in person? Try Firefox Hello — the easiest way to have a "
 "free video conversation with anyone, anywhere."
 msgstr ""
+"Seanchas ri caraidean air feadh an t-saoghail? Co-là breith 's tu fad air "
+"falbh? Feuch Firefox Hello — an dòigh as fhasa airson còmhradh video an-"
+"asgaidh àite sam bith 's le duine sam bith."
 
 #: firefox/australis/fx36_tour.lang:88
 msgid "<span>Next:</span> Get started"
@@ -194,7 +197,6 @@ msgid "Start a video conversation with a single click"
 msgstr "Tòisich còmhradh video le briogadh a-mhàin"
 
 #: firefox/australis/fx36_tour.lang:158
-#, fuzzy
 msgid "Invite a friend to talk by sending them a link"
 msgstr "Thoir cuireadh do charaid le bhith a' cur ceangal thuca"
 
@@ -259,7 +261,7 @@ msgstr "Fàs eòlach air Hello"
 #. “Firefox Hello” is the product name and should not be localized
 #: firefox/australis/fx36_tour.lang:220
 msgid "<span>Next:</span> Firefox Hello"
-msgstr ""
+msgstr "<span>Nise:</span> Firefox Hello"
 
 #. <br> tag below used for formatting only.
 #: firefox/australis/fx36_tour.lang:225
@@ -275,47 +277,45 @@ msgid "<span>Previous:</span> Menu"
 msgstr "<span>An rud roimhe:</span> An clàr-taice"
 
 #: firefox/australis/fx36_tour.lang:237
-#, fuzzy
 msgid "<span>Next:</span> Search"
-msgstr "<span>Air adhart:</span> %s"
+msgstr "<span>Nise:</span> Lorg"
 
 #: firefox/australis/fx36_tour.lang:241
 msgid "Connect over video with anyone, anywhere"
-msgstr ""
+msgstr "Dèan còmhradh video le duine sam bith, àite sam bith"
 
 #: firefox/australis/fx36_tour.lang:245
 msgid "It’s free! No account, sign-in or downloads required"
-msgstr ""
+msgstr "Tha e saor an-asgaidh! Chan eil feum air cunntas no luchdadh a-nuas"
 
 #: firefox/australis/fx36_tour.lang:249
 msgid "Choose how you want to search"
-msgstr ""
+msgstr "Cuir romhad mar a nì thu lorg"
 
 #: firefox/australis/fx36_tour.lang:253
 msgid "<span>Next:</span> Bookmarks"
-msgstr "<span>An ath-rud:</span> Comharran-lìn"
+msgstr "<span>Nise:</span> Comharran-lìn"
 
 #. <br> tag below used for formatting only.
 #: firefox/australis/fx36_tour.lang:258
 msgid "Introducing a smarter <br>way to search"
-msgstr ""
+msgstr "A' toirt dhut dòigh nas <br>tapaidhe airson lorg"
 
 #: firefox/australis/fx36_tour.lang:262
 msgid "Search suggestions appear as you type"
-msgstr ""
+msgstr "Nochdaidh molaidhean luirg 's tu a' sgrìobhadh"
 
 #: firefox/australis/fx36_tour.lang:266
 msgid "Choose the right site for every search"
-msgstr ""
+msgstr "Tagh an dòigh iomchaidh airson gach lorg"
 
 #: firefox/australis/fx36_tour.lang:270
 msgid "Use the star to create bookmarks"
 msgstr "Cleachd an rionnag airson comharra-lìn a chruthachadh"
 
 #: firefox/australis/fx36_tour.lang:274
-#, fuzzy
 msgid "<span>Previous:</span> Search"
-msgstr "<span>An rud roimhe:</span> An clàr-taice"
+msgstr "<span>Roimhe seo:</span> Lorg"
 
 #. <br> tag below used for formatting only.
 #: firefox/australis/fx36_tour.lang:279
