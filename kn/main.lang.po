@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-12 20:08+0000\n"
+"POT-Creation-Date: 2015-03-17 12:07+0000\n"
 "PO-Revision-Date: 2015-02-05 18:18+0000\n"
 "Last-Translator: Omshivaprakash <omshivaprakash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -131,151 +131,163 @@ msgstr ""
 msgid "Developers"
 msgstr "ವಿಕಸನಗಾರರು"
 
-#: main.lang:117
+#. Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+#: main.lang:118
+msgid "Choose the independent browser"
+msgstr ""
+
+#. Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+#: main.lang:123
+msgid ""
+"Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox "
+"isn’t just choosing a browser. It’s a vote for personal freedom."
+msgstr ""
+
+#: main.lang:127
 msgid "Donate"
 msgstr "ದೇಣಿಗೆ"
 
-#: main.lang:121
+#: main.lang:131
 msgid "Support"
 msgstr "ಬೆಂಬಲ"
 
-#: main.lang:125
+#: main.lang:135
 msgid "Products"
 msgstr "ಉತ್ಪನ್ನಗಳು"
 
-#: main.lang:129
+#: main.lang:139
 msgid "Add-ons"
 msgstr "ಆಡ್‌-ಆನ್‌ಗಳು"
 
-#: main.lang:133
+#: main.lang:143
 msgid "About Us"
 msgstr "ನಮ್ಮ ಬಗ್ಗೆ"
 
-#: main.lang:137
+#: main.lang:147
 msgid "Labs"
 msgstr "ಪ್ರಯೋಗಶಾಲೆಗಳು"
 
-#: main.lang:141
+#: main.lang:151
 msgid "skip to Navigation"
 msgstr "ನ್ಯಾವಿಗೇಶನ್‌ಗೆ ತೆರಳು"
 
-#: main.lang:145
+#: main.lang:155
 msgid "switch language"
 msgstr "ಭಾಷೆಯನ್ನು ಬದಲಾಯಿಸು"
 
-#: main.lang:149
+#: main.lang:159
 msgid "Back to home page"
 msgstr "ನೆಲೆ ಪುಟಕ್ಕೆ ಹಿಂದಿರುಗು"
 
-#: main.lang:153
+#: main.lang:163
 msgid "About Mozilla"
 msgstr "ಮೋಝಿಲ್ಲಾದ ಬಗ್ಗೆ"
 
-#: main.lang:157
+#: main.lang:167
 msgid "Get Involved"
 msgstr "ನೀವೂ ಪಾಲ್ಗೊಳ್ಳಿ"
 
-#: main.lang:161
+#: main.lang:171
 msgid "Careers"
 msgstr "ವೃತ್ತಿಗಳು"
 
-#: main.lang:165
+#: main.lang:175
 msgid "Press Center"
 msgstr "ಪ್ರೆಸ್ ಕೇಂದ್ರ"
 
-#: main.lang:169
+#: main.lang:179
 msgid "Contact Us"
 msgstr "ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ"
 
-#: main.lang:173
+#: main.lang:183
 msgid "Other languages:"
 msgstr "ಇತರೆ ಭಾಷೆಗಳು:"
 
 #. Year / Month / Day, indicate your prefered date format for your language
-#: main.lang:178
+#: main.lang:188
 msgid "%Y-%m-%d"
 msgstr "%d-%m-%Y"
 
-#: main.lang:182
+#: main.lang:192
 msgid "Legal"
 msgstr "ನ್ಯಾಯವಾದ"
 
 #. Used as link in the footer
-#: main.lang:187
+#: main.lang:197
 msgid "Cookies"
 msgstr "ಕುಕೀಗಳು"
 
 #. Used as link in the footer
-#: main.lang:192
+#: main.lang:202
 msgid "Firefox Affiliates"
 msgstr ""
 
-#: main.lang:196
+#: main.lang:206
 msgid "Legal Notices"
 msgstr "ನ್ಯಾಯಪೂರ್ವಕ ಸೂಚನೆಗಳು"
 
-#: main.lang:200
+#: main.lang:210
 msgid "Privacy Policy"
 msgstr "ಗೌಪ್ಯತಾ ನಿಯಮ"
 
-#: main.lang:204
+#: main.lang:214
 msgid "Release Notes"
 msgstr "ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳು"
 
-#: main.lang:208
+#: main.lang:218
 msgid "Other Systems and Languages"
 msgstr "ಇತರೆ ವ್ಯವಸ್ಥೆಗಳು ಹಾಗು ಭಾಷೆಗಳು"
 
-#: main.lang:212
+#: main.lang:222
 msgid "Close"
 msgstr "ಮುಚ್ಚು"
 
-#: main.lang:216
+#: main.lang:226
 msgid "(in English)"
 msgstr "(ಇಂಗ್ಲೀಷಿನಲ್ಲಿದೆ)"
 
-#: main.lang:220
+#: main.lang:230
 msgid "Return to top"
 msgstr "ಮೇಲಕ್ಕೆ ಮರಳಿ"
 
-#: main.lang:224
+#: main.lang:234
 msgid "Features"
 msgstr "ಸವಲತ್ತುಗಳು"
 
-#: main.lang:228
+#: main.lang:238
 msgid "Customize"
 msgstr "ನಿಮ್ಮ ಇಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಬದಲಾಯಿಸಿ"
 
-#: main.lang:233
+#: main.lang:243
 msgid "Download"
 msgstr "ಡೌನ್‌ಲೋಡ್"
 
-#: main.lang:237
+#: main.lang:247
 msgid "Previous"
 msgstr "ಹಿಂದಿನ"
 
-#: main.lang:241
+#: main.lang:251
 msgid "Next"
 msgstr "ಮುಂದಿನ"
 
 #. MegaBytes abbreviation
-#: main.lang:246
+#: main.lang:256
 msgid "MB"
 msgstr "MB"
 
-#: main.lang:250
+#: main.lang:260
 msgid "MegaBytes"
 msgstr "ಮೆಗಾಬೈಟ್‌ಗಳು"
 
-#: main.lang:254
+#: main.lang:264
 msgid "FAQ"
 msgstr "FAQ"
 
-#: main.lang:258
+#: main.lang:268
 msgid "Videos"
 msgstr "ವೀಡಿಯೊಗಳು"
 
-#: main.lang:262
+#: main.lang:272
 msgid ""
 "Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
 "licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
@@ -285,110 +297,110 @@ msgstr ""
 "ವಿಷಯಗಳನ್ನು <br /><a href=\"%s\">Creative Commons Attribution Share-Alike "
 "License v3.0</a> ಅಥವ ಅದರ ಮುಂದಿನ ಆವೃತ್ತಿಯ ಅಡಿಯಲ್ಲಿ ಲೈಸನ್ಸ್ ಮಾಡಲಾಗಿದೆ."
 
-#: main.lang:266
+#: main.lang:276
 msgid "Report Trademark Abuse"
 msgstr "ಟ್ರೇಡ್‌ಮಾರ್ಕಿನ ನಿಂದನೆ ವರದಿ ಮಾಡಿ"
 
-#: main.lang:270
+#: main.lang:280
 msgid "Free Upgrade"
 msgstr "ಉಚಿತ ನವೀಕರಣ"
 
 #. social networks such as Facebook and Twitter
-#: main.lang:275
+#: main.lang:285
 msgid "Follow us on:"
 msgstr "ನಮ್ಮನ್ನು ಅನುಸರಿಸಿ:"
 
-#: main.lang:279
+#: main.lang:289
 msgid "Customize with Add-ons"
 msgstr "ಆಡ್‌-ಆನ್‌ಗಳೊಂದಿಗೆ ನಿಮ್ಮ ಇಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಬದಲಾಯಿಸಿ"
 
-#: main.lang:283
+#: main.lang:293
 msgid "Learn More"
 msgstr "ಇನ್ನಷ್ಟು ಅರಿತುಕೊಳ್ಳಿ"
 
 #. Same as previous above but with no capitalization on More
-#: main.lang:288
+#: main.lang:298
 msgid "Learn more"
 msgstr "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ"
 
 #. Link used to play again an animation or a video
-#: main.lang:293
+#: main.lang:303
 msgid "Replay"
 msgstr "ಪ್ರತಿಕ್ರಿಯಿಸು"
 
-#: main.lang:297
+#: main.lang:307
 msgid "Watch the video"
 msgstr "ವೀಡಿಯೊವನ್ನು ನೋಡಿ"
 
-#: main.lang:301
+#: main.lang:311
 msgid "Replay the video"
 msgstr ""
 
-#: main.lang:305
+#: main.lang:315
 msgid "Share the video"
 msgstr "ವೀಡಿಯೊವನ್ನು ಹಂಚು"
 
-#: main.lang:309
+#: main.lang:319
 msgid "WebM format"
 msgstr "WebM ವಿನ್ಯಾಸ"
 
-#: main.lang:313
+#: main.lang:323
 msgid "Ogg Theora format"
 msgstr "Ogg Theora ವಿನ್ಯಾಸ"
 
-#: main.lang:317
+#: main.lang:327
 msgid "MPEG-4 format"
 msgstr "MPEG-4 ವಿನ್ಯಾಸ"
 
-#: main.lang:321
+#: main.lang:331
 msgid "Mobile"
 msgstr "ಮೊಬೈಲ್"
 
-#: main.lang:325
+#: main.lang:335
 msgid "Check out the new look and feel of Firefox."
 msgstr "ಫೈರ್ಫಾಕ್ಸ್ ರ ಹೊಸ ನೋಟ ಹಾಗು ಮಾಟವನ್ನು ಪ್ರಯತ್ನಿಸಿ ನೋಡಿ."
 
-#: main.lang:329
+#: main.lang:339
 msgid "View Full Site"
 msgstr "ಪೂರ್ಣ ತಾಣ ವೀಕ್ಷಿಸಿ"
 
-#: main.lang:333
+#: main.lang:343
 msgid "Get Firefox for Android"
 msgstr "ಆಂಡ್ರಾಯ್ಡಿಗೆ ಫೈರ್ಫಾಕ್ಸನ್ನು ಪಡೆಯಿರಿ"
 
-#: main.lang:337
+#: main.lang:347
 msgid "Download for <span>Android</span>"
 msgstr "<span>ಆಂಡ್ರಾಯ್ಡಿಗಾಗಿ</span> ಡೌನ್ಲೋಡ್ ಮಾಡಿ"
 
-#: main.lang:341
+#: main.lang:351
 msgid "Desktop"
 msgstr "ಗಣಕಪರದೆ"
 
-#: main.lang:345
+#: main.lang:355
 msgid "Firefox Beta for mobile"
 msgstr "ಮೊಬೈಲುಗಳಿಗೆ ಫೈರ್ಫಾಕ್ಸ್ ಬೀಟಾ"
 
-#: main.lang:349
+#: main.lang:359
 msgid "Firefox for mobile"
 msgstr "ಮೊಬೈಲುಗಳಿಗೆ ಫೈರ್ಫಾಕ್ಸ್"
 
-#: main.lang:353
+#: main.lang:363
 msgid "Email"
 msgstr "ಮಿಂಚೆ"
 
-#: main.lang:357
+#: main.lang:367
 msgid "Super speed"
 msgstr "ತ್ವರಿತ ವೇಗ"
 
-#: main.lang:361
+#: main.lang:371
 msgid "Stunning graphics"
 msgstr "ಅತ್ಯಾಕರ್ಶಕ ಗ್ರಾಫಿಕ್ಸ್"
 
-#: main.lang:365
+#: main.lang:375
 msgid "The latest technologies"
 msgstr "ಇತ್ತೀಚಿನ ತಾಂತ್ರಿಕತೆ"
 
-#: main.lang:369
+#: main.lang:379
 msgid ""
 "You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
 "new Firefox for the best in browsing and customization on the Web. <br/>   "
@@ -397,30 +409,30 @@ msgstr ""
 "ನವೀಕರಣದ ಅಗತ್ಯವಿದೆ!.ಕ್ಷಣಮಾತ್ರದಲ್ಲಿ ಸುರಕ್ಷಿತ ವ್ಯವಸ್ಥೆಯನ್ನು ಸಜ್ಜುಗೊಳಿಸಿ.<br/> ಸುಸಜ್ಜಿತ "
 "ಬ್ರೌಸಿಂಗ್ ಅನುಭವಕ್ಕಾಗಿ ಹೊಸ ಫೈರ್ಫಾಕ್ಸ ಬಳಸಲು ಆರಂಭಿಸಿ.<br/>ಇದು ಉಚಿತ ಮತ್ತು ವೇಗ!"
 
-#: main.lang:373
+#: main.lang:383
 msgid "Upgrade now"
 msgstr "ಈಗಲೇ ನವೀಕರಿಸಿ"
 
-#: main.lang:377
+#: main.lang:387
 msgid "Update now"
 msgstr "ಈಗಲೇ ಅಪ್ಡೇಟ್ ಮಾಡಿ"
 
-#: main.lang:381
+#: main.lang:391
 msgid "Supported Devices"
 msgstr "ಬೆಂಬಲಿತ ಸಾಧನಗಳು"
 
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-#: main.lang:386
+#: main.lang:396
 msgid "What’s New"
 msgstr "ಹೊಸತು ಏನಿದೆ"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
-#: main.lang:391
+#: main.lang:401
 msgid "Privacy"
 msgstr "ಗೌಪ್ಯತೆ"
 
 #. Footer string
-#: main.lang:396
+#: main.lang:406
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
@@ -431,327 +443,327 @@ msgstr ""
 "ಲಭ್ಯವಿದೆ."
 
 #. Footer string
-#: main.lang:401
+#: main.lang:411
 msgid "Contribute to this page"
 msgstr "ಈ ಪುಟಕ್ಕೆ ಕೊಡುಗೆ ನೀಡಿ"
 
 #. Top menu item
-#: main.lang:406
+#: main.lang:416
 msgid "Mission"
 msgstr "ಗುರಿ"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:411
+#: main.lang:421
 msgid "Tour"
 msgstr "ಪ್ರವಾಸ"
 
 #. Footer item
-#: main.lang:416
+#: main.lang:426
 msgid "Partner with Us"
 msgstr "ನಮ್ಮೊಂದಿಗೆ ಪಾಲುದಾರರಾಗಿ"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:421
+#: main.lang:431
 msgid "Sync"
 msgstr "ಸಿಂಕ್"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:426
+#: main.lang:436
 msgid "Desktop Add-ons"
 msgstr "ಡೆಸ್ಕ್‌ಟಾಪ್ ಆಡ್‌-ಆನ್‌ಗಳು"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:431
+#: main.lang:441
 msgid "Android Add-ons"
 msgstr ""
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:436
+#: main.lang:446
 msgid "Themes"
 msgstr "ಪರಿಸರವಿನ್ಯಾಸಗಳು"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:441
+#: main.lang:451
 msgid "Desktop Support"
 msgstr "ಡೆಸ್ಕ್‌ಟಾಪ್ ಬೆಂಬಲ"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:446
+#: main.lang:456
 msgid "Android Support"
 msgstr ""
 
 #. Top menu item on firefox/update page
-#: main.lang:451
+#: main.lang:461
 msgid "Performance"
 msgstr "ಕಾರ್ಯಾಚರಣೆ"
 
 #. Top menu item on firefox/update page
-#: main.lang:456
+#: main.lang:466
 msgid "Technology"
 msgstr "ತಂತ್ರಜ್ಞಾನ"
 
 #. Top menu item on firefox/update page
-#: main.lang:461
+#: main.lang:471
 msgid "Privacy &amp; Security"
 msgstr "ಗೋಪ್ಯತೆ &amp; ಸುರಕ್ಷತೆ"
 
 #. Top menu item on firefox/update page
-#: main.lang:466
+#: main.lang:476
 msgid "Releases"
 msgstr "ಬಿಡುಗಡೆಗಳು"
 
 #. Top menu item on firefox/update page
-#: main.lang:471
+#: main.lang:481
 msgid "Firefox"
 msgstr "ಫೈರ್ಫಾಕ್ಸ್"
 
 #. Top menu item on firefox/update page
-#: main.lang:476
+#: main.lang:486
 msgid "Firefox for Organizations"
 msgstr "ಸಂಸ್ಥೆಗಳಿಗಾಗಿ ಫೈರ್ಫಾಕ್ಸ್"
 
 #. Top menu item on firefox/update page
-#: main.lang:481
+#: main.lang:491
 msgid "Mobile Add-ons"
 msgstr "ಮೊಬೈಲ್ ಆಡ್-ಆನ್‌ಗಳು"
 
 #. Top menu item on firefox/update page
-#: main.lang:486
+#: main.lang:496
 msgid "Mobile Support"
 msgstr "ಮೊಬೈಲ್ ಬೆಂಬಲ"
 
 #. Top menu item on firefox/update page
-#: main.lang:491
+#: main.lang:501
 msgid "Blog"
 msgstr "ಬ್ಲಾಗ್"
 
 #. Top menu item on firefox/update page
-#: main.lang:496
+#: main.lang:506
 msgid "About Firefox"
 msgstr "ಫೈರ್ಫಾಕ್ಸ್ ಬಗ್ಗೆ"
 
 #. Top menu item on firefox/update page
-#: main.lang:501
+#: main.lang:511
 msgid "Join Mozilla"
 msgstr "ಮೋಝಿಲ್ಲಾದೊಂದಿಗೆ ಸೇರಿಕೊಳ್ಳಿ"
 
 #. Top menu item on firefox/update page
-#: main.lang:506
+#: main.lang:516
 msgid "Participate"
 msgstr "ಭಾಗವಹಿಸಿ"
 
 #. Top menu item on firefox/update page
-#: main.lang:511
+#: main.lang:521
 msgid "Brand Toolkit"
 msgstr "ಬ್ರಾಂಡ್ ಟೂಲ್‌ಕಿಟ್"
 
 #. Top menu item on firefox/update page
-#: main.lang:516
+#: main.lang:526
 msgid "Partnerships"
 msgstr "ಸಹಭಾಗಿತ್ವಗಳು"
 
 #. Newsletter subscription form above footer on some pages
-#: main.lang:521
+#: main.lang:531
 msgid "Get Mozilla updates"
 msgstr "ಮೊಝಿಲ್ಲಾ ಪರಿಷ್ಕರಣೆಗಳನ್ನು ಪಡೆಯಿರಿ"
 
 #. share button for social networks
-#: main.lang:526
+#: main.lang:536
 msgid "Share"
 msgstr "ಹಂಚು"
 
 #. footer link
-#: main.lang:531
+#: main.lang:541
 msgid "Mozilla on Twitter"
 msgstr "ಟ್ವಿಟರ್‌ನಲ್ಲಿ ಮೊಝಿಲ್ಲಾ"
 
 #. footer link
-#: main.lang:536
+#: main.lang:546
 msgid "Firefox on Twitter"
 msgstr "ಟ್ವಿಟರ್‌ನಲ್ಲಿ ಫೈರ್ಫಾಕ್ಸ್"
 
 #. footer link
-#: main.lang:541
+#: main.lang:551
 msgid "Mozilla on Facebook"
 msgstr "ಫೇಸ್‌ಬುಕ್‌ನಲ್ಲಿ ಮೊಝಿಲ್ಲಾ"
 
 #. footer link
-#: main.lang:546
+#: main.lang:556
 msgid "Firefox on Facebook"
 msgstr "ಫೇಸ್‌ಬುಕ್‌ನಲ್ಲಿ ಫೈರ್ಫಾಕ್ಸ್"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:551
+#: main.lang:561
 msgid "Forums"
 msgstr "ವೇದಿಕೆಗಳು"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:556
+#: main.lang:566
 msgid "Leadership"
 msgstr ""
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:561
+#: main.lang:571
 msgid "Governance"
 msgstr "ಆಡಳಿತ"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:566
+#: main.lang:576
 msgid "History"
 msgstr "ಇತಿಹಾಸ"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:571
+#: main.lang:581
 msgid "Our Products"
 msgstr "ನಮ್ಮ ಉತ್ಪನ್ನಗಳು"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:576
+#: main.lang:586
 msgid "Software and other innovations designed to advance our mission."
 msgstr "ನಮ್ಮ ಗುರಿ ತಲುಪಲು ರಚಿಸಿದ ತಂತ್ರಾಂಶ ಮತ್ತು ಇತರೆ ಆವಿಷ್ಕಾರಗಳು."
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:581
+#: main.lang:591
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "ಹಲವಾರು ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಸ್ವಯಂಸೇವಕ ಕೊಡುಗೆದಾರರಾಗಿ."
 
 #. This is a non-visible string for blind people to indicate where the menu is
-#: main.lang:586
+#: main.lang:596
 msgid "Menu"
 msgstr "ಪರಿವಿಡಿ"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
-#: main.lang:591
+#: main.lang:601
 msgid "Committed to you, your privacy and an open Web"
 msgstr "ನಿಮಗೆ, ನಿಮ್ಮ ಗೌಪ್ಯತೆ ಮತ್ತು ಒಂದು ಮುಕ್ತ ಅಂತರಜಾಲಕ್ಕೆ ಬದ್ಧರಾಗಿದ್ದೇವೆ"
 
 #. Common title used in Fx 10 pages
-#: main.lang:596
+#: main.lang:606
 #, fuzzy
 msgid "Choose Independent"
 msgstr "ಸ್ವತಂತ್ರವಾದದ್ದನ್ನು ಆಯ್ಕೆ ಮಾಡು."
 
 #. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 #. The '#ChooseIndependent' hashtag should not be translated.
-#: main.lang:603
+#: main.lang:613
 msgid ""
 "Keep the passion for a free and open Internet burning bright! "
 "#ChooseIndependent. Choose Firefox:"
 msgstr ""
 
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
-#: main.lang:609
+#: main.lang:619
 msgid "Please turn on JavaScript to display this page correctly."
 msgstr ""
 
 #. Used as link to /firefox/desktop in footers on some pages
-#: main.lang:614
+#: main.lang:624
 msgid "Firefox Features"
 msgstr "ಫೈರ್‌ಫಾಕ್ಸಿನ ಸವಲತ್ತುಗಳು"
 
 #. Used as link to SUMO in footers on some pages
-#: main.lang:619
+#: main.lang:629
 msgid "Firefox Help"
 msgstr "Firefox ಸಹಾಯ"
 
-#: main.lang:623
+#: main.lang:633
 msgid "January"
 msgstr "ಜನವರಿ"
 
-#: main.lang:627
+#: main.lang:637
 msgid "February"
 msgstr "ಫೆಬ್ರವರಿ"
 
-#: main.lang:631
+#: main.lang:641
 msgid "March"
 msgstr "ಮಾರ್ಚ್"
 
-#: main.lang:635
+#: main.lang:645
 msgid "April"
 msgstr "ಏಪ್ರಿಲ್"
 
-#: main.lang:639
+#: main.lang:649
 msgid "May"
 msgstr "ಮೇ"
 
-#: main.lang:643
+#: main.lang:653
 msgid "June"
 msgstr "ಜೂನ್"
 
-#: main.lang:647
+#: main.lang:657
 msgid "July"
 msgstr "ಜುಲೈ"
 
-#: main.lang:651
+#: main.lang:661
 msgid "August"
 msgstr "ಆಗಸ್ಟ್"
 
-#: main.lang:655
+#: main.lang:665
 msgid "September"
 msgstr "ಸೆಪ್ಟೆಂಬರ್"
 
-#: main.lang:659
+#: main.lang:669
 msgid "October"
 msgstr "ಅಕ್ಟೋಬರ್"
 
-#: main.lang:663
+#: main.lang:673
 msgid "November"
 msgstr "ನವೆಂಬರ್"
 
-#: main.lang:667
+#: main.lang:677
 msgid "December"
 msgstr "ಡಿಸೆಂಬರ್"
 
-#: main.lang:671
+#: main.lang:681
 msgid "<abbr>Jan</abbr>"
 msgstr "<abbr>ಜನ</abbr>"
 
-#: main.lang:675
+#: main.lang:685
 msgid "<abbr>Feb</abbr>"
 msgstr "<abbr>ಫೆಬ್ರ</abbr>"
 
-#: main.lang:679
+#: main.lang:689
 msgid "<abbr>Mar</abbr>"
 msgstr "<abbr>ಮಾ</abbr>"
 
-#: main.lang:683
+#: main.lang:693
 msgid "<abbr>Apr</abbr>"
 msgstr "<abbr>ಏ</abbr>"
 
-#: main.lang:687
+#: main.lang:697
 msgid "<abbr>May</abbr>"
 msgstr "<abbr>ಮೇ</abbr>"
 
-#: main.lang:691
+#: main.lang:701
 msgid "<abbr>Jun</abbr>"
 msgstr "<abbr>ಜೂ</abbr>"
 
-#: main.lang:695
+#: main.lang:705
 msgid "<abbr>Jul</abbr>"
 msgstr "<abbr>ಜು</abbr>"
 
-#: main.lang:699
+#: main.lang:709
 msgid "<abbr>Aug</abbr>"
 msgstr "<abbr>ಆ</abbr>"
 
-#: main.lang:703
+#: main.lang:713
 msgid "<abbr>Sep</abbr>"
 msgstr "<abbr>ಸೆಪ್ಟೆಂ</abbr>"
 
-#: main.lang:707
+#: main.lang:717
 msgid "<abbr>Oct</abbr>"
 msgstr "<abbr>ಅಕ್ಟೋ</abbr>"
 
-#: main.lang:711
+#: main.lang:721
 msgid "<abbr>Nov</abbr>"
 msgstr "<abbr>ನವೆಂ</abbr>"
 
-#: main.lang:715
+#: main.lang:725
 msgid "<abbr>Dec</abbr>"
 msgstr "<abbr>ಡಿಸೆಂ</abbr>"
 
 #. Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-#: main.lang:720
+#: main.lang:730
 msgid ""
 "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
 msgstr ""
