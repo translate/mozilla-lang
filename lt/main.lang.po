@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-18 15:09+0000\n"
+"POT-Creation-Date: 2015-03-27 19:07+0000\n"
 "PO-Revision-Date: 2015-03-19 20:17+0000\n"
 "Last-Translator: Rimas <rq@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1426796244.000000\n"
 
 #: main.lang:1
@@ -448,209 +448,215 @@ msgstr ""
 "mozilla.org bendradarbiai. Turinys pateikiamas <a href=\"%(url)s\">„Creative "
 "Commons“ licencijos</a> sąlygomis."
 
-#. Footer string
+#. Footer string (will replace "Contribute to this page")
 #: main.lang:412
+#, fuzzy
+msgid "Contribute to this site"
+msgstr "Prisidėkite prie šio tinklalapio"
+
+#. Footer string
+#: main.lang:417
 msgid "Contribute to this page"
 msgstr "Prisidėkite prie šio tinklalapio"
 
 #. Top menu item
-#: main.lang:417
+#: main.lang:422
 msgid "Mission"
 msgstr "Misija"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:422
+#: main.lang:427
 msgid "Tour"
 msgstr "Apžvalga"
 
 #. Footer item
-#: main.lang:427
+#: main.lang:432
 msgid "Partner with Us"
 msgstr "Bendradarbiaukime"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:432
+#: main.lang:437
 msgid "Sync"
 msgstr "Sinchronizavimas"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:437
+#: main.lang:442
 msgid "Desktop Add-ons"
 msgstr "Priedai kompiuteryje"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:442
+#: main.lang:447
 msgid "Android Add-ons"
 msgstr "„Android“ priedai"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:447
+#: main.lang:452
 msgid "Themes"
 msgstr "Grafiniai apvalkalai"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:452
+#: main.lang:457
 msgid "Desktop Support"
 msgstr "Stalinės „Firefox“ palaikymas"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:457
+#: main.lang:462
 msgid "Android Support"
 msgstr "„Android“ palaikymas"
 
 #. Top menu item on firefox/update page
-#: main.lang:462
+#: main.lang:467
 msgid "Performance"
 msgstr "Našumas"
 
 #. Top menu item on firefox/update page
-#: main.lang:467
+#: main.lang:472
 msgid "Technology"
 msgstr "Technologija"
 
 #. Top menu item on firefox/update page
-#: main.lang:472
+#: main.lang:477
 msgid "Privacy &amp; Security"
 msgstr "Privatumas ir saugumas"
 
 #. Top menu item on firefox/update page
-#: main.lang:477
+#: main.lang:482
 msgid "Releases"
 msgstr "Laidos"
 
 #. Top menu item on firefox/update page
-#: main.lang:482
+#: main.lang:487
 msgid "Firefox"
 msgstr "Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:487
+#: main.lang:492
 msgid "Firefox for Organizations"
 msgstr "„Firefox“ organizacijoms"
 
 #. Top menu item on firefox/update page
-#: main.lang:492
+#: main.lang:497
 msgid "Mobile Add-ons"
 msgstr "Priedai mobiliajame"
 
 #. Top menu item on firefox/update page
-#: main.lang:497
+#: main.lang:502
 msgid "Mobile Support"
 msgstr "Mobiliosios „Firefox“ palaikymas"
 
 #. Top menu item on firefox/update page
-#: main.lang:502
+#: main.lang:507
 msgid "Blog"
 msgstr "Tinklaraštis"
 
 #. Top menu item on firefox/update page
-#: main.lang:507
+#: main.lang:512
 msgid "About Firefox"
 msgstr "Apie „Firefox“"
 
 #. Top menu item on firefox/update page
-#: main.lang:512
+#: main.lang:517
 msgid "Join Mozilla"
 msgstr "Jungtis prie „Mozillos“"
 
 #. Top menu item on firefox/update page
-#: main.lang:517
+#: main.lang:522
 msgid "Participate"
 msgstr "Dalyvavimas"
 
 #. Top menu item on firefox/update page
-#: main.lang:522
+#: main.lang:527
 msgid "Brand Toolkit"
 msgstr "Prekės ženklo vadovas"
 
 #. Top menu item on firefox/update page
-#: main.lang:527
+#: main.lang:532
 msgid "Partnerships"
 msgstr "Partnerystė"
 
 #. Newsletter subscription form above footer on some pages
-#: main.lang:532
+#: main.lang:537
 msgid "Get Mozilla updates"
 msgstr "„Mozillos“ naujienos"
 
 #. share button for social networks
-#: main.lang:537
+#: main.lang:542
 msgid "Share"
 msgstr "Dalintis"
 
 #. footer link
-#: main.lang:542
+#: main.lang:547
 msgid "Mozilla on Twitter"
 msgstr "„Mozilla“ „Twitter'yje“"
 
 #. footer link
-#: main.lang:547
+#: main.lang:552
 msgid "Firefox on Twitter"
 msgstr "„Firefox“ „Twitter'yje“"
 
 #. footer link
-#: main.lang:552
+#: main.lang:557
 msgid "Mozilla on Facebook"
 msgstr "„Mozilla“ „Facebook'e“"
 
 #. footer link
-#: main.lang:557
+#: main.lang:562
 msgid "Firefox on Facebook"
 msgstr "„Firefox“ „Facebook'e“"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:562
+#: main.lang:567
 msgid "Forums"
 msgstr "Forumai"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:567
+#: main.lang:572
 msgid "Leadership"
 msgstr "Vadovybė"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:572
+#: main.lang:577
 msgid "Governance"
 msgstr "Valdymas"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:577
+#: main.lang:582
 msgid "History"
 msgstr "Istorija"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:582
+#: main.lang:587
 msgid "Our Products"
 msgstr "Mūsų produktai"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:587
+#: main.lang:592
 msgid "Software and other innovations designed to advance our mission."
 msgstr "Programinė įranga ir kitos inovacijos, sukurtos mūsų misijai plėtoti."
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:592
+#: main.lang:597
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "Tapkite savanoriu vienoje iš daugybės sričių."
 
 #. This is a non-visible string for blind people to indicate where the menu is
-#: main.lang:597
+#: main.lang:602
 msgid "Menu"
 msgstr "Meniu"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
-#: main.lang:602
+#: main.lang:607
 msgid "Committed to you, your privacy and an open Web"
 msgstr "Pašvęsta jums, jūsų privatumui ir atvirajam saitynui"
 
 #. Common title used in Fx 10 pages
-#: main.lang:607
+#: main.lang:612
 msgid "Choose Independent"
 msgstr "Rinkitės nepriklausomą"
 
 #. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 #. The '#ChooseIndependent' hashtag should not be translated.
-#: main.lang:614
+#: main.lang:619
 msgid ""
 "Keep the passion for a free and open Internet burning bright! "
 "#ChooseIndependent. Choose Firefox:"
@@ -659,120 +665,120 @@ msgstr ""
 "„Firefox“:"
 
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
-#: main.lang:620
+#: main.lang:625
 msgid "Please turn on JavaScript to display this page correctly."
 msgstr ""
 "Kad šis tinklalapis tinkamai veiktų, turite įgalinti „JavaScript“ scenarijų "
 "vykdymą."
 
 #. Used as link to /firefox/desktop in footers on some pages
-#: main.lang:625
+#: main.lang:630
 msgid "Firefox Features"
 msgstr "„Firefox“ savybės"
 
 #. Used as link to SUMO in footers on some pages
-#: main.lang:630
+#: main.lang:635
 msgid "Firefox Help"
 msgstr "„Firefox“ žinynas"
 
-#: main.lang:634
+#: main.lang:639
 msgid "January"
 msgstr "sausio"
 
-#: main.lang:638
+#: main.lang:643
 msgid "February"
 msgstr "vasario"
 
-#: main.lang:642
+#: main.lang:647
 msgid "March"
 msgstr "kovo"
 
-#: main.lang:646
+#: main.lang:651
 msgid "April"
 msgstr "balandžio"
 
-#: main.lang:650
+#: main.lang:655
 msgid "May"
 msgstr "gegužės"
 
-#: main.lang:654
+#: main.lang:659
 msgid "June"
 msgstr "birželio"
 
-#: main.lang:658
+#: main.lang:663
 msgid "July"
 msgstr "liepos"
 
-#: main.lang:662
+#: main.lang:667
 msgid "August"
 msgstr "rugpjūčio"
 
-#: main.lang:666
+#: main.lang:671
 msgid "September"
 msgstr "rugsėjo"
 
-#: main.lang:670
+#: main.lang:675
 msgid "October"
 msgstr "spalio"
 
-#: main.lang:674
+#: main.lang:679
 msgid "November"
 msgstr "lapkričio"
 
-#: main.lang:678
+#: main.lang:683
 msgid "December"
 msgstr "gruodžio"
 
-#: main.lang:682
+#: main.lang:687
 msgid "<abbr>Jan</abbr>"
 msgstr "<abbr>Sau</abbr>"
 
-#: main.lang:686
+#: main.lang:691
 msgid "<abbr>Feb</abbr>"
 msgstr "<abbr>Vas</abbr>"
 
-#: main.lang:690
+#: main.lang:695
 msgid "<abbr>Mar</abbr>"
 msgstr "<abbr>Kov</abbr>"
 
-#: main.lang:694
+#: main.lang:699
 msgid "<abbr>Apr</abbr>"
 msgstr "<abbr>Bal</abbr>"
 
-#: main.lang:698
+#: main.lang:703
 msgid "<abbr>May</abbr>"
 msgstr "<abbr>Geg</abbr>"
 
-#: main.lang:702
+#: main.lang:707
 msgid "<abbr>Jun</abbr>"
 msgstr "<abbr>Bir</abbr>"
 
-#: main.lang:706
+#: main.lang:711
 msgid "<abbr>Jul</abbr>"
 msgstr "<abbr>Lie</abbr>"
 
-#: main.lang:710
+#: main.lang:715
 msgid "<abbr>Aug</abbr>"
 msgstr "<abbr>Rgp</abbr>"
 
-#: main.lang:714
+#: main.lang:719
 msgid "<abbr>Sep</abbr>"
 msgstr "<abbr>Rgs</abbr>"
 
-#: main.lang:718
+#: main.lang:723
 msgid "<abbr>Oct</abbr>"
 msgstr "<abbr>Spl</abbr>"
 
-#: main.lang:722
+#: main.lang:727
 msgid "<abbr>Nov</abbr>"
 msgstr "<abbr>Lap</abbr>"
 
-#: main.lang:726
+#: main.lang:731
 msgid "<abbr>Dec</abbr>"
 msgstr "<abbr>Grd</abbr>"
 
 #. Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-#: main.lang:731
+#: main.lang:736
 msgid ""
 "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
 msgstr ""

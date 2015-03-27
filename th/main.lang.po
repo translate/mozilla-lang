@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-18 15:09+0000\n"
+"POT-Creation-Date: 2015-03-27 19:07+0000\n"
 "PO-Revision-Date: 2014-12-17 02:34+0000\n"
 "Last-Translator: Wichai <chengings@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -441,209 +441,215 @@ msgstr ""
 "ส่วนหนึ่งของเนื้อหานี้นั้นสงวนลิขสิทธิ์ 1998–%(current_year)s โดยผู้มีส่วมร่วมของ mozilla.org "
 "แต่ละคน เนื้อหาอยู่ภายใต้ <a href=\"%(url)s\">สัญญาอนุญาตครีเอทีฟคอมมอนส์</a>"
 
-#. Footer string
+#. Footer string (will replace "Contribute to this page")
 #: main.lang:412
+#, fuzzy
+msgid "Contribute to this site"
+msgstr "มีส่วนร่วมกับหน้านี้"
+
+#. Footer string
+#: main.lang:417
 msgid "Contribute to this page"
 msgstr "มีส่วนร่วมกับหน้านี้"
 
 #. Top menu item
-#: main.lang:417
+#: main.lang:422
 msgid "Mission"
 msgstr "เป้าหมาย"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:422
+#: main.lang:427
 msgid "Tour"
 msgstr "ท่องดู"
 
 #. Footer item
-#: main.lang:427
+#: main.lang:432
 msgid "Partner with Us"
 msgstr "เป็นพันธมิตรกับเรา"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:432
+#: main.lang:437
 msgid "Sync"
 msgstr "Sync"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:437
+#: main.lang:442
 msgid "Desktop Add-ons"
 msgstr "ส่วนเสริมสำหรับเดสก์ท็อป"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:442
+#: main.lang:447
 msgid "Android Add-ons"
 msgstr "ส่วนเสริม Android"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:447
+#: main.lang:452
 msgid "Themes"
 msgstr "ชุดตกแต่ง"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:452
+#: main.lang:457
 msgid "Desktop Support"
 msgstr "การสนับสนุนเดสก์ท็อป"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:457
+#: main.lang:462
 msgid "Android Support"
 msgstr ""
 
 #. Top menu item on firefox/update page
-#: main.lang:462
+#: main.lang:467
 msgid "Performance"
 msgstr "ประสิทธิภาพ"
 
 #. Top menu item on firefox/update page
-#: main.lang:467
+#: main.lang:472
 msgid "Technology"
 msgstr "เทคโนโลยี"
 
 #. Top menu item on firefox/update page
-#: main.lang:472
+#: main.lang:477
 msgid "Privacy &amp; Security"
 msgstr "ความเป็นส่วนตัวและความปลอดภัย"
 
 #. Top menu item on firefox/update page
-#: main.lang:477
+#: main.lang:482
 msgid "Releases"
 msgstr "รุ่นที่ออก"
 
 #. Top menu item on firefox/update page
-#: main.lang:482
+#: main.lang:487
 msgid "Firefox"
 msgstr "Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:487
+#: main.lang:492
 msgid "Firefox for Organizations"
 msgstr "Firefox สำหรับองค์กร"
 
 #. Top menu item on firefox/update page
-#: main.lang:492
+#: main.lang:497
 msgid "Mobile Add-ons"
 msgstr "ส่วนเสริมสำหรับอุปกรณ์พกพา"
 
 #. Top menu item on firefox/update page
-#: main.lang:497
+#: main.lang:502
 msgid "Mobile Support"
 msgstr "การสนับสนุนอุปกรณ์พกพา"
 
 #. Top menu item on firefox/update page
-#: main.lang:502
+#: main.lang:507
 msgid "Blog"
 msgstr "บล็อก"
 
 #. Top menu item on firefox/update page
-#: main.lang:507
+#: main.lang:512
 msgid "About Firefox"
 msgstr "เกี่ยวกับ Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:512
+#: main.lang:517
 msgid "Join Mozilla"
 msgstr "เข้าร่วม Mozilla"
 
 #. Top menu item on firefox/update page
-#: main.lang:517
+#: main.lang:522
 msgid "Participate"
 msgstr "มีส่วนร่วม"
 
 #. Top menu item on firefox/update page
-#: main.lang:522
+#: main.lang:527
 msgid "Brand Toolkit"
 msgstr "เครื่องมือสำหรับแบรนด์"
 
 #. Top menu item on firefox/update page
-#: main.lang:527
+#: main.lang:532
 msgid "Partnerships"
 msgstr "พันธมิตร"
 
 #. Newsletter subscription form above footer on some pages
-#: main.lang:532
+#: main.lang:537
 msgid "Get Mozilla updates"
 msgstr "ตามข้อมูลใหม่ของ Mozilla"
 
 #. share button for social networks
-#: main.lang:537
+#: main.lang:542
 msgid "Share"
 msgstr "แบ่งปัน"
 
 #. footer link
-#: main.lang:542
+#: main.lang:547
 msgid "Mozilla on Twitter"
 msgstr "Mozilla บน Twitter"
 
 #. footer link
-#: main.lang:547
+#: main.lang:552
 msgid "Firefox on Twitter"
 msgstr "Firefox บน Twitter"
 
 #. footer link
-#: main.lang:552
+#: main.lang:557
 msgid "Mozilla on Facebook"
 msgstr "Mozilla บน Facebook"
 
 #. footer link
-#: main.lang:557
+#: main.lang:562
 msgid "Firefox on Facebook"
 msgstr "Firefox บน Facebook"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:562
+#: main.lang:567
 msgid "Forums"
 msgstr "กระดานสนทนา"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:567
+#: main.lang:572
 msgid "Leadership"
 msgstr ""
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:572
+#: main.lang:577
 msgid "Governance"
 msgstr "การกำกับดูแล"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:577
+#: main.lang:582
 msgid "History"
 msgstr "ประวัติ"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:582
+#: main.lang:587
 msgid "Our Products"
 msgstr "ผลิตภัณฑ์ของเรา"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:587
+#: main.lang:592
 msgid "Software and other innovations designed to advance our mission."
 msgstr "ซอฟต์แวร์และนวัตกรรมอื่นๆ ถูกออกแบบเพื่อทำให้ภารกิจของเราก้าวไปข้างหน้า"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:592
+#: main.lang:597
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "เป็นผู้มีส่วนร่วมอาสาสมัครในหลายพื้นที่ที่แตกต่างกัน"
 
 #. This is a non-visible string for blind people to indicate where the menu is
-#: main.lang:597
+#: main.lang:602
 msgid "Menu"
 msgstr "เมนู"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
-#: main.lang:602
+#: main.lang:607
 msgid "Committed to you, your privacy and an open Web"
 msgstr "มอบให้กับคุณ เว็บเปิดและความเป็นส่วนตัวของคุณ"
 
 #. Common title used in Fx 10 pages
-#: main.lang:607
+#: main.lang:612
 msgid "Choose Independent"
 msgstr "เลือกการเป็นอิสระ"
 
 #. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 #. The '#ChooseIndependent' hashtag should not be translated.
-#: main.lang:614
+#: main.lang:619
 msgid ""
 "Keep the passion for a free and open Internet burning bright! "
 "#ChooseIndependent. Choose Firefox:"
@@ -652,118 +658,118 @@ msgstr ""
 "Firefox"
 
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
-#: main.lang:620
+#: main.lang:625
 msgid "Please turn on JavaScript to display this page correctly."
 msgstr "โปรดเปิดใช้งาน JavaScript เพื่อแสดงผลหน้านี้ให้ถูกต้อง"
 
 #. Used as link to /firefox/desktop in footers on some pages
-#: main.lang:625
+#: main.lang:630
 msgid "Firefox Features"
 msgstr "ความสามารถของ Firefox"
 
 #. Used as link to SUMO in footers on some pages
-#: main.lang:630
+#: main.lang:635
 msgid "Firefox Help"
 msgstr "การให้ความช่วยเหลือของ Firefox"
 
-#: main.lang:634
+#: main.lang:639
 msgid "January"
 msgstr ""
 
-#: main.lang:638
+#: main.lang:643
 msgid "February"
 msgstr ""
 
-#: main.lang:642
+#: main.lang:647
 msgid "March"
 msgstr ""
 
-#: main.lang:646
+#: main.lang:651
 msgid "April"
 msgstr "เมษายน"
 
-#: main.lang:650
+#: main.lang:655
 msgid "May"
 msgstr "พฤษภาคม"
 
-#: main.lang:654
+#: main.lang:659
 msgid "June"
 msgstr "มิถุนายน"
 
-#: main.lang:658
+#: main.lang:663
 msgid "July"
 msgstr "กรกฎาคม"
 
-#: main.lang:662
+#: main.lang:667
 msgid "August"
 msgstr "สิงหาคม"
 
-#: main.lang:666
+#: main.lang:671
 msgid "September"
 msgstr "กันยายน"
 
-#: main.lang:670
+#: main.lang:675
 msgid "October"
 msgstr "ตุลาคม"
 
-#: main.lang:674
+#: main.lang:679
 msgid "November"
 msgstr "พฤศจิกายน"
 
-#: main.lang:678
+#: main.lang:683
 msgid "December"
 msgstr "ธันวาคม"
 
-#: main.lang:682
+#: main.lang:687
 msgid "<abbr>Jan</abbr>"
 msgstr "<abbr>มกรา</abbr>"
 
-#: main.lang:686
+#: main.lang:691
 msgid "<abbr>Feb</abbr>"
 msgstr "<abbr>กุมภา</abbr>"
 
-#: main.lang:690
+#: main.lang:695
 msgid "<abbr>Mar</abbr>"
 msgstr "<abbr>มีนา</abbr>"
 
-#: main.lang:694
+#: main.lang:699
 msgid "<abbr>Apr</abbr>"
 msgstr "<abbr>เมษา</abbr>"
 
-#: main.lang:698
+#: main.lang:703
 msgid "<abbr>May</abbr>"
 msgstr "<abbr>พฤษภา</abbr>"
 
-#: main.lang:702
+#: main.lang:707
 msgid "<abbr>Jun</abbr>"
 msgstr "<abbr>มิถุนา</abbr>"
 
-#: main.lang:706
+#: main.lang:711
 msgid "<abbr>Jul</abbr>"
 msgstr "<abbr>กรกฎา</abbr>"
 
-#: main.lang:710
+#: main.lang:715
 msgid "<abbr>Aug</abbr>"
 msgstr "<abbr>สิงหา</abbr>"
 
-#: main.lang:714
+#: main.lang:719
 msgid "<abbr>Sep</abbr>"
 msgstr "<abbr>กันยา</abbr>"
 
-#: main.lang:718
+#: main.lang:723
 msgid "<abbr>Oct</abbr>"
 msgstr "<abbr>ตุลา</abbr>"
 
-#: main.lang:722
+#: main.lang:727
 msgid "<abbr>Nov</abbr>"
 msgstr "<abbr>พฤศจิกา</abbr>"
 
-#: main.lang:726
+#: main.lang:731
 msgid "<abbr>Dec</abbr>"
 msgstr "<abbr>ธันวา</abbr>"
 
 #. Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-#: main.lang:731
+#: main.lang:736
 msgid ""
 "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
 msgstr ""
