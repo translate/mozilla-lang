@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-03-22 00:34+0000\n"
+"PO-Revision-Date: 2015-04-09 20:12+0000\n"
 "Last-Translator: Alan <alan.monfort@free.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: br\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1426984479.000000\n"
+"X-POOTLE-MTIME: 1428610325.000000\n"
 
 #: firefox/sync.lang:10
 msgid "Keep your Firefox in sync"
@@ -47,26 +47,29 @@ msgstr "Emaoc'h oc'h arverañ un handelv kozh eus Firefox war ar seblant."
 #: firefox/sync.lang:40
 msgid "The new version of Sync only works with the latest version of Firefox"
 msgstr ""
+"An handelv nevez eus Sync a ya en-dro gant an handelv nevesañ eus Firefox "
+"hepken."
 
 #: firefox/sync.lang:45
 msgid "Soon you’ll be able to use Sync on your iOS device"
-msgstr ""
+msgstr "A-benn nebeut e viot gouest d'ober gant Sync gant ho trevnad mod iOS"
 
 #: firefox/sync.lang:50
 msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
 "Discover them all!"
 msgstr ""
+"Unan eus ar c'heweriusterioù dreist a gavot e Firefox eo Sync. Dizoloit an "
+"holl anezho !"
 
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 #: firefox/sync.lang:56
 msgid "Sync is just one of the great features you’ll only get with Firefox."
-msgstr ""
+msgstr "Unan eus ar c'heweriusterioù dreist a gavot e Firefox eo Sync."
 
 #: firefox/sync.lang:61
-#, fuzzy
 msgid "Download Firefox for Android"
-msgstr "Pellgargañ Beta evit Android"
+msgstr "Pellgargañ Firefox evit Android"
 
 #: firefox/sync.lang:66
 msgid "Get started with Sync"
@@ -81,8 +84,9 @@ msgid "Download Firefox"
 msgstr "Pellgargañ Firefox"
 
 #: firefox/sync.lang:81
+#, fuzzy
 msgid "Get started with Sync in four easy steps:"
-msgstr ""
+msgstr "Deraouit gant Sync dre 4 faz aes :"
 
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
