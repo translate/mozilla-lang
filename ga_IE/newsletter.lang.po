@@ -4,16 +4,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-09 08:49+0000\n"
-"PO-Revision-Date: 2015-03-09 11:47+0000\n"
+"PO-Revision-Date: 2015-04-09 20:05+0000\n"
 "Last-Translator: Kevin <kscanne@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ga_IE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
+"(n>6 && n<11) ? 3 : 4;;\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1425901641.000000\n"
+"X-POOTLE-MTIME: 1428609910.000000\n"
 
 #: newsletter.lang:4
 msgid "Get Monthly News"
@@ -137,11 +138,13 @@ msgid ""
 "A monthly newsletter and special announcements giving you tips to improve "
 "your experience with Firefox on your desktop and Android device."
 msgstr ""
+"Nuachtlitir mhíosúil le fógraí speisialta agus leideanna a chuideoidh leat "
+"an leas is mó a bhaint as Firefox ar do ríomhaire nó ar ghléas Android."
 
 #. Name for the newsletter in Newsletter subscription page
 #: newsletter.lang:103
 msgid "Firefox OS News"
-msgstr ""
+msgstr "Nuacht Firefox OS"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS News)
 #: newsletter.lang:108
@@ -150,6 +153,9 @@ msgid ""
 "your Firefox OS device, including the latest features and coolest Firefox "
 "Marketplace apps."
 msgstr ""
+"Nuachtlitir mhíosúil agus fógraí speisialta a chuideoidh leat an leas is mó "
+"a bhaint as do ghléas Firefox OS, agus eolas faoi na gnéithe is déanaí agus "
+"faoi na haipeanna is fearr ó Mhargadh Firefox."
 
 #. Name for the newsletter in Newsletter subscription page
 #: newsletter.lang:113
@@ -159,12 +165,12 @@ msgstr "Comhphobail Mozilla"
 #. Description for the newsletter in Newsletter subscription page (Mozilla Communities)
 #: newsletter.lang:118
 msgid "Bringing you the best new opportunities to help support the open Web."
-msgstr ""
+msgstr "Na deiseanna nua is fearr tacaíocht a thabhairt don Ghréasán oscailte."
 
 #. Name for the newsletter in Newsletter subscription page
 #: newsletter.lang:123
 msgid "Firefox Student Ambassadors"
-msgstr ""
+msgstr "Ambasadóirí Mic Léinn Firefox"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
 #: newsletter.lang:128
@@ -185,7 +191,7 @@ msgstr ""
 #. Name for the newsletter in Newsletter subscription page
 #: newsletter.lang:138
 msgid "Firefox Apps & Hacks"
-msgstr ""
+msgstr "Aipeanna agus Cleasa Firefox"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
 #: newsletter.lang:143
@@ -209,7 +215,7 @@ msgstr "Firefox ar an deasc"
 #. Description for the newsletter in Newsletter subscription page (Firefox for desktop)
 #: newsletter.lang:158
 msgid "Don’t miss the latest announcements about our desktop browser."
-msgstr ""
+msgstr "Ná caill na fograí is déanaí faoinár mbrabhsálaí ar an deasc."
 
 #. Name for the newsletter in Newsletter subscription page
 #: newsletter.lang:163
@@ -220,12 +226,16 @@ msgstr "Firefox ar Android"
 #: newsletter.lang:168
 msgid "Keep up with releases and news about Firefox for Android."
 msgstr ""
+"Bí ar an eolas faoi leaganacha nua agus nuacht eile a bhaineann le Firefox "
+"ar Android."
 
 #. Description for the in Newsletter subscription page (Firefox OS)
 #: newsletter.lang:173
 msgid ""
 "Be the first to know when Firefox OS devices are available in your country."
 msgstr ""
+"Bí ar an eolas chomh luath agus a bhéas gléasanna Firefox OS ar fáil i do "
+"thír."
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla)
 #: newsletter.lang:178
@@ -233,21 +243,25 @@ msgid ""
 "Special announcements and messages from the team dedicated to keeping the "
 "Web free and open."
 msgstr ""
+"Fógraí speisialta agus teachtaireachtaí ón bhfoireann a chosnaíonn an "
+"Gréasán saor oscailte."
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Marketplace)
 #: newsletter.lang:183
 msgid "Know when the coolest apps hit the Marketplace for your platform:"
 msgstr ""
+"Bí ar an eolas nuair a bheidh na haipeanna is fearr ar fáil sa Mhargadh don "
+"ghléas atá agat:"
 
 #. Name for the newsletter in Newsletter subscription page
 #: newsletter.lang:188
 msgid "Firefox OS smartphone owner?"
-msgstr ""
+msgstr "An bhfuil fón cliste Firefox OS agat?"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
 #: newsletter.lang:193
 msgid "Don’t miss important news and updates about your Firefox OS device."
-msgstr ""
+msgstr "Ná caill scéalta agus nuacht faoi do ghléas Firefox OS."
 
 #: newsletter.lang:197
 msgid "Our Other Newsletters:"
@@ -293,45 +307,52 @@ msgstr "Bainistigh do <span>Liostálacha</span>"
 
 #: newsletter.lang:229
 msgid "Manage your Email Preferences"
-msgstr ""
+msgstr "Sainroghanna Ríomhphoist"
 
 #: newsletter.lang:233
 msgid ""
 "We love sharing updates about all the awesome things happening at Mozilla."
-msgstr ""
+msgstr "Is breá linn an focal a scaipeadh faoina bhfuil ar siúl in Mozilla."
 
 #: newsletter.lang:237
 msgid ""
 "Set your preferences below to make sure you always receive the news you want."
 msgstr ""
+"Déan do rogha thíos le cinntiú nach bhfaighidh tú ach an nuacht atá uait."
 
 #: newsletter.lang:241
 msgid "Newsletters"
-msgstr ""
+msgstr "Nuachtlitreacha"
 
 #: newsletter.lang:245
 msgid "Getting too much email from us?"
-msgstr ""
+msgstr "An iomarca ríomhphoist uainn?"
 
 #: newsletter.lang:249
 msgid ""
 "Not interested in our newsletters, but like those special announcements? No "
 "problem."
 msgstr ""
+"Níl suim agat sna nuachtlitreacha, ach taitníonn na fógraí speisialta leat? "
+"Fadhb ar bith!"
 
 #: newsletter.lang:253
 msgid "We can keep in touch with occasional messages that matter most to you."
 msgstr ""
+"Is féidir linn a bheith i dteagmháil leis na teachtaireachtaí is tábhachtaí "
+"anois is arís."
 
 #: newsletter.lang:257
 msgid ""
 "Check all categories that apply to you, and we promise to keep the mail to a "
 "minimum."
 msgstr ""
+"Cuir tic leis na catagóirí a bhaineann leat, agus geallaimid nach seolfaimid "
+"an iomarca ríomhphoist chugat."
 
 #: newsletter.lang:261
 msgid "I’m interested in:"
-msgstr ""
+msgstr "Tá suim agam i:"
 
 #: newsletter.lang:265
 msgid "Subscribe"
@@ -555,6 +576,7 @@ msgstr ""
 #: newsletter.lang:456
 msgid "Be the first to know when Firefox is available for iOS devices."
 msgstr ""
+"Bí ar an eolas chomh luath agus a bheas Firefox ar fáil ar ghléasanna iOS."
 
 #. Description for the newsletter in Newsletter subscription page
 #: newsletter.lang:461
