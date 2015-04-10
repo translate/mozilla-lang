@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-12 20:08+0000\n"
+"POT-Creation-Date: 2015-04-10 15:08+0000\n"
 "PO-Revision-Date: 2014-11-04 10:16+0000\n"
 "Last-Translator: Arun Kumar <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,96 +16,100 @@ msgstr ""
 "X-POOTLE-MTIME: 1415096201.000000\n"
 
 #. Used as page title in HTML meta tag
-#: mozorg/plugincheck.lang:12
+#: mozorg/plugincheck.lang:13
 msgid "Keep your Firefox healthy with a quick checkup"
 msgstr ""
 
 #. Used as page description in HTML meta tag
-#: mozorg/plugincheck.lang:18
+#: mozorg/plugincheck.lang:19
 msgid ""
 "Use Flash? QuickTime? Java? If you use these to make your Firefox experience "
 "more awesome, check your plugins! They may need to be updated."
 msgstr ""
 
 #. Old page <title> tag
-#: mozorg/plugincheck.lang:23
+#: mozorg/plugincheck.lang:24
 msgid "Plugin Check &amp; Updates"
 msgstr "புதுப்பிப்புகளுக்காகச் &amp; சரி பார்க்கவும்"
 
 #. This is a button telling the user to update their plugin
-#: mozorg/plugincheck.lang:28
+#: mozorg/plugincheck.lang:29
 msgid "Update Now"
 msgstr "இப்போது புதுப்பி"
 
 #. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
-#: mozorg/plugincheck.lang:33
+#: mozorg/plugincheck.lang:34
 msgid "Research"
 msgstr "ஆராய்ச்சி"
 
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
-#: mozorg/plugincheck.lang:38
+#: mozorg/plugincheck.lang:39
 msgid "current version plugin"
 msgstr "செருகியின் தற்போதைய பதிப்பு"
 
 #. This is a button informing the user that their plugin is up to date
-#: mozorg/plugincheck.lang:43
+#: mozorg/plugincheck.lang:44
 msgid "Up to Date"
 msgstr "புதுப்பிக்கப்பட்டது"
 
 #. L10n: This is alt text used on plugin icon images
-#: mozorg/plugincheck.lang:48
+#: mozorg/plugincheck.lang:49
 msgid "Plugin icon"
 msgstr "செருகியின் சின்னம்"
 
 #. This is the string used to indicate that the plugin is unknown
-#: mozorg/plugincheck.lang:53
+#: mozorg/plugincheck.lang:54
 msgid "unknown"
 msgstr "அறியாத"
 
 #. This is the string used to indicate that the plugin is vulnerable
-#: mozorg/plugincheck.lang:58
+#: mozorg/plugincheck.lang:59
 msgid "vulnerable"
 msgstr "பாதிப்புக்குட்படக்கூடியது"
 
 #. Main title
-#: mozorg/plugincheck.lang:63
+#: mozorg/plugincheck.lang:64
 msgid "Check Your Plugins"
 msgstr "உங்கள் செருகுநிரல்களை சோதிக்கவும்"
 
-#: mozorg/plugincheck.lang:67
+#: mozorg/plugincheck.lang:68
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
 "உங்கள் செருகிகளை புதுப்பித்து வைப்பது Firefox ஐப் பாதுகாப்பாகவும் நல்ல முறையில் இயக்க "
 "உதவுகிறது."
 
-#. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 #: mozorg/plugincheck.lang:73
+msgid "Currently the plugin check service is only available to Firefox users."
+msgstr ""
+
+#. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
+#: mozorg/plugincheck.lang:79
 msgid ""
 "Plugins don’t always update automatically. Check yours now to stay safe and "
 "browse without interruption!"
 msgstr ""
 
-#: mozorg/plugincheck.lang:77
+#: mozorg/plugincheck.lang:83
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "உங்களைப் பார்ப்பதற்கு பயர்பாக்ஸின் பழைய பதிப்பை பயன்படுத்துவது பொலே இருக்கிறது."
 
-#: mozorg/plugincheck.lang:82
+#: mozorg/plugincheck.lang:88
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
 msgstr ""
 
-#: mozorg/plugincheck.lang:87
+#: mozorg/plugincheck.lang:93
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
 msgstr ""
 
-#: mozorg/plugincheck.lang:91
+#: mozorg/plugincheck.lang:97
 msgid "Plugin Status"
 msgstr "செருகி நிலவரம்"
 
-#: mozorg/plugincheck.lang:95
+#: mozorg/plugincheck.lang:101
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
@@ -113,82 +117,82 @@ msgstr ""
 "செருகு நிரல் சோதனை <strong>Internet Explorer க்கான ஆதரவு வரம்புடையதாகவே "
 "இருக்கும்</strong>. கருவிகள் &gt; துணை நிரல்களை நிர்வகிக்கவும் என்பதையும் பயன்படுத்தவும்"
 
-#: mozorg/plugincheck.lang:99
+#: mozorg/plugincheck.lang:105
 msgid "Step 1: Click Update to update a plugin."
 msgstr "செயல்படி 1: ஒரு செருகு நிரலைப் புதுப்பிக்க புதுப்பி என்பதைச் சொடுக்கவும்."
 
-#: mozorg/plugincheck.lang:103
+#: mozorg/plugincheck.lang:109
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
 "செயல்படி 2: உங்கள் உலாவியை மறுதுவக்குவதற்கு முன்பு பரிந்துரைக்கப்படும் அனைத்து "
 "புதுப்பிப்புகளையும் முடிக்கவும்."
 
-#: mozorg/plugincheck.lang:107
+#: mozorg/plugincheck.lang:113
 msgid "Potentially vulnerable plugins"
 msgstr "பாதிப்புக்குட்படக்கூடிய சாத்தியமுள்ள செருகுநிரல்கள்"
 
-#: mozorg/plugincheck.lang:111
+#: mozorg/plugincheck.lang:117
 msgid "Plugin"
 msgstr "செருகி"
 
-#: mozorg/plugincheck.lang:115
+#: mozorg/plugincheck.lang:121
 msgid "Status"
 msgstr "நிலை"
 
-#: mozorg/plugincheck.lang:119
+#: mozorg/plugincheck.lang:125
 msgid "Action"
 msgstr "செயல்"
 
-#: mozorg/plugincheck.lang:123
+#: mozorg/plugincheck.lang:129
 msgid "Outdated Plugins"
 msgstr "காலாவதியான செருகிகள்"
 
-#: mozorg/plugincheck.lang:127
+#: mozorg/plugincheck.lang:133
 msgid "Unknown Plugins"
 msgstr "அறியாத செருகிகள்"
 
-#: mozorg/plugincheck.lang:131
+#: mozorg/plugincheck.lang:137
 msgid "These plugins are up to date"
 msgstr ""
 
-#: mozorg/plugincheck.lang:135
+#: mozorg/plugincheck.lang:141
 msgid "Back to Top"
 msgstr ""
 
-#: mozorg/plugincheck.lang:139
+#: mozorg/plugincheck.lang:145
 msgid "Frequently Asked Questions"
 msgstr "அடிக்கடி கேட்கப்படும் கேள்விகள்"
 
-#: mozorg/plugincheck.lang:143
+#: mozorg/plugincheck.lang:149
 msgid "What is a plugin?"
 msgstr "செருகு நிரல் என்றால் என்ன?"
 
-#: mozorg/plugincheck.lang:147
+#: mozorg/plugincheck.lang:153
 msgid "Plugins power videos, animation and games"
 msgstr "செருகுநிரல்களால் இயங்கும் வீடியோக்கள், அசைவூட்டம் மற்றும் கேம்கள்."
 
-#: mozorg/plugincheck.lang:151
+#: mozorg/plugincheck.lang:157
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr ""
 "இவை Adobe Systems and Apple போன்ற நிறுவனங்களால் Firefox க்கு வெளியே "
 "உருவாக்கப்படுகின்றன."
 
-#: mozorg/plugincheck.lang:155
+#: mozorg/plugincheck.lang:161
 msgid "Plugins don't always update automatically."
 msgstr "செருகு நிரல்கள் தானாகவே எப்போதும் புதுப்பித்துக்கொள்ளாது."
 
-#: mozorg/plugincheck.lang:159
+#: mozorg/plugincheck.lang:165
 msgid "Why should I update my plugins?"
 msgstr "ஏன் எனது செருகு நிரல்களை புதுப்பிக்க வேண்டும்?"
 
-#: mozorg/plugincheck.lang:163
+#: mozorg/plugincheck.lang:169
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr ""
 "பழைய செருகு நிரல்கள் உலாவலில் குறுக்கிடக்கூடும், மேலும் உங்கள் நேரத்தை வீணடிக்கக்கூடும்."
 
-#: mozorg/plugincheck.lang:167
+#: mozorg/plugincheck.lang:173
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
@@ -196,7 +200,7 @@ msgstr ""
 "பழைய செருகு நிரல்கள் தீம்பொருள்கள், வைரஸ்கள் மற்றும் பிற பாதுகாப்பு அச்சுறுத்தல்களால் "
 "உங்களுக்கு ஏற்பட சாத்தியமுள்ள <strong>ஆபத்துகளை அதிகரிக்கும்</strong>."
 
-#: mozorg/plugincheck.lang:171
+#: mozorg/plugincheck.lang:177
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
@@ -206,15 +210,15 @@ msgstr ""
 "வழங்குகின்றன."
 
 #. alt image
-#: mozorg/plugincheck.lang:176
+#: mozorg/plugincheck.lang:182
 msgid "Screenshot of Add-Ons manager"
 msgstr ""
 
-#: mozorg/plugincheck.lang:180
+#: mozorg/plugincheck.lang:186
 msgid "How can Firefox help me?"
 msgstr "Firefox எனக்கு எப்படி உதவக்கூடும்?"
 
-#: mozorg/plugincheck.lang:184
+#: mozorg/plugincheck.lang:190
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
@@ -223,11 +227,11 @@ msgstr ""
 "நீங்கள் பாதுகாப்பாக இருக்கு, இந்தப் பக்கத்தை அவ்வப்போது பார்த்து உங்கள் செருகு நிரல்களைப் "
 "புதுப்பித்துக்கொள்ள வேண்டும்."
 
-#: mozorg/plugincheck.lang:188
+#: mozorg/plugincheck.lang:194
 msgid "Which Plugins do I have?"
 msgstr "என்னிடம் என்னென்ன செருகு நிரல்கள் உள்ளன?"
 
-#: mozorg/plugincheck.lang:192
+#: mozorg/plugincheck.lang:198
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
@@ -235,61 +239,61 @@ msgstr ""
 "மேலே உள்ள செருகு நிரல்கள் இருப்பதாக தானாகக் கண்டறிந்துள்ளோம்,  Firefox இல் "
 "நிறுவப்பட்டுள்ள உங்கள் செருகு நிரல்களைக் காண இந்த செயல்படிகளைப் பின்பற்றவும்:"
 
-#: mozorg/plugincheck.lang:196
+#: mozorg/plugincheck.lang:202
 msgid "Want to spread the word?"
 msgstr ""
 
-#: mozorg/plugincheck.lang:200
+#: mozorg/plugincheck.lang:206
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
 msgstr ""
 
-#: mozorg/plugincheck.lang:204
+#: mozorg/plugincheck.lang:210
 msgid "How do I disable a plugin?"
 msgstr "ஒரு செருகு நிரலை எப்படி முடக்குவது?"
 
-#: mozorg/plugincheck.lang:208
+#: mozorg/plugincheck.lang:214
 msgid "In Firefox:"
 msgstr "Firefox இல்:"
 
-#: mozorg/plugincheck.lang:212
+#: mozorg/plugincheck.lang:218
 #, fuzzy
 msgid "Open the Tools menu."
 msgstr "கருவிகள் மெனுவைத் திறக்கவும்."
 
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
-#: mozorg/plugincheck.lang:218
+#: mozorg/plugincheck.lang:224
 msgid "Open the <span class=\"menu\">menu</span>."
 msgstr ""
 
-#: mozorg/plugincheck.lang:222
+#: mozorg/plugincheck.lang:228
 #, fuzzy
 msgid "Choose Add-ons."
 msgstr "துணை நிரல்கள் என்பதைத் தேர்வு செய்யவும்."
 
-#: mozorg/plugincheck.lang:226
+#: mozorg/plugincheck.lang:232
 #, fuzzy
 msgid "Click the plugins tab."
 msgstr "செருகு நிரல்கள் தத்தலை சொடுக்கவும்."
 
-#: mozorg/plugincheck.lang:231
+#: mozorg/plugincheck.lang:237
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr ""
 
-#: mozorg/plugincheck.lang:235
+#: mozorg/plugincheck.lang:241
 msgid "Click on a plugin in the list."
 msgstr "பட்டியலில் இருந்து ஒரு செருகு நிரலை சொடுக்கவும்."
 
-#: mozorg/plugincheck.lang:240
+#: mozorg/plugincheck.lang:246
 msgid "Select \"Never Activate\" from the available choices."
 msgstr ""
 
-#: mozorg/plugincheck.lang:244
+#: mozorg/plugincheck.lang:250
 msgid "Click the Disable button."
 msgstr "முடக்கு பொத்தானை சொடுக்கவும்."
 
-#: mozorg/plugincheck.lang:248
+#: mozorg/plugincheck.lang:254
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -299,7 +303,7 @@ msgstr ""
 "போகக்கூடும்,. எடுத்துக்காட்டுக்கு, நீங்கள் Flash ஐ முடக்கினால், பிரபல வீடியோ ஸ்ட்ரீமிங் "
 "தளங்களில் உள்ள வீடியோக்களை நீங்கள் காண முடியாது."
 
-#: mozorg/plugincheck.lang:253
+#: mozorg/plugincheck.lang:259
 #, fuzzy
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
@@ -310,16 +314,16 @@ msgstr ""
 "போகக்கூடும்,. எடுத்துக்காட்டுக்கு, நீங்கள் Flash ஐ முடக்கினால், பிரபல வீடியோ ஸ்ட்ரீமிங் "
 "தளங்களில் உள்ள வீடியோக்களை நீங்கள் காண முடியாது."
 
-#: mozorg/plugincheck.lang:257
+#: mozorg/plugincheck.lang:263
 #, fuzzy
 msgid "Mozilla Support"
 msgstr "செல்பேசிக்கான ஆதரவு"
 
-#: mozorg/plugincheck.lang:261
+#: mozorg/plugincheck.lang:267
 msgid "Have more questions?"
 msgstr "இன்னும் கேள்விகள் உள்ளதா?"
 
-#: mozorg/plugincheck.lang:265
+#: mozorg/plugincheck.lang:271
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 

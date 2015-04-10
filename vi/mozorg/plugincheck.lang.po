@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-12 20:08+0000\n"
+"POT-Creation-Date: 2015-04-10 15:08+0000\n"
 "PO-Revision-Date: 2014-04-27 18:35+0000\n"
 "Last-Translator: Trung <ndtrung4419@gmail.com>\n"
 "Language-Team: none\n"
@@ -16,80 +16,84 @@ msgstr ""
 "X-POOTLE-MTIME: 1398623703.000000\n"
 
 #. Used as page title in HTML meta tag
-#: mozorg/plugincheck.lang:12
+#: mozorg/plugincheck.lang:13
 msgid "Keep your Firefox healthy with a quick checkup"
 msgstr ""
 
 #. Used as page description in HTML meta tag
-#: mozorg/plugincheck.lang:18
+#: mozorg/plugincheck.lang:19
 msgid ""
 "Use Flash? QuickTime? Java? If you use these to make your Firefox experience "
 "more awesome, check your plugins! They may need to be updated."
 msgstr ""
 
 #. Old page <title> tag
-#: mozorg/plugincheck.lang:23
+#: mozorg/plugincheck.lang:24
 msgid "Plugin Check &amp; Updates"
 msgstr "Kiểm tra &amp; cập nhật plugin"
 
 #. This is a button telling the user to update their plugin
-#: mozorg/plugincheck.lang:28
+#: mozorg/plugincheck.lang:29
 msgid "Update Now"
 msgstr "Cập nhật ngay"
 
 #. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
-#: mozorg/plugincheck.lang:33
+#: mozorg/plugincheck.lang:34
 msgid "Research"
 msgstr "Tìm hiểu"
 
 # String để google, có nên để nguyên tiếng Anh?
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
-#: mozorg/plugincheck.lang:38
+#: mozorg/plugincheck.lang:39
 msgid "current version plugin"
 msgstr "phiên bản hiện tại plugin"
 
 #. This is a button informing the user that their plugin is up to date
-#: mozorg/plugincheck.lang:43
+#: mozorg/plugincheck.lang:44
 msgid "Up to Date"
 msgstr "Đã là mới nhất"
 
 #. L10n: This is alt text used on plugin icon images
-#: mozorg/plugincheck.lang:48
+#: mozorg/plugincheck.lang:49
 msgid "Plugin icon"
 msgstr "Biểu tượng"
 
 #. This is the string used to indicate that the plugin is unknown
-#: mozorg/plugincheck.lang:53
+#: mozorg/plugincheck.lang:54
 msgid "unknown"
 msgstr "không rõ"
 
 #. This is the string used to indicate that the plugin is vulnerable
-#: mozorg/plugincheck.lang:58
+#: mozorg/plugincheck.lang:59
 msgid "vulnerable"
 msgstr "bị lỗi bảo mật"
 
 #. Main title
-#: mozorg/plugincheck.lang:63
+#: mozorg/plugincheck.lang:64
 msgid "Check Your Plugins"
 msgstr "Kiểm tra các plugin của bạn"
 
-#: mozorg/plugincheck.lang:67
+#: mozorg/plugincheck.lang:68
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
 "Giữ các plugin của bạn được cập nhật giúp Firefox chạy an toàn và mượt."
 
-#. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 #: mozorg/plugincheck.lang:73
+msgid "Currently the plugin check service is only available to Firefox users."
+msgstr ""
+
+#. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
+#: mozorg/plugincheck.lang:79
 msgid ""
 "Plugins don’t always update automatically. Check yours now to stay safe and "
 "browse without interruption!"
 msgstr ""
 
-#: mozorg/plugincheck.lang:77
+#: mozorg/plugincheck.lang:83
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "Có vẻ như bạn đang sử dụng phiên bản Firefox cũ."
 
-#: mozorg/plugincheck.lang:82
+#: mozorg/plugincheck.lang:88
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
@@ -97,7 +101,7 @@ msgstr ""
 "Chúng tôi nhận thấy có một vấn đề khi đang xác định các phiên bản hiện tại "
 "của Java plugin và báo cáo nhầm chúng như là nguy cơ."
 
-#: mozorg/plugincheck.lang:87
+#: mozorg/plugincheck.lang:93
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
@@ -105,11 +109,11 @@ msgstr ""
 "Chúng tôi đang sửa lỗi này. Trong lúc đo, bạn có thể <a href=\"%(download)s"
 "\">tới website của Java</a> để tải bản mới nhất."
 
-#: mozorg/plugincheck.lang:91
+#: mozorg/plugincheck.lang:97
 msgid "Plugin Status"
 msgstr "Trạng thai plugin"
 
-#: mozorg/plugincheck.lang:95
+#: mozorg/plugincheck.lang:101
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
@@ -117,82 +121,82 @@ msgstr ""
 "Trình kiểm tra phần bổ trợ <strong>không hỗ trợ tốt Internet Explorer</"
 "strong>. Cũng dùng 'Công cụ' &gt; 'Quản lí Tiện ích'"
 
-#: mozorg/plugincheck.lang:99
+#: mozorg/plugincheck.lang:105
 msgid "Step 1: Click Update to update a plugin."
 msgstr "Bước 1: nhấn Cập nhật để nâng cấp plugin."
 
-#: mozorg/plugincheck.lang:103
+#: mozorg/plugincheck.lang:109
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
 "Bước 2: Hoàn thành tất cả các cập nhật được yêu cầu trước khi khởi động lại "
 "trình duyệt của bạn."
 
-#: mozorg/plugincheck.lang:107
+#: mozorg/plugincheck.lang:113
 msgid "Potentially vulnerable plugins"
 msgstr "Phần bổ trợ có thể bị lỗi"
 
-#: mozorg/plugincheck.lang:111
+#: mozorg/plugincheck.lang:117
 msgid "Plugin"
 msgstr "Plugin"
 
-#: mozorg/plugincheck.lang:115
+#: mozorg/plugincheck.lang:121
 msgid "Status"
 msgstr "Tình trạng"
 
-#: mozorg/plugincheck.lang:119
+#: mozorg/plugincheck.lang:125
 msgid "Action"
 msgstr "Hành động"
 
-#: mozorg/plugincheck.lang:123
+#: mozorg/plugincheck.lang:129
 msgid "Outdated Plugins"
 msgstr "Plugin chưa cập nhật"
 
-#: mozorg/plugincheck.lang:127
+#: mozorg/plugincheck.lang:133
 msgid "Unknown Plugins"
 msgstr "Plugin chưa xác định"
 
-#: mozorg/plugincheck.lang:131
+#: mozorg/plugincheck.lang:137
 msgid "These plugins are up to date"
 msgstr "Những plugin này đã được cập nhật"
 
-#: mozorg/plugincheck.lang:135
+#: mozorg/plugincheck.lang:141
 msgid "Back to Top"
 msgstr "Lên đầu trang"
 
-#: mozorg/plugincheck.lang:139
+#: mozorg/plugincheck.lang:145
 msgid "Frequently Asked Questions"
 msgstr "Câu hỏi thường gặp"
 
-#: mozorg/plugincheck.lang:143
+#: mozorg/plugincheck.lang:149
 msgid "What is a plugin?"
 msgstr "Phần bổ trợ là gì?"
 
-#: mozorg/plugincheck.lang:147
+#: mozorg/plugincheck.lang:153
 msgid "Plugins power videos, animation and games"
 msgstr "Phần bổ trợ chi phốiđoạn phim, hình ảnh động và trò chơi."
 
-#: mozorg/plugincheck.lang:151
+#: mozorg/plugincheck.lang:157
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr ""
 "Phần bổ trợ được xây dựng bên ngoài Firefox bởi các công ty như Adobe "
 "Systems và Apple."
 
-#: mozorg/plugincheck.lang:155
+#: mozorg/plugincheck.lang:161
 msgid "Plugins don't always update automatically."
 msgstr "Plugin không thường xuyên cập nhật tự động."
 
-#: mozorg/plugincheck.lang:159
+#: mozorg/plugincheck.lang:165
 msgid "Why should I update my plugins?"
 msgstr "Tại sao tôi nên cập nhật các plugin của tôi?"
 
-#: mozorg/plugincheck.lang:163
+#: mozorg/plugincheck.lang:169
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr ""
 "Các plugin cũ có thể gây đổ vỡ trình duyệt và làm mất thời gian của bạn."
 
-#: mozorg/plugincheck.lang:167
+#: mozorg/plugincheck.lang:173
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
@@ -200,7 +204,7 @@ msgstr ""
 "Các plugin cũ <strong>làm tăng</strong> nguy cơ bị tấn công bởi phần mềm độc "
 "hại, virut, và những sự de dọa về bảo mật khác."
 
-#: mozorg/plugincheck.lang:171
+#: mozorg/plugincheck.lang:177
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
@@ -209,15 +213,15 @@ msgstr ""
 "trang web tốt hơn và an toàn hơn</strong> cho bạn."
 
 #. alt image
-#: mozorg/plugincheck.lang:176
+#: mozorg/plugincheck.lang:182
 msgid "Screenshot of Add-Ons manager"
 msgstr "Ảnh chụp màn hình của trình quản lý add-on"
 
-#: mozorg/plugincheck.lang:180
+#: mozorg/plugincheck.lang:186
 msgid "How can Firefox help me?"
 msgstr "Làm thế nào Firefox có thể giúp tôi?"
 
-#: mozorg/plugincheck.lang:184
+#: mozorg/plugincheck.lang:190
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
@@ -226,11 +230,11 @@ msgstr ""
 "phải thường xuyên vào trang này và cập nhật các plugin của bạn để web được "
 "an toàn hơn."
 
-#: mozorg/plugincheck.lang:188
+#: mozorg/plugincheck.lang:194
 msgid "Which Plugins do I have?"
 msgstr "Tôi đang có những phần bổ trợ nào?"
 
-#: mozorg/plugincheck.lang:192
+#: mozorg/plugincheck.lang:198
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
@@ -238,11 +242,11 @@ msgstr ""
 "Chúng tôi tự động dò các phần bổ trợ của bạn như trên, để xem các phần bổ "
 "trợ đã cài vào Firefox hãy làm theo các bước sau:"
 
-#: mozorg/plugincheck.lang:196
+#: mozorg/plugincheck.lang:202
 msgid "Want to spread the word?"
 msgstr "Bạn muốn chia sẻ trang này?"
 
-#: mozorg/plugincheck.lang:200
+#: mozorg/plugincheck.lang:206
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -250,51 +254,51 @@ msgstr ""
 "Hãy giúp các bạn của mình an toàn khi trực tuyến! Tới <a href=\"%(url)s"
 "\">Firefox Affiliates</a> để tải một plugin kiểm tra cho trang của bạn."
 
-#: mozorg/plugincheck.lang:204
+#: mozorg/plugincheck.lang:210
 msgid "How do I disable a plugin?"
 msgstr "Làm thế nào để tôi vô hiệu hóa một plugin?"
 
-#: mozorg/plugincheck.lang:208
+#: mozorg/plugincheck.lang:214
 msgid "In Firefox:"
 msgstr "Trong Firefox:"
 
-#: mozorg/plugincheck.lang:212
+#: mozorg/plugincheck.lang:218
 #, fuzzy
 msgid "Open the Tools menu."
 msgstr "Mở trình đơn Công cụ."
 
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
-#: mozorg/plugincheck.lang:218
+#: mozorg/plugincheck.lang:224
 msgid "Open the <span class=\"menu\">menu</span>."
 msgstr ""
 
-#: mozorg/plugincheck.lang:222
+#: mozorg/plugincheck.lang:228
 #, fuzzy
 msgid "Choose Add-ons."
 msgstr "Chọn add-on."
 
-#: mozorg/plugincheck.lang:226
+#: mozorg/plugincheck.lang:232
 #, fuzzy
 msgid "Click the plugins tab."
 msgstr "Nhấn vào thẻ plugin."
 
-#: mozorg/plugincheck.lang:231
+#: mozorg/plugincheck.lang:237
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr ""
 
-#: mozorg/plugincheck.lang:235
+#: mozorg/plugincheck.lang:241
 msgid "Click on a plugin in the list."
 msgstr "Nhấn vào một plugin trên danh sách."
 
-#: mozorg/plugincheck.lang:240
+#: mozorg/plugincheck.lang:246
 msgid "Select \"Never Activate\" from the available choices."
 msgstr ""
 
-#: mozorg/plugincheck.lang:244
+#: mozorg/plugincheck.lang:250
 msgid "Click the Disable button."
 msgstr "Nhấn vào nút Vô hiệu hóa."
 
-#: mozorg/plugincheck.lang:248
+#: mozorg/plugincheck.lang:254
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -304,7 +308,7 @@ msgstr ""
 "một số việc. Ví dụ, nếu bạn vô hiệu hóa Flash, bạn sẽ không thể xem các "
 "video trên YouTube."
 
-#: mozorg/plugincheck.lang:253
+#: mozorg/plugincheck.lang:259
 #, fuzzy
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
@@ -315,15 +319,15 @@ msgstr ""
 "một số việc. Ví dụ, nếu bạn vô hiệu hóa Flash, bạn sẽ không thể xem các "
 "video trên YouTube."
 
-#: mozorg/plugincheck.lang:257
+#: mozorg/plugincheck.lang:263
 msgid "Mozilla Support"
 msgstr "Hỗ trợ từ Mozilla"
 
-#: mozorg/plugincheck.lang:261
+#: mozorg/plugincheck.lang:267
 msgid "Have more questions?"
 msgstr "Còn câu hỏi nào khác?"
 
-#: mozorg/plugincheck.lang:265
+#: mozorg/plugincheck.lang:271
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "Vào trang <a href=\"%(sumo_url)s\">support.mozilla.org</a> để được hộ trợ "

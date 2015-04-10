@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-12 20:08+0000\n"
+"POT-Creation-Date: 2015-04-10 15:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,80 +14,84 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0-rc1\n"
 
 #. Used as page title in HTML meta tag
-#: mozorg/plugincheck.lang:12
+#: mozorg/plugincheck.lang:13
 msgid "Keep your Firefox healthy with a quick checkup"
 msgstr ""
 
 #. Used as page description in HTML meta tag
-#: mozorg/plugincheck.lang:18
+#: mozorg/plugincheck.lang:19
 msgid ""
 "Use Flash? QuickTime? Java? If you use these to make your Firefox experience "
 "more awesome, check your plugins! They may need to be updated."
 msgstr ""
 
 #. Old page <title> tag
-#: mozorg/plugincheck.lang:23
+#: mozorg/plugincheck.lang:24
 msgid "Plugin Check &amp; Updates"
 msgstr "Spraudņa pārbaude un atjauninājumi"
 
 #. This is a button telling the user to update their plugin
-#: mozorg/plugincheck.lang:28
+#: mozorg/plugincheck.lang:29
 msgid "Update Now"
 msgstr "Atjaunināt"
 
 #. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
-#: mozorg/plugincheck.lang:33
+#: mozorg/plugincheck.lang:34
 msgid "Research"
 msgstr "Jāizpēta"
 
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
-#: mozorg/plugincheck.lang:38
+#: mozorg/plugincheck.lang:39
 msgid "current version plugin"
 msgstr "aktuālā spraudņa versija"
 
 #. This is a button informing the user that their plugin is up to date
-#: mozorg/plugincheck.lang:43
+#: mozorg/plugincheck.lang:44
 msgid "Up to Date"
 msgstr "Viss kārtībā"
 
 #. L10n: This is alt text used on plugin icon images
-#: mozorg/plugincheck.lang:48
+#: mozorg/plugincheck.lang:49
 msgid "Plugin icon"
 msgstr "Spraudņa ikona"
 
 #. This is the string used to indicate that the plugin is unknown
-#: mozorg/plugincheck.lang:53
+#: mozorg/plugincheck.lang:54
 msgid "unknown"
 msgstr "nezināms"
 
 #. This is the string used to indicate that the plugin is vulnerable
-#: mozorg/plugincheck.lang:58
+#: mozorg/plugincheck.lang:59
 msgid "vulnerable"
 msgstr "ievainojams"
 
 #. Main title
-#: mozorg/plugincheck.lang:63
+#: mozorg/plugincheck.lang:64
 msgid "Check Your Plugins"
 msgstr "Spraudņu pārbaude"
 
-#: mozorg/plugincheck.lang:67
+#: mozorg/plugincheck.lang:68
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
 "Rūpējoties par to, lai spraudņi būtu atjaunināti, jūs palīdzat Firefox "
 "darboties droši un ātri."
 
-#. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 #: mozorg/plugincheck.lang:73
+msgid "Currently the plugin check service is only available to Firefox users."
+msgstr ""
+
+#. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
+#: mozorg/plugincheck.lang:79
 msgid ""
 "Plugins don’t always update automatically. Check yours now to stay safe and "
 "browse without interruption!"
 msgstr ""
 
-#: mozorg/plugincheck.lang:77
+#: mozorg/plugincheck.lang:83
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "Izskatās, ka Jums ir vecāka Firefox versija."
 
-#: mozorg/plugincheck.lang:82
+#: mozorg/plugincheck.lang:88
 msgid ""
 "We are aware of a problem detecting current versions of the Java plugin and "
 "misreporting them as vulnerable."
@@ -95,7 +99,7 @@ msgstr ""
 "Mēs zinām par problēmu ar jūsu Java spraudņa versiju, kas tiek noteikta "
 "kļūdaini un tāpēc tiek uzskatīta par ievainojamu."
 
-#: mozorg/plugincheck.lang:87
+#: mozorg/plugincheck.lang:93
 msgid ""
 "We’re working to correct this error. In the meantime, you can <a href="
 "\"%(download)s\">visit the Java website</a> to download the latest version."
@@ -103,11 +107,11 @@ msgstr ""
 "Mēs strādājam, lai novērstu šo problēmu. Bet pagaidām, Jūs varat apmeklēt <a "
 "href=\"%(download)s\">Java lapu</a> un lejupielādēt jaunāko versiju."
 
-#: mozorg/plugincheck.lang:91
+#: mozorg/plugincheck.lang:97
 msgid "Plugin Status"
 msgstr "Spraudņa statuss"
 
-#: mozorg/plugincheck.lang:95
+#: mozorg/plugincheck.lang:101
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
@@ -115,79 +119,79 @@ msgstr ""
 "Spraudņu pārbaude <strong>Internet Explorer pārlūkam ir ierobežota</strong>. "
 "Izmantojiet Rīki &gt; Pārvaldīt papildinājumus"
 
-#: mozorg/plugincheck.lang:99
+#: mozorg/plugincheck.lang:105
 msgid "Step 1: Click Update to update a plugin."
 msgstr "1. solis: Klikšķiniet Atjaunināt lai atjauninātu spraudni."
 
-#: mozorg/plugincheck.lang:103
+#: mozorg/plugincheck.lang:109
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
 "2. solis: Veiciet visus ieteiktos atjauninājumus pirms pārlūka "
 "pārstartēšanas."
 
-#: mozorg/plugincheck.lang:107
+#: mozorg/plugincheck.lang:113
 msgid "Potentially vulnerable plugins"
 msgstr "Potenciāli ievainojams spraudnis"
 
-#: mozorg/plugincheck.lang:111
+#: mozorg/plugincheck.lang:117
 msgid "Plugin"
 msgstr "Spraudnis"
 
-#: mozorg/plugincheck.lang:115
+#: mozorg/plugincheck.lang:121
 msgid "Status"
 msgstr "Statuss"
 
-#: mozorg/plugincheck.lang:119
+#: mozorg/plugincheck.lang:125
 msgid "Action"
 msgstr "Darbība"
 
-#: mozorg/plugincheck.lang:123
+#: mozorg/plugincheck.lang:129
 msgid "Outdated Plugins"
 msgstr "Novecojusi spraudņi"
 
-#: mozorg/plugincheck.lang:127
+#: mozorg/plugincheck.lang:133
 msgid "Unknown Plugins"
 msgstr "Nezināmi spraudņi"
 
-#: mozorg/plugincheck.lang:131
+#: mozorg/plugincheck.lang:137
 msgid "These plugins are up to date"
 msgstr "Ar šiem spraudņiem viss ir kārtībā"
 
-#: mozorg/plugincheck.lang:135
+#: mozorg/plugincheck.lang:141
 msgid "Back to Top"
 msgstr "Atpakaļ uz augšu"
 
-#: mozorg/plugincheck.lang:139
+#: mozorg/plugincheck.lang:145
 msgid "Frequently Asked Questions"
 msgstr "Biežāk uzdotie jautājumi"
 
-#: mozorg/plugincheck.lang:143
+#: mozorg/plugincheck.lang:149
 msgid "What is a plugin?"
 msgstr "Kas ir spraudnis?"
 
-#: mozorg/plugincheck.lang:147
+#: mozorg/plugincheck.lang:153
 msgid "Plugins power videos, animation and games"
 msgstr "Spraudņi darbina video, animācijas un spēles."
 
-#: mozorg/plugincheck.lang:151
+#: mozorg/plugincheck.lang:157
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr "Tos veido cilvēki ārpus Firefox,  piemēram Adobe Systems un Apple."
 
-#: mozorg/plugincheck.lang:155
+#: mozorg/plugincheck.lang:161
 msgid "Plugins don't always update automatically."
 msgstr "Spraudņi ne vienmēr atjauninās automātiski."
 
-#: mozorg/plugincheck.lang:159
+#: mozorg/plugincheck.lang:165
 msgid "Why should I update my plugins?"
 msgstr "Kāpēc vajadzētu atjaunināt spraudņus?"
 
-#: mozorg/plugincheck.lang:163
+#: mozorg/plugincheck.lang:169
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr "Veci spraudņi var pārtraukt pārlūku un izniekot jūsu laiku."
 
-#: mozorg/plugincheck.lang:167
+#: mozorg/plugincheck.lang:173
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
@@ -195,7 +199,7 @@ msgstr ""
 "Veci spraudņi <strong>palielina jūsu risku</strong> inficēties ar spiegu "
 "programmu, vīrusu vai kādu citu apdraudējumu."
 
-#: mozorg/plugincheck.lang:171
+#: mozorg/plugincheck.lang:177
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
@@ -204,15 +208,15 @@ msgstr ""
 "<strong>ātrdarbību un pieejamās iespējas</strong>."
 
 #. alt image
-#: mozorg/plugincheck.lang:176
+#: mozorg/plugincheck.lang:182
 msgid "Screenshot of Add-Ons manager"
 msgstr "Papildinājumu pārvaldnieka attēls"
 
-#: mozorg/plugincheck.lang:180
+#: mozorg/plugincheck.lang:186
 msgid "How can Firefox help me?"
 msgstr "Kā Firefox var man palīdzēt?"
 
-#: mozorg/plugincheck.lang:184
+#: mozorg/plugincheck.lang:190
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
@@ -220,11 +224,11 @@ msgstr ""
 "Turpmāk Firefox atjauninās spraudņus jūsu vietā.  Līdz tam, jums vajadzētu "
 "regulāri apmeklēt šo lapu un atjaunināt spraudņus, lai būtu drošībā."
 
-#: mozorg/plugincheck.lang:188
+#: mozorg/plugincheck.lang:194
 msgid "Which Plugins do I have?"
 msgstr "Kādi spraudņi man ir?"
 
-#: mozorg/plugincheck.lang:192
+#: mozorg/plugincheck.lang:198
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
@@ -232,11 +236,11 @@ msgstr ""
 "Mēs esam atraduši augstāk redzamos spraudņus, lai aplūkotu Firefox "
 "instalētos spraudņus rīkojieties sekojoši:"
 
-#: mozorg/plugincheck.lang:196
+#: mozorg/plugincheck.lang:202
 msgid "Want to spread the word?"
 msgstr "Gribi palīdzēt un pastāstot citiem?"
 
-#: mozorg/plugincheck.lang:200
+#: mozorg/plugincheck.lang:206
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -245,48 +249,48 @@ msgstr ""
 "\">Firefox atbalstītāju lapu</a>, lai iegūtu spraudņu pārbaudes nozīmīti "
 "savai lapai."
 
-#: mozorg/plugincheck.lang:204
+#: mozorg/plugincheck.lang:210
 msgid "How do I disable a plugin?"
 msgstr "Kā deaktiviēt kādu spraudni?"
 
-#: mozorg/plugincheck.lang:208
+#: mozorg/plugincheck.lang:214
 msgid "In Firefox:"
 msgstr "Firefox programmā:"
 
-#: mozorg/plugincheck.lang:212
+#: mozorg/plugincheck.lang:218
 msgid "Open the Tools menu."
 msgstr "Atveriet izvēlni Rīki."
 
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
-#: mozorg/plugincheck.lang:218
+#: mozorg/plugincheck.lang:224
 msgid "Open the <span class=\"menu\">menu</span>."
 msgstr ""
 
-#: mozorg/plugincheck.lang:222
+#: mozorg/plugincheck.lang:228
 msgid "Choose Add-ons."
 msgstr "Izvēlieties Papildinājumi."
 
-#: mozorg/plugincheck.lang:226
+#: mozorg/plugincheck.lang:232
 msgid "Click the plugins tab."
 msgstr "Klikšķiniet uz cilnes spraudņi."
 
-#: mozorg/plugincheck.lang:231
+#: mozorg/plugincheck.lang:237
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr ""
 
-#: mozorg/plugincheck.lang:235
+#: mozorg/plugincheck.lang:241
 msgid "Click on a plugin in the list."
 msgstr "Klikšķiniet uz sarakstā redzamā spraudņa."
 
-#: mozorg/plugincheck.lang:240
+#: mozorg/plugincheck.lang:246
 msgid "Select \"Never Activate\" from the available choices."
 msgstr ""
 
-#: mozorg/plugincheck.lang:244
+#: mozorg/plugincheck.lang:250
 msgid "Click the Disable button."
 msgstr "Klikšķiniet uz pogas Deaktiviēt."
 
-#: mozorg/plugincheck.lang:248
+#: mozorg/plugincheck.lang:254
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -296,7 +300,7 @@ msgstr ""
 "zināmas lietas. Piemēram, ja deaktivizēsiet Flash, jūs vairs nevarēsiet "
 "aplūkot video interneta video lapās."
 
-#: mozorg/plugincheck.lang:253
+#: mozorg/plugincheck.lang:259
 #, fuzzy
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
@@ -307,15 +311,15 @@ msgstr ""
 "zināmas lietas. Piemēram, ja deaktivizēsiet Flash, jūs vairs nevarēsiet "
 "aplūkot video interneta video lapās."
 
-#: mozorg/plugincheck.lang:257
+#: mozorg/plugincheck.lang:263
 msgid "Mozilla Support"
 msgstr "Mozilla atbalsts"
 
-#: mozorg/plugincheck.lang:261
+#: mozorg/plugincheck.lang:267
 msgid "Have more questions?"
 msgstr "Jums ir vēl kādi jautājumi?"
 
-#: mozorg/plugincheck.lang:265
+#: mozorg/plugincheck.lang:271
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "Apmeklē <a href=\"%(sumo_url)s\">support.mozilla.org</a>, lai saņemtu "

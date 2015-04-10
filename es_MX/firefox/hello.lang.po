@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-04-10 15:08+0000\n"
 "PO-Revision-Date: 2015-04-01 19:54+0000\n"
 "Last-Translator: Roberto <ralv888@gmail.com>\n"
 "Language-Team: none\n"
@@ -11,16 +11,16 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1427918072.000000\n"
 
 #. “Firefox Hello” is the product name and should not be localized
-#: firefox/hello.lang:10
+#: firefox/hello.lang:11
 msgid "Firefox Hello — Free, easy video conversations"
 msgstr "Firefox Hello — conversaciones de video gratuitas y fáciles"
 
 #. “Firefox Hello” is the product name and should not be localized
-#: firefox/hello.lang:15
+#: firefox/hello.lang:16
 msgid ""
 "Learn all about Firefox Hello and see for yourself how easy it is to have a "
 "free video conversation with anyone, anywhere, right from your browser"
@@ -31,12 +31,12 @@ msgstr ""
 
 #. In this case 'hello' is simply a greeting, not the product name. The message is that Firefox Hello is easy to use, as easy as greeting someone.
 #. An alternative headline could be "The easiest way to connect".
-#: firefox/hello.lang:21
+#: firefox/hello.lang:22
 msgid "As easy as saying hello"
 msgstr "Tan sencillo cómo decir Hola"
 
 #. “Firefox Hello” is the product name and should not be localized
-#: firefox/hello.lang:26
+#: firefox/hello.lang:27
 msgid ""
 "Meet Firefox Hello, the easiest way to connect for free over video with "
 "anyone, anywhere."
@@ -45,41 +45,80 @@ msgstr ""
 "video con cualquier persona en cualquier lugar."
 
 #. “Firefox Hello” is the product name and should not be localized
-#: firefox/hello.lang:31
+#: firefox/hello.lang:32
 msgid "Try Firefox Hello"
 msgstr "Prueba Firefox Hello"
 
-#: firefox/hello.lang:35
+#: firefox/hello.lang:36
 msgid "All you need is Firefox"
 msgstr "Firefox es todo lo que necesitas"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:40
+#: firefox/hello.lang:41
 msgid "If you have the latest version of Firefox, you already have Hello."
 msgstr "Si tienes la última versión de Firefox, ya tienes Hello."
 
-#: firefox/hello.lang:44
+#: firefox/hello.lang:45
 msgid "There’s no account or sign-in required and nothing extra to download."
 msgstr ""
 "No se requiere una cuenta de usuario ni tampoco hay extras que descargar."
 
-#: firefox/hello.lang:48
+#: firefox/hello.lang:50
+#, fuzzy
+msgid "Just send a conversation link to a friend and ask them to click it."
+msgstr ""
+"Comienza una conversación, mándale un enlace a tu amigo y pídele que haga "
+"clic en él."
+
+#. This string will be an active link to SUMO: https://support.mozilla.org/kb/which-browsers-will-work-firefox-hello-video-chat
+#: firefox/hello.lang:56
+msgid "See which browsers are compatible with Firefox Hello"
+msgstr ""
+
+#: firefox/hello.lang:60
 msgid ""
 "Just start a conversation, send your friend a link and ask them to click it."
 msgstr ""
 "Comienza una conversación, mándale un enlace a tu amigo y pídele que haga "
 "clic en él."
 
-#: firefox/hello.lang:52
+#: firefox/hello.lang:64
 msgid "Simple."
 msgstr "Sencillo."
 
-#: firefox/hello.lang:56
+#. This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
+#. Feel free to adapt it to your locale.
+#: firefox/hello.lang:71
+msgid "Share and share alike"
+msgstr ""
+
+#: firefox/hello.lang:76
+msgid "Want to show off some new baby pictures?"
+msgstr ""
+
+#: firefox/hello.lang:81
+msgid "Share travel options over the Web?"
+msgstr ""
+
+#: firefox/hello.lang:86
+msgid "Check in on a project from half a world away?"
+msgstr ""
+
+#: firefox/hello.lang:91
+msgid "Screen sharing on Firefox Hello makes it all possible."
+msgstr ""
+
+#: firefox/hello.lang:96
+msgid ""
+"Try it out in your next conversation and share the things that matter most."
+msgstr ""
+
+#: firefox/hello.lang:100
 msgid "Invite anyone, anywhere"
 msgstr "Invita a cualquier persona, en cualquier lugar"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:61
+#: firefox/hello.lang:105
 msgid ""
 "Hello is super easy to use and your friends and family don’t even need "
 "Firefox to join your conversation."
@@ -87,20 +126,20 @@ msgstr ""
 "Hello es super fácil de usar y tus amigos y familia no necesitan tener "
 "Firefox para participar en tu conversación."
 
-#: firefox/hello.lang:65
+#: firefox/hello.lang:109
 msgid "As long as they have a compatible browser, they’re good to go."
 msgstr "Con tal de que tengan un navegador compatible, todo irá bien."
 
-#: firefox/hello.lang:69
+#: firefox/hello.lang:113
 msgid "Learn more about compatible browsers"
 msgstr "Saber más acerca de navegadores compatibles"
 
-#: firefox/hello.lang:73
+#: firefox/hello.lang:117
 msgid "Safe, secure, protected"
 msgstr "Seguro, fijo, protegido"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:78
+#: firefox/hello.lang:122
 msgid ""
 "Because Hello is built right into Firefox, you can rest easy knowing that "
 "your conversations and information will remain private and secure."
@@ -108,19 +147,30 @@ msgstr ""
 "Porque Hello se consolida en Firefox, puedes relajarte sabiendo que tus "
 "conversaciones e información permanecerán privadas y seguras."
 
-#: firefox/hello.lang:82
+#: firefox/hello.lang:127
+msgid ""
+"And thanks to WebRTC-grade encryption, you’ll enjoy an added level of "
+"security."
+msgstr ""
+
+#. This will be an active link. Destination URL currently not available
+#: firefox/hello.lang:133
+msgid "Learn more about WebRTC encryption"
+msgstr ""
+
+#: firefox/hello.lang:137
 #, fuzzy
 msgid ""
 "That’s part of our mission, and it’s behind everything we do around here."
 msgstr ""
 "Eso es parte de nuestra misión, y es la razón por la cual hacemos todo aquí."
 
-#: firefox/hello.lang:86
+#: firefox/hello.lang:141
 #, fuzzy
 msgid "Do more with a Firefox Account"
 msgstr "Haz más con una cuenta de Firefox"
 
-#: firefox/hello.lang:90
+#: firefox/hello.lang:145
 #, fuzzy
 msgid ""
 "To start a conversation with someone directly, simply create a free Firefox "
@@ -131,23 +181,23 @@ msgstr ""
 "una cuenta gratis de Firefox o inicia una sesión si ya la tienes &mdash; es "
 "la misma cuenta que usas con Sync."
 
-#: firefox/hello.lang:94
+#: firefox/hello.lang:149
 #, fuzzy
 msgid "You can then add contacts to keep them close at hand."
 msgstr "Luego puedes agregar contactos para guardarlos en la mano."
 
-#: firefox/hello.lang:98
+#: firefox/hello.lang:153
 #, fuzzy
 msgid "Get Firefox to get started"
 msgstr "Desgarga Firefox para iniciar  "
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:103
+#: firefox/hello.lang:158
 #, fuzzy
 msgid "Want to start using Hello?"
 msgstr "¿Quieres iniciar a usar Hello?"
 
-#: firefox/hello.lang:107
+#: firefox/hello.lang:162
 #, fuzzy
 msgid ""
 "All you need is Firefox &mdash; the open source browser that helps you stay "
@@ -158,27 +208,27 @@ msgstr ""
 "te ayuda a guardar control de tu vida en línea mientras te quedes conectado "
 "con amigos y familia."
 
-#: firefox/hello.lang:111
+#: firefox/hello.lang:166
 #, fuzzy
 msgid "Download Firefox to start your first conversation."
 msgstr "Descarga Firefox para iniciar tu primera conversación."
 
-#: firefox/hello.lang:115
+#: firefox/hello.lang:170
 #, fuzzy
 msgid "Get Firefox and start your first conversation"
 msgstr "Descarga Firefox e inicia tu primera conversación."
 
-#: firefox/hello.lang:119
+#: firefox/hello.lang:174
 #, fuzzy
 msgid "Update your Firefox to start using Hello"
 msgstr "Descarga tu Firefox para iniciar a usar Hello"
 
-#: firefox/hello.lang:123
+#: firefox/hello.lang:178
 #, fuzzy
 msgid "Start your first conversation today"
 msgstr "Inicia tu primera conversación hoy"
 
-#: firefox/hello.lang:128
+#: firefox/hello.lang:183
 msgid ""
 "Unfortunately, iOS doesn’t support Hello. To start having free video "
 "conversations, use Hello on Firefox for desktop, Firefox OS or Firefox for "
@@ -189,25 +239,25 @@ msgstr ""
 "Firefox OS o Firefox para Android."
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:133
+#: firefox/hello.lang:188
 msgid "Try Hello now"
 msgstr "Prueba Hello ahora"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:138
+#: firefox/hello.lang:193
 msgid "Get to know Hello"
 msgstr "Familiarízate con Hello"
 
-#: firefox/hello.lang:142
+#: firefox/hello.lang:197
 msgid "Want to reconnect with friends around the world?"
 msgstr "¿Quieres conectar de nuevo con amigos alrededor del mundo?"
 
-#: firefox/hello.lang:146
+#: firefox/hello.lang:201
 msgid "Celebrate a birthday when you can’t be there in person?"
 msgstr "¿Celebrar un cumpleaños cuando no puedas estar allí en persona?"
 
 #. “Firefox Hello” is the product name and should not be localized
-#: firefox/hello.lang:151
+#: firefox/hello.lang:206
 msgid ""
 "Learn more about Firefox Hello and see for yourself how easy it is to have a "
 "free video conversation with anyone, anywhere, right from your browser."
@@ -216,51 +266,58 @@ msgstr ""
 "una conversación gratuita con cualquier persona, en cualquier lugar, desde "
 "tu navegador."
 
-#: firefox/hello.lang:155
+#: firefox/hello.lang:210
 msgid "Questions?"
 msgstr "¿Preguntas?"
 
-#: firefox/hello.lang:159
+#: firefox/hello.lang:214
 msgid "Visit Mozilla Support"
 msgstr "Visita el soporte de Mozilla"
 
 #. %s will be replaced by an image of Telefonica's logo. The current string is the same used in Firefox for Firefox Hello
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/loop/loop.properties:powered_by_beforeLogo&repo=beta
-#: firefox/hello.lang:165
+#: firefox/hello.lang:220
 msgid "Powered by %s"
 msgstr "Impulsado por %s"
 
 #. The following strings are used for the First Time interactive experience, don't add HTML tags.
+#. The %s placeholder is an image of the Hello screen sharing icon, and can be moved around to fit the translation appropriately.
+#: firefox/hello.lang:227
+msgid ""
+"Now see how easy it is to share your screen. Click %s in your conversation "
+"window to try it."
+msgstr ""
+
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:171
+#: firefox/hello.lang:232
 msgid "Welcome to Hello"
 msgstr "Bienvenido a Hello"
 
-#: firefox/hello.lang:175
+#: firefox/hello.lang:236
 msgid ""
 "Open a video conversation with a single click, then invite a friend to join."
 msgstr ""
 "Abre una conversación de video con un clic solo, luego invita a un amigo "
 "para que se una."
 
-#: firefox/hello.lang:179
+#: firefox/hello.lang:240
 msgid "Share your link with a friend"
 msgstr "Comparte tu enlace con un amigo"
 
-#: firefox/hello.lang:183
+#: firefox/hello.lang:244
 #, fuzzy
 msgid "They don’t even need Firefox to join. They just need to click the link."
 msgstr ""
 "Ellos ni siquiera necesitan Firefox para unir. Sólo necesitan hacer clic en "
 "el enlace."
 
-#: firefox/hello.lang:187
+#: firefox/hello.lang:248
 #, fuzzy
 msgid "No need to wait around"
 msgstr "No necesitas esperar"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:192
+#: firefox/hello.lang:253
 #, fuzzy
 msgid ""
 "Once your friend clicks the link, the Hello icon will change to blue, "
@@ -269,60 +326,60 @@ msgstr ""
 "Una vez que tu amigo hace clic en el enlace, el ícono Hello cambiará a azul "
 "para avisarte que esté allí."
 
-#: firefox/hello.lang:196
+#: firefox/hello.lang:257
 #, fuzzy
 msgid "You have a conversation waiting"
 msgstr "Tienes una conversación en espera"
 
 #. In this case “hello” is just a greeting (think of it as “hi”)
-#: firefox/hello.lang:201
+#: firefox/hello.lang:262
 #, fuzzy
 msgid "Click now to join and say hello."
 msgstr "Haz clic ahora para unir y saludar."
 
-#: firefox/hello.lang:205
+#: firefox/hello.lang:266
 #, fuzzy
 msgid "The easiest way to have a free video conversation with anyone, anywhere"
 msgstr ""
 "La manera más fácil de tener una conversación de video gratis con cualquier "
 "persona, en cualquier lugar"
 
-#: firefox/hello.lang:209
+#: firefox/hello.lang:270
 #, fuzzy
 msgid "Start a conversation right from Firefox"
 msgstr "Inicia una conversación con Firefox"
 
-#: firefox/hello.lang:213
+#: firefox/hello.lang:274
 #, fuzzy
 msgid "Invite a friend by sending them a link"
 msgstr "Invita a tus amigos a platicar enviándoles un enlace"
 
-#: firefox/hello.lang:217
+#: firefox/hello.lang:278
 #, fuzzy
 msgid "The Hello icon will change to blue once they’ve joined"
 msgstr "El ícono Hello cambiará a azul cuando se han unido"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:222
+#: firefox/hello.lang:283
 #, fuzzy
 msgid "Tell a friend about Hello"
 msgstr "Informa a un amigo sobre Hello"
 
-#: firefox/hello.lang:226
+#: firefox/hello.lang:287
 msgid "Need help? Get support here"
 msgstr "¿Necesitas ayuda? Consigue soporte aquí"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:231
+#: firefox/hello.lang:292
 msgid "Learn all about Hello"
 msgstr "Conoce todo acerca de Hello"
 
-#: firefox/hello.lang:235
+#: firefox/hello.lang:296
 #, fuzzy
 msgid "The easiest way to connect for free over video"
 msgstr "La manera más fácil de conectar gratuitamente por video"
 
-#: firefox/hello.lang:239
+#: firefox/hello.lang:300
 #, fuzzy
 msgid ""
 "Start right from Firefox and invite anyone, anywhere to have a conversation. "
@@ -333,7 +390,7 @@ msgstr ""
 "tener una conversación. Todo lo que necesitan hacer es hacer clic en un "
 "enlace para unir. No hay cuenta requerida."
 
-#: firefox/hello.lang:243
+#: firefox/hello.lang:304
 #, fuzzy
 msgid "You’ve started your first conversation. Wasn’t that easy?"
 msgstr "Has iniciado tu primera conversación. ¿Fue fácil, no?"
