@@ -1,0 +1,357 @@
+#. extracted from ./firefox/sync.lang
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
+
+#: firefox/sync.lang:10
+msgid "Keep your Firefox in sync"
+msgstr "Mantenha o Firefox sincronizado"
+
+#: firefox/sync.lang:15
+msgid "Ready, Set, Sync"
+msgstr "Pronto, Preparar, Sincronizar"
+
+#: firefox/sync.lang:20
+msgid ""
+"You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
+msgstr ""
+"Foi registado e está pronto para aceder ao <em>seu</em> Firefox em qualquer "
+"lugar, a qualquer altura."
+
+#: firefox/sync.lang:25
+msgid "Take your Web with you"
+msgstr "Leve a sua Web consigo"
+
+#: firefox/sync.lang:30
+msgid ""
+"Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
+"and more from any smartphone, tablet or computer."
+msgstr ""
+"Sincronize o Firefox onde quer que o utilize para aceder aos seus "
+"marcadores, senhas, separadores, etc., de qualquer smartphone, tablet ou "
+"computador."
+
+#: firefox/sync.lang:35
+msgid "It looks like you’re running an older version of Firefox."
+msgstr "Parece que está a utilizar uma versão antiga do Firefox."
+
+#: firefox/sync.lang:40
+msgid "The new version of Sync only works with the latest version of Firefox"
+msgstr ""
+"A nova versão da Sincronização funciona apenas com a última versão do Firefox"
+
+#: firefox/sync.lang:45
+msgid "Soon you’ll be able to use Sync on your iOS device"
+msgstr "Em breve poderá utilizar o Sync no seu dispositivo iOS"
+
+#: firefox/sync.lang:50
+msgid ""
+"Sync is just one of the great features you’ll only get with Firefox. "
+"Discover them all!"
+msgstr ""
+"A Sincronização é apenas uma das fantásticas funcionalidades que terá com o "
+"Firefox. Descubra todas as outras!"
+
+#. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
+#: firefox/sync.lang:56
+msgid "Sync is just one of the great features you’ll only get with Firefox."
+msgstr ""
+"A Sincronização é apenas uma das grandes funcionalidades que só tem com o "
+"Firefox."
+
+#: firefox/sync.lang:61
+msgid "Download Firefox for Android"
+msgstr "Transferir o Firefox para o Android"
+
+#: firefox/sync.lang:66
+msgid "Get started with Sync"
+msgstr "Introdução à Sincronização"
+
+#: firefox/sync.lang:71
+msgid "Update your Firefox"
+msgstr "Atualizar o seu Firefox"
+
+#: firefox/sync.lang:76
+msgid "Download Firefox"
+msgstr "Transferir o Firefox"
+
+#: firefox/sync.lang:81
+msgid "Get started with Sync in four easy steps:"
+msgstr "Começar a Sincronização em quatro simples passos:"
+
+#. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+#. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
+#: firefox/sync.lang:88
+msgid ""
+"Open the <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">menu</"
+"a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
+msgstr ""
+"Aceda ao <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">menu</"
+"a> no canto superior direito do Firefox e selecione “<strong>Iniciar sessão "
+"no Sincronizar.</strong>”"
+
+#. (NEW STRING) <strong> tags used for font color formatting.
+#: firefox/sync.lang:94
+msgid "Click “<strong>Get started</strong>” in the tab that opens."
+msgstr "Clique em “<strong>Iniciação</strong>” no separador apresentado."
+
+#. (NEW STRING) <strong> tags used for font color formatting.
+#: firefox/sync.lang:100
+msgid ""
+"Enter an email address and password to “<strong>Create a Firefox Account.</"
+"strong>”"
+msgstr ""
+"Introduza um endereço de correio eletrónico e senha para “<strong>Criar uma "
+"conta Firefox.</strong>”"
+
+#. (NEW STRING) <strong> tags used for font color formatting.
+#: firefox/sync.lang:106
+msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
+msgstr ""
+"Clique em “<strong>Seguinte</strong>” para que lhe seja enviada uma "
+"confirmação para o seu correio."
+
+#: firefox/sync.lang:111
+msgid ""
+"After you check your email and click the verification link, you’ll be all "
+"set! Firefox will automatically sync in the background from then on."
+msgstr ""
+"Depois de verificar o seu email e clicar na ligação de confirmação, estará "
+"tudo pronto! O Firefox irá sincronizar de forma automática em segundo plano "
+"a partir dessa altura."
+
+#: firefox/sync.lang:116
+msgid "Get more detailed instructions."
+msgstr "Obtenha instruções mais detalhadas."
+
+#: firefox/sync.lang:121
+msgid "Using an older version of Sync?"
+msgstr "Está a usar uma versão mais antiga da Sincronização?"
+
+#. This string is displayed on Android devices
+#: firefox/sync.lang:127
+msgid "How to set up Sync in five easy steps:"
+msgstr "Como configurar a Sincronização em cinco simples passos:"
+
+#. <strong> tags below used for font color formatting.
+#. This string is displayed on Android devices
+#: firefox/sync.lang:134
+msgid ""
+"Tap the <strong>Menu</strong> button (either below the screen or at the top "
+"right corner of the browser)."
+msgstr ""
+"Toque no botão de <strong>Menu</strong> (ou por baixo do ecrã ou no canto "
+"superior direito do navegador)."
+
+#. This string is displayed on Android devices
+#: firefox/sync.lang:140
+msgid ""
+"Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
+"first)."
+msgstr ""
+"Selecionar <strong>Definições</strong> (pode precisar de tocar em "
+"<strong>Mais</strong> primeiro)."
+
+#. This string is displayed on Android devices
+#: firefox/sync.lang:146
+msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
+msgstr "Toque em <strong>Sincronização</strong> e em <strong>Começar</strong>."
+
+#. This string is displayed on Android devices
+#: firefox/sync.lang:152
+msgid ""
+"The <strong>Create a Firefox Account page</strong> will open in a new tab."
+msgstr ""
+"A <strong>página para Criar uma Conta Firefox</strong> será apresentada num "
+"novo separador."
+
+#. This string is displayed on Android devices
+#: firefox/sync.lang:158
+msgid "Fill out the form and click <strong>Next</strong>."
+msgstr "Preencha o formulário e pressione <strong>Seguinte</strong>."
+
+#. This string is displayed on Android devices
+#: firefox/sync.lang:164
+msgid ""
+"After you check your email and click the verification link, you’ll be ready "
+"to go! Don’t forget to connect all your other devices to get the most of "
+"Sync."
+msgstr ""
+"Depois de verificar o seu email e clicar na ligação de confirmação, estará "
+"tudo pronto! Não se esqueça de ligar todos os outros dispositivos para obter "
+"o máximo da Sincronização."
+
+#: firefox/sync.lang:169
+msgid "Sync a little. Sync a lot."
+msgstr "Sincronize pouco. Sincronize muito."
+
+#: firefox/sync.lang:174
+msgid ""
+"You choose what parts of your Firefox you want to sync and where you want to "
+"sync them. Take your open tabs on your daily commute. Access your bookmarks "
+"at work. Whatever, whenever, everywhere."
+msgstr ""
+"Você escolhe que partes do seu Firefox pretende sincronizar e onde. Leve os "
+"seus separadores abertos no seu trajeto diário. Aceda aos seus marcadores no "
+"trabalho. O que quiser, quando quiser, em qualquer lugar."
+
+#: firefox/sync.lang:179
+msgid "At home"
+msgstr "Em casa"
+
+#: firefox/sync.lang:184
+msgid ""
+"Move from your desk to the couch without skipping a beat. Access your open "
+"tabs on your smartphone, or keeping browsing your bookmarks right on your "
+"tablet."
+msgstr ""
+"Da secretária para o sofá sem perder nada. Aceda aos seus separadores "
+"abertos no seu smartphone, ou continue a navegar pelos seus marcadores no "
+"seu tablet."
+
+#: firefox/sync.lang:189
+msgid "At work"
+msgstr "No trabalho"
+
+#: firefox/sync.lang:194
+msgid ""
+"Stay connected to all of your important information. Sync the passwords and "
+"bookmarks that you might need to access at any time. Just like Firefox, it’s "
+"safe as can be."
+msgstr ""
+"Tenha acesso à sua informação mais importante. Sincronize as senhas e "
+"marcadores que pode precisar em qualquer altura. Tal como o Firefox, é tão "
+"seguro como pode ser."
+
+#: firefox/sync.lang:199
+msgid "On the go"
+msgstr "Em viagem"
+
+#: firefox/sync.lang:204
+msgid ""
+"Keep up with your favorite sites, or finish that story you started at home — "
+"wherever you go. With Sync, it’s never been easier."
+msgstr ""
+"Acompanhe os seus sites favoritos ou termine aquela história que começou em "
+"cada - onde quer que vá. Com a Sincronização nunca foi tão fácil."
+
+#: firefox/sync.lang:209
+msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
+msgstr "Tem um <b>smartphone</b> ou <b>tablet Android</b>?"
+
+#: firefox/sync.lang:214
+msgid "DOWNLOAD FIREFOX FOR ANDROID"
+msgstr "TRANSFIRA O FIREFOX PARA O ANDROID"
+
+#: firefox/sync.lang:219
+msgid ""
+"To get the full Sync experience, take your Web with you everywhere you use "
+"Firefox. Connect your smartphone, tablet, computer and laptop."
+msgstr ""
+"Para obter a experiência completa de Sincronização, leve a Web consigo onde "
+"quer que utilize o Firefox. Ligue o seu smartphone, tablet, computador e "
+"portátil."
+
+#. Used in old page, do not remove , do not remove
+#: firefox/sync.lang:224
+msgid ""
+"Instantly make Firefox your own wherever you use it. Seamlessly sync your "
+"bookmarks, history, passwords and more and access them from any device."
+msgstr ""
+"Torne o Firefox seu onde quer que o use.  Sincronize de forma transparente "
+"os seus marcadores, histórico, senhas e outras configurações e aceda-lhes de "
+"qualquer dispositivo."
+
+#. Used in old page, do not remove
+#: firefox/sync.lang:229
+msgid "Get started with Sync. It’s fast, safe and easy:"
+msgstr "Introdução à Sincronização. É rápido, seguro e fácil:"
+
+#. Used in old page, do not remove
+#: firefox/sync.lang:235
+msgid ""
+"Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> in "
+"the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
+msgstr ""
+"Aceda ao <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> no "
+"canto superior direito do Firefox e selecione “<strong>Iniciar sessão no "
+"Sincronizar.</strong>”"
+
+#. Used in old page, do not remove
+#: firefox/sync.lang:240
+msgid ""
+"Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of "
+"Firefox and select “Sign in to Sync.”"
+msgstr ""
+"Abra o <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> no topo direito do "
+"Firefox e selecione “Entrar na Sincronização.”"
+
+#. Used in old page, do not remove
+#: firefox/sync.lang:245
+msgid "Click “Get started” in the tab that opens."
+msgstr "Clique “Iniciar” no separador que abrir."
+
+#. Used in old page, do not remove
+#: firefox/sync.lang:250
+msgid "Enter an email address and password to “Create a Firefox Account.”"
+msgstr ""
+"Introduza um endereço de correio eletrónico e senha para “Criar uma Conta "
+"Firefox.”"
+
+#. Used in old page, do not remove
+#: firefox/sync.lang:255
+msgid "Click “Next” to get a verification sent to your email."
+msgstr ""
+"Clique “Seguinte” para que lhe seja enviada uma confirmação para o seu "
+"correio."
+
+#. Used in old page, do not remove
+#: firefox/sync.lang:260
+msgid "Check your email and click the verification link."
+msgstr "Verifique o seu correio e clique na ligação de confirmação."
+
+#. Used in old page, do not remove
+#: firefox/sync.lang:265
+msgid ""
+"You’re all set! Firefox will automatically sync in the background from now "
+"on."
+msgstr ""
+"E já está! O Firefox sincronizará automaticamente em segundo plano a partir "
+"de agora."
+
+#. Used in old page, do not remove
+#: firefox/sync.lang:270
+msgid "Have an Android phone or tablet?"
+msgstr "Tem um telefone ou tablet Android?"
+
+#. Used in old page, do not remove
+#: firefox/sync.lang:275
+msgid ""
+"<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
+"desktop and mobile devices."
+msgstr ""
+"<a href=\"%(url)s\">Transfira o Firefox para Android</a> para sincronizar "
+"entre o seu computador e dispositivos móveis."
+
+#. Used in old page, do not remove
+#: firefox/sync.lang:280
+msgid ""
+"Download Firefox for Android to sync between your desktop and mobile devices."
+msgstr ""
+"Transfira o Firefox para Android para sincronizar entre o seu computador e "
+"dispositivos móveis."
+
+#. Used in old page, do not remove
+#: firefox/sync.lang:285
+msgid "Get it free from Google Play"
+msgstr "Obtenha-o gratuitamente no Google Play"

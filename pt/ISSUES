@@ -1,0 +1,27 @@
+Wolof:
+	'quote' need to enable proper French quoting
+	Need to make it clearer that you can mark something as a false positive
+	Need to make it clear qhy this might be a fault
+	Need some way to mark things as not accronyms
+	Need some way to mark quotes as decorative as apposed to programming.
+	Need to solve issue of numbers at the start meaning that we want lowercase.
+		e.g. 360 degrees -> Degrees 360 -> fixed to -> degrees 360
+	Really need substring matching where we have expressions and words translated
+		elsewhere e.g. Personas, Plugin Check
+
+General:
+	Seeing the need again to combine strings
+	Is there anyway we could hide the XML markings to allow someone to translate
+		with them hidden.  Or toggle: full, placeholder, hidden.
+		Also toggle for <b>, <i>, etc placeing the text in bold, italic.
+
+Notes:
+	Amagama - daily updates
+	Move to UOSLOU§
+
+Others:
+	Abstract way to do multfile type errors
+		Current we do:
+			Errors type -> unit with error
+		We need to also do
+			Error type -> error -> units with this error

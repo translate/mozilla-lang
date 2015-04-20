@@ -1,0 +1,357 @@
+#. extracted from ./firefox/geolocation.lang
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
+
+#: firefox/geolocation.lang:6
+msgid "Geolocation in Firefox"
+msgstr "Geolocalização no Firefox"
+
+#: firefox/geolocation.lang:10
+msgid "Location-Aware Browsing"
+msgstr "Geolocalização de navegação"
+
+#: firefox/geolocation.lang:14
+msgid ""
+"Firefox can tell websites where you’re located so you can find info that’s "
+"more relevant and more useful. It’s about making the Web smarter &ndash; and "
+"is done in a way that totally respects your privacy. <a href=\"%(url)s\" id="
+"\"%(id)s\" style=\"%(style)s\">Give it a try!</a>"
+msgstr ""
+"O Firefox pode dizer aos sítios web aonde é que você está para que possa "
+"encontrar a informação mais relevante e útil. Tem tudo a ver com tornar a "
+"web mais inteligente &ndash; e é feita de uma maneira que respeita a sua "
+"privacidade. <a href=\"%(url)s\" id=\"%(id)s\" style=\"%(style)s\">Quero "
+"experimentar!</a>"
+
+#: firefox/geolocation.lang:18
+msgid "Frequently asked Questions"
+msgstr "Perguntas frequentes"
+
+#: firefox/geolocation.lang:22
+msgid "What is Location-Aware Browsing?"
+msgstr "O que é a geolocalização?"
+
+#: firefox/geolocation.lang:26
+msgid ""
+"Websites that use location-aware browsing will ask where you are in order to "
+"bring you more relevant information, or to save you time while searching. "
+"Let’s say you’re looking for a pizza restaurant in your area. A website will "
+"be able to ask you to share your location so that simply searching for "
+"“pizza” will bring you the answers you need... no further information or "
+"extra typing required."
+msgstr ""
+"Os sítios web que usam navegação por localização perguntam-lhe aonde está "
+"para lhe trazer informação mais relevante, ou para lhe poupar tempo enquanto "
+"navega. Imaginemos que está à procura de uma pizzaria perto de si. O sítio "
+"web poderá partilhar a sua localização para ao procurar por “pizza” dár-lhe "
+"as respostas que precisa... não necessitará de escrever mais nada ou até de "
+"dar mais informações."
+
+#: firefox/geolocation.lang:30
+msgid ""
+"Or, if you’re mapping out directions to get somewhere, the website will know "
+"where you’re starting from so all you have to do is tell it where you want "
+"to go."
+msgstr ""
+"Ou, se estiver à procura de indicações para ir a algum lado, como sítio web "
+"sabe aonde voçê está terá apenas que lhe dar as indicações para ir aonde "
+"deseja."
+
+#: firefox/geolocation.lang:34
+msgid ""
+"This service is totally optional &ndash; Firefox doesn’t share your location "
+"without your permission &ndash; and is done with the utmost respect for your "
+"privacy. And, like all elements of Firefox, it’s being created using open "
+"standards to ease adoption by Web developers."
+msgstr ""
+"Este serviço é completamente opcional &ndash; o Firefox não partilha a sua "
+"localização sem a sua permissão &ndash; e é feito com o maior respeito pela "
+"sua privacidade. E, como todos os elementos do Firefox, está a ser criado "
+"com standards abertos para fácil adopção pelos desenvolvedores Web."
+
+#: firefox/geolocation.lang:38
+msgid "How does it work?"
+msgstr "Como é que funciona?"
+
+#: firefox/geolocation.lang:42
+msgid ""
+"When you visit a location-aware website, Firefox will ask you if you want to "
+"share your location."
+msgstr ""
+"Quando visita um sítio web com localização o Firefox pergunta se deseja "
+"partilhar a sua localização."
+
+#: firefox/geolocation.lang:46
+msgid ""
+"If you consent, Firefox gathers information about nearby wireless access "
+"points and your computer’s IP address. Then Firefox sends this information "
+"to the default geolocation service provider, Google Location Services, to "
+"get an estimate of your location. That location estimate is then shared with "
+"the requesting website."
+msgstr ""
+"Se autorizar, o Firefox recolhe informação sobre os seus pontos de acesso "
+"wireless vizinhos e o endereço IP do seu computador. Depois o Firefox envia "
+"esta informação para o fornecedor de serviço de geolocalização, Google "
+"Location Services, para estimar a sua localização. A estimativa da "
+"localização é depois partilhada com o sítio web que efectuou o pedido."
+
+#: firefox/geolocation.lang:50
+msgid "If you say that you do not consent, Firefox will not do anything."
+msgstr "Se disser que não autoriza o Firefox nada fará."
+
+#: firefox/geolocation.lang:54
+msgid "How accurate are the locations?"
+msgstr "Qual é a exactidão das localizações?"
+
+#: firefox/geolocation.lang:58
+msgid ""
+"Accuracy varies greatly from location to location. In some places, our "
+"service providers may be able to provide a location to within a few meters. "
+"However, in other areas it might be much more than that. All locations "
+"returned by our service providers are estimates only and we do not guarantee "
+"the accuracy of the locations provided. Please do not use this information "
+"for emergencies. Always use common sense."
+msgstr ""
+"A exatidão varia conforme a localização. Em alguns locais, os nossos "
+"fornecedores de serviços poderão fornecer a localização até poucos metros. "
+"No entanto, noutras áreas poderá ser muito mais que isso. Todas as "
+"localizações enviadas pelos nossos fornecedores de serviços são estimativas "
+"e não garantimos a exatidão das localizações fornecidas. Não utilize esta "
+"informação para emergências. Use sempre o senso comum."
+
+#: firefox/geolocation.lang:62
+msgid ""
+"What information is being sent, and to whom? How is my privacy protected?"
+msgstr ""
+"Que informação está a ser enviada e para quem? Como é que a minha "
+"privacidade é protegida?"
+
+#: firefox/geolocation.lang:66
+msgid ""
+"Your privacy is extremely important to us, and Firefox never shares your "
+"location without your permission. When you visit a page that requests your "
+"information, you’ll be asked before any information is shared with the "
+"requesting website and our third-party service provider."
+msgstr ""
+"A sua privacidade é de extrema importância para nós e o Firefox nunca "
+"partilha a sua localização sem o seu consentimento. Quando visita uma página "
+"que pede a sua informação, ser-lhe-á perguntado antes de qualquer informação "
+"ser partilhada com o sítio web que a pediu e o nosso fornecedor do serviço."
+
+#: firefox/geolocation.lang:70
+msgid ""
+"By default, Firefox uses Google Location Services to determine your location "
+"by sending:"
+msgstr ""
+"Por defeito, o Firefox usa para determinar a sua localização o Google "
+"Location Services enviando:"
+
+#: firefox/geolocation.lang:74
+msgid "your computer’s IP address,"
+msgstr "O endereço IP do seu computador,"
+
+#: firefox/geolocation.lang:78
+msgid "information about the nearby wireless access points, and"
+msgstr "Informação sobre os pontos de acesso wireless vizinhos"
+
+#: firefox/geolocation.lang:82
+msgid ""
+"a random client identifier, which is assigned by Google, that expires every "
+"2 weeks."
+msgstr ""
+"Um identificador de cliente aleatório, que é destinado ao Google, que expira "
+"a cada 2 semanas."
+
+#: firefox/geolocation.lang:86
+msgid ""
+"For a complete description of information collected and used by Firefox, "
+"please see the <a href=\"%(url)s\">Firefox Privacy Notice</a>."
+msgstr ""
+"Para uma descrição completa da informação obtida e usada pelo Firefox, veja "
+"<a href=\"%(url)s\">Política de privacidade do Firefox</a> (em Inglês)."
+
+#: firefox/geolocation.lang:90
+msgid ""
+"Google Location Services then returns your estimated geolocation (e.g., "
+"latitude and longitude). For a complete description of information collected "
+"and used by Google, please see the <a href=\"%(url)s\" class=\"%(class)s"
+"\">Google Geolocation Privacy Policy</a>."
+msgstr ""
+"Os Serviços de Localização do Google enviam depois os dados estimados da "
+"geolocalização (ex., latitude e longitude). Para uma descrição completa da "
+"informação obtida e usada pelo Google, veja <a href=\"%(url)s\" class="
+"\"%(class)s\">Política de privacidade da Geolocalização do Google</a> (em "
+"Inglês)."
+
+#: firefox/geolocation.lang:94
+msgid ""
+"The information is exchanged over an encrypted connection to protect your "
+"privacy. Once Firefox has your location information, it passes it to the "
+"website that requested it. At no time is the name or location of the website "
+"you are visiting, or are any cookies, ever shared with Google Location "
+"Services."
+msgstr ""
+"A informação é trocada através de uma ligação cifrada para proteger a sua "
+"privacidade. Assim que o Firefox tiver a informação da sua localização, "
+"envia-a para o sítio web que a pediu. Nem o nome nem a localização do sítio "
+"web que está a visitar, ou mesmo cookies, é partilhado com o serviço de "
+"Localização do Google."
+
+#: firefox/geolocation.lang:98
+msgid ""
+"Neither Mozilla or Google will ever use the information collected by Google "
+"Location Services to identify or spy on you."
+msgstr ""
+"Nem a Mozilla nem o Google irão alguma vez usar a informação obtida pelo "
+"Google Location Services para o identificar ou espiar."
+
+#: firefox/geolocation.lang:102
+msgid ""
+"For information about what the requesting website does with your location "
+"information, please refer to that website’s privacy policy."
+msgstr ""
+"Para informação sobre o que é que o sítio web que pede a sua informação faz "
+"com a informação da sua localização, veja a política de privacidade do sítio "
+"web."
+
+#: firefox/geolocation.lang:106
+msgid "For more information about your privacy, you should also read:"
+msgstr "Para mais informação sobre a sua privacidade, deverá ler:"
+
+#: firefox/geolocation.lang:110
+msgid "Mozilla Firefox Privacy Notice"
+msgstr "Política de privacidade do Mozilla Firefox"
+
+#: firefox/geolocation.lang:114
+msgid "Google privacy policy"
+msgstr "Política de privacidade do Google"
+
+#: firefox/geolocation.lang:118
+msgid "Am I being tracked as I browse the web?"
+msgstr "Estou a ser seguido enquanto navego na web?"
+
+#: firefox/geolocation.lang:122
+msgid ""
+"No. Firefox only requests a location when a website makes a request, and "
+"only shares your location when the user has approved the request. Firefox "
+"does not track or remember your location as you browse."
+msgstr ""
+"Não. O Firefox apenas pede a sua localização quando um sítio web faz um "
+"pedido e apenas partilha a sua localização se o utilizador aprovar o pedido. "
+"O Firefox não faz o seguimento nem guarda a sua localização enquanto navega."
+
+#: firefox/geolocation.lang:126
+msgid "How do I undo a permission granted to a site?"
+msgstr "Como é que dou permissão a um sítio?"
+
+#: firefox/geolocation.lang:130
+msgid ""
+"If you've given Firefox permission to always give your location to a site "
+"and later change your mind, you can easily revoke that permission. Here's "
+"how:"
+msgstr ""
+"Se deu autorização ao Firefox para dar sempre a sua localização a um sítio e "
+"mais tarde mudar de ideias pode retirar a autorização. Basta seguir estes "
+"passos:"
+
+#: firefox/geolocation.lang:134
+msgid "Navigate to the site to which you’ve given permission"
+msgstr "Navegue até ao sítio que autorizou"
+
+#: firefox/geolocation.lang:138
+msgid "Go to the <em>Tools</em> menu, then select <em>Page Info</em>"
+msgstr "Vá ao menu <em>Ferramentas</em> e selecione <em>Info da página</em>"
+
+#: firefox/geolocation.lang:142
+msgid "Select the <em>Permissions</em> tab"
+msgstr "Selecione o separador <em>Permissõess</em> tab"
+
+#: firefox/geolocation.lang:146
+msgid "Change the setting for <em>Share Location</em>"
+msgstr "Mude a definição em <em>Partilhar localização</em>"
+
+#: firefox/geolocation.lang:150
+msgid "How do I clear the “random client identification number”?"
+msgstr "Como é que eu limpo o “número aleatório de identificação de cliente”?"
+
+#: firefox/geolocation.lang:154
+msgid ""
+"Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>"
+msgstr ""
+"Vá ao menu <em>Ferramentas</em> e depois selecione <em>Limpar histórico "
+"recente</em>"
+
+#: firefox/geolocation.lang:158
+msgid "Click the <em>Details</em> arrow"
+msgstr "Clique na seta <em>Detalhes</em>"
+
+#: firefox/geolocation.lang:162
+msgid "Ensure that <em>Cookies</em> is selected"
+msgstr "Assegure-se que os <em>Cookies</em> estão selecionados"
+
+#: firefox/geolocation.lang:166
+msgid "Click on <em>Clear Now</em>"
+msgstr "Clique em<em>Limpar agora</em>"
+
+#: firefox/geolocation.lang:170
+msgid "How do I turn off Location-Aware Browsing permanently?"
+msgstr ""
+"Como é que eu desligo a localização de navegação de uma forma permanente?"
+
+#: firefox/geolocation.lang:174
+msgid ""
+"Location-Aware Browsing is always opt-in in Firefox. No location information "
+"is ever sent without your permission. If you wish to disable the feature "
+"completely, please follow this set of steps:"
+msgstr ""
+"A navegação por localização está sempre activada no Firefox. Nenhuma "
+"informação é enviada sem a sua permissão. Se desejar desativar completamente "
+"esta funcionalidade, siga estes passos:"
+
+#: firefox/geolocation.lang:178
+msgid "In the URL bar, type <code>about:config</code>"
+msgstr "Na barra de URL, escreva <code>about:config</code>"
+
+#: firefox/geolocation.lang:182
+msgid "Type <code>geo.enabled</code>"
+msgstr "Escreva <code>geo.enabled</code>"
+
+#: firefox/geolocation.lang:186
+msgid "Double click on the <em>geo.enabled</em> preference"
+msgstr "Duplo clique na preferência <em>geo.enabled</em>"
+
+#: firefox/geolocation.lang:190
+msgid "Location-Aware Browsing is now disabled"
+msgstr "A localização de navegação está agora desativada"
+
+#: firefox/geolocation.lang:195
+msgid "How can I add support for Geolocation to my web site?"
+msgstr "Como posso adicionar suporte a geolocalização ao meu site web?"
+
+#. Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
+#: firefox/geolocation.lang:201
+msgid ""
+"You can integrate Geolocation support into your service by following the "
+"instruction at <a href=\"%(url)s\">Mozilla Developer Center</a>."
+msgstr ""
+"Pode integrar o suporte à Geolocalização no seu serviço seguindo as "
+"instruções na <a href=\"%(url)s\">Central do Programador da Mozilla</a>."
+
+#: firefox/geolocation.lang:205
+msgid "Where am I?"
+msgstr "Onde é que estou?"
+
+#: firefox/geolocation.lang:209
+msgid "Oops! An error occurred while trying to determine your position."
+msgstr "Oops! Ocorreu um erro ao determinar a sua posição."
