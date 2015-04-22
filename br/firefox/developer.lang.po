@@ -1,17 +1,19 @@
 #. extracted from ./firefox/developer.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-12 20:08+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-04-21 22:36+0000\n"
+"Last-Translator: ptrichet <trichetster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1429655773.000000\n"
 
 #. Used as page description (HTML meta tag)
 #: firefox/developer.lang:11
@@ -48,10 +50,12 @@ msgstr ""
 #: firefox/developer.lang:34
 msgid "Firefox Developer Edition automatically sends feedback to Mozilla."
 msgstr ""
+"Firefox Embannadur evit ar diorroerien a gas ent emgefreek evezhiadenn da "
+"vMozilla."
 
 #: firefox/developer.lang:38
 msgid "Designed for developers"
-msgstr ""
+msgstr "Ergrafaet evit diorroerien"
 
 #: firefox/developer.lang:42
 msgid ""
@@ -170,7 +174,7 @@ msgstr ""
 
 #: firefox/developer.lang:134
 msgid "Web Console"
-msgstr ""
+msgstr "Penel Web"
 
 #: firefox/developer.lang:138
 msgid ""
@@ -180,11 +184,11 @@ msgstr ""
 
 #: firefox/developer.lang:142
 msgid "Learn more about Web Console"
-msgstr ""
+msgstr "Gouzoc'h mui diwar-benn ar Penel Web"
 
 #: firefox/developer.lang:146
 msgid "JavaScript Debugger"
-msgstr ""
+msgstr "Diveuger JavaScript"
 
 #: firefox/developer.lang:150
 msgid ""
@@ -194,11 +198,11 @@ msgstr ""
 
 #: firefox/developer.lang:154
 msgid "Learn more about JavaScript Debugger"
-msgstr ""
+msgstr "Gouzoc'h mui diwar-benn an Diveuger JavaScript"
 
 #: firefox/developer.lang:158
 msgid "Network Monitor"
-msgstr ""
+msgstr "Hewel Rouedad"
 
 #: firefox/developer.lang:162
 msgid ""
@@ -208,11 +212,11 @@ msgstr ""
 
 #: firefox/developer.lang:166
 msgid "Learn more about Network Monitor"
-msgstr ""
+msgstr "Gouzoc'h mui diwar-benn an Hewel Rouedad"
 
 #: firefox/developer.lang:170
 msgid "Style Editor"
-msgstr ""
+msgstr "Embanner a Stilioù"
 
 #: firefox/developer.lang:174
 msgid ""
@@ -286,7 +290,7 @@ msgstr ""
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:236
 msgid "Sync now"
-msgstr ""
+msgstr "Goubredit bremañ"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:241
@@ -303,7 +307,7 @@ msgstr ""
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:251
 msgid "Sync my Firefox"
-msgstr ""
+msgstr "Goubredit va Firefox"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:256
@@ -314,7 +318,7 @@ msgstr "Ne dalv ket ar boan."
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:262
 msgid "Before you go&hellip;"
-msgstr ""
+msgstr "Kent ez it kuit&hellip;"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:268
@@ -328,6 +332,7 @@ msgstr ""
 #: firefox/developer.lang:274
 msgid "To sync now, choose the Sync option from this menu."
 msgstr ""
+"Evit goubrediñ bremañ, dibabit an dibarzh Goubred diouzh al lañser-mañ."
 
 #: firefox/developer.lang:278
 msgid "Welcome to <span>Firefox Developer Edition</span>"
@@ -348,12 +353,16 @@ msgid ""
 "Developer Edition comes with a new profile so you can run it alongside other "
 "versions of Firefox."
 msgstr ""
+"Embannadur an Diorroerien a ya gant un aelad nevez evit ma c'hellit erounit "
+"anezhañ asambles gant handelvoù all eus Firefox."
 
 #: firefox/developer.lang:297
 msgid ""
 "To access your bookmarks, browsing history and more, you need to sync the "
 "profile with your existing Firefox Account, or create a new one."
 msgstr ""
+"Evit ma haezit ho sinedoù, roll istor ar verdeiñ ha mui, ezhomm zo da "
+"goubrediñ an aelad gant ho kont Firefox ez eus anezhi pe krouiñ unan nevez."
 
 #: firefox/developer.lang:301
 msgid "Want the old look back?"
@@ -367,4 +376,4 @@ msgstr ""
 
 #: firefox/developer.lang:309
 msgid "Features and tools"
-msgstr ""
+msgstr "Keweriusterioù ha binvioù"
