@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-27 19:07+0000\n"
-"PO-Revision-Date: 2015-04-24 15:04+0000\n"
+"PO-Revision-Date: 2015-04-24 17:02+0000\n"
 "Last-Translator: ha-NG03_Bashir <bashirmudi2020@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ha\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1429887842.000000\n"
+"X-POOTLE-MTIME: 1429894929.000000\n"
 
 #. Used as meta HTML tag (page title)
 #: firefox/os/index-new.lang:9
@@ -30,6 +30,10 @@ msgid ""
 "it. It comes with apps for all you do and you can download more of your "
 "favorites from the Firefox Marketplace. Smart has never been so simple."
 msgstr ""
+"An tsara Firefox OS ta yadda za ta ba ka abubuwan da ka ke bukata, lokacin "
+"da ka ke bukatarsu. Ta zo da aikace-aikace na duk abubuwan da ka ke yi kuma "
+"za ka iya sauke ƙarin abubuwan da ka ke bukata daga Firefox Marketplace. "
+"Aiki sai mai shi."
 
 #. Used as og:description for sharing purposes (Open Graph)
 #: firefox/os/index-new.lang:21
@@ -37,13 +41,15 @@ msgid ""
 "Designed to give you just what you need in a smartphone, with apps for all "
 "you do and more. Smart has never been so simple."
 msgstr ""
+"Tsarawa domin ba ka abubuwan da ka ke bukata a manyan wayoyi, tare da aikace-"
+"aikace na duk abubuwan da ka ke yi. Aiki sai mai shi."
 
 #. Obsolete, do not remove.
 #: firefox/os/index-new.lang:26
 msgid ""
 "Firefox OS — The Adaptive Phone — Great Smartphone Features, Apps and More"
 msgstr ""
-"Firefox OS  — Waya mai Juriya — Manyan Kamanni na Babbar waya, Aikace-aikace "
+"Firefox OS — Waya mai Juriya — Manyan Kamanni na Babbar waya, Aikace-aikace "
 "da Ƙari"
 
 #. Obsolete, do not remove.
@@ -52,75 +58,86 @@ msgid ""
 "Firefox OS smartphones give you great adaptive features and apps that let "
 "you live every moment to its fullest and build a brighter future for the Web."
 msgstr ""
+"Manyan wayoyi na Firefox OS zasu ba ka siffofi masu iya daidaita da aikace-"
+"aikace da zasu ba ka damar cin moriyar ko wane lokaci da kuma gina "
+"kyakkyawar gaba domin Yanar gizo."
 
 #. Alternative text for top image
 #: firefox/os/index-new.lang:36
 msgid "Firefox OS device illustration"
-msgstr ""
+msgstr "Kwatanta na'urar Firefox OS"
 
 #: firefox/os/index-new.lang:40
 msgid "Designed to give you just what you need, just when you need it."
 msgstr ""
+"An tsara domin ta ba ka abin da ka ke bukata, a dai dai lokacin da ka ke "
+"bukatarsa."
 
 #. Title used above the animation (click on the phone image)
 #: firefox/os/index-new.lang:45
 msgid "Give these a try"
-msgstr ""
+msgstr "Jarraba waɗan nan"
 
 #. Used as a button label in the animation at the top of the page
 #: firefox/os/index-new.lang:50
 msgid "Scroll the homepage"
-msgstr ""
+msgstr "Gungura shafin gida"
 
 #. Used as a button label in the animation at the top of the page
 #: firefox/os/index-new.lang:55
 msgid "Swipe between apps"
-msgstr ""
+msgstr "Matsa tsakanin aikace-aikace"
 
 #. Title
 #: firefox/os/index-new.lang:60
 msgid "Smart has never been so simple"
-msgstr ""
+msgstr "Aiki sai mai shi"
 
 #. Alternative text for icon
 #: firefox/os/index-new.lang:65
 msgid "interaction icon"
-msgstr ""
+msgstr "alamar ganawa"
 
 #. Sub-section title
 #: firefox/os/index-new.lang:70
 msgid "Scroll for what you need"
-msgstr ""
+msgstr "Gungura domin abin da ka ke so"
 
 #: firefox/os/index-new.lang:74
 msgid ""
 "Say goodbye to multiple home screens. Everything you need is right there in "
 "one clean, continuous scroll. What could be easier?"
 msgstr ""
+"Yi adabo da allon fuskar kwamfuta masu yawa. Duk abin da ka ke so yana nan a "
+"cikin abu guda ɗaya, ci gaba da gungurawa. Me ya fi wannan sauƙi?"
 
 #. Sub-section title
 #: firefox/os/index-new.lang:79
 msgid "Search in a snap"
-msgstr ""
+msgstr "Nema cikin ƙiftawa"
 
 #: firefox/os/index-new.lang:83
 msgid ""
 "Search the Web and the Firefox Marketplace, or visit a website directly — "
 "all from the search bar at the top of your home screen."
 msgstr ""
+"Yi nema a Yanar gizo da Firefox Marketplace, ko ka ziyarci yanar gizo kai "
+"tsaye — duk daga sandar nema a saman fuskar kwamfutarka."
 
 #. Sub-section title
 #. The &nbsp; (non-breaking space) is used only to differentiate this title from the button label "Swipe" between apps
 #. Feel free to use the same translation and drop the non-breaking space in your translation.
 #: firefox/os/index-new.lang:90
 msgid "Swipe&nbsp;between apps"
-msgstr ""
+msgstr "Matsa&nbsp;tsakanin aikace-aikace"
 
 #: firefox/os/index-new.lang:94
 msgid ""
 "Access your recently used apps in a flash. Just swipe from the edge of the "
 "screen to cycle through all of your open apps."
 msgstr ""
+"Sami ganin aikace-aikacenka cikin ƙiftawa. Kawai matsa daga gefen fuskar "
+"kwamfutarka ta hanyar zagayawa duk aikace-aikacenka."
 
 #. Currently not used in the page, will be used for 1.1 fallback content
 #: firefox/os/index-new.lang:100
@@ -129,32 +146,36 @@ msgid ""
 "just that. Just start typing to get fast and easy access to related apps and "
 "local content. It’s smart and simple — the way every search should be."
 msgstr ""
+"An tsara Firefox OS domin ta dace da rayuwarka tare da Aikace-Aikacen Nema "
+"masu dacewa kawai haka take yi. Kawai fara bugawa domin samun hanzari da "
+"sauƙin samu ga aikace-aikacen da suka dace da kuma abubuwan ciki na gida. "
+"Tana da kyau da sauƙi — yadda ko wane nema ya kamata ya zama. "
 
 #: firefox/os/index-new.lang:104
 msgid "Apps for all you do"
-msgstr ""
+msgstr "Aikace-aikace na duk abin da ka ke yi"
 
 #: firefox/os/index-new.lang:108
 msgid "Stay connected"
-msgstr ""
+msgstr "Zamo cikin haɗi"
 
 #: firefox/os/index-new.lang:112
 msgid "Stay entertained"
-msgstr ""
+msgstr "Zamo cikin nishaɗi"
 
 #: firefox/os/index-new.lang:116
 msgid "Stay organized"
-msgstr ""
+msgstr "Zamo cikin tsari"
 
 #. Placeholder text for the search bar, imported from Gaia 2.0
 #: firefox/os/index-new.lang:121
 msgid "Search or enter address"
-msgstr ""
+msgstr "Nema ko shigar da adireshi"
 
 #. Time used in the phone image. It should replicate Gaia's actual time format for your locale.
 #: firefox/os/index-new.lang:126
 msgid "12:34 PM"
-msgstr ""
+msgstr "12:34 PM"
 
 #. App name imported from Gaia 2.0
 #: firefox/os/index-new.lang:131
@@ -168,14 +189,13 @@ msgstr "Kyamara"
 
 #. App name imported from Gaia 2.0
 #: firefox/os/index-new.lang:141
-#, fuzzy
 msgid "Video"
-msgstr "Bidiyoyi"
+msgstr "Bidiyo"
 
 #. App name imported from Gaia 2.0
 #: firefox/os/index-new.lang:146
 msgid "E-Mail"
-msgstr ""
+msgstr "Imel"
 
 #. App name imported from Gaia 2.0
 #: firefox/os/index-new.lang:151
@@ -185,23 +205,22 @@ msgstr "Saƙwanni"
 #. App name imported from Gaia 2.0
 #: firefox/os/index-new.lang:156
 msgid "Calendar"
-msgstr ""
+msgstr "Kalanda"
 
 #. App name imported from Gaia 2.0
 #: firefox/os/index-new.lang:161
 msgid "Browser"
-msgstr ""
+msgstr "Mai gewayawa"
 
 #. App name imported from Gaia 2.0
 #: firefox/os/index-new.lang:166
 msgid "Clock"
-msgstr ""
+msgstr "Agogo"
 
 #. App name imported from Gaia 2.0
 #: firefox/os/index-new.lang:171
-#, fuzzy
 msgid "Contacts"
-msgstr "Tuntuɓemu"
+msgstr "Abokan hulɗa"
 
 #. App name imported from Gaia 2.0
 #: firefox/os/index-new.lang:176
@@ -216,50 +235,54 @@ msgstr "Radiyon FM"
 #. App name imported from Gaia 2.0
 #: firefox/os/index-new.lang:186
 msgid "Settings"
-msgstr ""
+msgstr "Saituna"
 
 #. App name imported from Gaia 2.0
 #: firefox/os/index-new.lang:191
 msgid "Gallery"
-msgstr ""
+msgstr "Ma'ajiyar hotuna"
 
 #. App name imported from Gaia 2.0
 #: firefox/os/index-new.lang:196
 msgid "Usage"
-msgstr ""
+msgstr "Amfani"
 
 #: firefox/os/index-new.lang:200
 msgid "Add more from the Firefox Marketplace"
-msgstr ""
+msgstr "Daɗa daga Firefox Marketplace"
 
 #: firefox/os/index-new.lang:204
 msgid "Get all the most popular games and social networking apps right here."
 msgstr ""
+"Sami duk fitattun wasanni da aikace-aikacen haɗin sadar da zumunta na yanar "
+"gizo a nan."
 
 #: firefox/os/index-new.lang:208
 msgid "Go to the Marketplace"
-msgstr ""
+msgstr "Jeka Marketplace"
 
 #: firefox/os/index-new.lang:212
 msgid "* Pre-installed apps may vary by manufacturers and operators."
 msgstr ""
+"* Aikace-aikace da aka riga aka saka na iya bambanta daga mai ƙerawa da mai "
+"gudanarwa."
 
 #: firefox/os/index-new.lang:216
 msgid "In the news"
-msgstr ""
+msgstr "A cikin labarai"
 
 #: firefox/os/index-new.lang:220
 msgid "See more"
-msgstr ""
+msgstr "Daɗa kallo"
 
 #. Alternative text for community image
 #: firefox/os/index-new.lang:225
 msgid "Mozilla community photo"
-msgstr ""
+msgstr "Hoton ƙungiya na Mozilla"
 
 #: firefox/os/index-new.lang:229
 msgid "Powered by the Mozilla community"
-msgstr ""
+msgstr "Ƙarfafawa daga ƙungiyar Mozilla"
 
 #: firefox/os/index-new.lang:233
 msgid ""
@@ -268,24 +291,27 @@ msgid ""
 "in mind, while making the Web better and more accessible for everyone "
 "everywhere."
 msgstr ""
+"Mozilla ƙungiya ce wadda ba ta neman kuɗi ba mai cike da sha'awar al'umma ta "
+"duniya. A tare, mun sami damar yi da ƙirƙira tare da saka bukatun cikin gida "
+"a zuciya, yayin da muke mayar da yanar gizo ingantacciya kuma mai samuwa da "
+"kowa a ko ina. "
 
 #: firefox/os/index-new.lang:237
 msgid "Learn more about Mozilla"
-msgstr ""
+msgstr "Daɗa koyo dangane da Mozilla"
 
 #: firefox/os/index-new.lang:241
-#, fuzzy
 msgid "Need Help?"
 msgstr "Bukatar taimako?"
 
 #: firefox/os/index-new.lang:245
 msgid "Firefox OS Support"
-msgstr ""
+msgstr "Tallafin Firefox OS"
 
 #. App name imported from Gaia 2.0
 #: firefox/os/index-new.lang:250
 msgid "Find My Device"
-msgstr ""
+msgstr "Nemo Na'urata"
 
 #: firefox/os/index-new.lang:254
 msgid "For Developers"
@@ -293,32 +319,29 @@ msgstr "Domin masu samarwa"
 
 #: firefox/os/index-new.lang:258
 msgid "Mozilla Developer Network"
-msgstr ""
+msgstr "Haɗi na Masu samar da Mozilla"
 
 #: firefox/os/index-new.lang:262
 msgid "Mozilla Appmaker"
-msgstr ""
+msgstr "Appmaker na Mozilla"
 
 #: firefox/os/index-new.lang:266
-#, fuzzy
 msgid "Firefox OS devices"
-msgstr "Ayyukan Firefox"
+msgstr "Na'urorin Firefox OS"
 
 #: firefox/os/index-new.lang:270
 msgid "Where is Firefox OS available?"
-msgstr ""
+msgstr "A ina ake samun Firefox OS?"
 
 #: firefox/os/index-new.lang:274
 msgid "Other Firefox OS versions"
-msgstr ""
+msgstr "Sauran yayin Firefox OS"
 
 #: firefox/os/index-new.lang:278
-#, fuzzy
 msgid "For Partners"
 msgstr "Domin abokan zama"
 
 #: firefox/os/index-new.lang:282
-#, fuzzy
 msgid "Partnership opportunities"
 msgstr "Damammakin Abokantaka"
 
@@ -328,6 +351,8 @@ msgid ""
 "We work with a number of providers to offer Firefox OS on a variety of "
 "devices."
 msgstr ""
+"Muna aiki tare da masu samarwa da dama domin bayar da Firefox OS a na'urori "
+"daban daban."
 
 #. Case 1: There are several phone providers
 #: firefox/os/index-new.lang:292
@@ -335,12 +360,15 @@ msgid ""
 "Choose one from the list below to get a Firefox OS smartphone in your "
 "country."
 msgstr ""
+"Zaɓi ɗaya daga jerin ƙasa domin samun babbar waya ta Firefox OS a ƙasarku."
 
 #. Case 2: There is only one provider in the country
 #: firefox/os/index-new.lang:297
 msgid ""
 "Click on the provider below to get a Firefox OS smartphone in your country."
 msgstr ""
+"Danna a kan mai samarwa a ƙasa domin samun babbar waya ta Firefox OS a "
+"ƙasarku."
 
 #: firefox/os/index-new.lang:301
 msgid "Sign up for our monthly newsletter"
