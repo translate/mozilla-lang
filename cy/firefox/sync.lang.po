@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-04-24 12:08+0000\n"
 "PO-Revision-Date: 2015-02-25 16:37+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -15,26 +15,26 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1424882270.000000\n"
 
-#: firefox/sync.lang:10
+#: firefox/sync.lang:11
 msgid "Keep your Firefox in sync"
 msgstr "Cadw eichFirefox wedi ei gydweddu"
 
-#: firefox/sync.lang:15
+#: firefox/sync.lang:16
 msgid "Ready, Set, Sync"
 msgstr "Un, Dau, Tri, Cydweddu"
 
-#: firefox/sync.lang:20
+#: firefox/sync.lang:21
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
 msgstr ""
 "Rydych wedi mewngofnodi ac yn barod i gael mynediad i'ch Firefox <em>chi</"
 "em> yn unrhyw le, unrhyw bryd."
 
-#: firefox/sync.lang:25
+#: firefox/sync.lang:26
 msgid "Take your Web with you"
 msgstr "Cymrwch eich Gwe gyda chi"
 
-#: firefox/sync.lang:30
+#: firefox/sync.lang:31
 msgid ""
 "Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
 "and more from any smartphone, tablet or computer."
@@ -43,19 +43,25 @@ msgstr ""
 "i'ch nodau tudalen, cyfrineiriau, tabiau a rhagor, o unrhyw ffôn clyfar, "
 "tabled neu gyfrifiadur."
 
-#: firefox/sync.lang:35
+#: firefox/sync.lang:36
+msgid ""
+"Sync your bookmarks, passwords, tabs and more using your Firefox Account, "
+"and access them everywhere you’re signed in."
+msgstr ""
+
+#: firefox/sync.lang:41
 msgid "It looks like you’re running an older version of Firefox."
 msgstr "Mae'n edrych fel eich bod yn defnyddio hen fersiwn o Firefox."
 
-#: firefox/sync.lang:40
+#: firefox/sync.lang:46
 msgid "The new version of Sync only works with the latest version of Firefox"
 msgstr "Dim ond ar y fersiwn diweddaraf o Firefox mae Sync y gweithio"
 
-#: firefox/sync.lang:45
+#: firefox/sync.lang:51
 msgid "Soon you’ll be able to use Sync on your iOS device"
 msgstr "Cyn bo hir byddwch yn gallu defnyddio Sync ar eich dyfais iOS"
 
-#: firefox/sync.lang:50
+#: firefox/sync.lang:56
 msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
 "Discover them all!"
@@ -64,34 +70,34 @@ msgstr ""
 "Chwiliwch amdanyn nhw i gyd!"
 
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
-#: firefox/sync.lang:56
+#: firefox/sync.lang:62
 msgid "Sync is just one of the great features you’ll only get with Firefox."
 msgstr ""
 "Mae Sync yn un o'r nodweddion arbennig sydd ar gael dim ond ar Firefox."
 
-#: firefox/sync.lang:61
+#: firefox/sync.lang:67
 msgid "Download Firefox for Android"
 msgstr "Llwytho i Lawr Firefox Android"
 
-#: firefox/sync.lang:66
+#: firefox/sync.lang:72
 msgid "Get started with Sync"
 msgstr "Cychwyn gyda Sync"
 
-#: firefox/sync.lang:71
+#: firefox/sync.lang:77
 msgid "Update your Firefox"
 msgstr "Diweddarwchu eich Firefox"
 
-#: firefox/sync.lang:76
+#: firefox/sync.lang:82
 msgid "Download Firefox"
 msgstr "Llwytho Firefox i Lawr"
 
-#: firefox/sync.lang:81
+#: firefox/sync.lang:87
 msgid "Get started with Sync in four easy steps:"
 msgstr "Cychwyn gyda Sync mewn pedwar cam hawdd:"
 
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
-#: firefox/sync.lang:88
+#: firefox/sync.lang:94
 msgid ""
 "Open the <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">menu</"
 "a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
@@ -101,12 +107,12 @@ msgstr ""
 "strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:94
+#: firefox/sync.lang:100
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
 msgstr "Cliciwch “<strong>Cychwyn arni</strong>” yn y tab sy'n agor."
 
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:100
+#: firefox/sync.lang:106
 msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
@@ -115,11 +121,11 @@ msgstr ""
 "strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:106
+#: firefox/sync.lang:112
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr "Cliciwch “<strong>Nesaf</strong>” i'r dilysiad gael ei anfon atoch."
 
-#: firefox/sync.lang:111
+#: firefox/sync.lang:117
 msgid ""
 "After you check your email and click the verification link, you’ll be all "
 "set! Firefox will automatically sync in the background from then on."
@@ -127,22 +133,22 @@ msgstr ""
 "Ar ôl gwirio eich e-bost a chlicio'r ddolen dilysu, byddwch yn barod! Bydd "
 "Firefox yn cydweddu'n awtomatig yn y cefndir o hynny ymlaen."
 
-#: firefox/sync.lang:116
+#: firefox/sync.lang:122
 msgid "Get more detailed instructions."
 msgstr "Derbyn rhagor o gyfarwyddiadau."
 
-#: firefox/sync.lang:121
+#: firefox/sync.lang:127
 msgid "Using an older version of Sync?"
 msgstr "Defnyddio fersiwn hŷn o Sync?"
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:127
+#: firefox/sync.lang:133
 msgid "How to set up Sync in five easy steps:"
 msgstr "Sut mae cychwyn Sync mewn pum cam hawdd:"
 
 #. <strong> tags below used for font color formatting.
 #. This string is displayed on Android devices
-#: firefox/sync.lang:134
+#: firefox/sync.lang:140
 msgid ""
 "Tap the <strong>Menu</strong> button (either below the screen or at the top "
 "right corner of the browser)."
@@ -151,7 +157,7 @@ msgstr ""
 "de'r porwr)."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:140
+#: firefox/sync.lang:146
 msgid ""
 "Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
 "first)."
@@ -160,24 +166,24 @@ msgstr ""
 "<strong>Rhagor</strong> yn gyntaf)."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:146
+#: firefox/sync.lang:152
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
 msgstr "Tapiwch <strong>Sync</strong>ac yna <strong>Cychwyn Arni</strong>."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:152
+#: firefox/sync.lang:158
 msgid ""
 "The <strong>Create a Firefox Account page</strong> will open in a new tab."
 msgstr ""
 "Bydd y dudalen <strong>Creu Cyfrif Firefox</strong> yn agor mewn tab newydd."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:158
+#: firefox/sync.lang:164
 msgid "Fill out the form and click <strong>Next</strong>."
 msgstr "Llenwch y ffurflen a chlicio <strong>Nesaf</strong>."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:164
+#: firefox/sync.lang:170
 msgid ""
 "After you check your email and click the verification link, you’ll be ready "
 "to go! Don’t forget to connect all your other devices to get the most of "
@@ -187,11 +193,11 @@ msgstr ""
 "fynd! Peidiwch anghofio i gysylltu eich holl ddyfeisiau eraill i gael y "
 "mwyaf o Sync."
 
-#: firefox/sync.lang:169
+#: firefox/sync.lang:175
 msgid "Sync a little. Sync a lot."
 msgstr "Cydweddu ychydig. Cydweddu llawer."
 
-#: firefox/sync.lang:174
+#: firefox/sync.lang:180
 msgid ""
 "You choose what parts of your Firefox you want to sync and where you want to "
 "sync them. Take your open tabs on your daily commute. Access your bookmarks "
@@ -201,11 +207,37 @@ msgstr ""
 "Cymrwch eich tabiau agored ar eich taith i'r gwaith bob dydd. Defnyddiwch "
 "eich nodau tudalen yn y gwaith. Beth bynnag, pryd bynnag, lle bynnag."
 
-#: firefox/sync.lang:179
+#: firefox/sync.lang:185
+msgid ""
+"Want to visit your computer’s open tabs from another device? Access your "
+"browsing history on the go? Keep your passwords with you? Now you can."
+msgstr ""
+
+#: firefox/sync.lang:190
+msgid "Here’s what you can sync:"
+msgstr ""
+
+#: firefox/sync.lang:195
+msgid "Bookmarks"
+msgstr "Nodau Tudalen"
+
+#: firefox/sync.lang:200
+msgid "Passwords"
+msgstr ""
+
+#: firefox/sync.lang:205
+msgid "Open tabs"
+msgstr ""
+
+#: firefox/sync.lang:210
+msgid "History"
+msgstr "Hanes"
+
+#: firefox/sync.lang:215
 msgid "At home"
 msgstr "Adref"
 
-#: firefox/sync.lang:184
+#: firefox/sync.lang:220
 msgid ""
 "Move from your desk to the couch without skipping a beat. Access your open "
 "tabs on your smartphone, or keeping browsing your bookmarks right on your "
@@ -214,11 +246,11 @@ msgstr ""
 "Symudwch o'ch desg i'r soffa yn ddidrafferth. Darllenwch eich tabiau agored "
 "ar eich ffôn clyfar neu cadwch i bori eich nodau tudalen ar eich tabled."
 
-#: firefox/sync.lang:189
+#: firefox/sync.lang:225
 msgid "At work"
 msgstr "Yn y gwaith"
 
-#: firefox/sync.lang:194
+#: firefox/sync.lang:230
 msgid ""
 "Stay connected to all of your important information. Sync the passwords and "
 "bookmarks that you might need to access at any time. Just like Firefox, it’s "
@@ -228,11 +260,11 @@ msgstr ""
 "cyfrineiriau a'r nodau tudalen efallai y bydd eu hangen arnoch chi. Fel "
 "Firefox, mae'n gwbl ddiogel."
 
-#: firefox/sync.lang:199
+#: firefox/sync.lang:235
 msgid "On the go"
 msgstr "Wrth fynd"
 
-#: firefox/sync.lang:204
+#: firefox/sync.lang:240
 msgid ""
 "Keep up with your favorite sites, or finish that story you started at home — "
 "wherever you go. With Sync, it’s never been easier."
@@ -240,15 +272,31 @@ msgstr ""
 "Cadw i fyny gyda'ch hoff wefannau neu orffen stori roeddech ar ei chanol — "
 "lle bynnag yr ewch. Gyda Sync, mae'n hawdd."
 
-#: firefox/sync.lang:209
+#: firefox/sync.lang:245
+#, fuzzy
+msgid "Add Firefox to your smartphone or tablet"
+msgstr "Anfonwch Firefox i'ch ffôn neu dabled Android"
+
+#: firefox/sync.lang:250
+msgid ""
+"To get the full Sync experience, get Firefox for iOS or Android and connect "
+"all your devices — everywhere and anywhere you use Firefox."
+msgstr ""
+
+#: firefox/sync.lang:255
+#, fuzzy
+msgid "Add Firefox"
+msgstr "Hen Firefox"
+
+#: firefox/sync.lang:260
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
 msgstr "Oes gennych chi <b>ffôn clyfar</b> neu <b>dabled Android</b>?"
 
-#: firefox/sync.lang:214
+#: firefox/sync.lang:265
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
 msgstr "LLWYTHO I LAWR FIREFOX ANDROID"
 
-#: firefox/sync.lang:219
+#: firefox/sync.lang:270
 msgid ""
 "To get the full Sync experience, take your Web with you everywhere you use "
 "Firefox. Connect your smartphone, tablet, computer and laptop."
@@ -258,7 +306,7 @@ msgstr ""
 "gliniadur."
 
 #. Used in old page, do not remove , do not remove
-#: firefox/sync.lang:224
+#: firefox/sync.lang:275
 msgid ""
 "Instantly make Firefox your own wherever you use it. Seamlessly sync your "
 "bookmarks, history, passwords and more and access them from any device."
@@ -268,12 +316,12 @@ msgstr ""
 "chael mynediad atynt drwy unrhyw ddyfais."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:229
+#: firefox/sync.lang:280
 msgid "Get started with Sync. It’s fast, safe and easy:"
 msgstr "Rhowch gychwyn ar Sync. Mae'n gyflym, diogel a hawdd:"
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:235
+#: firefox/sync.lang:286
 msgid ""
 "Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> in "
 "the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
@@ -282,7 +330,7 @@ msgstr ""
 "a> ar frig de Firefox a dewis “<strong>Mewngofnodi i Sync.</strong>”"
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:240
+#: firefox/sync.lang:291
 msgid ""
 "Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of "
 "Firefox and select “Sign in to Sync.”"
@@ -291,27 +339,27 @@ msgstr ""
 "Firefox a dewis “Mewngofnodi i Sync.”"
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:245
+#: firefox/sync.lang:296
 msgid "Click “Get started” in the tab that opens."
 msgstr "Cliciwch “Cychwyn arni” ar y tab sy'n agor."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:250
+#: firefox/sync.lang:301
 msgid "Enter an email address and password to “Create a Firefox Account.”"
 msgstr "Rhowch gyfeiriad e-bost a chyfrinair i “Greu Cyfrif Firefox.”"
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:255
+#: firefox/sync.lang:306
 msgid "Click “Next” to get a verification sent to your email."
 msgstr "Cliciwch “Nesaf” i'r dilysiad gael ei anfon atoch."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:260
+#: firefox/sync.lang:311
 msgid "Check your email and click the verification link."
 msgstr "Gwiriwch eich e-bost a chliciwch y ddolen dilysu."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:265
+#: firefox/sync.lang:316
 msgid ""
 "You’re all set! Firefox will automatically sync in the background from now "
 "on."
@@ -319,12 +367,12 @@ msgstr ""
 "Mae'n barod! Bydd Firefox yn cydweddu'n awtomatig yn y cefndir o hyn ymlaen."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:270
+#: firefox/sync.lang:321
 msgid "Have an Android phone or tablet?"
 msgstr "Oes gennych chi ffôn neu dabled Android?"
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:275
+#: firefox/sync.lang:326
 msgid ""
 "<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
 "desktop and mobile devices."
@@ -333,7 +381,7 @@ msgstr ""
 "eich bwrdd gwaith a'ch dyfeisiau symudol."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:280
+#: firefox/sync.lang:331
 msgid ""
 "Download Firefox for Android to sync between your desktop and mobile devices."
 msgstr ""
@@ -341,7 +389,7 @@ msgstr ""
 "dyfeisiau symudol."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:285
+#: firefox/sync.lang:336
 msgid "Get it free from Google Play"
 msgstr "Am ddim o Google Play"
 

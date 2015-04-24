@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-04-24 12:08+0000\n"
 "PO-Revision-Date: 2015-02-18 07:30+0000\n"
 "Last-Translator: Francesco Lodolo <francesco.lodolo@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,26 +14,26 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1424244639.000000\n"
 
-#: firefox/sync.lang:10
+#: firefox/sync.lang:11
 msgid "Keep your Firefox in sync"
 msgstr "आमाक् फायारफॉक्स मित् ओकतो लेका तेयार रे दोहोय मे ."
 
-#: firefox/sync.lang:15
+#: firefox/sync.lang:16
 msgid "Ready, Set, Sync"
 msgstr "सापड़ाव. सााजाव मित् ओकतो लेका तेयार ."
 
-#: firefox/sync.lang:20
+#: firefox/sync.lang:21
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
 msgstr ""
 "आम साइन ऑप आर आ़तुर ला़गित् सापड़ाव आकान  <em>आमाक् </em>फायापफॉक्स जाहांरेगे, जाहां "
 "ओकतो. "
 
-#: firefox/sync.lang:25
+#: firefox/sync.lang:26
 msgid "Take your Web with you"
 msgstr "आम सांव आमाक् वेब हाताव मे ."
 
-#: firefox/sync.lang:30
+#: firefox/sync.lang:31
 msgid ""
 "Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
 "and more from any smartphone, tablet or computer."
@@ -41,21 +41,27 @@ msgstr ""
 "फायारफॉक्स मित् ओकतो लेका तेयार आमाक् पुथी चिनहा़ दानाङ साबाद, टैब आर बाड़ती जाहां "
 "स्मार्टफोन, टेबलेट. आर बाङ काम्प्युटार आ़तुर ला़गित् नोवा आम जाहां रेगे बेभारा ."
 
-#: firefox/sync.lang:35
+#: firefox/sync.lang:36
+msgid ""
+"Sync your bookmarks, passwords, tabs and more using your Firefox Account, "
+"and access them everywhere you’re signed in."
+msgstr ""
+
+#: firefox/sync.lang:41
 msgid "It looks like you’re running an older version of Firefox."
 msgstr "आम फायारफॉक्स रेयाक् मित् मारे बार्सान चालावेक् लेका नोवा ञेलोक् काना ."
 
-#: firefox/sync.lang:40
+#: firefox/sync.lang:46
 msgid "The new version of Sync only works with the latest version of Firefox"
 msgstr ""
 "फायारफॉक्स रेयाक् नावा उता़र बार्सान सांव एकेन मित् ओकतो लेका तेयार नावा बार्सान का़मी "
 "या. "
 
-#: firefox/sync.lang:45
+#: firefox/sync.lang:51
 msgid "Soon you’ll be able to use Sync on your iOS device"
 msgstr ""
 
-#: firefox/sync.lang:50
+#: firefox/sync.lang:56
 msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
 "Discover them all!"
@@ -64,34 +70,34 @@ msgstr ""
 "जोतो पानते ञाम कोम !"
 
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
-#: firefox/sync.lang:56
+#: firefox/sync.lang:62
 msgid "Sync is just one of the great features you’ll only get with Firefox."
 msgstr ""
 "मित् ओकतो लेका तेयार दो एकेन मित् माराङ गुन काना आम एकेन फायार फॉक्स सालाक् एम ञामा ."
 
-#: firefox/sync.lang:61
+#: firefox/sync.lang:67
 msgid "Download Firefox for Android"
 msgstr "एंडरोयेड ला़गित् फायारफॉक्स आ़तुर आंड़गोय मे. "
 
-#: firefox/sync.lang:66
+#: firefox/sync.lang:72
 msgid "Get started with Sync"
 msgstr "मित् ओकतो लेका तेयार सांव एहोब ञाम मे ."
 
-#: firefox/sync.lang:71
+#: firefox/sync.lang:77
 msgid "Update your Firefox"
 msgstr "आमाक् फायार फॉक्स हा़ली मे ."
 
-#: firefox/sync.lang:76
+#: firefox/sync.lang:82
 msgid "Download Firefox"
 msgstr "फायारफॉक्स आ़तुर आंडगोय मे."
 
-#: firefox/sync.lang:81
+#: firefox/sync.lang:87
 msgid "Get started with Sync in four easy steps:"
 msgstr "पुनया आलगा झांप रे मित् ओकतो लेका तेयार सांव एहोब ञाम मे :"
 
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
-#: firefox/sync.lang:88
+#: firefox/sync.lang:94
 msgid ""
 "Open the <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">menu</"
 "a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
@@ -101,24 +107,24 @@ msgstr ""
 "strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:94
+#: firefox/sync.lang:100
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
 msgstr " “<strong>एहोब ञाम</strong>” ओना झिज टैब रे ओताय मे. "
 
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:100
+#: firefox/sync.lang:106
 msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
 msgstr " “<strong>मित् फायारफॉक्स खाता तेयार मे. </strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:106
+#: firefox/sync.lang:112
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr ""
 "आमाक् इमेल रे कुलआकान ञेलमिला़व ञाम ला़गित् “<strong>इना़ तायोम </strong>” ओताय मे ."
 
-#: firefox/sync.lang:111
+#: firefox/sync.lang:117
 msgid ""
 "After you check your email and click the verification link, you’ll be all "
 "set! Firefox will automatically sync in the background from then on."
@@ -126,29 +132,29 @@ msgstr ""
 "आमाक् एमेल ञेल तायोम आर मेल मिला़व खोंजा ओताय मे, आम जोतो साजाक् आ ! फायारफॉक्स दो आच् "
 "आच् ते इना़ तायोम खोन ओनोड़ रे मित् ओकतो लेका तेयारोक् आ. "
 
-#: firefox/sync.lang:116
+#: firefox/sync.lang:122
 msgid "Get more detailed instructions."
 msgstr "पुरा़ बिबरोन उदुक् होरा बाड़ती ञाम मे. "
 
-#: firefox/sync.lang:121
+#: firefox/sync.lang:127
 msgid "Using an older version of Sync?"
 msgstr "मित् ओकतो लेका तेयाराक् मारे बार्सान बेभार मे ?"
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:127
+#: firefox/sync.lang:133
 msgid "How to set up Sync in five easy steps:"
 msgstr "मोंड़े आलगा झांप रे मित् ओकतो लेका तेयार चेत् लेका सेट ऑप आ:"
 
 #. <strong> tags below used for font color formatting.
 #. This string is displayed on Android devices
-#: firefox/sync.lang:134
+#: firefox/sync.lang:140
 msgid ""
 "Tap the <strong>Menu</strong> button (either below the screen or at the top "
 "right corner of the browser)."
 msgstr "टेप  <strong>मिनु</strong> बुता़म (बाङ मा स्क्रिंन चोट जोजोम कोंड रे )."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:140
+#: firefox/sync.lang:146
 msgid ""
 "Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
 "first)."
@@ -157,25 +163,25 @@ msgstr ""
 "strong> पा़हिल )."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:146
+#: firefox/sync.lang:152
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
 msgstr ""
 "टेप <strong>मित् ओकतो लेका तेयार</strong> आर इना़ तायोम  <strong>एहोब ञाम</"
 "strong>."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:152
+#: firefox/sync.lang:158
 msgid ""
 "The <strong>Create a Firefox Account page</strong> will open in a new tab."
 msgstr "<strong>मित् फायार फॉक्स खाता साहटा तेयार मे</strong> मित् नावा टैब रे झिजा ."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:158
+#: firefox/sync.lang:164
 msgid "Fill out the form and click <strong>Next</strong>."
 msgstr "फोर्म पेरेच् आर ओताय मे  <strong>इना़तायोम</strong>."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:164
+#: firefox/sync.lang:170
 msgid ""
 "After you check your email and click the verification link, you’ll be ready "
 "to go! Don’t forget to connect all your other devices to get the most of "
@@ -184,11 +190,11 @@ msgstr ""
 "आमाक् एमेल ञेल आर ञेंल मिला़व खोंजा ओता तायोम, आम चालाक् ला़गित् सापड़वोक् आ !  मित् ओकतो "
 "लेका तेयार ढेर ञाम ला़गित् जोतो आमाक् एटाक् डिबाइस को जोड़ाव आलोम हिड़िञा ."
 
-#: firefox/sync.lang:169
+#: firefox/sync.lang:175
 msgid "Sync a little. Sync a lot."
 msgstr "कोम मित् ओकतो लेका तेयार ढेर मित् ओकतो लेका तेयार ."
 
-#: firefox/sync.lang:174
+#: firefox/sync.lang:180
 msgid ""
 "You choose what parts of your Firefox you want to sync and where you want to "
 "sync them. Take your open tabs on your daily commute. Access your bookmarks "
@@ -198,11 +204,37 @@ msgstr ""
 "ओका रे आम उनकु मित् ओकतो लेका तेयार सानाम काना. आमाक् दिना़माक् बोनोदोल रे आमाक् झिज "
 "टैब इदिया. का़मी रे आमाक् पुथी चिनहा़ आ़तुर मे, ओका गे, तिनरेगे, गोटा सेत ."
 
-#: firefox/sync.lang:179
+#: firefox/sync.lang:185
+msgid ""
+"Want to visit your computer’s open tabs from another device? Access your "
+"browsing history on the go? Keep your passwords with you? Now you can."
+msgstr ""
+
+#: firefox/sync.lang:190
+msgid "Here’s what you can sync:"
+msgstr ""
+
+#: firefox/sync.lang:195
+msgid "Bookmarks"
+msgstr ""
+
+#: firefox/sync.lang:200
+msgid "Passwords"
+msgstr ""
+
+#: firefox/sync.lang:205
+msgid "Open tabs"
+msgstr ""
+
+#: firefox/sync.lang:210
+msgid "History"
+msgstr "हिता़ल"
+
+#: firefox/sync.lang:215
 msgid "At home"
 msgstr "ओड़ाक् रे"
 
-#: firefox/sync.lang:184
+#: firefox/sync.lang:220
 msgid ""
 "Move from your desk to the couch without skipping a beat. Access your open "
 "tabs on your smartphone, or keeping browsing your bookmarks right on your "
@@ -211,11 +243,11 @@ msgstr ""
 "आमाक् डेस्क खोन पारकोम रे लाड़ाव मे बेगोर मित् दाल आड़क् आते आमाक् स्मैर्ट फोन रे आमाक् झिज "
 "टैब आ़तुर मे, आर बाङ आमाक् टेबलेट रे आमाक् पुथा चिनहा़ जोजोम सेत् ब्राउजिंग दोहोय मे ."
 
-#: firefox/sync.lang:189
+#: firefox/sync.lang:225
 msgid "At work"
 msgstr "का़मी रे"
 
-#: firefox/sync.lang:194
+#: firefox/sync.lang:230
 msgid ""
 "Stay connected to all of your important information. Sync the passwords and "
 "bookmarks that you might need to access at any time. Just like Firefox, it’s "
@@ -225,11 +257,11 @@ msgstr ""
 "दानाङ साबाद आर पुथी चिनहा़ को मित् ओकतो लेका तेयार ओका जाहां ओकतो रे आ़तुरला़गित् ला़कती "
 "हुय दाड़ेयाक् आ. एकेन फायारफॉक्स लेका नोवा दो निरपोन हुय दाड़ेयाक् आ. "
 
-#: firefox/sync.lang:199
+#: firefox/sync.lang:235
 msgid "On the go"
 msgstr "चालाव रे"
 
-#: firefox/sync.lang:204
+#: firefox/sync.lang:240
 msgid ""
 "Keep up with your favorite sites, or finish that story you started at home — "
 "wherever you go. With Sync, it’s never been easier."
@@ -237,15 +269,30 @@ msgstr ""
 "आमाक् कुसियाक् साइट को सांव दोहो, आर बाङ ओड़ाक् रेम एहोब लेत् ओना का़हनी मुचा़द मे "
 "जाहांरेगे  आमेम चालाक्. मित् ओकतो लेका तेयार सांव , नोवा दो तिस हों बाय आलगा होचो आ ."
 
-#: firefox/sync.lang:209
+#: firefox/sync.lang:245
+msgid "Add Firefox to your smartphone or tablet"
+msgstr ""
+
+#: firefox/sync.lang:250
+msgid ""
+"To get the full Sync experience, get Firefox for iOS or Android and connect "
+"all your devices — everywhere and anywhere you use Firefox."
+msgstr ""
+
+#: firefox/sync.lang:255
+#, fuzzy
+msgid "Add Firefox"
+msgstr "मारेयाक् फायारफॉक्स"
+
+#: firefox/sync.lang:260
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
 msgstr "चेत् मित् <b> एंडरोयेड स्मार्टफोन </b> आर बाङ <b> टेबलेट </b>मेनाक् आ?"
 
-#: firefox/sync.lang:214
+#: firefox/sync.lang:265
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
 msgstr "DOWNLOAD FIREFOX FOR ANDROID"
 
-#: firefox/sync.lang:219
+#: firefox/sync.lang:270
 msgid ""
 "To get the full Sync experience, take your Web with you everywhere you use "
 "Firefox. Connect your smartphone, tablet, computer and laptop."
@@ -254,7 +301,7 @@ msgstr ""
 "फायारफॉक्स. आमाक् स्मार्टफोन, टेबलेट, काम्प्युटार आर लैपटॉप जोड़ाव मे. "
 
 #. Used in old page, do not remove , do not remove
-#: firefox/sync.lang:224
+#: firefox/sync.lang:275
 msgid ""
 "Instantly make Firefox your own wherever you use it. Seamlessly sync your "
 "bookmarks, history, passwords and more and access them from any device."
@@ -264,12 +311,12 @@ msgstr ""
 "डिबाइस खोन आ़तुर मे  ."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:229
+#: firefox/sync.lang:280
 msgid "Get started with Sync. It’s fast, safe and easy:"
 msgstr "मित् ओकतो लेका तेयार सांव एहोब आम. नोवा दो उसा़रावा, निरपोना आर आलगावा :"
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:235
+#: firefox/sync.lang:286
 msgid ""
 "Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> in "
 "the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
@@ -279,7 +326,7 @@ msgstr ""
 "strong>”"
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:240
+#: firefox/sync.lang:291
 msgid ""
 "Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of "
 "Firefox and select “Sign in to Sync.”"
@@ -288,27 +335,27 @@ msgstr ""
 "झिज आर बाछाव मे  “मित् ओकतो लेका तेयार रे साइन इन .”"
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:245
+#: firefox/sync.lang:296
 msgid "Click “Get started” in the tab that opens."
 msgstr "ओना झिज टैब रे  “ एहोब ञाम ” ओलाय मे."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:250
+#: firefox/sync.lang:301
 msgid "Enter an email address and password to “Create a Firefox Account.”"
 msgstr " “मित् फायारफॉक्स खाता तेयार .”ला़गित् मित् इमेल आर दानाङ साबाद आदेर मे."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:255
+#: firefox/sync.lang:306
 msgid "Click “Next” to get a verification sent to your email."
 msgstr "आमाक् इमेल रे कुलाकान मित् ञेंल मिला़व ञाम ला़गित्  “इना़ तायोम ” ओताय मे. "
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:260
+#: firefox/sync.lang:311
 msgid "Check your email and click the verification link."
 msgstr "आमाक् इमेल ञेल मे आर ञेल मिला़व खोंजा ओताय मे. "
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:265
+#: firefox/sync.lang:316
 msgid ""
 "You’re all set! Firefox will automatically sync in the background from now "
 "on."
@@ -317,12 +364,12 @@ msgstr ""
 "तेयारोक् आ. "
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:270
+#: firefox/sync.lang:321
 msgid "Have an Android phone or tablet?"
 msgstr "चेत् मित् एंडरोयेड फोन आर बाङ टेबलेट मेनाक् आ ?"
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:275
+#: firefox/sync.lang:326
 msgid ""
 "<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
 "desktop and mobile devices."
@@ -331,7 +378,7 @@ msgstr ""
 "मोबाइलडिबाइस ताला मित् ओकतो लेका तेयार ."
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:280
+#: firefox/sync.lang:331
 msgid ""
 "Download Firefox for Android to sync between your desktop and mobile devices."
 msgstr ""
@@ -339,7 +386,7 @@ msgstr ""
 "फॉक्स आ़तुर आंड़गो. "
 
 #. Used in old page, do not remove
-#: firefox/sync.lang:285
+#: firefox/sync.lang:336
 msgid "Get it free from Google Play"
 msgstr "भुगाल खोंलोंड खोन नोवा पोला ते ञाम मे. "
 
