@@ -4,13 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-17 12:07+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-04-30 06:45+0000\n"
+"Last-Translator: Trung <ndtrung4419@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1430376358.000000\n"
 
 #: firefox/new.lang:9
 msgid "Firefox for desktop"
@@ -19,12 +22,12 @@ msgstr "Firefox cho máy tính để bàn"
 #. alternative main title (currently not used)
 #: firefox/new.lang:15
 msgid "Choose Independent."
-msgstr ""
+msgstr "Bạn không muốn bị phụ thuộc?"
 
 #. alternative main title (currently not used)
 #: firefox/new.lang:21
 msgid "Choose Firefox."
-msgstr ""
+msgstr "Hãy chọn Firefox."
 
 #: firefox/new.lang:25
 msgid "Different by design"
@@ -32,7 +35,7 @@ msgstr "Khác biệt từ thiết kế"
 
 #: firefox/new.lang:29
 msgid "Proudly<br />non-profit"
-msgstr "Tự hào là tổ chức<br />phi lợi nhuận"
+msgstr "Tự hào là một tổ chức<br />phi lợi nhuận"
 
 #: firefox/new.lang:33
 msgid "Innovating<br />for you"
@@ -47,9 +50,8 @@ msgid ""
 "As a non-profit, we’re free to innovate on your behalf without any pressure "
 "to compromise. You’re going to love the difference."
 msgstr ""
-"Vì Mozilla là tổ chức phi lợi nhuận, chúng tôi được tự do sáng tạo và không "
-"chịu áp lực từ bất kỳ phía nào. Chắc chắn bạn sẽ thấy thú vị với sự khác "
-"biệt này."
+"Vì Mozilla là tổ chức phi lợi nhuận, chúng tôi có thể tự do sáng tạo vì "
+"người dùng mà không phải thỏa hiệp. Chắc chắn bạn sẽ thích sự khác biệt này."
 
 #: firefox/new.lang:45
 msgid "Firefox screenshot"
@@ -61,15 +63,15 @@ msgstr "Cảm ơn bạn đã tải Firefox!"
 
 #: firefox/new.lang:53
 msgid "Start the process by clicking Run."
-msgstr "Ấn Run để bắt đầu quá trình."
+msgstr "Ấn Run để bắt đầu."
 
 #: firefox/new.lang:57
 msgid ""
 "Your download should begin automatically. If not, <a id=\"%s\" href="
 "\"\">click here</a>. It could take a few minutes, but it’s worth the wait."
 msgstr ""
-"Chương trình sẽ tự động tải. Nếu không, <a id=\"%s\" href=\"\">nhấn vào đây</"
-"a>. Việc tải sẽ mất vài phút."
+"Chương trình sẽ tự động tải. Nếu không, <a id=\"%s\" href=\"\">hãy nhấn vào "
+"đây</a>. Quá trình tải về sẽ mất vài phút."
 
 #: firefox/new.lang:61
 msgid ""
@@ -84,24 +86,24 @@ msgid ""
 "Click Run to launch the Mozilla Firefox setup wizard. Then, just follow the "
 "steps (we've made the process as painless as possible)."
 msgstr ""
-"Nhấn Run để chạy thuật sĩ cài đặt Mozilla Firefox. Sau đó, lần lượt theo các "
-"bước ( chúng tôi đã làm quá trình trở nên dễ dàng nhất có thể)."
+"Nhấn Run để chạy bộ hướng dẫn cài đặt Mozilla Firefox. Sau đó, lần lượt theo "
+"các bước (chúng tôi đã cố gắng làm cho mọi thứ đơn giản nhất có thể)."
 
 #: firefox/new.lang:69
 msgid ""
 "Drag the Firefox icon from the Applications folder into the dock. Then, just "
 "click on Firefox whenever you want to use the web!"
 msgstr ""
-"Thả biểu tượng Firefox từ thư mục Application vào thanh dock. Sau đó, ấn vào "
-"biểu tượng Firefox khi nào bạn muốn duyệt web!"
+"Thả biểu tượng Firefox từ thư mục Application vào thanh dock. Sau đó, nhấn "
+"vào biểu tượng Firefox bất cứ khi nào bạn muốn duyệt web!"
 
 #: firefox/new.lang:73
 msgid ""
 "Now you’re ready to leap boldly into a new era of Web surfing. Double-click "
 "on the Firefox icon whenever you want to go online."
 msgstr ""
-"Bây giờ bạn đã sẵn sàng để bước vào một kỷ nguyên mới của việc lướt Web. "
-"Nhấn đúp chuột vào biểu tượng Firefox bất kỳ lúc nào bạn muốn lướt web."
+"Bây giờ bạn đã sẵn sàng để bước vào một kỷ nguyên mới của lướt Web. Nhấn đúp "
+"chuột vào biểu tượng Firefox bất kỳ lúc nào bạn muốn lướt web."
 
 #: firefox/new.lang:77
 msgid "1"
@@ -132,7 +134,8 @@ msgstr "Chúc mừng! Bạn đang sử dụng phiên bản Firefox mới nhất.
 msgid ""
 "Looks like you’re using an older version of Firefox. Update on Google Play."
 msgstr ""
-"Có vẻ như bạn đang sử dụng phiên bản Firefox cũ. Cập nhật trên Google Play."
+"Có vẻ như bạn đang sử dụng phiên bản Firefox cũ. Hãy cập nhật trên Google "
+"Play."
 
 #: firefox/new.lang:106
 msgid "Looks like you’re using an older version of Firefox."
@@ -156,34 +159,31 @@ msgstr "Bạn muốn tải phiên bản cho di động?"
 
 #: firefox/new.lang:126
 msgid "Download a fresh copy"
-msgstr "Tải về một bản sao mới"
+msgstr "Tải về bản mới"
 
 #: firefox/new.lang:130
 msgid "Learn more about Firefox for Mobile"
 msgstr "Tìm hiểu thêm về Firefox cho di động"
 
 #: firefox/new.lang:134
-#, fuzzy
 msgid "Learn more about Firefox OS"
-msgstr "Tìm hiểu thêm về Firefox OS?"
+msgstr "Tìm hiểu thêm về Firefox OS"
 
 #: firefox/new.lang:139
 msgid "Get Firefox on your Android device"
-msgstr ""
+msgstr "Cài đặt Firefox trên thiết bị Android của bạn"
 
 #: firefox/new.lang:144
-#, fuzzy
 msgid "Learn about Firefox OS"
-msgstr "Tìm hiểu thêm về Firefox OS?"
+msgstr "Tìm hiểu về Firefox OS"
 
 #: firefox/new.lang:148
 msgid "Discover all the ways to take Firefox on the go"
 msgstr "Khám phá những cách để mang Firefox cùng bạn đi khắp mọi nơi"
 
 #: firefox/new.lang:153
-#, fuzzy
 msgid "Learn more about Firefox on iOS"
-msgstr "Tìm hiểu thêm về Firefox OS?"
+msgstr "Tìm hiểu thêm về Firefox trên iOS"
 
 #: firefox/new.lang:157
 msgid "Why don’t we offer an iOS version?"
@@ -218,8 +218,8 @@ msgid ""
 "web for the public good."
 msgstr ""
 "Mozilla Firefox, một trình duyệt web miễn phí, được tạo ra bởi một tổ chức "
-"phi lợi nhuận hoạt động khắp toàn cầu sứ mệnh mang lại quyền kiểm soát cho "
-"người dùng &amp; định hướng tương lai của web vì lợi ích cộng đồng."
+"phi lợi nhuận hoạt động khắp toàn cầu với sứ mệnh mang lại quyền kiểm soát "
+"cho người dùng &amp; định hướng tương lai của web vì lợi ích cộng đồng."
 
 #. This string is displayed after download only to users on release channel and latest version of Firefox.
 #. Links to https://support.mozilla.org/kb/reset-firefox-easily-fix-most-problems
@@ -227,7 +227,7 @@ msgstr ""
 #. http://transvision.mozfr.org/string/?entity=toolkit/chrome/global/resetProfile.dtd:refreshProfile.title&repo=beta
 #: firefox/new.lang:186
 msgid "Give Firefox a tune up"
-msgstr ""
+msgstr "Đại tu Firefox"
 
 #. This string is displayed after download only to users on release channel and latest version of Firefox.
 #. Links to https://support.mozilla.org/kb/reset-firefox-easily-fix-most-problems
@@ -235,7 +235,7 @@ msgstr ""
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/safeMode.dtd:refreshProfile.label&repo=beta
 #: firefox/new.lang:195
 msgid "Refresh Firefox"
-msgstr ""
+msgstr "Làm mới Firefox"
 
 #~ msgid "Need help?"
 #~ msgstr "Cần trợ giúp?"
