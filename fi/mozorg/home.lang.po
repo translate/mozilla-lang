@@ -1,4 +1,5 @@
 #. extracted from ./mozorg/home.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -7,7 +8,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,138 +15,149 @@ msgstr ""
 
 #: mozorg/home.lang:10
 msgid "Home of the Mozilla Project"
-msgstr ""
+msgstr "Mozilla-projektin kotisivut"
 
 #. Used as a label for a button that scrolls through latest news.
 #: mozorg/home.lang:15
 msgid "Next article"
-msgstr ""
+msgstr "Seuraava artikkeli"
 
 #. Used as a label for a button that scrolls through latest news.
 #: mozorg/home.lang:20
 msgid "Previous article"
-msgstr ""
+msgstr "Edellinen artikkeli"
 
 #. The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
 #: mozorg/home.lang:25
 msgid "We are %(mozilla_wordmark)s"
-msgstr ""
+msgstr "Me olemme %(mozilla_wordmark)s"
 
 #: mozorg/home.lang:29
 msgid "Doing good is part of our code"
-msgstr ""
+msgstr "Hyvän tekeminen on osa koodiamme"
 
 #: mozorg/home.lang:33
 msgid "Get involved"
-msgstr ""
+msgstr "Osallistu"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:38
 msgid "<i>Explore</i> our mission"
-msgstr ""
+msgstr "<i>Tutustu</i> missioomme"
 
 #: mozorg/home.lang:42
 msgid "Our principles guide us"
-msgstr ""
+msgstr "Periaatteemme johdattavat meitä"
 
 #: mozorg/home.lang:46
 msgid ""
 "We’re a global community of technologists, thinkers and builders working to "
 "keep the Internet alive and accessible."
 msgstr ""
+"Olemme maailmanlaajuinen teknologien, ajattelijoiden ja rakentajien yhteisö, "
+"joka tekee työtä pitääkseen netin elossa ja ja kaikille avoimena."
 
 #: mozorg/home.lang:50
 msgid "Read more about our mission"
-msgstr ""
+msgstr "Lue lisää missiostamme"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:55
 msgid "<i>Look</i> ahead"
-msgstr ""
+msgstr "<i>Katso</i> eteenpäin"
 
 #: mozorg/home.lang:59
 msgid "Look ahead"
-msgstr ""
+msgstr "Katso eteenpäin"
 
 #: mozorg/home.lang:63
 msgid ""
 "We‘re bringing more people to the Web in more ways and from more places than "
 "ever before."
 msgstr ""
+"Tuomme nettiin enemmän väkeä useammilla tavoilla ja useammista paikoista "
+"kuin koskaan aiemmin."
 
 #: mozorg/home.lang:67
 msgid "Learn more about Firefox OS"
-msgstr ""
+msgstr "Lue lisää Firefox OS:sta"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:72
 msgid "<i>Join</i> our community"
-msgstr ""
+msgstr "<i>Liity</i> yhteisöömme"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:77
 msgid "Join our<br> developer community"
-msgstr ""
+msgstr "Liity<br> kehittäjäyhteisöömme"
 
 #: mozorg/home.lang:81
 msgid ""
 "Get docs and demos, tools and tutorials and everything related to the Open "
 "Web."
 msgstr ""
+"Hae dokumentaatiota ja demoja, työkaluja ja tutoriaaleja ja kaikkea avoimeen "
+"webiin liittyvää."
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:86
 msgid "<i>Forge</i> the future"
-msgstr ""
+msgstr "<i>Tao</i> tulevaisuus"
 
 #: mozorg/home.lang:90
 msgid "Mozilla Festival"
-msgstr ""
+msgstr "Mozilla-festivaali"
 
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:95
 msgid "Forge the future<br> of the Web"
-msgstr ""
+msgstr "Tao webin<br> tulevaisuus"
 
 #: mozorg/home.lang:99
 msgid ""
 "Learn from some of the most passionate thinkers and inventors from around "
 "the world."
 msgstr ""
+"Opi eräiltä intohimoisimmilta ajattelijoilta ja innovaattoreita ympäri "
+"maailman."
 
 #: mozorg/home.lang:103
 msgid "Come to the Mozilla Festival"
-msgstr ""
+msgstr "Tule Mozilla-festivaalille"
 
 #: mozorg/home.lang:107
 msgid "Different by&nbsp;design"
-msgstr ""
+msgstr "Perustavasti&nbsp;erilainen"
 
 #. This string is displayed only for locales with a press agency blog
 #: mozorg/home.lang:112
 msgid "In the news"
-msgstr ""
+msgstr "Uutisotsikot"
 
 #. This string is displayed only for locales with a press agency blog
 #: mozorg/home.lang:117
 msgid "See all news"
-msgstr ""
+msgstr "Katso kaikki uutiset"
 
 #. This string is displayed only for locales where we launch Firefox OS soon
 #: mozorg/home.lang:122
 msgid "Help launch Firefox OS in your country."
-msgstr ""
+msgstr "Auta julkistamaan Firefox OS omassa maassasi."
 
 #. This string is displayed only for locales where we launch Firefox OS soon
 #: mozorg/home.lang:127
 msgid "Become a Mobilizer today."
-msgstr ""
+msgstr "Ryhdy mobilisoijaksi tänään."
 
 #: mozorg/home.lang:131
 msgid ""
 "You don’t have to know how to code to get involved with Mozilla. <a href=\"%s"
 "\">Learn more about our volunteer opportunities</a>."
 msgstr ""
+"Sinun ei tarvitse osata ohjelmoida osallistuaksesi Mozilla-projektiin. <a "
+"href=\"%s\">Lue lisää siitä, millaisia mahdollisuuksia vapaaehtoisilla on</"
+"a>."
 
 #: mozorg/home.lang:135
 msgid ""
@@ -154,16 +165,19 @@ msgid ""
 "in over 70 languages. <a rel=\"external\" href=\"%(link_l10n)s\">Help "
 "translate them into yours</a>."
 msgstr ""
+"Mozilla-tuotteet ja -sivustot ovat saatavilla yli 70 kielellä, kiitos "
+"maailmanlaajuisen yhteisömme. <a rel=\"external\" href=\"%(link_l10n)s"
+"\">Auta kääntämään ne omalle kielellesi</a>."
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:141
 msgid "<i>Watch</i> the watchers"
-msgstr ""
+msgstr "<i>Käännä katseesi</i> tarkkailijoihisi"
 
 #. Lightbeam promo
 #: mozorg/home.lang:147
 msgid "See who’s watching you online"
-msgstr ""
+msgstr "Näe, ketkä seuraavat sinua verkossa"
 
 #. Lightbeam promo
 #: mozorg/home.lang:153
@@ -171,40 +185,44 @@ msgid ""
 "Shine a light on the third parties that are collecting data about your "
 "online activity."
 msgstr ""
+"Aseta uuteen valoon kolmannet osapuolet, jotka keräävät tietoja "
+"verkkokäyttäytymisestäsi."
 
 #: mozorg/home.lang:158
 msgid "Install the Lightbeam add-on"
-msgstr ""
+msgstr "Asenna Lightbeam-lisäosa"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:164
 msgid "<i>Learn</i> the Web"
-msgstr ""
+msgstr "<i>Opi</i> verkkoa"
 
 #. Webmaker promo
 #: mozorg/home.lang:170
 msgid "We teach the Web"
-msgstr ""
+msgstr "Me opetamme verkkoa"
 
 #: mozorg/home.lang:175
 msgid ""
 "Let‘s explore, tinker and create together to build a Web that‘s open and "
 "made by everyone."
 msgstr ""
+"Löydetään, värkkäillään ja luodaan yhdessä verkko, joka on avoin ja kaikkien "
+"tekemä."
 
 #: mozorg/home.lang:180
 msgid "Become a Webmaker"
-msgstr ""
+msgstr "Ryhdy verkontekijäksi"
 
 #. New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:186
 msgid "<i>See</i> the new MDN"
-msgstr ""
+msgstr "<i>Tutustu</i> uuteen MDN:ään"
 
 #. New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:192
 msgid "See what’s new <br>for developers"
-msgstr ""
+msgstr "Katso, mitä uutta <br>kehittäjille"
 
 #. New MDN promo:
 #: mozorg/home.lang:198
@@ -212,63 +230,69 @@ msgid ""
 "Our community hub for docs, demos and other resources just got a brand new "
 "look."
 msgstr ""
+"Yhteisöllinen keskuksemme, josta löytyy dokumentteja, demoja ja muuta "
+"hyödyllistä, sai juuri uuden ilmeen."
 
 #. New MDN promo:
 #: mozorg/home.lang:204
 msgid "Visit the Mozilla Developer Network"
-msgstr ""
+msgstr "Käy Mozilla-kehittäjien verkossa"
 
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #: mozorg/home.lang:210
 msgid "The Web needs you"
-msgstr ""
+msgstr "Verkko tarvitsee sinua"
 
 #. Australis launch promo tile on April 29, headline
 #: mozorg/home.lang:216
 msgid "What kind of Web do you want?"
-msgstr ""
+msgstr "Millaisen verkon sinä haluat?"
 
 #. Australis launch promo tile on April 29, main text
 #: mozorg/home.lang:222
 msgid "Tell us what matters most to you and help shape the future of the Web."
 msgstr ""
+"Kerro meille, mitä pidät tärkeänä ja osallistu verkon tulevaisuuden "
+"muovaamiseen."
 
 #. Australis launch promo tile on April 29, call to action link to Glow 2014 site
 #: mozorg/home.lang:228
 msgid "Share your vision"
-msgstr ""
+msgstr "Jaa näkemyksesi"
 
 #. This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
 #: mozorg/home.lang:234
 msgid "<i>Try the best</i> Firefox yet"
-msgstr ""
+msgstr "<i>Kokeile parasta</i> Firefoxia tähän mennessä"
 
 #. This is the headline seen when the panel is open so it can be longer than the panel label.
 #: mozorg/home.lang:240
 msgid "Try the best Firefox yet"
-msgstr ""
+msgstr "Kokeile parasta Firefoxia tähän mennessä"
 
 #: mozorg/home.lang:245
 msgid ""
 "Learn more about the free desktop browser that’s committed to you, your "
 "privacy and an open Web."
 msgstr ""
+"Lue lisää ilmaisesta pöytäkoneselaimesta, joka on sitoutunut sinuun, "
+"tietosuojaasi ja avoimeen verkkoon."
 
 #: mozorg/home.lang:250
 msgid "See what’s new"
-msgstr ""
+msgstr "Katso, mikä on uutta"
 
 #. promo_makerparty, temporarily disabled
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:256
 msgid "<i>Join</i> our <br>Maker Party"
-msgstr ""
+msgstr "<i>Liity</i><br>Maker Partyymme"
 
 #. promo_makerparty, temporarily disabled
 #. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
 #: mozorg/home.lang:262
 msgid "Join our global <br>Maker Party"
-msgstr ""
+msgstr "Liity maailmanlaajuiseen <br>Maker Partyymme"
 
 #. promo_makerparty, temporarily disabled
 #: mozorg/home.lang:267
@@ -276,27 +300,31 @@ msgid ""
 "From July to September, help us teach, learn and make the Web at hands-on "
 "community events."
 msgstr ""
+"Heinäkuusta syyskuuhun voit auttaa meitä opettamaan, oppimaan ja tekemään "
+"verkkoa kädestä pitäen ohjatuissa yhteisötapahtumissa."
 
 #. promo_makerparty, temporarily disabled
 #: mozorg/home.lang:272
 msgid "Learn about events near you"
-msgstr ""
+msgstr "Lue lisää tapahtumista lähellä sinua"
 
 #. The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 #: mozorg/home.lang:278
 msgid "<i>Help</i> Mozilla users"
-msgstr ""
+msgstr "<i>Auta</i> Mozilla-käyttäjiä"
 
 #: mozorg/home.lang:283
 msgid "We need your help"
-msgstr ""
+msgstr "Me tarvitsemme sinun apuasi"
 
 #: mozorg/home.lang:288
 msgid ""
 "Learn about the ways you can help millions of users get the most out of "
 "their favorite browser."
 msgstr ""
+"Lue lisää tavoista, joilla voit auttaa miljoonia ihmisiä saamaan eniten irti "
+"suosikkiselaimestansa."
 
 #: mozorg/home.lang:293
 msgid "Join our support team"
-msgstr ""
+msgstr "Liity tukitiimiimme"

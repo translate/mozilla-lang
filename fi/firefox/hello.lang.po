@@ -1,4 +1,5 @@
 #. extracted from ./firefox/hello.lang
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -7,7 +8,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -238,7 +238,7 @@ msgstr ""
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/loop/loop.properties:powered_by_beforeLogo&repo=beta
 #: firefox/hello.lang:220
 msgid "Powered by %s"
-msgstr ""
+msgstr "Perustuu %s teknologioihin"
 
 #. The following strings are used for the First Time interactive experience, don't add HTML tags.
 #. The %s placeholder is an image of the Hello screen sharing icon, and can be moved around to fit the translation appropriately.
