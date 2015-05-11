@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-04-24 12:08+0000\n"
-"PO-Revision-Date: 2015-01-12 18:49+0000\n"
-"Last-Translator: Mihovil <mozilla@miho.im>\n"
+"PO-Revision-Date: 2015-05-11 09:54+0000\n"
+"Last-Translator: Sasa <sasa@tekovic.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
@@ -13,8 +13,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1421088559.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1431338095.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -24,17 +24,17 @@ msgstr "Navigacija"
 #. Example: https://www-demo2.allizom.org/firefox/os
 #: main.lang:7
 msgid "<span>for</span> Desktop"
-msgstr ""
+msgstr "<span>za</span> desktop"
 
 #. Firefox family navigation menu. Main level item.
 #: main.lang:12
 msgid "<span>for</span> Android"
-msgstr ""
+msgstr "<span>za</span> Android"
 
 #. Firefox family navigation menu. Main level item.
 #: main.lang:17
 msgid "<span>for</span> iOS"
-msgstr ""
+msgstr "<span>za</span> iOS"
 
 #. Firefox family navigation menu. Main level item.
 #: main.lang:22
@@ -45,12 +45,12 @@ msgstr "OS"
 #. You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 #: main.lang:28
 msgid "For desktops &amp; laptops"
-msgstr ""
+msgstr "Za stolna i prijenosna računala"
 
 #. Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 #: main.lang:33
 msgid "For phones &amp; tablets"
-msgstr ""
+msgstr "Za telefone i tablete"
 
 #. Firefox family navigation menu. Second-level item shared across different menus.
 #: main.lang:38
@@ -80,17 +80,17 @@ msgstr "Informacije"
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
 #: main.lang:63
 msgid "Devices"
-msgstr ""
+msgstr "Uređaji"
 
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
 #: main.lang:68
 msgid "For partners"
-msgstr ""
+msgstr "Za partnere"
 
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
 #: main.lang:73
 msgid "Apps"
-msgstr ""
+msgstr "Aplikacije"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:78
@@ -100,22 +100,21 @@ msgstr "Do Not Track"
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:83
 msgid "Tiles"
-msgstr ""
+msgstr "Pločice"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #. Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 #: main.lang:89
 msgid "Interest Dashboard"
-msgstr ""
+msgstr "Nadzorna ploča interesa"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:94
 msgid "Developer Edition"
-msgstr ""
+msgstr "Developer Edition"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:99
-#, fuzzy
 msgid "Private Browsing"
 msgstr "Privatno pretraživanje"
 
@@ -127,17 +126,17 @@ msgstr "Trebate pomoć?"
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:109
 msgid "News"
-msgstr ""
+msgstr "Vijesti"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:114
 msgid "For developers"
-msgstr ""
+msgstr "Za programere"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:119
 msgid "Find My Device"
-msgstr ""
+msgstr "Pronađi moj uređaj"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:124
@@ -147,17 +146,16 @@ msgstr "Razvijatelji"
 #. Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 #: main.lang:129
 msgid "Choose the independent browser"
-msgstr ""
+msgstr "Odaberite nezavisnog preglednika"
 
 #. Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 #: main.lang:134
-#, fuzzy
 msgid ""
 "Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox "
 "isn’t just choosing a browser. It’s a vote for personal freedom."
 msgstr ""
-"Već 10 godina Firefox je neprofitan, nezavisan, beskompromisan. Odabir "
-"Firefoxa nije samo odabir preglednika. To je glas za osobnu slobodu."
+"Firefox je neprofitan, nezavisan, beskompromisan. Odabir Firefoxa nije samo "
+"odabir preglednika. To je glas za osobnu slobodu."
 
 #: main.lang:138
 msgid "Donate"
@@ -457,7 +455,6 @@ msgstr ""
 
 #. Footer string (will replace "Contribute to this page")
 #: main.lang:418
-#, fuzzy
 msgid "Contribute to this site"
 msgstr "Doprinesite ovoj stranici"
 
@@ -619,7 +616,7 @@ msgstr "Forumi"
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:578
 msgid "Leadership"
-msgstr ""
+msgstr "Vodstvo"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:583
@@ -787,10 +784,12 @@ msgstr "<abbr>Pro</abbr>"
 msgid ""
 "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
 msgstr ""
+"Firefox uskoro dolazi na iOS! <a href=\"{url}\">Pretplatite se da biste "
+"saznali više</a>."
 
 #: main.lang:746
 msgid "Congrats. You’re up to date!"
-msgstr ""
+msgstr "Čestitamo, ažurni ste!"
 
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Preuzmite Firefox za Android"
