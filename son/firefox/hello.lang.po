@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-10 15:08+0000\n"
+"POT-Creation-Date: 2015-05-18 18:09+0000\n"
 "PO-Revision-Date: 2015-01-23 20:26+0000\n"
 "Last-Translator: Mohomodou  <mh@bollag-areal.ch>\n"
 "Language-Team: none\n"
@@ -49,73 +49,83 @@ msgstr ""
 msgid "Try Firefox Hello"
 msgstr "Firefox Hello šii"
 
-#: firefox/hello.lang:36
+#. This string is displayed to users of Firefox 38 ESR, where Hello is not available
+#: firefox/hello.lang:37
+msgid "You need a different version of Firefox to use Hello."
+msgstr ""
+
+#. This string is used as a button label, displayed to users of Firefox 38 ESR to download an updated version of Firefox
+#: firefox/hello.lang:42
+msgid "Try it now"
+msgstr "Šii sohõ"
+
+#: firefox/hello.lang:46
 msgid "All you need is Firefox"
 msgstr "Firefox hinne ga wasa"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:41
+#: firefox/hello.lang:51
 msgid "If you have the latest version of Firefox, you already have Hello."
 msgstr "Nda war goo nda Firefox dumi kokorantaa, Hello goo war se ka ben."
 
-#: firefox/hello.lang:45
+#: firefox/hello.lang:55
 msgid "There’s no account or sign-in required and nothing extra to download."
 msgstr "Kontu wala huruyan kul šii waažibandi nda haya kul tontoni ši zunbu."
 
-#: firefox/hello.lang:50
+#: firefox/hello.lang:60
 #, fuzzy
 msgid "Just send a conversation link to a friend and ask them to click it."
 msgstr ""
 "Šintin de nda faakaaray, dobu sanba war cerey se nda w'a naagu k'i hãa."
 
 #. This string will be an active link to SUMO: https://support.mozilla.org/kb/which-browsers-will-work-firefox-hello-video-chat
-#: firefox/hello.lang:56
+#: firefox/hello.lang:66
 msgid "See which browsers are compatible with Firefox Hello"
 msgstr ""
 
-#: firefox/hello.lang:60
+#: firefox/hello.lang:70
 msgid ""
 "Just start a conversation, send your friend a link and ask them to click it."
 msgstr ""
 "Šintin de nda faakaaray, dobu sanba war cerey se nda w'a naagu k'i hãa."
 
-#: firefox/hello.lang:64
+#: firefox/hello.lang:74
 msgid "Simple."
 msgstr "Faalante."
 
 #. This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
 #. Feel free to adapt it to your locale.
-#: firefox/hello.lang:71
+#: firefox/hello.lang:81
 msgid "Share and share alike"
 msgstr ""
 
-#: firefox/hello.lang:76
+#: firefox/hello.lang:86
 msgid "Want to show off some new baby pictures?"
 msgstr ""
 
-#: firefox/hello.lang:81
+#: firefox/hello.lang:91
 msgid "Share travel options over the Web?"
 msgstr ""
 
-#: firefox/hello.lang:86
+#: firefox/hello.lang:96
 msgid "Check in on a project from half a world away?"
 msgstr ""
 
-#: firefox/hello.lang:91
+#: firefox/hello.lang:101
 msgid "Screen sharing on Firefox Hello makes it all possible."
 msgstr ""
 
-#: firefox/hello.lang:96
+#: firefox/hello.lang:106
 msgid ""
 "Try it out in your next conversation and share the things that matter most."
 msgstr ""
 
-#: firefox/hello.lang:100
+#: firefox/hello.lang:110
 msgid "Invite anyone, anywhere"
 msgstr "Boro kul kubay, nungu kul ra"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:105
+#: firefox/hello.lang:115
 msgid ""
 "Hello is super easy to use and your friends and family don’t even need "
 "Firefox to join your conversation."
@@ -123,20 +133,20 @@ msgstr ""
 "Ga koy nda Hello ga hansa ka faala nda war cerey nd'alaayaney ga hin ka huru "
 "war waakaaraa ra bila nda Firefox."
 
-#: firefox/hello.lang:109
+#: firefox/hello.lang:119
 msgid "As long as they have a compatible browser, they’re good to go."
 msgstr "Nda war goo nda ceeciyan kanbante, i ga hin ka goy nd'a."
 
-#: firefox/hello.lang:113
+#: firefox/hello.lang:123
 msgid "Learn more about compatible browsers"
 msgstr "Bay ka tonton ceecikaw kanbantey ga"
 
-#: firefox/hello.lang:117
+#: firefox/hello.lang:127
 msgid "Safe, secure, protected"
 msgstr "Saajante, naanante, jejebante"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:122
+#: firefox/hello.lang:132
 msgid ""
 "Because Hello is built right into Firefox, you can rest easy knowing that "
 "your conversations and information will remain private and secure."
@@ -144,27 +154,27 @@ msgstr ""
 "Zama kaŋ Hello n' ka cina Firefox hunday ra, war ga lakkaloo ga hin ka kani "
 "kaŋ war faakaarawey nda alhabarey ga cindi sutura nda saajaw ra."
 
-#: firefox/hello.lang:127
+#: firefox/hello.lang:137
 msgid ""
 "And thanks to WebRTC-grade encryption, you’ll enjoy an added level of "
 "security."
 msgstr ""
 
 #. This will be an active link. Destination URL currently not available
-#: firefox/hello.lang:133
+#: firefox/hello.lang:143
 msgid "Learn more about WebRTC encryption"
 msgstr ""
 
-#: firefox/hello.lang:137
+#: firefox/hello.lang:147
 msgid ""
 "That’s part of our mission, and it’s behind everything we do around here."
 msgstr "Woo goo ir anniya goyoo ra, nd'a ga hanga haya kul kaŋ ir g'a tee ne."
 
-#: firefox/hello.lang:141
+#: firefox/hello.lang:151
 msgid "Do more with a Firefox Account"
 msgstr "Goy bešere tee nda Firefox kontu"
 
-#: firefox/hello.lang:145
+#: firefox/hello.lang:155
 msgid ""
 "To start a conversation with someone directly, simply create a free Firefox "
 "Account or sign in if you have one already &mdash; it’s the same account you "
@@ -174,20 +184,20 @@ msgstr ""
 "wa huru nda war goo nd'afoo ka ben &mdash; affollokaa da no kaŋ nda war ga "
 "Sync tee."
 
-#: firefox/hello.lang:149
+#: firefox/hello.lang:159
 msgid "You can then add contacts to keep them close at hand."
 msgstr "War ga hin ka boroyaŋ tonton k'i gaabu war jere ga."
 
-#: firefox/hello.lang:153
+#: firefox/hello.lang:163
 msgid "Get Firefox to get started"
 msgstr "Firefox zaa ka šintin"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:158
+#: firefox/hello.lang:168
 msgid "Want to start using Hello?"
 msgstr "Ga ba ka šintin ka goy nda Hello?"
 
-#: firefox/hello.lang:162
+#: firefox/hello.lang:172
 msgid ""
 "All you need is Firefox &mdash; the open source browser that helps you stay "
 "in control of your online life while you stay connected with friends and "
@@ -197,23 +207,23 @@ msgstr ""
 "gaabandi ka war goymiɲey dabaro interneti waati kaŋ war ga šelaŋ nda war "
 "cerey nd'alaayaney."
 
-#: firefox/hello.lang:166
+#: firefox/hello.lang:176
 msgid "Download Firefox to start your first conversation."
 msgstr "Firefox zumandi ka war faakaaray jinaa šintin."
 
-#: firefox/hello.lang:170
+#: firefox/hello.lang:180
 msgid "Get Firefox and start your first conversation"
 msgstr "Firefox zaa nda war faakaaray jinaa šintin"
 
-#: firefox/hello.lang:174
+#: firefox/hello.lang:184
 msgid "Update your Firefox to start using Hello"
 msgstr "Firefox taagandi ka šintin ka goy nda Hello"
 
-#: firefox/hello.lang:178
+#: firefox/hello.lang:188
 msgid "Start your first conversation today"
 msgstr "War faakaaray jinaa šintin hõ"
 
-#: firefox/hello.lang:183
+#: firefox/hello.lang:193
 msgid ""
 "Unfortunately, iOS doesn’t support Hello. To start having free video "
 "conversations, use Hello on Firefox for desktop, Firefox OS or Firefox for "
@@ -221,25 +231,25 @@ msgid ""
 msgstr ""
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:188
+#: firefox/hello.lang:198
 msgid "Try Hello now"
 msgstr "Wa Hello šii hõ"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:193
+#: firefox/hello.lang:203
 msgid "Get to know Hello"
 msgstr "Soobay ka Hello bay"
 
-#: firefox/hello.lang:197
+#: firefox/hello.lang:207
 msgid "Want to reconnect with friends around the world?"
 msgstr "Ga boona ka šelaŋ nda war cerey adduɲɲaa mee?"
 
-#: firefox/hello.lang:201
+#: firefox/hello.lang:211
 msgid "Celebrate a birthday when you can’t be there in person?"
 msgstr "Hayhan fooyan sanba waati kaŋ ši bara batoo ra?"
 
 #. “Firefox Hello” is the product name and should not be localized
-#: firefox/hello.lang:206
+#: firefox/hello.lang:216
 msgid ""
 "Learn more about Firefox Hello and see for yourself how easy it is to have a "
 "free video conversation with anyone, anywhere, right from your browser."
@@ -248,52 +258,52 @@ msgstr ""
 "ma duu widewo faakaaray forba nda boro kul, nungu kul ra, ne dar war "
 "ordinateroo ga."
 
-#: firefox/hello.lang:210
+#: firefox/hello.lang:220
 msgid "Questions?"
 msgstr "Hãayaŋ?"
 
-#: firefox/hello.lang:214
+#: firefox/hello.lang:224
 msgid "Visit Mozilla Support"
 msgstr "Mozilla faaba dogoo guna"
 
 #. %s will be replaced by an image of Telefonica's logo. The current string is the same used in Firefox for Firefox Hello
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/loop/loop.properties:powered_by_beforeLogo&repo=beta
-#: firefox/hello.lang:220
+#: firefox/hello.lang:230
 msgid "Powered by %s"
 msgstr "Ga dira %s ga"
 
 #. The following strings are used for the First Time interactive experience, don't add HTML tags.
 #. The %s placeholder is an image of the Hello screen sharing icon, and can be moved around to fit the translation appropriately.
-#: firefox/hello.lang:227
+#: firefox/hello.lang:237
 msgid ""
 "Now see how easy it is to share your screen. Click %s in your conversation "
 "window to try it."
 msgstr ""
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:232
+#: firefox/hello.lang:242
 msgid "Welcome to Hello"
 msgstr "Kubayni Hello do"
 
-#: firefox/hello.lang:236
+#: firefox/hello.lang:246
 msgid ""
 "Open a video conversation with a single click, then invite a friend to join."
 msgstr "Naagu cee foo ka widewo faakaaray suuba, de wa cere foo cere ka huru."
 
-#: firefox/hello.lang:240
+#: firefox/hello.lang:250
 msgid "Share your link with a friend"
 msgstr "Dobu žemna nda cere foo"
 
-#: firefox/hello.lang:244
+#: firefox/hello.lang:254
 msgid "They don’t even need Firefox to join. They just need to click the link."
 msgstr "Firefox ši waažibi i se ka huru. I mma hima ka dobu foo de naagu."
 
-#: firefox/hello.lang:248
+#: firefox/hello.lang:258
 msgid "No need to wait around"
 msgstr "Batuyan koonu kul ši a ra"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:253
+#: firefox/hello.lang:263
 msgid ""
 "Once your friend clicks the link, the Hello icon will change to blue, "
 "letting you know they’re there."
@@ -301,51 +311,51 @@ msgstr ""
 "Nda war ceroo na doboo naagu, Hello biyoo ga bula noone zaa, ka cebe kaŋ war "
 "goo no."
 
-#: firefox/hello.lang:257
+#: firefox/hello.lang:267
 msgid "You have a conversation waiting"
 msgstr "Faakaaray foo goo ma war batu"
 
 #. In this case “hello” is just a greeting (think of it as “hi”)
-#: firefox/hello.lang:262
+#: firefox/hello.lang:272
 msgid "Click now to join and say hello."
 msgstr "Naagu ka huru nda wa war ga ban har."
 
-#: firefox/hello.lang:266
+#: firefox/hello.lang:276
 msgid "The easiest way to have a free video conversation with anyone, anywhere"
 msgstr ""
 "Fondo kul ifaalantaa ka widewo faakaaray forba tee nda boro kul, nungu kul ra"
 
-#: firefox/hello.lang:270
+#: firefox/hello.lang:280
 msgid "Start a conversation right from Firefox"
 msgstr "Faakaaray foo šintin Firefox hunday ra"
 
-#: firefox/hello.lang:274
+#: firefox/hello.lang:284
 msgid "Invite a friend by sending them a link"
 msgstr "Dobu foo sanba war cere se k'a cee ka huru "
 
-#: firefox/hello.lang:278
+#: firefox/hello.lang:288
 msgid "The Hello icon will change to blue once they’ve joined"
 msgstr "Hello biyoo ka bere ka tee bula za war huru ka ben"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:283
+#: firefox/hello.lang:293
 msgid "Tell a friend about Hello"
 msgstr "Hello war cere foo se"
 
-#: firefox/hello.lang:287
+#: firefox/hello.lang:297
 msgid "Need help? Get support here"
 msgstr "Ga baa faaba? Duu gaakašinay ne"
 
 #. “Hello” is the product name and should not be localized
-#: firefox/hello.lang:292
+#: firefox/hello.lang:302
 msgid "Learn all about Hello"
 msgstr "Caw Hello ga"
 
-#: firefox/hello.lang:296
+#: firefox/hello.lang:306
 msgid "The easiest way to connect for free over video"
 msgstr "Fondo kul ifaalantaa ka duu widewo forba"
 
-#: firefox/hello.lang:300
+#: firefox/hello.lang:310
 msgid ""
 "Start right from Firefox and invite anyone, anywhere to have a conversation. "
 "All they have to do is click a link to join. There’s no account or sign-in "
@@ -355,7 +365,7 @@ msgstr ""
 "War mma haya foo naagu de ka huru. Kontu wala hantum ka huruyan kul šii "
 "waažibandi."
 
-#: firefox/hello.lang:304
+#: firefox/hello.lang:314
 msgid "You’ve started your first conversation. Wasn’t that easy?"
 msgstr "War na war faakaaray jinaa šintin. A mana faala wala?"
 
