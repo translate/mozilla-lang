@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-05-19 10:00+0000\n"
+"PO-Revision-Date: 2015-05-19 11:04+0000\n"
 "Last-Translator: LN-CD04_SMALTO <smalto.kabuya@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ln\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1\n"
-"X-POOTLE-MTIME: 1432029602.000000\n"
+"X-POOTLE-MTIME: 1432033496.000000\n"
 
 #: firefox/os/faq.lang:6
 msgid "Firefox OS Frequently Asked Questions"
@@ -86,6 +86,8 @@ msgid ""
 "We believe that the Web is a shared public resource to be cared for, not a "
 "commodity to be sold."
 msgstr ""
+"Tondimaka ete Web eza ressource publique mpo na banso mpe ya kobatela, ezali "
+"te eloko ya koteka."
 
 #: firefox/os/faq.lang:54
 msgid ""
@@ -93,46 +95,58 @@ msgid ""
 "Mozilla Firefox and to innovate for the benefit of the individual and the "
 "betterment of the Web."
 msgstr ""
+"Tosalaka na lingomba monene na mokili mobimba mpo na kokela baproduit ya "
+"source ouverte neti Mozilla Firefox mpe koinnover mpo litomba ya moto moko "
+"na moko mpe konetola Web."
 
 #: firefox/os/faq.lang:58
 msgid ""
 "The result is great products built by passionate people and better choices "
 "for everyone."
 msgstr ""
+"Resultat eza baproduit kitoko eye esalemi na batu oyo bamipesi motema "
+"mobimba mpe biloko kitoko ya kopona mpo na moto nionso."
 
 #: firefox/os/faq.lang:62
 msgid "Buying Firefox OS"
-msgstr ""
+msgstr "Kosomba Firefox OS"
 
 #: firefox/os/faq.lang:66
 msgid "What phones will Firefox OS be available on?"
-msgstr ""
+msgstr "Batelefone nini ekozala na Firefox OS?"
 
 #: firefox/os/faq.lang:71
 msgid ""
 "To see a full list of available Firefox OS phones, please visit the <a href="
 "\"%(link)s\">devices page</a>."
 msgstr ""
+"Mpo na kotala liste mobimba ya batelefone oyo eza na Firefox OS, tala <a "
+"href=\"%(link)s\">lokasa ya baappareil</a>."
 
 #: firefox/os/faq.lang:75
 msgid "Where can I buy Firefox OS?"
-msgstr ""
+msgstr "Epayi wapi nakoki kosomba Firefox OS?"
 
 #: firefox/os/faq.lang:80
 msgid ""
 "To purchase a Firefox OS phone, please visit the <a href=\"%(link)s"
 "\">devices page</a> and select your available country."
 msgstr ""
+"Mpo nakosomba telefone ya Firefox OS, tala <a href=\"%(link)s\">lokasa ya "
+"baappareil</a> mpe pona mboka oyo ezali."
 
 #: firefox/os/faq.lang:84
 msgid "What will be the price of the phone?"
-msgstr ""
+msgstr "Telefone ekozala na ntalo nini?"
 
 #: firefox/os/faq.lang:88
 msgid ""
 "Pricing is not set by Mozilla and will be established by our operator and "
 "manufacturer partners based on local market dynamics."
 msgstr ""
+"Mozilla epesaka bantalo te, yango ekopesama na opérateur nabiso na "
+"bapartenaire manufaturier nabiso kolandana motindo mombongo eza kosalema "
+"nakati ya mboka."
 
 #: firefox/os/faq.lang:92
 msgid "What apps will be available on Firefox OS?"
@@ -168,35 +182,35 @@ msgstr ""
 
 #: firefox/os/faq.lang:120
 msgid "How do I…"
-msgstr ""
+msgstr "Ndenge nini nakoki…"
 
 #: firefox/os/faq.lang:124
 msgid "…make a call?"
-msgstr ""
+msgstr "…kobenga?"
 
 #: firefox/os/faq.lang:128
 msgid "…import my contacts?"
-msgstr ""
+msgstr "…kobenda bacontact nangai?"
 
 #: firefox/os/faq.lang:132
 msgid "…create and view messages?"
-msgstr ""
+msgstr "…kokoma mpe kotala bamessages?"
 
 #: firefox/os/faq.lang:136
 msgid "…use the internet?"
-msgstr ""
+msgstr "…kosalela internet?"
 
 #: firefox/os/faq.lang:140
 msgid "…download and install an app?"
-msgstr ""
+msgstr "…télécharger mpe koinstaller app?"
 
 #: firefox/os/faq.lang:144
 msgid "…take pictures?"
-msgstr ""
+msgstr "…kokanga bafoto?"
 
 #: firefox/os/faq.lang:148
 msgid "…compose and send an email?"
-msgstr ""
+msgstr "…kokoma mpe kotinda email?"
 
 #: firefox/os/faq.lang:152
 msgid "Adaptive App Search"
@@ -207,6 +221,8 @@ msgid ""
 "Get information on any subject right when you need it, brought to you and "
 "your phone by Firefox OS."
 msgstr ""
+"Zwa mayebisi mpo na likambo songolo na ntango olingi, epesamela yo mpe "
+"telefone nayo na Firefox OS."
 
 #: firefox/os/faq.lang:160
 msgid "Firefox Marketplace"
@@ -242,11 +258,11 @@ msgstr ""
 
 #: firefox/os/faq.lang:192
 msgid "FM Radio"
-msgstr ""
+msgstr "Radio FM"
 
 #: firefox/os/faq.lang:196
 msgid "All the audio you want on the go, all on one device."
-msgstr ""
+msgstr "Ba audio nionso olingi na mbala moko, nionso na appareil moko."
 
 #: firefox/os/faq.lang:200
 msgid "Maps"
@@ -254,16 +270,17 @@ msgstr "Bacarte"
 
 #: firefox/os/faq.lang:204
 msgid "Includes directions, traffic and local transit information."
-msgstr ""
+msgstr "Bakisa baitinéraire, basango ya nzela mpe mayebisi ya transit local."
 
 #: firefox/os/faq.lang:208
-#, fuzzy
 msgid "Privacy and Security"
 msgstr "Confidentialité &amp; Bokengi"
 
 #: firefox/os/faq.lang:212
 msgid "Mozilla was the first to implement the Do Not Track privacy feature."
 msgstr ""
+"Mozilla ezalaki ya yambo kosalela caractéristique ya Kolandela "
+"confidentialité Te."
 
 #: firefox/os/faq.lang:216
 msgid ""
@@ -271,13 +288,19 @@ msgid ""
 "history, private data, cookies, site options and add-ons. <a href=\"%(url)s"
 "\">Learn more.</a>"
 msgstr ""
+"Firefox eza mpe kofonctionnaliser baparamètre ya bokengi eye ekoki kozala "
+"personnaliser mpo kokamba liloba ya sekele, lisitwale, badonnée "
+"confidentielle, ba cookies, baoption ya site mpe bibakisi. <a href=\"%(url)s"
+"\">Mingi ya koyekola.</a>"
 
 #: firefox/os/faq.lang:220
 msgid "Developer Questions"
-msgstr ""
+msgstr "Mituna ya Badeveloppeur"
 
 #: firefox/os/faq.lang:224
 msgid ""
 "Are you a developer? Have questions? <a href=\"%(url)s\">Learn more at the "
 "Mozilla Developer Network.</a>"
 msgstr ""
+"Oza developpeur? Oza na mituna? <a href=\"%(url)s\">Yekola mingi na Réseau   "
+"Developpeur Mozilla.</a>"
