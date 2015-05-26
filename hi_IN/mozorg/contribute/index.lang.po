@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-05-26 07:08+0000\n"
 "PO-Revision-Date: 2014-10-15 19:31+0000\n"
 "Last-Translator: shahidfarooqui <shahidfarooqui@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -293,6 +293,8 @@ msgid "Where would you like to get started?"
 msgstr "तुम कहाँ से  शुरू करना चाहते हो | "
 
 #: mozorg/contribute/index.lang:257
+#, fuzzy
+msgctxt "./mozorg/contribute/index.lang:257"
 msgid "Coding"
 msgstr "कोडिंग"
 
@@ -729,15 +731,94 @@ msgstr "आगे बढ़ने से पहले में हस्ता�
 msgid "No thanks, I’ll just wait for the email"
 msgstr "नहीं धन्यवाद, हम सिर्फ ईमेल के लिए इंतजार करेंगे"
 
-#. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:627
+#. The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
+#. Strings have been copied from the old template (mozorg/contribute.lang)
+#: mozorg/contribute/index.lang:628
+msgid "Area of interest?"
+msgstr "रुचि का क्षेत्र?"
+
+#: mozorg/contribute/index.lang:632
+msgid "Helping Users"
+msgstr "उपयोगकर्ताओं की सहायता करें"
+
+#: mozorg/contribute/index.lang:636
+msgid "Testing and QA"
+msgstr "जाँच तथा क्यूए"
+
+#: mozorg/contribute/index.lang:640
+#, fuzzy
+msgctxt "./mozorg/contribute/index.lang:640"
+msgid "Coding"
+msgstr "कोडिंग"
+
+#: mozorg/contribute/index.lang:644
+msgid "Marketing"
+msgstr "विपणन"
+
+#: mozorg/contribute/index.lang:648
+msgid "Localization and Translation"
+msgstr "स्थानीयकरण तथा भाषांतर"
+
+#: mozorg/contribute/index.lang:652
+msgid "Web Development"
+msgstr "वेब डेवलपमेंट"
+
+#: mozorg/contribute/index.lang:656
+msgid "Firefox Marketplace"
+msgstr "फ़ायरफ़ॉक्स मार्केटप्लेस"
+
+#: mozorg/contribute/index.lang:660
+msgid "Add-ons"
+msgstr "सहयुक्ति"
+
+#: mozorg/contribute/index.lang:664
+msgid "Visual Design"
+msgstr "चाक्षुष  डिज़ाइन"
+
+#: mozorg/contribute/index.lang:668
+msgid "Documentation and Writing"
+msgstr "दस्तावेज़ीकरण और लिखावट"
+
+#: mozorg/contribute/index.lang:672
+msgid "Education"
+msgstr "शिक्षा"
+
+#: mozorg/contribute/index.lang:676
+msgid "Other"
+msgstr "दूसरा"
+
+#: mozorg/contribute/index.lang:680
+msgid "Hi, I’m interested in…"
+msgstr "नमस्ते, मुझे  ...में दिलचस्पी हैं."
+
+#: mozorg/contribute/index.lang:684
 msgid "Send us a note and we can get you started right away."
 msgstr "हमें एक टिप्पणी भेजें और हम आप तुरंत शुरू कर सकते हैं."
 
-#. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:632
-msgid "Hi, I’m interested in…"
-msgstr "नमस्ते, मुझे  ...में दिलचस्पी हैं."
+#: mozorg/contribute/index.lang:688
+msgid "I have a suggestion for Firefox"
+msgstr "मेरे पास फ़ायरफ़ॉक्स के लिए सुझाव है |"
+
+#: mozorg/contribute/index.lang:692
+msgid "I need help with a Firefox issue"
+msgstr "मुझे फ़ायरफ़ॉक्स समस्या के बारे में मदद चाहिए"
+
+#: mozorg/contribute/index.lang:696
+#, fuzzy
+msgid "Please enter a valid email address."
+msgstr "कृपया एक मान्य ईमेल पता दर्ज करें."
+
+#: mozorg/contribute/index.lang:700
+msgid "You must agree to the privacy policy."
+msgstr "आपको गोपनीयता नीति पर सहमत होना चाहिए."
+
+#: mozorg/contribute/index.lang:704
+msgid "Please select an area of interest."
+msgstr "कृपया अपने अनुसार एक रूचि का चयन करें."
+
+#: mozorg/contribute/index.lang:708
+msgid "Please tell us more about your interests."
+msgstr "कृपया अपने रूचि के बारे में हमें और अधिक बताएँ."
 
 #~ msgid "Hive - Community based digital education"
 #~ msgstr "Hive -समुदाय आधारित डिजिटल शिक्षा "
@@ -1618,9 +1699,6 @@ msgstr "नमस्ते, मुझे  ...में दिलचस्पी 
 #~ msgid "Interest:"
 #~ msgstr "रूचि:"
 
-#~ msgid "Other"
-#~ msgstr "दूसरा"
-
 #, fuzzy
 #~ msgid "Interest"
 #~ msgstr ""
@@ -1896,9 +1974,6 @@ msgstr "नमस्ते, मुझे  ...में दिलचस्पी 
 
 #~ msgid "Firefox tweets from <br>MWC in Barcelona"
 #~ msgstr "बार्सिलोना में MWC से फ़ायरफ़ॉक्स ट्विट्स"
-
-#~ msgid "Please enter a valid email address"
-#~ msgstr "कृपया एक मान्य ईमेल पता दर्ज करें."
 
 #~ msgid "Address"
 #~ msgstr "पता:"
@@ -2177,9 +2252,6 @@ msgstr "नमस्ते, मुझे  ...में दिलचस्पी 
 
 #~ msgid "Need help?"
 #~ msgstr "मदद चाहिए?"
-
-#~ msgid "Firefox Marketplace"
-#~ msgstr "फ़ायरफ़ॉक्स मार्केटप्लेस"
 
 #~ msgid "Get involved!"
 #~ msgstr "शामिल होएँ!"

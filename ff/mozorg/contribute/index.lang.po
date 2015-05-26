@@ -43,7 +43,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-05-26 07:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -316,6 +316,8 @@ msgid "Where would you like to get started?"
 msgstr ""
 
 #: mozorg/contribute/index.lang:257
+#, fuzzy
+msgctxt "./mozorg/contribute/index.lang:257"
 msgid "Coding"
 msgstr "Dokkagol"
 
@@ -723,15 +725,94 @@ msgstr ""
 msgid "No thanks, I’ll just wait for the email"
 msgstr ""
 
-#. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:627
+#. The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
+#. Strings have been copied from the old template (mozorg/contribute.lang)
+#: mozorg/contribute/index.lang:628
+msgid "Area of interest?"
+msgstr "Aɗa hatojini heen?"
+
+#: mozorg/contribute/index.lang:632
+msgid "Helping Users"
+msgstr "Wallude Huutorɓe"
+
+#: mozorg/contribute/index.lang:636
+msgid "Testing and QA"
+msgstr "Ƴeewtagol e QA"
+
+#: mozorg/contribute/index.lang:640
+#, fuzzy
+msgctxt "./mozorg/contribute/index.lang:640"
+msgid "Coding"
+msgstr "Dokkagol"
+
+#: mozorg/contribute/index.lang:644
+msgid "Marketing"
+msgstr "Marketing"
+
+#: mozorg/contribute/index.lang:648
+msgid "Localization and Translation"
+msgstr "Nokkuɗinal e Firo"
+
+#: mozorg/contribute/index.lang:652
+msgid "Web Development"
+msgstr "Topayru Geese"
+
+#: mozorg/contribute/index.lang:656
+msgid "Firefox Marketplace"
+msgstr "Firefox Marketplace"
+
+#: mozorg/contribute/index.lang:660
+msgid "Add-ons"
+msgstr "Ɓeyditte"
+
+#: mozorg/contribute/index.lang:664
+msgid "Visual Design"
+msgstr "Ƴeŋto Jiytol"
+
+#: mozorg/contribute/index.lang:668
+msgid "Documentation and Writing"
+msgstr "Anndinteeri e Binndol"
+
+#: mozorg/contribute/index.lang:672
+msgid "Education"
+msgstr "Jaŋde e nehdi"
+
+#: mozorg/contribute/index.lang:676
+msgid "Other"
+msgstr "Goɗɗe"
+
+#: mozorg/contribute/index.lang:680
+msgid "Hi, I’m interested in…"
+msgstr "Jam e mon, miɗo hatojini e…"
+
+#: mozorg/contribute/index.lang:684
 msgid "Send us a note and we can get you started right away."
 msgstr "Neldu min konngol ngam min mbaawa wallude-ma fuɗɗaade jooni."
 
-#. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:632
-msgid "Hi, I’m interested in…"
-msgstr "Jam e mon, miɗo hatojini e…"
+#: mozorg/contribute/index.lang:688
+msgid "I have a suggestion for Firefox"
+msgstr "Miɗo joganii Firefox wasiya"
+
+#: mozorg/contribute/index.lang:692
+msgid "I need help with a Firefox issue"
+msgstr "Miɗo sokli ballal e saɗeende Firefox"
+
+#: mozorg/contribute/index.lang:696
+#, fuzzy
+msgid "Please enter a valid email address."
+msgstr "Tiiɗno naatnu ñiiɓirde iimeel moƴƴere."
+
+#: mozorg/contribute/index.lang:700
+msgid "You must agree to the privacy policy."
+msgstr "Aɗa foti jaɓde dawirgol suturo ngol."
+
+#: mozorg/contribute/index.lang:704
+msgid "Please select an area of interest."
+msgstr "Tiiɗno labo fannu mo katojin-ɗaa."
+
+#: mozorg/contribute/index.lang:708
+msgid "Please tell us more about your interests."
+msgstr "Tiiɗno ɓeydan-min humpito baɗte ko katojin-ɗaa."
 
 #~ msgid "Get Firefox OS"
 #~ msgstr "Heɓ Firefox OS"
@@ -1041,9 +1122,6 @@ msgstr "Jam e mon, miɗo hatojini e…"
 #~ msgid "Firefox for Android"
 #~ msgstr "Firefox mo Android"
 
-#~ msgid "Other"
-#~ msgstr "Goɗɗe"
-
 #~ msgid "Interest"
 #~ msgstr "Ko hatojinaa"
 
@@ -1199,10 +1277,6 @@ msgstr "Jam e mon, miɗo hatojini e…"
 #~ msgstr "Huutondir e Amen"
 
 #, fuzzy
-#~ msgid "Please enter a valid email address"
-#~ msgstr "Tiiɗno naatnu ñiiɓirde iimeel moƴƴere."
-
-#, fuzzy
 #~ msgid "Address"
 #~ msgstr "Ñiiɓirde:"
 
@@ -1258,9 +1332,6 @@ msgstr "Jam e mon, miɗo hatojini e…"
 
 #~ msgid "Need help?"
 #~ msgstr "Aɗa sokli ballal?"
-
-#~ msgid "Firefox Marketplace"
-#~ msgstr "Firefox Marketplace"
 
 #, fuzzy
 #~ msgid "Get involved!"

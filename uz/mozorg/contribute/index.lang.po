@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-05-26 07:08+0000\n"
 "PO-Revision-Date: 2015-01-08 20:15+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -294,6 +294,8 @@ msgid "Where would you like to get started?"
 msgstr "Qayerdan boshlashni xohlaysiz?"
 
 #: mozorg/contribute/index.lang:257
+#, fuzzy
+msgctxt "./mozorg/contribute/index.lang:257"
 msgid "Coding"
 msgstr "Kod yozish"
 
@@ -734,15 +736,94 @@ msgstr "Amalga oshishidan oldin kirish uchun qanday so‘raladi"
 msgid "No thanks, I’ll just wait for the email"
 msgstr "Yo‘q, rahmat. Men faqat e-xatlarni kutaman."
 
-#. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:627
+#. The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
+#. Strings have been copied from the old template (mozorg/contribute.lang)
+#: mozorg/contribute/index.lang:628
+msgid "Area of interest?"
+msgstr "Qiziqishingiz doirasidami?"
+
+#: mozorg/contribute/index.lang:632
+msgid "Helping Users"
+msgstr "Foydalanuvchilarga yordam berish"
+
+#: mozorg/contribute/index.lang:636
+msgid "Testing and QA"
+msgstr "Sinab ko‘rish va sifatni boshqarish"
+
+#: mozorg/contribute/index.lang:640
+#, fuzzy
+msgctxt "./mozorg/contribute/index.lang:640"
+msgid "Coding"
+msgstr "Kod yozish"
+
+#: mozorg/contribute/index.lang:644
+msgid "Marketing"
+msgstr "Marketing"
+
+#: mozorg/contribute/index.lang:648
+msgid "Localization and Translation"
+msgstr "Lokalizatsiya va tarjima"
+
+#: mozorg/contribute/index.lang:652
+msgid "Web Development"
+msgstr "Veb dasturlash"
+
+#: mozorg/contribute/index.lang:656
+msgid "Firefox Marketplace"
+msgstr "Firefox Marketplace"
+
+#: mozorg/contribute/index.lang:660
+msgid "Add-ons"
+msgstr "Qo‘shimcha dasturlar"
+
+#: mozorg/contribute/index.lang:664
+msgid "Visual Design"
+msgstr "Vizual dizayn"
+
+#: mozorg/contribute/index.lang:668
+msgid "Documentation and Writing"
+msgstr "Texnik hujjatlar tuzish"
+
+#: mozorg/contribute/index.lang:672
+msgid "Education"
+msgstr "Taʼlim"
+
+#: mozorg/contribute/index.lang:676
+msgid "Other"
+msgstr "Boshqa"
+
+#: mozorg/contribute/index.lang:680
+msgid "Hi, I’m interested in…"
+msgstr "Salom, men qiziqib qoldim …"
+
+#: mozorg/contribute/index.lang:684
 msgid "Send us a note and we can get you started right away."
 msgstr "Ishni boshlashimiz uchun bizga xabar jo‘nating."
 
-#. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:632
-msgid "Hi, I’m interested in…"
-msgstr "Salom, men qiziqib qoldim …"
+#: mozorg/contribute/index.lang:688
+msgid "I have a suggestion for Firefox"
+msgstr "Firefox uchun taklifim bor"
+
+#: mozorg/contribute/index.lang:692
+msgid "I need help with a Firefox issue"
+msgstr "Firefox bilan bog‘liq muammolar bo‘yicha yordam kerak"
+
+#: mozorg/contribute/index.lang:696
+#, fuzzy
+msgid "Please enter a valid email address."
+msgstr "Iltimos, e-pochta manzilini to‘g‘ri kiriting"
+
+#: mozorg/contribute/index.lang:700
+msgid "You must agree to the privacy policy."
+msgstr "Siz maxfiylik siyosatiga rozi bo‘lishingiz kerak."
+
+#: mozorg/contribute/index.lang:704
+msgid "Please select an area of interest."
+msgstr "Marhamat, qiziqishingiz doirasini ko‘rsating."
+
+#: mozorg/contribute/index.lang:708
+msgid "Please tell us more about your interests."
+msgstr "Qiziqishlaringiz haqida bizga ko‘proq ma’lumot bering."
 
 #~ msgid "Hive - Community based digital education"
 #~ msgstr "Hive - hajamiyatga asoslangan raqamli ta’lim"
@@ -1211,9 +1292,6 @@ msgstr "Salom, men qiziqib qoldim …"
 #~ msgid "Interest:"
 #~ msgstr "Qiziqish:"
 
-#~ msgid "Other"
-#~ msgstr "Boshqa"
-
 #~ msgid "Interest"
 #~ msgstr "Qiziqish"
 
@@ -1611,9 +1689,6 @@ msgstr "Salom, men qiziqib qoldim …"
 #~ msgid "Please supply a valid URL."
 #~ msgstr "Iltimos, URL manzilini toʻgʻri kiriting."
 
-#~ msgid "Please enter a valid email address"
-#~ msgstr "Iltimos, e-pochta manzilini to‘g‘ri kiriting"
-
 #~ msgid "Address"
 #~ msgstr "Manzil"
 
@@ -1813,9 +1888,6 @@ msgstr "Salom, men qiziqib qoldim …"
 
 #~ msgid "Need help?"
 #~ msgstr "Yordam kerakmi?"
-
-#~ msgid "Firefox Marketplace"
-#~ msgstr "Firefox Marketplace"
 
 #, fuzzy
 #~ msgid "Get involved!"

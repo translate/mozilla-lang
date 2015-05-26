@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-05-26 07:08+0000\n"
 "PO-Revision-Date: 2015-03-08 15:08+0000\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1425827332.000000\n"
 
 #. Used for HTML title attribute
@@ -285,6 +285,8 @@ msgid "Where would you like to get started?"
 msgstr ""
 
 #: mozorg/contribute/index.lang:257
+#, fuzzy
+msgctxt "./mozorg/contribute/index.lang:257"
 msgid "Coding"
 msgstr "Còdachadh"
 
@@ -688,15 +690,94 @@ msgstr ""
 msgid "No thanks, I’ll just wait for the email"
 msgstr ""
 
-#. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:627
+#. The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
+#. Strings have been copied from the old template (mozorg/contribute.lang)
+#: mozorg/contribute/index.lang:628
+msgid "Area of interest?"
+msgstr "Dè na rudan sa bheil ùidh agad annta?"
+
+#: mozorg/contribute/index.lang:632
+msgid "Helping Users"
+msgstr "A' cuideachadh luchd-cleachdaidh"
+
+#: mozorg/contribute/index.lang:636
+msgid "Testing and QA"
+msgstr "Deuchainnean ⁊ dearbhadh càileachd"
+
+#: mozorg/contribute/index.lang:640
+#, fuzzy
+msgctxt "./mozorg/contribute/index.lang:640"
+msgid "Coding"
+msgstr "Còdachadh"
+
+#: mozorg/contribute/index.lang:644
+msgid "Marketing"
+msgstr "Margaideachd"
+
+#: mozorg/contribute/index.lang:648
+msgid "Localization and Translation"
+msgstr "Ionadaileadh ⁊ eadar-theangachadh"
+
+#: mozorg/contribute/index.lang:652
+msgid "Web Development"
+msgstr "Leasachadh an lìn"
+
+#: mozorg/contribute/index.lang:656
+msgid "Firefox Marketplace"
+msgstr "Margaidh Firefox"
+
+#: mozorg/contribute/index.lang:660
+msgid "Add-ons"
+msgstr "Tuilleadain"
+
+#: mozorg/contribute/index.lang:664
+msgid "Visual Design"
+msgstr "Obair-dhealbhachd lèirsinneach"
+
+#: mozorg/contribute/index.lang:668
+msgid "Documentation and Writing"
+msgstr "Docamaideadh ⁊ sgrìobhadh"
+
+#: mozorg/contribute/index.lang:672
+msgid "Education"
+msgstr "Foghlam"
+
+#: mozorg/contribute/index.lang:676
+msgid "Other"
+msgstr "Eile"
+
+#: mozorg/contribute/index.lang:680
+msgid "Hi, I’m interested in…"
+msgstr "Hi, tha ùidh agam ann an…"
+
+#: mozorg/contribute/index.lang:684
 msgid "Send us a note and we can get you started right away."
 msgstr "Cuir brath thugainn ach an tòisich sinn sa bhad."
 
-#. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:632
-msgid "Hi, I’m interested in…"
-msgstr "Hi, tha ùidh agam ann an…"
+#: mozorg/contribute/index.lang:688
+msgid "I have a suggestion for Firefox"
+msgstr "Tha beachd agam a thaobh Firefox"
+
+#: mozorg/contribute/index.lang:692
+msgid "I need help with a Firefox issue"
+msgstr "Feumaidh mi taic le duilgheadas ann am Firefox"
+
+#: mozorg/contribute/index.lang:696
+#, fuzzy
+msgid "Please enter a valid email address."
+msgstr "Cuiribh a-steach seòladh puist-d dligheach"
+
+#: mozorg/contribute/index.lang:700
+msgid "You must agree to the privacy policy."
+msgstr "Feumaidh tu aontachadh ris a' phoileasaidh phrìobhaideachd."
+
+#: mozorg/contribute/index.lang:704
+msgid "Please select an area of interest."
+msgstr "Tagh earrann a tha ùidh agad ann."
+
+#: mozorg/contribute/index.lang:708
+msgid "Please tell us more about your interests."
+msgstr "An innis thu barrachd dhuinn mu na rudan a tha ùidh agad ann?"
 
 #~ msgid "Get Firefox OS"
 #~ msgstr "Faigh Firefox OS"
@@ -1179,9 +1260,6 @@ msgstr "Hi, tha ùidh agam ann an…"
 #~ "Cuir fios gun sgioba leasachadh ghnothachais againn airson pàirt a "
 #~ "ghabhail ann."
 
-#~ msgid "Other"
-#~ msgstr "Eile"
-
 #~ msgid "Submit my request"
 #~ msgstr "Cuir m' iarrtas"
 
@@ -1416,9 +1494,6 @@ msgstr "Hi, tha ùidh agam ann an…"
 #~ msgid "Have an app?"
 #~ msgstr "A bheil aplacaid agad?"
 
-#~ msgid "Please enter a valid email address"
-#~ msgstr "Cuiribh a-steach seòladh puist-d dligheach"
-
 #~ msgid "Address"
 #~ msgstr "Seòladh"
 
@@ -1641,9 +1716,6 @@ msgstr "Hi, tha ùidh agam ann an…"
 
 #~ msgid "Webmaker"
 #~ msgstr "Webmaker"
-
-#~ msgid "Firefox Marketplace"
-#~ msgstr "Margaidh Firefox"
 
 #~ msgid "Thunderbird"
 #~ msgstr "Thunderbird"

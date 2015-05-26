@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-05-26 07:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -276,6 +276,8 @@ msgid "Where would you like to get started?"
 msgstr ""
 
 #: mozorg/contribute/index.lang:257
+#, fuzzy
+msgctxt "./mozorg/contribute/index.lang:257"
 msgid "Coding"
 msgstr "کوڈنگ"
 
@@ -680,15 +682,94 @@ msgstr ""
 msgid "No thanks, I’ll just wait for the email"
 msgstr ""
 
-#. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:627
+#. The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
+#. Strings have been copied from the old template (mozorg/contribute.lang)
+#: mozorg/contribute/index.lang:628
+msgid "Area of interest?"
+msgstr "دلچسپی کا موضوع؟"
+
+#: mozorg/contribute/index.lang:632
+msgid "Helping Users"
+msgstr "صارفین کی مدد"
+
+#: mozorg/contribute/index.lang:636
+msgid "Testing and QA"
+msgstr ""
+
+#: mozorg/contribute/index.lang:640
+#, fuzzy
+msgctxt "./mozorg/contribute/index.lang:640"
+msgid "Coding"
+msgstr "کوڈنگ"
+
+#: mozorg/contribute/index.lang:644
+msgid "Marketing"
+msgstr "مارکیٹنگ"
+
+#: mozorg/contribute/index.lang:648
+msgid "Localization and Translation"
+msgstr "مقامیت سازی اور ترجمہ"
+
+#: mozorg/contribute/index.lang:652
+msgid "Web Development"
+msgstr "ویب تکمیل کاری"
+
+#: mozorg/contribute/index.lang:656
+msgid "Firefox Marketplace"
+msgstr "Firefox Marketplace"
+
+#: mozorg/contribute/index.lang:660
+msgid "Add-ons"
+msgstr "ایڈ اون"
+
+#: mozorg/contribute/index.lang:664
+msgid "Visual Design"
+msgstr "بصری ڈیزائن"
+
+#: mozorg/contribute/index.lang:668
+msgid "Documentation and Writing"
+msgstr "دستاویزکاری اور تحریر"
+
+#: mozorg/contribute/index.lang:672
+msgid "Education"
+msgstr "تعلیم"
+
+#: mozorg/contribute/index.lang:676
+msgid "Other"
+msgstr "دیگر"
+
+#: mozorg/contribute/index.lang:680
+msgid "Hi, I’m interested in…"
+msgstr "سلام، مجھے دلچسپی ہے…"
+
+#: mozorg/contribute/index.lang:684
 msgid "Send us a note and we can get you started right away."
 msgstr "ہمیں پیغام بھیجیں اور ہم آپ کو فوری طور پر شروع کروا سکتے ہیں۔"
 
-#. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:632
-msgid "Hi, I’m interested in…"
-msgstr "سلام، مجھے دلچسپی ہے…"
+#: mozorg/contribute/index.lang:688
+msgid "I have a suggestion for Firefox"
+msgstr "میرے پاس Firefox کے لیے ایک تجویز ہے"
+
+#: mozorg/contribute/index.lang:692
+msgid "I need help with a Firefox issue"
+msgstr "مجھے ایک Firefox کے مسلے کے لیے مدد چاہیے ہے"
+
+#: mozorg/contribute/index.lang:696
+#, fuzzy
+msgid "Please enter a valid email address."
+msgstr "ایک جائز ای میل پتہ داخل کریں۔"
+
+#: mozorg/contribute/index.lang:700
+msgid "You must agree to the privacy policy."
+msgstr "آپ کو ہماری رازداری پالیسی پر آمادہ ہونا ہو گا۔"
+
+#: mozorg/contribute/index.lang:704
+msgid "Please select an area of interest."
+msgstr "کوئی دلچسپی کا موضوع منتخب کریں۔"
+
+#: mozorg/contribute/index.lang:708
+msgid "Please tell us more about your interests."
+msgstr "ہمیں اپنی دلچسپیوں کے بارے میں اور بتائیں۔"
 
 #~ msgid "Get Firefox OS"
 #~ msgstr "Firefox OS حاصل کریں"
@@ -1008,9 +1089,6 @@ msgstr "سلام، مجھے دلچسپی ہے…"
 
 #~ msgid "Firefox for Android"
 #~ msgstr "Android کے لیے Firefox"
-
-#~ msgid "Other"
-#~ msgstr "دیگر"
 
 #~ msgid "Interest"
 #~ msgstr "دلچسپی"
@@ -1386,10 +1464,6 @@ msgstr "سلام، مجھے دلچسپی ہے…"
 #~ msgstr "فیچر، تبدیلیوں اور مزید چیزوں کے بارے میں پڑھیں"
 
 #, fuzzy
-#~ msgid "Please enter a valid email address"
-#~ msgstr "ایک جائز ای میل پتہ داخل کریں۔"
-
-#, fuzzy
 #~ msgid "Address"
 #~ msgstr "پتہ:"
 
@@ -1415,9 +1489,6 @@ msgstr "سلام، مجھے دلچسپی ہے…"
 
 #~ msgid "Need help?"
 #~ msgstr "مدد کی ضرورت ہے؟"
-
-#~ msgid "Firefox Marketplace"
-#~ msgstr "Firefox Marketplace"
 
 #, fuzzy
 #~ msgid "Get involved!"

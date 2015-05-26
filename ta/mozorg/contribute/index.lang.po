@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-05-26 07:08+0000\n"
 "PO-Revision-Date: 2015-05-10 18:10+0000\n"
 "Last-Translator: Arun Kumar <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1431281409.000000\n"
 
 #. Used for HTML title attribute
@@ -278,6 +278,8 @@ msgid "Where would you like to get started?"
 msgstr ""
 
 #: mozorg/contribute/index.lang:257
+#, fuzzy
+msgctxt "./mozorg/contribute/index.lang:257"
 msgid "Coding"
 msgstr "குறியீடாக்கம்"
 
@@ -682,15 +684,94 @@ msgstr ""
 msgid "No thanks, I’ll just wait for the email"
 msgstr ""
 
-#. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:627
+#. The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
+#. Strings have been copied from the old template (mozorg/contribute.lang)
+#: mozorg/contribute/index.lang:628
+msgid "Area of interest?"
+msgstr "ஆர்வம்?"
+
+#: mozorg/contribute/index.lang:632
+msgid "Helping Users"
+msgstr "பயனர்களுக்கு உதவுதல்"
+
+#: mozorg/contribute/index.lang:636
+msgid "Testing and QA"
+msgstr "சோதித்தல் மற்றும் QA"
+
+#: mozorg/contribute/index.lang:640
+#, fuzzy
+msgctxt "./mozorg/contribute/index.lang:640"
+msgid "Coding"
+msgstr "குறியீடாக்கம்"
+
+#: mozorg/contribute/index.lang:644
+msgid "Marketing"
+msgstr "சந்தைப்படுத்தல்"
+
+#: mozorg/contribute/index.lang:648
+msgid "Localization and Translation"
+msgstr "உள்ளூர்மயமாக்கல் மற்றும் மொழிபெயர்ப்பு"
+
+#: mozorg/contribute/index.lang:652
+msgid "Web Development"
+msgstr "வலை உருவாக்குநர்"
+
+#: mozorg/contribute/index.lang:656
+msgid "Firefox Marketplace"
+msgstr "பயர்பாக்ஸ் சந்தை"
+
+#: mozorg/contribute/index.lang:660
+msgid "Add-ons"
+msgstr "கூடுதல் இணைப்புகள்"
+
+#: mozorg/contribute/index.lang:664
+msgid "Visual Design"
+msgstr "காட்சி வடிவமைப்பு"
+
+#: mozorg/contribute/index.lang:668
+msgid "Documentation and Writing"
+msgstr "ஆவணமாக்கம் மற்றும் எழுத்துப்பணி"
+
+#: mozorg/contribute/index.lang:672
+msgid "Education"
+msgstr "கல்வி"
+
+#: mozorg/contribute/index.lang:676
+msgid "Other"
+msgstr "மற்றவை"
+
+#: mozorg/contribute/index.lang:680
+msgid "Hi, I’m interested in…"
+msgstr "ஹாய், எனக்கு இதிலெல்லாம் ஆர்வம் உள்ளது…"
+
+#: mozorg/contribute/index.lang:684
 msgid "Send us a note and we can get you started right away."
 msgstr "எங்களுக்கு சற்று தெரியப்படுத்துங்கள், இப்போதே நீங்கள் தொடங்க உதவுவோம்."
 
-#. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:632
-msgid "Hi, I’m interested in…"
-msgstr "ஹாய், எனக்கு இதிலெல்லாம் ஆர்வம் உள்ளது…"
+#: mozorg/contribute/index.lang:688
+msgid "I have a suggestion for Firefox"
+msgstr "Firefox க்கு ஒரு ஆலோசனை கூற விரும்புகிறேன்"
+
+#: mozorg/contribute/index.lang:692
+msgid "I need help with a Firefox issue"
+msgstr "Firefox சிக்கல் தொடர்பாக எனக்கு உதவி வேண்டும்"
+
+#: mozorg/contribute/index.lang:696
+#, fuzzy
+msgid "Please enter a valid email address."
+msgstr "ஒரு செல்லுபடியான மின்னஞ்சல் முகவரியை உள்ளிடவும்."
+
+#: mozorg/contribute/index.lang:700
+msgid "You must agree to the privacy policy."
+msgstr "நீங்கள் தனியுரிமைக் கொள்கையை ஏற்க வேண்டும்."
+
+#: mozorg/contribute/index.lang:704
+msgid "Please select an area of interest."
+msgstr "உங்களுக்கு ஆர்வமுள்ள பகுதியைத் தேர்ந்தெடுக்கவும்."
+
+#: mozorg/contribute/index.lang:708
+msgid "Please tell us more about your interests."
+msgstr "உங்கள் ஆர்வம் பற்றி மேலும் விவரிக்கவும்."
 
 #~ msgid "Get Firefox OS"
 #~ msgstr "Firefox OSஐ பெறவும்"
@@ -1126,9 +1207,6 @@ msgstr "ஹாய், எனக்கு இதிலெல்லாம் ஆ�
 #~ msgid "Interest:"
 #~ msgstr "ஆர்வம்:"
 
-#~ msgid "Other"
-#~ msgstr "மற்றவை"
-
 #~ msgid "Interest"
 #~ msgstr "ஆர்வம்"
 
@@ -1179,10 +1257,6 @@ msgstr "ஹாய், எனக்கு இதிலெல்லாம் ஆ�
 
 #~ msgid "Mobile World Congress 2014"
 #~ msgstr "உலக கைப்பேசி பேராயம் 2014"
-
-#, fuzzy
-#~ msgid "Please enter a valid email address"
-#~ msgstr "ஒரு செல்லுபடியான மின்னஞ்சல் முகவரியை உள்ளிடவும்."
 
 #~ msgid "Download PDF"
 #~ msgstr "PDF ஐ பதிவிறக்கு"

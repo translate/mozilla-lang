@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-05-26 07:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -278,6 +278,8 @@ msgid "Where would you like to get started?"
 msgstr ""
 
 #: mozorg/contribute/index.lang:257
+#, fuzzy
+msgctxt "./mozorg/contribute/index.lang:257"
 msgid "Coding"
 msgstr "Programiranje"
 
@@ -684,15 +686,94 @@ msgstr ""
 msgid "No thanks, I’ll just wait for the email"
 msgstr ""
 
-#. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:627
+#. The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
+#. Strings have been copied from the old template (mozorg/contribute.lang)
+#: mozorg/contribute/index.lang:628
+msgid "Area of interest?"
+msgstr "Područje interesa?"
+
+#: mozorg/contribute/index.lang:632
+msgid "Helping Users"
+msgstr "Pomaganje korisnicima"
+
+#: mozorg/contribute/index.lang:636
+msgid "Testing and QA"
+msgstr "Testiranje i osiguranje kvalitete"
+
+#: mozorg/contribute/index.lang:640
+#, fuzzy
+msgctxt "./mozorg/contribute/index.lang:640"
+msgid "Coding"
+msgstr "Programiranje"
+
+#: mozorg/contribute/index.lang:644
+msgid "Marketing"
+msgstr "Marketing"
+
+#: mozorg/contribute/index.lang:648
+msgid "Localization and Translation"
+msgstr "Lokalizacija i prevođenje"
+
+#: mozorg/contribute/index.lang:652
+msgid "Web Development"
+msgstr "Razvoj weba"
+
+#: mozorg/contribute/index.lang:656
+msgid "Firefox Marketplace"
+msgstr ""
+
+#: mozorg/contribute/index.lang:660
+msgid "Add-ons"
+msgstr "Dodaci"
+
+#: mozorg/contribute/index.lang:664
+msgid "Visual Design"
+msgstr "Vizualni dizajn"
+
+#: mozorg/contribute/index.lang:668
+msgid "Documentation and Writing"
+msgstr "Dokumentacija i pisanje"
+
+#: mozorg/contribute/index.lang:672
+msgid "Education"
+msgstr "Edukacija"
+
+#: mozorg/contribute/index.lang:676
+msgid "Other"
+msgstr "Ostalo"
+
+#: mozorg/contribute/index.lang:680
+msgid "Hi, I’m interested in…"
+msgstr "Bok, zanima me…"
+
+#: mozorg/contribute/index.lang:684
 msgid "Send us a note and we can get you started right away."
 msgstr "Pošaljite nam poruku i možemo vas odmah zaposliti."
 
-#. Old form (temporarily used while we set up the new back-end)
-#: mozorg/contribute/index.lang:632
-msgid "Hi, I’m interested in…"
-msgstr "Bok, zanima me…"
+#: mozorg/contribute/index.lang:688
+msgid "I have a suggestion for Firefox"
+msgstr "Imam prijedlog za Firefox"
+
+#: mozorg/contribute/index.lang:692
+msgid "I need help with a Firefox issue"
+msgstr "Trebam pomoć u vezi problema s Firefoxom"
+
+#: mozorg/contribute/index.lang:696
+#, fuzzy
+msgid "Please enter a valid email address."
+msgstr "Upišite adresu svoje e-pošte."
+
+#: mozorg/contribute/index.lang:700
+msgid "You must agree to the privacy policy."
+msgstr "Morate se složiti s politikom privatnosti."
+
+#: mozorg/contribute/index.lang:704
+msgid "Please select an area of interest."
+msgstr "Molim odaberite područje interesa."
+
+#: mozorg/contribute/index.lang:708
+msgid "Please tell us more about your interests."
+msgstr "Recite nam nešto o svojim interesima."
 
 #, fuzzy
 #~ msgid "Get Firefox OS"
@@ -731,9 +812,6 @@ msgstr "Bok, zanima me…"
 #~ msgid "Interest:"
 #~ msgstr "Interesu"
 
-#~ msgid "Other"
-#~ msgstr "Ostalo"
-
 #~ msgid "Interest"
 #~ msgstr "Interesu"
 
@@ -747,10 +825,6 @@ msgstr "Bok, zanima me…"
 #, fuzzy
 #~ msgid "Firefox for Android lets you:"
 #~ msgstr "Ilustracije Firefoxa za Android"
-
-#, fuzzy
-#~ msgid "Please enter a valid email address"
-#~ msgstr "Upišite adresu svoje e-pošte."
 
 #, fuzzy
 #~ msgid "Mobile"
