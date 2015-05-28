@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-04-24 12:08+0000\n"
-"PO-Revision-Date: 2014-12-08 05:13+0000\n"
+"PO-Revision-Date: 2015-05-28 09:46+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1418015633.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1432806407.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -22,17 +22,17 @@ msgstr "Navigatsiya"
 #. Example: https://www-demo2.allizom.org/firefox/os
 #: main.lang:7
 msgid "<span>for</span> Desktop"
-msgstr ""
+msgstr "Kompyuter <span>uchun</span>"
 
 #. Firefox family navigation menu. Main level item.
 #: main.lang:12
 msgid "<span>for</span> Android"
-msgstr ""
+msgstr "Android <span>uchun</span>"
 
 #. Firefox family navigation menu. Main level item.
 #: main.lang:17
 msgid "<span>for</span> iOS"
-msgstr ""
+msgstr "iOS <span>uchun</span>"
 
 #. Firefox family navigation menu. Main level item.
 #: main.lang:22
@@ -43,12 +43,12 @@ msgstr "OS"
 #. You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
 #: main.lang:28
 msgid "For desktops &amp; laptops"
-msgstr ""
+msgstr "Kompyuter va notebooklar uchun"
 
 #. Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 #: main.lang:33
 msgid "For phones &amp; tablets"
-msgstr ""
+msgstr "Telefonlar va planshetlar uchun"
 
 #. Firefox family navigation menu. Second-level item shared across different menus.
 #: main.lang:38
@@ -78,18 +78,17 @@ msgstr "Biz haqimizda"
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
 #: main.lang:63
 msgid "Devices"
-msgstr ""
+msgstr "Qurilmalar"
 
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
 #: main.lang:68
-#, fuzzy
 msgid "For partners"
 msgstr "Hamkorlar uchun"
 
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
 #: main.lang:73
 msgid "Apps"
-msgstr ""
+msgstr "Ilova dasturlar"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:78
@@ -99,18 +98,18 @@ msgstr "Kuzatmang"
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:83
 msgid "Tiles"
-msgstr ""
+msgstr "Kataklar"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #. Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 #: main.lang:89
 msgid "Interest Dashboard"
-msgstr ""
+msgstr "Qiziqish boshqaruv paneli"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:94
 msgid "Developer Edition"
-msgstr ""
+msgstr "Developer Edition"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:99
@@ -125,11 +124,10 @@ msgstr "Yordam kerakmi?"
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:109
 msgid "News"
-msgstr ""
+msgstr "Yangiliklar"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:114
-#, fuzzy
 msgid "For developers"
 msgstr "Dasturchilar uchun"
 
@@ -146,17 +144,16 @@ msgstr "Dasturchilar"
 #. Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 #: main.lang:129
 msgid "Choose the independent browser"
-msgstr ""
+msgstr "Mustaqil brauzerni tanlang"
 
 #. Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 #: main.lang:134
-#, fuzzy
 msgid ""
 "Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox "
 "isn’t just choosing a browser. It’s a vote for personal freedom."
 msgstr ""
-"10 yil davomida Firefox notijorat, nodavlat, nokorporativ, nodavlat bo‘lib "
-"qoldi.Firefox tanlash faqat brauzerni tanlash emas. Bu shaxsiy erkinlik "
+"Firefox - notijorat, nokorporativ, siquvlarsiz dasturiy ta’minot. Firefox "
+"brauzerini tanlash faqat brauzerni tanlash degani emas. Bu shaxsiy erkinlik "
 "uchun ovoz berishdir."
 
 #: main.lang:138
@@ -457,9 +454,8 @@ msgstr ""
 
 #. Footer string (will replace "Contribute to this page")
 #: main.lang:418
-#, fuzzy
 msgid "Contribute to this site"
-msgstr "Loyihada ishtirok etish"
+msgstr "Ushbu saytga hissa qo‘shish"
 
 #. Footer string
 #: main.lang:423
@@ -619,7 +615,7 @@ msgstr "Forumlar"
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:578
 msgid "Leadership"
-msgstr ""
+msgstr "Sardorlik"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:583
@@ -788,10 +784,12 @@ msgstr "<abbr>Dek</abbr>"
 msgid ""
 "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
 msgstr ""
+"Firefox tez kunlarda iOS tizimida ham ishlay boshlaydi! <a href="
+"\"{url}\">Ko‘proq ma’lumot olish uchun ro‘yxatdan o‘ting</a>."
 
 #: main.lang:746
 msgid "Congrats. You’re up to date!"
-msgstr ""
+msgstr "Tabriklaymiz. Brauzeringiz yap-yangi!"
 
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Android uchun \"Firefox\"ni yuklab oling"
