@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-06-03 11:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0-rc1\n"
 
 #. This is the <title> tag
-#: firefox/desktop/index.lang:8
+#: firefox/desktop/index.lang:9
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your "
 "privacy and an open Web"
@@ -23,27 +23,38 @@ msgstr ""
 "için ve açık bir Web için var"
 
 #. Previous title (DO NOT REMOVE)
-#: firefox/desktop/index.lang:13
+#: firefox/desktop/index.lang:14
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — There's never been a better "
 "time"
 msgstr "Firefox Web tarayıcısı — Güvenilir, esnek, hızlı — Şimdi tam zamanı"
 
 #. L10n: Line break below is for wide screen formatting only.
-#: firefox/desktop/index.lang:18
+#: firefox/desktop/index.lang:19
 msgid "There’s never been a <br class=\"wide-br\">better time for Firefox"
 msgstr ""
 "Firefox’u kullanmak için <br class=\"wide-br\">daha iyi bir zaman olmamıştı"
 
-#: firefox/desktop/index.lang:22
+#: firefox/desktop/index.lang:23
 msgid "Committed to you, your privacy and an open Web."
 msgstr "Firefox sizin için, gizliliğiniz için ve açık bir Web için var."
 
-#: firefox/desktop/index.lang:26
+#. This string is displayed if the visitor is using an up-to-date version of Firefox
+#: firefox/desktop/index.lang:29
+msgid "Your Firefox is up to date."
+msgstr "Firefox'unuz güncel."
+
+#. This string is displayed if the visitor is using an up-to-date version of Firefox
+#. Active link to https://support.mozilla.org/products/firefox
+#: firefox/desktop/index.lang:36
+msgid "Need help with anything?"
+msgstr ""
+
+#: firefox/desktop/index.lang:40
 msgid "Made with a mission to put you first"
 msgstr "Misyonumuz, sizi daima ilk sıraya koymak"
 
-#: firefox/desktop/index.lang:30
+#: firefox/desktop/index.lang:44
 msgid ""
 "We’ve always designed Firefox to protect and respect your private "
 "information."
@@ -51,7 +62,7 @@ msgstr ""
 "Firefox’u hep kişisel bilgilerinizi korumak ve onlara saygı göstermek için "
 "tasarladık."
 
-#: firefox/desktop/index.lang:34
+#: firefox/desktop/index.lang:48
 msgid ""
 "That’s why we’re proud to be voted the <a href=\"%(url1)s\">Most Trusted "
 "Internet Company for Privacy.</a>"
@@ -59,30 +70,30 @@ msgstr ""
 "O yüzden <a href=\"%(url1)s\">gizlilik konusunda en çok güvenilen internet "
 "şirketi</a> seçilmekten gurur duyuyoruz."
 
-#: firefox/desktop/index.lang:38
+#: firefox/desktop/index.lang:52
 msgid "Find out what makes Firefox the most trusted browser on the Web"
 msgstr "Firefox’un nasıl internetteki en güvenilir tarayıcı olduğunu öğrenin"
 
-#: firefox/desktop/index.lang:42
+#: firefox/desktop/index.lang:56
 msgid "Works the way you do"
 msgstr "Sizin istediğiniz gibi çalışır"
 
-#: firefox/desktop/index.lang:46
+#: firefox/desktop/index.lang:60
 msgid "How you use the Web is unique."
 msgstr "Herkes Web’i farklı kullanır."
 
-#: firefox/desktop/index.lang:50
+#: firefox/desktop/index.lang:64
 msgid "Firefox lets you change it to match."
 msgstr "Firefox’u kendi kullanım tarzınıza göre değiştirebilirsiniz."
 
-#: firefox/desktop/index.lang:54
+#: firefox/desktop/index.lang:68
 msgid ""
 "Remove what you don’t use, keep what you do and put it just about anywhere "
 "you want."
 msgstr ""
 "Kullanmadıklarınızı atın, kullandıklarınızı tutun ve istediğiniz yere koyun."
 
-#: firefox/desktop/index.lang:58
+#: firefox/desktop/index.lang:72
 msgid ""
 "Find out what makes Firefox <br class=\"wide-br\">the most flexible browser "
 "there is"
@@ -90,11 +101,11 @@ msgstr ""
 "Firefox’u var olan en esnek tarayıcı <br class=\"wide-br\">yapan şeyleri "
 "öğrenin"
 
-#: firefox/desktop/index.lang:62
+#: firefox/desktop/index.lang:76
 msgid "Faster at what you do most"
 msgstr "En çok yaptığınız işlerde en hızlı"
 
-#: firefox/desktop/index.lang:66
+#: firefox/desktop/index.lang:80
 msgid ""
 "Firefox was named the ”speed king” in independent benchmark and performance "
 "tests against other browsers."
@@ -102,7 +113,7 @@ msgstr ""
 "Firefox, diğer tarayıcılarla birlikte yapılan bağımsız performans "
 "testlerinde ”hız kralı” seçildi."
 
-#: firefox/desktop/index.lang:70
+#: firefox/desktop/index.lang:84
 msgid ""
 "* Based on <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix XVI</"
 "a> results."
@@ -110,10 +121,10 @@ msgstr ""
 "* <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix XVI</a> "
 "sonuçları temel alınmıştır."
 
-#: firefox/desktop/index.lang:74
+#: firefox/desktop/index.lang:88
 msgid "Save time and do just about anything quicker than before."
 msgstr "Her şeyi eskisinden daha hızlı yaparak zaman kazanın."
 
-#: firefox/desktop/index.lang:78
+#: firefox/desktop/index.lang:92
 msgid "Find out what makes this the fastest Firefox yet"
 msgstr "Şimdiye kadarki en hızlı Firefox’un özelliklerini öğrenin"
