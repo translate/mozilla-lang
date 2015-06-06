@@ -1,17 +1,20 @@
 #. extracted from ./firefox/channel.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-06-06 09:41+0000\n"
+"Last-Translator: Raivis <orvils@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1433583715.000000\n"
 
 #. This is the string for the <title> tag on the page.
 #: firefox/channel.lang:10
@@ -28,13 +31,12 @@ msgid "Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox"
 msgstr "Lejupielādē Firefox Aurora vai Beta un palīdzi veidot Firefox nākotni"
 
 #: firefox/channel.lang:20
-#, fuzzy
 msgid ""
 "Download and test Firefox future releases. Experience the newest innovations "
 "with the Developer Edition or Beta builds."
 msgstr ""
 "Lejupielādē un notestē Firefox nākotnes versijas. Izdzīvo nākotnes "
-"inovācijas ar Aurora vai Beta Firefox."
+"inovācijas ar Izstrādātāju versiju vai Beta Firefox."
 
 #. This description applies to Firefox Beta
 #: firefox/channel.lang:25
@@ -42,12 +44,11 @@ msgid "The latest features in a more stable environment"
 msgstr "Jaunākās iespējas stabilākā vidē"
 
 #: firefox/channel.lang:30
-#, fuzzy
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
 msgstr ""
-"Firefox Aurora automātiski sūta atsauksmes Mozilla. <a href=\"%(link)s"
+"Firefox Beta automātiski sūta atsauksmes Mozilla. <a href=\"%(link)s"
 "\">Uzzināt vairāk</a>."
 
 #: firefox/channel.lang:34
@@ -55,12 +56,16 @@ msgid ""
 "<a href=\"%(feedback)s\">Give us feedback</a> to help us put the final "
 "tweaks on performance and functionality in a stable environment."
 msgstr ""
+"<a href=\"%(feedback)s\">Pasakiet ko domājat</a>, lai mēs varam pieslīpēt "
+"veiktspēju un funkcionalitāti stabilajai versijai."
 
 #: firefox/channel.lang:39
 msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
 "Mozilla. <a href=\"%(link)s\">Learn more</a>."
 msgstr ""
+"Firefox Aurora un Firefox Izstrādātāju versijas automātiski sūta atsauksmes "
+"Mozilla. <a href=\"%(link)s\">Uzzināt vairāk</a>."
 
 #: firefox/channel.lang:43
 msgid ""
