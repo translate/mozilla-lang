@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-06-06 12:08+0000\n"
 "PO-Revision-Date: 2014-06-09 18:26+0000\n"
 "Last-Translator: xh-ZA03_Fuma <fdyubhele@gmail.com>\n"
 "Language-Team: none\n"
@@ -45,9 +45,11 @@ msgstr "\"Ikumkani yesantya\""
 
 #. L10n: Line break below is for wide screen formatting only.
 #: firefox/desktop/fast.lang:29
+#, fuzzy
 msgid ""
 "Firefox outperformed other browsers in recent independent tests to be named "
-"<br class=\"wide-br\">the <a href=\"%(url1)s\">“speed king.”</a>"
+"<br class=\"wide-br\">the <a href=\"%(url1)s\" data-interaction=\"outbound "
+"link\">“speed king.”</a>"
 msgstr ""
 "IFirefox izigqwesile ezinye iibhrawuza kwiimvavanyo ezizimeleyo zakutshanje "
 "eziya kubizwa -<br class=\"wide-br\">i <a href=\"%(url1)s\">“kumkani "

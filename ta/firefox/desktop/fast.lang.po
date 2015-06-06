@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-06-06 12:08+0000\n"
 "PO-Revision-Date: 2014-10-31 15:38+0000\n"
 "Last-Translator: rat <jayabharat@live.com>\n"
 "Language-Team: none\n"
@@ -44,9 +44,11 @@ msgstr "\"வேகத்தில் மன்னன்\""
 
 #. L10n: Line break below is for wide screen formatting only.
 #: firefox/desktop/fast.lang:29
+#, fuzzy
 msgid ""
 "Firefox outperformed other browsers in recent independent tests to be named "
-"<br class=\"wide-br\">the <a href=\"%(url1)s\">“speed king.”</a>"
+"<br class=\"wide-br\">the <a href=\"%(url1)s\" data-interaction=\"outbound "
+"link\">“speed king.”</a>"
 msgstr ""
 "Firefox - மற்ற உலாவிகளை விட சிறப்பாக செயல்படுவதாக சமீபத்திய சார்பற்ற சோதனைகள் "
 "தெறிவிக்கின்றன.<br class=\"wide-br\"><a href=\"%(url1)s\">“வேகத்தின் ராஜா”</a>"

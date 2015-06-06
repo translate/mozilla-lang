@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-03 11:11+0000\n"
+"POT-Creation-Date: 2015-06-06 12:08+0000\n"
 "PO-Revision-Date: 2014-10-22 06:41+0000\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: none\n"
@@ -65,9 +65,10 @@ msgstr ""
 "respekteer."
 
 #: firefox/desktop/index.lang:48
+#, fuzzy
 msgid ""
-"That’s why we’re proud to be voted the <a href=\"%(url1)s\">Most Trusted "
-"Internet Company for Privacy.</a>"
+"That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
+"\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
 msgstr ""
 "Daarom is ons trots op die benoeming as die <a href=\"%(url1)s\">Mees "
 "vertroude internetmaatskappy vir privaatheid</a>."
@@ -116,11 +117,9 @@ msgstr ""
 
 #: firefox/desktop/index.lang:84
 msgid ""
-"* Based on <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix XVI</"
-"a> results."
+"* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
+"Hardware Web Browser Grand Prix XVI</a> results."
 msgstr ""
-"* Gebaseer op resultate in <a href=\"%(url1)s\">Tom’s Hardware Web Browser "
-"Grand Prix XVI</a>."
 
 #: firefox/desktop/index.lang:88
 msgid "Save time and do just about anything quicker than before."
@@ -129,6 +128,13 @@ msgstr "Spaar tyd en doen net omtrent enigiets vinniger as tevore."
 #: firefox/desktop/index.lang:92
 msgid "Find out what makes this the fastest Firefox yet"
 msgstr "Kyk wat maak hierdie die vinnigste Firefox nog"
+
+#~ msgid ""
+#~ "* Based on <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix "
+#~ "XVI</a> results."
+#~ msgstr ""
+#~ "* Gebaseer op resultate in <a href=\"%(url1)s\">Tom’s Hardware Web "
+#~ "Browser Grand Prix XVI</a>."
 
 #~ msgid "FAQ"
 #~ msgstr "Vrae"

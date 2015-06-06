@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-03 11:11+0000\n"
+"POT-Creation-Date: 2015-06-06 12:08+0000\n"
 "PO-Revision-Date: 2015-06-06 10:37+0000\n"
 "Last-Translator: papapep <papapep@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1433587021.000000\n"
 
 #. This is the <title> tag
@@ -67,9 +67,10 @@ msgstr ""
 "informació privada."
 
 #: firefox/desktop/index.lang:48
+#, fuzzy
 msgid ""
-"That’s why we’re proud to be voted the <a href=\"%(url1)s\">Most Trusted "
-"Internet Company for Privacy.</a>"
+"That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
+"\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
 msgstr ""
 "Per això estem orgullosos de ser escollits <a href=\"%(url1)s"
 "\">l'organització d'Internet més fiable en privadesa.</a>"
@@ -120,11 +121,9 @@ msgstr ""
 
 #: firefox/desktop/index.lang:84
 msgid ""
-"* Based on <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix XVI</"
-"a> results."
+"* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
+"Hardware Web Browser Grand Prix XVI</a> results."
 msgstr ""
-"* Basat en els resultats del «<a href=\"%(url1)s\">Tom’s Hardware Web "
-"Browser Grand Prix XVI</a>»."
 
 #: firefox/desktop/index.lang:88
 msgid "Save time and do just about anything quicker than before."
@@ -133,3 +132,10 @@ msgstr "Estalvieu temps i feu pràcticament tot més ràpid que abans."
 #: firefox/desktop/index.lang:92
 msgid "Find out what makes this the fastest Firefox yet"
 msgstr "Descobriu què fa d'aquest el Firefox més ràpid fins ara"
+
+#~ msgid ""
+#~ "* Based on <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix "
+#~ "XVI</a> results."
+#~ msgstr ""
+#~ "* Basat en els resultats del «<a href=\"%(url1)s\">Tom’s Hardware Web "
+#~ "Browser Grand Prix XVI</a>»."

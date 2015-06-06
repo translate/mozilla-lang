@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-03 11:11+0000\n"
+"POT-Creation-Date: 2015-06-06 12:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,9 +61,10 @@ msgstr ""
 "Ergrafet eo bet Firefox a-viskoazh da wareziñ ha doujañ ho titouroù personel."
 
 #: firefox/desktop/index.lang:48
+#, fuzzy
 msgid ""
-"That’s why we’re proud to be voted the <a href=\"%(url1)s\">Most Trusted "
-"Internet Company for Privacy.</a>"
+"That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
+"\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
 msgstr ""
 "Setu perak emañ al loc'h ennomp rak dilennet omp bet evel <a href=\"%(url1)s"
 "\">An Embregerezh fiziekañ war internet e-keñver ar vuhez prevez.</a>"
@@ -114,11 +115,9 @@ msgstr ""
 
 #: firefox/desktop/index.lang:84
 msgid ""
-"* Based on <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix XVI</"
-"a> results."
+"* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
+"Hardware Web Browser Grand Prix XVI</a> results."
 msgstr ""
-"* Diazezet war disoc'hoù <a href=\"%(url1)s\">Tom’s Hardware Web Browser "
-"Grand Prix XVI</a>."
 
 #: firefox/desktop/index.lang:88
 msgid "Save time and do just about anything quicker than before."
@@ -127,3 +126,10 @@ msgstr "Espernit amzer ha grit tost pep tra buanoc'h eget a-raok."
 #: firefox/desktop/index.lang:92
 msgid "Find out what makes this the fastest Firefox yet"
 msgstr "Dizoloit pezh a laka anezhañ da vezañ ar Firefox herrekañ evit poent"
+
+#~ msgid ""
+#~ "* Based on <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix "
+#~ "XVI</a> results."
+#~ msgstr ""
+#~ "* Diazezet war disoc'hoù <a href=\"%(url1)s\">Tom’s Hardware Web Browser "
+#~ "Grand Prix XVI</a>."

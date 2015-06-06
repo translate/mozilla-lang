@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-06-06 12:08+0000\n"
 "PO-Revision-Date: 2014-07-19 17:11+0000\n"
 "Last-Translator: Akmal <akmalxster@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,9 +43,11 @@ msgstr "“Tezlik qiroli”"
 
 #. L10n: Line break below is for wide screen formatting only.
 #: firefox/desktop/fast.lang:29
+#, fuzzy
 msgid ""
 "Firefox outperformed other browsers in recent independent tests to be named "
-"<br class=\"wide-br\">the <a href=\"%(url1)s\">“speed king.”</a>"
+"<br class=\"wide-br\">the <a href=\"%(url1)s\" data-interaction=\"outbound "
+"link\">“speed king.”</a>"
 msgstr ""
 "Firefox boshqa brauzerlarni so‘nggi mustaqil testlardan <br class=\"wide-br"
 "\">the <a href=\"%(url1)s\">“tezlik qiroli”</a> deb nomlanish uchun yengib "

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-06-06 12:08+0000\n"
 "PO-Revision-Date: 2014-07-09 06:16+0000\n"
 "Last-Translator: Tanner <tanner.sperry@gmail.com>\n"
 "Language-Team: none\n"
@@ -44,9 +44,11 @@ msgstr "El “rey de la velocidad”"
 
 #. L10n: Line break below is for wide screen formatting only.
 #: firefox/desktop/fast.lang:29
+#, fuzzy
 msgid ""
 "Firefox outperformed other browsers in recent independent tests to be named "
-"<br class=\"wide-br\">the <a href=\"%(url1)s\">“speed king.”</a>"
+"<br class=\"wide-br\">the <a href=\"%(url1)s\" data-interaction=\"outbound "
+"link\">“speed king.”</a>"
 msgstr ""
 "Firefox superó recientemente a otros navegadores en pruebas de rendimiento "
 "independientes: <br class=\"wide-br\">ganándose así el nombre de <a href="

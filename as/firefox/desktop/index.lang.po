@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-03 11:11+0000\n"
+"POT-Creation-Date: 2015-06-06 12:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,9 +60,10 @@ msgstr ""
 "আমি সদায় Firefox ক আপোনাৰ ব্যক্তিগত তথ্যক সুৰক্ষা আৰু সন্মান দিবলে ৰূপাঙ্কণ কৰি আহিছো।"
 
 #: firefox/desktop/index.lang:48
+#, fuzzy
 msgid ""
-"That’s why we’re proud to be voted the <a href=\"%(url1)s\">Most Trusted "
-"Internet Company for Privacy.</a>"
+"That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
+"\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
 msgstr ""
 "সেইবাবে আমাক <a href=\"%(url1)s\">গোপনীয়তাৰ বাবে আটাইতকৈ ভৰষাবান ইন্টাৰনেট "
 "কোম্পানী</a> ৰূপে মনোনিত কৰাৰ বাবে আমি গৌৰৱ বোধ কৰিছো।"
@@ -110,11 +111,9 @@ msgstr ""
 
 #: firefox/desktop/index.lang:84
 msgid ""
-"* Based on <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix XVI</"
-"a> results."
+"* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
+"Hardware Web Browser Grand Prix XVI</a> results."
 msgstr ""
-"* <a href=\"%(url1)s\">Tom ৰ হাৰ্ডৱেৰ ৱেব ব্ৰাউছাৰ গ্ৰেণ্ড প্ৰি XVI</a> ফলাফলৰ "
-"ওপৰত ভিত্তিয়।"
 
 #: firefox/desktop/index.lang:88
 msgid "Save time and do just about anything quicker than before."
@@ -123,3 +122,10 @@ msgstr "সময় সঞ্চ কৰক আৰু যিকোনো কাৰ�
 #: firefox/desktop/index.lang:92
 msgid "Find out what makes this the fastest Firefox yet"
 msgstr "ইয়াক আটাইতকৈ দ্ৰুত Firefox বনোৱাৰ কাৰণ জানক"
+
+#~ msgid ""
+#~ "* Based on <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix "
+#~ "XVI</a> results."
+#~ msgstr ""
+#~ "* <a href=\"%(url1)s\">Tom ৰ হাৰ্ডৱেৰ ৱেব ব্ৰাউছাৰ গ্ৰেণ্ড প্ৰি XVI</a> ফলাফলৰ "
+#~ "ওপৰত ভিত্তিয়।"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-20 16:09+0000\n"
+"POT-Creation-Date: 2015-06-06 12:08+0000\n"
 "PO-Revision-Date: 2015-02-18 07:30+0000\n"
 "Last-Translator: Francesco Lodolo <francesco.lodolo@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,9 +98,11 @@ msgstr "पुनया आलगा झांप रे मित् ओकत�
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 #: firefox/sync.lang:80
+#, fuzzy
 msgid ""
-"Open the <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">menu</"
-"a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
+"Open the <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
+"href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of Firefox and "
+"select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
 "<a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> "
 "फायारफॉक्स रेयाक् चोट जोजम रे आर बाछाव मे <strong>मित् ओकतो लेका तेयार रे साइन .</"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-03 11:11+0000\n"
+"POT-Creation-Date: 2015-06-06 12:08+0000\n"
 "PO-Revision-Date: 2014-08-26 02:08+0000\n"
 "Last-Translator: soksophea <sksophea@gmail.com>\n"
 "Language-Team: none\n"
@@ -63,9 +63,10 @@ msgid ""
 msgstr "ជា​និច្ចកាល​យើង​បាន​រចនា Firefox ដើម្បី​ការពារ និង​ពិនិត្យមើល​ព័ត៌មាន​ឯកជន។"
 
 #: firefox/desktop/index.lang:48
+#, fuzzy
 msgid ""
-"That’s why we’re proud to be voted the <a href=\"%(url1)s\">Most Trusted "
-"Internet Company for Privacy.</a>"
+"That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
+"\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
 msgstr ""
 "នេះ​ហើយ​ជា​អ្វី​ដែល​យើង​មាន​មោទនភាព​ដោយ​បាន​ទទួល​ការ​បោះឆ្នោត​ជា <a href=\"%(url1)s\">ក្រុមហ៊ុន​"
 "អ៊ីនធឺណិត​ដ៏​គួរ​ឲ្យ​ទុកចិត្ត​បំផុត​សម្រាប់​ភាព​ឯកជន។</a>"
@@ -113,11 +114,9 @@ msgstr ""
 
 #: firefox/desktop/index.lang:84
 msgid ""
-"* Based on <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix XVI</"
-"a> results."
+"* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
+"Hardware Web Browser Grand Prix XVI</a> results."
 msgstr ""
-"* បាន​ផ្អែកលើ​លទ្ធផល <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix "
-"XVI</a> ។"
 
 #: firefox/desktop/index.lang:88
 msgid "Save time and do just about anything quicker than before."
@@ -126,6 +125,13 @@ msgstr "រក្សាទុក​ពេលវេលា និង​ដំណ�
 #: firefox/desktop/index.lang:92
 msgid "Find out what makes this the fastest Firefox yet"
 msgstr "ស្វែងរក​អ្វី​ដែល​ធ្វើ​ឲ្យ​ Firefox លឿន​ជាង​ពី​មុន"
+
+#~ msgid ""
+#~ "* Based on <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix "
+#~ "XVI</a> results."
+#~ msgstr ""
+#~ "* បាន​ផ្អែកលើ​លទ្ធផល <a href=\"%(url1)s\">Tom’s Hardware Web Browser Grand "
+#~ "Prix XVI</a> ។"
 
 #~ msgid "The State of Mozilla: 2012 Annual Report"
 #~ msgstr "ស្ថានភាព Mozilla ៖ របាយការណ៍​ប្រចាំ​ឆ្នាំ 2012"
