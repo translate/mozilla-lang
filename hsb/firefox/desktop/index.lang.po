@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-06 12:08+0000\n"
-"PO-Revision-Date: 2015-06-03 16:37+0000\n"
+"PO-Revision-Date: 2015-06-06 14:09+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hsb\n"
@@ -13,8 +13,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1433349461.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1433599745.000000\n"
 
 #. This is the <title> tag
 #: firefox/desktop/index.lang:9
@@ -67,13 +67,12 @@ msgstr ""
 "škitali a respektowali."
 
 #: firefox/desktop/index.lang:48
-#, fuzzy
 msgid ""
 "That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
 "\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
 msgstr ""
-"Tohodla smy hordźi, zo nas <a href=\"%(url1)s\">dowěry najhódniše internetne "
-"předewzaće za priwatnosć</a> mjenuja"
+"Tohodla smy hordźi, zo nas <a href=\"%(url1)s\" data-interaction=\"outbound "
+"link\">dowěry najhódniše internetne předewzaće za priwatnosć</a> mjenuja"
 
 #: firefox/desktop/index.lang:52
 msgid "Find out what makes Firefox the most trusted browser on the Web"
@@ -125,6 +124,8 @@ msgid ""
 "* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
 "Hardware Web Browser Grand Prix XVI</a> results."
 msgstr ""
+"* Na zakładźe wuslědkow <a data-interaction=\"outbound link\" href=\"%(url1)s"
+"\">Tom’s Hardware Web Browser Grand Prix XVI</a>."
 
 #: firefox/desktop/index.lang:88
 msgid "Save time and do just about anything quicker than before."
