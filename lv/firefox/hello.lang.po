@@ -1,22 +1,25 @@
 #. extracted from ./firefox/hello.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-18 18:09+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-06-07 09:02+0000\n"
+"Last-Translator: Raivis <orvils@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1433667747.000000\n"
 
 #. “Firefox Hello” is the product name and should not be localized
 #: firefox/hello.lang:11
 msgid "Firefox Hello — Free, easy video conversations"
-msgstr ""
+msgstr "Firefox Hello — Vienkāršas bezmaksas video sarunas"
 
 #. “Firefox Hello” is the product name and should not be localized
 #: firefox/hello.lang:16
@@ -24,12 +27,14 @@ msgid ""
 "Learn all about Firefox Hello and see for yourself how easy it is to have a "
 "free video conversation with anyone, anywhere, right from your browser"
 msgstr ""
+"Uzziniet vairāk par Firefox Hello un izmēģiniet cik viegli ir veidot "
+"bezmaksas video sarunas ar jebkuru cilvēku jebkur pasaulē pa tiešo no pārlūka"
 
 #. In this case 'hello' is simply a greeting, not the product name. The message is that Firefox Hello is easy to use, as easy as greeting someone.
 #. An alternative headline could be "The easiest way to connect".
 #: firefox/hello.lang:22
 msgid "As easy as saying hello"
-msgstr ""
+msgstr "Tik viegli kā sasveicināties"
 
 #. “Firefox Hello” is the product name and should not be localized
 #: firefox/hello.lang:27
@@ -37,6 +42,8 @@ msgid ""
 "Meet Firefox Hello, the easiest way to connect for free over video with "
 "anyone, anywhere."
 msgstr ""
+"Iepazīstieties ar Firefox Hello, vienkāršāko veidu kā sazināties ar jebkuru "
+"jebkur video režīmā."
 
 #. “Firefox Hello” is the product name and should not be localized
 #: firefox/hello.lang:32
@@ -46,7 +53,7 @@ msgstr "Izmēģiniet Firefox Hello"
 #. This string is displayed to users of Firefox 38 ESR, where Hello is not available
 #: firefox/hello.lang:37
 msgid "You need a different version of Firefox to use Hello."
-msgstr ""
+msgstr "Jums nepieciešama cita Firefox versija, lai izmantotu Hello."
 
 #. This string is used as a button label, displayed to users of Firefox 38 ESR to download an updated version of Firefox
 #: firefox/hello.lang:42
@@ -55,61 +62,63 @@ msgstr "Izmēģiniet tagad"
 
 #: firefox/hello.lang:46
 msgid "All you need is Firefox"
-msgstr ""
+msgstr "Jums vajadzīgs tikai Firefox"
 
 #. “Hello” is the product name and should not be localized
 #: firefox/hello.lang:51
 msgid "If you have the latest version of Firefox, you already have Hello."
-msgstr ""
+msgstr "Ja jums ir jaunākā Firefox versija, jums ir arī Hello."
 
 #: firefox/hello.lang:55
 msgid "There’s no account or sign-in required and nothing extra to download."
-msgstr ""
+msgstr "Nav nepieciešams speciāls konts un nekas nav jālejupielādē."
 
 #: firefox/hello.lang:60
 msgid "Just send a conversation link to a friend and ask them to click it."
-msgstr ""
+msgstr "Vienkārši nosūtiet draugam saiti un palūdziet atvērt to."
 
 #. This string will be an active link to SUMO: https://support.mozilla.org/kb/which-browsers-will-work-firefox-hello-video-chat
 #: firefox/hello.lang:66
 msgid "See which browsers are compatible with Firefox Hello"
-msgstr ""
+msgstr "Apskatiet, kuri pārlūki atbalsta Firefox Hello"
 
 #: firefox/hello.lang:70
 msgid ""
 "Just start a conversation, send your friend a link and ask them to click it."
-msgstr ""
+msgstr "Sāciet sarunu, nosūtiet draugam saiti un palūdziet atvērt to."
 
 #: firefox/hello.lang:74
 msgid "Simple."
-msgstr ""
+msgstr "Vienkārši."
 
 #. This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
 #. Feel free to adapt it to your locale.
 #: firefox/hello.lang:81
 msgid "Share and share alike"
-msgstr ""
+msgstr "Viegli dalīties"
 
 #: firefox/hello.lang:86
 msgid "Want to show off some new baby pictures?"
-msgstr ""
+msgstr "Gribat parādīt jaunās mazuļa bildes? "
 
 #: firefox/hello.lang:91
 msgid "Share travel options over the Web?"
-msgstr ""
+msgstr "Dalīties ar ceļojuma variantiem internetā?"
 
 #: firefox/hello.lang:96
 msgid "Check in on a project from half a world away?"
-msgstr ""
+msgstr "Pārbaudīt, kas notiek projektā otrā pasaules malā?"
 
 #: firefox/hello.lang:101
 msgid "Screen sharing on Firefox Hello makes it all possible."
-msgstr ""
+msgstr "Firefox Hello ekrāna koplietošana ļauj izdarīt šo visu."
 
 #: firefox/hello.lang:106
 msgid ""
 "Try it out in your next conversation and share the things that matter most."
 msgstr ""
+"Izmēģiniet to savā nākamajā sarunā un dalieties ar lietām, kas ir patiesi "
+"svarīgas."
 
 #: firefox/hello.lang:110
 msgid "Invite anyone, anywhere"
@@ -167,19 +176,22 @@ msgid ""
 "Account or sign in if you have one already &mdash; it’s the same account you "
 "use with Sync."
 msgstr ""
+"Lai sāktu sarunu ar konkrētu cilvēku, izveidojiet Firefox kontu vai "
+"pierakstieties, ja jums tāds jau ir &mdash; Tas ir tas pat konts, ko "
+"izmantojat sinhronizācijai."
 
 #: firefox/hello.lang:159
 msgid "You can then add contacts to keep them close at hand."
-msgstr ""
+msgstr "Tad varēsiet pievienot kontaktus, lai tie vienmēr būtu pa rokai."
 
 #: firefox/hello.lang:163
 msgid "Get Firefox to get started"
-msgstr ""
+msgstr "Iegūstiet Firefox, lai sāktu"
 
 #. “Hello” is the product name and should not be localized
 #: firefox/hello.lang:168
 msgid "Want to start using Hello?"
-msgstr ""
+msgstr "Gribat izmēģināt Hello?"
 
 #: firefox/hello.lang:172
 msgid ""
@@ -187,22 +199,24 @@ msgid ""
 "in control of your online life while you stay connected with friends and "
 "family."
 msgstr ""
+"Jums vajadzīgs vienīgi Firefox &mdash; atvērtā koda pārlūks, kas palīdz "
+"saglabāt kontroli internetā un sazināties ar radiem un draugiem."
 
 #: firefox/hello.lang:176
 msgid "Download Firefox to start your first conversation."
-msgstr ""
+msgstr "Lejupielādējiet Firefox, lai sāktu savu pirmo sarunu."
 
 #: firefox/hello.lang:180
 msgid "Get Firefox and start your first conversation"
-msgstr ""
+msgstr "Iegūstiet Firefox, lai sāktu savu pirmo sarunu"
 
 #: firefox/hello.lang:184
 msgid "Update your Firefox to start using Hello"
-msgstr ""
+msgstr "Atjauniniet Firefox, lai izmantotu Hello"
 
 #: firefox/hello.lang:188
 msgid "Start your first conversation today"
-msgstr ""
+msgstr "Sāciet pirmo sarunu jau šodien"
 
 #: firefox/hello.lang:193
 msgid ""
@@ -270,15 +284,15 @@ msgstr ""
 
 #: firefox/hello.lang:250
 msgid "Share your link with a friend"
-msgstr ""
+msgstr "Nosūtiet draugam saiti"
 
 #: firefox/hello.lang:254
 msgid "They don’t even need Firefox to join. They just need to click the link."
-msgstr ""
+msgstr "Viņiem var nebūt Firefox. Viņiem tikai jāatver saite."
 
 #: firefox/hello.lang:258
 msgid "No need to wait around"
-msgstr ""
+msgstr "Nekas nav jāgaida"
 
 #. “Hello” is the product name and should not be localized
 #: firefox/hello.lang:263
@@ -286,49 +300,52 @@ msgid ""
 "Once your friend clicks the link, the Hello icon will change to blue, "
 "letting you know they’re there."
 msgstr ""
+"Kad jūsu draugs uzklikšķinās uz saites, Hello ikona paliks zila, tādējādi "
+"norādot, ka varat sākt sarunu."
 
 #: firefox/hello.lang:267
 msgid "You have a conversation waiting"
-msgstr ""
+msgstr "Saruna gaida jūs"
 
 #. In this case “hello” is just a greeting (think of it as “hi”)
 #: firefox/hello.lang:272
 msgid "Click now to join and say hello."
-msgstr ""
+msgstr "Klikšķiniet, lai pievienotos."
 
 #: firefox/hello.lang:276
 msgid "The easiest way to have a free video conversation with anyone, anywhere"
 msgstr ""
+"Vienkāršākais veids kā bez maksas sarunāties video režīmā ar ikvienu jebkur"
 
 #: firefox/hello.lang:280
 msgid "Start a conversation right from Firefox"
-msgstr ""
+msgstr "Sāciet sarunu pa tiešo no Firefox"
 
 #: firefox/hello.lang:284
 msgid "Invite a friend by sending them a link"
-msgstr ""
+msgstr "Uzaiciniet draugu nosūtot saiti"
 
 #: firefox/hello.lang:288
 msgid "The Hello icon will change to blue once they’ve joined"
-msgstr ""
+msgstr "Hello ikona paliks zila, kad viņi pievienosies"
 
 #. “Hello” is the product name and should not be localized
 #: firefox/hello.lang:293
 msgid "Tell a friend about Hello"
-msgstr ""
+msgstr "Pastāstiet draugam par Hello"
 
 #: firefox/hello.lang:297
 msgid "Need help? Get support here"
-msgstr ""
+msgstr "Vajadzīga palīdzība? Tā ir pieejama šeit"
 
 #. “Hello” is the product name and should not be localized
 #: firefox/hello.lang:302
 msgid "Learn all about Hello"
-msgstr ""
+msgstr "Uzziniet vairāk par Hello"
 
 #: firefox/hello.lang:306
 msgid "The easiest way to connect for free over video"
-msgstr ""
+msgstr "Vienkāršākais veids kā sazināties video režīmā"
 
 #: firefox/hello.lang:310
 msgid ""
