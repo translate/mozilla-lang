@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-10 11:09+0000\n"
-"PO-Revision-Date: 2015-05-04 13:27+0000\n"
+"PO-Revision-Date: 2015-06-10 22:21+0000\n"
 "Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1430746031.000000\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1433974908.000000\n"
 
 #: firefox/sync.lang:8
 msgid "Keep your Firefox in sync"
@@ -101,15 +101,14 @@ msgstr "Cychwyn gyda Sync mewn pedwar cam hawdd:"
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 #: firefox/sync.lang:78
-#, fuzzy
 msgid ""
 "Open the <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
 "href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of Firefox and "
 "select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
-"Agorwch y <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu"
-"\">ddewislen</a> ar frig de Firefox a dewis “<strong>Mewngofnodi i Sync.</"
-"strong>”"
+"Agorwch y <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
+"href=\"%(url)s#w_a-handy-new-menu\">ddewislen</a> ar frig de Firefox a dewis "
+"“<strong>Mewngofnodi i Sync.</strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:83
