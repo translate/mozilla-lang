@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-18 13:09+0000\n"
+"POT-Creation-Date: 2015-07-13 14:26+0000\n"
 "PO-Revision-Date: 2015-04-29 05:29+0000\n"
 "Last-Translator: Francesco Lodolo <francesco.lodolo@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,74 +15,79 @@ msgstr ""
 "X-POOTLE-MTIME: 1430285364.000000\n"
 
 #. Used as page title in HTML meta tag
-#: mozorg/plugincheck.lang:9
+#: mozorg/plugincheck.lang:10
 msgid "Keep your Firefox healthy with a quick checkup"
 msgstr ""
 
 #. Used as page description in HTML meta tag
-#: mozorg/plugincheck.lang:15
+#: mozorg/plugincheck.lang:16
 msgid ""
 "Use Flash? QuickTime? Java? If you use these to make your Firefox experience "
 "more awesome, check your plugins! They may need to be updated."
 msgstr ""
 
 #. Old page <title> tag
-#: mozorg/plugincheck.lang:20
+#: mozorg/plugincheck.lang:21
 msgid "Plugin Check &amp; Updates"
 msgstr "پْلگ اِن چک &amp  ؛ اپڈیٹ "
 
 #. This is a button telling the user to update their plugin
-#: mozorg/plugincheck.lang:25
+#: mozorg/plugincheck.lang:26
 msgid "Update Now"
 msgstr "وْنئ کْریو اپڈیٹ "
 
 #. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
-#: mozorg/plugincheck.lang:30
+#: mozorg/plugincheck.lang:31
 msgid "Research"
 msgstr "تحقیق "
 
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
-#: mozorg/plugincheck.lang:35
+#: mozorg/plugincheck.lang:36
 msgid "current version plugin"
 msgstr "موجود وْرجن پْلگ اِن"
 
 #. This is a button informing the user that their plugin is up to date
-#: mozorg/plugincheck.lang:40
+#: mozorg/plugincheck.lang:41
 msgid "Up to Date"
 msgstr "اپ ٹو ڈیٹ "
 
 #. L10n: This is alt text used on plugin icon images
-#: mozorg/plugincheck.lang:45
+#: mozorg/plugincheck.lang:46
 msgid "Plugin icon"
 msgstr "پْلگ اِن آیکن"
 
 #. This is the string used to indicate that the plugin is unknown
-#: mozorg/plugincheck.lang:50
+#: mozorg/plugincheck.lang:51
 msgid "unknown"
 msgstr "نامعلوم "
 
 #. This is the string used to indicate that the plugin is vulnerable
-#: mozorg/plugincheck.lang:55
+#: mozorg/plugincheck.lang:56
 msgid "vulnerable"
 msgstr "وُلنریبْل "
 
+#. This is the string used to indicate that the plugin is outdated
+#: mozorg/plugincheck.lang:62
+msgid "outdated"
+msgstr ""
+
 #. Main title
-#: mozorg/plugincheck.lang:60
+#: mozorg/plugincheck.lang:67
 msgid "Check Your Plugins"
 msgstr "پنْنئ پْلگ اِن کْریو چک "
 
-#: mozorg/plugincheck.lang:64
+#: mozorg/plugincheck.lang:71
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
 "پنْین پْلگ اِن اپ ٹو ڈیٹ تھاونْہ سْیت  چُھ مدد میلان فایر فوکْس حفاظت سان  تْہ آرام "
 "سان چلاونس۔"
 
-#: mozorg/plugincheck.lang:69
+#: mozorg/plugincheck.lang:76
 msgid "Currently the plugin check service is only available to Firefox users."
 msgstr ""
 
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
-#: mozorg/plugincheck.lang:75
+#: mozorg/plugincheck.lang:82
 msgid ""
 "Plugins don’t always update automatically. Check yours now to stay safe and "
 "browse without interruption!"
@@ -90,15 +95,15 @@ msgstr ""
 "پْلگ اِن چھ نْہ ہمیشہ اپڈیٹ گژھان آٹومیٹیکلی۔ پنْین کْریو وْنئ چک محفوظ روزنْہ باپت "
 "تْہ مُداخلت بغیر براوز کرنْہ باپت!"
 
-#: mozorg/plugincheck.lang:79
+#: mozorg/plugincheck.lang:86
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "باسان چُھ توہیہ چھیو استعمال کران اکھ پرونئ وْرجن فایر فوکسُک۔"
 
-#: mozorg/plugincheck.lang:83
+#: mozorg/plugincheck.lang:90
 msgid "Plugin Status"
 msgstr "پْلگ اِن سیٹیٹس "
 
-#: mozorg/plugincheck.lang:87
+#: mozorg/plugincheck.lang:94
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
@@ -106,79 +111,79 @@ msgstr ""
 "پْلگ اِن چک  <strong>اِنٹرنیٹ ایکْسپلوررس باپت تعاون چُھ محدود</strong>۔ بْیِہ کْریو "
 "استعمال ٹول  &gt ؛ منیج کْریو ایڈ آن"
 
-#: mozorg/plugincheck.lang:91
+#: mozorg/plugincheck.lang:98
 msgid "Step 1: Click Update to update a plugin."
 msgstr "قدم ۱: کْلک کْریو اپڈیٹ اپڈیٹ کرنْہ باپت اکھ پْلگ اِن۔"
 
-#: mozorg/plugincheck.lang:95
+#: mozorg/plugincheck.lang:102
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
 "قدم۲: مُکمل کْریو تمام سُفأرش وألئ اپڈیٹ پنُن براوزر دوبار شروع کرنْہ برونہہ۔"
 
-#: mozorg/plugincheck.lang:99
+#: mozorg/plugincheck.lang:106
 msgid "Potentially vulnerable plugins"
 msgstr "سخت وُلنریبْل پْلگ اِن"
 
-#: mozorg/plugincheck.lang:103
+#: mozorg/plugincheck.lang:110
 msgid "Plugin"
 msgstr "پْلگ اِن "
 
-#: mozorg/plugincheck.lang:107
+#: mozorg/plugincheck.lang:114
 msgid "Status"
 msgstr "سیٹیٹس "
 
-#: mozorg/plugincheck.lang:111
+#: mozorg/plugincheck.lang:118
 msgid "Action"
 msgstr "ایکشن"
 
-#: mozorg/plugincheck.lang:115
+#: mozorg/plugincheck.lang:122
 msgid "Outdated Plugins"
 msgstr "آوٹ ڈیٹْڈ پْلگ اِن"
 
-#: mozorg/plugincheck.lang:119
+#: mozorg/plugincheck.lang:126
 msgid "Unknown Plugins"
 msgstr "نامعلوم پلگ اِن "
 
-#: mozorg/plugincheck.lang:123
+#: mozorg/plugincheck.lang:130
 msgid "These plugins are up to date"
 msgstr "یم پْلگ اِن چھ اپ ٹوڈیٹ "
 
-#: mozorg/plugincheck.lang:127
+#: mozorg/plugincheck.lang:134
 msgid "Back to Top"
 msgstr "ٹاپس کُن واپس "
 
-#: mozorg/plugincheck.lang:131
+#: mozorg/plugincheck.lang:138
 msgid "Frequently Asked Questions"
 msgstr "اکثر پریژھنْہ یِنہ وأل سوال"
 
-#: mozorg/plugincheck.lang:135
+#: mozorg/plugincheck.lang:142
 msgid "What is a plugin?"
 msgstr "اکھ پْلگ اِن کیاہ چُھ؟"
 
-#: mozorg/plugincheck.lang:139
+#: mozorg/plugincheck.lang:146
 msgid "Plugins power videos, animation and games"
 msgstr "پْلگ اِن چھ پاور کران ویڈیو، اینمیشن تْہ گیمْہ"
 
-#: mozorg/plugincheck.lang:143
+#: mozorg/plugincheck.lang:150
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr ""
 "تِم چھ بناونْہ یوان فایر فوکسس نیبر کمپنی یو ذریعہ مثلن ایبوڈ سسٹم تْہ ایپْل"
 
-#: mozorg/plugincheck.lang:147
+#: mozorg/plugincheck.lang:154
 msgid "Plugins don't always update automatically."
 msgstr "پْلگ اِن چھ نْہ ہمیشہ آٹومیٹیکلی اپڈیٹ گژھان۔"
 
-#: mozorg/plugincheck.lang:151
+#: mozorg/plugincheck.lang:158
 msgid "Why should I update my plugins?"
 msgstr "بْہ کیازِ کر پنْنئ پْلگ اِن اپڈیٹ؟"
 
-#: mozorg/plugincheck.lang:155
+#: mozorg/plugincheck.lang:162
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr "پرأنئ پْلگ اِن ہیکن مُداخلت کْرتھ براوزینگ سْیت تْہ کرن تُہند ٹایِم ضایع۔"
 
-#: mozorg/plugincheck.lang:159
+#: mozorg/plugincheck.lang:166
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
@@ -186,7 +191,7 @@ msgstr ""
 "پرأنئ پْلگ اِن چھ <strong> خطرْ بڑھاون تُہنز ریسْک <strong> حملن ہْنز مالوِیر، "
 "وایرس، تْہ باقی حفاظتی خطرو ذریعہ۔"
 
-#: mozorg/plugincheck.lang:163
+#: mozorg/plugincheck.lang:170
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
@@ -195,15 +200,15 @@ msgstr ""
 "چھ <strong>بہتر تْہ محفوظ</strong>توہیہ باپت۔"
 
 #. alt image
-#: mozorg/plugincheck.lang:168
+#: mozorg/plugincheck.lang:175
 msgid "Screenshot of Add-Ons manager"
 msgstr "سکرین شاٹ ایڈ۔آن منیجرُک"
 
-#: mozorg/plugincheck.lang:172
+#: mozorg/plugincheck.lang:179
 msgid "How can Firefox help me?"
 msgstr "فایر فوکْس کِتھ کْنئ کرِ مے مدد؟"
 
-#: mozorg/plugincheck.lang:176
+#: mozorg/plugincheck.lang:183
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
@@ -211,11 +216,11 @@ msgstr ""
 "فیوچرس منز کرِ فایر فوکْس اپڈیٹ پْلگ اِن توہیہ باپت۔ توت تام پزِ توہیہ چک کرُن یہ "
 "پیج پریتھ دوہ تْہ پزن پنْنئ پْلگ اِن اپڈیٹ کرْنئ محفوظ روزنْہ باپت۔"
 
-#: mozorg/plugincheck.lang:180
+#: mozorg/plugincheck.lang:187
 msgid "Which Plugins do I have?"
 msgstr "مْے کْم پْلگ اِن چھ؟"
 
-#: mozorg/plugincheck.lang:184
+#: mozorg/plugincheck.lang:191
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
@@ -223,11 +228,11 @@ msgstr ""
 "اسِہ کْر آٹومیٹیکلی ڈیٹیکٹْہ تُہند پْلگ اِن ہیرِ کْنئ، ویو کرنْہ باپت تُہند انسٹال "
 "کرنْہ آمْت پْلگ اِن فایر فوکسس منز کْریو فالو یم اقدام:"
 
-#: mozorg/plugincheck.lang:188
+#: mozorg/plugincheck.lang:195
 msgid "Want to spread the word?"
 msgstr "توہیہ چھیو یژھان لفظ پھیلاوُن؟"
 
-#: mozorg/plugincheck.lang:192
+#: mozorg/plugincheck.lang:199
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -236,50 +241,50 @@ msgstr ""
 "\"%(url)s\">فایر فوکْس ایفیلییٹ</a> حأصل کرنْہ باپت اکھ پْلگ اِن چک بیج تُہنزِ "
 "سایٹِہ باپت۔ "
 
-#: mozorg/plugincheck.lang:196
+#: mozorg/plugincheck.lang:203
 msgid "How do I disable a plugin?"
 msgstr "بْہ کِتھ کْنئ کرْ ڈیسیبْل اکھ پْلگ اِن؟"
 
-#: mozorg/plugincheck.lang:200
+#: mozorg/plugincheck.lang:207
 msgid "In Firefox:"
 msgstr "فایر فوکسس منز:"
 
-#: mozorg/plugincheck.lang:204
+#: mozorg/plugincheck.lang:211
 msgid "Open the Tools menu."
 msgstr "ٹول مینیو کْریو اوپْن۔"
 
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
-#: mozorg/plugincheck.lang:210
+#: mozorg/plugincheck.lang:217
 msgid "Open the <span class=\"menu\">menu</span>."
 msgstr "اوپْن کْریو <span class=\"menu\">مینیو </span>. "
 
-#: mozorg/plugincheck.lang:214
+#: mozorg/plugincheck.lang:221
 msgid "Choose Add-ons."
 msgstr "ایڈ۔آن ژأریو۔"
 
-#: mozorg/plugincheck.lang:218
+#: mozorg/plugincheck.lang:225
 msgid "Click the plugins tab."
 msgstr "پْلگ اِن ٹیب کْریو کْلک "
 
-#: mozorg/plugincheck.lang:223
+#: mozorg/plugincheck.lang:230
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr ""
 "کْلک کْریو ڈراپ ڈاونس پیٹھ یوس تتھ پْلگ اِنس پتْہ آسِہ یوس توہیہ یژھان چھیو ڈیسیبْل "
 "کرُن۔"
 
-#: mozorg/plugincheck.lang:227
+#: mozorg/plugincheck.lang:234
 msgid "Click on a plugin in the list."
 msgstr "کْلک کْریو أکس پْلگ اِنس پیٹھ لِسٹس منز۔"
 
-#: mozorg/plugincheck.lang:232
+#: mozorg/plugincheck.lang:239
 msgid "Select \"Never Activate\" from the available choices."
 msgstr "ژأریو    \"زانہہ مْہ کْریو ایکٹیویٹ\" دستیاب چویسو پیٹھ۔ "
 
-#: mozorg/plugincheck.lang:236
+#: mozorg/plugincheck.lang:243
 msgid "Click the Disable button."
 msgstr "ڈیسیبْل بوٹنس کْریو کْلک۔"
 
-#: mozorg/plugincheck.lang:240
+#: mozorg/plugincheck.lang:247
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -289,7 +294,7 @@ msgstr ""
 "کْرتھ۔ مثلن، اگر توہیہ فْلیش ڈیسیبْل کْریو، توہیہ ہیکیو نْہ واچ کْرتھ ویڈیو یو "
 "ٹیوبس پیٹھ۔"
 
-#: mozorg/plugincheck.lang:245
+#: mozorg/plugincheck.lang:252
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -299,15 +304,15 @@ msgstr ""
 "کْرتھ۔ مثلن، اگر توہیہ فْلیش ڈیسیبْل کْریو، توہیہ ہیکیو نْہ واچ کْرتھ ویڈیو یو "
 "کینژن سِٹریمینگ ویڈیو ویب سایٹن پیٹھ۔"
 
-#: mozorg/plugincheck.lang:249
+#: mozorg/plugincheck.lang:256
 msgid "Mozilla Support"
 msgstr "موزیلا تعاون"
 
-#: mozorg/plugincheck.lang:253
+#: mozorg/plugincheck.lang:260
 msgid "Have more questions?"
 msgstr "مزید سوال کْریو؟"
 
-#: mozorg/plugincheck.lang:257
+#: mozorg/plugincheck.lang:264
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "مزید مدد باپت کْریو ویزِٹ <a href=\"%(sumo_url)s\">support.mozilla.org</a>! "
