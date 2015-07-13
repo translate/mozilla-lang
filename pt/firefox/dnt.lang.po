@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-06-17 01:42+0000\n"
-"Last-Translator: Gonçalo Matos <goncalo.matos@me.com>\n"
+"PO-Revision-Date: 2015-07-10 03:15+0000\n"
+"Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1434505344.000000\n"
+"X-POOTLE-MTIME: 1436498113.000000\n"
 
 #: firefox/dnt.lang:5
 msgid ""
@@ -29,7 +29,7 @@ msgstr "Perguntas sobre Do Not Track"
 
 #: firefox/dnt.lang:13
 msgid "Your Status:"
-msgstr ""
+msgstr "O seu estado:"
 
 #: firefox/dnt.lang:17
 msgid "Do Not Track is ON"
@@ -49,6 +49,14 @@ msgid ""
 "into the ways your personal information is collected, used, stored and "
 "shared online."
 msgstr ""
+"A Mozilla é uma organização global, sem fins lucrativos, dedicada a melhorar "
+"a Web. Nós damos prioridade aos princípios em vez dos lucros e acreditamos "
+"que a Web é um recurso público partilhado que deve ser cuidado e não uma "
+"comodidade para ser vendida. Não respondemos a ninguém a não ser a si e "
+"acreditamos que é fundamental colocá-lo em controlo da sua experiência "
+"online. Estamos a tentar dar-lhe mais informação e controlo sobre as formas "
+"como a sua informação pessoal é recolhida, utilizada, armazenada e "
+"partilhada online."
 
 #: firefox/dnt.lang:29
 msgid ""
@@ -58,14 +66,19 @@ msgid ""
 "that you want to opt-out of tracking for purposes like behavioral "
 "advertising."
 msgstr ""
+"O Mozilla Firefox fornece uma funcionalidade de não-monitorização que "
+"permite que possa expressar o desejo de não ser monitorizado por sítios web. "
+"Quando esta funcionalidade está ativa, o Firefox irá dar a indicação às "
+"redes de publicidade, outros sítios web e aplicação que não pretende ser "
+"monitorizado para fins tais como a publicidade baseada em comportamentos."
 
 #: firefox/dnt.lang:33
 msgid "Frequently Asked <span>Questions</span>"
-msgstr ""
+msgstr "<span>Perguntas</span> frequentes"
 
 #: firefox/dnt.lang:37
 msgid "What is Do Not Track?"
-msgstr ""
+msgstr "O que é a não-monitorização?"
 
 #: firefox/dnt.lang:41
 msgid ""
@@ -76,10 +89,16 @@ msgid ""
 "this by transmitting a Do Not Track HTTP header every time your data is "
 "requested from the Web."
 msgstr ""
+"A não-monitorização é um passo na direção para o colocar em controle da "
+"forma como a sua informação é recolhida e utilizada online. A não-"
+"monitorização é uma funcionalidade do Firefox que permite dar a indicação a "
+"um sítio web que gostaria de não ser monitorizado por terceiros para fins "
+"tais publicidade comportamental. Isto funciona enviando o cabeçalho HTTP Do "
+"Not Track sempre que os seus dados são solicitados a partir da Web."
 
 #: firefox/dnt.lang:45
 msgid "Is Do Not Track available on Firefox for Android?"
-msgstr ""
+msgstr "A não-monitorização está disponível no Firefox para o Android?"
 
 #: firefox/dnt.lang:49
 msgid ""
@@ -89,10 +108,16 @@ msgid ""
 "Browser Tools. From the Preferences pane, tap on the box next to &quot;Tell "
 "sites not to track me&quot; to turn this option on or off."
 msgstr ""
+"Sim. O Firefox para o Android é o primeiro navegador Web móvel a oferecer a "
+"funcionalidade de não-monitorização e funciona do mesmo modo que a versão "
+"para o computador. Para ativar a não-monitorização no Firefox para Android, "
+"simplesmente deslize para a esquerda e toque nas Ferramentas do navegador. "
+"Do painel de preferências, toque na caixa perto de &quot;Informar sítios "
+"para não me monitorizarem&quot; para ativar ou desativar esta opção."
 
 #: firefox/dnt.lang:53
 msgid "Does Do Not Track block ads?"
-msgstr ""
+msgstr "A não-monitorização bloqueia publicidade?"
 
 #: firefox/dnt.lang:57
 msgid ""
@@ -103,10 +128,19 @@ msgid ""
 "your privacy preferences, you will see more generic ads in place of "
 "behavioral ads."
 msgstr ""
+"Não, continuará a ver publicidade com a não-monitorização ativa. No entanto "
+"a não-monitorização poderá mudar o tipo de publicidade que é apresentada. "
+"Por exemplo, publicidade comportamental é direcionada aos seus interesses "
+"baseada nos sítios web que visita e nos termos de pesquisa que utiliza. Se "
+"solicitou a não-monitorização e os sítios web respeitarem as suas opções de "
+"privacidade, poderá ver publicidades mais genéricas em substituição das "
+"publicidades baseadas em comportamento."
 
 #: firefox/dnt.lang:61
 msgid "How does Do Not Track work with other privacy tools?"
 msgstr ""
+"Como é que a não-monitorização funciona com outras ferramentas de "
+"privacidade?"
 
 #: firefox/dnt.lang:65
 msgid ""
@@ -115,10 +149,15 @@ msgid ""
 "mechanism. There are several other <a href=\"%(url)s\">privacy and security</"
 "a> features within Firefox."
 msgstr ""
+"A não-monitorização é uma das muitas soluções de privacidade. A não-"
+"monitorização não substitui o seu software de anti-vírus, não irá cifrar os "
+"seus dados e não é um mecanismo de segurança. Existem muitas outras "
+"funcionalidades de <a href=\"%(url)s\">privacidade e segurança</a> no "
+"Firefox."
 
 #: firefox/dnt.lang:69
 msgid "Will Do Not Track affect the rest of my Web experience?"
-msgstr ""
+msgstr "A não-monitorização irá afetar o resto da minha experiência Web?"
 
 #: firefox/dnt.lang:73
 msgid ""
@@ -128,10 +167,16 @@ msgid ""
 "weather automatically displayed. Personalization on websites can save you "
 "time and repetitive typing, but it requires data."
 msgstr ""
+"A não-monitorização pode interferir com alguns dos serviços personalizados "
+"que gosta. Por exemplo, um pedido de não-monitorização pode significar que "
+"terá de introduzir o seu código postal sempre que quiser ver um boletim "
+"meteorológico, em vez do mesmo ser automaticamente apresentado. As "
+"personalizações em sítios web podem poupar-lhe tempo e repetição de "
+"informação, mas requerem dados."
 
 #: firefox/dnt.lang:77
 msgid "How do I enable Do Not Track in Firefox?"
-msgstr ""
+msgstr "Como ativo a não-monitorização no Firefox?"
 
 #: firefox/dnt.lang:81
 msgid ""
@@ -139,12 +184,18 @@ msgid ""
 "request on the Privacy pane. <span id=\"%(id)s\">On Windows, go to Tools "
 "&gt; Options&hellip; &gt; Privacy.</span>"
 msgstr ""
+"Esta funcionalidade não está ativa por omissão. Pode encontrar a "
+"funcionalidade de não-monitorização no painel de Privacidade. <span id="
+"\"%(id)s\">No Windows, aceda a Ferramentas &gt; Opções&hellip; &gt; "
+"Privacidade.</span>"
 
 #: firefox/dnt.lang:85
 msgid ""
 "On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to "
 "Edit &gt; Preferences &gt; Privacy."
 msgstr ""
+"No Mac OS X, aceda a Firefox &gt; Preferências… &gt; Privacidade. No Linux, "
+"aceda Editar &gt; Preferências &gt; Privacidade."
 
 #: firefox/dnt.lang:89
 msgid ""
@@ -152,10 +203,14 @@ msgid ""
 "tracked&quot;. For more information, see the help file on <a href=\"%(url)s"
 "\">how to stop websites from tracking you</a>."
 msgstr ""
+"Clique para marcar a caixa perto de &quot;Informar os sítios web que não "
+"pretendo ser monitorizado&quot;. Para mais informação, consulte o ficheiro "
+"de ajuda sobre <a href=\"%(url)s\">como parar os sítios web de o "
+"monitorizarem</a>."
 
 #: firefox/dnt.lang:93
 msgid "Will companies honor my Do Not Track preference?"
-msgstr ""
+msgstr "As empresas irão honrar a minha opção de não-monitorização?"
 
 #: firefox/dnt.lang:97
 msgid ""
@@ -163,6 +218,10 @@ msgid ""
 "changes initially. We are actively working with companies that have started "
 "to implement Do Not Track, with others who have committed to doing so soon."
 msgstr ""
+"As empresas estão a começar a suportar a não-monitorização, mas pode não "
+"notar quaisquer alterações inicialmente. Estamos a trabalhar ativamente com "
+"empresas que começaram a implementar a não-monitorização e com outras que se "
+"comprometeram em fazer o mesmo em breve."
 
 #: firefox/dnt.lang:101
 msgid "Where can I learn more?"
@@ -171,56 +230,76 @@ msgstr "Onde posso saber mais?"
 #: firefox/dnt.lang:105
 msgid "Other interesting work about Do Not Track and online privacy:"
 msgstr ""
+"Outros trabalhos interessantes sobre a não-monitorização e a privacidade "
+"online:"
 
 #: firefox/dnt.lang:109
 msgid ""
 "<a href=\"%s\">Private browsing</a> in Firefox &#8212; limits saving data "
 "about which sites and pages you have visited online"
 msgstr ""
+"<a href=\"%s\">Navegação privada</a> no Firefox &#8212; limita o registo de "
+"dados sobre os sítios e páginas que visitou online"
 
 #: firefox/dnt.lang:113
 msgid ""
 "<a href=\"%(url1)s\">Managing cookies</a> in Firefox &#8212; lets you "
 "control how <a href=\"%(url2)s\">cookies</a> are saved on your computer"
 msgstr ""
+"A <a href=\"%(url1)s\">gestão de cookies</a> no Firefox &#8212; permite-lhe "
+"controlar como as <a href=\"%(url2)s\">cookies</a> são guardadas no seu "
+"computador"
 
 #: firefox/dnt.lang:117
 msgid ""
 "<a href=\"%s\">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from "
 "Mozilla’s Technology and Privacy Officer"
 msgstr ""
+"<a href=\"%s\">blogue da Mozilla de Alex Fowler</a> &#8212; últimas notícias "
+"de tecnologia da Mozilla e escritório de privacidade"
 
 #: firefox/dnt.lang:121
 msgid ""
 "<a href=\"%s\">donottrack.us</a> project &#8212; Stanford researchers "
 "working on the ideas behind Do Not Track"
 msgstr ""
+"Projeto <a href=\"%s\">donottrack.us</a> &#8212; Investigadores de Stanford "
+"a trabalhar em ideias por trás da não-monitorização"
 
 #: firefox/dnt.lang:125
 msgid ""
 "The Tracking Preference Expression (DNT) <a href=\"%s\">W3C Editor’s Draft</"
 "a>"
 msgstr ""
+"<a href=\"%s\">Rascunho do editor W3C</a> da expressão de opção de "
+"monitorização (DNT)"
 
 #: firefox/dnt.lang:129
 msgid "Tracking Compliance and Scope <a href=\"%s\">W3C Editor’s Draft</a>"
 msgstr ""
+"<a href=\"%s\">Rascunho do editor W3C</a> da conformidade e âmbito da "
+"monitorização"
 
 #: firefox/dnt.lang:133
 msgid "The W3C <a href=\"%s\">Tracking Protection Working Group</a>"
 msgstr ""
+"O <a href=\"%s\">grupo de trabalho do W3C de proteção da monitorização</a>"
 
 #: firefox/dnt.lang:137
 msgid ""
 "<a href=\"%s\">Ghostery</a> &#8212; a tool that lets you learn which sites "
 "are tracking you online"
 msgstr ""
+"<a href=\"%s\">Ghostery</a> &#8212; uma ferramenta que permite identificar "
+"quais os sítios que o estão a monitorizar online"
 
 #: firefox/dnt.lang:141
 msgid ""
 "See <a href=\"%s\">where your data goes</a> before you click &#8212; an "
 "image from the Future of Privacy Forum"
 msgstr ""
+"Veja <a href=\"%s\">para onde vão os seus dados</a> antes de clicar &#8212; "
+"uma imagem do Fórum de Privacidade do Futuro"
 
 #: firefox/dnt.lang:145
 msgid ""
@@ -228,6 +307,10 @@ msgid ""
 "IETF</a> &#8212; IETF is a standards body that helps define how the Web "
 "works, regardless of which Internet browser you use"
 msgstr ""
+"A <a href=\"%(url)s\">submissão para o IETF</a> da não-monitorização por "
+"parte da Mozilla e de Stanford &#8212; o IETF é grupo de certificação que "
+"ajuda a definir como a web funcionar, independentemente do navegador de "
+"Internet que utiliza"
 
 #: firefox/dnt.lang:149
 msgid "Enable Do Not Track in Firefox"
@@ -243,7 +326,7 @@ msgstr "Ativar a opção Do Not Track"
 
 #: firefox/dnt.lang:161
 msgid "Click for Instructions"
-msgstr ""
+msgstr "Clique para instruções"
 
 #: firefox/dnt.lang:165
 msgid "Enable Do Not Track in Internet Explorer 9"
@@ -256,3 +339,8 @@ msgid ""
 "<a href=\"%(tpl)s\">Mozilla’s Simple Tracking Protection List</a>. If you "
 "view this page in IE 9, there will be instructions right here."
 msgstr ""
+"Para ativar a não-monitorização no IE 9, precisa de ativar a funcionalidade "
+"de <a href=\"%(url)s\">proteção de monitorização</a> do IE 9. A forma mais "
+"simples de fazer isto é instalando a <a href=\"%(tpl)s\">lista simples de "
+"proteção de monitorização da Mozilla</a>. Se visitar esta página no IE 9, "
+"irão ser apresentadas instruções aqui."
