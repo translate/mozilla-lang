@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-06 12:08+0000\n"
-"PO-Revision-Date: 2015-06-06 12:46+0000\n"
-"Last-Translator: Odin Mojica <odinmojica@mozilla-mexico.org>\n"
+"PO-Revision-Date: 2015-07-12 15:33+0000\n"
+"Last-Translator: Roberto Alvarado <ralv888@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es_MX\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1433594799.000000\n"
+"X-POOTLE-MTIME: 1436715234.000000\n"
 
 #. This is the <title> tag
 #: firefox/desktop/index.lang:9
@@ -43,15 +43,14 @@ msgstr "Comprometido a tí, a tu privacidad y a una red abierta."
 
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
 #: firefox/desktop/index.lang:29
-#, fuzzy
 msgid "Your Firefox is up to date."
-msgstr "¡Bien! Tu Firefox está actualizado."
+msgstr "Tu Firefox está actualizado."
 
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
 #. Active link to https://support.mozilla.org/products/firefox
 #: firefox/desktop/index.lang:36
 msgid "Need help with anything?"
-msgstr ""
+msgstr "¿Necesitas ayuda con algo?"
 
 #: firefox/desktop/index.lang:40
 msgid "Made with a mission to put you first"
@@ -66,13 +65,13 @@ msgstr ""
 "privada."
 
 #: firefox/desktop/index.lang:48
-#, fuzzy
 msgid ""
 "That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
 "\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
 msgstr ""
-"Por eso nos enorgullece que nos hayan votado como la <a href=\"%(url1)s"
-"\">compañía de Internet más confiable para la privacidad.</a>"
+"Por eso nos enorgullece que nos hayan votado como la <a href=\"%(url1)s\" "
+"data-interaction=\"outbound link\">compañía de Internet más confiable para "
+"la privacidad</a> "
 
 #: firefox/desktop/index.lang:52
 msgid "Find out what makes Firefox the most trusted browser on the Web"
@@ -123,6 +122,8 @@ msgid ""
 "* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
 "Hardware Web Browser Grand Prix XVI</a> results."
 msgstr ""
+"* Basado en <a data-interaction=\"outbound link\" href=\"%(url1)s\">los "
+"resultados del navegador Grand Prix XVI</a> del hardware de Tom."
 
 #: firefox/desktop/index.lang:88
 msgid "Save time and do just about anything quicker than before."
