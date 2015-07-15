@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-07-10 19:44+0000\n"
-"Last-Translator: ravi kumbhkar <ravi.103151@gmail.com>\n"
+"PO-Revision-Date: 2015-07-14 13:25+0000\n"
+"Last-Translator: umesh agarwal <umesh.agarwal1@gmail.com>\n"
 "Language-Team: none\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1436557473.000000\n"
+"X-POOTLE-MTIME: 1436880323.000000\n"
 
 #: firefox/dnt.lang:5
 msgid ""
@@ -36,7 +36,7 @@ msgstr "ट्रैक न करें चालू है"
 
 #: firefox/dnt.lang:21
 msgid "Do Not Track is OFF"
-msgstr "नज़र ना रखें बंद हैं"
+msgstr "ट्रैक न करें बन्द है"
 
 #: firefox/dnt.lang:25
 msgid ""
@@ -145,7 +145,7 @@ msgstr ""
 
 #: firefox/dnt.lang:77
 msgid "How do I enable Do Not Track in Firefox?"
-msgstr "हम फ़ायरफ़ॉक्स में डू नॉट ट्रैक कैसे सक्रिय करें?"
+msgstr "मैं फ़ायरफ़ॉक्स में ट्रैक न करें कैसे सक्रिय कर सकता हूँ?"
 
 #: firefox/dnt.lang:81
 msgid ""
@@ -153,12 +153,17 @@ msgid ""
 "request on the Privacy pane. <span id=\"%(id)s\">On Windows, go to Tools "
 "&gt; Options&hellip; &gt; Privacy.</span>"
 msgstr ""
+"यह विशेषता डिफ़ॉल्ट से सक्रिय नहीं है. आप ढूंढ सकते हैं ट्रैक न करें अनुरोध गोपनीयता धज्जी पर. "
+"<span id=\"%(id)s\">विंडोज पर, जाएं उपकरण &gt; विकल्प&hellip; &gt; गोपनीयता.</"
+"span>"
 
 #: firefox/dnt.lang:85
 msgid ""
 "On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to "
 "Edit &gt; Preferences &gt; Privacy."
 msgstr ""
+"मैक ओएस X पर, जाएं फ़ायरफ़ॉक्स &gt; प्राथमिकताएं… &gt; गोपनीयता. लिनक्स पर, जाएं "
+"संपादन में &gt; प्राथमिकताएं &gt; गोपनीयता."
 
 #: firefox/dnt.lang:89
 msgid ""
@@ -169,7 +174,7 @@ msgstr ""
 
 #: firefox/dnt.lang:93
 msgid "Will companies honor my Do Not Track preference?"
-msgstr ""
+msgstr "क्या संगठन मेरे ट्रैक न करने की प्राथमिकता का सम्मान करेंगे?"
 
 #: firefox/dnt.lang:97
 msgid ""
@@ -184,57 +189,70 @@ msgstr "मैं और अधिक कहाँ जान सकता हु
 
 #: firefox/dnt.lang:105
 msgid "Other interesting work about Do Not Track and online privacy:"
-msgstr ""
+msgstr "ट्रैक न करें एवं ऑनलाइन गोपनीयता के विषय में अन्य दिलचस्प काम:"
 
 #: firefox/dnt.lang:109
 msgid ""
 "<a href=\"%s\">Private browsing</a> in Firefox &#8212; limits saving data "
 "about which sites and pages you have visited online"
 msgstr ""
+"<a href=\"%s\">निजी ब्राउज़िंग</a> फ़ायरफ़ॉक्स में &#8212; आपके द्वारा ऑनलाइन देखी गयी "
+"साइट्स एवं पृष्ठों के डेटा संग्रहण पर पाबंदी लगाता है"
 
 #: firefox/dnt.lang:113
 msgid ""
 "<a href=\"%(url1)s\">Managing cookies</a> in Firefox &#8212; lets you "
 "control how <a href=\"%(url2)s\">cookies</a> are saved on your computer"
 msgstr ""
+"<a href=\"%(url1)s\">कुकीज़ प्रबंधन</a> फ़ायरफ़ॉक्स में &#8212; आपको नियंत्रण करने देता है "
+"की कैसे <a href=\"%(url2)s\">कुकीज़</a> आपके कंप्यूटर पर संग्रहित हैं"
 
 #: firefox/dnt.lang:117
 msgid ""
 "<a href=\"%s\">Alex Fowler’s Mozilla Blog</a> &#8212; latest news from "
 "Mozilla’s Technology and Privacy Officer"
 msgstr ""
+"<a href=\"%s\">ऐलेक्स फाउलर का मोज़िला ब्लॉग</a> &#8212; मोज़िला के प्रौद्योगिकी एवं "
+"गोपनीयता अफसर द्वारा नवीनतम समाचार"
 
 #: firefox/dnt.lang:121
 msgid ""
 "<a href=\"%s\">donottrack.us</a> project &#8212; Stanford researchers "
 "working on the ideas behind Do Not Track"
 msgstr ""
+"<a href=\"%s\">donottrack.us</a> परियोजना &#8212; स्टैनफोर्ड के शोधकर्त्ता ट्रैक न "
+"करें के पीछे सुझावों पर काम कर रहे हैं"
 
 #: firefox/dnt.lang:125
 msgid ""
 "The Tracking Preference Expression (DNT) <a href=\"%s\">W3C Editor’s Draft</"
 "a>"
 msgstr ""
+"ट्रैकिंग अधिमान व्यक्तीकरण (डीएनटी) <a href=\"%s\">डब्ल्यु3सी संपादक का मसौदा</a>"
 
 #: firefox/dnt.lang:129
 msgid "Tracking Compliance and Scope <a href=\"%s\">W3C Editor’s Draft</a>"
-msgstr ""
+msgstr "ट्रैकिंग सम्मति एवं स्कोप <a href=\"%s\">डब्ल्यु3सी संपादक का मसौदा</a>"
 
 #: firefox/dnt.lang:133
 msgid "The W3C <a href=\"%s\">Tracking Protection Working Group</a>"
-msgstr ""
+msgstr "डब्ल्यू3सी <a href=\"%s\">ट्रैकिंग सुरक्षा कार्य दल</a>"
 
 #: firefox/dnt.lang:137
 msgid ""
 "<a href=\"%s\">Ghostery</a> &#8212; a tool that lets you learn which sites "
 "are tracking you online"
 msgstr ""
+"<a href=\"%s\">घोस्टरी</a> &#8212; एक उपकरण जो की आपको सीखने देता है की आपको "
+"कौनसी साइट्स ऑनलाइन ट्रैक कर रही हैं"
 
 #: firefox/dnt.lang:141
 msgid ""
 "See <a href=\"%s\">where your data goes</a> before you click &#8212; an "
 "image from the Future of Privacy Forum"
 msgstr ""
+"देखें <a href=\"%s\">आपका डेटा कहाँ जाता है</a> इससे पूर्व की आप क्लिक करें &#8212; एक "
+"चित्र गोपनीयता फोरम के भविष्य की तरफ से"
 
 #: firefox/dnt.lang:145
 msgid ""
@@ -242,6 +260,9 @@ msgid ""
 "IETF</a> &#8212; IETF is a standards body that helps define how the Web "
 "works, regardless of which Internet browser you use"
 msgstr ""
+"मोज़िला एवं स्टैंडफोर्ड की ट्रैक न करें <a href=\"%(url)s\">आईईटीएफ़ को जमा किया</a> "
+"&#8212; आईईटीएफ़ एक मापदंडों की संस्था है जो की वेब के काम करने के तरीके की परिभाषा "
+"करती है, आप कौनसा इंटरनेट ब्राउज़र उपयोग करते हैं इसका ध्यान दिए बिना"
 
 #: firefox/dnt.lang:149
 msgid "Enable Do Not Track in Firefox"
@@ -261,7 +282,7 @@ msgstr "निर्देश के लिए क्लिक करें"
 
 #: firefox/dnt.lang:165
 msgid "Enable Do Not Track in Internet Explorer 9"
-msgstr ""
+msgstr "इंटरनेट एक्स्प्लोरर 9 में ट्रैक न करें सक्रिय करें"
 
 #: firefox/dnt.lang:169
 msgid ""
@@ -270,3 +291,7 @@ msgid ""
 "<a href=\"%(tpl)s\">Mozilla’s Simple Tracking Protection List</a>. If you "
 "view this page in IE 9, there will be instructions right here."
 msgstr ""
+"आईई 9 में ट्रैक न करें सक्रिय करने के लिए, आपको सक्रिय करना होगा आईई 9 का <a href="
+"\"%(url)s\">ट्रैकिंग सुरक्षा</a> विशेषता. वह करने का सबसे सरल तरीका है संस्थापित करना "
+"<a href=\"%(tpl)s\">मोज़िला की सरल ट्रैकिंग सुरक्षा सूची</a>. यदि आप इस पेज को देखें "
+"आईई 9 में, तो निर्देश होंगे ठीक यहाँ."
