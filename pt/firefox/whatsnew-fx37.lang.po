@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-16 17:08+0000\n"
-"PO-Revision-Date: 2015-07-11 02:57+0000\n"
+"PO-Revision-Date: 2015-07-17 23:19+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1436583441.000000\n"
+"X-POOTLE-MTIME: 1437175176.000000\n"
 
 #. This string is used in the <title> tag
 #: firefox/whatsnew-fx37.lang:5
@@ -35,17 +35,16 @@ msgid "The intended recipient of the email must have consented."
 msgstr "O destinatário pretendido do e-mail deve ter dado o consentimento."
 
 #: firefox/whatsnew-fx37.lang:17
-#, fuzzy
 msgid "Send Firefox to your Android phone or tablet"
-msgstr "Adicionar o Firefox ao seu smartphone ou tablet"
+msgstr "Enviar o Firefox para o seu telemóvel ou tablet Android"
 
 #: firefox/whatsnew-fx37.lang:21
 msgid "Your link has been sent!"
-msgstr ""
+msgstr "A sua ligação foi enviada!"
 
 #: firefox/whatsnew-fx37.lang:25
 msgid "Send by text message"
-msgstr ""
+msgstr "Enviar por mensagem de texto"
 
 #: firefox/whatsnew-fx37.lang:29
 msgid "Your Firefox is up to date."
@@ -56,9 +55,8 @@ msgid "Send"
 msgstr "Enviar"
 
 #: firefox/whatsnew-fx37.lang:37
-#, fuzzy
 msgid "Send Firefox to your Android phone"
-msgstr "Adicionar o Firefox ao seu smartphone ou tablet"
+msgstr "Enviar o Firefox para o seu telemóvel Android "
 
 #: firefox/whatsnew-fx37.lang:41
 msgid "Enter your 10-digit phone number"
@@ -66,7 +64,7 @@ msgstr "Introduza o seu número de telefone com 10 dígitos"
 
 #: firefox/whatsnew-fx37.lang:45
 msgid "Also available from <a href=\"%(url)s\">Google Play</a>."
-msgstr ""
+msgstr "Também disponível no <a href=\"%(url)s\">Google Play</a>."
 
 #: firefox/whatsnew-fx37.lang:49
 msgid "Send by email"
@@ -77,6 +75,8 @@ msgid ""
 "SMS & data rates may apply. The intended recipient of the SMS must have "
 "consented."
 msgstr ""
+"Podem ser aplicados custos de SMS e de dados. O destinatário da SMS deve ter "
+"dado consentimento."
 
 #. Thank you message after sending the SMS/email
 #: firefox/whatsnew-fx37.lang:58
@@ -86,11 +86,11 @@ msgstr "Enviar para outro dispositivo"
 #. Thank you message after sending the SMS/email
 #: firefox/whatsnew-fx37.lang:63
 msgid "Check your device to start downloading."
-msgstr ""
+msgstr "Veja o seu dispositivo para começar a descarregar."
 
 #: firefox/whatsnew-fx37.lang:67
 msgid "SMS service available in the U.S. only."
-msgstr ""
+msgstr "Serviço de SMS disponível apenas nos Estados Unidos."
 
 #. Error message if we enter a bad telephone number
 #: firefox/whatsnew-fx37.lang:72
@@ -98,6 +98,9 @@ msgid ""
 "Sorry. This number isn't valid. Please enter a U.S. phone number or <a href="
 "\"%s\">download directly from Google Play.</a>"
 msgstr ""
+"Lamentamos. Este número não é válido. Por favor introduza um número de "
+"telefone dos Estados Unidos ou <a href=\"%s\">descarregue diretamente do "
+"Google Play</a>."
 
 #. Error message if the SMS/Email can't be sent
 #: firefox/whatsnew-fx37.lang:77
