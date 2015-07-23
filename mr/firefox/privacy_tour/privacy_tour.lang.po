@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1437420759.000000\n"
 
 #. This is the title for a door-hanger menu that shows in the browser chrome
@@ -38,7 +38,7 @@ msgstr "आता नाही"
 #. This is the label for a button that opens the tour modal dialog
 #: firefox/privacy_tour/privacy_tour.lang:24
 msgid "Open tour"
-msgstr ""
+msgstr "खुली सैर"
 
 #. This is the label for a button that closes the tour modal dialog
 #: firefox/privacy_tour/privacy_tour.lang:29
@@ -96,7 +96,7 @@ msgstr ""
 
 #: firefox/privacy_tour/privacy_tour.lang:81
 msgid "Start browsing"
-msgstr ""
+msgstr "ब्राउजिंग सुरु करा"
 
 #: firefox/privacy_tour/privacy_tour.lang:85
 msgid "Previous"
@@ -113,8 +113,9 @@ msgstr "बंद करा"
 #. STEP 1 of the tour (Forget button)
 #. %s is a searchplugin name
 #: firefox/privacy_tour/privacy_tour.lang:99
+#, fuzzy
 msgid "<span>Next:</span> %s"
-msgstr ""
+msgstr "<span>पुढचे:</span> अॅड-आॅन्स"
 
 #. <br> tag below used for formatting only.
 #. Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
