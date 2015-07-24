@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-13 15:41+0000\n"
-"PO-Revision-Date: 2015-07-13 16:56+0000\n"
+"PO-Revision-Date: 2015-07-24 02:29+0000\n"
 "Last-Translator: Bjørn I. Svindseth <bjorn.svindseth@online.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1436806571.000000\n"
+"X-POOTLE-MTIME: 1437704941.000000\n"
 
 #. Used as page title in HTML meta tag
 #: mozorg/plugincheck.lang:10
@@ -34,7 +34,7 @@ msgstr ""
 #. This is a button telling the user to update their plugin
 #: mozorg/plugincheck.lang:26
 msgid "Update Now"
-msgstr ""
+msgstr "Oppdater no"
 
 #. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 #: mozorg/plugincheck.lang:31
@@ -49,7 +49,7 @@ msgstr ""
 #. This is a button informing the user that their plugin is up to date
 #: mozorg/plugincheck.lang:41
 msgid "Up to Date"
-msgstr ""
+msgstr "Oppdatert"
 
 #. L10n: This is alt text used on plugin icon images
 #: mozorg/plugincheck.lang:46
@@ -59,22 +59,22 @@ msgstr ""
 #. This is the string used to indicate that the plugin is unknown
 #: mozorg/plugincheck.lang:51
 msgid "unknown"
-msgstr ""
+msgstr "ukjend"
 
 #. This is the string used to indicate that the plugin is vulnerable
 #: mozorg/plugincheck.lang:56
 msgid "vulnerable"
-msgstr ""
+msgstr "sårbar"
 
 #. This is the string used to indicate that the plugin is outdated
 #: mozorg/plugincheck.lang:62
 msgid "outdated"
-msgstr ""
+msgstr "utdatert"
 
 #. Main title
 #: mozorg/plugincheck.lang:67
 msgid "Check Your Plugins"
-msgstr ""
+msgstr "Kontroller programtillegga dine"
 
 #: mozorg/plugincheck.lang:71
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
@@ -97,7 +97,7 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:90
 msgid "Plugin Status"
-msgstr ""
+msgstr "Programtilleg-status"
 
 #: mozorg/plugincheck.lang:94
 msgid ""
@@ -120,27 +120,27 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:110
 msgid "Plugin"
-msgstr ""
+msgstr "Programtillegg"
 
 #: mozorg/plugincheck.lang:114
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: mozorg/plugincheck.lang:118
 msgid "Action"
-msgstr ""
+msgstr "Handling"
 
 #: mozorg/plugincheck.lang:122
 msgid "Outdated Plugins"
-msgstr ""
+msgstr "Utdaterte programtillegg"
 
 #: mozorg/plugincheck.lang:126
 msgid "Unknown Plugins"
-msgstr ""
+msgstr "Ukjende programtillegg"
 
 #: mozorg/plugincheck.lang:130
 msgid "These plugins are up to date"
-msgstr ""
+msgstr "Desse programtillegga er oppdaterte"
 
 #: mozorg/plugincheck.lang:134
 msgid "Back to Top"
@@ -153,7 +153,7 @@ msgstr "Ofte stilte spørsmål"
 
 #: mozorg/plugincheck.lang:142
 msgid "What is a plugin?"
-msgstr ""
+msgstr "Kva er eit programtillegg?"
 
 #: mozorg/plugincheck.lang:146
 msgid "Plugins power videos, animation and games"
@@ -195,7 +195,7 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:179
 msgid "How can Firefox help me?"
-msgstr ""
+msgstr "Korleis kan Firefox hjelpa meg?"
 
 #: mozorg/plugincheck.lang:183
 msgid ""
@@ -225,15 +225,15 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:203
 msgid "How do I disable a plugin?"
-msgstr ""
+msgstr "Korleis slå av eit programtillegg?"
 
 #: mozorg/plugincheck.lang:207
 msgid "In Firefox:"
-msgstr ""
+msgstr "I Firefox:"
 
 #: mozorg/plugincheck.lang:211
 msgid "Open the Tools menu."
-msgstr ""
+msgstr "Opna verktøymenyen."
 
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:217
@@ -242,7 +242,7 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:221
 msgid "Choose Add-ons."
-msgstr ""
+msgstr "Vel utvidingar."
 
 #: mozorg/plugincheck.lang:225
 msgid "Click the plugins tab."
@@ -280,12 +280,13 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:256
 msgid "Mozilla Support"
-msgstr ""
+msgstr "Mozilla brukarstøtte"
 
 #: mozorg/plugincheck.lang:260
 msgid "Have more questions?"
-msgstr ""
+msgstr "Har du eit spørsmål?"
 
 #: mozorg/plugincheck.lang:264
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
+"Gå til <a href=\"%(sumo_url)s\">support.mozilla.org</a> for meir hjelp!"
