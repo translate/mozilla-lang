@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-07-25 23:31+0000\n"
+"PO-Revision-Date: 2015-08-02 04:30+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1437867075.000000\n"
+"X-POOTLE-MTIME: 1438489849.000000\n"
 
 #. Used for HTML title attribute
 #: mozorg/contribute.lang:9
@@ -391,7 +391,7 @@ msgstr ""
 #. For reference see http://hivelearningnetworks.org
 #: mozorg/contribute.lang:266
 msgid "Hive Networks"
-msgstr ""
+msgstr "Colmeia de redes"
 
 #. For reference see http://hivelearningnetworks.org
 #: mozorg/contribute.lang:272
@@ -402,6 +402,11 @@ msgid ""
 "\"%(hivenetworks)s\">Learn more</a> about how to start a Hive in your "
 "community."
 msgstr ""
+"As <a href=\"%(hivenetworks)s\">Colmeias de redes de aprendizagem</a> são "
+"uma constelação em crescimento de comunidades à volta do globo que promovem "
+"competências digitais e literacia web através da aprendizagem em rede. <a "
+"href=\"%(hivenetworks)s\">Saber mais</a> sobre como começar uma Colmeia na "
+"sua comunidade."
 
 #. Old string, will be removed when all locales have the new text
 #: mozorg/contribute.lang:277
@@ -411,42 +416,46 @@ msgid ""
 "all about</a> or get started teaching others by <a href=\"%(webmaker)s"
 "\">setting up an event in your community today</a>."
 msgstr ""
+"Ajude a construir uma geração de webmakers ensinando a outros como a web "
+"funciona. <a href=\"%(moz_webmaker)s \">Explore os objetivos do projeto "
+"Mozilla Webmaker</a> ou comece a ensinar outros <a href=\"%(webmaker)s"
+"\">criando um evento hoje para a sua comunidade</a>."
 
 #: mozorg/contribute.lang:281
 msgid "map"
-msgstr ""
+msgstr "mapa"
 
 #: mozorg/contribute.lang:285
 msgid "Find Mozillians near you"
-msgstr ""
+msgstr "Encontre Mozillians perto de si"
 
 #: mozorg/contribute.lang:289
 msgid "US and Canada"
-msgstr ""
+msgstr "EUA e Canadá"
 
 #: mozorg/contribute.lang:293
 msgid "Europe"
-msgstr ""
+msgstr "Europa"
 
 #: mozorg/contribute.lang:297
 msgid "Latin America"
-msgstr ""
+msgstr "América latina"
 
 #: mozorg/contribute.lang:301
 msgid "Africa and the Middle East"
-msgstr ""
+msgstr "África e Médio Oriente"
 
 #: mozorg/contribute.lang:305
 msgid "Asia and the South Pacific"
-msgstr ""
+msgstr "Ásia e o Pacífico Sul"
 
 #: mozorg/contribute.lang:309
 msgid "Antarctica"
-msgstr ""
+msgstr "Antártica"
 
 #: mozorg/contribute.lang:313
 msgid "Sort By:"
-msgstr ""
+msgstr "Ordenar por:"
 
 #: mozorg/contribute.lang:317
 msgid "Interest"
@@ -454,12 +463,11 @@ msgstr "Interesse"
 
 #: mozorg/contribute.lang:321
 msgid "Location"
-msgstr ""
+msgstr "Localização"
 
 #: mozorg/contribute.lang:325
-#, fuzzy
 msgid "Newsletter"
-msgstr "Newsletters"
+msgstr "Newsletter"
 
 #: mozorg/contribute.lang:329
 msgid ""
@@ -467,10 +475,13 @@ msgid ""
 "Mozilla projects? Our support process relies on enthusiastic contributors "
 "like you."
 msgstr ""
+"Interessando em ajudar os outros a obter máximo da utilização do Firefox e "
+"outros produtos da Mozilla? O nosso processo de apoio baseia-se em "
+"colaboradores entusiastas como você."
 
 #: mozorg/contribute.lang:333
 msgid "Thank you!"
-msgstr ""
+msgstr "Obrigado!"
 
 #: mozorg/contribute.lang:337
 msgid ""
@@ -479,6 +490,11 @@ msgid ""
 "disabilities</a> and help <a href=\"%(access_wiki)s\">make web content "
 "available to non visual agents</a> such as screen readers."
 msgstr ""
+"Acessibilidade é sobre fazer as coisas funcionar para todos. Ajude a <a href="
+"\"%(access_url)s\">criar ferramentas e recursos para utilizadores finais do "
+"Firefox com deficiência</a> e ajude a <a href=\"%(access_wiki)s\">tornar o "
+"conteúdo web disponível para agentes não visuais</a> como os leitores de "
+"ecrã."
 
 #: mozorg/contribute.lang:341
 msgid ""
