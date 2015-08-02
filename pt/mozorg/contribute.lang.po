@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-08-02 04:30+0000\n"
+"PO-Revision-Date: 2015-08-02 15:01+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1438489849.000000\n"
+"X-POOTLE-MTIME: 1438527685.000000\n"
 
 #. Used for HTML title attribute
 #: mozorg/contribute.lang:9
@@ -504,10 +504,15 @@ msgid ""
 "\"%(test_pilot)s\">analyze Test Pilot data</a>&mdash;we’d love to have you "
 "join us!"
 msgstr ""
+"Faça parte da equipa de investigação&mdash;quer queira <a href="
+"\"%(survey_url)s\">participar no próximo estudo</a>, <a href=\"%(test_email)s"
+"\">conduzir testes e usabilidade</a> de forma autónoma ou <a href="
+"\"%(test_pilot)s\">analizar os dados do Test Pilot</a>&mdash;adoraríamos que "
+"se juntasse a nós!"
 
 #: mozorg/contribute.lang:345
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: mozorg/contribute.lang:349
 msgid "Firefox Affiliates"
@@ -515,11 +520,11 @@ msgstr "Afiliados do Firefox"
 
 #: mozorg/contribute.lang:353
 msgid "Developer Documentation"
-msgstr ""
+msgstr "Documentação para programadores"
 
 #: mozorg/contribute.lang:357
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: mozorg/contribute.lang:361
 msgid "Thank you for signing up!"
@@ -530,9 +535,8 @@ msgid "Menu"
 msgstr "Menu"
 
 #: mozorg/contribute.lang:368
-#, fuzzy
 msgid "Twitter"
-msgstr "Twitter:"
+msgstr "Twitter"
 
 #: mozorg/contribute.lang:372
 msgid ""
@@ -551,6 +555,12 @@ msgid ""
 "\"%(qa_web_url)s\">test Mozilla web sites</a> or learn more about <a href="
 "\"%(qa_url)s\">other testing opportunities</a>."
 msgstr ""
+"Testes de garantia de qualidade é uma das formas mais fáceis de começar na "
+"Mozilla e uma excelente forma de se familiarizar com o nosso código e "
+"ferramentas. Ajude-nos a <a href=\"%(qa_bugs_url)s\">encontrar bugs</a> no "
+"Firefox, a <a href=\"%(qa_web_url)s\">testar sítios web da Mozilla</a> ou "
+"aprender mais sobre <a href=\"%(qa_url)s\">outras oportunidades de testes</"
+"a>."
 
 #. Old string, will be removed when all locales have the new text
 #: mozorg/contribute.lang:382
@@ -560,3 +570,8 @@ msgid ""
 "\"%(addons_url)s\">build an add-on</a>. For experienced developers, find out "
 "how to <a href=\"%(addons_wiki)s\">become an AMO editor</a>."
 msgstr ""
+"Os produtos da Mozilla têm um poderoso sistema de extensões que permite "
+"fazer pequenas melhorias ou grandes adições. Saiba mais sobre <a href="
+"\"%(addons_url)s\">como construir um extra</a>. Para programadores "
+"experientes, saiba mais sobre como <a href=\"%(addons_wiki)s\">se tornar um "
+"editor do AMO</a>."
