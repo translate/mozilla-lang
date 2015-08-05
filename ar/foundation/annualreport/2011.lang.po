@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-03 19:06+0000\n"
-"PO-Revision-Date: 2015-08-02 21:14+0000\n"
-"Last-Translator: Areej Amer <areej.amer1@gmail.com>\n"
+"PO-Revision-Date: 2015-08-05 07:00+0000\n"
+"Last-Translator: Abdelrahman  Manna <abood.fcb@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n>=3 && "
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1438550040.000000\n"
+"X-POOTLE-MTIME: 1438758058.000000\n"
 
 #. State of Mozilla 2011 annual report, main page
 #. test server: https://www-dev.allizom.org/foundation/annualreport/2011/
@@ -146,7 +146,6 @@ msgstr ""
 "أجهزة الجوّال لها كامل الحرية و غير مقيّدة وفضاء مفتوح للفرص المتجددة"
 
 #: foundation/annualreport/2011.lang:66
-#, fuzzy
 msgid ""
 "Just like we did on the desktop, Mozilla is setting out to ensure that the "
 "mobile Web is full of freedom, choice and opportunity and that it has the "
@@ -154,11 +153,10 @@ msgid ""
 "\" rel=\"external\">Firefox OS</a>, we can break open the world of native "
 "operating systems and closed platforms once again."
 msgstr ""
-"تماما كما فعلنا على الأجهزة الحاسوبية, 'موزيلا' تسعى جاهدة لضمان أن الوب   "
-"على  أجهزة الجوّال لها كامل الحرية و غير مقيّدة وفضاء مفتوح للفرص المتجددة "
-"ويتيح لجميع المستخدمين خلق كل ما يريدون. مع <a   href=\"%(fxos_url)s"
-"\">Firefox OS</a> نستطيع مجددا كسر حاجر أنظمة  التشغيل والمنصات المغلقة "
-"والمحدودة"
+"تماما كما فعلنا على الأجهزة الحاسوبية, موزيلا تسعى جاهدة لضمان أن الويب على "
+"أجهزة الجوّال لها كامل الحرية و غير مقيّدة وفضاء مفتوح للفرص المتجددة ويتيح "
+"لجميع المستخدمين خلق كل ما يريدون. مع <a   href=\"%(fxos_url)s\">Firefox OS</"
+"a> نستطيع مجددا كسر حاجر أنظمة  التشغيل والمنصات المغلقة والمحدودة"
 
 #: foundation/annualreport/2011.lang:70
 #, fuzzy
@@ -205,7 +203,6 @@ msgid "Safe."
 msgstr "آمن"
 
 #: foundation/annualreport/2011.lang:91
-#, fuzzy
 msgid ""
 "In June 2012 we released an update to <a href=\"%(mobile_url)s\" rel="
 "\"external\">Firefox for Android</a> that we believe is the best browser for "
@@ -219,7 +216,18 @@ msgid ""
 "Do Not Track. Firefox for Android is a critical part of supporting the open "
 "Web. This is a great start, but it is only a start. We want these "
 "opportunities to exist at all layers of our Web experience."
-msgstr ";Firefox for Windows, Mac and Linux"
+msgstr ""
+"في شهر حزيران 2012 قمنا بإطلاق تحديث ل<a href=\"%(mobile_url)s\" rel="
+"\"external\">فيرفكس للأندرويد</a> الذي نثق بأنه أفضل متصفح موجود للأندرويد. "
+"نحن قمنا بإعادة بنائه بالكامل وإعادة تصميم المنتج في واجهة المستخدم الأصلي، "
+"مما أدى إلى ترقية سرعة وديناميكية التصفح المحمول الذي هو أسرع بكثير من متصفح "
+"الأندرويد. وهذا ما جعل فيرفوكس أسرع بكثير على الأندرويد وإيصاله تجربة تصفح "
+"أفضل بكثير للمستخدمين من تلك التي قام بتوفيرها متصفح الجهاز. وقمنا أيضا "
+"بإضافة \"لا تتبع\" لفيرفوكس للأندرويد للسماح للمستخدمين بالتعبير عن نيتهم "
+"للخصوصية، حتى على الهاتف المحمول وهو أول متصفح هاتف نقال يقدم \"لا تتبع\". "
+"فيرفوكس للأندرويد هو جزء هام من دعم الشبكة المفتوحة. وهو بداية رائعة، ولكنها "
+"ليست سوى البداية. نحن نريد لهذه الفرص أن تتواجد في جميع طبقات الخبرة على "
+"شبكة الانترنت."
 
 #: foundation/annualreport/2011.lang:95
 msgid "Firefox for Windows, Mac and Linux"
@@ -235,7 +243,6 @@ msgstr ""
 "ولمسها والشعور بها."
 
 #: foundation/annualreport/2011.lang:103
-#, fuzzy
 msgid ""
 "Firefox will always be the part of the Mozilla mission that people can see, "
 "feel and touch. We are excited by the progress and innovation we have seen "
@@ -247,8 +254,15 @@ msgid ""
 "\"%(console_url)s\" rel=\"external\">Web Console</a> and <a href="
 "\"%(tilt_url)s\" rel=\"external\">“Tilt” the 3D Page Inspector</a>."
 msgstr ""
-"سيكون فَيَرفُكس دائما جزءا من مهمة موزيلا التي يستطيع جميع الناس مشاهدتها "
-"ولمسها والشعور بها."
+"سيكون فيرفكس دائماً جزءاً من مهمة موزيلا التي يستطيع جميع الناس مشاهدتها "
+"ولمسها والشعور بها. نحن مسرورون من التقدم والابتكار شهده إصدار أجهزة سطح "
+"المكتب من فيرفوكس خلال العام الماضي. العديد من التحسينات في الأداء والأمان, "
+"وتحسينات الذاكرة التي جعلت منه أفضل فيرفوكس حتى الآن. نحن فخورون بالعمل الذي "
+"نقوم به لجعل التطوير على فيرفوكس أسهل عن طريق إضافة أدوات مثيرة للمطورين, "
+"مثل <a href=\"%(cmdline_url)s\" rel=\"external\">سطر الأوامر للمطور<a href="
+"\"%(console_url)s\" rel=\"external\"></a>وحدة التحكم على شبكة الإنترنت</"
+"a>و<a href=\"%(tilt_url)s\" rel=\"external\">\"\"Tilt\"صفحة المفتش ثلاثية "
+"الأبعاد</a>"
 
 #: foundation/annualreport/2011.lang:107
 #, fuzzy
@@ -277,20 +291,18 @@ msgstr ""
 "السِّر الفريد لتقنيات الوب هو ان أي شخص يستطيع ان يستخدمها للبناء والتطوير"
 
 #: foundation/annualreport/2011.lang:119
-#, fuzzy
 msgid ""
 "The unique power of the Web means that anyone can make and build with it. "
 "Our new educational offering, <a href=\"%(webmaker_url)s\" rel=\"external"
 "\">Mozilla Webmaker</a>, will place that power in the hands of millions of "
 "new creators everywhere."
 msgstr ""
-"السِّر الفريد لتقنيات الوب هو ان أي شخص يستطيع ان يستخدمها للبناء والتطوير. "
-"جهودنا الجديدة في مجال التعليم من خلال  <a href=\"%(webmaker_url)s\">صُنّاع "
-"الوب من موزيلا </a>، سوف تضع قوة الابداع والانشاء بين أيدي ملايين المستخدمين "
-"حول العالم."
+"القوة الفريدة من نوعها لشبكة الإنترنت هي أن أي شخص يمكن أن يستخدها للبناء "
+"والتطوير. عرضنا التعليمي الجديد  <a href=\"%(webmaker_url)s\">صُنّاع شبكة "
+"الإنترنت من موزيلا </a>، سوف يضع تلك القوة بين أيدي ملايين المستخدمين حول "
+"العالم."
 
 #: foundation/annualreport/2011.lang:123
-#, fuzzy
 msgid ""
 "Webmaker tools, projects and events help educators, youth, media-makers and "
 "everyday consumers around the world move from using the Web to making the "
@@ -299,7 +311,14 @@ msgid ""
 "Webmaker software tools like <a href=\"%(popcorn_url)s\" rel=\"external"
 "\">Popcorn</a> and <a href=\"%(thimble_url)s\" rel=\"external\">Thimble</a>; "
 "and work together to build a more Web-literate planet."
-msgstr ";Webmaker: Video"
+msgstr ""
+"أدوات \"صانع الإنترنت\" والمشاريع والفعاليات تساعد المعلمين والشباب وصناع "
+"وسائل الإعلام والمستهلكين اليوميين في جميع أنحاء العالم على الإنتقال من "
+"استخدام شبكة الإنترنت لصنع شبكة الإنترنت. في عام 2013، \"صانع الإنترنت\"سوف "
+"يدير المجتمع الدولي من الموجهين والمعلمين والشباب لتعليم والتعلم معاً; تحسن "
+"ثورية أدوات برمجيات \"صانع الإنترنت\" مثل <a href=\"%(popcorn_url)s\" rel="
+"\"external\">بوب كورن</a>و<a href=\"%(thimble_url)s\" rel=\"external"
+"\">ثيمبل</a>; و تعمل معاً لبناء كوكب متعلمين-إنترنت أكثر."
 
 #: foundation/annualreport/2011.lang:127
 msgid "Webmaker: Video"
@@ -318,7 +337,6 @@ msgid "Mozilla will continue to contribute to Web standards."
 msgstr "سوف تستمر موزيلا في المساهمة في معايير الوب."
 
 #: foundation/annualreport/2011.lang:143
-#, fuzzy
 msgid ""
 "Mozilla has always contributed to Web standards, going back as far as the "
 "start of the project, and we will continue to do that moving forward. We <a "
@@ -330,10 +348,14 @@ msgid ""
 "<a href=\"%(ocallahan_url)s\" rel=\"external\">layout</a> experts in the "
 "world."
 msgstr ""
-";Standards  are a multi-vendor effort, but Mozilla is proud of the many  "
-"technologies we have pioneered and submitted to standards bodies to make  "
-"them interoperable for the Web as a whole. Some examples of these  include "
-"geolocation, WebGL, the Gamepad API, Web Telephony and IndexBD."
+"موزيلا كانت تسهم دوماً في معايير الويب, رجوعاً للماضي حينما بدأ المشروع, وسوف "
+"نكمل هذا للتقدم. نحن <a href=\"%(cofound_url)s\" rel=\"external\"> شاركنا في "
+"تأسيس</a> ال <a href=\"%(whatwg_url)s\" rel=\"external\"> WHAT-WG </a> "
+"لإطلاق <a href=\"%(html5_url)s\" rel=\"external\"> HTML5 </a>. نحن القائد في "
+"<a href=\"%(javascript_url)s\" rel=\"external\"> معايير ال JavaScript</a>. "
+"نملك أحد أكثر من في المقدمة من <a href=\"%(dbaron_url)s\" rel=\"external\"> "
+"CSS</a> و<a href=\"%(ocallahan_url)s\" rel=\"external\"> تصميم</a> الخبراء "
+"في العالم."
 
 #: foundation/annualreport/2011.lang:147
 msgid ""
@@ -444,14 +466,7 @@ msgstr ""
 
 #: foundation/annualreport/2011.lang:187
 msgid "Collusion"
-msgstr ""
-";<a  href=\"%(collusion_url)s\">Mozilla Collusion</a> gives consumers  a "
-"powerful tool to protect their privacy, arming them with  transparency, "
-"facts and the power to make their own decisions about how  their personal "
-"data is shared and used. Made possible with the support  of the Ford "
-"Foundation, Collusion allows users to see who is tracking  them across the "
-"Web. It shows, in real time, how that data creates a  spider-web of "
-"interaction between companies and other trackers."
+msgstr "تواطؤ"
 
 #: foundation/annualreport/2011.lang:191
 msgid ""
@@ -466,16 +481,7 @@ msgstr ""
 
 #: foundation/annualreport/2011.lang:195
 msgid "Firefox Flicks"
-msgstr ""
-";This  year we brought back <a href=\"%(flicks_url)s\"  rel=\"external"
-"\">Firefox Flicks</a> — a video challenge for  aspiring filmmakers, "
-"animators and creatives from around the world to  produce and submit short "
-"films. These films made by Firefox fans,  promoted and educated users about "
-"the issues that affect their online  lives such as privacy and security. "
-"Most importantly, these filmmakers  shared what makes Firefox different "
-"using their own voices. Celebrities  and film-industry experts helped select "
-"the regional winners from more  than 400 submissions from thousands of "
-"filmmakers worldwide."
+msgstr "أفلام فيرفكس"
 
 #: foundation/annualreport/2011.lang:199
 msgid ""
