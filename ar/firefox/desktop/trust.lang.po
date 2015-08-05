@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-04-08 13:54+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2015-08-05 09:00+0000\n"
+"Last-Translator: Abdelrahman  Manna <abood.fcb@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -14,19 +14,19 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n>=3 && "
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1428501256.000000\n"
+"X-POOTLE-MTIME: 1438765242.000000\n"
 
 #. <title> tag
 #: firefox/desktop/trust.lang:7
 msgid ""
 "Firefox — Designed to protect your privacy — The most trusted browser on the "
 "Web"
-msgstr ""
+msgstr "فيرفكس - المصمم لحماية خصوصيتك - المتصفح الأكثر ثقة على الويب"
 
 #. main title
 #: firefox/desktop/trust.lang:12
 msgid "Trust isn’t made. It’s earned."
-msgstr ""
+msgstr "الثقة لا تُصنع.الثقة تُكتسب."
 
 #. L10n: Line break below is for wide screen formatting only.
 #: firefox/desktop/trust.lang:17
@@ -34,18 +34,20 @@ msgid ""
 "We build Firefox with a mission to put you first, above all else.<br class="
 "\"wide-br\">"
 msgstr ""
+"نحن نبني فيرفكس في مهمة تهدف إلى وضعكم أولاً وقبل أي شيء آخر.<br class=\"wide-"
+"br\">"
 
 #: firefox/desktop/trust.lang:21
 msgid "We do it to keep you in control."
-msgstr ""
+msgstr "نفعل ذلك لإبقائكم مسيطرين."
 
 #: firefox/desktop/trust.lang:25
 msgid "We do it so you can browse without worry.<br class=\"wide-br\">"
-msgstr ""
+msgstr "نفعل ذلك حتى تتمكنوا من التصفُح دون قلق.<br class=\"wide-br\">"
 
 #: firefox/desktop/trust.lang:29
 msgid "And we do it because no one else will."
-msgstr ""
+msgstr "ونفعل ذلك لأنه لن يفعل ذلك أحد آخر ."
 
 #. The span tags are for presentational purpose
 #: firefox/desktop/trust.lang:34
@@ -53,72 +55,76 @@ msgid ""
 "<span id=\"trust-line1\">Most trusted</span> <span id=\"trust-"
 "line2\">internet company</span> <span id=\"trust-line3\">for privacy</span>"
 msgstr ""
+"<span id=\"trust-line1\">الأكثر ثقة</span><span id=\"trust-line2\"> شركة "
+"انترنت </span><span id=\"trust-line3\">للخصوصية</span>"
 
 #: firefox/desktop/trust.lang:38
 msgid "Designed to protect your privacy"
-msgstr ""
+msgstr "مُصمم لحماية خصوصيتك"
 
 #: firefox/desktop/trust.lang:42
 msgid ""
 "We believe your personal information belongs only to you.<br class=\"wide-br"
 "\">"
-msgstr ""
+msgstr "نؤمن بأن معلومات الشخصية تنتمي فقط إليك.<br class=\"wide-br\">"
 
 #: firefox/desktop/trust.lang:46
 msgid "That’s why Firefox is filled with features to ensure that’s the case."
-msgstr ""
+msgstr "لهذا السبب فيرفكس مليء بالمميزات لتؤكد أن هذا هو الحال."
 
 #: firefox/desktop/trust.lang:50
 msgid "Do Not Track"
-msgstr ""
+msgstr "لا تتعقب"
 
 #: firefox/desktop/trust.lang:54
 msgid ""
 "A Firefox innovation, Do Not Track lets you indicate a preference about the "
 "way your personal info is collected and used online."
 msgstr ""
+"ابتكار فيرفكس، \"لا تتعقبني\"يتيح لك أن تشير إلى الأفضلية عن الطريقة التي "
+"يتم جمع المعلومات الشخصية الخاصة بك واستخدامها على الإنترنت."
 
 #: firefox/desktop/trust.lang:58
 msgid "Learn more about Do Not Track"
-msgstr ""
+msgstr "تعلم المزيد حول \" لا تتعقب\""
 
 #: firefox/desktop/trust.lang:62
 msgid "Private browsing"
-msgstr ""
+msgstr "التصفح الخاص"
 
 #: firefox/desktop/trust.lang:66
 msgid "Sometimes it’s nice to go undercover."
-msgstr ""
+msgstr "في بعض الأحيان من الجيد أن تستخدم السرية."
 
 #: firefox/desktop/trust.lang:70
 msgid "Turn this feature on to protect your browsing history from others."
-msgstr ""
+msgstr "تشغيل هذه الميزة لحماية سجل التصفح الخاص بك من الآخرين."
 
 #: firefox/desktop/trust.lang:74
 msgid "Learn how to open a private window"
-msgstr ""
+msgstr "تعلم كيفية فتح نافذة خاصة"
 
 #. Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
 #: firefox/desktop/trust.lang:81
 msgid "Forget Button"
-msgstr ""
+msgstr "زر النسيان"
 
 #: firefox/desktop/trust.lang:86
 msgid "Remove browsing information from your computer after the fact."
-msgstr ""
+msgstr "إزالة معلومات التصفح من جهاز الكمبيوتر الخاص بك بعد وقوعها."
 
 #: firefox/desktop/trust.lang:91
 msgid "Use it when you’ve visited a site that you don’t want in your history."
-msgstr ""
+msgstr "قم باستخدامه عندما تقوم بزيارة موقع لا تريده في السجل الخاص بك."
 
 #: firefox/desktop/trust.lang:96
 msgid "Add the Forget Button to your toolbar"
-msgstr ""
+msgstr "إضافة زر النسيان إلى شريط الأدوات"
 
 #: firefox/desktop/trust.lang:100
 msgid "See who’s watching you online."
-msgstr ""
+msgstr "معرفة من يقوم بمراقبتك على الانترنت."
 
 #: firefox/desktop/trust.lang:104
 msgid ""
@@ -132,47 +138,53 @@ msgstr ""
 
 #: firefox/desktop/trust.lang:112
 msgid "Keeping you safe across the Web"
-msgstr ""
+msgstr "يقوم بحفظ أمنك على الشبكة"
 
 #: firefox/desktop/trust.lang:116
 msgid ""
 "Firefox lets you learn more about the sites you visit and helps keep you "
 "secure online."
 msgstr ""
+"فيرفكس يتيح لك معرفة المزيد عن المواقع التي تزورها وتساعد على إبقائك بأمن "
+"عبر الإنترنت."
 
 #: firefox/desktop/trust.lang:120
 msgid "World class protection"
-msgstr ""
+msgstr "حماية طبقة العالم"
 
 #: firefox/desktop/trust.lang:124
 msgid ""
 "Anti-phishing & anti-malware features protect you from trojan horses and "
 "spyware and warn you about potentially fraudulent sites."
 msgstr ""
+"مكافحة الخدع وميزات مكافحة البرمجيات الخبيثة تقوم بحمايتك من أحصنة طروادة "
+"وبرامج التجسس وتحذرك من المواقع الاحتيالية المحتملة."
 
 #: firefox/desktop/trust.lang:128
 msgid "Automatic security updates"
-msgstr ""
+msgstr "تحديثات الأمان تلقائياً"
 
 #: firefox/desktop/trust.lang:132
 msgid ""
 "Firefox updates automatically to make sure you always have the latest and "
 "greatest security fixes."
-msgstr ""
+msgstr "تحديثات فيرفكس تلقائياً للتأكد من أنك تملك أحدث وأعظم إصلاحات الأمان."
 
 #: firefox/desktop/trust.lang:136
 msgid "Secure connections"
-msgstr ""
+msgstr "اتصالات آمنة"
 
 #: firefox/desktop/trust.lang:140
 msgid ""
 "Use instant Website ID to make sure a site is what it claims to be and to "
 "check if your connection to it is secure."
 msgstr ""
+"استخدم معرف الموقع الفوري للتأكد ماذا يطلب الموقع أن يكون و التحقق اذا ما "
+"كان الاتصال به آمناً."
 
 #: firefox/desktop/trust.lang:144
 msgid "Browse without worry"
-msgstr ""
+msgstr "تصفح دون قلق"
 
 #. L10n: Line break below is for visual formatting only.
 #: firefox/desktop/trust.lang:149
@@ -180,27 +192,29 @@ msgid ""
 "Learn more about why your privacy and security are so important <br class="
 "\"wide-br\">and what you can do to protect yourself online."
 msgstr ""
+"معرفة المزيد حول أسباب أهمية الخصوصية والأمان <br class=\"wide-br\"> و ماذا "
+"يمكن أن تفعل لحماية نفسك على الانترنت."
 
 #: firefox/desktop/trust.lang:153
 msgid "Privacy & you"
-msgstr ""
+msgstr "الخصوصية و أنت"
 
 #: firefox/desktop/trust.lang:157
 msgid "How to stay safe online"
-msgstr ""
+msgstr "كيف تبقى آمنأً على الانترنت"
 
 #: firefox/desktop/trust.lang:161
 msgid "Privacy & security FAQ"
-msgstr ""
+msgstr "الخصوصية و الأمان FAQ"
 
 #: firefox/desktop/trust.lang:165
 msgid "Privacy & security add-ons"
-msgstr ""
+msgstr "خصوصية و أمان الإضافات"
 
 #: firefox/desktop/trust.lang:169
 msgid "Privacy blog"
-msgstr ""
+msgstr "صفحة الخصوصية"
 
 #: firefox/desktop/trust.lang:173
 msgid "Security blog"
-msgstr ""
+msgstr "صفحة الأمان"
