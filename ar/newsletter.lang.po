@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-08-06 09:36+0000\n"
+"PO-Revision-Date: 2015-08-06 11:03+0000\n"
 "Last-Translator: Abdelrahman  Manna <abood.fcb@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n>=3 && "
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1438853801.000000\n"
+"X-POOTLE-MTIME: 1438858986.000000\n"
 
 #: newsletter.lang:4
 msgid "Get Monthly News"
@@ -39,7 +39,7 @@ msgstr "اللغات المتاحة"
 
 #: newsletter.lang:24
 msgid "Language:"
-msgstr ""
+msgstr "اللغة:"
 
 #: newsletter.lang:28
 msgid "Select country"
@@ -47,7 +47,7 @@ msgstr "اختر الدولة"
 
 #: newsletter.lang:32
 msgid "Country:"
-msgstr ""
+msgstr "الدولة:"
 
 #: newsletter.lang:36
 msgid "Whoops! Be sure to enter a valid email address."
@@ -136,11 +136,13 @@ msgid ""
 "A monthly newsletter and special announcements giving you tips to improve "
 "your experience with Firefox on your desktop and Android device."
 msgstr ""
+"رسالة إخبارية شهرية وإعلانات خاصة ستتيح لك نصائح لتحسين تجربتك مع فايرفوكس "
+"على سطح المكتب وجهاز آندرويد."
 
 #. Name for the newsletter in Newsletter subscription page
 #: newsletter.lang:103
 msgid "Firefox OS News"
-msgstr ""
+msgstr "أخبار فيرفكس"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS News)
 #: newsletter.lang:108
@@ -149,27 +151,30 @@ msgid ""
 "your Firefox OS device, including the latest features and coolest Firefox "
 "Marketplace apps."
 msgstr ""
+"رسالة إخبارية شهرية وإعلانات خاصة حول كيفية الاستفادة الأكثر من جهازك الذي "
+"يعمل بنظام فيرفكس ،بما في ذلك أحدث الميزات وأروع تطبيقات سوق فايرفوكس ."
 
 #. Name for the newsletter in Newsletter subscription page
 #: newsletter.lang:113
 msgid "Mozilla Communities"
-msgstr ""
+msgstr "مجتمعات موزيلا"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Communities)
 #: newsletter.lang:118
 msgid "Bringing you the best new opportunities to help support the open Web."
-msgstr ""
+msgstr "نقدم لك أفضل الفرص الجديدة للمساعدة في دعم الويب المفتوح."
 
 #. Name for the newsletter in Newsletter subscription page
 #: newsletter.lang:123
 msgid "Firefox Student Ambassadors"
-msgstr ""
+msgstr "طلاب سفراء فيرفكس"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
 #: newsletter.lang:128
 msgid ""
 "A monthly newsletter on how to get involved with Mozilla on your campus."
 msgstr ""
+"رسالة إخبارية شهرية عن كيفية المشاركة مع موزيلا في الحرم الجامعي الخاص بك."
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
 #: newsletter.lang:133
@@ -177,6 +182,7 @@ msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
 msgstr ""
+"رسالة إخبارية شهرية لجعلك على تواصل دائم مع برنامج الشركات التابعة لفيرفكس ."
 
 #. Name for the newsletter in Newsletter subscription page
 #: newsletter.lang:138
@@ -189,6 +195,8 @@ msgid ""
 "News for developers about Firefox OS, Firefox Marketplace and the Open Web "
 "apps ecosystem."
 msgstr ""
+"أخبار للمطورين حول نظام تشغيل فيرفكس، سوق فيرفكس وتطبيقات النظاك البيئي "
+"للويب المفتوح."
 
 #. Name for the newsletter in Newsletter subscription page
 #: newsletter.lang:148
@@ -198,12 +206,12 @@ msgstr ""
 #. Name for the newsletter in Newsletter subscription page
 #: newsletter.lang:153
 msgid "Firefox for desktop"
-msgstr ""
+msgstr "فيرفكس لسطح المكتب"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for desktop)
 #: newsletter.lang:158
 msgid "Don’t miss the latest announcements about our desktop browser."
-msgstr ""
+msgstr "لا تفوت أحدث الإعلانات حول متصفح سطح المكتب لدينا."
 
 #. Name for the newsletter in Newsletter subscription page
 #: newsletter.lang:163
@@ -213,20 +221,20 @@ msgstr "فَيَرفُكس لأندرويد"
 #. Description for the newsletter in Newsletter subscription page (Firefox for Android)
 #: newsletter.lang:168
 msgid "Keep up with releases and news about Firefox for Android."
-msgstr ""
+msgstr "مواكبة النشرات والأخبار حول فيرفكس آندرويد."
 
 #. Description for the in Newsletter subscription page (Firefox OS)
 #: newsletter.lang:173
 msgid ""
 "Be the first to know when Firefox OS devices are available in your country."
-msgstr ""
+msgstr "كن أول من يعرف متى ستتوفر أجهزة فيرفكس OS في بلدك."
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla)
 #: newsletter.lang:178
 msgid ""
 "Special announcements and messages from the team dedicated to keeping the "
 "Web free and open."
-msgstr ""
+msgstr "إعلانات خاصة ورسائل من فريق متخصص للحفاظ على الويب حراً ومفتوحاً."
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Marketplace)
 #: newsletter.lang:183
@@ -241,7 +249,7 @@ msgstr ""
 #. Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
 #: newsletter.lang:193
 msgid "Don’t miss important news and updates about your Firefox OS device."
-msgstr ""
+msgstr "لا تفوت الأخبار الهامة والتحديثات حول جهاز فيرفكس OS الخاص بك."
 
 #: newsletter.lang:197
 msgid "Our Other Newsletters:"
@@ -283,31 +291,33 @@ msgstr "أدر <span>اشتراكك في الرسالة الإخبارية</span
 
 #: newsletter.lang:229
 msgid "Manage your Email Preferences"
-msgstr ""
+msgstr "قم بإدارة تفضيلات البريد الإلكتروني الخاص بك"
 
 #: newsletter.lang:233
 msgid ""
 "We love sharing updates about all the awesome things happening at Mozilla."
-msgstr ""
+msgstr "نحن نحب أن تقاسم التحديثات حول كل الأشياء الرهيبة التي تحدث في موزيلا."
 
 #: newsletter.lang:237
 msgid ""
 "Set your preferences below to make sure you always receive the news you want."
-msgstr ""
+msgstr "تعيين تفضيلات أدناه للتأكد من الحصول دائما على الأخبار التي تريدها."
 
 #: newsletter.lang:241
 msgid "Newsletters"
-msgstr ""
+msgstr "النشرات الإخبارية"
 
 #: newsletter.lang:245
 msgid "Getting too much email from us?"
-msgstr ""
+msgstr "هل تحصل على الكثير من البريد الإلكتروني منا؟"
 
 #: newsletter.lang:249
 msgid ""
 "Not interested in our newsletters, but like those special announcements? No "
 "problem."
 msgstr ""
+"لست مهتماً في النشرات الإخبارية لدينا، ولكن مثل تلك الإعلانات الخاصة؟ ليس "
+"هناك أي مشكلة."
 
 #: newsletter.lang:253
 msgid "We can keep in touch with occasional messages that matter most to you."

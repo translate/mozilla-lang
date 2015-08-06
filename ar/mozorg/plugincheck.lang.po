@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-13 14:26+0000\n"
-"PO-Revision-Date: 2015-08-04 08:47+0000\n"
-"Last-Translator: SafaAlfulaij <safa1996alfulaij@gmail.com>\n"
+"PO-Revision-Date: 2015-08-06 10:58+0000\n"
+"Last-Translator: Abdelrahman  Manna <abood.fcb@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -14,12 +14,12 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n>=3 && "
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1438678029.000000\n"
+"X-POOTLE-MTIME: 1438858726.000000\n"
 
 #. Used as page title in HTML meta tag
 #: mozorg/plugincheck.lang:10
 msgid "Keep your Firefox healthy with a quick checkup"
-msgstr ""
+msgstr "حافظ على صحة فيرفكس عبر فحص سريع"
 
 #. Used as page description in HTML meta tag
 #: mozorg/plugincheck.lang:16
@@ -27,11 +27,13 @@ msgid ""
 "Use Flash? QuickTime? Java? If you use these to make your Firefox experience "
 "more awesome, check your plugins! They may need to be updated."
 msgstr ""
+"أتستخدم فلاش، أو QuickTime أو جافا؟ إن كان كذلك، وكنت تريد جعل تجربة فيرفكس "
+"رائعة، فافحص الإضافات، فلربّما تحتاج إلى تحديث!"
 
 #. Old page <title> tag
 #: mozorg/plugincheck.lang:21
 msgid "Plugin Check &amp; Updates"
-msgstr ""
+msgstr "تحقق من المساعد &amp; تحديثات"
 
 #. This is a button telling the user to update their plugin
 #: mozorg/plugincheck.lang:26
@@ -42,50 +44,50 @@ msgstr "حدّث الآن"
 #. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 #: mozorg/plugincheck.lang:31
 msgid "Research"
-msgstr ""
+msgstr "بحث"
 
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
 #: mozorg/plugincheck.lang:36
 msgid "current version plugin"
-msgstr ""
+msgstr "نسخة الإضافة الحالية"
 
 #. This is a button informing the user that their plugin is up to date
 #: mozorg/plugincheck.lang:41
 msgid "Up to Date"
-msgstr ""
+msgstr "محدّثة"
 
 #. L10n: This is alt text used on plugin icon images
 #: mozorg/plugincheck.lang:46
 msgid "Plugin icon"
-msgstr ""
+msgstr "أيقونة الملحقة"
 
 #. This is the string used to indicate that the plugin is unknown
 #: mozorg/plugincheck.lang:51
 msgid "unknown"
-msgstr ""
+msgstr "غير معروف"
 
 #. This is the string used to indicate that the plugin is vulnerable
 #: mozorg/plugincheck.lang:56
 msgid "vulnerable"
-msgstr ""
+msgstr "عرضة للخطر"
 
 #. This is the string used to indicate that the plugin is outdated
 #: mozorg/plugincheck.lang:62
 msgid "outdated"
-msgstr ""
+msgstr "منتهي الصلاحيه"
 
 #. Main title
 #: mozorg/plugincheck.lang:67
 msgid "Check Your Plugins"
-msgstr ""
+msgstr "تحقق من الإضافات الخاصة بك"
 
 #: mozorg/plugincheck.lang:71
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
-msgstr ""
+msgstr "إبقاء الإضافات الخاص بك محدثة تساعد بتشغيل فايرفوكس بأمان وسلاسة."
 
 #: mozorg/plugincheck.lang:76
 msgid "Currently the plugin check service is only available to Firefox users."
-msgstr ""
+msgstr "خدمة فحص الإضافات متوفّرة فقط لمستخدمي فيرفكس حاليًّا."
 
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 #: mozorg/plugincheck.lang:82
@@ -93,14 +95,16 @@ msgid ""
 "Plugins don’t always update automatically. Check yours now to stay safe and "
 "browse without interruption!"
 msgstr ""
+"الإضافات لا تتحدث تلقائياً دائماً. تحقق من إضافاتك الآن للبقاء آمناً وللتصفح "
+"دون انقطاع!"
 
 #: mozorg/plugincheck.lang:86
 msgid "Looks like you’re using an older version of Firefox."
-msgstr ""
+msgstr "يمكن أنك تستخدم إصدار قديم من فيرفكس."
 
 #: mozorg/plugincheck.lang:90
 msgid "Plugin Status"
-msgstr ""
+msgstr "حالة الملحقة"
 
 #: mozorg/plugincheck.lang:94
 msgid ""
@@ -110,7 +114,7 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:98
 msgid "Step 1: Click Update to update a plugin."
-msgstr ""
+msgstr "الخطوة 1: انقر \"حدّث\" لتحديث الملحقة"
 
 #: mozorg/plugincheck.lang:102
 msgid ""
@@ -119,15 +123,15 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:106
 msgid "Potentially vulnerable plugins"
-msgstr ""
+msgstr "الإضافات الضعيفة المحتملة"
 
 #: mozorg/plugincheck.lang:110
 msgid "Plugin"
-msgstr ""
+msgstr "ملحق"
 
 #: mozorg/plugincheck.lang:114
 msgid "Status"
-msgstr ""
+msgstr "الحالة"
 
 #: mozorg/plugincheck.lang:118
 msgid "Action"
@@ -135,136 +139,146 @@ msgstr "نشاط"
 
 #: mozorg/plugincheck.lang:122
 msgid "Outdated Plugins"
-msgstr ""
+msgstr "ملحقة غير مُحدّثة"
 
 #: mozorg/plugincheck.lang:126
 msgid "Unknown Plugins"
-msgstr ""
+msgstr "ملحقات غير معروفة"
 
 #: mozorg/plugincheck.lang:130
 msgid "These plugins are up to date"
-msgstr ""
+msgstr "هذه الإضافات محدثة"
 
 #: mozorg/plugincheck.lang:134
 msgid "Back to Top"
-msgstr ""
+msgstr "العودة إلى الأعلى"
 
 #: mozorg/plugincheck.lang:138
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "الأسئلة الأكثر تكراراً"
 
 #: mozorg/plugincheck.lang:142
 msgid "What is a plugin?"
-msgstr ""
+msgstr "ما هي الملحقات؟"
 
 #: mozorg/plugincheck.lang:146
 msgid "Plugins power videos, animation and games"
-msgstr ""
+msgstr "الملحقات هي أشرطة الفيديو، والرسوم المتحركة والألعاب"
 
 #: mozorg/plugincheck.lang:150
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
-msgstr ""
+msgstr "تم بناؤها خارج فيرفكس عن طريق شركات مثل أدوبي سيستمز وأبل"
 
 #: mozorg/plugincheck.lang:154
 msgid "Plugins don't always update automatically."
-msgstr ""
+msgstr "الملحقات لا تتحدث تلقائياً دائماً."
 
 #: mozorg/plugincheck.lang:158
 msgid "Why should I update my plugins?"
-msgstr ""
+msgstr "لماذا يجب تحديث الإضافات الخاصة بي؟"
 
 #: mozorg/plugincheck.lang:162
 msgid "Old plugins can interrupt browsing and waste your time."
-msgstr ""
+msgstr "يمكن  للإضافات القديمة أن تقطع التصفح وتضيع وقتك."
 
 #: mozorg/plugincheck.lang:166
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
 msgstr ""
+"الملحقات القديمة </strong> تزيد من خطر </strong> الهجوم من قبل البرمجيات "
+"الخبيثة والفيروسات،والتهديدات الأمنية الأخرى."
 
 #: mozorg/plugincheck.lang:170
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
 msgstr ""
+"<strong> الإضافات المحدثة لها التحسينات </strong> التي تجعل شبكة الإنترنت "
+"<strong> أفضل وأكثر أمانا </strong>بالنسبة لك."
 
 #. alt image
 #: mozorg/plugincheck.lang:175
 msgid "Screenshot of Add-Ons manager"
-msgstr ""
+msgstr "لقطة الشاشة من مدير الإضافات"
 
 #: mozorg/plugincheck.lang:179
 msgid "How can Firefox help me?"
-msgstr ""
+msgstr "كيف يمكن لفيرفكس مساعدتي؟"
 
 #: mozorg/plugincheck.lang:183
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
 msgstr ""
+"في المستقبل، فيرفكس سيقوم بتحديث ملحقاتك. حتى ذلك الحين، يجب عليك التحقق "
+"بانتظام من هذه الصفحة وتحديث الإضافات الخاصة بك للبقاء آمناً."
 
 #: mozorg/plugincheck.lang:187
 msgid "Which Plugins do I have?"
-msgstr ""
+msgstr "ما الإضافات التي علي امتلاكها؟"
 
 #: mozorg/plugincheck.lang:191
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
 msgstr ""
+"اكتشفنا تلقائيا الملحقات الخاصة بك أعلاه، لمشاهدة الملحقات المثبتة في فيرفكس "
+"اتبع الخطوات التالية:"
 
 #: mozorg/plugincheck.lang:195
 msgid "Want to spread the word?"
-msgstr ""
+msgstr "هل تريد نشر الكلمة؟"
 
 #: mozorg/plugincheck.lang:199
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
 msgstr ""
+"قم بمساعدة أصدقائك للبقاء آمنين على الإنترنت! قم بزيارة <a href=\"%(url)s"
+"\">الشركات التابعة لفيرفكس </a> للحصول على شارة الملحق لموقع الويب الخاص بك."
 
 #: mozorg/plugincheck.lang:203
 msgid "How do I disable a plugin?"
-msgstr ""
+msgstr "كيف يمكنني تعطيل الملحق؟"
 
 #: mozorg/plugincheck.lang:207
 msgid "In Firefox:"
-msgstr ""
+msgstr "في فيرفكس:"
 
 #: mozorg/plugincheck.lang:211
 msgid "Open the Tools menu."
-msgstr ""
+msgstr "فتح قائمة الأدوات."
 
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:217
 msgid "Open the <span class=\"menu\">menu</span>."
-msgstr ""
+msgstr "فتح<span class=\"menu\"> القائمة </span>."
 
 #: mozorg/plugincheck.lang:221
 msgid "Choose Add-ons."
-msgstr ""
+msgstr "اختيار اللإضافات."
 
 #: mozorg/plugincheck.lang:225
 msgid "Click the plugins tab."
-msgstr ""
+msgstr "انقر على علامة تبويب الإضافات."
 
 #: mozorg/plugincheck.lang:230
 msgid "Click on the drop down next to the plugin you wish to disable."
-msgstr ""
+msgstr "انقر على القائمة المنسدلة بجوار الملحق إذا كنت ترغب في تعطيلها."
 
 #: mozorg/plugincheck.lang:234
 msgid "Click on a plugin in the list."
-msgstr ""
+msgstr "انقر على قائمة الملحق."
 
 #: mozorg/plugincheck.lang:239
 msgid "Select \"Never Activate\" from the available choices."
-msgstr ""
+msgstr "اختر \"لا تنشيط أبدا\" من الخيارات المتاحة."
 
 #: mozorg/plugincheck.lang:243
 msgid "Click the Disable button."
-msgstr ""
+msgstr "انقر على زر التعطيل."
 
 #: mozorg/plugincheck.lang:247
 msgid ""
@@ -272,6 +286,9 @@ msgid ""
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on YouTube."
 msgstr ""
+"تحذير: تعطيل البرنامج المساعد يعني أنك لن تكون قادرة على القيام ببعض "
+"الأشياء. على سبيل المثال، إذا قمت بتعطيل فلاش، فإنك لن تكون قادرا على مشاهدة "
+"أشرطة الفيديو على يوتيوب."
 
 #: mozorg/plugincheck.lang:252
 msgid ""
@@ -279,10 +296,13 @@ msgid ""
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on some streaming video websites."
 msgstr ""
+"تحذير: تعطيل البرنامج المساعد يعني أنك لن تكون قادرة على القيام ببعض "
+"الأشياء. على سبيل المثال، إذا قمت بتعطيل فلاش، فلن تكون قادرا على مشاهدة "
+"أشرطة الفيديو على بعض المواقع الفيديو."
 
 #: mozorg/plugincheck.lang:256
 msgid "Mozilla Support"
-msgstr ""
+msgstr "دعم موزيلا"
 
 #: mozorg/plugincheck.lang:260
 msgid "Have more questions?"
