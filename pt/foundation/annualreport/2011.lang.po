@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-03 19:06+0000\n"
-"PO-Revision-Date: 2015-08-04 23:05+0000\n"
+"PO-Revision-Date: 2015-08-06 00:17+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1438729548.000000\n"
+"X-POOTLE-MTIME: 1438820253.000000\n"
 
 #. State of Mozilla 2011 annual report, main page
 #. test server: https://www-dev.allizom.org/foundation/annualreport/2011/
@@ -164,6 +164,14 @@ msgid ""
 "necessary <abbr title=\"Application Program Interfaces\">APIs</abbr> to show "
 "how it is possible to run an entire device using open standards."
 msgstr ""
+"O Firefox OS é a primeira plataforma móvel verdadeiramente aberta. Os "
+"programadores estão a abraçar o HTML5 mas, até agora, aplicações HTML5 para "
+"dispositivos móveis estiveram paradas porque estas não podem aceder às "
+"funcionalidades de suporte do dispositivo do mesmo modo que as aplicações "
+"nativas conseguem. O Firefox OS ultrapassa estas limitações e fornece as "
+"<abbr title=\"Application Program Interfaces\" lang=\"en\">APIs</abbr> "
+"necessárias para mostrar que é possível fazer com que um dispositivo consiga "
+"funcionar apenas com recurso a normas abertas."
 
 #: foundation/annualreport/2011.lang:74
 msgid ""
@@ -174,20 +182,25 @@ msgid ""
 "across all devices, spurring a new era of innovation and creativity for the "
 "ubiquitous Web."
 msgstr ""
+"Os dispositivos com Firefox OS irão ser lançados no começo de 2013 pela <a "
+"href=\"%(telefonica_url)s\" rel=\"external\">Telefónica</a>, estabelecendo o "
+"HTML5 como uma plataforma viável para a indústria móvel. A Web como a "
+"plataforma irá libertar os programadores para criar fantásticas novas "
+"aplicações que funcionam de forma transparente entre vários dispositivos, "
+"levando a uma nova era de inovação e criatividade para a Web ubíqua."
 
 #. Fast. Smart. Safe." is a slogan for Firefox for Android. It appears here as three separate strings for styling and layout purposes.
 #: foundation/annualreport/2011.lang:79
-#, fuzzy
 msgid "Fast."
-msgstr "Rápido"
+msgstr "Rápido."
 
 #: foundation/annualreport/2011.lang:83
 msgid "Smart."
-msgstr ""
+msgstr "Inteligente."
 
 #: foundation/annualreport/2011.lang:87
 msgid "Safe."
-msgstr ""
+msgstr "Seguro."
 
 #: foundation/annualreport/2011.lang:91
 msgid ""
