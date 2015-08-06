@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-04-24 12:08+0000\n"
-"PO-Revision-Date: 2015-08-05 11:30+0000\n"
+"PO-Revision-Date: 2015-08-06 06:22+0000\n"
 "Last-Translator: Abdelrahman  Manna <abood.fcb@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n>=3 && "
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1438774209.000000\n"
+"X-POOTLE-MTIME: 1438842168.000000\n"
 
 #. Used as page description (HTML meta tag)
 #: firefox/developer.lang:12
@@ -258,14 +258,15 @@ msgid ""
 "See all the network requests your browser makes, how long each request takes "
 "and details of each request."
 msgstr ""
+"اعرف كل طلبات الشبكة التي قام بها متصفحك, كم مدة كل طلب و تفاصيل كل طلب."
 
 #: firefox/developer.lang:208
 msgid "Learn more about Network Monitor"
-msgstr ""
+msgstr "تعلم المزيد عن مراقب الشبكة"
 
 #: firefox/developer.lang:212
 msgid "Style Editor"
-msgstr ""
+msgstr "محرر الطُرز"
 
 #: firefox/developer.lang:216
 msgid ""
@@ -275,22 +276,22 @@ msgstr ""
 
 #: firefox/developer.lang:220
 msgid "Learn more about Style Editor"
-msgstr ""
+msgstr "تعلم المزيد عن محرر الطُرز"
 
 #: firefox/developer.lang:224
 msgid "Choose Firefox"
-msgstr ""
+msgstr "اختر فيرفكس"
 
 #. The following strings are used for the tour displayed on /firstrun
 #. https://www.mozilla.org/firefox/35.0a2/firstrun/
 #: firefox/developer.lang:230
 msgid "Welcome to Firefox Developer Edition"
-msgstr ""
+msgstr "أهلاً بك في نسخة فيرفكس للمطورين"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:235
 msgid "Developer Tools"
-msgstr ""
+msgstr "أدوات المطورين"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:240
@@ -298,16 +299,18 @@ msgid ""
 "The most complete browser made just for developers, Firefox Developer "
 "Edition has every dev tool you’ll need built right in."
 msgstr ""
+"المتصفح الأكثر كمالية صنع فقط للمطورين, نسخة فيرفكس للمطورين تمتلك كل أدوات "
+"التطوير التي ستحتاجها داخله."
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:245
 msgid "Next: WebIDE"
-msgstr ""
+msgstr "التالي: WebIDE"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:250
 msgid "Try WebIDE"
-msgstr ""
+msgstr "جرب WebIDE"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:255
@@ -319,12 +322,12 @@ msgstr ""
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:260
 msgid "Next: Sync"
-msgstr ""
+msgstr "التالي: التزامن"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:266
 msgid "Important"
-msgstr ""
+msgstr "مهم"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:272
@@ -337,12 +340,12 @@ msgstr ""
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:278
 msgid "Sync now"
-msgstr ""
+msgstr "زامِن الآن"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:283
 msgid "Keep your browser in Sync"
-msgstr ""
+msgstr "أبقٍ متصفحك في تزامن"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:288
@@ -350,21 +353,23 @@ msgid ""
 "Sync your Firefox desktop and mobile browsers to get instant access to your "
 "bookmarks, open tabs, passwords and more."
 msgstr ""
+"قم بمزامنة سطح مكتب فيرفكس الخاص بك ومتصفحات الجوال للوصول الفوري إلى "
+"المواقع المفضلة لديك، علامات التبويب المفتوحة، وكلمات السر وغيرها."
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:293
 msgid "Sync my Firefox"
-msgstr ""
+msgstr "زامن فيرفكس الخاص بي"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:298
 msgid "No thanks"
-msgstr ""
+msgstr "لا، شكرًا"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:304
 msgid "Before you go&hellip;"
-msgstr ""
+msgstr "قبل أن تذهب&hellip;"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:310
@@ -377,11 +382,11 @@ msgstr ""
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:316
 msgid "To sync now, choose the Sync option from this menu."
-msgstr ""
+msgstr "لتُزامن الآن, اختر خيار التزامن من هذه القائمة."
 
 #: firefox/developer.lang:320
 msgid "Welcome to <span>Firefox Developer Edition</span>"
-msgstr ""
+msgstr "أهلاً بك في <span>نسخة فيرفكس للمطورين</span>"
 
 #: firefox/developer.lang:324
 msgid ""
@@ -391,7 +396,7 @@ msgstr ""
 
 #: firefox/developer.lang:329
 msgid "Important: Sync your new profile"
-msgstr ""
+msgstr "هام: زامن حسابك الجديد"
 
 #: firefox/developer.lang:334
 msgid ""
@@ -407,7 +412,7 @@ msgstr ""
 
 #: firefox/developer.lang:343
 msgid "Want the old look back?"
-msgstr ""
+msgstr "هل تريد الشكل السابق؟"
 
 #: firefox/developer.lang:347
 msgid ""
@@ -417,4 +422,4 @@ msgstr ""
 
 #: firefox/developer.lang:351
 msgid "Features and tools"
-msgstr ""
+msgstr "ميزات و أدوات"
