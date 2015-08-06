@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-04-27 17:32+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2015-08-06 09:43+0000\n"
+"Last-Translator: Abdelrahman  Manna <abood.fcb@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n>=3 && "
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1430155970.000000\n"
+"X-POOTLE-MTIME: 1438854182.000000\n"
 
 #: firefox/tiles.lang:4
 msgid "A Brand New Tiles Experience"
@@ -36,11 +36,12 @@ msgid ""
 "When you open a new tab in Firefox, you see several rectangles that link to "
 "different websites."
 msgstr ""
+"عند فتح علامة تبويب جديدة في فيرفكس، سترى عدة مستطيلات تصل إلى مواقع مختلفة."
 
 #: firefox/tiles.lang:20
 msgid ""
 "Some people call them squares, windows or bookmarks; we call them Tiles."
-msgstr ""
+msgstr "بعض الناس يسمونها مربعات، نوافذ أو علامات التويب. نطلق عليهم قطع."
 
 #: firefox/tiles.lang:24
 msgid "What are Enhanced Tiles?"
@@ -63,12 +64,16 @@ msgid ""
 "The improved image is supplied by the site or partner and can include a logo "
 "plus a rollover image."
 msgstr ""
+"يتم توفير الصورة المحسنة عن طريق الموقع أو الشريك، ويمكن أن تشمل شعار "
+"بالإضافة إلى الصورة المتغيرة."
 
 #: firefox/tiles.lang:40
 msgid ""
 "If you frequent Amazon.com, for example, you might see the Amazon logo or "
 "icon, instead of a screenshot."
 msgstr ""
+"إذا كنت تتردد كثيراً على Amazon.com، على سبيل المثال، قد تشاهد شعار الأمازون "
+"أو رمز، بدلا من لقطة الشاشة."
 
 #: firefox/tiles.lang:44
 msgid "What are Directory Tiles?"
@@ -79,6 +84,8 @@ msgid ""
 "New Firefox users are initially given a set of Directory Tiles as "
 "suggestions for sites that may be of interest to them."
 msgstr ""
+"يعطى مستخدمو فيرفكس الجديد في البداية مجموعة من القطع دليل الاقتراحات من أجل "
+"المواقع التي قد تكون ذات فائدة لهم."
 
 #: firefox/tiles.lang:52
 msgid ""
@@ -94,13 +101,15 @@ msgstr ""
 
 #: firefox/tiles.lang:60
 msgid "Respects your privacy"
-msgstr ""
+msgstr "تحترم خصوصيتك"
 
 #: firefox/tiles.lang:64
 msgid ""
 "As with all Mozilla products, Tiles provide users with extensive control "
 "over their personal data."
 msgstr ""
+"كما هو الحال مع جميع منتجات موزيلا، القطع توفر للمستخدمين مع سيطرة واسعة على "
+"بياناتهم الشخصية."
 
 #: firefox/tiles.lang:68
 msgid ""
@@ -113,6 +122,7 @@ msgid ""
 "Nothing is ever personally identifiable. In other words, we don’t know who "
 "clicks on what."
 msgstr ""
+"ليس هناك ما يسمى بالتعريف الشخصي. وبعبارة أخرى، نحن لا نعرف من ينقر على ماذا."
 
 #: firefox/tiles.lang:76
 msgid ""
@@ -182,9 +192,8 @@ msgstr ""
 
 #. Used as title of the screenshot
 #: firefox/tiles.lang:133
-#, fuzzy
 msgid "Tiles Preferences"
-msgstr "احفظ التفضيلات"
+msgstr "تفضيلات القطع"
 
 #: firefox/tiles.lang:137
 msgid "Screenshot"
@@ -194,3 +203,4 @@ msgstr ""
 #: firefox/tiles.lang:142
 msgid "For more help please see the <a href=\"%(url)s\">Tiles Support Page</a>"
 msgstr ""
+"للمزيد من المساعدة الرجاء مراجعة <a href=\"%(url)s\"> قطع دعم الصفحة</a>"
