@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-10 11:09+0000\n"
-"PO-Revision-Date: 2015-08-03 18:31+0000\n"
-"Last-Translator: m.qudah <qudahmahmood@gmail.com>\n"
+"PO-Revision-Date: 2015-08-06 09:04+0000\n"
+"Last-Translator: Abdelrahman  Manna <abood.fcb@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -14,79 +14,86 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n>=3 && "
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1438626684.000000\n"
+"X-POOTLE-MTIME: 1438851896.000000\n"
 
 #: firefox/sync.lang:8
 msgid "Keep your Firefox in sync"
-msgstr ""
+msgstr "إبقاء فيرفكس الخاص بك في وضع تزامن"
 
 #: firefox/sync.lang:12
 msgid "Ready, Set, Sync"
-msgstr ""
+msgstr "استعداد، تعيين، تزامن"
 
 #: firefox/sync.lang:16
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
 msgstr ""
+"أنت مسجل مسبقاً و جاهز للدخول <em>خاص بك</em> فيرفكس في أي مكان، وفي أي وقت."
 
 #: firefox/sync.lang:20
 msgid "Take your Web with you"
-msgstr ""
+msgstr "خذ الويب الخاص بك معك"
 
 #: firefox/sync.lang:24
 msgid ""
 "Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
 "and more from any smartphone, tablet or computer."
 msgstr ""
+"مزامنة فيرفكس أينما كنت تستخدمه للوصول إلى المواقع المفضلة لديك، وكلمات "
+"السر، علامات التصفح وأكثر من أي هاتف ذكي، لوح ذكي أو الكمبيوتر."
 
 #: firefox/sync.lang:29
 msgid ""
 "Sync your bookmarks, passwords, tabs and more using your Firefox Account, "
 "and access them everywhere you’re signed in."
 msgstr ""
+"زامن علاماتك, كلمات السر , التبويبات و الكثير باستخدام حساب فيرفكس, و تحكم "
+"بهم أينما كنت من خلال تسجيل دخولك."
 
 #: firefox/sync.lang:33
 msgid "It looks like you’re running an older version of Firefox."
-msgstr ""
+msgstr "يبدو أنك تقوم بتشغيل نسخة قديمة من فيرفكس."
 
 #: firefox/sync.lang:37
 msgid "The new version of Sync only works with the latest version of Firefox"
-msgstr ""
+msgstr "النسخة الجديدة من المزامنة تعمل فقط مع أحدث نسخة من فيرفكس"
 
 #: firefox/sync.lang:42
 msgid "Soon you’ll be able to use Sync on your iOS device"
-msgstr ""
+msgstr "قريباً سوف تكون قادراً على استخدام المزامنة على جهاز iOS الخاص بك"
 
 #: firefox/sync.lang:46
 msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
 "Discover them all!"
 msgstr ""
+"المزامنة هي واحدة من أروع الميزات التي تحصل عليها فقط مع فيرفكس. اكتشفهم "
+"جميعا!"
 
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 #: firefox/sync.lang:52
 msgid "Sync is just one of the great features you’ll only get with Firefox."
-msgstr ""
+msgstr "المزامنة هي واحدة من أروع الميزات التي تحصل عليها  فقط مع فيرفكس."
 
 #: firefox/sync.lang:56
 msgid "Download Firefox for Android"
-msgstr ""
+msgstr "تحميل فيرفكس على أندرويد"
 
 #: firefox/sync.lang:60
 msgid "Get started with Sync"
-msgstr ""
+msgstr "قم بالبدأ مع المزامنة"
 
 #: firefox/sync.lang:64
 msgid "Update your Firefox"
-msgstr ""
+msgstr "تحديث فيرفكس الخاص بك"
 
 #: firefox/sync.lang:68
 msgid "Download Firefox"
-msgstr "نزّل فَيَرفُكس"
+msgstr "تحميل فيرفكس"
 
 #: firefox/sync.lang:72
 msgid "Get started with Sync in four easy steps:"
-msgstr ""
+msgstr "قم بالبدأ مع المزامنة بأربع خطوات سهلة:"
 
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
@@ -96,11 +103,14 @@ msgid ""
 "href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of Firefox and "
 "select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
+"افتح <a class=\"menu ga-link\" data-interaction=\"outbound link click\" href="
+"\"%(url)s#w_a-handy-new-menu\"> القائمة </a> في أعلى يمين فيرفكس و اختر "
+"<strong> تسجيل الدخول للمزامنة .</strong>"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:83
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
-msgstr ""
+msgstr "اضغط “<strong>البدأ</strong>”في علامة التبويب التي ستفتح."
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:88
@@ -108,30 +118,35 @@ msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
 msgstr ""
+"أدخل عنوان البريد الإلكتروني وكلمة المرور ل“<strong> أنشئ حساب فيرفكس.</"
+"strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:93
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr ""
+"اضغظ“<strong>التالي</strong>”للحصول على التحقق المبعوث على البريد الإلكتروني."
 
 #: firefox/sync.lang:97
 msgid ""
 "After you check your email and click the verification link, you’ll be all "
 "set! Firefox will automatically sync in the background from then on."
 msgstr ""
+"بعد التحقق من البريد الإلكتروني الخاص بك والنقر على رابط التحقق، سوف تكون "
+"جاهزاً ككل!فيرفكس سيقوم بالتزامن تلقائيا في الخلفية منذ ذلك الحين."
 
 #: firefox/sync.lang:101
 msgid "Get more detailed instructions."
-msgstr ""
+msgstr "احصل على تعليمات أكثر تفصيلا."
 
 #: firefox/sync.lang:105
 msgid "Using an older version of Sync?"
-msgstr ""
+msgstr "هل تستخدم نسخة قديمة من التزامن؟"
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:110
 msgid "How to set up Sync in five easy steps:"
-msgstr ""
+msgstr "كيفية إعداد مزامنة في خمس خطوات سهلة:"
 
 #. <strong> tags below used for font color formatting.
 #. This string is displayed on Android devices
@@ -140,6 +155,8 @@ msgid ""
 "Tap the <strong>Menu</strong> button (either below the screen or at the top "
 "right corner of the browser)."
 msgstr ""
+"اضغط على<strong>القائمة</strong>زر(إما تحت الشاشة أو في الزاوية اليمنى "
+"العليا من المتصفح)."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:121
@@ -147,22 +164,25 @@ msgid ""
 "Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
 "first)."
 msgstr ""
+"اختر<strong>إعدادات</strong>(قد تحتاج للضغط على <strong>المزيد</strong>أولاً)."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:126
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
-msgstr ""
+msgstr "اضغط <strong>تزامن</strong> ثم <strong> البدأ </strong>."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:131
 msgid ""
 "The <strong>Create a Firefox Account page</strong> will open in a new tab."
 msgstr ""
+"الصفحة<strong>الخاصة بإنشاء حساب فيرفكس</strong>سيتم فتحها في علامة تبويب "
+"جديدة."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:136
 msgid "Fill out the form and click <strong>Next</strong>."
-msgstr ""
+msgstr "قم بتعبئة النموذج ثم انقر على <strong>التالي</strong>."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:141
@@ -171,10 +191,13 @@ msgid ""
 "to go! Don’t forget to connect all your other devices to get the most of "
 "Sync."
 msgstr ""
+"بعد التحقق من البريد الإلكتروني الخاص بك والنقر على رابط التحقق، عليك أن "
+"تكون على استعداد! لا تنس ربط جميع الأجهزة الأخرى الخاصة بك للحصول على أكثر "
+"المزامنة."
 
 #: firefox/sync.lang:145
 msgid "Sync a little. Sync a lot."
-msgstr ""
+msgstr "مزامنة القليل. مزامنة الكثير."
 
 #: firefox/sync.lang:149
 msgid ""
@@ -182,6 +205,9 @@ msgid ""
 "sync them. Take your open tabs on your daily commute. Access your bookmarks "
 "at work. Whatever, whenever, everywhere."
 msgstr ""
+"قم باختيار ما هي أجزاء الفيرفكس الخاص بك التي تريد مزامنتها و مكان المزامنة. "
+"خذ علامات التبويب المفتوحة على تنقلاتك اليومية. قم بالوصول إلى المواقع "
+"المفضلة لديك في العمل. أياَ كان، أينما كان، وفي كل مكان."
 
 #: firefox/sync.lang:154
 msgid ""
@@ -211,7 +237,7 @@ msgstr ""
 
 #: firefox/sync.lang:183
 msgid "At home"
-msgstr ""
+msgstr "في الرئيسية"
 
 #: firefox/sync.lang:187
 msgid ""
@@ -222,7 +248,7 @@ msgstr ""
 
 #: firefox/sync.lang:191
 msgid "At work"
-msgstr ""
+msgstr "في العمل"
 
 #: firefox/sync.lang:195
 msgid ""
@@ -230,38 +256,45 @@ msgid ""
 "bookmarks that you might need to access at any time. Just like Firefox, it’s "
 "safe as can be."
 msgstr ""
+"ابق على تواصل مع جميع المعلومات الهامة الخاصة بك. قم بمزامنة كلمات المرور "
+"والإشارات التي قد تحتاج إلى الوصول إليها في أي وقت. تماماً مثل فيرفكس، انها "
+"آمنة جداً."
 
 #: firefox/sync.lang:199
 msgid "On the go"
-msgstr ""
+msgstr "أثناء التنقل"
 
 #: firefox/sync.lang:203
 msgid ""
 "Keep up with your favorite sites, or finish that story you started at home — "
 "wherever you go. With Sync, it’s never been easier."
 msgstr ""
+"مواكبة المواقع المفضلة لديك، أو إنهاء تلك القصة التي بدأتها في المنزل - "
+"أينما تذهب. مع تزامن، لم تكن أكثر سهولة!"
 
 #: firefox/sync.lang:208
 msgid "Add Firefox to your smartphone or tablet"
-msgstr ""
+msgstr "إضافة فيرفكس لهاتفك الذكي أو الجهاز اللوحي"
 
 #: firefox/sync.lang:213
 msgid ""
 "To get the full Sync experience, get Firefox for iOS or Android and connect "
 "all your devices — everywhere and anywhere you use Firefox."
 msgstr ""
+"للحصول على تجربة مزامنة كاملة، احصل على فيرفكس لiOS أو آندرويد واربط جميع "
+"الأجهزة الخاصة بك - في كل مكان وفي أي مكان كنت تستخدم فيرفكس."
 
 #: firefox/sync.lang:218
 msgid "Add Firefox"
-msgstr ""
+msgstr "إضافة فيرفكس"
 
 #: firefox/sync.lang:222
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
-msgstr ""
+msgstr "هل تريد <b>هاتف آندرويد ذكي</b>أو <b>لوح ذكي</b>؟"
 
 #: firefox/sync.lang:226
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
-msgstr ""
+msgstr "حمل فيرفكس للأندرويد"
 
 #: firefox/sync.lang:230
 msgid ""
