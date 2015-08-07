@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n>=3 && "
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1438856999.000000\n"
 
 #. Used for HTML title attribute
@@ -24,7 +24,7 @@ msgstr ""
 #. this string is used for accessibility reasons, it's not visible in the page
 #: mozorg/contribute/index.lang:11
 msgid "Menu"
-msgstr ""
+msgstr "القائمة"
 
 #. this br is for formatting, omit or reposition as needed
 #: mozorg/contribute/index.lang:16
@@ -194,8 +194,9 @@ msgid "Communicate"
 msgstr ""
 
 #: mozorg/contribute/index.lang:177
+#, fuzzy
 msgid "Mozilla communities"
-msgstr ""
+msgstr "مجتمعات موزيلا"
 
 #: mozorg/contribute/index.lang:181
 msgid "Mailing lists"
@@ -399,8 +400,9 @@ msgid "Email address"
 msgstr ""
 
 #: mozorg/contribute/index.lang:366
+#, fuzzy
 msgid "Country"
-msgstr ""
+msgstr "الدولة:"
 
 #: mozorg/contribute/index.lang:370
 msgid "select"
@@ -415,10 +417,13 @@ msgid "(Optional)"
 msgstr ""
 
 #: mozorg/contribute/index.lang:382
+#, fuzzy
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%(privacy)s"
 "\">this Privacy Policy</a>"
 msgstr ""
+"أنا لا أمانع أن تتعامل موزيلا مع المعلومات الخاصة بي كما هو موضح في <a href="
+"\"%s\"> سياسة الخصوصية هذه </a>"
 
 #: mozorg/contribute/index.lang:386
 msgid "Start contributing"
@@ -458,15 +463,16 @@ msgstr ""
 
 #: mozorg/contribute/index.lang:422
 msgid "Firefox"
-msgstr ""
+msgstr "فيرفكس"
 
 #: mozorg/contribute/index.lang:426
 msgid "Firefox OS"
-msgstr ""
+msgstr "نظام تشغيل فيَرفُكس"
 
 #: mozorg/contribute/index.lang:430
+#, fuzzy
 msgid "Websites"
-msgstr ""
+msgstr "موقع الويب"
 
 #: mozorg/contribute/index.lang:434
 msgid "Firefox add-ons"
@@ -749,12 +755,14 @@ msgid "Education"
 msgstr ""
 
 #: mozorg/contribute/index.lang:697
+#, fuzzy
 msgid "Other"
-msgstr ""
+msgstr "أخرى ..."
 
 #: mozorg/contribute/index.lang:701
+#, fuzzy
 msgid "Hi, I’m interested in…"
-msgstr ""
+msgstr "أنا مهتم ب:"
 
 #: mozorg/contribute/index.lang:705
 msgid "Send us a note and we can get you started right away."
@@ -769,8 +777,9 @@ msgid "I need help with a Firefox issue"
 msgstr ""
 
 #: mozorg/contribute/index.lang:717
+#, fuzzy
 msgid "Please enter a valid email address."
-msgstr ""
+msgstr "رجاءً أدخل عنوان بريد إلكترونيّ."
 
 #: mozorg/contribute/index.lang:721
 msgid "You must agree to the privacy policy."

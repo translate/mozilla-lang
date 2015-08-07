@@ -13,13 +13,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n>=3 && "
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1425591305.000000\n"
 
 #. This is the title for a door-hanger menu that shows in the browser chrome
 #: firefox/privacy_tour/privacy_tour.lang:4
 msgid "See what’s new"
-msgstr ""
+msgstr "انظر للجديد"
 
 #. This is the text for a door-hanger menu that shows in the browser chrome
 #: firefox/privacy_tour/privacy_tour.lang:9
@@ -34,7 +34,7 @@ msgstr ""
 #. This is the label for a button that delays starting the tour
 #: firefox/privacy_tour/privacy_tour.lang:19
 msgid "Not now"
-msgstr ""
+msgstr "ليس الآن"
 
 #. This is the label for a button that opens the tour modal dialog
 #: firefox/privacy_tour/privacy_tour.lang:24
@@ -88,20 +88,21 @@ msgid "Play"
 msgstr ""
 
 #: firefox/privacy_tour/privacy_tour.lang:73
+#, fuzzy
 msgid "Play the video"
-msgstr ""
+msgstr "أعد الفيديو"
 
 #: firefox/privacy_tour/privacy_tour.lang:77
 msgid "Share"
-msgstr ""
+msgstr "شارك"
 
 #: firefox/privacy_tour/privacy_tour.lang:81
 msgid "Start browsing"
-msgstr ""
+msgstr "ابدأ التصفح"
 
 #: firefox/privacy_tour/privacy_tour.lang:85
 msgid "Previous"
-msgstr ""
+msgstr "السابق"
 
 #: firefox/privacy_tour/privacy_tour.lang:89
 msgid "Next"
@@ -114,8 +115,9 @@ msgstr "أغلِق"
 #. STEP 1 of the tour (Forget button)
 #. %s is a searchplugin name
 #: firefox/privacy_tour/privacy_tour.lang:99
+#, fuzzy
 msgid "<span>Next:</span> %s"
-msgstr ""
+msgstr "<span>التالي: </span> الأدوات "
 
 #. <br> tag below used for formatting only.
 #. Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
@@ -167,8 +169,9 @@ msgstr ""
 
 #. STEP 2 of the tour (search engines)
 #: firefox/privacy_tour/privacy_tour.lang:147
+#, fuzzy
 msgid "<span>Previous:</span> Forget"
-msgstr ""
+msgstr "<span>السابق:</span> بحث"
 
 #: firefox/privacy_tour/privacy_tour.lang:151
 msgid "<span>Next:</span> Private Browsing"
@@ -193,8 +196,9 @@ msgstr ""
 
 #. %s is a searchplugin name
 #: firefox/privacy_tour/privacy_tour.lang:173
+#, fuzzy
 msgid "<span>Previous:</span> %s"
-msgstr ""
+msgstr "<span>السابق:</span>الأدوات"
 
 #. STEP 3 of the tour (Private Browsing)
 #. <br> tag below used for formatting only.

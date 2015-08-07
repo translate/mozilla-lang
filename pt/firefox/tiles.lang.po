@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-08-07 17:24+0000\n"
 "PO-Revision-Date: 2015-06-16 10:02+0000\n"
 "Last-Translator: pmo <pmo@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,228 +12,339 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1434448959.000000\n"
 
-#: firefox/tiles.lang:4
-msgid "A Brand New Tiles Experience"
-msgstr "Uma nova experiência de Mosaicos"
-
-#: firefox/tiles.lang:8
-msgid ""
-"With Enhanced Tiles and Directory Tiles, Firefox provides users easy access "
-"to interesting, relevant content, whether it’s the sites they visit most or "
-"new sites for them to discover."
+#: firefox/tiles.lang:5
+msgid "More choices for your New Tab"
 msgstr ""
-"Com os Mosaicos Melhorados e de Diretório, o Firefox fornece aos "
-"utilizadores um acesso facilitado a conteúdo interessante e relevantes, quer "
-"sejam sítios mais visitados ou novos sítios para serem descobertos por eles."
 
-#: firefox/tiles.lang:12
-msgid "What are Tiles?"
-msgstr "O que são Mosaicos?"
-
-#: firefox/tiles.lang:16
+#: firefox/tiles.lang:9
 msgid ""
-"When you open a new tab in Firefox, you see several rectangles that link to "
-"different websites."
-msgstr ""
-"Ao abrir um novo separador no Firefox, irá ver vários retângulos que ligam a "
-"diferentes sítios web."
-
-#: firefox/tiles.lang:20
-msgid ""
-"Some people call them squares, windows or bookmarks; we call them Tiles."
-msgstr ""
-"Algumas pessoas dão-lhe o nome de quadrados, janelas ou marcadores; nós "
-"damos-lhe o nome de Mosaicos."
-
-#: firefox/tiles.lang:24
-msgid "What are Enhanced Tiles?"
-msgstr "O que são os Mosaicos Melhorados?"
-
-#: firefox/tiles.lang:28
-msgid ""
-"Existing Firefox users will be offered a set of Enhanced Tiles based on "
-"their browsing history."
-msgstr ""
-"Aos utilizadores atuais do Firefox serão oferecidos um conjunto de Mosaicos "
-"Melhorados baseados no seu histórico de navegação."
-
-#: firefox/tiles.lang:32
-msgid ""
-"The Enhanced versions replace the default screenshot with a better image and "
-"are displayed only for sites that the user has visited."
-msgstr ""
-"As versões melhoradas substituem a captura de ecrã pré-definida por uma "
-"imagem melhor que apenas é mostrada nos sítios que o utilizador visitou."
-
-#: firefox/tiles.lang:36
-msgid ""
-"The improved image is supplied by the site or partner and can include a logo "
-"plus a rollover image."
-msgstr ""
-"A imagem melhorada é fornecida pelo sítio ou parceiro e pode incluir um "
-"logótipo e uma imagem de transição."
-
-#: firefox/tiles.lang:40
-msgid ""
-"If you frequent Amazon.com, for example, you might see the Amazon logo or "
-"icon, instead of a screenshot."
-msgstr ""
-"Por exemplo, se frequenta a Amazon.com, pode ver o logótipo ou ícone da "
-"Amazon, em vez de uma captura de ecrã."
-
-#: firefox/tiles.lang:44
-msgid "What are Directory Tiles?"
-msgstr "O que são Mosaicos de Diretório?"
-
-#: firefox/tiles.lang:48
-msgid ""
-"New Firefox users are initially given a set of Directory Tiles as "
-"suggestions for sites that may be of interest to them."
-msgstr ""
-"Inicialmente são dados aos novos utilizadores do Firefox um novo conjunto de "
-"mosaicos de diretório como sugestões para sítios que podem ser do seu "
-"interesse."
-
-#: firefox/tiles.lang:52
-msgid ""
-"Instead of displaying a blank set of Tiles, Firefox shows content from "
-"Mozilla and some Mozilla partners."
-msgstr ""
-"Em vez de mostrar um conjunto de mosaicos vazios, o Firefox mostra os "
-"conteúdos da Mozilla e de alguns dos seus parceiros."
-
-#: firefox/tiles.lang:56
-msgid ""
-"All partner content is marked as “sponsored” and users have complete control "
-"to edit or remove any Tile."
-msgstr ""
-"Todo o conteúdo de parceiros é marcado como “patrocinado” e os utilizadores "
-"têm controlo absoluto para editar ou remover qualquer Mosaico."
-
-#: firefox/tiles.lang:60
-msgid "Respects your privacy"
-msgstr "Respeita a sua privacidade"
-
-#: firefox/tiles.lang:64
-msgid ""
-"As with all Mozilla products, Tiles provide users with extensive control "
-"over their personal data."
-msgstr ""
-"Como todos os produtos da Mozilla, os Mosaicos fornecem amplo controlo aos "
-"utilizadores sobre os seus dados pessoais."
-
-#: firefox/tiles.lang:68
-msgid ""
-"Data collection is limited to the aggregate number of impressions, clicks "
-"and Tile placement."
-msgstr ""
-"A recolha de informação é limitada a um número agregado de impressor, clique "
-"e disposição de Mosaicos."
-
-#: firefox/tiles.lang:72
-msgid ""
-"Nothing is ever personally identifiable. In other words, we don’t know who "
-"clicks on what."
-msgstr ""
-"Nada permite a identificação pessoal. Dito de outra forma, não sabemos quem "
-"clica em quê."
-
-#: firefox/tiles.lang:76
-msgid ""
-"We just know the total number of views and clicks an individual Tile "
-"receives. This helps us deliver the most interesting and relevant content."
-msgstr ""
-"Apenas sabemos o número total de apresentações e cliques que um determinado "
-"Mosaico recebe. Isto ajuda-nos a fornecer o conteúdo mais interessante e "
-"relevante."
-
-#: firefox/tiles.lang:80
-msgid ""
-"You can deactivate click and impression tracking by clicking on the gear "
-"icon on the top right corner of the new tab page, and selecting Classic to "
-"show only unenhanced History Tiles or Blank mode."
-msgstr ""
-"Pode desativar a monitorização de cliques e de impressões clicando no ícone "
-"da engrenagem no canto superior direito do separador de nova página e "
-"selecionar a opção Clássico para apresentar apenas os Mosaicos não "
-"melhorados de Histórico ou o modo em Branco."
-
-#: firefox/tiles.lang:84
-msgid "Frequently Asked Questions"
-msgstr "Perguntas Frequentes"
-
-#: firefox/tiles.lang:88
-msgid "Are you tracking users now?"
-msgstr "Agora monitorizam os utilizadores?"
-
-#: firefox/tiles.lang:92
-msgid ""
-"We only collect data from the New Tab page in aggregate form, meaning no "
-"data is personally identifiable."
-msgstr ""
-"Nós apenas recolhemos dados do Separador de Nova página de forma agregada, o "
-"que significa que nenhuma informação permite a identificação pessoal."
-
-#: firefox/tiles.lang:96
-msgid "What data is being collected?"
-msgstr "Que informações estão a ser recolhidas?"
-
-#: firefox/tiles.lang:100
-msgid ""
-"Aggregate data from the New Tab page includes impressions, clicks and tile "
-"placement."
-msgstr ""
-"Dados agregados do Separador de Nova página incluem impressões, cliques e "
-"posicionamento dos mosaicos."
-
-#: firefox/tiles.lang:104
-msgid "What data is collected when I opt out?"
-msgstr "Que informações são recolhidas quando opto por não participar?"
-
-#: firefox/tiles.lang:108
-msgid ""
-"No data is collected when a user chooses to opt out of the enhanced Tiles "
+"The New Tab page offers convenience and more control of your browsing "
 "experience."
 msgstr ""
-"Não são recolhidas quaisquer informações quando um utilizador opta por não "
-"utilizar a experiência de Mosaicos melhorados."
 
-#: firefox/tiles.lang:112
-msgid "Where can I learn more?"
-msgstr "Onde posso saber mais?"
-
-#. Link to https://blog.mozilla.org/futurereleases/2014/09/04/new-tab-page-experiments-in-firefox-beta/
-#: firefox/tiles.lang:118
-msgid "New Tab Experiments in Firefox Beta"
-msgstr "Experiências para novos separadores no Firefox Beta"
-
-#. Link to https://blog.mozilla.org/advancingcontent/2014/08/21/a-call-for-trust-transparency-and-user-control-in-advertising/
-#: firefox/tiles.lang:123
-msgid "A Call for Trust, Transparency and User Control in Advertising"
+#: firefox/tiles.lang:13
+msgid ""
+"Turn on Suggested Sites for a personalized experience of frequently used "
+"sites and relevant recommendations every time you open a New Tab."
 msgstr ""
-"Uma chamada pela confiança, transparência e controlo da informação pelo "
-"utilizador na publicidade"
 
-#. Link to https://blog.mozilla.org/netpolicy/2014/08/21/trust-should-be-the-currency/
-#: firefox/tiles.lang:128
-msgid "Trust should be the currency"
-msgstr "A confiança devia ser a moeda"
+#: firefox/tiles.lang:17
+msgid "Personalize your New Tab experience"
+msgstr ""
 
-#. Used as title of the screenshot
-#: firefox/tiles.lang:133
-msgid "Tiles Preferences"
-msgstr "Preferências de Mosaicos"
+#: firefox/tiles.lang:21
+msgid ""
+"You are in complete control of your New Tab page. Customize your experience "
+"by rearranging, pinning or removing sites, and set up New Tab just the way "
+"you want it."
+msgstr ""
 
-#: firefox/tiles.lang:137
+#: firefox/tiles.lang:25
+msgid "Drag a site to exactly where you want it."
+msgstr ""
+
+#: firefox/tiles.lang:29
 msgid "Screenshot"
 msgstr "Captura de ecrã"
 
-#. Link points to https://support.mozilla.org/kb/how-do-tiles-work-firefox
-#: firefox/tiles.lang:142
-msgid "For more help please see the <a href=\"%(url)s\">Tiles Support Page</a>"
+#: firefox/tiles.lang:33
+msgid ""
+"Once you’ve found the perfect spot for your site, pin it to make it stay."
 msgstr ""
-"Para mais ajuda por favor consulte a <a href=\"%(url)s\">Página de Apoio dos "
-"Mosaicos</a>"
+
+#: firefox/tiles.lang:37
+msgid "Make a site disappear by deleting it from your New Tab page."
+msgstr ""
+
+#: firefox/tiles.lang:41
+msgid "<a href=\"%(url)s\">Learn more about customizing New Tab</a>"
+msgstr ""
+
+#: firefox/tiles.lang:45
+msgid "Discover new sites and content on the Web"
+msgstr ""
+
+#: firefox/tiles.lang:49
+msgid ""
+"If enabled, Firefox displays website links as thumbnails (miniaturized "
+"images) or logos on your New Tab page. These are called Tiles."
+msgstr ""
+
+#: firefox/tiles.lang:53
+msgid ""
+"Tiles save you time by giving you quick access to your frequently visited "
+"sites, as well as showing new sites and content that are similar to sites "
+"you already love."
+msgstr ""
+
+#: firefox/tiles.lang:57
+msgid "Here are the types of Tiles you may see:"
+msgstr ""
+
+#: firefox/tiles.lang:61
+msgid "Top sites"
+msgstr ""
+
+#: firefox/tiles.lang:65
+msgid ""
+"New Tab will show the “top sites” you visited most recently and frequently, "
+"so you can access them quickly."
+msgstr ""
+
+#: firefox/tiles.lang:69
+msgid "Suggested sites"
+msgstr ""
+
+#: firefox/tiles.lang:73
+msgid ""
+"See sites and content suggested to you based on categories that Firefox "
+"identifies in your browsing history."
+msgstr ""
+
+#: firefox/tiles.lang:77
+msgid ""
+"They will be clearly labeled in your new tab as “Suggested,” or when the "
+"suggestion is from a commercial partner, they will be labeled as "
+"“Sponsored,” and will indicate the identified interest category."
+msgstr ""
+
+#: firefox/tiles.lang:81
+msgid "If you’re getting started"
+msgstr ""
+
+#: firefox/tiles.lang:85
+msgid ""
+"If you’re using Firefox for the first time, the New Tab page is already "
+"populated with useful and interesting sites and content."
+msgstr ""
+
+#: firefox/tiles.lang:89
+msgid ""
+"This includes both referrals to sponsored sites from commercial partners, "
+"labeled as \"Sponsored,\" and content we consider important to our mission "
+"of advancing the public benefit of the Internet."
+msgstr ""
+
+#: firefox/tiles.lang:93
+msgid "Personalization with your privacy in mind"
+msgstr ""
+
+#: firefox/tiles.lang:97
+msgid ""
+"Mozilla promotes a transparent exchange between users and content providers "
+"to make the Web enjoyable and sustainable."
+msgstr ""
+
+#: firefox/tiles.lang:101
+msgid ""
+"If suggestions are enabled, Firefox will make suggestions to you based on "
+"categories identified in your browsing history and will let you know every "
+"time why are you seeing specific suggestions."
+msgstr ""
+
+#: firefox/tiles.lang:105
+msgid ""
+"In delivering Suggested sites, Firefox does not share your personal data, "
+"nor place cookies on your computer."
+msgstr ""
+
+#: firefox/tiles.lang:109
+msgid ""
+"Content providers will only receive aggregated information about "
+"interactions users have with their tiles, but individual information is "
+"never shared or sold."
+msgstr ""
+
+#: firefox/tiles.lang:113
+msgid ""
+"You remain in control of your browsing history, and you can disable "
+"suggestions whenever you choose."
+msgstr ""
+
+#~ msgid "A Brand New Tiles Experience"
+#~ msgstr "Uma nova experiência de Mosaicos"
+
+#~ msgid ""
+#~ "With Enhanced Tiles and Directory Tiles, Firefox provides users easy "
+#~ "access to interesting, relevant content, whether it’s the sites they "
+#~ "visit most or new sites for them to discover."
+#~ msgstr ""
+#~ "Com os Mosaicos Melhorados e de Diretório, o Firefox fornece aos "
+#~ "utilizadores um acesso facilitado a conteúdo interessante e relevantes, "
+#~ "quer sejam sítios mais visitados ou novos sítios para serem descobertos "
+#~ "por eles."
+
+#~ msgid "What are Tiles?"
+#~ msgstr "O que são Mosaicos?"
+
+#~ msgid ""
+#~ "When you open a new tab in Firefox, you see several rectangles that link "
+#~ "to different websites."
+#~ msgstr ""
+#~ "Ao abrir um novo separador no Firefox, irá ver vários retângulos que "
+#~ "ligam a diferentes sítios web."
+
+#~ msgid ""
+#~ "Some people call them squares, windows or bookmarks; we call them Tiles."
+#~ msgstr ""
+#~ "Algumas pessoas dão-lhe o nome de quadrados, janelas ou marcadores; nós "
+#~ "damos-lhe o nome de Mosaicos."
+
+#~ msgid "What are Enhanced Tiles?"
+#~ msgstr "O que são os Mosaicos Melhorados?"
+
+#~ msgid ""
+#~ "Existing Firefox users will be offered a set of Enhanced Tiles based on "
+#~ "their browsing history."
+#~ msgstr ""
+#~ "Aos utilizadores atuais do Firefox serão oferecidos um conjunto de "
+#~ "Mosaicos Melhorados baseados no seu histórico de navegação."
+
+#~ msgid ""
+#~ "The Enhanced versions replace the default screenshot with a better image "
+#~ "and are displayed only for sites that the user has visited."
+#~ msgstr ""
+#~ "As versões melhoradas substituem a captura de ecrã pré-definida por uma "
+#~ "imagem melhor que apenas é mostrada nos sítios que o utilizador visitou."
+
+#~ msgid ""
+#~ "The improved image is supplied by the site or partner and can include a "
+#~ "logo plus a rollover image."
+#~ msgstr ""
+#~ "A imagem melhorada é fornecida pelo sítio ou parceiro e pode incluir um "
+#~ "logótipo e uma imagem de transição."
+
+#~ msgid ""
+#~ "If you frequent Amazon.com, for example, you might see the Amazon logo or "
+#~ "icon, instead of a screenshot."
+#~ msgstr ""
+#~ "Por exemplo, se frequenta a Amazon.com, pode ver o logótipo ou ícone da "
+#~ "Amazon, em vez de uma captura de ecrã."
+
+#~ msgid "What are Directory Tiles?"
+#~ msgstr "O que são Mosaicos de Diretório?"
+
+#~ msgid ""
+#~ "New Firefox users are initially given a set of Directory Tiles as "
+#~ "suggestions for sites that may be of interest to them."
+#~ msgstr ""
+#~ "Inicialmente são dados aos novos utilizadores do Firefox um novo conjunto "
+#~ "de mosaicos de diretório como sugestões para sítios que podem ser do seu "
+#~ "interesse."
+
+#~ msgid ""
+#~ "Instead of displaying a blank set of Tiles, Firefox shows content from "
+#~ "Mozilla and some Mozilla partners."
+#~ msgstr ""
+#~ "Em vez de mostrar um conjunto de mosaicos vazios, o Firefox mostra os "
+#~ "conteúdos da Mozilla e de alguns dos seus parceiros."
+
+#~ msgid ""
+#~ "All partner content is marked as “sponsored” and users have complete "
+#~ "control to edit or remove any Tile."
+#~ msgstr ""
+#~ "Todo o conteúdo de parceiros é marcado como “patrocinado” e os "
+#~ "utilizadores têm controlo absoluto para editar ou remover qualquer "
+#~ "Mosaico."
+
+#~ msgid "Respects your privacy"
+#~ msgstr "Respeita a sua privacidade"
+
+#~ msgid ""
+#~ "As with all Mozilla products, Tiles provide users with extensive control "
+#~ "over their personal data."
+#~ msgstr ""
+#~ "Como todos os produtos da Mozilla, os Mosaicos fornecem amplo controlo "
+#~ "aos utilizadores sobre os seus dados pessoais."
+
+#~ msgid ""
+#~ "Data collection is limited to the aggregate number of impressions, clicks "
+#~ "and Tile placement."
+#~ msgstr ""
+#~ "A recolha de informação é limitada a um número agregado de impressor, "
+#~ "clique e disposição de Mosaicos."
+
+#~ msgid ""
+#~ "Nothing is ever personally identifiable. In other words, we don’t know "
+#~ "who clicks on what."
+#~ msgstr ""
+#~ "Nada permite a identificação pessoal. Dito de outra forma, não sabemos "
+#~ "quem clica em quê."
+
+#~ msgid ""
+#~ "We just know the total number of views and clicks an individual Tile "
+#~ "receives. This helps us deliver the most interesting and relevant content."
+#~ msgstr ""
+#~ "Apenas sabemos o número total de apresentações e cliques que um "
+#~ "determinado Mosaico recebe. Isto ajuda-nos a fornecer o conteúdo mais "
+#~ "interessante e relevante."
+
+#~ msgid ""
+#~ "You can deactivate click and impression tracking by clicking on the gear "
+#~ "icon on the top right corner of the new tab page, and selecting Classic "
+#~ "to show only unenhanced History Tiles or Blank mode."
+#~ msgstr ""
+#~ "Pode desativar a monitorização de cliques e de impressões clicando no "
+#~ "ícone da engrenagem no canto superior direito do separador de nova página "
+#~ "e selecionar a opção Clássico para apresentar apenas os Mosaicos não "
+#~ "melhorados de Histórico ou o modo em Branco."
+
+#~ msgid "Frequently Asked Questions"
+#~ msgstr "Perguntas Frequentes"
+
+#~ msgid "Are you tracking users now?"
+#~ msgstr "Agora monitorizam os utilizadores?"
+
+#~ msgid ""
+#~ "We only collect data from the New Tab page in aggregate form, meaning no "
+#~ "data is personally identifiable."
+#~ msgstr ""
+#~ "Nós apenas recolhemos dados do Separador de Nova página de forma "
+#~ "agregada, o que significa que nenhuma informação permite a identificação "
+#~ "pessoal."
+
+#~ msgid "What data is being collected?"
+#~ msgstr "Que informações estão a ser recolhidas?"
+
+#~ msgid ""
+#~ "Aggregate data from the New Tab page includes impressions, clicks and "
+#~ "tile placement."
+#~ msgstr ""
+#~ "Dados agregados do Separador de Nova página incluem impressões, cliques e "
+#~ "posicionamento dos mosaicos."
+
+#~ msgid "What data is collected when I opt out?"
+#~ msgstr "Que informações são recolhidas quando opto por não participar?"
+
+#~ msgid ""
+#~ "No data is collected when a user chooses to opt out of the enhanced Tiles "
+#~ "experience."
+#~ msgstr ""
+#~ "Não são recolhidas quaisquer informações quando um utilizador opta por "
+#~ "não utilizar a experiência de Mosaicos melhorados."
+
+#~ msgid "Where can I learn more?"
+#~ msgstr "Onde posso saber mais?"
+
+#~ msgid "New Tab Experiments in Firefox Beta"
+#~ msgstr "Experiências para novos separadores no Firefox Beta"
+
+#~ msgid "A Call for Trust, Transparency and User Control in Advertising"
+#~ msgstr ""
+#~ "Uma chamada pela confiança, transparência e controlo da informação pelo "
+#~ "utilizador na publicidade"
+
+#~ msgid "Trust should be the currency"
+#~ msgstr "A confiança devia ser a moeda"
+
+#~ msgid "Tiles Preferences"
+#~ msgstr "Preferências de Mosaicos"
+
+#~ msgid ""
+#~ "For more help please see the <a href=\"%(url)s\">Tiles Support Page</a>"
+#~ msgstr ""
+#~ "Para mais ajuda por favor consulte a <a href=\"%(url)s\">Página de Apoio "
+#~ "dos Mosaicos</a>"
