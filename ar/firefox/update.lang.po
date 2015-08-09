@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-08-06 11:03+0000\n"
+"PO-Revision-Date: 2015-08-09 11:18+0000\n"
 "Last-Translator: Abdelrahman  Manna <abood.fcb@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: ar\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n>=3 && "
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1438859005.000000\n"
+"X-POOTLE-MTIME: 1439119084.000000\n"
 
 #: firefox/update.lang:4
 msgid "Welcome"
@@ -59,6 +59,11 @@ msgid ""
 "discovered, we write a patch and release an update to stay one step ahead. "
 "Downloading Firefox updates is a very important part of staying safe online."
 msgstr ""
+"كثيراً جدا لذا - أمنكم هو على رأس أولوياتنا.لدينا عملية أمنية مفتوحة المصدر "
+"يعني أن لدينا مجتمع دولي من الخبراء الذين يعملون على مدار الساعة لرصد "
+"التهديدات الاخيرة. حالما اكتشف تهديدا أمنيا، نحن نكتب التصحيح والافراج عن "
+"تحديث للبقاء خطوة واحدة إلى الأمام. تحميل تحديثات فيرفكس هو جزء مهم جدا من "
+"البقاء آمناً على الإنترنت."
 
 #: firefox/update.lang:36
 msgid ""
@@ -98,6 +103,8 @@ msgid ""
 "You are also able to check for updates manually. For details, check out the "
 "<a %(link)s>step-by-step guide</a>.</p>"
 msgstr ""
+"أنت أيضا قادرة على التحقق من وجود تحديثات يدويا. لمزيد من التفاصيل، راجع<a "
+"%(link)s> الدليل خطوة بخطوة</a>.</p>"
 
 #: firefox/update.lang:60
 msgid "Check for Updates"
@@ -108,7 +115,6 @@ msgid "What if I miss an update? Can I check for one myself?"
 msgstr "ماذا لو فتقد التحديث؟ هل يمكنني التحقق من وجود واحد بنفسي؟"
 
 #: firefox/update.lang:68
-#, fuzzy
 msgid "Your Firefox is up to date."
 msgstr "نسختك من فيَرفُكس مُحدّثة."
 
