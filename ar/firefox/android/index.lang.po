@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-17 17:23+0000\n"
-"PO-Revision-Date: 2015-08-09 07:05+0000\n"
+"PO-Revision-Date: 2015-08-09 07:30+0000\n"
 "Last-Translator: Abdelrahman  Manna <abood.fcb@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n>=3 && "
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1439103922.000000\n"
+"X-POOTLE-MTIME: 1439105442.000000\n"
 
 #. Used in HTML as page title
 #: firefox/android/index.lang:7
@@ -107,6 +107,8 @@ msgid ""
 "Display your Home panels in any order you like or add, hide and delete them "
 "as you see fit to keep your favorites one touch away."
 msgstr ""
+"عرض اللوحات الرئيسية الخاصة بك في أي أمر تريد أو إضافتها، إخفائها وحذفها على "
+"النحو الذي تراه مناسبا للحفاظ على المفضلة لديك على بعد لمسة واحدة."
 
 #: firefox/android/index.lang:82
 msgid "Learn more"
@@ -114,21 +116,21 @@ msgstr "اطّلع على المزيد"
 
 #: firefox/android/index.lang:86
 msgid "Any search you like"
-msgstr ""
+msgstr "أي بحث تريد"
 
 #: firefox/android/index.lang:90
 msgid "Add any search engine and make it your default."
-msgstr ""
+msgstr "إضافة أي محرك بحث وجعله الافتراضي."
 
 #: firefox/android/index.lang:94
 msgid ""
 "Or change it any time to the one that best matches your search and privacy "
 "needs."
-msgstr ""
+msgstr "أو تغييره في أي وقت إلى واحد يطابق احتياجات البحث وخصوصيتك بشكل أفضل."
 
 #: firefox/android/index.lang:98
 msgid "Change your language"
-msgstr ""
+msgstr "قم بتغيير لغتك"
 
 #: firefox/android/index.lang:103
 msgid "Read and save articles easily"
@@ -137,7 +139,7 @@ msgstr "قراءة وحفظ المقالات بسهولة"
 #: firefox/android/index.lang:108
 msgid ""
 "Enjoy a more pleasant reading experience with Reader View and Reading List."
-msgstr ""
+msgstr "الاستمتاع بتجربة أكثر متعة من القراءة مع عرض القارئ وقائمة القراءة."
 
 #: firefox/android/index.lang:113
 msgid "Access your saved articles even when you’re not online."
@@ -146,18 +148,20 @@ msgstr "قم بالوصول إلى المقالات المحفوظة حتى عن
 #. Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
 #: firefox/android/index.lang:119
 msgid "Learn more about Reading List"
-msgstr ""
+msgstr "تعلم المزيد حول قائمة القراءة"
 
 #. Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
 #: firefox/android/index.lang:125
 msgid "Learn more about Reader View"
-msgstr ""
+msgstr "تعلم المزيد حول عرض القارئ"
 
 #: firefox/android/index.lang:129
 msgid ""
 "Change your browser language quickly and easily, without having to change "
 "the settings for your entire device or even restart your browser."
 msgstr ""
+"تغيير لغة المستعرض الخاص بك بسرعة وسهولة، دون الحاجة إلى تغيير إعدادات "
+"الجهاز بأكمله أو حتى إعادة تشغيل المتصفح."
 
 #: firefox/android/index.lang:133
 msgid "Take it to the big screen"
@@ -168,6 +172,8 @@ msgid ""
 "Send video and Web content from your smartphone or tablet to any TV equipped "
 "with supported streaming capabilities."
 msgstr ""
+"إرسال الفيديو ومحتوى الويب من الهاتف الذكي أو الجهاز اللوحي إلى أي جهاز "
+"تلفزيون مزود بقدرات البث المعتمدة."
 
 #: firefox/android/index.lang:141
 msgid "Keep your private info private"
@@ -190,6 +196,8 @@ msgid ""
 "Enable this Firefox innovation to help you stay in control of how your "
 "browsing information is collected and used online."
 msgstr ""
+"تمكين ابتكار فيرفكس هذا لمساعدتك على البقاء متحكماً في كيفية جمع معلومات "
+"تصفحك واستخدام الانترنت."
 
 #: firefox/android/index.lang:161
 msgid "Learn more about Do Not Track"
@@ -210,17 +218,16 @@ msgid "Learn how to open a private window"
 msgstr "تعلم كيفية فتح نافذة خاصة"
 
 #: firefox/android/index.lang:178
-#, fuzzy
 msgid "See how Private Browsing works"
-msgstr "شاهد كيف يعمل التصفح كضيف"
+msgstr "شاهد كيف يعمل التصفح الخاص"
 
 #: firefox/android/index.lang:182
 msgid "Clear history"
-msgstr ""
+msgstr "امسح تاريخ البيانات"
 
 #: firefox/android/index.lang:186
 msgid "Delete your browsing history, passwords and more in a single tap."
-msgstr ""
+msgstr "حذف سجل التصفح وكلمات السر وأكثر في نقرة واحدة."
 
 #: firefox/android/index.lang:190
 msgid "Choose the private data you want to remove whenever you need to do so."
@@ -239,6 +246,8 @@ msgid ""
 "Share your browser with friends and family without worrying that you’ll see "
 "each other’s online activity."
 msgstr ""
+"شارك متصفحك مع الأصدقاء والعائلة دون قلق من أنهم سيروا نشاط بعضهم البعض على "
+"الانترنت."
 
 #: firefox/android/index.lang:207
 msgid "Learn how to share your browser"
@@ -250,17 +259,21 @@ msgstr "شاهد كيف يعمل التصفح كضيف"
 
 #: firefox/android/index.lang:215
 msgid "Don’t leave home without being in Sync"
-msgstr ""
+msgstr "لا تترك الرئيسية دون أن يكون في تزامن"
 
 #: firefox/android/index.lang:219
 msgid "Bring your passwords, bookmarks, open tabs and more everywhere you go."
 msgstr ""
+"جلب كلمات السر، العناوين، وعلامات التبويب المفتوحة وأكثر في كل مكان تذهب "
+"إليه."
 
 #: firefox/android/index.lang:223
 msgid ""
 "Use Sync on your smartphone or tablet to access whatever you need from your "
 "desktop &mdash; and vice versa &mdash; without having to remember URLs."
 msgstr ""
+"استخدام المزامنة على الهاتف الذكي أو الكمبيوتر اللوحي للوصول إلى كل ما "
+"تحتاجه من سطح المكتب &mdash; والعكس &mdash; دون الحاجة لتذكر الروابط."
 
 #: firefox/android/index.lang:227
 msgid "Learn more about Sync"
