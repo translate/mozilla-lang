@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-08-10 08:04+0000\n"
+"PO-Revision-Date: 2015-08-10 08:42+0000\n"
 "Last-Translator: Abdelrahman  Manna <abood.fcb@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n>=3 && "
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1439193859.000000\n"
+"X-POOTLE-MTIME: 1439196157.000000\n"
 
 #. <title> tag
 #: firefox/partners/index.lang:7
@@ -29,7 +29,7 @@ msgstr "شارِك معنا"
 #. Sub-title
 #: firefox/partners/index.lang:17
 msgid "Contact our business development team to get on board."
-msgstr ""
+msgstr "تواصل مع فريق تطوير الأعمال لدينا للإنضمام."
 
 #. Field
 #: firefox/partners/index.lang:22
@@ -44,12 +44,12 @@ msgstr "الاسم الأخير"
 #. Field, e.g. president, CEO...
 #: firefox/partners/index.lang:32
 msgid "Title"
-msgstr ""
+msgstr "العنوان"
 
 #. Field
 #: firefox/partners/index.lang:37
 msgid "Company"
-msgstr ""
+msgstr "الشركة"
 
 #. Field
 #: firefox/partners/index.lang:42
@@ -64,12 +64,12 @@ msgstr "البريد الإلكتروني"
 #. Form field
 #: firefox/partners/index.lang:52
 msgid "Phone"
-msgstr ""
+msgstr "الهاتف"
 
 #. Form field
 #: firefox/partners/index.lang:57
 msgid "Interest:"
-msgstr ""
+msgstr "اهتمام:"
 
 #. Specific interest
 #: firefox/partners/index.lang:62
@@ -85,12 +85,12 @@ msgstr "أخرى ..."
 #. Tooltip for selected options
 #: firefox/partners/index.lang:72
 msgid "Interest"
-msgstr ""
+msgstr "اهتمام"
 
 #. Submit button text
 #: firefox/partners/index.lang:77
 msgid "Submit my request"
-msgstr ""
+msgstr "أرسل طلبي"
 
 #: firefox/partners/index.lang:81
 msgid "Thanks for your interest in partnering with us"
@@ -110,12 +110,12 @@ msgstr "نظرة عامّة"
 #. Text on the left, on top of the Firefox logo
 #: firefox/partners/index.lang:95
 msgid "Explore the site"
-msgstr ""
+msgstr "استكشف الموقع"
 
 #. Page title
 #: firefox/partners/index.lang:100
 msgid "Unleash the future"
-msgstr ""
+msgstr "أطلق العنان للمستقبل"
 
 #. Page description (meta tag)
 #: firefox/partners/index.lang:105
@@ -125,6 +125,9 @@ msgid ""
 "our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox "
 "Marketplace</a> and <a %(url3)s>Firefox for Android</a>."
 msgstr ""
+"نحن نمكن المشغلين، مصنعي الهواتف والمطورين من إدارة, وتخصيص وتحسين العلاقات "
+"مع عملائهم بشكل مباشر من خلال منتجات الأجهزة النقالة لدينا:<a %(url1)s>نظام "
+"تشغيل فيرفكس</a>,<a %(url2)s>سوق فيرفكس</a>و<a %(url3)s>فيرفكس للأندرويد</a>."
 
 #: firefox/partners/index.lang:110
 msgid ""
@@ -132,16 +135,20 @@ msgid ""
 "countries with more than 50 launches and 14 global operators — and that "
 "momentum continues in 2015."
 msgstr ""
+"أحضر نظام تشغيل فيرفوكس الانفتاح, وسهولة الوصول, والفرصة ل29 دولة مع أكثر من "
+"50 إطلاق و14 شركة عالمية—ويستمر هذا الزخم في عام 2015."
 
 #: firefox/partners/index.lang:114
 msgid ""
 "See what’s next for mobile with <a %(url1)s>Firefox OS</a>, <a "
 "%(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>."
 msgstr ""
+"شاهد ما هي الخطوة التالية للجهاز النقّال مع<a %(url1)s>نظام تشغيل فيرفكس</a>,"
+"<a %(url2)s>سوق فيرفكس</a>و<a %(url3)s>فيرفكس للأندرويد</a>."
 
 #: firefox/partners/index.lang:118
 msgid "See more partners"
-msgstr ""
+msgstr "رؤية المزيد من الشركاء"
 
 #: firefox/partners/index.lang:122
 msgid "Recent news"
@@ -150,7 +157,7 @@ msgstr "آخر الأخبار"
 #. press release in English/Polish/French/Spanish/Portuguese/Italian, if your locale is not covered, you choose if you keep it in English or not
 #: firefox/partners/index.lang:127
 msgid "Firefox OS Unleashes the Future of Mobile"
-msgstr ""
+msgstr "نظام تشغيل فيرفكس  يطلق العنان لمستقبل الموبايل"
 
 #. This is used as a button label that links to https://mobilepartners.mozilla.org/
 #: firefox/partners/index.lang:133
@@ -160,35 +167,41 @@ msgstr "كن شريكًا"
 #. Title
 #: firefox/partners/index.lang:139
 msgid "Just what your customers need"
-msgstr ""
+msgstr "ما يحتاجه الزبائن"
 
 #: firefox/partners/index.lang:144
 msgid ""
 "Easy to use. Easy to customize. Firefox OS is an open platform that fosters "
 "greater participation in the value chain."
 msgstr ""
+"سهل الاستخدام. سهل التخصيص. نظام تشغيل فيرفكس هو منصة مفتوحة تعزز المشاركة "
+"بشكل أكبر في سلسلة القيمة."
 
 #. Title
 #: firefox/partners/index.lang:149
 msgid "The Web is the platform"
-msgstr ""
+msgstr "الويب هو المنصة"
 
 #: firefox/partners/index.lang:154
 msgid ""
 "Firefox OS is an independent alternative ecosystem free from the rules and "
 "restrictions of existing proprietary platforms."
 msgstr ""
+"يعتبر نظام تشغيل فيرفكس نظاما بديلاً مستقلاً خالي من القواعد والقيود المفروضة "
+"على منصات الملكية الموجودة."
 
 #: firefox/partners/index.lang:159
 msgid ""
 "Our partners are industry leaders that have realized the value that a "
 "differentiated offering can bring to their target markets."
 msgstr ""
+"شركاؤنا هم قادة الصناعة التي أدركت القيمة في العرض المتباين الذي يمكن أن "
+"يُجلب إلى الأسواق المستهدفة."
 
 #. Title
 #: firefox/partners/index.lang:164
 msgid "Made by Firefox"
-msgstr ""
+msgstr "مصنوع بواسطة فيرفكس"
 
 #: firefox/partners/index.lang:168
 msgid ""
@@ -196,16 +209,19 @@ msgid ""
 "Web to keep it open and accessible to all. As a result of our efforts, one "
 "fifth of all Web activity today happens through Firefox products."
 msgstr ""
+"على مدى السنوات ال 15 الماضية، كنا دور أساسي في ابتكار وتشكيل الويب لإبقائه "
+"مفتوحاً ومتاحاً للجميع. نتيجةً لجهودنا، خُمس النشاطات على الويب اليوم تحدث من "
+"خلال منتجات فيرفوكس."
 
 #. Main title of the FxOS - Operators & Manufacturers section
 #: firefox/partners/index.lang:174
 msgid "The Open Web advantage"
-msgstr ""
+msgstr "ميزة شبكة الإنترنت المفتوحة"
 
 #. List title
 #: firefox/partners/index.lang:180
 msgid "With Firefox OS you can:"
-msgstr ""
+msgstr "مع نظام تشغيل فيرفكس يمكنك:"
 
 #. List item
 #: firefox/partners/index.lang:186
@@ -215,36 +231,36 @@ msgstr ""
 #. List item
 #: firefox/partners/index.lang:192
 msgid "Own and control your relationship with your consumers"
-msgstr ""
+msgstr "قم بامتلاك والسيطرة علاقتك مع عملائك"
 
 #. List item
 #: firefox/partners/index.lang:198
 msgid "Explore alternative business models"
-msgstr ""
+msgstr "استكشف نماذج الأعمال البديلة"
 
 #. List item
 #: firefox/partners/index.lang:204
 msgid "Stimulate increased Internet use"
-msgstr ""
+msgstr "تحفيز زيادة استخدام الإنترنت"
 
 #. List item
 #: firefox/partners/index.lang:210
 msgid "Level the playing field against other OS and marketplace providers"
-msgstr ""
+msgstr "قم بقياس مستوى حقل اللعب ضد نظم التشغيل الأخرى ومزودي السوق"
 
 #. Title
 #: firefox/partners/index.lang:216
 msgid "Firefox OS at home"
-msgstr ""
+msgstr "نظام تشغيل فيرفكس في المنزل"
 
 #: firefox/partners/index.lang:221
 msgid "The power of the Web is coming to Panasonic TVs later this year"
-msgstr ""
+msgstr "قوة الويب تقترب من تلفزيونات باناسونيك في وقت لاحق هذا العام"
 
 #. Title
 #: firefox/partners/index.lang:226
 msgid "HTML5 apps for all"
-msgstr ""
+msgstr "تطبيقات HTML5 للجميع"
 
 #: firefox/partners/index.lang:231
 msgid ""
@@ -252,11 +268,14 @@ msgid ""
 "most popular apps as well as more relevant, targeted content to suit your "
 "customers’ local needs."
 msgstr ""
+"قم باكتشاف طريقة جديدة للمشاركة في النظام البيئي الذي يميز التطبيقات الأكثر "
+"شعبية في العالم، وكذلك المحتوى الأكثر ملاءمة المستهدف ليتناسب مع الاحتياجات "
+"المحلية لعملائك."
 
 #. Title
 #: firefox/partners/index.lang:237
 msgid "Your own business model"
-msgstr ""
+msgstr "نموذج الأعمال الخاص بك"
 
 #: firefox/partners/index.lang:242
 msgid ""
@@ -264,6 +283,9 @@ msgid ""
 "open source service offerings. Customize purchasing and app experiences to "
 "meet your specific needs and reach new markets."
 msgstr ""
+"قم بتنمية عملك عن طريق الجمع بين خطط سداد العملاء الخاصة بك مع الخدمات "
+"المفتوحة المصدر المقدمة. تخصيص الشراء و خبرات التطبيق لتلبية الاحتياجات "
+"المحددة الخاصة بك والوصول إلى أسواق جديدة."
 
 #. Title
 #: firefox/partners/index.lang:248
@@ -276,11 +298,14 @@ msgid ""
 "identify relevant content on the Firefox Marketplace. This ensures that your "
 "customers can easily find the content that matters most to them."
 msgstr ""
+"خبراء التطبيق وأفراد مجتمع موزيلا من جميع أنحاء العالم يقومون بالمساعدة في "
+"تحديد المحتوى ذو الصلة على سوق فيرفكس. وهذا يضمن أن الزبائن يمكنهم بسهولة "
+"العثور على المحتوى الذي يهم أكثر بالنسبة لهم."
 
 #. Title
 #: firefox/partners/index.lang:258
 msgid "Testimonials"
-msgstr ""
+msgstr "الشهادات"
 
 #: firefox/partners/index.lang:262
 msgid "See what Box, SoundCloud and others have to say"
@@ -289,7 +314,7 @@ msgstr ""
 #. Title
 #: firefox/partners/index.lang:267
 msgid "Join the Conversation"
-msgstr ""
+msgstr "انضم للمحادثة"
 
 #: firefox/partners/index.lang:271
 msgid "Follow @firefoxapps on Twitter"
@@ -302,12 +327,12 @@ msgstr "اقرأ المزيد في مدوّنة التّطبيقات"
 #. Main title of the Marketplace - Operators & Manufacturers section
 #: firefox/partners/index.lang:281
 msgid "A direct path to your customers"
-msgstr ""
+msgstr "طريق مباشر لعملائك"
 
 #. List title
 #: firefox/partners/index.lang:286
 msgid "Marketplace offers:"
-msgstr ""
+msgstr "عروض السوق:"
 
 #. List item
 #: firefox/partners/index.lang:292
@@ -322,6 +347,8 @@ msgid ""
 "An operator shelf where you can promote your messaging, content and app "
 "collections relevant to your customers and markets"
 msgstr ""
+"رف المشغل حيث يمكنك الترويج الرسائل والمحتوى والتطبيق المجموعات الخاصة بك "
+"ذات الصلة بالزبائن والأسواق."
 
 #. List item
 #: firefox/partners/index.lang:304
@@ -329,17 +356,21 @@ msgid ""
 "A unique content discovery mechanism with fresh, regularly-updated, relevant "
 "apps micro-targeted to meet customers’ local needs"
 msgstr ""
+"آلية اكتشاف محتوى فريدة من نوعها مع تحديث منتظم، جديد ، و استهداف تطبيقات "
+"ذات صلة لتلبية الاحتياجات المحلية العملاء "
 
 #. List item. Tier 1 developers = very famous developers from top companies
 #: firefox/partners/index.lang:309
 msgid "Commitment from well-known, tier 1 developers"
-msgstr ""
+msgstr "التزام من المعروف جيدا، مطورون الطبقة 1"
 
 #. List item
 #: firefox/partners/index.lang:314
 msgid ""
 "Lower barriers to entry for local app developers in both resource and cost"
 msgstr ""
+"حواجز منخفضة أكثر أمام دخول مطوري التطبيقات المحليين في كل من الموارد و "
+"التكاليف"
 
 #. Title
 #: firefox/partners/index.lang:319
@@ -352,6 +383,8 @@ msgid ""
 "Apps that customers can discover easily and access across multiple "
 "platforms, devices and operating systems"
 msgstr ""
+"التطبيقات التي يمكن للعملاء استكشافها بسهولة والوصول عبر منصات متعددة, "
+"والأجهزة وأنظمة التشغيل"
 
 #. List item
 #: firefox/partners/index.lang:331
@@ -359,11 +392,13 @@ msgid ""
 "Flexible business models, including advertising and multiple payment "
 "monetization options that make in-app payments simple"
 msgstr ""
+"نماذج عمل مرنة، بما في ذلك الإعلان و خيارات دفع تسييل متعددة التي تجعل "
+"المدفوعات في التطبيق بسيطة"
 
 #. List item
 #: firefox/partners/index.lang:336
 msgid "Optional carrier billing in regional currencies"
-msgstr ""
+msgstr "فواتير الناقل الاختيارية للعملات الإقليمية"
 
 #. List item
 #: firefox/partners/index.lang:342
@@ -371,34 +406,35 @@ msgid ""
 "The ability to connect with hundreds of millions of Firefox users and "
 "supporters around the world"
 msgstr ""
+"القدرة على الاتصال مع مئات الملايين من مستخدمي فيرفكس والمؤيدين حول العالم"
 
 #. List item
 #: firefox/partners/index.lang:347
 msgid "Access to relatively untapped markets"
-msgstr ""
+msgstr "الوصول إلى الأسواق غير المستغلة نسبياً"
 
 #. Title
 #: firefox/partners/index.lang:352
 msgid "Developer hub"
-msgstr ""
+msgstr "مركز المطور"
 
 #: firefox/partners/index.lang:356
 msgid "Learn how to make HTML5 apps for an open marketplace"
-msgstr ""
+msgstr "تعلم كيفية جعل تطبيقات HTML5 للسوق المفتوح"
 
 #. Title
 #: firefox/partners/index.lang:361
 msgid "Have an app?"
-msgstr ""
+msgstr "هل لديك تطبيق؟"
 
 #: firefox/partners/index.lang:365
 msgid "Submit it to Firefox Marketplace today"
-msgstr ""
+msgstr "قم يتقديمه إلى سوق فيرفكس اليوم"
 
 #. Title
 #: firefox/partners/index.lang:371
 msgid "A superior mobile experience"
-msgstr ""
+msgstr "تجربة فائقة للموبايل"
 
 #: firefox/partners/index.lang:376
 msgid ""
@@ -439,13 +475,15 @@ msgstr ""
 #. Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
 #: firefox/partners/index.lang:408
 msgid "Stand out <br>from the crowd"
-msgstr ""
+msgstr "ابرز <br> من الحشود"
 
 #: firefox/partners/index.lang:413
 msgid ""
 "Take advantage of our differentiated offering, strong brand and customer "
 "love for the Firefox ecosystem to drive sales and data usage."
 msgstr ""
+"قم بالاستفادة من عروضنا المتباينة، والعلامة التجارية القوية وحب العملاء "
+"لنظام فيرفكس الإيكولوجي لدفع المبيعات واستخدام البيانات."
 
 #. List Title
 #: firefox/partners/index.lang:418
@@ -462,6 +500,8 @@ msgid ""
 "Add your brand and content to increase customer touchpoints, improve "
 "retention and drive future sales."
 msgstr ""
+"قم بإضافة العلامة التجارية و المحتوى الخاص بك لزيادة نقاط التواصل مع "
+"العملاء، وتحسين معدلات الاحتفاظ و رفع المبيعات في المستقبل."
 
 #. List item sub-title
 #: firefox/partners/index.lang:433
@@ -487,16 +527,15 @@ msgstr ""
 
 #: firefox/partners/index.lang:453
 msgid "Partner Opportunities"
-msgstr ""
+msgstr "فرص الشركاء"
 
 #: firefox/partners/index.lang:457
-#, fuzzy
 msgid "For Developers"
-msgstr "للمطورين"
+msgstr "للمـطورين"
 
 #: firefox/partners/index.lang:461
 msgid "For Operators & Manufacturers"
-msgstr ""
+msgstr "للمشغلين و المصنعين"
 
 #: firefox/partners/index.lang:465
 msgid "Mobile"
@@ -504,12 +543,11 @@ msgstr "الجوّال"
 
 #: firefox/partners/index.lang:469
 msgid "Firefox Marketplace — Developer testimonials"
-msgstr ""
+msgstr "سوق فيرفكس — شهادات المطور"
 
 #: firefox/partners/index.lang:473
-#, fuzzy
 msgid "Get it on Google Play"
-msgstr "نزّله مجانًا من غوغل بلاي"
+msgstr "احصل عليه من جوجل بلاي"
 
 #. altenate text on an image
 #: firefox/partners/index.lang:478
@@ -524,12 +562,12 @@ msgstr ""
 #. Press title in Recent News
 #: firefox/partners/index.lang:488
 msgid "Mozilla and partners prepare to launch first Firefox OS smartphones"
-msgstr ""
+msgstr "موزيلا والشركاء يستعدون لإطلاق أول الهواتف ذكية بنظام تشغيل فيرفكس"
 
 #. Line break below is presentational only
 #: firefox/partners/index.lang:493
 msgid "Watch the daily <br>MWC video recap"
-msgstr ""
+msgstr "قم بمشاهدة <br> خلاصة فيديو ال MWC اليومي"
 
 #. Line break below is presentational only, Fox Den should remain in English, it is a location at the event on the Mozilla stand
 #: firefox/partners/index.lang:498
@@ -539,11 +577,11 @@ msgstr ""
 #. Line break below is presentational only
 #: firefox/partners/index.lang:503
 msgid "Firefox tweets from <br>MWC in Barcelona"
-msgstr ""
+msgstr "فيرفكس يغرّد من <br> MWC  في برشلونة"
 
 #: firefox/partners/index.lang:507
 msgid "View the version notes"
-msgstr ""
+msgstr "عرض ملحوظات الإصدار"
 
 #: firefox/partners/index.lang:511
 msgid "Read about features, changes and more"
@@ -557,12 +595,12 @@ msgstr ""
 #. Form error message
 #: firefox/partners/index.lang:521
 msgid "Please enter your first name."
-msgstr ""
+msgstr "الرجاء إدخال اسمك الأول."
 
 #. Form error message
 #: firefox/partners/index.lang:526
 msgid "Please enter your last name."
-msgstr ""
+msgstr "يرجى إدخال اسم العائلة."
 
 #. Form error message
 #: firefox/partners/index.lang:531
@@ -572,13 +610,12 @@ msgstr ""
 #. Form error message
 #: firefox/partners/index.lang:536
 msgid "Please supply a valid URL."
-msgstr ""
+msgstr "يرجى توفير رابط صالح."
 
 #. Form error message
 #: firefox/partners/index.lang:541
-#, fuzzy
 msgid "Please enter a valid email address"
-msgstr "رجاءً أدخل عنوان بريد إلكترونيّ."
+msgstr "يرجى إدخال عنوان بريد إلكتروني صالح"
 
 #. Form, Physical address field (street, city...)
 #: firefox/partners/index.lang:546
@@ -588,12 +625,12 @@ msgstr ""
 #. Form field
 #: firefox/partners/index.lang:551
 msgid "City"
-msgstr ""
+msgstr "مدينة"
 
 #. Form field
 #: firefox/partners/index.lang:556
 msgid "State/Province"
-msgstr ""
+msgstr "الدولة / المقاطعة"
 
 #. Form field
 #: firefox/partners/index.lang:561
@@ -609,7 +646,7 @@ msgstr ""
 #. This will be a link visible on the page on February 23 to view demos on the Mozilla stand
 #: firefox/partners/index.lang:571
 msgid "Register for a session"
-msgstr ""
+msgstr "سجل لجلسة"
 
 #. Used for accessibility on the menu button
 #: firefox/partners/index.lang:576
@@ -629,7 +666,7 @@ msgstr ""
 #. Title for the schedule overlay
 #: firefox/partners/index.lang:591
 msgid "Firefox at MWC 2015 &ndash; Schedule of Events"
-msgstr ""
+msgstr "فيرفكس في MWC 2015 &ndash; الجدول الزمني للأحداث"
 
 #: firefox/partners/index.lang:595
 msgid "Download PDF"
@@ -665,7 +702,7 @@ msgstr ""
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:620
 msgid "Made of the Web"
-msgstr ""
+msgstr "مصنوعة من الويب"
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:625
@@ -673,6 +710,8 @@ msgid ""
 "Built entirely using HTML5 and other open Web standards, Firefox OS is free "
 "from the rules and restrictions of existing proprietary platforms."
 msgstr ""
+"بنيت بالكامل باستخدام HTML5 وغيرها من معايير الويب المفتوح، نظام تشغيل "
+"فيرفكس خالي من القواعد والقيود المفروضة على منصات الملكية القائمة."
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:630
@@ -682,7 +721,7 @@ msgstr ""
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:635
 msgid "Firefox OS offers:"
-msgstr ""
+msgstr "نظام تشغيل فيرفكس يقدم:"
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:640
@@ -692,7 +731,7 @@ msgstr ""
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:645
 msgid "Greater participation in the value chain"
-msgstr ""
+msgstr "مشاركة أكبر في سلسلة القيمة"
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:650
@@ -703,7 +742,7 @@ msgstr ""
 #: firefox/partners/index.lang:655
 msgid ""
 "Customized phones that meet the specific needs of various target markets"
-msgstr ""
+msgstr "هواتف مخصصة تقوم بتلبية الاحتياجات الخاصة لمختلف الأسواق المستهدفة"
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:660
@@ -722,7 +761,7 @@ msgstr ""
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:670
 msgid "Your needs"
-msgstr ""
+msgstr "احتياجاتك"
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:675
@@ -735,7 +774,7 @@ msgstr ""
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:680
 msgid "Our experience"
-msgstr ""
+msgstr "خبرتنا"
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:685
@@ -749,13 +788,14 @@ msgstr ""
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:690
 msgid "The world’s largest developer community"
-msgstr ""
+msgstr "أكبر مجتمع مطورين في العالم"
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:695
 msgid ""
 "Micro-targeted content for every use-case to meet customers’ local needs"
 msgstr ""
+"استهداف المحتوى الدقيق لكل حالات الاستخدام لتلبية الاحتياجات المحلية للعملاء"
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:700
@@ -763,6 +803,7 @@ msgid ""
 "Apps that customers can access across multiple platforms, devices and "
 "operating systems"
 msgstr ""
+"التطبيقات التي يمكن للعملاء الوصول لها عبر منصات متعددة وأجهزة وأنظمة تشغيل"
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:705
@@ -774,7 +815,7 @@ msgstr ""
 msgid ""
 "The ability to connect with hundreds of millions of Firefox supporters "
 "around the world"
-msgstr ""
+msgstr "القدرة على الاتصال مع مئات الملايين من أنصار فيرفكس حول العالم"
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:715
@@ -789,11 +830,15 @@ msgid ""
 "giving you the flexibility to design, distribute and charge as you see fit. "
 "<a %(url)s>Learn more about partner opportunities.</a>"
 msgstr ""
+"مع الأداء العالي، ميزات متقدمة عبر المنصة وآخر ما في مجال الأمن، المتصفح "
+"الأعلى تصنيفاً يوفر بديلاً عن المنصات المغلقة، مما يتيح لك مرونة التصميم "
+"والتوزيع على النحو الذي تراه مناسبا. <a %(url)s>تعلم المزيد عن فرص الشريك "
+"المتاحة. </a>"
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:725
 msgid "Strengthen customer relationships"
-msgstr ""
+msgstr "تعزيز العلاقات مع العملاء"
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:730
@@ -802,11 +847,14 @@ msgid ""
 "Marketplace for a more engaging user experience and to increase the "
 "visibility of your brand."
 msgstr ""
+"قم بإنشاء أقسام ذات علامة تجارية خاصة بك فريدة من نوعها لفيرفكس أندرويد و "
+"سوق فيرفكس لتجربة أكثر جاذبية للمستخدم و لتقوم بزيادة ظهور العلامة التجارية "
+"الخاصة بك."
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:735
 msgid "Create new value for both you and your users"
-msgstr ""
+msgstr "قم بإنشاء قيمة جديدة لك وللمستخدمين"
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:740
@@ -822,11 +870,13 @@ msgid ""
 "Take advantage of our strong brand and service offerings to differentiate "
 "your product and drive sales."
 msgstr ""
+"قم بالاستفادة من علامتنا التجارية و عروض خدمتنا القوية لتمييز عروضك وزيادة "
+"مبيعاتك."
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:750
 msgid "Build new service offerings"
-msgstr ""
+msgstr "بناء عروض للخدمات الجديدة"
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:755
@@ -834,6 +884,8 @@ msgid ""
 "Integrate services directly into the browser with Firefox Marketplace and "
 "WebRTC to free yourself from the constraints of proprietary platforms."
 msgstr ""
+"قم بدمج الخدمات مباشرة مع المتصفح باستخدام سوق فيرفكس و WebRTC لتحرير نفسك "
+"من قيود منصات الملكية."
 
 #. Old version of the page (do not remove)
 #: firefox/partners/index.lang:760
