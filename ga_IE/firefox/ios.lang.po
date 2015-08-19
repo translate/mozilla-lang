@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-19 05:36+0000\n"
+"POT-Creation-Date: 2015-08-19 09:26+0000\n"
 "PO-Revision-Date: 2015-06-26 17:12+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,10 +32,39 @@ msgid "Add Firefox to your iPhone, iPad and iPod touch."
 msgstr "Suiteáil Firefox ar do iPhone, iPad nó iPod Touch."
 
 #: firefox/ios.lang:17
+msgid "Beta release"
+msgstr ""
+
+#: firefox/ios.lang:21
 msgid "Get it now"
 msgstr "Faigh anois é"
 
-#: firefox/ios.lang:21
+#. Newsletter section
+#: firefox/ios.lang:26
+msgid "Sign up below for updates and to be notified when it launches."
+msgstr "Cláraigh thíos chun ríomhphost a fháil nuair a bheidh sé ar fáil."
+
+#. Newsletter section
+#: firefox/ios.lang:31
+#, fuzzy
+msgid ""
+"* You’ll only receive updates and announcements about the iOS version of "
+"Firefox."
+msgstr ""
+"*Ní bhfaighidh tú ach fógraí a bhaineann leis an leagan iOS de Firefox."
+
+#. Newsletter section
+#: firefox/ios.lang:36
+msgid "Thanks for your interest in Firefox for iOS."
+msgstr ""
+
+#. Newsletter section
+#: firefox/ios.lang:41
+msgid ""
+"Don’t forget to check your inbox to confirm your request to get updates."
+msgstr ""
+
+#: firefox/ios.lang:45
 msgid ""
 "Sign in to your Firefox Account to access your browsing info on all your "
 "mobile devices."
@@ -43,65 +72,63 @@ msgstr ""
 "Logáil isteach i do Chuntas Firefox chun teacht ar do chuid sonraí brabhsála "
 "ar do ghléasanna soghluaiste."
 
-#: firefox/ios.lang:25
-msgid "Bookmarks"
-msgstr "Leabharmharcanna"
-
-#: firefox/ios.lang:29
-msgid "Passwords"
-msgstr "Focail fhaire"
-
-#: firefox/ios.lang:33
-msgid "Open tabs"
-msgstr "Cluaisíní oscailte"
-
-#: firefox/ios.lang:37
+#: firefox/ios.lang:49
 msgid "History"
 msgstr "Stair"
 
-#: firefox/ios.lang:41
+#: firefox/ios.lang:53
+msgid "Passwords"
+msgstr "Focail fhaire"
+
+#: firefox/ios.lang:57
+msgid "Open tabs"
+msgstr "Cluaisíní oscailte"
+
+#: firefox/ios.lang:61
 msgid "Get started with Sync"
 msgstr "Firefox Sync: Tús Maith"
 
-#: firefox/ios.lang:45
+#: firefox/ios.lang:65
 msgid "Already have an account?"
 msgstr "An bhfuil cuntas agat cheana?"
 
-#: firefox/ios.lang:49
+#: firefox/ios.lang:69
 msgid "Sign in"
 msgstr "Logáil isteach"
 
-#: firefox/ios.lang:53
+#: firefox/ios.lang:73
 msgid "You’re already signed in!"
 msgstr "Tá tú logáilte isteach cheana!"
 
-#: firefox/ios.lang:57
+#: firefox/ios.lang:77
 msgid "Learn more about Sync"
 msgstr "Tuilleadh eolais faoi Sync"
 
-#: firefox/ios.lang:61
-msgid "Sync your Firefox browsing history on iOS"
-msgstr "Sioncrónaigh do stair bhrabhsála Firefox ar iOS"
-
-#: firefox/ios.lang:65
-msgid ""
-"First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
-"using Sync."
+#: firefox/ios.lang:81
+msgid "Send Firefox to your iOS device"
 msgstr ""
-"Tapáil an cnaipe <b>cluaisín</b>. Ansin tapáil an deilbhín %(gear_icon)s le "
-"Sync a úsáid."
 
-#: firefox/ios.lang:69
-msgid "Not now"
-msgstr "Níl anois"
+#~ msgid "Bookmarks"
+#~ msgstr "Leabharmharcanna"
 
-#: firefox/ios.lang:73
-msgid "Learn more in the App Store"
-msgstr "Tuilleadh eolais san App Store"
+#~ msgid "Sync your Firefox browsing history on iOS"
+#~ msgstr "Sioncrónaigh do stair bhrabhsála Firefox ar iOS"
 
-#: firefox/ios.lang:77
-msgid "Add Firefox for iOS to your iPhone, iPad and iPod Touch."
-msgstr "Suiteáil Firefox ar do iPhone, iPad, nó iPod Touch."
+#~ msgid ""
+#~ "First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
+#~ "using Sync."
+#~ msgstr ""
+#~ "Tapáil an cnaipe <b>cluaisín</b>. Ansin tapáil an deilbhín %(gear_icon)s "
+#~ "le Sync a úsáid."
+
+#~ msgid "Not now"
+#~ msgstr "Níl anois"
+
+#~ msgid "Learn more in the App Store"
+#~ msgstr "Tuilleadh eolais san App Store"
+
+#~ msgid "Add Firefox for iOS to your iPhone, iPad and iPod Touch."
+#~ msgstr "Suiteáil Firefox ar do iPhone, iPad, nó iPod Touch."
 
 #~ msgid "Firefox on iOS — Sign up for email updates — Mozilla"
 #~ msgstr "Firefox ar iOS — Cláraigh leis an nuachtlitir ríomhphoist — Mozilla"
@@ -114,12 +141,3 @@ msgstr "Suiteáil Firefox ar do iPhone, iPad, nó iPod Touch."
 
 #~ msgid "Firefox is coming soon to iOS!"
 #~ msgstr "Beidh Firefox ar fáil ar iOS go luath!"
-
-#~ msgid "Sign up below for updates and to be notified when it launches."
-#~ msgstr "Cláraigh thíos chun ríomhphost a fháil nuair a bheidh sé ar fáil."
-
-#~ msgid ""
-#~ "*You’ll only receive updates and announcements about the iOS version of "
-#~ "Firefox."
-#~ msgstr ""
-#~ "*Ní bhfaighidh tú ach fógraí a bhaineann leis an leagan iOS de Firefox."

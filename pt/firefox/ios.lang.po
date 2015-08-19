@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-19 05:36+0000\n"
+"POT-Creation-Date: 2015-08-19 09:26+0000\n"
 "PO-Revision-Date: 2015-07-15 02:13+0000\n"
 "Last-Translator: Gonçalo Matos <goncalo.matos@me.com>\n"
 "Language-Team: none\n"
@@ -31,10 +31,42 @@ msgid "Add Firefox to your iPhone, iPad and iPod touch."
 msgstr "Adicione o Firefox ao seu iPhone, iPad e iPod Touch "
 
 #: firefox/ios.lang:17
+msgid "Beta release"
+msgstr ""
+
+#: firefox/ios.lang:21
 msgid "Get it now"
 msgstr "Obter agora"
 
-#: firefox/ios.lang:21
+#. Newsletter section
+#: firefox/ios.lang:26
+msgid "Sign up below for updates and to be notified when it launches."
+msgstr ""
+"Subscreva em baixo para atualizações e para ser notificado quando esta "
+"aplicação for lançada."
+
+#. Newsletter section
+#: firefox/ios.lang:31
+#, fuzzy
+msgid ""
+"* You’ll only receive updates and announcements about the iOS version of "
+"Firefox."
+msgstr ""
+"*Apenas irá receber atualizações e anúncios sobre a versão do Firefox para "
+"iOS."
+
+#. Newsletter section
+#: firefox/ios.lang:36
+msgid "Thanks for your interest in Firefox for iOS."
+msgstr ""
+
+#. Newsletter section
+#: firefox/ios.lang:41
+msgid ""
+"Don’t forget to check your inbox to confirm your request to get updates."
+msgstr ""
+
+#: firefox/ios.lang:45
 msgid ""
 "Sign in to your Firefox Account to access your browsing info on all your "
 "mobile devices."
@@ -42,65 +74,63 @@ msgstr ""
 "Inicie sessão na sua Conta Firefox para aceder à sua informação de navegação "
 "em todos os seus dispositivos móveis."
 
-#: firefox/ios.lang:25
-msgid "Bookmarks"
-msgstr "Marcadores"
-
-#: firefox/ios.lang:29
-msgid "Passwords"
-msgstr "Palavra-passe"
-
-#: firefox/ios.lang:33
-msgid "Open tabs"
-msgstr "Separadores abertos"
-
-#: firefox/ios.lang:37
+#: firefox/ios.lang:49
 msgid "History"
 msgstr "História"
 
-#: firefox/ios.lang:41
+#: firefox/ios.lang:53
+msgid "Passwords"
+msgstr "Palavra-passe"
+
+#: firefox/ios.lang:57
+msgid "Open tabs"
+msgstr "Separadores abertos"
+
+#: firefox/ios.lang:61
 msgid "Get started with Sync"
 msgstr "Iniciação ao Sync"
 
-#: firefox/ios.lang:45
+#: firefox/ios.lang:65
 msgid "Already have an account?"
 msgstr "Já tem uma conta?"
 
-#: firefox/ios.lang:49
+#: firefox/ios.lang:69
 msgid "Sign in"
 msgstr "Iniciar sessão"
 
-#: firefox/ios.lang:53
+#: firefox/ios.lang:73
 msgid "You’re already signed in!"
 msgstr "Já tem sessão iniciada!"
 
-#: firefox/ios.lang:57
+#: firefox/ios.lang:77
 msgid "Learn more about Sync"
 msgstr "Saber mais acerca do Sync"
 
-#: firefox/ios.lang:61
-msgid "Sync your Firefox browsing history on iOS"
-msgstr "Sincronize o histórico do Firefox no iOS"
-
-#: firefox/ios.lang:65
-msgid ""
-"First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
-"using Sync."
+#: firefox/ios.lang:81
+msgid "Send Firefox to your iOS device"
 msgstr ""
-"Primeiro, toque no botão <b>separador</b>. Depois toque no ícone "
-"%(gear_icon)s para começar a utilizar o Sync."
 
-#: firefox/ios.lang:69
-msgid "Not now"
-msgstr "Agora não"
+#~ msgid "Bookmarks"
+#~ msgstr "Marcadores"
 
-#: firefox/ios.lang:73
-msgid "Learn more in the App Store"
-msgstr "Saber mais na App Store"
+#~ msgid "Sync your Firefox browsing history on iOS"
+#~ msgstr "Sincronize o histórico do Firefox no iOS"
 
-#: firefox/ios.lang:77
-msgid "Add Firefox for iOS to your iPhone, iPad and iPod Touch."
-msgstr "Adicione o Firefox para iOS no seu iPhone, iPad e iPod Touch."
+#~ msgid ""
+#~ "First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
+#~ "using Sync."
+#~ msgstr ""
+#~ "Primeiro, toque no botão <b>separador</b>. Depois toque no ícone "
+#~ "%(gear_icon)s para começar a utilizar o Sync."
+
+#~ msgid "Not now"
+#~ msgstr "Agora não"
+
+#~ msgid "Learn more in the App Store"
+#~ msgstr "Saber mais na App Store"
+
+#~ msgid "Add Firefox for iOS to your iPhone, iPad and iPod Touch."
+#~ msgstr "Adicione o Firefox para iOS no seu iPhone, iPad e iPod Touch."
 
 #~ msgid "Firefox on iOS — Sign up for email updates — Mozilla"
 #~ msgstr "Firefox no iOS — Subscreva a atualizações por email — Mozilla"
@@ -113,15 +143,3 @@ msgstr "Adicione o Firefox para iOS no seu iPhone, iPad e iPod Touch."
 
 #~ msgid "Firefox is coming soon to iOS!"
 #~ msgstr "O Firefox está a chegar ao iOS!"
-
-#~ msgid "Sign up below for updates and to be notified when it launches."
-#~ msgstr ""
-#~ "Subscreva em baixo para atualizações e para ser notificado quando esta "
-#~ "aplicação for lançada."
-
-#~ msgid ""
-#~ "*You’ll only receive updates and announcements about the iOS version of "
-#~ "Firefox."
-#~ msgstr ""
-#~ "*Apenas irá receber atualizações e anúncios sobre a versão do Firefox "
-#~ "para iOS."
