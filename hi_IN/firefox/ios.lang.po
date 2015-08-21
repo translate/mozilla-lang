@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-19 17:26+0000\n"
+"POT-Creation-Date: 2015-08-21 06:25+0000\n"
 "PO-Revision-Date: 2015-07-04 05:14+0000\n"
 "Last-Translator: umesh agarwal <umesh.agarwal1@gmail.com>\n"
 "Language-Team: none\n"
@@ -30,7 +30,7 @@ msgid "Add Firefox to your iPhone, iPad and iPod touch."
 msgstr "फ़ायरफ़ॉक्स को अपने iPhone, iPad और iPod Touch से जोड़ें."
 
 #: firefox/ios.lang:18
-msgid "Beta release"
+msgid "Preview release"
 msgstr ""
 
 #: firefox/ios.lang:22
@@ -105,24 +105,29 @@ msgstr "सिंक के बारे में और अधिक जान
 msgid "Send Firefox to your iOS device"
 msgstr ""
 
+#: firefox/ios.lang:86
+msgid "Sync your Firefox browsing history on iOS"
+msgstr "iOS पर अपने फ़ायरफ़ॉक्स ब्राउज़िंग इतिहास को सिंक करें"
+
+#. The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
+#: firefox/ios.lang:91
+msgid ""
+"First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
+"using Sync."
+msgstr ""
+"पहला <b>टैब</b> बटन टैप करें. उसके बाद सिंक का उपयोग शुरू करने के लिए आइकन "
+"%(gear_icon)s पर टैप करें."
+
+#: firefox/ios.lang:95
+msgid "Not now"
+msgstr "अभी नहीं"
+
+#: firefox/ios.lang:99
+msgid "Learn more in the App Store"
+msgstr "एप्प भंडार में और अधिक जानें"
+
 #~ msgid "Bookmarks"
 #~ msgstr "पुस्तचिह्न"
-
-#~ msgid "Sync your Firefox browsing history on iOS"
-#~ msgstr "iOS पर अपने फ़ायरफ़ॉक्स ब्राउज़िंग इतिहास को सिंक करें"
-
-#~ msgid ""
-#~ "First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
-#~ "using Sync."
-#~ msgstr ""
-#~ "पहला <b>टैब</b> बटन टैप करें. उसके बाद सिंक का उपयोग शुरू करने के लिए आइकन "
-#~ "%(gear_icon)s पर टैप करें."
-
-#~ msgid "Not now"
-#~ msgstr "अभी नहीं"
-
-#~ msgid "Learn more in the App Store"
-#~ msgstr "एप्प भंडार में और अधिक जानें"
 
 #~ msgid "Add Firefox for iOS to your iPhone, iPad and iPod Touch."
 #~ msgstr "iOS के लिए फ़ायरफ़ॉक्स को अपने iPhone, iPad और iPod Touch से जोड़ें।"

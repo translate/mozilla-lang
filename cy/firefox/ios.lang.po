@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-19 17:26+0000\n"
+"POT-Creation-Date: 2015-08-21 06:25+0000\n"
 "PO-Revision-Date: 2015-08-10 14:13+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -31,7 +31,7 @@ msgid "Add Firefox to your iPhone, iPad and iPod touch."
 msgstr "Ychwanegwch Firefox i'ch iPhone, iPad and iPod Touch."
 
 #: firefox/ios.lang:18
-msgid "Beta release"
+msgid "Preview release"
 msgstr ""
 
 #: firefox/ios.lang:22
@@ -108,24 +108,29 @@ msgstr "Dysgu rhagor am Sync"
 msgid "Send Firefox to your iOS device"
 msgstr ""
 
+#: firefox/ios.lang:86
+msgid "Sync your Firefox browsing history on iOS"
+msgstr "Cydweddwch eich hanes pori Firefox ar iOS"
+
+#. The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
+#: firefox/ios.lang:91
+msgid ""
+"First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
+"using Sync."
+msgstr ""
+"Yn gyntaf, tapiwch y botwm <b>tab</b>. Yna tapiwch yr eicon %(gear_icon)s i "
+"gychwyn defnyddio Sync."
+
+#: firefox/ios.lang:95
+msgid "Not now"
+msgstr "Nid nawr"
+
+#: firefox/ios.lang:99
+msgid "Learn more in the App Store"
+msgstr "Dysgu rhagor yn yr App Store"
+
 #~ msgid "Bookmarks"
 #~ msgstr "Nodau Tudalen"
-
-#~ msgid "Sync your Firefox browsing history on iOS"
-#~ msgstr "Cydweddwch eich hanes pori Firefox ar iOS"
-
-#~ msgid ""
-#~ "First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
-#~ "using Sync."
-#~ msgstr ""
-#~ "Yn gyntaf, tapiwch y botwm <b>tab</b>. Yna tapiwch yr eicon %(gear_icon)s "
-#~ "i gychwyn defnyddio Sync."
-
-#~ msgid "Not now"
-#~ msgstr "Nid nawr"
-
-#~ msgid "Learn more in the App Store"
-#~ msgstr "Dysgu rhagor yn yr App Store"
 
 #~ msgid "Add Firefox for iOS to your iPhone, iPad and iPod Touch."
 #~ msgstr "Ychwanegwch Firefox iOS i'ch iPhone, iPad ac iPod Touch."

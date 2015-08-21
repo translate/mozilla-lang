@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-19 17:26+0000\n"
+"POT-Creation-Date: 2015-08-21 06:25+0000\n"
 "PO-Revision-Date: 2015-04-30 08:43+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: none\n"
@@ -31,7 +31,7 @@ msgid "Add Firefox to your iPhone, iPad and iPod touch."
 msgstr "Tải Firefox cho iPhone, iPad và iPod Touch."
 
 #: firefox/ios.lang:18
-msgid "Beta release"
+msgid "Preview release"
 msgstr ""
 
 #: firefox/ios.lang:22
@@ -105,24 +105,29 @@ msgstr "Tìm hiểu thêm về Sync"
 msgid "Send Firefox to your iOS device"
 msgstr ""
 
+#: firefox/ios.lang:86
+msgid "Sync your Firefox browsing history on iOS"
+msgstr "Đồng bộ nhật ký duyệt web Firefox trên iOS"
+
+#. The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
+#: firefox/ios.lang:91
+msgid ""
+"First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
+"using Sync."
+msgstr ""
+"Chạm vào nút <b>tab</b>. Sau đó chạm vào biểu tượng %(gear_icon)s để bắt đầu "
+"sử dụng Sync."
+
+#: firefox/ios.lang:95
+msgid "Not now"
+msgstr "Không phải lúc này"
+
+#: firefox/ios.lang:99
+msgid "Learn more in the App Store"
+msgstr "Tìm hiểu thêm trên App Store"
+
 #~ msgid "Bookmarks"
 #~ msgstr "Đánh dấu trang"
-
-#~ msgid "Sync your Firefox browsing history on iOS"
-#~ msgstr "Đồng bộ nhật ký duyệt web Firefox trên iOS"
-
-#~ msgid ""
-#~ "First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
-#~ "using Sync."
-#~ msgstr ""
-#~ "Chạm vào nút <b>tab</b>. Sau đó chạm vào biểu tượng %(gear_icon)s để bắt "
-#~ "đầu sử dụng Sync."
-
-#~ msgid "Not now"
-#~ msgstr "Không phải lúc này"
-
-#~ msgid "Learn more in the App Store"
-#~ msgstr "Tìm hiểu thêm trên App Store"
 
 #~ msgid "Add Firefox for iOS to your iPhone, iPad and iPod Touch."
 #~ msgstr "Cài đặt Firefox cho iOS trên iPhone, iPad và iPod Touch của bạn."
