@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-10 11:09+0000\n"
-"PO-Revision-Date: 2015-06-24 23:42+0000\n"
+"PO-Revision-Date: 2015-08-30 19:36+0000\n"
 "Last-Translator: Josep Sanchez <papapep@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1435189336.000000\n"
+"X-POOTLE-MTIME: 1440963386.000000\n"
 
 #: firefox/sync.lang:8
 msgid "Keep your Firefox in sync"
@@ -102,15 +102,14 @@ msgstr "Primers passos amb el Sync en quatre simples punts:"
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 #: firefox/sync.lang:78
-#, fuzzy
 msgid ""
 "Open the <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
 "href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of Firefox and "
 "select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
-"Obriu el <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">menú</"
-"a> al capdamunt a la dreta del Firefox i seleccioneu “<strong>Inicia una "
-"sessió al Sync.</strong>”"
+"Obriu el <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
+"href=\"%(url)s#w_a-handy-new-menu\">menú</a> al capdamunt a la dreta del "
+"Firefox i seleccioneu “<strong>Inicia una sessió al Sync.</strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:83
