@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-04 11:28+0000\n"
-"PO-Revision-Date: 2015-09-05 07:11+0000\n"
+"PO-Revision-Date: 2015-09-05 08:11+0000\n"
 "Last-Translator: Anup Kumar Mishra <anupkumarmishra29@gmail.com>\n"
 "Language-Team: none\n"
 "Language: hi_IN\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1441437061.000000\n"
+"X-POOTLE-MTIME: 1441440715.000000\n"
 
 #. Page Title and part of <title> tag
 #: firefox/push.lang:6
@@ -21,9 +21,8 @@ msgstr "दबाएँ"
 
 #. Page Title and part of <title> tag
 #: firefox/push.lang:11
-#, fuzzy
 msgid "Frequently asked questions"
-msgstr "बहुधा पूछे जाने वाले प्रश्न"
+msgstr "अकसर पूछे जाने वाले प्रश्न"
 
 #. Part of <title> tag
 #: firefox/push.lang:16
@@ -32,19 +31,23 @@ msgstr "मोज़िल्ला फ़ायरफ़ॉक्स वेब 
 
 #: firefox/push.lang:20
 msgid "What is Push?"
-msgstr ""
+msgstr "पुश क्या है ?"
 
 #: firefox/push.lang:24
 msgid ""
 "Push is an optional feature that allows websites to send you messages even "
 "when you aren’t visiting the site."
 msgstr ""
+"पुश वैकल्पिक सुविधा है जो वेबसाइटों को आप तक संदेश भेजने के लिए अनुमति देता है जब आप साइट "
+"पर नही जा रहे हैं"
 
 #: firefox/push.lang:28
 msgid ""
 "Sites can use this feature to provide you with notifications or update data "
 "in the background."
 msgstr ""
+"साइटें पृष्ठभूमि में सूचनाएं या अद्यतन डेटा के साथ प्रदान करने के लिए इस सुविधा का उपयोग कर "
+"सकते हैं।"
 
 #: firefox/push.lang:32
 msgid ""
@@ -52,12 +55,14 @@ msgid ""
 "notification when new messages arrive, or a weather site might use Push to "
 "provide storm alerts."
 msgstr ""
+"उदाहरण के लिए, नया संदेश आने पर वेबमेल साइट एक अधिसूचना प्रदान करने के लिए पुश का उपयोग "
+"कर सकता है, या एक मौसम साइट तूफान से चेतावनी देने के लिए पुश उपयोग कर सकता है।"
 
 #: firefox/push.lang:36
 msgid ""
 "You will only receive messages from sites for which you have granted "
 "permission."
-msgstr ""
+msgstr "आप साइट से केवल वही संदेश प्राप्त करेंगे जिसके लिए आपको अनुमति स्वीकृत किया गया हैं."
 
 #: firefox/push.lang:40
 msgid "How does it work?"
@@ -72,6 +77,8 @@ msgid ""
 "Sites that you have granted permission for Push can use the service to send "
 "you messages."
 msgstr ""
+"साइटे जिसमें आपको पुश के लिए अनुमति स्वीकृत किया हो आपको संदेश भेजने की सेवा का इस्तेमाल कर "
+"सकते हैं"
 
 #: firefox/push.lang:52
 msgid ""
@@ -81,7 +88,7 @@ msgstr ""
 
 #: firefox/push.lang:56
 msgid "The worker then processes the message."
-msgstr ""
+msgstr "कार्यकर्ता  संदेश को संसाधित करता है।"
 
 #: firefox/push.lang:60
 msgid ""
@@ -91,7 +98,7 @@ msgstr ""
 
 #: firefox/push.lang:64
 msgid "What information do I share with a site?"
-msgstr ""
+msgstr "क्या सुचना एक साइट के साथ साझा कर सकते हैं? "
 
 #: firefox/push.lang:68
 msgid ""
@@ -106,8 +113,8 @@ msgid ""
 "A site that sends you a message can learn your IP address if it chooses to "
 "do so; this could reveal your location."
 msgstr ""
-"एक साइट जो आपको संदेश भेजता हैं आपका आईपी पता को भी सीख सकता हैं अगर आप ऐसा चुनते है "
-"तो; यह आपके स्थान को भी प्रकाशित कर सकता."
+"एक साइट जो आपको संदेश भेजता हैं आपका आईपी पता को भी जान सकता है ,अगर आप ऐसा चुनते है "
+"तो; यह आपके स्थान को भी प्रकाशित कर सकता है"
 
 #: firefox/push.lang:76
 msgid "What information does Firefox use to provide Push?"
@@ -130,7 +137,7 @@ msgstr ""
 
 #: firefox/push.lang:88
 msgid "On Firefox for desktop, the push service is operated by Mozilla."
-msgstr ""
+msgstr "फ़ायरफ़ॉक्स पर डेस्कटॉप के लिए, पुश सेवा मोज़िला द्वारा संचालित किया जाता हैं."
 
 #: firefox/push.lang:92
 msgid ""
@@ -158,7 +165,7 @@ msgstr ""
 
 #: firefox/push.lang:112
 msgid "To stop a site from sending you push messages:"
-msgstr ""
+msgstr "आपको पुश संदेश भेजने से एक साइट को रोंके:"
 
 #: firefox/push.lang:116
 msgid "In the URL bar, type <em>about:permissions</em>."
@@ -166,7 +173,7 @@ msgstr ""
 
 #: firefox/push.lang:120
 msgid "Select the site."
-msgstr "साइट को चुनें."
+msgstr "साइट को चुनें"
 
 #: firefox/push.lang:124
 msgid "Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>."
@@ -174,7 +181,7 @@ msgstr ""
 
 #: firefox/push.lang:128
 msgid "How do I disable Push permanently?"
-msgstr ""
+msgstr "मैं कैसे पुश को स्थायी रूप से निष्क्रिय करु?"
 
 #: firefox/push.lang:132
 msgid "Push is always opt-in in Firefox."
@@ -182,7 +189,7 @@ msgstr "फ़ायरफ़ॉक्स में पुश हमेशा चय�
 
 #: firefox/push.lang:136
 msgid "A site cannot send you push messages without your permission."
-msgstr ""
+msgstr "एक साइट आपके अनुमति के बिना पुश संदेश नही भेज सकता हैं."
 
 #: firefox/push.lang:140
 msgid ""
@@ -191,7 +198,7 @@ msgstr ""
 
 #: firefox/push.lang:144
 msgid "Select <em>All Sites</em>."
-msgstr ""
+msgstr "<em>सभी साइटें</em> चुनें."
 
 #: firefox/push.lang:148
 msgid ""
