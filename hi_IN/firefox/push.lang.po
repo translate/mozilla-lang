@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-04 11:28+0000\n"
-"PO-Revision-Date: 2015-09-05 08:11+0000\n"
+"PO-Revision-Date: 2015-09-05 08:51+0000\n"
 "Last-Translator: Anup Kumar Mishra <anupkumarmishra29@gmail.com>\n"
 "Language-Team: none\n"
 "Language: hi_IN\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1441440715.000000\n"
+"X-POOTLE-MTIME: 1441443085.000000\n"
 
 #. Page Title and part of <title> tag
 #: firefox/push.lang:6
@@ -85,6 +85,7 @@ msgid ""
 "Firefox delivers this push message to a small piece of JavaScript called a "
 "“worker”."
 msgstr ""
+"फ़ायरफ़ॉक्स यह पुश संदेश को जावास्क्रीप्ट का एक छोटा टुकरा जन्म देता हैं “मज़दूर” कहते हैं. "
 
 #: firefox/push.lang:56
 msgid "The worker then processes the message."
@@ -95,10 +96,12 @@ msgid ""
 "It might decide to show a visual notification or store the message for later "
 "use."
 msgstr ""
+"यह एक दृश्य अधिसूचना दिखाने के लिए या बाद में उपयोग के लिए संदेश स्टोर करने के लिए फैसला "
+"कर सकता है।"
 
 #: firefox/push.lang:64
 msgid "What information do I share with a site?"
-msgstr "क्या सुचना एक साइट के साथ साझा कर सकते हैं? "
+msgstr "एक साइट के साथ क्या सुचना साझा कर सकते हैं? "
 
 #: firefox/push.lang:68
 msgid ""
@@ -147,12 +150,12 @@ msgstr ""
 
 #: firefox/push.lang:96
 msgid "In both cases, the push service cannot decrypt your push messages."
-msgstr ""
+msgstr "दोनों ही मामलों में, पुश सेवा अपने पुश संदेशों को डिक्रिप्ट नहीं कर सकते।"
 
 #: firefox/push.lang:100
 msgid ""
 "Push messages are encrypted, only your copy of Firefox can decipher them."
-msgstr ""
+msgstr "पुश संदेश एन्क्रिप्टेड रहते हैं, केवल आपके फ़ायरफ़ॉक्स की प्रतिलिपि उन्हें समझ  सकती है।"
 
 #: firefox/push.lang:104
 msgid ""
@@ -161,15 +164,15 @@ msgstr "इन्क्रिप्ट संदेश सर्वर पर �
 
 #: firefox/push.lang:108
 msgid "How do I revoke Push permissions?"
-msgstr ""
+msgstr " पुश अनुमतियों को कैसे रद्द करते हैं?"
 
 #: firefox/push.lang:112
 msgid "To stop a site from sending you push messages:"
-msgstr "आपको पुश संदेश भेजने से एक साइट को रोंके:"
+msgstr "एक साइट को आपके पुश संदेश भेजने से रोंके:"
 
 #: firefox/push.lang:116
 msgid "In the URL bar, type <em>about:permissions</em>."
-msgstr ""
+msgstr "यूआरएल पट्टी मे ,टाइप करे <em>about:permissions</em>."
 
 #: firefox/push.lang:120
 msgid "Select the site."
@@ -178,6 +181,7 @@ msgstr "साइट को चुनें"
 #: firefox/push.lang:124
 msgid "Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>."
 msgstr ""
+"<strong>हमेशा पूछे जाने</strong> के लिए <em>पुश अधिसूचना प्राप्त</em> व्यवस्थित करे."
 
 #: firefox/push.lang:128
 msgid "How do I disable Push permanently?"
@@ -189,12 +193,12 @@ msgstr "फ़ायरफ़ॉक्स में पुश हमेशा चय�
 
 #: firefox/push.lang:136
 msgid "A site cannot send you push messages without your permission."
-msgstr "एक साइट आपके अनुमति के बिना पुश संदेश नही भेज सकता हैं."
+msgstr "एक साइट आपके अनुमति के बिना पुश संदेश नही भेज सकता है"
 
 #: firefox/push.lang:140
 msgid ""
 "If you wish to disable the feature completely, please follow these steps:"
-msgstr ""
+msgstr " अगर आप पूरी तरह से सुविधा को अक्षम करना चाहते हैं, तो इन चरणों का पालन करें:"
 
 #: firefox/push.lang:144
 msgid "Select <em>All Sites</em>."
@@ -205,6 +209,8 @@ msgid ""
 "Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. "
 "Websites will not be able to send you messages or ask for access to Push."
 msgstr ""
+"<strong>अवरोध</strong> के लिए <em>पुश अधिसूचना प्राप्त</em> व्यवस्थित करे. वेबसाइट "
+"आपको संदेश भेजने या पुश के पहुँच के लिए पूछने में समर्थ नही होगा."
 
 #: firefox/push.lang:152
 msgid "Will this cost me money?"
@@ -212,17 +218,19 @@ msgstr " क्या इससे पैसे खर्च होंगे?"
 
 #: firefox/push.lang:156
 msgid "Push uses a small amount of data to operate."
-msgstr ""
+msgstr "पुश संचालित करने के लिए डेटा की एक छोटी राशि का उपयोग करता है।"
 
 #: firefox/push.lang:160
 msgid ""
 "If you’re on a small data allowance, or are charged for any data usage, you "
 "may wish to monitor your usage."
 msgstr ""
+"आप एक छोटे से डेटा भत्ता पर कर रहे हैं, या किसी भी डेटा के उपयोग के लिए चार्ज किया जाता "
+"है, तो आप अपने उपयोग पर नजर रख सकते है"
 
 #: firefox/push.lang:164
 msgid "How do I add Push to my web site?"
-msgstr ""
+msgstr "मैं अपने वेब साइट के लिए पुश समर्थन कैसे जोड़ सकता हूँ?"
 
 #: firefox/push.lang:168
 msgid ""
