@@ -4,20 +4,20 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-07 17:24+0000\n"
-"PO-Revision-Date: 2015-07-13 16:55+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2015-09-06 03:18+0000\n"
+"Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: none\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1436806529.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1441509533.000000\n"
 
 #. Used as page title in HTML meta tag
 #: mozorg/plugincheck.lang:11
 msgid "Keep your Firefox healthy with a quick checkup"
-msgstr ""
+msgstr "အမြန်စစ်ဆေးမှုကို အသုံးပြုပြီး သင့်မီးမြေခွေးကို ကောင်းမွန်မှု ရှိစေပါ။"
 
 #. Used as page description in HTML meta tag
 #: mozorg/plugincheck.lang:17
@@ -25,6 +25,8 @@ msgid ""
 "Use Flash? QuickTime? Java? If you use these to make your Firefox experience "
 "more awesome, check your plugins! They may need to be updated."
 msgstr ""
+"ဖလက်ရှ်၊ ကွစ်တိုင်းမ်၊ ဂျာဗားကို အသုံးပြုပါသလား။ အကယ်၍ သင့်မီးမြေခွေးကို ပိုမိုစွမ်းဆောင်နိုင်မှုရှိဖို့အတွက် "
+"သင်အသုံးပြုတယ်ဆိုလျှင် သင့်ပလဂ်အင်များကို စစ်ဆေးပါ။ ၎င်းတို့သည် အမြဲ နောက်ဆုံးပေါ် ဖြစ်နေရန် လိုအပ်သည်။"
 
 #. Old page <title> tag
 #: mozorg/plugincheck.lang:22
@@ -69,7 +71,7 @@ msgstr "ထိခိုက်လွယ်သော"
 #. This is the string used to indicate that the plugin is outdated
 #: mozorg/plugincheck.lang:63
 msgid "outdated"
-msgstr ""
+msgstr "အိုဟောင်းနေပြီ"
 
 #. Main title
 #: mozorg/plugincheck.lang:68
@@ -84,7 +86,7 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:77
 msgid "Currently the plugin check service is only available to Firefox users."
-msgstr ""
+msgstr "လက်ရှိတွင် ပလဂ်အင်စစ်ဆေးခြင်းဝန်ဆောင်မှုသည် မီးမြေခွေးအသုံးပြုသူများသာ ရရှိနိုင်ပါသည်။"
 
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 #: mozorg/plugincheck.lang:83
@@ -92,6 +94,8 @@ msgid ""
 "Plugins don’t always update automatically. Check yours now to stay safe and "
 "browse without interruption!"
 msgstr ""
+"ပလဂ်အင်များသည် အလိုအလျောက် အဆင့်မြှင့်တင်မည် မဟုတ်ပါ။ လုံခြုံမှုရှိစေရန်နှင့် ရှာဖွေကြည့်ရှုရာတွင် "
+"အနှောက်အယှက်မရှိစေရန် သင့်ပလဂ်အင်များကို အခုပဲ စစ်ဆေးပါ။"
 
 #: mozorg/plugincheck.lang:87
 msgid "Looks like you’re using an older version of Firefox."
@@ -106,6 +110,8 @@ msgid ""
 "No plugins were found. If you believe this is an error, <a href="
 "\"%(bugzilla_url)s\">please file a bug</a> and let us know."
 msgstr ""
+"မည်သည့် ပလဂ်အင်မျှ မတွေ့ပါ။ အကယ်၍ ဒီဟာသည် အမှားလို့ သင်ယုံကြည်ပါက <a href=\"%(bugzilla_url)s"
+"\">ကျေးဇူးပြု၍ အမှားအနေနှင့် ဖိုင်တွဲပါ</a>။ ထို့ပြင် ကျွန်တော်တို့ကို အသိပေးပါ။"
 
 #: mozorg/plugincheck.lang:100
 msgid ""
@@ -255,28 +261,25 @@ msgid "In Firefox:"
 msgstr "မီးမြေခွေးတွင်၊"
 
 #: mozorg/plugincheck.lang:217
-#, fuzzy
 msgid "Open the Tools menu."
-msgstr "ကိရိယာ မီနူး အားဖွင့်"
+msgstr "ကိရိယာများ မီနူးကို ဖွင့်ပါ။"
 
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:223
 msgid "Open the <span class=\"menu\">menu</span>."
-msgstr ""
+msgstr "<span class=\"menu\">မီနူးစာရင်း</span>ကို ဖွင့်ပါ။"
 
 #: mozorg/plugincheck.lang:227
-#, fuzzy
 msgid "Choose Add-ons."
-msgstr "ထပ်ပေါင်းဆော့ဝဲများအားရွေးပါ"
+msgstr "ထပ်ပေါင်းဆော့ဝဲများကို ရွေးပါ။"
 
 #: mozorg/plugincheck.lang:231
-#, fuzzy
 msgid "Click the plugins tab."
-msgstr "ထပ်ပေါင်းဆော့ဝဲ တပ်ဗ် အားကလစ် နှိပ်ပါ"
+msgstr "ထပ်ပေါင်းဆော့ဝဲများ စာမျက်နှာကို ကလစ်နှိပ်ပါ။"
 
 #: mozorg/plugincheck.lang:236
 msgid "Click on the drop down next to the plugin you wish to disable."
-msgstr ""
+msgstr "သင်ပိတ်ချင်သည့် ပလဂ်အင်၏ ဘေးနားတွင်ရှိသော ဖွင့်ပိတ်မီနူးပေါ်တွင် ကလစ်နှိပ်ပါ။"
 
 #: mozorg/plugincheck.lang:240
 msgid "Click on a plugin in the list."
