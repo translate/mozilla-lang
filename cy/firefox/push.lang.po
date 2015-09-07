@@ -4,21 +4,21 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-04 11:28+0000\n"
-"PO-Revision-Date: 2015-09-03 16:19+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2015-09-07 10:08+0000\n"
+"Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1441297152.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1441620483.000000\n"
 
 #. Page Title and part of <title> tag
 #: firefox/push.lang:6
 msgid "Push"
-msgstr ""
+msgstr "Gwthio"
 
 #. Page Title and part of <title> tag
 #: firefox/push.lang:11
@@ -33,19 +33,23 @@ msgstr "Porwr Gwe Mozilla Firefox"
 
 #: firefox/push.lang:20
 msgid "What is Push?"
-msgstr ""
+msgstr "Beth yw Gwthio?"
 
 #: firefox/push.lang:24
 msgid ""
 "Push is an optional feature that allows websites to send you messages even "
 "when you aren’t visiting the site."
 msgstr ""
+"Mae Gwthio'n nodwedd ddewisol sy'n caniatáu i wefannau anfon negeseuon atoch "
+"hyd yn oed pan nad ydych yn ymweld â'r wefan."
 
 #: firefox/push.lang:28
 msgid ""
 "Sites can use this feature to provide you with notifications or update data "
 "in the background."
 msgstr ""
+"Gall gwefannau ddefnyddio'r nodwedd i ddarparu gwybodaeth neu ddiweddaru "
+"data yn y cefndir."
 
 #: firefox/push.lang:32
 msgid ""
@@ -53,6 +57,9 @@ msgid ""
 "notification when new messages arrive, or a weather site might use Push to "
 "provide storm alerts."
 msgstr ""
+"Gall, e.e., gwefan ddefnyddio Gwthio i ddarparu gwybodaeth i chi pan fydd "
+"negeseuon newydd yn cyrraedd, neu gall gwefan tywydd anfon rhybuddion "
+"stormydd."
 
 #: firefox/push.lang:36
 msgid ""
@@ -66,33 +73,38 @@ msgstr "Sut mae'n gweithio?"
 
 #: firefox/push.lang:44
 msgid "Firefox maintains a connection to a push service."
-msgstr ""
+msgstr "Mae Firefox yn cynna; cysylltiad â'r gwasanaeth gwthio."
 
 #: firefox/push.lang:48
 msgid ""
 "Sites that you have granted permission for Push can use the service to send "
 "you messages."
 msgstr ""
+"Mae modd i wefannau rydych wedi rhoi caniatâd Gwthio iddynt ddefnyddio'r "
+"gwasanaeth i anfon negeseuon atoch."
 
 #: firefox/push.lang:52
 msgid ""
 "Firefox delivers this push message to a small piece of JavaScript called a "
 "“worker”."
 msgstr ""
+"Mae Firefox yn anfon y neges gwthio i ddarn bach o JavaScript o'r enw "
+"“worker”."
 
 #: firefox/push.lang:56
 msgid "The worker then processes the message."
-msgstr ""
+msgstr "Mae'r worker yna'n prosesu'r neges."
 
 #: firefox/push.lang:60
 msgid ""
 "It might decide to show a visual notification or store the message for later "
 "use."
 msgstr ""
+"Gall benderfynu dangos rhybudd gweledol neu gadw'r neges ar gyfer nes ymlaen."
 
 #: firefox/push.lang:64
 msgid "What information do I share with a site?"
-msgstr ""
+msgstr "Pa wybodaeth fyddai'n ei rannu gyda gwefan?"
 
 #: firefox/push.lang:68
 msgid ""
@@ -105,22 +117,28 @@ msgid ""
 "A site that sends you a message can learn your IP address if it chooses to "
 "do so; this could reveal your location."
 msgstr ""
+"Mae gwefan sy'n anfon neges atoch yn gallu dysgu eich cyfeiriad IP os yw'n "
+"dewis gwneud hynny; gall hyn ddatgelu eich lleoliad."
 
 #: firefox/push.lang:76
 msgid "What information does Firefox use to provide Push?"
-msgstr ""
+msgstr "Pa wybodaeth mae Firefox yn ei ddefnyddio i ddarparu Gwthio?"
 
 #: firefox/push.lang:80
 msgid ""
 "Firefox maintains a permanent connection to a push service in order to "
 "receive push messages."
 msgstr ""
+"Mae Firefox yn cynnal cysylltiad parhaol â'r gwasanaeth gwthio er mwyn "
+"derbyn negeseuon gwthio."
 
 #: firefox/push.lang:84
 msgid ""
 "On our server we store a randomized identifier for your browser, along with "
 "a randomized identifier for each site you authorize."
 msgstr ""
+"AR eich gweinydd rydym yn cadw dynodydd hap ar gyfer eich porwr, yn ogystal "
+"â dynodwr hap am bob gwefan rydych yn eu caniatáu."
 
 #: firefox/push.lang:88
 msgid "On Firefox for desktop, the push service is operated by Mozilla."
@@ -131,44 +149,53 @@ msgid ""
 "Firefox for Android uses the same <a href=\"%s\">Google Cloud Messaging</a> "
 "platform and infrastructure that your other Android applications use."
 msgstr ""
+"Mae Firefox Android y defnyddio'r un platfform ac isadeiledd <a href=\"%s"
+"\">Google Cloud Messaging</a> ag yw eich rhaglenni Android eraill."
 
 #: firefox/push.lang:96
 msgid "In both cases, the push service cannot decrypt your push messages."
 msgstr ""
+"Yn y ddwy achos, nid oes modd i'r gwasanaeth gwthio ddadgryptio eich "
+"negeseuon gwthio."
 
 #: firefox/push.lang:100
 msgid ""
 "Push messages are encrypted, only your copy of Firefox can decipher them."
 msgstr ""
+"Mae negeseuon gwthio wedi eu hamgryptio, dim ond eich copi chi o Firefox "
+"sy'n gallu eu dadgryptio nhw."
 
 #: firefox/push.lang:104
 msgid ""
 "The encrypted messages are stored on the server until they are delivered."
 msgstr ""
+"Mae'r negeseuon amgryptiedig yn cael eu cadw ar y gweinydd nes eu bod wedi "
+"eu hanfon."
 
 #: firefox/push.lang:108
 msgid "How do I revoke Push permissions?"
-msgstr ""
+msgstr "Sut ydw'n diddymu caniatâd Gwthio?"
 
 #: firefox/push.lang:112
 msgid "To stop a site from sending you push messages:"
-msgstr ""
+msgstr "I rwystro gwefan rhag anfon negeseuon gwthio:"
 
 #: firefox/push.lang:116
 msgid "In the URL bar, type <em>about:permissions</em>."
-msgstr ""
+msgstr "Yn y bar URL, teipiwch <em>about:permissions</em>."
 
 #: firefox/push.lang:120
 msgid "Select the site."
-msgstr ""
+msgstr "Dewis y wefan."
 
 #: firefox/push.lang:124
 msgid "Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>."
 msgstr ""
+"Gosod <em>Derbyn Negeseuon Gwthio</em> i <strong>Gofyn Bob Tro</strong>."
 
 #: firefox/push.lang:128
 msgid "How do I disable Push permanently?"
-msgstr ""
+msgstr "Sut ydw i'n analluogi Gwthio'n barhaol?"
 
 #: firefox/push.lang:132
 msgid "Push is always opt-in in Firefox."
@@ -176,12 +203,12 @@ msgstr ""
 
 #: firefox/push.lang:136
 msgid "A site cannot send you push messages without your permission."
-msgstr ""
+msgstr "Nid oes modd i wefan anfon gwybodaeth atoch heb eich caniatâd."
 
 #: firefox/push.lang:140
 msgid ""
 "If you wish to disable the feature completely, please follow these steps:"
-msgstr ""
+msgstr "Os hoffech chi ddiffodd y nodwedd yn llwyr, dilynwch y camau canlynol:"
 
 #: firefox/push.lang:144
 msgid "Select <em>All Sites</em>."
@@ -192,27 +219,33 @@ msgid ""
 "Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. "
 "Websites will not be able to send you messages or ask for access to Push."
 msgstr ""
+"Gosod <em>Derbyn Negeseuon Gwthio</em> i <strong>Rhwystro</strong>. Ni fydd "
+"gwefannau yn gallu anfon negeseuon atoch na gofyn am fynediad i Gwthio."
 
 #: firefox/push.lang:152
 msgid "Will this cost me money?"
-msgstr ""
+msgstr "Bydd hyn yn costio i mi?"
 
 #: firefox/push.lang:156
 msgid "Push uses a small amount of data to operate."
-msgstr ""
+msgstr "Mae Gwthio'n defnyddio mymryn bach o ddata er mwyn gweithio."
 
 #: firefox/push.lang:160
 msgid ""
 "If you’re on a small data allowance, or are charged for any data usage, you "
 "may wish to monitor your usage."
 msgstr ""
+"Os ydych ar lwfans data bychan neu yn talu am ddefnydd data, efallai y "
+"byddwch am gadw llygad ar eich defnydd."
 
 #: firefox/push.lang:164
 msgid "How do I add Push to my web site?"
-msgstr ""
+msgstr "Sut ydw i'n ychwanegu Gwthio i fy ngwefan?"
 
 #: firefox/push.lang:168
 msgid ""
 "The <a href=\"%s\">Push API specification</a> explains how to create a "
 "Service Worker and send push messages."
 msgstr ""
+"Mae <a href=\"%s\">manyleb API Gwthio</a> yn esbonio sut i greu Service "
+"Worker ac anfon negeseuon gwthio."
