@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-07-13 16:47+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2015-09-07 18:04+0000\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ga_IE\n"
 "MIME-Version: 1.0\n"
@@ -14,12 +14,12 @@ msgstr ""
 "Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
 "(n>6 && n<11) ? 3 : 4;;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1436806058.000000\n"
+"X-POOTLE-MTIME: 1441649055.000000\n"
 
 #. <title> tag
 #: firefox/partners/index.lang:7
 msgid "Firefox OS, Marketplace, Android — Partners"
-msgstr ""
+msgstr "Firefox OS, an Margadh, Android — Comhpháirtithe"
 
 #. Title
 #: firefox/partners/index.lang:12
@@ -29,32 +29,32 @@ msgstr "Glac páirt"
 #. Sub-title
 #: firefox/partners/index.lang:17
 msgid "Contact our business development team to get on board."
-msgstr ""
+msgstr "Déan teagmháil lenár bhfoireann fhorbartha gnó le páirt a ghlacadh."
 
 #. Field
 #: firefox/partners/index.lang:22
 msgid "First Name"
-msgstr ""
+msgstr "Ainm"
 
 #. Field
 #: firefox/partners/index.lang:27
 msgid "Last Name"
-msgstr ""
+msgstr "Sloinne"
 
 #. Field, e.g. president, CEO...
 #: firefox/partners/index.lang:32
 msgid "Title"
-msgstr ""
+msgstr "Teideal"
 
 #. Field
 #: firefox/partners/index.lang:37
 msgid "Company"
-msgstr ""
+msgstr "Comhlacht"
 
 #. Field
 #: firefox/partners/index.lang:42
 msgid "Website"
-msgstr ""
+msgstr "Suíomh Gréasáin"
 
 #. Field
 #: firefox/partners/index.lang:47
@@ -64,12 +64,12 @@ msgstr "Ríomhphost"
 #. Form field
 #: firefox/partners/index.lang:52
 msgid "Phone"
-msgstr ""
+msgstr "Guthán"
 
 #. Form field
 #: firefox/partners/index.lang:57
 msgid "Interest:"
-msgstr ""
+msgstr "Suim:"
 
 #. Specific interest
 #: firefox/partners/index.lang:62
@@ -84,22 +84,24 @@ msgstr "Eile"
 #. Tooltip for selected options
 #: firefox/partners/index.lang:72
 msgid "Interest"
-msgstr ""
+msgstr "Suim"
 
 #. Submit button text
 #: firefox/partners/index.lang:77
 msgid "Submit my request"
-msgstr ""
+msgstr "Seol m'iarratas"
 
 #: firefox/partners/index.lang:81
 msgid "Thanks for your interest in partnering with us"
-msgstr ""
+msgstr "Tá áthas orainn go bhfuil suim agat i gcomhpáirtíocht linn"
 
 #: firefox/partners/index.lang:85
 msgid ""
 "We will review your request and get back to you about possibilities and "
 "opportunities soon."
 msgstr ""
+"Caithfimid súil ar d'iarratas agus beimid i dteagmháil leat go luath faoi na "
+"féidearthachtaí."
 
 #. Top menu item
 #: firefox/partners/index.lang:90
@@ -109,12 +111,12 @@ msgstr "Foramharc"
 #. Text on the left, on top of the Firefox logo
 #: firefox/partners/index.lang:95
 msgid "Explore the site"
-msgstr ""
+msgstr "Tabhair súil thart ar an suíomh"
 
 #. Page title
 #: firefox/partners/index.lang:100
 msgid "Unleash the future"
-msgstr ""
+msgstr "Scaoil an todhchaí"
 
 #. Page description (meta tag)
 #: firefox/partners/index.lang:105
@@ -124,6 +126,10 @@ msgid ""
 "our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox "
 "Marketplace</a> and <a %(url3)s>Firefox for Android</a>."
 msgstr ""
+"Táimid ag tabhairt deiseanna d'oibreoirí, do dhéantóirí gutháin, agus "
+"d'fhorbróirí an gaol atá eatarthu agus a gcuid custaiméirí a bhainistiú agus "
+"a fheabhsú go díreach trínár dtáirgí soghluaiste: <a %(url1)s>Firefox OS</"
+"a>, <a %(url2)s>Margadh Firefox</a> agus <a %(url3)s>Firefox ar Android</a>."
 
 #: firefox/partners/index.lang:110
 msgid ""
@@ -131,6 +137,9 @@ msgid ""
 "countries with more than 50 launches and 14 global operators — and that "
 "momentum continues in 2015."
 msgstr ""
+"Tá Firefox OS tar éis oscailteacht, inrochtaineacht, agus deiseanna a "
+"thabhairt do 29 tír, le níos mó ná 50 ócáid seolta agus 14 oibreoir ar fud "
+"an domhain — agus tá an móiminteam sin ag leanúint ar aghaidh i 2015."
 
 #: firefox/partners/index.lang:114
 msgid ""
@@ -140,11 +149,11 @@ msgstr ""
 
 #: firefox/partners/index.lang:118
 msgid "See more partners"
-msgstr ""
+msgstr "Tuilleadh comhpháirtithe"
 
 #: firefox/partners/index.lang:122
 msgid "Recent news"
-msgstr ""
+msgstr "Nuacht"
 
 #. press release in English/Polish/French/Spanish/Portuguese/Italian, if your locale is not covered, you choose if you keep it in English or not
 #: firefox/partners/index.lang:127
@@ -154,23 +163,25 @@ msgstr ""
 #. This is used as a button label that links to https://mobilepartners.mozilla.org/
 #: firefox/partners/index.lang:133
 msgid "Be a partner"
-msgstr ""
+msgstr "Bí i do chomhpháirtí"
 
 #. Title
 #: firefox/partners/index.lang:139
 msgid "Just what your customers need"
-msgstr ""
+msgstr "Go díreach an rud a theastaíonn ó do chuid chustaiméirí"
 
 #: firefox/partners/index.lang:144
 msgid ""
 "Easy to use. Easy to customize. Firefox OS is an open platform that fosters "
 "greater participation in the value chain."
 msgstr ""
+"Éasca le húsáid. Éasca le cur in oiriúint. Is ardán oscailte é Firefox OS a "
+"chothaíonn rannpháirtíocht sa slabhra breisluacha."
 
 #. Title
 #: firefox/partners/index.lang:149
 msgid "The Web is the platform"
-msgstr ""
+msgstr "Is é an Gréasán an t-ardán"
 
 #: firefox/partners/index.lang:154
 msgid ""
