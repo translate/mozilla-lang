@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-04 11:28+0000\n"
+"POT-Creation-Date: 2015-09-08 08:28+0000\n"
 "PO-Revision-Date: 2015-09-03 16:40+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: none\n"
@@ -12,205 +12,205 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1441298419.000000\n"
 
 #. Page Title and part of <title> tag
-#: firefox/push.lang:6
+#: firefox/push.lang:7
 msgid "Push"
 msgstr ""
 
 #. Page Title and part of <title> tag
-#: firefox/push.lang:11
+#: firefox/push.lang:12
 msgid "Frequently asked questions"
 msgstr "वारंवार विचारले जाणारे प्रश्न"
 
 #. Part of <title> tag
-#: firefox/push.lang:16
+#: firefox/push.lang:17
 msgid "Mozilla Firefox Web Browser"
 msgstr "मोझीला फायरफॉक्स वेब ब्राऊजर"
 
-#: firefox/push.lang:20
+#: firefox/push.lang:21
 msgid "What is Push?"
 msgstr ""
 
-#: firefox/push.lang:24
+#: firefox/push.lang:25
 msgid ""
 "Push is an optional feature that allows websites to send you messages even "
 "when you aren’t visiting the site."
 msgstr ""
 
-#: firefox/push.lang:28
+#: firefox/push.lang:29
 msgid ""
 "Sites can use this feature to provide you with notifications or update data "
 "in the background."
 msgstr ""
 
-#: firefox/push.lang:32
+#: firefox/push.lang:33
 msgid ""
 "For instance, a webmail site might use Push to provide you with a "
 "notification when new messages arrive, or a weather site might use Push to "
 "provide storm alerts."
 msgstr ""
 
-#: firefox/push.lang:36
+#: firefox/push.lang:37
 msgid ""
 "You will only receive messages from sites for which you have granted "
 "permission."
 msgstr ""
 
-#: firefox/push.lang:40
+#: firefox/push.lang:41
 msgid "How does it work?"
 msgstr ""
 
-#: firefox/push.lang:44
+#: firefox/push.lang:45
 msgid "Firefox maintains a connection to a push service."
 msgstr ""
 
-#: firefox/push.lang:48
+#: firefox/push.lang:49
 msgid ""
 "Sites that you have granted permission for Push can use the service to send "
 "you messages."
 msgstr ""
 
-#: firefox/push.lang:52
+#: firefox/push.lang:53
 msgid ""
 "Firefox delivers this push message to a small piece of JavaScript called a "
 "“worker”."
 msgstr ""
 
-#: firefox/push.lang:56
+#: firefox/push.lang:57
 msgid "The worker then processes the message."
 msgstr ""
 
-#: firefox/push.lang:60
+#: firefox/push.lang:61
 msgid ""
 "It might decide to show a visual notification or store the message for later "
 "use."
 msgstr ""
 
-#: firefox/push.lang:64
+#: firefox/push.lang:65
 msgid "What information do I share with a site?"
 msgstr ""
 
-#: firefox/push.lang:68
+#: firefox/push.lang:69
 msgid ""
 "A site can use Push to send you a message at any time, even when you are not "
 "actively visiting it."
 msgstr ""
 
-#: firefox/push.lang:72
+#: firefox/push.lang:73
 msgid ""
 "A site that sends you a message can learn your IP address if it chooses to "
 "do so; this could reveal your location."
 msgstr ""
 
-#: firefox/push.lang:76
+#: firefox/push.lang:77
 msgid "What information does Firefox use to provide Push?"
 msgstr ""
 
-#: firefox/push.lang:80
+#: firefox/push.lang:81
 msgid ""
 "Firefox maintains a permanent connection to a push service in order to "
 "receive push messages."
 msgstr ""
 
-#: firefox/push.lang:84
+#: firefox/push.lang:85
 msgid ""
 "On our server we store a randomized identifier for your browser, along with "
 "a randomized identifier for each site you authorize."
 msgstr ""
 
-#: firefox/push.lang:88
+#: firefox/push.lang:89
 msgid "On Firefox for desktop, the push service is operated by Mozilla."
 msgstr ""
 
-#: firefox/push.lang:92
+#: firefox/push.lang:93
 msgid ""
 "Firefox for Android uses the same <a href=\"%s\">Google Cloud Messaging</a> "
 "platform and infrastructure that your other Android applications use."
 msgstr ""
 
-#: firefox/push.lang:96
+#: firefox/push.lang:97
 msgid "In both cases, the push service cannot decrypt your push messages."
 msgstr ""
 
-#: firefox/push.lang:100
+#: firefox/push.lang:101
 msgid ""
 "Push messages are encrypted, only your copy of Firefox can decipher them."
 msgstr ""
 
-#: firefox/push.lang:104
+#: firefox/push.lang:105
 msgid ""
 "The encrypted messages are stored on the server until they are delivered."
 msgstr ""
 
-#: firefox/push.lang:108
+#: firefox/push.lang:109
 msgid "How do I revoke Push permissions?"
 msgstr ""
 
-#: firefox/push.lang:112
+#: firefox/push.lang:113
 msgid "To stop a site from sending you push messages:"
 msgstr ""
 
-#: firefox/push.lang:116
+#: firefox/push.lang:117
 msgid "In the URL bar, type <em>about:permissions</em>."
 msgstr ""
 
-#: firefox/push.lang:120
+#: firefox/push.lang:121
 msgid "Select the site."
 msgstr ""
 
-#: firefox/push.lang:124
+#: firefox/push.lang:125
 msgid "Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>."
 msgstr ""
 
-#: firefox/push.lang:128
+#: firefox/push.lang:129
 msgid "How do I disable Push permanently?"
 msgstr ""
 
-#: firefox/push.lang:132
+#: firefox/push.lang:133
 msgid "Push is always opt-in in Firefox."
 msgstr ""
 
-#: firefox/push.lang:136
+#: firefox/push.lang:137
 msgid "A site cannot send you push messages without your permission."
 msgstr ""
 
-#: firefox/push.lang:140
+#: firefox/push.lang:141
 msgid ""
 "If you wish to disable the feature completely, please follow these steps:"
 msgstr ""
 
-#: firefox/push.lang:144
+#: firefox/push.lang:145
 msgid "Select <em>All Sites</em>."
 msgstr ""
 
-#: firefox/push.lang:148
+#: firefox/push.lang:149
 msgid ""
 "Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. "
 "Websites will not be able to send you messages or ask for access to Push."
 msgstr ""
 
-#: firefox/push.lang:152
+#: firefox/push.lang:153
 msgid "Will this cost me money?"
 msgstr ""
 
-#: firefox/push.lang:156
+#: firefox/push.lang:157
 msgid "Push uses a small amount of data to operate."
 msgstr ""
 
-#: firefox/push.lang:160
+#: firefox/push.lang:161
 msgid ""
 "If you’re on a small data allowance, or are charged for any data usage, you "
 "may wish to monitor your usage."
 msgstr ""
 
-#: firefox/push.lang:164
+#: firefox/push.lang:165
 msgid "How do I add Push to my web site?"
 msgstr ""
 
-#: firefox/push.lang:168
+#: firefox/push.lang:169
 msgid ""
 "The <a href=\"%s\">Push API specification</a> explains how to create a "
 "Service Worker and send push messages."
