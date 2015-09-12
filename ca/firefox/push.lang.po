@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-08 08:28+0000\n"
-"PO-Revision-Date: 2015-09-12 18:07+0000\n"
+"PO-Revision-Date: 2015-09-12 18:17+0000\n"
 "Last-Translator: Josep Sanchez <papapep@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ca\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1442081243.000000\n"
+"X-POOTLE-MTIME: 1442081822.000000\n"
 
 #. Page Title and part of <title> tag
 #: firefox/push.lang:7
@@ -152,88 +152,101 @@ msgid ""
 "Firefox for Android uses the same <a href=\"%s\">Google Cloud Messaging</a> "
 "platform and infrastructure that your other Android applications use."
 msgstr ""
+"El Firefox per a l'Android utilitza la mateixa plataforma i infraestructura "
+"<a href=\"%s\">Google Cloud Messaging</a> que utilitzen d'altres aplicacions "
+"Android."
 
 #: firefox/push.lang:97
 msgid "In both cases, the push service cannot decrypt your push messages."
 msgstr ""
+"En cap dels dos casos el servei d'enviament no pot desxifrar els missatges."
 
 #: firefox/push.lang:101
 msgid ""
 "Push messages are encrypted, only your copy of Firefox can decipher them."
 msgstr ""
+"Els missatges són xifrats, només la vostra còpia del Firefox els pot "
+"desxifrar."
 
 #: firefox/push.lang:105
 msgid ""
 "The encrypted messages are stored on the server until they are delivered."
-msgstr ""
+msgstr "Els missatges xifrats es desen al servidor fins que es lliuren."
 
 #: firefox/push.lang:109
 msgid "How do I revoke Push permissions?"
-msgstr ""
+msgstr "Com revoco els permisos del Push?"
 
 #: firefox/push.lang:113
 msgid "To stop a site from sending you push messages:"
-msgstr ""
+msgstr "Per retirar el permís a un lloc web per enviar-vos missatges:"
 
 #: firefox/push.lang:117
 msgid "In the URL bar, type <em>about:permissions</em>."
-msgstr ""
+msgstr "A la barra d'adreces, poseu <em>about:permissions</em>."
 
 #: firefox/push.lang:121
 msgid "Select the site."
-msgstr ""
+msgstr "Seleccioneu el lloc web."
 
 #: firefox/push.lang:125
 msgid "Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>."
 msgstr ""
+"Poseu el <em>Receive Push Notifications</em> a <strong>Always Ask</strong>."
 
 #: firefox/push.lang:129
 msgid "How do I disable Push permanently?"
-msgstr ""
+msgstr "Com desactivo el Push de forma permanent?"
 
 #: firefox/push.lang:133
 msgid "Push is always opt-in in Firefox."
-msgstr ""
+msgstr "Al Firefox, el Push només funciona si així ho decidiu."
 
 #: firefox/push.lang:137
 msgid "A site cannot send you push messages without your permission."
-msgstr ""
+msgstr "Un lloc web no us pot enviar missatges sense el vostre permís."
 
 #: firefox/push.lang:141
 msgid ""
 "If you wish to disable the feature completely, please follow these steps:"
-msgstr ""
+msgstr "Si voleu desactivar completament aquesta característica, feu:"
 
 #: firefox/push.lang:145
 msgid "Select <em>All Sites</em>."
-msgstr ""
+msgstr "Seleccionaeu <em>All Sites</em>."
 
 #: firefox/push.lang:149
 msgid ""
 "Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. "
 "Websites will not be able to send you messages or ask for access to Push."
 msgstr ""
+"Poseu el <em>Receive Push Notifications</em> a <strong>Block</strong>. Els "
+"llocs web no us podran enviar missatges, ni demanar-vos permís per a fer-ho."
 
 #: firefox/push.lang:153
 msgid "Will this cost me money?"
-msgstr ""
+msgstr "Això val diners?"
 
 #: firefox/push.lang:157
 msgid "Push uses a small amount of data to operate."
-msgstr ""
+msgstr "El Push utilitza una petita quantitat de dades per funcionar."
 
 #: firefox/push.lang:161
 msgid ""
 "If you’re on a small data allowance, or are charged for any data usage, you "
 "may wish to monitor your usage."
 msgstr ""
+"Si teniu una tarifa petita de dades, o us cobren pel consum, hauríeu d'estar "
+"pendents de quant consumeix."
 
 #: firefox/push.lang:165
 msgid "How do I add Push to my web site?"
-msgstr ""
+msgstr "Com afegeixo el Push al meu lloc web?"
 
 #: firefox/push.lang:169
 msgid ""
 "The <a href=\"%s\">Push API specification</a> explains how to create a "
 "Service Worker and send push messages."
 msgstr ""
+"Les especificacions de l'<a href=\"%s\">API Push</a> explica com crear un "
+"worker i enviar missatges."
