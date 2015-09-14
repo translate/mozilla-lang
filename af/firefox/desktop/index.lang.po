@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-06 12:08+0000\n"
-"PO-Revision-Date: 2015-09-08 07:11+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2015-09-14 12:45+0000\n"
+"Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: none\n"
 "Language: af\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1441696290.000000\n"
+"X-POOTLE-MTIME: 1442234743.000000\n"
 
 #. This is the <title> tag
 #: firefox/desktop/index.lang:9
@@ -50,7 +50,7 @@ msgstr "Firefox is op datum."
 #. Active link to https://support.mozilla.org/products/firefox
 #: firefox/desktop/index.lang:36
 msgid "Need help with anything?"
-msgstr ""
+msgstr "Hulp nodig?"
 
 #: firefox/desktop/index.lang:40
 msgid "Made with a mission to put you first"
@@ -65,13 +65,13 @@ msgstr ""
 "respekteer."
 
 #: firefox/desktop/index.lang:48
-#, fuzzy
 msgid ""
 "That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
 "\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
 msgstr ""
-"Daarom is ons trots op die benoeming as die <a href=\"%(url1)s\">Mees "
-"vertroude internetmaatskappy vir privaatheid</a>."
+"Daarom is ons trots op die benoeming as die <a href=\"%(url1)s\" data-"
+"interaction=\"outbound link\">Mees vertroude internetmaatskappy vir "
+"privaatheid</a>."
 
 #: firefox/desktop/index.lang:52
 msgid "Find out what makes Firefox the most trusted browser on the Web"
@@ -120,6 +120,8 @@ msgid ""
 "* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
 "Hardware Web Browser Grand Prix XVI</a> results."
 msgstr ""
+"* Gebaseer op resultate in <a data-interaction=\"outbound link\" href="
+"\"%(url1)s\">Tom’s Hardware Web Browser Grand Prix XVI</a>."
 
 #: firefox/desktop/index.lang:88
 msgid "Save time and do just about anything quicker than before."
