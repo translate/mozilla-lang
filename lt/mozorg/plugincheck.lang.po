@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-07 17:24+0000\n"
-"PO-Revision-Date: 2015-08-07 18:21+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2015-09-15 18:25+0000\n"
+"Last-Translator: Rimas Kudelis <rq@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1438971704.000000\n"
+"X-POOTLE-MTIME: 1442341558.000000\n"
 
 #. Used as page title in HTML meta tag
 #: mozorg/plugincheck.lang:11
@@ -74,7 +74,7 @@ msgstr "pažeidžiamas"
 #. This is the string used to indicate that the plugin is outdated
 #: mozorg/plugincheck.lang:63
 msgid "outdated"
-msgstr ""
+msgstr "pasenęs"
 
 #. Main title
 #: mozorg/plugincheck.lang:68
@@ -114,6 +114,8 @@ msgid ""
 "No plugins were found. If you believe this is an error, <a href="
 "\"%(bugzilla_url)s\">please file a bug</a> and let us know."
 msgstr ""
+"Neaptikta jokių papildinių. Jei manote, jog tai klaida, prašom mums apie tai "
+"pranešti, <a href=\"%(bugzilla_url)s\">užregistruojant klaidą</a>."
 
 #: mozorg/plugincheck.lang:100
 msgid ""
