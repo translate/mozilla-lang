@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-06 12:08+0000\n"
-"PO-Revision-Date: 2015-06-06 12:53+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2015-09-15 18:02+0000\n"
+"Last-Translator: Rimas Kudelis <rq@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1433595187.000000\n"
+"X-POOTLE-MTIME: 1442340125.000000\n"
 
 #. This is the <title> tag
 #: firefox/desktop/index.lang:9
@@ -51,7 +51,7 @@ msgstr "Jūs naudojatės paskiausia „Firefox“ naršyklės laida."
 #. Active link to https://support.mozilla.org/products/firefox
 #: firefox/desktop/index.lang:36
 msgid "Need help with anything?"
-msgstr ""
+msgstr "Reikia kokios nors pagalbos?"
 
 #: firefox/desktop/index.lang:40
 msgid "Made with a mission to put you first"
@@ -66,13 +66,13 @@ msgstr ""
 "privatumą."
 
 #: firefox/desktop/index.lang:48
-#, fuzzy
 msgid ""
 "That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
 "\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
 msgstr ""
-"Todėl didžiuojamės, jog buvome išrinkti <a href=\"%(url1)s\">patikimiausia "
-"interneto kompanija privatumo srityje.</a>"
+"Todėl didžiuojamės, jog buvome išrinkti <a href=\"%(url1)s\" data-"
+"interaction=\"outbound link\">patikimiausia interneto kompanija privatumo "
+"srityje.</a>"
 
 #: firefox/desktop/index.lang:52
 msgid "Find out what makes Firefox the most trusted browser on the Web"
@@ -123,6 +123,8 @@ msgid ""
 "* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
 "Hardware Web Browser Grand Prix XVI</a> results."
 msgstr ""
+"* Remiamasi <a data-interaction=\"outbound link\" href=\"%(url1)s\">„Tom’s "
+"Hardware“ svetainės XVI naršyklių Grand Prix</a> rezultatais."
 
 #: firefox/desktop/index.lang:88
 msgid "Save time and do just about anything quicker than before."
