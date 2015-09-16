@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-04-24 12:08+0000\n"
-"PO-Revision-Date: 2015-04-24 12:53+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2015-09-16 06:38+0000\n"
+"Last-Translator: Rimas Kudelis <rq@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1429880000.000000\n"
+"X-POOTLE-MTIME: 1442385507.000000\n"
 
 #. Used as page description (HTML meta tag)
 #: firefox/developer.lang:12
@@ -31,6 +31,8 @@ msgid ""
 "Built for those who build the Web. The only browser made for developers like "
 "you."
 msgstr ""
+"Sukurta kuriantiems saityną. Vienintelė naršyklė, skirta būtent "
+"programuotojams."
 
 #: firefox/developer.lang:22
 msgid ""
@@ -52,11 +54,9 @@ msgstr ""
 "kaip jūs."
 
 #: firefox/developer.lang:35
-#, fuzzy
 msgid "The only browser made for developers like you."
 msgstr ""
-"Pristatome vienintelę naršyklę, skirtą būtent programuotojams – tokiems, "
-"kaip jūs."
+"Vienintelė naršyklė, skirta būtent programuotojams – tokiems, kaip jūs."
 
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 #: firefox/developer.lang:41
@@ -116,7 +116,7 @@ msgstr ""
 
 #: firefox/developer.lang:74
 msgid "All your favorite dev tools and more"
-msgstr "Visi mėgstamiausi programuotojų įrankiai<br> ir dar šis tas"
+msgstr "Visi mėgstamiausi programuotojų įrankiai<br /> ir dar šis tas"
 
 #: firefox/developer.lang:78
 msgid ""
@@ -136,22 +136,24 @@ msgstr "Ekrano nuotrauka"
 
 #: firefox/developer.lang:87
 msgid "WebVR"
-msgstr ""
+msgstr "WebVR"
 
 #: firefox/developer.lang:92
 msgid ""
 "Build immersive multi-platform, cross-device Web VR experiences using the "
 "technologies that you know &mdash; JavaScript, WebGL, Three.js and more."
 msgstr ""
+"Kurkite stulbinančias daugiaplatformes saityno pagrindu veikiančias "
+"virtualiosios realybės aplinkas, naudodamiesi jau pažįstamomis "
+"technologijomis – „JavaScript“, „WebGL“, „Three.js“ ir kitomis."
 
 #: firefox/developer.lang:97
-#, fuzzy
 msgid "Learn more about WebVR"
-msgstr "Išsamiau apie „WebIDE“"
+msgstr "Išsamiau apie „WebVR“"
 
 #: firefox/developer.lang:102
 msgid "Performance Tools"
-msgstr ""
+msgstr "Našumo priemonės"
 
 #: firefox/developer.lang:107
 msgid ""
@@ -159,10 +161,13 @@ msgid ""
 "a consolidated timeline view to help easily identify and troubleshoot "
 "performance bottlenecks."
 msgstr ""
+"Analizuokite savo interaktyviojo turinio kadrų dažnį, atminties vartojimą ir "
+"JS profilį junginėje laiko skalėje ir paprasčiau atraskite bei ištirkite "
+"pirmiausia tobulintinas kodo vietas."
 
 #: firefox/developer.lang:112
 msgid "Learn more about Performance Tools"
-msgstr ""
+msgstr "Išsamiau apie našumo priemones"
 
 #: firefox/developer.lang:116
 msgid "WebIDE"
