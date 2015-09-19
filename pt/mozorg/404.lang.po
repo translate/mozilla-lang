@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-16 10:33+0000\n"
-"PO-Revision-Date: 2015-09-15 17:49+0000\n"
+"PO-Revision-Date: 2015-09-19 21:34+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt\n"
@@ -13,25 +13,29 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1442339351.000000\n"
+"X-POOTLE-MTIME: 1442698489.000000\n"
 
 #: mozorg/404.lang:4
 msgid "404: Page Not Found"
-msgstr ""
+msgstr "404: página não encontrada"
 
 #: mozorg/404.lang:8
 msgid "Whoops!"
-msgstr ""
+msgstr "Bolas!"
 
 #: mozorg/404.lang:12
 msgid ""
 "Did you make a left at that last URL instead of a right? No problem. Here "
 "are some tips to get you back on your way:"
 msgstr ""
+"Virou à esquerda em vez da direita no último endereço? Sem problema. Eis "
+"algumas dicas para o colocar novamente no caminho:"
 
 #: mozorg/404.lang:16
 msgid "If you typed in the address, check your spelling. Could just be a typo."
 msgstr ""
+"Se escreveu o endereço, confirme que não se enganou. Pode ser apenas uma "
+"gralha."
 
 #: mozorg/404.lang:20
 msgid ""
@@ -40,13 +44,19 @@ msgid ""
 "tracker</a>. One of our developers will take a look at it as soon as "
 "possible."
 msgstr ""
+"Se encontrou um problema com um dos nossos sítios web, agradecemos que "
+"reporte o problema no Bugzilla, o nosso <a href=\"%(bugzilla)s\">gestor de "
+"erros</a>. Um dos nossos programadores irá dar uma vista de olhos assim que "
+"possível."
 
 #: mozorg/404.lang:24
 msgid "If you followed a link, it’s probably broken."
-msgstr ""
+msgstr "Se seguiu uma ligação, provavelmente está quebrada."
 
 #: mozorg/404.lang:28
 msgid ""
 "If you’re not sure what you’re looking for, start at <a href=\"%(url)s"
 "\">mozilla.org</a>."
 msgstr ""
+"Se não tem a certeza do que procura, comece em <a href=\"%(url)s\">mozilla."
+"org</a>."
