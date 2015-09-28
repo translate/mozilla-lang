@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-21 20:29+0000\n"
+"POT-Creation-Date: 2015-09-28 12:32+0000\n"
 "PO-Revision-Date: 2015-09-21 20:39+0000\n"
 "Last-Translator: Biraj Karmakar <brnet00@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1442867946.000000\n"
 
 #: main.lang:1
@@ -789,6 +789,27 @@ msgstr ""
 msgid "Congrats. You’re up to date!"
 msgstr ""
 
+#. Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+#: main.lang:756
+msgid "Format"
+msgstr "বিন্যাস"
+
+#. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+#: main.lang:761
+#, fuzzy
+msgid "Text"
+msgstr "পরবর্তী"
+
+#. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+#: main.lang:766
+msgid "HTML"
+msgstr ""
+
+#. This is the error message displayed if you provide an invalid email address in a form
+#: main.lang:771
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "ওহ হো! অনুগ্রহ করে বৈধ ই-মেইল ঠিকানা উল্লেখ করুন।"
+
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Android-র সাথে ব্যবহারের জন্য Firefox প্রাপ্ত করুন"
 
@@ -869,9 +890,6 @@ msgstr ""
 
 #~ msgid "Sync Your Desktop & Mobile"
 #~ msgstr "ডেস্কটপ ও মোবাইল সুসংগত করুন"
-
-#~ msgid "Whoops! Be sure to enter a valid email address."
-#~ msgstr "ওহ হো! অনুগ্রহ করে বৈধ ই-মেইল ঠিকানা উল্লেখ করুন।"
 
 #~ msgid ""
 #~ "Please read the Mozilla Privacy Policy and agree by checking the box."

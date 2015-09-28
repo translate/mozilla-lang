@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-21 20:29+0000\n"
+"POT-Creation-Date: 2015-09-28 12:32+0000\n"
 "PO-Revision-Date: 2015-07-15 14:45+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -790,6 +790,27 @@ msgstr ""
 msgid "Congrats. You’re up to date!"
 msgstr ""
 
+#. Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+#: main.lang:756
+msgid "Format"
+msgstr "قالب"
+
+#. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+#: main.lang:761
+#, fuzzy
+msgid "Text"
+msgstr "بعدی"
+
+#. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+#: main.lang:766
+msgid "HTML"
+msgstr ""
+
+#. This is the error message displayed if you provide an invalid email address in a form
+#: main.lang:771
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "لطفاً نشانی پست الکترونیکی معتبری وارد نمایید."
+
 #~ msgid "Get Firefox for Android"
 #~ msgstr "دریافت فایرفاکس برای آندروئید"
 
@@ -872,9 +893,6 @@ msgstr ""
 
 #~ msgid "Sync Your Desktop & Mobile"
 #~ msgstr "هم‌گام‌سازی کامپیوتر و تلفن همراه‌تان"
-
-#~ msgid "Whoops! Be sure to enter a valid email address."
-#~ msgstr "لطفاً نشانی پست الکترونیکی معتبری وارد نمایید."
 
 #~ msgid ""
 #~ "Please read the Mozilla Privacy Policy and agree by checking the box."

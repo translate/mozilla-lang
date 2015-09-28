@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-28 10:40+0000\n"
+"POT-Creation-Date: 2015-09-28 12:32+0000\n"
 "PO-Revision-Date: 2015-09-08 09:32+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,42 +20,35 @@ msgid "Your email address:"
 msgstr "Địa chỉ email của bạn:"
 
 #: newsletter.lang:9
-msgid "Text"
-msgstr "Văn bản"
-
-#: newsletter.lang:13
 msgid "Available Languages"
 msgstr "Ngôn ngữ sẵn có"
 
-#: newsletter.lang:17
+#: newsletter.lang:13
 msgid "Language:"
 msgstr "Ngôn ngữ:"
 
-#: newsletter.lang:21
+#: newsletter.lang:17
 msgid "Select country"
 msgstr "Chọn quốc gia"
 
-#: newsletter.lang:25
+#: newsletter.lang:21
 msgid "Country:"
 msgstr "Quốc gia:"
 
-#: newsletter.lang:29
-msgid "Whoops! Be sure to enter a valid email address."
-msgstr "Có lỗi! Xin hãy nhập một địa chỉ thư điện tử hợp lệ."
-
-#: newsletter.lang:33
+#. Form submit button on the Student Ambassador newsletter subscription form
+#: newsletter.lang:26
 msgid "Sign me up!"
 msgstr "Đăng ký!"
 
-#: newsletter.lang:37
+#: newsletter.lang:30
 msgid "We will only send you Mozilla-related information."
 msgstr "Chúng tôi chỉ gửi bạn thông tin về Mozilla"
 
-#: newsletter.lang:41
+#: newsletter.lang:34
 msgid "Thanks for Subscribing!"
 msgstr "Cảm ơn bạn đã đăng ký!"
 
-#: newsletter.lang:45
+#: newsletter.lang:38
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
@@ -65,25 +58,21 @@ msgstr ""
 "mẹo và những thủ thuật mới giúp bạn sử dụng trình duyệt Firefox được hiệu "
 "quả nhất. Đây là cách tốt nhất để chúng tôi giữ liên lạc với bạn!"
 
-#: newsletter.lang:49
+#: newsletter.lang:42
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Tìm hiểu thêm trong <span>bản tin hàng tháng</span> của chúng tôi"
 
-#: newsletter.lang:53
+#: newsletter.lang:46
 msgid "Your newsletter subscription has been confirmed."
 msgstr "Bạn đã đăng ký thành công."
 
-#: newsletter.lang:57
-msgid "Format"
-msgstr "Định dạng"
-
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:62
+#: newsletter.lang:51
 msgid "Firefox & You"
 msgstr "Firefox & Bạn"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox & You)
-#: newsletter.lang:67
+#: newsletter.lang:56
 msgid ""
 "A monthly newsletter and special announcements giving you tips to improve "
 "your experience with Firefox on your desktop and Android device."
@@ -92,12 +81,12 @@ msgstr ""
 "thuật để cải thiện trải nghiệm với Firefox trên máy tính và thiết bị Android."
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:72
+#: newsletter.lang:61
 msgid "Firefox OS News"
 msgstr "Tin tức Firefox OS"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS News)
-#: newsletter.lang:77
+#: newsletter.lang:66
 msgid ""
 "A monthly newsletter and special announcements on how to get the most from "
 "your Firefox OS device, including the latest features and coolest Firefox "
@@ -108,24 +97,24 @@ msgstr ""
 "năng mới nhất và những ứng dụng tuyệt nhất trên Kho ứng dụng Firefox."
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:82
+#: newsletter.lang:71
 msgid "Mozilla Communities"
 msgstr "Cộng đồng Mozilla"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Communities)
-#: newsletter.lang:87
+#: newsletter.lang:76
 msgid "Bringing you the best new opportunities to help support the open Web."
 msgstr ""
 "Mang tới cho bạn những cơ hội tuyệt vời nhất để giúp đỡ xây dựng nền tảng "
 "Web mở."
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:92
+#: newsletter.lang:81
 msgid "Firefox Student Ambassadors"
 msgstr "Đại sứ sinh viên của Firefox"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
-#: newsletter.lang:97
+#: newsletter.lang:86
 msgid ""
 "A monthly newsletter on how to get involved with Mozilla on your campus."
 msgstr ""
@@ -133,7 +122,7 @@ msgstr ""
 "trường của bạn."
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
-#: newsletter.lang:102
+#: newsletter.lang:91
 msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
@@ -142,12 +131,12 @@ msgstr ""
 "Affiliates."
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:107
+#: newsletter.lang:96
 msgid "Firefox Apps & Hacks"
 msgstr "Ứng dụng & Thủ thuật Firefox"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
-#: newsletter.lang:112
+#: newsletter.lang:101
 msgid ""
 "News for developers about Firefox OS, Firefox Marketplace and the Open Web "
 "apps ecosystem."
@@ -156,40 +145,32 @@ msgstr ""
 "sinh thái ứng dụng Open Web."
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:117
+#: newsletter.lang:106
 msgid "Mozillians"
 msgstr "Mozillians"
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:122
+#: newsletter.lang:111
 msgid "Firefox for desktop"
 msgstr "Firefox cho máy tính để bàn"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for desktop)
-#: newsletter.lang:127
+#: newsletter.lang:116
 msgid "Don’t miss the latest announcements about our desktop browser."
 msgstr "Đừng bỏ qua những thông báo mới nhất về trình duyệt web của bạn."
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:132
+#: newsletter.lang:121
 msgid "Firefox for Android"
 msgstr "Firefox cho Android"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for Android)
-#: newsletter.lang:137
+#: newsletter.lang:126
 msgid "Keep up with releases and news about Firefox for Android."
 msgstr "Theo dõi các bản phát hành và tin tức nhất của Firefox cho Android."
 
-#. Description for the in Newsletter subscription page (Firefox OS)
-#: newsletter.lang:142
-msgid ""
-"Be the first to know when Firefox OS devices are available in your country."
-msgstr ""
-"Hãy là người đầu tiên được biết khi thiết bị Firefox OS được phát hành ở đất "
-"nước của bạn."
-
 #. Description for the newsletter in Newsletter subscription page (Mozilla)
-#: newsletter.lang:147
+#: newsletter.lang:131
 msgid ""
 "Special announcements and messages from the team dedicated to keeping the "
 "Web free and open."
@@ -198,59 +179,59 @@ msgstr ""
 "tảng Web tự do và miễn phí."
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Marketplace)
-#: newsletter.lang:152
+#: newsletter.lang:136
 msgid "Know when the coolest apps hit the Marketplace for your platform:"
 msgstr ""
 "Được thông báo khi có ứng dụng mới được phát hành trên Kho ứng dụng cho nền "
 "tảng của bạn:"
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:157
+#: newsletter.lang:141
 msgid "Firefox OS smartphone owner?"
 msgstr "Bạn đang sở hữu điện thoại Firefox OS?"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
-#: newsletter.lang:162
+#: newsletter.lang:146
 msgid "Don’t miss important news and updates about your Firefox OS device."
 msgstr ""
 "Đừng bỏ qua những tin tức và cập nhật quan trọng cho thiết bị Firefox OS của "
 "bạn."
 
-#: newsletter.lang:167
+#: newsletter.lang:151
 msgid "Beta News"
 msgstr "Tin tức Beta"
 
-#: newsletter.lang:171
+#: newsletter.lang:155
 msgid "Manage your <span>Newsletter Subscriptions</span>"
 msgstr "Quản lý <span>những bản tin hàng tháng</span> của bạn"
 
-#: newsletter.lang:175
+#: newsletter.lang:159
 msgid "Manage your Email Preferences"
 msgstr "Quản lý các tùy chọn email"
 
-#: newsletter.lang:179
+#: newsletter.lang:163
 msgid ""
 "We love sharing updates about all the awesome things happening at Mozilla."
 msgstr ""
 "Chúng tôi rất thích được chia sẻ về những điều tuyệt vời đang diễn ra ở "
 "Mozilla."
 
-#: newsletter.lang:183
+#: newsletter.lang:167
 msgid ""
 "Set your preferences below to make sure you always receive the news you want."
 msgstr ""
 "Hãy thiết lập các tùy chọn ở bên dưới để đảm bảo bạn luôn nhận được những "
 "tin tức bạn muốn."
 
-#: newsletter.lang:187
+#: newsletter.lang:171
 msgid "Newsletters"
 msgstr "Các bản tin tháng"
 
-#: newsletter.lang:191
+#: newsletter.lang:175
 msgid "Getting too much email from us?"
 msgstr "Bạn nhận được quá nhiều email từ chúng tôi?"
 
-#: newsletter.lang:195
+#: newsletter.lang:179
 msgid ""
 "Not interested in our newsletters, but like those special announcements? No "
 "problem."
@@ -258,13 +239,13 @@ msgstr ""
 "Bạn không quan tâm đến những bản tin tháng, nhưng lại muốn nhận được các "
 "thông báo đặc biệt? Không sao hết."
 
-#: newsletter.lang:199
+#: newsletter.lang:183
 msgid "We can keep in touch with occasional messages that matter most to you."
 msgstr ""
 "Chúng tôi có thể giữ liên lạc và chỉ thỉnh thoảng gửi những thông báo quan "
 "trọng nhất với bạn."
 
-#: newsletter.lang:203
+#: newsletter.lang:187
 msgid ""
 "Check all categories that apply to you, and we promise to keep the mail to a "
 "minimum."
@@ -272,64 +253,64 @@ msgstr ""
 "Hãy đánh dấu những hạng mục phù hợp với bạn. Chúng tôi hứa sẽ chỉ gửi email "
 "ít nhất có thể."
 
-#: newsletter.lang:207
+#: newsletter.lang:191
 msgid "I’m interested in:"
 msgstr "Tôi quan tâm tới:"
 
-#: newsletter.lang:211
+#: newsletter.lang:195
 msgid "Subscribe"
 msgstr "Đăng ký"
 
-#: newsletter.lang:215
+#: newsletter.lang:199
 msgid "Unsubscribe"
 msgstr "Hủy đăng ký"
 
-#: newsletter.lang:219
+#: newsletter.lang:203
 msgid "Remove me from all Mozilla emails"
 msgstr "Xóa tôi khỏi tất cả các danh sách thư của Mozilla"
 
-#: newsletter.lang:223
+#: newsletter.lang:207
 msgid "Save Preferences"
 msgstr "Lưu các tùy chỉnh"
 
-#: newsletter.lang:227
+#: newsletter.lang:211
 msgid "Thanks for updating your email preferences."
 msgstr "Cảm ơn bạn đã cập nhật các tùy chỉnh email."
 
-#: newsletter.lang:231
+#: newsletter.lang:215
 msgid "You send too many emails."
 msgstr "Các vị gửi quá nhiều thư điện tử."
 
-#: newsletter.lang:235
+#: newsletter.lang:219
 msgid "Your content wasn't relevant to me."
 msgstr "Nội dung các vị không liên quan đến tôi."
 
-#: newsletter.lang:239
+#: newsletter.lang:223
 msgid "Your email design was too hard to read."
 msgstr "Email của các vị trình bày rất khó đọc."
 
-#: newsletter.lang:243
+#: newsletter.lang:227
 msgid "I didn't sign up for this."
 msgstr "Tôi chưa bao giờ đăng ký nhận thư."
 
-#: newsletter.lang:247
+#: newsletter.lang:231
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
 msgstr "Tôi giữ liên lạc với Mozilla trên Facebook và Twitter."
 
-#: newsletter.lang:251
+#: newsletter.lang:235
 msgid "Submit"
 msgstr "Gửi"
 
-#: newsletter.lang:255
+#: newsletter.lang:239
 msgid "Thanks for telling us why you’re leaving."
 msgstr "Cám ơn vì bạn đã nói cho chúng tôi biết lý do bạn rời đi."
 
-#: newsletter.lang:259
+#: newsletter.lang:243
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr ""
 "Cảm ơn! Vui lòng kiểm tra hộp thư đến để xác nhận việc đăng ký của bạn."
 
-#: newsletter.lang:263
+#: newsletter.lang:247
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -339,7 +320,7 @@ msgstr ""
 "đăng ký. Nếu không nhìn thấy, xin hãy kiểm tra trong bộ lọc thư rác. Bạn cần "
 "phải xác nhận đăng ký để nhận thư thông báo của chúng tôi."
 
-#: newsletter.lang:267
+#: newsletter.lang:251
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
@@ -348,21 +329,21 @@ msgstr ""
 "để đảm bảo thư của chúng tôi luôn hiện ra trong hòm thư của bạn."
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: newsletter.lang:272
+#: newsletter.lang:256
 msgid "Get Firefox news"
 msgstr "Nhận tin tức về Firefox"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: newsletter.lang:277
+#: newsletter.lang:261
 msgid "YOUR EMAIL HERE"
 msgstr "EMAIL CỦA BẠN TẠI ĐÂY"
 
 #. Button
-#: newsletter.lang:282
+#: newsletter.lang:266
 msgid "Sign me up"
 msgstr "Đăng ký"
 
-#: newsletter.lang:286
+#: newsletter.lang:270
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
@@ -370,7 +351,7 @@ msgstr ""
 "Tôi đồng ý việc Mozilla sử dụng thông tin của tôi như trình bày trong <a "
 "href=\"%s\">Chính sách riêng tư này</a>"
 
-#: newsletter.lang:290
+#: newsletter.lang:274
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
@@ -378,88 +359,88 @@ msgstr ""
 "Đường dẫn này đã hết hiệu lực. Bạn sẽ nhận một đường dẫn mới trong thư thông "
 "báo tiếp theo."
 
-#: newsletter.lang:294
+#: newsletter.lang:278
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr ""
 "Có gì đó không thích hợp với hệ thống của bạn, xin lỗi về điều này! Làm ơn "
 "thử lại lần sau."
 
-#: newsletter.lang:298
+#: newsletter.lang:282
 msgid "English&nbsp;only"
 msgstr "Chỉ có&nbsp;tiếng Anh"
 
-#: newsletter.lang:302
+#: newsletter.lang:286
 msgid "Newsletter Subscriptions"
 msgstr "Những bản tin đã đăng ký"
 
-#: newsletter.lang:306
+#: newsletter.lang:290
 msgid "Newsletter confirm"
 msgstr "Xác nhận đăng ký bản tin"
 
-#: newsletter.lang:310
+#: newsletter.lang:294
 msgid "Format:"
 msgstr "Định dạng:"
 
-#: newsletter.lang:314
+#: newsletter.lang:298
 msgid "You’ve been unsubscribed."
 msgstr "Bạn đã hủy đăng ký."
 
-#: newsletter.lang:318
+#: newsletter.lang:302
 msgid "We’re sorry to see you go."
 msgstr "Chúng tôi rất tiếc khi bạn rời đi."
 
-#: newsletter.lang:322
+#: newsletter.lang:306
 msgid "Would you mind telling us why you’re leaving?"
 msgstr "Bạn có thể chia sẻ với chúng tôi lý do bạn rời đi không?"
 
-#: newsletter.lang:326
+#: newsletter.lang:310
 msgid "Other…"
 msgstr "Lý do khác..."
 
-#: newsletter.lang:330
+#: newsletter.lang:314
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr ""
 "Trong khi bạn đang ở đây, tại sao không thử thêm một số điều kỳ diệu của "
 "Firefox."
 
-#: newsletter.lang:334
+#: newsletter.lang:318
 msgid "Get up and go"
 msgstr "Đứng dậy và đi"
 
-#: newsletter.lang:338
+#: newsletter.lang:322
 msgid "It’s your Web anywhere you go."
 msgstr "Vẫn là Web của bạn, dù có đi bất cứ đâu."
 
-#: newsletter.lang:342
+#: newsletter.lang:326
 msgid "Get Firefox for mobile!"
 msgstr "Tải Firefox cho di động!"
 
-#: newsletter.lang:346
+#: newsletter.lang:330
 msgid "Added extras"
 msgstr "Các phần bổ xung đã thêm vào"
 
-#: newsletter.lang:350
+#: newsletter.lang:334
 msgid "Make Firefox do more with add-ons."
 msgstr "Làm được nhiều hơn cùng Firefox với các tiện ích."
 
-#: newsletter.lang:354
+#: newsletter.lang:338
 msgid "Find out how!"
 msgstr "Tìm hiểu xem làm như thế nào!"
 
-#: newsletter.lang:358
+#: newsletter.lang:342
 msgid "About us"
 msgstr "Giới thiệu về chúng tôi"
 
-#: newsletter.lang:362
+#: newsletter.lang:346
 msgid "What’s Mozilla all about?"
 msgstr "Vậy Mozilla là tổ chức như thế nào?"
 
-#: newsletter.lang:366
+#: newsletter.lang:350
 msgid "We’re glad you asked!"
 msgstr "Chúng tôi rất vui khi bạn đã hỏi!"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:371
+#: newsletter.lang:355
 msgid ""
 "A monthly newsletter packed with tips to improve your Firefox experience."
 msgstr ""
@@ -467,30 +448,30 @@ msgstr ""
 "bạn."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:376
+#: newsletter.lang:360
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr "Tin tức, thủ thuật, thông tin phát hành và nơi mua được Firefox OS."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:381
+#: newsletter.lang:365
 msgid "Be the first to know when Firefox is available for iOS devices."
 msgstr ""
 "Là người đầu tiên được thông báo khi Firefox được phát hành cho thiết bị iOS."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:386
+#: newsletter.lang:370
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr "Khám phá các ứng dụng HTML5 mới nhất, thú vị nhất trên Firefox OS."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:391
+#: newsletter.lang:375
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr ""
 "Nhận các lời khuyên hàng tuần về việc làm thế nào để tăng cường trải nghiệm "
 "Firefox."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:396
+#: newsletter.lang:380
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
@@ -499,31 +480,47 @@ msgstr ""
 "trước khi có bản chính thức."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:401
+#: newsletter.lang:385
 msgid "News from the Mozilla Project."
 msgstr "Tin tức mới từ dự án Mozilla."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:406
+#: newsletter.lang:390
 msgid "Periodic email updates about our annual international film competition."
 msgstr ""
 "Cập nhật email định kỳ liên quan đến cuộc thi làm phim quốc tế hàng năm của "
 "chúng tôi."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:411
+#: newsletter.lang:395
 msgid "Email updates for vouched Mozillians on mozillians.org."
 msgstr ""
 "Cập nhật qua email dành cho các Mozillan đã được vouch trên mozillians.org."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:416
+#: newsletter.lang:400
 msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
 msgstr ""
 "Chương trình Former University từ năm 2008 đến 2011, giờ đã ngừng và được "
 "khởi động lại dưới cái tên chương trình Firefox Student Ambassadors."
+
+#~ msgid "Text"
+#~ msgstr "Văn bản"
+
+#~ msgid "Whoops! Be sure to enter a valid email address."
+#~ msgstr "Có lỗi! Xin hãy nhập một địa chỉ thư điện tử hợp lệ."
+
+#~ msgid "Format"
+#~ msgstr "Định dạng"
+
+#~ msgid ""
+#~ "Be the first to know when Firefox OS devices are available in your "
+#~ "country."
+#~ msgstr ""
+#~ "Hãy là người đầu tiên được biết khi thiết bị Firefox OS được phát hành ở "
+#~ "đất nước của bạn."
 
 #~ msgid "Get Monthly News"
 #~ msgstr "Nhận tin tức hàng tháng"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-21 20:29+0000\n"
+"POT-Creation-Date: 2015-09-28 12:32+0000\n"
 "PO-Revision-Date: 2015-09-13 12:28+0000\n"
 "Last-Translator: Bjørn I. Svindseth <bjorn.svindseth@online.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -786,3 +786,25 @@ msgstr ""
 #: main.lang:751
 msgid "Congrats. You’re up to date!"
 msgstr "Gratulerar. Du er oppdatert!"
+
+#. Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+#: main.lang:756
+#, fuzzy
+msgid "Format"
+msgstr "Format:"
+
+#. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+#: main.lang:761
+#, fuzzy
+msgid "Text"
+msgstr "Neste"
+
+#. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+#: main.lang:766
+msgid "HTML"
+msgstr ""
+
+#. This is the error message displayed if you provide an invalid email address in a form
+#: main.lang:771
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "Oops! Skriv inn ei gyldig e-postadresse."

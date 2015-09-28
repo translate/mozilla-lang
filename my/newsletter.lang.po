@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-28 10:40+0000\n"
+"POT-Creation-Date: 2015-09-28 12:32+0000\n"
 "PO-Revision-Date: 2015-09-08 09:24+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,42 +19,35 @@ msgid "Your email address:"
 msgstr "သင်၏ အီးမေလ်းလိပ်စာ :"
 
 #: newsletter.lang:9
-msgid "Text"
-msgstr "စာ"
-
-#: newsletter.lang:13
 msgid "Available Languages"
 msgstr "အသုံးပြုနိုင်သော ဘာသာစကားများ"
 
-#: newsletter.lang:17
+#: newsletter.lang:13
 msgid "Language:"
 msgstr "ဘာသာစကား -"
 
-#: newsletter.lang:21
+#: newsletter.lang:17
 msgid "Select country"
 msgstr "နိုင်ငံရွေးပါ"
 
-#: newsletter.lang:25
+#: newsletter.lang:21
 msgid "Country:"
 msgstr "နိုင်ငံ - "
 
-#: newsletter.lang:29
-msgid "Whoops! Be sure to enter a valid email address."
-msgstr "ဝိုး.. အီမေလ်းလိပ်စာလေးပြန်စစ်ပေးပါ"
-
-#: newsletter.lang:33
+#. Form submit button on the Student Ambassador newsletter subscription form
+#: newsletter.lang:26
 msgid "Sign me up!"
 msgstr "Sign me up!"
 
-#: newsletter.lang:37
+#: newsletter.lang:30
 msgid "We will only send you Mozilla-related information."
 msgstr "သင့်အား မိုဇီလာနှင့် သက်ဆိုင်သော သတင်းများပဲ ပို့ပေးမှာပါ"
 
-#: newsletter.lang:41
+#: newsletter.lang:34
 msgid "Thanks for Subscribing!"
 msgstr "လစဉ်သတင်းယူပေးလို့ကျေးဇူးပါ။"
 
-#: newsletter.lang:45
+#: newsletter.lang:38
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
@@ -63,25 +56,21 @@ msgstr ""
 "အီးမေလ်းအား စာရင်းသွင်းထားပြီး မိုဇီလာသတင်းများ အချို့သော မီးမြေခွေးသုံးဆွဲပုံ နှင့် ၎င်းနှင့်သက်ဆိုင်သော "
 "အချက် အလက်များအား ရယူပါ။ အဆက်အသွယ်မပြတ်အောင်တော့ အီးမေလ်းပေးထားခဲ့တာအကောင်းဆုံးပါ!"
 
-#: newsletter.lang:49
+#: newsletter.lang:42
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "ကျွနု်ပ်တို့၏ <span>သတင်းစဉ်</span>အကြောင်း"
 
-#: newsletter.lang:53
+#: newsletter.lang:46
 msgid "Your newsletter subscription has been confirmed."
 msgstr "သင်၏ သတင်းစဉ် အီမေလ်းပေးပို့ခြင်း အတည်ပြုပြီး"
 
-#: newsletter.lang:57
-msgid "Format"
-msgstr "ဖွဲ့စည်းပုံ"
-
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:62
+#: newsletter.lang:51
 msgid "Firefox & You"
 msgstr "မီးမြေခွေး နှင့် သင်"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox & You)
-#: newsletter.lang:67
+#: newsletter.lang:56
 msgid ""
 "A monthly newsletter and special announcements giving you tips to improve "
 "your experience with Firefox on your desktop and Android device."
@@ -90,12 +79,12 @@ msgstr ""
 "လစဉ်သတင်းလွှာနှင့် အထူးကြေငြာချက်များသည် သင့်ကို အကြံပြုချက်များ ပေးပါသည်။"
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:72
+#: newsletter.lang:61
 msgid "Firefox OS News"
 msgstr "မီးမြေခွေးစနစ်အကြောင်း သတင်းများ"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS News)
-#: newsletter.lang:77
+#: newsletter.lang:66
 msgid ""
 "A monthly newsletter and special announcements on how to get the most from "
 "your Firefox OS device, including the latest features and coolest Firefox "
@@ -105,40 +94,40 @@ msgstr ""
 "စိတ်လှုပ်ရှားဖွယ် မီးမြေခွေးဈေးကွက်ရှိအက်ပ်များ စသည်တို့အတွက် လစဉ်သတင်းလွှာနှင့် အထူးကြေငြာချက်များ။"
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:82
+#: newsletter.lang:71
 msgid "Mozilla Communities"
 msgstr "မော်ဇီလာ အသိုင်းအဝိုင်းများ"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Communities)
-#: newsletter.lang:87
+#: newsletter.lang:76
 msgid "Bringing you the best new opportunities to help support the open Web."
 msgstr "ပွင့်လင်းဝဘ်ကို ကူညီထောက်ပံ့ရန် အကောင်းဆုံးအခွင့်အရေးသစ်များကို သင့်ထံသို့ ယူဆောင်လာနေပါပြီ။"
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:92
+#: newsletter.lang:81
 msgid "Firefox Student Ambassadors"
 msgstr "မီးမြေခွေးကျောင်းသား/သူ သံတမန်များ"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
-#: newsletter.lang:97
+#: newsletter.lang:86
 msgid ""
 "A monthly newsletter on how to get involved with Mozilla on your campus."
 msgstr "သင့်တက္ကသိုလ်နယ်မြေအတွင်းတွင် မော်ဇီလာနှင့်အတူ ဘယ်လိုပါဝင်ဆောင်ရွက်မည် စသည်တို့အတွက် လစဉ်သတင်းလွှာ။"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
-#: newsletter.lang:102
+#: newsletter.lang:91
 msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
 msgstr "သင့်ထံတွင် မီးမြေခွေးပေါင်းစည်းမှုအစီအစဉ်နှင့် ပတ်သက်သည့် နောက်ဆုံးရသတင်းများအတွက် လစဉ်သတင်းလွှာ။"
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:107
+#: newsletter.lang:96
 msgid "Firefox Apps & Hacks"
 msgstr "မီးမြေခွေးအက်ပ်များနှင့် ပြိုင်ပွဲများ"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
-#: newsletter.lang:112
+#: newsletter.lang:101
 msgid ""
 "News for developers about Firefox OS, Firefox Marketplace and the Open Web "
 "apps ecosystem."
@@ -147,92 +136,86 @@ msgstr ""
 "သတင်းများ။"
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:117
+#: newsletter.lang:106
 msgid "Mozillians"
 msgstr "မော်ဇီလာအဖွဲသားများ"
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:122
+#: newsletter.lang:111
 msgid "Firefox for desktop"
 msgstr "ဒတ်စတော့ အတွက် မီးမြေခွေး"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for desktop)
-#: newsletter.lang:127
+#: newsletter.lang:116
 msgid "Don’t miss the latest announcements about our desktop browser."
 msgstr "ကျွန်တော်တို့ ကွန်ပြူတာသုံးဘရောင်ဇာအကြောင်း နောက်ဆုံးရ ကြေငြာချက်များကို မလွတ်စေကြပါနှင့်။"
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:132
+#: newsletter.lang:121
 msgid "Firefox for Android"
 msgstr "အဲန်းဒရိုက် သုံးမီးမြေခွေး"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for Android)
-#: newsletter.lang:137
+#: newsletter.lang:126
 msgid "Keep up with releases and news about Firefox for Android."
 msgstr "အန်းဒရွိုက်အတွက် မီးမြေခွေးအကြောင်း ထုတ်လုပ်ဖြန့်ချိရေးများနှင့် သတင်းများကို ဆက်လက်သိရှိနေပါ။"
 
-#. Description for the in Newsletter subscription page (Firefox OS)
-#: newsletter.lang:142
-msgid ""
-"Be the first to know when Firefox OS devices are available in your country."
-msgstr "သင့်နိုင်ငံတွင် ဘယ်အချိန်တွင် မီးမြေခွေးကိရိယာများရရှိနိုင်ကြောင်း ပထမဆုံးသိရှိသူ ဖြစ်ပါ။"
-
 #. Description for the newsletter in Newsletter subscription page (Mozilla)
-#: newsletter.lang:147
+#: newsletter.lang:131
 msgid ""
 "Special announcements and messages from the team dedicated to keeping the "
 "Web free and open."
 msgstr "ဝဘ်ကို လွတ်လပ်ပွင့်လင်းဖြစ်စေရန် ကြိုးပမ်းနေကြသည့် အဖွဲ့ထံမှ အထူးကြေငြာချက်များနှင့် သတင်းတိုများ။"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Marketplace)
-#: newsletter.lang:152
+#: newsletter.lang:136
 msgid "Know when the coolest apps hit the Marketplace for your platform:"
 msgstr "သင့်ပလက်ဖောင်းအတွက် စိတ်လှုပ်ရှားဖွယ်အကောင်းဆုံး အက်ပ် ဈေးကွက်ထဲတွင် ရေပန်းစားနေတယ်ဆိုတာကို သိရှိပါ။"
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:157
+#: newsletter.lang:141
 msgid "Firefox OS smartphone owner?"
 msgstr "သင်ဟာ မီးမြေခွေးစနစ်သုံး စမတ်ဖုန်း ပိုင်ရှင်လား။"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
-#: newsletter.lang:162
+#: newsletter.lang:146
 msgid "Don’t miss important news and updates about your Firefox OS device."
 msgstr ""
 "သင့်မီးမြေခွေးစနစ်သုံး ကိရိယားများအတွက် အရေးကြီးသည့် သတင်းများနှင့် နောက်ဆုံးရသတင်းများကို "
 "မလွတ်စေကြပါနှင့်။"
 
-#: newsletter.lang:167
+#: newsletter.lang:151
 msgid "Beta News"
 msgstr "ဘီတာ သတင်းများ"
 
-#: newsletter.lang:171
+#: newsletter.lang:155
 msgid "Manage your <span>Newsletter Subscriptions</span>"
 msgstr "သင်၏<span>သတင်းစဉ်ရယူမှူ</span>အားပြင်ဆင်မယ်"
 
-#: newsletter.lang:175
+#: newsletter.lang:159
 msgid "Manage your Email Preferences"
 msgstr "သင့် အီးမေးလ် အပြင်ဆင်များကို စီမံပါ"
 
-#: newsletter.lang:179
+#: newsletter.lang:163
 msgid ""
 "We love sharing updates about all the awesome things happening at Mozilla."
 msgstr ""
 "မော်ဇီလာမှာ ဖြစ်နေသမျှ အကောင်းဆုံးများနဲ့ ပတ်သက်သည်များ မျှဝေခြင်းကို ကျွန်တော်တို့ လိုလားနှစ်သက်ပါသည်။"
 
-#: newsletter.lang:183
+#: newsletter.lang:167
 msgid ""
 "Set your preferences below to make sure you always receive the news you want."
 msgstr "သင်လိုချင်သည့် သတင်းများ အမြဲတမ်း ရရှိမှု သေချာစေရန် သင့်အပြင်အဆင်များကို အောက်တွင် သတ်မှတ်ပါ။"
 
-#: newsletter.lang:187
+#: newsletter.lang:171
 msgid "Newsletters"
 msgstr "သတင်းလွှာများ"
 
-#: newsletter.lang:191
+#: newsletter.lang:175
 msgid "Getting too much email from us?"
 msgstr "ကျွန်တော်တို့ဆီမှ အီးမေးလ်တွေရယူတာ အရမ်းများနေပါသလား။"
 
-#: newsletter.lang:195
+#: newsletter.lang:179
 msgid ""
 "Not interested in our newsletters, but like those special announcements? No "
 "problem."
@@ -240,76 +223,76 @@ msgstr ""
 "ကျွန်တော်တို့ရဲ့ သတင်းလွှာကို စိတ်မဝင်စားဘူးလား။ အထူးကြေငြာချက်များကဲ့သို့ အရာများကို စိတ်ဝင်စားပါသလား။ "
 "ကိစ္စမရှိပါဘူး။"
 
-#: newsletter.lang:199
+#: newsletter.lang:183
 msgid "We can keep in touch with occasional messages that matter most to you."
 msgstr ""
 "သင်ဂရုအပြုဆုံးအရာများနှင့် ပတ်သက်သည်များကို အခါအားလျော်စွာ သတင်းတိုပို့ခြင်းဖြင့် သင့်နဲ့အတူ ကျွန်တော်တို့ "
 "ရှိနေပါမည်။"
 
-#: newsletter.lang:203
+#: newsletter.lang:187
 msgid ""
 "Check all categories that apply to you, and we promise to keep the mail to a "
 "minimum."
 msgstr ""
 "သင်လိုအပ်သည့် အုပ်စုများကို စစ်ဆေးရွေးချယ်ပါ။ အီးမေးလ်များကို အနည်းဆုံးဖြစ်စေမည်ဟု ကျွန်တော်တို့ ကတိပြုပါသည်။"
 
-#: newsletter.lang:207
+#: newsletter.lang:191
 msgid "I’m interested in:"
 msgstr "ကျွန်တော်/မ စိတ်ဝင်စားသည်များ။"
 
-#: newsletter.lang:211
+#: newsletter.lang:195
 msgid "Subscribe"
 msgstr "ပေးလိုက်မည်"
 
-#: newsletter.lang:215
+#: newsletter.lang:199
 msgid "Unsubscribe"
 msgstr "ပြန်ထုတ်မည်"
 
-#: newsletter.lang:219
+#: newsletter.lang:203
 msgid "Remove me from all Mozilla emails"
 msgstr "ကျွနု်ပ်အား မိုဇီလာသတင်းစဉ်မေလ်းထဲမှ ဖယ်ပါ"
 
-#: newsletter.lang:223
+#: newsletter.lang:207
 msgid "Save Preferences"
 msgstr "အပြင်အဆင်များသိမ်းမည်"
 
-#: newsletter.lang:227
+#: newsletter.lang:211
 msgid "Thanks for updating your email preferences."
 msgstr "သင့်အီးမေလ်း အပြင်အဆင်အား အသစ်လုပ်သည့် အတွက် ကျေးဇူးပါ"
 
-#: newsletter.lang:231
+#: newsletter.lang:215
 msgid "You send too many emails."
 msgstr "အီးမေလ်းတွေအများကြီးပို့တာကိုး"
 
-#: newsletter.lang:235
+#: newsletter.lang:219
 msgid "Your content wasn't relevant to me."
 msgstr "ပို့တာတွေကို အသုံးမတည့်လို့ပါ"
 
-#: newsletter.lang:239
+#: newsletter.lang:223
 msgid "Your email design was too hard to read."
 msgstr "အီးမေလ်းဒီဇိုင်းက ဖတ်ရခက်တယ်"
 
-#: newsletter.lang:243
+#: newsletter.lang:227
 msgid "I didn't sign up for this."
 msgstr "ဒီအတွက်မေလ်းမပေးခဲ့ဘူး"
 
-#: newsletter.lang:247
+#: newsletter.lang:231
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
 msgstr "Facebook တွစ်တာ ပေါ်မှာပဲ မိုဇီလာနဲ့ အဆက်အသွယ်လုပ်တော့မယ်နော်"
 
-#: newsletter.lang:251
+#: newsletter.lang:235
 msgid "Submit"
 msgstr "ထည့်မည်"
 
-#: newsletter.lang:255
+#: newsletter.lang:239
 msgid "Thanks for telling us why you’re leaving."
 msgstr "ဘာလို့ထွက်သွားတာလဲဆိုတာ ပြောပြလို့ကျေးဇူးနော်"
 
-#: newsletter.lang:259
+#: newsletter.lang:243
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr "ကျေးဇူးပြုပြီးသင့်ရဲ့မေလ်းဘောက်စ် ထဲကို အတည်ပြုရန်စစ်ဆေးပေးပါ"
 
-#: newsletter.lang:263
+#: newsletter.lang:247
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -318,7 +301,7 @@ msgstr ""
 "သင်သည် mozill​a@e.mozilla.org  မှနေပြီးမေလ်းတစ်စောင်ရလိမ့်မည်။ ထိုမေလ်းရောက်မလာပါက သင်၏ Spam "
 "ဘောက်စ်ထဲသို့ စစ်ပေးပါ။ သင်သတင်းတွေရဖို့ အတည်တော့ပြုပေးဖို့လိုသည်။"
 
-#: newsletter.lang:267
+#: newsletter.lang:251
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
@@ -327,21 +310,21 @@ msgstr ""
 "မေလ်းရောက်လာပါစေ"
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: newsletter.lang:272
+#: newsletter.lang:256
 msgid "Get Firefox news"
 msgstr "မီးမြေခွေးသတင်းများယူ"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: newsletter.lang:277
+#: newsletter.lang:261
 msgid "YOUR EMAIL HERE"
 msgstr "ဒီမှာ သင့် အီးမေလ်း"
 
 #. Button
-#: newsletter.lang:282
+#: newsletter.lang:266
 msgid "Sign me up"
 msgstr "စာရင်းသွင်း"
 
-#: newsletter.lang:286
+#: newsletter.lang:270
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
@@ -349,118 +332,118 @@ msgstr ""
 "<a href=\"%s\">ဒီကိုယ်ရေးလုံခြုံမှုမူဝါဒ</a>တွင် ဖော်ပြထားသည့်အတိုင်း ကျွန်တော်/မသည် မော်ဇီလာမှ "
 "အချက်အလက်များကို ကိုင်တွယ်ခြင်းနှင့် ပတ်သက်ပြီး သဘောတူလက်ခံပါသည်။"
 
-#: newsletter.lang:290
+#: newsletter.lang:274
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
 msgstr "ပေးထားသော ချိတ်ဆက် သင် သက်တမ်းကုန်သွားပြီ။ သင်အား မကြာခင် စာအသစ် တစ်စောင်ပို့ပေးလိမ့်မည်"
 
-#: newsletter.lang:294
+#: newsletter.lang:278
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr "ကျွန်တော်တို့ ကွန်ပျူတာ စနစ်တွင် တစ်ခုခု မှားနေပါတယ် ။ ကျေးဇူးပြုပြီး ထပ်မံ ကြိုးစားပေးပါ"
 
-#: newsletter.lang:298
+#: newsletter.lang:282
 msgid "English&nbsp;only"
 msgstr "အင်္ဂလိပ်&nbsp;သာ"
 
-#: newsletter.lang:302
+#: newsletter.lang:286
 msgid "Newsletter Subscriptions"
 msgstr "စာစောင် ရယူခြင်းများ"
 
-#: newsletter.lang:306
+#: newsletter.lang:290
 msgid "Newsletter confirm"
 msgstr "စာစောင် ရယူရန် အတည်ပြု"
 
-#: newsletter.lang:310
+#: newsletter.lang:294
 msgid "Format:"
 msgstr "အမျိုးအစား -"
 
-#: newsletter.lang:314
+#: newsletter.lang:298
 msgid "You’ve been unsubscribed."
 msgstr "သင့်အား ထုတ်ပြီး ဖြစ်ပါသည်။"
 
-#: newsletter.lang:318
+#: newsletter.lang:302
 msgid "We’re sorry to see you go."
 msgstr "သင်ထွက်သွားတာကို စိတ်မကောင်းပါ"
 
-#: newsletter.lang:322
+#: newsletter.lang:306
 msgid "Would you mind telling us why you’re leaving?"
 msgstr "သင်ဘာလို့ ထွက်သွားတာလဲ ဆိုတာကို စိတ်မရှိပါက ပြောပြပေးပါလား ?"
 
-#: newsletter.lang:326
+#: newsletter.lang:310
 msgid "Other…"
 msgstr "အခြားအရာများ ..."
 
-#: newsletter.lang:330
+#: newsletter.lang:314
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr "ဒီမှာ ရှိနေတုန်း ဘာလို့ မီးမြေခွေးရဲ့ အံအားသင့်ဖွယ် အရာတွေကို တစ်ချက်ကြည့်ကြည့်ပါ"
 
-#: newsletter.lang:334
+#: newsletter.lang:318
 msgid "Get up and go"
 msgstr "ထပြီး သွားလို့ရပြီ "
 
-#: newsletter.lang:338
+#: newsletter.lang:322
 msgid "It’s your Web anywhere you go."
 msgstr "ဒါသင်ဘယ်သွားသွား သင့်ချိတ်ဆက်မှူပါ"
 
-#: newsletter.lang:342
+#: newsletter.lang:326
 msgid "Get Firefox for mobile!"
 msgstr "မိုဘိုင်းအတွက်မီးမြေခွေး!"
 
-#: newsletter.lang:346
+#: newsletter.lang:330
 msgid "Added extras"
 msgstr "အခြားအရာများထည့်ပြီး"
 
-#: newsletter.lang:350
+#: newsletter.lang:334
 msgid "Make Firefox do more with add-ons."
 msgstr "မီးမြေခွေးနှင့်အခြားအရာများကို ထပ်ပေါင်းဆော့ဝဲထည့်ပြီးလုပ်ပါ"
 
-#: newsletter.lang:354
+#: newsletter.lang:338
 msgid "Find out how!"
 msgstr "ယခုရှာပါ!"
 
-#: newsletter.lang:358
+#: newsletter.lang:342
 msgid "About us"
 msgstr "ကျွနု်ပ်တို့အကြောင်း"
 
-#: newsletter.lang:362
+#: newsletter.lang:346
 msgid "What’s Mozilla all about?"
 msgstr "မိုဇီလာဆိုတာက ဘာလဲ ?"
 
-#: newsletter.lang:366
+#: newsletter.lang:350
 msgid "We’re glad you asked!"
 msgstr "သင်မေးလို့ ကျွန်တော်တို့ဝမ်းသာပါတယ်!"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:371
+#: newsletter.lang:355
 msgid ""
 "A monthly newsletter packed with tips to improve your Firefox experience."
 msgstr "သင့်မီးမြေခွေးအတွေ့အကြုံများကို ပိုမိုတိုးတက်စေရန် အကြံပြုချက်များပါဝင်သည့် လစဉ်သတင်းလွှာ။"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:376
+#: newsletter.lang:360
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr ""
 "မီးမြေခွေးစနစ်အကြောင်း သတင်းများ၊ အကြံပြုချက်များ၊ စတင်ရောင်းချမှုသတင်းများနှင့် "
 "ဝယ်ယူနိုင်သောနေရာများ။"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:381
+#: newsletter.lang:365
 msgid "Be the first to know when Firefox is available for iOS devices."
 msgstr "အိုင်အိုအက်စ်အတွက် ဘယ်အချိန်တွင် မီးမြေခွေးရရှိနိုင်ကြောင်း ပထမဆုံးသိရှိသူ ဖြစ်ပါ။"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:386
+#: newsletter.lang:370
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr "မီးမြေခွေးစနစ်ပေါ်မှာ နောက်ဆုံးပေါ်၊ စိတ်လှုပ်ရှားဖွယ် HTML5 အက်ပ်များကို ရှာဖွေပါ။"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:391
+#: newsletter.lang:375
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr "သင့်မီးမြေခွေးအတွေ့အကြုံကို အမြန်တိုးတက်စေရန် ပြုလုပ်နည်းပါဝင်သည့် အပတ်စဉ် အကြံပြုချက်များကို ရယူပါ။"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:396
+#: newsletter.lang:380
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
@@ -468,31 +451,45 @@ msgstr ""
 "မီးမြေခွေးဒတ်စတော့သုံး နှင့် မိုဘိုင်းဖုန်းသုံးတို့ ၏ နောက်ဆုံးပေါ် လုပ်ဆောင်ချက်များအား မထွက်လာခင်လေ့လာထားပါ"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:401
+#: newsletter.lang:385
 msgid "News from the Mozilla Project."
 msgstr "မော်ဇီလာစီမံကိန်းထံမှ သတင်းများ။"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:406
+#: newsletter.lang:390
 msgid "Periodic email updates about our annual international film competition."
 msgstr ""
 "ကျွန်တော်တို့ရဲ့ နှစ်စဉ် အပြည်ပြည်ဆိုင်ရာ ရုပ်ရှင်ပြိုင်ပွဲနှင့် ပတ်သက်သော အခါအားလျော်စွာပေးပို့သည့် နောက်ဆုံးရ "
 "အီးမေးလ်သတင်းများ။"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:411
+#: newsletter.lang:395
 msgid "Email updates for vouched Mozillians on mozillians.org."
 msgstr ""
 "mozillians.org တွင် vouch ရရှိထားသော မော်ဇီလာအဖွဲ့သားများအတွက် နောက်ဆုံးရ အီးမေးလ်သတင်းများ။"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:416
+#: newsletter.lang:400
 msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
 msgstr ""
 "အခု ရပ်နားလိုက်ပြီဖြစ်သော ၂၀၀၈-၂၀၁၁တုန်းက တက္ကသိုလ်ပရိုဂရမ်ဟောင်းသည် မီးမြေခွေးကျောင်းသား/သူ "
 "သံတမန်ပရိုဂရမ်အနေနှင့် ပြန်လည်စတင်လိုက်ပြီ ဖြစ်သည်။"
+
+#~ msgid "Text"
+#~ msgstr "စာ"
+
+#~ msgid "Whoops! Be sure to enter a valid email address."
+#~ msgstr "ဝိုး.. အီမေလ်းလိပ်စာလေးပြန်စစ်ပေးပါ"
+
+#~ msgid "Format"
+#~ msgstr "ဖွဲ့စည်းပုံ"
+
+#~ msgid ""
+#~ "Be the first to know when Firefox OS devices are available in your "
+#~ "country."
+#~ msgstr "သင့်နိုင်ငံတွင် ဘယ်အချိန်တွင် မီးမြေခွေးကိရိယာများရရှိနိုင်ကြောင်း ပထမဆုံးသိရှိသူ ဖြစ်ပါ။"
 
 #~ msgid "Get Monthly News"
 #~ msgstr "လစဉ်သတင်းများရယူပါ"

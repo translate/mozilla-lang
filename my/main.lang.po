@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-21 20:29+0000\n"
+"POT-Creation-Date: 2015-09-28 12:32+0000\n"
 "PO-Revision-Date: 2015-08-29 07:17+0000\n"
 "Last-Translator: Tin Aung Lin ( တင်အောင်လင်း ) <tinaunglinn.eng91@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -794,6 +794,27 @@ msgstr ""
 msgid "Congrats. You’re up to date!"
 msgstr "နောက်ဆုံး​ထွက် ဗား​ရှင်း​ကို အသုံးပြု​နေ​သည့်​အတွက် ဂုဏ်​ယူ​ပါ​တယ်..."
 
+#. Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+#: main.lang:756
+msgid "Format"
+msgstr "ဖွဲ့စည်းပုံ"
+
+#. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+#: main.lang:761
+#, fuzzy
+msgid "Text"
+msgstr "ရှေ့"
+
+#. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+#: main.lang:766
+msgid "HTML"
+msgstr ""
+
+#. This is the error message displayed if you provide an invalid email address in a form
+#: main.lang:771
+msgid "Whoops! Be sure to enter a valid email address."
+msgstr "ဝိုး ! ဖြည့်လိုက်တဲ့ အီမေလ်းလိပ်စာမှန်လားစစ်ကြည့်ဦး"
+
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Android သုံးမီးမြေခွေးအားရယူပါ"
 
@@ -873,9 +894,6 @@ msgstr "နောက်ဆုံး​ထွက် ဗား​ရှင်း�
 
 #~ msgid "Sync Your Desktop & Mobile"
 #~ msgstr "သင့်ဒတ်စတော့ နှင့် မိုဘိုင်းအားချိတ်ဆက် သုံးပါ"
-
-#~ msgid "Whoops! Be sure to enter a valid email address."
-#~ msgstr "ဝိုး ! ဖြည့်လိုက်တဲ့ အီမေလ်းလိပ်စာမှန်လားစစ်ကြည့်ဦး"
 
 #~ msgid ""
 #~ "Please read the Mozilla Privacy Policy and agree by checking the box."

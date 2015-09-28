@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-28 10:40+0000\n"
+"POT-Creation-Date: 2015-09-28 12:32+0000\n"
 "PO-Revision-Date: 2015-03-17 19:58+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,42 +20,35 @@ msgid "Your email address:"
 msgstr "您的電子郵件地址:"
 
 #: newsletter.lang:9
-msgid "Text"
-msgstr "純文字"
-
-#: newsletter.lang:13
 msgid "Available Languages"
 msgstr "可用語言"
 
-#: newsletter.lang:17
+#: newsletter.lang:13
 msgid "Language:"
 msgstr "語言:"
 
-#: newsletter.lang:21
+#: newsletter.lang:17
 msgid "Select country"
 msgstr "選擇國家"
 
-#: newsletter.lang:25
+#: newsletter.lang:21
 msgid "Country:"
 msgstr "國家:"
 
-#: newsletter.lang:29
-msgid "Whoops! Be sure to enter a valid email address."
-msgstr "喔喔！請確定您輸入了有效的電子郵件地址。"
-
-#: newsletter.lang:33
+#. Form submit button on the Student Ambassador newsletter subscription form
+#: newsletter.lang:26
 msgid "Sign me up!"
 msgstr "算我一個！"
 
-#: newsletter.lang:37
+#: newsletter.lang:30
 msgid "We will only send you Mozilla-related information."
 msgstr "我們將只會寄送與 Mozilla 有關的資訊給您。"
 
-#: newsletter.lang:41
+#: newsletter.lang:34
 msgid "Thanks for Subscribing!"
 msgstr "感謝您的訂閱！"
 
-#: newsletter.lang:45
+#: newsletter.lang:38
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
@@ -64,37 +57,33 @@ msgstr ""
 "訂閱每月的更新消息，並取得 Mozilla 的最新消息，還有能讓您完全發揮 Firefox 瀏"
 "覽器功能的小撇步等等。這是您能保持與我們聯繫的最佳方式！"
 
-#: newsletter.lang:49
+#: newsletter.lang:42
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "在我們的 <span>電子報</span> 當中閱讀詳細資訊"
 
-#: newsletter.lang:53
+#: newsletter.lang:46
 msgid "Your newsletter subscription has been confirmed."
 msgstr "已確認您的電子報訂閱。"
 
-#: newsletter.lang:57
-msgid "Format"
-msgstr "格式"
-
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:62
+#: newsletter.lang:51
 msgid "Firefox & You"
 msgstr "Firefox & You"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox & You)
-#: newsletter.lang:67
+#: newsletter.lang:56
 msgid ""
 "A monthly newsletter and special announcements giving you tips to improve "
 "your experience with Firefox on your desktop and Android device."
 msgstr ""
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:72
+#: newsletter.lang:61
 msgid "Firefox OS News"
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS News)
-#: newsletter.lang:77
+#: newsletter.lang:66
 msgid ""
 "A monthly newsletter and special announcements on how to get the most from "
 "your Firefox OS device, including the latest features and coolest Firefox "
@@ -102,40 +91,40 @@ msgid ""
 msgstr ""
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:82
+#: newsletter.lang:71
 msgid "Mozilla Communities"
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Communities)
-#: newsletter.lang:87
+#: newsletter.lang:76
 msgid "Bringing you the best new opportunities to help support the open Web."
 msgstr ""
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:92
+#: newsletter.lang:81
 msgid "Firefox Student Ambassadors"
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
-#: newsletter.lang:97
+#: newsletter.lang:86
 msgid ""
 "A monthly newsletter on how to get involved with Mozilla on your campus."
 msgstr "您可以如何在校內參與 Mozilla 的每月電子報。"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
-#: newsletter.lang:102
+#: newsletter.lang:91
 msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
 msgstr "每月發送的電子報，讓您得到 Firefox Affiliates 專案的最新消息。"
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:107
+#: newsletter.lang:96
 msgid "Firefox Apps & Hacks"
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
-#: newsletter.lang:112
+#: newsletter.lang:101
 msgid ""
 "News for developers about Firefox OS, Firefox Marketplace and the Open Web "
 "apps ecosystem."
@@ -144,164 +133,158 @@ msgstr ""
 "息。"
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:117
+#: newsletter.lang:106
 msgid "Mozillians"
 msgstr ""
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:122
+#: newsletter.lang:111
 msgid "Firefox for desktop"
 msgstr "Firefox 桌面版"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for desktop)
-#: newsletter.lang:127
+#: newsletter.lang:116
 msgid "Don’t miss the latest announcements about our desktop browser."
 msgstr ""
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:132
+#: newsletter.lang:121
 #, fuzzy
 msgid "Firefox for Android"
 msgstr "取得 Android 版本的 Firefox"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for Android)
-#: newsletter.lang:137
+#: newsletter.lang:126
 msgid "Keep up with releases and news about Firefox for Android."
 msgstr ""
 
-#. Description for the in Newsletter subscription page (Firefox OS)
-#: newsletter.lang:142
-msgid ""
-"Be the first to know when Firefox OS devices are available in your country."
-msgstr ""
-
 #. Description for the newsletter in Newsletter subscription page (Mozilla)
-#: newsletter.lang:147
+#: newsletter.lang:131
 msgid ""
 "Special announcements and messages from the team dedicated to keeping the "
 "Web free and open."
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Marketplace)
-#: newsletter.lang:152
+#: newsletter.lang:136
 msgid "Know when the coolest apps hit the Marketplace for your platform:"
 msgstr ""
 
 #. Name for the newsletter in Newsletter subscription page
-#: newsletter.lang:157
+#: newsletter.lang:141
 msgid "Firefox OS smartphone owner?"
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
-#: newsletter.lang:162
+#: newsletter.lang:146
 msgid "Don’t miss important news and updates about your Firefox OS device."
 msgstr ""
 
-#: newsletter.lang:167
+#: newsletter.lang:151
 msgid "Beta News"
 msgstr "Beta 新聞"
 
-#: newsletter.lang:171
+#: newsletter.lang:155
 msgid "Manage your <span>Newsletter Subscriptions</span>"
 msgstr "管理您 <span>訂閱的電子報</span>"
 
-#: newsletter.lang:175
+#: newsletter.lang:159
 msgid "Manage your Email Preferences"
 msgstr ""
 
-#: newsletter.lang:179
+#: newsletter.lang:163
 msgid ""
 "We love sharing updates about all the awesome things happening at Mozilla."
 msgstr ""
 
-#: newsletter.lang:183
+#: newsletter.lang:167
 msgid ""
 "Set your preferences below to make sure you always receive the news you want."
 msgstr ""
 
-#: newsletter.lang:187
+#: newsletter.lang:171
 #, fuzzy
 msgid "Newsletters"
 msgstr "電子報"
 
-#: newsletter.lang:191
+#: newsletter.lang:175
 msgid "Getting too much email from us?"
 msgstr ""
 
-#: newsletter.lang:195
+#: newsletter.lang:179
 msgid ""
 "Not interested in our newsletters, but like those special announcements? No "
 "problem."
 msgstr ""
 
-#: newsletter.lang:199
+#: newsletter.lang:183
 msgid "We can keep in touch with occasional messages that matter most to you."
 msgstr ""
 
-#: newsletter.lang:203
+#: newsletter.lang:187
 msgid ""
 "Check all categories that apply to you, and we promise to keep the mail to a "
 "minimum."
 msgstr ""
 
-#: newsletter.lang:207
+#: newsletter.lang:191
 #, fuzzy
 msgid "I’m interested in:"
 msgstr "嗨，我對… 有興趣"
 
-#: newsletter.lang:211
+#: newsletter.lang:195
 msgid "Subscribe"
 msgstr "訂閱"
 
-#: newsletter.lang:215
+#: newsletter.lang:199
 msgid "Unsubscribe"
 msgstr "退訂"
 
-#: newsletter.lang:219
+#: newsletter.lang:203
 msgid "Remove me from all Mozilla emails"
 msgstr "我不要再收到任何來自 Mozilla 的電子郵件"
 
-#: newsletter.lang:223
+#: newsletter.lang:207
 msgid "Save Preferences"
 msgstr "儲存偏好設定"
 
-#: newsletter.lang:227
+#: newsletter.lang:211
 msgid "Thanks for updating your email preferences."
 msgstr "感謝您更新您的收件偏好。"
 
-#: newsletter.lang:231
+#: newsletter.lang:215
 msgid "You send too many emails."
 msgstr "你們發了太多信。"
 
-#: newsletter.lang:235
+#: newsletter.lang:219
 msgid "Your content wasn't relevant to me."
 msgstr "你們的信件內容跟我沒什麼關係。"
 
-#: newsletter.lang:239
+#: newsletter.lang:223
 msgid "Your email design was too hard to read."
 msgstr "你們的信件版面設計很難閱讀。"
 
-#: newsletter.lang:243
+#: newsletter.lang:227
 msgid "I didn't sign up for this."
 msgstr "我根本沒有訂過這些信件。"
 
-#: newsletter.lang:247
+#: newsletter.lang:231
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
 msgstr "我將會改從 Facebook 與 Twitter 來追蹤 Mozilla 的消息。"
 
-#: newsletter.lang:251
+#: newsletter.lang:235
 msgid "Submit"
 msgstr "送出"
 
-#: newsletter.lang:255
+#: newsletter.lang:239
 msgid "Thanks for telling us why you’re leaving."
 msgstr "感謝您告訴我們退訂的原因！"
 
-#: newsletter.lang:259
+#: newsletter.lang:243
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr "謝謝您！請收信並確認您的訂閱。"
 
-#: newsletter.lang:263
+#: newsletter.lang:247
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -310,7 +293,7 @@ msgstr ""
 "您將會收到一封來自 mozilla@e.mozilla.org 的訂閱確認信。若您沒收到的話，請檢查"
 "您的垃圾信件過濾器，您必須確認訂閱後才會開始收到我們的電子報。"
 
-#: newsletter.lang:267
+#: newsletter.lang:251
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
@@ -319,164 +302,173 @@ msgstr ""
 "不小心被過濾掉了。"
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: newsletter.lang:272
+#: newsletter.lang:256
 msgid "Get Firefox news"
 msgstr "訂閱 Firefox 電子報"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: newsletter.lang:277
+#: newsletter.lang:261
 msgid "YOUR EMAIL HERE"
 msgstr "在此輸入您的電子郵件地址"
 
 #. Button
-#: newsletter.lang:282
+#: newsletter.lang:266
 msgid "Sign me up"
 msgstr "算我一個"
 
-#: newsletter.lang:286
+#: newsletter.lang:270
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
 msgstr ""
 
-#: newsletter.lang:290
+#: newsletter.lang:274
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
 msgstr "您收到的鏈結已經過期，將會在下期電子報中收到新的連結。"
 
-#: newsletter.lang:294
+#: newsletter.lang:278
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr "很抱歉，我們的系統有點毛病，請稍後再試一次。"
 
-#: newsletter.lang:298
+#: newsletter.lang:282
 msgid "English&nbsp;only"
 msgstr "僅有英文內容"
 
-#: newsletter.lang:302
+#: newsletter.lang:286
 msgid "Newsletter Subscriptions"
 msgstr "電子報訂閱"
 
-#: newsletter.lang:306
+#: newsletter.lang:290
 msgid "Newsletter confirm"
 msgstr "確認電子報"
 
-#: newsletter.lang:310
+#: newsletter.lang:294
 msgid "Format:"
 msgstr "格式:"
 
-#: newsletter.lang:314
+#: newsletter.lang:298
 msgid "You’ve been unsubscribed."
 msgstr "您已退訂。"
 
-#: newsletter.lang:318
+#: newsletter.lang:302
 msgid "We’re sorry to see you go."
 msgstr "很抱歉看到您離開。"
 
-#: newsletter.lang:322
+#: newsletter.lang:306
 msgid "Would you mind telling us why you’re leaving?"
 msgstr "方便告訴我們您為什麼要退訂嗎？"
 
-#: newsletter.lang:326
+#: newsletter.lang:310
 msgid "Other…"
 msgstr "其他…"
 
-#: newsletter.lang:330
+#: newsletter.lang:314
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr "除此之外，也看看 Firefox 的一些亮點吧。"
 
-#: newsletter.lang:334
+#: newsletter.lang:318
 msgid "Get up and go"
 msgstr "隨身帶著走"
 
-#: newsletter.lang:338
+#: newsletter.lang:322
 msgid "It’s your Web anywhere you go."
 msgstr "讓您的網路隨身帶著走。"
 
-#: newsletter.lang:342
+#: newsletter.lang:326
 msgid "Get Firefox for mobile!"
 msgstr "下載 Firefox 行動版！"
 
-#: newsletter.lang:346
+#: newsletter.lang:330
 msgid "Added extras"
 msgstr "新增更多功能"
 
-#: newsletter.lang:350
+#: newsletter.lang:334
 msgid "Make Firefox do more with add-ons."
 msgstr "安裝附加元件，讓 Firefox 能做更多事。"
 
-#: newsletter.lang:354
+#: newsletter.lang:338
 msgid "Find out how!"
 msgstr "看看如何做！"
 
-#: newsletter.lang:358
+#: newsletter.lang:342
 msgid "About us"
 msgstr "關於我們"
 
-#: newsletter.lang:362
+#: newsletter.lang:346
 msgid "What’s Mozilla all about?"
 msgstr "Mozilla 到底是什麼？"
 
-#: newsletter.lang:366
+#: newsletter.lang:350
 msgid "We’re glad you asked!"
 msgstr "很高興您問了這問題！"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:371
+#: newsletter.lang:355
 msgid ""
 "A monthly newsletter packed with tips to improve your Firefox experience."
 msgstr "每月發送的電子報當中有滿滿的秘訣，讓您增進 Firefox 的使用體驗。"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:376
+#: newsletter.lang:360
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr "Firefox OS 新聞、秘訣、發行資訊以及何處可買。"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:381
+#: newsletter.lang:365
 msgid "Be the first to know when Firefox is available for iOS devices."
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:386
+#: newsletter.lang:370
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr "發現 Firefox OS 中最新、最酷的 HTML5 應用程式。"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:391
+#: newsletter.lang:375
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr "每週取得一個小秘訣，看看如何能讓您的 Firefox 好到爆。"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:396
+#: newsletter.lang:380
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:401
+#: newsletter.lang:385
 msgid "News from the Mozilla Project."
 msgstr "來自 Mozilla Project 的新聞。"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:406
+#: newsletter.lang:390
 msgid "Periodic email updates about our annual international film competition."
 msgstr "定期發信通知您我們的年度國際影片競賽。"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:411
+#: newsletter.lang:395
 msgid "Email updates for vouched Mozillians on mozillians.org."
 msgstr "發送給 mozillians.org 上已獲背書的摩茲人的近況更新。"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:416
+#: newsletter.lang:400
 msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
 msgstr ""
 "在 2008-2011 年原稱為大學專案，現在改名為 Firefox Student Ambassadors 專案重"
 "新出發。"
+
+#~ msgid "Text"
+#~ msgstr "純文字"
+
+#~ msgid "Whoops! Be sure to enter a valid email address."
+#~ msgstr "喔喔！請確定您輸入了有效的電子郵件地址。"
+
+#~ msgid "Format"
+#~ msgstr "格式"
 
 #~ msgid "Get Monthly News"
 #~ msgstr "訂閱每月新聞"
