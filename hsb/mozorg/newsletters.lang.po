@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-28 14:29+0000\n"
-"PO-Revision-Date: 2015-09-28 17:25+0000\n"
+"PO-Revision-Date: 2015-09-28 19:09+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
 "Language: hsb\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1443461151.000000\n"
+"X-POOTLE-MTIME: 1443467386.000000\n"
 
 #: mozorg/newsletters.lang:5
 msgid "Your email address:"
@@ -471,6 +471,8 @@ msgid ""
 "Success! An email has been sent to you with your preference center link. "
 "Thanks!"
 msgstr ""
+"Wutrobne zbožopřeće! E-mejlka je so wam z wašim wotkazom preferencneho "
+"centruma připósłała. Wulki dźak!"
 
 #: mozorg/newsletters.lang:390
 msgid "Remove me from all Mozilla emails"
@@ -485,6 +487,8 @@ msgid ""
 "Enter your email address and we’ll send you a link to your email preference "
 "center."
 msgstr ""
+"Zapodajće swoju e-mejlowu adresu a pósćelemy wam wotkaz k wašemu e-mejlowemu "
+"preferencnemu centrumej."
 
 #: mozorg/newsletters.lang:402
 msgid "Added extras"
@@ -492,7 +496,7 @@ msgstr "Přidate dodawki"
 
 #: mozorg/newsletters.lang:406
 msgid "%s is not a valid newsletter"
-msgstr ""
+msgstr "%s płaćiwy powěsćowy list njeje"
 
 #: mozorg/newsletters.lang:410
 msgid "Sign me up"
@@ -504,13 +508,15 @@ msgstr "Jenož&nbsp;jendźelsce"
 
 #: mozorg/newsletters.lang:418
 msgid "This is not a valid email address. Please check the spelling."
-msgstr ""
+msgstr "To płaćiwa e-mejlowa adresa njeje. Prošu kontrolujće prawopis."
 
 #: mozorg/newsletters.lang:422
 msgid ""
 "Thanks for your interest in the upcoming iOS version of Firefox. We’re "
 "pretty excited about it too!"
 msgstr ""
+"Dźakujemy so za waš zajim na přichodnu iOS-wersiju Firefox. Smy tež wo tym "
+"chětro zahorjeni!"
 
 #: mozorg/newsletters.lang:426
 msgid "You’ve been unsubscribed."
@@ -521,9 +527,8 @@ msgid "Make Firefox do more with add-ons."
 msgstr "Rozšěrće funkcionalnosć Firefox přez přidatki."
 
 #: mozorg/newsletters.lang:434
-#, fuzzy
 msgid "You must agree to the privacy policy"
-msgstr "Dyrbiće do prawidłow priwatnosće zwolić."
+msgstr "Dyrbiće do prawidłow priwatnosće zwolić"
 
 #: mozorg/newsletters.lang:438
 msgid "Other…"
@@ -568,6 +573,8 @@ msgid ""
 "This email address is not in our system. Please double check your address or "
 "<a href=\"%s\">subscribe to our newsletters.</a>"
 msgstr ""
+"E-mejlowa adresa w našim systemje njeje. Prošu klikńće dwójce na swoju "
+"adresu abo <a href=\"%s\">abonujće naše powěsćowe listy.</a>"
 
 #: mozorg/newsletters.lang:467
 msgid ""
@@ -582,6 +589,8 @@ msgid ""
 "The supplied link has expired or is not valid. You will receive a new one in "
 "the next newsletter, or below you can request an email with the link."
 msgstr ""
+"Podaty wotkaz je spadnył abo njeje płaćiwy. Dóstanjeće nowy w přichodnym "
+"powěsćowym lisće abo móžeće deleka e-mejlku z wotkazom požadać."
 
 #: mozorg/newsletters.lang:475
 msgid ""
@@ -609,7 +618,7 @@ msgstr ""
 
 #: mozorg/newsletters.lang:491
 msgid "Newsletter email recovery"
-msgstr ""
+msgstr "E-mejlowe wobnowjenje powěsćoweho lista"
 
 #: mozorg/newsletters.lang:495
 msgid "Thanks! Please check your inbox to confirm your subscription."
@@ -625,7 +634,7 @@ msgstr "*Dóstanjeće aktualizacije a připowědźe jenož wo iOS-wersiji Firefo
 
 #: mozorg/newsletters.lang:503
 msgid "Firefox Marketplace for Firefox OS"
-msgstr ""
+msgstr "Torhošćo Firefox za Firefox OS"
 
 #: mozorg/newsletters.lang:507
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
@@ -633,15 +642,15 @@ msgstr "Wotkryjće najnowše a wulkotne HTML5-nałoženja na Firefox OS."
 
 #: mozorg/newsletters.lang:511
 msgid "Firefox Accounts Tips"
-msgstr ""
+msgstr "Pokiwy kontow Firefox"
 
 #: mozorg/newsletters.lang:515
 msgid "Get the most out of your Firefox Account."
-msgstr ""
+msgstr "Wućehńće najwjace ze swojeho konta Firefox."
 
 #: mozorg/newsletters.lang:519
 msgid "Firefox Weekly Tips"
-msgstr ""
+msgstr "Tydźenske pokiwy Firefox"
 
 #: mozorg/newsletters.lang:523
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
@@ -651,7 +660,7 @@ msgstr ""
 
 #: mozorg/newsletters.lang:527
 msgid "Student Reps"
-msgstr ""
+msgstr "Studentscy reprezentanća"
 
 #: mozorg/newsletters.lang:531
 msgid ""
@@ -663,7 +672,7 @@ msgstr ""
 
 #: mozorg/newsletters.lang:535
 msgid "Mozilla Learning Network"
-msgstr ""
+msgstr "Wuknjenska syć Mozilla"
 
 #: mozorg/newsletters.lang:539
 msgid ""
@@ -671,49 +680,51 @@ msgid ""
 "skills of our age: the ability to read, write and participate in the digital "
 "world."
 msgstr ""
+"Aktualizacije z našeho globalneho zhromadźensta, kotraž ludźom pomha, "
+"najwažniše znajomosće našeje doby  wučić: kmanosć čitanja, pisanja a "
+"wobdźělenja na digitalnym swěće."
 
 #: mozorg/newsletters.lang:543
-#, fuzzy
 msgid "Download Firefox for iOS"
-msgstr "Sćehńće Firefox dźensa"
+msgstr "Sćehńće Firefox za iOS"
 
 #: mozorg/newsletters.lang:547
 msgid "Download Firefox for Android"
 msgstr "Sćehńće Firefox za Android"
 
 #: mozorg/newsletters.lang:551
-#, fuzzy
 msgid "Get Firefox for Android"
-msgstr "Firefox za Android"
+msgstr "Firefox za Android wobstarać"
 
 #: mozorg/newsletters.lang:555
 msgid "Drumbeat Newsgroup"
-msgstr ""
+msgstr "Diskusijna skupina Drumbeat"
 
 #: mozorg/newsletters.lang:559
 msgid "Mozilla Festival"
-msgstr ""
+msgstr "Festiwal Mozilla"
 
 #: mozorg/newsletters.lang:563
 msgid ""
 "Special announcements about Mozilla's annual, hands-on festival dedicated to "
 "forging the future of the open Web."
 msgstr ""
+"Specielne připowědźe wo kóždolětnym praksowym swjedźenju Mozilla, kotryž je "
+"za to mysleny, přichod wotewrjeneho weba kować."
 
 #: mozorg/newsletters.lang:567
 msgid "Firefox Marketplace for Android"
-msgstr ""
+msgstr "Torhošćo Firefox za Android"
 
 #: mozorg/newsletters.lang:571
 msgid "About Standards"
-msgstr ""
+msgstr "Wo standardach"
 
 #: mozorg/newsletters.lang:575
 msgid "Get Involved"
 msgstr "Čińće sobu"
 
 #: mozorg/newsletters.lang:579
-#, fuzzy
 msgid "Download Firefox for Mobile"
 msgstr "Sćehńće Firefox za Android"
 
@@ -723,11 +734,11 @@ msgstr "Party webdesignerow"
 
 #: mozorg/newsletters.lang:587
 msgid "Mozilla's largest celebration of making and learning on the web."
-msgstr ""
+msgstr "Najwjetši swjedźeń Mozilla, zo by web wuhotował a wučił."
 
 #: mozorg/newsletters.lang:591
 msgid "Aurora"
-msgstr ""
+msgstr "Aurora"
 
 #: mozorg/newsletters.lang:595
 msgid "Join Mozilla"
@@ -735,7 +746,7 @@ msgstr "Přidružće so Mozilla"
 
 #: mozorg/newsletters.lang:599
 msgid "About Labs"
-msgstr ""
+msgstr "Wo Labs"
 
 #: mozorg/newsletters.lang:603
 msgid ""
@@ -751,12 +762,12 @@ msgstr "Webmaker"
 
 #: mozorg/newsletters.lang:611
 msgid "Special announcements helping you get the most out of Webmaker."
-msgstr ""
+msgstr "Specielne připowědźe, kotrež wam pomhaja, najwjace z Webmaker wućahać."
 
 #: mozorg/newsletters.lang:615
 msgid "Addon Development"
-msgstr ""
+msgstr "Přidatkowe wuwiwanje"
 
 #: mozorg/newsletters.lang:619
 msgid "Firefox Marketplace for Desktop"
-msgstr ""
+msgstr "Torhošćo Firefox za desktop"
