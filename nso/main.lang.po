@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-28 18:29+0000\n"
+"POT-Creation-Date: 2015-09-29 13:29+0000\n"
 "PO-Revision-Date: 2015-07-15 14:56+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -568,7 +568,7 @@ msgstr "Tsenela Mozilla"
 msgid "Participate"
 msgstr ""
 
-#. Will be used for the navigation. Translate as a werb (call to action), not a noun.
+#. Will be used for the navigation. Translate as a verb (call to action), not a noun.
 #: main.lang:533
 msgid "Volunteer"
 msgstr ""
@@ -819,6 +819,65 @@ msgid ""
 "Privacy Policy</a>"
 msgstr ""
 
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:781
+#, fuzzy
+msgid "Get Firefox news"
+msgstr "Hwetša Firefox 3"
+
+#. This is a default placeholder for a subscription field on other pages than /newsletter/
+#: main.lang:786
+msgid "YOUR EMAIL HERE"
+msgstr "IMEILE YA GAGO MO"
+
+#. Subscription Button
+#: main.lang:791
+msgid "Sign me up"
+msgstr "Nngwadiše"
+
+#: main.lang:795
+msgid "Select country"
+msgstr "Kgetha naga"
+
+#: main.lang:799
+msgid "Available Languages"
+msgstr "Maleme ao a lego gona"
+
+#: main.lang:803
+msgid "We will only send you Mozilla-related information."
+msgstr "Re tla go romela tshedimošo e amanago le Mozilla feela."
+
+#: main.lang:807
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr ""
+"Re a leboga! Hle lekola lepokisi la gago la melaetša gore o netefatše "
+"ngwadišo ya gago."
+
+#: main.lang:811
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"O tla amogela imeile e tšwago go mozilla@e.mozilla.org go netefatša ngwadišo "
+"ya gago. Ge o sa e bone, lekola filthara ya melaetša ya boradia. O swanetše "
+"go netefatša ngwadišo ya gago gore o amogele mangwalo a rena a ditaba."
+
+#: main.lang:815
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Di bale tšohle go <span>lengwalo la  rena la ditaba<span>"
+
+#: main.lang:819
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Ingwadiše go dimpshafatšo tša kgwedi le kgwedi gomme o dule o le nakong ka "
+"ditaba tša Mozilla, go akaretša maele a maswa le ditsela tša go hwetša mo go "
+"ntši go praosara ya gago ya Firefox. Ke tsela e phethagetšego ya go dula re "
+"ikgokaganya le wena!"
+
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Hwetša Firefox bakeng sa Android"
 
@@ -978,9 +1037,6 @@ msgstr ""
 #~ "gago</a> gore o bolokege! <br/> Itemogele dibopego tša moragorago, go "
 #~ "lokišwa ga dilo tša tšhireletšego le Firefox e nago le lebelo. Laolla "
 #~ "kaonafatšo e mpsha ka nako ya ka tlase ga motsotso."
-
-#~ msgid "Get Firefox 3"
-#~ msgstr "Hwetša Firefox 3"
 
 #~ msgid "Get Firefox 3.5"
 #~ msgstr "Hwetša Firefox 3.5"

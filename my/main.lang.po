@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-28 18:29+0000\n"
+"POT-Creation-Date: 2015-09-29 13:29+0000\n"
 "PO-Revision-Date: 2015-08-29 07:17+0000\n"
 "Last-Translator: Tin Aung Lin ( တင်အောင်လင်း ) <tinaunglinn.eng91@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -565,7 +565,7 @@ msgstr "မိုဇီလာတွင်ပါဝင်ပါ"
 msgid "Participate"
 msgstr "ပါဝင်လုပ်ဆောင်ပါ"
 
-#. Will be used for the navigation. Translate as a werb (call to action), not a noun.
+#. Will be used for the navigation. Translate as a verb (call to action), not a noun.
 #: main.lang:533
 msgid "Volunteer"
 msgstr "လုပ်အားပေး"
@@ -822,6 +822,59 @@ msgid ""
 msgstr ""
 "<a href=\"%s\">ဒီကိုယ်ရေးလုံခြုံမှုမူဝါဒ</a>တွင် ဖော်ပြထားသည့်အတိုင်း ကျွန်တော်/မသည် မော်ဇီလာမှ "
 "အချက်အလက်များကို ကိုင်တွယ်ခြင်းနှင့် ပတ်သက်ပြီး သဘောတူလက်ခံပါသည်။"
+
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:781
+msgid "Get Firefox news"
+msgstr "မီးမြေခွေးသတင်းများယူ"
+
+#. This is a default placeholder for a subscription field on other pages than /newsletter/
+#: main.lang:786
+msgid "YOUR EMAIL HERE"
+msgstr "ဒီမှာ သင့် အီးမေလ်း"
+
+#. Subscription Button
+#: main.lang:791
+msgid "Sign me up"
+msgstr "စာရင်းသွင်း"
+
+#: main.lang:795
+msgid "Select country"
+msgstr "နိုင်ငံရွေးပါ"
+
+#: main.lang:799
+msgid "Available Languages"
+msgstr "အသုံးပြုနိုင်သော ဘာသာစကားများ"
+
+#: main.lang:803
+msgid "We will only send you Mozilla-related information."
+msgstr "သင့်အား မိုဇီလာနှင့် သက်ဆိုင်သော သတင်းများပဲ ပို့ပေးမှာပါ"
+
+#: main.lang:807
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "ကျေးဇူးပြုပြီးသင့်ရဲ့မေလ်းဘောက်စ် ထဲကို အတည်ပြုရန်စစ်ဆေးပေးပါ"
+
+#: main.lang:811
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"သင်သည် mozill​a@e.mozilla.org  မှနေပြီးမေလ်းတစ်စောင်ရလိမ့်မည်။ ထိုမေလ်းရောက်မလာပါက သင်၏ Spam "
+"ဘောက်စ်ထဲသို့ စစ်ပေးပါ။ သင်သတင်းတွေရဖို့ အတည်တော့ပြုပေးဖို့လိုသည်။"
+
+#: main.lang:815
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "ကျွနု်ပ်တို့၏ <span>သတင်းစဉ်</span>အကြောင်း"
+
+#: main.lang:819
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"အီးမေလ်းအား စာရင်းသွင်းထားပြီး မိုဇီလာသတင်းများ အချို့သော မီးမြေခွေးသုံးဆွဲပုံ နှင့် ၎င်းနှင့်သက်ဆိုင်သော "
+"အချက် အလက်များအား ရယူပါ။ အဆက်အသွယ်မပြတ်အောင်တော့ အီးမေလ်းပေးထားခဲ့တာအကောင်းဆုံးပါ!"
 
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Android သုံးမီးမြေခွေးအားရယူပါ"

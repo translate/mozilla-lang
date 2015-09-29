@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-28 18:29+0000\n"
+"POT-Creation-Date: 2015-09-29 13:29+0000\n"
 "PO-Revision-Date: 2015-08-02 04:55+0000\n"
 "Last-Translator: lasr21 <lasr21@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -603,7 +603,7 @@ msgstr "Únete a Mozilla"
 msgid "Participate"
 msgstr "Participa"
 
-#. Will be used for the navigation. Translate as a werb (call to action), not a noun.
+#. Will be used for the navigation. Translate as a verb (call to action), not a noun.
 #: main.lang:533
 msgid "Volunteer"
 msgstr "Sé voluntario"
@@ -882,6 +882,64 @@ msgid ""
 msgstr ""
 "Me parece bien que Mozilla gestione mi información según se indica en <a "
 "href=\"%s\">esta Política de privacidad</a>"
+
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:781
+msgid "Get Firefox news"
+msgstr "Recibe noticias sobre Firefox"
+
+#. This is a default placeholder for a subscription field on other pages than /newsletter/
+#: main.lang:786
+msgid "YOUR EMAIL HERE"
+msgstr "TU CORREO AQUÍ"
+
+#. Subscription Button
+#: main.lang:791
+msgid "Sign me up"
+msgstr "¡Suscribirme!"
+
+#: main.lang:795
+msgid "Select country"
+msgstr "Elige un país"
+
+#: main.lang:799
+msgid "Available Languages"
+msgstr "Idiomas disponibles"
+
+#: main.lang:803
+msgid "We will only send you Mozilla-related information."
+msgstr "Solo te enviaremos información relacionada con Mozilla."
+
+#: main.lang:807
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr ""
+"¡Gracias! Por favor, revisa tu buzón de correo para confirmar tu suscripción."
+
+#: main.lang:811
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"Recibirás un correo de mozilla@e.mozilla.org para confirmar tu suscripción. "
+"Si no lo ves, verifica tu filtro de spam. Debes confirmar tu suscripción "
+"para recibir nuestro boletín."
+
+#: main.lang:815
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr ""
+"¡Lee toda la información sobre Firefox en <span>nuestro boletín!</span>"
+
+#: main.lang:819
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Suscríbete para recibir actualizaciones mensuales y estar al día de las "
+"novedades de Firefox, incluyendo los últimos trucos y consejos para sacar el "
+"máximo partido a tu navegador. ¡Es la forma perfecta de que sigamos en "
+"contacto contigo!"
 
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Obtener Firefox para Android"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-28 18:29+0000\n"
+"POT-Creation-Date: 2015-09-29 13:29+0000\n"
 "PO-Revision-Date: 2015-09-23 16:49+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -568,7 +568,7 @@ msgstr "Bí Linn"
 msgid "Participate"
 msgstr "Glac Páirt"
 
-#. Will be used for the navigation. Translate as a werb (call to action), not a noun.
+#. Will be used for the navigation. Translate as a verb (call to action), not a noun.
 #: main.lang:533
 msgid "Volunteer"
 msgstr "Obair Dheonach"
@@ -826,6 +826,63 @@ msgid ""
 msgstr ""
 "Tá cead ag Mozilla mo chuid sonraí pearsanta a úsáid mar a mhínítear <a href="
 "\"%s\">sa bPolasaí Príobháideachta seo</a>"
+
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:781
+msgid "Get Firefox news"
+msgstr "Faigh nuacht faoi Firefox"
+
+#. This is a default placeholder for a subscription field on other pages than /newsletter/
+#: main.lang:786
+msgid "YOUR EMAIL HERE"
+msgstr "DO SHEOLADH RÍOMHPHOIST"
+
+#. Subscription Button
+#: main.lang:791
+msgid "Sign me up"
+msgstr "Ba mhaith liom clárú"
+
+#: main.lang:795
+msgid "Select country"
+msgstr "Roghnaigh tír"
+
+#: main.lang:799
+msgid "Available Languages"
+msgstr "Teangacha"
+
+#: main.lang:803
+msgid "We will only send you Mozilla-related information."
+msgstr "Ní sheolfaimid duit ach eolas a bhaineann le Mozilla."
+
+#: main.lang:807
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr ""
+"Go raibh maith agat! Féach ar do bhosca ríomhphoist chun an síntiús a chur i "
+"gcrích."
+
+#: main.lang:811
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"Gheobhaidh tú teachtaireacht ó mozilla@e.mozilla.org chun an síntiús a "
+"dhearbhú. Mura bhfeiceann tú é, féach ar do bhosca dramhphoist. Caithfidh tú "
+"an síntiús a dhearbhú chun an nuachtlitir a fháil."
+
+#: main.lang:815
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Léigh chuile rud inár <span>nuachtlitir</span>"
+
+#: main.lang:819
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Liostáil lenár nuachtlitir mhíosúil agus faigh na leideanna agus cleasa is "
+"déanaí chun an tairbhe is mó a bhaint as do bhrabhsálaí Firefox. Ba mhaith "
+"linn fanacht i dteagmháil leat!"
 
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Faigh Firefox ar Android"

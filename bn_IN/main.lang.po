@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-28 18:29+0000\n"
+"POT-Creation-Date: 2015-09-29 13:29+0000\n"
 "PO-Revision-Date: 2015-09-21 20:39+0000\n"
 "Last-Translator: Biraj Karmakar <brnet00@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -564,7 +564,7 @@ msgstr "Mozilla-এ যোগ দিন"
 msgid "Participate"
 msgstr "যোগদান করুন"
 
-#. Will be used for the navigation. Translate as a werb (call to action), not a noun.
+#. Will be used for the navigation. Translate as a verb (call to action), not a noun.
 #: main.lang:533
 msgid "Volunteer"
 msgstr "স্বেচ্ছাসেবক"
@@ -815,6 +815,61 @@ msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
 msgstr ""
+
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:781
+msgid "Get Firefox news"
+msgstr ""
+
+#. This is a default placeholder for a subscription field on other pages than /newsletter/
+#: main.lang:786
+msgid "YOUR EMAIL HERE"
+msgstr "আপনার ইমেইল এখানে"
+
+#. Subscription Button
+#: main.lang:791
+msgid "Sign me up"
+msgstr "আমায় যোগ করে নিন"
+
+#: main.lang:795
+msgid "Select country"
+msgstr "দেশ নির্বাচন করুন"
+
+#: main.lang:799
+msgid "Available Languages"
+msgstr "উপলব্ধ ভাষা"
+
+#: main.lang:803
+msgid "We will only send you Mozilla-related information."
+msgstr "আমরা আপনাকে শুধুমাত্র Mozilla-সংক্রান্ত তথ্য পাঠাবো।"
+
+#: main.lang:807
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "ধন্যবাদ! গ্রাহকত্ব নিশ্চিত করার জন্য অনুগ্রহ করে ই-মেইল ইনবক্সে দেখুন।"
+
+#: main.lang:811
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"আপনার গ্রাহকত্ব  নিশ্চিত করার উদ্দেশ্যে mozilla@e.mozilla.org থেকে একটি মেইল "
+"আপনাকে পাঠানো হবে। ইনবক্সে উপস্থিত না থাকলে অবাঞ্ছিত চিঠির ফোল্ডার অর্থাৎ স্প্যাম "
+"ফোল্ডারে দেখুন। নিউজ-লেটার প্রাপ্ত করার জন্য গ্রাহকত্ব নিশ্চিত করা আবশ্যক।"
+
+#: main.lang:815
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "আমাদের <span>সংবাদপত্র</span> সম্পর্কে জেনে নিন"
+
+#: main.lang:819
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Mozilla-র খবরাখবর যেমন Firefox ব্রাউজার ব্যবহারে সহায়ক নতুন বৈশিষ্ট্যগুলি ইত্যাদি "
+"সম্পর্কে জানতে হলে আমাদের মাসিক সংবাদপত্রের গ্রাহত্ব নিন। আমাদের পক্ষে আপনার সাথে "
+"যোগাযোগ বজায় রাখার এটি সর্বোত্তম উপায়!"
 
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Android-র সাথে ব্যবহারের জন্য Firefox প্রাপ্ত করুন"

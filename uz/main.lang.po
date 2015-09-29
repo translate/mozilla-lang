@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-28 18:29+0000\n"
+"POT-Creation-Date: 2015-09-29 13:29+0000\n"
 "PO-Revision-Date: 2015-07-15 15:02+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -567,7 +567,7 @@ msgstr "\"Mozilla\"ga qo‘shiling"
 msgid "Participate"
 msgstr "Hissangizni qo‘shing"
 
-#. Will be used for the navigation. Translate as a werb (call to action), not a noun.
+#. Will be used for the navigation. Translate as a verb (call to action), not a noun.
 #: main.lang:533
 msgid "Volunteer"
 msgstr "Ko‘ngilli"
@@ -824,6 +824,67 @@ msgid ""
 msgstr ""
 "\"Mozilla\"ning mening ma’lumotlarim bilan ishlashiga <a href=\"%s\">ushbu "
 "\"Maxfiylik siyosati\"</a>ga muvofiq roziman."
+
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:781
+msgid "Get Firefox news"
+msgstr "Firefox yangiliklaridan xabardor bo‘lib turing"
+
+#. This is a default placeholder for a subscription field on other pages than /newsletter/
+#: main.lang:786
+msgid "YOUR EMAIL HERE"
+msgstr ""
+
+#. Subscription Button
+#: main.lang:791
+msgid "Sign me up"
+msgstr "Yozilish"
+
+#: main.lang:795
+msgid "Select country"
+msgstr "Davlatni tanlang"
+
+#: main.lang:799
+msgid "Available Languages"
+msgstr "Mavjud tillar"
+
+#: main.lang:803
+msgid "We will only send you Mozilla-related information."
+msgstr ""
+"Biz sizga faqatgina \"Mozilla\"ga aloqador ma’lumotlarni jo‘natib turamiz."
+
+#: main.lang:807
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr ""
+"Rahmat! Obuna bo‘lishni tasdiqlash uchun e-pochtangizga kiruvchi xabarlarni "
+"tekshirib ko‘ring."
+
+#: main.lang:811
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"Siz mozilla@e.mozilla.org saytidan obunani tasdiqlash haqidagi xabarni "
+"olasiz. Agar uni ko‘rmasangiz, spam filterini tekshirib ko‘ring. Bizning "
+"yangiliklar xabarlarimizni olishingiz uchun obunani tasdiqlashingiz kerak."
+
+#: main.lang:815
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr ""
+"Bularning barchasi haqida bizning <span>yangiliklar xabarlarimiz</span>dan "
+"o‘qing"
+
+#: main.lang:819
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Oylik yangiliklarga obuna bo‘ling va joriy Mozilla yangiliklaridan xabardor "
+"bo‘ling, shuningdek, Firefox brauzeridan maksimal darajada foydalanish uchun "
+"so‘nggi maslahatlar va sirlardan ham boxabar bo‘lishingiz mumkin. Bu siz "
+"bilan aloqada qolishning eng maqul yo‘lidir."
 
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Android uchun \"Firefox\"ni yuklab oling"

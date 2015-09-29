@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-28 18:29+0000\n"
+"POT-Creation-Date: 2015-09-29 13:29+0000\n"
 "PO-Revision-Date: 2015-07-15 15:04+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -566,7 +566,7 @@ msgstr "加入 Mozilla"
 msgid "Participate"
 msgstr "參與我們"
 
-#. Will be used for the navigation. Translate as a werb (call to action), not a noun.
+#. Will be used for the navigation. Translate as a verb (call to action), not a noun.
 #: main.lang:533
 msgid "Volunteer"
 msgstr "志工機會"
@@ -818,6 +818,59 @@ msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
 msgstr ""
+
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:781
+msgid "Get Firefox news"
+msgstr "訂閱 Firefox 電子報"
+
+#. This is a default placeholder for a subscription field on other pages than /newsletter/
+#: main.lang:786
+msgid "YOUR EMAIL HERE"
+msgstr "在此輸入您的電子郵件地址"
+
+#. Subscription Button
+#: main.lang:791
+msgid "Sign me up"
+msgstr "算我一個"
+
+#: main.lang:795
+msgid "Select country"
+msgstr "選擇國家"
+
+#: main.lang:799
+msgid "Available Languages"
+msgstr "可用語言"
+
+#: main.lang:803
+msgid "We will only send you Mozilla-related information."
+msgstr "我們將只會寄送與 Mozilla 有關的資訊給您。"
+
+#: main.lang:807
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "謝謝您！請收信並確認您的訂閱。"
+
+#: main.lang:811
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"您將會收到一封來自 mozilla@e.mozilla.org 的訂閱確認信。若您沒收到的話，請檢查"
+"您的垃圾信件過濾器，您必須確認訂閱後才會開始收到我們的電子報。"
+
+#: main.lang:815
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "在我們的 <span>電子報</span> 當中閱讀詳細資訊"
+
+#: main.lang:819
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"訂閱每月的更新消息，並取得 Mozilla 的最新消息，還有能讓您完全發揮 Firefox 瀏"
+"覽器功能的小撇步等等。這是您能保持與我們聯繫的最佳方式！"
 
 #~ msgid "Get Firefox for Android"
 #~ msgstr "取得 Android 版本的 Firefox"

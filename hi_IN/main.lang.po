@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-28 18:29+0000\n"
+"POT-Creation-Date: 2015-09-29 13:29+0000\n"
 "PO-Revision-Date: 2015-07-15 14:47+0000\n"
 "Last-Translator: ravi kumbhkar <ravi.103151@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -566,7 +566,7 @@ msgstr "मोज़िल्ला से जुड़ें"
 msgid "Participate"
 msgstr "सहभागी"
 
-#. Will be used for the navigation. Translate as a werb (call to action), not a noun.
+#. Will be used for the navigation. Translate as a verb (call to action), not a noun.
 #: main.lang:533
 msgid "Volunteer"
 msgstr "स्वयंसेवी"
@@ -822,6 +822,60 @@ msgid ""
 msgstr ""
 "Mozilla से में ख़ुश हु जेसे इसने मेरी जानकारी को सम्भाले रखा है | जेसा इस गोपनीय <a href="
 "\"%s\">नीति में समझाया गया है</a>"
+
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:781
+msgid "Get Firefox news"
+msgstr "फायरफोक्स समाचार पाएं"
+
+#. This is a default placeholder for a subscription field on other pages than /newsletter/
+#: main.lang:786
+msgid "YOUR EMAIL HERE"
+msgstr ""
+
+#. Subscription Button
+#: main.lang:791
+msgid "Sign me up"
+msgstr "मुझे साइनअप करें"
+
+#: main.lang:795
+msgid "Select country"
+msgstr "देश चुनें"
+
+#: main.lang:799
+msgid "Available Languages"
+msgstr "उपलब्ध भाषाएँ"
+
+#: main.lang:803
+msgid "We will only send you Mozilla-related information."
+msgstr "हम आपको केवल मोज़िला संबंधित जानकारी भेजेंगे."
+
+#: main.lang:807
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "धन्यवाद ! कृपया अपना इनबॉक्स जाँचें अपना सब्सक्रिप्शन पक्का करने के लिए."
+
+#: main.lang:811
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"आप एक ई-मेल पाएंगे mozilla@e.mozilla.org से आपका सब्सक्रिप्शन पक्का करने के लिये. अगर "
+"आप इसे ना देखे, फ़र्जी फ़िल्टर जाँचें. आपको सब्सक्रिप्शन अवस्य पक्का करना चाहिये न्युजलेटर "
+"प्राप्त करने के लिये."
+
+#: main.lang:815
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "इन सबके बारे में पूरा हमारे <span>समाचार</span> पत्र में पढ़े"
+
+#: main.lang:819
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"मासिक अपडेट्स की सदस्यता लें और मोज़िला की खबरों से जुड़े रहे, अपने फ़ायरफ़ॉक्स ब्राउज़र के लिए "
+"नवीनतम युक्तियाँ और संकेत सहित. यह हमें संपर्क में रखने के लिए एकदम सही तरीका है!"
 
 #~ msgid "Get Firefox for Android"
 #~ msgstr "एंड्रायड के लिए फ़ायरफ़ॉक्स पाएँ"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-28 18:29+0000\n"
+"POT-Creation-Date: 2015-09-29 13:29+0000\n"
 "PO-Revision-Date: 2015-09-16 06:05+0000\n"
 "Last-Translator: Rimas Kudelis <rq@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -569,7 +569,7 @@ msgstr "Jungtis prie „Mozillos“"
 msgid "Participate"
 msgstr "Dalyvavimas"
 
-#. Will be used for the navigation. Translate as a werb (call to action), not a noun.
+#. Will be used for the navigation. Translate as a verb (call to action), not a noun.
 #: main.lang:533
 msgid "Volunteer"
 msgstr "Savanorystė"
@@ -827,6 +827,63 @@ msgid ""
 msgstr ""
 "Sutinku, kad „Mozilla“ tvarkytų mano duomenis kaip paaiškinta <a href=\"%s"
 "\">šiuose Privatumo nuostatuose</a>"
+
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:781
+msgid "Get Firefox news"
+msgstr "Gaukite „Firefox“ naujienas"
+
+#. This is a default placeholder for a subscription field on other pages than /newsletter/
+#: main.lang:786
+msgid "YOUR EMAIL HERE"
+msgstr "JŪSŲ EL. PAŠTAS"
+
+#. Subscription Button
+#: main.lang:791
+msgid "Sign me up"
+msgstr "Prenumeruoti"
+
+#: main.lang:795
+msgid "Select country"
+msgstr "Pasirinkite šalį"
+
+#: main.lang:799
+msgid "Available Languages"
+msgstr "Galimos kalbos"
+
+#: main.lang:803
+msgid "We will only send you Mozilla-related information."
+msgstr "Mes jums siųsime tik su „Mozilla“ susijusią informaciją."
+
+#: main.lang:807
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr ""
+"Ačiū! Dabar prašome pasitikrinti savo el. pašto dėžutę ir patvirtinti "
+"prenumeratą."
+
+#: main.lang:811
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"Netrukus iš mozilla@e.mozilla.org gausite laišką, prašantį patvirtinti "
+"prenumeratą. Jeigu jo nematote, paieškokite brukalo aplanke. Kad gautumėte "
+"naujienlaiškį, privalote patvirtinti prenumeratą."
+
+#: main.lang:815
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "Sužinokite viską iš mūsų <span>naujienlaiškio</span>"
+
+#: main.lang:819
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Prenumeruokite mėnesinį naujienlaiškį ir neatsilikite nuo „Mozillos“ "
+"naujienų, tuo pačiu gaudami aktualių „Firefox“ naudojimosi patarimų. Tai – "
+"puikus būdas palaikyti tarp mūsų ryšį!"
 
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Parsisiųskite „Firefox“ „Android’ui“"

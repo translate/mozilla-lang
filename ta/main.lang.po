@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-28 18:29+0000\n"
+"POT-Creation-Date: 2015-09-29 13:29+0000\n"
 "PO-Revision-Date: 2015-07-15 15:00+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -568,7 +568,7 @@ msgstr "Mozilla இல் சேரவும்"
 msgid "Participate"
 msgstr "பங்கெடுக்கவும்"
 
-#. Will be used for the navigation. Translate as a werb (call to action), not a noun.
+#. Will be used for the navigation. Translate as a verb (call to action), not a noun.
 #: main.lang:533
 msgid "Volunteer"
 msgstr "தன்னார்வலர்"
@@ -824,6 +824,63 @@ msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
 msgstr ""
+
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:781
+msgid "Get Firefox news"
+msgstr "Firefox செய்தியைப் பெறுக"
+
+#. This is a default placeholder for a subscription field on other pages than /newsletter/
+#: main.lang:786
+msgid "YOUR EMAIL HERE"
+msgstr ""
+
+#. Subscription Button
+#: main.lang:791
+msgid "Sign me up"
+msgstr "எனக்கு பதிவு பெறு"
+
+#: main.lang:795
+msgid "Select country"
+msgstr "நாட்டைத் தேர்வுசெய்யவும்"
+
+#: main.lang:799
+msgid "Available Languages"
+msgstr "கிடைக்கும் மொழிகள்"
+
+#: main.lang:803
+msgid "We will only send you Mozilla-related information."
+msgstr "Mozilla சம்பந்தமான தகவல்களை மட்டுமே நாங்கள் உங்களுக்கு அனுப்புவோம்."
+
+#: main.lang:807
+msgid "Thanks! Please check your inbox to confirm your subscription."
+msgstr "நன்றி! சந்தாவை உறுதிப்படுத்த தயவுசெய்து உங்கள் அஞ்சல் பெட்டியைப் பாருங்கள்."
+
+#: main.lang:811
+msgid ""
+"You'll receive an email from mozilla@e.mozilla.org to confirm your "
+"subscription. If you don't see it, check your spam filter. You must confirm "
+"your subscription to receive our newsletter."
+msgstr ""
+"உங்களுக்கு mozilla@e.mozilla.org என்ற முகவரியில் இருந்து உங்கள் சந்தாவை "
+"உறுதிப்படுத்தும் மின்னஞ்சல் வரும். உங்களுக்கு அது கிடைக்கவில்லை என்றால் உங்கள் தேவையற்ற "
+"மின்னஞ்சல் வடிப்பானை சரிபார்க்கவும். செய்தி மடலைப் பெற நீங்கள் சந்தாவை கட்டாயம் "
+"உறுதிப்படுத்தியாக வேண்டும்."
+
+#: main.lang:815
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "அதைப் பற்றிய அனைத்தையும் எங்கள் <span>செய்திமடலில்</span> வாசிக்கவும்"
+
+#: main.lang:819
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"மாதாந்திர புதுப்பிப்புகளுக்கு சந்தா பெற்று Mozilla செய்திகளை உடனுக்குடன் "
+"தெரிந்துவைத்துக்கொள்ளுங்கள்,  அதில் உங்கள் Firefox உலாவியை மேலும் சிறப்பாக எப்படி "
+"பயன்படுத்துவது என்பது குறித்த உதவிக்குறிப்புகள் மற்றும் நுணுக்கங்களும் அடங்கும். இது தான் "
+"எங்களுக்கு தொடர்பு கொள்ள சிறந்த வழி!"
 
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Androidக்கான Firefoxஐ பெறு"
