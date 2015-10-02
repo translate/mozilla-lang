@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-10-02 16:30+0000\n"
 "PO-Revision-Date: 2015-03-05 21:38+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: none\n"
@@ -13,11 +13,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1425591486.000000\n"
 
 #. <title> tag
-#: firefox/desktop/trust.lang:7
+#: firefox/desktop/trust.lang:8
 msgid ""
 "Firefox — Designed to protect your privacy — The most trusted browser on the "
 "Web"
@@ -26,12 +26,12 @@ msgstr ""
 "as earbsaiche air an lìon"
 
 #. main title
-#: firefox/desktop/trust.lang:12
+#: firefox/desktop/trust.lang:13
 msgid "Trust isn’t made. It’s earned."
 msgstr "Cha dèanar earbsa. Coisinnear e."
 
 #. L10n: Line break below is for wide screen formatting only.
-#: firefox/desktop/trust.lang:17
+#: firefox/desktop/trust.lang:18
 msgid ""
 "We build Firefox with a mission to put you first, above all else.<br class="
 "\"wide-br\">"
@@ -39,24 +39,24 @@ msgstr ""
 "Tha sinne a' dealbhadh Firefox agus misean againn gur tusa, an cleachdaiche, "
 "as cudromaiche ann.<br class=\"wide-br\">"
 
-#: firefox/desktop/trust.lang:21
+#: firefox/desktop/trust.lang:22
 msgid "We do it to keep you in control."
 msgstr "Nì sinn seo airson 's gum bi smachd agad-sa air cùisean."
 
-#: firefox/desktop/trust.lang:25
+#: firefox/desktop/trust.lang:26
 msgid "We do it so you can browse without worry.<br class=\"wide-br\">"
 msgstr ""
 "Nì sinn seo airson 's gun urrainn dhut brabhsadh gun dragh.<br class=\"wide-"
 "br\">"
 
-#: firefox/desktop/trust.lang:29
+#: firefox/desktop/trust.lang:30
 msgid "And we do it because no one else will."
 msgstr ""
 "Agus tha sinne 'ga dhèanamh a chionn 's nach eil buidheann sam bith eile 'ga "
 "dhèanamh."
 
 #. The span tags are for presentational purpose
-#: firefox/desktop/trust.lang:34
+#: firefox/desktop/trust.lang:35
 msgid ""
 "<span id=\"trust-line1\">Most trusted</span> <span id=\"trust-"
 "line2\">internet company</span> <span id=\"trust-line3\">for privacy</span>"
@@ -65,11 +65,11 @@ msgstr ""
 "line2\">as earbsaiche</span> <span id=\"trust-line3\">a thaobh "
 "prìobhaideachd</span>"
 
-#: firefox/desktop/trust.lang:38
+#: firefox/desktop/trust.lang:39
 msgid "Designed to protect your privacy"
 msgstr "Air a dhealbhadh gus do phrìobhaideachd a dhìon"
 
-#: firefox/desktop/trust.lang:42
+#: firefox/desktop/trust.lang:43
 msgid ""
 "We believe your personal information belongs only to you.<br class=\"wide-br"
 "\">"
@@ -77,73 +77,52 @@ msgstr ""
 "Tha sinn a' creidsinn nach bu chòir dhan fhiosrachadh phrìobhaideach a bhith "
 "aig duine ach thu fhèin.<br class=\"wide-br\">"
 
-#: firefox/desktop/trust.lang:46
+#: firefox/desktop/trust.lang:47
 msgid "That’s why Firefox is filled with features to ensure that’s the case."
 msgstr ""
 "Sin as adhbhar gu bheil Firefox loma-làn de ghleusan a dhaingnicheas sin."
 
-#: firefox/desktop/trust.lang:50
-msgid "Do Not Track"
-msgstr "Na tracaich"
-
-#: firefox/desktop/trust.lang:54
-msgid ""
-"A Firefox innovation, Do Not Track lets you indicate a preference about the "
-"way your personal info is collected and used online."
+#: firefox/desktop/trust.lang:52
+msgid "Private Browsing with<br> Tracking Protection"
 msgstr ""
-"Tha \"Na tracaich orm\" 'na ghleus a chaidh innleachadh le Firefox agus a "
-"bheir comas dhut smachd a chumail air na dòighean air an dèid fiosrachadh mu "
-"do dhèidhinn a chruinneachadh 's a chleachdadh air loidhne."
 
-#: firefox/desktop/trust.lang:58
-msgid "Learn more about Do Not Track"
-msgstr "Barrachd fiosrachaidh mun ghleus \"Na tracaich orm\""
+#: firefox/desktop/trust.lang:57
+msgid ""
+"Browse without having your history, searches or cookies saved, and block "
+"hidden third parties from following you across the Web."
+msgstr ""
 
 #: firefox/desktop/trust.lang:62
-msgid "Private browsing"
-msgstr "Brabhsadh prìobhaideach"
-
-#: firefox/desktop/trust.lang:66
-msgid "Sometimes it’s nice to go undercover."
-msgstr "B' fhearr leinn uile uaireannan rud a dhèanamh am falach."
-
-#: firefox/desktop/trust.lang:70
-msgid "Turn this feature on to protect your browsing history from others."
+msgid "Learn more about Private Browsing"
 msgstr ""
-"Cuir an gleus seo air gus d' eachdraidh brabhsaidh a chumail falaichte o "
-"chàch."
-
-#: firefox/desktop/trust.lang:74
-msgid "Learn how to open a private window"
-msgstr "Ionnsaich mar a dh'fhosglas tu uinneag phrìobhaideach"
 
 #. Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
-#: firefox/desktop/trust.lang:81
+#: firefox/desktop/trust.lang:69
 msgid "Forget Button"
 msgstr "An putan dìochuimhneachaidh"
 
-#: firefox/desktop/trust.lang:86
+#: firefox/desktop/trust.lang:74
 msgid "Remove browsing information from your computer after the fact."
 msgstr ""
 "Thoir air falbh fiosrachadh brabhsaidh on choimpiutair an dèidh dhut "
 "brabhsadh a dhèanamh."
 
-#: firefox/desktop/trust.lang:91
+#: firefox/desktop/trust.lang:79
 msgid "Use it when you’ve visited a site that you don’t want in your history."
 msgstr ""
 "Cleachd seo 's tu air tadhal a dhèanamh air làrach nach eil thu ag iarraidh "
 "'nad eachdraidh."
 
-#: firefox/desktop/trust.lang:96
+#: firefox/desktop/trust.lang:84
 msgid "Add the Forget Button to your toolbar"
 msgstr "Cuir am putan dìochuimhneachaidh ris a' bhàr-inneal agad"
 
-#: firefox/desktop/trust.lang:100
+#: firefox/desktop/trust.lang:88
 msgid "See who’s watching you online."
 msgstr "Faic cò tha a' cumail sùil ort air loidhne"
 
-#: firefox/desktop/trust.lang:104
+#: firefox/desktop/trust.lang:92
 msgid ""
 "The Lightbeam add-on exposes the first and third party sites you interact "
 "with as you browse."
@@ -151,15 +130,15 @@ msgstr ""
 "Nochdaidh an tuilleadan Lightbeam dhut cò na làraichean, ciad-phàrtaidh agus "
 "treas-phàrtaidh, a bhios gnothach agad riutha 's tu a' brabhsadh air loidhne."
 
-#: firefox/desktop/trust.lang:108
+#: firefox/desktop/trust.lang:96
 msgid "Shine a light on the Web with Lightbeam"
 msgstr "Cuir an lìon fon phrosbaig le Lightbeam"
 
-#: firefox/desktop/trust.lang:112
+#: firefox/desktop/trust.lang:100
 msgid "Keeping you safe across the Web"
 msgstr "'Gad chumail sàbhailte air feadh an lìn"
 
-#: firefox/desktop/trust.lang:116
+#: firefox/desktop/trust.lang:104
 msgid ""
 "Firefox lets you learn more about the sites you visit and helps keep you "
 "secure online."
@@ -167,11 +146,11 @@ msgstr ""
 "Bheir Firefox dhut fiosrachadh nas mionaidiche air na làraichean air am bi "
 "thu agus cumaidh e nas sàbhailte thu air an lìon."
 
-#: firefox/desktop/trust.lang:120
+#: firefox/desktop/trust.lang:108
 msgid "World class protection"
 msgstr "Sàr-dhìon"
 
-#: firefox/desktop/trust.lang:124
+#: firefox/desktop/trust.lang:112
 msgid ""
 "Anti-phishing & anti-malware features protect you from trojan horses and "
 "spyware and warn you about potentially fraudulent sites."
@@ -180,11 +159,11 @@ msgstr ""
 "Thròidheach agus bathar-foill agus a bheir rabhadh dhut ma bhios tu air "
 "làrach a dh'fhaodadh a bhith ri foill."
 
-#: firefox/desktop/trust.lang:128
+#: firefox/desktop/trust.lang:116
 msgid "Automatic security updates"
 msgstr "Ùrachaidhean tèarainteachd fèin-obrachail"
 
-#: firefox/desktop/trust.lang:132
+#: firefox/desktop/trust.lang:120
 msgid ""
 "Firefox updates automatically to make sure you always have the latest and "
 "greatest security fixes."
@@ -192,11 +171,11 @@ msgstr ""
 "Nì Firefox ùrachadh gu fèin-obrachail airson dèanamh cinnteach gum bi na "
 "leasachaidhean tèarainteachd as ùire agus as fhearr agad an-còmhnaidh."
 
-#: firefox/desktop/trust.lang:136
+#: firefox/desktop/trust.lang:124
 msgid "Secure connections"
 msgstr "Ceanglaichean tèarainte"
 
-#: firefox/desktop/trust.lang:140
+#: firefox/desktop/trust.lang:128
 msgid ""
 "Use instant Website ID to make sure a site is what it claims to be and to "
 "check if your connection to it is secure."
@@ -204,12 +183,12 @@ msgstr ""
 "Cleachd an gleus Website ID airson dèanamh cinnteach gu bheil làrach cheart "
 "agad agus feuch a bheil an ceangal agad rithe tèarainte."
 
-#: firefox/desktop/trust.lang:144
+#: firefox/desktop/trust.lang:132
 msgid "Browse without worry"
 msgstr "Dèan brabhsadh gun dragh"
 
 #. L10n: Line break below is for visual formatting only.
-#: firefox/desktop/trust.lang:149
+#: firefox/desktop/trust.lang:137
 msgid ""
 "Learn more about why your privacy and security are so important <br class="
 "\"wide-br\">and what you can do to protect yourself online."
@@ -218,26 +197,68 @@ msgstr ""
 "tèarainteachd <br class=\"wide-br\"> agus mar as urrainn dhut thu fhèin a "
 "dhìon air loidhne."
 
-#: firefox/desktop/trust.lang:153
+#: firefox/desktop/trust.lang:141
 msgid "Privacy & you"
 msgstr "Prìobhaideachd ⁊ thu fhèin"
 
-#: firefox/desktop/trust.lang:157
+#: firefox/desktop/trust.lang:145
 msgid "How to stay safe online"
 msgstr "Mar a dh'fhalbhas tu air an lìon gu sàbhailte"
 
-#: firefox/desktop/trust.lang:161
+#: firefox/desktop/trust.lang:149
 msgid "Privacy & security FAQ"
 msgstr "CÀBHA a thaobh prìobhaideachd ⁊ tèarainteachd"
 
-#: firefox/desktop/trust.lang:165
+#: firefox/desktop/trust.lang:153
 msgid "Privacy & security add-ons"
 msgstr "Tuilleadan prìobhaideachd ⁊ tèarainteachd"
 
-#: firefox/desktop/trust.lang:169
+#: firefox/desktop/trust.lang:157
 msgid "Privacy blog"
 msgstr "Bloga na prìobhaideachd"
 
-#: firefox/desktop/trust.lang:173
+#: firefox/desktop/trust.lang:161
 msgid "Security blog"
 msgstr "Bloga na tèarainteachd"
+
+#. Obsolete string, will be removed after the Firefox 42 campaign
+#: firefox/desktop/trust.lang:166
+msgid "Do Not Track"
+msgstr "Na tracaich"
+
+#. Obsolete string, will be removed after the Firefox 42 campaign
+#: firefox/desktop/trust.lang:171
+msgid ""
+"A Firefox innovation, Do Not Track lets you indicate a preference about the "
+"way your personal info is collected and used online."
+msgstr ""
+"Tha \"Na tracaich orm\" 'na ghleus a chaidh innleachadh le Firefox agus a "
+"bheir comas dhut smachd a chumail air na dòighean air an dèid fiosrachadh mu "
+"do dhèidhinn a chruinneachadh 's a chleachdadh air loidhne."
+
+#. Obsolete string, will be removed after the Firefox 42 campaign
+#: firefox/desktop/trust.lang:176
+msgid "Learn more about Do Not Track"
+msgstr "Barrachd fiosrachaidh mun ghleus \"Na tracaich orm\""
+
+#. Obsolete string, do not remove
+#: firefox/desktop/trust.lang:181
+msgid "Private browsing"
+msgstr "Brabhsadh prìobhaideach"
+
+#. Obsolete string, do not remove
+#: firefox/desktop/trust.lang:186
+msgid "Sometimes it’s nice to go undercover."
+msgstr "B' fhearr leinn uile uaireannan rud a dhèanamh am falach."
+
+#. Obsolete string, do not remove
+#: firefox/desktop/trust.lang:191
+msgid "Turn this feature on to protect your browsing history from others."
+msgstr ""
+"Cuir an gleus seo air gus d' eachdraidh brabhsaidh a chumail falaichte o "
+"chàch."
+
+#. Obsolete string, do not remove
+#: firefox/desktop/trust.lang:196
+msgid "Learn how to open a private window"
+msgstr "Ionnsaich mar a dh'fhosglas tu uinneag phrìobhaideach"

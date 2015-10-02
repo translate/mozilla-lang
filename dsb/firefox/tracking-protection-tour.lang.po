@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-08 06:29+0000\n"
+"POT-Creation-Date: 2015-10-02 16:30+0000\n"
 "PO-Revision-Date: 2015-09-08 16:15+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
@@ -13,14 +13,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1441728901.000000\n"
 
-#: firefox/tracking-protection-tour.lang:6
+#: firefox/tracking-protection-tour.lang:7
 msgid "How Tracking Protection works"
 msgstr "Kak slědowański šćit funkcioněrujo"
 
-#: firefox/tracking-protection-tour.lang:10
+#: firefox/tracking-protection-tour.lang:12
+msgid ""
+"When you see the shield, Firefox is blocking some parts of the page that "
+"could track your browsing activity."
+msgstr ""
+
+#. Obsolete string (used for fx42 beta): do not remove
+#: firefox/tracking-protection-tour.lang:17
 msgid ""
 "When the shield is visible, it means Firefox is actively blocking page "
 "elements that may track you."
@@ -28,19 +35,29 @@ msgstr ""
 "Jolic šćit jo widobny, to wóznamjenijo, až Firefox blokěrujo wopśimjeśowe "
 "elementy, kótarež was slěduju."
 
-#: firefox/tracking-protection-tour.lang:14
+#: firefox/tracking-protection-tour.lang:21
 msgid "1 of 3"
 msgstr "1 z 3"
 
-#: firefox/tracking-protection-tour.lang:18
+#: firefox/tracking-protection-tour.lang:25
 msgid "Next"
 msgstr "Dalej"
 
-#: firefox/tracking-protection-tour.lang:22
+#: firefox/tracking-protection-tour.lang:29
 msgid "Differences to expect"
 msgstr "Rozdźěle, kótarež se wótcakuju"
 
-#: firefox/tracking-protection-tour.lang:26
+#: firefox/tracking-protection-tour.lang:34
+#, fuzzy
+msgid ""
+"Some page areas may be missing, because they could allow third parties to "
+"track you across different websites."
+msgstr ""
+"Někotare wobcerki boka mógu felowaś, dokulaž mógu tśeśim póbitowarjam "
+"zmóžniś, waše pśeglědowańske zaźaržane slědowaś."
+
+#. Obsolete string (used for fx42 beta): do not remove
+#: firefox/tracking-protection-tour.lang:39
 msgid ""
 "Some page areas may be missing because they can allow third-parties to track "
 "your browsing behavior."
@@ -48,15 +65,25 @@ msgstr ""
 "Někotare wobcerki boka mógu felowaś, dokulaž mógu tśeśim póbitowarjam "
 "zmóžniś, waše pśeglědowańske zaźaržane slědowaś."
 
-#: firefox/tracking-protection-tour.lang:30
+#: firefox/tracking-protection-tour.lang:43
 msgid "2 of 3"
 msgstr "2 z 3"
 
-#: firefox/tracking-protection-tour.lang:34
+#: firefox/tracking-protection-tour.lang:47
 msgid "Want to make changes?"
 msgstr "Cośo něco změniś?"
 
-#: firefox/tracking-protection-tour.lang:38
+#: firefox/tracking-protection-tour.lang:52
+#, fuzzy
+msgid ""
+"It’s easy to turn off Tracking Protection for the website you’re on by "
+"clicking “Disable protection for this session.”"
+msgstr ""
+"Jo lažko, slědowański šćit za websedło znjemóžniś, na kótaremž su, klikniśo "
+"jadnorje na „Šćit za toś to pósejźenje znjemóžniś“."
+
+#. Obsolete string (used for fx42 beta): do not remove
+#: firefox/tracking-protection-tour.lang:57
 msgid ""
 "It’s easy to disable Tracking Protection for the website you’re on by "
 "clicking “Disable protection for this session”."
@@ -64,7 +91,17 @@ msgstr ""
 "Jo lažko, slědowański šćit za websedło znjemóžniś, na kótaremž su, klikniśo "
 "jadnorje na „Šćit za toś to pósejźenje znjemóžniś“."
 
-#: firefox/tracking-protection-tour.lang:42
+#: firefox/tracking-protection-tour.lang:62
+#, fuzzy
+msgid ""
+"It’s easy to turn on Tracking Protection for the website you’re on by "
+"clicking “Enable protection.”"
+msgstr ""
+"Jo lažko, slědowański šćit za websedło zmóžniś, na kótaremž su, klikniśo "
+"jadnorje na „Šćit zmóžniś“."
+
+#. Obsolete string (used for fx42 beta): do not remove
+#: firefox/tracking-protection-tour.lang:67
 msgid ""
 "It’s easy to enable Tracking Protection for the website you’re on by "
 "clicking “Enable protection”."
@@ -72,27 +109,38 @@ msgstr ""
 "Jo lažko, slědowański šćit za websedło zmóžniś, na kótaremž su, klikniśo "
 "jadnorje na „Šćit zmóžniś“."
 
-#: firefox/tracking-protection-tour.lang:46
+#: firefox/tracking-protection-tour.lang:71
 msgid "3 of 3"
 msgstr "3 z 3"
 
-#: firefox/tracking-protection-tour.lang:50
+#: firefox/tracking-protection-tour.lang:75
 msgid "Got it!"
 msgstr "Som to zrozměł!"
 
-#: firefox/tracking-protection-tour.lang:54
+#: firefox/tracking-protection-tour.lang:80
+msgid "Private Browsing with Tracking Protection"
+msgstr ""
+
+#. Obsolete string (used for fx42 beta): do not remove
+#: firefox/tracking-protection-tour.lang:85
 msgid "Firefox Tracking Protection"
 msgstr "Slědowański šćit Firefox"
 
 #. Link points to https://support.mozilla.org/kb/tracking-protection-pbm
-#: firefox/tracking-protection-tour.lang:59
+#: firefox/tracking-protection-tour.lang:90
 msgid ""
 "Want to turn off this feature? <a href=\"%s\">Visit Privacy Preferences</a>"
 msgstr ""
 "Cośo toś tu funkciju znjemóžniś? <a href=\"%s\">Woglědajśo k nastajenjam "
 "priatnosći</a>"
 
-#: firefox/tracking-protection-tour.lang:63
+#: firefox/tracking-protection-tour.lang:95
+msgid ""
+"Thanks for learning about the new Private Browsing with Tracking Protection."
+msgstr ""
+
+#. Obsolete string (used for fx42 beta): do not remove
+#: firefox/tracking-protection-tour.lang:100
 msgid ""
 "Thanks for learning about the new Tracking Protection feature in Private "
 "Browsing Mode."
@@ -101,7 +149,7 @@ msgstr ""
 "modusu informěrował."
 
 #. Link points to https://support.mozilla.org/kb/tracking-protection-pbm
-#: firefox/tracking-protection-tour.lang:68
+#: firefox/tracking-protection-tour.lang:105
 msgid ""
 "Learn more about how it works by visiting the <a rel=\"external\" href=\"%s"
 "\">FAQ page</a>."
@@ -109,6 +157,11 @@ msgstr ""
 "Zgóńśo wěcej, kak funkcioněrujo - woglědajśo se <a rel=\"external\" href=\"%s"
 "\">bok Ceste pšašanja</a>."
 
-#: firefox/tracking-protection-tour.lang:72
+#: firefox/tracking-protection-tour.lang:110
+msgid "Restart tour"
+msgstr ""
+
+#. Obsolete string (used for fx42 beta): do not remove
+#: firefox/tracking-protection-tour.lang:115
 msgid "Start the tour again"
 msgstr "Zachopśo turu znowego"

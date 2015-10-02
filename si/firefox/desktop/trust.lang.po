@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-10-02 16:30+0000\n"
 "PO-Revision-Date: 2015-07-05 14:44+0000\n"
 "Last-Translator: danishka <danishka@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1436107495.000000\n"
 
 #. <title> tag
-#: firefox/desktop/trust.lang:7
+#: firefox/desktop/trust.lang:8
 msgid ""
 "Firefox — Designed to protect your privacy — The most trusted browser on the "
 "Web"
@@ -25,32 +25,32 @@ msgstr ""
 "බරවුසරය"
 
 #. main title
-#: firefox/desktop/trust.lang:12
+#: firefox/desktop/trust.lang:13
 msgid "Trust isn’t made. It’s earned."
 msgstr "විශ්වාසය සෑදිය නොහැක, එය උපයාගත යුතුය."
 
 #. L10n: Line break below is for wide screen formatting only.
-#: firefox/desktop/trust.lang:17
+#: firefox/desktop/trust.lang:18
 msgid ""
 "We build Firefox with a mission to put you first, above all else.<br class="
 "\"wide-br\">"
 msgstr ""
 "අපි අන්හැම දේටම වඩා ඔබව මූලික කරගත් ඉලක්කයකින් Firefox තනයි.<br class=\"wide-br\">"
 
-#: firefox/desktop/trust.lang:21
+#: firefox/desktop/trust.lang:22
 msgid "We do it to keep you in control."
 msgstr "අපි එය ඔබට පාලනය ලබා දීම සදඟහා සිදු කරයි."
 
-#: firefox/desktop/trust.lang:25
+#: firefox/desktop/trust.lang:26
 msgid "We do it so you can browse without worry.<br class=\"wide-br\">"
 msgstr "ඔබට කරදරයකින් තොරව ගවේශනය කිරීම සදඟහා අපි එය සිදු කරයි.<br class=\"wide-br\">"
 
-#: firefox/desktop/trust.lang:29
+#: firefox/desktop/trust.lang:30
 msgid "And we do it because no one else will."
 msgstr "අන් කවරෙක්වත් එසේ නොකරන නිසා අපි එසේ කරයි."
 
 #. The span tags are for presentational purpose
-#: firefox/desktop/trust.lang:34
+#: firefox/desktop/trust.lang:35
 msgid ""
 "<span id=\"trust-line1\">Most trusted</span> <span id=\"trust-"
 "line2\">internet company</span> <span id=\"trust-line3\">for privacy</span>"
@@ -58,75 +58,57 @@ msgstr ""
 "<span id=\"trust-line3\">පුද්ගලිකත්වය සඳහා</span> <span id=\"trust-line1\">වඩාත්ම "
 "විශ්වාසනීය</span> <span id=\"trust-line2\">අන්තර්ජාල ආයතනය</span>"
 
-#: firefox/desktop/trust.lang:38
+#: firefox/desktop/trust.lang:39
 msgid "Designed to protect your privacy"
 msgstr "ඔබගේ පුද්ගලිකත්වය ආරක්සහා කිරීම සදඟහා සැලසුම් කර ඇත"
 
-#: firefox/desktop/trust.lang:42
+#: firefox/desktop/trust.lang:43
 msgid ""
 "We believe your personal information belongs only to you.<br class=\"wide-br"
 "\">"
 msgstr "ඔබගේ පුද්ගලික තොරතුරු ඔබට අයිතිබව අපි විශ්වාස කරමු.<br class=\"wide-br\">"
 
-#: firefox/desktop/trust.lang:46
+#: firefox/desktop/trust.lang:47
 msgid "That’s why Firefox is filled with features to ensure that’s the case."
 msgstr "එම නිසයි Firefox විශේසඟානඟග ගණනාවකින් සමන්විත වන්නේ."
 
-#: firefox/desktop/trust.lang:50
-msgid "Do Not Track"
-msgstr "ලුහුබදින්න එපා"
-
-#: firefox/desktop/trust.lang:54
-msgid ""
-"A Firefox innovation, Do Not Track lets you indicate a preference about the "
-"way your personal info is collected and used online."
+#: firefox/desktop/trust.lang:52
+msgid "Private Browsing with<br> Tracking Protection"
 msgstr ""
-"Firefox නවයකරණය, ලුහුබදින්න එපා යන්න ඔබගේ පුද්ගලික තොරතුරු එක් කරන්නේ සහ සබැදඟිව භාවිතා "
-"කරන්නේ කෙසේද යන්න පිළිබදඟව අභිපරේත දැක්වීමට ඉඩ ලබාදෙයි."
 
-#: firefox/desktop/trust.lang:58
-msgid "Learn more about Do Not Track"
-msgstr "ලුහුබදින්න එපා පිළිබදඟ වැඩි විස්තර ලබා ගන්න"
+#: firefox/desktop/trust.lang:57
+msgid ""
+"Browse without having your history, searches or cookies saved, and block "
+"hidden third parties from following you across the Web."
+msgstr ""
 
 #: firefox/desktop/trust.lang:62
-msgid "Private browsing"
-msgstr "පුද්ගලික ගවේශනය"
-
-#: firefox/desktop/trust.lang:66
-msgid "Sometimes it’s nice to go undercover."
-msgstr "සමහර වෙලාවට සැඟවී සිටීම යෝගය වේ."
-
-#: firefox/desktop/trust.lang:70
-msgid "Turn this feature on to protect your browsing history from others."
-msgstr "ඔබගේ ගවේශන අතීතය අනයන්ගෙන් ආරක්සහා කිරීම සදඟහා මෙම විශේසහානඟගය සකරිය කරන්න."
-
-#: firefox/desktop/trust.lang:74
-msgid "Learn how to open a private window"
-msgstr "පුද්ගලික කවුළුවක් විවඍත කරන්නේ කෙසේද යන්න ඉගෙනගන්න"
+msgid "Learn more about Private Browsing"
+msgstr ""
 
 #. Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
-#: firefox/desktop/trust.lang:81
+#: firefox/desktop/trust.lang:69
 msgid "Forget Button"
 msgstr ""
 
-#: firefox/desktop/trust.lang:86
+#: firefox/desktop/trust.lang:74
 msgid "Remove browsing information from your computer after the fact."
 msgstr ""
 
-#: firefox/desktop/trust.lang:91
+#: firefox/desktop/trust.lang:79
 msgid "Use it when you’ve visited a site that you don’t want in your history."
 msgstr ""
 
-#: firefox/desktop/trust.lang:96
+#: firefox/desktop/trust.lang:84
 msgid "Add the Forget Button to your toolbar"
 msgstr ""
 
-#: firefox/desktop/trust.lang:100
+#: firefox/desktop/trust.lang:88
 msgid "See who’s watching you online."
 msgstr "කවුරුන් සබැදඟිව සිටීදැයි දැනගන්න."
 
-#: firefox/desktop/trust.lang:104
+#: firefox/desktop/trust.lang:92
 msgid ""
 "The Lightbeam add-on exposes the first and third party sites you interact "
 "with as you browse."
@@ -134,15 +116,15 @@ msgstr ""
 "Lightbeam ඇඩෝනය ඔබ ගවේශනය කරන අතරතුර ඔබ සම්බන්දහවන මුල් සහ තෙවෙනි පාර්ශව අඩවි "
 "අනාවරණය කරයි."
 
-#: firefox/desktop/trust.lang:108
+#: firefox/desktop/trust.lang:96
 msgid "Shine a light on the Web with Lightbeam"
 msgstr "Lightbeam අමඟ වෙබය ආලෝකමත් කරන්න"
 
-#: firefox/desktop/trust.lang:112
+#: firefox/desktop/trust.lang:100
 msgid "Keeping you safe across the Web"
 msgstr "වෙබයෙ ඔබ ආරක්සහාකාරීව තබයි"
 
-#: firefox/desktop/trust.lang:116
+#: firefox/desktop/trust.lang:104
 msgid ""
 "Firefox lets you learn more about the sites you visit and helps keep you "
 "secure online."
@@ -150,21 +132,21 @@ msgstr ""
 "Firefox ඔබ පිවිසෙන අඩවි පිළිබදඟ වැඩි විස්තර දැනගැනීමට ඉඩ සලසන අතර ඔබ ඒවායේ ආරක්සහාකාරීව "
 "තැබීමට උදව් කරයි."
 
-#: firefox/desktop/trust.lang:120
+#: firefox/desktop/trust.lang:108
 msgid "World class protection"
 msgstr "ඉතා උසස් ආරක්සහාවක්"
 
-#: firefox/desktop/trust.lang:124
+#: firefox/desktop/trust.lang:112
 msgid ""
 "Anti-phishing & anti-malware features protect you from trojan horses and "
 "spyware and warn you about potentially fraudulent sites."
 msgstr ""
 
-#: firefox/desktop/trust.lang:128
+#: firefox/desktop/trust.lang:116
 msgid "Automatic security updates"
 msgstr "ස්වයනඟකරීය ආරක්සහක යාවත්කාල"
 
-#: firefox/desktop/trust.lang:132
+#: firefox/desktop/trust.lang:120
 msgid ""
 "Firefox updates automatically to make sure you always have the latest and "
 "greatest security fixes."
@@ -172,11 +154,11 @@ msgstr ""
 "ඔබට නවතම සහ ශ්‍රේසහ්‍තහතම ආරක්සහක යාවත්කාල ඇති බව තහවුරු කරගැනීම සදඟහා Firefox "
 "ස්වයනඟකරීයවම යාවත්කාල කරගනී."
 
-#: firefox/desktop/trust.lang:136
+#: firefox/desktop/trust.lang:124
 msgid "Secure connections"
 msgstr "ආරක්සහක සම්බන්දහකම්"
 
-#: firefox/desktop/trust.lang:140
+#: firefox/desktop/trust.lang:128
 msgid ""
 "Use instant Website ID to make sure a site is what it claims to be and to "
 "check if your connection to it is secure."
@@ -184,12 +166,12 @@ msgstr ""
 "අඩවියක් එයමදැයි කියා දැනගැනීමට සහ සම්බන්දහය ආරක්සහාකාරීදැයි දැනගැනීමට ක්සහණික Website ID "
 "භාවිතා කරන්න."
 
-#: firefox/desktop/trust.lang:144
+#: firefox/desktop/trust.lang:132
 msgid "Browse without worry"
 msgstr "කරදරයක් නැතිව ගවේශනය කරන්න"
 
 #. L10n: Line break below is for visual formatting only.
-#: firefox/desktop/trust.lang:149
+#: firefox/desktop/trust.lang:137
 msgid ""
 "Learn more about why your privacy and security are so important <br class="
 "\"wide-br\">and what you can do to protect yourself online."
@@ -197,26 +179,65 @@ msgstr ""
 "ඔබගේ පුද්ගලිකත්වය සහ ආරක්සහාකාරීබව මෙතරම් වැදගත්වන්නේ ඇයිදැයි දැන්ගැනීමට සහ <br class="
 "\"wide-br\">සබැදඟිව ඔබව ආරක්සහාකරගන්නේ කෙසේදැයි වැඩිදුර දැනගන්න."
 
-#: firefox/desktop/trust.lang:153
+#: firefox/desktop/trust.lang:141
 msgid "Privacy & you"
 msgstr "පුද්ගලිකත්වය සහ ඔබ"
 
-#: firefox/desktop/trust.lang:157
+#: firefox/desktop/trust.lang:145
 msgid "How to stay safe online"
 msgstr "සබැදඟිව ආරක්සහාකාරීව සිටින්නේ කෙසේද"
 
-#: firefox/desktop/trust.lang:161
+#: firefox/desktop/trust.lang:149
 msgid "Privacy & security FAQ"
 msgstr "පුද්ගලිකත්වය සහ ආරක්සහාකාරීබව නිති ඇසෙන පැන"
 
-#: firefox/desktop/trust.lang:165
+#: firefox/desktop/trust.lang:153
 msgid "Privacy & security add-ons"
 msgstr "පුද්ගලිකත්වය සහ ආරක්සහාකාරීබව ඇඩෝන"
 
-#: firefox/desktop/trust.lang:169
+#: firefox/desktop/trust.lang:157
 msgid "Privacy blog"
 msgstr "පුද්ගලිකත්ව බ්ලොගය"
 
-#: firefox/desktop/trust.lang:173
+#: firefox/desktop/trust.lang:161
 msgid "Security blog"
 msgstr "ආරක්සහාකාරීත්ව බ්ලොගය"
+
+#. Obsolete string, will be removed after the Firefox 42 campaign
+#: firefox/desktop/trust.lang:166
+msgid "Do Not Track"
+msgstr "ලුහුබදින්න එපා"
+
+#. Obsolete string, will be removed after the Firefox 42 campaign
+#: firefox/desktop/trust.lang:171
+msgid ""
+"A Firefox innovation, Do Not Track lets you indicate a preference about the "
+"way your personal info is collected and used online."
+msgstr ""
+"Firefox නවයකරණය, ලුහුබදින්න එපා යන්න ඔබගේ පුද්ගලික තොරතුරු එක් කරන්නේ සහ සබැදඟිව භාවිතා "
+"කරන්නේ කෙසේද යන්න පිළිබදඟව අභිපරේත දැක්වීමට ඉඩ ලබාදෙයි."
+
+#. Obsolete string, will be removed after the Firefox 42 campaign
+#: firefox/desktop/trust.lang:176
+msgid "Learn more about Do Not Track"
+msgstr "ලුහුබදින්න එපා පිළිබදඟ වැඩි විස්තර ලබා ගන්න"
+
+#. Obsolete string, do not remove
+#: firefox/desktop/trust.lang:181
+msgid "Private browsing"
+msgstr "පුද්ගලික ගවේශනය"
+
+#. Obsolete string, do not remove
+#: firefox/desktop/trust.lang:186
+msgid "Sometimes it’s nice to go undercover."
+msgstr "සමහර වෙලාවට සැඟවී සිටීම යෝගය වේ."
+
+#. Obsolete string, do not remove
+#: firefox/desktop/trust.lang:191
+msgid "Turn this feature on to protect your browsing history from others."
+msgstr "ඔබගේ ගවේශන අතීතය අනයන්ගෙන් ආරක්සහා කිරීම සදඟහා මෙම විශේසහානඟගය සකරිය කරන්න."
+
+#. Obsolete string, do not remove
+#: firefox/desktop/trust.lang:196
+msgid "Learn how to open a private window"
+msgstr "පුද්ගලික කවුළුවක් විවඍත කරන්නේ කෙසේද යන්න ඉගෙනගන්න"

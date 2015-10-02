@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2015-10-02 16:30+0000\n"
 "PO-Revision-Date: 2015-05-05 12:32+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1430829145.000000\n"
 
 #. <title> tag
-#: firefox/desktop/trust.lang:7
+#: firefox/desktop/trust.lang:8
 msgid ""
 "Firefox — Designed to protect your privacy — The most trusted browser on the "
 "Web"
@@ -24,12 +24,12 @@ msgstr ""
 "Firefox — Suunniteltu suojelemaan tietosuojaasi — Verkon luotetuin selain"
 
 #. main title
-#: firefox/desktop/trust.lang:12
+#: firefox/desktop/trust.lang:13
 msgid "Trust isn’t made. It’s earned."
 msgstr "Luottamusta ei saada. Se ansaitaan."
 
 #. L10n: Line break below is for wide screen formatting only.
-#: firefox/desktop/trust.lang:17
+#: firefox/desktop/trust.lang:18
 msgid ""
 "We build Firefox with a mission to put you first, above all else.<br class="
 "\"wide-br\">"
@@ -37,21 +37,21 @@ msgstr ""
 "Olemme rakentaneet Firefoxin osana tehtävää, jossa sinulla on kaikista "
 "suurin painoarvo.<br class=\"wide-br\">"
 
-#: firefox/desktop/trust.lang:21
+#: firefox/desktop/trust.lang:22
 msgid "We do it to keep you in control."
 msgstr "Teemme niin, jotta voisit päättää itsellesi kuuluvista asioista."
 
-#: firefox/desktop/trust.lang:25
+#: firefox/desktop/trust.lang:26
 msgid "We do it so you can browse without worry.<br class=\"wide-br\">"
 msgstr ""
 "Teemme niin, jotta voisit selata verkkoa huoletta.<br class=\"wide-br\">"
 
-#: firefox/desktop/trust.lang:29
+#: firefox/desktop/trust.lang:30
 msgid "And we do it because no one else will."
 msgstr "Teemme niin myös, koska kukaan muu ei tee."
 
 #. The span tags are for presentational purpose
-#: firefox/desktop/trust.lang:34
+#: firefox/desktop/trust.lang:35
 msgid ""
 "<span id=\"trust-line1\">Most trusted</span> <span id=\"trust-"
 "line2\">internet company</span> <span id=\"trust-line3\">for privacy</span>"
@@ -59,78 +59,59 @@ msgstr ""
 "<span id=\"trust-line1\">Luotetuin</span> <span id=\"trust-line2\">internet-"
 "yhtiö</span> <span id=\"trust-line3\">tietosuojan puolesta</span>"
 
-#: firefox/desktop/trust.lang:38
+#: firefox/desktop/trust.lang:39
 msgid "Designed to protect your privacy"
 msgstr "Suunniteltu suojelemaan yksityisyyttäsi"
 
-#: firefox/desktop/trust.lang:42
+#: firefox/desktop/trust.lang:43
 msgid ""
 "We believe your personal information belongs only to you.<br class=\"wide-br"
 "\">"
 msgstr ""
 "Uskomme, että yksityiset tietosi kuuluvat vain sinulle.<br class=\"wide-br\">"
 
-#: firefox/desktop/trust.lang:46
+#: firefox/desktop/trust.lang:47
 msgid "That’s why Firefox is filled with features to ensure that’s the case."
 msgstr ""
 "Siksi Firefox on täynnä ominaisuuksia, joiden avulla tämä on mahdollista."
 
-#: firefox/desktop/trust.lang:50
-msgid "Do Not Track"
-msgstr "Älä seuraa"
-
-#: firefox/desktop/trust.lang:54
-msgid ""
-"A Firefox innovation, Do Not Track lets you indicate a preference about the "
-"way your personal info is collected and used online."
+#: firefox/desktop/trust.lang:52
+msgid "Private Browsing with<br> Tracking Protection"
 msgstr ""
-"Firefox-innovaatio, \"Älä seuraa\"-toiminto, antaa sinun valita, kuinka "
-"yksityistietojasi kerätään ja käytetään verkossa."
 
-#: firefox/desktop/trust.lang:58
-msgid "Learn more about Do Not Track"
-msgstr "Lue lisää Älä seuraa -toiminnosta."
+#: firefox/desktop/trust.lang:57
+msgid ""
+"Browse without having your history, searches or cookies saved, and block "
+"hidden third parties from following you across the Web."
+msgstr ""
 
 #: firefox/desktop/trust.lang:62
-msgid "Private browsing"
-msgstr "Yksityisselaus"
-
-#: firefox/desktop/trust.lang:66
-msgid "Sometimes it’s nice to go undercover."
-msgstr "Joskus on hyvä pysytellä piilossa."
-
-#: firefox/desktop/trust.lang:70
-msgid "Turn this feature on to protect your browsing history from others."
+msgid "Learn more about Private Browsing"
 msgstr ""
-"Ottamalla tämän ominaisuuden käyttöön voit piilottaa sivuhistoriasi muilta."
-
-#: firefox/desktop/trust.lang:74
-msgid "Learn how to open a private window"
-msgstr "Lue, kuinka avaan yksityisikkunan"
 
 #. Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
-#: firefox/desktop/trust.lang:81
+#: firefox/desktop/trust.lang:69
 msgid "Forget Button"
 msgstr ""
 
-#: firefox/desktop/trust.lang:86
+#: firefox/desktop/trust.lang:74
 msgid "Remove browsing information from your computer after the fact."
 msgstr ""
 
-#: firefox/desktop/trust.lang:91
+#: firefox/desktop/trust.lang:79
 msgid "Use it when you’ve visited a site that you don’t want in your history."
 msgstr ""
 
-#: firefox/desktop/trust.lang:96
+#: firefox/desktop/trust.lang:84
 msgid "Add the Forget Button to your toolbar"
 msgstr ""
 
-#: firefox/desktop/trust.lang:100
+#: firefox/desktop/trust.lang:88
 msgid "See who’s watching you online."
 msgstr "Katso, ketkä seuraavat sinua verkossa."
 
-#: firefox/desktop/trust.lang:104
+#: firefox/desktop/trust.lang:92
 msgid ""
 "The Lightbeam add-on exposes the first and third party sites you interact "
 "with as you browse."
@@ -138,15 +119,15 @@ msgstr ""
 "Lightbeam-lisäosa paljastaa ensimmäisen ja kolmannen osapuolen sivustot, "
 "joiden kanssa olet vuorovaikutuksessa selauksen aikana."
 
-#: firefox/desktop/trust.lang:108
+#: firefox/desktop/trust.lang:96
 msgid "Shine a light on the Web with Lightbeam"
 msgstr "Valaise verkon rakenteita Lightbeam-lisäosalla"
 
-#: firefox/desktop/trust.lang:112
+#: firefox/desktop/trust.lang:100
 msgid "Keeping you safe across the Web"
 msgstr "Pitää sinut turvassa verkon eri puolilla"
 
-#: firefox/desktop/trust.lang:116
+#: firefox/desktop/trust.lang:104
 msgid ""
 "Firefox lets you learn more about the sites you visit and helps keep you "
 "secure online."
@@ -154,11 +135,11 @@ msgstr ""
 "Firefox kertoo sinulle enemmän avaamistasi sivuista ja auttaa sinua pysymään "
 "turvassa verkossa."
 
-#: firefox/desktop/trust.lang:120
+#: firefox/desktop/trust.lang:108
 msgid "World class protection"
 msgstr "Maailmanluokan suojaukset"
 
-#: firefox/desktop/trust.lang:124
+#: firefox/desktop/trust.lang:112
 msgid ""
 "Anti-phishing & anti-malware features protect you from trojan horses and "
 "spyware and warn you about potentially fraudulent sites."
@@ -166,11 +147,11 @@ msgstr ""
 "Tietojenkalastelu- ja haittaohjelmasuojaukset suojaavat sinua troijalaisilta "
 "ja vakoiluohjelmilta sekä varoittavat sinua mahdollisista valesivustoista."
 
-#: firefox/desktop/trust.lang:128
+#: firefox/desktop/trust.lang:116
 msgid "Automatic security updates"
 msgstr "Automaattiset turvallisuuspäivitykset"
 
-#: firefox/desktop/trust.lang:132
+#: firefox/desktop/trust.lang:120
 msgid ""
 "Firefox updates automatically to make sure you always have the latest and "
 "greatest security fixes."
@@ -178,11 +159,11 @@ msgstr ""
 "Firefox päivittyy automaattisesti, jotta sinulla on aina viimeisimmät ja "
 "parhaat turvallisuuskorjaukset."
 
-#: firefox/desktop/trust.lang:136
+#: firefox/desktop/trust.lang:124
 msgid "Secure connections"
 msgstr "Suojatut yhteydet"
 
-#: firefox/desktop/trust.lang:140
+#: firefox/desktop/trust.lang:128
 msgid ""
 "Use instant Website ID to make sure a site is what it claims to be and to "
 "check if your connection to it is secure."
@@ -190,12 +171,12 @@ msgstr ""
 "Verkkosivun tunnistetiedoista näet, onko sivusto se, mitä se väittää "
 "olevansa, ja onko yhteytesi siihen suojattu."
 
-#: firefox/desktop/trust.lang:144
+#: firefox/desktop/trust.lang:132
 msgid "Browse without worry"
 msgstr "Selaa huoletta"
 
 #. L10n: Line break below is for visual formatting only.
-#: firefox/desktop/trust.lang:149
+#: firefox/desktop/trust.lang:137
 msgid ""
 "Learn more about why your privacy and security are so important <br class="
 "\"wide-br\">and what you can do to protect yourself online."
@@ -203,26 +184,66 @@ msgstr ""
 "Lue lisää siitä, miksi tietosuojasi ja turvallisuutesi ovat niin tärkeitä "
 "<br class=\"wide-br\">ja mitä voit tehdä suojellaksesi itseäsi verkossa."
 
-#: firefox/desktop/trust.lang:153
+#: firefox/desktop/trust.lang:141
 msgid "Privacy & you"
 msgstr "Tietosuoja ja sinä"
 
-#: firefox/desktop/trust.lang:157
+#: firefox/desktop/trust.lang:145
 msgid "How to stay safe online"
 msgstr "Kuinka pysyä turvassa verkossa"
 
-#: firefox/desktop/trust.lang:161
+#: firefox/desktop/trust.lang:149
 msgid "Privacy & security FAQ"
 msgstr "UKK tietosuojasta ja turvallisuudesta"
 
-#: firefox/desktop/trust.lang:165
+#: firefox/desktop/trust.lang:153
 msgid "Privacy & security add-ons"
 msgstr "Tietosuoja- ja turvallisuuslisäosat"
 
-#: firefox/desktop/trust.lang:169
+#: firefox/desktop/trust.lang:157
 msgid "Privacy blog"
 msgstr "Tietosuojablogi"
 
-#: firefox/desktop/trust.lang:173
+#: firefox/desktop/trust.lang:161
 msgid "Security blog"
 msgstr "Turvallisuusblogi"
+
+#. Obsolete string, will be removed after the Firefox 42 campaign
+#: firefox/desktop/trust.lang:166
+msgid "Do Not Track"
+msgstr "Älä seuraa"
+
+#. Obsolete string, will be removed after the Firefox 42 campaign
+#: firefox/desktop/trust.lang:171
+msgid ""
+"A Firefox innovation, Do Not Track lets you indicate a preference about the "
+"way your personal info is collected and used online."
+msgstr ""
+"Firefox-innovaatio, \"Älä seuraa\"-toiminto, antaa sinun valita, kuinka "
+"yksityistietojasi kerätään ja käytetään verkossa."
+
+#. Obsolete string, will be removed after the Firefox 42 campaign
+#: firefox/desktop/trust.lang:176
+msgid "Learn more about Do Not Track"
+msgstr "Lue lisää Älä seuraa -toiminnosta."
+
+#. Obsolete string, do not remove
+#: firefox/desktop/trust.lang:181
+msgid "Private browsing"
+msgstr "Yksityisselaus"
+
+#. Obsolete string, do not remove
+#: firefox/desktop/trust.lang:186
+msgid "Sometimes it’s nice to go undercover."
+msgstr "Joskus on hyvä pysytellä piilossa."
+
+#. Obsolete string, do not remove
+#: firefox/desktop/trust.lang:191
+msgid "Turn this feature on to protect your browsing history from others."
+msgstr ""
+"Ottamalla tämän ominaisuuden käyttöön voit piilottaa sivuhistoriasi muilta."
+
+#. Obsolete string, do not remove
+#: firefox/desktop/trust.lang:196
+msgid "Learn how to open a private window"
+msgstr "Lue, kuinka avaan yksityisikkunan"
