@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-29 13:29+0000\n"
+"POT-Creation-Date: 2015-10-02 11:30+0000\n"
 "PO-Revision-Date: 2015-10-02 00:17+0000\n"
 "Last-Translator: Cláudio Esperança <cesperanc@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1443745030.000000\n"
 
 #: mozorg/newsletters.lang:5
@@ -46,10 +46,11 @@ msgstr "A sua subscrição na newsletter foi confirmada."
 
 #. Name for the newsletter in Newsletter subscription page
 #: mozorg/newsletters.lang:35
-msgid "Firefox & You"
+#, fuzzy
+msgid "Firefox + You"
 msgstr "Firefox e Eu"
 
-#. Description for the newsletter in Newsletter subscription page (Firefox & You)
+#. Description for the newsletter in Newsletter subscription page (Firefox + You)
 #: mozorg/newsletters.lang:40
 msgid ""
 "A monthly newsletter and special announcements giving you tips to improve "
@@ -60,10 +61,11 @@ msgstr ""
 
 #. Name for the newsletter in Newsletter subscription page
 #: mozorg/newsletters.lang:45
-msgid "Firefox OS News"
-msgstr "Notícias do Firefox OS"
+#, fuzzy
+msgid "Firefox OS + You"
+msgstr "Firefox e Eu"
 
-#. Description for the newsletter in Newsletter subscription page (Firefox OS News)
+#. Description for the newsletter in Newsletter subscription page (Firefox OS + You)
 #: mozorg/newsletters.lang:50
 msgid ""
 "A monthly newsletter and special announcements on how to get the most from "
@@ -75,35 +77,47 @@ msgstr ""
 "as aplicações mais interessantes do Firefox Marketplace."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:55
+#: mozorg/newsletters.lang:56
+msgctxt "./mozorg/newsletters.lang:56"
+msgid "Firefox Accounts Tips"
+msgstr ""
+
+#. Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+#: mozorg/newsletters.lang:61
+msgctxt "./mozorg/newsletters.lang:61"
+msgid "Get the most out of your Firefox Account."
+msgstr ""
+
+#. Name for the newsletter in Newsletter subscription page
+#: mozorg/newsletters.lang:67
 msgid "Mozilla Communities"
 msgstr "Comunidades da Mozilla"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Communities)
-#: mozorg/newsletters.lang:60
+#: mozorg/newsletters.lang:72
 msgid "Bringing you the best new opportunities to help support the open Web."
 msgstr ""
 "Fornece-lhe as melhores oportunidades para ajudar a suportar a Web aberta."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:65
+#: mozorg/newsletters.lang:77
 msgid "Firefox Student Ambassadors"
 msgstr "Estudantes Embaixadores do Firefox"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
-#: mozorg/newsletters.lang:70
+#: mozorg/newsletters.lang:82
 msgid ""
 "A monthly newsletter on how to get involved with Mozilla on your campus."
 msgstr ""
 "Uma newsletter mensal sobre como se envolver com a Mozilla no seu campus."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:75
+#: mozorg/newsletters.lang:87
 msgid "Firefox Affiliates"
 msgstr "Afiliados do Firefox"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
-#: mozorg/newsletters.lang:80
+#: mozorg/newsletters.lang:92
 msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
@@ -112,12 +126,12 @@ msgstr ""
 "do Firefox."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:85
+#: mozorg/newsletters.lang:97
 msgid "Firefox Apps & Hacks"
 msgstr "Aplicações e Hacks do Firefox"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
-#: mozorg/newsletters.lang:90
+#: mozorg/newsletters.lang:102
 msgid ""
 "News for developers about Firefox OS, Firefox Marketplace and the Open Web "
 "apps ecosystem."
@@ -126,43 +140,43 @@ msgstr ""
 "ecossistema de aplicações abertas para a Web."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:95
+#: mozorg/newsletters.lang:107
 msgid "Mozillians"
 msgstr "Mozillians"
 
 #. Description for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:100
+#: mozorg/newsletters.lang:112
 msgid "Email updates for vouched Mozillians on mozillians.org."
 msgstr "Atualizações por e-mail para Mozillianos aprovados no mozillians.org."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:105
+#: mozorg/newsletters.lang:117
 msgid "Firefox for desktop"
 msgstr "Firefox para computador"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for desktop)
-#: mozorg/newsletters.lang:110
+#: mozorg/newsletters.lang:122
 msgid "Don’t miss the latest announcements about our desktop browser."
 msgstr "Não perca os últimos anúncios sobre o navegador do seu computador."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:115
+#: mozorg/newsletters.lang:127
 msgid "Firefox for Android"
 msgstr "Firefox para Android"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for Android)
-#: mozorg/newsletters.lang:120
+#: mozorg/newsletters.lang:132
 msgid "Keep up with releases and news about Firefox for Android."
 msgstr ""
 "Mantenha-se informado sobre os lançamento e notícias do Firefox para Android."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:125
+#: mozorg/newsletters.lang:137
 msgid "Mozilla"
 msgstr "Mozilla"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla)
-#: mozorg/newsletters.lang:130
+#: mozorg/newsletters.lang:142
 msgid ""
 "Special announcements and messages from the team dedicated to keeping the "
 "Web free and open."
@@ -171,63 +185,63 @@ msgstr ""
 "aberta."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:134
+#: mozorg/newsletters.lang:146
 msgid "Firefox Marketplace"
 msgstr "Firefox Marketplace"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Marketplace)
-#: mozorg/newsletters.lang:139
+#: mozorg/newsletters.lang:151
 msgid "Know when the coolest apps hit the Marketplace for your platform:"
 msgstr ""
 "Saiba quando as melhores aplicações chegarem ao Marketplace para a sua "
 "plataforma:"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:144
+#: mozorg/newsletters.lang:156
 msgid "Firefox OS smartphone owner?"
 msgstr "Proprietário de um smartphone com Firefox OS?"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
-#: mozorg/newsletters.lang:149
+#: mozorg/newsletters.lang:161
 msgid "Don’t miss important news and updates about your Firefox OS device."
 msgstr ""
 "Não perca notícias e atualizações importantes para o seu dispositivo Firefox "
 "OS."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:154
+#: mozorg/newsletters.lang:166
 msgid "Firefox iOS"
 msgstr "Firefox iOS"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox iOS)
-#: mozorg/newsletters.lang:159
+#: mozorg/newsletters.lang:171
 msgid "Be the first to know when Firefox is available for iOS devices."
 msgstr ""
 "Seja o primeiro a saber quando o Firefox for disponibilizado para "
 "dispositivos com o iOS."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:164
+#: mozorg/newsletters.lang:176
 msgid "Firefox Flicks"
 msgstr "Firefox Flicks"
 
-#: mozorg/newsletters.lang:168
+#: mozorg/newsletters.lang:180
 msgid "Periodic email updates about our annual international film competition."
 msgstr ""
 "Mensagens de correio periódicas sobre a competição internacional de filmes."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:173
+#: mozorg/newsletters.lang:185
 msgid "Beta News"
 msgstr "Notícias Beta"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:178
+#: mozorg/newsletters.lang:190
 msgid "Mozilla Foundation"
 msgstr "Fundação Mozilla"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Foundation)
-#: mozorg/newsletters.lang:183
+#: mozorg/newsletters.lang:195
 msgid ""
 "News and special updates about our work to promote openness, innovation and "
 "participation on the Internet, including ways for you to get involved."
@@ -237,113 +251,113 @@ msgstr ""
 "participar."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:188
+#: mozorg/newsletters.lang:200
 msgid "Shape of the Web"
 msgstr "Forma da Web"
 
 #. Description for the newsletter in Newsletter subscription page (Shape of the Web)
-#: mozorg/newsletters.lang:193
+#: mozorg/newsletters.lang:205
 msgid "News and information related to the health of the web."
 msgstr "Notícias e informações relacionadas com a saúde da web."
 
-#: mozorg/newsletters.lang:197
+#: mozorg/newsletters.lang:209
 msgid "About Addons"
 msgstr "Sobre os Extras"
 
-#: mozorg/newsletters.lang:201
+#: mozorg/newsletters.lang:213
 msgid "Firefox OS"
 msgstr "Firefox OS"
 
-#: mozorg/newsletters.lang:205
+#: mozorg/newsletters.lang:217
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr ""
 "Notícias, dicas, informações de lançamento e onde comprar o Firefox OS."
 
-#: mozorg/newsletters.lang:210
+#: mozorg/newsletters.lang:222
 msgid "We can keep in touch with occasional messages that matter most to you."
 msgstr ""
 "Nós podemos manter o contacto com mensagens ocasionais que mais lhe "
 "interessam."
 
-#: mozorg/newsletters.lang:214
+#: mozorg/newsletters.lang:226
 msgid "Submit"
 msgstr "Submeter"
 
-#: mozorg/newsletters.lang:218
+#: mozorg/newsletters.lang:230
 msgid "Find out how!"
 msgstr "Saiba como!"
 
-#: mozorg/newsletters.lang:222
+#: mozorg/newsletters.lang:234
 msgid "Newsletters"
 msgstr "Newsletters"
 
-#: mozorg/newsletters.lang:226
+#: mozorg/newsletters.lang:238
 msgid "About us"
 msgstr "Sobre nós"
 
-#: mozorg/newsletters.lang:230
+#: mozorg/newsletters.lang:242
 msgid "I didn't sign up for this."
 msgstr "Não me registei para isto."
 
-#: mozorg/newsletters.lang:234
+#: mozorg/newsletters.lang:246
 msgid "Save Preferences"
 msgstr "Guardar preferências"
 
-#: mozorg/newsletters.lang:238
+#: mozorg/newsletters.lang:250
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
 msgstr ""
 "A ligação fornecida expirou. Irá receber uma nova na próxima newsletter."
 
-#: mozorg/newsletters.lang:242
+#: mozorg/newsletters.lang:254
 msgid "Get up and go"
 msgstr "Levante-se e vá"
 
-#: mozorg/newsletters.lang:246
+#: mozorg/newsletters.lang:258
 msgid "Subscribe"
 msgstr "Subscrever"
 
-#: mozorg/newsletters.lang:250
+#: mozorg/newsletters.lang:262
 msgid ""
 "Set your preferences below to make sure you always receive the news you want."
 msgstr ""
 "Defina as suas preferências em baixo para ter a certeza que recebe sempre as "
 "notícias que quer."
 
-#: mozorg/newsletters.lang:254
+#: mozorg/newsletters.lang:266
 msgid "You send too many emails."
 msgstr "A Mozilla envia demasiadas mensagens de correio."
 
-#: mozorg/newsletters.lang:258
+#: mozorg/newsletters.lang:270
 msgid "Getting too much email from us?"
 msgstr "Está a receber demasiadas mensagens nossas?"
 
-#: mozorg/newsletters.lang:262
+#: mozorg/newsletters.lang:274
 msgid "Would you mind telling us why you’re leaving?"
 msgstr "Importa-se de nos dizer porque nos está a deixar?"
 
-#: mozorg/newsletters.lang:266
+#: mozorg/newsletters.lang:278
 msgid "Get Firefox for mobile!"
 msgstr "Obtenha o Firefox para smartphone!"
 
-#: mozorg/newsletters.lang:270
+#: mozorg/newsletters.lang:282
 msgid "What’s Mozilla all about?"
 msgstr "O que é a Mozilla?"
 
-#: mozorg/newsletters.lang:274
+#: mozorg/newsletters.lang:286
 msgid "I’m interested in:"
 msgstr "Eu estou interessado em:"
 
-#: mozorg/newsletters.lang:278
+#: mozorg/newsletters.lang:290
 msgid "Format:"
 msgstr "Formato:"
 
-#: mozorg/newsletters.lang:282
+#: mozorg/newsletters.lang:294
 msgid "Your content wasn't relevant to me."
 msgstr "O vosso conteúdo não é relevante para mim."
 
-#: mozorg/newsletters.lang:286
+#: mozorg/newsletters.lang:298
 msgid ""
 "Don’t forget to check your inbox to confirm your request to get Firefox for "
 "iOS updates. If you don’t see an email from mozilla@e.mozilla.org, check "
@@ -355,65 +369,65 @@ msgstr ""
 "de mozilla@e.mozilla.org, verifique o seu filtro de spam. Deve confirmar o "
 "seu pedido para que possa obter as atualizações."
 
-#: mozorg/newsletters.lang:290
+#: mozorg/newsletters.lang:302
 msgid "Firefox"
 msgstr "Firefox"
 
-#: mozorg/newsletters.lang:294
+#: mozorg/newsletters.lang:306
 msgid "We’re sorry to see you go."
 msgstr "Lamentamos vê-lo partir."
 
-#: mozorg/newsletters.lang:298
+#: mozorg/newsletters.lang:310
 msgid "title"
 msgstr "título"
 
-#: mozorg/newsletters.lang:302
+#: mozorg/newsletters.lang:314
 msgid "Firefox is coming soon to iOS!"
 msgstr "O Firefox está a chegar ao iOS!"
 
-#: mozorg/newsletters.lang:306
+#: mozorg/newsletters.lang:318
 msgid "It’s your Web anywhere you go."
 msgstr "É a sua Web onde quer que vá."
 
-#: mozorg/newsletters.lang:310
+#: mozorg/newsletters.lang:322
 msgid "Your email design was too hard to read."
 msgstr "O grafismo da mensagem é muito difícil de ler."
 
-#: mozorg/newsletters.lang:314
+#: mozorg/newsletters.lang:326
 msgid "Please enter a valid email address"
 msgstr "Por favor introduza um endereço válido"
 
-#: mozorg/newsletters.lang:318
+#: mozorg/newsletters.lang:330
 msgid "Newsletter Subscriptions"
 msgstr "Subscrições da newsletter"
 
-#: mozorg/newsletters.lang:322
+#: mozorg/newsletters.lang:334
 msgid "Unsubscribe"
 msgstr "Cancelar subscrição"
 
-#: mozorg/newsletters.lang:326
+#: mozorg/newsletters.lang:338
 msgid "Mozilla Newsletter"
 msgstr "Newsletter da Mozilla"
 
-#: mozorg/newsletters.lang:330
+#: mozorg/newsletters.lang:342
 msgid "Thanks for updating your email preferences."
 msgstr "Obrigado por atualizar as preferências do seu e-mail."
 
-#: mozorg/newsletters.lang:334
+#: mozorg/newsletters.lang:346
 msgid "We’re glad you asked!"
 msgstr "Ainda bem que perguntou!"
 
-#: mozorg/newsletters.lang:338
+#: mozorg/newsletters.lang:350
 msgid "Firefox on iOS — Sign up for email updates — Mozilla"
 msgstr "Firefox no iOS — Subscreva a atualizações por e-mail — Mozilla"
 
-#: mozorg/newsletters.lang:342
+#: mozorg/newsletters.lang:354
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr ""
 "Algo está errado com o nosso sistema, desculpe! Por favor, tente novamente "
 "mais tarde."
 
-#: mozorg/newsletters.lang:346
+#: mozorg/newsletters.lang:358
 msgid ""
 "Check all categories that apply to you, and we promise to keep the mail to a "
 "minimum."
@@ -421,22 +435,22 @@ msgstr ""
 "Marque todas as categorias aplicáveis e nós tentaremos reduzir o número de "
 "mensagens."
 
-#: mozorg/newsletters.lang:350
+#: mozorg/newsletters.lang:362
 msgid "description"
 msgstr "descrição"
 
-#: mozorg/newsletters.lang:354
+#: mozorg/newsletters.lang:366
 msgid ""
 "Sign up today to receive email updates about the iOS version of Firefox."
 msgstr ""
 "Subscreva hoje para receber atualizações sobre a versão para iOS do Firefox."
 
-#: mozorg/newsletters.lang:358
+#: mozorg/newsletters.lang:370
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
 msgstr ""
 "Eu prefiro manter-me em contacto através Facebook ou Twitter da Mozilla."
 
-#: mozorg/newsletters.lang:362
+#: mozorg/newsletters.lang:374
 msgid ""
 "Success! An email has been sent to you with your preference center link. "
 "Thanks!"
@@ -444,15 +458,15 @@ msgstr ""
 "Sucesso! Foi enviado um email para si com a sua ligação para centro de "
 "preferência. Obrigado!"
 
-#: mozorg/newsletters.lang:366
+#: mozorg/newsletters.lang:378
 msgid "Remove me from all Mozilla emails"
 msgstr "Retirar-me de todas as mensagens de correio da Mozilla"
 
-#: mozorg/newsletters.lang:370
+#: mozorg/newsletters.lang:382
 msgid "Thanks for telling us why you’re leaving."
 msgstr "Obrigado por nos dizer porque nos está a deixar."
 
-#: mozorg/newsletters.lang:374
+#: mozorg/newsletters.lang:386
 msgid ""
 "Enter your email address and we’ll send you a link to your email preference "
 "center."
@@ -460,24 +474,24 @@ msgstr ""
 "Introduza o seu endereço de email e iremos enviar-lhe uma ligação para o seu "
 "centro de preferências de email."
 
-#: mozorg/newsletters.lang:378
+#: mozorg/newsletters.lang:390
 msgid "Added extras"
 msgstr "Extras adicionados"
 
-#: mozorg/newsletters.lang:382
+#: mozorg/newsletters.lang:394
 msgid "%s is not a valid newsletter"
 msgstr "%s não é uma newsletter válida"
 
-#: mozorg/newsletters.lang:386
+#: mozorg/newsletters.lang:398
 msgid "English&nbsp;only"
 msgstr "Apenas inglês"
 
-#: mozorg/newsletters.lang:390
+#: mozorg/newsletters.lang:402
 msgid "This is not a valid email address. Please check the spelling."
 msgstr ""
 "Isto não é um endereço de email válido. Por favor confirme a ortografia."
 
-#: mozorg/newsletters.lang:394
+#: mozorg/newsletters.lang:406
 msgid ""
 "Thanks for your interest in the upcoming iOS version of Firefox. We’re "
 "pretty excited about it too!"
@@ -485,28 +499,28 @@ msgstr ""
 "Obrigado pelo seu interesse na futura versão do Firefox para iOS. Também "
 "estamos bastante ansiosos!"
 
-#: mozorg/newsletters.lang:398
+#: mozorg/newsletters.lang:410
 msgid "You’ve been unsubscribed."
 msgstr "Deixou de estar subscrito."
 
-#: mozorg/newsletters.lang:402
+#: mozorg/newsletters.lang:414
 msgid "Make Firefox do more with add-ons."
 msgstr "Faça mais com o Firefox utilizando extras."
 
-#: mozorg/newsletters.lang:406
+#: mozorg/newsletters.lang:418
 msgid "You must agree to the privacy policy"
 msgstr "Deve concordar com a política de privacidade"
 
-#: mozorg/newsletters.lang:410
+#: mozorg/newsletters.lang:422
 msgid "Other…"
 msgstr "Outro…"
 
 #. <title> tag for the subscription confirmation page
-#: mozorg/newsletters.lang:415
+#: mozorg/newsletters.lang:427
 msgid "Newsletter confirm"
 msgstr "Confirmar newsletter"
 
-#: mozorg/newsletters.lang:419
+#: mozorg/newsletters.lang:431
 msgid ""
 "Not interested in our newsletters, but like those special announcements? No "
 "problem."
@@ -514,24 +528,24 @@ msgstr ""
 "Não está interessado nas nossas, mas gostaria de receber anúncios especiais? "
 "Sem problema."
 
-#: mozorg/newsletters.lang:423
+#: mozorg/newsletters.lang:435
 msgid "Manage your Email Preferences"
 msgstr "Faça a gestão das suas preferências de e-mail"
 
-#: mozorg/newsletters.lang:427
+#: mozorg/newsletters.lang:439
 msgid ""
 "We love sharing updates about all the awesome things happening at Mozilla."
 msgstr ""
 "Adoramos partilhar atualizações sobre todas as coisas fantásticas a "
 "acontecer na Mozilla."
 
-#: mozorg/newsletters.lang:431
+#: mozorg/newsletters.lang:443
 msgid ""
 "This email address is not in our system. Please double check your address or "
 "<a href=\"%s\">subscribe to our newsletters.</a>"
 msgstr ""
 
-#: mozorg/newsletters.lang:435
+#: mozorg/newsletters.lang:447
 msgid ""
 "We are sorry, but there was a problem with our system. Please try again "
 "later!"
@@ -539,13 +553,13 @@ msgstr ""
 "Lamentamos, mas ocorreu um problema com o nosso sistema. Por favor, tente "
 "novamente mais tarde!"
 
-#: mozorg/newsletters.lang:439
+#: mozorg/newsletters.lang:451
 msgid ""
 "The supplied link has expired or is not valid. You will receive a new one in "
 "the next newsletter, or below you can request an email with the link."
 msgstr ""
 
-#: mozorg/newsletters.lang:443
+#: mozorg/newsletters.lang:455
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
@@ -554,62 +568,64 @@ msgstr ""
 "livro de endereços para garantir que conseguimos entregar as mensagens na "
 "sua caixa de entrada."
 
-#: mozorg/newsletters.lang:447
+#: mozorg/newsletters.lang:459
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr ""
 "Enquanto está cá, porque não saber mais sobre a grandiosidade do Firefox."
 
-#: mozorg/newsletters.lang:451
+#: mozorg/newsletters.lang:463
 msgid "Manage your <span>Newsletter Subscriptions</span>"
 msgstr "Faça a gestão das suas <span>subscrições de newsletters</span>"
 
-#: mozorg/newsletters.lang:455
+#: mozorg/newsletters.lang:467
 msgid "Sign up below for updates and to be notified when it launches."
 msgstr ""
 "Subscreva para receber atualizações e notificações acerca do lançamento da "
 "aplicação."
 
-#: mozorg/newsletters.lang:459
+#: mozorg/newsletters.lang:471
 msgid "Newsletter email recovery"
 msgstr ""
 
-#: mozorg/newsletters.lang:463
+#: mozorg/newsletters.lang:475
 msgid ""
 "*You’ll only receive updates and announcements about the iOS version of "
 "Firefox."
 msgstr ""
 "* Só receberá atualizações e anúncios acerca da versão do Firefox para iOS."
 
-#: mozorg/newsletters.lang:466
+#: mozorg/newsletters.lang:478
 msgid "Firefox Marketplace for Firefox OS"
 msgstr ""
 
-#: mozorg/newsletters.lang:470
+#: mozorg/newsletters.lang:482
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr ""
 "Descobrir as últimas e mais fantásticas aplicações HTML5 para o Firefox OS."
 
-#: mozorg/newsletters.lang:474
+#: mozorg/newsletters.lang:486
+msgctxt "./mozorg/newsletters.lang:486"
 msgid "Firefox Accounts Tips"
 msgstr ""
 
-#: mozorg/newsletters.lang:478
+#: mozorg/newsletters.lang:490
+msgctxt "./mozorg/newsletters.lang:490"
 msgid "Get the most out of your Firefox Account."
 msgstr ""
 
-#: mozorg/newsletters.lang:482
+#: mozorg/newsletters.lang:494
 msgid "Firefox Weekly Tips"
 msgstr ""
 
-#: mozorg/newsletters.lang:486
+#: mozorg/newsletters.lang:498
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr "Obter uma dica semanal sobre como potenciar a sua experiência Firefox."
 
-#: mozorg/newsletters.lang:490
+#: mozorg/newsletters.lang:502
 msgid "Student Reps"
 msgstr ""
 
-#: mozorg/newsletters.lang:494
+#: mozorg/newsletters.lang:506
 msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
@@ -617,82 +633,82 @@ msgstr ""
 "Antigo programa universitário de 2008-2011, agora reformado e relançado como "
 "o programa de Estudantes Embaixadores do Firefox."
 
-#: mozorg/newsletters.lang:498
+#: mozorg/newsletters.lang:510
 msgid "Mozilla Learning Network"
 msgstr ""
 
-#: mozorg/newsletters.lang:502
+#: mozorg/newsletters.lang:514
 msgid ""
 "Updates from our global community, helping people learn the most important "
 "skills of our age: the ability to read, write and participate in the digital "
 "world."
 msgstr ""
 
-#: mozorg/newsletters.lang:506
+#: mozorg/newsletters.lang:518
 #, fuzzy
 msgid "Download Firefox for iOS"
 msgstr "Descarregar o Firefox para o Android"
 
-#: mozorg/newsletters.lang:510
+#: mozorg/newsletters.lang:522
 msgid "Download Firefox for Android"
 msgstr "Descarregar o Firefox para o Android"
 
-#: mozorg/newsletters.lang:514
+#: mozorg/newsletters.lang:526
 msgid "Get Firefox for Android"
 msgstr "Obter o Firefox para Android"
 
-#: mozorg/newsletters.lang:518
+#: mozorg/newsletters.lang:530
 msgid "Drumbeat Newsgroup"
 msgstr ""
 
-#: mozorg/newsletters.lang:522
+#: mozorg/newsletters.lang:534
 msgid "Mozilla Festival"
 msgstr ""
 
-#: mozorg/newsletters.lang:526
+#: mozorg/newsletters.lang:538
 msgid ""
 "Special announcements about Mozilla's annual, hands-on festival dedicated to "
 "forging the future of the open Web."
 msgstr ""
 
-#: mozorg/newsletters.lang:530
+#: mozorg/newsletters.lang:542
 msgid "Firefox Marketplace for Android"
 msgstr ""
 
-#: mozorg/newsletters.lang:534
+#: mozorg/newsletters.lang:546
 msgid "About Standards"
 msgstr ""
 
-#: mozorg/newsletters.lang:538
+#: mozorg/newsletters.lang:550
 msgid "Get Involved"
 msgstr "Envolva-se"
 
-#: mozorg/newsletters.lang:542
+#: mozorg/newsletters.lang:554
 #, fuzzy
 msgid "Download Firefox for Mobile"
 msgstr "Descarregar o Firefox para o Android"
 
-#: mozorg/newsletters.lang:546
+#: mozorg/newsletters.lang:558
 msgid "Maker Party"
 msgstr "Maker Party"
 
-#: mozorg/newsletters.lang:550
+#: mozorg/newsletters.lang:562
 msgid "Mozilla's largest celebration of making and learning on the web."
 msgstr ""
 
-#: mozorg/newsletters.lang:554
+#: mozorg/newsletters.lang:566
 msgid "Aurora"
 msgstr ""
 
-#: mozorg/newsletters.lang:558
+#: mozorg/newsletters.lang:570
 msgid "Join Mozilla"
 msgstr ""
 
-#: mozorg/newsletters.lang:562
+#: mozorg/newsletters.lang:574
 msgid "About Labs"
 msgstr ""
 
-#: mozorg/newsletters.lang:566
+#: mozorg/newsletters.lang:578
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
@@ -700,21 +716,24 @@ msgstr ""
 "Leia sobre as últimas funcionalidades do Firefox para computadores e "
 "dispositivos móveis antes do lançamento oficial."
 
-#: mozorg/newsletters.lang:570
+#: mozorg/newsletters.lang:582
 msgid "Webmaker"
 msgstr "Webmaker"
 
-#: mozorg/newsletters.lang:574
+#: mozorg/newsletters.lang:586
 msgid "Special announcements helping you get the most out of Webmaker."
 msgstr ""
 
-#: mozorg/newsletters.lang:578
+#: mozorg/newsletters.lang:590
 msgid "Addon Development"
 msgstr ""
 
-#: mozorg/newsletters.lang:582
+#: mozorg/newsletters.lang:594
 msgid "Firefox Marketplace for Desktop"
 msgstr ""
+
+#~ msgid "Firefox OS News"
+#~ msgstr "Notícias do Firefox OS"
 
 #~ msgid "Available Languages"
 #~ msgstr "Idiomas disponíveis"
