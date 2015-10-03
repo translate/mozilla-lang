@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-29 13:29+0000\n"
-"PO-Revision-Date: 2015-07-15 14:45+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2015-10-03 18:51+0000\n"
+"Last-Translator: Arash Mousavi <mousavi.arash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1436971533.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1443898289.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -33,7 +33,7 @@ msgstr "<span>برای</span> اندروید"
 #. Firefox family navigation menu. Main level item.
 #: main.lang:17
 msgid "<span>for</span> iOS"
-msgstr ""
+msgstr "<span>برای</span> iOS"
 
 #. Firefox family navigation menu. Main level item.
 #: main.lang:22
@@ -89,7 +89,7 @@ msgstr "برای شریک ها"
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
 #: main.lang:73
 msgid "Apps"
-msgstr ""
+msgstr "برنامه‌ها"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:78
@@ -110,33 +110,32 @@ msgstr "داشبورد علاقمندی ها"
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:94
 msgid "Developer Edition"
-msgstr ""
+msgstr "ویرایش توسعه‌دهندگان"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:99
 msgid "Private Browsing"
-msgstr ""
+msgstr "مرور ناشناس"
 
 #. Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 #: main.lang:104
-#, fuzzy
 msgid "Need help?"
-msgstr "به راهنمایی بیشتر نیاز دارید؟"
+msgstr "به راهنمایی نیاز دارید؟"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:109
 msgid "News"
-msgstr ""
+msgstr "اخبار"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:114
 msgid "For developers"
-msgstr ""
+msgstr "برای توسعه‌دهندگان"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:119
 msgid "Find My Device"
-msgstr ""
+msgstr "پیدا کردن دستگاه من"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:124
@@ -146,7 +145,7 @@ msgstr "برنامه‌نویس‌ها"
 #. Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 #: main.lang:129
 msgid "Choose the independent browser"
-msgstr ""
+msgstr "مرورگر مستقل را انتخاب کنید"
 
 #. Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 #: main.lang:134
@@ -154,6 +153,8 @@ msgid ""
 "Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox "
 "isn’t just choosing a browser. It’s a vote for personal freedom."
 msgstr ""
+"فایرفاکس غیرانتفاعی، غیر شرکتی، و بدون خطر است. انتخاب فایرفاکس فقط انتخاب "
+"یک مرورگر نیست. این یک رای به آزادی خصوصی است. "
 
 #: main.lang:138
 msgid "Donate"
@@ -218,21 +219,21 @@ msgstr "زبان‌های دیگر:"
 #. Year / Month / Day, indicate your prefered date format for your language
 #: main.lang:199
 msgid "%Y-%m-%d"
-msgstr ""
+msgstr "%Oy/%Om%Od"
 
 #: main.lang:203
 msgid "Legal"
-msgstr ""
+msgstr "حقوقی"
 
 #. Used as link in the footer
 #: main.lang:208
 msgid "Cookies"
-msgstr ""
+msgstr "کوکی‌ها"
 
 #. Used as link in the footer
 #: main.lang:213
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "موسات وابسته فایرفاکس"
 
 #: main.lang:217
 msgid "Legal Notices"
@@ -276,7 +277,7 @@ msgstr "بارگیری"
 
 #: main.lang:258
 msgid "Previous"
-msgstr ""
+msgstr "قبلی"
 
 #: main.lang:262
 msgid "Next"
@@ -305,6 +306,9 @@ msgid ""
 "licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
 "Alike License v3.0</a> or any later version."
 msgstr ""
+"غیر از مواردی که <a href=\"%s\">مشخصا</a> ذکر شده باشد، محتویات این سایت بر "
+"اساس گواهینامه <a href=\"%s\">Creative Commons Attribution Share-Alike "
+"License v3.0</a> و یا هر نسخه‌ی بعدی آن می‌باشد."
 
 #: main.lang:287
 msgid "Report Trademark Abuse"
@@ -329,14 +333,13 @@ msgstr "بیشتر بدانید"
 
 #. Same as previous above but with no capitalization on More
 #: main.lang:309
-#, fuzzy
 msgid "Learn more"
 msgstr "بیشتر بدانید"
 
 #. Link used to play again an animation or a video
 #: main.lang:314
 msgid "Replay"
-msgstr ""
+msgstr "نمایش مجدد"
 
 #: main.lang:318
 msgid "Watch the video"
@@ -344,11 +347,11 @@ msgstr "تماشای ویدئو"
 
 #: main.lang:322
 msgid "Replay the video"
-msgstr ""
+msgstr "نمایش مجدد ویدئو"
 
 #: main.lang:326
 msgid "Share the video"
-msgstr ""
+msgstr "اشتراک‌گذاری ویدئو"
 
 #: main.lang:330
 msgid "WebM format"
@@ -451,9 +454,8 @@ msgstr ""
 
 #. Footer string (will replace "Contribute to this page")
 #: main.lang:418
-#, fuzzy
 msgid "Contribute to this site"
-msgstr "کمک به این صفحه"
+msgstr "کمک به این سایت"
 
 #. Footer string
 #: main.lang:423
@@ -473,87 +475,87 @@ msgstr "سیاحت"
 #. Footer item
 #: main.lang:438
 msgid "Partner with Us"
-msgstr ""
+msgstr "با ما شراکت کنید"
 
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:443
 msgid "Sync"
-msgstr ""
+msgstr "هم‌گام‌سازی"
 
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:448
 msgid "Desktop Add-ons"
-msgstr ""
+msgstr "افزونه‌های میزکار"
 
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:453
 msgid "Android Add-ons"
-msgstr ""
+msgstr "افزونه‌های اندروید"
 
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:458
 msgid "Themes"
-msgstr ""
+msgstr "تم‌ها"
 
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:463
 msgid "Desktop Support"
-msgstr ""
+msgstr "پشتیبانی رومیزی"
 
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:468
 msgid "Android Support"
-msgstr ""
+msgstr "پیشتیبانی اندروید"
 
 #. Top menu item on firefox/update page
 #: main.lang:473
 msgid "Performance"
-msgstr ""
+msgstr "کارایی"
 
 #. Top menu item on firefox/update page
 #: main.lang:478
 msgid "Technology"
-msgstr ""
+msgstr "فناوری"
 
 #. Top menu item on firefox/update page
 #: main.lang:483
 msgid "Privacy &amp; Security"
-msgstr ""
+msgstr "حریم‌خصوصی و امنیت"
 
 #. Top menu item on firefox/update page
 #: main.lang:488
 msgid "Releases"
-msgstr ""
+msgstr "انتشارها"
 
 #. Top menu item on firefox/update page
 #: main.lang:493
 msgid "Firefox"
-msgstr ""
+msgstr "فایرفاکس"
 
 #. Top menu item on firefox/update page
 #: main.lang:498
 msgid "Firefox for Organizations"
-msgstr ""
+msgstr "فایرفاکس برای سازمان‌ها"
 
 #. Top menu item on firefox/update page
 #: main.lang:503
 msgid "Mobile Add-ons"
-msgstr ""
+msgstr "افزونه‌های تلفن‌همراه"
 
 #. Top menu item on firefox/update page
 #: main.lang:508
 msgid "Mobile Support"
-msgstr ""
+msgstr "پشتیبانی تلفن‌همراه"
 
 #. Top menu item on firefox/update page
 #: main.lang:513
 msgid "Blog"
-msgstr ""
+msgstr "بلاگ"
 
 #. Top menu item on firefox/update page
 #: main.lang:518
 msgid "About Firefox"
-msgstr ""
+msgstr "درباره فایرفاکس"
 
 #. Top menu item on firefox/update page
 #: main.lang:523
@@ -563,7 +565,7 @@ msgstr "به موزیلا بپیوندید"
 #. Top menu item on firefox/update page
 #: main.lang:528
 msgid "Participate"
-msgstr ""
+msgstr "مشارکت"
 
 #. Will be used for the navigation. Translate as a verb (call to action), not a noun.
 #: main.lang:533
@@ -573,72 +575,72 @@ msgstr "داوطلب"
 #. Top menu item on firefox/update page
 #: main.lang:538
 msgid "Brand Toolkit"
-msgstr ""
+msgstr "ابزار برند تجاری"
 
 #. Top menu item on firefox/update page
 #: main.lang:543
 msgid "Partnerships"
-msgstr ""
+msgstr "شرکا"
 
 #. Newsletter subscription form above footer on some pages
 #: main.lang:548
 msgid "Get Mozilla updates"
-msgstr ""
+msgstr "دریافت بروزرسانی‌های موزیلا"
 
 #. share button for social networks
 #: main.lang:553
 msgid "Share"
-msgstr ""
+msgstr "به‌اشتراک‌گذاری"
 
 #. footer link
 #: main.lang:558
 msgid "Mozilla on Twitter"
-msgstr ""
+msgstr "موزیلا در توییتر"
 
 #. footer link
 #: main.lang:563
 msgid "Firefox on Twitter"
-msgstr ""
+msgstr "فایرفاکس در توییتر"
 
 #. footer link
 #: main.lang:568
 msgid "Mozilla on Facebook"
-msgstr ""
+msgstr "موزیلا در فیس‌بوک"
 
 #. footer link
 #: main.lang:573
 msgid "Firefox on Facebook"
-msgstr ""
+msgstr "فایرفاکس در فیس‌بوک"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:578
 msgid "Forums"
-msgstr ""
+msgstr "انجمن‌ها"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:583
 msgid "Leadership"
-msgstr ""
+msgstr "رهبری"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:588
 msgid "Governance"
-msgstr ""
+msgstr "اداره امور"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:593
 msgid "History"
-msgstr ""
+msgstr "تاریخچه"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:598
 msgid "Our Products"
-msgstr ""
+msgstr "محصولات ما"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:603
 msgid "Software and other innovations designed to advance our mission."
-msgstr ""
+msgstr "نرم‌افزار و دیگر نوآوری‌ها که برای پیشرفت در هدفمان طراحی شده است."
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:608
@@ -648,18 +650,17 @@ msgstr ""
 #. This is a non-visible string for blind people to indicate where the menu is
 #: main.lang:613
 msgid "Menu"
-msgstr ""
+msgstr "منو"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 #: main.lang:618
-#, fuzzy
 msgid "Committed to you, your privacy and an open Web"
-msgstr "متعهد به شما، حریم خصوصیتان و وب باز."
+msgstr "متعهد به شما، حریم خصوصی شما و وب آزاد"
 
 #. Common title used in Fx 10 pages
 #: main.lang:623
 msgid "Choose Independent"
-msgstr ""
+msgstr "استقلال را انتخاب کنید"
 
 #. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 #. The '#ChooseIndependent' hashtag should not be translated.
@@ -672,7 +673,7 @@ msgstr ""
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 #: main.lang:636
 msgid "Please turn on JavaScript to display this page correctly."
-msgstr ""
+msgstr "لطفا برای نمایش این صفحه جاوا اسکریپت را فعال کنید."
 
 #. Used as link to /firefox/desktop in footers on some pages
 #: main.lang:641
@@ -686,79 +687,79 @@ msgstr "راهنمای فایرفاکس"
 
 #: main.lang:650
 msgid "January"
-msgstr ""
+msgstr "ژانویه"
 
 #: main.lang:654
 msgid "February"
-msgstr ""
+msgstr "فوریه"
 
 #: main.lang:658
 msgid "March"
-msgstr ""
+msgstr "مارس"
 
 #: main.lang:662
 msgid "April"
-msgstr ""
+msgstr "آوریل"
 
 #: main.lang:666
 msgid "May"
-msgstr ""
+msgstr "مه"
 
 #: main.lang:670
 msgid "June"
-msgstr ""
+msgstr "ژوئن"
 
 #: main.lang:674
 msgid "July"
-msgstr ""
+msgstr "ژوئیه"
 
 #: main.lang:678
 msgid "August"
-msgstr ""
+msgstr "اوت"
 
 #: main.lang:682
 msgid "September"
-msgstr ""
+msgstr "سپتامبر"
 
 #: main.lang:686
 msgid "October"
-msgstr ""
+msgstr "اکتبر"
 
 #: main.lang:690
 msgid "November"
-msgstr ""
+msgstr "نوامبر"
 
 #: main.lang:694
 msgid "December"
-msgstr ""
+msgstr "دسامبر"
 
 #: main.lang:698
 msgid "<abbr>Jan</abbr>"
-msgstr ""
+msgstr "<abbr>ژانویه</abbr>"
 
 #: main.lang:702
 msgid "<abbr>Feb</abbr>"
-msgstr ""
+msgstr "<abbr>فوریه</abbr>"
 
 #: main.lang:706
 msgid "<abbr>Mar</abbr>"
-msgstr ""
+msgstr "<abbr>مارس</abbr>"
 
 #: main.lang:710
 msgid "<abbr>Apr</abbr>"
-msgstr ""
+msgstr "<abbr>آوریل</abbr>"
 
 #: main.lang:714
 msgid "<abbr>May</abbr>"
-msgstr ""
+msgstr "<abbr>مه</abbr>"
 
 #: main.lang:718
 msgid "<abbr>Jun</abbr>"
-msgstr ""
+msgstr "<abbr>ژانویه</abbr>"
 
 #: main.lang:722
 msgid "<abbr>Jul</abbr>"
-msgstr ""
+msgstr "<abbr>جولای</abbr>"
 
 #: main.lang:726
 msgid "<abbr>Aug</abbr>"
@@ -766,29 +767,31 @@ msgstr ""
 
 #: main.lang:730
 msgid "<abbr>Sep</abbr>"
-msgstr ""
+msgstr "<abbr>سپتامبر</abbr>"
 
 #: main.lang:734
 msgid "<abbr>Oct</abbr>"
-msgstr ""
+msgstr "<abbr>اکتبر</abbr>"
 
 #: main.lang:738
 msgid "<abbr>Nov</abbr>"
-msgstr ""
+msgstr "<abbr>نوامبر</abbr>"
 
 #: main.lang:742
 msgid "<abbr>Dec</abbr>"
-msgstr ""
+msgstr "<abbr>دسامبر</abbr>"
 
 #. Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 #: main.lang:747
 msgid ""
 "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
 msgstr ""
+"فایرفاکس بزودی برای iOS هم منتشر می‌شود! <a href=\"{url}\">برای اطلاعات بیشتر "
+"عضو شوید</a>."
 
 #: main.lang:751
 msgid "Congrats. You’re up to date!"
-msgstr ""
+msgstr "تبریک! شما بروز هستید!"
 
 #. Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
 #: main.lang:756
@@ -797,14 +800,13 @@ msgstr "قالب"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 #: main.lang:761
-#, fuzzy
 msgid "Text"
-msgstr "بعدی"
+msgstr "متن"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 #: main.lang:766
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #. This is the error message displayed if you provide an invalid email address in a form
 #: main.lang:771
@@ -816,6 +818,8 @@ msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
 msgstr ""
+"من با اینکه موزیلا اطلاعات من را بر اساس <a href=\"%s\">این سند حریم‌خصوصی</"
+"a> مدیریت کند، مشکلی ندارم."
 
 #. This string is used for a subscription field on other pages than /newsletter/
 #: main.lang:781
