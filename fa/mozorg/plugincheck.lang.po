@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-07 17:24+0000\n"
-"PO-Revision-Date: 2015-10-03 10:00+0000\n"
+"PO-Revision-Date: 2015-10-03 11:06+0000\n"
 "Last-Translator: Sara Mansouri <s.mansoury@gmail.com>\n"
 "Language-Team: none\n"
 "Language: fa\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1443866445.000000\n"
+"X-POOTLE-MTIME: 1443870414.000000\n"
 
 #. Used as page title in HTML meta tag
 #: mozorg/plugincheck.lang:11
@@ -112,33 +112,40 @@ msgid ""
 "No plugins were found. If you believe this is an error, <a href="
 "\"%(bugzilla_url)s\">please file a bug</a> and let us know."
 msgstr ""
+"هیچ افزونه‌ای پیدا نشد. در صورتی که فکر میکنید این خطا هست <a href="
+"\"%(bugzilla_url)s\"> لطفا گزارش خطا را ثبت کنید </a> تا ما را در جریان قرار "
+"دهید."
 
 #: mozorg/plugincheck.lang:100
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
 msgstr ""
+"بررسی افزونه <strong>پشتیبانی برای اینترنت اکسپلورر محدود است </strong>. "
+"همچنان استفاده کنید از ابزارها &gt;  و مدیریت افزونه ها"
 
 #: mozorg/plugincheck.lang:104
 msgid "Step 1: Click Update to update a plugin."
-msgstr ""
+msgstr "قدم ١: کلیک روی بروزرسانی برای بروزرسانی پلاگین"
 
 #: mozorg/plugincheck.lang:108
+#, fuzzy
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
-msgstr ""
+msgstr "قدم ٢: تکمیل همه بروزرسانی‌ها قبل از راه‌اندازی مجدد مرورگر."
 
 #: mozorg/plugincheck.lang:112
+#, fuzzy
 msgid "Potentially vulnerable plugins"
-msgstr ""
+msgstr "افزونه های بالقوه آسیب‌پذیر"
 
 #: mozorg/plugincheck.lang:116
 msgid "Plugin"
-msgstr ""
+msgstr "پلاگین"
 
 #: mozorg/plugincheck.lang:120
 msgid "Status"
-msgstr ""
+msgstr "وضعیت"
 
 #: mozorg/plugincheck.lang:124
 msgid "Action"
@@ -146,11 +153,11 @@ msgstr "فعالیت"
 
 #: mozorg/plugincheck.lang:128
 msgid "Outdated Plugins"
-msgstr ""
+msgstr "پلاگینهای منقضی"
 
 #: mozorg/plugincheck.lang:132
 msgid "Unknown Plugins"
-msgstr ""
+msgstr "پلاگین‌های ناشناخته"
 
 #: mozorg/plugincheck.lang:136
 msgid "These plugins are up to date"
