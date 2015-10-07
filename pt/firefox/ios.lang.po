@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-21 06:25+0000\n"
+"POT-Creation-Date: 2015-10-07 06:30+0000\n"
 "PO-Revision-Date: 2015-09-04 21:42+0000\n"
 "Last-Translator: Gonçalo Matos <goncalo.matos@me.com>\n"
 "Language-Team: none\n"
@@ -12,39 +12,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1441402925.000000\n"
 
 #. Title of the page (HTML meta)
-#: firefox/ios.lang:6
+#: firefox/ios.lang:7
 msgid "Mobile Web browser for your iPhone, iPad and iPod touch"
 msgstr "O navegador web móvel para o seu iPhone, iPad e iPod Touch"
 
-#: firefox/ios.lang:10
+#: firefox/ios.lang:11
 msgid "Firefox for iOS"
 msgstr "Firefox para iOS"
 
-#: firefox/ios.lang:14
+#: firefox/ios.lang:15
 msgid "Add Firefox to your iPhone, iPad and iPod touch."
 msgstr "Adicione o Firefox ao seu iPhone, iPad e iPod Touch "
 
-#: firefox/ios.lang:18
+#: firefox/ios.lang:19
 msgid "Preview release"
 msgstr "Versão de pré-lançamento"
 
-#: firefox/ios.lang:22
+#: firefox/ios.lang:23
 msgid "Get it now"
 msgstr "Obter agora"
 
 #. Newsletter section
-#: firefox/ios.lang:27
+#: firefox/ios.lang:28
 msgid "Sign up below for updates and to be notified when it launches."
 msgstr ""
 "Subscreva para receber atualizações e notificações acerca do lançamento da "
 "aplicação."
 
 #. Newsletter section
-#: firefox/ios.lang:32
+#: firefox/ios.lang:33
 msgid ""
 "* You’ll only receive updates and announcements about the iOS version of "
 "Firefox."
@@ -52,19 +52,19 @@ msgstr ""
 "* Só receberá atualizações e anúncios acerca da versão do Firefox para iOS."
 
 #. Newsletter section
-#: firefox/ios.lang:37
+#: firefox/ios.lang:38
 msgid "Thanks for your interest in Firefox for iOS."
 msgstr "Obrigado pelo seu interesse no Firefox para iOS."
 
 #. Newsletter section
-#: firefox/ios.lang:42
+#: firefox/ios.lang:43
 msgid ""
 "Don’t forget to check your inbox to confirm your request to get updates."
 msgstr ""
 "Não se esqueça de visitar a sua caixa de correio para confirmar o seu pedido "
 "para obter atualizações."
 
-#: firefox/ios.lang:46
+#: firefox/ios.lang:47
 msgid ""
 "Sign in to your Firefox Account to access your browsing info on all your "
 "mobile devices."
@@ -72,48 +72,56 @@ msgstr ""
 "Inicie sessão na sua Conta Firefox para aceder à sua informação de navegação "
 "em todos os seus dispositivos móveis."
 
-#: firefox/ios.lang:50
+#: firefox/ios.lang:51
 msgid "History"
 msgstr "Histórico"
 
-#: firefox/ios.lang:54
+#: firefox/ios.lang:55
 msgid "Passwords"
 msgstr "Palavras-passe"
 
-#: firefox/ios.lang:58
+#: firefox/ios.lang:59
 msgid "Open tabs"
 msgstr "Separadores abertos"
 
-#: firefox/ios.lang:62
+#: firefox/ios.lang:64
+msgid "Bookmarks"
+msgstr "Marcadores"
+
+#: firefox/ios.lang:69
+msgid "Reading List"
+msgstr ""
+
+#: firefox/ios.lang:73
 msgid "Get started with Sync"
 msgstr "Iniciação ao Sync"
 
-#: firefox/ios.lang:66
+#: firefox/ios.lang:77
 msgid "Already have an account?"
 msgstr "Já tem uma conta?"
 
-#: firefox/ios.lang:70
+#: firefox/ios.lang:81
 msgid "Sign in"
 msgstr "Iniciar sessão"
 
-#: firefox/ios.lang:74
+#: firefox/ios.lang:85
 msgid "You’re already signed in!"
 msgstr "Já tem sessão iniciada!"
 
-#: firefox/ios.lang:78
+#: firefox/ios.lang:89
 msgid "Learn more about Sync"
 msgstr "Saber mais acerca do Sync"
 
-#: firefox/ios.lang:82
+#: firefox/ios.lang:93
 msgid "Send Firefox to your iOS device"
 msgstr "Enviar o Firefox para o seu dispositivo iOS"
 
-#: firefox/ios.lang:86
+#: firefox/ios.lang:97
 msgid "Sync your Firefox browsing history on iOS"
 msgstr "Sincronize o histórico do Firefox no iOS"
 
 #. The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
-#: firefox/ios.lang:91
+#: firefox/ios.lang:102
 msgid ""
 "First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
 "using Sync."
@@ -121,19 +129,63 @@ msgstr ""
 "Primeiro, toque no botão <b>separador</b>. Depois toque no ícone "
 "%(gear_icon)s para começar a utilizar o Sync."
 
-#: firefox/ios.lang:95
+#: firefox/ios.lang:106
 msgid "Not now"
 msgstr "Agora não"
 
-#: firefox/ios.lang:99
+#: firefox/ios.lang:110
 msgid "Learn more in the App Store"
 msgstr "Saber mais na App Store"
 
+#: firefox/ios.lang:115
+msgid "Keep your private info private"
+msgstr ""
+
+#: firefox/ios.lang:120
+msgid "We believe your personal information belongs to you."
+msgstr "Nós acreditamos que a sua informação pessoal pertence-lhe a si."
+
+#: firefox/ios.lang:125
+#, fuzzy
+msgid "Firefox for iOS is filled with features to help keep it that way."
+msgstr ""
+"O Firefox para o Android está carregado de funcionalidade para o ajudar a "
+"manter isto assim."
+
+#: firefox/ios.lang:130
+msgid "Private Browsing"
+msgstr "Navegação privada"
+
+#: firefox/ios.lang:135
+msgid ""
+"When activated, Firefox for iOS won’t accept cookies, remember passwords or "
+"record any sites that you’ve visited."
+msgstr ""
+
+#: firefox/ios.lang:140
+msgid "Learn more about Private Browsing"
+msgstr "Saber mais sobre a Navegação Privada"
+
+#: firefox/ios.lang:145
+msgid "Clear history"
+msgstr "Limpar histórico"
+
+#: firefox/ios.lang:150
+msgid "Delete your browsing history, passwords and more in a single tap."
+msgstr ""
+
+#: firefox/ios.lang:155
+msgid "Choose the private data you want to remove whenever you need to do so."
+msgstr ""
+"Escolha os dados privados que pretende remover sempre que necessitar de o "
+"fazer."
+
+#: firefox/ios.lang:160
+msgid "Learn how to clear your history"
+msgstr ""
+
 #~ msgid "Beta release"
 #~ msgstr "Lançamento beta"
-
-#~ msgid "Bookmarks"
-#~ msgstr "Marcadores"
 
 #~ msgid "Add Firefox for iOS to your iPhone, iPad and iPod Touch."
 #~ msgstr "Adicione o Firefox para iOS no seu iPhone, iPad e iPod Touch."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-21 06:25+0000\n"
+"POT-Creation-Date: 2015-10-07 06:30+0000\n"
 "PO-Revision-Date: 2015-09-05 07:21+0000\n"
 "Last-Translator: AjayKumar <ajaysinghi1188@gmail.com>\n"
 "Language-Team: none\n"
@@ -11,56 +11,56 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1441437683.000000\n"
 
 #. Title of the page (HTML meta)
-#: firefox/ios.lang:6
+#: firefox/ios.lang:7
 msgid "Mobile Web browser for your iPhone, iPad and iPod touch"
 msgstr "मोबिल वेब ब्राउज़र आपके iPhone, iPad और iPod Touch के लिए"
 
-#: firefox/ios.lang:10
+#: firefox/ios.lang:11
 msgid "Firefox for iOS"
 msgstr "iOS के लिए फ़ायरफ़ॉक्स पाएं"
 
-#: firefox/ios.lang:14
+#: firefox/ios.lang:15
 msgid "Add Firefox to your iPhone, iPad and iPod touch."
 msgstr "फ़ायरफ़ॉक्स को अपने iPhone, iPad और iPod Touch से जोड़ें."
 
-#: firefox/ios.lang:18
+#: firefox/ios.lang:19
 msgid "Preview release"
 msgstr "पूर्वावलोकन रिलीज"
 
-#: firefox/ios.lang:22
+#: firefox/ios.lang:23
 msgid "Get it now"
 msgstr "अभी प्राप्त करें"
 
 #. Newsletter section
-#: firefox/ios.lang:27
+#: firefox/ios.lang:28
 msgid "Sign up below for updates and to be notified when it launches."
 msgstr "अपडेट के लिए नीचे साइन अप करें और अधिसूचित किया जाना है जब यह प्रक्षेपित करता हैं."
 
 #. Newsletter section
-#: firefox/ios.lang:32
+#: firefox/ios.lang:33
 msgid ""
 "* You’ll only receive updates and announcements about the iOS version of "
 "Firefox."
 msgstr "*आप केवल फ़ायरफ़ॉक्स के आईओस संस्करण के बारे में अपडेट और घोषणाओं प्राप्त करेंगे."
 
 #. Newsletter section
-#: firefox/ios.lang:37
+#: firefox/ios.lang:38
 msgid "Thanks for your interest in Firefox for iOS."
 msgstr "iOS के के लिए फ़ायरफ़ॉक्स में आपकी रुचि के लिए धन्यवाद."
 
 #. Newsletter section
-#: firefox/ios.lang:42
+#: firefox/ios.lang:43
 msgid ""
 "Don’t forget to check your inbox to confirm your request to get updates."
 msgstr ""
 "अपडेट प्राप्त करने के लिए अपने अनुरोध की पुष्टि करने के लिए अपने इनबॉक्स की जाँच करना मत "
 "भूलना।"
 
-#: firefox/ios.lang:46
+#: firefox/ios.lang:47
 msgid ""
 "Sign in to your Firefox Account to access your browsing info on all your "
 "mobile devices."
@@ -68,48 +68,56 @@ msgstr ""
 "अपने मोबाइल उपकरणों पर अपने ब्राउज़िंग जानकारी का उपयोग करने के लिए अपने फ़ायरफ़ॉक्स खाते "
 "में साइन इन करें."
 
-#: firefox/ios.lang:50
+#: firefox/ios.lang:51
 msgid "History"
 msgstr "इतिहास"
 
-#: firefox/ios.lang:54
+#: firefox/ios.lang:55
 msgid "Passwords"
 msgstr "कूटशब्दों"
 
-#: firefox/ios.lang:58
+#: firefox/ios.lang:59
 msgid "Open tabs"
 msgstr "टैबों को खोलें"
 
-#: firefox/ios.lang:62
+#: firefox/ios.lang:64
+msgid "Bookmarks"
+msgstr "पुस्तचिह्न"
+
+#: firefox/ios.lang:69
+msgid "Reading List"
+msgstr ""
+
+#: firefox/ios.lang:73
 msgid "Get started with Sync"
 msgstr "सिंक के साथ शुरुआत करें"
 
-#: firefox/ios.lang:66
+#: firefox/ios.lang:77
 msgid "Already have an account?"
 msgstr "पहले से ही एक खाता है?"
 
-#: firefox/ios.lang:70
+#: firefox/ios.lang:81
 msgid "Sign in"
 msgstr "साइन-इन"
 
-#: firefox/ios.lang:74
+#: firefox/ios.lang:85
 msgid "You’re already signed in!"
 msgstr "आप पहले से ही साइन-इन हैं!"
 
-#: firefox/ios.lang:78
+#: firefox/ios.lang:89
 msgid "Learn more about Sync"
 msgstr "सिंक के बारे में और अधिक जाने"
 
-#: firefox/ios.lang:82
+#: firefox/ios.lang:93
 msgid "Send Firefox to your iOS device"
 msgstr "अपने iOS डिवाइस के लिए फ़ायरफ़ॉक्स भेजें"
 
-#: firefox/ios.lang:86
+#: firefox/ios.lang:97
 msgid "Sync your Firefox browsing history on iOS"
 msgstr "iOS पर अपने फ़ायरफ़ॉक्स ब्राउज़िंग इतिहास को सिंक करें"
 
 #. The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
-#: firefox/ios.lang:91
+#: firefox/ios.lang:102
 msgid ""
 "First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
 "using Sync."
@@ -117,16 +125,55 @@ msgstr ""
 "पहला <b>टैब</b> बटन टैप करें. उसके बाद सिंक का उपयोग शुरू करने के लिए आइकन "
 "%(gear_icon)s पर टैप करें."
 
-#: firefox/ios.lang:95
+#: firefox/ios.lang:106
 msgid "Not now"
 msgstr "अभी नहीं"
 
-#: firefox/ios.lang:99
+#: firefox/ios.lang:110
 msgid "Learn more in the App Store"
 msgstr "एप्प भंडार में और अधिक जानें"
 
-#~ msgid "Bookmarks"
-#~ msgstr "पुस्तचिह्न"
+#: firefox/ios.lang:115
+msgid "Keep your private info private"
+msgstr ""
+
+#: firefox/ios.lang:120
+msgid "We believe your personal information belongs to you."
+msgstr ""
+
+#: firefox/ios.lang:125
+msgid "Firefox for iOS is filled with features to help keep it that way."
+msgstr ""
+
+#: firefox/ios.lang:130
+msgid "Private Browsing"
+msgstr "निजी ब्राउज़िंग"
+
+#: firefox/ios.lang:135
+msgid ""
+"When activated, Firefox for iOS won’t accept cookies, remember passwords or "
+"record any sites that you’ve visited."
+msgstr ""
+
+#: firefox/ios.lang:140
+msgid "Learn more about Private Browsing"
+msgstr ""
+
+#: firefox/ios.lang:145
+msgid "Clear history"
+msgstr ""
+
+#: firefox/ios.lang:150
+msgid "Delete your browsing history, passwords and more in a single tap."
+msgstr ""
+
+#: firefox/ios.lang:155
+msgid "Choose the private data you want to remove whenever you need to do so."
+msgstr ""
+
+#: firefox/ios.lang:160
+msgid "Learn how to clear your history"
+msgstr ""
 
 #~ msgid "Add Firefox for iOS to your iPhone, iPad and iPod Touch."
 #~ msgstr "iOS के लिए फ़ायरफ़ॉक्स को अपने iPhone, iPad और iPod Touch से जोड़ें।"

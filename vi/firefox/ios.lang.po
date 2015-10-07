@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-21 06:25+0000\n"
+"POT-Creation-Date: 2015-10-07 06:30+0000\n"
 "PO-Revision-Date: 2015-08-21 07:24+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: none\n"
@@ -12,56 +12,56 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1440141847.000000\n"
 
 #. Title of the page (HTML meta)
-#: firefox/ios.lang:6
+#: firefox/ios.lang:7
 #, fuzzy
 msgid "Mobile Web browser for your iPhone, iPad and iPod touch"
 msgstr "Trình duyệt web cho iPhone, iPad và iPod Touch"
 
-#: firefox/ios.lang:10
+#: firefox/ios.lang:11
 msgid "Firefox for iOS"
 msgstr "Firefox cho iOS"
 
-#: firefox/ios.lang:14
+#: firefox/ios.lang:15
 #, fuzzy
 msgid "Add Firefox to your iPhone, iPad and iPod touch."
 msgstr "Tải Firefox cho iPhone, iPad và iPod Touch."
 
-#: firefox/ios.lang:18
+#: firefox/ios.lang:19
 msgid "Preview release"
 msgstr ""
 
-#: firefox/ios.lang:22
+#: firefox/ios.lang:23
 msgid "Get it now"
 msgstr "Tải ngay"
 
 #. Newsletter section
-#: firefox/ios.lang:27
+#: firefox/ios.lang:28
 msgid "Sign up below for updates and to be notified when it launches."
 msgstr ""
 
 #. Newsletter section
-#: firefox/ios.lang:32
+#: firefox/ios.lang:33
 msgid ""
 "* You’ll only receive updates and announcements about the iOS version of "
 "Firefox."
 msgstr ""
 
 #. Newsletter section
-#: firefox/ios.lang:37
+#: firefox/ios.lang:38
 msgid "Thanks for your interest in Firefox for iOS."
 msgstr ""
 
 #. Newsletter section
-#: firefox/ios.lang:42
+#: firefox/ios.lang:43
 msgid ""
 "Don’t forget to check your inbox to confirm your request to get updates."
 msgstr ""
 
-#: firefox/ios.lang:46
+#: firefox/ios.lang:47
 msgid ""
 "Sign in to your Firefox Account to access your browsing info on all your "
 "mobile devices."
@@ -69,48 +69,56 @@ msgstr ""
 "Đăng nhập vào tài khoản Firefox để truy cập dữ liệu duyệt web trên tất cả "
 "các thiết bị di động của bạn."
 
-#: firefox/ios.lang:50
+#: firefox/ios.lang:51
 msgid "History"
 msgstr "Nhật ký duyệt web"
 
-#: firefox/ios.lang:54
+#: firefox/ios.lang:55
 msgid "Passwords"
 msgstr "Mật khẩu"
 
-#: firefox/ios.lang:58
+#: firefox/ios.lang:59
 msgid "Open tabs"
 msgstr "Các tab đang mở"
 
-#: firefox/ios.lang:62
+#: firefox/ios.lang:64
+msgid "Bookmarks"
+msgstr "Đánh dấu trang"
+
+#: firefox/ios.lang:69
+msgid "Reading List"
+msgstr ""
+
+#: firefox/ios.lang:73
 msgid "Get started with Sync"
 msgstr "Tìm hiểu cách dùng Sync"
 
-#: firefox/ios.lang:66
+#: firefox/ios.lang:77
 msgid "Already have an account?"
 msgstr "Bạn đã có tài khoản rồi?"
 
-#: firefox/ios.lang:70
+#: firefox/ios.lang:81
 msgid "Sign in"
 msgstr "Đăng nhập"
 
-#: firefox/ios.lang:74
+#: firefox/ios.lang:85
 msgid "You’re already signed in!"
 msgstr "Bạn đã đăng nhập rồi!"
 
-#: firefox/ios.lang:78
+#: firefox/ios.lang:89
 msgid "Learn more about Sync"
 msgstr "Tìm hiểu thêm về Sync"
 
-#: firefox/ios.lang:82
+#: firefox/ios.lang:93
 msgid "Send Firefox to your iOS device"
 msgstr ""
 
-#: firefox/ios.lang:86
+#: firefox/ios.lang:97
 msgid "Sync your Firefox browsing history on iOS"
 msgstr "Đồng bộ nhật ký duyệt web Firefox trên iOS"
 
 #. The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
-#: firefox/ios.lang:91
+#: firefox/ios.lang:102
 msgid ""
 "First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
 "using Sync."
@@ -118,16 +126,55 @@ msgstr ""
 "Chạm vào nút <b>tab</b>. Sau đó chạm vào biểu tượng %(gear_icon)s để bắt đầu "
 "sử dụng Sync."
 
-#: firefox/ios.lang:95
+#: firefox/ios.lang:106
 msgid "Not now"
 msgstr "Không phải lúc này"
 
-#: firefox/ios.lang:99
+#: firefox/ios.lang:110
 msgid "Learn more in the App Store"
 msgstr "Tìm hiểu thêm trên App Store"
 
-#~ msgid "Bookmarks"
-#~ msgstr "Đánh dấu trang"
+#: firefox/ios.lang:115
+msgid "Keep your private info private"
+msgstr ""
+
+#: firefox/ios.lang:120
+msgid "We believe your personal information belongs to you."
+msgstr ""
+
+#: firefox/ios.lang:125
+msgid "Firefox for iOS is filled with features to help keep it that way."
+msgstr ""
+
+#: firefox/ios.lang:130
+msgid "Private Browsing"
+msgstr "Duyệt web ẩn danh"
+
+#: firefox/ios.lang:135
+msgid ""
+"When activated, Firefox for iOS won’t accept cookies, remember passwords or "
+"record any sites that you’ve visited."
+msgstr ""
+
+#: firefox/ios.lang:140
+msgid "Learn more about Private Browsing"
+msgstr ""
+
+#: firefox/ios.lang:145
+msgid "Clear history"
+msgstr ""
+
+#: firefox/ios.lang:150
+msgid "Delete your browsing history, passwords and more in a single tap."
+msgstr ""
+
+#: firefox/ios.lang:155
+msgid "Choose the private data you want to remove whenever you need to do so."
+msgstr ""
+
+#: firefox/ios.lang:160
+msgid "Learn how to clear your history"
+msgstr ""
 
 #~ msgid "Add Firefox for iOS to your iPhone, iPad and iPod Touch."
 #~ msgstr "Cài đặt Firefox cho iOS trên iPhone, iPad và iPod Touch của bạn."
