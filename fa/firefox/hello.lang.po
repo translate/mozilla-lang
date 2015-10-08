@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 06:29+0000\n"
-"PO-Revision-Date: 2015-10-03 19:39+0000\n"
+"PO-Revision-Date: 2015-10-08 20:58+0000\n"
 "Last-Translator: reza habibi <reza.habibi2008@gmail.com>\n"
 "Language-Team: none\n"
 "Language: fa\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1443901178.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1444337904.000000\n"
 
 #. “Firefox Hello” is the product name and should not be localized
 #: firefox/hello.lang:13
@@ -61,7 +61,7 @@ msgstr "الان امتحان کنید"
 
 #: firefox/hello.lang:48
 msgid "All you need is Firefox"
-msgstr ""
+msgstr "تمام چیزی که نیازدارید فایرفاکس است"
 
 #. “Hello” is the product name and should not be localized
 #: firefox/hello.lang:53
@@ -71,11 +71,13 @@ msgstr ""
 
 #: firefox/hello.lang:57
 msgid "There’s no account or sign-in required and nothing extra to download."
-msgstr ""
+msgstr "هیچ‌ گونه حساب کاربری یا وارد شدنی و یا حتی دریافت برنامه نیاز نیست."
 
 #: firefox/hello.lang:62
 msgid "Just send a conversation link to a friend and ask them to click it."
 msgstr ""
+"تنها پیوند مکالمه را برای دوست خود ارسال کنید و از او بخواهید بر روی آن کلیک "
+"کند."
 
 #. This string will be an active link to SUMO: https://support.mozilla.org/kb/which-browsers-will-work-firefox-hello-video-chat
 #: firefox/hello.lang:68
@@ -86,10 +88,12 @@ msgstr "مشاهده کنید چه مرورگرهایی با فایرفاکس س
 msgid ""
 "Just start a conversation, send your friend a link and ask them to click it."
 msgstr ""
+"کافی است برای شروع مکالمه, پیوند را برای دوست خود ارسال کنید و از اون "
+"بخواهید بر روی آن کلیک کند."
 
 #: firefox/hello.lang:76
 msgid "Simple."
-msgstr ""
+msgstr "ساده."
 
 #. This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
 #. Feel free to adapt it to your locale.
@@ -99,15 +103,15 @@ msgstr ""
 
 #: firefox/hello.lang:88
 msgid "Want to show off some new baby pictures?"
-msgstr ""
+msgstr "آیا می‌خواهید برخی از تصاویر جدید فرزندتان را نمایش دهید؟"
 
 #: firefox/hello.lang:93
 msgid "Share travel options over the Web?"
-msgstr ""
+msgstr "به اشتراک گذاشتن گزینه‌های سفر بر روی وب؟"
 
 #: firefox/hello.lang:98
 msgid "Check in on a project from half a world away?"
-msgstr ""
+msgstr "بررسی یک پروژه در آن سوی دنیا؟"
 
 #: firefox/hello.lang:103
 msgid "Screen sharing on Firefox Hello makes it all possible."
@@ -117,10 +121,12 @@ msgstr "فایرفاکس سلام به اشتراک گذاری صفحه نمای
 msgid ""
 "Try it out in your next conversation and share the things that matter most."
 msgstr ""
+"آن را در مکالمه بعدی خود امتحان کنید و چیزهایی که مهم هستند را به اشتراک "
+"بگذارید."
 
 #: firefox/hello.lang:112
 msgid "Invite anyone, anywhere"
-msgstr ""
+msgstr "هرشخص در هرمکانی را دعوت کنید"
 
 #. “Hello” is the product name and should not be localized
 #: firefox/hello.lang:117
@@ -137,11 +143,11 @@ msgstr ""
 
 #: firefox/hello.lang:125
 msgid "Learn more about compatible browsers"
-msgstr ""
+msgstr "در مورد مرورگر‌های سازگار بیشتر بدانید"
 
 #: firefox/hello.lang:129
 msgid "Safe, secure, protected"
-msgstr ""
+msgstr "بی‌خطر,ایمن,محافظت شده"
 
 #. “Hello” is the product name and should not be localized
 #: firefox/hello.lang:134
@@ -158,11 +164,12 @@ msgid ""
 "And thanks to WebRTC-grade encryption, you’ll enjoy an added level of "
 "security."
 msgstr ""
+"و با تشکر از WebRTC-gradeرمزنگاری شده، از یک سطح امنیتی اضافه لذت ببرید."
 
 #. This will be an active link. Destination URL currently not available
 #: firefox/hello.lang:145
 msgid "Learn more about WebRTC encryption"
-msgstr ""
+msgstr "در مورد WebRTC رمزنگاری شده بیشتر بدانید"
 
 #: firefox/hello.lang:149
 msgid ""
@@ -171,7 +178,7 @@ msgstr ""
 
 #: firefox/hello.lang:153
 msgid "Do more with a Firefox Account"
-msgstr ""
+msgstr "با حساب کاربری فایرفاکس کاربیشتری انجام دهید"
 
 #: firefox/hello.lang:157
 msgid ""
@@ -179,14 +186,18 @@ msgid ""
 "Account or sign in if you have one already &mdash; it’s the same account you "
 "use with Sync."
 msgstr ""
+"برای شروع یک مکالمه به طور به مستقیم با شخصی، به سادگی یک حساب رایگان "
+"فایرفاکس ایجاد کنید یا در صورت داشتن حساب کاربری وارد آن شوید &mdash; این "
+"مشابه همان حسابی است که شما برای همگام سازی استفاده می‌کنید."
 
 #: firefox/hello.lang:161
 msgid "You can then add contacts to keep them close at hand."
 msgstr ""
+"سپس شما می‌توانید مخاطبین خود را جهت نزدیک بودن و در دست بودن اضافه کنید."
 
 #: firefox/hello.lang:165
 msgid "Get Firefox to get started"
-msgstr ""
+msgstr "فایرفاکس را جهت شروع دریافت کنید"
 
 #. “Hello” is the product name and should not be localized
 #: firefox/hello.lang:170
@@ -199,14 +210,17 @@ msgid ""
 "in control of your online life while you stay connected with friends and "
 "family."
 msgstr ""
+"تمام چیزی که شما نیاز دارید یک فایرفاکس است &mdash; یک مرورگر بازمتن که به "
+"شما در به دست گرفتن کنترل زندگی آنلاین خود در حالی که درارتباط با دوستان یا "
+"خانواده خود هستید کمک می کند."
 
 #: firefox/hello.lang:178
 msgid "Download Firefox to start your first conversation."
-msgstr ""
+msgstr "برای شروع اولین گفت‌وگو خود فایرفاکس را دریافت کنید."
 
 #: firefox/hello.lang:182
 msgid "Get Firefox and start your first conversation"
-msgstr ""
+msgstr "برای شروع اولین گفت‌وگو خود فایرفاکس را دریافت کنید."
 
 #: firefox/hello.lang:186
 msgid "Update your Firefox to start using Hello"
@@ -214,7 +228,7 @@ msgstr "فایرفاکس خود را برای استفاده از سلام بر�
 
 #: firefox/hello.lang:190
 msgid "Start your first conversation today"
-msgstr ""
+msgstr "اولین گفت‌و‌گو خود را همین امروز شروع کنید"
 
 #: firefox/hello.lang:195
 msgid ""
@@ -239,10 +253,11 @@ msgstr "شناختن سلام"
 #: firefox/hello.lang:209
 msgid "Want to reconnect with friends around the world?"
 msgstr ""
+"تمایل دارید مجددا ارتباط خود را با دوستان خود در سراسر دنیا برقرار کنید؟"
 
 #: firefox/hello.lang:213
 msgid "Celebrate a birthday when you can’t be there in person?"
-msgstr ""
+msgstr "تولدی را جشن بگیرید در حالی که در آنجا حضور ندارید؟"
 
 #. “Firefox Hello” is the product name and should not be localized
 #: firefox/hello.lang:218
@@ -255,17 +270,17 @@ msgstr ""
 
 #: firefox/hello.lang:222
 msgid "Questions?"
-msgstr ""
+msgstr "سوال‌ها؟"
 
 #: firefox/hello.lang:226
 msgid "Visit Mozilla Support"
-msgstr ""
+msgstr "پشتیبانی موزیلا را بازدید کنید"
 
 #. %s will be replaced by an image of Telefonica's logo. The current string is the same used in Firefox for Firefox Hello
 #. http://transvision.mozfr.org/string/?entity=browser/chrome/browser/loop/loop.properties:powered_by_beforeLogo&repo=beta
 #: firefox/hello.lang:232
 msgid "Powered by %s"
-msgstr ""
+msgstr "قدرت گرفته توسط %s"
 
 #. The following strings are used for the First Time interactive experience, don't add HTML tags.
 #. The %s placeholder is an image of the Hello screen sharing icon, and can be moved around to fit the translation appropriately.
@@ -274,6 +289,8 @@ msgid ""
 "Now see how easy it is to share your screen. Click %s in your conversation "
 "window to try it."
 msgstr ""
+"حالا مشاهده کنید به اشتراک گذاشتن صفحه نمایش شما چقدر آسان است. بر روی %s در "
+"پنجره گفت‌و‌گو خود کلیک کنید و آن را امتحان کنید."
 
 #. “Hello” is the product name and should not be localized
 #: firefox/hello.lang:244
@@ -284,14 +301,18 @@ msgstr "به سلام خوش آمدید"
 msgid ""
 "Open a video conversation with a single click, then invite a friend to join."
 msgstr ""
+"یک گفت‌و‌گو تصویری را تنها با یک کلیک بازکنید، سپس یک دوست را جهت پیوستن دعوت "
+"کنید."
 
 #: firefox/hello.lang:252
 msgid "Share your link with a friend"
-msgstr ""
+msgstr "پیوند خود را با یک دوست به اشتراک بگذارید"
 
 #: firefox/hello.lang:256
 msgid "They don’t even need Firefox to join. They just need to click the link."
 msgstr ""
+"آن ها برای پیوستن نیازی به فایرفاکس ندارند. تنها کافی است بر روی پیوند کلیک "
+"کنند."
 
 #: firefox/hello.lang:260
 msgid "No need to wait around"
@@ -299,7 +320,7 @@ msgstr ""
 
 #: firefox/hello.lang:265
 msgid "You will receive a notification once they’ve joined"
-msgstr ""
+msgstr "زمانی که شخصی بپیوندد آگاهسازی برای شما ارسال می‌شود"
 
 #. “Hello” is the product name and should not be localized
 #: firefox/hello.lang:270
@@ -312,7 +333,7 @@ msgstr ""
 
 #: firefox/hello.lang:274
 msgid "You have a conversation waiting"
-msgstr ""
+msgstr "شما یک مکالمه در حال انتظار دارید"
 
 #. In this case “hello” is just a greeting (think of it as “hi”)
 #: firefox/hello.lang:279
@@ -321,15 +342,15 @@ msgstr "هم‌اکنون برای پیوستن کلیک کنید و سلام ک
 
 #: firefox/hello.lang:283
 msgid "The easiest way to have a free video conversation with anyone, anywhere"
-msgstr ""
+msgstr "راحت ترین راه برای داشتن یک مکالمه تصویری رایگاه در هرمکان با هرشخصی "
 
 #: firefox/hello.lang:287
 msgid "Start a conversation right from Firefox"
-msgstr ""
+msgstr "هم اکنون یک مکالمه توسط فایرفاکس آغاز کنید"
 
 #: firefox/hello.lang:291
 msgid "Invite a friend by sending them a link"
-msgstr ""
+msgstr "یک دوست را با ارسال پیوند دعوت کنید"
 
 #: firefox/hello.lang:295
 msgid "The Hello icon will change to blue once they’ve joined"
@@ -342,7 +363,7 @@ msgstr "به دوستان خود در مورد سلام بگویید"
 
 #: firefox/hello.lang:304
 msgid "Need help? Get support here"
-msgstr ""
+msgstr "نیاز به راهنمایی دارید؟ پشتیبانی را از اینجا دریافت کنید"
 
 #. “Hello” is the product name and should not be localized
 #: firefox/hello.lang:309
@@ -350,9 +371,8 @@ msgid "Learn all about Hello"
 msgstr "همه چیز درمورد سلام را بدانید"
 
 #: firefox/hello.lang:313
-#, fuzzy
 msgid "The easiest way to connect for free over video"
-msgstr "آسان‌ترین راه برای ارتباط ویدئویی رایگان."
+msgstr "آسان‌ترین راه برای ارتباط تصویری رایگان"
 
 #: firefox/hello.lang:317
 msgid ""
@@ -360,32 +380,39 @@ msgid ""
 "All they have to do is click a link to join. There’s no account or sign-in "
 "required."
 msgstr ""
+"هم اکنون دوستی را دعوت کنید و توسط فایرفاکس آغاز کنید، در هر نقطه به گفت‌وگو "
+"بپردازید. تمام این ها تنها با کلیک بر روی یک پیوند برای پیوستن. بدون نیاز به "
+"هیچ‌گونه وارد شدن یا حساب کاربری."
 
 #: firefox/hello.lang:321
 msgid "You’ve started your first conversation. Wasn’t that easy?"
-msgstr ""
+msgstr "شما اولین مکالمه خود را آغاز کردید. آسان نبود؟"
 
 #: firefox/hello.lang:326
 msgid ""
 "Click the blue button to start a video conversation, then invite a friend to "
 "join."
 msgstr ""
+"بر روی دکمه آبی کلیک کنید تا مکالمه تصویری آغاز شود، سپس یک دوست را برای "
+"پیوستن دعوت کنید."
 
 #: firefox/hello.lang:331
 msgid "Email, copy or share the link"
-msgstr ""
+msgstr "ارسال با پست الکترونیکی، نسخه‌برداری یا به اشتراک‌گذاری پیوند"
 
 #: firefox/hello.lang:336
 msgid ""
 "Your friends can connect instantly. They don’t even need Firefox to join."
 msgstr ""
+"دوستان شما فورا متصل خواهند شد. آن ها جهت پیوستن نیازی به فایرفاکس ندارند."
 
 #: firefox/hello.lang:341
 msgid ""
 "Continue browsing from any tab and you will be notified once someone joins."
 msgstr ""
+"ادامه دادن مرور از هر زبانه‌ای و هنگامی‌ که شخصی بپیوندد شما با خبر خواهید شد."
 
 #. Accessibility: This is the alternate text for the social medial sharing icon
 #: firefox/hello.lang:346
 msgid "sharing icon"
-msgstr ""
+msgstr "آیکون به اشتراک‌گذاری"
