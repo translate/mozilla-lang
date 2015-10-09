@@ -7,10 +7,12 @@ log_info "Processing languages '$langs'"
 
 function update_source() {
 	log_info "Updating '$SOURCE_DIR'"
-	if [ ! -d $SOURCE_DIR/.svn ]; then
-		svn co $svnverbosity $MOZREPONAME/projects/mozilla.com/trunk/locales/en-US $SOURCE_DIR
+	if [ ! -d $SOURCE_DIR/.git ]; then
+		git clone https://github.com/mozilla-l10n/www.mozilla.org.git $SOURCE_DIR
 	else
-		svn up $svnverbosity $SOURCE_DIR
+		cd $SOURCE_DIR
+		git reset --hard
+		git pull
 	fi
 }
 
@@ -84,7 +86,7 @@ do
 		update_source
 		rm -rf $POT_DIR
 		mkdir -p $POT_DIR/templates/mozorg/emails
-		(cd $SOURCE_DIR 
+		(cd $SOURCE_DIR/en-US
 		moz2po --errorlevel=$errorlevel --progress=$progress . $POT_DIR
 		txt2po --errorlevel=$errorlevel --progress=$progress templates/mozorg/emails $POT_DIR/templates/mozorg/emails
 		)
