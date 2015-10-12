@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-07 17:24+0000\n"
-"PO-Revision-Date: 2015-10-03 11:14+0000\n"
-"Last-Translator: Sara Mansouri <s.mansoury@gmail.com>\n"
+"PO-Revision-Date: 2015-10-09 20:20+0000\n"
+"Last-Translator: Arash Mousavi <mousavi.arash@gmail.com>\n"
 "Language-Team: none\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1443870893.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1444422005.000000\n"
 
 #. Used as page title in HTML meta tag
 #: mozorg/plugincheck.lang:11
@@ -32,9 +32,8 @@ msgstr ""
 
 #. Old page <title> tag
 #: mozorg/plugincheck.lang:22
-#, fuzzy
 msgid "Plugin Check &amp; Updates"
-msgstr "بررسی بروزرسانی افزونه &amp;"
+msgstr "بررسی افزونه و بروزرسانی‌ها"
 
 #. This is a button telling the user to update their plugin
 #: mozorg/plugincheck.lang:27
@@ -129,15 +128,13 @@ msgid "Step 1: Click Update to update a plugin."
 msgstr "قدم ١: کلیک روی بروزرسانی برای بروزرسانی پلاگین"
 
 #: mozorg/plugincheck.lang:108
-#, fuzzy
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
-msgstr "قدم ٢: تکمیل همه بروزرسانی‌ها قبل از راه‌اندازی مجدد مرورگر."
+msgstr "قدم ٢: انجام تمام بروزرسانی‌ها قبل راه‌اندازی مجدد مرورگر."
 
 #: mozorg/plugincheck.lang:112
-#, fuzzy
 msgid "Potentially vulnerable plugins"
-msgstr "افزونه های بالقوه آسیب‌پذیر"
+msgstr "افزونه‌های بالقوه آسیب‌پذیر"
 
 #: mozorg/plugincheck.lang:116
 msgid "Plugin"
@@ -177,112 +174,126 @@ msgstr "پلاگین چیست؟"
 
 #: mozorg/plugincheck.lang:152
 msgid "Plugins power videos, animation and games"
-msgstr ""
+msgstr "پلاگین‌ها به ویدئوها، پویانمایی‌ها و بازی‌ها قدرت می‌دهند"
 
 #: mozorg/plugincheck.lang:156
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr ""
+"از طریق شرکت‌هایی خارج از فایرفاکس، مانند Adobe Systems و Apple ساخته شده‌اند"
 
 #: mozorg/plugincheck.lang:160
 msgid "Plugins don't always update automatically."
-msgstr ""
+msgstr "پلاگین‌ها معمولا بطور خودکار بروزرسانی‌ نمی‌شوند."
 
 #: mozorg/plugincheck.lang:164
 msgid "Why should I update my plugins?"
-msgstr ""
+msgstr "چرا باید پلاگین‌هایم را بروزرسانی کنم؟"
 
 #: mozorg/plugincheck.lang:168
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr ""
+"پلاگین‌های قدیمی می‌توانند در هنگام مرور در وب مشکل ایجاد کنند و وقت شما را "
+"بگیرند."
 
 #: mozorg/plugincheck.lang:172
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
 msgstr ""
+"پلاگین‌های قدیمی <strong>خطر</strong> را برای حمله برنامه‌های مخرب، ویروس‌ها و "
+"سایر تهدیدهای امنیتی افزایش می‌دهند."
 
 #: mozorg/plugincheck.lang:176
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
 msgstr ""
+"<strong>پلاگین‌های بروزرسانی شده با خود پیشرفت به همراه دارند</strong> که "
+"باعث می‌شوند وب برای شما <strong>بهتر و امن‌تر</strong> باشد."
 
 #. alt image
 #: mozorg/plugincheck.lang:181
 msgid "Screenshot of Add-Ons manager"
-msgstr ""
+msgstr "عکس‌هایی از مدیریت افزونه‌ها"
 
 #: mozorg/plugincheck.lang:185
 msgid "How can Firefox help me?"
-msgstr ""
+msgstr "چطور فایرفاکس می‌تواند به من کمک کند؟"
 
 #: mozorg/plugincheck.lang:189
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
 msgstr ""
+"در آینده، فایرفاکس پلاگین‌ها را برای شما بروزرسانی می‌کند. تا آن زمان، باید "
+"بطور مرتب این صفحه را بررسی کنید و پلاگین‌های خود را برای امن ماندن بروزرسانی "
+"کنید."
 
 #: mozorg/plugincheck.lang:193
 msgid "Which Plugins do I have?"
-msgstr ""
+msgstr "من چه پلاگین‌هایی دارم؟"
 
 #: mozorg/plugincheck.lang:197
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
 msgstr ""
+"ما بطور خودکار پلاگین‌های شما را در بالا تشخیص دادیم، برای نمایش پلاگین‌های "
+"نصب شده در فایرفاکس مراحل زیر را طی کنید:"
 
 #: mozorg/plugincheck.lang:201
 msgid "Want to spread the word?"
-msgstr ""
+msgstr "می‌خواهید همه را خبردار کنید؟"
 
 #: mozorg/plugincheck.lang:205
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
 msgstr ""
+"به دوستانتان کمک کنید تا در وب امن بمانند! از <a href=\"%(url)s\">همکاران "
+"فایرفاکس</a> دیدن کنید تا یک نشان بررسی پلاگین برای سایت خود دریافت کنید. "
 
 #: mozorg/plugincheck.lang:209
 msgid "How do I disable a plugin?"
-msgstr ""
+msgstr "چطور یک پلاگین را غیرفعال کنم؟"
 
 #: mozorg/plugincheck.lang:213
 msgid "In Firefox:"
-msgstr ""
+msgstr "در فایرفاکس:"
 
 #: mozorg/plugincheck.lang:217
 msgid "Open the Tools menu."
-msgstr ""
+msgstr "منو ابزارها را باز کنید."
 
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:223
 msgid "Open the <span class=\"menu\">menu</span>."
-msgstr ""
+msgstr "باز کردن <span class=\"menu\">منو</span>."
 
 #: mozorg/plugincheck.lang:227
 msgid "Choose Add-ons."
-msgstr ""
+msgstr "انتخاب افزونه‌ها."
 
 #: mozorg/plugincheck.lang:231
 msgid "Click the plugins tab."
-msgstr ""
+msgstr "بر روی زبانه پلاگین‌ها کلیک کنید."
 
 #: mozorg/plugincheck.lang:236
 msgid "Click on the drop down next to the plugin you wish to disable."
-msgstr ""
+msgstr "بر روی منو کنارِ پلاگینی که می‌خواهید غیرفعال کنید کلیک کنید."
 
 #: mozorg/plugincheck.lang:240
 msgid "Click on a plugin in the list."
-msgstr ""
+msgstr "بر روی یک پلاگین در فهرست کلیک کنید."
 
 #: mozorg/plugincheck.lang:245
 msgid "Select \"Never Activate\" from the available choices."
-msgstr ""
+msgstr "گزینه «هرگز فعال نشود» را انتخاب کنید."
 
 #: mozorg/plugincheck.lang:249
 msgid "Click the Disable button."
-msgstr ""
+msgstr "بر دکمه غیرفعال‌سازی کلیک کنید."
 
 #: mozorg/plugincheck.lang:253
 msgid ""
@@ -290,6 +301,9 @@ msgid ""
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on YouTube."
 msgstr ""
+"توجه: غیرفعال کردن یک پلاگین به معنی این است که دیگر نمی‌توانید کارهای مشخصی "
+"را انجام دهید. برای مثال، اگر Flash را غیرفعال کنید، دیگر نمی‌توانید ویدئوها "
+"YouTube را ببینید."
 
 #: mozorg/plugincheck.lang:258
 msgid ""
@@ -297,16 +311,20 @@ msgid ""
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on some streaming video websites."
 msgstr ""
+"توجه: غیرفعال کردن یک پلاگین به معنی این است که دیگر نمی‌توانید کارهای مشخصی "
+"را انجام دهید. برای مثال، اگر Flash را غیرفعال کنید، دیگر نمی‌توانید ویدئوها "
+"را در تعدادی از سایت‌ها ببینید."
 
 #: mozorg/plugincheck.lang:262
-#, fuzzy
 msgid "Mozilla Support"
-msgstr "پشتیبانی تلفن‌همراه"
+msgstr "پشتیبانی موزیلا"
 
 #: mozorg/plugincheck.lang:266
 msgid "Have more questions?"
-msgstr ""
+msgstr "سوالات بیشتری دارید؟"
 
 #: mozorg/plugincheck.lang:270
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
+"از <a href=\"%(sumo_url)s\">support.mozilla.org</a> برای اطلاعات بیشتر دیدن "
+"کنید!"

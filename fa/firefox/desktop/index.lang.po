@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-06 12:08+0000\n"
-"PO-Revision-Date: 2015-10-03 18:57+0000\n"
-"Last-Translator: reza habibi <reza.habibi2008@gmail.com>\n"
+"PO-Revision-Date: 2015-10-12 07:43+0000\n"
+"Last-Translator: Arash Mousavi <mousavi.arash@gmail.com>\n"
 "Language-Team: none\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1443898649.000000\n"
+"X-POOTLE-MTIME: 1444635813.000000\n"
 
 #. This is the <title> tag
 #: firefox/desktop/index.lang:9
@@ -51,7 +51,7 @@ msgstr "فایرفاکس شما بروز است."
 #. Active link to https://support.mozilla.org/products/firefox
 #: firefox/desktop/index.lang:36
 msgid "Need help with anything?"
-msgstr "نیازبه کمک دارید؟"
+msgstr "نیاز به کمک دارید؟"
 
 #: firefox/desktop/index.lang:40
 msgid "Made with a mission to put you first"
@@ -69,19 +69,19 @@ msgid ""
 "That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
 "\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
 msgstr ""
-"این علتی است که ما به این انتخاب <a href=\"%(url1)s\" data-interaction="
-"\"outbound link\">مورد اعتماد ترین کمپانی اینترنتی برای حفظ حریم شخصی</"
-"a>افتخار می کنیم."
+"به همین علت است که ما به انتخابمان به عنوان <a href=\"%(url1)s\" data-"
+"interaction=\"outbound link\">مورد اعتمادترین شرکت اینترنتی در خصوص حفظ حریم "
+"خصوصی</a> افتخار می کنیم."
 
 #: firefox/desktop/index.lang:52
 msgid "Find out what makes Firefox the most trusted browser on the Web"
 msgstr ""
-"ببینید چه چیزهایی فایرفاکس را به عنوان مورد اعتمادترین مرورگر در دنیا تبدیل "
-"کرده است"
+"ببینید چه چیزهایی فایرفاکس را به مورد اعتمادترین مرورگر در دنیا تبدیل کرده "
+"است"
 
 #: firefox/desktop/index.lang:56
 msgid "Works the way you do"
-msgstr "کارها در مسیری انجام می‌شوید که شما می‌خواهید"
+msgstr "همانطور که شما می‌خواهید کار می‌کند"
 
 #: firefox/desktop/index.lang:60
 msgid "How you use the Web is unique."
@@ -89,24 +89,23 @@ msgstr "نحوه‌ی استفاده شما از وب خاص است"
 
 #: firefox/desktop/index.lang:64
 msgid "Firefox lets you change it to match."
-msgstr ""
-"فایرفاکس این اجازه را به شما می دهد تا این را برای سازگاری بیشتر تغییر دهید."
+msgstr "فایرفاکس به شما اجازه می‌دهد تا برای سازگاری بیشتر با شما تغییرش دهید."
 
 #: firefox/desktop/index.lang:68
 msgid ""
 "Remove what you don’t use, keep what you do and put it just about anywhere "
 "you want."
 msgstr ""
-"چیزهایی را که نیاز ندارید حذف کنید،چیزهایی که انجام می دهید را نگه دارید و "
-"آن را هرجایی که نیاز دارید قرار دهید."
+"چیزهایی را که نیاز ندارید حذف کنید، و آنهایی که لازم دارید را نگه دارید و در "
+"هرجایی که می‌خواهید قرار دهید."
 
 #: firefox/desktop/index.lang:72
 msgid ""
 "Find out what makes Firefox <br class=\"wide-br\">the most flexible browser "
 "there is"
 msgstr ""
-"ببینید چه چیزهایی فایرفاکس را به عنوان <br class=\"wide-br\">منعطف ترین "
-"مرورگر دنیا تبدیل کرده است"
+"ببینید چه چیزهایی فایرفاکس را به <br class=\"wide-br\">منعطف‌ترین مرورگر دنیا "
+"تبدیل کرده است"
 
 #: firefox/desktop/index.lang:76
 msgid "Faster at what you do most"
@@ -117,7 +116,7 @@ msgid ""
 "Firefox was named the ”speed king” in independent benchmark and performance "
 "tests against other browsers."
 msgstr ""
-"فایرفاکس به عنوان سلطان سرعت در بنچمارک های مستقل و تست های کارایی در مقابل "
+"فایرفاکس به عنوان «سلطان سرعت» در بنچمارک‌های مستقل و تست‌های کارایی در مقابل "
 "مرورگرهای دیگر شناخته می شود."
 
 #: firefox/desktop/index.lang:84
@@ -125,7 +124,7 @@ msgid ""
 "* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
 "Hardware Web Browser Grand Prix XVI</a> results."
 msgstr ""
-"* بر پایه نتایج<a data-interaction=\"outbound link\" href=\"%(url1)s\">om’s "
+"* بر پایه نتایج <a data-interaction=\"outbound link\" href=\"%(url1)s\">om’s "
 "Hardware Web Browser Grand Prix XVI</a> "
 
 #: firefox/desktop/index.lang:88
@@ -134,7 +133,7 @@ msgstr "زمان را برای خود ذخیره کنید و همه چیز را 
 
 #: firefox/desktop/index.lang:92
 msgid "Find out what makes this the fastest Firefox yet"
-msgstr "آنچه که باعث می‌شود این سریع ترین فایرفاکس تا اکنون باشد"
+msgstr "آنچه که باعث می‌شود این سریع‌ترین فایرفاکس تاکنون باشد"
 
 #~ msgid "FAQ"
 #~ msgstr "پرسش‌های متداول"
