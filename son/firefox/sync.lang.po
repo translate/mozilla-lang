@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-10 11:09+0000\n"
-"PO-Revision-Date: 2015-06-10 12:03+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2015-10-13 09:43+0000\n"
+"Last-Translator: Mohomodou  Houssouba <mh@bollag-areal.ch>\n"
 "Language-Team: none\n"
 "Language: son\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1433937806.000000\n"
+"X-POOTLE-MTIME: 1444729436.000000\n"
 
 #: firefox/sync.lang:8
 msgid "Keep your Firefox in sync"
@@ -48,6 +48,8 @@ msgid ""
 "Sync your bookmarks, passwords, tabs and more using your Firefox Account, "
 "and access them everywhere you’re signed in."
 msgstr ""
+"War doo-šilbawey, šennikufaley, kanjey nda haya taney hangandi cere ka goy "
+"nda war Firefox kontoo nda duu w'ey nungu kul kaŋ war huru ra. "
 
 #: firefox/sync.lang:33
 msgid "It looks like you’re running an older version of Firefox."
@@ -98,15 +100,14 @@ msgstr "Wa šintin nda Sync fondo faala taaci ra:"
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 #: firefox/sync.lang:78
-#, fuzzy
 msgid ""
 "Open the <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
 "href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of Firefox and "
 "select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
-"<a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">Silbayboŋ</a> "
-"feeri Firefox beene kanbe guma lokoo ra nda “<strong>Huru Sync ra</strong>” "
-"suba."
+"<a class=\"menu ga-link\" data-interaction=\"outbound link click\" href="
+"\"%(url)s#w_a-handy-new-menu\">Silbayboŋ</a> feeri Firefox beene kanbe guma "
+"kanjoo ra nda “<strong>Huru Sync ra</strong>” suba."
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:83
@@ -214,10 +215,13 @@ msgid ""
 "Want to visit your computer’s open tabs from another device? Access your "
 "browsing history on the go? Keep your passwords with you? Now you can."
 msgstr ""
+"Ga baa ka war ordinateroo kanje feerantey guna jinay tana foo ga? War "
+"ceeciyan taarikoo caw fondaa ra? War šennikufaley ma cindi war kanbe? Wey "
+"kul ga tee sohõ."
 
 #: firefox/sync.lang:159
 msgid "Here’s what you can sync:"
-msgstr ""
+msgstr "Wey no war ga hin k'i hangandi cere:"
 
 #: firefox/sync.lang:164
 msgid "Bookmarks"
@@ -225,11 +229,11 @@ msgstr "Doo-šilbawey"
 
 #: firefox/sync.lang:169
 msgid "Passwords"
-msgstr ""
+msgstr "Šennikufaley"
 
 #: firefox/sync.lang:174
 msgid "Open tabs"
-msgstr ""
+msgstr "Kanje feerantey"
 
 #: firefox/sync.lang:179
 msgid "History"
@@ -278,18 +282,19 @@ msgstr ""
 
 #: firefox/sync.lang:208
 msgid "Add Firefox to your smartphone or tablet"
-msgstr ""
+msgstr "Firefox tonton war talfon carmaa wala walhaa ga"
 
 #: firefox/sync.lang:213
 msgid ""
 "To get the full Sync experience, get Firefox for iOS or Android and connect "
 "all your devices — everywhere and anywhere you use Firefox."
 msgstr ""
+"Ka duu Sync fellaa, wa Firefox zaa iOS wala Android se nda ciya nda war "
+"jinawey kul — ganda nda nungu kul kaŋ ra war ga goy nda Firefox."
 
 #: firefox/sync.lang:218
-#, fuzzy
 msgid "Add Firefox"
-msgstr "Firefox žeena"
+msgstr "Firefox tonton"
 
 #: firefox/sync.lang:222
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
