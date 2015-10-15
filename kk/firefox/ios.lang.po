@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-07 06:30+0000\n"
-"PO-Revision-Date: 2015-10-15 09:17+0000\n"
+"PO-Revision-Date: 2015-10-15 09:22+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: none\n"
 "Language: kk\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1444900648.000000\n"
+"X-POOTLE-MTIME: 1444900963.000000\n"
 
 #. Title of the page (HTML meta)
 #: firefox/ios.lang:7
@@ -67,6 +67,8 @@ msgid ""
 "Sign in to your Firefox Account to access your browsing info on all your "
 "mobile devices."
 msgstr ""
+"Firefox тіркелгіңізге кіріп, шолу ақпаратыңызға барлық мобильді "
+"құрылғыларыңыздан қол жеткізіңіз."
 
 #: firefox/ios.lang:51
 msgid "History"
@@ -74,19 +76,19 @@ msgstr "Тарихы"
 
 #: firefox/ios.lang:55
 msgid "Passwords"
-msgstr ""
+msgstr "Парольдер"
 
 #: firefox/ios.lang:59
 msgid "Open tabs"
-msgstr ""
+msgstr "Ашық беттер"
 
 #: firefox/ios.lang:64
 msgid "Bookmarks"
-msgstr ""
+msgstr "Бетбелгілер"
 
 #: firefox/ios.lang:69
 msgid "Reading List"
-msgstr ""
+msgstr "Оқу тізімі"
 
 #: firefox/ios.lang:73
 msgid "Get started with Sync"
@@ -94,15 +96,15 @@ msgstr "Sync-пен жұмысты бастау"
 
 #: firefox/ios.lang:77
 msgid "Already have an account?"
-msgstr ""
+msgstr "Тіркелгіңіз бар ма?"
 
 #: firefox/ios.lang:81
 msgid "Sign in"
-msgstr ""
+msgstr "Кіру"
 
 #: firefox/ios.lang:85
 msgid "You’re already signed in!"
-msgstr ""
+msgstr "Сіз кіріп қойғансыз!"
 
 #: firefox/ios.lang:89
 msgid "Learn more about Sync"
@@ -110,18 +112,21 @@ msgstr "Sync туралы көбірек біліңіз"
 
 #: firefox/ios.lang:93
 msgid "Send Firefox to your iOS device"
-msgstr ""
+msgstr "Firefox-ты өз iOS құрылғыңызға жіберу"
 
 #: firefox/ios.lang:97
 msgid "Sync your Firefox browsing history on iOS"
-msgstr ""
+msgstr "Firefox шолу тарихын iOS-та синхрондау"
 
 #. The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
 #: firefox/ios.lang:102
+#, fuzzy
 msgid ""
 "First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
 "using Sync."
 msgstr ""
+"Алдымен <b>бет</b> батырмасын шертіңіз. Одан кейін, синхрондауды бастау үшін "
+"%(gear_icon)s таңбашасын шертіңіз."
 
 #: firefox/ios.lang:106
 msgid "Not now"
@@ -129,7 +134,7 @@ msgstr "Қазір емес"
 
 #: firefox/ios.lang:110
 msgid "Learn more in the App Store"
-msgstr ""
+msgstr "App Store ішінен көбірек білу"
 
 #: firefox/ios.lang:115
 msgid "Keep your private info private"
