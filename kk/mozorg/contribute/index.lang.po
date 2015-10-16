@@ -11,7 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1441703935.000000\n"
 
 #. Used for HTML title attribute
@@ -53,23 +53,27 @@ msgid "I live in&hellip;"
 msgstr ""
 
 #: mozorg/contribute/index.lang:43
+#, fuzzy
 msgid "Volunteer with Mozilla!"
-msgstr ""
+msgstr "Mozilla-мен бірге<br>волонтер болыңыз"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:48
+#, fuzzy
 msgid "active Mozillians worldwide"
-msgstr ""
+msgstr "белсенді Mozilla мүшесі <br>дүние жүзі бойынша"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:53
+#, fuzzy
 msgid "upcoming events around the globe"
-msgstr ""
+msgstr "келешек оқиға <br>дүние жүзі бойынша"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 #: mozorg/contribute/index.lang:58
+#, fuzzy
 msgid "languages and counting, on every continent"
-msgstr ""
+msgstr "тіл бар, және саны өсіп жатыр, <br>әр континентте"
 
 #: mozorg/contribute/index.lang:62
 msgid "Join a global community of game-changers."
@@ -165,7 +169,7 @@ msgstr ""
 
 #: mozorg/contribute/index.lang:149
 msgid "Donate to Mozilla"
-msgstr ""
+msgstr "Mozilla-ға ақшалай көмектесу"
 
 #: mozorg/contribute/index.lang:153
 msgid "Read our Manifesto"
@@ -180,12 +184,13 @@ msgid "Follow us on Twitter"
 msgstr ""
 
 #: mozorg/contribute/index.lang:165
+#, fuzzy
 msgid "Upcoming event"
-msgstr ""
+msgstr "Келешек оқиғалар"
 
 #: mozorg/contribute/index.lang:169
 msgid "See all events"
-msgstr ""
+msgstr "Барлық оқиғаларды қарау"
 
 #: mozorg/contribute/index.lang:173
 msgid "Communicate"
@@ -414,10 +419,13 @@ msgid "(Optional)"
 msgstr ""
 
 #: mozorg/contribute/index.lang:382
+#, fuzzy
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%(privacy)s"
 "\">this Privacy Policy</a>"
 msgstr ""
+"Мен Mozilla менің жеке ақпаратымды <a href=\"%s\">Жекелік саясаты</a> "
+"шарттарына сай қолданатынымен келісемін"
 
 #: mozorg/contribute/index.lang:386
 msgid "Start contributing"
@@ -770,8 +778,9 @@ msgid "I need help with a Firefox issue"
 msgstr ""
 
 #: mozorg/contribute/index.lang:717
+#, fuzzy
 msgid "Please enter a valid email address."
-msgstr ""
+msgstr "Эл. пошта адресін енгізіңіз."
 
 #: mozorg/contribute/index.lang:721
 msgid "You must agree to the privacy policy."
