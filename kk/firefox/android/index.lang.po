@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-02 16:30+0000\n"
-"PO-Revision-Date: 2015-10-16 05:58+0000\n"
+"PO-Revision-Date: 2015-10-16 09:29+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1444975094.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1444987744.000000\n"
 
 #. Used in HTML as page title
 #: firefox/android/index.lang:8
@@ -83,6 +83,9 @@ msgid ""
 "The most adaptive way to share anything, Quick Share remembers your most "
 "recently used apps to help you get the word out just the way you want."
 msgstr ""
+"Кез-келген нәрсемен бөлісудің ең икемді жолы, жылдам бөлісу, ақпаратпен сіз "
+"қалайтын тәсілмен бөлісуге көмектесу үшін, жуырда қолданылған қолданбаларды "
+"есте сақтайды."
 
 #: firefox/android/index.lang:63
 msgid "See how it works"
@@ -90,23 +93,27 @@ msgstr "Бұл қалай жұмыс жасайтынын қарау"
 
 #: firefox/android/index.lang:67
 msgid "All your faves, front and center"
-msgstr ""
+msgstr "Таңдамалыларыңыз көз алдында"
 
 #: firefox/android/index.lang:71
 msgid ""
 "Customize your Home panels with any Web content you want and access your "
 "favorite feeds &mdash; like Instagram and Pocket Hits &mdash; instantly."
 msgstr ""
+"Үй панельдерін өзіңіз қалайтын веб құраманы көрсететіндей баптап, Instagram "
+"және Pocket Hits сияқты таңдамалы арналарға қол жеткізіңіз."
 
 #: firefox/android/index.lang:75
 msgid "A touch more personal"
-msgstr ""
+msgstr "Икемді жекешелендіру"
 
 #: firefox/android/index.lang:79
 msgid ""
 "Display your Home panels in any order you like or add, hide and delete them "
 "as you see fit to keep your favorites one touch away."
 msgstr ""
+"Таңдамалыларыңызды бір шерту қашықтығында ұстау үшін, үй панельдерін өзіңіз "
+"қалайтын ретпен сұрыптап, қосып, жасырып не өшіруге болады."
 
 #: firefox/android/index.lang:83
 msgid "Learn more"
@@ -160,6 +167,8 @@ msgid ""
 "Change your browser language quickly and easily, without having to change "
 "the settings for your entire device or even restart your browser."
 msgstr ""
+"Құрылғы баптауларын өзгертпей, және, тіпті браузерді қайта іске қоспай-ақ, "
+"браузер тілін жылдам әрі оңай түрде өзгертіңіз."
 
 #: firefox/android/index.lang:134
 msgid "Take it to the big screen"
@@ -226,28 +235,35 @@ msgid ""
 "Share your browser with friends and family without worrying that you’ll see "
 "each other’s online activity."
 msgstr ""
+"Интернеттегі бір-бірінің әрекеттерін көретінінен қорықпай, өз браузеріңізбен "
+"достар және отбасыңызбен бөлісіңіз."
 
 #: firefox/android/index.lang:194
 msgid "Learn how to share your browser"
-msgstr ""
+msgstr "Браузермен бөлісуді үйрену"
 
 #: firefox/android/index.lang:198
 msgid "See how Guest Browsing works"
-msgstr ""
+msgstr "Қонақ шолу қалай жұмыс істейтінін қарау"
 
 #: firefox/android/index.lang:202
 msgid "Don’t leave home without being in Sync"
-msgstr ""
+msgstr "Синхрондауды баптамағанша, үйден шықпаңыз"
 
 #: firefox/android/index.lang:206
 msgid "Bring your passwords, bookmarks, open tabs and more everywhere you go."
 msgstr ""
+"Парольдер, бетбелгілер, ашық беттер және т.б. қайда барсаңыз да, өзіңізбен "
+"бірге ұстаңыз."
 
 #: firefox/android/index.lang:210
 msgid ""
 "Use Sync on your smartphone or tablet to access whatever you need from your "
 "desktop &mdash; and vice versa &mdash; without having to remember URLs."
 msgstr ""
+"Смартфон не планшетте синхрондауды жұмыс үстелінен алу керек нәрсеге қол "
+"жеткізу үшін қолданыңыз (және кері ретпен) &mdash; ол үшін сілтемелерді есте "
+"сақтау керек емес."
 
 #: firefox/android/index.lang:214
 msgid "Learn more about Sync"
@@ -276,6 +292,8 @@ msgid ""
 "Enable this Firefox innovation to help you stay in control of how your "
 "browsing information is collected and used online."
 msgstr ""
+"Шолу деректеріңіз жиналу және онлайн қолданылуды басқарудан қол үзбеу үшін "
+"бұл Firefox инновациясын іске қосыңыз."
 
 #. Obsolete string, will be removed after the Firefox 42 campaign
 #: firefox/android/index.lang:241
@@ -289,13 +307,12 @@ msgstr "Жекелік шолу"
 
 #. Obsolete string, do not remove
 #: firefox/android/index.lang:251
-#, fuzzy
 msgid ""
 "When activated, Firefox for Android won’t accept cookies, remember passwords "
 "or record any sites that you’ve visited."
 msgstr ""
-"Белсендірілген кезде, iOS үшін Firefox cookies қабылдамай, парольдерді және "
-"сіз қараған ешбір сайт адресін сақтамайды."
+"Белсендірілген кезде, Android үшін Firefox cookies қабылдамай, парольдерді "
+"және сіз қараған ешбір сайт адресін сақтамайды."
 
 #. Obsolete string, do not remove
 #: firefox/android/index.lang:256
@@ -305,7 +322,7 @@ msgstr "Жекелік шолу терезесін қалай ашуға бол�
 #. Obsolete string, do not remove
 #: firefox/android/index.lang:262
 msgid "See how Private Browsing works"
-msgstr ""
+msgstr "Жекелік шолу қалай жұмыс істейтінін қарау"
 
 #~ msgid "Get Firefox OS"
 #~ msgstr "Firefox OS алу"
