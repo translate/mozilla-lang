@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-07 17:24+0000\n"
-"PO-Revision-Date: 2015-10-16 08:40+0000\n"
+"PO-Revision-Date: 2015-10-16 12:54+0000\n"
 "Last-Translator: Bjørn I. Svindseth <bjorn.svindseth@online.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nn_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1444984827.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1445000052.000000\n"
 
 #. Used as page title in HTML meta tag
 #: mozorg/plugincheck.lang:11
@@ -110,25 +110,31 @@ msgid ""
 "No plugins were found. If you believe this is an error, <a href="
 "\"%(bugzilla_url)s\">please file a bug</a> and let us know."
 msgstr ""
+"Ingen programtillegg vart funne. Om du meinar at dette er feil, <a href="
+"\"%(bugzilla_url)s\">senda ein feilrapport</a> og gjera oss merksame på det."
 
 #: mozorg/plugincheck.lang:100
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
 msgstr ""
+"Programtillegg-kontrollen si <strong>støtte for Internet Explorer er "
+"avgrensa</strong>. Prøv også Verkty &gt; Administrer tillegg."
 
 #: mozorg/plugincheck.lang:104
 msgid "Step 1: Click Update to update a plugin."
-msgstr ""
+msgstr "Steg 1: Trykk Oppdater for å oppdatera eit programtillegg."
 
 #: mozorg/plugincheck.lang:108
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
+"Steg 2: Fullfør alle tilrådde oppdateringar før du startar nettlesaren på "
+"nytt."
 
 #: mozorg/plugincheck.lang:112
 msgid "Potentially vulnerable plugins"
-msgstr ""
+msgstr "Potensielle utsette programtillegg"
 
 #: mozorg/plugincheck.lang:116
 msgid "Plugin"
@@ -168,16 +174,16 @@ msgstr "Kva er eit programtillegg?"
 
 #: mozorg/plugincheck.lang:152
 msgid "Plugins power videos, animation and games"
-msgstr ""
+msgstr "Programtillegg vert brukte for å visa videoar, animasjonar og spel."
 
 #: mozorg/plugincheck.lang:156
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
-msgstr ""
+msgstr "Dei er bygde utanfor Firefox av selskap som Adobe Systems og Apple"
 
 #: mozorg/plugincheck.lang:160
 msgid "Plugins don't always update automatically."
-msgstr ""
+msgstr "Programtillegg vil ikkje alltid oppdatera seg automatisk."
 
 #: mozorg/plugincheck.lang:164
 msgid "Why should I update my plugins?"
@@ -233,13 +239,15 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:201
 msgid "Want to spread the word?"
-msgstr ""
+msgstr "Vil du spreia bodskapen vår?"
 
 #: mozorg/plugincheck.lang:205
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
 msgstr ""
+"Hjelp venane dine med å vera trygge på nettet! Gå til <a href=\"%(url)s"
+"\">Firefox Affiliates</a> for å få en plugin check-banner på nettsteaden din."
 
 #: mozorg/plugincheck.lang:209
 msgid "How do I disable a plugin?"
@@ -256,7 +264,7 @@ msgstr "Opna verktøymenyen."
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:223
 msgid "Open the <span class=\"menu\">menu</span>."
-msgstr ""
+msgstr "Opna <span class=\"menu\">menyen</span>."
 
 #: mozorg/plugincheck.lang:227
 msgid "Choose Add-ons."
@@ -264,19 +272,19 @@ msgstr "Vel utvidingar."
 
 #: mozorg/plugincheck.lang:231
 msgid "Click the plugins tab."
-msgstr ""
+msgstr "Trykk på Programtillegg-fana."
 
 #: mozorg/plugincheck.lang:236
 msgid "Click on the drop down next to the plugin you wish to disable."
-msgstr ""
+msgstr "Trykk på nedtrekkslista ved sidan av utvidinga du vil slå av."
 
 #: mozorg/plugincheck.lang:240
 msgid "Click on a plugin in the list."
-msgstr ""
+msgstr "Trykk på eit programtillegg i lista."
 
 #: mozorg/plugincheck.lang:245
 msgid "Select \"Never Activate\" from the available choices."
-msgstr ""
+msgstr "Vel «Aktiver aldri» frå tilgjengelege val."
 
 #: mozorg/plugincheck.lang:249
 msgid "Click the Disable button."
@@ -293,15 +301,14 @@ msgstr ""
 "på YouTube."
 
 #: mozorg/plugincheck.lang:258
-#, fuzzy
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on some streaming video websites."
 msgstr ""
-"Åtvaring: Ved å slå av ei utviding vil det vera enkelte ting du ikkje lenger "
-"kan gjera. Til dømes dersom du slår av Flash, vil du ikkje kunna sjå videoar "
-"på YouTube."
+"Åtvaring: Om du slår av ei utviding vil det vera enkelte ting du ikkje "
+"lenger kan gjera. Til dømes dersom du slår av Flash, vil du ikkje kunne sjå "
+"videoar på populære videonettstadar."
 
 #: mozorg/plugincheck.lang:262
 msgid "Mozilla Support"
