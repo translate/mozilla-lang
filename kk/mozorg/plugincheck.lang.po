@@ -4,20 +4,20 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-07 17:24+0000\n"
-"PO-Revision-Date: 2015-10-13 09:45+0000\n"
+"PO-Revision-Date: 2015-10-19 08:57+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: none\n"
 "Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1444729542.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1445245062.000000\n"
 
 #. Used as page title in HTML meta tag
 #: mozorg/plugincheck.lang:11
 msgid "Keep your Firefox healthy with a quick checkup"
-msgstr ""
+msgstr "Firefox-ты жылдам тексерумен жақсы күйде сақтаңыз"
 
 #. Used as page description in HTML meta tag
 #: mozorg/plugincheck.lang:17
@@ -25,6 +25,9 @@ msgid ""
 "Use Flash? QuickTime? Java? If you use these to make your Firefox experience "
 "more awesome, check your plugins! They may need to be updated."
 msgstr ""
+"Flash, QuickTime не Java қолданасыз ба? Оларды Firefox жұмысын жақсарту үшін "
+"қолданатын болсаңыз, плагиндеріңізді тексеріңіз! Оларды жаңарту керек болуы "
+"мүмкін."
 
 #. Old page <title> tag
 #: mozorg/plugincheck.lang:22
@@ -69,7 +72,7 @@ msgstr "осал"
 #. This is the string used to indicate that the plugin is outdated
 #: mozorg/plugincheck.lang:63
 msgid "outdated"
-msgstr ""
+msgstr "ескірген"
 
 #. Main title
 #: mozorg/plugincheck.lang:68
@@ -85,6 +88,8 @@ msgstr ""
 #: mozorg/plugincheck.lang:77
 msgid "Currently the plugin check service is only available to Firefox users."
 msgstr ""
+"Ағымдағы уақытта плагиндерді тексеру қызметі тек Firefox пайдаланушылары "
+"үшін қолжетерлік."
 
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 #: mozorg/plugincheck.lang:83
@@ -92,6 +97,8 @@ msgid ""
 "Plugins don’t always update automatically. Check yours now to stay safe and "
 "browse without interruption!"
 msgstr ""
+"Плагиндер әрқашан да автоматты түрде жаңартылмайды. Қауіпсіз қалу және "
+"үзіліссіз шолу үшін өз плагиндерді тексеріңіз!"
 
 #: mozorg/plugincheck.lang:87
 msgid "Looks like you’re using an older version of Firefox."
@@ -268,7 +275,7 @@ msgstr "Саймандар мәзірін ашу."
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 #: mozorg/plugincheck.lang:223
 msgid "Open the <span class=\"menu\">menu</span>."
-msgstr ""
+msgstr "<span class=\"menu\">Мәзірді</span> ашыңыз."
 
 #: mozorg/plugincheck.lang:227
 msgid "Choose Add-ons."
@@ -280,7 +287,7 @@ msgstr "Плагиндер бетін шертіңіз."
 
 #: mozorg/plugincheck.lang:236
 msgid "Click on the drop down next to the plugin you wish to disable."
-msgstr ""
+msgstr "Сөндіргіңіз келетін плагиннің қасындағы ашылмалы мәзірге шертіңіз."
 
 #: mozorg/plugincheck.lang:240
 msgid "Click on a plugin in the list."
@@ -288,7 +295,7 @@ msgstr "Тізімнен плагинді таңдаңыз."
 
 #: mozorg/plugincheck.lang:245
 msgid "Select \"Never Activate\" from the available choices."
-msgstr ""
+msgstr "Қолжетерлік таңдаулардан \"Ешқашан белсендірмеу\" таңдаңыз."
 
 #: mozorg/plugincheck.lang:249
 msgid "Click the Disable button."
@@ -305,15 +312,14 @@ msgstr ""
 "алмайтын боласыз."
 
 #: mozorg/plugincheck.lang:258
-#, fuzzy
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on some streaming video websites."
 msgstr ""
-"Назар аударыңыз: плагиндерді сөндіру нәтижесінде кейбір әрекеттерді орындай "
-"алмайтын боласыз. Мысалы, Flash сөндірсеңіз, YouTube видеоларын көре "
-"алмайтын боласыз."
+"Назар аударыңыз: плагинді сөндіру нәтижесінде кейбір әрекеттерді орындай "
+"алмайтын боласыз. Мысалы, Flash сөндірсеңіз, кейбір ағындық видео "
+"сайттарынан видеоларды көре алмайтын боласыз."
 
 #: mozorg/plugincheck.lang:262
 msgid "Mozilla Support"
