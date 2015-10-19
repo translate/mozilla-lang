@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-10 11:09+0000\n"
-"PO-Revision-Date: 2015-10-16 06:08+0000\n"
+"PO-Revision-Date: 2015-10-19 01:15+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1444975683.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1445217308.000000\n"
 
 #: firefox/sync.lang:8
 msgid "Keep your Firefox in sync"
@@ -26,6 +26,8 @@ msgstr "Дайындал, назар аудар, синхронда"
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
 msgstr ""
+"Сіз кірдіңіз және <em>өз</em> Firefox-қа қайдан болса да, қашан болса да, "
+"қол жеткізуге дайынсыз."
 
 #: firefox/sync.lang:20
 msgid "Take your Web with you"
@@ -36,40 +38,47 @@ msgid ""
 "Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
 "and more from any smartphone, tablet or computer."
 msgstr ""
+"Кез-келген смартфон, планшет не компьютерден сіздің бетбелгілер, парольдер, "
+"беттерге және т.б. қатынау үшін Firefox-ты қолданған кезде оны синхрондаңыз,"
 
 #: firefox/sync.lang:29
 msgid ""
 "Sync your bookmarks, passwords, tabs and more using your Firefox Account, "
 "and access them everywhere you’re signed in."
 msgstr ""
+"Firefox тіркелгісі көмегімен өз бетбелгілер, парольдер, беттер және т.б. "
+"синхрондаңыз, және қай жерден кірсеңіз де, олар қолжетерлік болады."
 
 #: firefox/sync.lang:33
 msgid "It looks like you’re running an older version of Firefox."
-msgstr ""
+msgstr "Сіз Firefox-тың ескілеу нұсқасын қолданатын сияқтысыз."
 
 #: firefox/sync.lang:37
 msgid "The new version of Sync only works with the latest version of Firefox"
-msgstr ""
+msgstr "Синхрондаудың жаңа нұсқасы тек Firefox-тың соңғы нұсқасымен жасайды"
 
 #: firefox/sync.lang:42
 msgid "Soon you’ll be able to use Sync on your iOS device"
-msgstr ""
+msgstr "Жақын арада iOS құрылғыңызда да синхрондау жұмыс істейтін болады"
 
 #: firefox/sync.lang:46
 msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
 "Discover them all!"
 msgstr ""
+"Firefox ішінде келетін синхрондау - тек оның көптеген тамаша мүмкіндіктердің "
+"біреуі ғана. Оларды барлығымен таныс болыңыз!"
 
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 #: firefox/sync.lang:52
 msgid "Sync is just one of the great features you’ll only get with Firefox."
 msgstr ""
+"Firefox ішінде келетін синхрондау - тек оның көптеген тамаша мүмкіндіктердің "
+"біреуі ғана."
 
 #: firefox/sync.lang:56
-#, fuzzy
 msgid "Download Firefox for Android"
-msgstr "Android үшін Beta жүктеп алыңыз"
+msgstr "Android үшін Firefox-ты жүктеп алыңыз"
 
 #: firefox/sync.lang:60
 msgid "Get started with Sync"
@@ -85,7 +94,7 @@ msgstr "Firefox-ты жүктеп алу"
 
 #: firefox/sync.lang:72
 msgid "Get started with Sync in four easy steps:"
-msgstr ""
+msgstr "Синхрондаумен төрт оңай қадамда жұмысты бастаңыз:"
 
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
@@ -95,6 +104,9 @@ msgid ""
 "href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of Firefox and "
 "select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
+"Firefox-тың жоғарғы оң жағындағы <a class=\"menu ga-link\" data-interaction="
+"\"outbound link click\" href=\"%(url)s#w_a-handy-new-menu\">мәзірді</a> "
+"ашып, \"<strong>Синхрондауға кіру</strong>\" таңдаңыз"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:83
