@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-11-04 10:38+0000\n"
-"PO-Revision-Date: 2015-09-08 09:11+0000\n"
+"PO-Revision-Date: 2015-11-04 15:03+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1441703478.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1446649433.000000\n"
 
 #. Page Title and part of <title> tag
 #: firefox/push.lang:8
@@ -36,6 +36,9 @@ msgid ""
 "that can appear on screen or update the web page. You can control how these "
 "notifications appear and work."
 msgstr ""
+"Gall gwefannau rydych yn eu defnyddio gyda Firefox anfon hysbysiadau atoch "
+"yn y cefndir sy'n gallu ymddangos ar y sgrin neu ddiweddaru tudalen gwe. "
+"Gallwch reoli sut mae'r hysbysiadau hyn yn ymddangos a gweithio."
 
 #: firefox/push.lang:27
 msgid "What is Push?"
@@ -192,21 +195,21 @@ msgstr "I rwystro gwefan rhag anfon negeseuon gwthio:"
 
 #: firefox/push.lang:124
 msgid "Navigate to <em>Preferences/Options</em>"
-msgstr ""
+msgstr "Ewch i <em>Dewisiadau/Dewis</em>"
 
 #: firefox/push.lang:129
 msgid ""
 "Click on <em>Content</em> and under Notifications, select <em>Choose…</em>"
 msgstr ""
+"Cliciwch ar <em>Cynnwys</em> ac o dan Hysbysiadau dewiswch <em>Dewis…</em>"
 
 #: firefox/push.lang:133
-#, fuzzy
 msgid "Select the site."
 msgstr "Dewis y wefan."
 
 #: firefox/push.lang:138
 msgid "Select <strong>Remove Site</strong>."
-msgstr ""
+msgstr "Dewiswch <strong>Tynnu Gwefan</strong>"
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:143
@@ -221,7 +224,7 @@ msgstr ""
 
 #: firefox/push.lang:153
 msgid "How do I disable Push?"
-msgstr ""
+msgstr "Sut fedra i analluogi Gwthio?"
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:158
@@ -243,13 +246,15 @@ msgstr "Os hoffech chi ddiffodd y nodwedd yn llwyr, dilynwch y camau canlynol:"
 
 #: firefox/push.lang:175
 msgid "Select <strong>Remove All Sites</strong>."
-msgstr ""
+msgstr "Dewiswch <strong>Tynnu Pob Gwefan</strong>."
 
 #: firefox/push.lang:180
 msgid ""
 "Websites will not be able to send you messages and will need to ask your "
 "permission to send them in the future."
 msgstr ""
+"Ni fydd gwefannau'n gallu anfon negeseuon atoch a bydd angen iddyn nhw ofyn "
+"am eich caniatâd i'w hanfon yn y dyfodol."
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:185
@@ -266,7 +271,6 @@ msgstr ""
 "gwefannau yn gallu anfon negeseuon atoch na gofyn am fynediad i Gwthio."
 
 #: firefox/push.lang:195
-#, fuzzy
 msgid "What’s New?"
 msgstr "Be sy'n Newydd"
 
@@ -275,6 +279,8 @@ msgid ""
 "Firefox has delivered on-screen notifications to open web pages for the last "
 "several releases."
 msgstr ""
+"Mae Firefox wedi darparu hysbysiadau ar-sgrin i dudalennau gwe agored ers "
+"sawl fersiwn diweddar."
 
 #: firefox/push.lang:205
 msgid ""
@@ -282,18 +288,25 @@ msgid ""
 "even if they navigate away from the site or close the tab via a mechanism "
 "called Push."
 msgstr ""
+"Gyda Firefox 44 gall ddefnyddwyr derbyn hysbysiadau sy'n gysylltiedig á'r "
+"dudalen we hyd yn oes os ydynt weddi symud i ffwrdd o'r wefan neu gau'r tab "
+"drwy beirianwaith o'r enw Gwthio."
 
 #: firefox/push.lang:210
 msgid ""
 "With Push, sites can update data in the background even without showing you "
 "a notification."
 msgstr ""
+"Gyda Gwthio, mae modd i wefannau ddiweddaru data yn y cefndir heb ddangos "
+"hysbysiad i chi."
 
 #: firefox/push.lang:215
 msgid ""
 "If you already gave permission to a site to send notifications, these sites "
 "will also be able to use this Push mechanism."
 msgstr ""
+"Os ydych eisoes wedi rhoi caniatâd i wefan i anfon hysbysiadau, bydd y "
+"gwefannau hynny hefyd yn gallu defnyddio'r peirianwaith Gwthio."
 
 #: firefox/push.lang:220
 msgid ""
@@ -301,6 +314,9 @@ msgid ""
 "Content>Notifications section in Preferences/Options or click the options in "
 "one of the notifications you receive."
 msgstr ""
+"Os hoffech chi newid dewisiadau hysbysiadau, agorwch yr adran "
+"Cynnwys>Hysbysu yn Dewisiadau/Dewis neu glicio'r dewisiadau yn un o'r "
+"hysbysiadau fyddwch yn eu derbyn."
 
 #: firefox/push.lang:224
 msgid "Will this cost me money?"
