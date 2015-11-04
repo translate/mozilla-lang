@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-08 08:28+0000\n"
+"POT-Creation-Date: 2015-11-04 07:42+0000\n"
 "PO-Revision-Date: 2015-09-13 19:59+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
@@ -13,29 +13,36 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1442174397.000000\n"
 
 #. Page Title and part of <title> tag
-#: firefox/push.lang:7
+#: firefox/push.lang:8
 msgid "Push"
 msgstr "Eksterne zdźělenja (Push)"
 
 #. Page Title and part of <title> tag
-#: firefox/push.lang:12
+#: firefox/push.lang:13
 msgid "Frequently asked questions"
 msgstr "Ceste pšašanja"
 
 #. Part of <title> tag
-#: firefox/push.lang:17
+#: firefox/push.lang:18
 msgid "Mozilla Firefox Web Browser"
 msgstr "Webwobglědowak Mozilla Firefox"
 
-#: firefox/push.lang:21
+#: firefox/push.lang:23
+msgid ""
+"Websites you use with Firefox can send you notifications in the background "
+"that can appear on screen or update the web page. You can control how these "
+"notifications appear and work."
+msgstr ""
+
+#: firefox/push.lang:27
 msgid "What is Push?"
 msgstr "Co su eksterne zdźělenja?"
 
-#: firefox/push.lang:25
+#: firefox/push.lang:31
 msgid ""
 "Push is an optional feature that allows websites to send you messages even "
 "when you aren’t visiting the site."
@@ -43,7 +50,7 @@ msgstr ""
 "Eksterne zdźělenja su opcionalna funkcija, kótaraž dowólujo websedłam, aby "
 "wam zdźělenja słali, samo ga njeby se k sedłoju woglědał."
 
-#: firefox/push.lang:29
+#: firefox/push.lang:35
 msgid ""
 "Sites can use this feature to provide you with notifications or update data "
 "in the background."
@@ -51,7 +58,7 @@ msgstr ""
 "Sedła mógu toś tu funkciju wužywaś, aby was w slězynje ze zdźělenjami abo "
 "aktualizěrowańskimi datami wobstarali."
 
-#: firefox/push.lang:33
+#: firefox/push.lang:39
 msgid ""
 "For instance, a webmail site might use Push to provide you with a "
 "notification when new messages arrive, or a weather site might use Push to "
@@ -62,22 +69,22 @@ msgstr ""
 "eksterne zdźělenja wužywaś, aby was z warnowanjami pśed tergatym wětšom "
 "wobstarało."
 
-#: firefox/push.lang:37
+#: firefox/push.lang:43
 msgid ""
 "You will only receive messages from sites for which you have granted "
 "permission."
 msgstr ""
 "Buźośo zdźělenki jano wót takich sedłow dostawaś, kótarymž sćo dowólnosć dał."
 
-#: firefox/push.lang:41
+#: firefox/push.lang:47
 msgid "How does it work?"
 msgstr "Kak to funkcioněrujo?"
 
-#: firefox/push.lang:45
+#: firefox/push.lang:51
 msgid "Firefox maintains a connection to a push service."
 msgstr "Firefox wuźaržujo zwisk k słužbje za eksterne zdźělenja."
 
-#: firefox/push.lang:49
+#: firefox/push.lang:55
 msgid ""
 "Sites that you have granted permission for Push can use the service to send "
 "you messages."
@@ -85,7 +92,7 @@ msgstr ""
 "Sedła, kótarymž sćo dowólnosć za eksterne zdźělenja dał, mógu słužbu "
 "wužywaś, aby wam zdźělenja pósłali."
 
-#: firefox/push.lang:53
+#: firefox/push.lang:59
 msgid ""
 "Firefox delivers this push message to a small piece of JavaScript called a "
 "“worker”."
@@ -93,11 +100,11 @@ msgstr ""
 "Firefox librujo toś to eksterne zdźělenje do elementa JavaScript z mjenim "
 "„worker“."
 
-#: firefox/push.lang:57
+#: firefox/push.lang:63
 msgid "The worker then processes the message."
 msgstr "Worker pśeźěłujo pótom zdźělenje."
 
-#: firefox/push.lang:61
+#: firefox/push.lang:67
 msgid ""
 "It might decide to show a visual notification or store the message for later "
 "use."
@@ -105,11 +112,11 @@ msgstr ""
 "Rozsuźijo na pśikład, lěc wizuelne zdźělenje se pokažo abo zdźělenje "
 "składujo se za pózdźejše wužywanje."
 
-#: firefox/push.lang:65
+#: firefox/push.lang:71
 msgid "What information do I share with a site?"
 msgstr "Kótare informacije źělim ze sedłom?"
 
-#: firefox/push.lang:69
+#: firefox/push.lang:75
 msgid ""
 "A site can use Push to send you a message at any time, even when you are not "
 "actively visiting it."
@@ -117,7 +124,7 @@ msgstr ""
 "Sedło móžo eksterne zdźělenja wužywaś, aby wam kuždy cas zdźělenje pósłało, "
 "samo ga njeby jo rowno woglědał."
 
-#: firefox/push.lang:73
+#: firefox/push.lang:79
 msgid ""
 "A site that sends you a message can learn your IP address if it chooses to "
 "do so; this could reveal your location."
@@ -125,11 +132,11 @@ msgstr ""
 "Sedło, kótarež sćelo wam zdźělenje, móžo wašu IP-adresu zgóniś, jolic jomu "
 "to dowólujośo; to by mógło wašo stojnišćo pśeraźiś."
 
-#: firefox/push.lang:77
+#: firefox/push.lang:83
 msgid "What information does Firefox use to provide Push?"
 msgstr "Kótare informacije Firefox wužywa, aby eksterne zdźělenja póbitował?"
 
-#: firefox/push.lang:81
+#: firefox/push.lang:87
 msgid ""
 "Firefox maintains a permanent connection to a push service in order to "
 "receive push messages."
@@ -137,7 +144,7 @@ msgstr ""
 "Firefox zdźaržyjo stawny zwisk k słužbje za eksterne zdźělenja, aby eksterne "
 "zdźělenja dostawał."
 
-#: firefox/push.lang:85
+#: firefox/push.lang:91
 msgid ""
 "On our server we store a randomized identifier for your browser, along with "
 "a randomized identifier for each site you authorize."
@@ -145,12 +152,12 @@ msgstr ""
 "Na našom serwerje składujomy pśipadne wobznamjenje za waš wobglěowak, "
 "gromaźe z pśipadnym wobznamjenim za kužde sedło, kótarež awtorizěrujośo."
 
-#: firefox/push.lang:89
+#: firefox/push.lang:95
 msgid "On Firefox for desktop, the push service is operated by Mozilla."
 msgstr ""
 "W Firefox za desktop słužba za eksterne zdźělenja wuźaržujo se pśez Mozilla."
 
-#: firefox/push.lang:93
+#: firefox/push.lang:99
 msgid ""
 "Firefox for Android uses the same <a href=\"%s\">Google Cloud Messaging</a> "
 "platform and infrastructure that your other Android applications use."
@@ -158,68 +165,109 @@ msgstr ""
 "Firefox za Android wužywa tu samsku platformu a infrastrukturu <a href=\"%s"
 "\">Google Cloud Messaging</a> ako waše druge nałoženja Android."
 
-#: firefox/push.lang:97
+#: firefox/push.lang:103
 msgid "In both cases, the push service cannot decrypt your push messages."
 msgstr ""
 "We woběma padoma njamóžo słužba za eksterne zdźělenja waše eksterne "
 "zdźělenja dešifrěrowaś."
 
-#: firefox/push.lang:101
+#: firefox/push.lang:107
 msgid ""
 "Push messages are encrypted, only your copy of Firefox can decipher them."
 msgstr ""
 "Eksterne zdźělenja su skoděrowane, jano waš Firefox móžo je dešifrěrowaś."
 
-#: firefox/push.lang:105
+#: firefox/push.lang:111
 msgid ""
 "The encrypted messages are stored on the server until they are delivered."
 msgstr "Skoděrowane zdźělenja składuju se na serwerje, až se njelibruju."
 
-#: firefox/push.lang:109
+#: firefox/push.lang:115
 msgid "How do I revoke Push permissions?"
 msgstr "Kak mógu dowólnosći za eksterne zdźělenja wótwołaś?"
 
-#: firefox/push.lang:113
+#: firefox/push.lang:119
 msgid "To stop a site from sending you push messages:"
 msgstr "Aby wy websedłoju słanje eksternych zdźělenjow zawoborał:"
 
-#: firefox/push.lang:117
-msgid "In the URL bar, type <em>about:permissions</em>."
-msgstr "Zapódajśo <em>about:permessions</em> do adresowego póla."
+#: firefox/push.lang:124
+msgid "Navigate to <em>Preferences/Options</em>"
+msgstr ""
 
-#: firefox/push.lang:121
+#: firefox/push.lang:129
+msgid ""
+"Click on <em>Content</em> and under Notifications, select <em>Choose…</em>"
+msgstr ""
+
+#: firefox/push.lang:134
+#, fuzzy
+msgctxt "./firefox/push.lang:134"
 msgid "Select the site."
 msgstr "Wubjeŕśo sedło."
 
-#: firefox/push.lang:125
+#: firefox/push.lang:139
+msgid "Select <strong>Remove Site</strong>."
+msgstr ""
+
+#. Obsolete string, do not remove
+#: firefox/push.lang:144
+msgid "In the URL bar, type <em>about:permissions</em>."
+msgstr "Zapódajśo <em>about:permessions</em> do adresowego póla."
+
+#. Obsolete string, do not remove
+#: firefox/push.lang:149
+#, fuzzy
+msgctxt "./firefox/push.lang:149"
+msgid "Select the site."
+msgstr "Wubjeŕśo sedło."
+
+#. Obsolete string, do not remove
+#: firefox/push.lang:154
 msgid "Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>."
 msgstr ""
 "Stajśo <em>Eksterne zdźělenja dostaś</em> na <strong>Pśecej se pšašaś</"
 "strong>."
 
-#: firefox/push.lang:129
+#: firefox/push.lang:159
+msgid "How do I disable Push?"
+msgstr ""
+
+#. Obsolete string, do not remove
+#: firefox/push.lang:164
 msgid "How do I disable Push permanently?"
 msgstr "Kak mógu eksterne zdźělenja na pśecej znjemóžniś?"
 
-#: firefox/push.lang:133
+#: firefox/push.lang:168
 msgid "Push is always opt-in in Firefox."
 msgstr "Musyśo eksterne zdźělenja pśecej dowóliś."
 
-#: firefox/push.lang:137
+#: firefox/push.lang:172
 msgid "A site cannot send you push messages without your permission."
 msgstr "Sedło njamóžo wam eksterne zdźělenja bźez wašeje dowólnosći słaś."
 
-#: firefox/push.lang:141
+#: firefox/push.lang:176
 msgid ""
 "If you wish to disable the feature completely, please follow these steps:"
 msgstr ""
 "Jolic cośo funkciju dopołnje znjemóžniś, slědujśo pšosym slědujucym kšacam:"
 
-#: firefox/push.lang:145
+#: firefox/push.lang:181
+msgid "Select <strong>Remove All Sites</strong>."
+msgstr ""
+
+#: firefox/push.lang:186
+msgid ""
+"Websites will not be able to send you messages and will need to ask your "
+"permission to send them in the future."
+msgstr ""
+
+#. Obsolete string, do not remove
+#: firefox/push.lang:191
 msgid "Select <em>All Sites</em>."
 msgstr "Wubjeŕśo <em>Wšykne websedła</em>."
 
-#: firefox/push.lang:149
+#. Obsolete string, do not remove
+#: firefox/push.lang:196
 msgid ""
 "Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. "
 "Websites will not be able to send you messages or ask for access to Push."
@@ -228,15 +276,52 @@ msgstr ""
 "Websedła njamógu pótom wam zdźělenja słaś abo wó dowólnosć za eksterne "
 "zdźělenja pšosyś."
 
-#: firefox/push.lang:153
+#: firefox/push.lang:201
+#, fuzzy
+msgid "What’s New?"
+msgstr "Což jo nowe"
+
+#: firefox/push.lang:206
+msgid ""
+"Firefox has delivered on-screen notifications to open web pages for the last "
+"several releases."
+msgstr ""
+
+#: firefox/push.lang:211
+msgid ""
+"With Firefox 44, users can receive notifications associated with a web page "
+"even if they navigate away from the site or close the tab via a mechanism "
+"called Push."
+msgstr ""
+
+#: firefox/push.lang:216
+msgid ""
+"With Push, sites can update data in the background even without showing you "
+"a notification."
+msgstr ""
+
+#: firefox/push.lang:221
+msgid ""
+"If you already gave permission to a site to send notifications, these sites "
+"will also be able to use this Push mechanism."
+msgstr ""
+
+#: firefox/push.lang:226
+msgid ""
+"If you wish to change notifications preferences, open the "
+"Content>Notifications section in Preferences/Options or click the options in "
+"one of the notifications you receive."
+msgstr ""
+
+#: firefox/push.lang:230
 msgid "Will this cost me money?"
 msgstr "Musym za to pjenjeze płaśiś?"
 
-#: firefox/push.lang:157
+#: firefox/push.lang:234
 msgid "Push uses a small amount of data to operate."
 msgstr "Eksterne zdźělenja trjebaju mało datow, aby funkcioněrowali."
 
-#: firefox/push.lang:161
+#: firefox/push.lang:238
 msgid ""
 "If you’re on a small data allowance, or are charged for any data usage, you "
 "may wish to monitor your usage."
@@ -245,11 +330,11 @@ msgstr ""
 "pśetrjebowanje datow pjenjeze płaśiś, cośo snaź swóju pśetrjebu we wócyma "
 "wobchowaś."
 
-#: firefox/push.lang:165
+#: firefox/push.lang:242
 msgid "How do I add Push to my web site?"
 msgstr "Kak mógu swójomu websedłoju eksterne zdźělenja pśidaś?"
 
-#: firefox/push.lang:169
+#: firefox/push.lang:246
 msgid ""
 "The <a href=\"%s\">Push API specification</a> explains how to create a "
 "Service Worker and send push messages."

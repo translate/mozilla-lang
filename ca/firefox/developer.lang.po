@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-24 12:08+0000\n"
+"POT-Creation-Date: 2015-11-04 07:42+0000\n"
 "PO-Revision-Date: 2015-04-26 19:51+0000\n"
 "Last-Translator: Josep Sanchez <papapep@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1430077914.000000\n"
 
 #. Used as page description (HTML meta tag)
-#: firefox/developer.lang:12
+#: firefox/developer.lang:8
 msgid ""
 "Built for those who build the Web. Introducing the only browser made for "
 "developers."
@@ -25,7 +25,7 @@ msgstr ""
 "als desenvolupadors."
 
 #. Used as page description from June 2nd (HTML meta tag)
-#: firefox/developer.lang:18
+#: firefox/developer.lang:13
 msgid ""
 "Built for those who build the Web. The only browser made for developers like "
 "you."
@@ -33,7 +33,7 @@ msgstr ""
 "Fet per als qui construeixen el web. L'únic navegador fet per als "
 "desenvolupadors com tu."
 
-#: firefox/developer.lang:22
+#: firefox/developer.lang:17
 msgid ""
 "Download Mozilla Firefox, a free Web browser. Firefox is created by a global "
 "non-profit dedicated to putting individuals in control online. Get Firefox "
@@ -43,20 +43,16 @@ msgstr ""
 "per una organització global sense ànim de lucre dedicada a donar el control "
 "en línia als usuaris. Baixeu el Firefox ara!"
 
-#: firefox/developer.lang:26
+#: firefox/developer.lang:21
 msgid "Built for those who build the Web"
 msgstr "Fet pels que construeixen la Web"
 
-#: firefox/developer.lang:30
-msgid "Introducing the only browser made for developers like you."
-msgstr "Us presentem l'únic navegador fet per a desenvolupadors com tu."
-
-#: firefox/developer.lang:35
+#: firefox/developer.lang:25
 msgid "The only browser made for developers like you."
 msgstr "L'únic navegador fet per a desenvolupadors com tu."
 
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
-#: firefox/developer.lang:41
+#: firefox/developer.lang:30
 msgid ""
 "Design, build and debug the Web without ever leaving your browser with the "
 "new Firefox Developer Edition!"
@@ -64,16 +60,16 @@ msgstr ""
 "Dissenyeu, construïu i depureu el web sense sortir del navegador amb el nou "
 "Firefox Developer Edition!"
 
-#: firefox/developer.lang:46
+#: firefox/developer.lang:34
 msgid "Firefox Developer Edition automatically sends feedback to Mozilla."
 msgstr ""
 "El Firefox Developer Edition envia retroacció de forma automàtica a Mozilla."
 
-#: firefox/developer.lang:50
+#: firefox/developer.lang:38
 msgid "Designed for developers"
 msgstr "Dissenyat per als desenvolupadors"
 
-#: firefox/developer.lang:54
+#: firefox/developer.lang:42
 msgid ""
 "The only browser made just for developers, Firefox Developer Edition was "
 "created with your workflow in mind. Build, test, scale and more all from one "
@@ -83,11 +79,11 @@ msgstr ""
 "s'ha creat amb el vostre flux de treball en ment. Per primer cop, tot al "
 "mateix lloc: crear, provar, escalar i més."
 
-#: firefox/developer.lang:58
+#: firefox/developer.lang:46
 msgid "Debug any browser"
 msgstr "Depureu qualsevol navegador"
 
-#: firefox/developer.lang:62
+#: firefox/developer.lang:50
 msgid ""
 "Inspect and debug your app across any browser or device with Valence — a "
 "powerful, pre-installed extension that you’ll only find in Firefox Developer "
@@ -97,11 +93,11 @@ msgstr ""
 "el Valence, un complement que només trobareu inclòs al Firefox Developer "
 "Edition."
 
-#: firefox/developer.lang:66
+#: firefox/developer.lang:54
 msgid "Pixel-perfect coding"
 msgstr "Programació perfecta fins al píxel"
 
-#: firefox/developer.lang:70
+#: firefox/developer.lang:58
 msgid ""
 "Target screen sizes with the Responsive Design View and tweak your CSS on "
 "the fly with the built-in Style Editor for pixel-perfect coding."
@@ -110,11 +106,11 @@ msgstr ""
 "el CSS sobre la marxa amb l'editor d'estils inclòs per a programar fins al "
 "píxel."
 
-#: firefox/developer.lang:74
+#: firefox/developer.lang:62
 msgid "All your favorite dev tools and more"
 msgstr "Totes les vostres eines de desenvolupament preferides"
 
-#: firefox/developer.lang:78
+#: firefox/developer.lang:66
 msgid ""
 "Firefox Developer Edition brings your core dev tools together with some "
 "powerful new ones that will extend your ability to work across multiple "
@@ -126,32 +122,44 @@ msgstr ""
 "a moltes plataformes des d'un sol lloc. El que ja coneixeu, però millor. "
 "Exclusivament amb el Firefox."
 
-#: firefox/developer.lang:82
+#: firefox/developer.lang:70
 msgid "Screenshot"
 msgstr "Captura de pantalla"
 
-#: firefox/developer.lang:87
-msgid "WebVR"
-msgstr "WebVR"
-
-#: firefox/developer.lang:92
-msgid ""
-"Build immersive multi-platform, cross-device Web VR experiences using the "
-"technologies that you know &mdash; JavaScript, WebGL, Three.js and more."
+#: firefox/developer.lang:75
+msgid "Visual Editing Tools"
 msgstr ""
-"Creeu experiències immersives Web VR multi-plataforma entre dispositius "
-"usant tecnologies que coneixeu &mdash; JavaScript, WebGL, Three.js i "
-"d'altres."
 
-#: firefox/developer.lang:97
-msgid "Learn more about WebVR"
-msgstr "Més informació quant al WebVR"
+#: firefox/developer.lang:80
+msgid ""
+"Visually edit CSS and HTML animations playing on the page from the Inspector "
+"panel. Verify alignment, dimensions and padding of any element using the "
+"Ruler and Measurement tools."
+msgstr ""
 
-#: firefox/developer.lang:102
+#: firefox/developer.lang:85
+msgid "Learn more about Visual Editing Tools"
+msgstr ""
+
+#: firefox/developer.lang:90
+msgid "DevTools Challenger"
+msgstr ""
+
+#: firefox/developer.lang:95
+msgid ""
+"Use Developer Edition’s visual animation and CSS editing tools to explore "
+"the depths of the ocean and interact with the strangest of creatures."
+msgstr ""
+
+#: firefox/developer.lang:100
+msgid "Try DevTools Challenger"
+msgstr ""
+
+#: firefox/developer.lang:104
 msgid "Performance Tools"
 msgstr "Eines de rendiment"
 
-#: firefox/developer.lang:107
+#: firefox/developer.lang:108
 msgid ""
 "Examine your web content’s frame rate, memory consumption and JS profile in "
 "a consolidated timeline view to help easily identify and troubleshoot "
@@ -359,12 +367,12 @@ msgid "Next: Sync"
 msgstr "Següent: Sync"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:266
+#: firefox/developer.lang:265
 msgid "Important"
 msgstr "Important"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:272
+#: firefox/developer.lang:270
 msgid ""
 "Sync your new Developer Edition profile to your Firefox Account to access "
 "bookmarks, browsing history, passwords and more from your existing Firefox "
@@ -375,41 +383,22 @@ msgstr ""
 "demés contingut des del vostre perfil habitual."
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:278
+#: firefox/developer.lang:275
 msgid "Sync now"
 msgstr "Sincronitza ara"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:283
-msgid "Keep your browser in Sync"
-msgstr "Sincronitzeu el vostre navegador"
-
-#. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:288
-msgid ""
-"Sync your Firefox desktop and mobile browsers to get instant access to your "
-"bookmarks, open tabs, passwords and more."
-msgstr ""
-"Sincronitzeu el Firefox d'escriptori i el mòbil per tenir accés directe als "
-"preferits, pestanyes obertes, contrasenyes i demés."
-
-#. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:293
-msgid "Sync my Firefox"
-msgstr "Sincronitza el meu Firefox"
-
-#. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:298
+#: firefox/developer.lang:280
 msgid "No thanks"
 msgstr "No"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:304
+#: firefox/developer.lang:285
 msgid "Before you go&hellip;"
 msgstr "Abans que marxeu&hellip;"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:310
+#: firefox/developer.lang:290
 msgid ""
 "If you continue without syncing your new Developer Edition profile, you "
 "could lose access to important browsing data from your existing Firefox "
@@ -419,15 +408,15 @@ msgstr ""
 "perdre l'accés a informació important de navegació del vostre perfil Firefox."
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:316
+#: firefox/developer.lang:295
 msgid "To sync now, choose the Sync option from this menu."
 msgstr "Per sincronitzar ara, trieu l'opció Sync d'aquest menú."
 
-#: firefox/developer.lang:320
+#: firefox/developer.lang:299
 msgid "Welcome to <span>Firefox Developer Edition</span>"
 msgstr "Sigueu benvinguts al <span>Firefox Developer Edition</span>"
 
-#: firefox/developer.lang:324
+#: firefox/developer.lang:303
 msgid ""
 "Get to know the features that make it the most complete browser for building "
 "the Web."
@@ -435,11 +424,11 @@ msgstr ""
 "Consulteu les característiques que el fan el navegador més complet per "
 "construir el web."
 
-#: firefox/developer.lang:329
+#: firefox/developer.lang:307
 msgid "Important: Sync your new profile"
 msgstr "Important: sincronitzeu el vostre nou perfil"
 
-#: firefox/developer.lang:334
+#: firefox/developer.lang:311
 msgid ""
 "Developer Edition comes with a new profile so you can run it alongside other "
 "versions of Firefox."
@@ -447,7 +436,7 @@ msgstr ""
 "El Developer Edition incorpora un nou perfil, així el podeu executar "
 "simultàniament amb d'altres versions del Firefox."
 
-#: firefox/developer.lang:339
+#: firefox/developer.lang:315
 msgid ""
 "To access your bookmarks, browsing history and more, you need to sync the "
 "profile with your existing Firefox Account, or create a new one."
@@ -455,11 +444,11 @@ msgstr ""
 "Per accedir als preferits, historial de navegació i demés contingut, heu de "
 "sincronitzar el perfil amb el vostre compte Firefox, o crear-ne un de nou."
 
-#: firefox/developer.lang:343
+#: firefox/developer.lang:319
 msgid "Want the old look back?"
 msgstr "Voleu tornar a l'aspecte antic?"
 
-#: firefox/developer.lang:347
+#: firefox/developer.lang:323
 msgid ""
 "If you want the familiar look and feel of Firefox Aurora back, we’ve made it "
 "super easy for you."
@@ -467,6 +456,36 @@ msgstr ""
 "Si voleu mantenir l'aspecte antic del Firefox Aurora, us ho hem posat molt "
 "fàcil."
 
-#: firefox/developer.lang:351
+#: firefox/developer.lang:327
 msgid "Features and tools"
 msgstr "Característiques i eines"
+
+#~ msgid "Introducing the only browser made for developers like you."
+#~ msgstr "Us presentem l'únic navegador fet per a desenvolupadors com tu."
+
+#~ msgid "WebVR"
+#~ msgstr "WebVR"
+
+#~ msgid ""
+#~ "Build immersive multi-platform, cross-device Web VR experiences using the "
+#~ "technologies that you know &mdash; JavaScript, WebGL, Three.js and more."
+#~ msgstr ""
+#~ "Creeu experiències immersives Web VR multi-plataforma entre dispositius "
+#~ "usant tecnologies que coneixeu &mdash; JavaScript, WebGL, Three.js i "
+#~ "d'altres."
+
+#~ msgid "Learn more about WebVR"
+#~ msgstr "Més informació quant al WebVR"
+
+#~ msgid "Keep your browser in Sync"
+#~ msgstr "Sincronitzeu el vostre navegador"
+
+#~ msgid ""
+#~ "Sync your Firefox desktop and mobile browsers to get instant access to "
+#~ "your bookmarks, open tabs, passwords and more."
+#~ msgstr ""
+#~ "Sincronitzeu el Firefox d'escriptori i el mòbil per tenir accés directe "
+#~ "als preferits, pestanyes obertes, contrasenyes i demés."
+
+#~ msgid "Sync my Firefox"
+#~ msgstr "Sincronitza el meu Firefox"

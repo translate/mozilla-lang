@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-08 08:28+0000\n"
+"POT-Creation-Date: 2015-11-04 07:42+0000\n"
 "PO-Revision-Date: 2015-10-22 15:00+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: none\n"
@@ -11,29 +11,36 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1445526024.000000\n"
 
 #. Page Title and part of <title> tag
-#: firefox/push.lang:7
+#: firefox/push.lang:8
 msgid "Push"
 msgstr "Push"
 
 #. Page Title and part of <title> tag
-#: firefox/push.lang:12
+#: firefox/push.lang:13
 msgid "Frequently asked questions"
 msgstr "Жиі қойылатын сұрақтар"
 
 #. Part of <title> tag
-#: firefox/push.lang:17
+#: firefox/push.lang:18
 msgid "Mozilla Firefox Web Browser"
 msgstr "Mozilla Firefox браузері"
 
-#: firefox/push.lang:21
+#: firefox/push.lang:23
+msgid ""
+"Websites you use with Firefox can send you notifications in the background "
+"that can appear on screen or update the web page. You can control how these "
+"notifications appear and work."
+msgstr ""
+
+#: firefox/push.lang:27
 msgid "What is Push?"
 msgstr "Push деген не?"
 
-#: firefox/push.lang:25
+#: firefox/push.lang:31
 msgid ""
 "Push is an optional feature that allows websites to send you messages even "
 "when you aren’t visiting the site."
@@ -41,7 +48,7 @@ msgstr ""
 "Push - бұл қосымша мүмкіндік, ол арқылы веб сайттар сіз ол сайтта дәл қазір "
 "отырмасаңыз да, сізге хабарламаны жібере алады."
 
-#: firefox/push.lang:29
+#: firefox/push.lang:35
 msgid ""
 "Sites can use this feature to provide you with notifications or update data "
 "in the background."
@@ -49,7 +56,7 @@ msgstr ""
 "Сайттар бұл мүмкіндік арқылы сізге хабарламаларды жібере алады немесе фонда "
 "деректерді жаңарта алады."
 
-#: firefox/push.lang:33
+#: firefox/push.lang:39
 msgid ""
 "For instance, a webmail site might use Push to provide you with a "
 "notification when new messages arrive, or a weather site might use Push to "
@@ -58,21 +65,21 @@ msgstr ""
 "Мысалға, Push арқылы пошта сайты сізге жаңа хат туралы, ал ауа райы болжамын "
 "ұсынатын сайт Push арқылы келе жатқан дауыл жөнінде хабарлай алады."
 
-#: firefox/push.lang:37
+#: firefox/push.lang:43
 msgid ""
 "You will only receive messages from sites for which you have granted "
 "permission."
 msgstr "Сіз тек өзіңіз рұқсат еткен сайттардан хабарламаларды алатын боласыз."
 
-#: firefox/push.lang:41
+#: firefox/push.lang:47
 msgid "How does it work?"
 msgstr "Бұл қалай жұмыс істейді?"
 
-#: firefox/push.lang:45
+#: firefox/push.lang:51
 msgid "Firefox maintains a connection to a push service."
 msgstr "Firefox push қызметіне байланысты ұстайтын болады."
 
-#: firefox/push.lang:49
+#: firefox/push.lang:55
 msgid ""
 "Sites that you have granted permission for Push can use the service to send "
 "you messages."
@@ -80,7 +87,7 @@ msgstr ""
 "Сіз Push-ты қолдану рұқсатын берген сайттар бұл қызмет арқылы сізге "
 "хабарламаларды жібере алады."
 
-#: firefox/push.lang:53
+#: firefox/push.lang:59
 msgid ""
 "Firefox delivers this push message to a small piece of JavaScript called a "
 "“worker”."
@@ -88,11 +95,11 @@ msgstr ""
 "Firefox бұл push хабарламасын \"жұмыс үрдісі\" деп аталатын шағын JavaScript "
 "кодына жеткізеді."
 
-#: firefox/push.lang:57
+#: firefox/push.lang:63
 msgid "The worker then processes the message."
 msgstr "Одан кейін жұмыс үрдісі хабарламаны өңдейді."
 
-#: firefox/push.lang:61
+#: firefox/push.lang:67
 msgid ""
 "It might decide to show a visual notification or store the message for later "
 "use."
@@ -100,11 +107,11 @@ msgstr ""
 "Ол сізге визуалды ескерту немесе хабарламаны кейін қолдануға сақтауды шеше "
 "алады."
 
-#: firefox/push.lang:65
+#: firefox/push.lang:71
 msgid "What information do I share with a site?"
 msgstr "Мен сайтпен қандай ақпаратпен бөлісіп отырмын?"
 
-#: firefox/push.lang:69
+#: firefox/push.lang:75
 msgid ""
 "A site can use Push to send you a message at any time, even when you are not "
 "actively visiting it."
@@ -112,7 +119,7 @@ msgstr ""
 "Push арқылы сайт сізге кез-келген уақытта хабарламаны жібере алады, сіз дәл "
 "сол уақытта ол сайтта отырмасаңыз да."
 
-#: firefox/push.lang:73
+#: firefox/push.lang:79
 msgid ""
 "A site that sends you a message can learn your IP address if it chooses to "
 "do so; this could reveal your location."
@@ -120,11 +127,11 @@ msgstr ""
 "Сізге хабарламаны жіберетін сайт қалайтын болса, сіздің IP адресіңізді біле "
 "алады, ол арқылы сіздің орналасуын біле алады."
 
-#: firefox/push.lang:77
+#: firefox/push.lang:83
 msgid "What information does Firefox use to provide Push?"
 msgstr "Firefox Push мүмкіндігін ұсыну үшін қандай ақпаратты қолданады?"
 
-#: firefox/push.lang:81
+#: firefox/push.lang:87
 msgid ""
 "Firefox maintains a permanent connection to a push service in order to "
 "receive push messages."
@@ -132,7 +139,7 @@ msgstr ""
 "Firefox push хабарламаларын алу мүмкіндігі үшін push қызметіне тұрақты "
 "байланысты ұстайды."
 
-#: firefox/push.lang:85
+#: firefox/push.lang:91
 msgid ""
 "On our server we store a randomized identifier for your browser, along with "
 "a randomized identifier for each site you authorize."
@@ -141,11 +148,11 @@ msgstr ""
 "сақтаймыз, ал сіз рұқсат берген әр сайт үшін де кездейсоқ анықтағыш "
 "сақталады."
 
-#: firefox/push.lang:89
+#: firefox/push.lang:95
 msgid "On Firefox for desktop, the push service is operated by Mozilla."
 msgstr "Жұмыс үстелі Firefox үшін, push қызметін Mozilla басқарады."
 
-#: firefox/push.lang:93
+#: firefox/push.lang:99
 msgid ""
 "Firefox for Android uses the same <a href=\"%s\">Google Cloud Messaging</a> "
 "platform and infrastructure that your other Android applications use."
@@ -153,69 +160,110 @@ msgstr ""
 "Android үшін Firefox басқа да Android қолданбалары қолданатын <a href=\"%s"
 "\">Google бұлттық хабарласу</a> платформа мен инфрақұрылымын қолданады."
 
-#: firefox/push.lang:97
+#: firefox/push.lang:103
 msgid "In both cases, the push service cannot decrypt your push messages."
 msgstr ""
 "Қалай болса да, push қызметі сіздің push хабарламаларын дешифрлей алмайды."
 
-#: firefox/push.lang:101
+#: firefox/push.lang:107
 msgid ""
 "Push messages are encrypted, only your copy of Firefox can decipher them."
 msgstr ""
 "Push хабарламалары шифрленген, тек сіздің Firefox орнатуыңыз оларды "
 "дешифрлей алады."
 
-#: firefox/push.lang:105
+#: firefox/push.lang:111
 msgid ""
 "The encrypted messages are stored on the server until they are delivered."
 msgstr ""
 "Шифрленген хабарламалар түпкі алушыға жеткізілмегенше, серверде сақталады."
 
-#: firefox/push.lang:109
+#: firefox/push.lang:115
 msgid "How do I revoke Push permissions?"
 msgstr "Push рұқсаттарын қалай қайтаруға болады?"
 
-#: firefox/push.lang:113
+#: firefox/push.lang:119
 msgid "To stop a site from sending you push messages:"
 msgstr "Сайттың сізге хабарламаларды жіберуін тоқтату үшін:"
 
-#: firefox/push.lang:117
-msgid "In the URL bar, type <em>about:permissions</em>."
-msgstr "Адрестік жолақта <em>about:permissions</em> теріңіз."
+#: firefox/push.lang:124
+msgid "Navigate to <em>Preferences/Options</em>"
+msgstr ""
 
-#: firefox/push.lang:121
+#: firefox/push.lang:129
+msgid ""
+"Click on <em>Content</em> and under Notifications, select <em>Choose…</em>"
+msgstr ""
+
+#: firefox/push.lang:134
+#, fuzzy
+msgctxt "./firefox/push.lang:134"
 msgid "Select the site."
 msgstr "Сайтты таңдаңыз."
 
-#: firefox/push.lang:125
+#: firefox/push.lang:139
+msgid "Select <strong>Remove Site</strong>."
+msgstr ""
+
+#. Obsolete string, do not remove
+#: firefox/push.lang:144
+msgid "In the URL bar, type <em>about:permissions</em>."
+msgstr "Адрестік жолақта <em>about:permissions</em> теріңіз."
+
+#. Obsolete string, do not remove
+#: firefox/push.lang:149
+#, fuzzy
+msgctxt "./firefox/push.lang:149"
+msgid "Select the site."
+msgstr "Сайтты таңдаңыз."
+
+#. Obsolete string, do not remove
+#: firefox/push.lang:154
 msgid "Set <em>Receive Push Notifications</em> to <strong>Always Ask</strong>."
 msgstr ""
 "<em>Push хабарламаларын алу</em> опциясын <strong>Әрқашан сұрау</strong> "
 "етіп орнатыңыз."
 
-#: firefox/push.lang:129
+#: firefox/push.lang:159
+msgid "How do I disable Push?"
+msgstr ""
+
+#. Obsolete string, do not remove
+#: firefox/push.lang:164
 msgid "How do I disable Push permanently?"
 msgstr "Мен Push-ты қалай толығымен сөндіре аламын?"
 
-#: firefox/push.lang:133
+#: firefox/push.lang:168
 msgid "Push is always opt-in in Firefox."
 msgstr "Push - әрқашан да Firefox-тың тек қосымша мүмкіндігі."
 
-#: firefox/push.lang:137
+#: firefox/push.lang:172
 msgid "A site cannot send you push messages without your permission."
 msgstr "Сайт сізге сіздің рұқсатынсыз хабарламаларды жібере алмайды."
 
-#: firefox/push.lang:141
+#: firefox/push.lang:176
 msgid ""
 "If you wish to disable the feature completely, please follow these steps:"
 msgstr ""
 "Бұл мүмкіндікті толығымен сөндіргіңіз келсе, келесі қадамдарды орындаңыз:"
 
-#: firefox/push.lang:145
+#: firefox/push.lang:181
+msgid "Select <strong>Remove All Sites</strong>."
+msgstr ""
+
+#: firefox/push.lang:186
+msgid ""
+"Websites will not be able to send you messages and will need to ask your "
+"permission to send them in the future."
+msgstr ""
+
+#. Obsolete string, do not remove
+#: firefox/push.lang:191
 msgid "Select <em>All Sites</em>."
 msgstr "<em>Барлық сайттар</em> таңдаңыз."
 
-#: firefox/push.lang:149
+#. Obsolete string, do not remove
+#: firefox/push.lang:196
 msgid ""
 "Set the <em>Receive Push Notifications</em> to <strong>Block</strong>. "
 "Websites will not be able to send you messages or ask for access to Push."
@@ -224,15 +272,52 @@ msgstr ""
 "орнатыңыз. Веб сайттар сізге хабарламаларды жібере алмайды және Push-қа "
 "рұқсатты сұрай алмайды."
 
-#: firefox/push.lang:153
+#: firefox/push.lang:201
+#, fuzzy
+msgid "What’s New?"
+msgstr "Не жаңалық"
+
+#: firefox/push.lang:206
+msgid ""
+"Firefox has delivered on-screen notifications to open web pages for the last "
+"several releases."
+msgstr ""
+
+#: firefox/push.lang:211
+msgid ""
+"With Firefox 44, users can receive notifications associated with a web page "
+"even if they navigate away from the site or close the tab via a mechanism "
+"called Push."
+msgstr ""
+
+#: firefox/push.lang:216
+msgid ""
+"With Push, sites can update data in the background even without showing you "
+"a notification."
+msgstr ""
+
+#: firefox/push.lang:221
+msgid ""
+"If you already gave permission to a site to send notifications, these sites "
+"will also be able to use this Push mechanism."
+msgstr ""
+
+#: firefox/push.lang:226
+msgid ""
+"If you wish to change notifications preferences, open the "
+"Content>Notifications section in Preferences/Options or click the options in "
+"one of the notifications you receive."
+msgstr ""
+
+#: firefox/push.lang:230
 msgid "Will this cost me money?"
 msgstr "Бұл мен үшін ақылы ма?"
 
-#: firefox/push.lang:157
+#: firefox/push.lang:234
 msgid "Push uses a small amount of data to operate."
 msgstr "Push өз жұмысы үшін деректердің аз шамасын қолданады."
 
-#: firefox/push.lang:161
+#: firefox/push.lang:238
 msgid ""
 "If you’re on a small data allowance, or are charged for any data usage, you "
 "may wish to monitor your usage."
@@ -240,11 +325,11 @@ msgstr ""
 "Егер сіздің деректер шамасы шектелген, немесе деректер үшін ақша алынса, "
 "желі қолданылуын бақылауды қалауыңыз мүмкін."
 
-#: firefox/push.lang:165
+#: firefox/push.lang:242
 msgid "How do I add Push to my web site?"
 msgstr "Өз веб сайтыма Push қолдауын қалай қоса аламын?"
 
-#: firefox/push.lang:169
+#: firefox/push.lang:246
 msgid ""
 "The <a href=\"%s\">Push API specification</a> explains how to create a "
 "Service Worker and send push messages."
