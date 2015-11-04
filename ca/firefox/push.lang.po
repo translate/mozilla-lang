@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-11-04 10:38+0000\n"
-"PO-Revision-Date: 2015-09-12 18:17+0000\n"
+"PO-Revision-Date: 2015-11-04 21:04+0000\n"
 "Last-Translator: Josep Sanchez <papapep@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ca\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1442081822.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1446671040.000000\n"
 
 #. Page Title and part of <title> tag
 #: firefox/push.lang:8
@@ -36,6 +36,9 @@ msgid ""
 "that can appear on screen or update the web page. You can control how these "
 "notifications appear and work."
 msgstr ""
+"Les pàgines web que utilitzeu amb el Firefox us poden enviar notificacions "
+"en segon pla que poden mostrar-se en pantalla o actualitzar la pàgina. Podeu "
+"controlar la seva aparença i comportament."
 
 #: firefox/push.lang:27
 msgid "What is Push?"
@@ -190,21 +193,22 @@ msgstr "Per retirar el permís a un lloc web per enviar-vos missatges:"
 
 #: firefox/push.lang:124
 msgid "Navigate to <em>Preferences/Options</em>"
-msgstr ""
+msgstr "Aneu a <em>Preferències/Opcions</em>"
 
 #: firefox/push.lang:129
 msgid ""
 "Click on <em>Content</em> and under Notifications, select <em>Choose…</em>"
 msgstr ""
+"Feu clic a <em>Contingut</em> i, sota Notificacions, seleccioneu <em>Trieu..."
+"</em>"
 
 #: firefox/push.lang:133
-#, fuzzy
 msgid "Select the site."
 msgstr "Seleccioneu el lloc web."
 
 #: firefox/push.lang:138
 msgid "Select <strong>Remove Site</strong>."
-msgstr ""
+msgstr "Seleccioneu <strong>Esborra la pàgina</strong>."
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:143
@@ -219,7 +223,7 @@ msgstr ""
 
 #: firefox/push.lang:153
 msgid "How do I disable Push?"
-msgstr ""
+msgstr "Com deshabilito el Push?"
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:158
@@ -241,13 +245,15 @@ msgstr "Si voleu desactivar completament aquesta característica, feu:"
 
 #: firefox/push.lang:175
 msgid "Select <strong>Remove All Sites</strong>."
-msgstr ""
+msgstr "Seleccioneu <strong>Esborra totes les pàgines</strong>."
 
 #: firefox/push.lang:180
 msgid ""
 "Websites will not be able to send you messages and will need to ask your "
 "permission to send them in the future."
 msgstr ""
+"Les pàgines web no us podran enviar missatges i us hauran de demanar permís "
+"per fer-ho d'aquí en endavant."
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:185
@@ -264,15 +270,16 @@ msgstr ""
 "llocs web no us podran enviar missatges, ni demanar-vos permís per a fer-ho."
 
 #: firefox/push.lang:195
-#, fuzzy
 msgid "What’s New?"
-msgstr "Novetats"
+msgstr "Novetats?"
 
 #: firefox/push.lang:200
 msgid ""
 "Firefox has delivered on-screen notifications to open web pages for the last "
 "several releases."
 msgstr ""
+"El Firefox utilitza notificacions en pantalla per obrir pàgines web de fa "
+"diverses versions."
 
 #: firefox/push.lang:205
 msgid ""
@@ -280,18 +287,25 @@ msgid ""
 "even if they navigate away from the site or close the tab via a mechanism "
 "called Push."
 msgstr ""
+"Amb el Firefox 44, els usuaris poden rebre notificacions d'una pàgina web, "
+"fins i tot si n'han marxat o han tancat la pestanya, amb un mecanisme "
+"anomenat Push."
 
 #: firefox/push.lang:210
 msgid ""
 "With Push, sites can update data in the background even without showing you "
 "a notification."
 msgstr ""
+"Amb el Push, les pàgines web poden actualitzar dades en segon pla fins i tot "
+"sense mostrar-vos cap notificació"
 
 #: firefox/push.lang:215
 msgid ""
 "If you already gave permission to a site to send notifications, these sites "
 "will also be able to use this Push mechanism."
 msgstr ""
+"Si ja heu autoritzat una pàgina web a enviar-vos notificacions, podrà "
+"utilitzar el mecanisme Push."
 
 #: firefox/push.lang:220
 msgid ""
@@ -299,6 +313,9 @@ msgid ""
 "Content>Notifications section in Preferences/Options or click the options in "
 "one of the notifications you receive."
 msgstr ""
+"Si voleu canviar les preferències de notificacions, aneu a la secció "
+"Contingut>Notificacions de les Opcions o feu clic a les opcions d'una de les "
+"notificacions que rebeu."
 
 #: firefox/push.lang:224
 msgid "Will this cost me money?"
