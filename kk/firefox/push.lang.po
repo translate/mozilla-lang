@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-11-04 10:38+0000\n"
-"PO-Revision-Date: 2015-10-22 15:00+0000\n"
+"PO-Revision-Date: 2015-11-05 04:14+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: none\n"
 "Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1445526024.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1446696889.000000\n"
 
 #. Page Title and part of <title> tag
 #: firefox/push.lang:8
@@ -35,6 +35,9 @@ msgid ""
 "that can appear on screen or update the web page. You can control how these "
 "notifications appear and work."
 msgstr ""
+"Сіз Firefox-та қолданатын веб сайттар сізге экранда көрсетілетін немесе веб "
+"парағын жаңартатын хабарламаларды фонда жібере алады. Сіз осы хабарламалар "
+"қалай көрсетілетінін және қалай жұмыс істейтінін басқара аласыз."
 
 #: firefox/push.lang:27
 msgid "What is Push?"
@@ -188,21 +191,20 @@ msgstr "Сайттың сізге хабарламаларды жіберуін 
 
 #: firefox/push.lang:124
 msgid "Navigate to <em>Preferences/Options</em>"
-msgstr ""
+msgstr "<em>Баптауларға</em> өтіңіз"
 
 #: firefox/push.lang:129
 msgid ""
 "Click on <em>Content</em> and under Notifications, select <em>Choose…</em>"
-msgstr ""
+msgstr "<em>Құрамасы</em> таңдап, Хабарламалар ішінен <em>Таңдау…</em> басыңыз"
 
 #: firefox/push.lang:133
-#, fuzzy
 msgid "Select the site."
 msgstr "Сайтты таңдаңыз."
 
 #: firefox/push.lang:138
 msgid "Select <strong>Remove Site</strong>."
-msgstr ""
+msgstr "<strong>Сайтты өшіру</strong> таңдаңыз."
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:143
@@ -218,7 +220,7 @@ msgstr ""
 
 #: firefox/push.lang:153
 msgid "How do I disable Push?"
-msgstr ""
+msgstr "Push-ты қалай сөндіре аламын?"
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:158
@@ -241,13 +243,15 @@ msgstr ""
 
 #: firefox/push.lang:175
 msgid "Select <strong>Remove All Sites</strong>."
-msgstr ""
+msgstr "<strong>Барлық сайттарды өшіру</strong> таңдаңыз."
 
 #: firefox/push.lang:180
 msgid ""
 "Websites will not be able to send you messages and will need to ask your "
 "permission to send them in the future."
 msgstr ""
+"Веб сайттар сізге хабарламаларды жібере алмайды және болашақта оларды жібере "
+"алу үшін рұқсатыңызды сұрауы тиіс."
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:185
@@ -265,15 +269,16 @@ msgstr ""
 "рұқсатты сұрай алмайды."
 
 #: firefox/push.lang:195
-#, fuzzy
 msgid "What’s New?"
-msgstr "Не жаңалық"
+msgstr "Не жаңалық?"
 
 #: firefox/push.lang:200
 msgid ""
 "Firefox has delivered on-screen notifications to open web pages for the last "
 "several releases."
 msgstr ""
+"Firefox соңғы бірнеше шығарылымдарда веб парақтарды ашу үшін экрандағы "
+"хабарламаларды ұсынған."
 
 #: firefox/push.lang:205
 msgid ""
@@ -281,18 +286,25 @@ msgid ""
 "even if they navigate away from the site or close the tab via a mechanism "
 "called Push."
 msgstr ""
+"Firefox 44 көмегімен пайдаланушылар Push механизмі көмегімен веб парақпен "
+"сәйкестелген хабарламаларды өздері сайттан кетсе де, немесе сайт бетін жапса "
+"да, ала алады."
 
 #: firefox/push.lang:210
 msgid ""
 "With Push, sites can update data in the background even without showing you "
 "a notification."
 msgstr ""
+"Push көмегімен, сайттар сізге хабарламаларды көрсетпей-ақ, деректерді фонда "
+"жаңарта алады."
 
 #: firefox/push.lang:215
 msgid ""
 "If you already gave permission to a site to send notifications, these sites "
 "will also be able to use this Push mechanism."
 msgstr ""
+"Егер сіз сайтқа хабарламаларды жіберу рұқсатын берсеңіз, ол сайттар бұл Push "
+"механизмін де қолдана алатын болады."
 
 #: firefox/push.lang:220
 msgid ""
@@ -300,6 +312,9 @@ msgid ""
 "Content>Notifications section in Preferences/Options or click the options in "
 "one of the notifications you receive."
 msgstr ""
+"Хабарламалар баптауларын өзгерткіңіз келсе, Баптаулар ішіндегі "
+"Құрама>Хабарламалар санатын ашыңыз, немесе сіз алған хабарламалардың "
+"біреуінің баптауларын ашыңыз."
 
 #: firefox/push.lang:224
 msgid "Will this cost me money?"
