@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-11-04 10:38+0000\n"
-"PO-Revision-Date: 2015-11-08 10:10+0000\n"
+"PO-Revision-Date: 2015-11-08 10:29+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
 "Language: hsb\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1446977441.000000\n"
+"X-POOTLE-MTIME: 1446978567.000000\n"
 
 #. Page Title and part of <title> tag
 #: firefox/push.lang:8
@@ -200,16 +200,15 @@ msgstr "K <em>Nastajenjam</em> nawigować"
 #: firefox/push.lang:129
 msgid ""
 "Click on <em>Content</em> and under Notifications, select <em>Choose…</em>"
-msgstr ""
+msgstr "Klikńće na <em>Wobsah</em> a wubjerće pod „Zdźělenki“ <em>Wubrać…</em>"
 
 #: firefox/push.lang:133
-#, fuzzy
 msgid "Select the site."
 msgstr "Wubjerće sydło."
 
 #: firefox/push.lang:138
 msgid "Select <strong>Remove Site</strong>."
-msgstr ""
+msgstr "Wubjerće <strong>Sydło wotstronić</strong>."
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:143
@@ -225,7 +224,7 @@ msgstr ""
 
 #: firefox/push.lang:153
 msgid "How do I disable Push?"
-msgstr ""
+msgstr "Kak móžu eksterne zdźělenki znjemóžnić?"
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:158
@@ -247,13 +246,15 @@ msgstr "Jeli chceće funkciju dospołnje znjemóžnić, slědujće prošu tele k
 
 #: firefox/push.lang:175
 msgid "Select <strong>Remove All Sites</strong>."
-msgstr ""
+msgstr "Wubjerće <strong>Wšě sydła wotstronić</strong>."
 
 #: firefox/push.lang:180
 msgid ""
 "Websites will not be able to send you messages and will need to ask your "
 "permission to send them in the future."
 msgstr ""
+"Websydła njemóža wam powěsće pósłać a dyrbja was wo dowolnosć prosyć, zo "
+"bychu je w přichodźe pósłali."
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:185
@@ -271,15 +272,16 @@ msgstr ""
 "zdźělenki prosyć."
 
 #: firefox/push.lang:195
-#, fuzzy
 msgid "What’s New?"
-msgstr "Štož je nowe"
+msgstr "Što je nowe?"
 
 #: firefox/push.lang:200
 msgid ""
 "Firefox has delivered on-screen notifications to open web pages for the last "
 "several releases."
 msgstr ""
+"Firefox je zdźělenki k dispoziciji stajił, kotrež su widźomne na wobrazowce, "
+"zo by webstrony za wjacore zańdźene wersije wočinił."
 
 #: firefox/push.lang:205
 msgid ""
@@ -287,18 +289,25 @@ msgid ""
 "even if they navigate away from the site or close the tab via a mechanism "
 "called Push."
 msgstr ""
+"Z Firefox 44 móža wužiwarjo zdźělenki přijimać, kotrež su z webstronu "
+"zwjazane, samo hdyž wot sydła preč nawiguja abo rajtark přez mechanizm z "
+"mjenom Push začinjeja."
 
 #: firefox/push.lang:210
 msgid ""
 "With Push, sites can update data in the background even without showing you "
 "a notification."
 msgstr ""
+"Z eksternymi zdźělenkami móža sydła daty w pozadku aktualizować, bjez toho "
+"zo bychu wam zdźělenku pokazali."
 
 #: firefox/push.lang:215
 msgid ""
 "If you already gave permission to a site to send notifications, these sites "
 "will also be able to use this Push mechanism."
 msgstr ""
+"Jeli sće hižo sydłu dowolnosć dał, zdźělenki pósłać, móža tute sydła tež "
+"mechanizm Push wužiwać."
 
 #: firefox/push.lang:220
 msgid ""
@@ -306,6 +315,9 @@ msgid ""
 "Content>Notifications section in Preferences/Options or click the options in "
 "one of the notifications you receive."
 msgstr ""
+"jeli chceće nastajenja za zdźělenki změnić, wočińće wotrězk Wobsah > "
+"Zdźělenki w nastajenjach abo klikńće na nastajenja w jednej ze zdźělenkow, "
+"kotrež přijimaće."
 
 #: firefox/push.lang:224
 msgid "Will this cost me money?"
