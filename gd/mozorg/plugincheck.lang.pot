@@ -1,0 +1,411 @@
+#. extracted from ./mozorg/plugincheck.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-07 17:24+0000\n"
+"PO-Revision-Date: 2015-10-12 16:42+0000\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
+"Language-Team: none\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3 ;\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1444668125.000000\n"
+
+#. Used as page title in HTML meta tag
+#: mozorg/plugincheck.lang:11
+msgid "Keep your Firefox healthy with a quick checkup"
+msgstr "Cum am Firefox agad slàn fallain, dèan sgrùdadh beag air"
+
+#. Used as page description in HTML meta tag
+#: mozorg/plugincheck.lang:17
+msgid ""
+"Use Flash? QuickTime? Java? If you use these to make your Firefox experience "
+"more awesome, check your plugins! They may need to be updated."
+msgstr ""
+"A' cleachdadh Flash? QuickTime? Java? Ma bhios tu 'gan cleachdadh airson "
+"comasan a chur ris a' Firefox agad, sgrùd na plugain agad! Dh'fhaoidte gu "
+"bheil iad feumach air ùrachadh."
+
+#. Old page <title> tag
+#: mozorg/plugincheck.lang:22
+msgid "Plugin Check &amp; Updates"
+msgstr "Sgrùdadh ⁊ ùrachaidhean nam plugan"
+
+#. This is a button telling the user to update their plugin
+#: mozorg/plugincheck.lang:27
+msgid "Update Now"
+msgstr "Ùraich an-dràsta"
+
+#. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
+#: mozorg/plugincheck.lang:32
+msgid "Research"
+msgstr "Rannsaich"
+
+#. This string is used together with the plugin's name to create a query on Google when using the Research button.
+#: mozorg/plugincheck.lang:37
+msgid "current version plugin"
+msgstr "current version plugin"
+
+#. This is a button informing the user that their plugin is up to date
+#: mozorg/plugincheck.lang:42
+msgid "Up to Date"
+msgstr "Cho ùr 's a ghabhas"
+
+#. L10n: This is alt text used on plugin icon images
+#: mozorg/plugincheck.lang:47
+msgid "Plugin icon"
+msgstr "Ìomhaigheag a' phlugain"
+
+#. This is the string used to indicate that the plugin is unknown
+#: mozorg/plugincheck.lang:52
+msgid "unknown"
+msgstr "neo-aithnichte"
+
+#. This is the string used to indicate that the plugin is vulnerable
+#: mozorg/plugincheck.lang:57
+msgid "vulnerable"
+msgstr "so-leònte"
+
+#. This is the string used to indicate that the plugin is outdated
+#: mozorg/plugincheck.lang:63
+msgid "outdated"
+msgstr "ro aosta"
+
+#. Main title
+#: mozorg/plugincheck.lang:68
+msgid "Check Your Plugins"
+msgstr "Sgrùd na plugain agad"
+
+#: mozorg/plugincheck.lang:72
+msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
+msgstr ""
+"Bidh Firefox nas sàbhailte rèidh ma chumas tu na plugain agad cho ùr 's a "
+"ghabhas."
+
+#: mozorg/plugincheck.lang:77
+msgid "Currently the plugin check service is only available to Firefox users."
+msgstr ""
+"Chan eil seirbheis sgrùdadh nam plugan ri làimh ach do dhaoine aig a bheil "
+"Firefox."
+
+#. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
+#: mozorg/plugincheck.lang:83
+msgid ""
+"Plugins don’t always update automatically. Check yours now to stay safe and "
+"browse without interruption!"
+msgstr ""
+"Thoir sùil airson ùrachaidhean nam plugan agad an-dràsta ach am bi thu "
+"sàbhailte ’s gun brabhsaich thu gun stad ort."
+
+#: mozorg/plugincheck.lang:87
+msgid "Looks like you’re using an older version of Firefox."
+msgstr "Tha coltas gu bheil thu a' cleachdadh seann-tionndadh de Firefox."
+
+#: mozorg/plugincheck.lang:91
+msgid "Plugin Status"
+msgstr "Staid a' phlugain"
+
+#: mozorg/plugincheck.lang:96
+msgid ""
+"No plugins were found. If you believe this is an error, <a href="
+"\"%(bugzilla_url)s\">please file a bug</a> and let us know."
+msgstr ""
+"Cha deach plugan sam bith a lorg. Mas e mearachd a tha seo ’nad bheachd, <a "
+"href=\"%(bugzilla_url)s\">dèan aithris air buga</a> ’s bheir sinn sùil."
+
+#: mozorg/plugincheck.lang:100
+msgid ""
+"Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
+"use Tools &gt; Manage Addons"
+msgstr ""
+"Chan eil mòran taic ri sgrùdadh phlugan airson <strong>Internet Explorer</"
+"strong>. Cleachd \"Innealan\" &gt; \"Stiùirich na tuilleadain\" cuideachd"
+
+#: mozorg/plugincheck.lang:104
+msgid "Step 1: Click Update to update a plugin."
+msgstr "Ceum 1: Briog air \"Ùraich\" gus plugan ùrachadh."
+
+#: mozorg/plugincheck.lang:108
+msgid ""
+"Step 2: Complete all recommended updates before restarting your browser."
+msgstr ""
+"Ceum 2: Coilean gach ùrachadh a thathar a' moladh mus ath-thòisich thu am "
+"brabhsair agad."
+
+#: mozorg/plugincheck.lang:112
+msgid "Potentially vulnerable plugins"
+msgstr "Plugain a dh'fhaodadh a bhith so-leònte"
+
+#: mozorg/plugincheck.lang:116
+msgid "Plugin"
+msgstr "Plugan"
+
+#: mozorg/plugincheck.lang:120
+msgid "Status"
+msgstr "Staid"
+
+#: mozorg/plugincheck.lang:124
+msgid "Action"
+msgstr "Gnìomh"
+
+#: mozorg/plugincheck.lang:128
+msgid "Outdated Plugins"
+msgstr "Plugain ro aosta"
+
+#: mozorg/plugincheck.lang:132
+msgid "Unknown Plugins"
+msgstr "Plugain neo-aithnichte"
+
+#: mozorg/plugincheck.lang:136
+msgid "These plugins are up to date"
+msgstr "Tha na plugain seo cho ùr 's a ghabhas"
+
+#: mozorg/plugincheck.lang:140
+msgid "Back to Top"
+msgstr "Air ais gun bharr"
+
+#: mozorg/plugincheck.lang:144
+msgid "Frequently Asked Questions"
+msgstr "CÀBHA - Na Ceistean Àbhaisteach"
+
+#: mozorg/plugincheck.lang:148
+msgid "What is a plugin?"
+msgstr "Dè th' ann am plugan?"
+
+#: mozorg/plugincheck.lang:152
+msgid "Plugins power videos, animation and games"
+msgstr "Obraichidh videothan, beòthachaidhean is geamannan air plugain"
+
+#: mozorg/plugincheck.lang:156
+msgid ""
+"They're built outside of Firefox by companies like Adobe Systems and Apple"
+msgstr ""
+"Tha iad 'ga dealbhadh taobh a-muigh Firefox le companaidhean mar Adobe "
+"Systems agus Apple"
+
+#: mozorg/plugincheck.lang:160
+msgid "Plugins don't always update automatically."
+msgstr "Cha dèid plugain ùrachadh gu fèin-obrachail."
+
+#: mozorg/plugincheck.lang:164
+msgid "Why should I update my plugins?"
+msgstr "Carson a dh'ùraichinn na plugain agam?"
+
+#: mozorg/plugincheck.lang:168
+msgid "Old plugins can interrupt browsing and waste your time."
+msgstr ""
+"Faodaidh gun tuislich am brabhsadh ri linn seann-phlugan agus gun caill thu "
+"ùine."
+
+#: mozorg/plugincheck.lang:172
+msgid ""
+"Old plugins <strong>increase your risk</strong> for attack by malware, "
+"viruses, and other security threats."
+msgstr ""
+"Ma tha na plugain agad ro aosta, <strong>bi thu fo chunnairt nas motha</"
+"strong> o ionnsaigh le bathar droch-rùnach, bìorasan agus cunnartan "
+"tèarainteachd eile."
+
+#: mozorg/plugincheck.lang:176
+msgid ""
+"<strong>Updated plugins have improvements</strong> that make the web "
+"<strong>better and safer</strong> for you."
+msgstr ""
+"<strong>Tha leasachaidhean am broinn nam plugan ùra</strong> a nì an lìon "
+"<strong>nas fhearr agus nas sàbhailte</strong> dhut."
+
+#. alt image
+#: mozorg/plugincheck.lang:181
+msgid "Screenshot of Add-Ons manager"
+msgstr "Glacadh-sgrìn de mhanaidsear nan tuilleadan"
+
+#: mozorg/plugincheck.lang:185
+msgid "How can Firefox help me?"
+msgstr "Ciamar a chuidicheas Firefox mi?"
+
+#: mozorg/plugincheck.lang:189
+msgid ""
+"In the future, Firefox will update plugins for you. Until then, you should "
+"regularly check this page and update your plugins to stay safe."
+msgstr ""
+"Ùrachaidh Firefox na plugain dhut latha air choireigin san àm ri teachd ach "
+"mus dig an latha ud, bu chòir dhut tadhal air an làrach seo gu cunbhalach a "
+"dh'ùrachadh nam plugan airson do thèarainteachd fhèin."
+
+#: mozorg/plugincheck.lang:193
+msgid "Which Plugins do I have?"
+msgstr "Dè na plugain a tha agam?"
+
+#: mozorg/plugincheck.lang:197
+msgid ""
+"We automatically detected your plugins above, to view your installed plugins "
+"in Firefox follow these steps:"
+msgstr ""
+"Chì thu na plugain a mhothaich sinn thuca gu h-àrd, gus sùil a thoirt air na "
+"plugain a tha stàlaichte agad ann am Firefox, dèan na leanas:"
+
+#: mozorg/plugincheck.lang:201
+msgid "Want to spread the word?"
+msgstr "Nach sgaoil thu am facal?"
+
+#: mozorg/plugincheck.lang:205
+msgid ""
+"Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
+"Affiliates</a> to get a plugin check badge for your site."
+msgstr ""
+"Cum taic ri do charaidean is cum sàbhailte iad air loidhne! Tadhail air <a "
+"href=\"%(url)s\">Firefox Affiliates</a> agus faigh baidse airson sgrùdadh "
+"nam plugan dhan làrach agad."
+
+#: mozorg/plugincheck.lang:209
+msgid "How do I disable a plugin?"
+msgstr "Ciamar a chuireas mi plugan à comas?"
+
+#: mozorg/plugincheck.lang:213
+msgid "In Firefox:"
+msgstr "Ann am Firefox:"
+
+#: mozorg/plugincheck.lang:217
+msgid "Open the Tools menu."
+msgstr "Fosgail clàr-taice nan innealan."
+
+#. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
+#: mozorg/plugincheck.lang:223
+msgid "Open the <span class=\"menu\">menu</span>."
+msgstr "Fosgail an <span class=\"menu\">clàr-taice</span>."
+
+#: mozorg/plugincheck.lang:227
+msgid "Choose Add-ons."
+msgstr "Tagh \"Tuilleadain\"."
+
+#: mozorg/plugincheck.lang:231
+msgid "Click the plugins tab."
+msgstr "Briog air taba nam plugan."
+
+#: mozorg/plugincheck.lang:236
+msgid "Click on the drop down next to the plugin you wish to disable."
+msgstr ""
+"Briog air a' chlàr-taice ri taobh a' phlugain a bu toigh leat a chur à comas."
+
+#: mozorg/plugincheck.lang:240
+msgid "Click on a plugin in the list."
+msgstr "Briog air plugan san liosta."
+
+#: mozorg/plugincheck.lang:245
+msgid "Select \"Never Activate\" from the available choices."
+msgstr "Tagh \"Na gnìomhaich idir\" am measg nan roghainnean ann."
+
+#: mozorg/plugincheck.lang:249
+msgid "Click the Disable button."
+msgstr "Briog air a' phutan \"Cuir à comas\"."
+
+#: mozorg/plugincheck.lang:253
+msgid ""
+"Caution: disabling a plugin means that you will no longer be able to do "
+"certain things. For example, if you disable Flash, you will not be able to "
+"watch videos on YouTube."
+msgstr ""
+"An aire: Ma chuireas tu à comas plugan, 's ciall dha sin nach urrainn dhut "
+"tuilleadh cuid a rudan a dhèanamh. Mar eisimpleir, ma chuireas tu Flash à "
+"comas, chan fhaic thu videothan air YouTube tuilleadh."
+
+#: mozorg/plugincheck.lang:258
+msgid ""
+"Caution: disabling a plugin means that you will no longer be able to do "
+"certain things. For example, if you disable Flash, you will not be able to "
+"watch videos on some streaming video websites."
+msgstr ""
+"An aire: Ma chuireas tu à comas plugan, 's ciall dha sin nach urrainn dhut "
+"tuilleadh cuid a rudan a dhèanamh. Mar eisimpleir, ma chuireas tu Flash à "
+"comas, chan fhaic thu videothan air cuid a làraichean a shruthas video "
+"tuilleadh."
+
+#: mozorg/plugincheck.lang:262
+msgid "Mozilla Support"
+msgstr "Taic Mozilla"
+
+#: mozorg/plugincheck.lang:266
+msgid "Have more questions?"
+msgstr "A bheil barrachd cheistean agad?"
+
+#: mozorg/plugincheck.lang:270
+msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
+msgstr ""
+"Tadhail air <a href=\"%(sumo_url)s\">support.mozilla.org</a> airson barrachd "
+"taic!"
+
+#~ msgid ""
+#~ "We are aware of a problem detecting current versions of the Java plugin "
+#~ "and misreporting them as vulnerable."
+#~ msgstr ""
+#~ "Tha fhios againn gu bheil duilgheadas leis a' phlugan Java 's cuid a "
+#~ "dhaoine a' faighinn teachdaireachd air mhearachd gu bheil an tionndadh "
+#~ "làithreach so-leònta."
+
+#~ msgid ""
+#~ "We’re working to correct this error. In the meantime, you can <a href="
+#~ "\"%(download)s\">visit the Java website</a> to download the latest "
+#~ "version."
+#~ msgstr ""
+#~ "Tha sinn a' càradh na mearachd seo. San eadar-àm, 's urrainn dhut <a href="
+#~ "\"%(download)s\">tadhal air làrach-lìn Java</a> airson an tionndadh as "
+#~ "ùire a luchdadh a-nuas."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:198"
+#~ msgid "Open the Tools menu."
+#~ msgstr "Fosgail clàr-taice nan innealan."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:202"
+#~ msgid "Choose Add-ons."
+#~ msgstr "Tagh \"Tuilleadain\"."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:206"
+#~ msgid "Click the plugins tab."
+#~ msgstr "Briog air taba nam plugan."
+
+#~ msgctxt "./mozorg/plugincheck.lang:196"
+#~ msgid "Open the Tools menu."
+#~ msgstr "Fosgail clàr-taice nan innealan."
+
+#~ msgctxt "./mozorg/plugincheck.lang:200"
+#~ msgid "Choose Add-ons."
+#~ msgstr "Tagh \"Tuilleadain\"."
+
+#~ msgctxt "./mozorg/plugincheck.lang:204"
+#~ msgid "Click the plugins tab."
+#~ msgstr "Briog air taba nam plugan."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:195"
+#~ msgid "Open the Tools menu."
+#~ msgstr "Fosgail clàr-taice nan innealan."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:199"
+#~ msgid "Choose Add-ons."
+#~ msgstr "Tagh \"Tuilleadain\"."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:203"
+#~ msgid "Click the plugins tab."
+#~ msgstr "Briog air taba nam plugan."
+
+#~ msgctxt "./mozorg/plugincheck.lang:187"
+#~ msgid "Open the Tools menu."
+#~ msgstr "Fosgail clàr-taice nan innealan."
+
+#~ msgctxt "./mozorg/plugincheck.lang:191"
+#~ msgid "Choose Add-ons."
+#~ msgstr "Tagh \"Tuilleadain\"."
+
+#~ msgctxt "./mozorg/plugincheck.lang:195"
+#~ msgid "Click the plugins tab."
+#~ msgstr "Briog air taba nam plugan."

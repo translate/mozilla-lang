@@ -1,0 +1,403 @@
+#. extracted from ./firefox/sync.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-10 11:09+0000\n"
+"PO-Revision-Date: 2015-10-12 15:58+0000\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
+"Language-Team: none\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3 ;\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1444665526.000000\n"
+
+#: firefox/sync.lang:8
+msgid "Keep your Firefox in sync"
+msgstr "Cum am Firefox agad sioncronaichte"
+
+#: firefox/sync.lang:12
+msgid "Ready, Set, Sync"
+msgstr "Deiseil, deònach, dèan sioncronachadh"
+
+#: firefox/sync.lang:16
+msgid ""
+"You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
+msgstr ""
+"Rinn thu clàradh agus gheibh thu greim air am Firefox <em>agad fhèin</em> "
+"àite sam bith a-nis."
+
+#: firefox/sync.lang:20
+msgid "Take your Web with you"
+msgstr "Thoir leat an lìon"
+
+#: firefox/sync.lang:24
+msgid ""
+"Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
+"and more from any smartphone, tablet or computer."
+msgstr ""
+"Sioncronaich Firefox airson cothrom fhaighinn air na comharran-lìn, faclan-"
+"faire 's tabaichean agad o àite sam bith, ge b' ann air fòn tapaidh, tablaid "
+"no coimpiutair."
+
+#: firefox/sync.lang:29
+msgid ""
+"Sync your bookmarks, passwords, tabs and more using your Firefox Account, "
+"and access them everywhere you’re signed in."
+msgstr ""
+"Sioncronaich na comharran-lìn, faclan-faire ’s tabaichean is mòran a "
+"bharrachd slighe a’ chunntais Firefox agad is faigh cothrom orra àite sam "
+"bith far an do rinn thu clàradh a-steach."
+
+#: firefox/sync.lang:33
+msgid "It looks like you’re running an older version of Firefox."
+msgstr "Tha coltas gu bheil thu a' cleachdadh seann-tionndadh de Firefox."
+
+#: firefox/sync.lang:37
+msgid "The new version of Sync only works with the latest version of Firefox"
+msgstr ""
+"Chan obraich an tionndadh as ùire dhen ghleus sioncronachaidh ach leis an "
+"tionndadh as ùire de Firefox"
+
+#: firefox/sync.lang:42
+msgid "Soon you’ll be able to use Sync on your iOS device"
+msgstr ""
+"Chan fhada gus an urrainn dhut sioncronachadh a dhèanamh air an uidheam iOS "
+"agad"
+
+#: firefox/sync.lang:46
+msgid ""
+"Sync is just one of the great features you’ll only get with Firefox. "
+"Discover them all!"
+msgstr ""
+"Chan eil san t-sioncronachadh ach aon dhe na gleusan snasail againn ann am "
+"Firefox. Nach fheuch thu iad uile?"
+
+#. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
+#: firefox/sync.lang:52
+msgid "Sync is just one of the great features you’ll only get with Firefox."
+msgstr ""
+"Chan eil san t-sioncronachadh ach aon dhe na gleusan snasail againn ann am "
+"Firefox."
+
+#: firefox/sync.lang:56
+msgid "Download Firefox for Android"
+msgstr "Luchdaich a-nuas Firefox airson Android"
+
+#: firefox/sync.lang:60
+msgid "Get started with Sync"
+msgstr "Toiseach-tòiseachaidh leis an t-sioncronachadh"
+
+#: firefox/sync.lang:64
+msgid "Update your Firefox"
+msgstr "Ùraich am Firefox agad"
+
+#: firefox/sync.lang:68
+msgid "Download Firefox"
+msgstr "Luchdaich a-nuas Firefox"
+
+#: firefox/sync.lang:72
+msgid "Get started with Sync in four easy steps:"
+msgstr ""
+"Toiseach-tòiseachaidh leis an t-sioncronachadh ann an ceithir ceumannan:"
+
+#. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+#. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
+#: firefox/sync.lang:78
+msgid ""
+"Open the <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
+"href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of Firefox and "
+"select “<strong>Sign in to Sync.</strong>”"
+msgstr ""
+"Fosgail an <a class=\"menu ga-link\" data-interaction=\"outbound link click"
+"\" href=\"%(url)s#w_a-handy-new-menu\">clàr-taice</a> gu h-àrd ann am "
+"Firefox air an taobh deas is tagh \"<strong>Clàraich a-steach airson "
+"sioncronachadh.</strong>\""
+
+#. (NEW STRING) <strong> tags used for font color formatting.
+#: firefox/sync.lang:83
+msgid "Click “<strong>Get started</strong>” in the tab that opens."
+msgstr ""
+"Briog air \"<strong>Toiseach-tòiseachaidh</strong>\" anns an taba a "
+"dh'fhosglas."
+
+#. (NEW STRING) <strong> tags used for font color formatting.
+#: firefox/sync.lang:88
+msgid ""
+"Enter an email address and password to “<strong>Create a Firefox Account.</"
+"strong>”"
+msgstr ""
+"Cuir a-steach seòladh puist-d agus facal-faire is briog air "
+"\"<strong>Cruthaich cunntas Firefox.</strong>\""
+
+#. (NEW STRING) <strong> tags used for font color formatting.
+#: firefox/sync.lang:93
+msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
+msgstr ""
+"Briog air \"<strong>Air adhart</strong>\" is gheibh thu post-d dearbhaidh."
+
+#: firefox/sync.lang:97
+msgid ""
+"After you check your email and click the verification link, you’ll be all "
+"set! Firefox will automatically sync in the background from then on."
+msgstr ""
+"An dèidh dhut sùil a thoirt air a' phost-d agad is briogadh air a' cheangal "
+"dearbhaidh, bidh gach rud deiseil! Nì Firefox sioncronachadh sa chùlaibh o "
+"seo a-mach gu fèin-obrachail."
+
+#: firefox/sync.lang:101
+msgid "Get more detailed instructions."
+msgstr "Faigh stiùireadh nas mionaidiche."
+
+#: firefox/sync.lang:105
+msgid "Using an older version of Sync?"
+msgstr ""
+"A bheil thu a' cleachdadh tionndadh nas sine dhen ghleus sioncronachaidh?"
+
+#. This string is displayed on Android devices
+#: firefox/sync.lang:110
+msgid "How to set up Sync in five easy steps:"
+msgstr "Ma r a shuidhicheas tu an sioncronachadh ann an còig ceumannan:"
+
+#. <strong> tags below used for font color formatting.
+#. This string is displayed on Android devices
+#: firefox/sync.lang:116
+msgid ""
+"Tap the <strong>Menu</strong> button (either below the screen or at the top "
+"right corner of the browser)."
+msgstr ""
+"Thoir gnogag air putan <strong>a' chlàir-thaice</strong> (air an sgrìn gu h-"
+"ìosal no aig barr a' bhrabhsair air an taobh deas)."
+
+#. This string is displayed on Android devices
+#: firefox/sync.lang:121
+msgid ""
+"Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
+"first)."
+msgstr ""
+"Tagh <strong>Roghainnean</strong> (tha teans gum bi agad ri gnogag a thoirt "
+"air <strong>Barrachd</strong> an toiseach)."
+
+#. This string is displayed on Android devices
+#: firefox/sync.lang:126
+msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
+msgstr ""
+"Thoir gnogag air <strong>Sioncronaich</strong> agus an uairsin "
+"<strong>Toiseach-tòiseachaidh</strong>."
+
+#. This string is displayed on Android devices
+#: firefox/sync.lang:131
+msgid ""
+"The <strong>Create a Firefox Account page</strong> will open in a new tab."
+msgstr ""
+"Thèid an duilleag <strong>Cruthaich cunntas Firefox ùr</strong> fhosgladh "
+"ann an taba ùr."
+
+#. This string is displayed on Android devices
+#: firefox/sync.lang:136
+msgid "Fill out the form and click <strong>Next</strong>."
+msgstr "Lìon am foirm is briog air <strong>Air adhart</strong>."
+
+#. This string is displayed on Android devices
+#: firefox/sync.lang:141
+msgid ""
+"After you check your email and click the verification link, you’ll be ready "
+"to go! Don’t forget to connect all your other devices to get the most of "
+"Sync."
+msgstr ""
+"An dèidh dhut sùil a thoirt air a' phost-d agus briogadh air a' cheangal "
+"dearbhaidh, bidh thu deiseil. Ceangail na h-uidheaman eile agad ris airson "
+"gleus an t-sioncronachaidh a chur gu làn-fheum."
+
+#: firefox/sync.lang:145
+msgid "Sync a little. Sync a lot."
+msgstr "Sioncronachadh, mòr no beag."
+
+#: firefox/sync.lang:149
+msgid ""
+"You choose what parts of your Firefox you want to sync and where you want to "
+"sync them. Take your open tabs on your daily commute. Access your bookmarks "
+"at work. Whatever, whenever, everywhere."
+msgstr ""
+"Cuir romhad dè na pìosan de Firefox a thèid a shioncronachadh agus càit an "
+"dèid an cur. Thoir na tabaichean fosgailte agad leat air an rathad. Faigh "
+"cothrom air na comharran-lìn agad aig an obair. Rud sam bith, uair sam bith, "
+"àite sam bith."
+
+#: firefox/sync.lang:154
+msgid ""
+"Want to visit your computer’s open tabs from another device? Access your "
+"browsing history on the go? Keep your passwords with you? Now you can."
+msgstr ""
+"A bheil thu ag iarraidh na tabaichean a tha fosgailte agad air uidheam eile? "
+"No cothrom air eachdraidh a’ bhrabhsaidh agad air an rathad? Na faclan-faire "
+"agad? Gabhaidh a dhèanamh a-nis."
+
+#: firefox/sync.lang:159
+msgid "Here’s what you can sync:"
+msgstr "Seo nas urrainn dhut sioncronachadh:"
+
+#: firefox/sync.lang:164
+msgid "Bookmarks"
+msgstr "Comharran-lìn"
+
+#: firefox/sync.lang:169
+msgid "Passwords"
+msgstr "Faclan-faire"
+
+#: firefox/sync.lang:174
+msgid "Open tabs"
+msgstr "Tabaichean fosgailte"
+
+#: firefox/sync.lang:179
+msgid "History"
+msgstr "Eachdraidh"
+
+#: firefox/sync.lang:183
+msgid "At home"
+msgstr "Aig an taigh"
+
+#: firefox/sync.lang:187
+msgid ""
+"Move from your desk to the couch without skipping a beat. Access your open "
+"tabs on your smartphone, or keeping browsing your bookmarks right on your "
+"tablet."
+msgstr ""
+"O sheòmar gu seòmar gun stadadh sam bith. Na tabaichean fosgailte agad air "
+"an fhòn tapaidh agad no na comharran-lìn agad air an tablaid agad."
+
+#: firefox/sync.lang:191
+msgid "At work"
+msgstr "Aig an obair"
+
+#: firefox/sync.lang:195
+msgid ""
+"Stay connected to all of your important information. Sync the passwords and "
+"bookmarks that you might need to access at any time. Just like Firefox, it’s "
+"safe as can be."
+msgstr ""
+"Cum ceangailte ris an fhiosrachadh chudromach agad. Sioncronaich na faclan-"
+"faire 's comharran-lìn a tha feum agad orra fad an t-siubhail. Mar a tha "
+"Firefox, tha e cho sàbhailte 's a dh'fhaodadh a bhith."
+
+#: firefox/sync.lang:199
+msgid "On the go"
+msgstr "Air an rathad"
+
+#: firefox/sync.lang:203
+msgid ""
+"Keep up with your favorite sites, or finish that story you started at home — "
+"wherever you go. With Sync, it’s never been easier."
+msgstr ""
+"Cum suas ris na làraichean as fhearr leat no cuir crìoch air rud a thòisich "
+"thu aig an taigh — ge be càit a bheil thu. Cha robh e na b' fhasa a-riamh "
+"roimhe."
+
+#: firefox/sync.lang:208
+msgid "Add Firefox to your smartphone or tablet"
+msgstr "Cuir Firefox ris an fhòn tapaidh no tablaid agad"
+
+#: firefox/sync.lang:213
+msgid ""
+"To get the full Sync experience, get Firefox for iOS or Android and connect "
+"all your devices — everywhere and anywhere you use Firefox."
+msgstr ""
+"Cuir an sioncronachadh gu làn-fheum is faigh Firefox airson iOS no Android "
+"is ceangail na h-uidheaman air fad agad ris – àite sam bith a chleachdas tu "
+"Firefox."
+
+#: firefox/sync.lang:218
+msgid "Add Firefox"
+msgstr "Cuir Firefox ris"
+
+#: firefox/sync.lang:222
+msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
+msgstr "A bheil <b>fòn tapaidh</b> no <b>tablaid Android</b> agad?"
+
+#: firefox/sync.lang:226
+msgid "DOWNLOAD FIREFOX FOR ANDROID"
+msgstr "LUCHDAICH A-NUAS FIREFOX AIRSON ANDROID"
+
+#: firefox/sync.lang:230
+msgid ""
+"To get the full Sync experience, take your Web with you everywhere you use "
+"Firefox. Connect your smartphone, tablet, computer and laptop."
+msgstr ""
+"Cuir an sioncronachadh gu làn-fheum, thoir an lìon leat ge be càit an "
+"cleachd thu Firefox. Ceangail ris am fòn tapaidh, tablaid, coimpiutair agus "
+"laptop agad."
+
+#~ msgid ""
+#~ "Instantly make Firefox your own wherever you use it. Seamlessly sync your "
+#~ "bookmarks, history, passwords and more and access them from any device."
+#~ msgstr ""
+#~ "Cuir Firefox air gleus dhut fhèin ge be càit an cleachd thu e. "
+#~ "Sioncronaich na comharran-lìn, an eachdraidh, na faclan-faire is mòran a "
+#~ "bharrachd is faigh cothrom orra o uidheam sam bith."
+
+#~ msgid "Get started with Sync. It’s fast, safe and easy:"
+#~ msgstr "Tòisich air an t-sioncronachadh. Tha e luath, sàbhailte is furasta:"
+
+#~ msgid ""
+#~ "Open the <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">menu</a> "
+#~ "in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”"
+#~ msgstr ""
+#~ "Fosgail an <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">clàr-"
+#~ "taice</a> gu h-àrd ann am Firefox air an taobh deas is tagh "
+#~ "\"<strong>Clàraich a-steach airson sioncronachadh.</strong>\""
+
+#~ msgid ""
+#~ "Open the <a href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right "
+#~ "of Firefox and select “Sign in to Sync.”"
+#~ msgstr ""
+#~ "Fosgail an <a href=\"%(url)s#w_a-handy-new-menu\">clàr-taice</a> gu h-àrd "
+#~ "ann am Firefox air an taobh deas is tagh \"Clàraich a-steach airson "
+#~ "sioncronachadh.\""
+
+#~ msgid "Click “Get started” in the tab that opens."
+#~ msgstr ""
+#~ "Briog air an taba \"Toiseach-tòiseachaidh\" a dh'fhosglas an uairsin."
+
+#~ msgid "Enter an email address and password to “Create a Firefox Account.”"
+#~ msgstr ""
+#~ "Cuir a-steach seòladh puist-d agus facal-faire is briog air \"Cruthaich "
+#~ "cunntas Firefox.\""
+
+#~ msgid "Click “Next” to get a verification sent to your email."
+#~ msgstr "Briog air \"Air adhart\" is gheibh thu post-d dearbhaidh."
+
+#~ msgid "Check your email and click the verification link."
+#~ msgstr "Thoir sùil air a' phost-d agus briog air a' cheangal dearbhaidh."
+
+#~ msgid ""
+#~ "You’re all set! Firefox will automatically sync in the background from "
+#~ "now on."
+#~ msgstr ""
+#~ "Sin thu deiseil! Nì Firefox sioncronachadh sa chùlaibh a-mach o seo."
+
+#~ msgid "Have an Android phone or tablet?"
+#~ msgstr "A bheil fòn no tablaid Android agad?"
+
+#~ msgid ""
+#~ "<a href=\"%(url)s\">Download Firefox for Android</a> to sync between your "
+#~ "desktop and mobile devices."
+#~ msgstr ""
+#~ "<a href=\"%(url)s\">Luchdaich a-nuas Firefox airson Android</a> gus "
+#~ "sioncronachadh a dhèanamh eadar na h-uidheaman desktop is mobile agad."
+
+#~ msgid ""
+#~ "Download Firefox for Android to sync between your desktop and mobile "
+#~ "devices."
+#~ msgstr ""
+#~ "Luchdaich a-nuas Firefox airson Android gus sioncronachadh a dhèanamh "
+#~ "eadar na h-uidheaman desktop is mobile agad."
+
+#~ msgid "Get it free from Google Play"
+#~ msgstr "Faigh e saor an-asgaidh air Google Play"
+
+#~ msgid "Need help?"
+#~ msgstr "Cobhair a dhìth?"

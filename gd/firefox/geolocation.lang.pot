@@ -1,0 +1,371 @@
+#. extracted from ./firefox/geolocation.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"PO-Revision-Date: 2015-03-12 14:22+0000\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
+"Language-Team: none\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3 ;\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1426170167.000000\n"
+
+#: firefox/geolocation.lang:6
+msgid "Geolocation in Firefox"
+msgstr "Geò-lorgadh ann am Firefox"
+
+#: firefox/geolocation.lang:10
+msgid "Location-Aware Browsing"
+msgstr "Brabhsadh a mhothaicheas dha d' àite"
+
+#: firefox/geolocation.lang:14
+msgid ""
+"Firefox can tell websites where you’re located so you can find info that’s "
+"more relevant and more useful. It’s about making the Web smarter &ndash; and "
+"is done in a way that totally respects your privacy. <a href=\"%(url)s\" id="
+"\"%(id)s\" style=\"%(style)s\">Give it a try!</a>"
+msgstr ""
+"'S urrainn dha Firefox innse do làraichean-lìn càit a bheil thu airson 's "
+"gum faigh thu fiosrachadh a tha iomchaidh dhan àite far a bheil thu. Eadar-"
+"lìon nas glice, mar gum biodh &ndash; agus air dòigh a dhìonas do "
+"phrìobhaideachd fhathast. <a href=\"%(url)s\" id=\"%(id)s\" style=\"%(style)s"
+"\">Siuthad, feuch e!</a>"
+
+#: firefox/geolocation.lang:18
+msgid "Frequently asked Questions"
+msgstr "CÀBHA - Na Ceistean Àbhaisteach"
+
+#: firefox/geolocation.lang:22
+msgid "What is Location-Aware Browsing?"
+msgstr "Dè th' ann am brabhsadh a mhothaicheas dha m' àite?"
+
+#: firefox/geolocation.lang:26
+msgid ""
+"Websites that use location-aware browsing will ask where you are in order to "
+"bring you more relevant information, or to save you time while searching. "
+"Let’s say you’re looking for a pizza restaurant in your area. A website will "
+"be able to ask you to share your location so that simply searching for "
+"“pizza” will bring you the answers you need... no further information or "
+"extra typing required."
+msgstr ""
+"Mas urrainn dha làrach-lìn mothachadh dhan àite far a bheil thu, "
+"faighnichidh i dhen bhrabhsair càit a bheil thu airson ùine a shàbhaladh "
+"dhut. Can gu bheil thu a' lorg taigh pizza 'nad sgìre. Ma tha fios aig "
+"làrach-lìn càit a bheil thu, cha leig thu leas ach am facal \"pizza\" a chur "
+"a-steach agus gheibh thu taighean pizza 'nad sgìre-sa... gun fheum air "
+"barrachd fiosrachaidh no taidhpidh."
+
+#: firefox/geolocation.lang:30
+msgid ""
+"Or, if you’re mapping out directions to get somewhere, the website will know "
+"where you’re starting from so all you have to do is tell it where you want "
+"to go."
+msgstr ""
+"No ma tha thu a' sireadh stiùireadh a dh'àite air choireigin, bidh fios aig "
+"an làrach-lìn càit a bheil thu a' tòiseachadh air do thuras agus cha leig "
+"thu leas ach innse dha càit a bheil thu a' dol."
+
+#: firefox/geolocation.lang:34
+msgid ""
+"This service is totally optional &ndash; Firefox doesn’t share your location "
+"without your permission &ndash; and is done with the utmost respect for your "
+"privacy. And, like all elements of Firefox, it’s being created using open "
+"standards to ease adoption by Web developers."
+msgstr ""
+"'S e seirbheis gu tur roghainneil a tha seo &ndash; cha nochd Firefox d' "
+"ionad gun chead uat &ndash; agus bidh sinn fhathast a' làn-dìon do "
+"phrìobhaideachd. Agus, mar a tha e le co-phàirt sam bith de Firefox, tha "
+"sinn 'ga chruthachadh stèidhichte air stannardan fosgailte airson 's gum bi "
+"e furasta do luchd-leasachaidh an eadar-lìn a chur gu feum."
+
+#: firefox/geolocation.lang:38
+msgid "How does it work?"
+msgstr "Ciamar a dh'obraicheas e?"
+
+#: firefox/geolocation.lang:42
+msgid ""
+"When you visit a location-aware website, Firefox will ask you if you want to "
+"share your location."
+msgstr ""
+"Ma thadhlas tu air làrach-lìn as urrainn dha mothachadh dha d' ionad, "
+"faighnichidh Firefox a bheil thu airson d' ionad a nochdadh ris."
+
+#: firefox/geolocation.lang:46
+msgid ""
+"If you consent, Firefox gathers information about nearby wireless access "
+"points and your computer’s IP address. Then Firefox sends this information "
+"to the default geolocation service provider, Google Location Services, to "
+"get an estimate of your location. That location estimate is then shared with "
+"the requesting website."
+msgstr ""
+"Ma dh'aontaicheas tu ris, cruinnichidh Firefox fiosrachadh a thaobh nam "
+"puingean inntrigidh uèirleas a tha faisg ort agus seòladh IP a' choimpiutair "
+"agad. Cuiridh Firefox am fiosrachadh seo do sholaraiche bunaiteach na "
+"seirbheise geò-lorgaidh, Google Location Services, airson tuairmeas "
+"fhaighinn air d' ionad. Agus thèid an tuairmeas seo a nochdadh ris an làrach-"
+"lìn a dh'iarr d' ionad an uairsin."
+
+#: firefox/geolocation.lang:50
+msgid "If you say that you do not consent, Firefox will not do anything."
+msgstr "Ma dhiùltas tu seo, cha dèan Firefox dad."
+
+#: firefox/geolocation.lang:54
+msgid "How accurate are the locations?"
+msgstr "Dè cho pongail 's a tha na h-ionadan seo?"
+
+#: firefox/geolocation.lang:58
+msgid ""
+"Accuracy varies greatly from location to location. In some places, our "
+"service providers may be able to provide a location to within a few meters. "
+"However, in other areas it might be much more than that. All locations "
+"returned by our service providers are estimates only and we do not guarantee "
+"the accuracy of the locations provided. Please do not use this information "
+"for emergencies. Always use common sense."
+msgstr ""
+"Tha a' phongalachd a' crochadh air an àite far a bheil thu. Ann an cuid a "
+"dh'àitichean bidh seo gu math pongail, beagan mheatairean air falbh uat. Ach "
+"cha bhi e cho pongail ann an àitichean eile. Chan eil sna h-ionadan uile ach "
+"tuairmeasan a thug solaraiche na seirbheise dhuinn agus chan urrainn dhuinn "
+"barantas a thoirt gum bi iad seo buileach ceart. Cha bu chòir dhut am "
+"fiosrachadh seo a chleachdadh ann an èiginn - bidh toinisgeil d' a thaobh an-"
+"còmhnaidh."
+
+#: firefox/geolocation.lang:62
+msgid ""
+"What information is being sent, and to whom? How is my privacy protected?"
+msgstr ""
+"Dè am fiosrachadh a tha 'ga chur 's cò thuige? Ciamar a tha sibh a' dìon mo "
+"phrìobhaideachd?"
+
+#: firefox/geolocation.lang:66
+msgid ""
+"Your privacy is extremely important to us, and Firefox never shares your "
+"location without your permission. When you visit a page that requests your "
+"information, you’ll be asked before any information is shared with the "
+"requesting website and our third-party service provider."
+msgstr ""
+"Tha do phrìobhaideachd air leth cudromach dhuinn agus cha nochd Firefox d' "
+"ionad idir gun aonta uat. Ma thadhlas tu air duilleag a tha ag iarraidh "
+"fiosrachadh uat, faighnichidh sinn dhìot mus dèid dad a nochdadh ris an "
+"làrach-lìn a dh'iarr e agus ris an t-solaraiche treas-phàrtaidh againn."
+
+#: firefox/geolocation.lang:70
+msgid ""
+"By default, Firefox uses Google Location Services to determine your location "
+"by sending:"
+msgstr ""
+"Cleachdaidh Firefox Google Location Services a ghnàth airson tuairmeas a "
+"dhèanamh air d' ionad is e a' cur:"
+
+#: firefox/geolocation.lang:74
+msgid "your computer’s IP address,"
+msgstr "seòladh IP a' choimpiutair agad,"
+
+#: firefox/geolocation.lang:78
+msgid "information about the nearby wireless access points, and"
+msgstr "fiosrachadh mu na puingean inntrigidh uèirleas faisg ort agus"
+
+#: firefox/geolocation.lang:82
+msgid ""
+"a random client identifier, which is assigned by Google, that expires every "
+"2 weeks."
+msgstr ""
+"aithnichear cliaint air thuaiream a thèid iomruineadh le Google agus a "
+"dh'fhalbhas an ùine air gach cola-deug."
+
+#: firefox/geolocation.lang:86
+msgid ""
+"For a complete description of information collected and used by Firefox, "
+"please see the <a href=\"%(url)s\">Firefox Privacy Notice</a>."
+msgstr ""
+"Airson tuairisgeul mionaideach air an fhiosrachadh a chruinnicheas is a "
+"chleachdas Firefox, thoir sùil air <a href=\"%(url)s\">sanas prìobhaideachd "
+"Firefox</a>."
+
+#: firefox/geolocation.lang:90
+msgid ""
+"Google Location Services then returns your estimated geolocation (e.g., "
+"latitude and longitude). For a complete description of information collected "
+"and used by Google, please see the <a href=\"%(url)s\" class=\"%(class)s"
+"\">Google Geolocation Privacy Policy</a>."
+msgstr ""
+"Bheir Google Location Services dhuinn tuairmeas air an àite far a bheil thu "
+"('s e sin an domhan-leud agus an domhan-fhad). Airson tuairisgeul "
+"mionaideach air an fhiosrachadh a chruinnicheas is a chleachdas Google, "
+"thoir sùil air <a href=\"%(url)s\" class=\"%(class)s\">poileasaidh "
+"prìobhaideachd Google a thaobh geò-lorgaidh</a>."
+
+#: firefox/geolocation.lang:94
+msgid ""
+"The information is exchanged over an encrypted connection to protect your "
+"privacy. Once Firefox has your location information, it passes it to the "
+"website that requested it. At no time is the name or location of the website "
+"you are visiting, or are any cookies, ever shared with Google Location "
+"Services."
+msgstr ""
+"Thèid am fiosrachadh seo a chur air ceangal crioptaichte gus do "
+"phrìobhaideachd a dhìon. Turas a gheibh Firefox am fiosrachadh mu d' ionad, "
+"sìnidh e seo air adhart dhan làrach-lìn a dh'iarr e. Cha dèid ainm no ionad "
+"na làraich-lìn air a bheil thu a' tadhal no briosgaid sam bith a' nochdadh "
+"dha Google Location Services idir aig àm sam bith."
+
+#: firefox/geolocation.lang:98
+msgid ""
+"Neither Mozilla or Google will ever use the information collected by Google "
+"Location Services to identify or spy on you."
+msgstr ""
+"Cha chleachd Mozilla no Google am fiosrachadh a chruinnicheas Google "
+"Location Services gu sìorraidh bràth gus d' aithneachadh gu pearsanta no "
+"airson brathadh ort."
+
+#: firefox/geolocation.lang:102
+msgid ""
+"For information about what the requesting website does with your location "
+"information, please refer to that website’s privacy policy."
+msgstr ""
+"A thaobh na nì an làrach-lìn fhèin leis an fhiosrachadh mu d' ionad, bu "
+"chòir dhut sùil a thoirt air poileasaidh prìobhaideachd na làraich fhèin."
+
+#: firefox/geolocation.lang:106
+msgid "For more information about your privacy, you should also read:"
+msgstr ""
+"Airson barrachd fiosrachaidh mu do phrìobhaideachd, bu chòir dhut sùil a "
+"thoirt air na leanas cuideachd:"
+
+#: firefox/geolocation.lang:110
+msgid "Mozilla Firefox Privacy Notice"
+msgstr "Aithris prìobhaideachd Mozilla Firefox"
+
+#: firefox/geolocation.lang:114
+msgid "Google privacy policy"
+msgstr "Poileasaidh prìobhaideachd Google"
+
+#: firefox/geolocation.lang:118
+msgid "Am I being tracked as I browse the web?"
+msgstr "A bheilear 'gam thracadh is mi a' siubhal an lìn?"
+
+#: firefox/geolocation.lang:122
+msgid ""
+"No. Firefox only requests a location when a website makes a request, and "
+"only shares your location when the user has approved the request. Firefox "
+"does not track or remember your location as you browse."
+msgstr ""
+"Chan eil. Chan iarr Firefox ionad ach ma dh'iarras làrach-lìn e agus cha "
+"nochd e d' ionad mur an doir thusa cead dha Firefox a nochdadh. Cha dèan "
+"Firefox tracadh ort is cha chuimhnich e d' ionad is tu a' siubhal an lìn."
+
+#: firefox/geolocation.lang:126
+msgid "How do I undo a permission granted to a site?"
+msgstr "Ciamar a bheir mi air falbh cead o làrach a thug mi cead dha roimhe?"
+
+#: firefox/geolocation.lang:130
+msgid ""
+"If you've given Firefox permission to always give your location to a site "
+"and later change your mind, you can easily revoke that permission. Here's "
+"how:"
+msgstr ""
+"Ma thug thu cead dha Firefox d' ionad a nochdadh do làrach uair sam bith 's "
+"ma chuireas tu romhad a chaochladh an uairsin, tha e furasta an cead a thug "
+"thu a thoirt air falbh. Seo mar a nì thu sin:"
+
+#: firefox/geolocation.lang:134
+msgid "Navigate to the site to which you’ve given permission"
+msgstr "Tadhail air an làrach a thug thu cead dha roimhe"
+
+#: firefox/geolocation.lang:138
+msgid "Go to the <em>Tools</em> menu, then select <em>Page Info</em>"
+msgstr ""
+"Fosgail clàr-taice nan <em>Innealan</em> is tagh <em>Fiosrachadh na "
+"duilleige</em>"
+
+#: firefox/geolocation.lang:142
+msgid "Select the <em>Permissions</em> tab"
+msgstr "Tagh taba nan <em>Ceadan</em>"
+
+#: firefox/geolocation.lang:146
+msgid "Change the setting for <em>Share Location</em>"
+msgstr "Atharraich an roghainn <em>Co-roinn an t-ionad</em>"
+
+#: firefox/geolocation.lang:150
+msgid "How do I clear the “random client identification number”?"
+msgstr ""
+"Ciamar a bheir mi air falbh an \"àireamh aithneachadh cliaint air thuaiream"
+"\"?"
+
+#: firefox/geolocation.lang:154
+msgid ""
+"Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>"
+msgstr ""
+"Fosgail clàr-taice nan <em>Innealan</em> is tagh <em>Falamhaich an "
+"eachdraidh faisg ort</em>"
+
+#: firefox/geolocation.lang:158
+msgid "Click the <em>Details</em> arrow"
+msgstr "Briog air an t-saighead <em>Mion-fhiosrachadh</em>"
+
+#: firefox/geolocation.lang:162
+msgid "Ensure that <em>Cookies</em> is selected"
+msgstr "Dèan cinnteach gun do thagh thu <em>Briosgaidean</em>"
+
+#: firefox/geolocation.lang:166
+msgid "Click on <em>Clear Now</em>"
+msgstr "Briog air <em>Falamhaich an-dràsta</em>"
+
+#: firefox/geolocation.lang:170
+msgid "How do I turn off Location-Aware Browsing permanently?"
+msgstr ""
+"Ciamar a chuireas mi dheth am brabhsadh a mhothaicheas dha m' ionad gu buan?"
+
+#: firefox/geolocation.lang:174
+msgid ""
+"Location-Aware Browsing is always opt-in in Firefox. No location information "
+"is ever sent without your permission. If you wish to disable the feature "
+"completely, please follow this set of steps:"
+msgstr ""
+"Cha bhi brabhsadh a mhothaicheas ri d' àite air o thùs idir. Cha dèid "
+"fiosrachadh mu d' àite a chur a-null gun do chead idir. Ma tha thu airson am "
+"feart seo a chur dheth gu tur, dèan nan leanas:"
+
+#: firefox/geolocation.lang:178
+msgid "In the URL bar, type <code>about:config</code>"
+msgstr "Cuir na leanas ann am bàr an URL:<code>about:config</code>"
+
+#: firefox/geolocation.lang:182
+msgid "Type <code>geo.enabled</code>"
+msgstr "Cuir a-steach <code>geo.enabled</code>"
+
+#: firefox/geolocation.lang:186
+msgid "Double click on the <em>geo.enabled</em> preference"
+msgstr "Dèan briogadh dùbailte air an roghainn <em>geo.enabled</em>"
+
+#: firefox/geolocation.lang:190
+msgid "Location-Aware Browsing is now disabled"
+msgstr "Tha brabhsadh a mhothaicheas dha d' àite dheth a-nis"
+
+#: firefox/geolocation.lang:195
+msgid "How can I add support for Geolocation to my web site?"
+msgstr "Ciamar a chuireas mi taic do gheò-lorgadh ris an làrach-lìn agam?"
+
+#. Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
+#: firefox/geolocation.lang:201
+msgid ""
+"You can integrate Geolocation support into your service by following the "
+"instruction at <a href=\"%(url)s\">Mozilla Developer Center</a>."
+msgstr ""
+"’S urrainn dhut taic do gheò-lorgadh a chur am broinn na seirbheise agad ’s "
+"tu a’ leantainn an stiùiridh air <a href=\"%(url)s\">Mozilla Developer "
+"Center</a>."
+
+#: firefox/geolocation.lang:205
+msgid "Where am I?"
+msgstr "Càit a bheil mi?"
+
+#: firefox/geolocation.lang:209
+msgid "Oops! An error occurred while trying to determine your position."
+msgstr "Ìoc! Thachair mearachd fhad 's a bha sinn a' fiosrachadh d' àite."
