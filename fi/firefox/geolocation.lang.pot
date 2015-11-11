@@ -1,0 +1,352 @@
+#. extracted from ./firefox/geolocation.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"PO-Revision-Date: 2015-05-05 12:32+0000\n"
+"Last-Translator: system user <>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1430829146.000000\n"
+
+#: firefox/geolocation.lang:6
+msgid "Geolocation in Firefox"
+msgstr "Firefox ja sijaintitiedot"
+
+#: firefox/geolocation.lang:10
+msgid "Location-Aware Browsing"
+msgstr "Selaa sijaintisi mukaan"
+
+#: firefox/geolocation.lang:14
+msgid ""
+"Firefox can tell websites where you’re located so you can find info that’s "
+"more relevant and more useful. It’s about making the Web smarter &ndash; and "
+"is done in a way that totally respects your privacy. <a href=\"%(url)s\" id="
+"\"%(id)s\" style=\"%(style)s\">Give it a try!</a>"
+msgstr ""
+"Firefox osaa kertoa verkkosivuille, missä olet milloinkin, jolloin löydät "
+"asiaankuuluvaa ja hyödyllistä tietoa nopeammin. Sijaintitiedot tekevät "
+"verkosta älykkäämmän, ja sijaintisi selvitetään yksityisyyttäsi "
+"kunnioittavalla tavalla. <a href=\"%(url)s\" id=\"%(id)s\" style=\"%(style)s"
+"\">Kokeile paikannusta</a>"
+
+#: firefox/geolocation.lang:18
+msgid "Frequently asked Questions"
+msgstr "Usein kysyttyjä kysymyksiä"
+
+#: firefox/geolocation.lang:22
+msgid "What is Location-Aware Browsing?"
+msgstr "Mitä sijaintitietoinen selaus on?"
+
+#: firefox/geolocation.lang:26
+msgid ""
+"Websites that use location-aware browsing will ask where you are in order to "
+"bring you more relevant information, or to save you time while searching. "
+"Let’s say you’re looking for a pizza restaurant in your area. A website will "
+"be able to ask you to share your location so that simply searching for "
+"“pizza” will bring you the answers you need... no further information or "
+"extra typing required."
+msgstr ""
+"Sijaintitietoiset verkkosivustot kysyvät selaimelta sijaintipaikkaasi, jotta "
+"ne voivat esittää asianmukaisia tietoja tarkemmin: voit säästää aikaasi mm. "
+"verkkohakuja tehdessäsi. Saatat olla esimerkiksi etsimässä lähistöllä "
+"sijaitsevaa pizzapaikkaa. Verkkosivusto voi pyytää sinua kertomaan "
+"sijaintisi, jolloin pelkkä hakusana ”pizza” palauttaa haluamasi hakutuloksen "
+"erityisiä lisätietoja syöttämättä."
+
+#: firefox/geolocation.lang:30
+msgid ""
+"Or, if you’re mapping out directions to get somewhere, the website will know "
+"where you’re starting from so all you have to do is tell it where you want "
+"to go."
+msgstr ""
+"Toinen esimerkki on karttapalvelu: verkkosivu voi selvittää, mistä olet "
+"milloinkin lähdössä liikkeelle, joten pelkkä matkan kohteen kertominen "
+"riittää."
+
+#: firefox/geolocation.lang:34
+msgid ""
+"This service is totally optional &ndash; Firefox doesn’t share your location "
+"without your permission &ndash; and is done with the utmost respect for your "
+"privacy. And, like all elements of Firefox, it’s being created using open "
+"standards to ease adoption by Web developers."
+msgstr ""
+"Paikannusominaisuuksien käyttäminen on täysin vapaaehtoista: Firefox ei "
+"välitä sijaintitietojasi ilman lupaa, ja ominaisuus kunnioittaa "
+"yksityisyyttäsi täysin. Lisäksi, kuten kaikki muutkin Firefoxin "
+"ominaisuudet, paikannustoiminnallisuus noudattaa avoimia standardeja, mikä "
+"helpottaa sen käyttöönottoa myös verkkosivujen kehittäjille."
+
+#: firefox/geolocation.lang:38
+msgid "How does it work?"
+msgstr "Miten se toimii?"
+
+#: firefox/geolocation.lang:42
+msgid ""
+"When you visit a location-aware website, Firefox will ask you if you want to "
+"share your location."
+msgstr ""
+"Kun käyt sijaintitietoisella verkkosivulla, Firefox kysyy, haluatko jakaa "
+"sijaintitietosi."
+
+#: firefox/geolocation.lang:46
+msgid ""
+"If you consent, Firefox gathers information about nearby wireless access "
+"points and your computer’s IP address. Then Firefox sends this information "
+"to the default geolocation service provider, Google Location Services, to "
+"get an estimate of your location. That location estimate is then shared with "
+"the requesting website."
+msgstr ""
+"Jos annat luvan, Firefox kerää tietoja läheisten WLAN-tukiasemien ja "
+"tietokoneesi IP-osoitteen perusteella. Tämän jälkeen Firefox lähettää tiedot "
+"paikannuspalvelun oletustarjoajalle, Google Location Servicesille, joka "
+"puolestaan palauttaa arvion sijainnistasi. Lopuksi sijaintiarvio välitetään "
+"kyselyn tehneelle verkkosivulle."
+
+#: firefox/geolocation.lang:50
+msgid "If you say that you do not consent, Firefox will not do anything."
+msgstr ""
+"Jos et annan Firefoxille lupaa tietojen jakamiseen, selain ei tee mitään."
+
+#: firefox/geolocation.lang:54
+msgid "How accurate are the locations?"
+msgstr "Kuinka tarkkoja sijaintitiedot ovat?"
+
+#: firefox/geolocation.lang:58
+msgid ""
+"Accuracy varies greatly from location to location. In some places, our "
+"service providers may be able to provide a location to within a few meters. "
+"However, in other areas it might be much more than that. All locations "
+"returned by our service providers are estimates only and we do not guarantee "
+"the accuracy of the locations provided. Please do not use this information "
+"for emergencies. Always use common sense."
+msgstr ""
+"Tarkkuus vaihtelee paljon sijainnistasi riippuen. Joissakin paikoissa "
+"palveluntarjoajat pystyvät paikantamaan sinut muutaman metrin säteellä, kun "
+"taas toisissa paikoissa paikannuksen säde voi olla paljon suurempi. Kaikki "
+"palveluntarjoajien toimittamat sijainnit ovat ainoastaan arvioita, emmekä "
+"takaa selvitettyjen sijaintien tarkkuutta. Sijaintitietoja ei tule käyttää "
+"hätätilanteissa. Turvaudu joka tapauksessa aina maalaisjärkeen."
+
+#: firefox/geolocation.lang:62
+msgid ""
+"What information is being sent, and to whom? How is my privacy protected?"
+msgstr "Mitä tietoja lähetetään ja kenelle? Kuinka yksityisyyteni on suojattu?"
+
+#: firefox/geolocation.lang:66
+msgid ""
+"Your privacy is extremely important to us, and Firefox never shares your "
+"location without your permission. When you visit a page that requests your "
+"information, you’ll be asked before any information is shared with the "
+"requesting website and our third-party service provider."
+msgstr ""
+"Yksityisyytesi turvaaminen merkitsee meille erittäin paljon, eikä Firefox "
+"koskaan jaa sijaintitietojasi luvatta. Kun käyt sivulla, joka pyytää "
+"sijaintitietoja, sinulta kysytään lupa, ennen kuin kyselyn tehnyt sivusto "
+"tai sijaintipalveluntarjoaja saa tietosi käyttöönsä."
+
+#: firefox/geolocation.lang:70
+msgid ""
+"By default, Firefox uses Google Location Services to determine your location "
+"by sending:"
+msgstr ""
+"Firefox käyttää oletuksena Google Location Servicesiä sijaintitietojesi "
+"selvittämiseen. Jaetut tiedot ovat:"
+
+#: firefox/geolocation.lang:74
+msgid "your computer’s IP address,"
+msgstr "tietokoneesi IP-osoite"
+
+#: firefox/geolocation.lang:78
+msgid "information about the nearby wireless access points, and"
+msgstr "tiedot läheisistä WLAN-tukiasemista"
+
+#: firefox/geolocation.lang:82
+msgid ""
+"a random client identifier, which is assigned by Google, that expires every "
+"2 weeks."
+msgstr ""
+"satunnainen Googlen tarjoama tunniste, joka uusiutuu kahden viikon välein"
+
+#: firefox/geolocation.lang:86
+msgid ""
+"For a complete description of information collected and used by Firefox, "
+"please see the <a href=\"%(url)s\">Firefox Privacy Notice</a>."
+msgstr ""
+"Voit tutustua täydelliseen kuvaukseen kerätyistä tiedoista <a href=\"%(url)s"
+"\">Firefoxin yksityisyyskäytännöt</a> -sivulla (englanniksi)."
+
+#: firefox/geolocation.lang:90
+msgid ""
+"Google Location Services then returns your estimated geolocation (e.g., "
+"latitude and longitude). For a complete description of information collected "
+"and used by Google, please see the <a href=\"%(url)s\" class=\"%(class)s"
+"\">Google Geolocation Privacy Policy</a>."
+msgstr ""
+"Google Location Services palauttaa tietojen käsittelyn jälkeen arvioidun "
+"sijaintisi (esimerkiksi leveys- ja pituusasteen). Täydelliseen kuvaukseen "
+"Googlen keräämistä ja käyttämistä tiedoista voit tutustua <a href=\"%(url)s"
+"\" class=\"%(class)s\">Googlen paikannustoimintojen yksityisyyskäytännöt</a> "
+"-sivulla (englanniksi)."
+
+#: firefox/geolocation.lang:94
+msgid ""
+"The information is exchanged over an encrypted connection to protect your "
+"privacy. Once Firefox has your location information, it passes it to the "
+"website that requested it. At no time is the name or location of the website "
+"you are visiting, or are any cookies, ever shared with Google Location "
+"Services."
+msgstr ""
+"Tiedot siirretään salatun yhteyden yli yksityisyyden takaamiseksi. Kun "
+"Firefox on kerännyt sijaintitietosi, se välittää tiedot kyselyn tehneelle "
+"verkkosivulle. Firefox ei koskaan kerro käyttämiesi verkkosivujen nimeä tai "
+"osoitetta taikka niiden asettamia evästeitä Google Location Servicesille."
+
+#: firefox/geolocation.lang:98
+msgid ""
+"Neither Mozilla or Google will ever use the information collected by Google "
+"Location Services to identify or spy on you."
+msgstr ""
+"Mozilla ja Google eivät milloinkaan käytä Google Location Servicesin "
+"keräämiä tietoja vakoilutarkoituksissa."
+
+#: firefox/geolocation.lang:102
+msgid ""
+"For information about what the requesting website does with your location "
+"information, please refer to that website’s privacy policy."
+msgstr ""
+"Saat lisätietoja kyselyitä tekevien verkkosivujen paikannustietojen "
+"käyttötarkoituksista tutustumalla asianomaisten sivujen "
+"yksityisyyskäytäntöihin."
+
+#: firefox/geolocation.lang:106
+msgid "For more information about your privacy, you should also read:"
+msgstr ""
+"Jos haluat lisätietoja yksityisyytesi takeista, tutustu myös seuraaviin:"
+
+#: firefox/geolocation.lang:110
+msgid "Mozilla Firefox Privacy Notice"
+msgstr "Mozilla Firefoxin yksityisyyskäytännöt"
+
+#: firefox/geolocation.lang:114
+msgid "Google privacy policy"
+msgstr "Googlen yksityisyyskäytännöt"
+
+#: firefox/geolocation.lang:118
+msgid "Am I being tracked as I browse the web?"
+msgstr "Seurataanko liikkeitäni, kun selaan verkkoa?"
+
+#: firefox/geolocation.lang:122
+msgid ""
+"No. Firefox only requests a location when a website makes a request, and "
+"only shares your location when the user has approved the request. Firefox "
+"does not track or remember your location as you browse."
+msgstr ""
+"Ei. Firefox selvittää sijaintisi ainoastaan, kun jokin verkkosivusto pyytää "
+"sijaintia, ja välittää sijaintitiedot vain, kun käyttäjä on hyväksynyt "
+"pyynnön. Firefox ei seuraa tai muista sijaintiasi, kun selaat verkkoa."
+
+#: firefox/geolocation.lang:126
+msgid "How do I undo a permission granted to a site?"
+msgstr "Kuinka voin kumota antamani sijaintitietojen lähetysluvan?"
+
+#: firefox/geolocation.lang:130
+msgid ""
+"If you've given Firefox permission to always give your location to a site "
+"and later change your mind, you can easily revoke that permission. Here's "
+"how:"
+msgstr ""
+"Jos olet antanut Firefoxille luvan lähettää sijaintisi joka kerta, kun käyt "
+"jollakin sivustolla, mutta muutat mielesi, voit kumota luvan helposti:"
+
+#: firefox/geolocation.lang:134
+msgid "Navigate to the site to which you’ve given permission"
+msgstr "Siirry sivustolle, jolle olet antanut luvan"
+
+#: firefox/geolocation.lang:138
+msgid "Go to the <em>Tools</em> menu, then select <em>Page Info</em>"
+msgstr "Valitse <em>Työkalut</em>-valikosta <em>Tietoja sivusta</em>"
+
+#: firefox/geolocation.lang:142
+msgid "Select the <em>Permissions</em> tab"
+msgstr "Valitse <em>Oikeudet</em>-välilehti"
+
+#: firefox/geolocation.lang:146
+msgid "Change the setting for <em>Share Location</em>"
+msgstr "Muuta <em>Jaa sijainti</em> -asetusta"
+
+#: firefox/geolocation.lang:150
+msgid "How do I clear the “random client identification number”?"
+msgstr "Kuinka voin poistaa satunnaisen tunnistenumeron?"
+
+#: firefox/geolocation.lang:154
+msgid ""
+"Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>"
+msgstr "Valitse <em>Työkalut</em>-valikosta <em>Poista historiatietoja</em>"
+
+#: firefox/geolocation.lang:158
+msgid "Click the <em>Details</em> arrow"
+msgstr "Napsauta <em>Yksityiskohdat</em>-nuolta"
+
+#: firefox/geolocation.lang:162
+msgid "Ensure that <em>Cookies</em> is selected"
+msgstr "Tarkista, että <em>Evästeet</em> on valittuna"
+
+#: firefox/geolocation.lang:166
+msgid "Click on <em>Clear Now</em>"
+msgstr "Valitse <em>Poista tiedot</em>"
+
+#: firefox/geolocation.lang:170
+msgid "How do I turn off Location-Aware Browsing permanently?"
+msgstr "Kuinka voin poistaa sijaintitietoisen selauksen lopullisesti käytöstä?"
+
+#: firefox/geolocation.lang:174
+msgid ""
+"Location-Aware Browsing is always opt-in in Firefox. No location information "
+"is ever sent without your permission. If you wish to disable the feature "
+"completely, please follow this set of steps:"
+msgstr ""
+"Sijaintitietoisen selauksen käyttäminen on aina vapaaehtoista Firefox:ssä. "
+"Mitään sijaintitietoja ei lähetetä ilman lupaasi. Jos haluat poistaa "
+"ominaisuuden käytöstä kokonaan:"
+
+#: firefox/geolocation.lang:178
+msgid "In the URL bar, type <code>about:config</code>"
+msgstr "Kirjoita osoitepalkkiin <code>about:config</code>"
+
+#: firefox/geolocation.lang:182
+msgid "Type <code>geo.enabled</code>"
+msgstr "Kirjoita <code>geo.enabled</code>"
+
+#: firefox/geolocation.lang:186
+msgid "Double click on the <em>geo.enabled</em> preference"
+msgstr "Kaksoisnapsauta <em>geo.enabled</em>-asetusta"
+
+#: firefox/geolocation.lang:190
+msgid "Location-Aware Browsing is now disabled"
+msgstr "Sijaintitietoinen selaus on nyt poistettu käytöstä"
+
+#: firefox/geolocation.lang:195
+msgid "How can I add support for Geolocation to my web site?"
+msgstr ""
+
+#. Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
+#: firefox/geolocation.lang:201
+msgid ""
+"You can integrate Geolocation support into your service by following the "
+"instruction at <a href=\"%(url)s\">Mozilla Developer Center</a>."
+msgstr ""
+
+#: firefox/geolocation.lang:205
+msgid "Where am I?"
+msgstr "Missä olen?"
+
+#: firefox/geolocation.lang:209
+msgid "Oops! An error occurred while trying to determine your position."
+msgstr "Sijaintitietojesi määrityksessä tapahtui virhe."
