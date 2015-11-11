@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-11-04 10:38+0000\n"
-"PO-Revision-Date: 2015-11-11 19:39+0000\n"
+"PO-Revision-Date: 2015-11-11 20:17+0000\n"
 "Last-Translator: Roberto Alvarado <ralv888@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_MX\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1447270757.000000\n"
+"X-POOTLE-MTIME: 1447273046.000000\n"
 
 #. Page Title and part of <title> tag
 #: firefox/push.lang:8
@@ -194,21 +194,22 @@ msgstr "Para detener el envío de tus mensajes de push:"
 
 #: firefox/push.lang:124
 msgid "Navigate to <em>Preferences/Options</em>"
-msgstr ""
+msgstr "Navega a <em>Preferencias/Opciones</em>"
 
 #: firefox/push.lang:129
 msgid ""
 "Click on <em>Content</em> and under Notifications, select <em>Choose…</em>"
 msgstr ""
+"Haz click en <em>Contenido</em> y debajo de Notificaciones, selecciona "
+"<em>Seleccionar…</em>"
 
 #: firefox/push.lang:133
-#, fuzzy
 msgid "Select the site."
 msgstr "Seleccionar el sitio."
 
 #: firefox/push.lang:138
 msgid "Select <strong>Remove Site</strong>."
-msgstr ""
+msgstr "Selecciona <strong>Eliminar Sitio</strong>."
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:143
@@ -224,7 +225,7 @@ msgstr ""
 
 #: firefox/push.lang:153
 msgid "How do I disable Push?"
-msgstr ""
+msgstr "¿Cómo desactivo Push?"
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:158
@@ -248,18 +249,20 @@ msgstr ""
 
 #: firefox/push.lang:175
 msgid "Select <strong>Remove All Sites</strong>."
-msgstr ""
+msgstr "Selecciona <strong>Eliminar todos los sitios</strong>."
 
 #: firefox/push.lang:180
 msgid ""
 "Websites will not be able to send you messages and will need to ask your "
 "permission to send them in the future."
 msgstr ""
+"Los sitios web no podrán enviarte mensajes y necesitaran solicitar permiso "
+"para enviarlos de nuevo en el futuro."
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:185
 msgid "Select <em>All Sites</em>."
-msgstr "Seleccionar <em>Todos los sitios</em>."
+msgstr "Seleccionar <em>Todos los Sitios</em>."
 
 #. Obsolete string, do not remove
 #: firefox/push.lang:190
@@ -274,15 +277,16 @@ msgstr ""
 # #-#-#-#-#  main.lang.po (PACKAGE VERSION)  #-#-#-#-#
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 #: firefox/push.lang:195
-#, fuzzy
 msgid "What’s New?"
-msgstr "Qué hay de nuevo"
+msgstr "¿Qué hay de nuevo?"
 
 #: firefox/push.lang:200
 msgid ""
 "Firefox has delivered on-screen notifications to open web pages for the last "
 "several releases."
 msgstr ""
+"Firefox ha enviado las notificaciones en pantalla para abrir paginas web en "
+"los últimos lanzamientos."
 
 #: firefox/push.lang:205
 msgid ""
@@ -290,12 +294,17 @@ msgid ""
 "even if they navigate away from the site or close the tab via a mechanism "
 "called Push."
 msgstr ""
+"Con Firefox 44, los usuarios pueden recibir notificaciones asociadas con una "
+"pagina web incluso si navegan lejos del sitio o cierran la pestaña mediante "
+"el mecanismo llamado Push."
 
 #: firefox/push.lang:210
 msgid ""
 "With Push, sites can update data in the background even without showing you "
 "a notification."
 msgstr ""
+"Con Push, los sitios pueden actualizar datos en segundo plano incluso sin "
+"mostrarte una notificación."
 
 #: firefox/push.lang:215
 msgid ""
