@@ -1,0 +1,397 @@
+#. extracted from ./mozorg/plugincheck.lang
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-07 17:24+0000\n"
+"PO-Revision-Date: 2015-09-08 09:24+0000\n"
+"Last-Translator: system user <>\n"
+"Language-Team: none\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1441704242.000000\n"
+
+#. Used as page title in HTML meta tag
+#: mozorg/plugincheck.lang:11
+msgid "Keep your Firefox healthy with a quick checkup"
+msgstr "Jadikan Firefox anda sihat dengan pemeriksaan pantas"
+
+#. Used as page description in HTML meta tag
+#: mozorg/plugincheck.lang:17
+msgid ""
+"Use Flash? QuickTime? Java? If you use these to make your Firefox experience "
+"more awesome, check your plugins! They may need to be updated."
+msgstr ""
+
+#. Old page <title> tag
+#: mozorg/plugincheck.lang:22
+msgid "Plugin Check &amp; Updates"
+msgstr "Semak Plugin &amp; Kemaskini"
+
+#. This is a button telling the user to update their plugin
+#: mozorg/plugincheck.lang:27
+msgid "Update Now"
+msgstr "Kemaskini Sekarang"
+
+#. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
+#: mozorg/plugincheck.lang:32
+msgid "Research"
+msgstr "Kajian"
+
+#. This string is used together with the plugin's name to create a query on Google when using the Research button.
+#: mozorg/plugincheck.lang:37
+msgid "current version plugin"
+msgstr "plugin versi semasa"
+
+#. This is a button informing the user that their plugin is up to date
+#: mozorg/plugincheck.lang:42
+msgid "Up to Date"
+msgstr "Yang Terkini"
+
+#. L10n: This is alt text used on plugin icon images
+#: mozorg/plugincheck.lang:47
+msgid "Plugin icon"
+msgstr "Ikon plugin"
+
+#. This is the string used to indicate that the plugin is unknown
+#: mozorg/plugincheck.lang:52
+msgid "unknown"
+msgstr "tidak diketahui"
+
+#. This is the string used to indicate that the plugin is vulnerable
+#: mozorg/plugincheck.lang:57
+msgid "vulnerable"
+msgstr "rentan"
+
+#. This is the string used to indicate that the plugin is outdated
+#: mozorg/plugincheck.lang:63
+msgid "outdated"
+msgstr "lapuk"
+
+#. Main title
+#: mozorg/plugincheck.lang:68
+msgid "Check Your Plugins"
+msgstr "Semak Plugin Anda"
+
+#: mozorg/plugincheck.lang:72
+msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
+msgstr ""
+"Jaga plugin anda yang terkini untuk membantu Firefox dijalankan dengan "
+"selamat dan mudah."
+
+#: mozorg/plugincheck.lang:77
+msgid "Currently the plugin check service is only available to Firefox users."
+msgstr "Kini service semakan plugin hanya tersedia kepada pengguna Firefox."
+
+#. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
+#: mozorg/plugincheck.lang:83
+msgid ""
+"Plugins don’t always update automatically. Check yours now to stay safe and "
+"browse without interruption!"
+msgstr ""
+
+#: mozorg/plugincheck.lang:87
+msgid "Looks like you’re using an older version of Firefox."
+msgstr "Seperti anda menggunakan versi daripada Firefox yang lama."
+
+#: mozorg/plugincheck.lang:91
+msgid "Plugin Status"
+msgstr "Status Plugin"
+
+#: mozorg/plugincheck.lang:96
+msgid ""
+"No plugins were found. If you believe this is an error, <a href="
+"\"%(bugzilla_url)s\">please file a bug</a> and let us know."
+msgstr ""
+"Tiada plugin yang dijumpai. Jika anda percaya ini adalah ralat, <a href="
+"\"%(bugzilla_url)s\">sila hantarkan bug</a> dan agar kami ketahuinya."
+
+#: mozorg/plugincheck.lang:100
+msgid ""
+"Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
+"use Tools &gt; Manage Addons"
+msgstr ""
+"Semak Plugin <strong>sokong untuk Internet Explorer adalah terhad</strong>. "
+"Dan guna Tools &gt; Uruskan Addon"
+
+#: mozorg/plugincheck.lang:104
+msgid "Step 1: Click Update to update a plugin."
+msgstr "Langkah 1: Tekan Update untuk kemaskini plugin."
+
+#: mozorg/plugincheck.lang:108
+msgid ""
+"Step 2: Complete all recommended updates before restarting your browser."
+msgstr ""
+"Step 2: Selesaikan semua rekomendasi kemaskini sebelum memulakan kembali "
+"pelayar web anda."
+
+#: mozorg/plugincheck.lang:112
+msgid "Potentially vulnerable plugins"
+msgstr "Plugin berpotensi bermasalah"
+
+#: mozorg/plugincheck.lang:116
+msgid "Plugin"
+msgstr "Plugin"
+
+#: mozorg/plugincheck.lang:120
+msgid "Status"
+msgstr "Status"
+
+#: mozorg/plugincheck.lang:124
+msgid "Action"
+msgstr "Tindakan"
+
+#: mozorg/plugincheck.lang:128
+msgid "Outdated Plugins"
+msgstr "Plugin lapuk"
+
+#: mozorg/plugincheck.lang:132
+msgid "Unknown Plugins"
+msgstr "Plugin tidak diketahui"
+
+#: mozorg/plugincheck.lang:136
+msgid "These plugins are up to date"
+msgstr "Plugin ini telah dikemaskini"
+
+#: mozorg/plugincheck.lang:140
+msgid "Back to Top"
+msgstr "Kembali ke Atas"
+
+#: mozorg/plugincheck.lang:144
+msgid "Frequently Asked Questions"
+msgstr "Soalan Lazim Ditanya"
+
+#: mozorg/plugincheck.lang:148
+msgid "What is a plugin?"
+msgstr "Apa itu plugin?"
+
+#: mozorg/plugincheck.lang:152
+msgid "Plugins power videos, animation and games"
+msgstr "Plugin penguasaan video, animasi dan permainan"
+
+#: mozorg/plugincheck.lang:156
+msgid ""
+"They're built outside of Firefox by companies like Adobe Systems and Apple"
+msgstr ""
+"Mereka telah dibina luar daripada Firefox oleh syarikat seperti Adobe "
+"Systems dan Apple"
+
+#: mozorg/plugincheck.lang:160
+msgid "Plugins don't always update automatically."
+msgstr "Plugin tidak sentiasa kemaskini secara automatik."
+
+#: mozorg/plugincheck.lang:164
+msgid "Why should I update my plugins?"
+msgstr "Mengapa saya harus mengemaskini plugin saya?"
+
+#: mozorg/plugincheck.lang:168
+msgid "Old plugins can interrupt browsing and waste your time."
+msgstr "Plugin lama telah terganggu pelayaran dan membuang masa anda."
+
+#: mozorg/plugincheck.lang:172
+msgid ""
+"Old plugins <strong>increase your risk</strong> for attack by malware, "
+"viruses, and other security threats."
+msgstr ""
+"Plugin lama <strong>meningkatkan risiko anda</strong> untuk diserang "
+"malware, virus dan ancaman sekuriti yang lain."
+
+#: mozorg/plugincheck.lang:176
+msgid ""
+"<strong>Updated plugins have improvements</strong> that make the web "
+"<strong>better and safer</strong> for you."
+msgstr ""
+"<strong>Plugin yang dikemaskini lebih dipertingkatkan</strong> dimana "
+"menjadikan web <strong>lebih selamat</strong> untuk anda."
+
+#. alt image
+#: mozorg/plugincheck.lang:181
+msgid "Screenshot of Add-Ons manager"
+msgstr "Syot skin daripada pengurusan Addon"
+
+#: mozorg/plugincheck.lang:185
+msgid "How can Firefox help me?"
+msgstr "Bagaimana boleh Firefox membantu saya?"
+
+#: mozorg/plugincheck.lang:189
+msgid ""
+"In the future, Firefox will update plugins for you. Until then, you should "
+"regularly check this page and update your plugins to stay safe."
+msgstr ""
+"Pada masa hadapan, Firefox akan mengemaskini plugin untuk anda. Kemudian, "
+"anda seharusnya sentiasa semak laman ini dan kemaskini plugin anda untuk "
+"senantiasa selamat."
+
+#: mozorg/plugincheck.lang:193
+msgid "Which Plugins do I have?"
+msgstr "Plugin yang mana satu saya perlu ada?"
+
+#: mozorg/plugincheck.lang:197
+msgid ""
+"We automatically detected your plugins above, to view your installed plugins "
+"in Firefox follow these steps:"
+msgstr ""
+"Kami akan mengesan secara automatik plugin anda diatas, untuk melihat plugin "
+"yang dipasang dalam Firefox mengikuti langkah tersebut:"
+
+#: mozorg/plugincheck.lang:201
+msgid "Want to spread the word?"
+msgstr "Mahu sebarkan makluman?"
+
+#: mozorg/plugincheck.lang:205
+msgid ""
+"Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
+"Affiliates</a> to get a plugin check badge for your site."
+msgstr ""
+"Bantu rakan-rakan anda untuk berada selamat dalam talian! Layari <a href="
+"\"%(url)s\">Firefox Affiliates</a> untuk dapatkan lencana semakan plugin "
+"pada laman anda."
+
+#: mozorg/plugincheck.lang:209
+msgid "How do I disable a plugin?"
+msgstr "Bagaimana saya boleh melumpuhkan plugin?"
+
+#: mozorg/plugincheck.lang:213
+msgid "In Firefox:"
+msgstr "Dalam Firefox:"
+
+#: mozorg/plugincheck.lang:217
+msgid "Open the Tools menu."
+msgstr "Buka menu Alatan."
+
+#. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
+#: mozorg/plugincheck.lang:223
+msgid "Open the <span class=\"menu\">menu</span>."
+msgstr ""
+
+#: mozorg/plugincheck.lang:227
+msgid "Choose Add-ons."
+msgstr "Pilih Add-on."
+
+#: mozorg/plugincheck.lang:231
+msgid "Click the plugins tab."
+msgstr "Tekan tab plugin."
+
+#: mozorg/plugincheck.lang:236
+msgid "Click on the drop down next to the plugin you wish to disable."
+msgstr ""
+
+#: mozorg/plugincheck.lang:240
+msgid "Click on a plugin in the list."
+msgstr "Tekan pada satu plugin dalam senarai."
+
+#: mozorg/plugincheck.lang:245
+msgid "Select \"Never Activate\" from the available choices."
+msgstr ""
+
+#: mozorg/plugincheck.lang:249
+msgid "Click the Disable button."
+msgstr "Tekan butang Disable."
+
+#: mozorg/plugincheck.lang:253
+msgid ""
+"Caution: disabling a plugin means that you will no longer be able to do "
+"certain things. For example, if you disable Flash, you will not be able to "
+"watch videos on YouTube."
+msgstr ""
+"Perhatian: melumpuhkan sebuah plugin bermaksud yang ada tidak lagi "
+"dibenarkan perkara lazim. Seperti contoh, jika anda melumpuhkan Flash, anda "
+"tidak dapat menonton video pada YouTube."
+
+#: mozorg/plugincheck.lang:258
+msgid ""
+"Caution: disabling a plugin means that you will no longer be able to do "
+"certain things. For example, if you disable Flash, you will not be able to "
+"watch videos on some streaming video websites."
+msgstr ""
+"Perhatian: melumpuhkan sebuah plugin bermaksud yang ada tidak lagi dapat "
+"melakukan sebahagian perkara. Seperti contoh, jika anda melumpuhkan Flash, "
+"anda tidak dapat menonton video pada pada sebahagian laman web video "
+"streaming."
+
+#: mozorg/plugincheck.lang:262
+msgid "Mozilla Support"
+msgstr "Mozilla Support"
+
+#: mozorg/plugincheck.lang:266
+msgid "Have more questions?"
+msgstr "Ada lebih soalan lagi?"
+
+#: mozorg/plugincheck.lang:270
+msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
+msgstr ""
+"Layari <a href=\"%(sumo_url)s\">support.mozilla.org</a> untuk lebih bantuan!"
+
+#~ msgid ""
+#~ "We are aware of a problem detecting current versions of the Java plugin "
+#~ "and misreporting them as vulnerable."
+#~ msgstr ""
+#~ "Kami sedar tentang masalah mengesan versi semasa komponen Java dan "
+#~ "menyalahlaporkan ia sebagai lemah."
+
+#~ msgid ""
+#~ "We’re working to correct this error. In the meantime, you can <a href="
+#~ "\"%(download)s\">visit the Java website</a> to download the latest "
+#~ "version."
+#~ msgstr ""
+#~ "Kami sedang berusaha untuk memperbetulkan kesilapan ini. Sementara itu, "
+#~ "anda boleh <a href=\"%(download)s\">lawati laman web Java</a> untuk "
+#~ "memuat turun versi terbaharu."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:198"
+#~ msgid "Open the Tools menu."
+#~ msgstr "Buka menu Alatan."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:202"
+#~ msgid "Choose Add-ons."
+#~ msgstr "Pilih Addon."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:206"
+#~ msgid "Click the plugins tab."
+#~ msgstr "Tekan tab plugin."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:196"
+#~ msgid "Open the Tools menu."
+#~ msgstr "Buka menu Alatan."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:200"
+#~ msgid "Choose Add-ons."
+#~ msgstr "Pilih Addon."
+
+#, fuzzy
+#~ msgctxt "./mozorg/plugincheck.lang:204"
+#~ msgid "Click the plugins tab."
+#~ msgstr "Tekan tab plugin."
+
+#~ msgctxt "./mozorg/plugincheck.lang:195"
+#~ msgid "Open the Tools menu."
+#~ msgstr "Buka menu Alatan."
+
+#~ msgctxt "./mozorg/plugincheck.lang:199"
+#~ msgid "Choose Add-ons."
+#~ msgstr "Pilih Addon."
+
+#~ msgctxt "./mozorg/plugincheck.lang:203"
+#~ msgid "Click the plugins tab."
+#~ msgstr "Tekan tab plugin."
+
+#~ msgctxt "./mozorg/plugincheck.lang:187"
+#~ msgid "Open the Tools menu."
+#~ msgstr "Buka menu Tools."
+
+#~ msgctxt "./mozorg/plugincheck.lang:191"
+#~ msgid "Choose Add-ons."
+#~ msgstr "Pilih Addon."
+
+#~ msgctxt "./mozorg/plugincheck.lang:195"
+#~ msgid "Click the plugins tab."
+#~ msgstr "Tekan tab plugin."
