@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-11-12 18:57+0000\n"
+"PO-Revision-Date: 2015-11-12 19:19+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn_BD\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1447354628.000000\n"
+"X-POOTLE-MTIME: 1447355955.000000\n"
 
 #: firefox/dnt.lang:5
 msgid ""
@@ -124,10 +124,16 @@ msgid ""
 "your privacy preferences, you will see more generic ads in place of "
 "behavioral ads."
 msgstr ""
+"না, ট্র্যাক করবে না সক্রিয় অবস্থায় থাকলেও আপনি বিজ্ঞপ্তি দেখতে পারবেন। তবুও, ট্র্যাক "
+"করবে না আপনার দেখা বিজ্ঞপ্তির ধারা বদলিয়ে দিবে। উদাহরণস্বরৃপ, আচরনগত বিজ্ঞপ্তির "
+"লক্ষ্যবস্তু হলো আপনার আগ্রহের উপর যা আপনার ওয়েবসাইটগুলোতে ভিজিট ও ব্যবহৃত সার্চের "
+"শর্তাবলীর উপর ভিত্তি করে। যদি আপনি ওয়েবসাইটগুলোকে অনুসরণ না করার অনুরোধ করেন, এবং "
+"সাইটটি আপনার ব্যক্তিগত পছন্দ সম্মান করে, আপনি আচরণগত বিজ্ঞপ্তির পরিবর্তে আরও সাধারণ "
+"বিজ্ঞপ্তি দেখতে পারবেন।"
 
 #: firefox/dnt.lang:61
 msgid "How does Do Not Track work with other privacy tools?"
-msgstr ""
+msgstr "অন্যান্য গোপনীয়তা টুলের সাথে ট্র্যাক করবে না ফিচার কিভাবে কাজ করে?"
 
 #: firefox/dnt.lang:65
 msgid ""
@@ -136,10 +142,14 @@ msgid ""
 "mechanism. There are several other <a href=\"%(url)s\">privacy and security</"
 "a> features within Firefox."
 msgstr ""
+"ট্র্যাক করবে না একাধিক গোপনীয়তা সমাধানের মধ্যে একটি। ট্র্যাক করবে না আপনার এন্টি-"
+"ভাইরাস সফটওয়্যারকে প্রতিস্থাপন করবে না, ডাটাকে এনক্রিপ্ট করবে না, এবং এটি কোন "
+"নিরাপত্তা কৌশল নয়। ফায়ারফক্সে আরও অনেক <a href=\"%(url)s\">গোপনীয়তা এবং "
+"নিরাপত্তা</a> ফিচার রয়েছে।"
 
 #: firefox/dnt.lang:69
 msgid "Will Do Not Track affect the rest of my Web experience?"
-msgstr ""
+msgstr "ট্র্যাক করবে না কি আমার বাকি ওয়েব অভিজ্ঞতায় প্রভাব ফেলবে?"
 
 #: firefox/dnt.lang:73
 msgid ""
@@ -149,10 +159,15 @@ msgid ""
 "weather automatically displayed. Personalization on websites can save you "
 "time and repetitive typing, but it requires data."
 msgstr ""
+"ট্র্যাক করবে না আপনার উপভোগকৃত নিজের সাজানো সেবাগুলোর উপর হয়তো হস্তক্ষেপ করতে "
+"পারে। উদাহরণস্বরূপ, ট্র্যাক করবে না অনুরোধের অর্থ হতে পারে যে, স্বয়ংক্রিয়ভাবে "
+"আবহাওয়া দেখার চেয়ে বরং আপনাকে ততবার জিপ-কোড টাইপ করতে হবে যতবার আবহাওয়ার "
+"রিপোর্ট দেখতে যাবেন। নিজের মত করে সাজানো ওয়েবসাইট আপনার সময় এবং পুনরাবৃত্তিমূলক "
+"টাইপিং-এ বাঁচাবে, কিন্তু ডাটার প্রয়োজন হবে।"
 
 #: firefox/dnt.lang:77
 msgid "How do I enable Do Not Track in Firefox?"
-msgstr ""
+msgstr "ফায়ারফক্সে আমি কিভাবে ট্র্যাক করবে না ফিচার সক্রিয় করব?"
 
 #: firefox/dnt.lang:81
 msgid ""
@@ -160,6 +175,9 @@ msgid ""
 "request on the Privacy pane. <span id=\"%(id)s\">On Windows, go to Tools "
 "&gt; Options&hellip; &gt; Privacy.</span>"
 msgstr ""
+"এই ফিচারটি ডিফল্টভাবে সক্রিয় নেই। আপনি ট্র্যাক করবে না অনুরোধটি প্রাইভেসি প্যান-এ "
+"পাবেন। <span id=\"%(id)s\">উইন্ডোজে, টুলসে যান &gt; অপশনস&hellip; &gt; "
+"প্রাইভেসি।</span>"
 
 #: firefox/dnt.lang:85
 msgid ""
