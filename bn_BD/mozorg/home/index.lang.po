@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-11-04 07:42+0000\n"
-"PO-Revision-Date: 2015-11-16 17:07+0000\n"
+"PO-Revision-Date: 2015-11-16 17:38+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bn_BD\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1447693637.000000\n"
+"X-POOTLE-MTIME: 1447695500.000000\n"
 
 #. Used as page title in HTML meta tag
 #: mozorg/home/index.lang:19
@@ -181,7 +181,7 @@ msgstr "যে বৈশিষ্ট্যগুলো <br>আপনার প�
 
 #: mozorg/home/index.lang:198
 msgid "Learn about <br>Firefox for Android"
-msgstr ""
+msgstr "অ্যান্ড্রয়েডের জন্য ফায়ারফক্স <br>সম্পর্কে জানুন"
 
 #. Used in a small tile
 #: mozorg/home/index.lang:204
@@ -192,35 +192,34 @@ msgstr "মজিলার অফিসিয়াল গিয়ার এখান
 #: mozorg/home/index.lang:209
 msgid ""
 "Merch with a mission. <br>Products with a purpose. <br>Goods that do good."
-msgstr ""
+msgstr "একটি লক্ষ্যে যাত্রা। <br> উদ্দেশ্য পূরণে পণ্য। <br> পণ্য যা ভালটাই করে।"
 
 #. This string is currently unused (tile will link to Mozilla Gear Store)
 #: mozorg/home/index.lang:214
 msgid "Get your Mozilla gear"
-msgstr ""
+msgstr "মজিলার জিনিষপত্র পান"
 
 #: mozorg/home/index.lang:218
 msgid "Help Mozilla users"
-msgstr ""
+msgstr "মজিলা ব্যবহারকারীদের সহযোগিতা করুন"
 
 #: mozorg/home/index.lang:222
 msgid "Help millions <br>get the most from their <br>favorite browser."
-msgstr ""
+msgstr "লক্ষ লক্ষ মানুষকে <br>তাদের প্রিয় ব্রাউজার পেতে <br>তাদের সাহায্য করুন।"
 
 #: mozorg/home/index.lang:226
 msgid "Join our support team"
-msgstr ""
+msgstr "আমাদের সাপোর্ট টিমে যোগ দিন"
 
 #. Used in Twitter feed
 #: mozorg/home/index.lang:231
-#, fuzzy
 msgid "Reply"
 msgstr "রিপ্লে"
 
 #. Used in Twitter feed
 #: mozorg/home/index.lang:236
 msgid "Retweet"
-msgstr ""
+msgstr "রিটুইট"
 
 #. <strong> tags below are for visual formatting only.
 #: mozorg/home/index.lang:241
@@ -228,37 +227,39 @@ msgid ""
 "Committed to <strong>you, your privacy</strong> and an <strong>open Web</"
 "strong>"
 msgstr ""
+"প্রতিশ্রুতিবদ্ধ <strong>আপনার কাছে, আপনার গোপনীয়তা</strong> এবং একটি "
+"<strong>উন্মুক্ত ওয়েবেরজন্য </strong>জন্য"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/home/index.lang:246
 msgid "active Mozillians <br>worldwide"
-msgstr ""
+msgstr "বিশ্বব্যাপী <br>সক্রিয় মজিলিয়ান"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/home/index.lang:251
 msgid "upcoming events <br>around the globe"
-msgstr ""
+msgstr "বিশ্বের আঁনাচে কাঁনাচে <br>আসন্ন অনুষ্ঠানসমূহ"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/home/index.lang:256
 msgid "languages and counting, <br>on every continent"
-msgstr ""
+msgstr "প্রত্যেক মহাদেশের <br>ভাষায় রয়েছে এবং এর সংখ্যা বাড়ছে"
 
 #: mozorg/home/index.lang:260
 msgid "Get Involved with Mozilla today"
-msgstr ""
+msgstr "আজই মজিলার সাথে সম্পৃক্ত হোন"
 
 #: mozorg/home/index.lang:264
 msgid "Upcoming events"
-msgstr ""
+msgstr "আসন্ন অনুষ্ঠানসমূহ"
 
 #: mozorg/home/index.lang:268
 msgid "Next event"
-msgstr ""
+msgstr "পরবর্তী অনুষ্ঠান"
 
 #: mozorg/home/index.lang:272
 msgid "See all events"
-msgstr ""
+msgstr "সকল অনুষ্ঠান দেখুন"
 
 #: mozorg/home/index.lang:276
 msgid ""
@@ -308,31 +309,28 @@ msgid "Meet<br> Firefox Hello"
 msgstr ""
 
 #: mozorg/home/index.lang:318
-#, fuzzy
 msgid "The easiest way to connect for free over video."
-msgstr "ভিডিও আলাপে সংযুক্ত হওয়ার সহজতম উপায়"
+msgstr "ভিডিও আলাপে সংযুক্ত হওয়ার সহজতম উপায়।"
 
 #: mozorg/home/index.lang:322
 msgid "Try Firefox Hello"
 msgstr "Firefox Hello চালিয়ে দেখুন"
 
 #: mozorg/home/index.lang:327
-#, fuzzy
 msgid "Get smart on Tracking"
-msgstr "ডাটা ট্র্যাকিং সম্পর্কে আরও স্মার্ট হন"
+msgstr "ট্র্যাকিং সম্পর্কে আরও স্মার্ট হন"
 
 #: mozorg/home/index.lang:332
 msgid "Try the Thimble code editor"
-msgstr ""
+msgstr "থিম্বল কোড এডিটর ব্যবহার করুন"
 
 #: mozorg/home/index.lang:337
 msgid "Firefox is<br> now available<br> for iOS"
 msgstr ""
 
 #: mozorg/home/index.lang:342
-#, fuzzy
 msgid "Add it to your iPhone, iPad &amp; iPod touch."
-msgstr "আপনার iPhone, iPad এবং iPod টাচে ফায়ারফক্স যোগ করুন"
+msgstr "আপনার iPhone, iPad এবং iPod টাচে ফায়ারফক্স যোগ করুন।"
 
 #: mozorg/home/index.lang:347
 msgid "Get Firefox for iOS"
@@ -347,9 +345,8 @@ msgid "More protection. <br>The most privacy."
 msgstr ""
 
 #: mozorg/home/index.lang:362
-#, fuzzy
 msgid "Try Private Browsing"
-msgstr "ব্যক্তিগত ব্রাউজিং"
+msgstr "ব্যক্তিগত ব্রাউজিং ব্যবহার করুন"
 
 #, fuzzy
 #~ msgid "Watch our video"
