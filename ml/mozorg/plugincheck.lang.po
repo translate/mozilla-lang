@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-07 17:24+0000\n"
-"PO-Revision-Date: 2015-11-25 18:33+0000\n"
+"PO-Revision-Date: 2015-11-25 20:06+0000\n"
 "Last-Translator: Mahir Bin Farooque <mahirfarook@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ml\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1448476399.000000\n"
+"X-POOTLE-MTIME: 1448481977.000000\n"
 
 #. Used as page title in HTML meta tag
 #: mozorg/plugincheck.lang:11
@@ -81,6 +81,8 @@ msgstr ""
 #: mozorg/plugincheck.lang:72
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
+"താങ്കളുടെ പ്ലഗിനുകള്‍ പുതുതായി നിലനിര്‍ത്തിയാല്‍ അത് ഫയര്‍ഫോക്സിന്റെ സുഗമമായതും സുരക്ഷിതവുമായ "
+"പ്രവര്‍ത്തനത്തിന് സഹായിക്കും."
 
 #: mozorg/plugincheck.lang:77
 msgid "Currently the plugin check service is only available to Firefox users."
@@ -107,6 +109,8 @@ msgid ""
 "No plugins were found. If you believe this is an error, <a href="
 "\"%(bugzilla_url)s\">please file a bug</a> and let us know."
 msgstr ""
+"യാതൊരു പ്ലഗിനുകളും കാണുന്നില്ല. ഇത് ഒരു പിശക് ആണെന്ന്‍ താങ്കള്‍ വിശ്വസിക്കുന്നുവെങ്കില്‍, <a href="
+"\"%(bugzilla_url)s\">ദയവായി തകരാര്‍ നല്‍കൂ</a> ഞങ്ങളെ അറിയിക്കൂ."
 
 #: mozorg/plugincheck.lang:100
 msgid ""
@@ -116,12 +120,12 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:104
 msgid "Step 1: Click Update to update a plugin."
-msgstr ""
+msgstr "ഘട്ടം 1: പ്ലഗിന്‍ പുതുക്കുവാനായി പുതുക്കല്‍ എന്നതില്‍ ക്ലിക്ക് ചെയ്യുക."
 
 #: mozorg/plugincheck.lang:108
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
-msgstr ""
+msgstr "താങ്കളുടെ ബ്രൌസര്‍ വീണ്ടും തുടങ്ങുന്നതിനു മുന്‍പ് നിര്‍ദ്ദേശിച്ച എല്ലാ പുതുക്കലുകളും പൂര്‍ണ്ണമാക്കുക."
 
 #: mozorg/plugincheck.lang:112
 msgid "Potentially vulnerable plugins"
@@ -214,7 +218,7 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:193
 msgid "Which Plugins do I have?"
-msgstr ""
+msgstr "ഏതൊക്കെ പ്ലഗിനുകളാണ് എനിക്ക് ഉള്ളത്?"
 
 #: mozorg/plugincheck.lang:197
 msgid ""
@@ -260,6 +264,7 @@ msgstr ""
 #: mozorg/plugincheck.lang:236
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr ""
+"താങ്കള്‍ പ്രവര്‍ത്തന രഹിതമാക്കാന്‍ ആഗ്രഹിക്കുന്ന പ്ലുഗിന്റെ അടുത്തുള്ള ഡ്രോപ്പ്ഡൌണില്‍ ക്ലിക്ക് ചെയ്യുക."
 
 #: mozorg/plugincheck.lang:240
 msgid "Click on a plugin in the list."
@@ -279,6 +284,9 @@ msgid ""
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on YouTube."
 msgstr ""
+"താക്കീത്: ഒരു പ്ലഗിന്‍ പ്രവര്‍ത്തനരഹിതമാക്കല്‍ വഴി പിന്നീട് താങ്കള്‍ക്ക് ചില പ്രത്യേക കാര്യങ്ങള്‍ "
+"ചെയ്യാന്‍ സാധിക്കില്ല. ഉദാഹരണമായി, താങ്കള്‍ ഫ്ലാഷ് പ്രവര്‍ത്തന രഹിതമാക്കിയാല്‍ യുട്യുബില്‍ "
+"വീഡിയോകള്‍ കാണാന്‍ സാധിക്കില്ല."
 
 #: mozorg/plugincheck.lang:258
 msgid ""
@@ -294,7 +302,7 @@ msgstr "മൊബൈല്‍ പിന്തുണ"
 
 #: mozorg/plugincheck.lang:266
 msgid "Have more questions?"
-msgstr ""
+msgstr "കൂടുതല്‍ ചോദ്യങ്ങള്‍ ഉണ്ടോ?"
 
 #: mozorg/plugincheck.lang:270
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
