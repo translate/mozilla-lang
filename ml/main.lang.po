@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-29 13:29+0000\n"
-"PO-Revision-Date: 2015-11-26 12:57+0000\n"
-"Last-Translator: Anish Sheela <aneesh.nl@gmail.com>\n"
+"PO-Revision-Date: 2015-11-26 19:18+0000\n"
+"Last-Translator: ark arjun <arkarjun@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1448542639.000000\n"
+"X-POOTLE-MTIME: 1448565493.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -44,7 +44,7 @@ msgstr "ഓപ്പറേറ്റിങ് സിസ്റ്റം"
 #. You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
 #: main.lang:28
 msgid "For desktops &amp; laptops"
-msgstr ""
+msgstr "ഡെസ്ക്ടോപ്പുകള്‍ &amp; ലാപ്ടോപ്പുകള്‍ എന്നിവയ്ക്ക് വേണ്ടി"
 
 #. Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 #: main.lang:33
@@ -89,7 +89,7 @@ msgstr ""
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
 #: main.lang:73
 msgid "Apps"
-msgstr ""
+msgstr "ആപ്പുകൾ"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:78
@@ -114,9 +114,8 @@ msgstr ""
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:99
-#, fuzzy
 msgid "Private Browsing"
-msgstr "സ്വകാര്യ ബ്രൗസിങ്"
+msgstr "സ്വകാര്യ ബ്രൌസിങ്ങ്"
 
 #. Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 #: main.lang:104
@@ -131,7 +130,7 @@ msgstr ""
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:114
 msgid "For developers"
-msgstr ""
+msgstr "ഡവലപ്പർമാർക്കു വേണ്ടി"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:119
@@ -453,9 +452,8 @@ msgstr ""
 
 #. Footer string (will replace "Contribute to this page")
 #: main.lang:418
-#, fuzzy
 msgid "Contribute to this site"
-msgstr "ഈ താളിനു് സംഭവന നല്‍കുക"
+msgstr "ഈ താളിനു് സംഭാവന നല്‍കുക"
 
 #. Footer string
 #: main.lang:423
@@ -590,7 +588,7 @@ msgstr ""
 #. share button for social networks
 #: main.lang:553
 msgid "Share"
-msgstr ""
+msgstr "പങ്കുവയ്ക്കുക"
 
 #. footer link
 #: main.lang:558
@@ -620,7 +618,7 @@ msgstr ""
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:583
 msgid "Leadership"
-msgstr ""
+msgstr "നേതൃത്വം"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:588
@@ -645,7 +643,7 @@ msgstr ""
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:608
 msgid "Become a volunteer contributor in a number of different areas."
-msgstr ""
+msgstr "വ്യതസ്തമായ മേഖലകളില്‍ സന്നദ്ധ സംഭാവനകനായി മാറൂ."
 
 #. This is a non-visible string for blind people to indicate where the menu is
 #: main.lang:613
@@ -708,7 +706,7 @@ msgstr "മെയ്"
 
 #: main.lang:670
 msgid "June"
-msgstr ""
+msgstr "ജൂണ്‍"
 
 #: main.lang:674
 msgid "July"
@@ -720,7 +718,7 @@ msgstr ""
 
 #: main.lang:682
 msgid "September"
-msgstr ""
+msgstr "സെപ്റ്റംബര്‍"
 
 #: main.lang:686
 msgid "October"
@@ -752,7 +750,7 @@ msgstr ""
 
 #: main.lang:714
 msgid "<abbr>May</abbr>"
-msgstr ""
+msgstr "<abbr>മെയ്</abbr>"
 
 #: main.lang:718
 msgid "<abbr>Jun</abbr>"
@@ -806,7 +804,7 @@ msgstr "അടുത്ത"
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 #: main.lang:766
 msgid "HTML"
-msgstr ""
+msgstr "എച്ച്ടി‌എം‌എല്‍"
 
 #. This is the error message displayed if you provide an invalid email address in a form
 #: main.lang:771
@@ -818,6 +816,8 @@ msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
 msgstr ""
+"മോസില്ല <a href=\"%s\">ലെ സ്വകാര്യ പോളിസി</a> വ്യക്തമാക്കിയിരിക്കുന്ന പോലെ എന്റെ "
+"വിവരങ്ങൾ കൈകാര്യം ചെയ്യുവാൻ എനിക്ക് സമ്മതമാണ്"
 
 #. This string is used for a subscription field on other pages than /newsletter/
 #: main.lang:781
