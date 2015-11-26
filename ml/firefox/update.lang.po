@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-03-05 21:42+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2015-11-26 12:59+0000\n"
+"Last-Translator: Anish Sheela <aneesh.nl@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -13,15 +13,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1425591747.000000\n"
+"X-POOTLE-MTIME: 1448542766.000000\n"
 
 #: firefox/update.lang:4
 msgid "Welcome"
-msgstr ""
+msgstr "സ്വാഗതം"
 
 #: firefox/update.lang:8
 msgid "Are Firefox updates safe?"
-msgstr ""
+msgstr "ഫയർഫൊക്സിന്റെ പുതുക്കൽ(updates) സുരക്ഷിതമാണോ ?"
 
 #: firefox/update.lang:12
 msgid ""
@@ -29,6 +29,8 @@ msgid ""
 "older version. To start the upgrade process, just click the green download "
 "button to the right."
 msgstr ""
+"ഇല്ല. പഴയ പതിപ്പിന്റെ സ്ഥലം ഫയർഫൊക്സിന്റെ പുതിയ പതിപ്പ് സ്വയമേ എടുത്തുകൊള്ളും. നവീകരണ "
+"പ്രവര്‍ത്തനങ്ങള്‍ തുടങ്ങൽ വലതു വശത്തുള്ള പച്ച ഡൌണ്‍ലോഡ് ബട്ടണ്‍ അമര്‍ത്തുക."
 
 #: firefox/update.lang:16
 msgid ""
@@ -42,12 +44,11 @@ msgstr "നിങ്ങളുടെ ഫയര്‍ഫോക്സ് പഴയ�
 
 #: firefox/update.lang:24
 msgid "Follow the step-by-step process"
-msgstr ""
+msgstr "പടിപടിയായുള്ള പ്രക്രിയ പിന്തുടരൂ"
 
 #: firefox/update.lang:28
-#, fuzzy
 msgid "Congratulations!"
-msgstr "അഭിനന്ദങ്ങള്‍"
+msgstr "അഭിനന്ദനങ്ങള്‍!"
 
 #: firefox/update.lang:32
 msgid ""
@@ -63,16 +64,20 @@ msgid ""
 "If I already have Firefox, and then do a fresh install, what happens to my "
 "settings?"
 msgstr ""
+"മുന്‍പേ തന്നെ എനിക്ക് ഫയര്‍ഫോക്സ് ഉണ്ട് ,എന്നാൽ പുതുതായ് ഒന്നുകൂടി ഇന്‍സ്റ്റാള്‍ ചെയ്‌താൽ എന്റെ "
+"ക്രമീകരണങ്ങള്‍ക്ക് എന്ത് സംഭവിക്കും?"
 
 #: firefox/update.lang:40
 msgid "What is a Firefox software update?"
-msgstr ""
+msgstr "എന്താണ് ഫയര്‍ഫോക്സ് സോഫ്‍റ്റ്‍വെയര്‍ അപ്ഡേറ്റ് ?"
 
 #: firefox/update.lang:44
 msgid ""
 "Yes. Firefox is configured to automatically check for updates, but it’s also "
 "possible to check for updates yourself."
 msgstr ""
+"അതെ. ഫയര്‍ഫോക്സ് സ്വയമേ അപ്ഡേറ്റ് ചെയ്യുവാൻ വേണ്ടി പരിശോധിക്കും, എന്നാൽ തന്നെയും നിങ്ങള്‍ക്കും "
+"പരിശോധിക്കാൻ സാധിക്കുന്നതാണ്."
 
 #: firefox/update.lang:48
 msgid ""
@@ -91,10 +96,12 @@ msgid ""
 "You are also able to check for updates manually. For details, check out the "
 "<a %(link)s>step-by-step guide</a>.</p>"
 msgstr ""
+"അപ്ഡേറ്റ് ചെയ്യുവാനായി നിങ്ങള്‍ക്കും പരിശോധന നടത്താം. കൂടുതൽ വിവരങ്ങൾക്ക് <a %(link)s> പടി  "
+"പടിയായുള്ള മാർഗ നിർദേശങ്ങൾ</a>കാണൂ.</p>"
 
 #: firefox/update.lang:60
 msgid "Check for Updates"
-msgstr ""
+msgstr "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക"
 
 #: firefox/update.lang:64
 msgid "What if I miss an update? Can I check for one myself?"
@@ -129,6 +136,7 @@ msgstr ""
 #: firefox/update.lang:84
 msgid "How do I know what version of Firefox I am currently on?"
 msgstr ""
+"ഫയർഫോക്സിന്റെ ഏതു പതിപ്പാണ്‌ ഇപ്പോൾ ഞാൻ ഉപയോഗിച്ച് കൊണ്ടിരിക്കുന്നത് എന്നത് എങ്ങനെ മനസ്സിലാക്കും?"
 
 #: firefox/update.lang:88
 msgid "Frequently asked questions"
@@ -137,18 +145,19 @@ msgstr "പതിവു ചോദ്യങ്ങള്‍"
 #: firefox/update.lang:92
 msgid "Will the update affect my settings and bookmarks?"
 msgstr ""
+"അപ്ഡേറ്റ് ചെയ്‌താൽ എന്റെ ക്രമീകരണങ്ങള്‍ക്കും ബുക്ക്മാർക്കിനും എന്തെങ്ങിലും മാറ്റം സംഭവിക്കുമോ?"
 
 #: firefox/update.lang:96
 msgid "Do I need to uninstall my current version of Firefox before upgrading?"
-msgstr ""
+msgstr "നവീകരണത്തിനു(അപ്ഗ്രേഡിനു)മുൻപായി നിലവിലുള്ള ഫയർഫൊക്സ് നീക്കം (അണ്‍ഇൻസ്റ്റോൾ) ചെയ്യണമോ?"
 
 #: firefox/update.lang:100
 msgid "Visit support.mozilla.org"
-msgstr "support.mozilla.com സന്ദര്‍ശിയ്ക്കുക"
+msgstr "support.mozilla.org സന്ദര്‍ശിയ്ക്കുക"
 
 #: firefox/update.lang:104
 msgid "Get the newest version <a href=\"{url}\">here</a>."
-msgstr ""
+msgstr "<a href=\"{url}\">ഇവിടെ</a> നിന്നും ഏറ്റവും പുതിയ പതിപ്പ് എടുക്കൂ."
 
 #: firefox/update.lang:108
 msgid "Need Help?"
@@ -156,11 +165,11 @@ msgstr "സഹായം ആവശ്യമോ?"
 
 #: firefox/update.lang:112
 msgid "How do I update Firefox?"
-msgstr ""
+msgstr "ഞാൻ എങ്ങനെ ഫയർഫൊക്സ് പുതുക്കും(അപ്ഡേറ്റ്ചെയ്യും)?"
 
 #: firefox/update.lang:116
 msgid "Why do I need to update?"
-msgstr ""
+msgstr "ഞാൻ എന്തിനു ഇത് പുതുക്കണംം?"
 
 #: firefox/update.lang:120
 msgid ""
@@ -179,4 +188,4 @@ msgstr ""
 
 #: firefox/update.lang:128
 msgid "Download Firefox to get started."
-msgstr ""
+msgstr "തുടങ്ങാൻ വേണ്ടി ഫയർഫൊക്സ് ഡൌണ്‍ലോഡ് ചെയ്യൂ."

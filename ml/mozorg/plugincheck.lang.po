@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-07 17:24+0000\n"
-"PO-Revision-Date: 2015-11-25 20:06+0000\n"
-"Last-Translator: Mahir Bin Farooque <mahirfarook@gmail.com>\n"
+"PO-Revision-Date: 2015-11-26 12:58+0000\n"
+"Last-Translator: Anish Sheela <aneesh.nl@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -13,12 +13,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1448481977.000000\n"
+"X-POOTLE-MTIME: 1448542728.000000\n"
 
 #. Used as page title in HTML meta tag
 #: mozorg/plugincheck.lang:11
 msgid "Keep your Firefox healthy with a quick checkup"
-msgstr ""
+msgstr "ഒരു ചെറിയ പരിശോധനയിലൂടെ നിങ്ങളുടെ ഫയര്‍ഫോക്സിനെ ആരോഗ്യപൂര്‍ണ്ണമായി സൂക്ഷിക്കുക"
 
 #. Used as page description in HTML meta tag
 #: mozorg/plugincheck.lang:17
@@ -41,7 +41,7 @@ msgstr "ഉടന്‍ പുതുക്കുക"
 #. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 #: mozorg/plugincheck.lang:32
 msgid "Research"
-msgstr ""
+msgstr "ഗവേഷണം"
 
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
 #: mozorg/plugincheck.lang:37
@@ -61,12 +61,12 @@ msgstr ""
 #. This is the string used to indicate that the plugin is unknown
 #: mozorg/plugincheck.lang:52
 msgid "unknown"
-msgstr ""
+msgstr "അപരിചിതം"
 
 #. This is the string used to indicate that the plugin is vulnerable
 #: mozorg/plugincheck.lang:57
 msgid "vulnerable"
-msgstr ""
+msgstr "സുരക്ഷിതമല്ലാത്ത"
 
 #. This is the string used to indicate that the plugin is outdated
 #: mozorg/plugincheck.lang:63
@@ -76,7 +76,7 @@ msgstr ""
 #. Main title
 #: mozorg/plugincheck.lang:68
 msgid "Check Your Plugins"
-msgstr ""
+msgstr "താങ്കളുടെ പ്ലഗിനുകള്‍ പരിശോധിക്കുക"
 
 #: mozorg/plugincheck.lang:72
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
@@ -102,7 +102,7 @@ msgstr "നിങ്ങള്‍ ഫയര്‍ഫോക്സിന്റെ �
 
 #: mozorg/plugincheck.lang:91
 msgid "Plugin Status"
-msgstr ""
+msgstr "പ്ലഗിന്റെ അവസ്ഥ"
 
 #: mozorg/plugincheck.lang:96
 msgid ""
@@ -129,7 +129,7 @@ msgstr "താങ്കളുടെ ബ്രൌസര്‍ വീണ്ടു�
 
 #: mozorg/plugincheck.lang:112
 msgid "Potentially vulnerable plugins"
-msgstr ""
+msgstr "അപകടകരമാവാന്‍ സാധ്യതയുള്ള പ്ലഗിനുകള്‍"
 
 #: mozorg/plugincheck.lang:116
 msgid "Plugin"
@@ -137,19 +137,19 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:120
 msgid "Status"
-msgstr ""
+msgstr "അവസ്ഥ"
 
 #: mozorg/plugincheck.lang:124
 msgid "Action"
-msgstr ""
+msgstr "പ്രവൃത്തി"
 
 #: mozorg/plugincheck.lang:128
 msgid "Outdated Plugins"
-msgstr ""
+msgstr "പഴയ പ്ലഗിന്‍"
 
 #: mozorg/plugincheck.lang:132
 msgid "Unknown Plugins"
-msgstr ""
+msgstr "അപരിചിതമായ പ്ലഗിന്‍"
 
 #: mozorg/plugincheck.lang:136
 msgid "These plugins are up to date"
@@ -157,16 +157,15 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:140
 msgid "Back to Top"
-msgstr ""
+msgstr "മുകളിലേക്ക് തിരികെ പോകാം"
 
 #: mozorg/plugincheck.lang:144
-#, fuzzy
 msgid "Frequently Asked Questions"
 msgstr "പതിവു ചോദ്യങ്ങള്‍"
 
 #: mozorg/plugincheck.lang:148
 msgid "What is a plugin?"
-msgstr ""
+msgstr "എന്താണ് പ്ലഗ്ഗിന്‍?"
 
 #: mozorg/plugincheck.lang:152
 msgid "Plugins power videos, animation and games"
@@ -179,11 +178,11 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:160
 msgid "Plugins don't always update automatically."
-msgstr ""
+msgstr "പ്ലഗിനുകള്‍ എല്ലായ്പോഴും താനേ പുതുക്കുകയില്ല."
 
 #: mozorg/plugincheck.lang:164
 msgid "Why should I update my plugins?"
-msgstr ""
+msgstr "എന്തുകൊണ്ട് ഞാന്‍ എന്റെ പ്ലഗ്ഗിനുകള്‍ പുതുക്കണം?"
 
 #: mozorg/plugincheck.lang:168
 msgid "Old plugins can interrupt browsing and waste your time."
@@ -200,6 +199,8 @@ msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
 msgstr ""
+"നിങ്ങള്‍ക്കുവേണ്ടി വെബ്<strong> മെച്ചപ്പെട്ടതും സുരക്ഷിതവുമാക്കാന്‍</strong> വേണ്ടിയുള്ള "
+"മെച്ചപ്പെടുത്തലുകള്‍<strong> പുതുക്കിയ പ്ലഗ്ഗിനുകള്‍കളില്‍ ഉണ്ട്</strong>."
 
 #. alt image
 #: mozorg/plugincheck.lang:181
@@ -208,7 +209,7 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:185
 msgid "How can Firefox help me?"
-msgstr ""
+msgstr "ഫയര്‍ഫോക്സിനു എന്നെ എങ്ങിനെ സഹായിക്കാം?"
 
 #: mozorg/plugincheck.lang:189
 msgid ""
@@ -255,7 +256,7 @@ msgstr ""
 
 #: mozorg/plugincheck.lang:227
 msgid "Choose Add-ons."
-msgstr ""
+msgstr "ആഡ്-ഓണിനുകള്‍ തിരഞ്ഞെടുക്കുക."
 
 #: mozorg/plugincheck.lang:231
 msgid "Click the plugins tab."
