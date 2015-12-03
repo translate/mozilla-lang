@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-24 19:54+0000\n"
+"POT-Creation-Date: 2015-12-03 12:51+0000\n"
 "PO-Revision-Date: 2015-11-22 06:18+0000\n"
 "Last-Translator: umesh agarwal <umesh.agarwal1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,251 +34,252 @@ msgstr ""
 msgid "Proudly non-profit. <br>Donate before Dec 31."
 msgstr ""
 
-#. This is a sum in US dollars, e.g. '$100'. You can localize it, e.g. '%(sum)s €' to display '100 €' instead of '$100'
-#: mozorg/home/index.lang:41
+#. This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
+#. You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
+#: mozorg/home/index.lang:42
 msgid "$%(sum)s"
 msgstr ""
 
 #. Take over form
-#: mozorg/home/index.lang:47
+#: mozorg/home/index.lang:48
 msgid "Enter your own amount"
 msgstr ""
 
 #. Take over form: radio button for monthly contributions
-#: mozorg/home/index.lang:53
+#: mozorg/home/index.lang:54
 msgid "Monthly"
 msgstr ""
 
 #. Take over form: radio button for one-time contributions
-#: mozorg/home/index.lang:59
+#: mozorg/home/index.lang:60
 msgid "One-time"
 msgstr ""
 
 #. Take over form: button to submit the donation form
-#: mozorg/home/index.lang:65
+#: mozorg/home/index.lang:66
 msgid "Donate Now"
 msgstr ""
 
-#: mozorg/home/index.lang:69
+#: mozorg/home/index.lang:70
 msgid "Home of the Mozilla Project"
 msgstr "Mozilla परियोजना का मुखपृष्ठ"
 
-#: mozorg/home/index.lang:73
+#: mozorg/home/index.lang:74
 msgid "Read more"
 msgstr "और पढ़ें"
 
-#: mozorg/home/index.lang:77
+#: mozorg/home/index.lang:78
 msgid "Community"
 msgstr "समुदाय"
 
 #. This is used as a link to dismiss the video overlay and continue to mozilla.org website
-#: mozorg/home/index.lang:82
+#: mozorg/home/index.lang:83
 msgid "Continue to mozilla.org"
 msgstr "mozilla.org को जारी रखें"
 
-#: mozorg/home/index.lang:86
+#: mozorg/home/index.lang:87
 msgid "Discover <br>what drives our mission"
 msgstr "खोजें <br> हमारा मिशन क्या ड्राइव कर रहा हैं"
 
-#: mozorg/home/index.lang:90
+#: mozorg/home/index.lang:91
 msgid "See the principles <br>that guide everything <br>we do."
 msgstr "हमारे सिद्धांतों को देखें <br>जो कि सब कुछ गाइड करते हैं <br>कि हम क्या रहें हैं."
 
-#: mozorg/home/index.lang:94
+#: mozorg/home/index.lang:95
 msgid "Read the <br>Mozilla Manifesto"
 msgstr "मोज़िला घोषणा पत्र <br> पढ़ें"
 
-#: mozorg/home/index.lang:99
+#: mozorg/home/index.lang:100
 msgid "Donate to Mozilla,<br> the non-profit behind Firefox."
 msgstr ""
 
-#: mozorg/home/index.lang:104
+#: mozorg/home/index.lang:105
 msgid "Our year-end<br> fundraiser ends Dec 31."
 msgstr ""
 
-#: mozorg/home/index.lang:109
+#: mozorg/home/index.lang:110
 msgid "Donate now"
 msgstr ""
 
-#: mozorg/home/index.lang:114
+#: mozorg/home/index.lang:115
 msgid "Mozilla Developer Network"
 msgstr "Mozilla डेवलपर नेटवर्क"
 
-#: mozorg/home/index.lang:119
+#: mozorg/home/index.lang:120
 msgid "10 years of documenting your Web."
 msgstr "अपने वेब दस्तावेजीकरण की 10 साल."
 
-#: mozorg/home/index.lang:124
+#: mozorg/home/index.lang:125
 msgid "Celebrate with us"
 msgstr "हमारे साथ जश्न मन्ये"
 
 #. Do no translate "Firefox Friends" (https://friends.mozilla.org)
-#: mozorg/home/index.lang:130
+#: mozorg/home/index.lang:131
 msgid "Introducing <br>Firefox Friends"
 msgstr "फ़ायरफ़ॉक्स फ्रेंड्स <br>का परिचय कराते हुए"
 
-#: mozorg/home/index.lang:135
+#: mozorg/home/index.lang:136
 msgid "Join. Share. <br>Get rewarded."
 msgstr "जुड़ें. साझा करें. <br>पुरस्कृत हों."
 
-#: mozorg/home/index.lang:140
+#: mozorg/home/index.lang:141
 msgid "Join Firefox Friends"
 msgstr "फ़ायरफ़ॉक्स फ्रेंड्स से जुड़ें"
 
 #. Small tile. Link points to https://advocacy.mozilla.org
-#: mozorg/home/index.lang:146
+#: mozorg/home/index.lang:147
 msgid "Learn about Mozilla Advocacy"
 msgstr "मोज़िला वकालत के बारे में जानें"
 
-#: mozorg/home/index.lang:150
+#: mozorg/home/index.lang:151
 msgid "Understand your privacy online"
 msgstr "अपनी ऑनलाइन गोपनीयता को समझें"
 
-#: mozorg/home/index.lang:154
+#: mozorg/home/index.lang:155
 msgid "Download Firefox"
 msgstr "फ़ायरफ़ॉक्स डाउनलोड करें"
 
-#: mozorg/home/index.lang:159
+#: mozorg/home/index.lang:160
 msgid "Get the gear, <br>support the mission"
 msgstr ""
 
-#: mozorg/home/index.lang:164
+#: mozorg/home/index.lang:165
 msgid "Shop for t-shirts, hoodies, hats<br> and more at Mozilla Gear."
 msgstr ""
 
-#: mozorg/home/index.lang:169
+#: mozorg/home/index.lang:170
 msgid "Shop now"
 msgstr ""
 
-#: mozorg/home/index.lang:174
+#: mozorg/home/index.lang:175
 msgid "Introducing<br> the new Webmaker"
 msgstr "नई वेबमेकर का परिचय<br>"
 
-#: mozorg/home/index.lang:179
+#: mozorg/home/index.lang:180
 msgid "Discover, create and share original content with the free Webmaker app."
 msgstr "फ्री वेबमेकर एप के साथ मूल सामग्री खोजें, बनाये और साझा करे करें."
 
-#: mozorg/home/index.lang:184
+#: mozorg/home/index.lang:185
 msgid "Learn more"
 msgstr "अधिक जानें"
 
 #. This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
-#: mozorg/home/index.lang:190
+#: mozorg/home/index.lang:191
 msgid "Teach<br> the Web"
 msgstr "वेब <br>सिखाएँ"
 
-#: mozorg/home/index.lang:195
+#: mozorg/home/index.lang:196
 msgid "Make the Web you want"
 msgstr "आप जो चाहते हैं, वैसा वेब बनाओ"
 
-#: mozorg/home/index.lang:200
+#: mozorg/home/index.lang:201
 msgid "Build a Web page or app in minutes<br> — no coding required."
 msgstr "मिनटों में वेब पेज या अनुप्रयोग बनाएँ<br> - कोडिंग की आवश्यकता नहीं."
 
-#: mozorg/home/index.lang:205
+#: mozorg/home/index.lang:206
 msgid "Become a Webmaker"
 msgstr "एक Webmaker बनें"
 
 #. This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
-#: mozorg/home/index.lang:210
+#: mozorg/home/index.lang:211
 msgid "Teach the Web"
 msgstr "वेब को सिखाएँ"
 
-#: mozorg/home/index.lang:214
+#: mozorg/home/index.lang:215
 msgid "Let’s build a Web that’s open <br>and made by everyone."
 msgstr "चलो एक वेब बनाएं जो मुक्त हो <br> और सभी द्वारा बनाया गया हो"
 
-#: mozorg/home/index.lang:218
+#: mozorg/home/index.lang:219
 msgid "Build an app <br>in seconds"
 msgstr "कुछ ही सेकेंड्स में एक ऐप तैयार करें"
 
-#: mozorg/home/index.lang:222
+#: mozorg/home/index.lang:223
 msgid "Volunteer <br>with Mozilla"
 msgstr "Mozilla के साथ स्वेच्छा से अपनी सेवा समर्पित करें"
 
 #. "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
-#: mozorg/home/index.lang:228
+#: mozorg/home/index.lang:229
 msgid "Try Firefox Developer Edition"
 msgstr "फ़ायरफ़ॉक्स का डेवलपर संस्करण प्राप्त कीजिए"
 
 #. "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
-#: mozorg/home/index.lang:234
+#: mozorg/home/index.lang:235
 msgid "Introducing Firefox Developer Edition"
 msgstr "पेश करते हैं फ़ायरफ़ॉक्स डेवेलपर एडिशन"
 
-#: mozorg/home/index.lang:239
+#: mozorg/home/index.lang:240
 msgid "The only browser made only for developers."
 msgstr "अकेला ब्राउज़र जो बना है  सिर्फ़ डेवेलपर्स के लिए "
 
-#: mozorg/home/index.lang:244
+#: mozorg/home/index.lang:245
 msgid "Get Firefox Developer Edition"
 msgstr "Firefox डेवलपर संस्करण प्राप्त करें"
 
-#: mozorg/home/index.lang:248
+#: mozorg/home/index.lang:249
 msgid "Try the best Firefox yet"
 msgstr "आजमायें अब तक का सबसे बेहतरीन फ़ायरफ़ॉक्स"
 
-#: mozorg/home/index.lang:252
+#: mozorg/home/index.lang:253
 msgid "Made with a mission to put you first."
 msgstr "एक मिशन के साथ आपको प्रथम रखने के लिए बनाया."
 
-#: mozorg/home/index.lang:256
+#: mozorg/home/index.lang:257
 msgid "Learn more about Firefox"
 msgstr "फ़ायरफ़ॉक्स के बारे में अधिक जानें"
 
-#: mozorg/home/index.lang:260
+#: mozorg/home/index.lang:261
 msgid "Put your Firefox on your Android"
 msgstr "अपने फ़ायरफ़ॉक्स को अपने ऐंड्रोइड में डालें"
 
-#: mozorg/home/index.lang:264
+#: mozorg/home/index.lang:265
 msgid "The features <br>you love. <br>The privacy <br>you trust."
 msgstr "विशेषताएँ जिन्हें आप चाहें। गोपनीयता जिस पर आप विश्वास करें।"
 
-#: mozorg/home/index.lang:268
+#: mozorg/home/index.lang:269
 msgid "Learn about <br>Firefox for Android"
 msgstr "Android के लिए Firefox के बारे में जानें"
 
 #. Used in a small tile
-#: mozorg/home/index.lang:274
+#: mozorg/home/index.lang:275
 msgid "Official Mozilla gear is here"
 msgstr "ऑफ़िशियल मोज़िला गियर आ चुके हैं"
 
 #. This string is currently unused (tile will link to Mozilla Gear Store)
-#: mozorg/home/index.lang:279
+#: mozorg/home/index.lang:280
 msgid ""
 "Merch with a mission. <br>Products with a purpose. <br>Goods that do good."
 msgstr ""
 "एक मिशन के साथ रफ़्तार. <br>एक उद्देश्य के साथ उत्पाद. <br>सामान जो अच्छा करता हैं."
 
 #. This string is currently unused (tile will link to Mozilla Gear Store)
-#: mozorg/home/index.lang:284
+#: mozorg/home/index.lang:285
 msgid "Get your Mozilla gear"
 msgstr "अपने मोज़िल्ला गियर पाएँ"
 
-#: mozorg/home/index.lang:288
+#: mozorg/home/index.lang:289
 msgid "Help Mozilla users"
 msgstr "मोज़िला उपयोगकर्ताओं की मदद करें"
 
-#: mozorg/home/index.lang:292
+#: mozorg/home/index.lang:293
 msgid "Help millions <br>get the most from their <br>favorite browser."
 msgstr "लाखों की मदद करें <br> उनके पसंदीदा ब्राउज़र <br> से सबसे ज्यादा पाएं."
 
-#: mozorg/home/index.lang:296
+#: mozorg/home/index.lang:297
 msgid "Join our support team"
 msgstr "हमारे सहायता टीम में शामिल हों"
 
 #. Used in Twitter feed
-#: mozorg/home/index.lang:301
+#: mozorg/home/index.lang:302
 msgid "Reply"
 msgstr "जवाब दें"
 
 #. Used in Twitter feed
-#: mozorg/home/index.lang:306
+#: mozorg/home/index.lang:307
 msgid "Retweet"
 msgstr "रीट्वीट करें"
 
 #. <strong> tags below are for visual formatting only.
-#: mozorg/home/index.lang:311
+#: mozorg/home/index.lang:312
 msgid ""
 "Committed to <strong>you, your privacy</strong> and an <strong>open Web</"
 "strong>"
@@ -287,54 +288,54 @@ msgstr ""
 "प्रतिबद्ध हैं."
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
-#: mozorg/home/index.lang:316
+#: mozorg/home/index.lang:317
 msgid "active Mozillians <br>worldwide"
 msgstr "दुनिया भर में सक्रिय <br>Mozillians"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
-#: mozorg/home/index.lang:321
+#: mozorg/home/index.lang:322
 msgid "upcoming events <br>around the globe"
 msgstr "विश्व भर में <br> आने वाले आयोजन"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
-#: mozorg/home/index.lang:326
+#: mozorg/home/index.lang:327
 msgid "languages and counting, <br>on every continent"
 msgstr "भाषा और गिनती, <br>सभी महाद्वीपो में"
 
-#: mozorg/home/index.lang:330
+#: mozorg/home/index.lang:331
 msgid "Get Involved with Mozilla today"
 msgstr "मोज़िला के साथ आज शामिल हो"
 
-#: mozorg/home/index.lang:334
+#: mozorg/home/index.lang:335
 msgid "Upcoming events"
 msgstr "आगामी कार्यक्रम"
 
-#: mozorg/home/index.lang:338
+#: mozorg/home/index.lang:339
 msgid "Next event"
 msgstr "अगला कार्यक्रम"
 
-#: mozorg/home/index.lang:342
+#: mozorg/home/index.lang:343
 msgid "See all events"
 msgstr "सभी घटनाओं को देखिये"
 
-#: mozorg/home/index.lang:346
+#: mozorg/home/index.lang:347
 msgid ""
 "Compare prices, check the weather, listen to music, send a tweet and more "
 "right from Firefox."
 msgstr ""
 "कीमतों की तुलना करना, मौसम की जांच, संगीत सुनें, एक टवीट भेजें और अधिक Firefox से."
 
-#: mozorg/home/index.lang:350
+#: mozorg/home/index.lang:351
 msgid "Careers"
 msgstr "रोज़गार"
 
-#: mozorg/home/index.lang:354
+#: mozorg/home/index.lang:355
 msgid ""
 "Learn about the benefits of working at Mozilla and view open positions "
 "around the world."
 msgstr "मोज़िला में काम करने के लाभों के बारे में जानें और दुनिया भर में खुले विकल्पों को देखें."
 
-#: mozorg/home/index.lang:358
+#: mozorg/home/index.lang:359
 msgid ""
 "Get answers to your questions about Firefox and all Mozilla products from "
 "our support team."
@@ -342,70 +343,70 @@ msgstr ""
 "Firefox और हमारी सहायता टीम से सभी Mozilla उत्पादों के बारे में अपने प्रश्नों के उत्तर "
 "प्राप्त करें."
 
-#: mozorg/home/index.lang:362
+#: mozorg/home/index.lang:363
 msgid "Discover more"
 msgstr "और ढूंढें"
 
-#: mozorg/home/index.lang:367
+#: mozorg/home/index.lang:368
 msgid "Help us celebrate 10 years of Firefox."
 msgstr "Firefox के 10 साल का जश्न मनाने में हमारी मदद करें."
 
 #. Old promo tiles
-#: mozorg/home/index.lang:372
+#: mozorg/home/index.lang:373
 msgid "Donate to Mozilla"
 msgstr "मोज़िला के लिए दान दें"
 
-#: mozorg/home/index.lang:376
+#: mozorg/home/index.lang:377
 msgid "Your gift helps us build the Internet the world needs."
 msgstr "आपका उपहार हमें दुनिया का जरूरतमंद इंटरनेट बनाने में मदद करता है."
 
-#: mozorg/home/index.lang:380
+#: mozorg/home/index.lang:381
 msgid "Donate today"
 msgstr "आज ही दान करें"
 
-#: mozorg/home/index.lang:384
+#: mozorg/home/index.lang:385
 msgid "Meet<br> Firefox Hello"
 msgstr "मिलें<br> Firefox Hello"
 
-#: mozorg/home/index.lang:388
+#: mozorg/home/index.lang:389
 msgid "The easiest way to connect for free over video."
 msgstr "सबसे आसान तरीका, मुफ़्त वीडियो कनेक्ट करने के लिए."
 
-#: mozorg/home/index.lang:392
+#: mozorg/home/index.lang:393
 msgid "Try Firefox Hello"
 msgstr "Firefox Hello का प्रयास करें"
 
-#: mozorg/home/index.lang:397
+#: mozorg/home/index.lang:398
 #, fuzzy
 msgid "Get smart on Tracking"
 msgstr "डेटा ट्रैकिंग पर होशियार हो जाएँ"
 
-#: mozorg/home/index.lang:402
+#: mozorg/home/index.lang:403
 msgid "Try the Thimble code editor"
 msgstr "Thimble कोड संपादक इस्तेमाल करके देखें"
 
-#: mozorg/home/index.lang:407
+#: mozorg/home/index.lang:408
 msgid "Firefox is<br> now available<br> for iOS"
 msgstr "फ़ायरफ़ॉक्स अब<br>iOS के लिए<br>उपलब्ध है"
 
-#: mozorg/home/index.lang:412
+#: mozorg/home/index.lang:413
 #, fuzzy
 msgid "Add it to your iPhone, iPad &amp; iPod touch."
 msgstr "फ़ायरफ़ॉक्स को अपने iPhone, iPad और iPod Touch से जोड़ें."
 
-#: mozorg/home/index.lang:417
+#: mozorg/home/index.lang:418
 msgid "Get Firefox for iOS"
 msgstr "iOS के लिए फ़ायरफ़ॉक्स पाएं"
 
-#: mozorg/home/index.lang:422
+#: mozorg/home/index.lang:423
 msgid "Introducing the new <br>Private Browsing"
 msgstr ""
 
-#: mozorg/home/index.lang:427
+#: mozorg/home/index.lang:428
 msgid "More protection. <br>The most privacy."
 msgstr ""
 
-#: mozorg/home/index.lang:432
+#: mozorg/home/index.lang:433
 #, fuzzy
 msgid "Try Private Browsing"
 msgstr "निजी ब्राउज़िंग"
