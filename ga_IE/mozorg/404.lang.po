@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-16 10:33+0000\n"
-"PO-Revision-Date: 2015-09-15 17:37+0000\n"
-"Last-Translator: Mícheál John Ó Meachair <michealomeachair@gmail.com>\n"
+"PO-Revision-Date: 2015-12-15 00:31+0000\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ga_IE\n"
 "MIME-Version: 1.0\n"
@@ -13,26 +13,30 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
 "(n>6 && n<11) ? 3 : 4;;\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1442338674.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1450139460.000000\n"
 
 #: mozorg/404.lang:4
 msgid "404: Page Not Found"
-msgstr ""
+msgstr "404: Leathanach Gan Aimsiú"
 
 #: mozorg/404.lang:8
 msgid "Whoops!"
-msgstr ""
+msgstr "Úps!"
 
 #: mozorg/404.lang:12
 msgid ""
 "Did you make a left at that last URL instead of a right? No problem. Here "
 "are some tips to get you back on your way:"
 msgstr ""
+"Ar chas tú ar chlé seachas ar dheis ag an URL sin? Fadhb ar bith. Seo cúpla "
+"leid chun cabhrú leat do bhealach a dhéanamh:"
 
 #: mozorg/404.lang:16
 msgid "If you typed in the address, check your spelling. Could just be a typo."
 msgstr ""
+"Má chlóscríobh tú an seoladh, deimhnigh an litriú. B'fhéidir gur botún a bhí "
+"ann. "
 
 #: mozorg/404.lang:20
 msgid ""
@@ -41,13 +45,19 @@ msgid ""
 "tracker</a>. One of our developers will take a look at it as soon as "
 "possible."
 msgstr ""
+"Má cheapann tú gur tháinig tú ar fhadhb le suíomh Gréasáin dár gcuid, "
+"bheimis an-bhuíoch díot as tuairisc a dhéanamh faoin fhadhb i mBugzilla, ár "
+"<a href=\"%(bugzilla)s\">gcóras rianaithe fabhtanna</a>. Tabharfaidh "
+"forbróir féachaint air chomh luath agus is féidir."
 
 #: mozorg/404.lang:24
 msgid "If you followed a link, it’s probably broken."
-msgstr ""
+msgstr "Má lean tú nasc, is dócha go bhfuil sé briste."
 
 #: mozorg/404.lang:28
 msgid ""
 "If you’re not sure what you’re looking for, start at <a href=\"%(url)s"
 "\">mozilla.org</a>."
 msgstr ""
+"Mura bhfuil tú cinnte céard a theastaíonn uait, tosaigh ar <a href=\"%(url)s"
+"\">mozilla.org</a>."

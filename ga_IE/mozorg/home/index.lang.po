@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-03 12:51+0000\n"
-"PO-Revision-Date: 2015-09-03 23:32+0000\n"
+"PO-Revision-Date: 2015-12-15 00:40+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ga_IE\n"
@@ -13,8 +13,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
 "(n>6 && n<11) ? 3 : 4;;\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1441323128.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1450140020.000000\n"
 
 #. Used as page title in HTML meta tag
 #: mozorg/home/index.lang:22
@@ -34,33 +34,33 @@ msgstr ""
 #. Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
 #: mozorg/home/index.lang:35
 msgid "Proudly non-profit. <br>Donate before Dec 31."
-msgstr ""
+msgstr "Eagraíocht neamhbhrabúis. <br>Tabhair bronntanas roimh 31 Nollaig"
 
 #. This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
 #. You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 #: mozorg/home/index.lang:42
 msgid "$%(sum)s"
-msgstr ""
+msgstr "$%(sum)s"
 
 #. Take over form
 #: mozorg/home/index.lang:48
 msgid "Enter your own amount"
-msgstr ""
+msgstr "Cuir do mhéid féin isteach"
 
 #. Take over form: radio button for monthly contributions
 #: mozorg/home/index.lang:54
 msgid "Monthly"
-msgstr ""
+msgstr "Go Míosúil"
 
 #. Take over form: radio button for one-time contributions
 #: mozorg/home/index.lang:60
 msgid "One-time"
-msgstr ""
+msgstr "Aon uair"
 
 #. Take over form: button to submit the donation form
 #: mozorg/home/index.lang:66
 msgid "Donate Now"
-msgstr ""
+msgstr "Bronn Anois"
 
 #: mozorg/home/index.lang:70
 msgid "Home of the Mozilla Project"
@@ -94,14 +94,16 @@ msgstr "Léigh <br>Forógra Mhozilla"
 #: mozorg/home/index.lang:100
 msgid "Donate to Mozilla,<br> the non-profit behind Firefox."
 msgstr ""
+"Tabhair bronntanas do Mhozilla,<br> an eagraíocht neamhbhrabúis taobh thiar "
+"de Firefox."
 
 #: mozorg/home/index.lang:105
 msgid "Our year-end<br> fundraiser ends Dec 31."
-msgstr ""
+msgstr "Críochnóidh feachtas<br> dheireadh na bliana 31 Nollaig."
 
 #: mozorg/home/index.lang:110
 msgid "Donate now"
-msgstr ""
+msgstr "Bronn anois"
 
 #: mozorg/home/index.lang:115
 msgid "Mozilla Developer Network"
@@ -143,15 +145,15 @@ msgstr "Íosluchtaigh Firefox"
 
 #: mozorg/home/index.lang:160
 msgid "Get the gear, <br>support the mission"
-msgstr ""
+msgstr "Faigh an gléasra, <br>cuidigh leis an misean"
 
 #: mozorg/home/index.lang:165
 msgid "Shop for t-shirts, hoodies, hats<br> and more at Mozilla Gear."
-msgstr ""
+msgstr "Faigh t-léinte, húdaithe, caipíní<br> agus tuilleadh ag Mozilla Gear."
 
 #: mozorg/home/index.lang:170
 msgid "Shop now"
-msgstr ""
+msgstr "Déan siopadóireacht anois"
 
 #: mozorg/home/index.lang:175
 msgid "Introducing<br> the new Webmaker"
@@ -392,7 +394,7 @@ msgstr "Bain triail as Firefox Hello"
 
 #: mozorg/home/index.lang:398
 msgid "Get smart on Tracking"
-msgstr ""
+msgstr "Bí ar an eolas faoi rianú ar líne"
 
 #: mozorg/home/index.lang:403
 msgid "Try the Thimble code editor"
@@ -400,10 +402,9 @@ msgstr "Bain triail as an eagarthóir cóid Thimble"
 
 #: mozorg/home/index.lang:408
 msgid "Firefox is<br> now available<br> for iOS"
-msgstr ""
+msgstr "Tá Firefox<br> ar fáil anois<br> ar iOS"
 
 #: mozorg/home/index.lang:413
-#, fuzzy
 msgid "Add it to your iPhone, iPad &amp; iPod touch."
 msgstr "Suiteáil Firefox ar do iPhone, iPad nó iPod touch."
 
@@ -413,16 +414,15 @@ msgstr "Faigh Firefox ar iOS"
 
 #: mozorg/home/index.lang:423
 msgid "Introducing the new <br>Private Browsing"
-msgstr ""
+msgstr "Seo dhuit<br>Brabhsáil Phríobháideach"
 
 #: mozorg/home/index.lang:428
 msgid "More protection. <br>The most privacy."
-msgstr ""
+msgstr "An chosaint is fearr. <br>An brabhsálaí is príobháidí."
 
 #: mozorg/home/index.lang:433
-#, fuzzy
 msgid "Try Private Browsing"
-msgstr "Brabhsáil Phríobháideach"
+msgstr "Bain triail as Brabhsáil Phríobháideach"
 
 #~ msgid "Get creative <br>at Maker Party"
 #~ msgstr "Bí cruthaitheach <br>ag Cóisir na nDéantóirí"
