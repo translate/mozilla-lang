@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-07 06:30+0000\n"
-"PO-Revision-Date: 2015-08-21 07:08+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2015-12-15 19:04+0000\n"
+"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: none\n"
 "Language: gd\n"
 "MIME-Version: 1.0\n"
@@ -13,36 +13,36 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3 ;\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1440140906.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1450206263.000000\n"
 
 #. Title of the page (HTML meta)
 #: firefox/ios.lang:7
 msgid "Mobile Web browser for your iPhone, iPad and iPod touch"
-msgstr ""
+msgstr "Brabhsair-lìn mobile airson an iPhone, iPad is iPod Touch agad"
 
 #: firefox/ios.lang:11
-#, fuzzy
 msgid "Firefox for iOS"
-msgstr "Faigh Firefox airson iOS"
+msgstr "Firefox airson iOS"
 
 #: firefox/ios.lang:15
-#, fuzzy
 msgid "Add Firefox to your iPhone, iPad and iPod touch."
-msgstr "Cuir Firefox ris an iPhone, iPad is iPod Touch agad"
+msgstr "Cuir Firefox ris an iPhone, iPad is iPod Touch agad."
 
 #: firefox/ios.lang:19
 msgid "Preview release"
-msgstr ""
+msgstr "Sgaoileadh ro-sheallaidh"
 
 #: firefox/ios.lang:23
 msgid "Get it now"
-msgstr ""
+msgstr "Faigh e an-dràsta"
 
 #. Newsletter section
 #: firefox/ios.lang:28
 msgid "Sign up below for updates and to be notified when it launches."
 msgstr ""
+"Clàraich gu h-ìosal airson ùrachaidhean is gheibh thu brath nuair a thig e a-"
+"mach."
 
 #. Newsletter section
 #: firefox/ios.lang:33
@@ -50,23 +50,29 @@ msgid ""
 "* You’ll only receive updates and announcements about the iOS version of "
 "Firefox."
 msgstr ""
+"* Chan fhaigh thu naidheachdan is brathach ach mu dhèidhinn tionndadh iOS de "
+"Firefox."
 
 #. Newsletter section
 #: firefox/ios.lang:38
 msgid "Thanks for your interest in Firefox for iOS."
-msgstr ""
+msgstr "Tha sinn toilichte gu bheil ùidh agad ann am Firefox airson iOS."
 
 #. Newsletter section
 #: firefox/ios.lang:43
 msgid ""
 "Don’t forget to check your inbox to confirm your request to get updates."
 msgstr ""
+"Na dìochuimhnich a’ chromag sa bhogsa a dhearbhadh gu bheil thu ag iarraidh "
+"naidheachdan mu dhèidhinn."
 
 #: firefox/ios.lang:47
 msgid ""
 "Sign in to your Firefox Account to access your browsing info on all your "
 "mobile devices."
 msgstr ""
+"Clàraich a-steach gun chunntas Firefox agad gus an dàta brabhsaidh agad "
+"fhaighinn air gach uidheam mobile agad."
 
 #: firefox/ios.lang:51
 msgid "History"
@@ -86,7 +92,7 @@ msgstr "Comharran-lìn"
 
 #: firefox/ios.lang:69
 msgid "Reading List"
-msgstr ""
+msgstr "An liosta leughaidh"
 
 #: firefox/ios.lang:73
 msgid "Get started with Sync"
@@ -94,15 +100,15 @@ msgstr "Toiseach-tòiseachaidh leis an t-sioncronachadh"
 
 #: firefox/ios.lang:77
 msgid "Already have an account?"
-msgstr ""
+msgstr "A bheil cunntas agad mu thràth?"
 
 #: firefox/ios.lang:81
 msgid "Sign in"
-msgstr ""
+msgstr "Clàraich a-steach"
 
 #: firefox/ios.lang:85
 msgid "You’re already signed in!"
-msgstr ""
+msgstr "Rinn thu clàradh a-steach mu thràth!"
 
 #: firefox/ios.lang:89
 msgid "Learn more about Sync"
@@ -110,11 +116,11 @@ msgstr "Faigh barrachd fiosrachaidh mun t-sioncronachadh"
 
 #: firefox/ios.lang:93
 msgid "Send Firefox to your iOS device"
-msgstr ""
+msgstr "Cuir Firefox air an uidheam iOS agad"
 
 #: firefox/ios.lang:97
 msgid "Sync your Firefox browsing history on iOS"
-msgstr ""
+msgstr "Sioncronaich an eachdraidh brabhsaidh Firefox agad air iOS"
 
 #. The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
 #: firefox/ios.lang:102
@@ -122,6 +128,8 @@ msgid ""
 "First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
 "using Sync."
 msgstr ""
+"Thoir gnogag air putan nan <b>taba</b> an toiseach. Agus an uairsin an "
+"ìomhaigheag %(gear_icon)s gus an sioncronachadh a chur gu dol."
 
 #: firefox/ios.lang:106
 msgid "Not now"
@@ -129,7 +137,7 @@ msgstr "Chan ann an-dràsta"
 
 #: firefox/ios.lang:110
 msgid "Learn more in the App Store"
-msgstr ""
+msgstr "Barrachd fiosrachadh san App Store"
 
 #: firefox/ios.lang:115
 msgid "Keep your private info private"
@@ -142,23 +150,20 @@ msgstr ""
 "agad."
 
 #: firefox/ios.lang:125
-#, fuzzy
 msgid "Firefox for iOS is filled with features to help keep it that way."
-msgstr ""
-"Tha Firefox airson Android loma-làn de ghleusan a chumas e prìobhaideach."
+msgstr "Tha Firefox airson iOS loma-làn de ghleusan a chumas mar sin e."
 
 #: firefox/ios.lang:130
 msgid "Private Browsing"
 msgstr "Brabhsadh prìobhaideach"
 
 #: firefox/ios.lang:135
-#, fuzzy
 msgid ""
 "When activated, Firefox for iOS won’t accept cookies, remember passwords or "
 "record any sites that you’ve visited."
 msgstr ""
-"Ma chuireas tu an comas e, cha ghabh Firefox airson Android ri briosgaidean, "
-"cha chuimhnich e faclan-faire 's cha chlàraich e na làraichean air an "
+"Ma chuireas tu an gnìomh e, cha ghabh Firefox airson iOS ri briosgaidean, "
+"cha chuimhnich e faclan-faire ’s cha chlàraich e na làraichean air an "
 "tadhail thu."
 
 #: firefox/ios.lang:140
