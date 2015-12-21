@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-06 09:38+0000\n"
-"PO-Revision-Date: 2015-12-19 18:15+0000\n"
+"PO-Revision-Date: 2015-12-21 07:59+0000\n"
 "Last-Translator: Raj Nilayam <raj.nilayam@gmail.com>\n"
 "Language-Team: none\n"
 "Language: hi_IN\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1450548914.000000\n"
+"X-POOTLE-MTIME: 1450684748.000000\n"
 
 #: mozorg/newsletters.lang:5
 msgid "Your email address:"
@@ -471,18 +471,17 @@ msgid "Make Firefox do more with add-ons."
 msgstr "फ़ायरफ़ॉक्स Add-ons के साथ और अधिक करें."
 
 #: mozorg/newsletters.lang:422
-#, fuzzy
 msgid "You must agree to the privacy policy"
-msgstr "आपको गोपनीयता नीति पर सहमत होना चाहिए."
+msgstr " आपको गोपनीयता नीति पर सहमत होना चाहिए."
 
 #: mozorg/newsletters.lang:426
 msgid "Other…"
-msgstr "अन्य…"
+msgstr "अन्य ... "
 
 #. <title> tag for the subscription confirmation page
 #: mozorg/newsletters.lang:431
 msgid "Newsletter confirm"
-msgstr "सूचनापत्र की पुष्टि"
+msgstr " सूचनापत्र की पुष्टि"
 
 #: mozorg/newsletters.lang:435
 msgid ""
@@ -494,7 +493,7 @@ msgstr ""
 
 #: mozorg/newsletters.lang:439
 msgid "Manage your Email Preferences"
-msgstr "अपने ईमेल प्राथमिकताएं मैनेज करें"
+msgstr " अपने ईमेल प्राथमिकताएं मैनेज करें"
 
 #: mozorg/newsletters.lang:443
 msgid ""
@@ -506,6 +505,8 @@ msgid ""
 "This email address is not in our system. Please double check your address or "
 "<a href=\"%s\">subscribe to our newsletters.</a>"
 msgstr ""
+"इस ईमेल पते को हमारे सिस्टम में नहीं है। <a href=\"%s\">हमारे न्यूज़लेटर</a> की सदस्यता के "
+"लिए अपना पता दोबारा जांच करें ।"
 
 #: mozorg/newsletters.lang:451
 msgid ""
@@ -524,7 +525,7 @@ msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
 msgstr ""
-"कृपया हमारा भेजने वाला पता: mozilla@e.mozilla.org अपना पता पुस्तिका मे जोड कर "
+" कृपया हमारा भेजने वाला पता: mozilla@e.mozilla.org अपना पता पुस्तिका मे जोड कर "
 "निश्चित हो जाये और सुनिश्चित करे कि हम हमेशा आपके इनबॉक्स मे  पहुचे."
 
 #: mozorg/newsletters.lang:463
@@ -537,7 +538,8 @@ msgstr "अपनी समाचार पत्रिका कि सदस�
 
 #: mozorg/newsletters.lang:471
 msgid "Sign up below for updates and to be notified when it launches."
-msgstr "अपडेट के लिए नीचे साइन अप करें और अधिसूचित किया जायेगा जब यह प्रक्षेपित होगा."
+msgstr ""
+" अपडेट के लिए नीचे साइन अप करें और अधिसूचित किया जाना है जब यह प्रक्षेपित करता हैं."
 
 #: mozorg/newsletters.lang:475
 msgid "Newsletter email recovery"
@@ -563,7 +565,7 @@ msgstr "फ़ायरफ़ॉक्स साप्ताहिक टिप्स"
 
 #: mozorg/newsletters.lang:495
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
-msgstr "अपने फ़ायरफ़ॉक्स अनुभव को कैसे सुपर चार्ज करें उसपर एक साप्ताहिक सुझाव प्राप्त करें."
+msgstr " अपने फ़ायरफ़ॉक्स अनुभव को कैसे सुपर चार्ज करें उसपर एक साप्ताहिक सुझाव प्राप्त करें."
 
 #: mozorg/newsletters.lang:499
 msgid "Student Reps"
@@ -579,7 +581,7 @@ msgstr ""
 
 #: mozorg/newsletters.lang:507
 msgid "Mozilla Learning Network"
-msgstr ""
+msgstr "मोज़िला सीखना नेटवर्क"
 
 #: mozorg/newsletters.lang:511
 msgid ""
@@ -602,7 +604,7 @@ msgstr "Android के लिए Firefox पाएँ"
 
 #: mozorg/newsletters.lang:527
 msgid "Drumbeat Newsgroup"
-msgstr ""
+msgstr "ढोल की आवाज समाचार समूह"
 
 #: mozorg/newsletters.lang:531
 msgid "Mozilla Festival"
@@ -622,14 +624,13 @@ msgstr "Android के लिए Firefox Marketplace"
 
 #: mozorg/newsletters.lang:543
 msgid "About Standards"
-msgstr ""
+msgstr "मानक परिचय"
 
 #: mozorg/newsletters.lang:547
 msgid "Get Involved"
 msgstr " शामिल हों"
 
 #: mozorg/newsletters.lang:551
-#, fuzzy
 msgid "Download Firefox for Mobile"
 msgstr "एंड्रॉयड के लिए फायरफॉक्स डाउनलोड करें"
 
@@ -661,7 +662,7 @@ msgstr " अंतिम रिलीज से पहले फॉयरफॉ�
 
 #: mozorg/newsletters.lang:579
 msgid "Webmaker"
-msgstr "वेबमेकर"
+msgstr " वेबमेकर"
 
 #: mozorg/newsletters.lang:583
 msgid "Special announcements helping you get the most out of Webmaker."
@@ -672,9 +673,8 @@ msgid "Addon Development"
 msgstr ""
 
 #: mozorg/newsletters.lang:591
-#, fuzzy
 msgid "Firefox Marketplace for Desktop"
-msgstr "Android के लिए Firefox Marketplace"
+msgstr " डेस्कटॉप के लिए Firefox बाज़ार"
 
 #~ msgid "Firefox OS News"
 #~ msgstr "फ़ायरफ़ॉक्स ओस समाचार"
