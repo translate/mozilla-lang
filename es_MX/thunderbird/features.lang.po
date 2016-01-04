@@ -4,43 +4,43 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-22 00:26+0000\n"
-"PO-Revision-Date: 2015-11-19 23:17+0000\n"
-"Last-Translator: brentmsummers <brentmsummers@gmail.com>\n"
+"PO-Revision-Date: 2016-01-04 18:27+0000\n"
+"Last-Translator: Roberto Alvarado <ralv888@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es_MX\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1447975060.000000\n"
+"X-POOTLE-MTIME: 1451932055.000000\n"
 
 #: thunderbird/features.lang:5
 msgid "Thunderbird Features"
-msgstr ""
+msgstr "Características de Thunderbird"
 
 #: thunderbird/features.lang:9
 msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
-msgstr ""
+msgstr "Es todo tuyo. Ahora es mas fácil actualizar Thunderbird."
 
 #: thunderbird/features.lang:13
 msgid "Easier to Get Started"
-msgstr ""
+msgstr "Más fácil para empezar"
 
 #: thunderbird/features.lang:17
 msgid "Tabs and Search"
-msgstr ""
+msgstr "Pestañas y Búsqueda"
 
 #: thunderbird/features.lang:21
 msgid "Customize Your Email Experience"
-msgstr ""
+msgstr "Personaliza tu experiencia de correo electrónico"
 
 #: thunderbird/features.lang:25
 msgid "Secure and Protect Your Email"
-msgstr ""
+msgstr "Asegura y protege tu correo electrónico"
 
 #: thunderbird/features.lang:29
 msgid "Mail Account Setup Wizard"
-msgstr ""
+msgstr "Asistente de configuración de cuenta de correo electrónico"
 
 #: thunderbird/features.lang:33
 msgid ""
@@ -49,10 +49,15 @@ msgid ""
 "the email account set up wizardry will check our database and find the email "
 "settings for you."
 msgstr ""
+"Antes de esta característica, tenias que saber como configurar el IMAP, "
+"SMTP, y SSL/TLS. Ahora, solo tienes que proveer su nombre, correo "
+"electrónico, y contraseña, luego el asistente de instalación de correo "
+"electrónico comprobará nuestra base de datos y encontrara los ajustes de "
+"correo electrónico por ti."
 
 #: thunderbird/features.lang:37
 msgid "One-click Address Book"
-msgstr ""
+msgstr "Libreta de dirección One-click"
 
 #: thunderbird/features.lang:41
 msgid ""
@@ -61,10 +66,14 @@ msgid ""
 "receive. Two clicks and you can add more details like a photo, birthday, and "
 "other contact information."
 msgstr ""
+"La libreta de dirección One-click es una manera fácil y rápida para agregar "
+"personas a tu libreta de direcciones. Agregar gente con un clic en el ícono "
+"estrella en el mensaje que recibiste. Haz dos clics para añadir más detalles "
+"como una foto, cumpleaños, y otra información del contacto."
 
 #: thunderbird/features.lang:45
 msgid "Attachment Reminder"
-msgstr ""
+msgstr "Recordatorio de adjunto"
 
 #: thunderbird/features.lang:49
 msgid ""
@@ -72,11 +81,13 @@ msgid ""
 "file types) in the body of your message and reminds you to add an attachment "
 "before hitting send."
 msgstr ""
+"El recordatorio de adjunto busca por la palabra adjunta (y otras palabras "
+"como tipos de archivos) en el cuerpo de tu mensaje y te recuerda agregar un "
+"adjunto antes de enviar."
 
 #: thunderbird/features.lang:53
-#, fuzzy
 msgid "Tabs"
-msgstr "Labs"
+msgstr "Pestañas"
 
 #: thunderbird/features.lang:57
 msgid ""
@@ -86,6 +97,13 @@ msgid ""
 "to an earlier email. Tabbed email lets you keep multiple emails open for "
 "easy reference."
 msgstr ""
+"Si te gusta la navegación por pestañas de Firefox, te va a encantar el "
+"correo electrónico con pestañas. Correo electrónico con pestañas ye permite "
+"cargar correos electrónicos en pestañas separadas para que puedas saltar "
+"rápidamente entre ellos. Tal vez estás respondiendo a un correo electrónico "
+"y necesitas hacer referencia a un correo electrónico anterior. Correo "
+"electrónico con pestañas te permite mantener múltiples correos electrónicos "
+"abiertos para una fácil referencia."
 
 #: thunderbird/features.lang:61
 msgid ""
@@ -93,6 +111,9 @@ msgid ""
 "message in a new tab window. Right-clicking on messages or folders will open "
 "them in a tab in the background."
 msgstr ""
+"Hacer doble clic o presionar la tecla Enter en un mensaje de correo a el "
+"mensaje en una nueva pestaña nueva.Hacer clic con el botón derecho en "
+"mensajes o carpetas los abrirá en una pestaña en segundo plano."
 
 #: thunderbird/features.lang:65
 msgid ""
@@ -100,10 +121,14 @@ msgid ""
 "when you open Thunderbird the next time. There is also a Tab menu on the Tab "
 "toolbar to help you switch between Tabs."
 msgstr ""
+"Cuando salgas de Thunderbird, las pestañas visibles serán guardadas, y "
+"restauradas la próxima vez que abras Thunderbird. Además esta el menú de "
+"Pestañas en la barra de herramientas de Pestañas que te permite cambiar "
+"entre pestañas."
 
 #: thunderbird/features.lang:69
 msgid "Quick Filter Toolbar"
-msgstr ""
+msgstr "Barra de herramientas de filtro rápido"
 
 #: thunderbird/features.lang:73
 msgid ""
@@ -113,6 +138,12 @@ msgid ""
 "your Address Book. You can also \"Pin\" or save a Filter and use it across "
 "multiple folders."
 msgstr ""
+"La Barra de Herramientas de Filtro Rápido te permite filtrar tu correo "
+"electrónico más rápido. Empieza a escribir con palabras en el buscador de "
+"Filtro Rápido y los resultados se muestran al instante. O puedes filtrar el "
+"correo electrónico por Mensajes Nuevos, Etiquetas, y personas en la Libreta "
+"de Direcciones. También puedes \"Pin\" o guardar un Filtro y usarlo a través "
+"de múltiples carpetas."
 
 #: thunderbird/features.lang:77
 msgid "Search"
