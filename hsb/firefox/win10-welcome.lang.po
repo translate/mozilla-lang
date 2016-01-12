@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-29 14:25+0000\n"
+"POT-Creation-Date: 2016-01-12 14:57+0000\n"
 "PO-Revision-Date: 2015-07-29 15:10+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1438182639.000000\n"
 
 #. Main title
@@ -37,31 +37,37 @@ msgid "Make Firefox your default in 3 easy steps:"
 msgstr "Čińće Firefox k swojemu standardej w 3 lochkich krokach:"
 
 #. The following strings are displayed when Firefox is not set as default browser.
-#: firefox/win10-welcome.lang:23
+#: firefox/win10-welcome.lang:24
+#, fuzzy
+msgid "Click the button above"
+msgstr "Klikńće na slědowace tłóčatko"
+
+#. This string is obsolete (do not remove). In the latest version of the page the button moved above the string
+#: firefox/win10-welcome.lang:29
 msgid "Click the button below"
 msgstr "Klikńće na slědowace tłóčatko"
 
-#: firefox/win10-welcome.lang:27
+#: firefox/win10-welcome.lang:33
 msgid "Scroll down to “Web browser”"
 msgstr "Kulejće dele do \"Webwobhladowak\""
 
-#: firefox/win10-welcome.lang:31
+#: firefox/win10-welcome.lang:37
 msgid "Choose Firefox"
 msgstr "Firefox wubrać"
 
-#: firefox/win10-welcome.lang:35
+#: firefox/win10-welcome.lang:41
 msgid "Let’s do it"
 msgstr "Čińmy to"
 
 #. The following strings are displayed when Firefox set as default browser.
-#: firefox/win10-welcome.lang:40
+#: firefox/win10-welcome.lang:46
 msgid "Privacy"
 msgstr "Priwatnosć"
 
-#: firefox/win10-welcome.lang:44
+#: firefox/win10-welcome.lang:50
 msgid "Speed"
 msgstr "Spěšnosć"
 
-#: firefox/win10-welcome.lang:48
+#: firefox/win10-welcome.lang:54
 msgid "Choice"
 msgstr "Wólba"
