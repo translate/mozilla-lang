@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-03 12:51+0000\n"
+"POT-Creation-Date: 2016-01-12 11:56+0000\n"
 "PO-Revision-Date: 2015-11-27 17:33+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,12 +15,12 @@ msgstr ""
 "X-POOTLE-MTIME: 1448645623.000000\n"
 
 #. Used as page title in HTML meta tag
-#: mozorg/home/index.lang:22
+#: mozorg/home/index.lang:20
 msgid "We’re building a better Internet"
 msgstr "Жақсырақ интернетті жасаудамыз"
 
 #. Used as page description in HTML meta tag
-#: mozorg/home/index.lang:28
+#: mozorg/home/index.lang:26
 msgid ""
 "Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a "
 "global public resource open and accessible to all."
@@ -28,233 +28,184 @@ msgstr ""
 "Сіз білдіңіз бе? Mozilla — Firefox жасаушысы — Интернетті әркім үшін ашық "
 "және қолжетерлік публикалық ресурс болғанын сақтау үшін күреседі."
 
-#. This will be used on a home page takeover starting from Dec 1st.
-#. Screenshot for reference while the page is implemented: https://bug1214038.bmoattachments.org/attachment.cgi?id=8691488
-#: mozorg/home/index.lang:35
-msgid "Proudly non-profit. <br>Donate before Dec 31."
-msgstr ""
-"Коммерциялық еместігін мақтан тұтады.<br>31-ші желтоқсанға дейін ақшалай "
-"көмектесіңіз."
-
-#. This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
-#. You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
-#: mozorg/home/index.lang:42
-msgid "$%(sum)s"
-msgstr "$%(sum)s"
-
-#. Take over form
-#: mozorg/home/index.lang:48
-msgid "Enter your own amount"
-msgstr "Өз сомаңызды енгізіңіз"
-
-#. Take over form: radio button for monthly contributions
-#: mozorg/home/index.lang:54
-msgid "Monthly"
-msgstr "Ай сайын"
-
-#. Take over form: radio button for one-time contributions
-#: mozorg/home/index.lang:60
-msgid "One-time"
-msgstr "Бір рет"
-
-#. Take over form: button to submit the donation form
-#: mozorg/home/index.lang:66
-msgid "Donate Now"
-msgstr "Қазір ақшалай көмектесу"
-
-#: mozorg/home/index.lang:70
+#: mozorg/home/index.lang:30
 msgid "Home of the Mozilla Project"
 msgstr "Mozilla жобасының үй парағы"
 
-#: mozorg/home/index.lang:74
+#: mozorg/home/index.lang:34
 msgid "Read more"
 msgstr "Көбірек білу"
 
-#: mozorg/home/index.lang:78
+#: mozorg/home/index.lang:38
 msgid "Community"
 msgstr "Қоғамдастық"
 
 #. This is used as a link to dismiss the video overlay and continue to mozilla.org website
-#: mozorg/home/index.lang:83
+#: mozorg/home/index.lang:43
 msgid "Continue to mozilla.org"
 msgstr "mozilla.org сайтына жалғастыру"
 
-#: mozorg/home/index.lang:87
+#: mozorg/home/index.lang:47
 msgid "Discover <br>what drives our mission"
 msgstr "Мақсатымызға не әсер ететінін <br>біліңіз"
 
-#: mozorg/home/index.lang:91
+#: mozorg/home/index.lang:51
 msgid "See the principles <br>that guide everything <br>we do."
 msgstr "Біз жасайтын барлығына <br>не әсер ететінін <br>біліңіз."
 
-#: mozorg/home/index.lang:95
+#: mozorg/home/index.lang:55
 msgid "Read the <br>Mozilla Manifesto"
 msgstr "Mozilla манифестін <br> оқыңыз"
 
-#: mozorg/home/index.lang:100
-msgid "Donate to Mozilla,<br> the non-profit behind Firefox."
-msgstr ""
-"Firefox-ты жасайтын коммерциялық емес ұйымға,<br> Mozilla-ға ақшалай "
-"көмектесіңіз."
-
-#: mozorg/home/index.lang:105
-msgid "Our year-end<br> fundraiser ends Dec 31."
-msgstr ""
-"Біздің жыл аяғындағы қаражатты жинау науқаны<br> 31-ші желтоқсанда аяқталады."
-
-#: mozorg/home/index.lang:110
-msgid "Donate now"
-msgstr "Қазір ақшалай көмектесу"
-
-#: mozorg/home/index.lang:115
+#: mozorg/home/index.lang:60
 msgid "Mozilla Developer Network"
 msgstr "Mozilla өндіруші желісі"
 
-#: mozorg/home/index.lang:120
+#: mozorg/home/index.lang:65
 msgid "10 years of documenting your Web."
 msgstr "Интернетіңізді құжаттандырудың 10 жылы."
 
-#: mozorg/home/index.lang:125
+#: mozorg/home/index.lang:70
 msgid "Celebrate with us"
 msgstr "Бізбен тойлау"
 
 #. Do no translate "Firefox Friends" (https://friends.mozilla.org)
-#: mozorg/home/index.lang:131
+#: mozorg/home/index.lang:76
 msgid "Introducing <br>Firefox Friends"
 msgstr "Firefox достарын <br>таныс ету"
 
-#: mozorg/home/index.lang:136
+#: mozorg/home/index.lang:81
 msgid "Join. Share. <br>Get rewarded."
 msgstr "Қатысыңыз. Бөлісіңіз. <br>Жүлдені алыңыз."
 
-#: mozorg/home/index.lang:141
+#: mozorg/home/index.lang:86
 msgid "Join Firefox Friends"
 msgstr "Firefox достарына мүше болу"
 
 #. Small tile. Link points to https://advocacy.mozilla.org
-#: mozorg/home/index.lang:147
+#: mozorg/home/index.lang:92
 msgid "Learn about Mozilla Advocacy"
 msgstr "Mozilla Advocacy туралы көбірек біліңіз"
 
-#: mozorg/home/index.lang:151
+#: mozorg/home/index.lang:96
 msgid "Understand your privacy online"
 msgstr "Интернеттегі жекелігіңізді түсіну"
 
-#: mozorg/home/index.lang:155
+#: mozorg/home/index.lang:100
 msgid "Download Firefox"
 msgstr "Firefox-ты жүктеп алу"
 
-#: mozorg/home/index.lang:160
+#: mozorg/home/index.lang:105
 msgid "Get the gear, <br>support the mission"
 msgstr "Атрибутиканы сатып алып, <br>миссиямызды қолдаңыз"
 
-#: mozorg/home/index.lang:165
+#: mozorg/home/index.lang:110
 msgid "Shop for t-shirts, hoodies, hats<br> and more at Mozilla Gear."
 msgstr "Mozilla дүкенінен футболка, худи, кепка<br> және т.б. сатып алыңыз."
 
-#: mozorg/home/index.lang:170
+#: mozorg/home/index.lang:115
 msgid "Shop now"
 msgstr "Қазір шолу"
 
-#: mozorg/home/index.lang:175
+#: mozorg/home/index.lang:120
 msgid "Introducing<br> the new Webmaker"
 msgstr "Жаңа Webmaker<br> ұсынылады"
 
-#: mozorg/home/index.lang:180
+#: mozorg/home/index.lang:125
 msgid "Discover, create and share original content with the free Webmaker app."
 msgstr ""
 "Тегін Webmaker қолданбасы көмегімен бірегей құрамамен шолыңыз, жасаңыз және "
 "онымен бөлісіңіз."
 
-#: mozorg/home/index.lang:185
+#: mozorg/home/index.lang:130
 msgid "Learn more"
 msgstr "Көбірек білу"
 
 #. This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
-#: mozorg/home/index.lang:191
+#: mozorg/home/index.lang:136
 msgid "Teach<br> the Web"
 msgstr "Интернетті<br> үйрету"
 
-#: mozorg/home/index.lang:196
+#: mozorg/home/index.lang:141
 msgid "Make the Web you want"
 msgstr "Өзіңіз қалайтын интернетті жасаңыз"
 
-#: mozorg/home/index.lang:201
+#: mozorg/home/index.lang:146
 msgid "Build a Web page or app in minutes<br> — no coding required."
 msgstr ""
 "Веб бетті немесе қолданбаны минуттар ішінде жасаңыз<br> — код жазу керек "
 "емес."
 
-#: mozorg/home/index.lang:206
+#: mozorg/home/index.lang:151
 msgid "Become a Webmaker"
 msgstr "Webmaker болыңыз"
 
 #. This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
-#: mozorg/home/index.lang:211
+#: mozorg/home/index.lang:156
 msgid "Teach the Web"
 msgstr "Интернетті үйрету"
 
-#: mozorg/home/index.lang:215
+#: mozorg/home/index.lang:160
 msgid "Let’s build a Web that’s open <br>and made by everyone."
 msgstr "Ашық және әркім үшін қолжетерлік <br>Интернетті жасайық."
 
-#: mozorg/home/index.lang:219
+#: mozorg/home/index.lang:164
 msgid "Build an app <br>in seconds"
 msgstr "Қолданбаны <br>секундтар ішінде жасаңыз"
 
-#: mozorg/home/index.lang:223
+#: mozorg/home/index.lang:168
 msgid "Volunteer <br>with Mozilla"
 msgstr "Mozilla-мен бірге<br>волонтер болыңыз"
 
 #. "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
-#: mozorg/home/index.lang:229
+#: mozorg/home/index.lang:174
 msgid "Try Firefox Developer Edition"
 msgstr "Firefox Developer Edition қолданып көріңіз"
 
 #. "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
-#: mozorg/home/index.lang:235
+#: mozorg/home/index.lang:180
 msgid "Introducing Firefox Developer Edition"
 msgstr "Firefox Developer Edition ұсынылады"
 
-#: mozorg/home/index.lang:240
+#: mozorg/home/index.lang:185
 msgid "The only browser made only for developers."
 msgstr "Тек өндірушілер үшін жасалған жалғыз браузер."
 
-#: mozorg/home/index.lang:245
+#: mozorg/home/index.lang:190
 msgid "Get Firefox Developer Edition"
 msgstr "Firefox Developer Edition алу"
 
-#: mozorg/home/index.lang:249
+#: mozorg/home/index.lang:194
 msgid "Try the best Firefox yet"
 msgstr "Ең жақсы Firefox-ты алыңыз"
 
-#: mozorg/home/index.lang:253
+#: mozorg/home/index.lang:198
 msgid "Made with a mission to put you first."
 msgstr "Сізді өз алдына қоятындай мақсатпен жасалды."
 
-#: mozorg/home/index.lang:257
+#: mozorg/home/index.lang:202
 msgid "Learn more about Firefox"
 msgstr "Firefox туралы көбірек біліңіз"
 
-#: mozorg/home/index.lang:261
+#: mozorg/home/index.lang:206
 msgid "Put your Firefox on your Android"
 msgstr "Firefox-ты өз Android құрылғыңызға орнатыңыз"
 
-#: mozorg/home/index.lang:265
+#: mozorg/home/index.lang:210
 msgid "The features <br>you love. <br>The privacy <br>you trust."
 msgstr "Сіз жақсы көретін <br>мүмкіндіктер. <br>Сіз сене алатын <br>жекелік."
 
-#: mozorg/home/index.lang:269
+#: mozorg/home/index.lang:214
 msgid "Learn about <br>Firefox for Android"
 msgstr "Android үшін Firefox <br>туралы көбірек біліңіз"
 
 #. Used in a small tile
-#: mozorg/home/index.lang:275
+#: mozorg/home/index.lang:220
 msgid "Official Mozilla gear is here"
 msgstr "Mozilla атрибутикасының ресми дүкені осында"
 
 #. This string is currently unused (tile will link to Mozilla Gear Store)
-#: mozorg/home/index.lang:280
+#: mozorg/home/index.lang:225
 msgid ""
 "Merch with a mission. <br>Products with a purpose. <br>Goods that do good."
 msgstr ""
@@ -262,35 +213,35 @@ msgstr ""
 "нәрселер."
 
 #. This string is currently unused (tile will link to Mozilla Gear Store)
-#: mozorg/home/index.lang:285
+#: mozorg/home/index.lang:230
 msgid "Get your Mozilla gear"
 msgstr "Өз Mozilla атрибутикасын алыңыз"
 
-#: mozorg/home/index.lang:289
+#: mozorg/home/index.lang:234
 msgid "Help Mozilla users"
 msgstr "Mozilla пайдаланушыларына көмектесу"
 
-#: mozorg/home/index.lang:293
+#: mozorg/home/index.lang:238
 msgid "Help millions <br>get the most from their <br>favorite browser."
 msgstr ""
 "Миллиондарға <br>олардың таңдамалы браузерден <br>көбірек алуды көмектесіңіз."
 
-#: mozorg/home/index.lang:297
+#: mozorg/home/index.lang:242
 msgid "Join our support team"
 msgstr "Қолдау көрсету тобымызға мүше болыңыз"
 
 #. Used in Twitter feed
-#: mozorg/home/index.lang:302
+#: mozorg/home/index.lang:247
 msgid "Reply"
 msgstr "Жауап беру"
 
 #. Used in Twitter feed
-#: mozorg/home/index.lang:307
+#: mozorg/home/index.lang:252
 msgid "Retweet"
 msgstr "Қайта твиттеу"
 
 #. <strong> tags below are for visual formatting only.
-#: mozorg/home/index.lang:312
+#: mozorg/home/index.lang:257
 msgid ""
 "Committed to <strong>you, your privacy</strong> and an <strong>open Web</"
 "strong>"
@@ -299,37 +250,37 @@ msgstr ""
 "strong> үшін жасалған"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
-#: mozorg/home/index.lang:317
+#: mozorg/home/index.lang:262
 msgid "active Mozillians <br>worldwide"
 msgstr "белсенді Mozilla мүшесі <br>дүниежүзі бойынша"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
-#: mozorg/home/index.lang:322
+#: mozorg/home/index.lang:267
 msgid "upcoming events <br>around the globe"
 msgstr "келешек оқиға <br>дүниежүзі бойынша"
 
 #. This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
-#: mozorg/home/index.lang:327
+#: mozorg/home/index.lang:272
 msgid "languages and counting, <br>on every continent"
 msgstr "тіл бар, және саны өсіп жатыр, <br>әр континентте"
 
-#: mozorg/home/index.lang:331
+#: mozorg/home/index.lang:276
 msgid "Get Involved with Mozilla today"
 msgstr "Mozilla мүшесі бүгін болыңыз"
 
-#: mozorg/home/index.lang:335
+#: mozorg/home/index.lang:280
 msgid "Upcoming events"
 msgstr "Келешек оқиғалар"
 
-#: mozorg/home/index.lang:339
+#: mozorg/home/index.lang:284
 msgid "Next event"
 msgstr "Келесі оқиға"
 
-#: mozorg/home/index.lang:343
+#: mozorg/home/index.lang:288
 msgid "See all events"
 msgstr "Барлық оқиғаларды қарау"
 
-#: mozorg/home/index.lang:347
+#: mozorg/home/index.lang:292
 msgid ""
 "Compare prices, check the weather, listen to music, send a tweet and more "
 "right from Firefox."
@@ -337,11 +288,11 @@ msgstr ""
 "Бағаларды салыстыру, ауа райын тексеру, музыканы тыңдау, твитті жіберу және "
 "тағы да басқа әрекеттер тура Firefox ішінен қолжетерлік."
 
-#: mozorg/home/index.lang:351
+#: mozorg/home/index.lang:296
 msgid "Careers"
 msgstr "Карьера"
 
-#: mozorg/home/index.lang:355
+#: mozorg/home/index.lang:300
 msgid ""
 "Learn about the benefits of working at Mozilla and view open positions "
 "around the world."
@@ -349,7 +300,7 @@ msgstr ""
 "Mozilla-да жұмыс істеудің артықшылықтарын біліңіз және дүниежүзі бойынша "
 "ашық жұмыс орындарын қараңыз."
 
-#: mozorg/home/index.lang:359
+#: mozorg/home/index.lang:304
 msgid ""
 "Get answers to your questions about Firefox and all Mozilla products from "
 "our support team."
@@ -357,72 +308,105 @@ msgstr ""
 "Firefox және барлық Mozilla өнімдері туралы барлық сұрақтарыңызға біздің "
 "қолдау көрсету тобынан жауаптарды алыңыз."
 
-#: mozorg/home/index.lang:363
+#: mozorg/home/index.lang:308
 msgid "Discover more"
 msgstr "Көбірек білу"
 
-#: mozorg/home/index.lang:368
+#: mozorg/home/index.lang:313
 msgid "Help us celebrate 10 years of Firefox."
 msgstr "Firefox-тың 10 жылдығын тойлауға көмектесіңіз."
 
 #. Old promo tiles
-#: mozorg/home/index.lang:373
+#: mozorg/home/index.lang:318
 msgid "Donate to Mozilla"
 msgstr "Mozilla-ға ақшалай көмектесу"
 
-#: mozorg/home/index.lang:377
+#: mozorg/home/index.lang:322
 msgid "Your gift helps us build the Internet the world needs."
 msgstr ""
 "Сіздің сыйлықтарыңыз бізге дүниежүзі талап ететін Интернетті жасауға "
 "көмектеседі."
 
-#: mozorg/home/index.lang:381
+#: mozorg/home/index.lang:326
 msgid "Donate today"
 msgstr "Бүгін көмектесу"
 
-#: mozorg/home/index.lang:385
+#: mozorg/home/index.lang:330
 msgid "Meet<br> Firefox Hello"
 msgstr "Firefox Hello<br> өнімімен таныс болыңыз"
 
-#: mozorg/home/index.lang:389
+#: mozorg/home/index.lang:334
 msgid "The easiest way to connect for free over video."
 msgstr "Видео арқылы тегін байланысудың ең оңай жолы."
 
-#: mozorg/home/index.lang:393
+#: mozorg/home/index.lang:338
 msgid "Try Firefox Hello"
 msgstr "Firefox Hello қолданып көріңіз"
 
-#: mozorg/home/index.lang:398
+#: mozorg/home/index.lang:343
 msgid "Get smart on Tracking"
 msgstr "Бақылау туралы барлығын білу"
 
-#: mozorg/home/index.lang:403
+#: mozorg/home/index.lang:348
 msgid "Try the Thimble code editor"
 msgstr "Thimble код өңдеушісін қолданып көру"
 
-#: mozorg/home/index.lang:408
+#: mozorg/home/index.lang:353
 msgid "Firefox is<br> now available<br> for iOS"
 msgstr "Firefox енді<br> iOS үшін де<br> қолжетерлік"
 
-#: mozorg/home/index.lang:413
+#: mozorg/home/index.lang:358
 msgid "Add it to your iPhone, iPad &amp; iPod touch."
 msgstr "Оны өзіңіздің iPhone, iPad және iPod touch-қа орнатыңыз."
 
-#: mozorg/home/index.lang:418
+#: mozorg/home/index.lang:363
 msgid "Get Firefox for iOS"
 msgstr "iOS үшін Firefox алу"
 
-#: mozorg/home/index.lang:423
+#: mozorg/home/index.lang:368
 msgid "Introducing the new <br>Private Browsing"
 msgstr "Жаңа жекелік шолу <br>ұсынылады"
 
-#: mozorg/home/index.lang:428
+#: mozorg/home/index.lang:373
 msgid "More protection. <br>The most privacy."
 msgstr "Көбірек қорғаныс. <br>Ең жақсы жекелік."
 
-#: mozorg/home/index.lang:433
+#: mozorg/home/index.lang:378
 msgid "Try Private Browsing"
 msgstr "Жекелік шолу режимін қолданып көру"
+
+#~ msgid "Proudly non-profit. <br>Donate before Dec 31."
+#~ msgstr ""
+#~ "Коммерциялық еместігін мақтан тұтады.<br>31-ші желтоқсанға дейін ақшалай "
+#~ "көмектесіңіз."
+
+#~ msgid "$%(sum)s"
+#~ msgstr "$%(sum)s"
+
+#~ msgid "Enter your own amount"
+#~ msgstr "Өз сомаңызды енгізіңіз"
+
+#~ msgid "Monthly"
+#~ msgstr "Ай сайын"
+
+#~ msgid "One-time"
+#~ msgstr "Бір рет"
+
+#~ msgid "Donate Now"
+#~ msgstr "Қазір ақшалай көмектесу"
+
+#~ msgid "Donate to Mozilla,<br> the non-profit behind Firefox."
+#~ msgstr ""
+#~ "Firefox-ты жасайтын коммерциялық емес ұйымға,<br> Mozilla-ға ақшалай "
+#~ "көмектесіңіз."
+
+#~ msgid "Our year-end<br> fundraiser ends Dec 31."
+#~ msgstr ""
+#~ "Біздің жыл аяғындағы қаражатты жинау науқаны<br> 31-ші желтоқсанда "
+#~ "аяқталады."
+
+#~ msgid "Donate now"
+#~ msgstr "Қазір ақшалай көмектесу"
 
 #, fuzzy
 #~ msgid "Watch our video"
