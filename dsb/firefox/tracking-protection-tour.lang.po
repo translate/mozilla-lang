@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-14 12:34+0000\n"
+"POT-Creation-Date: 2016-01-20 08:28+0000\n"
 "PO-Revision-Date: 2016-01-14 20:23+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: none\n"
@@ -13,14 +13,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1452803026.000000\n"
 
-#: firefox/tracking-protection-tour.lang:8
+#: firefox/tracking-protection-tour.lang:7
 msgid "How Tracking Protection works"
 msgstr "Kak slědowański šćit funkcioněrujo"
 
-#: firefox/tracking-protection-tour.lang:13
+#: firefox/tracking-protection-tour.lang:11
 msgid ""
 "When you see the shield, Firefox is blocking some parts of the page that "
 "could track your browsing activity."
@@ -28,28 +28,19 @@ msgstr ""
 "Gaž wiźiśo šćit, blokěrujo Firefox někotare źěle boka, kótarež by mógli wašu "
 "pśeglědowańsku aktiwitu slědowaś."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:18
-msgid ""
-"When the shield is visible, it means Firefox is actively blocking page "
-"elements that may track you."
-msgstr ""
-"Jolic šćit jo widobny, to wóznamjenijo, až Firefox blokěrujo wopśimjeśowe "
-"elementy, kótarež was slěduju."
-
-#: firefox/tracking-protection-tour.lang:22
+#: firefox/tracking-protection-tour.lang:15
 msgid "1 of 3"
 msgstr "1 z 3"
 
-#: firefox/tracking-protection-tour.lang:26
+#: firefox/tracking-protection-tour.lang:19
 msgid "Next"
 msgstr "Dalej"
 
-#: firefox/tracking-protection-tour.lang:30
+#: firefox/tracking-protection-tour.lang:23
 msgid "Differences to expect"
 msgstr "Rozdźěle, kótarež se wótcakuju"
 
-#: firefox/tracking-protection-tour.lang:35
+#: firefox/tracking-protection-tour.lang:27
 msgid ""
 "Some page areas may be missing, because they could allow third parties to "
 "track you across different websites."
@@ -57,24 +48,15 @@ msgstr ""
 "Někotare wobcerki boka by mógli felowaś, dokulaž by mógli tśeśim "
 "póbitowarjam zmóžniś, was pśez rozdźělne websedła slědowaś."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:40
-msgid ""
-"Some page areas may be missing because they can allow third-parties to track "
-"your browsing behavior."
-msgstr ""
-"Někotare wobcerki boka mógu felowaś, dokulaž mógu tśeśim póbitowarjam "
-"zmóžniś, waše pśeglědowańske zaźaržane slědowaś."
-
-#: firefox/tracking-protection-tour.lang:44
+#: firefox/tracking-protection-tour.lang:31
 msgid "2 of 3"
 msgstr "2 z 3"
 
-#: firefox/tracking-protection-tour.lang:48
+#: firefox/tracking-protection-tour.lang:35
 msgid "Want to make changes?"
 msgstr "Cośo něco změniś?"
 
-#: firefox/tracking-protection-tour.lang:53
+#: firefox/tracking-protection-tour.lang:39
 msgid ""
 "It’s easy to turn off Tracking Protection for the website you’re on by "
 "clicking “Disable protection for this session.”"
@@ -82,16 +64,7 @@ msgstr ""
 "Jo lažko, slědowański šćit za websedło znjemóžniś, na kótaremž sćo, klikniśo "
 "jadnorje na „Šćit za toś to pósejźenje znjemóžniś“."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:58
-msgid ""
-"It’s easy to disable Tracking Protection for the website you’re on by "
-"clicking “Disable protection for this session”."
-msgstr ""
-"Jo lažko, slědowański šćit za websedło znjemóžniś, na kótaremž su, klikniśo "
-"jadnorje na „Šćit za toś to pósejźenje znjemóžniś“."
-
-#: firefox/tracking-protection-tour.lang:63
+#: firefox/tracking-protection-tour.lang:43
 msgid ""
 "It’s easy to turn on Tracking Protection for the website you’re on by "
 "clicking “Enable protection.”"
@@ -99,66 +72,43 @@ msgstr ""
 "Jo lažko, slědowański šćit za websedło zmóžniś, na kótaremž sćo, klikniśo "
 "jadnorje na „Šćit zmóžniś“."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:68
-msgid ""
-"It’s easy to enable Tracking Protection for the website you’re on by "
-"clicking “Enable protection”."
-msgstr ""
-"Jo lažko, slědowański šćit za websedło zmóžniś, na kótaremž su, klikniśo "
-"jadnorje na „Šćit zmóžniś“."
-
-#: firefox/tracking-protection-tour.lang:72
+#: firefox/tracking-protection-tour.lang:47
 msgid "3 of 3"
 msgstr "3 z 3"
 
-#: firefox/tracking-protection-tour.lang:76
+#: firefox/tracking-protection-tour.lang:51
 msgid "Got it!"
 msgstr "Som to zrozměł!"
 
-#: firefox/tracking-protection-tour.lang:81
+#: firefox/tracking-protection-tour.lang:56
 msgid "Tracking Protection"
 msgstr "Slědowański šćit"
 
-#: firefox/tracking-protection-tour.lang:86
+#: firefox/tracking-protection-tour.lang:60
 msgid "Private Browsing with Tracking Protection"
 msgstr "Priwatny modus ze<br> slědowańskim šćitom"
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:91
-msgid "Firefox Tracking Protection"
-msgstr "Slědowański šćit Firefox"
-
 #. Link points to https://support.mozilla.org/kb/tracking-protection-pbm
-#: firefox/tracking-protection-tour.lang:96
+#: firefox/tracking-protection-tour.lang:65
 msgid ""
 "Want to turn off this feature? <a href=\"%s\">Visit Privacy Preferences</a>"
 msgstr ""
 "Cośo toś tu funkciju znjemóžniś? <a href=\"%s\">Woglědajśo k nastajenjam "
 "priatnosći</a>"
 
-#: firefox/tracking-protection-tour.lang:101
+#: firefox/tracking-protection-tour.lang:70
 msgid "Thanks for learning about Tracking Protection."
 msgstr "Źěkujomy se, až sćo se wó funkciji „slědowański šćit“ informěrował."
 
-#: firefox/tracking-protection-tour.lang:106
+#: firefox/tracking-protection-tour.lang:74
 msgid ""
 "Thanks for learning about the new Private Browsing with Tracking Protection."
 msgstr ""
 "Źěkujomy se wam, až sćo se z nowym priwatnym modusom ze slědowańskim šćitom "
 "wopóznał."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:111
-msgid ""
-"Thanks for learning about the new Tracking Protection feature in Private "
-"Browsing Mode."
-msgstr ""
-"Źěkujomy se, až sćo se wó nowej funkciji slědowańskego šćita w priwatnem "
-"modusu informěrował."
-
 #. Link points to https://support.mozilla.org/kb/tracking-protection-pbm
-#: firefox/tracking-protection-tour.lang:116
+#: firefox/tracking-protection-tour.lang:79
 msgid ""
 "Learn more about how it works by visiting the <a rel=\"external\" href=\"%s"
 "\">FAQ page</a>."
@@ -166,11 +116,47 @@ msgstr ""
 "Zgóńśo wěcej, kak funkcioněrujo - woglědajśo se <a rel=\"external\" href=\"%s"
 "\">bok Ceste pšašanja</a>."
 
-#: firefox/tracking-protection-tour.lang:121
+#: firefox/tracking-protection-tour.lang:83
 msgid "Restart tour"
 msgstr "Turu znowego startowaś"
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:126
-msgid "Start the tour again"
-msgstr "Zachopśo turu znowego"
+#~ msgid ""
+#~ "When the shield is visible, it means Firefox is actively blocking page "
+#~ "elements that may track you."
+#~ msgstr ""
+#~ "Jolic šćit jo widobny, to wóznamjenijo, až Firefox blokěrujo wopśimjeśowe "
+#~ "elementy, kótarež was slěduju."
+
+#~ msgid ""
+#~ "Some page areas may be missing because they can allow third-parties to "
+#~ "track your browsing behavior."
+#~ msgstr ""
+#~ "Někotare wobcerki boka mógu felowaś, dokulaž mógu tśeśim póbitowarjam "
+#~ "zmóžniś, waše pśeglědowańske zaźaržane slědowaś."
+
+#~ msgid ""
+#~ "It’s easy to disable Tracking Protection for the website you’re on by "
+#~ "clicking “Disable protection for this session”."
+#~ msgstr ""
+#~ "Jo lažko, slědowański šćit za websedło znjemóžniś, na kótaremž su, "
+#~ "klikniśo jadnorje na „Šćit za toś to pósejźenje znjemóžniś“."
+
+#~ msgid ""
+#~ "It’s easy to enable Tracking Protection for the website you’re on by "
+#~ "clicking “Enable protection”."
+#~ msgstr ""
+#~ "Jo lažko, slědowański šćit za websedło zmóžniś, na kótaremž su, klikniśo "
+#~ "jadnorje na „Šćit zmóžniś“."
+
+#~ msgid "Firefox Tracking Protection"
+#~ msgstr "Slědowański šćit Firefox"
+
+#~ msgid ""
+#~ "Thanks for learning about the new Tracking Protection feature in Private "
+#~ "Browsing Mode."
+#~ msgstr ""
+#~ "Źěkujomy se, až sćo se wó nowej funkciji slědowańskego šćita w priwatnem "
+#~ "modusu informěrował."
+
+#~ msgid "Start the tour again"
+#~ msgstr "Zachopśo turu znowego"

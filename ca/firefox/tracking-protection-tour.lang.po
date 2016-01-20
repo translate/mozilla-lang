@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-14 12:34+0000\n"
+"POT-Creation-Date: 2016-01-20 08:28+0000\n"
 "PO-Revision-Date: 2016-01-14 14:35+0000\n"
 "Last-Translator: Josep Sanchez <papapep@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,14 +12,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1452782153.000000\n"
 
-#: firefox/tracking-protection-tour.lang:8
+#: firefox/tracking-protection-tour.lang:7
 msgid "How Tracking Protection works"
 msgstr "Com funciona la protecció contra el seguiment"
 
-#: firefox/tracking-protection-tour.lang:13
+#: firefox/tracking-protection-tour.lang:11
 msgid ""
 "When you see the shield, Firefox is blocking some parts of the page that "
 "could track your browsing activity."
@@ -27,28 +27,19 @@ msgstr ""
 "Quan vegeu l'escut, el Firefox està blocant alguna part de la pàgina que pot "
 "fer seguiment de la vostra navegació."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:18
-msgid ""
-"When the shield is visible, it means Firefox is actively blocking page "
-"elements that may track you."
-msgstr ""
-"Quan l'escut és visible, vol dir que el Firefox està blocant activament el "
-"contingut que us pot estar seguint."
-
-#: firefox/tracking-protection-tour.lang:22
+#: firefox/tracking-protection-tour.lang:15
 msgid "1 of 3"
 msgstr "1 de 3"
 
-#: firefox/tracking-protection-tour.lang:26
+#: firefox/tracking-protection-tour.lang:19
 msgid "Next"
 msgstr "Següent"
 
-#: firefox/tracking-protection-tour.lang:30
+#: firefox/tracking-protection-tour.lang:23
 msgid "Differences to expect"
 msgstr "Possibles diferències"
 
-#: firefox/tracking-protection-tour.lang:35
+#: firefox/tracking-protection-tour.lang:27
 msgid ""
 "Some page areas may be missing, because they could allow third parties to "
 "track you across different websites."
@@ -56,24 +47,15 @@ msgstr ""
 "Es poden haver blocat algunes parts de la pàgina que podrien permetre el "
 "seguiment de la vostra navegació a tercers."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:40
-msgid ""
-"Some page areas may be missing because they can allow third-parties to track "
-"your browsing behavior."
-msgstr ""
-"Es poden haver blocat algunes parts de la pàgina que podrien permetre el "
-"seguiment de la vostra navegació a tercers."
-
-#: firefox/tracking-protection-tour.lang:44
+#: firefox/tracking-protection-tour.lang:31
 msgid "2 of 3"
 msgstr "2 de 3"
 
-#: firefox/tracking-protection-tour.lang:48
+#: firefox/tracking-protection-tour.lang:35
 msgid "Want to make changes?"
 msgstr "Voleu canviar-ho?"
 
-#: firefox/tracking-protection-tour.lang:53
+#: firefox/tracking-protection-tour.lang:39
 msgid ""
 "It’s easy to turn off Tracking Protection for the website you’re on by "
 "clicking “Disable protection for this session.”"
@@ -81,16 +63,7 @@ msgstr ""
 "Podeu desactivar de forma senzilla la protecció contra el seguiment del lloc "
 "que esteu visitant fent clic a “Desactiva la protecció per a aquesta sessió”."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:58
-msgid ""
-"It’s easy to disable Tracking Protection for the website you’re on by "
-"clicking “Disable protection for this session”."
-msgstr ""
-"Podeu desactivar de forma senzilla la protecció contra el seguiment del lloc "
-"que esteu visitant fent clic a “Desactiva la protecció per a aquesta sessió”."
-
-#: firefox/tracking-protection-tour.lang:63
+#: firefox/tracking-protection-tour.lang:43
 msgid ""
 "It’s easy to turn on Tracking Protection for the website you’re on by "
 "clicking “Enable protection.”"
@@ -98,66 +71,43 @@ msgstr ""
 "Podeu activar la protecció contra el seguiment del lloc que esteu visitant "
 "fent clic a “Activa la protecció”."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:68
-msgid ""
-"It’s easy to enable Tracking Protection for the website you’re on by "
-"clicking “Enable protection”."
-msgstr ""
-"Podeu activar la protecció contra el seguiment del lloc que esteu visitant "
-"fent clic a “Activa la protecció”."
-
-#: firefox/tracking-protection-tour.lang:72
+#: firefox/tracking-protection-tour.lang:47
 msgid "3 of 3"
 msgstr "3 de 3"
 
-#: firefox/tracking-protection-tour.lang:76
+#: firefox/tracking-protection-tour.lang:51
 msgid "Got it!"
 msgstr "Ho entenc"
 
-#: firefox/tracking-protection-tour.lang:81
+#: firefox/tracking-protection-tour.lang:56
 msgid "Tracking Protection"
 msgstr "Protecció contra el seguiment"
 
-#: firefox/tracking-protection-tour.lang:86
+#: firefox/tracking-protection-tour.lang:60
 msgid "Private Browsing with Tracking Protection"
 msgstr "Navegació anònima amb protecció contra el seguiment"
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:91
-msgid "Firefox Tracking Protection"
-msgstr "Protecció contra el seguiment"
-
 #. Link points to https://support.mozilla.org/kb/tracking-protection-pbm
-#: firefox/tracking-protection-tour.lang:96
+#: firefox/tracking-protection-tour.lang:65
 msgid ""
 "Want to turn off this feature? <a href=\"%s\">Visit Privacy Preferences</a>"
 msgstr ""
 "Voleu desactivar aquesta característica? <a href=\"%s\">Aneu a les "
 "preferències de privadesa</a>"
 
-#: firefox/tracking-protection-tour.lang:101
+#: firefox/tracking-protection-tour.lang:70
 msgid "Thanks for learning about Tracking Protection."
 msgstr "Gràcies per informar-vos sobre la Protecció contra el seguiment"
 
-#: firefox/tracking-protection-tour.lang:106
+#: firefox/tracking-protection-tour.lang:74
 msgid ""
 "Thanks for learning about the new Private Browsing with Tracking Protection."
 msgstr ""
 "Gràcies per informar-vos sobre la navegació privada amb protecció contra el "
 "seguiment."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:111
-msgid ""
-"Thanks for learning about the new Tracking Protection feature in Private "
-"Browsing Mode."
-msgstr ""
-"Gràcies per informar-vos sobre la nova característica de protecció contra el "
-"seguiment en el mode de navegació anònima."
-
 #. Link points to https://support.mozilla.org/kb/tracking-protection-pbm
-#: firefox/tracking-protection-tour.lang:116
+#: firefox/tracking-protection-tour.lang:79
 msgid ""
 "Learn more about how it works by visiting the <a rel=\"external\" href=\"%s"
 "\">FAQ page</a>."
@@ -165,11 +115,48 @@ msgstr ""
 "Per a més informació sobre com funciona, vegeu la <a rel=\"external\" href="
 "\"%s\">pàgina de preguntes freqüents</a>."
 
-#: firefox/tracking-protection-tour.lang:121
+#: firefox/tracking-protection-tour.lang:83
 msgid "Restart tour"
 msgstr "Torna a començar"
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:126
-msgid "Start the tour again"
-msgstr "Torna a començar el recorregut"
+#~ msgid ""
+#~ "When the shield is visible, it means Firefox is actively blocking page "
+#~ "elements that may track you."
+#~ msgstr ""
+#~ "Quan l'escut és visible, vol dir que el Firefox està blocant activament "
+#~ "el contingut que us pot estar seguint."
+
+#~ msgid ""
+#~ "Some page areas may be missing because they can allow third-parties to "
+#~ "track your browsing behavior."
+#~ msgstr ""
+#~ "Es poden haver blocat algunes parts de la pàgina que podrien permetre el "
+#~ "seguiment de la vostra navegació a tercers."
+
+#~ msgid ""
+#~ "It’s easy to disable Tracking Protection for the website you’re on by "
+#~ "clicking “Disable protection for this session”."
+#~ msgstr ""
+#~ "Podeu desactivar de forma senzilla la protecció contra el seguiment del "
+#~ "lloc que esteu visitant fent clic a “Desactiva la protecció per a aquesta "
+#~ "sessió”."
+
+#~ msgid ""
+#~ "It’s easy to enable Tracking Protection for the website you’re on by "
+#~ "clicking “Enable protection”."
+#~ msgstr ""
+#~ "Podeu activar la protecció contra el seguiment del lloc que esteu "
+#~ "visitant fent clic a “Activa la protecció”."
+
+#~ msgid "Firefox Tracking Protection"
+#~ msgstr "Protecció contra el seguiment"
+
+#~ msgid ""
+#~ "Thanks for learning about the new Tracking Protection feature in Private "
+#~ "Browsing Mode."
+#~ msgstr ""
+#~ "Gràcies per informar-vos sobre la nova característica de protecció contra "
+#~ "el seguiment en el mode de navegació anònima."
+
+#~ msgid "Start the tour again"
+#~ msgstr "Torna a començar el recorregut"

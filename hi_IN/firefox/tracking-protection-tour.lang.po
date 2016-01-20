@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-14 12:34+0000\n"
+"POT-Creation-Date: 2016-01-20 08:28+0000\n"
 "PO-Revision-Date: 2015-12-19 17:55+0000\n"
 "Last-Translator: Raj Nilayam <raj.nilayam@gmail.com>\n"
 "Language-Team: none\n"
@@ -14,11 +14,11 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1450547748.000000\n"
 
-#: firefox/tracking-protection-tour.lang:8
+#: firefox/tracking-protection-tour.lang:7
 msgid "How Tracking Protection works"
 msgstr "ट्रैकिंग संरक्षण कैसे काम करता है"
 
-#: firefox/tracking-protection-tour.lang:13
+#: firefox/tracking-protection-tour.lang:11
 msgid ""
 "When you see the shield, Firefox is blocking some parts of the page that "
 "could track your browsing activity."
@@ -26,28 +26,19 @@ msgstr ""
 "जब आप ढ़ाल देखें, फ़ायरफ़ॉक्स पृष्ठ के कुछ भाग जो आपकी ब्राउज़िंग गतिविधियों को ट्रैक कर सकते "
 "है को अवरुद्ध करता है."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:18
-msgid ""
-"When the shield is visible, it means Firefox is actively blocking page "
-"elements that may track you."
-msgstr ""
-"जब ढाल दिखाई देता है, इसका मतलब है फ़ायरफ़ॉक्स पृष्ठ तत्वों को सक्रिय रूप से अवरुद्ध कर रहे "
-"है जो आपको ट्रैक कर सकते हैं."
-
-#: firefox/tracking-protection-tour.lang:22
+#: firefox/tracking-protection-tour.lang:15
 msgid "1 of 3"
 msgstr "3 का 1"
 
-#: firefox/tracking-protection-tour.lang:26
+#: firefox/tracking-protection-tour.lang:19
 msgid "Next"
 msgstr "अगला"
 
-#: firefox/tracking-protection-tour.lang:30
+#: firefox/tracking-protection-tour.lang:23
 msgid "Differences to expect"
 msgstr "मतभेदों की उम्मीद करने के लिए"
 
-#: firefox/tracking-protection-tour.lang:35
+#: firefox/tracking-protection-tour.lang:27
 msgid ""
 "Some page areas may be missing, because they could allow third parties to "
 "track you across different websites."
@@ -55,24 +46,15 @@ msgstr ""
 "कुछ पृष्ठ छेत्र उपलब्ध नहीं हो सकते हैं, क्योंकि वे तीसरे पक्ष को विभिन्न वेबसाइटों पर आपको "
 "ट्रैक करने की अनुमति दे सकते हैं. "
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:40
-msgid ""
-"Some page areas may be missing because they can allow third-parties to track "
-"your browsing behavior."
-msgstr ""
-"कुछ पृष्ठ क्षेत्रों अनुपलब्ध हो सकता है क्योंकि वे अपने ब्राउज़िंग व्यवहार को ट्रैक करने के लिए "
-"तृतीय-पक्ष की अनुमति दे सकते हैं।"
-
-#: firefox/tracking-protection-tour.lang:44
+#: firefox/tracking-protection-tour.lang:31
 msgid "2 of 3"
 msgstr "3 का 2"
 
-#: firefox/tracking-protection-tour.lang:48
+#: firefox/tracking-protection-tour.lang:35
 msgid "Want to make changes?"
 msgstr "परिवर्तन करना चाहते हैं?"
 
-#: firefox/tracking-protection-tour.lang:53
+#: firefox/tracking-protection-tour.lang:39
 msgid ""
 "It’s easy to turn off Tracking Protection for the website you’re on by "
 "clicking “Disable protection for this session.”"
@@ -80,16 +62,7 @@ msgstr ""
 " \"इस सत्र के लिए संरक्षण अक्षम करें\" पर क्लिक करके वेबसाइट के लिए ट्रैकिंग संरक्षण को "
 "सुरक्षा करना बहुत आसान है."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:58
-msgid ""
-"It’s easy to disable Tracking Protection for the website you’re on by "
-"clicking “Disable protection for this session”."
-msgstr ""
-"\"इस सत्र के लिए संरक्षण अक्षम करें\" पर क्लिक करके वेबसाइट के लिए ट्रैकिंग संरक्षण को सुरक्षा "
-"करना बहुत आसान है."
-
-#: firefox/tracking-protection-tour.lang:63
+#: firefox/tracking-protection-tour.lang:43
 msgid ""
 "It’s easy to turn on Tracking Protection for the website you’re on by "
 "clicking “Enable protection.”"
@@ -97,61 +70,40 @@ msgstr ""
 "\"संरक्षण सक्षम करें\" पर क्लिक करके वेबसाइट के लिए ट्रैकिंग संरक्षण को सक्षम करना बहुत आसान "
 "है."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:68
-msgid ""
-"It’s easy to enable Tracking Protection for the website you’re on by "
-"clicking “Enable protection”."
-msgstr ""
-"\"संरक्षण सक्षम करें\" पर क्लिक करके वेबसाइट के लिए ट्रैकिंग संरक्षण को सक्षम करना बहुत आसान "
-"है."
-
-#: firefox/tracking-protection-tour.lang:72
+#: firefox/tracking-protection-tour.lang:47
 msgid "3 of 3"
 msgstr "3 का 3"
 
-#: firefox/tracking-protection-tour.lang:76
+#: firefox/tracking-protection-tour.lang:51
 msgid "Got it!"
 msgstr "मिल गया!"
 
-#: firefox/tracking-protection-tour.lang:81
+#: firefox/tracking-protection-tour.lang:56
 #, fuzzy
 msgid "Tracking Protection"
 msgstr "अब ट्रैकिंग संरक्षण के साथ"
 
-#: firefox/tracking-protection-tour.lang:86
+#: firefox/tracking-protection-tour.lang:60
 msgid "Private Browsing with Tracking Protection"
 msgstr "ट्रैकिंग सुरक्षा के साथ निजी ब्राउज़िंग"
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:91
-msgid "Firefox Tracking Protection"
-msgstr "फ़ायरफ़ॉक्स ट्रैकिंग संरक्षण"
-
 #. Link points to https://support.mozilla.org/kb/tracking-protection-pbm
-#: firefox/tracking-protection-tour.lang:96
+#: firefox/tracking-protection-tour.lang:65
 msgid ""
 "Want to turn off this feature? <a href=\"%s\">Visit Privacy Preferences</a>"
 msgstr "यह सुविधा बंद करना चाहते हैं? <a href=\"%s\">गोपनीयता प्राथमिकताओ पर जाएँ</a>"
 
-#: firefox/tracking-protection-tour.lang:101
+#: firefox/tracking-protection-tour.lang:70
 msgid "Thanks for learning about Tracking Protection."
 msgstr ""
 
-#: firefox/tracking-protection-tour.lang:106
+#: firefox/tracking-protection-tour.lang:74
 msgid ""
 "Thanks for learning about the new Private Browsing with Tracking Protection."
 msgstr "ट्रैकिंग सुरक्षा के साथ नया निजी ब्राउज़िंग के बारे में जानने के लिए धन्यवाद."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:111
-msgid ""
-"Thanks for learning about the new Tracking Protection feature in Private "
-"Browsing Mode."
-msgstr "निजी ब्राउज़िंग मोड में नया ट्रैकिंग सुरक्षा सुविधा के बारे में जानने के लिए धन्यवाद."
-
 #. Link points to https://support.mozilla.org/kb/tracking-protection-pbm
-#: firefox/tracking-protection-tour.lang:116
+#: firefox/tracking-protection-tour.lang:79
 msgid ""
 "Learn more about how it works by visiting the <a rel=\"external\" href=\"%s"
 "\">FAQ page</a>."
@@ -159,11 +111,45 @@ msgstr ""
 "<a rel=\"external\" href=\"%s\">FAQ पृष्ट</a> पर जाके ओर अधिक जाने की कैसे यह काम "
 "करता हैं."
 
-#: firefox/tracking-protection-tour.lang:121
+#: firefox/tracking-protection-tour.lang:83
 msgid "Restart tour"
 msgstr "टूर फिर से प्रारंभ करें"
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:126
-msgid "Start the tour again"
-msgstr "फिर से यात्रा शुरू करें"
+#~ msgid ""
+#~ "When the shield is visible, it means Firefox is actively blocking page "
+#~ "elements that may track you."
+#~ msgstr ""
+#~ "जब ढाल दिखाई देता है, इसका मतलब है फ़ायरफ़ॉक्स पृष्ठ तत्वों को सक्रिय रूप से अवरुद्ध कर "
+#~ "रहे है जो आपको ट्रैक कर सकते हैं."
+
+#~ msgid ""
+#~ "Some page areas may be missing because they can allow third-parties to "
+#~ "track your browsing behavior."
+#~ msgstr ""
+#~ "कुछ पृष्ठ क्षेत्रों अनुपलब्ध हो सकता है क्योंकि वे अपने ब्राउज़िंग व्यवहार को ट्रैक करने के लिए "
+#~ "तृतीय-पक्ष की अनुमति दे सकते हैं।"
+
+#~ msgid ""
+#~ "It’s easy to disable Tracking Protection for the website you’re on by "
+#~ "clicking “Disable protection for this session”."
+#~ msgstr ""
+#~ "\"इस सत्र के लिए संरक्षण अक्षम करें\" पर क्लिक करके वेबसाइट के लिए ट्रैकिंग संरक्षण को "
+#~ "सुरक्षा करना बहुत आसान है."
+
+#~ msgid ""
+#~ "It’s easy to enable Tracking Protection for the website you’re on by "
+#~ "clicking “Enable protection”."
+#~ msgstr ""
+#~ "\"संरक्षण सक्षम करें\" पर क्लिक करके वेबसाइट के लिए ट्रैकिंग संरक्षण को सक्षम करना बहुत "
+#~ "आसान है."
+
+#~ msgid "Firefox Tracking Protection"
+#~ msgstr "फ़ायरफ़ॉक्स ट्रैकिंग संरक्षण"
+
+#~ msgid ""
+#~ "Thanks for learning about the new Tracking Protection feature in Private "
+#~ "Browsing Mode."
+#~ msgstr "निजी ब्राउज़िंग मोड में नया ट्रैकिंग सुरक्षा सुविधा के बारे में जानने के लिए धन्यवाद."
+
+#~ msgid "Start the tour again"
+#~ msgstr "फिर से यात्रा शुरू करें"

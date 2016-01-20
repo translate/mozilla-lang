@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-14 12:34+0000\n"
+"POT-Creation-Date: 2016-01-20 08:28+0000\n"
 "PO-Revision-Date: 2016-01-14 14:12+0000\n"
 "Last-Translator: Roberto Alvarado <ralv888@gmail.com>\n"
 "Language-Team: none\n"
@@ -11,14 +11,14 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1452780730.000000\n"
 
-#: firefox/tracking-protection-tour.lang:8
+#: firefox/tracking-protection-tour.lang:7
 msgid "How Tracking Protection works"
 msgstr "Cómo funciona la Protección de Rastreo"
 
-#: firefox/tracking-protection-tour.lang:13
+#: firefox/tracking-protection-tour.lang:11
 msgid ""
 "When you see the shield, Firefox is blocking some parts of the page that "
 "could track your browsing activity."
@@ -26,28 +26,19 @@ msgstr ""
 "Cuando ves el escudo, Firefox está bloqueando algunas partes de la página "
 "que podrían seguir tu actividad de navegación."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:18
-msgid ""
-"When the shield is visible, it means Firefox is actively blocking page "
-"elements that may track you."
-msgstr ""
-"Cuando es escuo está visible, eso significa que Firefox está activamente "
-"bloqueando elementos de la página que podrían seguirte."
-
-#: firefox/tracking-protection-tour.lang:22
+#: firefox/tracking-protection-tour.lang:15
 msgid "1 of 3"
 msgstr "1 de 3"
 
-#: firefox/tracking-protection-tour.lang:26
+#: firefox/tracking-protection-tour.lang:19
 msgid "Next"
 msgstr "Siguiente"
 
-#: firefox/tracking-protection-tour.lang:30
+#: firefox/tracking-protection-tour.lang:23
 msgid "Differences to expect"
 msgstr "Diferencias a esperar"
 
-#: firefox/tracking-protection-tour.lang:35
+#: firefox/tracking-protection-tour.lang:27
 msgid ""
 "Some page areas may be missing, because they could allow third parties to "
 "track you across different websites."
@@ -55,24 +46,15 @@ msgstr ""
 "Algunas áreas de la página podrían estar perdidas, porque permiten a "
 "terceros seguirte a través de diferentes sitios web."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:40
-msgid ""
-"Some page areas may be missing because they can allow third-parties to track "
-"your browsing behavior."
-msgstr ""
-"Algunas áreas de la página podrían estar perdidas porque permiten a terceros "
-"seguir tu comportamiento de navegación."
-
-#: firefox/tracking-protection-tour.lang:44
+#: firefox/tracking-protection-tour.lang:31
 msgid "2 of 3"
 msgstr "2 de 3"
 
-#: firefox/tracking-protection-tour.lang:48
+#: firefox/tracking-protection-tour.lang:35
 msgid "Want to make changes?"
 msgstr "¿Quieres hacer cambios?"
 
-#: firefox/tracking-protection-tour.lang:53
+#: firefox/tracking-protection-tour.lang:39
 msgid ""
 "It’s easy to turn off Tracking Protection for the website you’re on by "
 "clicking “Disable protection for this session.”"
@@ -80,16 +62,7 @@ msgstr ""
 "Es fácil desactivar la Protección de Rastreo para el sitio web que estás "
 "usando \"Deshabilitar protección para esta sesión.\""
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:58
-msgid ""
-"It’s easy to disable Tracking Protection for the website you’re on by "
-"clicking “Disable protection for this session”."
-msgstr ""
-"Es fácil deshabilitar la Protección de Rastreo para el sitio web que estas "
-"usando \"Deshabilitar protección por esta sesión\"."
-
-#: firefox/tracking-protection-tour.lang:63
+#: firefox/tracking-protection-tour.lang:43
 msgid ""
 "It’s easy to turn on Tracking Protection for the website you’re on by "
 "clicking “Enable protection.”"
@@ -97,66 +70,43 @@ msgstr ""
 "Es fácil encender la Protección de Rastreo para el sitio web que estas "
 "usando \"Habilitar protección.\""
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:68
-msgid ""
-"It’s easy to enable Tracking Protection for the website you’re on by "
-"clicking “Enable protection”."
-msgstr ""
-"Es fácil habilitar la Protección de Rastreo para el sitio web que estas "
-"usando \"Habilitar Protección\"."
-
-#: firefox/tracking-protection-tour.lang:72
+#: firefox/tracking-protection-tour.lang:47
 msgid "3 of 3"
 msgstr "3 de 3"
 
-#: firefox/tracking-protection-tour.lang:76
+#: firefox/tracking-protection-tour.lang:51
 msgid "Got it!"
 msgstr "¡Lo tengo!"
 
-#: firefox/tracking-protection-tour.lang:81
+#: firefox/tracking-protection-tour.lang:56
 msgid "Tracking Protection"
 msgstr "Protección de rastreo"
 
-#: firefox/tracking-protection-tour.lang:86
+#: firefox/tracking-protection-tour.lang:60
 msgid "Private Browsing with Tracking Protection"
 msgstr "Navegación Privada con Protección de Rastreo"
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:91
-msgid "Firefox Tracking Protection"
-msgstr "Protección de Rastreo de Firefox"
-
 #. Link points to https://support.mozilla.org/kb/tracking-protection-pbm
-#: firefox/tracking-protection-tour.lang:96
+#: firefox/tracking-protection-tour.lang:65
 msgid ""
 "Want to turn off this feature? <a href=\"%s\">Visit Privacy Preferences</a>"
 msgstr ""
 "¿Quieres apagar esta característica? <a href=\"%s\">Visita Preferencias de "
 "Privacidad</a>"
 
-#: firefox/tracking-protection-tour.lang:101
+#: firefox/tracking-protection-tour.lang:70
 msgid "Thanks for learning about Tracking Protection."
 msgstr "Gracias por conocer más sobre protección de rastreo."
 
-#: firefox/tracking-protection-tour.lang:106
+#: firefox/tracking-protection-tour.lang:74
 msgid ""
 "Thanks for learning about the new Private Browsing with Tracking Protection."
 msgstr ""
 "Gracias por aprender acerca de la Navegación Privada con Protección de "
 "Rastreo."
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:111
-msgid ""
-"Thanks for learning about the new Tracking Protection feature in Private "
-"Browsing Mode."
-msgstr ""
-"Gracias por aprender acerca de la nueva característica Protección de Rastreo "
-"en el modo de Navegación Privada."
-
 #. Link points to https://support.mozilla.org/kb/tracking-protection-pbm
-#: firefox/tracking-protection-tour.lang:116
+#: firefox/tracking-protection-tour.lang:79
 msgid ""
 "Learn more about how it works by visiting the <a rel=\"external\" href=\"%s"
 "\">FAQ page</a>."
@@ -164,11 +114,47 @@ msgstr ""
 "Aprende más acerca de como funciona visitando la <a rel=\"external\" href="
 "\"%s\">página de Preguntas Frecuentes</a>."
 
-#: firefox/tracking-protection-tour.lang:121
+#: firefox/tracking-protection-tour.lang:83
 msgid "Restart tour"
 msgstr "Reiniciar recorrido"
 
-#. Obsolete string (used for fx42 beta): do not remove
-#: firefox/tracking-protection-tour.lang:126
-msgid "Start the tour again"
-msgstr "Iniciar el recorrido de nuevo"
+#~ msgid ""
+#~ "When the shield is visible, it means Firefox is actively blocking page "
+#~ "elements that may track you."
+#~ msgstr ""
+#~ "Cuando es escuo está visible, eso significa que Firefox está activamente "
+#~ "bloqueando elementos de la página que podrían seguirte."
+
+#~ msgid ""
+#~ "Some page areas may be missing because they can allow third-parties to "
+#~ "track your browsing behavior."
+#~ msgstr ""
+#~ "Algunas áreas de la página podrían estar perdidas porque permiten a "
+#~ "terceros seguir tu comportamiento de navegación."
+
+#~ msgid ""
+#~ "It’s easy to disable Tracking Protection for the website you’re on by "
+#~ "clicking “Disable protection for this session”."
+#~ msgstr ""
+#~ "Es fácil deshabilitar la Protección de Rastreo para el sitio web que "
+#~ "estas usando \"Deshabilitar protección por esta sesión\"."
+
+#~ msgid ""
+#~ "It’s easy to enable Tracking Protection for the website you’re on by "
+#~ "clicking “Enable protection”."
+#~ msgstr ""
+#~ "Es fácil habilitar la Protección de Rastreo para el sitio web que estas "
+#~ "usando \"Habilitar Protección\"."
+
+#~ msgid "Firefox Tracking Protection"
+#~ msgstr "Protección de Rastreo de Firefox"
+
+#~ msgid ""
+#~ "Thanks for learning about the new Tracking Protection feature in Private "
+#~ "Browsing Mode."
+#~ msgstr ""
+#~ "Gracias por aprender acerca de la nueva característica Protección de "
+#~ "Rastreo en el modo de Navegación Privada."
+
+#~ msgid "Start the tour again"
+#~ msgstr "Iniciar el recorrido de nuevo"
