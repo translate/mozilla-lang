@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-04 05:30+0000\n"
-"PO-Revision-Date: 2016-02-04 11:07+0000\n"
+"PO-Revision-Date: 2016-02-04 11:16+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1454584078.000000\n"
+"X-POOTLE-MTIME: 1454584602.000000\n"
 
 #. Meta tag (title)
 #: firefox/hello-2016.lang:8
@@ -26,6 +26,8 @@ msgid ""
 "Use Firefox Hello to browse Web pages with your friends. Make decisions "
 "together in real time when planning a trip, shopping and more."
 msgstr ""
+"Defnyddiwch Firefox Hello i bori tudalennau Gwe gyda'ch ffrindiau. "
+"Penderfynwch gyda''ch gilydd wrth gynllunio trip, siopa a mwy."
 
 #. Button displayed in the footer, and also in the header when scrolling down in the page
 #: firefox/hello-2016.lang:18
@@ -33,13 +35,12 @@ msgid "Try Hello now"
 msgstr "Defnyddiwch Hello nawr"
 
 #: firefox/hello-2016.lang:22
-#, fuzzy
 msgid "Download now"
-msgstr "Llwytho'r PDF i lawr"
+msgstr "Llwytho'i lawr nawr"
 
 #: firefox/hello-2016.lang:26
 msgid "Plan. Shop. Decide. Together."
-msgstr ""
+msgstr "Cynllunio. Siopa. Penderfynu. Gyda'ch Gilydd."
 
 #: firefox/hello-2016.lang:30
 msgid "Instantly browse any Web page with a friend."
@@ -59,13 +60,15 @@ msgstr ""
 
 #: firefox/hello-2016.lang:42
 msgid "Get Firefox to start browsing Web pages with your friends."
-msgstr ""
+msgstr "Estynnwch Firefox i gychwyn pori tudalennau'r We gyda'ch ffrindiau."
 
 #: firefox/hello-2016.lang:46
 msgid ""
 "Use Firefox on your desktop or laptop to start browsing the Web with your "
 "friends."
 msgstr ""
+"Defnyddiwch Firefox ar eich bwrdd gwaith neu liniadur i gychwyn pori'r We "
+"gyda'ch ffrindiau."
 
 #: firefox/hello-2016.lang:50
 msgid "Get on the same page and make faster decisions in real time."
@@ -73,11 +76,11 @@ msgstr "Ewch i'r un dudalen a gwneud penderfyniadau cyflym, yn fyw."
 
 #: firefox/hello-2016.lang:54
 msgid "Plan a trip"
-msgstr ""
+msgstr "Cynllunio taith"
 
 #: firefox/hello-2016.lang:58
 msgid "Figure out the details when planning a getaway with someone else."
-msgstr ""
+msgstr "Gweithio ar fanylion taith gyda rhywun arall."
 
 #: firefox/hello-2016.lang:62
 msgid "Shop online"
@@ -85,15 +88,15 @@ msgstr "Siopa ar-lein"
 
 #: firefox/hello-2016.lang:66
 msgid "Share and compare ideas when buying a gift for a mutual friend."
-msgstr ""
+msgstr "Rhannwch a chymharwch syniadau wrth brynu anrheg ar gyfer ffrind."
 
 #: firefox/hello-2016.lang:70
 msgid "Quick, easy and ready to go"
-msgstr ""
+msgstr "Cyflym, hawdd ac yn barod amdani"
 
 #: firefox/hello-2016.lang:74
 msgid "One click to send your friend an invitation"
-msgstr ""
+msgstr "Un clic i anfon gwahoddiad at eich ffrind"
 
 #: firefox/hello-2016.lang:78
 msgid "No logins, passwords or accounts required"
@@ -101,7 +104,7 @@ msgstr "Does dim angen mewngofnodi, cyfrineiriau na chyfrifon"
 
 #: firefox/hello-2016.lang:82
 msgid "Nothing extra to download — all you need is Firefox!"
-msgstr ""
+msgstr "Dim mwy i'w lwytho i lawr — dim ond Firefox sydd ei angen!"
 
 #: firefox/hello-2016.lang:86
 msgid "Made for sharing the Web"
@@ -109,19 +112,21 @@ msgstr "Wedi ei greu i rannu'r We"
 
 #: firefox/hello-2016.lang:90
 msgid "Collaborate and make decisions in real time"
-msgstr ""
+msgstr "Cydweithio a phenderfynu gyda'ch gilydd"
 
 #: firefox/hello-2016.lang:94
 msgid "Share what you’re looking at, safely and securely"
-msgstr ""
+msgstr "Rhannwch beth rydych yn edrych arno, yn ddiogel."
 
 #: firefox/hello-2016.lang:98
 msgid "Invite friends, <a href=\"%s\">even if they don’t use Firefox</a>"
 msgstr ""
+"Gwahodd ffrindiau, <a href=\"%s\">hyd yn oed os nad ydyn nhw'n defnyddio "
+"Firefox</a>"
 
 #: firefox/hello-2016.lang:102
 msgid "Share this page with a friend."
-msgstr ""
+msgstr "Rhannu'r dudalen hon gyda ffrind."
 
 #: firefox/hello-2016.lang:106
 msgid "Need help with Hello? <a href=\"%s\">Visit Mozilla support</a>."
