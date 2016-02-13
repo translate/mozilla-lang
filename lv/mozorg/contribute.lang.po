@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-09-02 15:27+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2016-02-13 21:51+0000\n"
+"Last-Translator: Jānis Marks Gailis <jm-gailis@fai-vianet.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
 "2);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1441207672.000000\n"
+"X-POOTLE-MTIME: 1455400284.000000\n"
 
 #. Used for HTML title attribute
 #: mozorg/contribute.lang:9
@@ -57,7 +57,7 @@ msgstr "Vēlies palīdzēt?"
 
 #: mozorg/contribute.lang:50
 msgid "Area of interest?"
-msgstr ""
+msgstr "Intereses lauks?"
 
 #: mozorg/contribute.lang:54
 msgid "Helping Users"
@@ -85,7 +85,7 @@ msgstr ""
 
 #: mozorg/contribute.lang:79
 msgid "Firefox Marketplace"
-msgstr ""
+msgstr "Firefox Marketplace"
 
 #: mozorg/contribute.lang:83
 msgid "Add-ons"
@@ -97,7 +97,7 @@ msgstr ""
 
 #: mozorg/contribute.lang:91
 msgid "Documentation and Writing"
-msgstr ""
+msgstr "Dokumentācija un rakstīšana"
 
 #: mozorg/contribute.lang:95
 msgid "Education"
@@ -114,7 +114,7 @@ msgstr ""
 
 #: mozorg/contribute.lang:107
 msgid "I need help with a Firefox issue"
-msgstr ""
+msgstr "Man ir nepieciešama palīdzība, es saskaros ar problēmu ar Firefox"
 
 #: mozorg/contribute.lang:111
 msgid "YOUR EMAIL HERE"
@@ -143,11 +143,11 @@ msgstr "Lūdzu ievadiet pareizu e-pasta adresi"
 
 #: mozorg/contribute.lang:135
 msgid "You must agree to the privacy policy."
-msgstr ""
+msgstr "Jums ir jāpiekrīt privātuma politikai."
 
 #: mozorg/contribute.lang:139
 msgid "Please select an area of interest."
-msgstr ""
+msgstr "Lūdzu izvēlieties intereses lauku."
 
 #: mozorg/contribute.lang:143
 msgid "Please tell us more about your interests."
@@ -155,17 +155,19 @@ msgstr "Lūdzu pastāstiet mums vairāk par savam interesēm"
 
 #: mozorg/contribute.lang:147
 msgid "Your CAPTCHA response did not match. Please try again."
-msgstr ""
+msgstr "Jūsu CAPTCHA atbilde nav pareiza. Lūdzu mēģiniet vēlreiz."
 
 #: mozorg/contribute.lang:151
 msgid "Thank you for getting in touch."
-msgstr ""
+msgstr "Paldies ka sazinājāties."
 
 #: mozorg/contribute.lang:155
 msgid ""
 "We are sorry, but there was a problem with our system. Please try again "
 "later!"
 msgstr ""
+"Atvainojāmies, bet saskārāmies ar problēmu ar mūsu sistēmu. Lūdzu mēģiniet "
+"vēlreiz vēlāk!"
 
 #: mozorg/contribute.lang:159
 msgid ""
@@ -246,7 +248,7 @@ msgstr ""
 
 #: mozorg/contribute.lang:212
 msgid "Localization"
-msgstr ""
+msgstr "Lokalizācija"
 
 #: mozorg/contribute.lang:216
 msgid ""
@@ -348,7 +350,7 @@ msgstr ""
 
 #: mozorg/contribute.lang:281
 msgid "map"
-msgstr ""
+msgstr "karte"
 
 #: mozorg/contribute.lang:285
 msgid "Find Mozillians near you"
@@ -356,15 +358,15 @@ msgstr ""
 
 #: mozorg/contribute.lang:289
 msgid "US and Canada"
-msgstr ""
+msgstr "ASV un Kanāda"
 
 #: mozorg/contribute.lang:293
 msgid "Europe"
-msgstr ""
+msgstr "Eiropa"
 
 #: mozorg/contribute.lang:297
 msgid "Latin America"
-msgstr ""
+msgstr "Latīņamerika"
 
 #: mozorg/contribute.lang:301
 msgid "Africa and the Middle East"
@@ -376,11 +378,11 @@ msgstr ""
 
 #: mozorg/contribute.lang:309
 msgid "Antarctica"
-msgstr ""
+msgstr "Antarktika"
 
 #: mozorg/contribute.lang:313
 msgid "Sort By:"
-msgstr ""
+msgstr "Kārtot pēc:"
 
 #: mozorg/contribute.lang:317
 msgid "Interest"
@@ -388,10 +390,9 @@ msgstr "Intereses"
 
 #: mozorg/contribute.lang:321
 msgid "Location"
-msgstr ""
+msgstr "Vietas"
 
 #: mozorg/contribute.lang:325
-#, fuzzy
 msgid "Newsletter"
 msgstr "Jaunumi"
 
@@ -404,7 +405,7 @@ msgstr ""
 
 #: mozorg/contribute.lang:333
 msgid "Thank you!"
-msgstr ""
+msgstr "Paldies!"
 
 #: mozorg/contribute.lang:337
 msgid ""
@@ -425,7 +426,7 @@ msgstr ""
 
 #: mozorg/contribute.lang:345
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: mozorg/contribute.lang:349
 msgid "Firefox Affiliates"
@@ -433,15 +434,15 @@ msgstr "Firefox Biedri"
 
 #: mozorg/contribute.lang:353
 msgid "Developer Documentation"
-msgstr ""
+msgstr "Izstrādātāju dokumentācija"
 
 #: mozorg/contribute.lang:357
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: mozorg/contribute.lang:361
 msgid "Thank you for signing up!"
-msgstr ""
+msgstr "Paldies par pierakstīšanos."
 
 #: mozorg/contribute.lang:365
 msgid "Menu"
@@ -449,7 +450,7 @@ msgstr "Izvēlne"
 
 #: mozorg/contribute.lang:368
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: mozorg/contribute.lang:372
 msgid ""
