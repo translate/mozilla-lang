@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-17 17:23+0000\n"
-"PO-Revision-Date: 2015-09-08 09:24+0000\n"
+"PO-Revision-Date: 2016-02-13 10:00+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: my\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1441704261.000000\n"
+"X-POOTLE-MTIME: 1455357611.000000\n"
 
 #. Used for HTML title attribute
 #: mozorg/contribute/index.lang:6
@@ -53,27 +53,23 @@ msgid "I live in&hellip;"
 msgstr ""
 
 #: mozorg/contribute/index.lang:43
-#, fuzzy
 msgid "Volunteer with Mozilla!"
-msgstr "မီး​မြေခွေး​နှင့် စေ​တ​နာ့​ဝန်​ထမ်း<br>ဦး"
+msgstr "မော်ဇီလာနှင့်အတူ ပါဝင်ကူညီပါ။"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:48
-#, fuzzy
 msgid "active Mozillians worldwide"
-msgstr "တကမ္ဘာလုံးရှိ <br> တက်ကြွမိုဇီလာအဖွဲသားများ"
+msgstr "တကမ္ဘာလုံးရှိ တက်ကြွမော်ဇီလာအဖွဲသားများ"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:53
-#, fuzzy
 msgid "upcoming events around the globe"
-msgstr "တကမ္ဘာလုံးရှိ  <br> ပွဲများ"
+msgstr "တကမ္ဘာလုံးရှိ အစီအစဉ်၊ ပွဲများ"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 #: mozorg/contribute/index.lang:58
-#, fuzzy
 msgid "languages and counting, on every continent"
-msgstr "တိုက်ကြီးတိုင်း ရှိ ဘာသာစကားများ <br> ထောက်ပံ့ပေးပြီး အသစ်ထပ်ထည့်ဖိုးအစဉ်ကြိုးစားလျက်"
+msgstr "တိုက်ကြီးတိုင်းရှိ ဘာသာစကားများ ထောက်ပံ့ပေးပြီး အသစ်ထပ်ထည့်ရန် အစဉ်ကြိုးစားလျက်"
 
 #: mozorg/contribute/index.lang:62
 msgid "Join a global community of game-changers."
@@ -420,13 +416,12 @@ msgid "(Optional)"
 msgstr ""
 
 #: mozorg/contribute/index.lang:382
-#, fuzzy
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%(privacy)s"
 "\">this Privacy Policy</a>"
 msgstr ""
-"<a href=\"%s\">ဒီကိုယ်ရေးလုံခြုံမှုမူဝါဒ</a>တွင် ဖော်ပြထားသည့်အတိုင်း ကျွန်တော်/မသည် မော်ဇီလာမှ "
-"အချက်အလက်များကို ကိုင်တွယ်ခြင်းနှင့် ပတ်သက်ပြီး သဘောတူလက်ခံပါသည်။"
+"<a href=\"%(privacy)s\">ဒီ ကိုယ်ရေးလုံခြုံမှုမူဝါဒ</a>တွင် ဖော်ပြထားသည့်အတိုင်း ကျွန်တော်/မသည် "
+"မော်ဇီလာက အချက်အလက်များကို ကိုင်တွယ်ခြင်းနှင့် ပတ်သက်ပြီး သဘောတူလက်ခံပါသည်။"
 
 #: mozorg/contribute/index.lang:386
 msgid "Start contributing"
