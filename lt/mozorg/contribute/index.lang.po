@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-07-17 17:23+0000\n"
-"PO-Revision-Date: 2015-09-08 09:21+0000\n"
+"PO-Revision-Date: 2016-02-16 21:07+0000\n"
 "Last-Translator: Rimas Kudelis <rq@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lt\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1441704104.000000\n"
+"X-POOTLE-MTIME: 1455656878.000000\n"
 
 #. Used for HTML title attribute
 #: mozorg/contribute/index.lang:6
@@ -61,17 +61,17 @@ msgstr "Savanoriaukite „Mozilloje“!"
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:48
 msgid "active Mozillians worldwide"
-msgstr "– tiek pasaulyje yra<br> aktyvių moziliečių"
+msgstr "– tiek pasaulyje yra aktyvių moziliečių"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:53
 msgid "upcoming events around the globe"
-msgstr "– tiek renginių<br> vyks netrukus"
+msgstr "– tiek renginių vyks netrukus"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 #: mozorg/contribute/index.lang:58
 msgid "languages and counting, on every continent"
-msgstr "– tai augantis skaičius kalbų,<br> kuriomis mes bendraujame"
+msgstr "– tai augantis skaičius kalbų, kuriomis mes bendraujame"
 
 #: mozorg/contribute/index.lang:62
 msgid "Join a global community of game-changers."
@@ -293,7 +293,6 @@ msgid "Where would you like to get started?"
 msgstr "Nuo ko norėtumėte padėti?"
 
 #: mozorg/contribute/index.lang:258
-#, fuzzy
 msgid "Coding"
 msgstr "Programavimas"
 
@@ -719,11 +718,13 @@ msgid ""
 "You can help by picking an easy task that only takes a few minutes &mdash; "
 "or take on a bigger challenge."
 msgstr ""
+"Prisidėti galite ir pasirinkdami nedidelę užduotį, kuriai pakaktų vos kelių "
+"minučių. Bet galite prisiimti ir didesnį iššūkį."
 
 #. Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 #: mozorg/contribute/index.lang:619
 msgid "Choose a Task Now"
-msgstr ""
+msgstr "Išsirinkite užduotį dabar"
 
 #. Displayed in the "Thank You!" page after the email is sent for other categories.
 #: mozorg/contribute/index.lang:625
@@ -731,11 +732,13 @@ msgid ""
 "Help us tell the world how awesome Firefox is and about all the important "
 "work Mozilla does every day."
 msgstr ""
+"Padėkite mums parodyti pasauliui, kokia nuostabi yra „Firefox“ naršyklė bei "
+"ką svarbaus kiekvieną dieną veikia „Mozilla“."
 
 #. Displayed in the "Thank You!" page after the email is sent for other categories.
 #: mozorg/contribute/index.lang:631
 msgid "Join Now"
-msgstr ""
+msgstr "Prisijunkite dabar"
 
 #: mozorg/contribute/index.lang:635
 msgid ""
