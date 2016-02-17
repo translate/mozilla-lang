@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-20 08:28+0000\n"
+"POT-Creation-Date: 2016-02-17 06:11+0000\n"
 "PO-Revision-Date: 2016-01-19 09:04+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -15,11 +15,11 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1453194249.000000\n"
 
-#: firefox/tracking-protection-tour.lang:7
+#: firefox/tracking-protection-tour.lang:8
 msgid "How Tracking Protection works"
 msgstr "Sut mae Diogelwch Rhag Tracio'n gweithio"
 
-#: firefox/tracking-protection-tour.lang:11
+#: firefox/tracking-protection-tour.lang:12
 msgid ""
 "When you see the shield, Firefox is blocking some parts of the page that "
 "could track your browsing activity."
@@ -27,19 +27,19 @@ msgstr ""
 "Pan welwch y darian, mae Firefox yn rhwystro rhai darnau o'r dudalen gall "
 "fod yn tracio eich pori."
 
-#: firefox/tracking-protection-tour.lang:15
+#: firefox/tracking-protection-tour.lang:16
 msgid "1 of 3"
 msgstr "1 o 3"
 
-#: firefox/tracking-protection-tour.lang:19
+#: firefox/tracking-protection-tour.lang:20
 msgid "Next"
 msgstr "Nesaf"
 
-#: firefox/tracking-protection-tour.lang:23
+#: firefox/tracking-protection-tour.lang:24
 msgid "Differences to expect"
 msgstr "Y gwahaniaethau i'w disgwyl"
 
-#: firefox/tracking-protection-tour.lang:27
+#: firefox/tracking-protection-tour.lang:28
 msgid ""
 "Some page areas may be missing, because they could allow third parties to "
 "track you across different websites."
@@ -47,15 +47,25 @@ msgstr ""
 "Efallai fod rhai darnau o'r dudalen ar goll gan eu bod yn caniatáu i drydydd "
 "parti i'ch tracio ar draws gwefannau gwahanol."
 
-#: firefox/tracking-protection-tour.lang:31
+#: firefox/tracking-protection-tour.lang:32
 msgid "2 of 3"
 msgstr "2 o 3"
 
-#: firefox/tracking-protection-tour.lang:35
+#: firefox/tracking-protection-tour.lang:36
 msgid "Want to make changes?"
 msgstr "Eisiau gwneud newidiadau?"
 
-#: firefox/tracking-protection-tour.lang:39
+#: firefox/tracking-protection-tour.lang:41
+#, fuzzy
+msgid ""
+"It’s easy to turn off Tracking Protection for the website you’re on by "
+"clicking “Disable protection for this site.”"
+msgstr ""
+"Mae’n hawdd diffodd Diogelwch Rhag Tracio ar wefan drwy glicio “Analluogi "
+"diogelwch y sesiwn hwn”."
+
+#. Obsolete string (do not remove)
+#: firefox/tracking-protection-tour.lang:46
 msgid ""
 "It’s easy to turn off Tracking Protection for the website you’re on by "
 "clicking “Disable protection for this session.”"
@@ -63,7 +73,7 @@ msgstr ""
 "Mae’n hawdd diffodd Diogelwch Rhag Tracio ar wefan drwy glicio “Analluogi "
 "diogelwch y sesiwn hwn”."
 
-#: firefox/tracking-protection-tour.lang:43
+#: firefox/tracking-protection-tour.lang:50
 msgid ""
 "It’s easy to turn on Tracking Protection for the website you’re on by "
 "clicking “Enable protection.”"
@@ -71,41 +81,41 @@ msgstr ""
 "Mae’n hawdd galluogi Diogelwch Rhag Tracio ar wefan drwy glicio “Galluogi "
 "diogelwch”."
 
-#: firefox/tracking-protection-tour.lang:47
+#: firefox/tracking-protection-tour.lang:54
 msgid "3 of 3"
 msgstr "3 o 3"
 
-#: firefox/tracking-protection-tour.lang:51
+#: firefox/tracking-protection-tour.lang:58
 msgid "Got it!"
 msgstr "Iawn!"
 
-#: firefox/tracking-protection-tour.lang:56
+#: firefox/tracking-protection-tour.lang:63
 msgid "Tracking Protection"
 msgstr "Diogelwch Rhag Tracio"
 
-#: firefox/tracking-protection-tour.lang:60
+#: firefox/tracking-protection-tour.lang:67
 msgid "Private Browsing with Tracking Protection"
 msgstr "Pori Preifat gyda Diogelwch Rhag Tracio"
 
 #. Link points to https://support.mozilla.org/kb/tracking-protection-pbm
-#: firefox/tracking-protection-tour.lang:65
+#: firefox/tracking-protection-tour.lang:72
 msgid ""
 "Want to turn off this feature? <a href=\"%s\">Visit Privacy Preferences</a>"
 msgstr ""
 "Eisiau diffodd y nodwedd hon?<a href=\"%s\">Ewch i'r Dewisiadau "
 "Preifatrwydd</a>"
 
-#: firefox/tracking-protection-tour.lang:70
+#: firefox/tracking-protection-tour.lang:77
 msgid "Thanks for learning about Tracking Protection."
 msgstr "Diolch am ddysgu am Ddiogelwch Rhag Tracio"
 
-#: firefox/tracking-protection-tour.lang:74
+#: firefox/tracking-protection-tour.lang:81
 msgid ""
 "Thanks for learning about the new Private Browsing with Tracking Protection."
 msgstr "Diolch am ddysgu am Bori Preifat gyda Diogelwch Rhag Tracio."
 
 #. Link points to https://support.mozilla.org/kb/tracking-protection-pbm
-#: firefox/tracking-protection-tour.lang:79
+#: firefox/tracking-protection-tour.lang:86
 msgid ""
 "Learn more about how it works by visiting the <a rel=\"external\" href=\"%s"
 "\">FAQ page</a>."
@@ -113,7 +123,7 @@ msgstr ""
 "Dysgwch ragor am sut mae'n gweithio drwy fynd i'r dudalen <a rel=\"external"
 "\" href=\"%s\">Cwestiynau Cyffredin</a>."
 
-#: firefox/tracking-protection-tour.lang:83
+#: firefox/tracking-protection-tour.lang:90
 msgid "Restart tour"
 msgstr "Ailgychwyn y cyflwyniad"
 

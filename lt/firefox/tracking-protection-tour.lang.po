@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-20 08:28+0000\n"
+"POT-Creation-Date: 2016-02-17 06:11+0000\n"
 "PO-Revision-Date: 2016-02-16 20:36+0000\n"
 "Last-Translator: Rimas Kudelis <rq@akl.lt>\n"
 "Language-Team: none\n"
@@ -13,14 +13,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1455654973.000000\n"
 
-#: firefox/tracking-protection-tour.lang:7
+#: firefox/tracking-protection-tour.lang:8
 msgid "How Tracking Protection works"
 msgstr "Kaip veikia apsauga nuo stebėjimo"
 
-#: firefox/tracking-protection-tour.lang:11
+#: firefox/tracking-protection-tour.lang:12
 msgid ""
 "When you see the shield, Firefox is blocking some parts of the page that "
 "could track your browsing activity."
@@ -28,19 +28,19 @@ msgstr ""
 "Kai matote šį skydą, jis reiškia, jog „Firefox“ blokuoja kai kuriuos atverto "
 "tinklalapio išteklius, galinčius stebėti jūsų naršymą."
 
-#: firefox/tracking-protection-tour.lang:15
+#: firefox/tracking-protection-tour.lang:16
 msgid "1 of 3"
 msgstr "1 iš 3"
 
-#: firefox/tracking-protection-tour.lang:19
+#: firefox/tracking-protection-tour.lang:20
 msgid "Next"
 msgstr "Toliau"
 
-#: firefox/tracking-protection-tour.lang:23
+#: firefox/tracking-protection-tour.lang:24
 msgid "Differences to expect"
 msgstr "Kokių skirtumų tikėtis"
 
-#: firefox/tracking-protection-tour.lang:27
+#: firefox/tracking-protection-tour.lang:28
 msgid ""
 "Some page areas may be missing, because they could allow third parties to "
 "track you across different websites."
@@ -48,15 +48,25 @@ msgstr ""
 "Kai kurios tinklalapio dalys gali būti nerodomos, nes jos suteiktų "
 "trečiosioms šalims galimybę stebėti jūsų naršymą po skirtingas svetaines."
 
-#: firefox/tracking-protection-tour.lang:31
+#: firefox/tracking-protection-tour.lang:32
 msgid "2 of 3"
 msgstr "2 iš 3"
 
-#: firefox/tracking-protection-tour.lang:35
+#: firefox/tracking-protection-tour.lang:36
 msgid "Want to make changes?"
 msgstr "Norite atlikti pakeitimų?"
 
-#: firefox/tracking-protection-tour.lang:39
+#: firefox/tracking-protection-tour.lang:41
+#, fuzzy
+msgid ""
+"It’s easy to turn off Tracking Protection for the website you’re on by "
+"clicking “Disable protection for this site.”"
+msgstr ""
+"Apsaugą nuo stebėjimo šiuo metu atvertoje svetainėje išjungti lengva – tam "
+"tereikia spustelėti mygtuką „Išjungti apsaugą šiam seansui“."
+
+#. Obsolete string (do not remove)
+#: firefox/tracking-protection-tour.lang:46
 msgid ""
 "It’s easy to turn off Tracking Protection for the website you’re on by "
 "clicking “Disable protection for this session.”"
@@ -64,7 +74,7 @@ msgstr ""
 "Apsaugą nuo stebėjimo šiuo metu atvertoje svetainėje išjungti lengva – tam "
 "tereikia spustelėti mygtuką „Išjungti apsaugą šiam seansui“."
 
-#: firefox/tracking-protection-tour.lang:43
+#: firefox/tracking-protection-tour.lang:50
 msgid ""
 "It’s easy to turn on Tracking Protection for the website you’re on by "
 "clicking “Enable protection.”"
@@ -72,35 +82,35 @@ msgstr ""
 "Apsaugą nuo stebėjimo šiuo metu atvertoje svetainėje įjungti lengva – tam "
 "tereikia spustelėti mygtuką „Įjungti apsaugą“."
 
-#: firefox/tracking-protection-tour.lang:47
+#: firefox/tracking-protection-tour.lang:54
 msgid "3 of 3"
 msgstr "3 iš 3"
 
-#: firefox/tracking-protection-tour.lang:51
+#: firefox/tracking-protection-tour.lang:58
 msgid "Got it!"
 msgstr "Supratau!"
 
-#: firefox/tracking-protection-tour.lang:56
+#: firefox/tracking-protection-tour.lang:63
 msgid "Tracking Protection"
 msgstr "Apsauga nuo stebėjimo"
 
-#: firefox/tracking-protection-tour.lang:60
+#: firefox/tracking-protection-tour.lang:67
 msgid "Private Browsing with Tracking Protection"
 msgstr "Privatusis naršymas su apsauga nuo stebėjimo"
 
 #. Link points to https://support.mozilla.org/kb/tracking-protection-pbm
-#: firefox/tracking-protection-tour.lang:65
+#: firefox/tracking-protection-tour.lang:72
 msgid ""
 "Want to turn off this feature? <a href=\"%s\">Visit Privacy Preferences</a>"
 msgstr ""
 "Norite išjungti šią funkciją? <a href=\"%s\">Apsilankykite privatumo "
 "nuostatose</a>"
 
-#: firefox/tracking-protection-tour.lang:70
+#: firefox/tracking-protection-tour.lang:77
 msgid "Thanks for learning about Tracking Protection."
 msgstr "Džiaugiamės, jog susidomėjote apsauga nuo stebėjimo."
 
-#: firefox/tracking-protection-tour.lang:74
+#: firefox/tracking-protection-tour.lang:81
 msgid ""
 "Thanks for learning about the new Private Browsing with Tracking Protection."
 msgstr ""
@@ -108,7 +118,7 @@ msgstr ""
 "stebėjimo."
 
 #. Link points to https://support.mozilla.org/kb/tracking-protection-pbm
-#: firefox/tracking-protection-tour.lang:79
+#: firefox/tracking-protection-tour.lang:86
 msgid ""
 "Learn more about how it works by visiting the <a rel=\"external\" href=\"%s"
 "\">FAQ page</a>."
@@ -116,6 +126,6 @@ msgstr ""
 "Sužinokite apie šią funkciją dar daugiau – paskaitykite <a rel=\"external\" "
 "href=\"%s\">klausimus ir atsakymus</a>."
 
-#: firefox/tracking-protection-tour.lang:83
+#: firefox/tracking-protection-tour.lang:90
 msgid "Restart tour"
 msgstr "Kartoti pristatymą"
