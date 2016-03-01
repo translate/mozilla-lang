@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-15 18:11+0000\n"
+"POT-Creation-Date: 2016-03-01 16:12+0000\n"
 "PO-Revision-Date: 2016-02-16 17:20+0000\n"
 "Last-Translator: Rimas Kudelis <rq@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1455643201.000000\n"
 
 #: main.lang:1
@@ -825,6 +825,15 @@ msgid "Whoops! Be sure to enter a valid email address."
 msgstr "Oi! Įsitikinkite, jog įvedėte galiojantį el. pašto adresą."
 
 #: main.lang:780
+#, fuzzy
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Notice</a>"
+msgstr ""
+"Sutinku, kad „Mozilla“ tvarkytų mano duomenis kaip paaiškinta <a href=\"%s"
+"\">šiuose Privatumo nuostatuose</a>"
+
+#: main.lang:784
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
@@ -833,39 +842,39 @@ msgstr ""
 "\">šiuose Privatumo nuostatuose</a>"
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: main.lang:786
+#: main.lang:789
 msgid "Get Firefox news"
 msgstr "Gaukite „Firefox“ naujienas"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:791
+#: main.lang:794
 msgid "YOUR EMAIL HERE"
 msgstr "JŪSŲ EL. PAŠTAS"
 
 #. Subscription Button
-#: main.lang:796
+#: main.lang:799
 msgid "Sign me up"
 msgstr "Prenumeruoti"
 
-#: main.lang:800
+#: main.lang:803
 msgid "Select country"
 msgstr "Pasirinkite šalį"
 
-#: main.lang:804
+#: main.lang:807
 msgid "Available Languages"
 msgstr "Galimos kalbos"
 
-#: main.lang:808
+#: main.lang:811
 msgid "We will only send you Mozilla-related information."
 msgstr "Mes jums siųsime tik su „Mozilla“ susijusią informaciją."
 
-#: main.lang:812
+#: main.lang:815
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr ""
 "Ačiū! Dabar prašome pasitikrinti savo el. pašto dėžutę ir patvirtinti "
 "prenumeratą."
 
-#: main.lang:816
+#: main.lang:819
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -875,11 +884,11 @@ msgstr ""
 "prenumeratą. Jeigu jo nematote, paieškokite brukalo aplanke. Kad gautumėte "
 "naujienlaiškį, privalote patvirtinti prenumeratą."
 
-#: main.lang:820
+#: main.lang:823
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Sužinokite viską iš mūsų <span>naujienlaiškio</span>"
 
-#: main.lang:824
+#: main.lang:827
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "

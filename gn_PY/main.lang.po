@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-15 18:11+0000\n"
+"POT-Creation-Date: 2016-03-01 16:12+0000\n"
 "PO-Revision-Date: 2016-02-26 15:44+0000\n"
 "Last-Translator: Abelardo Ayala Rodríguez <abe_aya@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1456501472.000000\n"
 
 #: main.lang:1
@@ -822,6 +822,15 @@ msgid "Whoops! Be sure to enter a valid email address."
 msgstr "¡Rombyasyeterei! Emoinge porãke ñanduti veve kundaharape oikóva."
 
 #: main.lang:780
+#, fuzzy
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Notice</a>"
+msgstr ""
+"Aime porã marandu che Mozilla reheguápe oñemohesakãhápe <a href=\"%s\">ko "
+"temiñemi purureko rehegua</a>"
+
+#: main.lang:784
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
@@ -830,38 +839,38 @@ msgstr ""
 "temiñemi purureko rehegua</a>"
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: main.lang:786
+#: main.lang:789
 msgid "Get Firefox news"
 msgstr "Ejapyhy marandu Firefox-gui"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:791
+#: main.lang:794
 msgid "YOUR EMAIL HERE"
 msgstr "NE ÑANDUTIVEVE"
 
 #. Subscription Button
-#: main.lang:796
+#: main.lang:799
 msgid "Sign me up"
 msgstr "Che añemboheraguapyse"
 
-#: main.lang:800
+#: main.lang:803
 msgid "Select country"
 msgstr "Eiporavo tetã"
 
-#: main.lang:804
+#: main.lang:807
 msgid "Available Languages"
 msgstr "Ñe'ẽnguéra eipurukuaáva"
 
-#: main.lang:808
+#: main.lang:811
 msgid "We will only send you Mozilla-related information."
 msgstr "Ore roguerahauka marandu Mozilla rehegua añónte."
 
-#: main.lang:812
+#: main.lang:815
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr ""
 "¡Aguyje! Ikatúpiko ehecha nde jeikeha rendápe emoneĩ hag̃ua ne ñemboheraguapy."
 
-#: main.lang:816
+#: main.lang:819
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -872,11 +881,11 @@ msgstr ""
 "mboguahápe. Emoneĩva'erã ne ñemboheraguapy og̃uahẽ hag̃ua ndéve ore "
 "kuatiahai'i."
 
-#: main.lang:820
+#: main.lang:823
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Emoñe'ẽmba ko'ãva ore <span>marandúpe</span>"
 
-#: main.lang:824
+#: main.lang:827
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "

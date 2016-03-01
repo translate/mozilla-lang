@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-15 18:11+0000\n"
+"POT-Creation-Date: 2016-03-01 16:12+0000\n"
 "PO-Revision-Date: 2016-02-21 11:06+0000\n"
 "Last-Translator: Jānis Marks Gailis <jm-gailis@fai-vianet.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
 "2);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1456052782.000000\n"
 
 #: main.lang:1
@@ -824,6 +824,15 @@ msgid "Whoops! Be sure to enter a valid email address."
 msgstr "Uuuups! Pārliecinieties, ka ievadītā epasta adrese ir pareiza."
 
 #: main.lang:780
+#, fuzzy
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Notice</a>"
+msgstr ""
+"Esmu ar mieru lai mozilla apietos ar manam datnēm kā noteiks šajā <a href="
+"\"%s\">Privātuma Politikā</a>"
+
+#: main.lang:784
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
@@ -832,39 +841,39 @@ msgstr ""
 "\"%s\">Privātuma Politikā</a>"
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: main.lang:786
+#: main.lang:789
 msgid "Get Firefox news"
 msgstr "Saņemiet Firefox ziņas"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:791
+#: main.lang:794
 msgid "YOUR EMAIL HERE"
 msgstr "JŪSU EPASTS"
 
 #. Subscription Button
-#: main.lang:796
+#: main.lang:799
 msgid "Sign me up"
 msgstr "Pierakstiet mani"
 
-#: main.lang:800
+#: main.lang:803
 msgid "Select country"
 msgstr "Izvēlieties valsti"
 
-#: main.lang:804
+#: main.lang:807
 msgid "Available Languages"
 msgstr "Pieejamās valodas"
 
-#: main.lang:808
+#: main.lang:811
 msgid "We will only send you Mozilla-related information."
 msgstr "Mēs sūtīsim tikai ar Mozilla saistītu informāciju."
 
-#: main.lang:812
+#: main.lang:815
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr ""
 "Paldies! Lūdzu, pārbaudi savu pasta kasti, lai apstiprinātu pieteikšanos "
 "jaunumiem."
 
-#: main.lang:816
+#: main.lang:819
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -874,11 +883,11 @@ msgstr ""
 "jaunumiem. Ja neredzat šo epastu, pārbaudiet mēstuļu mapi. Lai saņemtu "
 "jaunumus, jāapstiprina pieteikšanās uz tiem."
 
-#: main.lang:820
+#: main.lang:823
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Uzziniet visu par šo mūsu <span>jaunumos</span>"
 
-#: main.lang:824
+#: main.lang:827
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "

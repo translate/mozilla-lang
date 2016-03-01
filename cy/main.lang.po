@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-15 18:11+0000\n"
+"POT-Creation-Date: 2016-03-01 16:12+0000\n"
 "PO-Revision-Date: 2016-02-25 08:54+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1456390489.000000\n"
 
 #: main.lang:1
@@ -821,6 +821,15 @@ msgid "Whoops! Be sure to enter a valid email address."
 msgstr "Wps! Cofiwch roi cyfeiriad e-bost dilys."
 
 #: main.lang:780
+#, fuzzy
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Notice</a>"
+msgstr ""
+"Rwy'n fodlon i Mozilla drin fy ngwybodaeth fel mae'n cael ei esbonio yn <a "
+"href=\"%s\">y polisi Preifatrwydd hwn</a>"
+
+#: main.lang:784
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
@@ -829,37 +838,37 @@ msgstr ""
 "href=\"%s\">y polisi Preifatrwydd hwn</a>"
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: main.lang:786
+#: main.lang:789
 msgid "Get Firefox news"
 msgstr "Derbyn newyddion Firefox"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:791
+#: main.lang:794
 msgid "YOUR EMAIL HERE"
 msgstr "EICH E-BOST YMA"
 
 #. Subscription Button
-#: main.lang:796
+#: main.lang:799
 msgid "Sign me up"
 msgstr "Cofrestru"
 
-#: main.lang:800
+#: main.lang:803
 msgid "Select country"
 msgstr "Dewis gwlad"
 
-#: main.lang:804
+#: main.lang:807
 msgid "Available Languages"
 msgstr "Ieithoedd sydd ar Gael"
 
-#: main.lang:808
+#: main.lang:811
 msgid "We will only send you Mozilla-related information."
 msgstr "Dim ond gwybodaeth am Mozilla fyddwn ni'n anfon atoch."
 
-#: main.lang:812
+#: main.lang:815
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr "Diolch! Gwiriwch eich Blwch Derbyn i gadarnhau eich tanysgrifiad."
 
-#: main.lang:816
+#: main.lang:819
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -869,11 +878,11 @@ msgstr ""
 "tanysgrifiad. Os nad yw i'w weld, gwiriwch eich hidl sbam. Rhaid i chi "
 "gadarnhau eich tanysgrifiad er mwyn derbyn y newyddlen."
 
-#: main.lang:820
+#: main.lang:823
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Darllen ein newyddion yn ein <span>newyddlen</span>"
 
-#: main.lang:824
+#: main.lang:827
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "

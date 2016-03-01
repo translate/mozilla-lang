@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-15 18:11+0000\n"
+"POT-Creation-Date: 2016-03-01 16:12+0000\n"
 "PO-Revision-Date: 2015-07-15 14:48+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -823,6 +823,15 @@ msgid "Whoops! Be sure to enter a valid email address."
 msgstr "Ups! Provjerite jeste li ispravno upisali adresu e-pošte."
 
 #: main.lang:780
+#, fuzzy
+msgid ""
+"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
+"Privacy Notice</a>"
+msgstr ""
+"Slažem se s Mozillinim rukovođenjem ovih informacija, kao što je objašnjeno "
+"u <a href=\"%s\">politici privatnosti</a>"
+
+#: main.lang:784
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
@@ -831,37 +840,37 @@ msgstr ""
 "u <a href=\"%s\">politici privatnosti</a>"
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: main.lang:786
+#: main.lang:789
 msgid "Get Firefox news"
 msgstr "Primajte novosti o Firefoxu"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:791
+#: main.lang:794
 msgid "YOUR EMAIL HERE"
 msgstr "ADRESA VAŠE E-POŠTE"
 
 #. Subscription Button
-#: main.lang:796
+#: main.lang:799
 msgid "Sign me up"
 msgstr "Pretplati me"
 
-#: main.lang:800
+#: main.lang:803
 msgid "Select country"
 msgstr "Odaberite državu"
 
-#: main.lang:804
+#: main.lang:807
 msgid "Available Languages"
 msgstr "Dostupni jezici"
 
-#: main.lang:808
+#: main.lang:811
 msgid "We will only send you Mozilla-related information."
 msgstr "Slati ćemo vam isključivo informacije vezane uz Mozillu."
 
-#: main.lang:812
+#: main.lang:815
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr "Hvala vam! Provjerite svoju e-poštu i potvrdite pretplatu."
 
-#: main.lang:816
+#: main.lang:819
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -871,11 +880,11 @@ msgstr ""
 "Ako ne uočite poruku, provjerite svoj antispam filter. Da biste mogli "
 "primati newsletter, trebat ćete potvrditi svoju pretplatu."
 
-#: main.lang:820
+#: main.lang:823
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Saznajte više u našem <span>newsletteru</span>"
 
-#: main.lang:824
+#: main.lang:827
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
