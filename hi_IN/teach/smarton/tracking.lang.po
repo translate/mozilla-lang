@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-20 21:34+0000\n"
-"PO-Revision-Date: 2016-03-19 14:30+0000\n"
+"PO-Revision-Date: 2016-03-19 19:51+0000\n"
 "Last-Translator: ravi kumbhkar <ravi.103151@gmail.com>\n"
 "Language-Team: none\n"
 "Language: hi_IN\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1458397808.000000\n"
+"X-POOTLE-MTIME: 1458417072.000000\n"
 
 #. HTML Title
 #: teach/smarton/tracking.lang:6
@@ -310,7 +310,7 @@ msgstr "अप्रयुक्त खाते को मिटाएँ"
 
 #: teach/smarton/tracking.lang:212
 msgid "Your data might get sold when a service or app shuts down."
-msgstr ""
+msgstr "आपका डेटा बेचा जा सकते हैं जब एक सर्विस या एप्प बंद होता हैं."
 
 #: teach/smarton/tracking.lang:216
 msgid "If you don’t use it, close it."
@@ -371,7 +371,7 @@ msgstr ""
 
 #: teach/smarton/tracking.lang:256
 msgid "Here are a few key ones that you can make use of."
-msgstr ""
+msgstr "यहाँ पे कुछ प्रमुख है जिसका आप उपयोग कर सकते हैं."
 
 #: teach/smarton/tracking.lang:260
 msgid "Did you know?"
@@ -388,13 +388,12 @@ msgid "Private Browsing with Tracking Protection"
 msgstr " प्राइवेट ब्राउज़िंग के साथ ट्रैकिंग सुरक्षा"
 
 #: teach/smarton/tracking.lang:272
-#, fuzzy
 msgid ""
 "This feature minimizes the ability of hidden third parties to track your "
 "browsing activity across many sites."
 msgstr ""
-"बहुत सारे साइटो पर आपका ब्राउज़िंग गतिविधि को तीसरे पार्टी ट्रैकिंग से छुपाने की क्षमता को "
-"कम करें."
+"यह विशेषता बहुत सारे साइटो पर आपका ब्राउज़िंग गतिविधि को तीसरे पार्टी ट्रैकिंग से छुपाने "
+"की क्षमता को कम करता हैं."
 
 #: teach/smarton/tracking.lang:276
 msgid "Give it a try!"
@@ -439,12 +438,16 @@ msgid ""
 "Mozilla was the first company to include a Do Not Track feature when it was "
 "added to Firefox in 2011."
 msgstr ""
+"Mozilla Do Not Track विशेषता को शामिल करने वाला पहला कंपनी था जब इसे 2011 में "
+"firefox में जोड़ा गया था."
 
 #: teach/smarton/tracking.lang:310
 msgid ""
 "Since then, it has been adopted by most major browsers, though many "
 "companies on the receiving end of the requests are still not honoring them."
 msgstr ""
+"तबसे, इसे बहुत सरे प्रमुख ब्राउज़र द्वारा अपनाया गया, हालांकि कई कंपनियों के अनुरोध के "
+"प्राप्त अंत पर अभीतक उन्हें सम्मान नही मिल रहा हैं."
 
 #: teach/smarton/tracking.lang:314
 msgid "Efforts are being made by Web advocacy groups to have this changed."
@@ -456,6 +459,9 @@ msgid ""
 "href=\"%(chrome)s\">Chrome</a>, <a href=\"%(ie)s\">Internet Explorer</a>/<a "
 "href=\"%(edge)s\">Edge</a> and <a href=\"%(safari)s\">Safari</a>."
 msgstr ""
+"जाने <a href=\"%(firefox)s\">Firefox</a>, <a href=\"%(chrome)s\">Chrome</a>, "
+"<a href=\"%(ie)s\">Internet Explorer</a>/<a href=\"%(edge)s\">Edge</a> and "
+"<a href=\"%(safari)s\">Safari</a> में Do Not Track कैसे सक्रिय करें."
 
 #: teach/smarton/tracking.lang:322
 msgid "Private Browsing"
