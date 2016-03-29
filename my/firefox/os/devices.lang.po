@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-21 18:34+0000\n"
+"POT-Creation-Date: 2016-03-29 18:12+0000\n"
 "PO-Revision-Date: 2015-09-08 09:24+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: none\n"
@@ -1040,35 +1040,63 @@ msgstr "3840 x 2160p"
 msgid "Web Browser"
 msgstr "ဝတ်ဘ် ဘယောက်ဆာ"
 
+#: firefox/os/devices.lang:1011
+msgid "Web Apps Discovery Portal"
+msgstr ""
+
+#: firefox/os/devices.lang:1015
+msgid "Web Apps"
+msgstr ""
+
+#: firefox/os/devices.lang:1019
+msgid "Pin to Home"
+msgstr ""
+
+#: firefox/os/devices.lang:1023
+msgid "Send to TV"
+msgstr ""
+
+#: firefox/os/devices.lang:1027
+msgid "Firefox Account sync (bookmark/history)"
+msgstr ""
+
+#: firefox/os/devices.lang:1031
+msgid "Models Powered by Firefox OS"
+msgstr ""
+
+#: firefox/os/devices.lang:1035
+msgid "Full DX series"
+msgstr ""
+
 #. Footer
-#: firefox/os/devices.lang:1012
+#: firefox/os/devices.lang:1040
 msgid "More about Firefox OS"
 msgstr "FirefoxOS အကြောင်း"
 
-#: firefox/os/devices.lang:1016
+#: firefox/os/devices.lang:1044
 msgid "Read about the features and mission behind Firefox OS"
 msgstr "FirefoxOS  နောက်မှ စွမ်းဆောင်ချက်များ နှင့် ရည်မှန်းချက်အကြောင်း ဖတ်ရှုပါ"
 
-#: firefox/os/devices.lang:1020
+#: firefox/os/devices.lang:1048
 msgid "Get help with your Firefox OS device from Mozilla Support"
 msgstr "သင့် Firefox OS ကိရိယာ အတွက် မိုဇီလာထောက်ပံ့အဖွဲ့မှ အကူအညီရယူပါ"
 
-#: firefox/os/devices.lang:1024
+#: firefox/os/devices.lang:1052
 msgid "See what Firefox OS offers and means for developers"
 msgstr "Firefox OS မှ တီထွင်ဖန်တီးသူများအတွက် ကမ်းလှမ်းထားသည်များကိုကြည့်ပါ"
 
-#: firefox/os/devices.lang:1028
+#: firefox/os/devices.lang:1056
 msgid "Learn about Firefox OS apps in Firefox Marketplace"
 msgstr "မီးမြေခွေး စျေးကွက်ထဲရှိ Firefox OS အက်ပ်များအကြောင်း လေ့လာပါ"
 
 #. Popup after clicking on "Get a phone"
-#: firefox/os/devices.lang:1033
+#: firefox/os/devices.lang:1061
 msgid ""
 "We work with a number of providers to offer Firefox OS on a variety of "
 "devices."
 msgstr "Firefox OS ဖုန်းအမျိုးမျိုး အားဖြန့်ဖြူးရန် ထောက်ပံထုတ်လုပ်သူများနှင့် အတူလုပ်​ဆောင်ထားပါတယ်"
 
-#: firefox/os/devices.lang:1037
+#: firefox/os/devices.lang:1065
 msgid ""
 "Please read our FAQ for a <a href=\"%(link)s\">full list of providers in "
 "available countries</a>."
@@ -1077,14 +1105,14 @@ msgstr ""
 "ကိုဖတ်ပါ။"
 
 #. Case 1: There are several phone providers
-#: firefox/os/devices.lang:1042
+#: firefox/os/devices.lang:1070
 msgid ""
 "Choose one from the list below to get a Firefox OS smartphone in your "
 "country."
 msgstr "FirefoxOS စမတ်ဖုန်း သင့်နိုင်ငံတွင် ဝယ်ယူရန် အောက်ပါထဲမှာ တစ်ခုအားရွေးချယ်ပါ"
 
 #. Case 2: There is only one provider in the country
-#: firefox/os/devices.lang:1047
+#: firefox/os/devices.lang:1075
 msgid ""
 "Click on the provider below to get a Firefox OS smartphone in your country."
 msgstr "အောင်ပါ ထုတ်လုပ်သူ စာရင်းထဲမှ တစ်ခုရွေးပြီး သင့်နိုင်ငံမှာ Firefox OS စမတ်ဖုန်းတစ်လုံး ရယူပါ"

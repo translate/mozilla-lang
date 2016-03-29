@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-01 16:12+0000\n"
+"POT-Creation-Date: 2016-03-29 18:12+0000\n"
 "PO-Revision-Date: 2016-03-10 11:19+0000\n"
 "Last-Translator: xh-ZA45_Ngqibelelo <zmabeka@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1457608750.000000\n"
 
 #: main.lang:1
@@ -838,40 +838,45 @@ msgstr ""
 "Ndilungile kwiMozilla ukuba isingathe inkcazelo njengoko kuchaziwe <a href="
 "\"%s\">kule Mgaqo-nkqubo Wabucala</a>"
 
-#. This string is used for a subscription field on other pages than /newsletter/
+#. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 #: main.lang:789
+msgid "Keep up with<br> all things Firefox."
+msgstr ""
+
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:794
 msgid "Get Firefox news"
 msgstr "Fumana iindaba zeFirefox"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:794
+#: main.lang:799
 msgid "YOUR EMAIL HERE"
 msgstr "I-IMEYILI YAKHO ILAPHA"
 
 #. Subscription Button
-#: main.lang:799
+#: main.lang:804
 msgid "Sign me up"
 msgstr "Ndibhaliseni"
 
-#: main.lang:803
+#: main.lang:808
 msgid "Select country"
 msgstr "Khetha ilizwe"
 
-#: main.lang:807
+#: main.lang:812
 msgid "Available Languages"
 msgstr "Iilwimi Ezifumanekayo"
 
-#: main.lang:811
+#: main.lang:816
 msgid "We will only send you Mozilla-related information."
 msgstr "Siza kukuthumelela kuphela inkcazelo ehlobene neMozilla."
 
-#: main.lang:815
+#: main.lang:820
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr ""
 "Ngombulelo! Sicela uhlole ibhokisi yakho yee-imeyili ukuqinisekisa umrhumo "
 "wakho."
 
-#: main.lang:819
+#: main.lang:824
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -881,11 +886,11 @@ msgstr ""
 "wakho. Ukuba akuyiboni, hlola ifiltha yakho yemiyalezo eyimfitshimfitshi. "
 "Ufanele uqinisekise umrhumo wakho ukuze ufumane ileta yeendaba."
 
-#: main.lang:823
+#: main.lang:828
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Funda ngako konke <span>kwileta yethu yeendaba </span>"
 
-#: main.lang:827
+#: main.lang:832
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "

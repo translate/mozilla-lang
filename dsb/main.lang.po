@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-01 16:12+0000\n"
+"POT-Creation-Date: 2016-03-29 18:12+0000\n"
 "PO-Revision-Date: 2016-03-01 20:08+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1456862889.000000\n"
 
 #: main.lang:1
@@ -838,40 +838,45 @@ msgstr ""
 "Som z tym wobjadny, kak Mozilla wobchada pó <a href=\"%s\">toś tych "
 "pšawidłach priwatnosći</a> z mójimi informacijami"
 
-#. This string is used for a subscription field on other pages than /newsletter/
+#. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 #: main.lang:789
+msgid "Keep up with<br> all things Firefox."
+msgstr ""
+
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:794
 msgid "Get Firefox news"
 msgstr "Wobstarajśo se nowosći Firefox"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:794
+#: main.lang:799
 msgid "YOUR EMAIL HERE"
 msgstr "WAŠA E-MAILOWA ADRESA"
 
 #. Subscription Button
-#: main.lang:799
+#: main.lang:804
 msgid "Sign me up"
 msgstr "Registrěrowaś"
 
-#: main.lang:803
+#: main.lang:808
 msgid "Select country"
 msgstr "Wubjeŕśo kraj"
 
-#: main.lang:807
+#: main.lang:812
 msgid "Available Languages"
 msgstr "K dispoziciji stojece rěcy"
 
-#: main.lang:811
+#: main.lang:816
 msgid "We will only send you Mozilla-related information."
 msgstr "Pósćelomy wam jano informacije nastupajucy Mozilla."
 
-#: main.lang:815
+#: main.lang:820
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr ""
 "Wjeliki źěk! Pšosym póglědajśo do swójogo postowego kašćika, aby swój "
 "abonement wobkšuśił."
 
-#: main.lang:819
+#: main.lang:824
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -881,11 +886,11 @@ msgstr ""
 "Jolic ju njewiźiśo, pśeglědajśo swój spamowy filter. Musyśo swój abonement "
 "wobkšuśiś, aby naš powěsćowy list dostał."
 
-#: main.lang:823
+#: main.lang:828
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Cytajśo wšykno wó tom w našom <span>powěsćowym lisće</span>"
 
-#: main.lang:827
+#: main.lang:832
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "

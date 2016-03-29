@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-01 16:12+0000\n"
+"POT-Creation-Date: 2016-03-29 18:12+0000\n"
 "PO-Revision-Date: 2016-02-15 23:24+0000\n"
 "Last-Translator: Mohomodou  Houssouba <mh@bollag-areal.ch>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -837,38 +837,43 @@ msgstr ""
 "Ay ga yadda kaŋ Mozilla m'ay boŋ alhabarey ka goy <a href=\"%s\">Sutura "
 "laadaa woo</a> bande"
 
-#. This string is used for a subscription field on other pages than /newsletter/
+#. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 #: main.lang:789
+msgid "Keep up with<br> all things Firefox."
+msgstr ""
+
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:794
 msgid "Get Firefox news"
 msgstr "Duu Firefox alhabarey"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:794
+#: main.lang:799
 msgid "YOUR EMAIL HERE"
 msgstr "WAR BATAGAA NE"
 
 #. Subscription Button
-#: main.lang:799
+#: main.lang:804
 msgid "Sign me up"
 msgstr "Ya mm'ay hantum"
 
-#: main.lang:803
+#: main.lang:808
 msgid "Select country"
 msgstr "Laama suuba"
 
-#: main.lang:807
+#: main.lang:812
 msgid "Available Languages"
 msgstr "Šenni barantey"
 
-#: main.lang:811
+#: main.lang:816
 msgid "We will only send you Mozilla-related information."
 msgstr "Mozilla-mise alhabarey de n'ir g'i sanba war še."
 
-#: main.lang:815
+#: main.lang:820
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr "Foo nda goy! War duuyan bataa guna ka war maa-hantumoo tabatandi."
 
-#: main.lang:819
+#: main.lang:824
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -878,11 +883,11 @@ msgstr ""
 "tabatandi. Nda war ši dii ya, war bataga žiiba gaŋaa guna. War maa-hantumoo "
 "mma hima ka tabatandi jina hala war ga duu ir alhabar batagaa."
 
-#: main.lang:823
+#: main.lang:828
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "War haya kul caw a ga ir <span>alhabar batagaa</span> ra"
 
-#: main.lang:827
+#: main.lang:832
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-01 16:12+0000\n"
+"POT-Creation-Date: 2016-03-29 18:12+0000\n"
 "PO-Revision-Date: 2015-07-15 15:00+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -836,38 +836,43 @@ msgid ""
 "Privacy Policy</a>"
 msgstr ""
 
-#. This string is used for a subscription field on other pages than /newsletter/
+#. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 #: main.lang:789
+msgid "Keep up with<br> all things Firefox."
+msgstr ""
+
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:794
 msgid "Get Firefox news"
 msgstr "Firefox செய்தியைப் பெறுக"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:794
+#: main.lang:799
 msgid "YOUR EMAIL HERE"
 msgstr ""
 
 #. Subscription Button
-#: main.lang:799
+#: main.lang:804
 msgid "Sign me up"
 msgstr "எனக்கு பதிவு பெறு"
 
-#: main.lang:803
+#: main.lang:808
 msgid "Select country"
 msgstr "நாட்டைத் தேர்வுசெய்யவும்"
 
-#: main.lang:807
+#: main.lang:812
 msgid "Available Languages"
 msgstr "கிடைக்கும் மொழிகள்"
 
-#: main.lang:811
+#: main.lang:816
 msgid "We will only send you Mozilla-related information."
 msgstr "Mozilla சம்பந்தமான தகவல்களை மட்டுமே நாங்கள் உங்களுக்கு அனுப்புவோம்."
 
-#: main.lang:815
+#: main.lang:820
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr "நன்றி! சந்தாவை உறுதிப்படுத்த தயவுசெய்து உங்கள் அஞ்சல் பெட்டியைப் பாருங்கள்."
 
-#: main.lang:819
+#: main.lang:824
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -878,11 +883,11 @@ msgstr ""
 "மின்னஞ்சல் வடிப்பானை சரிபார்க்கவும். செய்தி மடலைப் பெற நீங்கள் சந்தாவை கட்டாயம் "
 "உறுதிப்படுத்தியாக வேண்டும்."
 
-#: main.lang:823
+#: main.lang:828
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "அதைப் பற்றிய அனைத்தையும் எங்கள் <span>செய்திமடலில்</span> வாசிக்கவும்"
 
-#: main.lang:827
+#: main.lang:832
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "

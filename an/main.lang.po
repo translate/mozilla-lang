@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-01 16:12+0000\n"
+"POT-Creation-Date: 2016-03-29 18:12+0000\n"
 "PO-Revision-Date: 2015-09-17 13:23+0000\n"
 "Last-Translator: Juan Pablo Martínez <juanpabl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -835,39 +835,44 @@ msgstr ""
 "Soi d'acuerdo con que Mozilla maneye a mía información como s'explica en <a "
 "href=\"%s\">Politica de Privacidat</a>"
 
-#. This string is used for a subscription field on other pages than /newsletter/
+#. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 #: main.lang:789
+msgid "Keep up with<br> all things Firefox."
+msgstr ""
+
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:794
 msgid "Get Firefox news"
 msgstr "Aconsigue o boletín de Firefox"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:794
+#: main.lang:799
 msgid "YOUR EMAIL HERE"
 msgstr "O TUYO CORREU AQUÍ"
 
 #. Subscription Button
-#: main.lang:799
+#: main.lang:804
 msgid "Sign me up"
 msgstr "Fer-me una cuenta"
 
-#: main.lang:803
+#: main.lang:808
 msgid "Select country"
 msgstr "Triga un país"
 
-#: main.lang:807
+#: main.lang:812
 msgid "Available Languages"
 msgstr "Luengas disponibles"
 
-#: main.lang:811
+#: main.lang:816
 msgid "We will only send you Mozilla-related information."
 msgstr "Nomás le ninviaremos información tocant a Mozilla."
 
-#: main.lang:815
+#: main.lang:820
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr ""
 "Gracias! Compreba a tuya servilla de dentrada ta confirmar a tuya conduta."
 
-#: main.lang:819
+#: main.lang:824
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -877,11 +882,11 @@ msgstr ""
 "tuya conduta. Si no lo veyes, compreba o suyo filtro de spam. Has de "
 "confirmar a conduta ta recibir o boletín."
 
-#: main.lang:823
+#: main.lang:828
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Leye-lo tot en o nuestro <span>boletín</span>"
 
-#: main.lang:827
+#: main.lang:832
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "

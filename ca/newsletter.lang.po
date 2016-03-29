@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-28 12:32+0000\n"
+"POT-Creation-Date: 2016-03-29 18:12+0000\n"
 "PO-Revision-Date: 2015-04-14 18:41+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -329,30 +329,7 @@ msgstr ""
 "Afegiu la nostra adreça mozilla@e.mozilla.org a l'agenda per assegurar-vos "
 "que els nostres missatges sempre arribaran a la safata d'entrada."
 
-#. This string is used for a subscription field on other pages than /newsletter/
-#: newsletter.lang:256
-msgid "Get Firefox news"
-msgstr "Rebeu notícies del Firefox"
-
-#. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: newsletter.lang:261
-msgid "YOUR EMAIL HERE"
-msgstr "LA VOSTRA ADREÇA ELECTRÒNICA AQUÍ"
-
-#. Button
-#: newsletter.lang:266
-msgid "Sign me up"
-msgstr "Subscriu-m'hi"
-
-#: newsletter.lang:270
-msgid ""
-"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
-"Privacy Policy</a>"
-msgstr ""
-"Accepto que Mozilla gestioni la meva informació en els termes descrits en <a "
-"href=\"%s\">la Política de Privadesa</a>"
-
-#: newsletter.lang:274
+#: newsletter.lang:255
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
@@ -360,86 +337,86 @@ msgstr ""
 "L'enllaç facilitat ha caducat.  En rebreu un de nou amb el pròxim butlletí "
 "de notícies."
 
-#: newsletter.lang:278
+#: newsletter.lang:259
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr "Alguna cosa no va bé al nostre sistema. Proveu-ho de nou més tard."
 
-#: newsletter.lang:282
+#: newsletter.lang:263
 msgid "English&nbsp;only"
 msgstr "Només&nbsp;en&nbsp;anglès"
 
-#: newsletter.lang:286
+#: newsletter.lang:267
 msgid "Newsletter Subscriptions"
 msgstr "Subscripcions al butlletí de notícies"
 
-#: newsletter.lang:290
+#: newsletter.lang:271
 msgid "Newsletter confirm"
 msgstr "Confirmació del butlletí de notícies"
 
-#: newsletter.lang:294
+#: newsletter.lang:275
 msgid "Format:"
 msgstr "Format:"
 
-#: newsletter.lang:298
+#: newsletter.lang:279
 msgid "You’ve been unsubscribed."
 msgstr "S'ha cancel·lat la vostra subscripció"
 
-#: newsletter.lang:302
+#: newsletter.lang:283
 msgid "We’re sorry to see you go."
 msgstr "Ens sap greu que marxeu."
 
-#: newsletter.lang:306
+#: newsletter.lang:287
 msgid "Would you mind telling us why you’re leaving?"
 msgstr "Ens podríeu dir per què marxeu?"
 
-#: newsletter.lang:310
+#: newsletter.lang:291
 msgid "Other…"
 msgstr "Altres…"
 
-#: newsletter.lang:314
+#: newsletter.lang:295
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr ""
 "Ja que sou aquí, per què no feu una ullada a altres coses fantàstiques del "
 "Firefox?"
 
-#: newsletter.lang:318
+#: newsletter.lang:299
 msgid "Get up and go"
 msgstr "Poseu-vos en marxa"
 
-#: newsletter.lang:322
+#: newsletter.lang:303
 msgid "It’s your Web anywhere you go."
 msgstr "És el vostre web arreu"
 
-#: newsletter.lang:326
+#: newsletter.lang:307
 msgid "Get Firefox for mobile!"
 msgstr "Baixeu el Firefox per al mòbil"
 
-#: newsletter.lang:330
+#: newsletter.lang:311
 msgid "Added extras"
 msgstr "Extres afegits"
 
-#: newsletter.lang:334
+#: newsletter.lang:315
 msgid "Make Firefox do more with add-ons."
 msgstr "Feu que el Firefox sigui més productiu amb els complements."
 
-#: newsletter.lang:338
+#: newsletter.lang:319
 msgid "Find out how!"
 msgstr "Descobriu com!"
 
-#: newsletter.lang:342
+#: newsletter.lang:323
 msgid "About us"
 msgstr "Quant a Mozilla"
 
-#: newsletter.lang:346
+#: newsletter.lang:327
 msgid "What’s Mozilla all about?"
 msgstr "Què és això de Mozilla?"
 
-#: newsletter.lang:350
+#: newsletter.lang:331
 msgid "We’re glad you asked!"
 msgstr "Ens plau que ho hagis preguntat!"
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:355
+#: newsletter.lang:336
 msgid ""
 "A monthly newsletter packed with tips to improve your Firefox experience."
 msgstr ""
@@ -447,33 +424,33 @@ msgstr ""
 "experiència al Firefox."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:360
+#: newsletter.lang:341
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr ""
 "Notícies, consells, informació del llançament i de compra del Firefox OS."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:365
+#: newsletter.lang:346
 msgid "Be the first to know when Firefox is available for iOS devices."
 msgstr ""
 "Sigueu el primer en saber quan és disponible el Firefox per als dispositius "
 "iOS."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:370
+#: newsletter.lang:351
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr ""
 "Descobriu les aplicacions HTML5 més recents i interessants del Firefox OS."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:375
+#: newsletter.lang:356
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr ""
 "Rebeu un consell setmanal per saber com millorar la vostra experiència al "
 "Firefox."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:380
+#: newsletter.lang:361
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
@@ -482,31 +459,47 @@ msgstr ""
 "abans de la versió final."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:385
+#: newsletter.lang:366
 msgid "News from the Mozilla Project."
 msgstr "Notícies del Projecte Mozilla."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:390
+#: newsletter.lang:371
 msgid "Periodic email updates about our annual international film competition."
 msgstr ""
 "Actualitzacions periòdiques per correu electrònic sobre el nostre concurs "
 "internacional de cinema anual."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:395
+#: newsletter.lang:376
 msgid "Email updates for vouched Mozillians on mozillians.org."
 msgstr ""
 "Actualitzacions per correu electrònic per als mozil·lians de mozillians.org."
 
 #. Description for the newsletter in Newsletter subscription page
-#: newsletter.lang:400
+#: newsletter.lang:381
 msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
 msgstr ""
 "Programa universitari anterior (2008-2011), actualment retirat i tornat a "
 "llançar com a Programa d'estudiants ambaixadors del Firefox."
+
+#~ msgid "Get Firefox news"
+#~ msgstr "Rebeu notícies del Firefox"
+
+#~ msgid "YOUR EMAIL HERE"
+#~ msgstr "LA VOSTRA ADREÇA ELECTRÒNICA AQUÍ"
+
+#~ msgid "Sign me up"
+#~ msgstr "Subscriu-m'hi"
+
+#~ msgid ""
+#~ "I’m okay with Mozilla handling my info as explained in <a href=\"%s"
+#~ "\">this Privacy Policy</a>"
+#~ msgstr ""
+#~ "Accepto que Mozilla gestioni la meva informació en els termes descrits en "
+#~ "<a href=\"%s\">la Política de Privadesa</a>"
 
 #~ msgid "Text"
 #~ msgstr "Text"

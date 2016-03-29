@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-01 16:12+0000\n"
+"POT-Creation-Date: 2016-03-29 18:12+0000\n"
 "PO-Revision-Date: 2016-03-19 10:03+0000\n"
 "Last-Translator: umesh agarwal <umesh.agarwal1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1458381796.000000\n"
 
 #: main.lang:1
@@ -835,38 +835,43 @@ msgstr ""
 " Mozilla से में ख़ुश हु जेसे इसने मेरी जानकारी को सम्भाले रखा है | जेसा इस गोपनीय <a href="
 "\"%s\">नीति में समझाया गया है</a>"
 
-#. This string is used for a subscription field on other pages than /newsletter/
+#. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 #: main.lang:789
+msgid "Keep up with<br> all things Firefox."
+msgstr ""
+
+#. This string is used for a subscription field on other pages than /newsletter/
+#: main.lang:794
 msgid "Get Firefox news"
 msgstr " फायरफोक्स समाचार पाएं"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:794
+#: main.lang:799
 msgid "YOUR EMAIL HERE"
 msgstr "यहाँ आपका ईमेल"
 
 #. Subscription Button
-#: main.lang:799
+#: main.lang:804
 msgid "Sign me up"
 msgstr " मुझे साइनअप करें"
 
-#: main.lang:803
+#: main.lang:808
 msgid "Select country"
 msgstr " देश चुनें"
 
-#: main.lang:807
+#: main.lang:812
 msgid "Available Languages"
 msgstr " उपलब्ध भाषाएँ"
 
-#: main.lang:811
+#: main.lang:816
 msgid "We will only send you Mozilla-related information."
 msgstr " हम आपको केवल मोज़िला संबंधित जानकारी भेजेंगे."
 
-#: main.lang:815
+#: main.lang:820
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr " धन्यवाद ! कृपया अपना इनबॉक्स जाँचें अपना सब्सक्रिप्शन पक्का करने के लिए."
 
-#: main.lang:819
+#: main.lang:824
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -876,11 +881,11 @@ msgstr ""
 "आप इसे ना देखे, फ़र्जी फ़िल्टर जाँचें. आपको सब्सक्रिप्शन अवस्य पक्का करना चाहिये न्युजलेटर "
 "प्राप्त करने के लिये |"
 
-#: main.lang:823
+#: main.lang:828
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr " इन सबके बारे में पूरा हमारे <span>समाचार</span> पत्र में पढ़े"
 
-#: main.lang:827
+#: main.lang:832
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
