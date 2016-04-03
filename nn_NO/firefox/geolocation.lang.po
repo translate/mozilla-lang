@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2016-03-14 01:38+0000\n"
+"PO-Revision-Date: 2016-04-03 18:05+0000\n"
 "Last-Translator: Bjørn I. Svindseth <bjorn.svindseth@online.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1457919489.000000\n"
+"X-POOTLE-MTIME: 1459706727.000000\n"
 
 #: firefox/geolocation.lang:6
 msgid "Geolocation in Firefox"
@@ -29,6 +29,10 @@ msgid ""
 "is done in a way that totally respects your privacy. <a href=\"%(url)s\" id="
 "\"%(id)s\" style=\"%(style)s\">Give it a try!</a>"
 msgstr ""
+"Firefox kan fortelja nettsider kor du oppheld deg, slik at du kan finna info "
+"som er meir relevant og nyttig. Det handlar om å gjera nettet smartare "
+"&ndash; og det vert gjort på ein måte som respekterer personvernet ditt. <a "
+"href=\"%(url)s\" id=\"%(id)s\" style=\"%(style)s\">Prøv det!</a>"
 
 #: firefox/geolocation.lang:18
 msgid "Frequently asked Questions"
@@ -36,7 +40,7 @@ msgstr "Ofte stilte spørsmål (FAQ)"
 
 #: firefox/geolocation.lang:22
 msgid "What is Location-Aware Browsing?"
-msgstr ""
+msgstr "Kva er stadavhengig nettlesing?"
 
 #: firefox/geolocation.lang:26
 msgid ""
@@ -88,7 +92,7 @@ msgstr ""
 
 #: firefox/geolocation.lang:54
 msgid "How accurate are the locations?"
-msgstr ""
+msgstr "Kor nøyaktige er plasseringane?"
 
 #: firefox/geolocation.lang:58
 msgid ""
@@ -104,6 +108,8 @@ msgstr ""
 msgid ""
 "What information is being sent, and to whom? How is my privacy protected?"
 msgstr ""
+"Kva for informasjon vert sendt, og til kven? Korleis vert personvernet mitt "
+"teke vare på?"
 
 #: firefox/geolocation.lang:66
 msgid ""
@@ -182,7 +188,7 @@ msgstr ""
 
 #: firefox/geolocation.lang:118
 msgid "Am I being tracked as I browse the web?"
-msgstr ""
+msgstr "Vert eg spora når eg surfar på nettet?"
 
 #: firefox/geolocation.lang:122
 msgid ""
@@ -193,7 +199,7 @@ msgstr ""
 
 #: firefox/geolocation.lang:126
 msgid "How do I undo a permission granted to a site?"
-msgstr ""
+msgstr "Korleis trekkjer eg tilbake løyve eg har gjeve til ein nettstad?"
 
 #: firefox/geolocation.lang:130
 msgid ""
@@ -241,7 +247,7 @@ msgstr ""
 
 #: firefox/geolocation.lang:170
 msgid "How do I turn off Location-Aware Browsing permanently?"
-msgstr ""
+msgstr "Korleis slår eg permanent av stadavhengig nettlesing?"
 
 #: firefox/geolocation.lang:174
 msgid ""
@@ -269,6 +275,7 @@ msgstr ""
 #: firefox/geolocation.lang:195
 msgid "How can I add support for Geolocation to my web site?"
 msgstr ""
+"Korleis kan eg leggja til støtte for geolokalisering på nettstaden min?"
 
 #. Link points to https://developer.mozilla.org/docs/Web/API/Geolocation/Using_geolocation
 #: firefox/geolocation.lang:201
@@ -276,6 +283,9 @@ msgid ""
 "You can integrate Geolocation support into your service by following the "
 "instruction at <a href=\"%(url)s\">Mozilla Developer Center</a>."
 msgstr ""
+"Du kan integrera støtte for geolokalisering med di teneste ved å følgja "
+"rettleiinga på <a href=\"%(url)s\">Mozillas sitt senter for utviklarar, MDN</"
+"a>."
 
 #: firefox/geolocation.lang:205
 msgid "Where am I?"
@@ -283,4 +293,4 @@ msgstr "Kvar er eg?"
 
 #: firefox/geolocation.lang:209
 msgid "Oops! An error occurred while trying to determine your position."
-msgstr ""
+msgstr "Ojsann! Det oppstod ein feil då vi freista å finna plasseringa di."
