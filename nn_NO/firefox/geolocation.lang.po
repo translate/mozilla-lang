@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2016-04-03 18:05+0000\n"
+"PO-Revision-Date: 2016-04-03 18:47+0000\n"
 "Last-Translator: Bjørn I. Svindseth <bjorn.svindseth@online.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1459706727.000000\n"
+"X-POOTLE-MTIME: 1459709247.000000\n"
 
 #: firefox/geolocation.lang:6
 msgid "Geolocation in Firefox"
@@ -124,26 +124,32 @@ msgid ""
 "By default, Firefox uses Google Location Services to determine your location "
 "by sending:"
 msgstr ""
+"Som standard brukar Firefox tenesta Google Location Services for å finna ut "
+"kvar du er ved å sende:"
 
 #: firefox/geolocation.lang:74
 msgid "your computer’s IP address,"
-msgstr ""
+msgstr "IP-adressa til datamaskina di, "
 
 #: firefox/geolocation.lang:78
 msgid "information about the nearby wireless access points, and"
-msgstr ""
+msgstr "informasjon om trådlause aksesspunkter i nærleiken, og "
 
 #: firefox/geolocation.lang:82
 msgid ""
 "a random client identifier, which is assigned by Google, that expires every "
 "2 weeks."
 msgstr ""
+"ein tilfeldig vald klientidentifikator som vert tildelt av Google, som "
+"forfell annakvar veke."
 
 #: firefox/geolocation.lang:86
 msgid ""
 "For a complete description of information collected and used by Firefox, "
 "please see the <a href=\"%(url)s\">Firefox Privacy Notice</a>."
 msgstr ""
+"For ei fullstendig skildring av informasjonen som vert samla inn og brukt av "
+"Firefox, sjå <a href=\"%(url)s\">Firefox si personvernfråsegn</a> (engelsk)."
 
 #: firefox/geolocation.lang:90
 msgid ""
