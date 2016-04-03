@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2016-04-03 18:47+0000\n"
+"PO-Revision-Date: 2016-04-03 19:44+0000\n"
 "Last-Translator: Bjørn I. Svindseth <bjorn.svindseth@online.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1459709247.000000\n"
+"X-POOTLE-MTIME: 1459712676.000000\n"
 
 #: firefox/geolocation.lang:6
 msgid "Geolocation in Firefox"
@@ -158,6 +158,10 @@ msgid ""
 "and used by Google, please see the <a href=\"%(url)s\" class=\"%(class)s"
 "\">Google Geolocation Privacy Policy</a>."
 msgstr ""
+"Google Location Services returnerer den estimerte posisjonen din (t.d. "
+"lengde- og breiddegrad). For ei komplett skildring av informasjonen som vert "
+"samla inn og brukt av Google, sjå <a href=\"%(url)s\" class=\"%(class)s"
+"\">Google Geolocation-personvernpraksis</a> (engelsk)."
 
 #: firefox/geolocation.lang:94
 msgid ""
@@ -224,32 +228,32 @@ msgstr ""
 
 #: firefox/geolocation.lang:142
 msgid "Select the <em>Permissions</em> tab"
-msgstr ""
+msgstr "Vel <em>Løyve</em>-fana"
 
 #: firefox/geolocation.lang:146
 msgid "Change the setting for <em>Share Location</em>"
-msgstr ""
+msgstr "Endra innstillinga for <em>Dela plassering</em>"
 
 #: firefox/geolocation.lang:150
 msgid "How do I clear the “random client identification number”?"
-msgstr ""
+msgstr "Korleis slettar eg ‹‹tilfeldig vald klientidentifikator››?"
 
 #: firefox/geolocation.lang:154
 msgid ""
 "Go to the <em>Tools</em> menu, then select <em>Clear Recent History</em>"
-msgstr ""
+msgstr "Gå til <em>Verkty</em> -menyen, og vel <em>Slett nyleg historikk</em>"
 
 #: firefox/geolocation.lang:158
 msgid "Click the <em>Details</em> arrow"
-msgstr ""
+msgstr "Trykk på pila <em>Detaljar</em>"
 
 #: firefox/geolocation.lang:162
 msgid "Ensure that <em>Cookies</em> is selected"
-msgstr ""
+msgstr "Kontroller at <em>Infokapslar</em> er valt"
 
 #: firefox/geolocation.lang:166
 msgid "Click on <em>Clear Now</em>"
-msgstr ""
+msgstr "Trykk på <em>Slett no</em>"
 
 #: firefox/geolocation.lang:170
 msgid "How do I turn off Location-Aware Browsing permanently?"
@@ -264,19 +268,19 @@ msgstr ""
 
 #: firefox/geolocation.lang:178
 msgid "In the URL bar, type <code>about:config</code>"
-msgstr ""
+msgstr "Skriv <code>about:config</code> i adresselinja og trykk Enter"
 
 #: firefox/geolocation.lang:182
 msgid "Type <code>geo.enabled</code>"
-msgstr ""
+msgstr "Skriv inn <code>geo.enabled</code>"
 
 #: firefox/geolocation.lang:186
 msgid "Double click on the <em>geo.enabled</em> preference"
-msgstr ""
+msgstr "Dobbelklikk på innstillinga <em>geo.enabled</em>"
 
 #: firefox/geolocation.lang:190
 msgid "Location-Aware Browsing is now disabled"
-msgstr ""
+msgstr "Stadavhengig nettlesing er no slått av"
 
 #: firefox/geolocation.lang:195
 msgid "How can I add support for Geolocation to my web site?"
