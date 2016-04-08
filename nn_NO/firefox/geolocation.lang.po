@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2016-04-03 20:27+0000\n"
+"PO-Revision-Date: 2016-04-08 19:07+0000\n"
 "Last-Translator: Bjørn I. Svindseth <bjorn.svindseth@online.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1459715247.000000\n"
+"X-POOTLE-MTIME: 1460142437.000000\n"
 
 #: firefox/geolocation.lang:6
 msgid "Geolocation in Firefox"
@@ -51,6 +51,12 @@ msgid ""
 "“pizza” will bring you the answers you need... no further information or "
 "extra typing required."
 msgstr ""
+"Nettsider som brukar stadavhengig nettlesing spør deg om kor du er, for å "
+"kunne gi deg meir relevant informasjon, eller for å spara deg bryet med å "
+"søka. Til dømes, dersom du leitar etter ein pizzarestaurant i området ditt. "
+"Ein nettstad vil kunne spørja deg om å dela informasjon om kor du er, slik "
+"at dersom du berre søkjer etter «pizza» så får du opp resultatet du leitar "
+"etter... ingen annen informasjon eller skriving er nødvendig."
 
 #: firefox/geolocation.lang:30
 msgid ""
@@ -58,6 +64,8 @@ msgid ""
 "where you’re starting from so all you have to do is tell it where you want "
 "to go."
 msgstr ""
+"Eller dersom du planlegg ei reiserute, så vil nettstaden automatisk vita kor "
+"du startar frå. Alt du treng er å spesifisera er kor du ynskjer å reisa til."
 
 #: firefox/geolocation.lang:34
 msgid ""
@@ -66,6 +74,11 @@ msgid ""
 "privacy. And, like all elements of Firefox, it’s being created using open "
 "standards to ease adoption by Web developers."
 msgstr ""
+"Denne tenesta er heilt valfri &ndash; Firefox deler ikkje informasjon om kor "
+"du er utan at du gjev løyve til det &ndash; og dette vert gjort med aller "
+"største respekt for personvernet ditt. Og, som med alle delane av Firefox, "
+"er denne funksjonen bygd på opne standardar for at han enkelt kan brukast av "
+"nettstadsutviklarar."
 
 #: firefox/geolocation.lang:38
 msgid "How does it work?"
@@ -76,6 +89,8 @@ msgid ""
 "When you visit a location-aware website, Firefox will ask you if you want to "
 "share your location."
 msgstr ""
+"Når du besøkjer ein stadavhengig nettstad vil Firefox spørja deg om du "
+"ynsker å dela informasjon om kvar du ovil dela plasseringa di."
 
 #: firefox/geolocation.lang:46
 msgid ""
@@ -89,6 +104,8 @@ msgstr ""
 #: firefox/geolocation.lang:50
 msgid "If you say that you do not consent, Firefox will not do anything."
 msgstr ""
+"Dersom du ikkje godtek førespurnaden frå nettstaden vil ikkje Firefox gjera "
+"noko."
 
 #: firefox/geolocation.lang:54
 msgid "How accurate are the locations?"
@@ -177,16 +194,20 @@ msgid ""
 "Neither Mozilla or Google will ever use the information collected by Google "
 "Location Services to identify or spy on you."
 msgstr ""
+"Korkje Mozilla eller Google vil nokon gong bruka informasjonen som Google "
+"Location Services samlar opp til å identifisdera eller spionera på deg."
 
 #: firefox/geolocation.lang:102
 msgid ""
 "For information about what the requesting website does with your location "
 "information, please refer to that website’s privacy policy."
 msgstr ""
+"For informasjon om kva nettstadar som spør etter stadinformasjon gjer med "
+"han, les nettstadane sine eigne personvernpraksis."
 
 #: firefox/geolocation.lang:106
 msgid "For more information about your privacy, you should also read:"
-msgstr ""
+msgstr "For meir informasjon om personvernet ditt, les òg:"
 
 #: firefox/geolocation.lang:110
 msgid "Mozilla Firefox Privacy Notice"
@@ -217,10 +238,13 @@ msgid ""
 "and later change your mind, you can easily revoke that permission. Here's "
 "how:"
 msgstr ""
+"Dersom du har gjeve Firefox løyve til å alltid spesifisera stadinformasjon "
+"til ein nettstad, og du  seinare endrar meining, kan du enkelt oppheva den "
+"tilgangen. Her viser vi deg korleis:"
 
 #: firefox/geolocation.lang:134
 msgid "Navigate to the site to which you’ve given permission"
-msgstr ""
+msgstr "Gå til nettstaden som du har gjeve tilgang til"
 
 #: firefox/geolocation.lang:138
 msgid "Go to the <em>Tools</em> menu, then select <em>Page Info</em>"
@@ -265,6 +289,9 @@ msgid ""
 "is ever sent without your permission. If you wish to disable the feature "
 "completely, please follow this set of steps:"
 msgstr ""
+"Stadavhengig nettlesing er alltid ein funksjon du må slå på sjølv i Firefox. "
+"Ingen stadinformasjon vert sendt utan at du gjev løyve til det. Dersom du "
+"ynskjer å slå av funksjonen fullstendig kan du gjera følgande:"
 
 #: firefox/geolocation.lang:178
 msgid "In the URL bar, type <code>about:config</code>"
