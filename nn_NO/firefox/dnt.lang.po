@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2016-04-08 15:07+0000\n"
+"PO-Revision-Date: 2016-04-08 15:38+0000\n"
 "Last-Translator: Bjørn I. Svindseth <bjorn.svindseth@online.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1460128058.000000\n"
+"X-POOTLE-MTIME: 1460129932.000000\n"
 
 #: firefox/dnt.lang:5
 msgid ""
@@ -191,9 +191,8 @@ msgid ""
 "On Mac OS X, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to "
 "Edit &gt; Preferences &gt; Privacy."
 msgstr ""
-"I Mac OS X: gå til <em>Innstillningar</em> &gt; <em>Personvern</em>. I "
-"Linux: gå til <em>Rediger</em> &gt; <em>Innstillningar</em> &gt; "
-"<em>Personvern</em>."
+"I Mac OS X: gå til Firefox, Innstillningar … og så til Personvern. I Linux: "
+"gå til Rediger, Innstillningar og så til Personvern."
 
 #: firefox/dnt.lang:89
 msgid ""
@@ -201,6 +200,9 @@ msgid ""
 "tracked&quot;. For more information, see the help file on <a href=\"%(url)s"
 "\">how to stop websites from tracking you</a>."
 msgstr ""
+"Klikk for å markera alternativet &quot;Fortel nettsider at eg ikkje vil bli "
+"spora&quot;. For meir informasjon, sjå hjelpefila på <a href=\"%(url)s"
+"\">korleis stoppa nettsider frå å spora deg</a>."
 
 #: firefox/dnt.lang:93
 msgid "Will companies honor my Do Not Track preference?"
@@ -226,19 +228,24 @@ msgstr "Kvar kan eg læra meir?"
 
 #: firefox/dnt.lang:105
 msgid "Other interesting work about Do Not Track and online privacy:"
-msgstr ""
+msgstr "Interessante arbeid om Do Not Track (Ikkje spor) og personvern:"
 
 #: firefox/dnt.lang:109
 msgid ""
 "<a href=\"%s\">Private browsing</a> in Firefox &#8212; limits saving data "
 "about which sites and pages you have visited online"
 msgstr ""
+"<a href=\"%s\">Privat nettlesing</a> i Firefox &#8212; avgrensar lagring av "
+"data om kva for nettstadar og sider du har vitja på nettet."
 
 #: firefox/dnt.lang:113
 msgid ""
 "<a href=\"%(url1)s\">Managing cookies</a> in Firefox &#8212; lets you "
 "control how <a href=\"%(url2)s\">cookies</a> are saved on your computer"
 msgstr ""
+"<a href=\"%(url1)s\">Handsaming av infokapslar</a> i Firefox &#8212; lèt deg "
+"kontrollera korleis <a href=\"%(url2)s\">infokapslar</a> vert lagra på "
+"datamaskina di"
 
 #: firefox/dnt.lang:117
 msgid ""
@@ -262,20 +269,28 @@ msgid ""
 "The Tracking Preference Expression (DNT) <a href=\"%s\">W3C Editor’s Draft</"
 "a>"
 msgstr ""
+"<a href=\"%s\">The Tracking Preference Expression (DNT)</a> &#8212; eit "
+"redaktsjonsforslag, Editor’s Draft, frå W3C (på engelsk)"
 
 #: firefox/dnt.lang:129
 msgid "Tracking Compliance and Scope <a href=\"%s\">W3C Editor’s Draft</a>"
 msgstr ""
+"<a href=\"%s\">Tracking Compliance and Scope</a> &#8212; eit "
+"redaksjonsforslag, Editor’s Draft, frå W3C (på engelsk)"
 
 #: firefox/dnt.lang:133
 msgid "The W3C <a href=\"%s\">Tracking Protection Working Group</a>"
 msgstr ""
+"Arbeidsgruppa for sporingsvern, <a href=\"%s\">Tracking Protection Working "
+"Group</a>, ved W3C (på engelsk)"
 
 #: firefox/dnt.lang:137
 msgid ""
 "<a href=\"%s\">Ghostery</a> &#8212; a tool that lets you learn which sites "
 "are tracking you online"
 msgstr ""
+"<a href=\"%s\">Ghostery</a> &#8212; eit verkty som lèt deg få greie på kva "
+"for nettstadar som sporar deg på nettet (på engels)"
 
 #: firefox/dnt.lang:141
 msgid ""
@@ -291,6 +306,11 @@ msgid ""
 "IETF</a> &#8212; IETF is a standards body that helps define how the Web "
 "works, regardless of which Internet browser you use"
 msgstr ""
+"Mozillas og Stanforduniversitetet si skildring av Do Not Track, <a href="
+"\"%(url)s\">som det vart lagt fram i IETF</a> &#8212;. IETF (Internet "
+"Engineering Task Force) er eit standardiseringsorgan, som hjelper til med å "
+"definiera korleis Internet skal fungera, same kva for nettlesar du brukar "
+"(på engelsk)"
 
 #: firefox/dnt.lang:149
 msgid "Enable Do Not Track in Firefox"
