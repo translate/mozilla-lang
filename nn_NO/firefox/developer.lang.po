@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-07 13:12+0000\n"
-"PO-Revision-Date: 2016-04-08 12:06+0000\n"
+"PO-Revision-Date: 2016-04-08 13:04+0000\n"
 "Last-Translator: Bjørn I. Svindseth <bjorn.svindseth@online.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1460117181.000000\n"
+"X-POOTLE-MTIME: 1460120666.000000\n"
 
 #. Used as page description (HTML meta tag)
 #: firefox/developer.lang:8
@@ -228,45 +228,51 @@ msgstr "Les meir om Web Audio Editor"
 
 #: firefox/developer.lang:167
 msgid "Page Inspector"
-msgstr ""
+msgstr "Sidegranskar (Page Inspector)"
 
 #: firefox/developer.lang:171
 msgid ""
 "Examine the HTML and CSS of any Web page and easily modify the structure and "
 "layout of a page."
 msgstr ""
+"Undersøk HTML- og CSS-koden i kva nettside som helst og endra strukturen og "
+"utforminga (layout) deira."
 
 #: firefox/developer.lang:175
 msgid "Learn more about Page Inspector"
-msgstr ""
+msgstr "Les meir om Sideinnspektøren (Page Inspector)"
 
 #: firefox/developer.lang:179
 msgid "Web Console"
-msgstr "Webbkonsoll"
+msgstr "Vevkonsoll (Web Console)"
 
 #: firefox/developer.lang:183
 msgid ""
 "See logged information associated with a Web page and use Web Console to "
 "interact with Web pages using JavaScript."
 msgstr ""
+"Sjå logga informasjon om ei nettside og bruk vevkonsollen (Web Console) for "
+"å samhandle (interact) med nettsider ved å bruka JavaScript."
 
 #: firefox/developer.lang:187
 msgid "Learn more about Web Console"
-msgstr "Les meir om webbkonsoll"
+msgstr "Les meir om Vevkonsollen (Web Console)"
 
 #: firefox/developer.lang:191
 msgid "JavaScript Debugger"
-msgstr "JavaScript-debuggar"
+msgstr "JavaScript Debugger"
 
 #: firefox/developer.lang:195
 msgid ""
 "Step through JavaScript code and examine or modify its state to help track "
 "down bugs."
 msgstr ""
+"Gå steg for steg gjennom JavaScript-koden og undersøk eller endra tilstanden "
+"for å leita etter og finna feil."
 
 #: firefox/developer.lang:199
 msgid "Learn more about JavaScript Debugger"
-msgstr ""
+msgstr "Les meir om feilrettaren for JavaScript (JavaScript Debugger)"
 
 #: firefox/developer.lang:203
 msgid "Network Monitor"
@@ -277,10 +283,12 @@ msgid ""
 "See all the network requests your browser makes, how long each request takes "
 "and details of each request."
 msgstr ""
+"Sjå alle nettverksførespurnadane frå nettlesaren din, kor lang tid kvar "
+"førespurnaden tek og detalinformasjon om kvar av dei."
 
 #: firefox/developer.lang:211
 msgid "Learn more about Network Monitor"
-msgstr ""
+msgstr "Les meir om Nettverksovervakaren  (Network Monitor)"
 
 #: firefox/developer.lang:215
 msgid "Style Editor"
@@ -291,6 +299,8 @@ msgid ""
 "View and edit CSS styles associated with a Web page, create new ones and "
 "apply existing CSS stylesheets to any page."
 msgstr ""
+"Vis og rediger CSS-stilar knytt til ei nettside, lag nye og apply "
+"eksisterande CSS-stilsett (stylesheet) til kva side som helst."
 
 #: firefox/developer.lang:223
 msgid "Learn more about Style Editor"
@@ -317,6 +327,8 @@ msgid ""
 "The most complete browser made just for developers, Firefox Developer "
 "Edition has every dev tool you’ll need built right in."
 msgstr ""
+"Firefox Developer Edition har alle utviklarverktya som du treng innebygde. "
+"Det er den mest komplette nettlesaren for utviklarar som deg."
 
 #. OBSOLETE STRING
 #: firefox/developer.lang:248
@@ -334,6 +346,8 @@ msgid ""
 "Develop, deploy and debug Firefox OS apps directly in your browser or on a "
 "Firefox OS device."
 msgstr ""
+"Utvikla, distribuer og feilsøk Firefox OS-appar direkte i nettlesaren din "
+"eller på ei Firefox OS-eining."
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:263
@@ -352,6 +366,9 @@ msgid ""
 "bookmarks, browsing history, passwords and more from your existing Firefox "
 "profile."
 msgstr ""
+"Synkroniser den nye profilen din for Developer Edition med Firefox-kontoen "
+"din for å få tilgang til bokmerke, nettlesarhistorikk, passord og mykje meir "
+"frå den eksisterande Firefox-profilen din."
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:278
@@ -366,7 +383,7 @@ msgstr "Nei takk"
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:288
 msgid "Before you go&hellip;"
-msgstr ""
+msgstr "Før du går&hellip;"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:293
@@ -375,11 +392,14 @@ msgid ""
 "could lose access to important browsing data from your existing Firefox "
 "profile."
 msgstr ""
+"Om du held fram utan å synkronisera den nye Developer Edition-profilen din, "
+"kan du mista tilgang til viktige nettlesardata frå den eksisterande Firefox-"
+"profilen din."
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:298
 msgid "To sync now, choose the Sync option from this menu."
-msgstr ""
+msgstr "Vel alternativet Sync frå denne menyen for å synkronisera no."
 
 #: firefox/developer.lang:302
 msgid "Welcome to <span>Firefox Developer Edition</span>"
@@ -402,12 +422,16 @@ msgid ""
 "Developer Edition comes with a new profile so you can run it alongside other "
 "versions of Firefox."
 msgstr ""
+"Developer Edition kjem med ein ny profil, slik at du kan køyra han parallelt "
+"med andre versjonar av Firefox."
 
 #: firefox/developer.lang:318
 msgid ""
 "To access your bookmarks, browsing history and more, you need to sync the "
 "profile with your existing Firefox Account, or create a new one."
 msgstr ""
+"For å få tilganf til bokmerke, nettlesarhistorikk og anna informasjon, må du "
+"synkronisera profilen din med den eksisterande kontoen din eller laga ein ny."
 
 #: firefox/developer.lang:322
 msgid "Want the old look back?"
