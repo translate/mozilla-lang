@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-06-28 20:07+0000\n"
+"PO-Revision-Date: 2016-04-12 19:23+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ga_IE\n"
@@ -13,8 +13,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
 "(n>6 && n<11) ? 3 : 4;;\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1435522051.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1460489002.000000\n"
 
 #: privacy/index.lang:4
 msgid "Mozilla Privacy"
@@ -35,7 +35,6 @@ msgid "Data Privacy Principles"
 msgstr "Bunphrionsabail Phríobháideachais Sonraí"
 
 #: privacy/index.lang:20
-#, fuzzy
 msgid ""
 "Mozilla is an open source project with a mission to improve your Internet "
 "experience. This is a driving force behind our data privacy practices. <a "
@@ -43,7 +42,7 @@ msgid ""
 msgstr ""
 "Is togra foinse oscailte é Mozilla, agus an misean atá againn ná feabhas a "
 "chur ar do shaol ar líne. Is é an misean seo atá taobh thiar dár "
-"bprionsabail phríobháideachais."
+"bprionsabail phríobháideachais. <a href=\"%(link)s\">Tuilleadh Eolais</a>"
 
 #: privacy/index.lang:24
 msgid "Our Privacy Notices"
