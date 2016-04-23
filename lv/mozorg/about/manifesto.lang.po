@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2016-04-21 19:07+0000\n"
+"PO-Revision-Date: 2016-04-21 19:47+0000\n"
 "Last-Translator: Jānis Marks Gailis <jm-gailis@fai-vianet.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
 "2);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1461265642.000000\n"
+"X-POOTLE-MTIME: 1461268037.000000\n"
 
 #: mozorg/about/manifesto.lang:7
 msgid "The Mozilla Manifesto"
@@ -89,7 +89,7 @@ msgstr ""
 
 #: mozorg/about/manifesto.lang:82
 msgid "02"
-msgstr ""
+msgstr "02"
 
 #: mozorg/about/manifesto.lang:86
 msgid ""
@@ -121,7 +121,7 @@ msgstr ""
 
 #: mozorg/about/manifesto.lang:117
 msgid "03"
-msgstr ""
+msgstr "03"
 
 #: mozorg/about/manifesto.lang:121
 msgid "The Internet must enrich the lives of individual human beings."
@@ -155,11 +155,11 @@ msgstr "Uzziniet kā Mozilla liek jūsu privātumu pirmajā vietā"
 
 #: mozorg/about/manifesto.lang:155
 msgid "Read about developments in privacy and data safety"
-msgstr ""
+msgstr "Uzziniet vairāk par attīstībām privātuma un datu aizsardzības jomās"
 
 #: mozorg/about/manifesto.lang:160
 msgid "Learn more about how to protect yourself online"
-msgstr ""
+msgstr "Uzziniet kā sev aizsargāt tiešsaistē"
 
 #: mozorg/about/manifesto.lang:165
 msgid "The Web We Want: An Open Letter"
@@ -167,7 +167,7 @@ msgstr ""
 
 #: mozorg/about/manifesto.lang:170
 msgid "05"
-msgstr ""
+msgstr "05"
 
 #: mozorg/about/manifesto.lang:175
 msgid ""
@@ -177,24 +177,23 @@ msgstr ""
 
 #: mozorg/about/manifesto.lang:180
 msgid "Use these free tools to teach the Web"
-msgstr ""
+msgstr "Izmantojiet šos brīvos rīkus lai pasniegtu tīmekli"
 
 #: mozorg/about/manifesto.lang:185
 msgid "Learn about creating and curating content for the Web"
-msgstr ""
+msgstr "Iemācieties veidot un uzlabot saturu tīmeklim"
 
 #: mozorg/about/manifesto.lang:190
-#, fuzzy
 msgid "Teaching the Web"
-msgstr "Iemāciet tīmekli"
+msgstr "Pasniegt tīmekli"
 
 #: mozorg/about/manifesto.lang:195
 msgid "Meet the Webmakers"
-msgstr ""
+msgstr "Satikt Webmakers"
 
 #: mozorg/about/manifesto.lang:200
 msgid "06"
-msgstr ""
+msgstr "06"
 
 #: mozorg/about/manifesto.lang:204
 msgid ""
@@ -213,51 +212,55 @@ msgstr ""
 
 #: mozorg/about/manifesto.lang:219
 msgid "Understand the Web ecosystem"
-msgstr ""
+msgstr "Saprast tīmekļa ekosistēmu"
 
 #: mozorg/about/manifesto.lang:224
 msgid "Who is Mozilla?"
-msgstr ""
+msgstr "Kurš ir Mozilla?"
 
 #: mozorg/about/manifesto.lang:229
 msgid "07"
-msgstr ""
+msgstr "07"
 
 #: mozorg/about/manifesto.lang:233
 msgid ""
 "Free and open source software promotes the development of the Internet as a "
 "public resource."
 msgstr ""
+"Brīva un atvērta programmatūra veicina interneta attīstību kā publisku "
+"bagātību."
 
 #: mozorg/about/manifesto.lang:238
 msgid "Explore how open practices keep the Web accessible"
-msgstr ""
+msgstr "Uzziniet kā atvērtās prakses patur tīmekli pieejamu"
 
 #: mozorg/about/manifesto.lang:243
 msgid "Learn how to remix content to create something new"
-msgstr ""
+msgstr "Uzziniet kā izveidot ko jaunu izmantojot jau esošo"
 
 #: mozorg/about/manifesto.lang:248
 msgid "Learn how to maximize the interactive potential of the Web"
-msgstr ""
+msgstr "Uzziniet kā palielināt tīmekļa interaktīvo potenciālu"
 
 #: mozorg/about/manifesto.lang:253
 msgid "Contributing to Open Source Software"
-msgstr ""
+msgstr "Dot savu ieguldījumu brīvai programmatūrai"
 
 #: mozorg/about/manifesto.lang:258
 msgid "08"
-msgstr ""
+msgstr "08"
 
 #: mozorg/about/manifesto.lang:262
 msgid ""
 "Transparent community-based processes promote participation, accountability "
 "and trust."
 msgstr ""
+"Caurspīdīgi un uz kopienas balstīti procesi veicina līdzdalību, atbildību un "
+"uzticību."
 
 #: mozorg/about/manifesto.lang:267
 msgid "Participate in our governance forum"
-msgstr ""
+msgstr "Piedalīties mūsu pārvaldības forumā"
 
 #: mozorg/about/manifesto.lang:272
 msgid "Join us as a volunteer"
@@ -265,7 +268,7 @@ msgstr "Pievienojies kā brīvprātīgais"
 
 #: mozorg/about/manifesto.lang:277
 msgid "Join us as a student ambassador"
-msgstr ""
+msgstr "Piebiedroties kā studentu vēstnieks"
 
 #. Obsolete string replaced by separate strings (do not remove)
 #: mozorg/about/manifesto.lang:283
@@ -273,18 +276,20 @@ msgid ""
 "Join us as a <a href=\"%(volunteer)s\">volunteer</a> or <a href="
 "\"%(ambassador)s\">student ambassador</a>"
 msgstr ""
+"Piebiedroties mums kā <a href=\"%(volunteer)s\">brīvprātīgais</a> vai kā <a "
+"href=\"%(ambassador)s\">studentu vēstniekam</a>"
 
 #: mozorg/about/manifesto.lang:288
 msgid "Learn how to collaborate online"
-msgstr ""
+msgstr "Iemācīties sadarbošanos tiešsaistē"
 
 #: mozorg/about/manifesto.lang:293
 msgid "I am a Mozillian"
-msgstr ""
+msgstr "Es esmu Mozilietis"
 
 #: mozorg/about/manifesto.lang:298
 msgid "09"
-msgstr ""
+msgstr "09"
 
 #: mozorg/about/manifesto.lang:302
 msgid ""
@@ -310,7 +315,7 @@ msgstr ""
 
 #: mozorg/about/manifesto.lang:327
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: mozorg/about/manifesto.lang:331
 msgid ""
@@ -348,9 +353,8 @@ msgid "Tweet this"
 msgstr ""
 
 #: mozorg/about/manifesto.lang:372
-#, fuzzy
 msgid "Learn more about…"
-msgstr "Uzziniet vairāk par šo"
+msgstr "Uzziniet vairāk par…"
 
 #: mozorg/about/manifesto.lang:377
 msgid "Donating to Mozilla"
@@ -371,7 +375,7 @@ msgstr "Ievads"
 
 #: mozorg/about/manifesto.lang:396
 msgid "The Internet is becoming an increasingly important part of our lives."
-msgstr ""
+msgstr "Internets aizņem arvien lielāku vietu mūsu dzīvēs."
 
 #: mozorg/about/manifesto.lang:400
 msgid ""
@@ -399,7 +403,7 @@ msgstr ""
 
 #: mozorg/about/manifesto.lang:412
 msgid "The goals for the Manifesto are to:"
-msgstr ""
+msgstr "Manifesta mērķi ir sekojošie:"
 
 #: mozorg/about/manifesto.lang:416
 msgid ""
@@ -458,13 +462,15 @@ msgstr ""
 
 #: mozorg/about/manifesto.lang:452
 msgid "Mozilla Foundation Pledge"
-msgstr ""
+msgstr "Mozilla Fonda apņemšanos"
 
 #: mozorg/about/manifesto.lang:456
 msgid ""
 "The Mozilla Foundation pledges to support the Mozilla Manifesto in its "
 "activities. Specifically, we will:"
 msgstr ""
+"Mozilla Fonds apņemas atbalstīt Mozilla Manifestu visās savās aktivitātes. "
+"Mēs it īpaši:"
 
 #: mozorg/about/manifesto.lang:460
 msgid ""
