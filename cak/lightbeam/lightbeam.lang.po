@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-03 11:11+0000\n"
-"PO-Revision-Date: 2016-01-03 00:57+0000\n"
+"PO-Revision-Date: 2016-04-22 00:44+0000\n"
 "Last-Translator: Juan Esteban Ajsivinac Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cak\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1451782642.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1461285882.000000\n"
 
 #. Navigation
 #: lightbeam/lightbeam.lang:7
@@ -21,7 +21,7 @@ msgstr "K'utüy samaj"
 
 #: lightbeam/lightbeam.lang:11
 msgid "Home"
-msgstr ""
+msgstr "Tikirib'äl"
 
 #: lightbeam/lightbeam.lang:15
 msgid "About"
@@ -30,20 +30,22 @@ msgstr "Tawetamaj qawäch"
 #. Main page title
 #: lightbeam/lightbeam.lang:20
 msgid "Lightbeam for Firefox"
-msgstr ""
+msgstr "Lightbeam richin Firefox"
 
 #: lightbeam/lightbeam.lang:24
 msgid ""
 "Lightbeam is a Firefox add-on that uses interactive visualizations to show "
 "you the first and third party sites you interact with on the Web."
 msgstr ""
+"Lightbeam jun rutz'aqat Firefox, ri nrokisaj silonel taq tz'etoj, nuk'üt "
+"chawäch ri nimaläj taq ruxaq k'amaya'l chuqa' ri ta ruxaq k'amaya'l kichin "
+"aj rox winaqi', achoq kik'in yatzijon pa Ajk'amaya'l."
 
 #: lightbeam/lightbeam.lang:28
 msgid "Shine a Light on Who’s Watching You"
-msgstr ""
+msgstr "Ke'atzu' ri yetzeto awichin"
 
 #: lightbeam/lightbeam.lang:32
-#, fuzzy
 msgid "See who’s tracking you online"
 msgstr "Tawetamaj achike yatz'eto pa k'amab'ey."
 
@@ -52,34 +54,43 @@ msgid ""
 "As you browse, Lightbeam reveals the full depth of the Web today, including "
 "parts that are not transparent to the average user."
 msgstr ""
+"Toq atokinäq pa k'amaya'l, Lightbeam nuk'üt pe ri tz'aqät runimilem "
+"Ajk'amaya'l wakami, nitz'aqatisäx taq ruch'akul ri man e saqsöj ta chuwäch "
+"ri loman winäq."
 
 #: lightbeam/lightbeam.lang:40
 msgid "Download Lightbeam for Firefox"
-msgstr ""
+msgstr "Tiqasäx Lightbeam richin Firefox"
 
 #: lightbeam/lightbeam.lang:44
 msgid "Get it from Mozilla Add-Ons"
-msgstr ""
+msgstr "Tawila' pa Mozilla Add-Ons"
 
 #: lightbeam/lightbeam.lang:48
 msgid "How Lightbeam Works"
-msgstr ""
+msgstr "Achike rub'eyal nisamäj Lightbeam"
 
 #: lightbeam/lightbeam.lang:52
 msgid "Download and run the Lightbeam add-on in your Firefox browser."
-msgstr ""
+msgstr "Taqasaj chuqa' tatzija' ri Lightbeam tz'aqat pa ri Firefox akanob'al."
 
 #: lightbeam/lightbeam.lang:56
 msgid ""
 "Lightbeam will create a record of events for every site you visit and every "
 "third party site that is stored locally on your browser."
 msgstr ""
+"Lightbeam xtunük' jun kitz'ib'axik taq molojri'ïl chi kijujunal ri taq ruxaq "
+"k'amaya'l xke'atz'ët chuqa' chi kijujunal ri ruxaq kik'amaya'l aj rox ri "
+"xke'uxqanëx pa ri akanob'al:"
 
 #: lightbeam/lightbeam.lang:60
 msgid ""
 "Lightbeam visually graphs these events to highlight the interactions between "
 "sites you intentionally visit and the third parties."
 msgstr ""
+"Lightbeam nuwachib'ej kitz'etik re taq molojri'ïl re', richin nuya' ketal ri "
+"taq tzijonem chi kikojol ri taq ruxaq k'amaya'l junelïk e'atz'eton chuqa' ri "
+"taq ruxaq kik'amaya'l aj rox."
 
 #: lightbeam/lightbeam.lang:64
 msgid ""
@@ -87,24 +98,32 @@ msgid ""
 "stop Lightbeam at any time by disabling it or uninstalling the add-on. Your "
 "Lightbeam data can be easily saved or deleted."
 msgstr ""
+"Ligthbeam junelïk xkerutz'aqatisaj taq wachib'äl toq xkatokiyaj pa "
+"Ajk'amaya'l. Pa xab'achike ramaj yatikïr nachüp ri Lightbeam, rik'in "
+"ruchupuk o relesaxik ri tz'aqat. Ri taq atzij pa Lightbeam tikirel yeyak o "
+"yeyuj el pan aninäq."
 
 #: lightbeam/lightbeam.lang:68
 msgid "Tracking & privacy"
-msgstr ""
+msgstr "Kanoxïk & ichinanem"
 
 #: lightbeam/lightbeam.lang:72
 msgid ""
 "Not all tracking is bad. Many services rely on user data to provide relevant "
 "content and enhance your online experience."
 msgstr ""
+"Man konojel ta ri taq kanoxïk man e ütz ta. K'ïy taq samaj nikikuqub'a' "
+"kik'u'x chi rij ri etamab'äl naya' chi ke richin nikutzilaj ri awetamab'al "
+"pa k'amab'ey."
 
 #: lightbeam/lightbeam.lang:76
 msgid "But tracking can happen without the user’s knowledge."
 msgstr ""
+"Xa xe chi ri kanoxïk nitikïr nik'ulwachitäj, akuchi' majun retaman ri winäq."
 
 #: lightbeam/lightbeam.lang:80
 msgid "That’s not okay for some."
-msgstr ""
+msgstr "Chi kiwäch jujun, ri ri' man ütz ta."
 
 #: lightbeam/lightbeam.lang:84
 msgid ""
@@ -112,6 +131,10 @@ msgid ""
 "be shared. We recognize the importance of transparency and our mission is "
 "all about empowering users — both with tools and information."
 msgstr ""
+"K'o ta chi ja rat ri yana'ojin jampe', achike rub'eyal chuqa' we nawajo' "
+"nakomonij ri awetamab'al pa ruwi' okem pa k'amaya'l. Röj niqaya' rejqalem ri "
+"ch'ajch'öj samaj chuqa' ri taqel qataqanem nuch'ojij chi tiya' kuchuqa' ri "
+"winaqi' — rik'in taq samajib'äl achi'el chuqa' rik'in taq etamab'äl."
 
 #: lightbeam/lightbeam.lang:88
 msgid "Explore the database"
