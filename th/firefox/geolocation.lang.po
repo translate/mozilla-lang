@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2016-05-07 14:19+0000\n"
+"PO-Revision-Date: 2016-05-07 15:48+0000\n"
 "Last-Translator: nutmos <nuttapong2539@gmail.com>\n"
 "Language-Team: none\n"
 "Language: th\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1462630749.000000\n"
+"X-POOTLE-MTIME: 1462636086.000000\n"
 
 #: firefox/geolocation.lang:6
 msgid "Geolocation in Firefox"
@@ -32,7 +32,6 @@ msgid ""
 msgstr ""
 
 #: firefox/geolocation.lang:18
-#, fuzzy
 msgid "Frequently asked Questions"
 msgstr "คำถามที่พบบ่อย"
 
@@ -90,7 +89,7 @@ msgstr ""
 
 #: firefox/geolocation.lang:54
 msgid "How accurate are the locations?"
-msgstr ""
+msgstr "ตำแหน่งที่ตั้งแม่นยำแค่ไหน?"
 
 #: firefox/geolocation.lang:58
 msgid ""
@@ -120,6 +119,7 @@ msgid ""
 "By default, Firefox uses Google Location Services to determine your location "
 "by sending:"
 msgstr ""
+"โดยค่าเริ่มต้น Firefox จะใช้บริการตำแหน่งที่ตั้งของ Google เพื่อระบุตำแหน่งที่ตั้งของคุณโดยการส่ง:"
 
 #: firefox/geolocation.lang:74
 msgid "your computer’s IP address,"
@@ -163,6 +163,8 @@ msgid ""
 "Neither Mozilla or Google will ever use the information collected by Google "
 "Location Services to identify or spy on you."
 msgstr ""
+"ทั้ง Mozilla และ Google จะไม่ใช้ข้อมูลที่เก็บโดยบริการตำแหน่งที่ตั้งของ Google "
+"ในการชี้ระบุหรือสอดส่องคุณ"
 
 #: firefox/geolocation.lang:102
 msgid ""
@@ -184,7 +186,7 @@ msgstr "นโยบายความเป็นส่วนตัวของ
 
 #: firefox/geolocation.lang:118
 msgid "Am I being tracked as I browse the web?"
-msgstr ""
+msgstr "ฉันจะถูกติดตั้งขณะเรียกดูเว็บหรือไม่?"
 
 #: firefox/geolocation.lang:122
 msgid ""
@@ -239,7 +241,7 @@ msgstr ""
 
 #: firefox/geolocation.lang:166
 msgid "Click on <em>Clear Now</em>"
-msgstr ""
+msgstr "คลิกปุ่ม <em>ล้างเดี๋ยวนี้</em>"
 
 #: firefox/geolocation.lang:170
 msgid "How do I turn off Location-Aware Browsing permanently?"
