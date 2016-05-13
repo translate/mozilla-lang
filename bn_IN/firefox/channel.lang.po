@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2016-05-13 19:11+0000\n"
 "PO-Revision-Date: 2015-03-05 21:35+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "X-POOTLE-MTIME: 1425591345.000000\n"
 
 #. This is the string for the <title> tag on the page.
-#: firefox/channel.lang:10
+#: firefox/channel.lang:11
 msgid ""
 "Download Firefox Developer Edition or Beta &amp; Help Determine the Next "
 "Firefox"
@@ -25,13 +25,13 @@ msgstr ""
 "করতে সাহায্য করুন"
 
 #. This is the string for the <title> tag on the page.
-#: firefox/channel.lang:15
+#: firefox/channel.lang:16
 msgid "Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox"
 msgstr ""
 "Firefox Aurora অথবা Beta &amp; ডাউনলোড করুন এবং পরবর্তী Firefox নির্ধারণে "
 "সহায়তা করুন"
 
-#: firefox/channel.lang:20
+#: firefox/channel.lang:21
 msgid ""
 "Download and test Firefox future releases. Experience the newest innovations "
 "with the Developer Edition or Beta builds."
@@ -40,11 +40,11 @@ msgstr ""
 "সংস্করণগুলির মাধ্যমে নতুন বৈশিষ্ট্যগুলি সম্পর্কে অবগত হন।"
 
 #. This description applies to Firefox Beta
-#: firefox/channel.lang:25
+#: firefox/channel.lang:26
 msgid "The latest features in a more stable environment"
 msgstr "আরো স্থিতিশীল পরিবেশে সর্বশেষ বৈশিষ্ট্য"
 
-#: firefox/channel.lang:30
+#: firefox/channel.lang:31
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -52,7 +52,7 @@ msgstr ""
 "Firefox Beta স্বয়ংক্রিয় ভাবে Mozilla-তে প্রতিক্রিয়া পাঠায়। <a href=\"%(link)s"
 "\">আরও জানুন </a>"
 
-#: firefox/channel.lang:34
+#: firefox/channel.lang:35
 msgid ""
 "<a href=\"%(feedback)s\">Give us feedback</a> to help us put the final "
 "tweaks on performance and functionality in a stable environment."
@@ -60,7 +60,7 @@ msgstr ""
 "<a href=\"%(feedback)s\"> আমাদেরকে মতামত জানান </a> স্থিতিশীল পরিবেশে "
 "কার্যকারীতা এবং তা সম্পাদনের জন্য চুড়ান্ত ট্যুইক যুক্ত করা।"
 
-#: firefox/channel.lang:39
+#: firefox/channel.lang:40
 msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
 "Mozilla. <a href=\"%(link)s\">Learn more</a>."
@@ -68,7 +68,7 @@ msgstr ""
 "Firefox আরোরা এবং Firefox ডেভেলপার সংস্করণ স্বয়ংক্রিয়ভাবে Mozilla-কে ফিডব্যাক "
 "পাঠায়। <a href=\"%(link)s\">আরও জানুন</a>।"
 
-#: firefox/channel.lang:43
+#: firefox/channel.lang:44
 msgid ""
 "Firefox Aurora automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -76,16 +76,21 @@ msgstr ""
 "Firefox Aurora স্বয়ংক্রিয় ভাবে Mozilla-কে মতামত প্রেরণ করে। <a href=\"%(link)s"
 "\"> আরও জানুন </a>।"
 
-#: firefox/channel.lang:48
+#. Link to SUMO: https://support.mozilla.org/kb/will-firefox-work-my-mobile-device
+#: firefox/channel.lang:50
+msgid "Will Firefox work on my mobile device?"
+msgstr ""
+
+#: firefox/channel.lang:55
 msgid "Built for those who build the Web"
 msgstr "তাদের জন্য তৈরি যারা ওয়েব বানায়"
 
 #. This description applies to Firefox Aurora
-#: firefox/channel.lang:53
+#: firefox/channel.lang:60
 msgid "The newest innovations in an experimental environment"
 msgstr "সর্বাপেক্ষা নতুন বিষয়টি এখন পরীক্ষামূলক পরিবেশে।"
 
-#: firefox/channel.lang:58
+#: firefox/channel.lang:65
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="
 "\"%(feedback)s\">help us determine what makes it to Beta</a>."
@@ -94,18 +99,18 @@ msgstr ""
 "\"%(feedback)s\"> আমাদেরকে সাহায্য করে এটাকে কিভাবে বিটা তৈরী করা যায়</a>।"
 
 #. This description applies to Firefox on the Release channel
-#: firefox/channel.lang:63
+#: firefox/channel.lang:70
 msgid "Tried, tested and used by millions around the world"
 msgstr "বিশ্বের লক্ষাধিক মানুষ এটি ব্যবহার এবং পরীক্ষা করেছেন"
 
-#: firefox/channel.lang:67
+#: firefox/channel.lang:74
 msgid "Learn more about Firefox Beta"
 msgstr "Firefox বেটা সম্বন্ধে আরও জানুন"
 
-#: firefox/channel.lang:71
+#: firefox/channel.lang:78
 msgid "Learn more about Firefox Aurora"
 msgstr "Firefox আরোরা সম্বন্ধে আরও জানুন"
 
-#: firefox/channel.lang:75
+#: firefox/channel.lang:82
 msgid "Learn more about Firefox"
 msgstr "Firefox সম্বন্ধে আরও জানুন"

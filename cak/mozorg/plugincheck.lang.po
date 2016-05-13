@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-07 17:24+0000\n"
+"POT-Creation-Date: 2016-05-13 19:11+0000\n"
 "PO-Revision-Date: 2016-02-26 21:02+0000\n"
 "Last-Translator: Juan Esteban Ajsivinac Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: none\n"
@@ -11,16 +11,16 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "X-POOTLE-MTIME: 1456520558.000000\n"
 
 #. Used as page title in HTML meta tag
-#: mozorg/plugincheck.lang:11
+#: mozorg/plugincheck.lang:12
 msgid "Keep your Firefox healthy with a quick checkup"
 msgstr "Tab'ana' chi ri Afirefox raxinäq rik'in jun aninäq runik'oxik."
 
 #. Used as page description in HTML meta tag
-#: mozorg/plugincheck.lang:17
+#: mozorg/plugincheck.lang:18
 msgid ""
 "Use Flash? QuickTime? Java? If you use these to make your Firefox experience "
 "more awesome, check your plugins! They may need to be updated."
@@ -30,69 +30,80 @@ msgstr ""
 "k'atzinel chi yek'ex."
 
 #. Old page <title> tag
-#: mozorg/plugincheck.lang:22
+#: mozorg/plugincheck.lang:23
 msgid "Plugin Check &amp; Updates"
 msgstr "Tinik'öx chuqa' tik'ex ruwäch pluyin"
 
 #. This is a button telling the user to update their plugin
-#: mozorg/plugincheck.lang:27
+#: mozorg/plugincheck.lang:28
 msgid "Update Now"
 msgstr "Tik'ex ruwäch wakami"
 
 #. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
-#: mozorg/plugincheck.lang:32
+#: mozorg/plugincheck.lang:33
 msgid "Research"
 msgstr "Tijikilib'äx"
 
 #. This string is used together with the plugin's name to create a query on Google when using the Research button.
-#: mozorg/plugincheck.lang:37
+#: mozorg/plugincheck.lang:38
 msgid "current version plugin"
 msgstr "Ruwäch wakami chanin ri pluyin"
 
 #. This is a button informing the user that their plugin is up to date
-#: mozorg/plugincheck.lang:42
+#: mozorg/plugincheck.lang:43
 msgid "Up to Date"
 msgstr "Awoqan chi q'ij"
 
 #. L10n: This is alt text used on plugin icon images
-#: mozorg/plugincheck.lang:47
+#: mozorg/plugincheck.lang:48
 msgid "Plugin icon"
 msgstr "Ruwachaj pluyin"
 
 #. This is the string used to indicate that the plugin is unknown
-#: mozorg/plugincheck.lang:52
+#: mozorg/plugincheck.lang:53
 msgid "unknown"
 msgstr "Man etaman ta ruwäch"
 
 #. This is the string used to indicate that the plugin is vulnerable
-#: mozorg/plugincheck.lang:57
+#: mozorg/plugincheck.lang:58
 msgid "vulnerable"
 msgstr "watz'el"
 
 #. This is the string used to indicate that the plugin is outdated
-#: mozorg/plugincheck.lang:63
+#: mozorg/plugincheck.lang:64
 msgid "outdated"
 msgstr "ojer"
 
 #. Main title
-#: mozorg/plugincheck.lang:68
+#: mozorg/plugincheck.lang:69
 msgid "Check Your Plugins"
 msgstr "Ke'anik'oj ri taq apluyin"
 
-#: mozorg/plugincheck.lang:72
+#: mozorg/plugincheck.lang:73
 msgid "Keeping your plugins up to date helps Firefox run safely and smoothly."
 msgstr ""
 "Ri kik'exik kiwäch ri taq aju'uj nito'on chi ri Firefox ütz chuqa' majun "
 "k'ayewal chi tujikilib'ej ri'."
 
-#: mozorg/plugincheck.lang:77
+#. This is a title, with limited space; text inside the span tag is displayed bold
+#: mozorg/plugincheck.lang:79
+#, fuzzy
+msgid "<span>Firefox</span> + You"
+msgstr "<span>Firefox</span> richin iOS"
+
+#. This is the subtitle for the newsletter subscription box
+#: mozorg/plugincheck.lang:85
+msgid "Get Firefox tips, tricks, news and more"
+msgstr ""
+
+#: mozorg/plugincheck.lang:90
 msgid "Currently the plugin check service is only available to Firefox users."
 msgstr ""
 "K'a wakami ri to'ïk richin kinik'oxik taq pluyin xa xe ewachel kichin "
 "ruwinaq Firefox."
 
 #. This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
-#: mozorg/plugincheck.lang:83
+#: mozorg/plugincheck.lang:96
 msgid ""
 "Plugins don’t always update automatically. Check yours now to stay safe and "
 "browse without interruption!"
@@ -100,15 +111,15 @@ msgstr ""
 "Man jantape' ta nikik'ëx ki' pa kiyonil ri taq pluyin. Ke'anik'oj ri awichin "
 "wakami richin naköl awi' chuqa' man yayoke' ta toq yatok pa k'amaya'l!"
 
-#: mozorg/plugincheck.lang:87
+#: mozorg/plugincheck.lang:100
 msgid "Looks like you’re using an older version of Firefox."
 msgstr "Achi'el chi tajin nawokisaj jun ojer ruwäch chi Firefox."
 
-#: mozorg/plugincheck.lang:91
+#: mozorg/plugincheck.lang:104
 msgid "Plugin Status"
 msgstr "Rub'anikil ri Pluyin"
 
-#: mozorg/plugincheck.lang:96
+#: mozorg/plugincheck.lang:109
 msgid ""
 "No plugins were found. If you believe this is an error, <a href="
 "\"%(bugzilla_url)s\">please file a bug</a> and let us know."
@@ -117,7 +128,7 @@ msgstr ""
 "\"%(bugzilla_url)s\">tayaka' ri sachoj</a> chuqa' tataqa' rutzijol chi qe "
 "richin niqetamaj."
 
-#: mozorg/plugincheck.lang:100
+#: mozorg/plugincheck.lang:113
 msgid ""
 "Plugin Check <strong>support for Internet Explorer is limited</strong>. Also "
 "use Tools &gt; Manage Addons"
@@ -125,86 +136,86 @@ msgstr ""
 "Ri kinik'oxik taq ju'uj <strong>ko'öl ruto'ik pa Internet Explorer</strong>. "
 "Ke'awokisaj chuqa' taq Samajib'äl &gt; Kinuk'samajel taq Tz'aqat"
 
-#: mozorg/plugincheck.lang:104
+#: mozorg/plugincheck.lang:117
 msgid "Step 1: Click Update to update a plugin."
 msgstr ""
 "1 Xak: Tapitz'a' pa ruwi' ri K'exoj ruwäch richin nak'ëx ruwäch jun ju'uj."
 
-#: mozorg/plugincheck.lang:108
+#: mozorg/plugincheck.lang:121
 msgid ""
 "Step 2: Complete all recommended updates before restarting your browser."
 msgstr ""
 "2 Xak: Ke'atz'aqatisaj konojel ri taq k'exoj ruwäch echilab'en chuwäch "
 "xtatikirisaj chik ri awokik'amaya'l"
 
-#: mozorg/plugincheck.lang:112
+#: mozorg/plugincheck.lang:125
 msgid "Potentially vulnerable plugins"
 msgstr "Janila ewatz'el ri taq pluyin"
 
-#: mozorg/plugincheck.lang:116
+#: mozorg/plugincheck.lang:129
 msgid "Plugin"
 msgstr "Pluyin"
 
-#: mozorg/plugincheck.lang:120
+#: mozorg/plugincheck.lang:133
 msgid "Status"
 msgstr "Rub'anikil"
 
-#: mozorg/plugincheck.lang:124
+#: mozorg/plugincheck.lang:137
 msgid "Action"
 msgstr "B'anoj"
 
-#: mozorg/plugincheck.lang:128
+#: mozorg/plugincheck.lang:141
 msgid "Outdated Plugins"
 msgstr "Rijläj taq ju'uj"
 
-#: mozorg/plugincheck.lang:132
+#: mozorg/plugincheck.lang:145
 msgid "Unknown Plugins"
 msgstr "Man etaman kiwäch taq pluyin"
 
-#: mozorg/plugincheck.lang:136
+#: mozorg/plugincheck.lang:149
 msgid "These plugins are up to date"
 msgstr "K'exon kiwäch re taq pluyin re'"
 
-#: mozorg/plugincheck.lang:140
+#: mozorg/plugincheck.lang:153
 msgid "Back to Top"
 msgstr "Titzolin ajsik"
 
-#: mozorg/plugincheck.lang:144
+#: mozorg/plugincheck.lang:157
 msgid "Frequently Asked Questions"
 msgstr "Jutaqil taq k'utunïk"
 
-#: mozorg/plugincheck.lang:148
+#: mozorg/plugincheck.lang:161
 msgid "What is a plugin?"
 msgstr "¿Achike ri jun pluyin?"
 
-#: mozorg/plugincheck.lang:152
+#: mozorg/plugincheck.lang:165
 msgid "Plugins power videos, animation and games"
 msgstr ""
 "Ri taq ju'uj nikutzilaj ri taq silowachib'äl, taq wachinïk chuqa' taq "
 "etz'anem."
 
-#: mozorg/plugincheck.lang:156
+#: mozorg/plugincheck.lang:169
 msgid ""
 "They're built outside of Firefox by companies like Adobe Systems and Apple"
 msgstr ""
 "Enuk'un kuma taq moloj man e k'o ta chupam ri Firefox achi'el ri Adobe "
 "Systems chuqa' Apple."
 
-#: mozorg/plugincheck.lang:160
+#: mozorg/plugincheck.lang:173
 msgid "Plugins don't always update automatically."
 msgstr "Man junelïk ta xtikik'ëx kiwäch pa kiyonil ri taq pluyin."
 
-#: mozorg/plugincheck.lang:164
+#: mozorg/plugincheck.lang:177
 msgid "Why should I update my plugins?"
 msgstr "¿Achike ruma k'atzinel nink'ëx kiwäch ri taq nuju'uj?"
 
-#: mozorg/plugincheck.lang:168
+#: mozorg/plugincheck.lang:181
 msgid "Old plugins can interrupt browsing and waste your time."
 msgstr ""
 "Ri ojer taq pluyin yetikïr nikiq'ät ri awokem pa k'amaya'l chuqa' nikib'än "
 "chi nasäch ramaj."
 
-#: mozorg/plugincheck.lang:172
+#: mozorg/plugincheck.lang:185
 msgid ""
 "Old plugins <strong>increase your risk</strong> for attack by malware, "
 "viruses, and other security threats."
@@ -212,7 +223,7 @@ msgstr ""
 "Ri ri'j taq pluyin <strong>janila nikiya' q'ij</strong>richin yeq'eleb'ëx "
 "ruma nimachikopil, chiköp, chuqa' ch'aqa' chik taq ruq'eleb'enik ri chajinïk."
 
-#: mozorg/plugincheck.lang:176
+#: mozorg/plugincheck.lang:189
 msgid ""
 "<strong>Updated plugins have improvements</strong> that make the web "
 "<strong>better and safer</strong> for you."
@@ -221,15 +232,15 @@ msgstr ""
 "chi re ri ajk'amaya'l<strong>ütz chuqa' janila jikel</strong>chawe rat."
 
 #. alt image
-#: mozorg/plugincheck.lang:181
+#: mozorg/plugincheck.lang:194
 msgid "Screenshot of Add-Ons manager"
 msgstr "Chapoj kiwäch kichin ri kinuk'samajel taq tz'aqat"
 
-#: mozorg/plugincheck.lang:185
+#: mozorg/plugincheck.lang:198
 msgid "How can Firefox help me?"
 msgstr "¿Achike rub'eyal nitikïr yiruto' Firefox?"
 
-#: mozorg/plugincheck.lang:189
+#: mozorg/plugincheck.lang:202
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to stay safe."
@@ -238,11 +249,11 @@ msgstr ""
 "rajowaxik chi junelïk nanik'oj re ruxaq re' chuqa' nak'ëx kiwäch ri taq "
 "apluyin richin nakolola' awi'."
 
-#: mozorg/plugincheck.lang:193
+#: mozorg/plugincheck.lang:206
 msgid "Which Plugins do I have?"
 msgstr "¿Achike chi ju'uj e k'o wik'in?"
 
-#: mozorg/plugincheck.lang:197
+#: mozorg/plugincheck.lang:210
 msgid ""
 "We automatically detected your plugins above, to view your installed plugins "
 "in Firefox follow these steps:"
@@ -250,11 +261,11 @@ msgstr ""
 "Xeqïl ri taq apluyin pa ruyonil, richin ye'atz'ët ri taq pluyin e'ayakon pa "
 "Firefox ke'awoqaj re taq xak re':"
 
-#: mozorg/plugincheck.lang:201
+#: mozorg/plugincheck.lang:214
 msgid "Want to spread the word?"
 msgstr "¿La nawajo' nawelesaj rutzijol?"
 
-#: mozorg/plugincheck.lang:205
+#: mozorg/plugincheck.lang:218
 msgid ""
 "Help your friends stay safe online! Visit <a href=\"%(url)s\">Firefox "
 "Affiliates</a> to get a plugin check badge for your site."
@@ -263,48 +274,48 @@ msgstr ""
 "href=\"%(url)s\">Firefox Ajmolojri'ïl winäq</a> chuqa' tak'ulu' jun pokob' "
 "richin kinik'oxik taq pluyin pan ruxaq ak'amaya'l."
 
-#: mozorg/plugincheck.lang:209
+#: mozorg/plugincheck.lang:222
 msgid "How do I disable a plugin?"
 msgstr "¿Achike rub'eyal ninchüp jun pluyin?"
 
-#: mozorg/plugincheck.lang:213
+#: mozorg/plugincheck.lang:226
 msgid "In Firefox:"
 msgstr "Pa Firefox:"
 
-#: mozorg/plugincheck.lang:217
+#: mozorg/plugincheck.lang:230
 msgid "Open the Tools menu."
 msgstr "Tajaqa' ri k'utüy samaj Taq Samajib'äl"
 
 #. If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
-#: mozorg/plugincheck.lang:223
+#: mozorg/plugincheck.lang:236
 msgid "Open the <span class=\"menu\">menu</span>."
 msgstr "Tajaqa' ri <span class=\"menu\">k'utüy samaj</span>."
 
-#: mozorg/plugincheck.lang:227
+#: mozorg/plugincheck.lang:240
 msgid "Choose Add-ons."
 msgstr "Tacha' ri cha'oj Taq tz'aqat."
 
-#: mozorg/plugincheck.lang:231
+#: mozorg/plugincheck.lang:244
 msgid "Click the plugins tab."
 msgstr "Tapitz'a' pa ri ruwi' taq pluyin."
 
-#: mozorg/plugincheck.lang:236
+#: mozorg/plugincheck.lang:249
 msgid "Click on the drop down next to the plugin you wish to disable."
 msgstr "Tapitz'a' ri rik'el k'utüy samaj chuxikin ri pluyin nawajo' nachüp."
 
-#: mozorg/plugincheck.lang:240
+#: mozorg/plugincheck.lang:253
 msgid "Click on a plugin in the list."
 msgstr "Tipitz' pa ruwi' jun ju'uj k'o pa cholb'äl."
 
-#: mozorg/plugincheck.lang:245
+#: mozorg/plugincheck.lang:258
 msgid "Select \"Never Activate\" from the available choices."
 msgstr "Tacha' \"Majub'ey titzij\" pa ri taq wachel cha'oj."
 
-#: mozorg/plugincheck.lang:249
+#: mozorg/plugincheck.lang:262
 msgid "Click the Disable button."
 msgstr "Pitz'oj pa rupitzb'äl Chupuj."
 
-#: mozorg/plugincheck.lang:253
+#: mozorg/plugincheck.lang:266
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -315,7 +326,7 @@ msgstr ""
 "xke'atz'ët taq silowachib'äl pa ajtz'etel taq ruxaq k'amaya'l richin "
 "silowachib'äl achi'el YouTube."
 
-#: mozorg/plugincheck.lang:258
+#: mozorg/plugincheck.lang:271
 msgid ""
 "Caution: disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -326,15 +337,15 @@ msgstr ""
 "taq silowachib'äl pa ajtz'etel taq ruxaq k'amaya'l richin silowachib'äl "
 "achi'el YouTube."
 
-#: mozorg/plugincheck.lang:262
+#: mozorg/plugincheck.lang:275
 msgid "Mozilla Support"
 msgstr "Ruto'ik Mozilla"
 
-#: mozorg/plugincheck.lang:266
+#: mozorg/plugincheck.lang:279
 msgid "Have more questions?"
 msgstr "¿La k'a k'o taq ak'utunik?"
 
-#: mozorg/plugincheck.lang:270
+#: mozorg/plugincheck.lang:283
 msgid "Visit <a href=\"%(sumo_url)s\">support.mozilla.org</a> for more help!"
 msgstr ""
 "¡Tab'etz'eta' <a href=\"%(sumo_url)s\">support.mozilla.org</a> richin nak'ül "

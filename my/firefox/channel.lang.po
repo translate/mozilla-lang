@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-05 21:07+0000\n"
+"POT-Creation-Date: 2016-05-13 19:11+0000\n"
 "PO-Revision-Date: 2015-09-06 12:23+0000\n"
 "Last-Translator: Francesco Lodolo <francesco.lodolo@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,11 +11,11 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "X-POOTLE-MTIME: 1441542225.000000\n"
 
 #. This is the string for the <title> tag on the page.
-#: firefox/channel.lang:10
+#: firefox/channel.lang:11
 msgid ""
 "Download Firefox Developer Edition or Beta &amp; Help Determine the Next "
 "Firefox"
@@ -24,11 +24,11 @@ msgstr ""
 "မီးမြေခွေးအား ကူညီပါ"
 
 #. This is the string for the <title> tag on the page.
-#: firefox/channel.lang:15
+#: firefox/channel.lang:16
 msgid "Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox"
 msgstr "မီးမြေခွေး Aurora သို့ ဘေတာ &amp; အားဒေါင်းလုဒ်ရယူပြီး နောက်ထွက်လာမယ့် မီးမြေခွေးကို ကူညီပါ"
 
-#: firefox/channel.lang:20
+#: firefox/channel.lang:21
 msgid ""
 "Download and test Firefox future releases. Experience the newest innovations "
 "with the Developer Edition or Beta builds."
@@ -37,11 +37,11 @@ msgstr ""
 "ဘီတာ ဗားရှင်းတွေသုံးပြီး ခံစားကြည့်ပါ။"
 
 #. This description applies to Firefox Beta
-#: firefox/channel.lang:25
+#: firefox/channel.lang:26
 msgid "The latest features in a more stable environment"
 msgstr "နောက်ဆုံး လုပ်ဆောင်ချက်တွေကို ပိုမိုတည်ငြိမ်တဲ့ ပတ်ဝန်းကျင်မှာ သုံးမယ်"
 
-#: firefox/channel.lang:30
+#: firefox/channel.lang:31
 msgid ""
 "Firefox Beta automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -49,7 +49,7 @@ msgstr ""
 "မီးမြေခွေး Aurora ဟာ မိုဇီလာသို့ အကြံပေးချက်တွေ အလိုအလျောက်ပေးပို့ပေးတယ်။ <a href=\"%(link)s"
 "\">ဆက်လက်</a>"
 
-#: firefox/channel.lang:34
+#: firefox/channel.lang:35
 msgid ""
 "<a href=\"%(feedback)s\">Give us feedback</a> to help us put the final "
 "tweaks on performance and functionality in a stable environment."
@@ -57,7 +57,7 @@ msgstr ""
 "<a href=\"%(feedback)s\">အကြံပေးချက်များ</a> ပေးပို့ပြီး နောက်ဆုံး ပြင်ဆင်ချက်တွေကို "
 "ကောင်းမွန်အောင် လုပ်ဆောင်ရာတွင် ကူညီပါ"
 
-#: firefox/channel.lang:39
+#: firefox/channel.lang:40
 msgid ""
 "Firefox Aurora and Firefox Developer Edition automatically send feedback to "
 "Mozilla. <a href=\"%(link)s\">Learn more</a>."
@@ -65,7 +65,7 @@ msgstr ""
 "မီးမြေခွေး Aurora နှင့် မီးမြေခွေး Developer ဗားရှင်း သည် အကြံပေးချက်များအား အလိုအလျောက် "
 "မိုဇီလာသို့ ပေးပို့ပေးသည် <a href=\"%(link)s\">ဆက်လက်လေ့လာ</a>"
 
-#: firefox/channel.lang:43
+#: firefox/channel.lang:44
 msgid ""
 "Firefox Aurora automatically sends feedback to Mozilla. <a href=\"%(link)s"
 "\">Learn more</a>."
@@ -73,16 +73,21 @@ msgstr ""
 "မီးမြေခွေး Aurora ဟာ မိုဇီလာသို့ အကြံပေးချက်တွေ အလိုအလျောက်ပေးပို့ပေးတယ်။ <a href=\"%(link)s"
 "\">ဆက်လက်</a>"
 
-#: firefox/channel.lang:48
+#. Link to SUMO: https://support.mozilla.org/kb/will-firefox-work-my-mobile-device
+#: firefox/channel.lang:50
+msgid "Will Firefox work on my mobile device?"
+msgstr ""
+
+#: firefox/channel.lang:55
 msgid "Built for those who build the Web"
 msgstr "ဝတ်ဘ်အားကိုယ်တိုင်တည်ဆောက်ပါ"
 
 #. This description applies to Firefox Aurora
-#: firefox/channel.lang:53
+#: firefox/channel.lang:60
 msgid "The newest innovations in an experimental environment"
 msgstr "နောက်ဆုံးတီထွင်မှူတွေကို စမ်းသပ်တဲ့အနေနဲ့ထည့်ထားပေးတယ်"
 
-#: firefox/channel.lang:58
+#: firefox/channel.lang:65
 msgid ""
 "Test performance in an experimental environment, file bugs and <a href="
 "\"%(feedback)s\">help us determine what makes it to Beta</a>."
@@ -91,18 +96,18 @@ msgstr ""
 "\"%(feedback)s\">ဘေတာအားအကောင်းဆုံးလုပ်ရာတွင်</a> ကူညီပါ"
 
 #. This description applies to Firefox on the Release channel
-#: firefox/channel.lang:63
+#: firefox/channel.lang:70
 msgid "Tried, tested and used by millions around the world"
 msgstr "သန်းပေါင်းများစွာသော ကမ္ဘာတစ်ဝှမ်းရှိ လူတွေကိုတိုင် စမ်းသပ်ထားတယ်"
 
-#: firefox/channel.lang:67
+#: firefox/channel.lang:74
 msgid "Learn more about Firefox Beta"
 msgstr "မီးမြေခွေး​ ဘီတာ စနစ်အား ဆက်လက်လေ့လာ"
 
-#: firefox/channel.lang:71
+#: firefox/channel.lang:78
 msgid "Learn more about Firefox Aurora"
 msgstr "မီးမြေခွေး Aurora အားဆက်လက်လေ့လာ"
 
-#: firefox/channel.lang:75
+#: firefox/channel.lang:82
 msgid "Learn more about Firefox"
 msgstr "မီးမြေခွေးအကြောင်းဆက်လက်လေ့လာ"
