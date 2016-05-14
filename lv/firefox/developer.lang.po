@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-19 12:10+0000\n"
-"PO-Revision-Date: 2015-06-07 14:40+0000\n"
-"Last-Translator: Raivis Dejus <orvils@gmail.com>\n"
+"PO-Revision-Date: 2016-05-14 14:32+0000\n"
+"Last-Translator: Jānis Marks Gailis <jm-gailis@fai-vianet.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
@@ -13,8 +13,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
 "2);\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
-"X-POOTLE-MTIME: 1433688038.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1463236374.000000\n"
 
 #. Used as page description (HTML meta tag)
 #: firefox/developer.lang:8
@@ -165,7 +165,7 @@ msgstr ""
 
 #: firefox/developer.lang:112
 msgid "Learn more about Performance Tools"
-msgstr ""
+msgstr "Uzzināt vairāk par veiktspēju analīzi"
 
 #: firefox/developer.lang:116
 msgid "Responsive Design View"
@@ -185,7 +185,7 @@ msgstr "Uzziniet vairāk par adaptīva dizaina skatu"
 
 #: firefox/developer.lang:128
 msgid "Valence"
-msgstr ""
+msgstr "Valence"
 
 #: firefox/developer.lang:132
 msgid ""
@@ -201,7 +201,7 @@ msgstr "Uzziniet vairāk par Valence"
 
 #: firefox/developer.lang:140
 msgid "Web Audio Editor"
-msgstr ""
+msgstr "Tīmekļa audio redaktors"
 
 #: firefox/developer.lang:144
 msgid ""
@@ -211,7 +211,7 @@ msgstr ""
 
 #: firefox/developer.lang:148
 msgid "Learn more about Web Audio Editor"
-msgstr ""
+msgstr "Uzzināt vairāk par tīmekļa audio redaktoru"
 
 #: firefox/developer.lang:152
 msgid "Page Inspector"
@@ -229,7 +229,7 @@ msgstr "Uzziniet vairāk par lapu inspektoru"
 
 #: firefox/developer.lang:164
 msgid "Web Console"
-msgstr ""
+msgstr "Tīmekļa konsole"
 
 #: firefox/developer.lang:168
 msgid ""
@@ -239,7 +239,7 @@ msgstr ""
 
 #: firefox/developer.lang:172
 msgid "Learn more about Web Console"
-msgstr ""
+msgstr "Uzzināt vairāk par tīmekļa konsoli"
 
 #: firefox/developer.lang:176
 msgid "JavaScript Debugger"
@@ -257,17 +257,19 @@ msgstr "Uzziniet vairāk par JavaScript Atkļūdotājs"
 
 #: firefox/developer.lang:188
 msgid "Network Monitor"
-msgstr ""
+msgstr "Tīkla pārraugs"
 
 #: firefox/developer.lang:192
 msgid ""
 "See all the network requests your browser makes, how long each request takes "
 "and details of each request."
 msgstr ""
+"Redziet visus pieprasījumus jūsu pārlūks veic, un katra pieprasījuma garumu "
+"un detaļas."
 
 #: firefox/developer.lang:196
 msgid "Learn more about Network Monitor"
-msgstr ""
+msgstr "Uzzināt vairāk par tīkla pārraugu"
 
 #: firefox/developer.lang:200
 msgid "Style Editor"
@@ -304,6 +306,8 @@ msgid ""
 "The most complete browser made just for developers, Firefox Developer "
 "Edition has every dev tool you’ll need built right in."
 msgstr ""
+"Vispilnīgākais izstrādātājiem izstrādātais pārlūks. Firefox Developer "
+"Edition satur visus izstrādāšanas rīki kas varētu būt jums nepieciešami."
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:233
@@ -322,6 +326,9 @@ msgid ""
 "bookmarks, browsing history, passwords and more from your existing Firefox "
 "profile."
 msgstr ""
+"Sinhronizējiet savu jauno Firefox Developer Edition ar savu Firefox kontu "
+"lai piekļūtu savām grāmatzīmēm, savai vēsturei, savām parolēm un citām "
+"informācijām no jūsu pašreizējā Firefox profila."
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:248
@@ -345,11 +352,14 @@ msgid ""
 "could lose access to important browsing data from your existing Firefox "
 "profile."
 msgstr ""
+"Ja jūs turpināt bez sava Firefox Developer Edition jaunā profila "
+"sinhronizāciju, jūs varētu pazaudētu pieeju svarīgām datnēm no jūsu "
+"pašreizējā Firefox profila."
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:268
 msgid "To sync now, choose the Sync option from this menu."
-msgstr ""
+msgstr "Lai to sinhronizēt, izvēlieties Sinhronizēt opciju šajā izvēlnē."
 
 #: firefox/developer.lang:272
 msgid "Welcome to <span>Firefox Developer Edition</span>"
@@ -360,6 +370,8 @@ msgid ""
 "Get to know the features that make it the most complete browser for building "
 "the Web."
 msgstr ""
+"Iepazīstieties ar iespējām kuras to padara par pilnāko pārlūku lai veidot "
+"tīmekli."
 
 #: firefox/developer.lang:280
 msgid "Important: Sync your new profile"
@@ -370,12 +382,17 @@ msgid ""
 "Developer Edition comes with a new profile so you can run it alongside other "
 "versions of Firefox."
 msgstr ""
+"Firefox Developer Edition izmanto citu profilu lai jūs to varētu izmantot "
+"vienlaicīgi ar citām Firefox versijām."
 
 #: firefox/developer.lang:288
 msgid ""
 "To access your bookmarks, browsing history and more, you need to sync the "
 "profile with your existing Firefox Account, or create a new one."
 msgstr ""
+"Lai piekļūtu savām grāmatzīmēm, savai pārlūkošanas vēsturei un citām "
+"informācijām, jums ir jāsinhronizē profilu ar savu Firefox kontu, vai "
+"jāizveido jaunu."
 
 #: firefox/developer.lang:292
 msgid "Want the old look back?"
@@ -386,6 +403,8 @@ msgid ""
 "If you want the familiar look and feel of Firefox Aurora back, we’ve made it "
 "super easy for you."
 msgstr ""
+"Ja jūs vēlaties paturēt parasto Firefox Aurora izskatu, mēs jums to "
+"padarījām īpaši vienkārši."
 
 #: firefox/developer.lang:300
 msgid "Features and tools"
