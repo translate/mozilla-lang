@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2016-05-13 20:03+0000\n"
+"PO-Revision-Date: 2016-05-14 15:05+0000\n"
 "Last-Translator: xh-ZA45_Ngqibelelo <zmabeka@gmail.com>\n"
 "Language-Team: none\n"
 "Language: xh\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1463169830.000000\n"
+"X-POOTLE-MTIME: 1463238344.000000\n"
 
 #: firefox/geolocation.lang:6
 msgid "Geolocation in Firefox"
@@ -155,26 +155,32 @@ msgid ""
 "By default, Firefox uses Google Location Services to determine your location "
 "by sending:"
 msgstr ""
+"Ngokuzenzekelayo, iFirefox isebenzisa iGoogle Location Services ukuze "
+"ifumanise indawo okuyo ngokuthumela:"
 
 #: firefox/geolocation.lang:74
 msgid "your computer’s IP address,"
-msgstr ""
+msgstr "i-IP adresi yekhompyutha yakho,"
 
 #: firefox/geolocation.lang:78
 msgid "information about the nearby wireless access points, and"
-msgstr ""
+msgstr "inkcazelo ngeendawo ezikutshane zokufumana iwayalesi, kunye"
 
 #: firefox/geolocation.lang:82
 msgid ""
 "a random client identifier, which is assigned by Google, that expires every "
 "2 weeks."
 msgstr ""
+"nesifumani somthengi sesiquphe, esabelwe nguGoogle, esiphelelwayo qho "
+"kwiiveki ezi-2."
 
 #: firefox/geolocation.lang:86
 msgid ""
 "For a complete description of information collected and used by Firefox, "
 "please see the <a href=\"%(url)s\">Firefox Privacy Notice</a>."
 msgstr ""
+"Ukuze ufumane ingcaciso epheleleyo yenkcazelo eqokelelwe yaza yasetyenziswa "
+"nguFirefox, nceda ubone <a href=\"%(url)s\">ISaziso Semfihlelo SeFirefox</a>."
 
 #: firefox/geolocation.lang:90
 msgid ""
@@ -183,6 +189,10 @@ msgid ""
 "and used by Google, please see the <a href=\"%(url)s\" class=\"%(class)s"
 "\">Google Geolocation Privacy Policy</a>."
 msgstr ""
+"IGoogle Location Services ize ibuyele kwindawo eqikelelwayo (umz., ilatitude "
+"nelongitude). Ukuze ufumane ingcaciso epheleleyo yenkcazelo eqokelelwe yaza "
+"yasetyenziswa nguGoogle, nceda ubone <a href=\"%(url)s\" class=\"%(class)s"
+"\">Google Geolocation Privacy Policy</a>."
 
 #: firefox/geolocation.lang:94
 msgid ""
