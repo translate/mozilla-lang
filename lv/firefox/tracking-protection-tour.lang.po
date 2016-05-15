@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-17 06:11+0000\n"
-"PO-Revision-Date: 2015-10-29 23:27+0000\n"
+"PO-Revision-Date: 2016-05-15 13:37+0000\n"
 "Last-Translator: Jānis Marks Gailis <jm-gailis@fai-vianet.fr>\n"
 "Language-Team: none\n"
 "Language: lv\n"
@@ -13,8 +13,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
 "2);\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1446161230.000000\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1463319467.000000\n"
 
 #: firefox/tracking-protection-tour.lang:8
 msgid "How Tracking Protection works"
@@ -25,6 +25,8 @@ msgid ""
 "When you see the shield, Firefox is blocking some parts of the page that "
 "could track your browsing activity."
 msgstr ""
+"Kad redzat vairoga ikonu, tas nozīmē, ka Firefox bloķē daļu no lapas kuras "
+"var izsekot jūsu aktivitātes internetā."
 
 #: firefox/tracking-protection-tour.lang:16
 msgid "1 of 3"
@@ -39,7 +41,6 @@ msgid "Differences to expect"
 msgstr "Sagaidāmās atšķirības"
 
 #: firefox/tracking-protection-tour.lang:28
-#, fuzzy
 msgid ""
 "Some page areas may be missing, because they could allow third parties to "
 "track you across different websites."
@@ -55,32 +56,29 @@ msgid "Want to make changes?"
 msgstr "Gribat izmaiņas?"
 
 #: firefox/tracking-protection-tour.lang:41
-#, fuzzy
 msgid ""
 "It’s easy to turn off Tracking Protection for the website you’re on by "
 "clicking “Disable protection for this site.”"
 msgstr ""
-"Izsekošanas aizsardzību var viegli atslēgt uzklikšķinot uz \"Atslēgt šai "
-"sesijai\"."
+"Izsekošanas aizsardzību var viegli atslēgt šajā mājaslapā uzklikšķinot uz "
+"\"Atslēgt aizsardzību šai mājaslapai\"."
 
 #. Obsolete string (do not remove)
 #: firefox/tracking-protection-tour.lang:46
-#, fuzzy
 msgid ""
 "It’s easy to turn off Tracking Protection for the website you’re on by "
 "clicking “Disable protection for this session.”"
 msgstr ""
-"Izsekošanas aizsardzību var viegli atslēgt uzklikšķinot uz \"Atslēgt šai "
-"sesijai\"."
+"Izsekošanas aizsardzību var viegli atslēgt uzklikšķinot uz \"Atslēgt "
+"aizsardzību šai sesijai\"."
 
 #: firefox/tracking-protection-tour.lang:50
-#, fuzzy
 msgid ""
 "It’s easy to turn on Tracking Protection for the website you’re on by "
 "clicking “Enable protection.”"
 msgstr ""
-"Izsekošanas aizsardzību var viegli ieslēgt uzklikšķinot uz \"Aktivēt "
-"aizsardzību\". "
+"Izsekošanas aizsardzību var viegli ieslēgt apmeklētajā mājaslapā "
+"uzklikšķinot uz \"Aktivēt aizsardzību\"."
 
 #: firefox/tracking-protection-tour.lang:54
 msgid "3 of 3"
@@ -92,7 +90,7 @@ msgstr "Viss skaidrs!"
 
 #: firefox/tracking-protection-tour.lang:63
 msgid "Tracking Protection"
-msgstr ""
+msgstr "Izsekošanas aizsardzība"
 
 #: firefox/tracking-protection-tour.lang:67
 msgid "Private Browsing with Tracking Protection"
@@ -108,7 +106,7 @@ msgstr ""
 
 #: firefox/tracking-protection-tour.lang:77
 msgid "Thanks for learning about Tracking Protection."
-msgstr ""
+msgstr "Paldies ka painteresējaties par izsekošanas aizsardzību"
 
 #: firefox/tracking-protection-tour.lang:81
 msgid ""
