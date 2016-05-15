@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2016-05-15 15:06+0000\n"
+"PO-Revision-Date: 2016-05-15 16:05+0000\n"
 "Last-Translator: Jānis Marks Gailis <jm-gailis@fai-vianet.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
 "2);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1463324782.000000\n"
+"X-POOTLE-MTIME: 1463328351.000000\n"
 
 #: mozorg/about/history-details.lang:5
 msgid "History of the Mozilla Project"
@@ -55,6 +55,8 @@ msgid ""
 "By creating an open community, the Mozilla project had become <a href="
 "\"%(stevecase)s\">larger than any one company</a>."
 msgstr ""
+"Izveidojot atvērtu kopienu, Mozilla projekts kļuva <a href=\"%(stevecase)s"
+"\">lielāks par jebkādu uzņēmumu</a>."
 
 #: mozorg/about/history-details.lang:25
 msgid ""
@@ -64,6 +66,11 @@ msgid ""
 "variety of browsers</a>, <a href=\"%(bugzilla)s\">development tools</a> and "
 "a range of other <a href=\"%(projects)s\">projects</a>."
 msgstr ""
+"Kopienas dalībnieki iesaistījās un paplašināja <a href=\"%(mission)s"
+"\">oriģinālo misiju</a>; viņi ne tikai strādāja uz Netscape pēcteci, viņi "
+"izstrādāja <a href=\"%(browsers)s\">dažādus pārlūkus</a>, <a href="
+"\"%(bugzilla)s\">izstrādes rīkus</a> un vēl citus <a href=\"%(projects)s"
+"\">projektus</a>."
 
 #: mozorg/about/history-details.lang:29
 msgid ""
@@ -71,6 +78,9 @@ msgid ""
 "about creating free software that would enable people to have a choice in "
 "how they experienced the Internet."
 msgstr ""
+"Ieguldījumi Mozilla bija vairāku veidu, bet katram bija iedvesma brīvu "
+"programmatūru veidošanai, lai ļautu cilvēkiem būt izvēlei viņu interneta "
+"lietošanā."
 
 #: mozorg/about/history-details.lang:33
 msgid ""
@@ -79,12 +89,18 @@ msgid ""
 "many improvements to the browser, email client and other applications "
 "included in the suite, but not many people were using it."
 msgstr ""
+"Pēc vairākiem izstrādes gadiem, <a href=\"%(mozilla1)s\">Mozilla 1.0</a>, "
+"pirmā svarīgā versija, tika palaista 2002. gadā. Šī versija iekļāva daudzus "
+"uzlabojumus pārlūkam, pastu lasītājam un citām komplekta lietotnēm, bet "
+"lietotāju skaits bija mazs."
 
 #: mozorg/about/history-details.lang:37
 msgid ""
 "By 2002, <a href=\"%(over90)s\">well over 90%% of Internet users</a> were "
 "browsing with Internet Explorer."
 msgstr ""
+"2002. gadā, <a href=\"%(over90)s\">vairāk nekā 90%% interneta lietotāji</a> "
+"pārlūkoja ar Internet Explorer."
 
 #: mozorg/about/history-details.lang:41
 msgid ""
@@ -93,6 +109,9 @@ msgid ""
 "with the goal of providing the <a href=\"%(charter)s\">best possible "
 "browsing experience</a> to the widest possible set of people."
 msgstr ""
+"Daži tikai to pamanīja, bet Phoenix (vēlāk pārsaukts par Firefox) arī tika "
+"palaists tajā gadā ar mērķi piedāvāt <a href=\"%(charter)s\">vislabāko "
+"iespējamo pārlūkošanas pieredzi</a> visplašākajam skaitam cilvēku."
 
 #: mozorg/about/history-details.lang:45
 msgid ""
@@ -100,6 +119,9 @@ msgid ""
 "\"%(foundation)s\">independent non-profit organization</a> supported by "
 "individual donors and a variety of companies."
 msgstr ""
+"2003. gadā, Mozilla projekts izveidoja Mozilla Fondu, <a href="
+"\"%(foundation)s\">neatkarīga bezpeļņas organizācija</a> kuru atbalsta gan "
+"individuāli ziedotāji, gan dažādi uzņēmumi."
 
 #: mozorg/about/history-details.lang:49
 msgid ""
@@ -108,6 +130,9 @@ msgid ""
 "<a href=\"%(manifesto)s\">openness, innovation and opportunity</a> on the "
 "Internet."
 msgstr ""
+"Jaunveidotais Mozilla Fonds turpināja pārvaldīt projekta ikdienas darbības "
+"un arī oficiāli ieņēma pozīciju interneta piedāvāto <a href=\"%(manifesto)s"
+"\">atvērtību, inovāciju un iespēju</a> veicināšanā."
 
 #: mozorg/about/history-details.lang:53
 msgid ""
@@ -115,6 +140,10 @@ msgid ""
 "Thunderbird, and expanding to new areas, such as providing <a href="
 "\"%(grants)s\">grants</a> to support accessibility improvements on the Web."
 msgstr ""
+"Lai šos mērķus sasniegtu, fonds turpināja veidot lietotnes kā Firefox un "
+"Thunderbird, vienlaicīgi atveroties jauniem laukiem, piemēram piedāvājot <a "
+"href=\"%(grants)s\">stipendijas</a> lai atbalstītu pieejamības uzlabošanas "
+"centienus tīmeklī."
 
 #: mozorg/about/history-details.lang:57
 msgid ""
@@ -122,18 +151,25 @@ msgid ""
 "big success — in less than a year, it was downloaded <a href=\"%(millions)s"
 "\">over 100 million times</a>."
 msgstr ""
+"<a href=\"%(firefox1)s\">Firefox 1.0</a> tika palaists 2004. gadā un bija "
+"īpaši veiksmīgs; mazāk nekā gada laikā, tas tika lejupielādēts <a href="
+"\"%(millions)s\">vairāk nekā 100 miljonu reizes</a>."
 
 #: mozorg/about/history-details.lang:61
 msgid ""
 "New versions of Firefox have come out regularly since then and keep setting "
 "new records. The popularity of Firefox has helped bring choice back to users."
 msgstr ""
+"Kopš tā laika Firefox ir regulāri iznācis un turpinājis uzstādīt jaunus "
+"rekordus. Firefox popularitāti palīdzēja atdot izvēli lietotājiem."
 
 #: mozorg/about/history-details.lang:65
 msgid ""
 "The renewed competition has <a href=\"%(innovation)s\">accelerated "
 "innovation</a> and improved the Internet for everyone."
 msgstr ""
+"Šī atjaunotā sacensība ir bijusi <a href=\"%(innovation)s\">inovācijas "
+"paātrinātāja</a> un uzlaboja internetu visiem lietotājiem."
 
 #: mozorg/about/history-details.lang:69
 msgid ""
@@ -141,10 +177,13 @@ msgid ""
 "full power of the Web on smartphones and once again offer control and choice "
 "to a new generation of people coming online."
 msgstr ""
+"2013. gadā, mēs palaidām <a href=\"%(firefoxos)s\">Firefox OS</a> lai "
+"atbrīvotu tīmekļa iespējas uz mobilām ierīcēm un vēlreiz atdot iespēju un "
+"kontroli jaunai interneta lietotāji paaudzei."
 
 #: mozorg/about/history-details.lang:73
 msgid "Mozilla also celebrated its 15th anniversary in 2013."
-msgstr ""
+msgstr "Mozilla arī nosvinēja savu 15. dzimšanas dienu 2013. gadā."
 
 #: mozorg/about/history-details.lang:77
 msgid ""
