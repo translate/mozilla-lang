@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2016-05-16 06:46+0000\n"
+"PO-Revision-Date: 2016-05-16 07:44+0000\n"
 "Last-Translator: Mihovil Stanić <mihovil@miho.im>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1463381206.000000\n"
+"X-POOTLE-MTIME: 1463384684.000000\n"
 
 #. Used for HTML title attribute
 #: mozorg/contribute.lang:9
@@ -311,6 +311,10 @@ msgid ""
 "source values. With <a href=\"%(mktcontrib_url)s\">contribution "
 "opportunities</a> at every skill level, it’s easy to make an impact!"
 msgstr ""
+"<a href=\"%(marketplace_url)s\">Firefox Marketplace</a> pruža sadržaj – "
+"igre, glazbu, društvene aplikacije i više – izgrađene s HTML5 standardima i "
+"vrijednostima otvorenog koda. Sa <a href=\"%(mktcontrib_url)s\">prilikama za "
+"doprinjeti</a> s bilo kojom razinom iskustva, lakše je učiniti razliku!"
 
 #. Add-ons
 #: mozorg/contribute.lang:233
@@ -320,6 +324,9 @@ msgid ""
 "and <a href=\"%(addons_wiki)s\">learn more about the different ways you can "
 "contribute</a>."
 msgstr ""
+"Dodaci čine Firefox najprilagodljivijim preglednikom. Započnite <a href="
+"\"%(addons_url)s\">s izradom dodatka</a> i <a href=\"%(addons_wiki)s"
+"\">saznajte više o različitim načinima kojima možete doprinjeti</a>."
 
 #. Visual design
 #: mozorg/contribute.lang:238
