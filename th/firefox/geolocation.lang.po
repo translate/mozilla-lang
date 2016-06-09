@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2016-06-07 15:22+0000\n"
+"PO-Revision-Date: 2016-06-09 08:42+0000\n"
 "Last-Translator: nutmos <nuttapong2539@gmail.com>\n"
 "Language-Team: none\n"
 "Language: th\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1465312953.000000\n"
+"X-POOTLE-MTIME: 1465461757.000000\n"
 
 #: firefox/geolocation.lang:6
 msgid "Geolocation in Firefox"
@@ -82,10 +82,14 @@ msgid ""
 "get an estimate of your location. That location estimate is then shared with "
 "the requesting website."
 msgstr ""
+"ถ้าคุณอนุญาต Firefox จะรับข้อมูลเกี่ยวกับจุดเข้าถึงการเชื่อมต่อไร้สายใกล้คุณและที่อยู่ IP "
+"ของคอมพิวเตอร์คุณ จากนั้น Firefox จะส่งข้อมูลเหล่านี้ไปยังผู้ให้บริการที่อยู่ที่เป็นค่าเริ่มต้นคือ "
+"Google Locations Services เพื่อรับการประมาณการสถานที่ของคุณ "
+"สถานที่ที่ประมาณการนี้จะถูกแบ่งปันกับเว็บไซต์ที่ขอข้อมูล"
 
 #: firefox/geolocation.lang:50
 msgid "If you say that you do not consent, Firefox will not do anything."
-msgstr ""
+msgstr "ถ้าคุณบอกว่าคุณไม่อนุญาต Firefox จะไม่ทำอะไร"
 
 #: firefox/geolocation.lang:54
 msgid "How accurate are the locations?"
@@ -127,7 +131,7 @@ msgstr "ที่อยู่ IP ของคอมพิวเตอร์ค�
 
 #: firefox/geolocation.lang:78
 msgid "information about the nearby wireless access points, and"
-msgstr ""
+msgstr "ข้อมูลเกี่ยวกับจุดเชื่อมต่อไร้สายใกล้เคียง และ"
 
 #: firefox/geolocation.lang:82
 msgid ""
@@ -171,10 +175,12 @@ msgid ""
 "For information about what the requesting website does with your location "
 "information, please refer to that website’s privacy policy."
 msgstr ""
+"สำหรับข้อมูลว่าเว็บไซต์ที่เรียกใช้ทำอะไรกับข้อมูลของคุณบ้าง "
+"โปรดอ้างอิงไปยังข้อกำหนดความเป็นส่วนตัวของเว็บไซต์"
 
 #: firefox/geolocation.lang:106
 msgid "For more information about your privacy, you should also read:"
-msgstr ""
+msgstr "สำหรับรายละเอียดเพิ่มเติมเกี่ยวกับความเป็นส่วนตัวของคุณ คุณควรอ่านสิ่งนี้เพิ่มเติม:"
 
 #: firefox/geolocation.lang:110
 msgid "Mozilla Firefox Privacy Notice"
