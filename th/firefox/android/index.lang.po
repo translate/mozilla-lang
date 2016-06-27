@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-02 16:30+0000\n"
-"PO-Revision-Date: 2016-06-05 05:57+0000\n"
+"PO-Revision-Date: 2016-06-27 15:12+0000\n"
 "Last-Translator: nutmos <nuttapong2539@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1465106231.000000\n"
+"X-POOTLE-MTIME: 1467040356.000000\n"
 
 #. Used in HTML as page title
 #: firefox/android/index.lang:8
@@ -191,6 +191,8 @@ msgid ""
 "Browse without having your history, searches or cookies saved, and block "
 "hidden third parties from following you across the Web."
 msgstr ""
+"เรียกดูโดยไม่มีการบันทึกประวัติ, การค้นหา หรือคุกกี้ของคุณ "
+"และปิดกั้นการซ่อนการติดตามคุณจากบุคคลที่สามทั่วเว็บ"
 
 #: firefox/android/index.lang:165
 msgid "Learn more about Private Browsing"
@@ -220,7 +222,7 @@ msgstr ""
 msgid ""
 "Share your browser with friends and family without worrying that you’ll see "
 "each other’s online activity."
-msgstr ""
+msgstr "แบ่งปันเบราว์เซอร์กับเพื่อนและครอบครัวโดยไม่ต้องกังวลว่าคุณจะเห็นกิจกรรมออนไลน์ของคนอื่น"
 
 #: firefox/android/index.lang:194
 msgid "Learn how to share your browser"
@@ -262,7 +264,6 @@ msgstr "บันทึกประจำรุ่น"
 
 #. Obsolete string, will be removed after the Firefox 42 campaign
 #: firefox/android/index.lang:231
-#, fuzzy
 msgid "Do not track"
 msgstr "อย่าตามรอย"
 
@@ -276,11 +277,10 @@ msgstr ""
 #. Obsolete string, will be removed after the Firefox 42 campaign
 #: firefox/android/index.lang:241
 msgid "Learn more about Do Not Track"
-msgstr ""
+msgstr "เรียนรู้เพิ่มเติมเกี่ยวกับ อย่าตามรอย"
 
 #. Obsolete string, do not remove
 #: firefox/android/index.lang:246
-#, fuzzy
 msgid "Private Browsing"
 msgstr "ท่องเว็บแบบส่วนตัว"
 
@@ -301,7 +301,7 @@ msgstr "เรียนรู้เกี่ยวกับวิธีเปิ
 #. Obsolete string, do not remove
 #: firefox/android/index.lang:262
 msgid "See how Private Browsing works"
-msgstr ""
+msgstr "ดูว่าท่องเว็บแบบส่วนตัวทำงานอย่างไร"
 
 #, fuzzy
 #~ msgid "Get Firefox OS"
