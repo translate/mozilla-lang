@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-07 13:12+0000\n"
+"POT-Creation-Date: 2016-07-20 20:10+0000\n"
 "PO-Revision-Date: 2015-07-15 15:04+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -221,91 +221,96 @@ msgstr "Kànsí Wa"
 msgid "Other languages:"
 msgstr "Àwọn èdè míìràn:"
 
-#. Year / Month / Day, indicate your prefered date format for your language
+#. Will replace "Other languages" for the footer's language switcher
 #: main.lang:204
+msgid "Page language:"
+msgstr ""
+
+#. Year / Month / Day, indicate your prefered date format for your language
+#: main.lang:209
 msgid "%Y-%m-%d"
 msgstr "%Y-%m-%d"
 
-#: main.lang:208
+#: main.lang:213
 msgid "Legal"
 msgstr "Ti òfin"
 
 #. Used as link in the footer
-#: main.lang:213
+#: main.lang:218
 msgid "Cookies"
 msgstr "Àwọn kúkì"
 
 #. Used as link in the footer
-#: main.lang:218
+#: main.lang:223
 msgid "Firefox Affiliates"
 msgstr "Àwọn ìsopọ̀mọ Firefox"
 
-#: main.lang:222
+#: main.lang:227
 msgid "Legal Notices"
 msgstr "Àwọn Ìfitolétí ti Òfin"
 
-#: main.lang:226
+#: main.lang:231
 msgid "Privacy Policy"
 msgstr "Ìlànà Ìpamọ́"
 
-#: main.lang:230
+#: main.lang:235
 msgid "Release Notes"
 msgstr "Àkọsílẹ̀ Ọ̀rọ̀-ìyípadà"
 
-#: main.lang:234
+#: main.lang:239
 msgid "Other Systems and Languages"
 msgstr "Àwọn ẹ̀rọ míìràn àti Èdè"
 
-#: main.lang:238
+#: main.lang:243
 msgid "Close"
 msgstr "Tìí"
 
-#: main.lang:242
+#: main.lang:247
 msgid "(in English)"
 msgstr "(ní Gẹ̀ẹ́sì)"
 
-#: main.lang:246
+#: main.lang:251
 msgid "Return to top"
 msgstr "Pàdà sókè"
 
-#: main.lang:250
+#: main.lang:255
 msgid "Features"
 msgstr "Àwọn àbùdá"
 
-#: main.lang:254
+#: main.lang:259
 msgid "Customize"
 msgstr "Ṣàdáni"
 
-#: main.lang:259
+#: main.lang:264
 msgid "Download"
 msgstr "Gbàsílẹ̀"
 
-#: main.lang:263
+#: main.lang:268
 msgid "Previous"
 msgstr "Ti ìsáájú"
 
-#: main.lang:267
+#: main.lang:272
 msgid "Next"
 msgstr "Tókàn"
 
 #. MegaBytes abbreviation
-#: main.lang:272
+#: main.lang:277
 msgid "MB"
 msgstr "MB"
 
-#: main.lang:276
+#: main.lang:281
 msgid "MegaBytes"
 msgstr "Àwọn Mẹ́gábáìtì"
 
-#: main.lang:280
+#: main.lang:285
 msgid "FAQ"
 msgstr "Àwọn Ìbéèrè lóri Sísaájú"
 
-#: main.lang:284
+#: main.lang:289
 msgid "Videos"
 msgstr "Fídíò"
 
-#: main.lang:288
+#: main.lang:293
 msgid ""
 "Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
 "licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
@@ -315,106 +320,106 @@ msgstr ""
 "ẹ̀rí lábẹ <br /><a href=\"%s\">Ìpín Ìhùwàsí Tó Wọ́pọ̀ Alátinúdá-Bii Ìwé ẹ̀rí "
 "v3.0</a>tàbí ẹ̀yà míìràn."
 
-#: main.lang:292
+#: main.lang:297
 msgid "Report Trademark Abuse"
 msgstr "Jábọ̀ Àṣìlò Àmìokoòwò"
 
-#: main.lang:296
+#: main.lang:301
 msgid "Free Upgrade"
 msgstr "Ṣàfikún Ọ̀fẹ́"
 
 #. social networks such as Facebook and Twitter
-#: main.lang:301
+#: main.lang:306
 msgid "Follow us on:"
 msgstr "Tẹ̀lé wa lóri:"
 
-#: main.lang:305
+#: main.lang:310
 msgid "Customize with Add-ons"
 msgstr "Ṣàdáni pẹ̀lú Àfikún"
 
-#: main.lang:309
+#: main.lang:314
 msgid "Learn More"
 msgstr "Kọ́si"
 
 #. Same as previous above but with no capitalization on More
-#: main.lang:314
+#: main.lang:319
 msgid "Learn more"
 msgstr "Kọ́si"
 
 #. Link used to play again an animation or a video
-#: main.lang:319
+#: main.lang:324
 msgid "Replay"
 msgstr "Ṣàtúnṣeré"
 
-#: main.lang:323
+#: main.lang:328
 msgid "Watch the video"
 msgstr "Wo fídíò náà"
 
-#: main.lang:327
+#: main.lang:332
 msgid "Replay the video"
 msgstr "Ṣàtúnṣeré fídíò náà"
 
-#: main.lang:331
+#: main.lang:336
 msgid "Share the video"
 msgstr "Pín fídíò náà"
 
-#: main.lang:335
+#: main.lang:340
 msgid "WebM format"
 msgstr "Ìgúnrégé WebM"
 
-#: main.lang:339
+#: main.lang:344
 msgid "Ogg Theora format"
 msgstr "Ìgúnrégé Ogg Theora"
 
-#: main.lang:343
+#: main.lang:348
 msgid "MPEG-4 format"
 msgstr "Ìgúnrégé MPEG-4"
 
-#: main.lang:347
+#: main.lang:352
 msgid "Mobile"
 msgstr "Alágbèká"
 
-#: main.lang:351
+#: main.lang:356
 msgid "Check out the new look and feel of Firefox."
 msgstr "Ṣàyẹ̀wò ìwò titun kí o ní ìrirí ti Firefox."
 
-#: main.lang:355
+#: main.lang:360
 msgid "View Full Site"
 msgstr "Ṣàyẹ̀wò Ojú Wẹ́ẹ̀bù Kíkún"
 
-#: main.lang:359
+#: main.lang:364
 msgid "Download for <span>Android</span>"
 msgstr "Ṣàgbáwálẹ̀ fún <span>Android</span>"
 
-#: main.lang:363
+#: main.lang:368
 msgid "Desktop"
 msgstr "Àtẹ iṣẹ́"
 
-#: main.lang:367
+#: main.lang:372
 msgid "Firefox Beta for mobile"
 msgstr "Firefox Bẹ́tà fún alágbèká"
 
-#: main.lang:371
+#: main.lang:376
 msgid "Firefox for mobile"
 msgstr "Firefox fún alágbèká"
 
-#: main.lang:375
+#: main.lang:380
 msgid "Email"
 msgstr "Í-meélì"
 
-#: main.lang:379
+#: main.lang:384
 msgid "Super speed"
 msgstr "Ìyárasí tó gbèdéké"
 
-#: main.lang:383
+#: main.lang:388
 msgid "Stunning graphics"
 msgstr "Àwọn ajẹmáwòrán ọ̀nàọ̀tọ̀"
 
-#: main.lang:387
+#: main.lang:392
 msgid "The latest technologies"
 msgstr "Àwọn ìmọ̀ ẹ̀rọ tuntun"
 
-#: main.lang:391
+#: main.lang:396
 msgid ""
 "You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
 "new Firefox for the best in browsing and customization on the Web. <br/>   "
@@ -423,30 +428,30 @@ msgstr ""
 "O nílò láti ṣàfikún! Wà lálàáfíà láìpé ìṣẹjú. <br/> Bẹ̀rẹ̀ síní lo Firefox rẹ "
 "tuntun fún ìgbàwálẹ̀ àti alàdàáni lóri Wẹ́ẹ̀bù. <br/>   Ó yára ó sì jẹ́ ọ̀fẹ́!  "
 
-#: main.lang:395
+#: main.lang:400
 msgid "Upgrade now"
 msgstr "Ṣàfikún báyì"
 
-#: main.lang:399
+#: main.lang:404
 msgid "Update now"
 msgstr "Ṣàfikún báyì"
 
-#: main.lang:403
+#: main.lang:408
 msgid "Supported Devices"
 msgstr "Àwọn ohun èlò tí a fowọ́sí"
 
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-#: main.lang:408
+#: main.lang:413
 msgid "What’s New"
 msgstr "Kíni tuntun"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
-#: main.lang:413
+#: main.lang:418
 msgid "Privacy"
 msgstr "Ìpamọ́"
 
 #. Footer string
-#: main.lang:418
+#: main.lang:423
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
@@ -456,223 +461,223 @@ msgstr ""
 "org. Àkoonú wà lábẹ́ <a href=\"%(url)s\"> Ìṣẹ̀dá Ìwé ẹ̀rí Ìwọ́pọ̀</a>."
 
 #. Footer string (will replace "Contribute to this page")
-#: main.lang:423
+#: main.lang:428
 msgid "Contribute to this site"
 msgstr "Dásí ojúlà wẹ́ẹ̀bù yìí"
 
 #. Footer string
-#: main.lang:428
+#: main.lang:433
 msgid "Contribute to this page"
 msgstr "Dá sí ojú ewé yìí"
 
 #. Top menu item
-#: main.lang:433
+#: main.lang:438
 msgid "Mission"
 msgstr "Iṣẹ́ rírán"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:438
+#: main.lang:443
 msgid "Tour"
 msgstr "Ìrìnkèrindò"
 
 #. Footer item
-#: main.lang:443
+#: main.lang:448
 msgid "Partner with Us"
 msgstr "Alájọṣiṣẹ́pọ̀ pẹ̀lú Wa"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:448
+#: main.lang:453
 msgid "Sync"
 msgstr "Múdọ́gba"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:453
+#: main.lang:458
 msgid "Desktop Add-ons"
 msgstr "Àfikún Àtẹ iṣẹ́"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:458
+#: main.lang:463
 msgid "Android Add-ons"
 msgstr "Àfikún Android"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:463
+#: main.lang:468
 msgid "Themes"
 msgstr "Àwọn Àkọ́lé ńlá"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:468
+#: main.lang:473
 msgid "Desktop Support"
 msgstr "Ìkìnlẹ́hìn Àtẹ iṣẹ́"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:473
+#: main.lang:478
 msgid "Android Support"
 msgstr "Ìkìnlẹ́hìn Android"
 
 #. Top menu item on firefox/update page
-#: main.lang:478
+#: main.lang:483
 msgid "Performance"
 msgstr "Ìṣesì"
 
 #. Top menu item on firefox/update page
-#: main.lang:483
+#: main.lang:488
 msgid "Technology"
 msgstr "Ìmọ̀ ẹ̀rọ"
 
 #. Top menu item on firefox/update page
-#: main.lang:488
+#: main.lang:493
 msgid "Privacy &amp; Security"
 msgstr "Ìpamọ́ &amp; Ààbò"
 
 #. Top menu item on firefox/update page
-#: main.lang:493
+#: main.lang:498
 msgid "Releases"
 msgstr "Àwọn ìtùsílẹ̀"
 
 #. Top menu item on firefox/update page
-#: main.lang:498
+#: main.lang:503
 msgid "Firefox"
 msgstr "Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:503
+#: main.lang:508
 msgid "Firefox for Organizations"
 msgstr "Firefox fún Àwọn Òtéńté Ilé iṣẹ́"
 
 #. Top menu item on firefox/update page
-#: main.lang:508
+#: main.lang:513
 msgid "Mobile Add-ons"
 msgstr "Àfikún Alágbèká"
 
 #. Top menu item on firefox/update page
-#: main.lang:513
+#: main.lang:518
 msgid "Mobile Support"
 msgstr "Ìkìnlẹ́hìn Alágbeká"
 
 #. Top menu item on firefox/update page
-#: main.lang:518
+#: main.lang:523
 msgid "Blog"
 msgstr "Búlọ́ọ̀gì"
 
 #. Top menu item on firefox/update page
-#: main.lang:523
+#: main.lang:528
 msgid "About Firefox"
 msgstr "Nípa Firefox"
 
 #. Top menu item on firefox/update page
-#: main.lang:528
+#: main.lang:533
 msgid "Join Mozilla"
 msgstr "Darapọ mọ́ Mozilla"
 
 #. Top menu item on firefox/update page
-#: main.lang:533
+#: main.lang:538
 msgid "Participate"
 msgstr "Kópa"
 
 #. Will be used for the navigation. Translate as a verb (call to action), not a noun.
-#: main.lang:538
+#: main.lang:543
 msgid "Volunteer"
 msgstr "Olùfarajì"
 
 #. Top menu item on firefox/update page
-#: main.lang:543
+#: main.lang:548
 msgid "Brand Toolkit"
 msgstr "Ẹ̀yà Àkópọ̀Irinṣẹ́"
 
 #. Top menu item on firefox/update page
-#: main.lang:548
+#: main.lang:553
 msgid "Partnerships"
 msgstr "Ìbásepọ̀ "
 
 #. Newsletter subscription form above footer on some pages
-#: main.lang:553
+#: main.lang:558
 msgid "Get Mozilla updates"
 msgstr "Gba ìṣáfikùn Mozilla"
 
 #. share button for social networks
-#: main.lang:558
+#: main.lang:563
 msgid "Share"
 msgstr "Pín"
 
 #. footer link
-#: main.lang:563
+#: main.lang:568
 msgid "Mozilla on Twitter"
 msgstr "Mozilla ní Twitter"
 
 #. footer link
-#: main.lang:568
+#: main.lang:573
 msgid "Firefox on Twitter"
 msgstr "Firefox ní Twitter"
 
 #. footer link
-#: main.lang:573
+#: main.lang:578
 msgid "Mozilla on Facebook"
 msgstr "Mozilla ní Facebook"
 
 #. footer link
-#: main.lang:578
+#: main.lang:583
 msgid "Firefox on Facebook"
 msgstr "Firefox ní Facebook"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:583
+#: main.lang:588
 msgid "Forums"
 msgstr "Àwọn agbo"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:588
+#: main.lang:593
 msgid "Patents"
 msgstr ""
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:593
+#: main.lang:598
 msgid "Leadership"
 msgstr "Ìdarí"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:598
+#: main.lang:603
 msgid "Governance"
 msgstr "Ìjọba"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:603
+#: main.lang:608
 msgid "History"
 msgstr "Ìtàn"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:608
+#: main.lang:613
 msgid "Our Products"
 msgstr "Àwọn Ohun Ìgbéjáde Wa"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:613
+#: main.lang:618
 msgid "Software and other innovations designed to advance our mission."
 msgstr "Ẹ̀yà àìrídìmú àti ọ̀nà ẹ̀wà ọ̀nà àrà láti ṣàmúlọwájú iṣẹ́ wa."
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:618
+#: main.lang:623
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "Di olùdásí olùkópa ní oríṣiríṣi ọnà."
 
 #. This is a non-visible string for blind people to indicate where the menu is
-#: main.lang:623
+#: main.lang:628
 msgid "Menu"
 msgstr "Mẹ́nù"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
-#: main.lang:628
+#: main.lang:633
 msgid "Committed to you, your privacy and an open Web"
 msgstr "Farajìn fún ọ, ìpamọ́ rẹ àti ìṣílẹ̀ Wẹ́ẹ̀bù"
 
 #. Common title used in Fx 10 pages
-#: main.lang:633
+#: main.lang:638
 msgid "Choose Independent"
 msgstr "Yan Òmìnira"
 
 #. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 #. The '#ChooseIndependent' hashtag should not be translated.
-#: main.lang:640
+#: main.lang:645
 msgid ""
 "Keep the passion for a free and open Internet burning bright! "
 "#ChooseIndependent. Choose Firefox:"
@@ -681,212 +686,212 @@ msgstr ""
 "Yan Firefox:"
 
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
-#: main.lang:646
+#: main.lang:651
 msgid "Please turn on JavaScript to display this page correctly."
 msgstr "Jọ̀wọ́ tan JavaScript láti ṣàfihàn ojú ewé yii dáradára."
 
 #. Used as link to /firefox/desktop in footers on some pages
-#: main.lang:651
+#: main.lang:656
 msgid "Firefox Features"
 msgstr "Àwọn àbùdá Firefox"
 
 #. Used as link to SUMO in footers on some pages
-#: main.lang:656
+#: main.lang:661
 msgid "Firefox Help"
 msgstr "Ìrànwọ́ Firefox"
 
-#: main.lang:660
+#: main.lang:665
 msgid "January"
 msgstr "Ṣẹ̀rẹ̀"
 
-#: main.lang:664
+#: main.lang:669
 msgid "February"
 msgstr "Èrèlé"
 
-#: main.lang:668
+#: main.lang:673
 msgid "March"
 msgstr "Ẹrẹ́nà"
 
-#: main.lang:672
+#: main.lang:677
 msgid "April"
 msgstr "Igbe"
 
-#: main.lang:676
+#: main.lang:681
 msgid "May"
 msgstr "Èbìbí"
 
-#: main.lang:680
+#: main.lang:685
 msgid "June"
 msgstr "Òkúdù"
 
-#: main.lang:684
+#: main.lang:689
 msgid "July"
 msgstr "Agẹmọ"
 
-#: main.lang:688
+#: main.lang:693
 msgid "August"
 msgstr "Ògún"
 
-#: main.lang:692
+#: main.lang:697
 msgid "September"
 msgstr "Ọ̀wẹ́wẹ̀"
 
-#: main.lang:696
+#: main.lang:701
 msgid "October"
 msgstr "Ọ̀wàrà"
 
-#: main.lang:700
+#: main.lang:705
 msgid "November"
 msgstr "Bèlú"
 
-#: main.lang:704
+#: main.lang:709
 msgid "December"
 msgstr "Ọpẹ́"
 
-#: main.lang:708
+#: main.lang:713
 msgid "<abbr>Jan</abbr>"
 msgstr "<abbr>Ṣẹ̀rẹ̀</abbr>"
 
-#: main.lang:712
+#: main.lang:717
 msgid "<abbr>Feb</abbr>"
 msgstr "<abbr>Èrèlé</abbr>"
 
-#: main.lang:716
+#: main.lang:721
 msgid "<abbr>Mar</abbr>"
 msgstr "<abbr>Ẹrẹ́nà</abbr>"
 
-#: main.lang:720
+#: main.lang:725
 msgid "<abbr>Apr</abbr>"
 msgstr "<abbr>Igbe</abbr>"
 
-#: main.lang:724
+#: main.lang:729
 msgid "<abbr>May</abbr>"
 msgstr "<abbr>Èbìbí</abbr>"
 
-#: main.lang:728
+#: main.lang:733
 msgid "<abbr>Jun</abbr>"
 msgstr "<abbr>Okúdù</abbr>"
 
-#: main.lang:732
+#: main.lang:737
 msgid "<abbr>Jul</abbr>"
 msgstr "<abbr>Agẹmọ</abbr>"
 
-#: main.lang:736
+#: main.lang:741
 msgid "<abbr>Aug</abbr>"
 msgstr "<abbr>Ògún</abbr>"
 
-#: main.lang:740
+#: main.lang:745
 msgid "<abbr>Sep</abbr>"
 msgstr "<abbr>Ọwẹ́wẹ̀</abbr>"
 
-#: main.lang:744
+#: main.lang:749
 msgid "<abbr>Oct</abbr>"
 msgstr "<abbr>Ọ̀wàrà</abbr>"
 
-#: main.lang:748
+#: main.lang:753
 msgid "<abbr>Nov</abbr>"
 msgstr "<abbr>Bélu</abbr>"
 
-#: main.lang:752
+#: main.lang:757
 msgid "<abbr>Dec</abbr>"
 msgstr "<abbr>Ọ̀pẹ</abbr>"
 
 #. Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-#: main.lang:757
+#: main.lang:762
 msgid ""
 "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
 msgstr "Firefox ńbọ̀ láìpẹ̀ sí iOS! <a href=\"{url}\">Sàwọlé láti kọ́si</a>."
 
-#: main.lang:761
+#: main.lang:766
 msgid "Congrats. You’re up to date!"
 msgstr ""
 
 #. Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
-#: main.lang:766
+#: main.lang:771
 msgid "Format"
 msgstr ""
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
-#: main.lang:771
+#: main.lang:776
 #, fuzzy
 msgid "Text"
 msgstr "Tókàn"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
-#: main.lang:776
+#: main.lang:781
 msgid "HTML"
 msgstr ""
 
 #. This is the error message displayed if you provide an invalid email address in a form
-#: main.lang:781
+#: main.lang:786
 msgid "Whoops! Be sure to enter a valid email address."
 msgstr ""
 
-#: main.lang:785
+#: main.lang:790
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Notice</a>"
 msgstr ""
 
-#: main.lang:789
+#: main.lang:794
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
 msgstr ""
 
 #. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
-#: main.lang:794
+#: main.lang:799
 msgid "Keep up with<br> all things Firefox."
 msgstr ""
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: main.lang:799
+#: main.lang:804
 msgid "Get Firefox news"
 msgstr ""
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:804
+#: main.lang:809
 msgid "YOUR EMAIL HERE"
 msgstr ""
 
 #. Newsletter subscription Button
-#: main.lang:809
+#: main.lang:814
 msgid "Sign Up Now"
 msgstr ""
 
 #. Old newsletter subscription Button
-#: main.lang:814
+#: main.lang:819
 msgid "Sign me up"
 msgstr ""
 
-#: main.lang:818
+#: main.lang:823
 msgid "Select country"
 msgstr ""
 
-#: main.lang:822
+#: main.lang:827
 msgid "Available Languages"
 msgstr ""
 
-#: main.lang:826
+#: main.lang:831
 msgid "We will only send you Mozilla-related information."
 msgstr ""
 
-#: main.lang:830
+#: main.lang:835
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr ""
 
-#: main.lang:834
+#: main.lang:839
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
 "your subscription to receive our newsletter."
 msgstr ""
 
-#: main.lang:838
+#: main.lang:843
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr ""
 
-#: main.lang:842
+#: main.lang:847
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
