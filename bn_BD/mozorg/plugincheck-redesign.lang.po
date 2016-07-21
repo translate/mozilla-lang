@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-20 20:10+0000\n"
+"POT-Creation-Date: 2016-07-21 12:10+0000\n"
 "PO-Revision-Date: 2016-07-21 07:12+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "X-POOTLE-MTIME: 1469085168.000000\n"
 
 #. Page title (HTML attribute)
@@ -233,34 +233,32 @@ msgstr "শীর্ষে ফিরে যান"
 msgid "Update Now"
 msgstr "এখনই হালনাগাদ করুন"
 
-#. This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
-#: mozorg/plugincheck-redesign.lang:182
-#, fuzzy
-msgid "Learn more"
-msgstr "বিস্তারিত"
-
 #. This is alt text used on plugin icon images
-#: mozorg/plugincheck-redesign.lang:187
+#: mozorg/plugincheck-redesign.lang:182
 msgid "Plugin icon"
 msgstr "প্লাগইন আইকন"
 
 #. This is the string used to indicate that the plugin is up to date
-#: mozorg/plugincheck-redesign.lang:192
+#: mozorg/plugincheck-redesign.lang:187
 #, fuzzy
 msgid "up to date"
 msgstr "হালনাগাদ"
 
 #. This is the string used to indicate that the plugin is unknown
-#: mozorg/plugincheck-redesign.lang:197
+#: mozorg/plugincheck-redesign.lang:192
 msgid "unknown"
 msgstr "অজানা"
 
 #. This is the string used to indicate that the plugin is outdated
-#: mozorg/plugincheck-redesign.lang:202
+#: mozorg/plugincheck-redesign.lang:197
 msgid "outdated"
 msgstr "সেকেলে"
 
 #. This is the string used to indicate that the plugin is vulnerable
-#: mozorg/plugincheck-redesign.lang:207
+#: mozorg/plugincheck-redesign.lang:202
 msgid "vulnerable"
 msgstr "অরক্ষিত"
+
+#, fuzzy
+#~ msgid "Learn more"
+#~ msgstr "বিস্তারিত"
