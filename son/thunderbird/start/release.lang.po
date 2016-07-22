@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-20 20:10+0000\n"
+"POT-Creation-Date: 2016-07-22 09:10+0000\n"
 "PO-Revision-Date: 2016-02-12 23:49+0000\n"
 "Last-Translator: Mohomodou  Houssouba <mh@bollag-areal.ch>\n"
 "Language-Team: none\n"
@@ -120,7 +120,26 @@ msgstr "Bay ka tonton"
 msgid "Need Support?"
 msgstr "Ga boona faaba?"
 
-#: thunderbird/start/release.lang:88
+#: thunderbird/start/release.lang:89
+#, fuzzy
+msgid ""
+"Most Thunderbird support questions are answered in the <a href=\"%s"
+"\">Knowledge Base</a>."
+msgstr ""
+"Thunderbird faaba hãayan jere beerey kul duu zaabi <a href=\"%s\">Bayray "
+"margayan hugoo</a> ra."
+
+#: thunderbird/start/release.lang:94
+#, fuzzy
+msgid ""
+"If you can’t find an answer, <a href=\"%s\">ask your question in our support "
+"forum</a>."
+msgstr ""
+"Nda war ši hin ka tuura, <a href=\"%s\">hãa cee fo ir faaba faakaaray dogoo "
+"ra</a>."
+
+#. Obsolete string, do not remove
+#: thunderbird/start/release.lang:99
 msgid ""
 "Most Thunderbird support questions are answered on the <a href=\"%s"
 "\">Knowledge Base</a>."
@@ -128,7 +147,8 @@ msgstr ""
 "Thunderbird faaba hãayan jere beerey kul duu zaabi <a href=\"%s\">Bayray "
 "margayan hugoo</a> ra."
 
-#: thunderbird/start/release.lang:92
+#. Obsolete string, do not remove
+#: thunderbird/start/release.lang:104
 msgid ""
 "If you can’t find an answer, <a href=\"%s\">ask your question on our support "
 "forum</a>."
@@ -138,31 +158,31 @@ msgstr ""
 
 #. If your locale has a dedicated Thunderbird support forum, you can localize the URL
 #. used in the previous string to point there. Otherwise simply mark the string as {ok}
-#: thunderbird/start/release.lang:98
+#: thunderbird/start/release.lang:110
 msgid "https://support.mozilla.org/questions/new/thunderbird"
 msgstr "https://support.mozilla.org/questions/new/thunderbird"
 
-#: thunderbird/start/release.lang:102
+#: thunderbird/start/release.lang:114
 msgid "Features"
 msgstr "Alhaaley"
 
-#: thunderbird/start/release.lang:106
+#: thunderbird/start/release.lang:118
 msgid "Visit our blog"
 msgstr "Ir blogoo guna"
 
-#: thunderbird/start/release.lang:110
+#: thunderbird/start/release.lang:122
 msgid "Contribute"
 msgstr "Kanbuzaamay"
 
-#: thunderbird/start/release.lang:114
+#: thunderbird/start/release.lang:126
 msgid "Tips"
 msgstr "Nafaw yaamar"
 
-#: thunderbird/start/release.lang:118
+#: thunderbird/start/release.lang:130
 msgid "Add-ons"
 msgstr "Tontoney"
 
-#: thunderbird/start/release.lang:122
+#: thunderbird/start/release.lang:134
 msgid "Get help"
 msgstr "Duu faaba"
 

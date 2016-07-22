@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-20 20:10+0000\n"
+"POT-Creation-Date: 2016-07-22 09:10+0000\n"
 "PO-Revision-Date: 2016-05-26 12:30+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: none\n"
@@ -120,7 +120,26 @@ msgstr "Més informació"
 msgid "Need Support?"
 msgstr "Necessiteu ajuda?"
 
-#: thunderbird/start/release.lang:88
+#: thunderbird/start/release.lang:89
+#, fuzzy
+msgid ""
+"Most Thunderbird support questions are answered in the <a href=\"%s"
+"\">Knowledge Base</a>."
+msgstr ""
+"La majoria de preguntes d'assistència del Thunderbird tenen resposta a la <a "
+"href=\"%s\">base de coneixements</a>."
+
+#: thunderbird/start/release.lang:94
+#, fuzzy
+msgid ""
+"If you can’t find an answer, <a href=\"%s\">ask your question in our support "
+"forum</a>."
+msgstr ""
+"Si no trobeu la resposta, <a href=\"%s\">feu la vostra pregunta al fòrum "
+"d'assistència</a>."
+
+#. Obsolete string, do not remove
+#: thunderbird/start/release.lang:99
 msgid ""
 "Most Thunderbird support questions are answered on the <a href=\"%s"
 "\">Knowledge Base</a>."
@@ -128,7 +147,8 @@ msgstr ""
 "La majoria de preguntes d'assistència del Thunderbird tenen resposta a la <a "
 "href=\"%s\">base de coneixements</a>."
 
-#: thunderbird/start/release.lang:92
+#. Obsolete string, do not remove
+#: thunderbird/start/release.lang:104
 msgid ""
 "If you can’t find an answer, <a href=\"%s\">ask your question on our support "
 "forum</a>."
@@ -138,31 +158,31 @@ msgstr ""
 
 #. If your locale has a dedicated Thunderbird support forum, you can localize the URL
 #. used in the previous string to point there. Otherwise simply mark the string as {ok}
-#: thunderbird/start/release.lang:98
+#: thunderbird/start/release.lang:110
 msgid "https://support.mozilla.org/questions/new/thunderbird"
 msgstr "https://support.mozilla.org/questions/new/thunderbird"
 
-#: thunderbird/start/release.lang:102
+#: thunderbird/start/release.lang:114
 msgid "Features"
 msgstr "Característiques"
 
-#: thunderbird/start/release.lang:106
+#: thunderbird/start/release.lang:118
 msgid "Visit our blog"
 msgstr "Visiteu el nostre blog"
 
-#: thunderbird/start/release.lang:110
+#: thunderbird/start/release.lang:122
 msgid "Contribute"
 msgstr "Col·laboreu"
 
-#: thunderbird/start/release.lang:114
+#: thunderbird/start/release.lang:126
 msgid "Tips"
 msgstr "Consells"
 
-#: thunderbird/start/release.lang:118
+#: thunderbird/start/release.lang:130
 msgid "Add-ons"
 msgstr "Complements"
 
-#: thunderbird/start/release.lang:122
+#: thunderbird/start/release.lang:134
 msgid "Get help"
 msgstr "Obteniu ajuda"
 
