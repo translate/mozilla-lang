@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-21 12:10+0000\n"
-"PO-Revision-Date: 2016-07-22 06:27+0000\n"
+"PO-Revision-Date: 2016-07-26 08:54+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bn_BD\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1469168840.000000\n"
+"X-POOTLE-MTIME: 1469523243.000000\n"
 
 #. Page title (HTML attribute)
 #: mozorg/plugincheck-redesign.lang:6
@@ -83,7 +83,7 @@ msgstr "সকল প্লাগইন"
 
 #: mozorg/plugincheck-redesign.lang:52
 msgid "These plugins are out of date. Please update."
-msgstr ""
+msgstr "এই প্লাগইনগুলো পুরনো হয়ে গেছে। অনুগ্রহ করে হালনাগাদ করুন।"
 
 #: mozorg/plugincheck-redesign.lang:56
 msgid "Plugin"
@@ -99,11 +99,11 @@ msgstr "কাজ"
 
 #: mozorg/plugincheck-redesign.lang:68
 msgid "These plugins are up to date. No action required."
-msgstr ""
+msgstr "এই প্লাগইনগুলো হালনাগাদ করা হয়েছে। কোন পদক্ষেপ নেওয়ার প্রয়োজন নেই।"
 
 #: mozorg/plugincheck-redesign.lang:72
 msgid "These plugins have an unknown status. Follow the links to learn more."
-msgstr ""
+msgstr "এই প্লাগইনগুলোরর অবস্থা অজানা। আরও জানতে লিঙ্ক দেখুন।"
 
 #: mozorg/plugincheck-redesign.lang:76
 msgid "<span>Firefox</span> + You"
@@ -115,11 +115,11 @@ msgstr " Firefox এর টিপ, ট্রিক, খবরসহ আরও �
 
 #: mozorg/plugincheck-redesign.lang:84
 msgid "Common Plugin Questions"
-msgstr ""
+msgstr "প্লাগইন সম্পর্কিত সাধারণ প্রশ্ন"
 
 #: mozorg/plugincheck-redesign.lang:88
 msgid "Need help? Visit Mozilla Support."
-msgstr ""
+msgstr "সাহায্য প্রয়োজন? Mozilla Support দেখুন।"
 
 #: mozorg/plugincheck-redesign.lang:92
 msgid "What is a plugin?"
@@ -130,14 +130,13 @@ msgid ""
 "Plugins are bits of software that power videos, animation and games in your "
 "browser."
 msgstr ""
+"প্লাগইন একধরনের সফটওয়্যার যা আপনার ব্রাউজারে ভিডিও, অ্যানিমেশন ও গেম চলতে আরও "
+"শক্তি যোগায়।"
 
 #: mozorg/plugincheck-redesign.lang:100
-#, fuzzy
 msgid ""
 "They’re built outside of Firefox by companies like Adobe Systems and Apple."
-msgstr ""
-"তাদের তৈরি করা হয় কোম্পানি কর্তৃক ফায়ারফক্স এর বাহিরে যেমন অ্যাডোবি সিস্টেম এবং "
-"অ্যাপল।"
+msgstr "Firefox এর বাইরে Adobe Systems এবং Apple এর মত কম্পানী এদের তৈরি করে।"
 
 #: mozorg/plugincheck-redesign.lang:104
 msgid "Why should I update my plugins?"
@@ -170,13 +169,12 @@ msgid "How can Firefox help me?"
 msgstr "কিভাবে ফায়ারফক্স আমাকে সাহায্য করবে?"
 
 #: mozorg/plugincheck-redesign.lang:128
-#, fuzzy
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to keep your Firefox safe."
 msgstr ""
-"ভবিষৎ এ, ফায়ারফক্স আপনার জন্য প্লাগিন হালনাগাদ করবে।   সে পর্যন্ত, নিরাপদে থাকতে "
-"নিয়মিত এই পেজটি পরীক্ষা করুন এবং প্লাগিন আপডেট করুন।"
+"ভবিষতে, Firefox আপনার হয়ে প্লাগইন হালনাগাদ করবে। সে পর্যন্ত, Firefox কে নিরাপদে "
+"রাখতে নিয়মিত এই পাতাটি পরীক্ষা করুন এবং প্লাগইন হালনাগাদ করুন।"
 
 #: mozorg/plugincheck-redesign.lang:132
 msgid "How can I see which plugins I have installed in my Firefox?"
@@ -205,9 +203,8 @@ msgid "How do I disable a plugin?"
 msgstr "প্লাগিন কিভাবে নিষ্ক্রিয় করবো?"
 
 #: mozorg/plugincheck-redesign.lang:156
-#, fuzzy
 msgid "In Firefox for desktop:"
-msgstr "ডেস্কটপের জন্য ফায়ারফক্স"
+msgstr "ডেস্কটপের জন্য Firefox:"
 
 #: mozorg/plugincheck-redesign.lang:160
 msgid "Click on the drop down next to the plugin you wish to disable."
@@ -218,15 +215,14 @@ msgid "Select \"Never Activate\" from the available choices."
 msgstr "পছন্দের মধ্য থেকে \"Never Activate\" নির্বাচন করুন।"
 
 #: mozorg/plugincheck-redesign.lang:168
-#, fuzzy
 msgid ""
 "Caution: Disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on some streaming video websites."
 msgstr ""
-"সতর্কতা: একটি প্লাগিন নিষ্ক্রিয় করলে আপনি আর অনেক কিছু করতে পারবেন না। "
-"উদাহরণস্বরূপ, আপনি যদি ফ্ল্যাশ নিষ্ক্রিয় করেন, তবে আপনি আর জনপ্রিয় ভিডিও সাইটে "
-"ভিডিও দেখতে পারবেন না।"
+"সতর্কতা: একটি প্লাগইন নিষ্ক্রিয় করলে আপনি অনেক কিছু করতে পারবেন না। উদাহরণস্বরূপ, "
+"আপনি যদি Flash নিষ্ক্রিয় করেন, তবে আপনি আর জনপ্রিয় স্ট্রিমিং ভিডিও সাইটে ভিডিও "
+"দেখতে পারবেন না।"
 
 #: mozorg/plugincheck-redesign.lang:172
 msgid "Back to Top"
@@ -244,7 +240,6 @@ msgstr "প্লাগইন আইকন"
 
 #. This is the string used to indicate that the plugin is up to date
 #: mozorg/plugincheck-redesign.lang:187
-#, fuzzy
 msgid "up to date"
 msgstr "হালনাগাদ"
 
