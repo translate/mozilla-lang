@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-21 12:10+0000\n"
-"PO-Revision-Date: 2016-07-28 03:45+0000\n"
+"PO-Revision-Date: 2016-07-28 04:40+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: none\n"
 "Language: kk\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1469677544.000000\n"
+"X-POOTLE-MTIME: 1469680856.000000\n"
 
 #. Page title (HTML attribute)
 #: mozorg/plugincheck-redesign.lang:6
@@ -40,18 +40,23 @@ msgid ""
 "Plugins power the videos, animations and games in your Firefox. Keep an eye "
 "on their status and keep them up to date."
 msgstr ""
+"Плагиндер браузеріңізде видео, анимация және ойындар жұмысын қамтамасыз "
+"ететін бағдарламалық қамтама. Олардың қалып-күйін бақылап отырыңыз және "
+"оларды жаңартып ұстаңыз."
 
 #: mozorg/plugincheck-redesign.lang:24
 msgid "Be sure to restart your Firefox after making all recommended updates."
 msgstr ""
+"Барлық ұсынылған жаңартуларды жасағаннан кейін Firefox-ты қайта іске қосуды "
+"ұмытпаңыз."
 
 #: mozorg/plugincheck-redesign.lang:28
 msgid "You are using an older version of Firefox."
-msgstr ""
+msgstr "Сіз Firefox-тың ескі нұсқасын қолданып отырсыз."
 
 #: mozorg/plugincheck-redesign.lang:32
 msgid "Update now to keep your plugins running smoothly and securely."
-msgstr ""
+msgstr "Плагиндер жұмысын тегіс әрі қауіпсіз ету үшін оларды жаңартыңыз."
 
 #: mozorg/plugincheck-redesign.lang:36
 msgid ""
@@ -127,6 +132,8 @@ msgid ""
 "Plugins are bits of software that power videos, animation and games in your "
 "browser."
 msgstr ""
+"Плагиндер - браузеріңізде видео, анимация және ойындар жұмысын қамтамасыз "
+"ететін бағдарламалық қамтама."
 
 #: mozorg/plugincheck-redesign.lang:100
 msgid ""
@@ -152,16 +159,19 @@ msgid ""
 "They can also cause interruptions that negatively affect your browsing "
 "experience."
 msgstr ""
+"Сонымен қатар, олар браузер жұмысын тежей алатын жағдайларды туғыза алады."
 
 #: mozorg/plugincheck-redesign.lang:116
 msgid "Updated plugins keep your browser working smoothly and safely."
-msgstr ""
+msgstr "Жаңартылған плагиндер браузер жұмысын тегіс әрі қауіпсіз етеді."
 
 #: mozorg/plugincheck-redesign.lang:120
 msgid ""
 "Plugins don’t always update automatically so it’s up to you from time to "
 "time."
 msgstr ""
+"Плагиндер әрқашан автоматты түрде жаңартыла бермейді, кейде сіз оны "
+"жасауыңыз керек."
 
 #: mozorg/plugincheck-redesign.lang:124
 msgid "How can Firefox help me?"
@@ -185,6 +195,9 @@ msgid ""
 "We automatically detected your plugins above. To view all the plugins you "
 "have installed in Firefox, follow these steps in your desktop browser:"
 msgstr ""
+"Жоғарыдағы плагиндеріңіз автоанықталды. Firefox ішіне сіз орнатқан барлық "
+"плагиндерді қарау үшін, жұмыс үстелі үшін браузерде келесі қадамдарды "
+"жасаңыз:"
 
 #: mozorg/plugincheck-redesign.lang:140
 msgid "Open the <span class=\"menu\">menu</span>."
@@ -203,9 +216,8 @@ msgid "How do I disable a plugin?"
 msgstr "Маған плагинды қалай өшіруге болады?"
 
 #: mozorg/plugincheck-redesign.lang:156
-#, fuzzy
 msgid "In Firefox for desktop:"
-msgstr "Жұмыс үстелі үшін Firefox"
+msgstr "Жұмыс үстелі үшін Firefox ішінде:"
 
 #: mozorg/plugincheck-redesign.lang:160
 msgid "Click on the drop down next to the plugin you wish to disable."
@@ -216,7 +228,6 @@ msgid "Select \"Never Activate\" from the available choices."
 msgstr "Қолжетерлік таңдаулардан \"Ешқашан белсендірмеу\" таңдаңыз."
 
 #: mozorg/plugincheck-redesign.lang:168
-#, fuzzy
 msgid ""
 "Caution: Disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
@@ -242,9 +253,8 @@ msgstr "Плагин таңбашасы"
 
 #. This is the string used to indicate that the plugin is up to date
 #: mozorg/plugincheck-redesign.lang:187
-#, fuzzy
 msgid "up to date"
-msgstr "Ескірмеген"
+msgstr "ескірмеген"
 
 #. This is the string used to indicate that the plugin is unknown
 #: mozorg/plugincheck-redesign.lang:192
