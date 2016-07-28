@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-29 18:12+0000\n"
-"PO-Revision-Date: 2015-09-08 09:24+0000\n"
+"PO-Revision-Date: 2016-07-28 19:37+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: none\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1441704254.000000\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1469734666.000000\n"
 
 #. Page title
 #: firefox/os/devices.lang:6
@@ -155,7 +156,7 @@ msgstr "ပီရူး"
 
 #: firefox/os/devices.lang:144
 msgid "Romania"
-msgstr ""
+msgstr "ရိုမေးနီးယား"
 
 #: firefox/os/devices.lang:148
 msgid "Russia"
@@ -800,9 +801,8 @@ msgid "2370 mAh"
 msgstr "2370 mAh"
 
 #: firefox/os/devices.lang:780
-#, fuzzy
 msgid "Up to 4 h"
-msgstr "40 h အထိ"
+msgstr "၄ နာရီ အထိ"
 
 #: firefox/os/devices.lang:784
 msgid "5.3 h"
@@ -813,19 +813,16 @@ msgid "6.5 h"
 msgstr "6.5 h"
 
 #: firefox/os/devices.lang:792
-#, fuzzy
 msgid "Up to 6 h"
-msgstr "16 h အထိ"
+msgstr "၆ နာရီ အထိ"
 
 #: firefox/os/devices.lang:796
-#, fuzzy
 msgid "Up to 6.5 h"
-msgstr "5.3 h ထိ"
+msgstr "၆.၅ နာရီအထိ"
 
 #: firefox/os/devices.lang:800
-#, fuzzy
 msgid "Up to 6.7 h"
-msgstr "7 h အထိ"
+msgstr "၆.၇ နာရီအထိ"
 
 #: firefox/os/devices.lang:804
 msgid "6.7 h"
@@ -836,9 +833,8 @@ msgid "7 h"
 msgstr "7 h"
 
 #: firefox/os/devices.lang:812
-#, fuzzy
 msgid "Up to 9 h"
-msgstr "7 h အထိ"
+msgstr "၉ နာရီအထိ"
 
 #: firefox/os/devices.lang:816
 msgid "9 h"
@@ -846,7 +842,7 @@ msgstr "9 h"
 
 #: firefox/os/devices.lang:820
 msgid "Up to 9 h 20 m"
-msgstr ""
+msgstr "၉ နာရီ ၂၀ မိနစ် အထိ"
 
 #: firefox/os/devices.lang:824
 msgid "9 h 20 m"
@@ -861,9 +857,8 @@ msgid "176 h"
 msgstr "176 h"
 
 #: firefox/os/devices.lang:836
-#, fuzzy
 msgid "Up to 5 h"
-msgstr "7 h အထိ"
+msgstr "၅ နာရီ အထိ"
 
 #: firefox/os/devices.lang:840
 msgid "Up to 5.3 h"
@@ -886,9 +881,8 @@ msgid "Up to 16 h"
 msgstr "16 h အထိ"
 
 #: firefox/os/devices.lang:860
-#, fuzzy
 msgid "Up to 17 h"
-msgstr "7 h အထိ"
+msgstr "၁၇ နာရီ အထိ"
 
 #: firefox/os/devices.lang:864
 msgid "Up to 40 h"
@@ -955,14 +949,14 @@ msgstr "3.5\" HVGA 320 x 480 pixels, 262K ကာလာစကရင်"
 msgid "3.5\" HVGA 320 x 480 pixels"
 msgstr "3.5\" HVGA 320 x 480 pixels"
 
+# will not translate this string that is for Device, may be LCD screen.
 #: firefox/os/devices.lang:929
-#, fuzzy
 msgid "3.5\" TFT HVGA 320 x 480 pixels"
-msgstr "3.5\" HVGA 320 x 480 pixels"
+msgstr "3.5\" TFT HVGA 320 x 480 pixels"
 
 #: firefox/os/devices.lang:933
 msgid "3.5\" HVGA Capacitive 320 x 480 pixels"
-msgstr ""
+msgstr "3.5\" HVGA Capacitive 320 x 480 pixels"
 
 #: firefox/os/devices.lang:937
 msgid "4.0\" WVGA"
@@ -993,13 +987,12 @@ msgid "4.7\""
 msgstr "4.7\""
 
 #: firefox/os/devices.lang:965
-#, fuzzy
 msgid "4.7\" HD"
-msgstr "4.5\" qHD"
+msgstr "4.7\" HD"
 
 #: firefox/os/devices.lang:969
 msgid "4.7\" HD 720 x 1280 pixels"
-msgstr ""
+msgstr "4.7\" HD 720 x 1280 pixels"
 
 #. other screen strings
 #: firefox/os/devices.lang:974
@@ -1011,9 +1004,8 @@ msgid "480 x 800 pixels"
 msgstr "480 x 800 pixels"
 
 #: firefox/os/devices.lang:982
-#, fuzzy
 msgid "720 x 1280 pixels"
-msgstr "320 x 480 pixels"
+msgstr "720 x 1280 pixels"
 
 #: firefox/os/devices.lang:986
 msgid "TFT capacitive touch"
@@ -1042,31 +1034,31 @@ msgstr "ဝတ်ဘ် ဘယောက်ဆာ"
 
 #: firefox/os/devices.lang:1011
 msgid "Web Apps Discovery Portal"
-msgstr ""
+msgstr "ဝဘ်အက်ပ်များရှာဖွေရေးပေါ်တယ်"
 
 #: firefox/os/devices.lang:1015
 msgid "Web Apps"
-msgstr ""
+msgstr "ဝဘ်အက်ပ်များ"
 
 #: firefox/os/devices.lang:1019
 msgid "Pin to Home"
-msgstr ""
+msgstr "အဖွင့်စာမျက်နှာတွင် ပြပါ"
 
 #: firefox/os/devices.lang:1023
 msgid "Send to TV"
-msgstr ""
+msgstr "TV တွင် ပြပါ"
 
 #: firefox/os/devices.lang:1027
 msgid "Firefox Account sync (bookmark/history)"
-msgstr ""
+msgstr "မီးမြေခွေးအကောင့် sync (စာမှတ်/မှတ်တမ်း)"
 
 #: firefox/os/devices.lang:1031
 msgid "Models Powered by Firefox OS"
-msgstr ""
+msgstr "မီးမြေခွေးစနစ်ဖြင့် မောင်းနှင်သော မိုဒယ်ပုံစံများ"
 
 #: firefox/os/devices.lang:1035
 msgid "Full DX series"
-msgstr ""
+msgstr "DX အစဉ်တွဲ အပြည့်အစုံ"
 
 #. Footer
 #: firefox/os/devices.lang:1040
