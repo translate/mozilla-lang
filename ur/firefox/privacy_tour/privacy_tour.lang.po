@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
 "X-POOTLE-MTIME: 1470569890.000000\n"
 
 #. This is the title for a door-hanger menu that shows in the browser chrome
@@ -29,12 +29,12 @@ msgstr ""
 #. This is the label for a button that starts the tour
 #: firefox/privacy_tour/privacy_tour.lang:14
 msgid "Let’s go"
-msgstr ""
+msgstr "چلیں چلتے ہیں!"
 
 #. This is the label for a button that delays starting the tour
 #: firefox/privacy_tour/privacy_tour.lang:19
 msgid "Not now"
-msgstr ""
+msgstr "ابھِی نہیں"
 
 #. This is the label for a button that opens the tour modal dialog
 #: firefox/privacy_tour/privacy_tour.lang:24
@@ -114,8 +114,9 @@ msgstr "بند کریں"
 #. STEP 1 of the tour (Forget button)
 #. %s is a searchplugin name
 #: firefox/privacy_tour/privacy_tour.lang:99
+#, fuzzy
 msgid "<span>Next:</span> %s"
-msgstr ""
+msgstr "<span>اگلا:</span> تلاش"
 
 #. <br> tag below used for formatting only.
 #. Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
@@ -153,7 +154,7 @@ msgstr "ابھِی اظافہ کریں"
 
 #: firefox/privacy_tour/privacy_tour.lang:134
 msgid "Later"
-msgstr ""
+msgstr "بعد میں"
 
 #: firefox/privacy_tour/privacy_tour.lang:138
 msgid ""
@@ -195,8 +196,9 @@ msgstr ""
 
 #. %s is a searchplugin name
 #: firefox/privacy_tour/privacy_tour.lang:173
+#, fuzzy
 msgid "<span>Previous:</span> %s"
-msgstr ""
+msgstr "<span> بچھلا </span> بھول جائیں"
 
 #. STEP 3 of the tour (Private Browsing)
 #. <br> tag below used for formatting only.

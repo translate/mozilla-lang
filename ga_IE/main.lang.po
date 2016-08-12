@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-20 20:10+0000\n"
+"POT-Creation-Date: 2016-08-12 19:09+0000\n"
 "PO-Revision-Date: 2016-07-22 12:39+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
 "(n>6 && n<11) ? 3 : 4;;\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "X-POOTLE-MTIME: 1469191176.000000\n"
 
 #: main.lang:1
@@ -887,12 +887,25 @@ msgid "We will only send you Mozilla-related information."
 msgstr "Ní sheolfaimid duit ach eolas a bhaineann le Mozilla."
 
 #: main.lang:835
+msgid "Thanks!"
+msgstr ""
+
+#: main.lang:839
+msgid ""
+"If you haven’t previously confirmed a subscription to a Mozilla-related "
+"newsletter you may have to do so. Please check your inbox or your spam "
+"filter for an email from us."
+msgstr ""
+
+#. Obsolete string. Do not remove.
+#: main.lang:844
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr ""
 "Go raibh maith agat! Féach ar do bhosca ríomhphoist chun an síntiús a chur i "
 "gcrích."
 
-#: main.lang:839
+#. Obsolete string. Do not remove.
+#: main.lang:849
 msgid ""
 "You'll receive an email from mozilla@e.mozilla.org to confirm your "
 "subscription. If you don't see it, check your spam filter. You must confirm "
@@ -902,11 +915,11 @@ msgstr ""
 "dhearbhú. Mura bhfeiceann tú é, féach ar do bhosca dramhphoist. Caithfidh tú "
 "an síntiús a dhearbhú chun an nuachtlitir a fháil."
 
-#: main.lang:843
+#: main.lang:853
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Léigh chuile rud inár <span>nuachtlitir</span>"
 
-#: main.lang:847
+#: main.lang:857
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
