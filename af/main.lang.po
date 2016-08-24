@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-12 19:09+0000\n"
-"PO-Revision-Date: 2015-11-04 09:14+0000\n"
+"PO-Revision-Date: 2016-08-24 07:03+0000\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: af\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
-"X-POOTLE-MTIME: 1446628454.000000\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1472022226.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -43,7 +43,7 @@ msgstr "OS"
 #. Used for the navigation menu only in Firefox OS pages
 #: main.lang:27
 msgid "TV"
-msgstr ""
+msgstr "TV"
 
 #. Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 #. You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
@@ -225,7 +225,7 @@ msgstr "Ander tale:"
 #. Will replace "Other languages" for the footer's language switcher
 #: main.lang:204
 msgid "Page language:"
-msgstr ""
+msgstr "Bladsytaal:"
 
 #. Year / Month / Day, indicate your prefered date format for your language
 #: main.lang:209
@@ -631,7 +631,7 @@ msgstr "Forums"
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:593
 msgid "Patents"
-msgstr ""
+msgstr "Patente"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:598
@@ -832,13 +832,12 @@ msgid "Whoops! Be sure to enter a valid email address."
 msgstr "Oeps! Maak seker dat ’n geldige e-posadres ingetik is."
 
 #: main.lang:790
-#, fuzzy
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Notice</a>"
 msgstr ""
 "Dis reg as my inligting hanteer word soos verduidelik in <a href=\"%s\">dié "
-"privaatheidbeleid</a>"
+"privaatheidkennisgewing</a>"
 
 #: main.lang:794
 msgid ""
@@ -851,7 +850,7 @@ msgstr ""
 #. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 #: main.lang:799
 msgid "Keep up with<br> all things Firefox."
-msgstr ""
+msgstr "Bly op datum met<br>alles oor Firefox."
 
 #. This string is used for a subscription field on other pages than /newsletter/
 #: main.lang:804
@@ -866,7 +865,7 @@ msgstr "E-POSADRES HIER"
 #. Newsletter subscription Button
 #: main.lang:814
 msgid "Sign Up Now"
-msgstr ""
+msgstr "Skryf nou in"
 
 #. Old newsletter subscription Button
 #: main.lang:819
@@ -895,6 +894,9 @@ msgid ""
 "newsletter you may have to do so. Please check your inbox or your spam "
 "filter for an email from us."
 msgstr ""
+"As u nog nie vantevore 'n inskrywing vir 'n Mozilla-verwante nuusbrief "
+"bevestig het nie, is dit dalk nou nodig. Kontroleer u e-pos en gemorspos vir "
+"'n e-pos van ons."
 
 #. Obsolete string. Do not remove.
 #: main.lang:844
