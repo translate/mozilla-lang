@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-12 19:09+0000\n"
-"PO-Revision-Date: 2016-08-25 10:06+0000\n"
+"PO-Revision-Date: 2016-08-25 10:34+0000\n"
 "Last-Translator: Belkacem mohammed <belkacem77@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kab\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1472119599.000000\n"
+"X-POOTLE-MTIME: 1472121279.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -315,10 +315,13 @@ msgid ""
 "licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
 "Alike License v3.0</a> or any later version."
 msgstr ""
+"Arama <a href=\"%s\"> Iban-d</a> d akken ala, agbur n usmel agi yers daw n "
+"turagt <br /><a href=\"%s\">Creative Commons Attribution Share-Alike v3.0</"
+"a> neɣ ugar."
 
 #: main.lang:297
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Mmel-d aggad iseqdacen tacreṭ yersen"
 
 #: main.lang:301
 msgid "Free Upgrade"
@@ -421,6 +424,8 @@ msgid ""
 "new Firefox for the best in browsing and customization on the Web. <br/>   "
 "It’s fast and free!"
 msgstr ""
+"Tesriḍ lqem! Qqim d aɣlsan di kra n wakud kan.<br/> Bdu s useqdec n Firefox "
+"amaynut i tunigin ifazen akked waggan di Web.<br/> S zreb u baṭel!"
 
 #: main.lang:400
 msgid "Upgrade now"
@@ -451,6 +456,9 @@ msgid ""
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
 "Commons license</a>."
 msgstr ""
+"Kra n iyeḥricen n ugbur agi d ©1998–%(current_year)s sɣur imttekkiyen n "
+"mozilla.org. Agbur yella daw n <a  href=\"%(url)s\"> turagt Creative "
+"Commons</a>."
 
 #. Footer string (will replace "Contribute to this page")
 #: main.lang:428
@@ -465,7 +473,7 @@ msgstr "Ttekki deg usebter agi"
 #. Top menu item
 #: main.lang:438
 msgid "Mission"
-msgstr ""
+msgstr "Tuɣdaṭ"
 
 #. Footer item on some pages to link to a tour of features
 #: main.lang:443
@@ -625,12 +633,12 @@ msgstr ""
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:598
 msgid "Leadership"
-msgstr ""
+msgstr "Tanedbelt"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:603
 msgid "Governance"
-msgstr ""
+msgstr "Tanbaṭ"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:608
@@ -645,12 +653,12 @@ msgstr "Iseɣẓanen-nneɣ"
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:618
 msgid "Software and other innovations designed to advance our mission."
-msgstr ""
+msgstr "Iseɣẓanen akked d usnulfu nniḍen yettwafeslen i tuɣdaṭ nneɣ."
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:623
 msgid "Become a volunteer contributor in a number of different areas."
-msgstr ""
+msgstr "Uɣal d iwizi di deqs n tɣula."
 
 #. This is a non-visible string for blind people to indicate where the menu is
 #: main.lang:628
@@ -665,7 +673,7 @@ msgstr "Yettazzal fell-ak, tudert inek akked ɣef Web yeldin."
 #. Common title used in Fx 10 pages
 #: main.lang:638
 msgid "Choose Independent"
-msgstr ""
+msgstr "Fren ad tiliḍ d ilelli"
 
 #. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 #. The '#ChooseIndependent' hashtag should not be translated.
@@ -674,6 +682,8 @@ msgid ""
 "Keep the passion for a free and open Internet burning bright! "
 "#ChooseIndependent. Choose Firefox:"
 msgstr ""
+"Amennuɣ nneq lwaḥid akke Internet ad yeqqim d ilelli u yeldi ! "
+"#ChooseIndependent. Fren Firefox:"
 
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 #: main.lang:651
@@ -791,10 +801,12 @@ msgstr "<abbr>Duj</abbr>"
 msgid ""
 "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
 msgstr ""
+"Firefox ad yili ihegga akka kra n wussan ɣef  iOS&nbsp;! <a href=\"{url}\"> "
+"Jerred ɣer tebraṭṭ n telɣut akken ur tzeggileḍ kra</a>."
 
 #: main.lang:766
 msgid "Congrats. You’re up to date!"
-msgstr ""
+msgstr "Ayuz, aqlak tettwaleqmeḍ !"
 
 #. Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
 #: main.lang:771
@@ -814,34 +826,38 @@ msgstr "HTML"
 #. This is the error message displayed if you provide an invalid email address in a form
 #: main.lang:786
 msgid "Whoops! Be sure to enter a valid email address."
-msgstr ""
+msgstr "Ay ay ay! Wali ma yella tessekcmeḍ tansa imayl tameɣtut."
 
 #: main.lang:790
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Notice</a>"
 msgstr ""
+"Qebleɣ akken Mozilla ad tseqdec talɣut inu akken tella <a href=\"%s"
+"\">tsertit agi n tbaḍnit</a>"
 
 #: main.lang:794
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
 msgstr ""
+"Qebleɣ akken Mozilla ad tseqdec talɣut inu tabaḍnit akken tella di <a href="
+"\"%s\"> tsertit agi tabaḍnit</a>"
 
 #. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 #: main.lang:799
 msgid "Keep up with<br> all things Firefox."
-msgstr ""
+msgstr "Qqim deg umaynut <br> akked Firefox."
 
 #. This string is used for a subscription field on other pages than /newsletter/
 #: main.lang:804
 msgid "Get Firefox news"
-msgstr ""
+msgstr "Awi-d isallen n Firefox"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
 #: main.lang:809
 msgid "YOUR EMAIL HERE"
-msgstr ""
+msgstr "IMAYL INEK DAGI"
 
 #. Newsletter subscription Button
 #: main.lang:814
@@ -863,7 +879,7 @@ msgstr "Tutlayin yellan"
 
 #: main.lang:831
 msgid "We will only send you Mozilla-related information."
-msgstr ""
+msgstr "Ak-d nazen kan talɣut icudden ɣer Mozilla."
 
 #: main.lang:835
 msgid "Thanks!"
@@ -875,11 +891,15 @@ msgid ""
 "newsletter you may have to do so. Please check your inbox or your spam "
 "filter for an email from us."
 msgstr ""
+"Ma yella ur tsentmeḍ ara yakan ajerred ɣer izen n telɣut icudden ɣer "
+"Mozilla, ahat yessefk tura. Ma ulac aɣilif, senqed tirawt inek neɣ imzidig "
+"inek n ispamen akken ad twaliḍ imayl ik-d-nuzen."
 
 #. Obsolete string. Do not remove.
 #: main.lang:844
 msgid "Thanks! Please check your inbox to confirm your subscription."
 msgstr ""
+"Tanemmirt! Ma ulac aɣilif senqed tirawt inek akken ad tsentmeḍ ajerred inek."
 
 #. Obsolete string. Do not remove.
 #: main.lang:849
@@ -888,10 +908,13 @@ msgid ""
 "subscription. If you don't see it, check your spam filter. You must confirm "
 "your subscription to receive our newsletter."
 msgstr ""
+"Ad tremseḍ imayl si mozilla@e.mozilla.org akken ad tsentmeḍ ajerred. Ma "
+"yella ur twalaḍ ara, senqed imzizdig inek n ispamen. Yessefk ad tsentmeḍ "
+"ajerred inek akked ad tremseḍ izen nneɣ n telɣut."
 
 #: main.lang:853
 msgid "Read all about it in our <span>newsletter</span>"
-msgstr ""
+msgstr "Ɣaṛ akk fell-as ɣef <span>yizen n telɣut</span> nneɣ"
 
 #: main.lang:857
 msgid ""
@@ -899,3 +922,6 @@ msgid ""
 "the latest tips and tricks for getting the most out of your Firefox browser. "
 "It’s the perfect way for us to keep in touch!"
 msgstr ""
+"Jerred ɣer ileqman n yal aggur u qqim akked isallen n Mozilla, ula d tixbula "
+"tineggura akken ad ttfaṛseḍ tagnitt si Firefox. D tagi id tarrayt ifazen "
+"akken ad teqqimeḍ yid-neɣ."
