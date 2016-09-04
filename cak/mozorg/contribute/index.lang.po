@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-19 12:10+0000\n"
-"PO-Revision-Date: 2016-09-04 17:05+0000\n"
+"PO-Revision-Date: 2016-09-04 17:43+0000\n"
 "Last-Translator: Juan Esteban Ajsivinac Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cak\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1473008702.000000\n"
+"X-POOTLE-MTIME: 1473010997.000000\n"
 
 #. Used for HTML title attribute
 #: mozorg/contribute/index.lang:6
@@ -705,11 +705,13 @@ msgid ""
 "You can help by picking an easy task that only takes a few minutes &mdash; "
 "or take on a bigger challenge."
 msgstr ""
+"Yatikïr yato'on rik'in nacha' jun man k'ayew ta chi samaj, ri nab'än pa jun "
+"ch'utiramaj &mdash; o nacha' jun nïm samaj."
 
 #. Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 #: mozorg/contribute/index.lang:611
 msgid "Choose a Task Now"
-msgstr ""
+msgstr "Wakami tacha' jun samaj"
 
 #. Displayed in the "Thank You!" page after the email is sent for other categories.
 #: mozorg/contribute/index.lang:617
@@ -717,54 +719,58 @@ msgid ""
 "Help us tell the world how awesome Firefox is and about all the important "
 "work Mozilla does every day."
 msgstr ""
+"Kojato' richin niqatzijoj chijun ri ruwach'ulew chi yalan jeb'ël ri Firefox "
+"chuqa' chi rij ronojel ri samaj nub'än q'ij q'ij ri Mozilla."
 
 #. Displayed in the "Thank You!" page after the email is sent for other categories.
 #: mozorg/contribute/index.lang:623
 msgid "Join Now"
-msgstr ""
+msgstr "Katok qik'in wakami"
 
 #: mozorg/contribute/index.lang:627
 msgid ""
 "You can create your Mozillians account now to connect with fellow Mozillians."
 msgstr ""
+"Wakami yatikïr natz'ük' jun ataqoya'l richin aj Mozilla richin yatzijon "
+"kik'in ch'aqa' chik aj Mozilla."
 
 #: mozorg/contribute/index.lang:631
 msgid "Yes, create my Mozillians account"
-msgstr ""
+msgstr "Ja', tinuk' nutaqoya' richin aj Mozilla"
 
 #: mozorg/contribute/index.lang:635
 msgid "You will be asked to sign in before proceeding"
-msgstr ""
+msgstr "Xtik'utüx chawe chi katok chupam chuwäch natikirisaj el"
 
 #: mozorg/contribute/index.lang:639
 msgid "No thanks, I’ll just wait for the email"
-msgstr ""
+msgstr "Mani matyox, ninwoyob'ej na nink'ül jun taqoya'l"
 
 #. The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
 #. Strings have been copied from the old template (mozorg/contribute.lang)
 #: mozorg/contribute/index.lang:645
 msgid "Area of interest?"
-msgstr ""
+msgstr "¿La ruk'ojlib'al ri niqa' chawäch?"
 
 #: mozorg/contribute/index.lang:649
 msgid "Helping Users"
-msgstr ""
+msgstr "Ke'atu' ri qawinaq"
 
 #: mozorg/contribute/index.lang:653
 msgid "Testing and QA"
-msgstr ""
+msgstr "Taq tojtob'enïk chuqa' ruchajixik utzilal"
 
 #: mozorg/contribute/index.lang:657
 msgid "Marketing"
-msgstr ""
+msgstr "Kuqül k'ayb'äl"
 
 #: mozorg/contribute/index.lang:661
 msgid "Localization and Translation"
-msgstr ""
+msgstr "Tzalq'omanri'ïl chuqa' tzalq'omanïk"
 
 #: mozorg/contribute/index.lang:665
 msgid "Web Development"
-msgstr ""
+msgstr "Nuk'unel Ajk'amaya'l"
 
 #: mozorg/contribute/index.lang:669
 msgid "Firefox Marketplace"
@@ -776,51 +782,48 @@ msgstr "Taq tz'aqat"
 
 #: mozorg/contribute/index.lang:677
 msgid "Visual Design"
-msgstr ""
+msgstr "Wachib'enïk wachib'äl"
 
 #: mozorg/contribute/index.lang:681
 msgid "Documentation and Writing"
-msgstr ""
+msgstr "Wujil chuqa' tz'ib'anem"
 
 #: mozorg/contribute/index.lang:685
 msgid "Education"
-msgstr ""
+msgstr "Tijonïk"
 
 #: mozorg/contribute/index.lang:689
-#, fuzzy
 msgid "Other"
-msgstr "Jun chik…"
+msgstr "Jun chik"
 
 #: mozorg/contribute/index.lang:693
-#, fuzzy
 msgid "Hi, I’m interested in…"
-msgstr "Niqa chi nuwäch:"
+msgstr "Achike ab'anon, Niqa chi nuwäch…"
 
 #: mozorg/contribute/index.lang:697
 msgid "Send us a note and we can get you started right away."
-msgstr ""
+msgstr "Tataqa' jun rutzijol taqoj chi qe richin yatqato' chi natikirisaj el."
 
 #: mozorg/contribute/index.lang:701
 msgid "I have a suggestion for Firefox"
-msgstr ""
+msgstr "K'o jun nuna'oj chi re ri Firefox"
 
 #: mozorg/contribute/index.lang:705
 msgid "I need help with a Firefox issue"
-msgstr ""
+msgstr "Ninwajo' nuto'ik chi rij jun k'ulwachinïk rik'in Firefox"
 
 #: mozorg/contribute/index.lang:709
 msgid "Please enter a valid email address."
 msgstr "Tab'ana' utzil, tatz'ib'aj jun ütz rochochib'al taqoya'l."
 
 #: mozorg/contribute/index.lang:713
-#, fuzzy
 msgid "You must agree to the privacy policy."
-msgstr "K'atzinel nak'ül ri ichinan runa'oj"
+msgstr "K'atzinel nak'ül ri ichinan na'oj."
 
 #: mozorg/contribute/index.lang:717
 msgid "Please select an area of interest."
-msgstr ""
+msgstr "Tacha' jun k'ojlib'äl niqa chawäch."
 
 #: mozorg/contribute/index.lang:721
 msgid "Please tell us more about your interests."
-msgstr ""
+msgstr "Tatzijoj chi qe chi rij ri niqa chawäch."
