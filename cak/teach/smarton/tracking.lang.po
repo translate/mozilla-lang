@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-20 21:34+0000\n"
-"PO-Revision-Date: 2016-09-10 03:36+0000\n"
+"PO-Revision-Date: 2016-09-10 21:04+0000\n"
 "Last-Translator: Juan Esteban Ajsivinac Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: cak\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1473478569.000000\n"
+"X-POOTLE-MTIME: 1473541450.000000\n"
 
 #. HTML Title
 #: teach/smarton/tracking.lang:6
@@ -497,20 +497,26 @@ msgid ""
 "computer after the fact</a>. Use it when you’ve visited a site that you "
 "don’t want in your history."
 msgstr ""
+"Re cha'oj re' richin ri kikajtz'ik taq samajib'äl <a href=\"{url}\">tayuju' "
+"el ri retamab'al okem pa k'amaya'l pan akematz'ib' chi rij toq xawokisaj</"
+"a>. Tawokisaj toq natz'ët jun ruxaq k'amaya'l, ri man nawajo' ta pan "
+"anatab'al."
 
 #. Link points to https://addons.mozilla.org/firefox/collections/mozilla/privacy/
 #: teach/smarton/tracking.lang:290
 msgid "Privacy Add-ons"
-msgstr ""
+msgstr "Taq rutz'aqat ichinanem"
 
 #: teach/smarton/tracking.lang:294
 msgid ""
 "The Mozilla privacy team has put together <a href=\"{url}\">a collection of "
 "Firefox add-ons</a> to help you manage your privacy online."
 msgstr ""
+"Ri molaj richin richinanem Mozilla xerutün <a href=\"{url}\">jun rumoloj taq "
+"tz'aqat richin Firefox</a> richin yatruto' chi runuk'samajixik ri "
+"awichinanem pa k'amab'ey."
 
 #: teach/smarton/tracking.lang:298
-#, fuzzy
 msgid "Do Not Track"
 msgstr "Mani nikanöx"
 
@@ -520,22 +526,32 @@ msgid ""
 "publishers, analytics providers, advertisers and third party networks that "
 "you want to opt-out of tracking."
 msgstr ""
+"Rik'in re tzijïl b'anikil re', ri awokik'amaya'l xtuk'utuj chi ke ri taq "
+"ajsamaj richin winaqil jalwachinïk, nuk'unela', ya'öl taq ch'ob'oj, "
+"tzijonela' chuqa' taq kik'amaya'l aj rox winäq, ri man nikajo' ta chi "
+"yekanöx."
 
 #: teach/smarton/tracking.lang:306
 msgid ""
 "Mozilla was the first company to include a Do Not Track feature when it was "
 "added to Firefox in 2011."
 msgstr ""
+"Mozilla ja ri' ri nab'ey nimamoloj ri xtz'aqatisan ri b'anikil Mani nikanöx, "
+"ri xtz'aqatisaj chupam ri Firefox pa 2011."
 
 #: teach/smarton/tracking.lang:310
 msgid ""
 "Since then, it has been adopted by most major browsers, though many "
 "companies on the receiving end of the requests are still not honoring them."
 msgstr ""
+"Chi ri' toq xk'am kuma ri nimaläj taq okik'amaya'l, xa xe chi k'ïy taq "
+"nimamoloj pa ri peraj kik'ulunel taq k'utuj, k'a majani' nikinimaj."
 
 #: teach/smarton/tracking.lang:314
 msgid "Efforts are being made by Web advocacy groups to have this changed."
 msgstr ""
+"Tajin nikib'än nima'q taq samaj kuma kolonela' taq molaj richin ri "
+"Ajk'amaya'l richin nib'anatäj re jaloj re'."
 
 #: teach/smarton/tracking.lang:318
 msgid ""
@@ -543,6 +559,10 @@ msgid ""
 "href=\"%(chrome)s\">Chrome</a>, <a href=\"%(ie)s\">Internet Explorer</a>/<a "
 "href=\"%(edge)s\">Edge</a> and <a href=\"%(safari)s\">Safari</a>."
 msgstr ""
+"Tawetaman rub'eyal natzïj ri Mani Nikanöx pa <a href=\"%(firefox)s"
+"\">Firefox</a>, <a href=\"%(chrome)s\">Chrome</a>, <a href=\"%(ie)s"
+"\">Internet Explorer</a>/<a href=\"%(edge)s\">Edge</a> chuqa' <a href="
+"\"%(safari)s\">Safari</a>."
 
 #: teach/smarton/tracking.lang:322
 msgid "Private Browsing"
