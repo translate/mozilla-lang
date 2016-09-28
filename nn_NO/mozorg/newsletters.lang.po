@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-12 19:09+0000\n"
+"POT-Creation-Date: 2016-09-28 17:09+0000\n"
 "PO-Revision-Date: 2016-07-04 14:24+0000\n"
 "Last-Translator: Bjørn I. Svindseth <bjorn.svindseth@online.no>\n"
 "Language-Team: none\n"
@@ -15,42 +15,71 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "X-POOTLE-MTIME: 1467642268.000000\n"
 
-#: mozorg/newsletters.lang:5
+#: mozorg/newsletters.lang:6
 msgid "Your email address:"
 msgstr "Di e-postadresse:"
 
-#: mozorg/newsletters.lang:9
+#: mozorg/newsletters.lang:10
 msgid "Language:"
 msgstr "Språk:"
 
-#: mozorg/newsletters.lang:13
+#: mozorg/newsletters.lang:14
 msgid "Select country"
 msgstr "Vel land"
 
-#: mozorg/newsletters.lang:17
+#: mozorg/newsletters.lang:18
 msgid "Country:"
 msgstr "Land:"
 
+#: mozorg/newsletters.lang:23
+msgid "You’re awesome!"
+msgstr ""
+
+#: mozorg/newsletters.lang:28
+msgid ""
+"And we’re not just saying that because you trusted us with your email "
+"address."
+msgstr ""
+
+#: mozorg/newsletters.lang:33
+#, fuzzy
+msgid ""
+"Please be sure to add mozilla@e.mozilla.org to your address book to ensure "
+"we always reach your inbox."
+msgstr ""
+"Kontroller at avsendaradressa: mozilla@e.mozilla.org finst i adresseboka di, "
+"slik at du er sikker på at nyhendebrevet alltid dukkar opp i innboksen din."
+
+#: mozorg/newsletters.lang:38
+msgid "Mozilla touches on a variety of important issues."
+msgstr ""
+
+#: mozorg/newsletters.lang:43
+msgid ""
+"Open your inbox (and your heart) even more — take a look at other topics we "
+"cover."
+msgstr ""
+
 #. Form submit button on the Student Ambassador newsletter subscription form
-#: mozorg/newsletters.lang:22
+#: mozorg/newsletters.lang:48
 msgid "Sign me up!"
 msgstr "Abonner!"
 
-#: mozorg/newsletters.lang:26
+#: mozorg/newsletters.lang:52
 msgid "Thanks for Subscribing!"
 msgstr "Takk for at du abonnerar!"
 
-#: mozorg/newsletters.lang:30
+#: mozorg/newsletters.lang:56
 msgid "Your newsletter subscription has been confirmed."
 msgstr "Nyheits-abonnementet ditt er stadfesta."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:35
+#: mozorg/newsletters.lang:61
 msgid "Firefox + You"
 msgstr "Firefox + deg"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox + You)
-#: mozorg/newsletters.lang:40
+#: mozorg/newsletters.lang:66
 msgid ""
 "A monthly newsletter and special announcements giving you tips to improve "
 "your experience with Firefox on your desktop and Android device."
@@ -60,12 +89,12 @@ msgstr ""
 "eininga di."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:45
+#: mozorg/newsletters.lang:71
 msgid "Firefox OS + You"
 msgstr "Firefox OS + deg"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS + You)
-#: mozorg/newsletters.lang:50
+#: mozorg/newsletters.lang:76
 msgid ""
 "A monthly newsletter and special announcements on how to get the most from "
 "your Firefox OS device, including the latest features and coolest Firefox "
@@ -76,32 +105,32 @@ msgstr ""
 "beste appane på Firefox Marketplace."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:56
+#: mozorg/newsletters.lang:82
 msgid "Firefox Accounts Tips"
 msgstr "Firefox-kontotips"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-#: mozorg/newsletters.lang:61
+#: mozorg/newsletters.lang:87
 msgid "Get the most out of your Firefox Account."
 msgstr "Få mest mogleg ut av Firefox-kontoen din."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:67
+#: mozorg/newsletters.lang:93
 msgid "Mozilla Communities"
 msgstr "Mozilla-samfunn"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Communities)
-#: mozorg/newsletters.lang:72
+#: mozorg/newsletters.lang:98
 msgid "Bringing you the best new opportunities to help support the open Web."
 msgstr "Gjev deg informasjon om nye mulegheiter til å støtta det opne nettet."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:77
+#: mozorg/newsletters.lang:103
 msgid "Firefox Student Ambassadors"
 msgstr "Firefox studentambassadørar"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
-#: mozorg/newsletters.lang:82
+#: mozorg/newsletters.lang:108
 msgid ""
 "A monthly newsletter on how to get involved with Mozilla on your campus."
 msgstr ""
@@ -109,12 +138,12 @@ msgstr ""
 "universitet."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:87
+#: mozorg/newsletters.lang:113
 msgid "Firefox Affiliates"
 msgstr "Firefox Affiliates"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
-#: mozorg/newsletters.lang:92
+#: mozorg/newsletters.lang:118
 msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
@@ -123,12 +152,12 @@ msgstr ""
 "programmet."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:97
+#: mozorg/newsletters.lang:123
 msgid "Firefox Apps & Hacks"
 msgstr "Appar og hackingar for Firefox."
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
-#: mozorg/newsletters.lang:102
+#: mozorg/newsletters.lang:128
 msgid ""
 "News for developers about Firefox OS, Firefox Marketplace and the Open Web "
 "apps ecosystem."
@@ -137,44 +166,44 @@ msgstr ""
 "økosystemet."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:107
+#: mozorg/newsletters.lang:133
 msgid "Mozillians"
 msgstr "Mozillianarar"
 
 #. Description for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:112
+#: mozorg/newsletters.lang:138
 msgid "Email updates for vouched Mozillians on mozillians.org."
 msgstr "Oppdateringar for verifiserte Mozillianarar på mozillians.org."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:117
+#: mozorg/newsletters.lang:143
 msgid "Firefox for desktop"
 msgstr "Firefox for datamaskiner"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for desktop)
-#: mozorg/newsletters.lang:122
+#: mozorg/newsletters.lang:148
 msgid "Don’t miss the latest announcements about our desktop browser."
 msgstr ""
 "Ikkje gå glipp av dei siste kunngjeringane om nettlesaren vår for "
 "datamaskiner."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:127
+#: mozorg/newsletters.lang:153
 msgid "Firefox for Android"
 msgstr "Firefox for Android"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for Android)
-#: mozorg/newsletters.lang:132
+#: mozorg/newsletters.lang:158
 msgid "Keep up with releases and news about Firefox for Android."
 msgstr "Held deg orientert om unye utgåver og nyhende om Firefox for Android."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:137
+#: mozorg/newsletters.lang:163
 msgid "Mozilla"
 msgstr "Mozilla"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla)
-#: mozorg/newsletters.lang:142
+#: mozorg/newsletters.lang:168
 msgid ""
 "Special announcements and messages from the team dedicated to keeping the "
 "Web free and open."
@@ -183,50 +212,50 @@ msgstr ""
 "nettet fritt og ope."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:147
+#: mozorg/newsletters.lang:173
 msgid "Firefox OS smartphone owner?"
 msgstr "Har du ein smarttelefon med Firefox OS?"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
-#: mozorg/newsletters.lang:152
+#: mozorg/newsletters.lang:178
 msgid "Don’t miss important news and updates about your Firefox OS device."
 msgstr ""
 "Ikkje gå glipp av viktige nyhende og oppdtateringar for Firefox OS-eininga "
 "di."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:157
+#: mozorg/newsletters.lang:183
 msgid "Firefox iOS"
 msgstr "Firefox iOS"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox iOS)
-#: mozorg/newsletters.lang:162
+#: mozorg/newsletters.lang:188
 msgid "Be the first to know when Firefox is available for iOS devices."
 msgstr ""
 "Ver den fyrste som får vita om når Firefox vert tilgjengeleg for iOS-"
 "einingar."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:167
+#: mozorg/newsletters.lang:193
 msgid "Firefox Flicks"
 msgstr "Firefox Flicks"
 
-#: mozorg/newsletters.lang:171
+#: mozorg/newsletters.lang:197
 msgid "Periodic email updates about our annual international film competition."
 msgstr "Periodiske e-postoppdateringar om den årlege film-konkurransen vår."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:176
+#: mozorg/newsletters.lang:202
 msgid "Beta News"
 msgstr "Beta-nytt"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:181
+#: mozorg/newsletters.lang:207
 msgid "Mozilla Foundation"
 msgstr "Stiftinga Mozilla"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Foundation)
-#: mozorg/newsletters.lang:186
+#: mozorg/newsletters.lang:212
 msgid ""
 "News and special updates about our work to promote openness, innovation and "
 "participation on the Internet, including ways for you to get involved."
@@ -235,110 +264,110 @@ msgstr ""
 "og deltaking på nettet, inkludert måtar for deg å vera med på."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:191
+#: mozorg/newsletters.lang:217
 msgid "Shape of the Web"
 msgstr "Korleis nettet ser ut"
 
 #. Description for the newsletter in Newsletter subscription page (Shape of the Web)
-#: mozorg/newsletters.lang:196
+#: mozorg/newsletters.lang:222
 msgid "News and information related to the health of the web."
 msgstr "Nyhende og informasjon om statusen til nettet."
 
-#: mozorg/newsletters.lang:200
+#: mozorg/newsletters.lang:226
 msgid "About Addons"
 msgstr "Om utvidingar"
 
-#: mozorg/newsletters.lang:204
+#: mozorg/newsletters.lang:230
 msgid "Firefox OS"
 msgstr "Firefox OS"
 
-#: mozorg/newsletters.lang:208
+#: mozorg/newsletters.lang:234
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr ""
 "Nyhende, tips og lanseringsinfo om Firefox OS, og kvar det kan kjøpast."
 
-#: mozorg/newsletters.lang:213
+#: mozorg/newsletters.lang:239
 msgid "We can keep in touch with occasional messages that matter most to you."
 msgstr ""
 "Vi kan halda kontakten med deg innimellom med 'av og til-meldingar', om det "
 "som tyder mest for deg."
 
-#: mozorg/newsletters.lang:217
+#: mozorg/newsletters.lang:243
 msgid "Submit"
 msgstr "Send"
 
-#: mozorg/newsletters.lang:221
+#: mozorg/newsletters.lang:247
 msgid "Find out how!"
 msgstr "Finn ut korleis!"
 
-#: mozorg/newsletters.lang:225
+#: mozorg/newsletters.lang:251
 msgid "Newsletters"
 msgstr "Nyhendebrev"
 
-#: mozorg/newsletters.lang:229
+#: mozorg/newsletters.lang:255
 msgid "About us"
 msgstr "Om oss"
 
-#: mozorg/newsletters.lang:233
+#: mozorg/newsletters.lang:259
 msgid "I didn't sign up for this."
 msgstr "Eg registrerte meg aldri for dette."
 
-#: mozorg/newsletters.lang:237
+#: mozorg/newsletters.lang:263
 msgid "Save Preferences"
 msgstr "Lagra innstillingar"
 
-#: mozorg/newsletters.lang:241
+#: mozorg/newsletters.lang:267
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
 msgstr "Lenka er utgått på dato. Du vil få ei ny i det neste nyhendebrevet."
 
-#: mozorg/newsletters.lang:245
+#: mozorg/newsletters.lang:271
 msgid "Get up and go"
 msgstr "Sett i gang"
 
-#: mozorg/newsletters.lang:249
+#: mozorg/newsletters.lang:275
 msgid "Subscribe"
 msgstr "Abonner"
 
-#: mozorg/newsletters.lang:253
+#: mozorg/newsletters.lang:279
 msgid ""
 "Set your preferences below to make sure you always receive the news you want."
 msgstr "Vel nedanfor slik at du alltid får dei nyhenda du vil ha."
 
-#: mozorg/newsletters.lang:257
+#: mozorg/newsletters.lang:283
 msgid "You send too many emails."
 msgstr "Dokker sender for mange e-postar."
 
-#: mozorg/newsletters.lang:261
+#: mozorg/newsletters.lang:287
 msgid "Getting too much email from us?"
 msgstr "Får du for mange e-postar frå oss?"
 
-#: mozorg/newsletters.lang:265
+#: mozorg/newsletters.lang:291
 msgid "Would you mind telling us why you’re leaving?"
 msgstr "Kunne du vera så snill å fortelja oss kvifor du melder deg av?"
 
-#: mozorg/newsletters.lang:269
+#: mozorg/newsletters.lang:295
 msgid "Get Firefox for mobile!"
 msgstr "Få Firefox for mobilar!"
 
-#: mozorg/newsletters.lang:273
+#: mozorg/newsletters.lang:299
 msgid "What’s Mozilla all about?"
 msgstr "Kva handlar Mozilla om?"
 
-#: mozorg/newsletters.lang:277
+#: mozorg/newsletters.lang:303
 msgid "I’m interested in:"
 msgstr "Eg er interessert i:"
 
-#: mozorg/newsletters.lang:281
+#: mozorg/newsletters.lang:307
 msgid "Format:"
 msgstr "Format:"
 
-#: mozorg/newsletters.lang:285
+#: mozorg/newsletters.lang:311
 msgid "Your content wasn't relevant to me."
 msgstr "Innhaldet var ikkje relevant for meg."
 
-#: mozorg/newsletters.lang:289
+#: mozorg/newsletters.lang:315
 msgid ""
 "Don’t forget to check your inbox to confirm your request to get Firefox for "
 "iOS updates. If you don’t see an email from mozilla@e.mozilla.org, check "
@@ -350,63 +379,63 @@ msgstr ""
 "mozilla.org, sjekk søppelpostfilteret. Du må stadfesta førespurnaden din for "
 "å få oppdateringar på e-post."
 
-#: mozorg/newsletters.lang:293
+#: mozorg/newsletters.lang:319
 msgid "Firefox"
 msgstr "Firefox"
 
-#: mozorg/newsletters.lang:297
+#: mozorg/newsletters.lang:323
 msgid "We’re sorry to see you go."
 msgstr "Det er trist å sjå at du forlèt oss."
 
-#: mozorg/newsletters.lang:301
+#: mozorg/newsletters.lang:327
 msgid "title"
 msgstr "tittel"
 
-#: mozorg/newsletters.lang:305
+#: mozorg/newsletters.lang:331
 msgid "Firefox is coming soon to iOS!"
 msgstr "Firefox kjem snart til iOS!"
 
-#: mozorg/newsletters.lang:309
+#: mozorg/newsletters.lang:335
 msgid "It’s your Web anywhere you go."
 msgstr "Nettet er ditt samme same kvar du er ."
 
-#: mozorg/newsletters.lang:313
+#: mozorg/newsletters.lang:339
 msgid "Your email design was too hard to read."
 msgstr "Utsjånaden på e-postane var for vanskeleg å lesa."
 
-#: mozorg/newsletters.lang:317
+#: mozorg/newsletters.lang:343
 msgid "Please enter a valid email address"
 msgstr "Ver snill opg skriv inn ei gyldig e-postadresse"
 
-#: mozorg/newsletters.lang:321
+#: mozorg/newsletters.lang:347
 msgid "Newsletter Subscriptions"
 msgstr "Nyhendebrev-tinging"
 
-#: mozorg/newsletters.lang:325
+#: mozorg/newsletters.lang:351
 msgid "Unsubscribe"
 msgstr "Avslutt tinginga"
 
-#: mozorg/newsletters.lang:329
+#: mozorg/newsletters.lang:355
 msgid "Mozilla Newsletter"
 msgstr "Mozilla nyhendebrev"
 
-#: mozorg/newsletters.lang:333
+#: mozorg/newsletters.lang:359
 msgid "Thanks for updating your email preferences."
 msgstr "Takk for at du oppdtarerar e-postinnstillingane."
 
-#: mozorg/newsletters.lang:337
+#: mozorg/newsletters.lang:363
 msgid "We’re glad you asked!"
 msgstr "Me er glade for at du spurde1"
 
-#: mozorg/newsletters.lang:341
+#: mozorg/newsletters.lang:367
 msgid "Firefox on iOS — Sign up for email updates — Mozilla"
 msgstr "Firefox på iOS — Registrer deg for oppdateringar — Mozilla"
 
-#: mozorg/newsletters.lang:345
+#: mozorg/newsletters.lang:371
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr "Noko gjekk gale i systemet vårt! Ver snill og prøv igjen seinare."
 
-#: mozorg/newsletters.lang:349
+#: mozorg/newsletters.lang:375
 msgid ""
 "Check all categories that apply to you, and we promise to keep the mail to a "
 "minimum."
@@ -414,37 +443,37 @@ msgstr ""
 "Marker alle kategoriane som passar for deg, så lovar vi å senda så få "
 "meldingar som råd."
 
-#: mozorg/newsletters.lang:353
+#: mozorg/newsletters.lang:379
 msgid "description"
 msgstr "skildring"
 
-#: mozorg/newsletters.lang:357
+#: mozorg/newsletters.lang:383
 msgid ""
 "Sign up today to receive email updates about the iOS version of Firefox."
 msgstr ""
 "Registrer deg i dag for å få e-post-oppdateringar om iOS-versjonen av "
 "Firefox."
 
-#: mozorg/newsletters.lang:361
+#: mozorg/newsletters.lang:387
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
 msgstr "Eg held kontakten med Mozilla på Facebook og Twitter i staden."
 
-#: mozorg/newsletters.lang:365
+#: mozorg/newsletters.lang:391
 msgid ""
 "Success! An email has been sent to you with your preference center link. "
 "Thanks!"
 msgstr ""
 "Vellukka! Ein e-post er sendt til deg med ei instillingslenke. Tusen takk!"
 
-#: mozorg/newsletters.lang:369
+#: mozorg/newsletters.lang:395
 msgid "Remove me from all Mozilla emails"
 msgstr "Fjern alle e-posttingingar frå Mozilla"
 
-#: mozorg/newsletters.lang:373
+#: mozorg/newsletters.lang:399
 msgid "Thanks for telling us why you’re leaving."
 msgstr "Takk for at du fortel oss kvifor du dreg."
 
-#: mozorg/newsletters.lang:377
+#: mozorg/newsletters.lang:403
 msgid ""
 "Enter your email address and we’ll send you a link to your email preference "
 "center."
@@ -452,29 +481,29 @@ msgstr ""
 "Skriv inn e-postadressa di og vi sender deg ei lenke til instillingar for e-"
 "posttingingar."
 
-#: mozorg/newsletters.lang:381
+#: mozorg/newsletters.lang:407
 msgid "Send me a link"
 msgstr "Send meg ei lenke"
 
-#: mozorg/newsletters.lang:385
+#: mozorg/newsletters.lang:411
 msgid "Added extras"
 msgstr "Legg til funksjonar"
 
-#: mozorg/newsletters.lang:389
+#: mozorg/newsletters.lang:415
 msgid "%s is not a valid newsletter"
 msgstr "%s er ikkje eit gyldig nyhendebrev"
 
-#: mozorg/newsletters.lang:393
+#: mozorg/newsletters.lang:419
 msgid "English&nbsp;only"
 msgstr "Berre&nbsp;engelsk"
 
-#: mozorg/newsletters.lang:397
+#: mozorg/newsletters.lang:423
 msgid "This is not a valid email address. Please check the spelling."
 msgstr ""
 "Dette er ikkje ei gyldig e-postadresse. Ver snill og sjekk om ho er rett "
 "stava."
 
-#: mozorg/newsletters.lang:401
+#: mozorg/newsletters.lang:427
 msgid ""
 "Thanks for your interest in the upcoming iOS version of Firefox. We’re "
 "pretty excited about it too!"
@@ -482,32 +511,32 @@ msgstr ""
 "Takk for at du er interessert i den komande iOS-versjonen av Firefox. Vi er "
 "òg svært entusiastiske!"
 
-#: mozorg/newsletters.lang:405
+#: mozorg/newsletters.lang:431
 msgid "You’ve been unsubscribed."
 msgstr "Abonnementet er avslutta."
 
-#: mozorg/newsletters.lang:409
+#: mozorg/newsletters.lang:435
 msgid "Make Firefox do more with add-ons."
 msgstr "Få Firefox til å gjera meir med utvidingar."
 
-#: mozorg/newsletters.lang:413
+#: mozorg/newsletters.lang:439
 msgid "You must agree to the privacy notice"
 msgstr "Du må seia deg samd i personvernpraksisen"
 
-#: mozorg/newsletters.lang:417
+#: mozorg/newsletters.lang:443
 msgid "You must agree to the privacy policy"
 msgstr "Du må seia deg samd i personvernpraksisen"
 
-#: mozorg/newsletters.lang:421
+#: mozorg/newsletters.lang:447
 msgid "Other…"
 msgstr "Anna …"
 
 #. <title> tag for the subscription confirmation page
-#: mozorg/newsletters.lang:426
+#: mozorg/newsletters.lang:452
 msgid "Newsletter confirm"
 msgstr "Stadfest nyhendebrev"
 
-#: mozorg/newsletters.lang:430
+#: mozorg/newsletters.lang:456
 msgid ""
 "Not interested in our newsletters, but like those special announcements? No "
 "problem."
@@ -515,15 +544,15 @@ msgstr ""
 "Er du ikkje interessert i nyhendebreva våre, men likar dei spesielle "
 "kunngjeringane. Ingen problem."
 
-#: mozorg/newsletters.lang:434
+#: mozorg/newsletters.lang:460
 msgid "Manage your Email Preferences"
 msgstr "Handsam e-postinnstillingane dine"
 
-#: mozorg/newsletters.lang:438
+#: mozorg/newsletters.lang:464
 msgid "This page is in maintenance mode and is temporarily unavailable."
 msgstr "Denne sida er i vedlikehaldsmodus og er for tida utilgjengeleg."
 
-#: mozorg/newsletters.lang:442
+#: mozorg/newsletters.lang:468
 msgid ""
 "To update your email preferences, please check back in a little while. "
 "Thanks!"
@@ -531,14 +560,14 @@ msgstr ""
 "For å oppdatera e-postinnstillingane dine, kan du koma tilbake litt seinare. "
 "Takk!"
 
-#: mozorg/newsletters.lang:446
+#: mozorg/newsletters.lang:472
 msgid ""
 "We love sharing updates about all the awesome things happening at Mozilla."
 msgstr ""
 "Vi synest det er kjekt å fortelja om alle dei fantastiske tinga som skjer "
 "hjå Mozilla."
 
-#: mozorg/newsletters.lang:450
+#: mozorg/newsletters.lang:476
 msgid ""
 "This email address is not in our system. Please double check your address or "
 "<a href=\"%s\">subscribe to our newsletters.</a>"
@@ -546,7 +575,7 @@ msgstr ""
 "Denne e-postadressa er ikkje i systemet vårt. Ver snill og sjekk adressa ein "
 "gong til eller <a href=\"%s\">ting nyhendebrevet vårt.</a>"
 
-#: mozorg/newsletters.lang:454
+#: mozorg/newsletters.lang:480
 msgid ""
 "We are sorry, but there was a problem with our system. Please try again "
 "later!"
@@ -554,7 +583,7 @@ msgstr ""
 "Me er svært leie oss, men det oppstod eit problem med systemet vårt. Prøv "
 "igjen seinare!"
 
-#: mozorg/newsletters.lang:458
+#: mozorg/newsletters.lang:484
 msgid ""
 "The supplied link has expired or is not valid. You will receive a new one in "
 "the next newsletter, or below you can request an email with the link."
@@ -562,7 +591,7 @@ msgstr ""
 "Denne lenka har gått ut eller er ikkje gyldig. Du vil få ei ny i det neste "
 "nyhendebrevet, eller du kan be om ein e-post med ei ny lenke nedanfor."
 
-#: mozorg/newsletters.lang:462
+#: mozorg/newsletters.lang:488
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
@@ -570,53 +599,53 @@ msgstr ""
 "Kontroller at avsendaradressa: mozilla@e.mozilla.org finst i adresseboka di, "
 "slik at du er sikker på at nyhendebrevet alltid dukkar opp i innboksen din."
 
-#: mozorg/newsletters.lang:466
+#: mozorg/newsletters.lang:492
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr "Kvifor ikkje lesa meir om fantastiske Firefox når du likevel er her."
 
-#: mozorg/newsletters.lang:470
+#: mozorg/newsletters.lang:496
 msgid "Manage your <span>Newsletter Subscriptions</span>"
 msgstr "Handsam <span>nyhende-abonnementet</span>"
 
-#: mozorg/newsletters.lang:474
+#: mozorg/newsletters.lang:500
 msgid "Sign up below for updates and to be notified when it launches."
 msgstr ""
 "Registrer deg nedanfor for oppdateringar og for å få vita når han vert "
 "sleppt."
 
-#: mozorg/newsletters.lang:478
+#: mozorg/newsletters.lang:504
 msgid "Newsletter email recovery"
 msgstr "Gjenoppretting av e-post for nyhendebrev"
 
-#: mozorg/newsletters.lang:482
+#: mozorg/newsletters.lang:508
 msgid ""
 "*You’ll only receive updates and announcements about the iOS version of "
 "Firefox."
 msgstr ""
 "*Du vil berre få oppdateringar og kunngjeringar om iOS-versjonen av Firefox."
 
-#: mozorg/newsletters.lang:486
+#: mozorg/newsletters.lang:512
 msgid "Firefox Marketplace for Firefox OS"
 msgstr "Firefox Marketplace for Firefox OS"
 
-#: mozorg/newsletters.lang:490
+#: mozorg/newsletters.lang:516
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr "Oppdag dei nyaste, tøffaste HTML5-appane på Firefox OS."
 
-#: mozorg/newsletters.lang:494
+#: mozorg/newsletters.lang:520
 msgid "Firefox Weekly Tips"
 msgstr "Firefox veketips"
 
-#: mozorg/newsletters.lang:498
+#: mozorg/newsletters.lang:524
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr ""
 "Få eit tips kvar veke om korleis du tek Firefox-oppleving di til neste nivå."
 
-#: mozorg/newsletters.lang:502
+#: mozorg/newsletters.lang:528
 msgid "Student Reps"
 msgstr "Student Reps"
 
-#: mozorg/newsletters.lang:506
+#: mozorg/newsletters.lang:532
 msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
@@ -624,11 +653,11 @@ msgstr ""
 "Tidlegare universitetsprogram frå 2008-2011, no nedlagd og opna på nytt som "
 "Firefox Student Ambassadors-programmet."
 
-#: mozorg/newsletters.lang:510
+#: mozorg/newsletters.lang:536
 msgid "Mozilla Learning Network"
 msgstr "Mozilla Learning Network"
 
-#: mozorg/newsletters.lang:514
+#: mozorg/newsletters.lang:540
 msgid ""
 "Updates from our global community, helping people learn the most important "
 "skills of our age: the ability to read, write and participate in the digital "
@@ -638,27 +667,27 @@ msgstr ""
 "viktigaste ferdigheitene i vår tid: det å kunne lesa, skriva og delta i ei "
 "digital verd."
 
-#: mozorg/newsletters.lang:518
+#: mozorg/newsletters.lang:544
 msgid "Download Firefox for iOS"
 msgstr "Last ned Firefox for iOS"
 
-#: mozorg/newsletters.lang:522
+#: mozorg/newsletters.lang:548
 msgid "Download Firefox for Android"
 msgstr "Last ned Firefox for Android"
 
-#: mozorg/newsletters.lang:526
+#: mozorg/newsletters.lang:552
 msgid "Get Firefox for Android"
 msgstr "Få Firefox for Android"
 
-#: mozorg/newsletters.lang:530
+#: mozorg/newsletters.lang:556
 msgid "Drumbeat Newsgroup"
 msgstr "Drumbeat Newsgroup"
 
-#: mozorg/newsletters.lang:534
+#: mozorg/newsletters.lang:560
 msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
-#: mozorg/newsletters.lang:538
+#: mozorg/newsletters.lang:564
 msgid ""
 "Special announcements about Mozilla's annual, hands-on festival dedicated to "
 "forging the future of the open Web."
@@ -666,43 +695,43 @@ msgstr ""
 "Periodisk varsling om den årlege Mozilla Festival, som er dedikert til å "
 "forma framtida i det opne nettet."
 
-#: mozorg/newsletters.lang:542
+#: mozorg/newsletters.lang:568
 msgid "Firefox Marketplace for Android"
 msgstr "Firefox Marketplace for Android"
 
-#: mozorg/newsletters.lang:546
+#: mozorg/newsletters.lang:572
 msgid "About Standards"
 msgstr "Om standardar"
 
-#: mozorg/newsletters.lang:550
+#: mozorg/newsletters.lang:576
 msgid "Get Involved"
 msgstr "Ver med"
 
-#: mozorg/newsletters.lang:554
+#: mozorg/newsletters.lang:580
 msgid "Download Firefox for Mobile"
 msgstr "Last ned Firefox for mobilar"
 
-#: mozorg/newsletters.lang:558
+#: mozorg/newsletters.lang:584
 msgid "Maker Party"
 msgstr "Skaparparty"
 
-#: mozorg/newsletters.lang:562
+#: mozorg/newsletters.lang:588
 msgid "Mozilla's largest celebration of making and learning on the web."
 msgstr "Mozilla si største feiring av å forma og å læra på nettet."
 
-#: mozorg/newsletters.lang:566
+#: mozorg/newsletters.lang:592
 msgid "Aurora"
 msgstr "Aurora"
 
-#: mozorg/newsletters.lang:570
+#: mozorg/newsletters.lang:596
 msgid "Join Mozilla"
 msgstr "Ver med Mozilla"
 
-#: mozorg/newsletters.lang:574
+#: mozorg/newsletters.lang:600
 msgid "About Labs"
 msgstr "Om Labs"
 
-#: mozorg/newsletters.lang:578
+#: mozorg/newsletters.lang:604
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
@@ -710,29 +739,29 @@ msgstr ""
 "Les om dei siste funksjonane i Firefox desktop og mobil, før den endelege "
 "utgjevinga."
 
-#: mozorg/newsletters.lang:582
+#: mozorg/newsletters.lang:608
 msgid "Webmaker"
 msgstr "Webmaker"
 
-#: mozorg/newsletters.lang:586
+#: mozorg/newsletters.lang:612
 msgid "Special announcements helping you get the most out of Webmaker."
 msgstr ""
 "Spesielle kunngjeringar som hjelper deg med å få det meste ut av Webmaker."
 
-#: mozorg/newsletters.lang:590
+#: mozorg/newsletters.lang:616
 msgid "Addon Development"
 msgstr "Utvikling av utvidingar"
 
-#: mozorg/newsletters.lang:594
+#: mozorg/newsletters.lang:620
 msgid "Firefox Marketplace for Desktop"
 msgstr "Firefox Marketplace for Desktop"
 
 #. It appears here: https://www-dev.allizom.org/newsletter/firefox/
-#: mozorg/newsletters.lang:599
+#: mozorg/newsletters.lang:625
 msgid "Put more fox in your inbox."
 msgstr ""
 
-#: mozorg/newsletters.lang:603
+#: mozorg/newsletters.lang:629
 msgid ""
 "See where the Web can take you with monthly Firefox tips, tricks and "
 "Internet intel."
