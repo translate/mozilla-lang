@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-21 08:48+0000\n"
-"PO-Revision-Date: 2016-07-21 13:15+0000\n"
+"PO-Revision-Date: 2016-10-17 16:49+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: none\n"
 "Language: ca\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
-"X-POOTLE-MTIME: 1469106915.000000\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1476722977.000000\n"
 
 #. Page title (HTML attribute)
 #: mozorg/plugincheck-redesign.lang:6
@@ -46,22 +46,22 @@ msgid "Be sure to restart your Firefox after making all recommended updates."
 msgstr ""
 
 #: mozorg/plugincheck-redesign.lang:28
-#, fuzzy
 msgid "You are using an older version of Firefox."
-msgstr "Sembla que feu servir una versió antiga del Firefox."
+msgstr "Feu servir una versió antiga del Firefox."
 
 #: mozorg/plugincheck-redesign.lang:32
 msgid "Update now to keep your plugins running smoothly and securely."
 msgstr ""
+"Actualitzeu-la ara per tal que els connectors segueixin executant-se sense "
+"problemes i amb seguretat."
 
 #: mozorg/plugincheck-redesign.lang:36
-#, fuzzy
 msgid ""
 "Currently the plugin check service is only available to Firefox users on "
 "desktop and Android."
 msgstr ""
 "Actualment el servei de verificació de connectors només és disponible per "
-"als usuaris del Firefox."
+"als usuaris del Firefox d'escriptori i Android."
 
 #: mozorg/plugincheck-redesign.lang:40
 msgid ""
@@ -73,15 +73,15 @@ msgstr ""
 
 #: mozorg/plugincheck-redesign.lang:44
 msgid "Common plugins you should check often."
-msgstr ""
+msgstr "Connectors comuns que hauríeu de comprovar sovint."
 
 #: mozorg/plugincheck-redesign.lang:48
 msgid "All plugins"
-msgstr ""
+msgstr "Tots els connectors"
 
 #: mozorg/plugincheck-redesign.lang:52
 msgid "These plugins are out of date. Please update."
-msgstr ""
+msgstr "Aquests connectors no estan actualitzats. Actualitzeu-los."
 
 #: mozorg/plugincheck-redesign.lang:56
 msgid "Plugin"
@@ -97,19 +97,21 @@ msgstr "Acció"
 
 #: mozorg/plugincheck-redesign.lang:68
 msgid "These plugins are up to date. No action required."
-msgstr ""
+msgstr "Aquests connectors estan actualitzats. No cal fer cap acció."
 
 #: mozorg/plugincheck-redesign.lang:72
 msgid "These plugins have an unknown status. Follow the links to learn more."
 msgstr ""
+"Aquests connectors tenen un estat desconegut. Seguiu els enllaços per "
+"obtenir més informació."
 
 #: mozorg/plugincheck-redesign.lang:76
 msgid "Common Plugin Questions"
-msgstr ""
+msgstr "Preguntes freqüents sobre els connectors"
 
 #: mozorg/plugincheck-redesign.lang:80
 msgid "Need help? Visit Mozilla Support."
-msgstr ""
+msgstr "Us cal ajuda? Visiteu l'ajuda de Mozilla."
 
 #: mozorg/plugincheck-redesign.lang:84
 msgid "What is a plugin?"
@@ -120,6 +122,8 @@ msgid ""
 "Plugins are bits of software that power videos, animation and games in your "
 "browser."
 msgstr ""
+"Els connectors són peces de programari que fan funcionar els vídeos, les "
+"animacions i els jocs al navegador."
 
 #: mozorg/plugincheck-redesign.lang:92
 #, fuzzy
@@ -145,40 +149,48 @@ msgid ""
 "They can also cause interruptions that negatively affect your browsing "
 "experience."
 msgstr ""
+"També poden causar interrupcions que afecten negativament la vostra "
+"experiència de navegació."
 
 #: mozorg/plugincheck-redesign.lang:108
 msgid "Updated plugins keep your browser working smoothly and safely."
 msgstr ""
+"Mantenir els els connectors actualitzats fa que el navegador s'executi sense "
+"problemes i amb seguretat."
 
 #: mozorg/plugincheck-redesign.lang:112
 msgid ""
 "Plugins don’t always update automatically so it’s up to you from time to "
 "time."
 msgstr ""
+"Els connectors no sempre s'actualitzen automàticament, per tant ho heu de "
+"fer de tant en tant."
 
 #: mozorg/plugincheck-redesign.lang:116
 msgid "How can Firefox help me?"
 msgstr "Com em pot ajudar el Firefox?"
 
 #: mozorg/plugincheck-redesign.lang:120
-#, fuzzy
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to keep your Firefox safe."
 msgstr ""
 "En el futur, el Firefox us actualitzarà els connectors. Fins llavors, "
-"hauríeu de comprovar sovint aquesta pàgina i actualitzar els connectors per "
-"mantenir-vos segur."
+"hauríeu de comprovar aquesta pàgina regularment i actualitzar els connectors "
+"per mantenir el Firefox segur."
 
 #: mozorg/plugincheck-redesign.lang:124
 msgid "How can I see which plugins I have installed in my Firefox?"
-msgstr ""
+msgstr "Com puc veure quins connectors tinc instal·lats al Firefox?"
 
 #: mozorg/plugincheck-redesign.lang:128
 msgid ""
 "We automatically detected your plugins above. To view all the plugins you "
 "have installed in Firefox, follow these steps in your desktop browser:"
 msgstr ""
+"Hem detectat automàticament els connectors següents. Per veure tots els "
+"connectors que teniu instal·lats al Firefox, seguiu aquests passos al "
+"navegador d'escriptori:"
 
 #: mozorg/plugincheck-redesign.lang:132
 msgid "Open the <span class=\"menu\">menu</span>."
@@ -236,9 +248,8 @@ msgstr "Icona del connector"
 
 #. This is the string used to indicate that the plugin is up to date
 #: mozorg/plugincheck-redesign.lang:179
-#, fuzzy
 msgid "up to date"
-msgstr "Actualitzat"
+msgstr "actualitzat"
 
 #. This is the string used to indicate that the plugin is unknown
 #: mozorg/plugincheck-redesign.lang:184
