@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-21 08:48+0000\n"
-"PO-Revision-Date: 2016-03-27 08:51+0000\n"
-"Last-Translator: Tanzeel Khan <tanzeelkhan94@gmail.com>\n"
+"PO-Revision-Date: 2016-10-23 17:57+0000\n"
+"Last-Translator: MALIK FAYAZ KHAN <infomaliks7@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ur\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
-"X-POOTLE-MTIME: 1459068708.000000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1477245448.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -27,7 +28,7 @@ msgstr ""
 #. Firefox family navigation menu. Main level item.
 #: main.lang:12
 msgid "<span>for</span> Android"
-msgstr ""
+msgstr "<span>برائے</span>اینڈرائڈ"
 
 #. Firefox family navigation menu. Main level item.
 #: main.lang:17
@@ -37,7 +38,7 @@ msgstr ""
 #. Firefox family navigation menu. Main level item.
 #: main.lang:22
 msgid "OS"
-msgstr ""
+msgstr "OS"
 
 #. Used for the navigation menu only in Firefox OS pages
 #: main.lang:27
@@ -77,9 +78,8 @@ msgstr ""
 
 #. Firefox family navigation menu. Second-level item shared across different menus.
 #: main.lang:63
-#, fuzzy
 msgid "Fast"
-msgstr "تیز۔"
+msgstr "تیز"
 
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
 #: main.lang:68
@@ -99,7 +99,7 @@ msgstr ""
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
 #: main.lang:83
 msgid "Apps"
-msgstr ""
+msgstr "ایپس"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:88
@@ -109,7 +109,7 @@ msgstr "ٹریک مت کریں"
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:93
 msgid "Tiles"
-msgstr ""
+msgstr "ٹائلیں"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #. Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
@@ -120,12 +120,12 @@ msgstr ""
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:104
 msgid "Developer Edition"
-msgstr ""
+msgstr "تخلیق کار اشاعت"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:109
 msgid "Private Browsing"
-msgstr ""
+msgstr "نجی براؤزنگ"
 
 #. Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 #: main.lang:114
@@ -135,7 +135,7 @@ msgstr "مدد کی ضرورت ہے؟"
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:119
 msgid "News"
-msgstr ""
+msgstr "خبریں"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:124
@@ -146,7 +146,7 @@ msgstr "ڈیولپرز کے لیے"
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:129
 msgid "Find My Device"
-msgstr ""
+msgstr "ڈیولپرز کے لیے"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:134
@@ -156,7 +156,7 @@ msgstr "ڈیولپر"
 #. Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 #: main.lang:139
 msgid "Choose the independent browser"
-msgstr ""
+msgstr "آزادانہ براؤزر کا انتخاب کریں"
 
 #. Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 #: main.lang:144
@@ -164,6 +164,8 @@ msgid ""
 "Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox "
 "isn’t just choosing a browser. It’s a vote for personal freedom."
 msgstr ""
+"فائر فاکس غیر منافع بخش، غیر کارپوریٹ، غیر معاہدہ کر لیا ہے. انتخاب فائر "
+"فاکس صرف ایک براؤزر کا انتخاب نہیں کیا ہے. یہ ذاتی آزادی کے لئے ایک ووٹ ہے."
 
 #: main.lang:148
 msgid "Donate"
@@ -362,11 +364,11 @@ msgstr "وڈیو دیکہیں"
 
 #: main.lang:337
 msgid "Replay the video"
-msgstr ""
+msgstr "ویڈیو ری پلے"
 
 #: main.lang:341
 msgid "Share the video"
-msgstr ""
+msgstr "ویڈیو کا اشتراک کریں"
 
 #: main.lang:345
 msgid "WebM format"
@@ -468,7 +470,6 @@ msgstr ""
 
 #. Footer string (will replace "Contribute to this page")
 #: main.lang:433
-#, fuzzy
 msgid "Contribute to this site"
 msgstr "اس پیج میں حصہ ڈالیں"
 
@@ -635,17 +636,17 @@ msgstr ""
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:598
 msgid "Patents"
-msgstr ""
+msgstr "پیٹینٹ"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:603
 msgid "Leadership"
-msgstr ""
+msgstr "قیادت"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:608
 msgid "Governance"
-msgstr ""
+msgstr "گورننس"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:613
@@ -662,6 +663,7 @@ msgstr "ہمارے مصنوعات"
 #: main.lang:623
 msgid "Software and other innovations designed to advance our mission."
 msgstr ""
+"سافٹ ویئر اور آگے بڑھانے کے لئے ڈیزائن کیا گیا دیگر بدعات اور ہمارا مقصد."
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:628
@@ -676,15 +678,13 @@ msgstr "مینیو"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 #: main.lang:638
-#, fuzzy
 msgid "Committed to you, your privacy and an open Web"
-msgstr "آپ کے لیے پُر عزم، آپکی رازداری اور ایک کھلی ویب"
+msgstr "آپ، آپ کی رازداری اور ایک کھلی ویب لئے مصروف عمل"
 
 #. Common title used in Fx 10 pages
 #: main.lang:643
-#, fuzzy
 msgid "Choose Independent"
-msgstr "آزاد چنیں"
+msgstr "غیر تابع کا انتخاب کریں"
 
 #. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 #. The '#ChooseIndependent' hashtag should not be translated.
@@ -715,27 +715,27 @@ msgstr ""
 
 #: main.lang:674
 msgid "February"
-msgstr ""
+msgstr "فروری"
 
 #: main.lang:678
 msgid "March"
-msgstr ""
+msgstr "مارچ"
 
 #: main.lang:682
 msgid "April"
-msgstr ""
+msgstr "اپریل"
 
 #: main.lang:686
 msgid "May"
-msgstr ""
+msgstr "مئی"
 
 #: main.lang:690
 msgid "June"
-msgstr ""
+msgstr "جون"
 
 #: main.lang:694
 msgid "July"
-msgstr ""
+msgstr "جولائی"
 
 #: main.lang:698
 msgid "August"
@@ -743,7 +743,7 @@ msgstr ""
 
 #: main.lang:702
 msgid "September"
-msgstr ""
+msgstr "ستمبر"
 
 #: main.lang:706
 msgid "October"
