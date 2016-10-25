@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-21 08:48+0000\n"
-"PO-Revision-Date: 2016-10-17 16:49+0000\n"
+"PO-Revision-Date: 2016-10-21 13:52+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: none\n"
 "Language: ca\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1476722977.000000\n"
+"X-POOTLE-MTIME: 1477057942.000000\n"
 
 #. Page title (HTML attribute)
 #: mozorg/plugincheck-redesign.lang:6
@@ -126,11 +126,11 @@ msgstr ""
 "animacions i els jocs al navegador."
 
 #: mozorg/plugincheck-redesign.lang:92
-#, fuzzy
 msgid ""
 "They’re built outside of Firefox by companies like Adobe Systems and Apple."
 msgstr ""
-"Els d'empreses com Adobe Systems i Apple no són part del codi del Firefox."
+"No són propis del Firefox, sinó que són creats per empreses com Adobe "
+"Systems i Apple."
 
 #: mozorg/plugincheck-redesign.lang:96
 msgid "Why should I update my plugins?"
@@ -209,9 +209,8 @@ msgid "How do I disable a plugin?"
 msgstr "Com inhabilito un connector?"
 
 #: mozorg/plugincheck-redesign.lang:148
-#, fuzzy
 msgid "In Firefox for desktop:"
-msgstr "Firefox per a l'escriptori"
+msgstr "En el Firefox per a l'escriptori:"
 
 #: mozorg/plugincheck-redesign.lang:152
 msgid "Click on the drop down next to the plugin you wish to disable."
@@ -222,7 +221,6 @@ msgid "Select \"Never Activate\" from the available choices."
 msgstr "Trieu \"Mai actiu\" de les opcions disponibles."
 
 #: mozorg/plugincheck-redesign.lang:160
-#, fuzzy
 msgid ""
 "Caution: Disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
