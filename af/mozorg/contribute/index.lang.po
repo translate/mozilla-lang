@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-19 12:10+0000\n"
-"PO-Revision-Date: 2015-09-08 09:07+0000\n"
+"PO-Revision-Date: 2016-11-06 13:55+0000\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: af\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
-"X-POOTLE-MTIME: 1441703262.000000\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1478440540.000000\n"
 
 #. Used for HTML title attribute
 #: mozorg/contribute/index.lang:6
@@ -46,7 +46,7 @@ msgstr "Raak betrokke"
 
 #: mozorg/contribute/index.lang:34
 msgid "Your country"
-msgstr ""
+msgstr "U land"
 
 #. This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
 #: mozorg/contribute/index.lang:39
@@ -283,7 +283,6 @@ msgid "Where would you like to get started?"
 msgstr "Waar wil u begin?"
 
 #: mozorg/contribute/index.lang:258
-#, fuzzy
 msgid "Coding"
 msgstr "Programmering"
 
@@ -456,7 +455,7 @@ msgstr "(Engels)"
 
 #: mozorg/contribute/index.lang:398
 msgid "What particular area?"
-msgstr ""
+msgstr "Watter spesifieke area?"
 
 #: mozorg/contribute/index.lang:402
 msgid "What would you like to code?"
@@ -673,11 +672,11 @@ msgstr "Hallo!"
 
 #: mozorg/contribute/index.lang:595
 msgid "Your Name"
-msgstr ""
+msgstr "Naam"
 
 #: mozorg/contribute/index.lang:599
 msgid "In the meantime&hellip;"
-msgstr ""
+msgstr "Intussen&hellip;"
 
 #. Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 #: mozorg/contribute/index.lang:605
@@ -685,11 +684,13 @@ msgid ""
 "You can help by picking an easy task that only takes a few minutes &mdash; "
 "or take on a bigger challenge."
 msgstr ""
+"Help gerus deur 'n maklike taak te kies wat slegs 'n paar minute neem "
+"&mdash; of aanvaar 'n groter uitdaging."
 
 #. Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 #: mozorg/contribute/index.lang:611
 msgid "Choose a Task Now"
-msgstr ""
+msgstr "Kies nou 'n taak"
 
 #. Displayed in the "Thank You!" page after the email is sent for other categories.
 #: mozorg/contribute/index.lang:617
@@ -697,24 +698,28 @@ msgid ""
 "Help us tell the world how awesome Firefox is and about all the important "
 "work Mozilla does every day."
 msgstr ""
+"Help ons om die wêreld te vertel hoe oulik Firefox is en oor al die "
+"belangrike werk wat Mozilla elke dag doen."
 
 #. Displayed in the "Thank You!" page after the email is sent for other categories.
 #: mozorg/contribute/index.lang:623
 msgid "Join Now"
-msgstr ""
+msgstr "Sluit nou aan"
 
 #: mozorg/contribute/index.lang:627
 msgid ""
 "You can create your Mozillians account now to connect with fellow Mozillians."
 msgstr ""
+"Skep gerus nou 'n Mozillians-rekening om kontak te maak met ander Mozilla-"
+"mense."
 
 #: mozorg/contribute/index.lang:631
 msgid "Yes, create my Mozillians account"
-msgstr ""
+msgstr "Ja, skep my Mozillians-rekening"
 
 #: mozorg/contribute/index.lang:635
 msgid "You will be asked to sign in before proceeding"
-msgstr ""
+msgstr "U gaan gevra word om aan te meld om voort te gaan"
 
 #: mozorg/contribute/index.lang:639
 msgid "No thanks, I’ll just wait for the email"
@@ -767,9 +772,8 @@ msgid "Education"
 msgstr "Opvoeding"
 
 #: mozorg/contribute/index.lang:689
-#, fuzzy
 msgid "Other"
-msgstr "Ander…"
+msgstr "Ander"
 
 #: mozorg/contribute/index.lang:693
 msgid "Hi, I’m interested in…"
@@ -788,7 +792,6 @@ msgid "I need help with a Firefox issue"
 msgstr "Ek benodig hulp met 'n aspek van Firefox"
 
 #: mozorg/contribute/index.lang:709
-#, fuzzy
 msgid "Please enter a valid email address."
 msgstr "Tik 'n geldige e-posadres in."
 
