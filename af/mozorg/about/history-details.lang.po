@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2016-08-30 12:27+0000\n"
+"PO-Revision-Date: 2016-11-06 14:46+0000\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: none\n"
 "Language: af\n"
@@ -13,11 +13,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1472560049.000000\n"
+"X-POOTLE-MTIME: 1478443603.000000\n"
 
 #: mozorg/about/history-details.lang:5
 msgid "History of the Mozilla Project"
-msgstr "Geskidenis van die Mozilla-projek"
+msgstr "Geskiedenis van die Mozilla-projek"
 
 #: mozorg/about/history-details.lang:9
 msgid ""
@@ -25,6 +25,9 @@ msgid ""
 "the <a href=\"%(sourcerelease)s\">release of the Netscape browser suite "
 "source code</a>."
 msgstr ""
+"Die Mozilla-projek is <a href=\"%(coderush)s\">in 1998 gestig</a> et die <a "
+"href=\"%(sourcerelease)s\">vrystelling van die Netscape-blaaisuite se "
+"bronkode</a>."
 
 #: mozorg/about/history-details.lang:13
 msgid ""
@@ -32,6 +35,9 @@ msgid ""
 "the Internet and fuel unprecedented levels of innovation in the browser "
 "market."
 msgstr ""
+"Die plan was om die kreatiewe krag van duisende programmeerders op die "
+"Internet te gebruik om ongekende vlakke van innovering in die blaaiermark te "
+"ontsluit."
 
 #: mozorg/about/history-details.lang:17
 msgid ""
@@ -40,12 +46,17 @@ msgid ""
 "existing features and became engaged in the management and planning of the "
 "project itself."
 msgstr ""
+"In die <a href=\"%(firstyear)s\">eerste jaar</a> het gemeenskapslede van reg "
+"oor die wêreld reeds nuwe funksionaliteit bygedra, bestaande funksionaliteit "
+"verbeter en betrokke geraak by die bestuur en beplanning van die projek self."
 
 #: mozorg/about/history-details.lang:21
 msgid ""
 "By creating an open community, the Mozilla project had become <a href="
 "\"%(stevecase)s\">larger than any one company</a>."
 msgstr ""
+"Deur 'n oop gemeenskap te skep, het die Mozilla-projek <a href="
+"\"%(stevecase)s\">groter as enige enkele maatskappy</a> geword."
 
 #: mozorg/about/history-details.lang:25
 msgid ""
@@ -55,6 +66,12 @@ msgid ""
 "variety of browsers</a>, <a href=\"%(bugzilla)s\">development tools</a> and "
 "a range of other <a href=\"%(projects)s\">projects</a>."
 msgstr ""
+"Gemeenskapslede het betrokke geraak en die strekking van die projek se <a "
+"href=\"%(mission)s\">oorspronklike missie</a> uitgebrei — in plaas van om "
+"net te werk aan Netscape se volgende blaaier het mense begin om <a href="
+"\"%(browsers)s\">'n verskeidenheid blaaiers</a>, <a href=\"%(bugzilla)s"
+"\">programmeerhulpmiddels</a> en <a href=\"%(projects)s\">ander projekte</a> "
+"te maak."
 
 #: mozorg/about/history-details.lang:29
 msgid ""
@@ -62,6 +79,9 @@ msgid ""
 "about creating free software that would enable people to have a choice in "
 "how they experienced the Internet."
 msgstr ""
+"Mense het op verskillende maniere bygedra tot Mozilla, maar almal was "
+"passievol om vry sagteware te skep wat mense 'n keuse sou gee oor hoe hulle "
+"die Internet ervaar."
 
 #: mozorg/about/history-details.lang:33
 msgid ""
@@ -70,12 +90,18 @@ msgid ""
 "many improvements to the browser, email client and other applications "
 "included in the suite, but not many people were using it."
 msgstr ""
+"Na 'n paar jaar se ontwikkeling is <a href=\"%(mozilla1)s\">Mozilla 1.0</a>, "
+"die eerste groot weergawe, vrygestel in 2002. Die weergawe het heelwat "
+"verbeterings gehad aan die blaaier, e-poskliënt en ander toepassings in die "
+"suite, maar daar was nog nie baie mense wat dit gebruik het nie."
 
 #: mozorg/about/history-details.lang:37
 msgid ""
 "By 2002, <a href=\"%(over90)s\">well over 90%% of Internet users</a> were "
 "browsing with Internet Explorer."
 msgstr ""
+"Teen 2002 het <a href=\"%(over90)s\">goed meer as 90%% van "
+"Internetgebruikers</a> Internet Explorer gebruik."
 
 #: mozorg/about/history-details.lang:41
 msgid ""
@@ -84,6 +110,10 @@ msgid ""
 "with the goal of providing the <a href=\"%(charter)s\">best possible "
 "browsing experience</a> to the widest possible set of people."
 msgstr ""
+"Min mense het destyds geweet, maar die eerste weergawe van Phoenix (later "
+"hernoem na Firefox) is ook daardie jaar deur Mozilla-gemeenskapslede "
+"vrygestel met die doel om die <a href=\"%(charter)s\">beste moontlike blaai-"
+"ervaring</a> te bied aan die wydste moontlike gehoor."
 
 #: mozorg/about/history-details.lang:45
 msgid ""
@@ -91,6 +121,9 @@ msgid ""
 "\"%(foundation)s\">independent non-profit organization</a> supported by "
 "individual donors and a variety of companies."
 msgstr ""
+"In 2003 het die Mozilla-projek die Mozilla-stigting opgerig, 'n <a href="
+"\"%(foundation)s\">onafhanklike organisasie sonder winsbejag</a> wat "
+"ondersteun word deur individuele borge en 'n verskeidenheid maatskappye."
 
 #: mozorg/about/history-details.lang:49
 msgid ""
@@ -99,6 +132,9 @@ msgid ""
 "<a href=\"%(manifesto)s\">openness, innovation and opportunity</a> on the "
 "Internet."
 msgstr ""
+"Die nuwe Mozilla-stigting het die projek se daaglikse bedrywighede verder "
+"bestuur en ook amptelik die rol vervul om <a href=\"%(manifesto)s"
+"\">openheid, innovering en geleentheid</a> op die Internet te bevorder."
 
 #: mozorg/about/history-details.lang:53
 msgid ""
@@ -106,6 +142,9 @@ msgid ""
 "Thunderbird, and expanding to new areas, such as providing <a href="
 "\"%(grants)s\">grants</a> to support accessibility improvements on the Web."
 msgstr ""
+"Dit is bereik deur deurgaans sagteware soos Firefox en Thunderbird vry te "
+"stel, en deur uit te brei na nuwe areas, soos <a href=\"%(grants)s"
+"\">skenkings</a> om toeganklikheid te verbeter op die Web."
 
 #: mozorg/about/history-details.lang:57
 msgid ""
@@ -113,18 +152,26 @@ msgid ""
 "big success — in less than a year, it was downloaded <a href=\"%(millions)s"
 "\">over 100 million times</a>."
 msgstr ""
+"<a href=\"%(firefox1)s\">Firefox 1.0</a> is in 2004 vrygestel en was 'n "
+"groot sukses — in minder as 'n jaar is dit <a href=\"%(millions)s\">meer as "
+"100 miljoen keer</a> afgelaai."
 
 #: mozorg/about/history-details.lang:61
 msgid ""
 "New versions of Firefox have come out regularly since then and keep setting "
 "new records. The popularity of Firefox has helped bring choice back to users."
 msgstr ""
+"Nuwe weergawes van Firefox is sedertdien gereeld vrygestel en breek steeds "
+"nuwe rekords. Die gewildheid van Firefox het gehelp om gebruikers weer 'n "
+"keuse te gee."
 
 #: mozorg/about/history-details.lang:65
 msgid ""
 "The renewed competition has <a href=\"%(innovation)s\">accelerated "
 "innovation</a> and improved the Internet for everyone."
 msgstr ""
+"Die hernude kompetisie het <a href=\"%(innovation)s\">innovasie versnel</a> "
+"en die Internet vir almal verbeter."
 
 #: mozorg/about/history-details.lang:69
 msgid ""
@@ -138,7 +185,7 @@ msgstr ""
 
 #: mozorg/about/history-details.lang:73
 msgid "Mozilla also celebrated its 15th anniversary in 2013."
-msgstr ""
+msgstr "Mozilla het ook sy 15de bestaansjaar gevier in 2013."
 
 #: mozorg/about/history-details.lang:77
 msgid ""
@@ -146,12 +193,17 @@ msgid ""
 "collaborating in open source projects and that great end user products can "
 "be produced as open source software."
 msgstr ""
+"Die gemeenskap het gewys dat kommersiële maatskappye kan baat vind by "
+"samewerking in oopbronprojekte en dat groot eindgebruikerprodukte as oopbron-"
+"sagteware gebou kan word."
 
 #: mozorg/about/history-details.lang:81
 msgid ""
 "More people than ever before are using the Internet and are experiencing it "
 "<a href=\"%(all)s\">in their own language</a>."
 msgstr ""
+"Meer mense as ooit tevore gebruik die Internet en ervaar dit <a href="
+"\"%(all)s\">in hul eie taal</a>."
 
 #: mozorg/about/history-details.lang:85
 msgid ""
@@ -160,27 +212,36 @@ msgid ""
 "create open, transparent and collaborative organizations in a <a href="
 "\"%(range)s\">broad range</a> <a href=\"%(areas)s\">of areas</a>."
 msgstr ""
+"'n Volhoubare organisasie is geskep wat markmeganismes gebruik om 'n missie "
+"vir openbare voordeel te ondersteun, en dié model is weer deur ander gebruik "
+"om oop, deursigtige en samewerkende organisasies te skep in 'n <a href="
+"\"%(range)s\">wye verskeidenheid</a> <a href=\"%(areas)s\">areas</a>."
 
 #: mozorg/about/history-details.lang:89
 msgid ""
 "The future is full of challenges and opportunities equal to those of our "
 "past."
 msgstr ""
+"Die toekoms is vol uitdagings en geleenthede gelykstaande aan dié van ons "
+"verlede."
 
 #: mozorg/about/history-details.lang:93
 msgid ""
 "There’s no guarantee that the Internet will remain open or enjoyable or safe."
 msgstr ""
+"Daar is geen waarborg dat die Internet oop, aangenaam, of veilig sal bly nie."
 
 #: mozorg/about/history-details.lang:97
 msgid ""
 "Mozilla will continue to provide an opportunity for people to make their "
 "voices heard and to shape their own online lives."
 msgstr ""
+"Mozilla sal steeds voortgaan om 'n geleentheid vir mense te skep om hulle "
+"stemme hoorbaar te maak en hulle lewens aanlyn te vorm."
 
 #: mozorg/about/history-details.lang:101
 msgid "Of course, we’re not alone in doing this."
-msgstr ""
+msgstr "Natuurlik is ons nie alleen hiermee nie."
 
 #: mozorg/about/history-details.lang:105
 msgid ""
@@ -188,28 +249,33 @@ msgid ""
 "public benefit organizations, exists only because of the people who are "
 "engaged in making our common goals a reality."
 msgstr ""
+"Die Mozilla-gemeenskap, asook ander oopbronprojekte en ander organisasies "
+"vir openbare voordeel, bestaan slegs as gevolg van die mense wat betrokke is "
+"om die gemeenskaplike doelwitte te laat realiseer."
 
 #: mozorg/about/history-details.lang:109
 msgid ""
 "If you want to join us in our mission, please <a href=\"%(contribute)s\">get "
 "involved</a>."
 msgstr ""
+"Om by ons missie aan te sluit, <a href=\"%(contribute)s\">raak gerus "
+"betrokke</a>."
 
 #: mozorg/about/history-details.lang:113
 msgid "For more information about Mozilla’s history, see the following:"
-msgstr ""
+msgstr "Vir meer inligting oor Mozilla se geskiedenis, sien die volgende:"
 
 #: mozorg/about/history-details.lang:117
 msgid "Mozilla Bookmarks"
-msgstr ""
+msgstr "Mozilla-boekmerke"
 
 #: mozorg/about/history-details.lang:121
 msgid "Timeline of Mozilla Project"
-msgstr ""
+msgstr "Tydlyn van Mozilla-projek"
 
 #: mozorg/about/history-details.lang:125
 msgid "Mozilla Digital Memory Bank"
-msgstr ""
+msgstr "Mozilla digitale geheuebank"
 
 #: mozorg/about/history-details.lang:129
 msgid ""
