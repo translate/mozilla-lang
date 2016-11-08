@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-18 18:14+0000\n"
-"PO-Revision-Date: 2016-11-08 08:47+0000\n"
+"PO-Revision-Date: 2016-11-08 13:16+0000\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: none\n"
 "Language: af\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1478594837.000000\n"
+"X-POOTLE-MTIME: 1478611000.000000\n"
 
 #: firefox/sync.lang:9
 msgid "Keep your Firefox in sync"
@@ -27,6 +27,8 @@ msgstr "Merke! Gereed! Sync!"
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
 msgstr ""
+"U is aangemeld en Firefox kan nou oral en altyd u gesinkroniseerde data "
+"bereik."
 
 #: firefox/sync.lang:21
 msgid "Take your Web with you"
@@ -66,7 +68,7 @@ msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
 "Discover them all!"
 msgstr ""
-"Sync is maar een van die uitstekende funksies wat slegs beskikbaar is met "
+"Sync is maar een van die uitstekende funksies wat slegs beskikbaar is in "
 "Firefox. Ontdek hulle almal!"
 
 #: firefox/sync.lang:52
@@ -77,7 +79,7 @@ msgstr "Sinkroniseer Firefox nou met u iOS- en Android-toestelle."
 #: firefox/sync.lang:58
 msgid "Sync is just one of the great features you’ll only get with Firefox."
 msgstr ""
-"Sync is maar een van die uitstekende funksies wat slegs beskikbaar is met "
+"Sync is maar een van die uitstekende funksies wat slegs beskikbaar is in "
 "Firefox."
 
 #: firefox/sync.lang:62
@@ -108,6 +110,9 @@ msgid ""
 "href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of Firefox and "
 "select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
+"Open die <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
+"href=\"%(url)s#w_a-handy-new-menu\">kieslys</a> regs bo in Firefox en kies "
+"“<strong>Meld aan by Sync.</strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:89
@@ -116,25 +121,29 @@ msgstr ""
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:94
+#, fuzzy
 msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
-msgstr ""
+msgstr "Tik 'n e-posadres en wagwoord by “<strong>Skep 'n rekening.</strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:99
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr ""
+"Klik “<strong>Volgende</strong>” sodat 'n bevestiging as e-pos gestuur word."
 
 #: firefox/sync.lang:103
 msgid ""
 "After you check your email and click the verification link, you’ll be all "
 "set! Firefox will automatically sync in the background from then on."
 msgstr ""
+"Gaan u e-pos na en klik die bevestigingskakel. Dan is alles reg! Firefox sal "
+"dan voortaan outomaties in die agtergrond sinkroniseer."
 
 #: firefox/sync.lang:107
 msgid "Get more detailed instructions."
-msgstr ""
+msgstr "Meer gedetailleerde instruksies."
 
 #: firefox/sync.lang:111
 msgid "Using an older version of Sync?"
@@ -143,7 +152,7 @@ msgstr "Gebruik u 'n ouer weergawe van Sync?"
 #. This string is displayed on Android devices
 #: firefox/sync.lang:116
 msgid "How to set up Sync in five easy steps:"
-msgstr ""
+msgstr "Hoe om Sync op te stel in vyf maklike stappe:"
 
 #. <strong> tags below used for font color formatting.
 #. This string is displayed on Android devices
@@ -152,6 +161,8 @@ msgid ""
 "Tap the <strong>Menu</strong> button (either below the screen or at the top "
 "right corner of the browser)."
 msgstr ""
+"Raak die <strong>Kieslys</strong>-knoppie (onder die skerm, of in die regter "
+"boonste hoek van die blaaier)."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:127
@@ -159,22 +170,27 @@ msgid ""
 "Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
 "first)."
 msgstr ""
+"Kies <strong>Instellings</strong> (dit is dalk nodig om eers op "
+"<strong>Meer</strong> te raak)."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:132
+#, fuzzy
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
-msgstr ""
+msgstr "Raak op <strong>Sync</strong> en dan op <strong>"
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:137
 msgid ""
 "The <strong>Create a Firefox Account page</strong> will open in a new tab."
 msgstr ""
+"Die bladsy vir <strong>Skep 'n Firefox-rekening</strong> sal open in 'n nuwe "
+"oortjie."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:142
 msgid "Fill out the form and click <strong>Next</strong>."
-msgstr ""
+msgstr "Vul die vorm in en klik <strong>Volgende</strong>."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:147
@@ -183,6 +199,8 @@ msgid ""
 "to go! Don’t forget to connect all your other devices to get the most of "
 "Sync."
 msgstr ""
+"Gaan u e-pos na en klik die bevestigingskakel. Dan is alles reg! Onthou om "
+"alle ander toestelle te koppel om die meeste uit Sync te kry."
 
 #: firefox/sync.lang:151
 msgid "Sync a little. Sync a lot."
@@ -194,16 +212,22 @@ msgid ""
 "sync them. Take your open tabs on your daily commute. Access your bookmarks "
 "at work. Whatever, whenever, everywhere."
 msgstr ""
+"Elkeen kan kies watter dele van Firefox om te sinkroniseer en waar om hulle "
+"te sinkroniseer. Neem oop oortjies elke dag saam. Kry boekmerke by die werk. "
+"Alles, altyd, oral."
 
 #: firefox/sync.lang:160
 msgid ""
 "Want to visit your computer’s open tabs from another device? Access your "
 "browsing history on the go? Keep your passwords with you? Now you can."
 msgstr ""
+"Lus om die oop oortjies op die rekenaar op 'n ander toestel te sien? "
+"Blaaigeskiedenis te sien op die pad? Wagwoorde altyd byderhand te hê? Dis "
+"nou moontlik."
 
 #: firefox/sync.lang:165
 msgid "Here’s what you can sync:"
-msgstr ""
+msgstr "Die volgende kan gesinkroniseer word:"
 
 #: firefox/sync.lang:170
 msgid "Bookmarks"
@@ -223,7 +247,7 @@ msgstr "Geskiedenis"
 
 #: firefox/sync.lang:189
 msgid "At home"
-msgstr ""
+msgstr "Tuis"
 
 #: firefox/sync.lang:193
 msgid ""
@@ -231,10 +255,12 @@ msgid ""
 "tabs on your smartphone, or keeping browsing your bookmarks right on your "
 "tablet."
 msgstr ""
+"Beweeg tussen die lessenaar en die rusbank in 'n oogwink. Kry toegang tot "
+"oop oortjies op 'n slimfoon, of besoek boekmerke maklik op 'n tablet."
 
 #: firefox/sync.lang:197
 msgid "At work"
-msgstr ""
+msgstr "By die werk"
 
 #: firefox/sync.lang:201
 msgid ""
@@ -242,45 +268,52 @@ msgid ""
 "bookmarks that you might need to access at any time. Just like Firefox, it’s "
 "safe as can be."
 msgstr ""
+"Hou alle belangrike inligting byderhand. Sinkroniseer wagwoorde en boekmerke "
+"wat altyd binne bereik moet wees. Nes Firefox is dit so veilig as moontlik."
 
 #: firefox/sync.lang:205
 msgid "On the go"
-msgstr ""
+msgstr "Op pad"
 
 #: firefox/sync.lang:209
 msgid ""
 "Keep up with your favorite sites, or finish that story you started at home — "
 "wherever you go. With Sync, it’s never been easier."
 msgstr ""
+"Bly op hoogte met gunstelinge, of finaliseer 'n storie waarmee by die huis "
+"begin is — net waar mens gaan. Met Sync is dit so maklik as moontlik."
 
 #: firefox/sync.lang:214
-#, fuzzy
 msgid "Add Firefox to your smartphone or tablet"
-msgstr "Installeer Firefox op 'n slimfoon of tablet."
+msgstr "Installeer Firefox op 'n slimfoon of tablet"
 
 #: firefox/sync.lang:219
 msgid ""
 "To get the full Sync experience, get Firefox for iOS or Android and connect "
 "all your devices — everywhere and anywhere you use Firefox."
 msgstr ""
+"Om die meeste uit Sync te put, kry Firefox vir iOS of Android en koppel alle "
+"toestelle — waar en wanneer Firefox ook al gebruik word."
 
 #: firefox/sync.lang:224
 msgid "Add Firefox"
-msgstr ""
+msgstr "Installeer Firefox"
 
 #: firefox/sync.lang:228
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
-msgstr ""
+msgstr "Het u 'n <b>Android-foon</b> of <b>-tablet</b>?"
 
 #: firefox/sync.lang:232
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
-msgstr ""
+msgstr "LAAI FIREFOX AF VIR ANDROID"
 
 #: firefox/sync.lang:236
 msgid ""
 "To get the full Sync experience, take your Web with you everywhere you use "
 "Firefox. Connect your smartphone, tablet, computer and laptop."
 msgstr ""
+"Om die meeste uit Sync te put, neem die Web oral saam met Firefox. Koppel 'n "
+"slimfoon, tablet en rekenaar."
 
 #, fuzzy
 #~ msgid "Get it free from Google Play"
