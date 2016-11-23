@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-16 21:09+0000\n"
+"POT-Creation-Date: 2016-11-23 19:09+0000\n"
 "PO-Revision-Date: 2016-09-22 18:19+0000\n"
 "Last-Translator: umesh agarwal <umesh.agarwal1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -939,8 +939,15 @@ msgid "Get Firefox tips, tricks, news and more"
 msgstr "Firefox सुझाव, तरकीब, न्यूज़ ओर भी बहुत कुछ पायें."
 
 #. This string will be used as a navigation label in home page, pointing to /technology
-#: main.lang:875
+#. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+#: main.lang:876
 msgid "Web Innovations"
+msgstr ""
+
+#. This string will be used as a navigation label in home page, pointing to /internet-health
+#. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+#: main.lang:882
+msgid "Internet Health"
 msgstr ""
 
 #~ msgid "Get Firefox for Android"

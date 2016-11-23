@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-16 21:09+0000\n"
+"POT-Creation-Date: 2016-11-23 19:09+0000\n"
 "PO-Revision-Date: 2016-11-22 12:18+0000\n"
 "Last-Translator: Bjørn I. Svindseth <bjorn.svindseth@online.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "X-POOTLE-MTIME: 1479817137.000000\n"
 
 #: main.lang:1
@@ -942,6 +942,13 @@ msgid "Get Firefox tips, tricks, news and more"
 msgstr "Få Firefox-tips, triks, nyheiter og mykje meir"
 
 #. This string will be used as a navigation label in home page, pointing to /technology
-#: main.lang:875
+#. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+#: main.lang:876
 msgid "Web Innovations"
 msgstr "Nyskapingar på nettet"
+
+#. This string will be used as a navigation label in home page, pointing to /internet-health
+#. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
+#: main.lang:882
+msgid "Internet Health"
+msgstr ""
