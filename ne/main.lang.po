@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-23 19:09+0000\n"
-"PO-Revision-Date: 2016-11-27 09:07+0000\n"
+"PO-Revision-Date: 2016-11-27 09:47+0000\n"
 "Last-Translator: Nootan Ghimire <nootan.ghimire@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ne\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1480237657.000000\n"
+"X-POOTLE-MTIME: 1480240061.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -700,12 +700,12 @@ msgstr "Please turn on JavaScript to display this page correctly."
 #. Used as link to /firefox/desktop in footers on some pages
 #: main.lang:661
 msgid "Firefox Features"
-msgstr "Firefox विशेषताहरू"
+msgstr "Firefox का विशेषताहरू"
 
 #. Used as link to SUMO in footers on some pages
 #: main.lang:666
 msgid "Firefox Help"
-msgstr "Firefox सहयोग "
+msgstr "Firefox सहयोग"
 
 #: main.lang:670
 msgid "January"
@@ -721,11 +721,11 @@ msgstr "मार्च"
 
 #: main.lang:682
 msgid "April"
-msgstr ""
+msgstr "अप्रिल"
 
 #: main.lang:686
 msgid "May"
-msgstr "मई"
+msgstr "मे"
 
 #: main.lang:690
 msgid "June"
@@ -789,40 +789,39 @@ msgstr "<abbr>अगस्ट</abbr>"
 
 #: main.lang:750
 msgid "<abbr>Sep</abbr>"
-msgstr "<abbr>सेप्टेम्बर </abbr>"
+msgstr "<abbr>सेप्टेम्बर</abbr>"
 
 #: main.lang:754
 msgid "<abbr>Oct</abbr>"
-msgstr "<abbr>अक्टोबर </abbr>"
+msgstr "<abbr>अक्टोबर</abbr>"
 
 #: main.lang:758
 msgid "<abbr>Nov</abbr>"
-msgstr "<abbr>नोवेम्बर</abbr>"
+msgstr "<abbr>नोभेम्बर</abbr>"
 
 #: main.lang:762
 msgid "<abbr>Dec</abbr>"
-msgstr "<abbr>डिसेम्बर </abbr>"
+msgstr "<abbr>डिसेम्बर</abbr>"
 
 #. Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 #: main.lang:767
 msgid ""
 "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
-msgstr ""
+msgstr "Firefox iOS मा अाउँदैै छ! <a href=\"{url}\">अझ जान्न खाता खोल्नुहोस्</a>।"
 
 #: main.lang:771
 msgid "Congrats. You’re up to date!"
-msgstr "बधाई. तपाई अत्याबधिक हुनुहुन्छ!"
+msgstr "बधाई छ। तपाई अद्यावधिक हुनुहुन्छ!"
 
 #. Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
 #: main.lang:776
 msgid "Format"
-msgstr "स्वरूप"
+msgstr "Format"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 #: main.lang:781
-#, fuzzy
 msgid "Text"
-msgstr "अर्को॒ "
+msgstr "Text"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 #: main.lang:786
@@ -832,29 +831,33 @@ msgstr "HTML"
 #. This is the error message displayed if you provide an invalid email address in a form
 #: main.lang:791
 msgid "Whoops! Be sure to enter a valid email address."
-msgstr ""
+msgstr "कृपया सहि इमेल हान्नुहोस्।"
 
 #: main.lang:795
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Notice</a>"
 msgstr ""
+"यस <a href=\"%s\">गोपनियाता सुचना</a> मा भनिए अनुसार Mozilla ले मेरो जानकारी "
+"सम्हाल्दा मलाई कुनै समस्या छैन।"
 
 #: main.lang:799
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Policy</a>"
 msgstr ""
+"यस <a href=\"%s\">गोपनियाता सुचना</a> मा भनिए अनुसार Mozilla ले मेरो जानकारी "
+"सम्हाल्दा मलाई कुनै समस्या छैन।"
 
 #. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 #: main.lang:804
 msgid "Keep up with<br> all things Firefox."
-msgstr ""
+msgstr "Keep up with<br> all things Firefox."
 
 #. This string is used for a subscription field on other pages than /newsletter/
 #: main.lang:809
 msgid "Get Firefox news"
-msgstr "Firefox समाचार प्राप्त गर्नुहोस्"
+msgstr "Firefox को समाचार प्राप्त गर्नुहोस्"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
 #: main.lang:814
@@ -864,16 +867,16 @@ msgstr "तपाईंको इमेल यहाँ"
 #. Newsletter subscription Button
 #: main.lang:819
 msgid "Sign Up Now"
-msgstr ""
+msgstr "अहिले दर्ता गर्नुहोस्"
 
 #. Old newsletter subscription Button
 #: main.lang:824
 msgid "Sign me up"
-msgstr ""
+msgstr "मेरो दर्ता गर्नुहोस्"
 
 #: main.lang:828
 msgid "Select country"
-msgstr "देश चयन गर्नुहोस् "
+msgstr "देश चयन गर्नुहोस्"
 
 #: main.lang:832
 msgid "Available Languages"
@@ -881,7 +884,7 @@ msgstr "उपलब्ध भाषाहरु"
 
 #: main.lang:836
 msgid "We will only send you Mozilla-related information."
-msgstr ""
+msgstr "हामिले तपाईँलाई Mozilla संग सम्बन्धित जानकारी मात्र पठाउँछौँ।"
 
 #: main.lang:840
 msgid "Thanks!"
@@ -893,11 +896,13 @@ msgid ""
 "newsletter you may have to do so. Please check your inbox or your spam "
 "filter for an email from us."
 msgstr ""
+"यदि तपाईँले पहिले नै Mozilla संग सम्बन्धित समाचारपत्र को सदस्यता पक्का गर्नुएको छैन भने "
+"तपाईँले सो गर्नुपर्ने हुन सक्छ। कृपया अाफ्नो इमेल खातामा हामिबाट अाएको इमेल खोज्नुहोस्।"
 
 #. Obsolete string. Do not remove.
 #: main.lang:849
 msgid "Thanks! Please check your inbox to confirm your subscription."
-msgstr ""
+msgstr "धन्यबाद! कृपया सदस्यता पक्का गर्न अाफ्नो इमेल खाता हेर्नुहोस्।"
 
 #. Obsolete string. Do not remove.
 #: main.lang:854
@@ -906,6 +911,9 @@ msgid ""
 "subscription. If you don't see it, check your spam filter. You must confirm "
 "your subscription to receive our newsletter."
 msgstr ""
+"सदस्यता पक्का गर्नको निमित्त तपाईँले mozilla@e.mozilla.org बाट एक इमेल पाउनुहुनेछ। यदि "
+"तपाईँले सो देख्नुभएन भने, अाफ्नो spam filter जाँच्नुहोस्। हाम्रो समाचारपत्र पाउन तपाईँले "
+"सदस्यता पक्का गर्नु जरुरी छ।"
 
 #: main.lang:858
 msgid "Read all about it in our <span>newsletter</span>"
@@ -917,23 +925,26 @@ msgid ""
 "the latest tips and tricks for getting the most out of your Firefox browser. "
 "It’s the perfect way for us to keep in touch!"
 msgstr ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
 
 #: main.lang:866
 msgid "<span>Firefox</span> + You"
-msgstr "<span>Firefox</span> +  तपाईँ"
+msgstr "<span>Firefox</span> + तपाईँ"
 
 #: main.lang:870
 msgid "Get Firefox tips, tricks, news and more"
-msgstr ""
+msgstr "Firefox को सुझाव, तरिका, समाचार र अरु पाउनुहोस्"
 
 #. This string will be used as a navigation label in home page, pointing to /technology
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 #: main.lang:876
 msgid "Web Innovations"
-msgstr ""
+msgstr "Web Innovations"
 
 #. This string will be used as a navigation label in home page, pointing to /internet-health
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 #: main.lang:882
 msgid "Internet Health"
-msgstr ""
+msgstr "इन्टरनेट स्वास्थ"
