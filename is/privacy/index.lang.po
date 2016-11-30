@@ -1,18 +1,19 @@
 #. extracted from ./privacy/index.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-11-30 21:17+0000\n"
+"Last-Translator: Kristján Bjarni Guðmundsson <kristjanbjarni@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: is\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=(n%10!=1 || n%100==11);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1480540622.000000\n"
 
 #: privacy/index.lang:4
 msgid "Mozilla Privacy"
@@ -33,14 +34,14 @@ msgid "Data Privacy Principles"
 msgstr "Reglur fyrir gagnaleynd"
 
 #: privacy/index.lang:20
-#, fuzzy
 msgid ""
 "Mozilla is an open source project with a mission to improve your Internet "
 "experience. This is a driving force behind our data privacy practices. <a "
 "href=\"%(link)s\">Read More</a>"
 msgstr ""
 "Mozilla er með opinn kóða og tilgangurinn er að bæta þína upplifun á netinu. "
-"Þetta er ástæðan fyrir reglurnar okkar um gagnaöryggi."
+"Þetta er ástæðan fyrir reglunum okkar um gagnaöryggi. <a href=\"%(link)s"
+"\">Lesa meira</a>"
 
 #: privacy/index.lang:24
 msgid "Our Privacy Notices"
