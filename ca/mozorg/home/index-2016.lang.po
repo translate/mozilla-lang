@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-23 20:09+0000\n"
-"PO-Revision-Date: 2016-10-29 17:02+0000\n"
+"PO-Revision-Date: 2016-12-15 12:59+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: none\n"
 "Language: ca\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
-"X-POOTLE-MTIME: 1477760565.000000\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1481806754.000000\n"
 
 #. HTML title tag of the page
 #: mozorg/home/index-2016.lang:7
@@ -153,7 +153,7 @@ msgstr ""
 #. You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
 #: mozorg/home/index-2016.lang:109
 msgid "$%(sum)s"
-msgstr "$%(sum)s €"
+msgstr "%(sum)s €"
 
 #. Take over form
 #: mozorg/home/index-2016.lang:115
@@ -178,4 +178,4 @@ msgstr "Feu una donació ara"
 #. This is used as a link to dismiss the fundraising take over and continue to mozilla.org website
 #: mozorg/home/index-2016.lang:139
 msgid "Continue to mozilla.org"
-msgstr ""
+msgstr "Vés a mozilla.org"
