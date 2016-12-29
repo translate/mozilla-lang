@@ -5,15 +5,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-06 12:08+0000\n"
-"PO-Revision-Date: 2015-09-08 09:13+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2016-12-29 08:41+0000\n"
+"Last-Translator: Ibrahima SARR <ibrahima.sarr@pulaagu.com>\n"
 "Language-Team: FULAH LOCALIZATION\n"
 "Language: ff\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1441703611.000000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1483000890.000000\n"
 
 #. This is the <title> tag
 #: firefox/desktop/index.lang:9
@@ -21,6 +22,8 @@ msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your "
 "privacy and an open Web"
 msgstr ""
+"Wanngorde Geese Firefox — Ena hoolnii, Ena weeɓti, Ena yaawi — Ko aan min "
+"tiiɗaa, suturo maa e Geese udditiiɗe"
 
 #. Previous title (DO NOT REMOVE)
 #: firefox/desktop/index.lang:14
@@ -42,15 +45,14 @@ msgstr "Ko aan min tiiɗaa, suturo maa e geese udditiiɗe."
 
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
 #: firefox/desktop/index.lang:29
-#, fuzzy
 msgid "Your Firefox is up to date."
-msgstr "Firefox maa ko kiiɗtuɗo."
+msgstr "Firefox maa kena hesɗiti."
 
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
 #. Active link to https://support.mozilla.org/products/firefox
 #: firefox/desktop/index.lang:36
 msgid "Need help with anything?"
-msgstr ""
+msgstr "Aɗa sokli ballal e huunde kala?"
 
 #: firefox/desktop/index.lang:40
 msgid "Made with a mission to put you first"
@@ -65,13 +67,12 @@ msgstr ""
 "maa."
 
 #: firefox/desktop/index.lang:48
-#, fuzzy
 msgid ""
 "That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
 "\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
 msgstr ""
-"Ko ɗuum waɗi amin paarnoroo toɗɗeede <a href=\"%(url1)s\">Kompoññe ɓurɗe "
-"Hooleede e Enternet e fannu Suturo.</a>"
+"Ko ɗuum waɗi amin paarnoroo toɗɗeede <a href=\"%(url1)s\" data-interaction="
+"\"outbound link\">Kompoññe ɓurɗe Hooleede e Enternet e fannu Suturo.</a>"
 
 #: firefox/desktop/index.lang:52
 msgid "Find out what makes Firefox the most trusted browser on the Web"
@@ -122,6 +123,8 @@ msgid ""
 "* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
 "Hardware Web Browser Grand Prix XVI</a> results."
 msgstr ""
+"* Tugnaade e njaltudi <a data-interaction=\"outbound link\" href=\"%(url1)s"
+"\">Tom’s Hardware Web Browser Grand Prix XVI</a>."
 
 #: firefox/desktop/index.lang:88
 msgid "Save time and do just about anything quicker than before."
