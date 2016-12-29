@@ -5,15 +5,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-23 19:09+0000\n"
-"PO-Revision-Date: 2015-07-15 14:45+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2016-12-29 09:42+0000\n"
+"Last-Translator: Ibrahima SARR <ibrahima.sarr@pulaagu.com>\n"
 "Language-Team: FULA LOCALIZATION\n"
 "Language: ff\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
-"X-POOTLE-MTIME: 1436971551.000000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1483004541.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -33,7 +34,7 @@ msgstr "<span>for</span> Android"
 #. Firefox family navigation menu. Main level item.
 #: main.lang:17
 msgid "<span>for</span> iOS"
-msgstr ""
+msgstr "<span>mo</span> iOS"
 
 #. Firefox family navigation menu. Main level item.
 #: main.lang:22
@@ -43,12 +44,12 @@ msgstr "OS"
 #. Used for the navigation menu only in Firefox OS pages
 #: main.lang:27
 msgid "TV"
-msgstr ""
+msgstr "TELE"
 
 #. Used for the navigation menu, points to /firefox/channel
 #: main.lang:32
 msgid "Pre-release downloads"
-msgstr ""
+msgstr "Gaawte bayyine bagge"
 
 #. Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
 #. You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
@@ -99,7 +100,7 @@ msgstr "Toɗɗii ko gollodiiɓe"
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
 #: main.lang:83
 msgid "Apps"
-msgstr ""
+msgstr "Jaaɓɗe"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:88
@@ -229,7 +230,7 @@ msgstr "Ɗemɗe goɗɗe:"
 #. Will replace "Other languages" for the footer's language switcher
 #: main.lang:209
 msgid "Page language:"
-msgstr ""
+msgstr "Ɗemngal Hello"
 
 #. Year / Month / Day, indicate your prefered date format for your language
 #: main.lang:214
@@ -635,7 +636,7 @@ msgstr "Jakkaaji"
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:598
 msgid "Patents"
-msgstr ""
+msgstr "Berwe"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:603
@@ -812,7 +813,7 @@ msgstr ""
 
 #: main.lang:771
 msgid "Congrats. You’re up to date!"
-msgstr ""
+msgstr "Woyyoo. A hesɗitii!"
 
 #. Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
 #: main.lang:776
@@ -821,14 +822,13 @@ msgstr "Mbayka"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 #: main.lang:781
-#, fuzzy
 msgid "Text"
-msgstr "Yeeso"
+msgstr "Binndol"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 #: main.lang:786
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #. This is the error message displayed if you provide an invalid email address in a form
 #: main.lang:791
@@ -836,13 +836,12 @@ msgid "Whoops! Be sure to enter a valid email address."
 msgstr "Ndo! Ƴeew so a naatnii ñiiɓirde iimeel moƴƴere."
 
 #: main.lang:795
-#, fuzzy
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Notice</a>"
 msgstr ""
-"Alanaa kam caɗeele e Mozilla huutoraade ngoo humpito hono no paamir-mi e <a "
-"href=\"%s\">Dawirgol Suturo</a>"
+"Alanaa kam caɗeele e Mozilla huutoraade ngoo humpito hono no facciraa e <a "
+"href=\"%s\">ngol Dawirgol Suturo</a>"
 
 #: main.lang:799
 msgid ""
@@ -855,7 +854,7 @@ msgstr ""
 #. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 #: main.lang:804
 msgid "Keep up with<br> all things Firefox."
-msgstr ""
+msgstr "Humpito<br> geɗe Firefox fof."
 
 #. This string is used for a subscription field on other pages than /newsletter/
 #: main.lang:809
@@ -870,7 +869,7 @@ msgstr "WINNDU ƊOO IIMEEL MAA"
 #. Newsletter subscription Button
 #: main.lang:819
 msgid "Sign Up Now"
-msgstr ""
+msgstr "Winndito Jooni"
 
 #. Old newsletter subscription Button
 #: main.lang:824
@@ -891,7 +890,7 @@ msgstr "Min neldat-maa tan ko kabaruuji toɗɗiiɗi Mozilla."
 
 #: main.lang:840
 msgid "Thanks!"
-msgstr ""
+msgstr "A jaaraama!"
 
 #: main.lang:844
 msgid ""
@@ -899,6 +898,9 @@ msgid ""
 "newsletter you may have to do so. Please check your inbox or your spam "
 "filter for an email from us."
 msgstr ""
+"So a suwaa tawo teeŋtinde lulnagol e ɓataake habrirde baɗte Mozilla maa tawa "
+"aɗa foti waɗde ɗum. Tiiɗno ƴeewto wandannde ɓaakeeji maa walla ceɗol spaam "
+"maa ngam yiytude iwɗo e amen."
 
 #. Obsolete string. Do not remove.
 #: main.lang:849
@@ -934,23 +936,23 @@ msgstr ""
 
 #: main.lang:866
 msgid "<span>Firefox</span> + You"
-msgstr ""
+msgstr "<span>Firefox</span> + Aa"
 
 #: main.lang:870
 msgid "Get Firefox tips, tricks, news and more"
-msgstr ""
+msgstr "Heɓ ƴoƴon Firefox, peeje, kabaruuji e geɗe goɗɗe"
 
 #. This string will be used as a navigation label in home page, pointing to /technology
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 #: main.lang:876
 msgid "Web Innovations"
-msgstr ""
+msgstr "Kesamhasameeje Geese"
 
 #. This string will be used as a navigation label in home page, pointing to /internet-health
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 #: main.lang:882
 msgid "Internet Health"
-msgstr ""
+msgstr "Cellal Enternet"
 
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Heɓ Firefox mo Android"

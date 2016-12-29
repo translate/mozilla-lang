@@ -5,15 +5,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-18 18:14+0000\n"
-"PO-Revision-Date: 2015-06-10 11:49+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2016-12-29 09:32+0000\n"
+"Last-Translator: Ibrahima SARR <ibrahima.sarr@pulaagu.com>\n"
 "Language-Team: FULAH LOCALIZATION\n"
 "Language: ff\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0-rc1\n"
-"X-POOTLE-MTIME: 1433936977.000000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1483003975.000000\n"
 
 #: firefox/sync.lang:9
 msgid "Keep your Firefox in sync"
@@ -21,61 +22,66 @@ msgstr "Yoo Firefox maa won e sync sahaa fof"
 
 #: firefox/sync.lang:13
 msgid "Ready, Set, Sync"
-msgstr ""
+msgstr "Hebo, Syɓo, Sync"
 
 #: firefox/sync.lang:17
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
 msgstr ""
+"A seŋiima kadi a hebiima heɓde Firefox <em>maa</em> nokku kala, sahaa kala."
 
 #: firefox/sync.lang:21
 msgid "Take your Web with you"
-msgstr ""
+msgstr "Nawor Geesa Maa"
 
 #: firefox/sync.lang:25
 msgid ""
 "Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
 "and more from any smartphone, tablet or computer."
 msgstr ""
+"Sync Firefox tuma kala kuutori-ɗaa ɗum ngal heɓde maantore, finndeeji, tabbe "
+"maa a geɗe goɗɗe iwde e cinndel kala, taable walla ordinateer."
 
 #: firefox/sync.lang:30
 msgid ""
 "Sync your bookmarks, passwords, tabs and more using your Firefox Account, "
 "and access them everywhere you’re signed in."
 msgstr ""
+"Sync maantore maa, finndeeji, tabbe e geɗe goɗɗe huutoraade Konte Firefox, "
+"tee keɓaa ɗe nokku kala mo ceŋi-ɗaa."
 
 #: firefox/sync.lang:34
-#, fuzzy
 msgid "It looks like you’re running an older version of Firefox."
-msgstr "Ena wayi hono kuutorto-ɗaa ko yamre hiiɗnde Firefox."
+msgstr "Ena wayi hono ndognataa ko yamre Firefox hiiɗnde."
 
 #: firefox/sync.lang:38
 msgid "The new version of Sync only works with the latest version of Firefox"
-msgstr ""
+msgstr "Yamre Sync hesere ndee dogata tan ko e yamre Firefox sakkitiitnde ndee"
 
 #: firefox/sync.lang:43
 msgid "Soon you’ll be able to use Sync on your iOS device"
-msgstr ""
+msgstr "Leelaataa mbaawaa huutoraade Sync ɗ kaɓirgol maa iOS"
 
 #: firefox/sync.lang:47
 msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
 "Discover them all!"
 msgstr ""
+"Sync ko gooto tan e fannuuji ɗi mbaaw-ɗaa heɓde so wonaa e Firefox. Ƴeewto-"
+"ɗe kañje kala!"
 
 #: firefox/sync.lang:52
 msgid "Now sync Firefox with your iOS and Android devices."
-msgstr ""
+msgstr "Jooni Sunc Firefox e kaɓirɗi maa iOS e Android."
 
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 #: firefox/sync.lang:58
 msgid "Sync is just one of the great features you’ll only get with Firefox."
-msgstr ""
+msgstr "Sync ko gooto tan e fannuuji ɗi mbaaw-ɗaa heɓde so wonaa e Firefox."
 
 #: firefox/sync.lang:62
-#, fuzzy
 msgid "Download Firefox for Android"
-msgstr "Aawto Betaa mo Android"
+msgstr "Aawto Firefox mo Android"
 
 #: firefox/sync.lang:66
 msgid "Get started with Sync"
@@ -91,19 +97,19 @@ msgstr "Aawto Firefox"
 
 #: firefox/sync.lang:78
 msgid "Get started with Sync in four easy steps:"
-msgstr ""
+msgstr "Fuɗɗo huutoraade Sync e daawe nay beeɓɗe:"
 
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 #: firefox/sync.lang:84
-#, fuzzy
 msgid ""
 "Open the <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
 "href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of Firefox and "
 "select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
-"Uddit <a class=\"menu\" href=\"%(url)s#w_a-handy-new-menu\">dosol</a> "
-"gonngol dow bannge ñaamo Firefox kisa labo “<strong>Seŋo e Sync</strong>”"
+"Uddit <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
+"href=\"%(url)s#w_a-handy-new-menu\">dosol</a> gonngol dow bannge ñaamo "
+"Firefox kisa labo “<strong>Seŋo e Sync</strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:89
@@ -130,6 +136,8 @@ msgid ""
 "After you check your email and click the verification link, you’ll be all "
 "set! Firefox will automatically sync in the background from then on."
 msgstr ""
+"Caggal nde ƴeewti-ɗaa iimeel maa e ndobi-ɗaa e jokkol ƴeewtagol ngol, maa "
+"fof timmu! Firefox synca e cakkital haŋkadi."
 
 #: firefox/sync.lang:107
 msgid "Get more detailed instructions."
@@ -142,7 +150,7 @@ msgstr "Yamre maa Sync ko hiiɗtunde?"
 #. This string is displayed on Android devices
 #: firefox/sync.lang:116
 msgid "How to set up Sync in five easy steps:"
-msgstr ""
+msgstr "Hol no Sync huutortee e daawe nay beeɓɗe:"
 
 #. <strong> tags below used for font color formatting.
 #. This string is displayed on Android devices
@@ -151,6 +159,8 @@ msgid ""
 "Tap the <strong>Menu</strong> button (either below the screen or at the top "
 "right corner of the browser)."
 msgstr ""
+"Fiy e butoŋ <strong>Dosol</strong> oo (maa les yanirde ndee walla collo "
+"ñaama dow wanngorde ndee)."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:127
@@ -158,22 +168,24 @@ msgid ""
 "Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
 "first)."
 msgstr ""
+"Labo <strong>Teelte</strong> (Ena gasa coklaa fiyde e <strong>Goɗɗi</strong> "
+"tawo)."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:132
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
-msgstr ""
+msgstr "Fiy e <strong>Sync</strong> kisa e <strong>Fuɗɗo jooni</strong>."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:137
 msgid ""
 "The <strong>Create a Firefox Account page</strong> will open in a new tab."
-msgstr ""
+msgstr "Hello <strong>Sos Konte Firefox</strong> maa uddito e tabbere hesere."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:142
 msgid "Fill out the form and click <strong>Next</strong>."
-msgstr ""
+msgstr "Naatnu humpito maa, ndobo-ɗaa e <strong>Yeeso</strong>."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:147
@@ -182,10 +194,13 @@ msgid ""
 "to go! Don’t forget to connect all your other devices to get the most of "
 "Sync."
 msgstr ""
+"Caggal nde ƴeewti-ɗaa iimeel maa e ndobi-ɗaa e jokkol ƴeewtagol ngol, a "
+"hebiima yahde! Hoto yejjit seŋondirde kaɓirɗi maa goɗɗi ɗii fof ngam heɓde "
+"ɓure Sync."
 
 #: firefox/sync.lang:151
 msgid "Sync a little. Sync a lot."
-msgstr ""
+msgstr "Sync seeɗa, Sync ko heewi."
 
 #: firefox/sync.lang:155
 msgid ""
@@ -193,16 +208,21 @@ msgid ""
 "sync them. Take your open tabs on your daily commute. Access your bookmarks "
 "at work. Whatever, whenever, everywhere."
 msgstr ""
+"A suɓiima hol geɗe Firefox maa njiɗ-ɗaa syncude tee hol to njiɗ-ɗaa syncude-"
+"ɗe. Nawor tabbe maa udditiiɗe to jaabanɗi ñallɗi maa. Heɓ maantore to "
+"gollordu. Ko njiɗ-ɗaa, nde njiɗ-ɗaa, ɗo njiɗ-ɗaa."
 
 #: firefox/sync.lang:160
 msgid ""
 "Want to visit your computer’s open tabs from another device? Access your "
 "browsing history on the go? Keep your passwords with you? Now you can."
 msgstr ""
+"Aɗa yiɗi yillaade tabbe udditiiɗe e ordinateer maa e kaɓirgol goɗngol? Heɓde "
+"aslol peeragol e ko yaawi? Noworde finnde maa? Ena wona haŋkadi."
 
 #: firefox/sync.lang:165
 msgid "Here’s what you can sync:"
-msgstr ""
+msgstr "Ko ɗum mbaaw-ɗaa syncude:"
 
 #: firefox/sync.lang:170
 msgid "Bookmarks"
@@ -210,11 +230,11 @@ msgstr "Maantore"
 
 #: firefox/sync.lang:175
 msgid "Passwords"
-msgstr ""
+msgstr "Finndeeji"
 
 #: firefox/sync.lang:180
 msgid "Open tabs"
-msgstr ""
+msgstr "Tabbe udditiiɗe"
 
 #: firefox/sync.lang:185
 msgid "History"
@@ -222,7 +242,7 @@ msgstr "Daartol"
 
 #: firefox/sync.lang:189
 msgid "At home"
-msgstr ""
+msgstr "Galle"
 
 #: firefox/sync.lang:193
 msgid ""
@@ -230,10 +250,12 @@ msgid ""
 "tabs on your smartphone, or keeping browsing your bookmarks right on your "
 "tablet."
 msgstr ""
+"Ummo e biro maa payaa e kanappe tawa a diwaani diraa. Heɓ tabbe maa "
+"udditiiɗe e cinndel maa, walla njokkaa e weɗɗide maantore maa e taable maa."
 
 #: firefox/sync.lang:197
 msgid "At work"
-msgstr ""
+msgstr "To gollordu"
 
 #: firefox/sync.lang:201
 msgid ""
@@ -241,45 +263,52 @@ msgid ""
 "bookmarks that you might need to access at any time. Just like Firefox, it’s "
 "safe as can be."
 msgstr ""
+"Jokku seŋaade e humpito maa ɓurngo teeŋtude. Sync finndeeji e maantore ɗe "
+"mbaawtaa soklude sahaa kala. Hono Firefox nih, ko noon hisiri."
 
 #: firefox/sync.lang:205
 msgid "On the go"
-msgstr ""
+msgstr "Nde pokkit-ɗaa"
 
 #: firefox/sync.lang:209
 msgid ""
 "Keep up with your favorite sites, or finish that story you started at home — "
 "wherever you go. With Sync, it’s never been easier."
 msgstr ""
+"Heɓ lowe maa cuɓaaɗe, walla jokkit daarol ngol puɗɗi-ɗaa galle — tuma kala "
+"njah-ɗaa. Huutoraade Sync mee-ɗaa weeɓirde nih."
 
 #: firefox/sync.lang:214
 msgid "Add Firefox to your smartphone or tablet"
-msgstr ""
+msgstr "Ɓeydu Firefox e cinndel walla taable maa"
 
 #: firefox/sync.lang:219
 msgid ""
 "To get the full Sync experience, get Firefox for iOS or Android and connect "
 "all your devices — everywhere and anywhere you use Firefox."
 msgstr ""
+"Ngam heɓde dawtol Sync timmungol, heɓ Firefox mo iOS walla Android kisa "
+"ceŋondiraa kaɓirɗi maa fof — nokku kala mo kuutori-ɗaa Firefox."
 
 #: firefox/sync.lang:224
-#, fuzzy
 msgid "Add Firefox"
-msgstr "Firefox Kiiɗɗo"
+msgstr "Ɓeydu Firefox"
 
 #: firefox/sync.lang:228
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
-msgstr ""
+msgstr "Aɗa jogii <b>cinndel Android</b> walla <b>taable</b>?"
 
 #: firefox/sync.lang:232
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
-msgstr ""
+msgstr "DOWNLOAD FIREFOX FOR ANDROID"
 
 #: firefox/sync.lang:236
 msgid ""
 "To get the full Sync experience, take your Web with you everywhere you use "
 "Firefox. Connect your smartphone, tablet, computer and laptop."
 msgstr ""
+"Ngam heɓde dawtol timmungol, nawor Geese maa nokku kala mo kuutori-ɗaa "
+"Firefox. Seŋondir cinndel, taable e ordinateer walla ñigal."
 
 #~ msgid ""
 #~ "Instantly make Firefox your own wherever you use it. Seamlessly sync your "
