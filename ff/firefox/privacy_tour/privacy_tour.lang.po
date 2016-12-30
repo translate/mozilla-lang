@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2015-03-05 21:37+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2016-12-30 12:02+0000\n"
+"Last-Translator: Ibrahima SARR <ibrahima.sarr@pulaagu.com>\n"
 "Language-Team: none\n"
 "Language: ff\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.7\n"
-"X-POOTLE-MTIME: 1425591475.000000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1483099362.000000\n"
 
 #. This is the title for a door-hanger menu that shows in the browser chrome
 #: firefox/privacy_tour/privacy_tour.lang:4
@@ -113,9 +114,8 @@ msgstr "Uddu"
 #. STEP 1 of the tour (Forget button)
 #. %s is a searchplugin name
 #: firefox/privacy_tour/privacy_tour.lang:99
-#, fuzzy
 msgid "<span>Next:</span> %s"
-msgstr "<span>Yeeso:</span> Ɓeyditte"
+msgstr "<span>Yeeso:</span> %s"
 
 #. <br> tag below used for formatting only.
 #. Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
@@ -194,9 +194,8 @@ msgstr ""
 
 #. %s is a searchplugin name
 #: firefox/privacy_tour/privacy_tour.lang:173
-#, fuzzy
 msgid "<span>Previous:</span> %s"
-msgstr "<span>Caggal:</span> Dosol"
+msgstr "<span>Caggal:</span> %s"
 
 #. STEP 3 of the tour (Private Browsing)
 #. <br> tag below used for formatting only.
