@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-25 10:17+0000\n"
+"POT-Creation-Date: 2017-01-14 02:09+0000\n"
 "PO-Revision-Date: 2016-10-30 09:27+0000\n"
 "Last-Translator: ravi kumbhkar <ravi.103151@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,14 +12,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "X-POOTLE-MTIME: 1477819632.000000\n"
 
-#: firefox/new/horizon.lang:5
+#: firefox/new/horizon.lang:6
 msgid "Free Web Browser"
 msgstr "मुफ्त वेब ब्राउज़र"
 
-#: firefox/new/horizon.lang:9
+#: firefox/new/horizon.lang:10
 msgid ""
 "Download Mozilla Firefox, a free Web browser. Firefox is created by a global "
 "non-profit dedicated to putting individuals in control online. Get Firefox "
@@ -29,11 +29,16 @@ msgstr ""
 "लाभ ऑनलाइन नियंत्रण समर्पित व्यक्तियो ने किया है. आज ही Windows, Mac OS X, Linux, "
 "Android और iOS के लिए फायरफॉक्स डाउनलोड करें!"
 
-#: firefox/new/horizon.lang:13
+#: firefox/new/horizon.lang:15
+msgid "The last independent browser."
+msgstr ""
+
+#. String obsolete. Do NOT remove.
+#: firefox/new/horizon.lang:20
 msgid "Enjoy online freedom."
 msgstr "ऑनलाइन स्वतंत्रता का आनंद ले"
 
-#: firefox/new/horizon.lang:17
+#: firefox/new/horizon.lang:24
 msgid ""
 "Thanks for choosing Firefox. Your download should begin automatically. If "
 "not, <a id=\"%(id)s\" href=\"%(fallback_url)s\">click here</a>."
@@ -41,88 +46,88 @@ msgstr ""
 "Firefox चुनने के लिए धन्यवाद. आपका डाउनलोड अपने आप शुरू होना चाहिए. यदि नहीं, तो <a "
 "id=\"%(id)s\" href=\"%(fallback_url)s\">यहाँ क्लिक करें</a>."
 
-#: firefox/new/horizon.lang:21
+#: firefox/new/horizon.lang:28
 msgid "Browse Freely"
 msgstr "खुशी से ब्राउज करे"
 
-#: firefox/new/horizon.lang:25
+#: firefox/new/horizon.lang:32
 msgid "You’re browsing freely with the latest version of Firefox."
 msgstr "आप Firefox के नये संस्करण के साथ खुशी से ब्राउज़िंग कर रहे हैं."
 
-#: firefox/new/horizon.lang:29
+#: firefox/new/horizon.lang:36
 msgid ""
 "<a href=\"%(url)s\">Update</a> your Firefox for the latest in speed and "
 "privacy."
 msgstr ""
 "गति और गोपनीयता में नयेपन के लिए अपने Firefox को <a href=\"%(url)s\">अद्यतन करे</a>."
 
-#: firefox/new/horizon.lang:34
+#: firefox/new/horizon.lang:41
 msgid "You’re using a pre-release version of Firefox."
 msgstr "आप Firefox के पूर्व लोकार्पण संस्करण का उपयोग कर रहे हैं."
 
-#: firefox/new/horizon.lang:38
+#: firefox/new/horizon.lang:45
 msgid "Congrats! You’re using the latest version of Firefox."
 msgstr "बधाई! आप फ़ायरफ़ॉक्स के हालिया संस्करण का उपयोग कर रहे हैं."
 
-#: firefox/new/horizon.lang:42
+#: firefox/new/horizon.lang:49
 msgid "Give Firefox a tune up"
 msgstr "फ़ायरफ़ॉक्स एक ताज़गी दे दो"
 
-#: firefox/new/horizon.lang:46
+#: firefox/new/horizon.lang:53
 msgid "Refresh Firefox"
 msgstr "फ़ायरफ़ॉक्स पुनः आरंभ"
 
-#: firefox/new/horizon.lang:50
+#: firefox/new/horizon.lang:57
 msgid "Looking for more info?"
 msgstr "और अधिक सुचना के तलाश में हैं?"
 
-#: firefox/new/horizon.lang:54
+#: firefox/new/horizon.lang:61
 msgid "Want a fresh copy?"
 msgstr "आप ताज़ा प्रतिलिपि चाहते हैं?"
 
-#: firefox/new/horizon.lang:58
+#: firefox/new/horizon.lang:65
 msgid "Get Firefox for Android and iOS."
 msgstr "Android और iOS के लिए Firefox डाउनलोड करें."
 
-#: firefox/new/horizon.lang:62
+#: firefox/new/horizon.lang:69
 msgid "Learn more about Firefox for Mobile"
 msgstr "मोबाइल के लिए फ़ायरफ़ॉक्स के बारे में अधिक और जानें"
 
-#: firefox/new/horizon.lang:66
+#: firefox/new/horizon.lang:73
 msgid "Learn about Firefox OS"
 msgstr "फ़ायरफ़ॉक्स ओएस के बारे में अधिक और जानें"
 
-#: firefox/new/horizon.lang:70
+#: firefox/new/horizon.lang:77
 msgid "Discover all the ways to take Firefox on the go"
 msgstr "फ़ायरफ़ॉक्स को अपने कार्य में प्रयोग करने के लिए सभी तरीकों का खोज करें"
 
-#: firefox/new/horizon.lang:74
+#: firefox/new/horizon.lang:81
 msgid ""
 "Please follow <a href=\"%(url)s\">these instructions</a> to install Firefox."
 msgstr ""
 "Firefox संस्थापित करने के लिए कृपया <a href=\"%(url)s\">इन अनुदेशो</a> का अनुसरण करें."
 
-#: firefox/new/horizon.lang:78
+#: firefox/new/horizon.lang:85
 msgid "Freedom is fast"
 msgstr "स्वतंत्रता तेज हैं"
 
-#: firefox/new/horizon.lang:82
+#: firefox/new/horizon.lang:89
 msgid "Go anywhere you want on the Web — with a quickness."
 msgstr "वेब पे जंहा जाना चाहते हैं जाएँ — एक शीघ्रता के साथ."
 
-#: firefox/new/horizon.lang:86
+#: firefox/new/horizon.lang:93
 msgid "Freedom is personal"
 msgstr "स्वतंत्रता निजी हैं"
 
-#: firefox/new/horizon.lang:90
+#: firefox/new/horizon.lang:97
 msgid "Enjoy the most built-in privacy tools of any browser."
 msgstr "कोई भी ब्राउज़र के अंतःनिर्मित गोपनीयता टूल्स का आनंद लें."
 
-#: firefox/new/horizon.lang:94
+#: firefox/new/horizon.lang:101
 msgid "Freedom is yours"
 msgstr "स्वतंत्रता आपकी हैं"
 
-#: firefox/new/horizon.lang:98
+#: firefox/new/horizon.lang:105
 msgid "Use the only browser built for people, not profit."
 msgstr "केवल वहीं ब्राउज़र का उपयोग कीजिये जो लोगो के लिए बना हैं, मुनाफा के लिए नहीं."
 

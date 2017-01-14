@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-06-03 11:11+0000\n"
+"POT-Creation-Date: 2017-01-14 02:09+0000\n"
 "PO-Revision-Date: 2015-06-03 12:04+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "X-POOTLE-MTIME: 1433333072.000000\n"
 
 #. Navigation
@@ -114,90 +114,70 @@ msgid ""
 msgstr ""
 
 #: lightbeam/lightbeam.lang:88
-msgid "Explore the database"
-msgstr ""
-
-#: lightbeam/lightbeam.lang:92
-msgid ""
-"In the Lightbeam database, you will be able to browse first and third-party "
-"connection data uploaded by donors who use the Lightbeam add-on."
-msgstr ""
-
-#: lightbeam/lightbeam.lang:96
 msgid ""
 "We’re building this crowd-sourced directory to encourage users to visualize "
 "the state of tracking as an aggregate and to examine relationships that "
 "exist on the Web."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:100
+#: lightbeam/lightbeam.lang:92
 msgid "Visualize your data"
 msgstr ""
 
-#: lightbeam/lightbeam.lang:104
+#: lightbeam/lightbeam.lang:96
 msgid ""
 "After you download and install the Lightbeam add-on to Firefox, it will "
 "begin to create a real time visualization of the websites you visit and all "
 "the third parties that are also active on those pages."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:108
+#: lightbeam/lightbeam.lang:100
 msgid "Analyze your connections"
 msgstr ""
 
-#: lightbeam/lightbeam.lang:112
+#: lightbeam/lightbeam.lang:104
 msgid ""
 "As your visualizations grow, you can take a closer look into the "
 "relationships between the various first and third party sites that are "
 "stored in your data. You can also reset or save your data at any time."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:116
-msgid "Contribute your data"
-msgstr ""
-
-#: lightbeam/lightbeam.lang:120
-msgid ""
-"As a part of Lightbeam, we are creating a big-picture view of Internet "
-"tracking and of how first and third party sites are connected."
-msgstr ""
-
-#: lightbeam/lightbeam.lang:124
+#: lightbeam/lightbeam.lang:108
 msgid "To help us, you can contribute your data to our Lightbeam database."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:128
+#: lightbeam/lightbeam.lang:112
 msgid "Supported by the Ford Foundation"
 msgstr ""
 
-#: lightbeam/lightbeam.lang:132
+#: lightbeam/lightbeam.lang:116
 msgid ""
 "The work at the Ford Foundation focuses on building outreach campaigns to "
 "help people understand online data tracking — both the benefits and the "
 "issues"
 msgstr ""
 
-#: lightbeam/lightbeam.lang:136
+#: lightbeam/lightbeam.lang:120
 msgid "Learn more"
 msgstr ""
 
 #. About page
-#: lightbeam/lightbeam.lang:141
+#: lightbeam/lightbeam.lang:125
 msgid "About Lightbeam"
 msgstr ""
 
-#: lightbeam/lightbeam.lang:145
+#: lightbeam/lightbeam.lang:129
 msgid ""
 "Lightbeam visualizes the relationships between the sites you visit and the "
 "third party sites that are active on those pages."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:149
+#: lightbeam/lightbeam.lang:133
 msgid "How the add-on works"
 msgstr ""
 
 #. New string (May 15) to reflect features that have been removed from the add-on.
-#: lightbeam/lightbeam.lang:155
+#: lightbeam/lightbeam.lang:139
 msgid ""
 "Using two distinct interactive graphic representations — Graph and List — "
 "Lightbeam enables you to examine individual third parties, identify where "
@@ -206,7 +186,7 @@ msgid ""
 msgstr ""
 
 #. Obsolete string, do not remove
-#: lightbeam/lightbeam.lang:160
+#: lightbeam/lightbeam.lang:144
 msgid ""
 "Using three distinct interactive graphic representations — Graph, Clock and "
 "List — Lightbeam enables you to examine individual third parties over time "
@@ -214,109 +194,109 @@ msgid ""
 "ways for you to engage with this unique view of the Web."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:164
+#: lightbeam/lightbeam.lang:148
 msgid ""
 "The default Graph view provides a real time visualization of every site you "
 "visit and all third party requests made from your browser."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:168
+#: lightbeam/lightbeam.lang:152
 msgid ""
 "The Graph view also provides adjustable filters that allow you to visualize "
 "more types of data at a glance."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:172
+#: lightbeam/lightbeam.lang:156
 msgid ""
 "The List view provides more options for drilling down into individual sites."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:176
+#: lightbeam/lightbeam.lang:160
 msgid ""
 "Site preferences in the List view enable you to block sites from connecting "
 "to your Firefox browser, watch sites you’re interested in or hide sites you "
 "don’t want to see visualized."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:180
+#: lightbeam/lightbeam.lang:164
 msgid ""
 "Lightbeam also offers an information panel that provides additional details "
 "about the site you selected and the sites it has connected to."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:184
+#: lightbeam/lightbeam.lang:168
 msgid "The origins of Lightbeam"
 msgstr ""
 
-#: lightbeam/lightbeam.lang:188
+#: lightbeam/lightbeam.lang:172
 msgid ""
 "Lightbeam began in July 2011 as Collusion, a personal project by Mozilla "
 "software developer <a href=\"%s\">Atul Varma</a>."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:192
+#: lightbeam/lightbeam.lang:176
 msgid ""
 "Inspired by the book, <em>The Filter Bubble</em>, Atul created an "
 "experimental add-on to visualize browsing behavior and data collection on "
 "the Web."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:196
+#: lightbeam/lightbeam.lang:180
 msgid ""
 "In February 2012, Gary Kovacs, Mozilla CEO at the time, introduced the "
 "Collusion add-on in a <a href=\"%s\">TED talk</a> (now one of the most "
 "watched TED talks of all time) about exposing online tracking."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:200
+#: lightbeam/lightbeam.lang:184
 msgid ""
 "In September 2012, Mozilla joined forces with faculty and student "
 "researchers at <a href=\"%s\">Emily Carr University of Art + Design</a> to "
 "develop and implement visualizations for the add-on."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:204
+#: lightbeam/lightbeam.lang:188
 msgid ""
 "With the support of the Ford Foundation and the Natural Sciences and "
 "Engineering Research Council (NSERC), Collusion has been re-imagined as "
 "Lightbeam and was launched in the fall of 2013."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:208
+#: lightbeam/lightbeam.lang:192
 msgid ""
 "To read more about the collaboration, please visit <a href=\"{url}\">{url}</"
 "a>"
 msgstr ""
 
-#: lightbeam/lightbeam.lang:212
+#: lightbeam/lightbeam.lang:196
 msgid "Policy and the larger tracking narrative"
 msgstr ""
 
-#: lightbeam/lightbeam.lang:216
+#: lightbeam/lightbeam.lang:200
 msgid ""
 "At Mozilla, we believe that everyone should have the tools to make their own "
 "decisions about their online privacy and who collects data on them."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:220
+#: lightbeam/lightbeam.lang:204
 msgid ""
 "With the Lightbeam add-on, we are providing a valuable (and open) community "
 "research platform that aims to raise awareness, promote analysis and, "
 "ultimately, affect policy change in the areas of tracking and privacy."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:224
+#: lightbeam/lightbeam.lang:208
 msgid ""
 "Lightbeam is one step in a larger, concerted effort by Mozilla and its "
 "partners to provide Web users with greater control and transparency of their "
 "personal data."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:228
+#: lightbeam/lightbeam.lang:212
 msgid "Learn more about online tracking and privacy"
 msgstr ""
 
-#: lightbeam/lightbeam.lang:232
+#: lightbeam/lightbeam.lang:216
 msgid ""
 "The <a href=\"%s\">Mozilla Foundation</a> is a non-profit organization that "
 "promotes the values of an open Web to the broader world. The larger Mozilla "
@@ -324,43 +304,43 @@ msgid ""
 "several initiatives that tackle the issue in various ways."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:236
+#: lightbeam/lightbeam.lang:220
 msgid "Data formats in Lightbeam"
 msgstr ""
 
 #. New string (May 15) to reflect features that have been removed from the add-on.
-#: lightbeam/lightbeam.lang:242
+#: lightbeam/lightbeam.lang:226
 msgid ""
 "Visit our <a href=\"%s\">documentation on Github</a> to learn more about the "
 "file formats used in Lightbeam."
 msgstr ""
 
 #. Obsolete string, do not remove
-#: lightbeam/lightbeam.lang:247
+#: lightbeam/lightbeam.lang:231
 msgid ""
 "Visit our <a href=\"%s\">documentation on Github</a> to learn more about the "
 "file formats used in Lightbeam and to see details of the data that is "
 "uploaded if you opt in to contribute data."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:251
+#: lightbeam/lightbeam.lang:235
 msgid "Partners of Lightbeam"
 msgstr ""
 
-#: lightbeam/lightbeam.lang:255
+#: lightbeam/lightbeam.lang:239
 msgid ""
 "The <a href=\"%s\">Ford Foundation</a> is a non-profit organization that "
 "focuses on the mission of advancing human welfare."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:259
+#: lightbeam/lightbeam.lang:243
 msgid ""
 "They provide support for companies and institutions devoted to strengthening "
 "democratic values, reducing poverty and social injustice, supporting human "
 "achievement and fostering international co-operation."
 msgstr ""
 
-#: lightbeam/lightbeam.lang:263
+#: lightbeam/lightbeam.lang:247
 msgid ""
 "The <a href=\"%s\">Social + Interactive Media (SIM) Centre</a> at Emily Carr "
 "University of Art + Design supports a wide range of projects in design and "

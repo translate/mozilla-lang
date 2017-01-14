@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-25 10:17+0000\n"
+"POT-Creation-Date: 2017-01-14 02:09+0000\n"
 "PO-Revision-Date: 2016-11-18 14:10+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,14 +12,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "X-POOTLE-MTIME: 1479478238.000000\n"
 
-#: firefox/new/horizon.lang:5
+#: firefox/new/horizon.lang:6
 msgid "Free Web Browser"
 msgstr "মুক্ত ওয়েব ব্রাউজার"
 
-#: firefox/new/horizon.lang:9
+#: firefox/new/horizon.lang:10
 msgid ""
 "Download Mozilla Firefox, a free Web browser. Firefox is created by a global "
 "non-profit dedicated to putting individuals in control online. Get Firefox "
@@ -29,11 +29,16 @@ msgstr ""
 "বিশ্বজনীন অলাভজনক প্রতিষ্ঠান দ্বারা যারা ব্যবহারকারী অনলাইনে নিয়ন্ত্রকের আসনে রাখে। "
 "আজই Windows, Mac OS X, Linux, Android এবং iOS এর জন্য Firefox-কে নিন!"
 
-#: firefox/new/horizon.lang:13
+#: firefox/new/horizon.lang:15
+msgid "The last independent browser."
+msgstr ""
+
+#. String obsolete. Do NOT remove.
+#: firefox/new/horizon.lang:20
 msgid "Enjoy online freedom."
 msgstr "অনলাইন স্বাধীনতা উপভোগ করুন।"
 
-#: firefox/new/horizon.lang:17
+#: firefox/new/horizon.lang:24
 msgid ""
 "Thanks for choosing Firefox. Your download should begin automatically. If "
 "not, <a id=\"%(id)s\" href=\"%(fallback_url)s\">click here</a>."
@@ -41,89 +46,89 @@ msgstr ""
 "Firefox বেছে নেওয়ার জন্য ধন্যবাদ। আপনার ডাউনলোড স্বয়ংক্রিয়ভাবে শুরু হবে। যদি শুরু না "
 "হয়, <a id=\"%(id)s\" href=\"%(fallback_url)s\">এখানে ক্লিক করুন</a>"
 
-#: firefox/new/horizon.lang:21
+#: firefox/new/horizon.lang:28
 msgid "Browse Freely"
 msgstr "স্বাধীনভাবে ব্রাউজ করুন"
 
-#: firefox/new/horizon.lang:25
+#: firefox/new/horizon.lang:32
 msgid "You’re browsing freely with the latest version of Firefox."
 msgstr "Firefox এর নতুন সংস্করণ দিয়ে আপনি মুক্তভাবে ব্রাউজিং করছেন।"
 
-#: firefox/new/horizon.lang:29
+#: firefox/new/horizon.lang:36
 msgid ""
 "<a href=\"%(url)s\">Update</a> your Firefox for the latest in speed and "
 "privacy."
 msgstr ""
 "নতুন গতি এবং গোপনীয়তায় আপনার Firefox <a href=\"%(url)s\">হালনাগাদ</a> করুন।"
 
-#: firefox/new/horizon.lang:34
+#: firefox/new/horizon.lang:41
 msgid "You’re using a pre-release version of Firefox."
 msgstr "আপনি Firefox এর প্রি-রিলিজ সংস্করণ ব্যবহার করছেন।"
 
-#: firefox/new/horizon.lang:38
+#: firefox/new/horizon.lang:45
 msgid "Congrats! You’re using the latest version of Firefox."
 msgstr "অভিনন্দন! আপনি ফায়ারফক্স এর সর্বশেষ সংস্করণ ব্যবহার করছেন।"
 
-#: firefox/new/horizon.lang:42
+#: firefox/new/horizon.lang:49
 msgid "Give Firefox a tune up"
 msgstr "ফায়ারফক্সকে টিউন করুন"
 
-#: firefox/new/horizon.lang:46
+#: firefox/new/horizon.lang:53
 msgid "Refresh Firefox"
 msgstr "ফায়ারফক্স রিফ্রেশ করুন"
 
-#: firefox/new/horizon.lang:50
+#: firefox/new/horizon.lang:57
 msgid "Looking for more info?"
 msgstr "আরও তথ্য জানতে চান?"
 
-#: firefox/new/horizon.lang:54
+#: firefox/new/horizon.lang:61
 msgid "Want a fresh copy?"
 msgstr "নতুন কপি চান?"
 
-#: firefox/new/horizon.lang:58
+#: firefox/new/horizon.lang:65
 msgid "Get Firefox for Android and iOS."
 msgstr "Android এবং iOS এর জন্য Firefox নিন।"
 
-#: firefox/new/horizon.lang:62
+#: firefox/new/horizon.lang:69
 msgid "Learn more about Firefox for Mobile"
 msgstr "মোবাইলের জন্য ফায়ারফক্স সম্পর্কে আরও জানুন"
 
-#: firefox/new/horizon.lang:66
+#: firefox/new/horizon.lang:73
 msgid "Learn about Firefox OS"
 msgstr "ফায়ারফক্স ওএস সম্পর্কে জানুন"
 
-#: firefox/new/horizon.lang:70
+#: firefox/new/horizon.lang:77
 msgid "Discover all the ways to take Firefox on the go"
 msgstr "ফায়ারফক্সকে সক্রিয় করার সমস্ত উপায় আবিষ্কার করুন"
 
-#: firefox/new/horizon.lang:74
+#: firefox/new/horizon.lang:81
 msgid ""
 "Please follow <a href=\"%(url)s\">these instructions</a> to install Firefox."
 msgstr ""
 "অনুগ্রহ করে Firefox ইন্সটল করতে <a href=\"%(url)s\">এই নির্দেশনাগুলো</a> অনুসরণ "
 "করুন।"
 
-#: firefox/new/horizon.lang:78
+#: firefox/new/horizon.lang:85
 msgid "Freedom is fast"
 msgstr "গতিই স্বাধীনতা"
 
-#: firefox/new/horizon.lang:82
+#: firefox/new/horizon.lang:89
 msgid "Go anywhere you want on the Web — with a quickness."
 msgstr "ওয়েবের যেকোন স্থানেই ভ্রমণ করুন — দ্রুততার সাথে।"
 
-#: firefox/new/horizon.lang:86
+#: firefox/new/horizon.lang:93
 msgid "Freedom is personal"
 msgstr "স্বাধীনতা ব্যক্তিগত ব্যাপার"
 
-#: firefox/new/horizon.lang:90
+#: firefox/new/horizon.lang:97
 msgid "Enjoy the most built-in privacy tools of any browser."
 msgstr "যেকোন ব্রাউজারে মধ্যে সবচেয়ে বেশি বিল্ট-ইন গোপনীয়তা টুল উপভোগ করুন।"
 
-#: firefox/new/horizon.lang:94
+#: firefox/new/horizon.lang:101
 msgid "Freedom is yours"
 msgstr "স্বাধীনতা আপনার"
 
-#: firefox/new/horizon.lang:98
+#: firefox/new/horizon.lang:105
 msgid "Use the only browser built for people, not profit."
 msgstr "ব্যবহার করুন একমাত্র ব্রাউজার যা জনগণের জন্য তৈরি, মুনাফার জন্য নয়।"
 
