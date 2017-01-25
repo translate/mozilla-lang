@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-21 15:09+0000\n"
-"PO-Revision-Date: 2017-01-24 11:35+0000\n"
+"PO-Revision-Date: 2017-01-25 17:22+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1485257702.000000\n"
+"X-POOTLE-MTIME: 1485364964.000000\n"
 
 #. Used as both main title and HTML meta tag (title)
 #: mozorg/internet-health/privacy-security.lang:6
@@ -26,6 +26,8 @@ msgid ""
 "The Internet only stays healthy if we trust it as a safe place – to explore, "
 "transact, connect, and create."
 msgstr ""
+"Mae'r Rhyngrwyd yn aros yn iach dim ond os byddwn ni'n gallu ymddiried ynddo "
+"fel man diogel – i archwilio, trafod, cysylltu a chreu."
 
 #: mozorg/internet-health/privacy-security.lang:15
 msgid ""
@@ -34,33 +36,34 @@ msgid ""
 "constant threat. But there’s something you can do about it: get informed, "
 "protect yourself, and make your voice heard."
 msgstr ""
+"Mae'r Rhyngrwyd yn aros yn iach dim ond os byddwn ni'n gallu ymddiried ynddo "
+"fel man diogel – i archwilio, trafod, cysylltu a chreu. Mae ein preifatrwydd "
+"a'n diogelwch ar-lein o dan fygythiad parhaus. Ond mae rhywbeth y medrwch "
+"chi ei wneud amdano: dysgu, diogelu eich hun a chodi eich llais."
 
 #: mozorg/internet-health/privacy-security.lang:19
 msgid "A healthy Internet depends on you."
-msgstr ""
+msgstr "‌Mae Rhyngrwyd iach yn dibynnu arnoch chi."
 
 #: mozorg/internet-health/privacy-security.lang:23
 msgid "Here are three areas where we can make a difference."
-msgstr ""
+msgstr "Dyma dri maes lle gallwn ni wneud gwahaniaeth."
 
 #: mozorg/internet-health/privacy-security.lang:27
-#, fuzzy
 msgid "User Control"
-msgstr "Rheolaeth y defnyddiwr"
+msgstr "Rheolaeth gan y Defnyddiwr"
 
 #: mozorg/internet-health/privacy-security.lang:31
-#, fuzzy
 msgid "Cyber Security"
-msgstr "Diogelwch ar y we"
+msgstr "Diogelwch ar y We"
 
 #: mozorg/internet-health/privacy-security.lang:35
-#, fuzzy
 msgid "Government Surveillance"
-msgstr "Llywodraeth yn gwylio"
+msgstr "Llywodraeth yn Gwylio"
 
 #: mozorg/internet-health/privacy-security.lang:39
 msgid "User Control: Deciding who can collect your data"
-msgstr ""
+msgstr "Rheolaeth gan y Defnyddiwr: Penderfynu pwy sy'n cael casglu eich data"
 
 #: mozorg/internet-health/privacy-security.lang:43
 msgid ""
@@ -68,6 +71,9 @@ msgid ""
 "miles long and hard to read, we don’t understand what information we’re "
 "sharing or when, and opting out is seldom on the menu."
 msgstr ""
+"Ar hyn o bryd, does gennym ni ddim dewis go iawn ar-lein – mae polisïau "
+"preifatrwydd yn aml yn hir wyntog ac anodd eu darllen, mae'n anodd deall pa "
+"wybodaeth rydym yn ei rannu a phryd, a dyw peidio gwneud ddim yn bosibl."
 
 #: mozorg/internet-health/privacy-security.lang:47
 msgid ""
@@ -75,12 +81,17 @@ msgid ""
 "information we share with what companies, understanding the tradeoffs we’re "
 "making when we do."
 msgstr ""
+"Dylai fod gennym y gallu i ddewis – yn glir a chyda hyder – pa wybodaeth "
+"rydym yn ei rannu gyda pha gwmnïau, a deall y pris fyddwn yn ei dalu wrth "
+"wneud hynny."
 
 #: mozorg/internet-health/privacy-security.lang:51
 msgid ""
 "91% of adults agree that consumers have lost control of how personal "
 "information is collected and used by companies."
 msgstr ""
+"Mae 91% o oedolion yn meddwl fod defnyddwyr wedi colli rheolaeth ar sut mae "
+"cwmnïau yn casglu ac yn defnyddio manylion personol."
 
 #. Pew Research Center is an organization
 #: mozorg/internet-health/privacy-security.lang:56
@@ -88,10 +99,12 @@ msgid ""
 "Source: <a href=\"%(pew)s\" rel=\"external\">Pew Research Center</a>, May "
 "2015"
 msgstr ""
+"Ffynhonnell: <a href=\"%(pew)s\" rel=\"external\">Pew Research Center</a>, "
+"Mai 2015"
 
 #: mozorg/internet-health/privacy-security.lang:60
 msgid "What you can do about user control"
-msgstr ""
+msgstr "Beth mae modd gwneud am reolaeth gan y defnyddiwr"
 
 #: mozorg/internet-health/privacy-security.lang:64
 msgid ""
@@ -99,9 +112,12 @@ msgid ""
 "privacy and location settings on <a href=\"%(ios)s\" rel=\"external\">iOS</"
 "a> and <a href=\"%(android)s\" rel=\"external\">Android</a>."
 msgstr ""
+"Gwnewch yn siŵr fod eich apiau symudol yn cael mynediad at y wybodaeth "
+"angenrheidiol yn unig. Defnyddiwch eich gosodiadau preifatrwydd a lleoliad "
+"ar <a href=\"%(ios)s\" rel=\"external\">iOS</a> ac <a href=\"%(android)s\" "
+"rel=\"external\">Android</a>."
 
 #: mozorg/internet-health/privacy-security.lang:68
-#, fuzzy
 msgid ""
 "Know your settings. You can manage your profile and preferences for <a href="
 "\"%(google)s\">Google</a>, <a href=\"%(yahoo)s\">Yahoo!</a> and <a href="
@@ -109,21 +125,23 @@ msgid ""
 "that’s been collected about you by Acxiom</a>, one of the world’s largest "
 "marketing data brokers."
 msgstr ""
-"Er enghraifft, gallwch reoli eich proffil a'ch dewisiadau ar gyfer <a href="
-"\"%(google)s\">Google</a>, <a href=\"%(yahoo)s\">Yahoo!</a>, <a href="
-"\"%(facebook)s\">hysbysebion Facebook</a>, a hyd yn oed <a href=\"%(acxiom)s"
-"\">olygu data sydd wedi ei gasglu amdanoch chi gan Acxiom</a>, un o "
-"froceriaid data marchnata mwya'r byd."
+"Byddwch yn gyfarwydd â'ch gosodiadau. Gallwch reoli eich proffil a'ch "
+"dewisiadau ar gyfer <a href=\"%(google)s\">Google</a>, <a href=\"%(yahoo)s"
+"\">Yahoo!</a>, <a href=\"%(facebook)s\">hysbysebion Facebook</a>, a hyd yn "
+"oed <a href=\"%(acxiom)s\">olygu data sydd wedi ei gasglu amdanoch chi gan "
+"Acxiom</a>, un o froceriaid data marchnata mwya'r byd."
 
 #: mozorg/internet-health/privacy-security.lang:72
 msgid "What Mozilla is doing about user control"
-msgstr ""
+msgstr "Beth mae Mozilla'n ei wneud am reolaeth gan y defnyddiwr"
 
 #: mozorg/internet-health/privacy-security.lang:76
 msgid ""
 "Writing <a href=\"%(privacy)s\">our own privacy policy</a> in clear, "
 "understandable language."
 msgstr ""
+"Ysgrifennu ein <a href=\"%(privacy)s\">polisi preifatrwydd</a> mewn iaith "
+"glir a dealladwy."
 
 #: mozorg/internet-health/privacy-security.lang:80
 msgid ""
@@ -131,16 +149,21 @@ msgid ""
 "Button, and <a href=\"%(focus)s\">Firefox Focus</a>, our private browser for "
 "iOS."
 msgstr ""
+"Gwneud yn ol ein cngor gyda'n cynnyrch ein hun, gyda nodweddion fel y Botwm "
+"Anghofio, a <a href=\"%(focus)s\">Firefox Focus</a>, ein porwr preifat ar "
+"gyfer iOS."
 
 #: mozorg/internet-health/privacy-security.lang:84
 msgid ""
 "Encouraging and educating the industry about <a href=\"%(leandata)s\">lean "
 "data practices</a>."
 msgstr ""
+"Annog ac addysgu'r diwydiant am <a href=\"%(leandata)s\">arferion data "
+"cynnil</a>."
 
 #: mozorg/internet-health/privacy-security.lang:88
 msgid "Cyber Security: Locking down your sensitive information"
-msgstr ""
+msgstr "Diogelwch ar y We: Cloi eich manylion sensitif"
 
 #: mozorg/internet-health/privacy-security.lang:92
 msgid ""
@@ -149,26 +172,34 @@ msgid ""
 "people, often going undiscovered for years. Which means your identity may be "
 "at risk of theft without you even knowing it."
 msgstr ""
+"Ar hyn o bryd, mae'n ymddangos ein bod i gyd wedi dioddef ymosodiad gwe yn "
+"rhywle, rhywsut. Mae cipio data yn amlygu cyfrineiriau miliynau o bobl, yn "
+"aml eb ei ddarganfod am rhai blynyddoedd. Mae hyn yn golygu y gall bod eich "
+"hunaniaeth chi mewn perygl o gael ei ddwyn heb fod chi'n gwybod dim amdano."
 
 #: mozorg/internet-health/privacy-security.lang:96
 msgid "We should all have the ability to protect our online identity."
-msgstr ""
+msgstr "Dylai fod gennym ni i gyd y gallu i ddiogelu ein hunaniaeth ar-lein."
 
 #: mozorg/internet-health/privacy-security.lang:100
 msgid ""
 "Breaches affected hundreds of millions of accounts in 2013-2016. In December "
 "2016, the biggest breach in history was reported: 1 billion accounts."
 msgstr ""
+"Mae cipio yn effeithio ar gannoedd ar filoedd o gyfrifon yn 2013-2016. Yn "
+"Rhagfyr 2016 daeth y cipio mwyaf erioed i'r amlwg: 1 biliwn o gyfrifon."
 
 #: mozorg/internet-health/privacy-security.lang:104
 msgid ""
 "Source: Wikipedia, <a href=\"%(wiki)s\" rel=\"external\">List of data "
 "breaches</a>, 2013-2016"
 msgstr ""
+"Ffynhonnell: Wikipedia, <a href=\"%(wiki)s\" rel=\"external\">Rhestr o gipio "
+"data</a>, 2013-2016"
 
 #: mozorg/internet-health/privacy-security.lang:108
 msgid "What you can do about cyber security"
-msgstr ""
+msgstr "Beth mae modd i mi ei wneud am ddiogelwch ar y we"
 
 #: mozorg/internet-health/privacy-security.lang:112
 msgid ""
@@ -177,6 +208,10 @@ msgid ""
 "\">password manager</a>. (Note: we haven’t tried them all – see what works "
 "for you.)"
 msgstr ""
+"<a href=\"%(strongpass)s\" rel=\"external\">Dewis pinau a chyfrineiriau cryf "
+"ac unigryw</a>, a defnyddio <a href=\"%(passmanager)s\" rel=\"external\"> "
+"rheolwr cyfrineiriau</a>. (Sylwch: dydyn ni heb eu defnyddio nhw i gyd – "
+"profwch beth sy'n dda i chi.)"
 
 #: mozorg/internet-health/privacy-security.lang:116
 msgid ""
@@ -184,10 +219,13 @@ msgid ""
 "href=\"%(twofactor)s\" rel=\"external\">2-factor authentication</a> wherever "
 "it’s offered."
 msgstr ""
+"Mae cam ychwanegol yn mynd yn bell. Ar gyfer y diogelwch eithaf, defnyddiwch "
+"<a href=\"%(twofactor)s\" rel=\"external\">dilysu 2 gam</a> lle bynnag mae "
+"ar gael."
 
 #: mozorg/internet-health/privacy-security.lang:120
 msgid "What Mozilla is doing about cyber security"
-msgstr ""
+msgstr "Beth mae Mozilla'n ei wneud am ddiogelwch ar y we"
 
 #: mozorg/internet-health/privacy-security.lang:124
 msgid ""
@@ -195,17 +233,21 @@ msgid ""
 "\">encryption</a>, and advocating for its <a href=\"%(letsencrypt)s\" rel="
 "\"external\">universal adoption</a>."
 msgstr ""
+"Addysgu am werth <a href=\"%(codemoji)s\" rel=\"external\">amgryptio</a>, "
+"eirioli iddo gael ei <a href=\"%(letsencrypt)s\" rel=\"external"
+"\">ddefnyddio'n gyffredinol</a>."
 
 #: mozorg/internet-health/privacy-security.lang:128
 msgid ""
 "Educating the industry about <a href=\"%(leandata)s\">lean data practices</"
 "a>."
 msgstr ""
+"Addysgu'r diwydiant am <a href=\"%(leandata)s\">ymarferion data cynnil</a>."
 
 #: mozorg/internet-health/privacy-security.lang:132
 msgid ""
 "Government Surveillance: Keeping prying eyes and ears out of your business"
-msgstr ""
+msgstr "Gwylio gan Lywodraethau"
 
 #: mozorg/internet-health/privacy-security.lang:136
 msgid ""
@@ -214,18 +256,26 @@ msgid ""
 "Snowden disclosures showed that even democracies can and do take liberties "
 "with your privacy."
 msgstr ""
+"Fyddech chi ddim am i'r llywodraeth eich dilyn eich pob symudiad mewn bywyd "
+"go iawn – does dim rheswm y dylen nhw fod yn eich cysgodi ar y Rhyngrwyd. "
+"Mae datgeliadau Edward Snowden yn dangos fod hyd yn oed llywodraethau "
+"democrataidd yn gallu bod yn rhydd iawn gyda'ch preifatrwydd."
 
 #: mozorg/internet-health/privacy-security.lang:140
 msgid ""
 "We should all have the freedom to be ourselves — online and off – without "
 "surveillance, judgment and imposed societal bias."
 msgstr ""
+"Dylwn oll fod â'r rhyddid i fod yn ni ein hunain — ar-lein ac oddi arno — "
+"heb gael ein dilyn, ein barnu a thuedd cymdeithasol wedi ei orfodi arnom."
 
 #: mozorg/internet-health/privacy-security.lang:144
 msgid ""
 "Just four in 10 (38%) of internet users trust that their activities on the "
 "internet are not being monitored."
 msgstr ""
+"Dim ond pedwar allan o 10 (38%) o ddefnyddwyr y rhyngrwyd sy'n hyderus nad "
+"yw eu gweithgareddau ar lein yn cael eu monitro."
 
 #. Centre for International Governance Innovation is an organization.
 #: mozorg/internet-health/privacy-security.lang:149
@@ -233,16 +283,20 @@ msgid ""
 "Source: <a href=\"%(cigi)s\" rel=\"external\"><abbr title=\"Centre for "
 "International Governance Innovation\">CIGI</abbr>-Ipsos, 2016</a>"
 msgstr ""
+"Ffynhonnell: <a href=\"%(cigi)s\" rel=\"external\"><abbr title=\"Centre for "
+"International Governance Innovation\">CIGI</abbr>-Ipsos, 2016</a>"
 
 #: mozorg/internet-health/privacy-security.lang:153
 msgid "What you can do about government surveillance"
-msgstr ""
+msgstr "Beth fedra i wneud am y llywodraeth yn gwylio"
 
 #: mozorg/internet-health/privacy-security.lang:157
 msgid ""
 "Choose apps that keep your conversations encrypted. <a href="
 "\"%(encryptedapps)s\" rel=\"external\">Here’s a list</a>."
 msgstr ""
+"Dewis apiau sy'n cadw eich sgyrsiau wedi eu hamgryptio. <a href="
+"\"%(encryptedapps)s\" rel=\"external\">Dyma restr</a>."
 
 #: mozorg/internet-health/privacy-security.lang:161
 msgid ""
@@ -251,16 +305,22 @@ msgid ""
 "\">password manager</a>. (Note: we haven’t tried all the options on these "
 "lists – see what works for you.)"
 msgstr ""
+"<a href=\"%(strongpass)s\" rel=\"external\"> Dewiswch binau a chyfrineiriau "
+"cryf ac unigryw</a>, a defnyddiwch <a href=\"%(passmanager)s\" rel=\"external"
+"\">reolwr cyfrineiriau</a>. (Sylwch: dydyn ni heb eu defnyddio nhw i gyd – "
+"profwch beth sy'n dda i chi.)"
 
 #: mozorg/internet-health/privacy-security.lang:165
 msgid "What Mozilla is doing about government surveillance"
-msgstr ""
+msgstr "Beth mae Mozilla'n ei wneud am y llywodraeth yn gwylio"
 
 #: mozorg/internet-health/privacy-security.lang:169
 msgid ""
 "Recommending <a href=\"%(reform)s\" rel=\"external\">reform at the policy "
 "level</a> to improve government disclosure of security vulnerabilities."
 msgstr ""
+"Argymell <a href=\"%(reform)s\" rel=\"external\">adolygiadau ar lefel "
+"polisi</a> er mwyn gwella datgeliad llywodraethau o wendidau diogelwch."
 
 #: mozorg/internet-health/privacy-security.lang:173
 msgid ""
@@ -268,30 +328,38 @@ msgid ""
 "href=\"%(usafreedom)s\" rel=\"external\">helping to pass the USA Freedom "
 "Act</a>."
 msgstr ""
+"Galw ar seneddwyr ar draws y byd i leihau'r gwylio eang a <a href="
+"\"%(usafreedom)s\" rel=\"external\">cynorthwyo i basio'r USA Freedom Act</a>."
 
 #: mozorg/internet-health/privacy-security.lang:177
 msgid ""
 "Cohosting <a href=\"%(standford)s\" rel=\"external\">talks with Stanford’s "
 "Center for Internet and Society</a> about government hacking."
 msgstr ""
+"Cydlwyfannu <a href=\"%(standford)s\" rel=\"external\">cyflwyniadau gyda'r "
+"Stanford’s Center for Internet and Society</a> ynghylch hacio gan "
+"lywodraethau."
 
 #: mozorg/internet-health/privacy-security.lang:181
 msgid "Hungry for more?"
-msgstr ""
+msgstr "Eisiau gwybod mwy?"
 
 #: mozorg/internet-health/privacy-security.lang:185
 msgid ""
 "Keep reading about Privacy and Security in our <a href=\"%(healthreport)s"
 "\">Internet Health Report</a>."
 msgstr ""
+"Rhagor am Breifatrwydd a Diogelwch yn ein <a href=\"%(healthreport)s"
+"\">Internet Health Report</a>."
 
 #: mozorg/internet-health/privacy-security.lang:189
-#, fuzzy
 msgid "Stay informed."
-msgstr "Derbyn gwybodaeth"
+msgstr "Derbyn gwybodaeth."
 
 #: mozorg/internet-health/privacy-security.lang:193
 msgid ""
 "Sign up. Read up. Get the Mozilla newsletter to stay smart on the issues "
 "affecting your life online."
 msgstr ""
+"Ymunwch. Darllenwch. Gallwch dderbyn cylchlythyr Mozilla er mwyn deall yn "
+"well am faterion sy'n effeithio ar eich bywyd ar-lein."
