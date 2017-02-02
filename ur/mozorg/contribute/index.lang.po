@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Translate Toolkit 2.0.0rc3\n"
 "X-POOTLE-MTIME: 1485882455.000000\n"
 
 #. Used for HTML title attribute
@@ -64,13 +64,15 @@ msgstr "زیر عمل Mozillians دنیا بھر میں"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:53
+#, fuzzy
 msgid "upcoming events around the globe"
-msgstr ""
+msgstr "<br>دنیا بھر میں آنے والے واقعات"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 #: mozorg/contribute/index.lang:58
+#, fuzzy
 msgid "languages and counting, on every continent"
-msgstr ""
+msgstr "زبان اور گن رہے ہے، <br>ہر براعظم کے لئے"
 
 #: mozorg/contribute/index.lang:62
 msgid "Join a global community of game-changers."
@@ -423,10 +425,13 @@ msgid "(Optional)"
 msgstr "(اختیاری)"
 
 #: mozorg/contribute/index.lang:382
+#, fuzzy
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%(privacy)s"
 "\">this Privacy Policy</a>"
 msgstr ""
+"میں Mozilla سے میری زاتی جانکاری ہینڈل کرنے میں صحمت ہوں جیسا کی <a href=\"%s"
+"\">رازداری پولیسی</a> میں وضاحت کیا ہوا ہے"
 
 #: mozorg/contribute/index.lang:386
 msgid "Start contributing"
