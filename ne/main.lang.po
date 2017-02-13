@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-23 19:09+0000\n"
+"POT-Creation-Date: 2017-02-13 15:10+0000\n"
 "PO-Revision-Date: 2016-11-30 06:32+0000\n"
 "Last-Translator: Nootan Ghimire <nootan.ghimire@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,153 +12,60 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Translate Toolkit 2.0.0\n"
 "X-POOTLE-MTIME: 1480487537.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
 msgstr "नेभिगेशन"
 
-#. Firefox family navigation menu. Main level item.
-#. Example: https://www-dev.allizom.org/firefox/os
-#: main.lang:7
-msgid "<span>for</span> Desktop"
-msgstr "डेस्कटपका <span>लागि</span>"
-
-#. Firefox family navigation menu. Main level item.
-#: main.lang:12
-msgid "<span>for</span> Android"
-msgstr "Android का <span>लागि</span> "
-
-#. Firefox family navigation menu. Main level item.
-#: main.lang:17
-msgid "<span>for</span> iOS"
-msgstr "iOS का <span>लागि</span> "
-
-#. Firefox family navigation menu. Main level item.
-#: main.lang:22
-msgid "OS"
-msgstr "OS"
-
-#. Used for the navigation menu only in Firefox OS pages
-#: main.lang:27
-msgid "TV"
-msgstr "टिभि"
-
 #. Used for the navigation menu, points to /firefox/channel
-#: main.lang:32
+#: main.lang:6
 msgid "Pre-release downloads"
 msgstr "प्री-रिलिज डाउनलोडहरू"
 
-#. Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-#. You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-#: main.lang:38
-msgid "For desktops &amp; laptops"
-msgstr "डेस्कटपहरू र ल्यापटपहरूका लागि"
-
-#. Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-#: main.lang:43
-msgid "For phones &amp; tablets"
-msgstr "फोनहरू र ट्याब्लेटहरूका लागि"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:48
-msgid "Overview"
-msgstr "समीक्षा"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:53
-msgid "Trusted"
-msgstr "विश्वास गरिएको"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:58
-msgid "Flexible"
-msgstr "लचिलो"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:63
-msgid "Fast"
-msgstr "छिटो"
-
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:68
+#: main.lang:11
 msgid "About"
 msgstr "बारेमा"
 
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:73
-msgid "Devices"
-msgstr "यन्त्रहरू"
-
-#. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:78
-msgid "For partners"
-msgstr "पार्टनरहरूका लागि"
-
-#. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:83
+#: main.lang:16
 msgid "Apps"
 msgstr "अनुप्रयोगहरू"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:88
+#: main.lang:21
 msgid "Do Not Track"
 msgstr "Do Not Track"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:93
-msgid "Tiles"
-msgstr "टायलहरू"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#. Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-#: main.lang:99
-msgid "Interest Dashboard"
-msgstr "Interest Dashboard"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:104
+#: main.lang:26
 msgid "Developer Edition"
 msgstr "Developer Edition"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:109
+#: main.lang:31
 msgid "Private Browsing"
 msgstr "निजी ब्राउजिङ्ग"
 
 #. Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
-#: main.lang:114
+#: main.lang:36
 msgid "Need help?"
 msgstr "सहयोग चाहियो?"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:119
+#: main.lang:41
 msgid "News"
 msgstr "समाचारहरू"
 
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:124
-msgid "For developers"
-msgstr "बिकासकर्ताकाहरूका लागि"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:129
-msgid "Find My Device"
-msgstr "मेरो यन्त्र खोज्नुहोस्"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:134
-msgid "Developers"
-msgstr "विकासकर्ताहरू"
-
 #. Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
-#: main.lang:139
+#: main.lang:46
 msgid "Choose the independent browser"
 msgstr "स्वतन्त्र ब्राउजर छनोट गर्नुहोस्"
 
 #. Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
-#: main.lang:144
+#: main.lang:51
 msgid ""
 "Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox "
 "isn’t just choosing a browser. It’s a vote for personal freedom."
@@ -166,156 +73,151 @@ msgstr ""
 "Firefox गैर-नाफामूलक, गैर-ब्यवसायिक र सम्झौता नगर्ने संस्था हो। Firefox छान्नु भनेको "
 "ब्राउजर छान्नु मात्र होइन, यो ब्यक्तिगत स्वतन्त्रताको पक्षमा मत राख्नु हो।"
 
-#: main.lang:148
+#: main.lang:55
 msgid "Donate"
 msgstr "धनराशि सहयोग"
 
-#: main.lang:152
+#: main.lang:59
 msgid "Support"
 msgstr "समर्थन"
 
-#: main.lang:156
+#: main.lang:63
 msgid "Products"
 msgstr "प्रोडक्टहरू"
 
-#: main.lang:160
+#: main.lang:67
 msgid "Add-ons"
 msgstr "एड-अनहरू"
 
-#: main.lang:164
+#: main.lang:71
 msgid "About Us"
 msgstr "हाम्रो बारेमा"
 
-#: main.lang:168
+#: main.lang:75
 msgid "Labs"
 msgstr "Labs"
 
-#: main.lang:172
+#: main.lang:79
 msgid "skip to Navigation"
 msgstr "नेभिगेसन मा जानुहोस्"
 
-#: main.lang:176
+#: main.lang:83
 msgid "switch language"
 msgstr "भाषा बदल्नु होस्"
 
-#: main.lang:180
+#: main.lang:87
 msgid "Back to home page"
 msgstr "गृह पृष्ठमा फर्कनुहोस्"
 
-#: main.lang:184
+#: main.lang:91
 msgid "About Mozilla"
 msgstr "Mozilla को बारेमा "
 
-#: main.lang:188
+#: main.lang:95
 msgid "Get Involved"
 msgstr "सहभागी हुनुहोस्"
 
-#: main.lang:192
+#: main.lang:99
 msgid "Careers"
 msgstr "अवसरहरु"
 
-#: main.lang:196
+#: main.lang:103
 msgid "Press Center"
 msgstr "प्रेस केन्द्र"
 
-#: main.lang:200
+#: main.lang:107
 msgid "Contact Us"
 msgstr "सम्पर्क गर्नुहोस्"
 
-#: main.lang:204
+#: main.lang:111
 msgid "Other languages:"
 msgstr "अरु भाषाहरू:"
 
 #. Will replace "Other languages" for the footer's language switcher
-#: main.lang:209
+#: main.lang:116
 msgid "Page language:"
 msgstr "पृष्ठ भाषा:"
 
 #. Year / Month / Day, indicate your prefered date format for your language
-#: main.lang:214
+#: main.lang:121
 msgid "%Y-%m-%d"
 msgstr "%Y-%m-%d"
 
-#: main.lang:218
+#: main.lang:125
 msgid "Legal"
 msgstr "कानुनी"
 
 #. Used as link in the footer
-#: main.lang:223
+#: main.lang:130
 msgid "Cookies"
 msgstr "कुकिज"
 
-#. Used as link in the footer
-#: main.lang:228
-msgid "Firefox Affiliates"
-msgstr "Firefox Affiliates"
-
-#: main.lang:232
+#: main.lang:134
 msgid "Legal Notices"
 msgstr "कानुनि सुचनाहरु"
 
-#: main.lang:236
+#: main.lang:138
 msgid "Privacy Policy"
 msgstr "गोपनीयता निति"
 
-#: main.lang:240
+#: main.lang:142
 msgid "Release Notes"
 msgstr "जारी पत्र"
 
-#: main.lang:244
+#: main.lang:146
 msgid "Other Systems and Languages"
 msgstr "अरु ब्यबस्थाहरु र भाषाहरु"
 
-#: main.lang:248
+#: main.lang:150
 msgid "Close"
 msgstr "बन्द गर्नुहोस्"
 
-#: main.lang:252
+#: main.lang:154
 msgid "(in English)"
 msgstr "(अंग्रेजीमा)"
 
-#: main.lang:256
+#: main.lang:158
 msgid "Return to top"
 msgstr "माथि फर्किनुहोस्"
 
-#: main.lang:260
+#: main.lang:162
 msgid "Features"
 msgstr "विशेषताहरू"
 
-#: main.lang:264
+#: main.lang:166
 msgid "Customize"
 msgstr "अनुकूलन गर्नुहोस्"
 
-#: main.lang:269
+#: main.lang:170
 msgid "Download"
 msgstr "डाउनलोड गर्नुहोस्"
 
-#: main.lang:273
+#: main.lang:174
 msgid "Previous"
 msgstr "अघिल्लो"
 
-#: main.lang:277
+#: main.lang:178
 msgid "Next"
 msgstr "अर्को॒"
 
 #. MegaBytes abbreviation
-#: main.lang:282
+#: main.lang:183
 msgid "MB"
 msgstr "MB"
 
-#: main.lang:286
+#: main.lang:187
 msgid "MegaBytes"
 msgstr "MegaBytes"
 
-#: main.lang:290
+#: main.lang:191
 msgid "FAQ"
 msgstr "FAQ"
 
-#: main.lang:294
+#: main.lang:195
 msgid "Videos"
 msgstr "भिडियोहरु"
 
-#: main.lang:298
+#: main.lang:199
 msgid ""
 "Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
 "licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
@@ -325,139 +227,105 @@ msgstr ""
 "रहेको छ: <br /><a href=\"%s\">Creative Commons Attribution Share-Alike "
 "License v3.0</a> अथवा यसकै कुनै नया संस्करण।"
 
-#: main.lang:302
+#: main.lang:203
 msgid "Report Trademark Abuse"
 msgstr "ट्रेडमार्क को दुरुपयोग दर्ता गराउनुहोस्"
 
-#: main.lang:306
+#: main.lang:207
 msgid "Free Upgrade"
 msgstr "निःशुल्क अपग्रेड"
 
 #. social networks such as Facebook and Twitter
-#: main.lang:311
+#: main.lang:212
 msgid "Follow us on:"
 msgstr "हामिलाई यहाँ पछ्याउनुहोस्:"
 
-#: main.lang:315
+#: main.lang:216
 msgid "Customize with Add-ons"
 msgstr "एड-अनहरू द्वारा अनुकुलन गर्नुहोस्"
 
-#: main.lang:319
+#: main.lang:220
 msgid "Learn More"
 msgstr "अझ जान्नुहोस्"
 
 #. Same as previous above but with no capitalization on More
-#: main.lang:324
+#: main.lang:225
 msgid "Learn more"
 msgstr "अझ जान्नुहोस्"
 
 #. Link used to play again an animation or a video
-#: main.lang:329
+#: main.lang:230
 msgid "Replay"
 msgstr "फेरी हेर्नुहोस"
 
-#: main.lang:333
+#: main.lang:234
 msgid "Watch the video"
 msgstr "भिडियो हेर्नुहोस्"
 
-#: main.lang:337
+#: main.lang:238
 msgid "Replay the video"
 msgstr "भिडिओ फेरी हेर्नुहोस"
 
-#: main.lang:341
+#: main.lang:242
 msgid "Share the video"
 msgstr "चलदृष्य बाँड्नुहोस्"
 
-#: main.lang:345
+#: main.lang:246
 msgid "WebM format"
 msgstr "WebM format"
 
-#: main.lang:349
+#: main.lang:250
 msgid "Ogg Theora format"
 msgstr "Ogg Theora format"
 
-#: main.lang:353
+#: main.lang:254
 msgid "MPEG-4 format"
 msgstr "MPEG-4 format"
 
-#: main.lang:357
+#: main.lang:258
 msgid "Mobile"
 msgstr "मोबाइल"
 
-#: main.lang:361
-msgid "Check out the new look and feel of Firefox."
-msgstr "Firefox को नया रूप चलाउनुहोस्।"
-
-#: main.lang:365
+#: main.lang:262
 msgid "View Full Site"
 msgstr "पुरा साइट हेर्नुहोस्"
 
-#: main.lang:369
-msgid "Download for <span>Android</span>"
-msgstr "<span>Android</span> को लागि डाउनलोड गर्नुहोस्"
-
-#: main.lang:373
+#: main.lang:266
 msgid "Desktop"
 msgstr "डेस्कटप"
 
-#: main.lang:377
-msgid "Firefox Beta for mobile"
-msgstr "मोबाइलको लागि Firefox Beta"
-
-#: main.lang:381
+#: main.lang:270
 msgid "Firefox for mobile"
 msgstr "मोबाइलको लागि Firefox"
 
-#: main.lang:385
+#: main.lang:274
 msgid "Email"
 msgstr "इमेल"
 
-#: main.lang:389
-msgid "Super speed"
-msgstr "Super speed"
-
-#: main.lang:393
-msgid "Stunning graphics"
-msgstr "राम्रो ग्राफिक्स"
-
-#: main.lang:397
-msgid "The latest technologies"
-msgstr "पछिल्ला प्रविधिहरु"
-
-#: main.lang:401
-msgid ""
-"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
-"new Firefox for the best in browsing and customization on the Web. <br/>   "
-"It’s fast and free!"
-msgstr ""
-"तपाईँलाई अद्यावधिक चाहिन्छ! एक मिनेट भन्दा पनि कममा सुरक्षित रहनुहोस्। <br/> ब्राउजिङ्ग "
-"र अनुकुलन मा सर्वोत्तम, अाफ्नो नयाँ Firefox चलाउन थाल्नुहोस। <br/>   यो छिटो र "
-"निःशुल्क छ!"
-
-#: main.lang:405
+#: main.lang:278
 msgid "Upgrade now"
 msgstr "अहिले अद्यावधिक गर्नुहोस्"
 
-#: main.lang:409
+#: main.lang:282
 msgid "Update now"
 msgstr "अद्यावधिक गर्नुहोस्"
 
-#: main.lang:413
+#: main.lang:286
 msgid "Supported Devices"
 msgstr "समर्थित यन्त्रहरू"
 
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-#: main.lang:418
+#: main.lang:291
 msgid "What’s New"
 msgstr "नयाँ के छ"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
-#: main.lang:423
+#: main.lang:296
 msgid "Privacy"
 msgstr "गोपनीयता"
 
 #. Footer string
-#: main.lang:428
+#: main.lang:301
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
@@ -468,372 +336,279 @@ msgstr ""
 "license</a> अन्तर्गत उपलब्ध छ।"
 
 #. Footer string (will replace "Contribute to this page")
-#: main.lang:433
+#: main.lang:306
 msgid "Contribute to this site"
 msgstr "यो पानामा योगदान गर्नुहोस"
 
 #. Footer string
-#: main.lang:438
+#: main.lang:311
 msgid "Contribute to this page"
 msgstr "यो पानामा योगदान गर्नुहोस"
 
 #. Top menu item
-#: main.lang:443
+#: main.lang:316
 msgid "Mission"
 msgstr "लक्ष"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:448
+#: main.lang:321
 msgid "Tour"
 msgstr "Tour"
 
-#. Footer item
-#: main.lang:453
-msgid "Partner with Us"
-msgstr "हामिसंग साझेदारी गर्नुहोस्"
-
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:458
+#: main.lang:326
 msgid "Sync"
 msgstr "Sync"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:463
+#: main.lang:331
 msgid "Desktop Add-ons"
 msgstr "डेस्कटपका एड-अनहरू"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:468
+#: main.lang:336
 msgid "Android Add-ons"
 msgstr "Android एड-अनहरू"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:473
+#: main.lang:341
 msgid "Themes"
 msgstr "आवरणहरू"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:478
+#: main.lang:346
 msgid "Desktop Support"
 msgstr "Desktop साहयता"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:483
+#: main.lang:351
 msgid "Android Support"
 msgstr "Android साहयता"
 
-#. Top menu item on firefox/update page
-#: main.lang:488
-msgid "Performance"
-msgstr "प्रदर्शन"
-
-#. Top menu item on firefox/update page
-#: main.lang:493
-msgid "Technology"
-msgstr "प्रबिधि"
-
-#. Top menu item on firefox/update page
-#: main.lang:498
-msgid "Privacy &amp; Security"
-msgstr "गोपनीयता र सुरक्षा"
-
-#. Top menu item on firefox/update page
-#: main.lang:503
+#: main.lang:355
 msgid "Releases"
 msgstr "जारी"
 
-#. Top menu item on firefox/update page
-#: main.lang:508
-msgid "Firefox"
-msgstr "Firefox"
-
-#. Top menu item on firefox/update page
-#: main.lang:513
-msgid "Firefox for Organizations"
-msgstr "संघ संस्थाहरुका लागि Firefox"
-
-#. Top menu item on firefox/update page
-#: main.lang:518
-msgid "Mobile Add-ons"
-msgstr "मोबाइल एड-अनहरू"
-
-#. Top menu item on firefox/update page
-#: main.lang:523
-msgid "Mobile Support"
-msgstr "मोबाइल साहयता"
-
-#. Top menu item on firefox/update page
-#: main.lang:528
+#: main.lang:359
 msgid "Blog"
 msgstr "ब्लग"
 
-#. Top menu item on firefox/update page
-#: main.lang:533
-msgid "About Firefox"
-msgstr "Firefox को बारेमा"
-
-#. Top menu item on firefox/update page
-#: main.lang:538
-msgid "Join Mozilla"
-msgstr "Mozilla मा सहभागी हुनुहोस्"
-
-#. Top menu item on firefox/update page
-#: main.lang:543
-msgid "Participate"
-msgstr "सहभागी"
-
-#. Will be used for the navigation. Translate as a verb (call to action), not a noun.
-#: main.lang:548
-msgid "Volunteer"
-msgstr "स्वयंसेवक"
-
-#. Top menu item on firefox/update page
-#: main.lang:553
-msgid "Brand Toolkit"
-msgstr "Brand Toolkit"
-
-#. Top menu item on firefox/update page
-#: main.lang:558
-msgid "Partnerships"
-msgstr "साझेदारीहरू"
-
 #. Newsletter subscription form above footer on some pages
-#: main.lang:563
+#: main.lang:364
 msgid "Get Mozilla updates"
 msgstr "Mozilla बाट सुन्नुहोस्"
 
 #. share button for social networks
-#: main.lang:568
+#: main.lang:369
 msgid "Share"
 msgstr "बाड्नुहोस्"
 
 #. footer link
-#: main.lang:573
+#: main.lang:374
 msgid "Mozilla on Twitter"
 msgstr "Twitter मा Mozilla"
 
 #. footer link
-#: main.lang:578
+#: main.lang:379
 msgid "Firefox on Twitter"
 msgstr "Twitter मा Firefox"
 
 #. footer link
-#: main.lang:583
+#: main.lang:384
 msgid "Mozilla on Facebook"
 msgstr "Facebook मा Mozilla"
 
 #. footer link
-#: main.lang:588
+#: main.lang:389
 msgid "Firefox on Facebook"
 msgstr "Facebook मा Firefox"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:593
+#: main.lang:394
 msgid "Forums"
 msgstr "फोरमहरु"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:598
+#: main.lang:399
 msgid "Patents"
 msgstr "प्याटेन्टहरू"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:603
+#: main.lang:404
 msgid "Leadership"
 msgstr "नेतृत्व"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:608
+#: main.lang:409
 msgid "Governance"
 msgstr "शासन"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:613
+#: main.lang:414
 msgid "History"
 msgstr "इतिहास"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:618
+#: main.lang:419
 msgid "Our Products"
 msgstr "हाम्रा प्रोडक्टहरू"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:623
+#: main.lang:424
 msgid "Software and other innovations designed to advance our mission."
 msgstr "सफ्टवेयर तथा अरू जसले हाम्रो लक्ष अघि बढाउने छ।"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:628
+#: main.lang:429
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "विभिन्न फरक क्षेत्रहरुमा समाजसेवी योगदाता बन्नुहोस।"
 
 #. This is a non-visible string for blind people to indicate where the menu is
-#: main.lang:633
+#: main.lang:434
 msgid "Menu"
 msgstr "मेनु"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
-#: main.lang:638
+#: main.lang:439
 msgid "Committed to you, your privacy and an open Web"
 msgstr "तपाईँ, तपाईँको गोपनीयता र खुल्ला वेबमा प्रतिबद्ध"
 
-#. Common title used in Fx 10 pages
-#: main.lang:643
-msgid "Choose Independent"
-msgstr "स्वतन्त्रता छान्नुहोस्"
-
-#. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-#. The '#ChooseIndependent' hashtag should not be translated.
-#: main.lang:650
-msgid ""
-"Keep the passion for a free and open Internet burning bright! "
-"#ChooseIndependent. Choose Firefox:"
-msgstr ""
-"Keep the passion for a free and open Internet burning bright! "
-"#ChooseIndependent. Choose Firefox:"
-
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
-#: main.lang:656
+#: main.lang:444
 msgid "Please turn on JavaScript to display this page correctly."
 msgstr "Please turn on JavaScript to display this page correctly."
 
 #. Used as link to /firefox/desktop in footers on some pages
-#: main.lang:661
+#: main.lang:449
 msgid "Firefox Features"
 msgstr "Firefox का विशेषताहरू"
 
 #. Used as link to SUMO in footers on some pages
-#: main.lang:666
+#: main.lang:454
 msgid "Firefox Help"
 msgstr "Firefox सहयोग"
 
-#: main.lang:670
+#: main.lang:458
 msgid "January"
 msgstr "जनवरी"
 
-#: main.lang:674
+#: main.lang:462
 msgid "February"
 msgstr "फेब्रुअरी"
 
-#: main.lang:678
+#: main.lang:466
 msgid "March"
 msgstr "मार्च"
 
-#: main.lang:682
+#: main.lang:470
 msgid "April"
 msgstr "अप्रिल"
 
-#: main.lang:686
+#: main.lang:474
 msgid "May"
 msgstr "मे"
 
-#: main.lang:690
+#: main.lang:478
 msgid "June"
 msgstr "जुन"
 
-#: main.lang:694
+#: main.lang:482
 msgid "July"
 msgstr "जुलाई"
 
-#: main.lang:698
+#: main.lang:486
 msgid "August"
 msgstr "अगस्ट"
 
-#: main.lang:702
+#: main.lang:490
 msgid "September"
 msgstr "सेप्टेम्बर"
 
-#: main.lang:706
+#: main.lang:494
 msgid "October"
 msgstr "अक्टोबर"
 
-#: main.lang:710
+#: main.lang:498
 msgid "November"
 msgstr "नोभेम्बर"
 
-#: main.lang:714
+#: main.lang:502
 msgid "December"
 msgstr "डिसेम्बर"
 
-#: main.lang:718
+#: main.lang:506
 msgid "<abbr>Jan</abbr>"
 msgstr "<abbr>जनवरी</abbr>"
 
-#: main.lang:722
+#: main.lang:510
 msgid "<abbr>Feb</abbr>"
 msgstr "<abbr>फेब्रुअरी </abbr>"
 
-#: main.lang:726
+#: main.lang:514
 msgid "<abbr>Mar</abbr>"
 msgstr "<abbr>मार्च </abbr>"
 
-#: main.lang:730
+#: main.lang:518
 msgid "<abbr>Apr</abbr>"
 msgstr "<abbr>अप्रिल</abbr>"
 
-#: main.lang:734
+#: main.lang:522
 msgid "<abbr>May</abbr>"
 msgstr "<abbr>मे </abbr>"
 
-#: main.lang:738
+#: main.lang:526
 msgid "<abbr>Jun</abbr>"
 msgstr "<abbr>जुन</abbr>"
 
-#: main.lang:742
+#: main.lang:530
 msgid "<abbr>Jul</abbr>"
 msgstr "<abbr>जुलाई </abbr>"
 
-#: main.lang:746
+#: main.lang:534
 msgid "<abbr>Aug</abbr>"
 msgstr "<abbr>अगस्ट</abbr>"
 
-#: main.lang:750
+#: main.lang:538
 msgid "<abbr>Sep</abbr>"
 msgstr "<abbr>सेप्टेम्बर</abbr>"
 
-#: main.lang:754
+#: main.lang:542
 msgid "<abbr>Oct</abbr>"
 msgstr "<abbr>अक्टोबर</abbr>"
 
-#: main.lang:758
+#: main.lang:546
 msgid "<abbr>Nov</abbr>"
 msgstr "<abbr>नोभेम्बर</abbr>"
 
-#: main.lang:762
+#: main.lang:550
 msgid "<abbr>Dec</abbr>"
 msgstr "<abbr>डिसेम्बर</abbr>"
 
-#. Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-#: main.lang:767
-msgid ""
-"Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
-msgstr "Firefox iOS मा अाउँदैै छ! <a href=\"{url}\">अझ जान्न खाता खोल्नुहोस्</a>।"
-
-#: main.lang:771
+#: main.lang:554
 msgid "Congrats. You’re up to date!"
 msgstr "बधाई छ। तपाई अद्यावधिक हुनुहुन्छ!"
 
 #. Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
-#: main.lang:776
+#: main.lang:559
 msgid "Format"
 msgstr "Format"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
-#: main.lang:781
+#: main.lang:564
 msgid "Text"
 msgstr "Text"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
-#: main.lang:786
+#: main.lang:569
 msgid "HTML"
 msgstr "HTML"
 
 #. This is the error message displayed if you provide an invalid email address in a form
-#: main.lang:791
+#: main.lang:574
 msgid "Whoops! Be sure to enter a valid email address."
 msgstr "कृपया सहि इमेल हान्नुहोस्।"
 
-#: main.lang:795
+#: main.lang:578
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Notice</a>"
@@ -841,56 +616,48 @@ msgstr ""
 "यस <a href=\"%s\">गोपनियाता सुचना</a> मा भनिए अनुसार Mozilla ले मेरो जानकारी "
 "सम्हाल्दा मलाई कुनै समस्या छैन।"
 
-#: main.lang:799
-msgid ""
-"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
-"Privacy Policy</a>"
-msgstr ""
-"यस <a href=\"%s\">गोपनियाता सुचना</a> मा भनिए अनुसार Mozilla ले मेरो जानकारी "
-"सम्हाल्दा मलाई कुनै समस्या छैन।"
-
 #. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
-#: main.lang:804
+#: main.lang:583
 msgid "Keep up with<br> all things Firefox."
 msgstr "Keep up with<br> all things Firefox."
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: main.lang:809
+#: main.lang:588
 msgid "Get Firefox news"
 msgstr "Firefox को समाचार प्राप्त गर्नुहोस्"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:814
+#: main.lang:593
 msgid "YOUR EMAIL HERE"
 msgstr "तपाईंको इमेल यहाँ"
 
 #. Newsletter subscription Button
-#: main.lang:819
+#: main.lang:598
 msgid "Sign Up Now"
 msgstr "अहिले दर्ता गर्नुहोस्"
 
 #. Old newsletter subscription Button
-#: main.lang:824
+#: main.lang:603
 msgid "Sign me up"
 msgstr "मलाई दर्ता गर्नुहोस्"
 
-#: main.lang:828
+#: main.lang:607
 msgid "Select country"
 msgstr "देश चयन गर्नुहोस्"
 
-#: main.lang:832
+#: main.lang:611
 msgid "Available Languages"
 msgstr "उपलब्ध भाषाहरु"
 
-#: main.lang:836
+#: main.lang:615
 msgid "We will only send you Mozilla-related information."
 msgstr "हामिले तपाईँलाई Mozilla संग सम्बन्धित जानकारी मात्र पठाउँछौँ।"
 
-#: main.lang:840
+#: main.lang:619
 msgid "Thanks!"
 msgstr "धन्यवाद!"
 
-#: main.lang:844
+#: main.lang:623
 msgid ""
 "If you haven’t previously confirmed a subscription to a Mozilla-related "
 "newsletter you may have to do so. Please check your inbox or your spam "
@@ -899,27 +666,11 @@ msgstr ""
 "यदि तपाईँले पहिले नै Mozilla संग सम्बन्धित समाचारपत्र को सदस्यता पक्का गर्नुएको छैन भने "
 "तपाईँले सो गर्नुपर्ने हुन सक्छ। कृपया अाफ्नो इमेल खातामा हामिबाट अाएको इमेल खोज्नुहोस्।"
 
-#. Obsolete string. Do not remove.
-#: main.lang:849
-msgid "Thanks! Please check your inbox to confirm your subscription."
-msgstr "धन्यबाद! कृपया सदस्यता पक्का गर्न अाफ्नो इमेल खाता हेर्नुहोस्।"
-
-#. Obsolete string. Do not remove.
-#: main.lang:854
-msgid ""
-"You'll receive an email from mozilla@e.mozilla.org to confirm your "
-"subscription. If you don't see it, check your spam filter. You must confirm "
-"your subscription to receive our newsletter."
-msgstr ""
-"सदस्यता पक्का गर्नको निमित्त तपाईँले mozilla@e.mozilla.org बाट एक इमेल पाउनुहुनेछ। यदि "
-"तपाईँले सो देख्नुभएन भने, अाफ्नो spam filter जाँच्नुहोस्। हाम्रो समाचारपत्र पाउन तपाईँले "
-"सदस्यता पक्का गर्नु जरुरी छ।"
-
-#: main.lang:858
+#: main.lang:627
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "हाम्रो <span> समाचारपत्रमा</span> यो बारेमा सबै पढ्नुहोस्"
 
-#: main.lang:862
+#: main.lang:631
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
@@ -929,22 +680,182 @@ msgstr ""
 "the latest tips and tricks for getting the most out of your Firefox browser. "
 "It’s the perfect way for us to keep in touch!"
 
-#: main.lang:866
+#: main.lang:635
 msgid "<span>Firefox</span> + You"
 msgstr "<span>Firefox</span> + तपाईँ"
 
-#: main.lang:870
+#: main.lang:639
 msgid "Get Firefox tips, tricks, news and more"
 msgstr "Firefox को सुझाव, तरिका, समाचार र अरु पाउनुहोस्"
 
 #. This string will be used as a navigation label in home page, pointing to /technology
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
-#: main.lang:876
+#: main.lang:645
 msgid "Web Innovations"
 msgstr "Web Innovations"
 
 #. This string will be used as a navigation label in home page, pointing to /internet-health
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
-#: main.lang:882
+#: main.lang:651
 msgid "Internet Health"
 msgstr "इन्टरनेट स्वास्थ"
+
+#~ msgid "<span>for</span> Desktop"
+#~ msgstr "डेस्कटपका <span>लागि</span>"
+
+#~ msgid "<span>for</span> Android"
+#~ msgstr "Android का <span>लागि</span> "
+
+#~ msgid "<span>for</span> iOS"
+#~ msgstr "iOS का <span>लागि</span> "
+
+#~ msgid "OS"
+#~ msgstr "OS"
+
+#~ msgid "TV"
+#~ msgstr "टिभि"
+
+#~ msgid "For desktops &amp; laptops"
+#~ msgstr "डेस्कटपहरू र ल्यापटपहरूका लागि"
+
+#~ msgid "For phones &amp; tablets"
+#~ msgstr "फोनहरू र ट्याब्लेटहरूका लागि"
+
+#~ msgid "Overview"
+#~ msgstr "समीक्षा"
+
+#~ msgid "Trusted"
+#~ msgstr "विश्वास गरिएको"
+
+#~ msgid "Flexible"
+#~ msgstr "लचिलो"
+
+#~ msgid "Fast"
+#~ msgstr "छिटो"
+
+#~ msgid "Devices"
+#~ msgstr "यन्त्रहरू"
+
+#~ msgid "For partners"
+#~ msgstr "पार्टनरहरूका लागि"
+
+#~ msgid "Tiles"
+#~ msgstr "टायलहरू"
+
+#~ msgid "Interest Dashboard"
+#~ msgstr "Interest Dashboard"
+
+#~ msgid "For developers"
+#~ msgstr "बिकासकर्ताकाहरूका लागि"
+
+#~ msgid "Find My Device"
+#~ msgstr "मेरो यन्त्र खोज्नुहोस्"
+
+#~ msgid "Developers"
+#~ msgstr "विकासकर्ताहरू"
+
+#~ msgid "Firefox Affiliates"
+#~ msgstr "Firefox Affiliates"
+
+#~ msgid "Check out the new look and feel of Firefox."
+#~ msgstr "Firefox को नया रूप चलाउनुहोस्।"
+
+#~ msgid "Download for <span>Android</span>"
+#~ msgstr "<span>Android</span> को लागि डाउनलोड गर्नुहोस्"
+
+#~ msgid "Firefox Beta for mobile"
+#~ msgstr "मोबाइलको लागि Firefox Beta"
+
+#~ msgid "Super speed"
+#~ msgstr "Super speed"
+
+#~ msgid "Stunning graphics"
+#~ msgstr "राम्रो ग्राफिक्स"
+
+#~ msgid "The latest technologies"
+#~ msgstr "पछिल्ला प्रविधिहरु"
+
+#~ msgid ""
+#~ "You need an upgrade! Stay safe in less than a minute. <br/> Start using "
+#~ "your new Firefox for the best in browsing and customization on the Web. "
+#~ "<br/>   It’s fast and free!"
+#~ msgstr ""
+#~ "तपाईँलाई अद्यावधिक चाहिन्छ! एक मिनेट भन्दा पनि कममा सुरक्षित रहनुहोस्। <br/> "
+#~ "ब्राउजिङ्ग र अनुकुलन मा सर्वोत्तम, अाफ्नो नयाँ Firefox चलाउन थाल्नुहोस। <br/>   यो "
+#~ "छिटो र निःशुल्क छ!"
+
+#~ msgid "Partner with Us"
+#~ msgstr "हामिसंग साझेदारी गर्नुहोस्"
+
+#~ msgid "Performance"
+#~ msgstr "प्रदर्शन"
+
+#~ msgid "Technology"
+#~ msgstr "प्रबिधि"
+
+#~ msgid "Privacy &amp; Security"
+#~ msgstr "गोपनीयता र सुरक्षा"
+
+#~ msgid "Firefox"
+#~ msgstr "Firefox"
+
+#~ msgid "Firefox for Organizations"
+#~ msgstr "संघ संस्थाहरुका लागि Firefox"
+
+#~ msgid "Mobile Add-ons"
+#~ msgstr "मोबाइल एड-अनहरू"
+
+#~ msgid "Mobile Support"
+#~ msgstr "मोबाइल साहयता"
+
+#~ msgid "About Firefox"
+#~ msgstr "Firefox को बारेमा"
+
+#~ msgid "Join Mozilla"
+#~ msgstr "Mozilla मा सहभागी हुनुहोस्"
+
+#~ msgid "Participate"
+#~ msgstr "सहभागी"
+
+#~ msgid "Volunteer"
+#~ msgstr "स्वयंसेवक"
+
+#~ msgid "Brand Toolkit"
+#~ msgstr "Brand Toolkit"
+
+#~ msgid "Partnerships"
+#~ msgstr "साझेदारीहरू"
+
+#~ msgid "Choose Independent"
+#~ msgstr "स्वतन्त्रता छान्नुहोस्"
+
+#~ msgid ""
+#~ "Keep the passion for a free and open Internet burning bright! "
+#~ "#ChooseIndependent. Choose Firefox:"
+#~ msgstr ""
+#~ "Keep the passion for a free and open Internet burning bright! "
+#~ "#ChooseIndependent. Choose Firefox:"
+
+#~ msgid ""
+#~ "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</"
+#~ "a>."
+#~ msgstr "Firefox iOS मा अाउँदैै छ! <a href=\"{url}\">अझ जान्न खाता खोल्नुहोस्</a>।"
+
+#~ msgid ""
+#~ "I’m okay with Mozilla handling my info as explained in <a href=\"%s"
+#~ "\">this Privacy Policy</a>"
+#~ msgstr ""
+#~ "यस <a href=\"%s\">गोपनियाता सुचना</a> मा भनिए अनुसार Mozilla ले मेरो जानकारी "
+#~ "सम्हाल्दा मलाई कुनै समस्या छैन।"
+
+#~ msgid "Thanks! Please check your inbox to confirm your subscription."
+#~ msgstr "धन्यबाद! कृपया सदस्यता पक्का गर्न अाफ्नो इमेल खाता हेर्नुहोस्।"
+
+#~ msgid ""
+#~ "You'll receive an email from mozilla@e.mozilla.org to confirm your "
+#~ "subscription. If you don't see it, check your spam filter. You must "
+#~ "confirm your subscription to receive our newsletter."
+#~ msgstr ""
+#~ "सदस्यता पक्का गर्नको निमित्त तपाईँले mozilla@e.mozilla.org बाट एक इमेल पाउनुहुनेछ। "
+#~ "यदि तपाईँले सो देख्नुभएन भने, अाफ्नो spam filter जाँच्नुहोस्। हाम्रो समाचारपत्र पाउन "
+#~ "तपाईँले सदस्यता पक्का गर्नु जरुरी छ।"

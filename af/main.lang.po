@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-23 19:09+0000\n"
+"POT-Creation-Date: 2017-02-13 15:10+0000\n"
 "PO-Revision-Date: 2017-01-20 11:14+0000\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,153 +12,60 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Translate Toolkit 2.0.0\n"
 "X-POOTLE-MTIME: 1484910852.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
 msgstr "Navigasie"
 
-#. Firefox family navigation menu. Main level item.
-#. Example: https://www-dev.allizom.org/firefox/os
-#: main.lang:7
-msgid "<span>for</span> Desktop"
-msgstr "<span>vir</span> rekenaars"
-
-#. Firefox family navigation menu. Main level item.
-#: main.lang:12
-msgid "<span>for</span> Android"
-msgstr "<span>vir</span> Android"
-
-#. Firefox family navigation menu. Main level item.
-#: main.lang:17
-msgid "<span>for</span> iOS"
-msgstr "<span>vir</span> iOS"
-
-#. Firefox family navigation menu. Main level item.
-#: main.lang:22
-msgid "OS"
-msgstr "OS"
-
-#. Used for the navigation menu only in Firefox OS pages
-#: main.lang:27
-msgid "TV"
-msgstr "TV"
-
 #. Used for the navigation menu, points to /firefox/channel
-#: main.lang:32
+#: main.lang:6
 msgid "Pre-release downloads"
 msgstr "Weergawes voor vrystelling"
 
-#. Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-#. You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-#: main.lang:38
-msgid "For desktops &amp; laptops"
-msgstr "Vir tafel- en skootrekenaars"
-
-#. Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-#: main.lang:43
-msgid "For phones &amp; tablets"
-msgstr "Vir fone en tablette"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:48
-msgid "Overview"
-msgstr "Oorsig"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:53
-msgid "Trusted"
-msgstr "Betroubaar"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:58
-msgid "Flexible"
-msgstr "Aanpasbaar"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:63
-msgid "Fast"
-msgstr "Vinnig"
-
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:68
+#: main.lang:11
 msgid "About"
 msgstr "Meer oor"
 
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:73
-msgid "Devices"
-msgstr "Toestelle"
-
-#. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:78
-msgid "For partners"
-msgstr "Vir vennote"
-
-#. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:83
+#: main.lang:16
 msgid "Apps"
 msgstr "Programme"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:88
+#: main.lang:21
 msgid "Do Not Track"
 msgstr "Moenie volg nie"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:93
-msgid "Tiles"
-msgstr "Teëltjies"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#. Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-#: main.lang:99
-msgid "Interest Dashboard"
-msgstr "Belangstellingspaneel"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:104
+#: main.lang:26
 msgid "Developer Edition"
 msgstr "Ontwikkelaarweergawe"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:109
+#: main.lang:31
 msgid "Private Browsing"
 msgstr "Private blaaiery"
 
 #. Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
-#: main.lang:114
+#: main.lang:36
 msgid "Need help?"
 msgstr "Benodig hulp?"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:119
+#: main.lang:41
 msgid "News"
 msgstr "Nuus"
 
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:124
-msgid "For developers"
-msgstr "Vir ontwikkelaars"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:129
-msgid "Find My Device"
-msgstr "Vind my toestel"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:134
-msgid "Developers"
-msgstr "Ontwikkelaars"
-
 #. Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
-#: main.lang:139
+#: main.lang:46
 msgid "Choose the independent browser"
 msgstr "Kies die onafhanklike blaaier"
 
 #. Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
-#: main.lang:144
+#: main.lang:51
 msgid ""
 "Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox "
 "isn’t just choosing a browser. It’s a vote for personal freedom."
@@ -167,156 +74,151 @@ msgstr ""
 "Om Firefox te kies is meer as net 'n keuse — dis 'n stem vir persoonlike "
 "vryheid."
 
-#: main.lang:148
+#: main.lang:55
 msgid "Donate"
 msgstr "Skenk"
 
-#: main.lang:152
+#: main.lang:59
 msgid "Support"
 msgstr "Ondersteuning"
 
-#: main.lang:156
+#: main.lang:63
 msgid "Products"
 msgstr "Produkte"
 
-#: main.lang:160
+#: main.lang:67
 msgid "Add-ons"
 msgstr "Byvoegings"
 
-#: main.lang:164
+#: main.lang:71
 msgid "About Us"
 msgstr "Meer oor ons"
 
-#: main.lang:168
+#: main.lang:75
 msgid "Labs"
 msgstr "Labs"
 
-#: main.lang:172
+#: main.lang:79
 msgid "skip to Navigation"
 msgstr "spring na navigasie"
 
-#: main.lang:176
+#: main.lang:83
 msgid "switch language"
 msgstr "wissel taal"
 
-#: main.lang:180
+#: main.lang:87
 msgid "Back to home page"
 msgstr "Terug na tuisblad"
 
-#: main.lang:184
+#: main.lang:91
 msgid "About Mozilla"
 msgstr "Meer oor Mozilla"
 
-#: main.lang:188
+#: main.lang:95
 msgid "Get Involved"
 msgstr "Raak betrokke"
 
-#: main.lang:192
+#: main.lang:99
 msgid "Careers"
 msgstr "Loopbane"
 
-#: main.lang:196
+#: main.lang:103
 msgid "Press Center"
 msgstr "Perssentrum"
 
-#: main.lang:200
+#: main.lang:107
 msgid "Contact Us"
 msgstr "Kontak ons"
 
-#: main.lang:204
+#: main.lang:111
 msgid "Other languages:"
 msgstr "Ander tale:"
 
 #. Will replace "Other languages" for the footer's language switcher
-#: main.lang:209
+#: main.lang:116
 msgid "Page language:"
 msgstr "Bladsytaal:"
 
 #. Year / Month / Day, indicate your prefered date format for your language
-#: main.lang:214
+#: main.lang:121
 msgid "%Y-%m-%d"
 msgstr "%Y-%m-%d"
 
-#: main.lang:218
+#: main.lang:125
 msgid "Legal"
 msgstr "Regsaspekte"
 
 #. Used as link in the footer
-#: main.lang:223
+#: main.lang:130
 msgid "Cookies"
 msgstr "Koekies"
 
-#. Used as link in the footer
-#: main.lang:228
-msgid "Firefox Affiliates"
-msgstr "Firefox-geaffilieerdes"
-
-#: main.lang:232
+#: main.lang:134
 msgid "Legal Notices"
 msgstr "Regskennisgewings"
 
-#: main.lang:236
+#: main.lang:138
 msgid "Privacy Policy"
 msgstr "Privaatheidbeleid"
 
-#: main.lang:240
+#: main.lang:142
 msgid "Release Notes"
 msgstr "Vrystellingaantekeninge"
 
-#: main.lang:244
+#: main.lang:146
 msgid "Other Systems and Languages"
 msgstr "Ander stelsels en tale"
 
-#: main.lang:248
+#: main.lang:150
 msgid "Close"
 msgstr "Maak toe"
 
-#: main.lang:252
+#: main.lang:154
 msgid "(in English)"
 msgstr "(in Engels)"
 
-#: main.lang:256
+#: main.lang:158
 msgid "Return to top"
 msgstr "Terug na bo"
 
-#: main.lang:260
+#: main.lang:162
 msgid "Features"
 msgstr "Kenmerke"
 
-#: main.lang:264
+#: main.lang:166
 msgid "Customize"
 msgstr "Pasmaak"
 
-#: main.lang:269
+#: main.lang:170
 msgid "Download"
 msgstr "Laai af"
 
-#: main.lang:273
+#: main.lang:174
 msgid "Previous"
 msgstr "Vorige"
 
-#: main.lang:277
+#: main.lang:178
 msgid "Next"
 msgstr "Volgende"
 
 #. MegaBytes abbreviation
-#: main.lang:282
+#: main.lang:183
 msgid "MB"
 msgstr "MB"
 
-#: main.lang:286
+#: main.lang:187
 msgid "MegaBytes"
 msgstr "Megagreep"
 
-#: main.lang:290
+#: main.lang:191
 msgid "FAQ"
 msgstr "V&amp;A"
 
-#: main.lang:294
+#: main.lang:195
 msgid "Videos"
 msgstr "Video's"
 
-#: main.lang:298
+#: main.lang:199
 msgid ""
 "Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
 "licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
@@ -326,139 +228,105 @@ msgstr ""
 "gelisensieer ingevolge die <br /><a href=\"%s\">Creative Commons-Erkenning-"
 "Insgelyks Deel-lisensie 3.0</a> of enige latere weergawe."
 
-#: main.lang:302
+#: main.lang:203
 msgid "Report Trademark Abuse"
 msgstr "Rapporteer handelsmerkmisbruik"
 
-#: main.lang:306
+#: main.lang:207
 msgid "Free Upgrade"
 msgstr "Gratis opgradering"
 
 #. social networks such as Facebook and Twitter
-#: main.lang:311
+#: main.lang:212
 msgid "Follow us on:"
 msgstr "Volg ons op:"
 
-#: main.lang:315
+#: main.lang:216
 msgid "Customize with Add-ons"
 msgstr "Pasmaak met byvoegings"
 
-#: main.lang:319
+#: main.lang:220
 msgid "Learn More"
 msgstr "Vind meer uit"
 
 #. Same as previous above but with no capitalization on More
-#: main.lang:324
+#: main.lang:225
 msgid "Learn more"
 msgstr "Meer inligting"
 
 #. Link used to play again an animation or a video
-#: main.lang:329
+#: main.lang:230
 msgid "Replay"
 msgstr "Speel weer"
 
-#: main.lang:333
+#: main.lang:234
 msgid "Watch the video"
 msgstr "Sien die video"
 
-#: main.lang:337
+#: main.lang:238
 msgid "Replay the video"
 msgstr "Speel die video weer"
 
-#: main.lang:341
+#: main.lang:242
 msgid "Share the video"
 msgstr "Deel die video"
 
-#: main.lang:345
+#: main.lang:246
 msgid "WebM format"
 msgstr "WebM-formaat"
 
-#: main.lang:349
+#: main.lang:250
 msgid "Ogg Theora format"
 msgstr "Ogg Theora-formaat"
 
-#: main.lang:353
+#: main.lang:254
 msgid "MPEG-4 format"
 msgstr "MPEG-4-formaat"
 
-#: main.lang:357
+#: main.lang:258
 msgid "Mobile"
 msgstr "Selfoon"
 
-#: main.lang:361
-msgid "Check out the new look and feel of Firefox."
-msgstr "Kyk na Firefox se nuwe baadjie."
-
-#: main.lang:365
+#: main.lang:262
 msgid "View Full Site"
 msgstr "Bekyk volle werf"
 
-#: main.lang:369
-msgid "Download for <span>Android</span>"
-msgstr "Laai af vir <span>Android</span>"
-
-#: main.lang:373
+#: main.lang:266
 msgid "Desktop"
 msgstr "Rekenaar"
 
-#: main.lang:377
-msgid "Firefox Beta for mobile"
-msgstr "Firefox Beta vir selfone"
-
-#: main.lang:381
+#: main.lang:270
 msgid "Firefox for mobile"
 msgstr "Firefox vir selfone"
 
-#: main.lang:385
+#: main.lang:274
 msgid "Email"
 msgstr "E-pos"
 
-#: main.lang:389
-msgid "Super speed"
-msgstr "Blitsig vinnig"
-
-#: main.lang:393
-msgid "Stunning graphics"
-msgstr "Verstommende grafika"
-
-#: main.lang:397
-msgid "The latest technologies"
-msgstr "Die jongste tegnologie"
-
-#: main.lang:401
-msgid ""
-"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
-"new Firefox for the best in browsing and customization on the Web. <br/>   "
-"It’s fast and free!"
-msgstr ""
-"Opgradering is nodig! Bly veilig in ’n japtrap. <br/> Gebruik die nuwe "
-"Firefox vir die beste manier om deur die web te blaai en persoonlik te maak. "
-"<br/>  Dis vinnig en gratis!"
-
-#: main.lang:405
+#: main.lang:278
 msgid "Upgrade now"
 msgstr "Gradeer nou op"
 
-#: main.lang:409
+#: main.lang:282
 msgid "Update now"
 msgstr "Werk nou by"
 
-#: main.lang:413
+#: main.lang:286
 msgid "Supported Devices"
 msgstr "Ondersteunde toestelle"
 
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-#: main.lang:418
+#: main.lang:291
 msgid "What’s New"
 msgstr "Wat's nuut?"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
-#: main.lang:423
+#: main.lang:296
 msgid "Privacy"
 msgstr "Privaatheid"
 
 #. Footer string
-#: main.lang:428
+#: main.lang:301
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
@@ -469,374 +337,279 @@ msgstr ""
 "Commons-lisensie</a>."
 
 #. Footer string (will replace "Contribute to this page")
-#: main.lang:433
+#: main.lang:306
 msgid "Contribute to this site"
 msgstr "Dra by tot dié werf"
 
 #. Footer string
-#: main.lang:438
+#: main.lang:311
 msgid "Contribute to this page"
 msgstr "Dra by tot dié bladsy"
 
 #. Top menu item
-#: main.lang:443
+#: main.lang:316
 msgid "Mission"
 msgstr "Missie"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:448
+#: main.lang:321
 msgid "Tour"
 msgstr "Toer"
 
-#. Footer item
-#: main.lang:453
-msgid "Partner with Us"
-msgstr "Sluit aan by ons"
-
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:458
+#: main.lang:326
 msgid "Sync"
 msgstr "Sync"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:463
+#: main.lang:331
 msgid "Desktop Add-ons"
 msgstr "Byvoegings vir rekenaar-Firefox"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:468
+#: main.lang:336
 msgid "Android Add-ons"
 msgstr "Android-byvoegings"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:473
+#: main.lang:341
 msgid "Themes"
 msgstr "Temas"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:478
+#: main.lang:346
 msgid "Desktop Support"
 msgstr "Rekenaar-ondersteuning"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:483
+#: main.lang:351
 msgid "Android Support"
 msgstr "Android-ondersteuning"
 
-#. Top menu item on firefox/update page
-#: main.lang:488
-msgid "Performance"
-msgstr "Werkverrigting"
-
-#. Top menu item on firefox/update page
-#: main.lang:493
-msgid "Technology"
-msgstr "Tegnologie"
-
-#. Top menu item on firefox/update page
-#: main.lang:498
-msgid "Privacy &amp; Security"
-msgstr "Privaatheid en sekuriteit"
-
-#. Top menu item on firefox/update page
-#: main.lang:503
+#: main.lang:355
 msgid "Releases"
 msgstr "Vrystellings"
 
-#. Top menu item on firefox/update page
-#: main.lang:508
-msgid "Firefox"
-msgstr "Firefox"
-
-#. Top menu item on firefox/update page
-#: main.lang:513
-msgid "Firefox for Organizations"
-msgstr "Firefox vir organisasies"
-
-#. Top menu item on firefox/update page
-#: main.lang:518
-msgid "Mobile Add-ons"
-msgstr "Selfoon-byvoegings"
-
-#. Top menu item on firefox/update page
-#: main.lang:523
-msgid "Mobile Support"
-msgstr "Selfoon-byvoegings"
-
-#. Top menu item on firefox/update page
-#: main.lang:528
+#: main.lang:359
 msgid "Blog"
 msgstr "Blog"
 
-#. Top menu item on firefox/update page
-#: main.lang:533
-msgid "About Firefox"
-msgstr "Meer oor Firefox"
-
-#. Top menu item on firefox/update page
-#: main.lang:538
-msgid "Join Mozilla"
-msgstr "Sluit by Mozilla aan"
-
-#. Top menu item on firefox/update page
-#: main.lang:543
-msgid "Participate"
-msgstr "Neem deel"
-
-#. Will be used for the navigation. Translate as a verb (call to action), not a noun.
-#: main.lang:548
-msgid "Volunteer"
-msgstr "Willig in"
-
-#. Top menu item on firefox/update page
-#: main.lang:553
-msgid "Brand Toolkit"
-msgstr "Handelsmerk-nutstel"
-
-#. Top menu item on firefox/update page
-#: main.lang:558
-msgid "Partnerships"
-msgstr "Vennootskappe"
-
 #. Newsletter subscription form above footer on some pages
-#: main.lang:563
+#: main.lang:364
 msgid "Get Mozilla updates"
 msgstr "Jongste Mozilla-nuus"
 
 #. share button for social networks
-#: main.lang:568
+#: main.lang:369
 msgid "Share"
 msgstr "Deel"
 
 #. footer link
-#: main.lang:573
+#: main.lang:374
 msgid "Mozilla on Twitter"
 msgstr "Mozilla op Twitter"
 
 #. footer link
-#: main.lang:578
+#: main.lang:379
 msgid "Firefox on Twitter"
 msgstr "Firefox op Twitter"
 
 #. footer link
-#: main.lang:583
+#: main.lang:384
 msgid "Mozilla on Facebook"
 msgstr "Mozilla op Facebook"
 
 #. footer link
-#: main.lang:588
+#: main.lang:389
 msgid "Firefox on Facebook"
 msgstr "Firefox op Facebook"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:593
+#: main.lang:394
 msgid "Forums"
 msgstr "Forums"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:598
+#: main.lang:399
 msgid "Patents"
 msgstr "Patente"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:603
+#: main.lang:404
 msgid "Leadership"
 msgstr "Leierskap"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:608
+#: main.lang:409
 msgid "Governance"
 msgstr "Bestuur"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:613
+#: main.lang:414
 msgid "History"
 msgstr "Geskiedenis"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:618
+#: main.lang:419
 msgid "Our Products"
 msgstr "Ons produkte"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:623
+#: main.lang:424
 msgid "Software and other innovations designed to advance our mission."
 msgstr "Sagteware en nog innovasie wat ontwerp word ter wille van ons missie."
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:628
+#: main.lang:429
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "Word 'n vrywilliger in enige van 'n aantal areas."
 
 #. This is a non-visible string for blind people to indicate where the menu is
-#: main.lang:633
+#: main.lang:434
 msgid "Menu"
 msgstr "Kieslys"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
-#: main.lang:638
+#: main.lang:439
 msgid "Committed to you, your privacy and an open Web"
 msgstr "Verbonde tot u, u privaatheid en die oop Web"
 
-#. Common title used in Fx 10 pages
-#: main.lang:643
-msgid "Choose Independent"
-msgstr "Kies onafhanklikheid"
-
-#. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-#. The '#ChooseIndependent' hashtag should not be translated.
-#: main.lang:650
-msgid ""
-"Keep the passion for a free and open Internet burning bright! "
-"#ChooseIndependent. Choose Firefox:"
-msgstr ""
-"Wees passievol en staan saam vir 'n vrye en oop internet! "
-"#ChooseIndependent. Kies Firefox:"
-
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
-#: main.lang:656
+#: main.lang:444
 msgid "Please turn on JavaScript to display this page correctly."
 msgstr "Skakel asseblief JavaScript aan om hierdie bladsy reg te vertoon."
 
 #. Used as link to /firefox/desktop in footers on some pages
-#: main.lang:661
+#: main.lang:449
 msgid "Firefox Features"
 msgstr "Firefox-kenmerke"
 
 #. Used as link to SUMO in footers on some pages
-#: main.lang:666
+#: main.lang:454
 msgid "Firefox Help"
 msgstr "Firefox-hulp"
 
-#: main.lang:670
+#: main.lang:458
 msgid "January"
 msgstr "Januarie"
 
-#: main.lang:674
+#: main.lang:462
 msgid "February"
 msgstr "Februarie"
 
-#: main.lang:678
+#: main.lang:466
 msgid "March"
 msgstr "Maart"
 
-#: main.lang:682
+#: main.lang:470
 msgid "April"
 msgstr "April"
 
-#: main.lang:686
+#: main.lang:474
 msgid "May"
 msgstr "Mei"
 
-#: main.lang:690
+#: main.lang:478
 msgid "June"
 msgstr "Junie"
 
-#: main.lang:694
+#: main.lang:482
 msgid "July"
 msgstr "Julie"
 
-#: main.lang:698
+#: main.lang:486
 msgid "August"
 msgstr "Augustus"
 
-#: main.lang:702
+#: main.lang:490
 msgid "September"
 msgstr "September"
 
-#: main.lang:706
+#: main.lang:494
 msgid "October"
 msgstr "Oktober"
 
-#: main.lang:710
+#: main.lang:498
 msgid "November"
 msgstr "November"
 
-#: main.lang:714
+#: main.lang:502
 msgid "December"
 msgstr "Desember"
 
-#: main.lang:718
+#: main.lang:506
 msgid "<abbr>Jan</abbr>"
 msgstr "<abbr>Jan</abbr>"
 
-#: main.lang:722
+#: main.lang:510
 msgid "<abbr>Feb</abbr>"
 msgstr "<abbr>Feb</abbr>"
 
-#: main.lang:726
+#: main.lang:514
 msgid "<abbr>Mar</abbr>"
 msgstr "<abbr>Mrt</abbr>"
 
-#: main.lang:730
+#: main.lang:518
 msgid "<abbr>Apr</abbr>"
 msgstr "<abbr>Apr</abbr>"
 
-#: main.lang:734
+#: main.lang:522
 msgid "<abbr>May</abbr>"
 msgstr "<abbr>Mei</abbr>"
 
-#: main.lang:738
+#: main.lang:526
 msgid "<abbr>Jun</abbr>"
 msgstr "<abbr>Jun</abbr>"
 
-#: main.lang:742
+#: main.lang:530
 msgid "<abbr>Jul</abbr>"
 msgstr "<abbr>Jul</abbr>"
 
-#: main.lang:746
+#: main.lang:534
 msgid "<abbr>Aug</abbr>"
 msgstr "<abbr>Aug</abbr>"
 
-#: main.lang:750
+#: main.lang:538
 msgid "<abbr>Sep</abbr>"
 msgstr "<abbr>Sep</abbr>"
 
-#: main.lang:754
+#: main.lang:542
 msgid "<abbr>Oct</abbr>"
 msgstr "<abbr>Okt</abbr>"
 
-#: main.lang:758
+#: main.lang:546
 msgid "<abbr>Nov</abbr>"
 msgstr "<abbr>Nov</abbr>"
 
-#: main.lang:762
+#: main.lang:550
 msgid "<abbr>Dec</abbr>"
 msgstr "<abbr>Des</abbr>"
 
-#. Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-#: main.lang:767
-msgid ""
-"Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
-msgstr ""
-"Firefox is binnekort op iOS! <a href=\"{url}\">Skryf in vir meer inligting</"
-"a>."
-
-#: main.lang:771
+#: main.lang:554
 msgid "Congrats. You’re up to date!"
 msgstr "Geluk! Alles is op datum!"
 
 #. Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
-#: main.lang:776
+#: main.lang:559
 msgid "Format"
 msgstr "Formaat"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
-#: main.lang:781
+#: main.lang:564
 msgid "Text"
 msgstr "Teks"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
-#: main.lang:786
+#: main.lang:569
 msgid "HTML"
 msgstr "HTML"
 
 #. This is the error message displayed if you provide an invalid email address in a form
-#: main.lang:791
+#: main.lang:574
 msgid "Whoops! Be sure to enter a valid email address."
 msgstr "Oeps! Maak seker dat ’n geldige e-posadres ingetik is."
 
-#: main.lang:795
+#: main.lang:578
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Notice</a>"
@@ -844,56 +617,48 @@ msgstr ""
 "Dis reg as my inligting hanteer word soos verduidelik in <a href=\"%s\">dié "
 "privaatheidkennisgewing</a>"
 
-#: main.lang:799
-msgid ""
-"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
-"Privacy Policy</a>"
-msgstr ""
-"Dis reg as my inligting hanteer word soos verduidelik in <a href=\"%s\">dié "
-"privaatheidbeleid</a>"
-
 #. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
-#: main.lang:804
+#: main.lang:583
 msgid "Keep up with<br> all things Firefox."
 msgstr "Bly op datum met<br>alles oor Firefox."
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: main.lang:809
+#: main.lang:588
 msgid "Get Firefox news"
 msgstr "Kry Firefox-nuus"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:814
+#: main.lang:593
 msgid "YOUR EMAIL HERE"
 msgstr "E-POSADRES HIER"
 
 #. Newsletter subscription Button
-#: main.lang:819
+#: main.lang:598
 msgid "Sign Up Now"
 msgstr "Skryf nou in"
 
 #. Old newsletter subscription Button
-#: main.lang:824
+#: main.lang:603
 msgid "Sign me up"
 msgstr "Skryf my in"
 
-#: main.lang:828
+#: main.lang:607
 msgid "Select country"
 msgstr "Kies u land"
 
-#: main.lang:832
+#: main.lang:611
 msgid "Available Languages"
 msgstr "Beskikbare tale"
 
-#: main.lang:836
+#: main.lang:615
 msgid "We will only send you Mozilla-related information."
 msgstr "Ons sal slegs Mozilla-verwante inligting stuur."
 
-#: main.lang:840
+#: main.lang:619
 msgid "Thanks!"
 msgstr "Dankie!"
 
-#: main.lang:844
+#: main.lang:623
 msgid ""
 "If you haven’t previously confirmed a subscription to a Mozilla-related "
 "newsletter you may have to do so. Please check your inbox or your spam "
@@ -903,27 +668,11 @@ msgstr ""
 "bevestig het nie, is dit dalk nou nodig. Kontroleer u e-pos en gemorspos vir "
 "'n e-pos van ons."
 
-#. Obsolete string. Do not remove.
-#: main.lang:849
-msgid "Thanks! Please check your inbox to confirm your subscription."
-msgstr "Dankie! Kyk in u inkassie om u intekening te bevestig."
-
-#. Obsolete string. Do not remove.
-#: main.lang:854
-msgid ""
-"You'll receive an email from mozilla@e.mozilla.org to confirm your "
-"subscription. If you don't see it, check your spam filter. You must confirm "
-"your subscription to receive our newsletter."
-msgstr ""
-"U sal ’n e-pos ontvang vanaf mozilla@e.mozilla.org om u inskrywing te "
-"bevestig. Indien u dit nie sien nie, gaan u gemorspos na. ’n Intekening moet "
-"bevestig word om ons nuusbrief te ontvang."
-
-#: main.lang:858
+#: main.lang:627
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Lees daaroor in ons <span>nuusletter</span>"
 
-#: main.lang:862
+#: main.lang:631
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
@@ -933,26 +682,188 @@ msgstr ""
 "insluitend die jongste wenke om die meeste uit Firefox te kry. Dis die "
 "perfekte manier vir ons om in kontak te bly!"
 
-#: main.lang:866
+#: main.lang:635
 #, fuzzy
 msgid "<span>Firefox</span> + You"
 msgstr "<span>Firefox</span> vir iOS"
 
-#: main.lang:870
+#: main.lang:639
 msgid "Get Firefox tips, tricks, news and more"
 msgstr "Kry wenke, nuus en nog wat oor Firefox"
 
 #. This string will be used as a navigation label in home page, pointing to /technology
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
-#: main.lang:876
+#: main.lang:645
 msgid "Web Innovations"
 msgstr "Web-innovasie"
 
 #. This string will be used as a navigation label in home page, pointing to /internet-health
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
-#: main.lang:882
+#: main.lang:651
 msgid "Internet Health"
 msgstr "Internetgesondheid"
+
+#~ msgid "<span>for</span> Desktop"
+#~ msgstr "<span>vir</span> rekenaars"
+
+#~ msgid "<span>for</span> Android"
+#~ msgstr "<span>vir</span> Android"
+
+#~ msgid "<span>for</span> iOS"
+#~ msgstr "<span>vir</span> iOS"
+
+#~ msgid "OS"
+#~ msgstr "OS"
+
+#~ msgid "TV"
+#~ msgstr "TV"
+
+#~ msgid "For desktops &amp; laptops"
+#~ msgstr "Vir tafel- en skootrekenaars"
+
+#~ msgid "For phones &amp; tablets"
+#~ msgstr "Vir fone en tablette"
+
+#~ msgid "Overview"
+#~ msgstr "Oorsig"
+
+#~ msgid "Trusted"
+#~ msgstr "Betroubaar"
+
+#~ msgid "Flexible"
+#~ msgstr "Aanpasbaar"
+
+#~ msgid "Fast"
+#~ msgstr "Vinnig"
+
+#~ msgid "Devices"
+#~ msgstr "Toestelle"
+
+#~ msgid "For partners"
+#~ msgstr "Vir vennote"
+
+#~ msgid "Tiles"
+#~ msgstr "Teëltjies"
+
+#~ msgid "Interest Dashboard"
+#~ msgstr "Belangstellingspaneel"
+
+#~ msgid "For developers"
+#~ msgstr "Vir ontwikkelaars"
+
+#~ msgid "Find My Device"
+#~ msgstr "Vind my toestel"
+
+#~ msgid "Developers"
+#~ msgstr "Ontwikkelaars"
+
+#~ msgid "Firefox Affiliates"
+#~ msgstr "Firefox-geaffilieerdes"
+
+#~ msgid "Check out the new look and feel of Firefox."
+#~ msgstr "Kyk na Firefox se nuwe baadjie."
+
+#~ msgid "Download for <span>Android</span>"
+#~ msgstr "Laai af vir <span>Android</span>"
+
+#~ msgid "Firefox Beta for mobile"
+#~ msgstr "Firefox Beta vir selfone"
+
+#~ msgid "Super speed"
+#~ msgstr "Blitsig vinnig"
+
+#~ msgid "Stunning graphics"
+#~ msgstr "Verstommende grafika"
+
+#~ msgid "The latest technologies"
+#~ msgstr "Die jongste tegnologie"
+
+#~ msgid ""
+#~ "You need an upgrade! Stay safe in less than a minute. <br/> Start using "
+#~ "your new Firefox for the best in browsing and customization on the Web. "
+#~ "<br/>   It’s fast and free!"
+#~ msgstr ""
+#~ "Opgradering is nodig! Bly veilig in ’n japtrap. <br/> Gebruik die nuwe "
+#~ "Firefox vir die beste manier om deur die web te blaai en persoonlik te "
+#~ "maak. <br/>  Dis vinnig en gratis!"
+
+#~ msgid "Partner with Us"
+#~ msgstr "Sluit aan by ons"
+
+#~ msgid "Performance"
+#~ msgstr "Werkverrigting"
+
+#~ msgid "Technology"
+#~ msgstr "Tegnologie"
+
+#~ msgid "Privacy &amp; Security"
+#~ msgstr "Privaatheid en sekuriteit"
+
+#~ msgid "Firefox"
+#~ msgstr "Firefox"
+
+#~ msgid "Firefox for Organizations"
+#~ msgstr "Firefox vir organisasies"
+
+#~ msgid "Mobile Add-ons"
+#~ msgstr "Selfoon-byvoegings"
+
+#~ msgid "Mobile Support"
+#~ msgstr "Selfoon-byvoegings"
+
+#~ msgid "About Firefox"
+#~ msgstr "Meer oor Firefox"
+
+#~ msgid "Join Mozilla"
+#~ msgstr "Sluit by Mozilla aan"
+
+#~ msgid "Participate"
+#~ msgstr "Neem deel"
+
+#~ msgid "Volunteer"
+#~ msgstr "Willig in"
+
+#~ msgid "Brand Toolkit"
+#~ msgstr "Handelsmerk-nutstel"
+
+#~ msgid "Partnerships"
+#~ msgstr "Vennootskappe"
+
+#~ msgid "Choose Independent"
+#~ msgstr "Kies onafhanklikheid"
+
+#~ msgid ""
+#~ "Keep the passion for a free and open Internet burning bright! "
+#~ "#ChooseIndependent. Choose Firefox:"
+#~ msgstr ""
+#~ "Wees passievol en staan saam vir 'n vrye en oop internet! "
+#~ "#ChooseIndependent. Kies Firefox:"
+
+#~ msgid ""
+#~ "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</"
+#~ "a>."
+#~ msgstr ""
+#~ "Firefox is binnekort op iOS! <a href=\"{url}\">Skryf in vir meer "
+#~ "inligting</a>."
+
+#~ msgid ""
+#~ "I’m okay with Mozilla handling my info as explained in <a href=\"%s"
+#~ "\">this Privacy Policy</a>"
+#~ msgstr ""
+#~ "Dis reg as my inligting hanteer word soos verduidelik in <a href=\"%s"
+#~ "\">dié privaatheidbeleid</a>"
+
+#~ msgid "Thanks! Please check your inbox to confirm your subscription."
+#~ msgstr "Dankie! Kyk in u inkassie om u intekening te bevestig."
+
+#~ msgid ""
+#~ "You'll receive an email from mozilla@e.mozilla.org to confirm your "
+#~ "subscription. If you don't see it, check your spam filter. You must "
+#~ "confirm your subscription to receive our newsletter."
+#~ msgstr ""
+#~ "U sal ’n e-pos ontvang vanaf mozilla@e.mozilla.org om u inskrywing te "
+#~ "bevestig. Indien u dit nie sien nie, gaan u gemorspos na. ’n Intekening "
+#~ "moet bevestig word om ons nuusbrief te ontvang."
 
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Kry Firefox vir Android"

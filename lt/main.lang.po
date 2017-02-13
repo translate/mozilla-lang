@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 05:09+0000\n"
+"POT-Creation-Date: 2017-02-13 15:10+0000\n"
 "PO-Revision-Date: 2016-03-14 22:32+0000\n"
 "Last-Translator: Rimas Kudelis <rq@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,153 +13,60 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"X-Generator: Translate Toolkit 2.0.0\n"
 "X-POOTLE-MTIME: 1457994739.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
 msgstr "Navigacija"
 
-#. Firefox family navigation menu. Main level item.
-#. Example: https://www-dev.allizom.org/firefox/os
-#: main.lang:7
-msgid "<span>for</span> Desktop"
-msgstr "<span>kompiuteriams</span>"
-
-#. Firefox family navigation menu. Main level item.
-#: main.lang:12
-msgid "<span>for</span> Android"
-msgstr "Android <span>įrenginiams</span>"
-
-#. Firefox family navigation menu. Main level item.
-#: main.lang:17
-msgid "<span>for</span> iOS"
-msgstr "iOS <span>įrenginiams</span>"
-
-#. Firefox family navigation menu. Main level item.
-#: main.lang:22
-msgid "OS"
-msgstr "OS"
-
-#. Used for the navigation menu only in Firefox OS pages
-#: main.lang:27
-msgid "TV"
-msgstr ""
-
 #. Used for the navigation menu, points to /firefox/channel
-#: main.lang:32
+#: main.lang:6
 msgid "Pre-release downloads"
 msgstr ""
 
-#. Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-#. You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-#: main.lang:38
-msgid "For desktops &amp; laptops"
-msgstr "Staliniams kompiuteriams"
-
-#. Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-#: main.lang:43
-msgid "For phones &amp; tablets"
-msgstr "Telefonams ir planšetėms"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:48
-msgid "Overview"
-msgstr "Apžvalga"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:53
-msgid "Trusted"
-msgstr "Patikima"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:58
-msgid "Flexible"
-msgstr "Lanksti"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:63
-msgid "Fast"
-msgstr "Sparti"
-
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:68
+#: main.lang:11
 msgid "About"
 msgstr "Apie"
 
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:73
-msgid "Devices"
-msgstr "Įrenginiai"
-
-#. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:78
-msgid "For partners"
-msgstr "Partneriams"
-
-#. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:83
+#: main.lang:16
 msgid "Apps"
 msgstr "Programos"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:88
+#: main.lang:21
 msgid "Do Not Track"
 msgstr "Nestebėti („Do Not Track“)"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:93
-msgid "Tiles"
-msgstr "Plytelės"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#. Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-#: main.lang:99
-msgid "Interest Dashboard"
-msgstr "Pomėgių statistika"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:104
+#: main.lang:26
 msgid "Developer Edition"
 msgstr "„Developer Edition“"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:109
+#: main.lang:31
 msgid "Private Browsing"
 msgstr "Privatusis naršymas"
 
 #. Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
-#: main.lang:114
+#: main.lang:36
 msgid "Need help?"
 msgstr "Reikia pagalbos?"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:119
+#: main.lang:41
 msgid "News"
 msgstr "Naujienos"
 
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:124
-msgid "For developers"
-msgstr "Programuotojams"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:129
-msgid "Find My Device"
-msgstr "Įrenginio ieška"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:134
-msgid "Developers"
-msgstr "Programuotojams"
-
 #. Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
-#: main.lang:139
+#: main.lang:46
 msgid "Choose the independent browser"
 msgstr "Rinkitės nepriklausomą naršyklę"
 
 #. Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
-#: main.lang:144
+#: main.lang:51
 msgid ""
 "Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox "
 "isn’t just choosing a browser. It’s a vote for personal freedom."
@@ -168,156 +75,151 @@ msgstr ""
 "nesukompromituota kitais būdais. Rinkdamiesi „Firefox“, ne tik renkatės "
 "naršyklę – tuo pačiu pasisakote ir už asmeninę laisvę."
 
-#: main.lang:148
+#: main.lang:55
 msgid "Donate"
 msgstr "Paaukokite"
 
-#: main.lang:152
+#: main.lang:59
 msgid "Support"
 msgstr "Palaikymas"
 
-#: main.lang:156
+#: main.lang:63
 msgid "Products"
 msgstr "Produktai"
 
-#: main.lang:160
+#: main.lang:67
 msgid "Add-ons"
 msgstr "Priedai"
 
-#: main.lang:164
+#: main.lang:71
 msgid "About Us"
 msgstr "Apie mus"
 
-#: main.lang:168
+#: main.lang:75
 msgid "Labs"
 msgstr "Laboratorija"
 
-#: main.lang:172
+#: main.lang:79
 msgid "skip to Navigation"
 msgstr "šokti į navigaciją"
 
-#: main.lang:176
+#: main.lang:83
 msgid "switch language"
 msgstr "pakeisti kalbą"
 
-#: main.lang:180
+#: main.lang:87
 msgid "Back to home page"
 msgstr "Grįžti į pradžios tinklalapį"
 
-#: main.lang:184
+#: main.lang:91
 msgid "About Mozilla"
 msgstr "Apie „Mozillą“"
 
-#: main.lang:188
+#: main.lang:95
 msgid "Get Involved"
 msgstr "Prisijunkite prie mūsų"
 
-#: main.lang:192
+#: main.lang:99
 msgid "Careers"
 msgstr "Karjeros galimybės"
 
-#: main.lang:196
+#: main.lang:103
 msgid "Press Center"
 msgstr "Spaudos centras"
 
-#: main.lang:200
+#: main.lang:107
 msgid "Contact Us"
 msgstr "Susisiekite su mumis"
 
-#: main.lang:204
+#: main.lang:111
 msgid "Other languages:"
 msgstr "Kitos kalbos:"
 
 #. Will replace "Other languages" for the footer's language switcher
-#: main.lang:209
+#: main.lang:116
 msgid "Page language:"
 msgstr ""
 
 #. Year / Month / Day, indicate your prefered date format for your language
-#: main.lang:214
+#: main.lang:121
 msgid "%Y-%m-%d"
 msgstr "%Y-%m-%d"
 
-#: main.lang:218
+#: main.lang:125
 msgid "Legal"
 msgstr "Teisinė informacija"
 
 #. Used as link in the footer
-#: main.lang:223
+#: main.lang:130
 msgid "Cookies"
 msgstr "Slapukai"
 
-#. Used as link in the footer
-#: main.lang:228
-msgid "Firefox Affiliates"
-msgstr "„Firefox“ skleidėjai"
-
-#: main.lang:232
+#: main.lang:134
 msgid "Legal Notices"
 msgstr "Teisinė informacija"
 
-#: main.lang:236
+#: main.lang:138
 msgid "Privacy Policy"
 msgstr "Privatumo nuostatai"
 
-#: main.lang:240
+#: main.lang:142
 msgid "Release Notes"
 msgstr "Laidos apžvalga"
 
-#: main.lang:244
+#: main.lang:146
 msgid "Other Systems and Languages"
 msgstr "Kitos sistemos ir kalbos"
 
-#: main.lang:248
+#: main.lang:150
 msgid "Close"
 msgstr "Užverti"
 
-#: main.lang:252
+#: main.lang:154
 msgid "(in English)"
 msgstr "(anglų kalba)"
 
-#: main.lang:256
+#: main.lang:158
 msgid "Return to top"
 msgstr "Grįžti į pradžią"
 
-#: main.lang:260
+#: main.lang:162
 msgid "Features"
 msgstr "Savybės"
 
-#: main.lang:264
+#: main.lang:166
 msgid "Customize"
 msgstr "Individualizavimas"
 
-#: main.lang:269
+#: main.lang:170
 msgid "Download"
 msgstr "Parsisiųsti"
 
-#: main.lang:273
+#: main.lang:174
 msgid "Previous"
 msgstr "Atgal"
 
-#: main.lang:277
+#: main.lang:178
 msgid "Next"
 msgstr "Toliau"
 
 #. MegaBytes abbreviation
-#: main.lang:282
+#: main.lang:183
 msgid "MB"
 msgstr "&nbsp;MB"
 
-#: main.lang:286
+#: main.lang:187
 msgid "MegaBytes"
 msgstr "megabaito"
 
-#: main.lang:290
+#: main.lang:191
 msgid "FAQ"
 msgstr "Klausimai ir atsakymai"
 
-#: main.lang:294
+#: main.lang:195
 msgid "Videos"
 msgstr "Vaizdo įrašai"
 
-#: main.lang:298
+#: main.lang:199
 msgid ""
 "Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
 "licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
@@ -327,139 +229,105 @@ msgstr ""
 "pateikiamas pagal<br /><a href=\"%s\">„Creative Commons Attribution Share-"
 "Alike 3.0“</a> arba vėlesnės versijos licenciją."
 
-#: main.lang:302
+#: main.lang:203
 msgid "Report Trademark Abuse"
 msgstr "Pranešti apie neleistiną prekės ženklo naudojimą"
 
-#: main.lang:306
+#: main.lang:207
 msgid "Free Upgrade"
 msgstr "Atnaujinkite nemokamai"
 
 #. social networks such as Facebook and Twitter
-#: main.lang:311
+#: main.lang:212
 msgid "Follow us on:"
 msgstr "Sekite mus:"
 
-#: main.lang:315
+#: main.lang:216
 msgid "Customize with Add-ons"
 msgstr "Papildykite priedais"
 
-#: main.lang:319
+#: main.lang:220
 msgid "Learn More"
 msgstr "Išsamiau"
 
 #. Same as previous above but with no capitalization on More
-#: main.lang:324
+#: main.lang:225
 msgid "Learn more"
 msgstr "Išsamiau"
 
 #. Link used to play again an animation or a video
-#: main.lang:329
+#: main.lang:230
 msgid "Replay"
 msgstr "Kartoti"
 
-#: main.lang:333
+#: main.lang:234
 msgid "Watch the video"
 msgstr "Žiūrėti vaizdo įrašą"
 
-#: main.lang:337
+#: main.lang:238
 msgid "Replay the video"
 msgstr "Kartoti vaizdo įrašą"
 
-#: main.lang:341
+#: main.lang:242
 msgid "Share the video"
 msgstr "Dalintis vaizdo įrašu"
 
-#: main.lang:345
+#: main.lang:246
 msgid "WebM format"
 msgstr "„WebM“ formatu"
 
-#: main.lang:349
+#: main.lang:250
 msgid "Ogg Theora format"
 msgstr "„Ogg Theora“ formatu"
 
-#: main.lang:353
+#: main.lang:254
 msgid "MPEG-4 format"
 msgstr "„MPEG-4“ formatu"
 
-#: main.lang:357
+#: main.lang:258
 msgid "Mobile"
 msgstr "Mobiliesiems"
 
-#: main.lang:361
-msgid "Check out the new look and feel of Firefox."
-msgstr "Išbandykite naująją „Firefox“ išvaizdą."
-
-#: main.lang:365
+#: main.lang:262
 msgid "View Full Site"
 msgstr "Į pilnos apimties svetainę"
 
-#: main.lang:369
-msgid "Download for <span>Android</span>"
-msgstr "Parsisiųsti į <span>Android</span>"
-
-#: main.lang:373
+#: main.lang:266
 msgid "Desktop"
 msgstr "Kompiuteriams"
 
-#: main.lang:377
-msgid "Firefox Beta for mobile"
-msgstr "„Firefox“ beta mobiliesiems"
-
-#: main.lang:381
+#: main.lang:270
 msgid "Firefox for mobile"
 msgstr "„Firefox“ mobiliesiems"
 
-#: main.lang:385
+#: main.lang:274
 msgid "Email"
 msgstr "El. paštas"
 
-#: main.lang:389
-msgid "Super speed"
-msgstr "Ypatinga sparta"
-
-#: main.lang:393
-msgid "Stunning graphics"
-msgstr "Naujos kartos grafika"
-
-#: main.lang:397
-msgid "The latest technologies"
-msgstr "Naujausios technologijos"
-
-#: main.lang:401
-msgid ""
-"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
-"new Firefox for the best in browsing and customization on the Web. <br/>   "
-"It’s fast and free!"
-msgstr ""
-"Jūsų naršyklę būtina atnaujinti! Tapkite saugūs vos per minutę. <br /> "
-"Pradėkite naudotis naująja „Firefox“ ir mėgaukitės patogiausiu naršymu ir "
-"išsamiausiu individualizavimu. <br /> Naujovinimas greitas ir nemokamas!"
-
-#: main.lang:405
+#: main.lang:278
 msgid "Upgrade now"
 msgstr "Naujovinti dabar"
 
-#: main.lang:409
+#: main.lang:282
 msgid "Update now"
 msgstr "Atnaujinti dabar"
 
-#: main.lang:413
+#: main.lang:286
 msgid "Supported Devices"
 msgstr "Palaikomi įrenginiai"
 
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-#: main.lang:418
+#: main.lang:291
 msgid "What’s New"
 msgstr "Naujovės"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
-#: main.lang:423
+#: main.lang:296
 msgid "Privacy"
 msgstr "Privatumas"
 
 #. Footer string
-#: main.lang:428
+#: main.lang:301
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
@@ -470,376 +338,281 @@ msgstr ""
 "Commons“ licencijos</a> sąlygomis."
 
 #. Footer string (will replace "Contribute to this page")
-#: main.lang:433
+#: main.lang:306
 msgid "Contribute to this site"
 msgstr "Prisidėkite prie šios svetainės vystymo"
 
 #. Footer string
-#: main.lang:438
+#: main.lang:311
 msgid "Contribute to this page"
 msgstr "Prisidėkite prie šio tinklalapio"
 
 #. Top menu item
-#: main.lang:443
+#: main.lang:316
 msgid "Mission"
 msgstr "Misija"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:448
+#: main.lang:321
 msgid "Tour"
 msgstr "Apžvalga"
 
-#. Footer item
-#: main.lang:453
-msgid "Partner with Us"
-msgstr "Bendradarbiaukime"
-
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:458
+#: main.lang:326
 msgid "Sync"
 msgstr "Sinchronizavimas"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:463
+#: main.lang:331
 msgid "Desktop Add-ons"
 msgstr "Priedai kompiuteryje"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:468
+#: main.lang:336
 msgid "Android Add-ons"
 msgstr "„Android“ priedai"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:473
+#: main.lang:341
 msgid "Themes"
 msgstr "Grafiniai apvalkalai"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:478
+#: main.lang:346
 msgid "Desktop Support"
 msgstr "Stalinės „Firefox“ palaikymas"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:483
+#: main.lang:351
 msgid "Android Support"
 msgstr "„Android“ palaikymas"
 
-#. Top menu item on firefox/update page
-#: main.lang:488
-msgid "Performance"
-msgstr "Našumas"
-
-#. Top menu item on firefox/update page
-#: main.lang:493
-msgid "Technology"
-msgstr "Technologija"
-
-#. Top menu item on firefox/update page
-#: main.lang:498
-msgid "Privacy &amp; Security"
-msgstr "Privatumas ir saugumas"
-
-#. Top menu item on firefox/update page
-#: main.lang:503
+#: main.lang:355
 msgid "Releases"
 msgstr "Laidos"
 
-#. Top menu item on firefox/update page
-#: main.lang:508
-msgid "Firefox"
-msgstr "Firefox"
-
-#. Top menu item on firefox/update page
-#: main.lang:513
-msgid "Firefox for Organizations"
-msgstr "„Firefox“ organizacijoms"
-
-#. Top menu item on firefox/update page
-#: main.lang:518
-msgid "Mobile Add-ons"
-msgstr "Priedai mobiliajame"
-
-#. Top menu item on firefox/update page
-#: main.lang:523
-msgid "Mobile Support"
-msgstr "Mobiliosios „Firefox“ palaikymas"
-
-#. Top menu item on firefox/update page
-#: main.lang:528
+#: main.lang:359
 msgid "Blog"
 msgstr "Tinklaraštis"
 
-#. Top menu item on firefox/update page
-#: main.lang:533
-msgid "About Firefox"
-msgstr "Apie „Firefox“"
-
-#. Top menu item on firefox/update page
-#: main.lang:538
-msgid "Join Mozilla"
-msgstr "Jungtis prie „Mozillos“"
-
-#. Top menu item on firefox/update page
-#: main.lang:543
-msgid "Participate"
-msgstr "Dalyvavimas"
-
-#. Will be used for the navigation. Translate as a verb (call to action), not a noun.
-#: main.lang:548
-msgid "Volunteer"
-msgstr "Savanorystė"
-
-#. Top menu item on firefox/update page
-#: main.lang:553
-msgid "Brand Toolkit"
-msgstr "Prekės ženklo vadovas"
-
-#. Top menu item on firefox/update page
-#: main.lang:558
-msgid "Partnerships"
-msgstr "Partnerystė"
-
 #. Newsletter subscription form above footer on some pages
-#: main.lang:563
+#: main.lang:364
 msgid "Get Mozilla updates"
 msgstr "„Mozillos“ naujienos"
 
 #. share button for social networks
-#: main.lang:568
+#: main.lang:369
 msgid "Share"
 msgstr "Dalintis"
 
 #. footer link
-#: main.lang:573
+#: main.lang:374
 msgid "Mozilla on Twitter"
 msgstr "„Mozilla“ „Twitter'yje“"
 
 #. footer link
-#: main.lang:578
+#: main.lang:379
 msgid "Firefox on Twitter"
 msgstr "„Firefox“ „Twitter'yje“"
 
 #. footer link
-#: main.lang:583
+#: main.lang:384
 msgid "Mozilla on Facebook"
 msgstr "„Mozilla“ „Facebook'e“"
 
 #. footer link
-#: main.lang:588
+#: main.lang:389
 msgid "Firefox on Facebook"
 msgstr "„Firefox“ „Facebook'e“"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:593
+#: main.lang:394
 msgid "Forums"
 msgstr "Forumai"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:598
+#: main.lang:399
 msgid "Patents"
 msgstr "Patentai"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:603
+#: main.lang:404
 msgid "Leadership"
 msgstr "Vadovybė"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:608
+#: main.lang:409
 msgid "Governance"
 msgstr "Valdymas"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:613
+#: main.lang:414
 msgid "History"
 msgstr "Istorija"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:618
+#: main.lang:419
 msgid "Our Products"
 msgstr "Mūsų produktai"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:623
+#: main.lang:424
 msgid "Software and other innovations designed to advance our mission."
 msgstr "Programinė įranga ir kitos inovacijos, sukurtos mūsų misijai plėtoti."
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:628
+#: main.lang:429
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "Tapkite savanoriu vienoje iš daugybės sričių."
 
 #. This is a non-visible string for blind people to indicate where the menu is
-#: main.lang:633
+#: main.lang:434
 msgid "Menu"
 msgstr "Meniu"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
-#: main.lang:638
+#: main.lang:439
 msgid "Committed to you, your privacy and an open Web"
 msgstr "Pašvęsta jums, jūsų privatumui ir atvirajam saitynui"
 
-#. Common title used in Fx 10 pages
-#: main.lang:643
-msgid "Choose Independent"
-msgstr "Rinkitės nepriklausomą"
-
-#. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-#. The '#ChooseIndependent' hashtag should not be translated.
-#: main.lang:650
-msgid ""
-"Keep the passion for a free and open Internet burning bright! "
-"#ChooseIndependent. Choose Firefox:"
-msgstr ""
-"Išlaikykime internetą laisvu ir atviru visiems! #ChooseIndependent. Rinkimės "
-"„Firefox“:"
-
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
-#: main.lang:656
+#: main.lang:444
 msgid "Please turn on JavaScript to display this page correctly."
 msgstr ""
 "Kad šis tinklalapis tinkamai veiktų, turite įgalinti „JavaScript“ scenarijų "
 "vykdymą."
 
 #. Used as link to /firefox/desktop in footers on some pages
-#: main.lang:661
+#: main.lang:449
 msgid "Firefox Features"
 msgstr "„Firefox“ savybės"
 
 #. Used as link to SUMO in footers on some pages
-#: main.lang:666
+#: main.lang:454
 msgid "Firefox Help"
 msgstr "„Firefox“ žinynas"
 
-#: main.lang:670
+#: main.lang:458
 msgid "January"
 msgstr "sausio"
 
-#: main.lang:674
+#: main.lang:462
 msgid "February"
 msgstr "vasario"
 
-#: main.lang:678
+#: main.lang:466
 msgid "March"
 msgstr "kovo"
 
-#: main.lang:682
+#: main.lang:470
 msgid "April"
 msgstr "balandžio"
 
-#: main.lang:686
+#: main.lang:474
 msgid "May"
 msgstr "gegužės"
 
-#: main.lang:690
+#: main.lang:478
 msgid "June"
 msgstr "birželio"
 
-#: main.lang:694
+#: main.lang:482
 msgid "July"
 msgstr "liepos"
 
-#: main.lang:698
+#: main.lang:486
 msgid "August"
 msgstr "rugpjūčio"
 
-#: main.lang:702
+#: main.lang:490
 msgid "September"
 msgstr "rugsėjo"
 
-#: main.lang:706
+#: main.lang:494
 msgid "October"
 msgstr "spalio"
 
-#: main.lang:710
+#: main.lang:498
 msgid "November"
 msgstr "lapkričio"
 
-#: main.lang:714
+#: main.lang:502
 msgid "December"
 msgstr "gruodžio"
 
-#: main.lang:718
+#: main.lang:506
 msgid "<abbr>Jan</abbr>"
 msgstr "<abbr>Sau</abbr>"
 
-#: main.lang:722
+#: main.lang:510
 msgid "<abbr>Feb</abbr>"
 msgstr "<abbr>Vas</abbr>"
 
-#: main.lang:726
+#: main.lang:514
 msgid "<abbr>Mar</abbr>"
 msgstr "<abbr>Kov</abbr>"
 
-#: main.lang:730
+#: main.lang:518
 msgid "<abbr>Apr</abbr>"
 msgstr "<abbr>Bal</abbr>"
 
-#: main.lang:734
+#: main.lang:522
 msgid "<abbr>May</abbr>"
 msgstr "<abbr>Geg</abbr>"
 
-#: main.lang:738
+#: main.lang:526
 msgid "<abbr>Jun</abbr>"
 msgstr "<abbr>Bir</abbr>"
 
-#: main.lang:742
+#: main.lang:530
 msgid "<abbr>Jul</abbr>"
 msgstr "<abbr>Lie</abbr>"
 
-#: main.lang:746
+#: main.lang:534
 msgid "<abbr>Aug</abbr>"
 msgstr "<abbr>Rgp</abbr>"
 
-#: main.lang:750
+#: main.lang:538
 msgid "<abbr>Sep</abbr>"
 msgstr "<abbr>Rgs</abbr>"
 
-#: main.lang:754
+#: main.lang:542
 msgid "<abbr>Oct</abbr>"
 msgstr "<abbr>Spl</abbr>"
 
-#: main.lang:758
+#: main.lang:546
 msgid "<abbr>Nov</abbr>"
 msgstr "<abbr>Lap</abbr>"
 
-#: main.lang:762
+#: main.lang:550
 msgid "<abbr>Dec</abbr>"
 msgstr "<abbr>Grd</abbr>"
 
-#. Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-#: main.lang:767
-msgid ""
-"Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
-msgstr ""
-"Netrukus „Firefox“ galėsite naudotis ir „iOS“ įrenginiuose! <a href="
-"\"{url}\">Prenumeruokite naujienlaiškį ir sužinokite daugiau</a>."
-
-#: main.lang:771
+#: main.lang:554
 msgid "Congrats. You’re up to date!"
 msgstr "Sveikiname, jūs atsinaujinę!"
 
 #. Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
-#: main.lang:776
+#: main.lang:559
 msgid "Format"
 msgstr "Formatas"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
-#: main.lang:781
+#: main.lang:564
 msgid "Text"
 msgstr "Grynasis tekstas"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
-#: main.lang:786
+#: main.lang:569
 msgid "HTML"
 msgstr "Raiškusis tekstas (HTML)"
 
 #. This is the error message displayed if you provide an invalid email address in a form
-#: main.lang:791
+#: main.lang:574
 msgid "Whoops! Be sure to enter a valid email address."
 msgstr "Oi! Įsitikinkite, jog įvedėte galiojantį el. pašto adresą."
 
-#: main.lang:795
+#: main.lang:578
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Notice</a>"
@@ -847,86 +620,60 @@ msgstr ""
 "Sutinku, kad „Mozilla“ tvarkytų mano duomenis kaip paaiškinta <a href=\"%s"
 "\">šioje pastaboje dėl privatumo</a>"
 
-#: main.lang:799
-msgid ""
-"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
-"Privacy Policy</a>"
-msgstr ""
-"Sutinku, kad „Mozilla“ tvarkytų mano duomenis kaip paaiškinta <a href=\"%s"
-"\">šiuose Privatumo nuostatuose</a>"
-
 #. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
-#: main.lang:804
+#: main.lang:583
 msgid "Keep up with<br> all things Firefox."
 msgstr ""
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: main.lang:809
+#: main.lang:588
 msgid "Get Firefox news"
 msgstr "Gaukite „Firefox“ naujienas"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:814
+#: main.lang:593
 msgid "YOUR EMAIL HERE"
 msgstr "JŪSŲ EL. PAŠTAS"
 
 #. Newsletter subscription Button
-#: main.lang:819
+#: main.lang:598
 #, fuzzy
 msgid "Sign Up Now"
 msgstr "Registruotis dabar"
 
 #. Old newsletter subscription Button
-#: main.lang:824
+#: main.lang:603
 msgid "Sign me up"
 msgstr "Prenumeruoti"
 
-#: main.lang:828
+#: main.lang:607
 msgid "Select country"
 msgstr "Pasirinkite šalį"
 
-#: main.lang:832
+#: main.lang:611
 msgid "Available Languages"
 msgstr "Galimos kalbos"
 
-#: main.lang:836
+#: main.lang:615
 msgid "We will only send you Mozilla-related information."
 msgstr "Mes jums siųsime tik su „Mozilla“ susijusią informaciją."
 
-#: main.lang:840
+#: main.lang:619
 msgid "Thanks!"
 msgstr "Ačiū!"
 
-#: main.lang:844
+#: main.lang:623
 msgid ""
 "If you haven’t previously confirmed a subscription to a Mozilla-related "
 "newsletter you may have to do so. Please check your inbox or your spam "
 "filter for an email from us."
 msgstr ""
 
-#. Obsolete string. Do not remove.
-#: main.lang:849
-msgid "Thanks! Please check your inbox to confirm your subscription."
-msgstr ""
-"Ačiū! Dabar prašome pasitikrinti savo el. pašto dėžutę ir patvirtinti "
-"prenumeratą."
-
-#. Obsolete string. Do not remove.
-#: main.lang:854
-msgid ""
-"You'll receive an email from mozilla@e.mozilla.org to confirm your "
-"subscription. If you don't see it, check your spam filter. You must confirm "
-"your subscription to receive our newsletter."
-msgstr ""
-"Netrukus iš mozilla@e.mozilla.org gausite laišką, prašantį patvirtinti "
-"prenumeratą. Jeigu jo nematote, paieškokite brukalo aplanke. Kad gautumėte "
-"naujienlaiškį, privalote patvirtinti prenumeratą."
-
-#: main.lang:858
+#: main.lang:627
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Sužinokite viską iš mūsų <span>naujienlaiškio</span>"
 
-#: main.lang:862
+#: main.lang:631
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
@@ -936,26 +683,187 @@ msgstr ""
 "naujienų, tuo pačiu gaudami aktualių „Firefox“ naudojimosi patarimų. Tai – "
 "puikus būdas palaikyti tarp mūsų ryšį!"
 
-#: main.lang:866
+#: main.lang:635
 #, fuzzy
 msgid "<span>Firefox</span> + You"
 msgstr "<span>Firefox</span> „iOS“ įrenginiams"
 
-#: main.lang:870
+#: main.lang:639
 msgid "Get Firefox tips, tricks, news and more"
 msgstr ""
 
 #. This string will be used as a navigation label in home page, pointing to /technology
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
-#: main.lang:876
+#: main.lang:645
 msgid "Web Innovations"
 msgstr ""
 
 #. This string will be used as a navigation label in home page, pointing to /internet-health
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
-#: main.lang:882
+#: main.lang:651
 msgid "Internet Health"
 msgstr ""
+
+#~ msgid "<span>for</span> Desktop"
+#~ msgstr "<span>kompiuteriams</span>"
+
+#~ msgid "<span>for</span> Android"
+#~ msgstr "Android <span>įrenginiams</span>"
+
+#~ msgid "<span>for</span> iOS"
+#~ msgstr "iOS <span>įrenginiams</span>"
+
+#~ msgid "OS"
+#~ msgstr "OS"
+
+#~ msgid "For desktops &amp; laptops"
+#~ msgstr "Staliniams kompiuteriams"
+
+#~ msgid "For phones &amp; tablets"
+#~ msgstr "Telefonams ir planšetėms"
+
+#~ msgid "Overview"
+#~ msgstr "Apžvalga"
+
+#~ msgid "Trusted"
+#~ msgstr "Patikima"
+
+#~ msgid "Flexible"
+#~ msgstr "Lanksti"
+
+#~ msgid "Fast"
+#~ msgstr "Sparti"
+
+#~ msgid "Devices"
+#~ msgstr "Įrenginiai"
+
+#~ msgid "For partners"
+#~ msgstr "Partneriams"
+
+#~ msgid "Tiles"
+#~ msgstr "Plytelės"
+
+#~ msgid "Interest Dashboard"
+#~ msgstr "Pomėgių statistika"
+
+#~ msgid "For developers"
+#~ msgstr "Programuotojams"
+
+#~ msgid "Find My Device"
+#~ msgstr "Įrenginio ieška"
+
+#~ msgid "Developers"
+#~ msgstr "Programuotojams"
+
+#~ msgid "Firefox Affiliates"
+#~ msgstr "„Firefox“ skleidėjai"
+
+#~ msgid "Check out the new look and feel of Firefox."
+#~ msgstr "Išbandykite naująją „Firefox“ išvaizdą."
+
+#~ msgid "Download for <span>Android</span>"
+#~ msgstr "Parsisiųsti į <span>Android</span>"
+
+#~ msgid "Firefox Beta for mobile"
+#~ msgstr "„Firefox“ beta mobiliesiems"
+
+#~ msgid "Super speed"
+#~ msgstr "Ypatinga sparta"
+
+#~ msgid "Stunning graphics"
+#~ msgstr "Naujos kartos grafika"
+
+#~ msgid "The latest technologies"
+#~ msgstr "Naujausios technologijos"
+
+#~ msgid ""
+#~ "You need an upgrade! Stay safe in less than a minute. <br/> Start using "
+#~ "your new Firefox for the best in browsing and customization on the Web. "
+#~ "<br/>   It’s fast and free!"
+#~ msgstr ""
+#~ "Jūsų naršyklę būtina atnaujinti! Tapkite saugūs vos per minutę. <br /> "
+#~ "Pradėkite naudotis naująja „Firefox“ ir mėgaukitės patogiausiu naršymu ir "
+#~ "išsamiausiu individualizavimu. <br /> Naujovinimas greitas ir nemokamas!"
+
+#~ msgid "Partner with Us"
+#~ msgstr "Bendradarbiaukime"
+
+#~ msgid "Performance"
+#~ msgstr "Našumas"
+
+#~ msgid "Technology"
+#~ msgstr "Technologija"
+
+#~ msgid "Privacy &amp; Security"
+#~ msgstr "Privatumas ir saugumas"
+
+#~ msgid "Firefox"
+#~ msgstr "Firefox"
+
+#~ msgid "Firefox for Organizations"
+#~ msgstr "„Firefox“ organizacijoms"
+
+#~ msgid "Mobile Add-ons"
+#~ msgstr "Priedai mobiliajame"
+
+#~ msgid "Mobile Support"
+#~ msgstr "Mobiliosios „Firefox“ palaikymas"
+
+#~ msgid "About Firefox"
+#~ msgstr "Apie „Firefox“"
+
+#~ msgid "Join Mozilla"
+#~ msgstr "Jungtis prie „Mozillos“"
+
+#~ msgid "Participate"
+#~ msgstr "Dalyvavimas"
+
+#~ msgid "Volunteer"
+#~ msgstr "Savanorystė"
+
+#~ msgid "Brand Toolkit"
+#~ msgstr "Prekės ženklo vadovas"
+
+#~ msgid "Partnerships"
+#~ msgstr "Partnerystė"
+
+#~ msgid "Choose Independent"
+#~ msgstr "Rinkitės nepriklausomą"
+
+#~ msgid ""
+#~ "Keep the passion for a free and open Internet burning bright! "
+#~ "#ChooseIndependent. Choose Firefox:"
+#~ msgstr ""
+#~ "Išlaikykime internetą laisvu ir atviru visiems! #ChooseIndependent. "
+#~ "Rinkimės „Firefox“:"
+
+#~ msgid ""
+#~ "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</"
+#~ "a>."
+#~ msgstr ""
+#~ "Netrukus „Firefox“ galėsite naudotis ir „iOS“ įrenginiuose! <a href="
+#~ "\"{url}\">Prenumeruokite naujienlaiškį ir sužinokite daugiau</a>."
+
+#~ msgid ""
+#~ "I’m okay with Mozilla handling my info as explained in <a href=\"%s"
+#~ "\">this Privacy Policy</a>"
+#~ msgstr ""
+#~ "Sutinku, kad „Mozilla“ tvarkytų mano duomenis kaip paaiškinta <a href=\"%s"
+#~ "\">šiuose Privatumo nuostatuose</a>"
+
+#~ msgid "Thanks! Please check your inbox to confirm your subscription."
+#~ msgstr ""
+#~ "Ačiū! Dabar prašome pasitikrinti savo el. pašto dėžutę ir patvirtinti "
+#~ "prenumeratą."
+
+#~ msgid ""
+#~ "You'll receive an email from mozilla@e.mozilla.org to confirm your "
+#~ "subscription. If you don't see it, check your spam filter. You must "
+#~ "confirm your subscription to receive our newsletter."
+#~ msgstr ""
+#~ "Netrukus iš mozilla@e.mozilla.org gausite laišką, prašantį patvirtinti "
+#~ "prenumeratą. Jeigu jo nematote, paieškokite brukalo aplanke. Kad "
+#~ "gautumėte naujienlaiškį, privalote patvirtinti prenumeratą."
 
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Parsisiųskite „Firefox“ „Android’ui“"

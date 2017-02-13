@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-23 19:09+0000\n"
+"POT-Creation-Date: 2017-02-13 15:10+0000\n"
 "PO-Revision-Date: 2016-11-24 10:35+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -12,153 +12,60 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Translate Toolkit 2.0.0\n"
 "X-POOTLE-MTIME: 1479983719.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
 msgstr "Llywio"
 
-#. Firefox family navigation menu. Main level item.
-#. Example: https://www-dev.allizom.org/firefox/os
-#: main.lang:7
-msgid "<span>for</span> Desktop"
-msgstr "<span>ar gyfer y</span> Bwrdd Gwaith"
-
-#. Firefox family navigation menu. Main level item.
-#: main.lang:12
-msgid "<span>for</span> Android"
-msgstr "<span>ar gyfer </span> Android"
-
-#. Firefox family navigation menu. Main level item.
-#: main.lang:17
-msgid "<span>for</span> iOS"
-msgstr "<span>ar gyfer</span> iOS"
-
-#. Firefox family navigation menu. Main level item.
-#: main.lang:22
-msgid "OS"
-msgstr "OS"
-
-#. Used for the navigation menu only in Firefox OS pages
-#: main.lang:27
-msgid "TV"
-msgstr "Teledu"
-
 #. Used for the navigation menu, points to /firefox/channel
-#: main.lang:32
+#: main.lang:6
 msgid "Pre-release downloads"
 msgstr "Fersiynau cyn eu ryddhau"
 
-#. Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-#. You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
-#: main.lang:38
-msgid "For desktops &amp; laptops"
-msgstr "Ar gyfer cyfrifiaduron bwrdd gwaith a gliniaduron"
-
-#. Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
-#: main.lang:43
-msgid "For phones &amp; tablets"
-msgstr "Ar gyfer ffonau a thabledi"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:48
-msgid "Overview"
-msgstr "Trosolwg"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:53
-msgid "Trusted"
-msgstr "Ymddiriedaeth"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:58
-msgid "Flexible"
-msgstr "Hyblygrwydd"
-
-#. Firefox family navigation menu. Second-level item shared across different menus.
-#: main.lang:63
-msgid "Fast"
-msgstr "Cyflymder"
-
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:68
+#: main.lang:11
 msgid "About"
 msgstr "Ynghylch"
 
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:73
-msgid "Devices"
-msgstr "Dyfeisiadau"
-
-#. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:78
-msgid "For partners"
-msgstr "Ar gyfer partneriaid"
-
-#. Used in the new Firefox family navigation menu. Second-level item of "OS"
-#: main.lang:83
+#: main.lang:16
 msgid "Apps"
 msgstr "Apiau"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:88
+#: main.lang:21
 msgid "Do Not Track"
 msgstr "Dim Tracio"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:93
-msgid "Tiles"
-msgstr "Teils"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#. Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
-#: main.lang:99
-msgid "Interest Dashboard"
-msgstr "Bwrdd Gwaith Diddordeb"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:104
+#: main.lang:26
 msgid "Developer Edition"
 msgstr "Developer Edition"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:109
+#: main.lang:31
 msgid "Private Browsing"
 msgstr "Pori Preifat"
 
 #. Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
-#: main.lang:114
+#: main.lang:36
 msgid "Need help?"
 msgstr "Angen cymorth?"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:119
+#: main.lang:41
 msgid "News"
 msgstr "Newyddion"
 
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:124
-msgid "For developers"
-msgstr "Ar gyfer datblygwyr"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:129
-msgid "Find My Device"
-msgstr "Canfod fy Nyfais"
-
-#. Firefox family navigation menu. Item displayed pressing the "…" button.
-#: main.lang:134
-msgid "Developers"
-msgstr "Datblygwyr"
-
 #. Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
-#: main.lang:139
+#: main.lang:46
 msgid "Choose the independent browser"
 msgstr "Dewiswch y porwr annibynnol"
 
 #. Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
-#: main.lang:144
+#: main.lang:51
 msgid ""
 "Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox "
 "isn’t just choosing a browser. It’s a vote for personal freedom."
@@ -167,156 +74,151 @@ msgstr ""
 "dewis Firefox ddim ynglŷn â dewis porwr. Mae'n bleidlais dros ryddid "
 "personol."
 
-#: main.lang:148
+#: main.lang:55
 msgid "Donate"
 msgstr "Cyfrannu"
 
-#: main.lang:152
+#: main.lang:59
 msgid "Support"
 msgstr "Cefnogaeth"
 
-#: main.lang:156
+#: main.lang:63
 msgid "Products"
 msgstr "Cynnyrch"
 
-#: main.lang:160
+#: main.lang:67
 msgid "Add-ons"
 msgstr "Ychwanegion"
 
-#: main.lang:164
+#: main.lang:71
 msgid "About Us"
 msgstr "Amdanom ni"
 
-#: main.lang:168
+#: main.lang:75
 msgid "Labs"
 msgstr "Labordai"
 
-#: main.lang:172
+#: main.lang:79
 msgid "skip to Navigation"
 msgstr "neidio i Llywio"
 
-#: main.lang:176
+#: main.lang:83
 msgid "switch language"
 msgstr "newid iaith"
 
-#: main.lang:180
+#: main.lang:87
 msgid "Back to home page"
 msgstr "Nôl i'r dudalen gartref"
 
-#: main.lang:184
+#: main.lang:91
 msgid "About Mozilla"
 msgstr "Ynghylch Mozilla"
 
-#: main.lang:188
+#: main.lang:95
 msgid "Get Involved"
 msgstr "Ymuno â ni"
 
-#: main.lang:192
+#: main.lang:99
 msgid "Careers"
 msgstr "Gyrfaoedd"
 
-#: main.lang:196
+#: main.lang:103
 msgid "Press Center"
 msgstr "Canolfan y Wasg"
 
-#: main.lang:200
+#: main.lang:107
 msgid "Contact Us"
 msgstr "Cysylltu â ni"
 
-#: main.lang:204
+#: main.lang:111
 msgid "Other languages:"
 msgstr "Ieithoedd eraill:"
 
 #. Will replace "Other languages" for the footer's language switcher
-#: main.lang:209
+#: main.lang:116
 msgid "Page language:"
 msgstr "Iaith y dudalen:"
 
 #. Year / Month / Day, indicate your prefered date format for your language
-#: main.lang:214
+#: main.lang:121
 msgid "%Y-%m-%d"
 msgstr "%Y-%m-%d"
 
-#: main.lang:218
+#: main.lang:125
 msgid "Legal"
 msgstr "Cyfreithiol"
 
 #. Used as link in the footer
-#: main.lang:223
+#: main.lang:130
 msgid "Cookies"
 msgstr "Cwcis"
 
-#. Used as link in the footer
-#: main.lang:228
-msgid "Firefox Affiliates"
-msgstr "Cysyllteion Firefox"
-
-#: main.lang:232
+#: main.lang:134
 msgid "Legal Notices"
 msgstr "Hysbysiadau Cyfreithiol"
 
-#: main.lang:236
+#: main.lang:138
 msgid "Privacy Policy"
 msgstr "Polisi Preifatrwydd"
 
-#: main.lang:240
+#: main.lang:142
 msgid "Release Notes"
 msgstr "Nodiadau rhyddhau"
 
-#: main.lang:244
+#: main.lang:146
 msgid "Other Systems and Languages"
 msgstr "Systemau ac Ieithoedd Eraill"
 
-#: main.lang:248
+#: main.lang:150
 msgid "Close"
 msgstr "Cau"
 
-#: main.lang:252
+#: main.lang:154
 msgid "(in English)"
 msgstr "(yn Saesneg)"
 
-#: main.lang:256
+#: main.lang:158
 msgid "Return to top"
 msgstr "Dychwelyd i'r brig"
 
-#: main.lang:260
+#: main.lang:162
 msgid "Features"
 msgstr "Nodweddion"
 
-#: main.lang:264
+#: main.lang:166
 msgid "Customize"
 msgstr "Cyfaddasu"
 
-#: main.lang:269
+#: main.lang:170
 msgid "Download"
 msgstr "Llwytho i Lawr"
 
-#: main.lang:273
+#: main.lang:174
 msgid "Previous"
 msgstr "Blaenorol"
 
-#: main.lang:277
+#: main.lang:178
 msgid "Next"
 msgstr "Nesaf"
 
 #. MegaBytes abbreviation
-#: main.lang:282
+#: main.lang:183
 msgid "MB"
 msgstr "MB"
 
-#: main.lang:286
+#: main.lang:187
 msgid "MegaBytes"
 msgstr "MegaBeit"
 
-#: main.lang:290
+#: main.lang:191
 msgid "FAQ"
 msgstr "Cwestiynau Cyffredin"
 
-#: main.lang:294
+#: main.lang:195
 msgid "Videos"
 msgstr "Fideos"
 
-#: main.lang:298
+#: main.lang:199
 msgid ""
 "Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
 "licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
@@ -326,139 +228,105 @@ msgstr ""
 "ei drwyddedu o dan amodau <br /><a href=\"%s\">Creative Commons Attribution "
 "Share-Alike License v3.0</a> neu unrhyw fersiwn diweddarach."
 
-#: main.lang:302
+#: main.lang:203
 msgid "Report Trademark Abuse"
 msgstr "Adrodd am Gamddefnyddio Nod Masnach"
 
-#: main.lang:306
+#: main.lang:207
 msgid "Free Upgrade"
 msgstr "Diweddaru am Ddim"
 
 #. social networks such as Facebook and Twitter
-#: main.lang:311
+#: main.lang:212
 msgid "Follow us on:"
 msgstr "Dilyn ni ar:"
 
-#: main.lang:315
+#: main.lang:216
 msgid "Customize with Add-ons"
 msgstr "Cyfaddasu gydag Ychwanegion"
 
-#: main.lang:319
+#: main.lang:220
 msgid "Learn More"
 msgstr "Dysgu Rhagor"
 
 #. Same as previous above but with no capitalization on More
-#: main.lang:324
+#: main.lang:225
 msgid "Learn more"
 msgstr "Dysgu rhagor"
 
 #. Link used to play again an animation or a video
-#: main.lang:329
+#: main.lang:230
 msgid "Replay"
 msgstr "Chwarae eto"
 
-#: main.lang:333
+#: main.lang:234
 msgid "Watch the video"
 msgstr "Gwylio'r fideo"
 
-#: main.lang:337
+#: main.lang:238
 msgid "Replay the video"
 msgstr "Ail chwarae'r fideo"
 
-#: main.lang:341
+#: main.lang:242
 msgid "Share the video"
 msgstr "Rhannu'r fideo"
 
-#: main.lang:345
+#: main.lang:246
 msgid "WebM format"
 msgstr "Fformat WebM"
 
-#: main.lang:349
+#: main.lang:250
 msgid "Ogg Theora format"
 msgstr "Fformat Ogg Theora"
 
-#: main.lang:353
+#: main.lang:254
 msgid "MPEG-4 format"
 msgstr "Fformat MPEG-4"
 
-#: main.lang:357
+#: main.lang:258
 msgid "Mobile"
 msgstr "Symudol"
 
-#: main.lang:361
-msgid "Check out the new look and feel of Firefox."
-msgstr "Defnyddiwch Firefox ar ei newydd wedd."
-
-#: main.lang:365
+#: main.lang:262
 msgid "View Full Site"
 msgstr "Gweld y Wefan Gyfan"
 
-#: main.lang:369
-msgid "Download for <span>Android</span>"
-msgstr "Llwytho i lawr ar gyfer <span>Android</span>"
-
-#: main.lang:373
+#: main.lang:266
 msgid "Desktop"
 msgstr "Bwrdd Gwaith"
 
-#: main.lang:377
-msgid "Firefox Beta for mobile"
-msgstr "Firefox Beta ar gyfer ffonau symudol"
-
-#: main.lang:381
+#: main.lang:270
 msgid "Firefox for mobile"
 msgstr "Firefox ar gyfer ffonau symudol"
 
-#: main.lang:385
+#: main.lang:274
 msgid "Email"
 msgstr "E-bost"
 
-#: main.lang:389
-msgid "Super speed"
-msgstr "Cyflym iawn"
-
-#: main.lang:393
-msgid "Stunning graphics"
-msgstr "Graffigau trawiadol"
-
-#: main.lang:397
-msgid "The latest technologies"
-msgstr "Y technolegau diweddaraf"
-
-#: main.lang:401
-msgid ""
-"You need an upgrade! Stay safe in less than a minute. <br/> Start using your "
-"new Firefox for the best in browsing and customization on the Web. <br/>   "
-"It’s fast and free!"
-msgstr ""
-"Mae angen diweddariad arnoch! Cadwch yn ddiogel mewn llai na munud. <br/> "
-"Cychwynnwch ddefnyddio eich Firefox newydd i gael y pori a'r cyfaddasu gorau "
-"ar y We. <br/>   Mae'n gyflym ac am ddim!"
-
-#: main.lang:405
+#: main.lang:278
 msgid "Upgrade now"
 msgstr "Diweddarwch yn awr"
 
-#: main.lang:409
+#: main.lang:282
 msgid "Update now"
 msgstr "Diweddarwch yn awr"
 
-#: main.lang:413
+#: main.lang:286
 msgid "Supported Devices"
 msgstr "Dyfeisiau Cymeradwy"
 
 #. This is the equivalent of 'Release Notes' but shorter, used next to download buttons
-#: main.lang:418
+#: main.lang:291
 msgid "What’s New"
 msgstr "Be sy'n Newydd"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
-#: main.lang:423
+#: main.lang:296
 msgid "Privacy"
 msgstr "Preifatrwydd"
 
 #. Footer string
-#: main.lang:428
+#: main.lang:301
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
@@ -469,373 +337,279 @@ msgstr ""
 "Creative Commons</a>."
 
 #. Footer string (will replace "Contribute to this page")
-#: main.lang:433
+#: main.lang:306
 msgid "Contribute to this site"
 msgstr "Cyfrannwch i'r wefan hon"
 
 #. Footer string
-#: main.lang:438
+#: main.lang:311
 msgid "Contribute to this page"
 msgstr "Cyfrannwch i'r dudalen hon"
 
 #. Top menu item
-#: main.lang:443
+#: main.lang:316
 msgid "Mission"
 msgstr "Amcan"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:448
+#: main.lang:321
 msgid "Tour"
 msgstr "Cyflwyniad"
 
-#. Footer item
-#: main.lang:453
-msgid "Partner with Us"
-msgstr "Partneru gyda Ni"
-
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:458
+#: main.lang:326
 msgid "Sync"
 msgstr "Cydweddu"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:463
+#: main.lang:331
 msgid "Desktop Add-ons"
 msgstr "Ychwanegion Bwrdd Gwaith"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:468
+#: main.lang:336
 msgid "Android Add-ons"
 msgstr "Ychwanegion Android"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:473
+#: main.lang:341
 msgid "Themes"
 msgstr "Themâu"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:478
+#: main.lang:346
 msgid "Desktop Support"
 msgstr "Cynnal y Bwrdd Gwaith"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:483
+#: main.lang:351
 msgid "Android Support"
 msgstr "Cefnogaeth Android"
 
-#. Top menu item on firefox/update page
-#: main.lang:488
-msgid "Performance"
-msgstr "Perfformiad"
-
-#. Top menu item on firefox/update page
-#: main.lang:493
-msgid "Technology"
-msgstr "Technoleg"
-
-#. Top menu item on firefox/update page
-#: main.lang:498
-msgid "Privacy &amp; Security"
-msgstr "Preifatrwydd a Diogelwch"
-
-#. Top menu item on firefox/update page
-#: main.lang:503
+#: main.lang:355
 msgid "Releases"
 msgstr "Rhyddhau"
 
-#. Top menu item on firefox/update page
-#: main.lang:508
-msgid "Firefox"
-msgstr "Firefox"
-
-#. Top menu item on firefox/update page
-#: main.lang:513
-msgid "Firefox for Organizations"
-msgstr "Firefox far gyfer Cyrff"
-
-#. Top menu item on firefox/update page
-#: main.lang:518
-msgid "Mobile Add-ons"
-msgstr "Ychwanegion Symudol"
-
-#. Top menu item on firefox/update page
-#: main.lang:523
-msgid "Mobile Support"
-msgstr "Cynnal y Symudol"
-
-#. Top menu item on firefox/update page
-#: main.lang:528
+#: main.lang:359
 msgid "Blog"
 msgstr "Blog"
 
-#. Top menu item on firefox/update page
-#: main.lang:533
-msgid "About Firefox"
-msgstr "Ynghylch Firefox"
-
-#. Top menu item on firefox/update page
-#: main.lang:538
-msgid "Join Mozilla"
-msgstr "Ymuno â Mozilla"
-
-#. Top menu item on firefox/update page
-#: main.lang:543
-msgid "Participate"
-msgstr "Cymryd Rhan"
-
-#. Will be used for the navigation. Translate as a verb (call to action), not a noun.
-#: main.lang:548
-msgid "Volunteer"
-msgstr "Gwirfoddoli"
-
-#. Top menu item on firefox/update page
-#: main.lang:553
-msgid "Brand Toolkit"
-msgstr "Offer Nod Masnach"
-
-#. Top menu item on firefox/update page
-#: main.lang:558
-msgid "Partnerships"
-msgstr "Partneriaethau"
-
 #. Newsletter subscription form above footer on some pages
-#: main.lang:563
+#: main.lang:364
 msgid "Get Mozilla updates"
 msgstr "Derbyn diweddariadau Mozilla"
 
 #. share button for social networks
-#: main.lang:568
+#: main.lang:369
 msgid "Share"
 msgstr "Rhannu"
 
 #. footer link
-#: main.lang:573
+#: main.lang:374
 msgid "Mozilla on Twitter"
 msgstr "Mozilla ar Twitter"
 
 #. footer link
-#: main.lang:578
+#: main.lang:379
 msgid "Firefox on Twitter"
 msgstr "Firefox ar Twitter"
 
 #. footer link
-#: main.lang:583
+#: main.lang:384
 msgid "Mozilla on Facebook"
 msgstr "Mozilla ar Facebook"
 
 #. footer link
-#: main.lang:588
+#: main.lang:389
 msgid "Firefox on Facebook"
 msgstr "Firefox ar Facebook"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:593
+#: main.lang:394
 msgid "Forums"
 msgstr "Fforymau"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:598
+#: main.lang:399
 msgid "Patents"
 msgstr "Patentau"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:603
+#: main.lang:404
 msgid "Leadership"
 msgstr "Arweinyddiaeth"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:608
+#: main.lang:409
 msgid "Governance"
 msgstr "Llywodraethu"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:613
+#: main.lang:414
 msgid "History"
 msgstr "Hanes"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:618
+#: main.lang:419
 msgid "Our Products"
 msgstr "Ein Cynnyrch"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:623
+#: main.lang:424
 msgid "Software and other innovations designed to advance our mission."
 msgstr "Meddalwedd ac arloesedd sy'n gyrru'n cenhadaeth yn ei flaen."
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:628
+#: main.lang:429
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "Dewch i wirfoddoli mewn nifer o wahanol feysydd."
 
 #. This is a non-visible string for blind people to indicate where the menu is
-#: main.lang:633
+#: main.lang:434
 msgid "Menu"
 msgstr "Dewislen"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
-#: main.lang:638
+#: main.lang:439
 msgid "Committed to you, your privacy and an open Web"
 msgstr "Yn ymroddedig i chi, eich preifatrwydd ac i'r We agored"
 
-#. Common title used in Fx 10 pages
-#: main.lang:643
-msgid "Choose Independent"
-msgstr "Dewiswch Annibynnol"
-
-#. Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
-#. The '#ChooseIndependent' hashtag should not be translated.
-#: main.lang:650
-msgid ""
-"Keep the passion for a free and open Internet burning bright! "
-"#ChooseIndependent. Choose Firefox:"
-msgstr ""
-"Cadwch y brwdfrydedd am ryngrwyd rhydd ac agored yn fyw! #ChooseIndependent. "
-"Dewiswch Firefox:"
-
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
-#: main.lang:656
+#: main.lang:444
 msgid "Please turn on JavaScript to display this page correctly."
 msgstr "Cychwynnwch JavaScript i ddangos y dudalen yn iawn."
 
 #. Used as link to /firefox/desktop in footers on some pages
-#: main.lang:661
+#: main.lang:449
 msgid "Firefox Features"
 msgstr "Nodweddion Firefox"
 
 #. Used as link to SUMO in footers on some pages
-#: main.lang:666
+#: main.lang:454
 msgid "Firefox Help"
 msgstr "Cymorth Firefox"
 
-#: main.lang:670
+#: main.lang:458
 msgid "January"
 msgstr "Ionawr"
 
-#: main.lang:674
+#: main.lang:462
 msgid "February"
 msgstr "Chwefror"
 
-#: main.lang:678
+#: main.lang:466
 msgid "March"
 msgstr "Mawrth"
 
-#: main.lang:682
+#: main.lang:470
 msgid "April"
 msgstr "Ebrill"
 
-#: main.lang:686
+#: main.lang:474
 msgid "May"
 msgstr "Mai"
 
-#: main.lang:690
+#: main.lang:478
 msgid "June"
 msgstr "Mehefin"
 
-#: main.lang:694
+#: main.lang:482
 msgid "July"
 msgstr "Gorffennaf"
 
-#: main.lang:698
+#: main.lang:486
 msgid "August"
 msgstr "Awst"
 
-#: main.lang:702
+#: main.lang:490
 msgid "September"
 msgstr "Medi"
 
-#: main.lang:706
+#: main.lang:494
 msgid "October"
 msgstr "Hydref"
 
-#: main.lang:710
+#: main.lang:498
 msgid "November"
 msgstr "Tachwedd"
 
-#: main.lang:714
+#: main.lang:502
 msgid "December"
 msgstr "Rhagfyr"
 
-#: main.lang:718
+#: main.lang:506
 msgid "<abbr>Jan</abbr>"
 msgstr "<abbr>Ion</abbr>"
 
-#: main.lang:722
+#: main.lang:510
 msgid "<abbr>Feb</abbr>"
 msgstr "<abbr>Chw</abbr>"
 
-#: main.lang:726
+#: main.lang:514
 msgid "<abbr>Mar</abbr>"
 msgstr "<abbr>Maw</abbr>"
 
-#: main.lang:730
+#: main.lang:518
 msgid "<abbr>Apr</abbr>"
 msgstr "<abbr>Ebr</abbr>"
 
-#: main.lang:734
+#: main.lang:522
 msgid "<abbr>May</abbr>"
 msgstr "<abbr>Mai</abbr>"
 
-#: main.lang:738
+#: main.lang:526
 msgid "<abbr>Jun</abbr>"
 msgstr "<abbr>Meh</abbr>"
 
-#: main.lang:742
+#: main.lang:530
 msgid "<abbr>Jul</abbr>"
 msgstr "<abbr>Gor</abbr>"
 
-#: main.lang:746
+#: main.lang:534
 msgid "<abbr>Aug</abbr>"
 msgstr "<abbr>Aws</abbr>"
 
-#: main.lang:750
+#: main.lang:538
 msgid "<abbr>Sep</abbr>"
 msgstr "<abbr>Med</abbr>"
 
-#: main.lang:754
+#: main.lang:542
 msgid "<abbr>Oct</abbr>"
 msgstr "<abbr>Hyd</abbr>"
 
-#: main.lang:758
+#: main.lang:546
 msgid "<abbr>Nov</abbr>"
 msgstr "<abbr>Tac</abbr>"
 
-#: main.lang:762
+#: main.lang:550
 msgid "<abbr>Dec</abbr>"
 msgstr "<abbr>Rha</abbr>"
 
-#. Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
-#: main.lang:767
-msgid ""
-"Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</a>."
-msgstr ""
-"Mae Firefox y dod i iOS cyn bo hir! <a href=\"{url}\">Dysgu rhagor</a>."
-
-#: main.lang:771
+#: main.lang:554
 msgid "Congrats. You’re up to date!"
 msgstr "Llongyfarchiadau. Rydych yn gyfredol!"
 
 #. Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
-#: main.lang:776
+#: main.lang:559
 msgid "Format"
 msgstr "Fformat"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
-#: main.lang:781
+#: main.lang:564
 msgid "Text"
 msgstr "Testun"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
-#: main.lang:786
+#: main.lang:569
 msgid "HTML"
 msgstr "HTML"
 
 #. This is the error message displayed if you provide an invalid email address in a form
-#: main.lang:791
+#: main.lang:574
 msgid "Whoops! Be sure to enter a valid email address."
 msgstr "Wps! Cofiwch roi cyfeiriad e-bost dilys."
 
-#: main.lang:795
+#: main.lang:578
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Notice</a>"
@@ -843,56 +617,48 @@ msgstr ""
 "Rwy'n fodlon i Mozilla drin fy manylion fel mae'n cael ei esbonio yn y <a "
 "href=\"%s\">Datganiad Preifatrwydd hwn</a>"
 
-#: main.lang:799
-msgid ""
-"I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
-"Privacy Policy</a>"
-msgstr ""
-"Rwy'n fodlon i Mozilla drin fy ngwybodaeth fel mae'n cael ei esbonio yn <a "
-"href=\"%s\">y polisi Preifatrwydd hwn</a>"
-
 #. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
-#: main.lang:804
+#: main.lang:583
 msgid "Keep up with<br> all things Firefox."
 msgstr "Cadw'n gyfredol<br> gyda phopeth Firefox."
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: main.lang:809
+#: main.lang:588
 msgid "Get Firefox news"
 msgstr "Derbyn newyddion Firefox"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:814
+#: main.lang:593
 msgid "YOUR EMAIL HERE"
 msgstr "EICH E-BOST YMA"
 
 #. Newsletter subscription Button
-#: main.lang:819
+#: main.lang:598
 msgid "Sign Up Now"
 msgstr "Cofrestrwch nawr"
 
 #. Old newsletter subscription Button
-#: main.lang:824
+#: main.lang:603
 msgid "Sign me up"
 msgstr "Cofrestru"
 
-#: main.lang:828
+#: main.lang:607
 msgid "Select country"
 msgstr "Dewis gwlad"
 
-#: main.lang:832
+#: main.lang:611
 msgid "Available Languages"
 msgstr "Ieithoedd sydd ar Gael"
 
-#: main.lang:836
+#: main.lang:615
 msgid "We will only send you Mozilla-related information."
 msgstr "Dim ond gwybodaeth am Mozilla fyddwn ni'n anfon atoch."
 
-#: main.lang:840
+#: main.lang:619
 msgid "Thanks!"
 msgstr "Diolch!"
 
-#: main.lang:844
+#: main.lang:623
 msgid ""
 "If you haven’t previously confirmed a subscription to a Mozilla-related "
 "newsletter you may have to do so. Please check your inbox or your spam "
@@ -902,27 +668,11 @@ msgstr ""
 "Mozilla, rhaid i chi wneud hynny nawr. Gwiriwch eich blwch i mewn neu eich "
 "hidl sbam am e-bost gennym ni."
 
-#. Obsolete string. Do not remove.
-#: main.lang:849
-msgid "Thanks! Please check your inbox to confirm your subscription."
-msgstr "Diolch! Gwiriwch eich Blwch Derbyn i gadarnhau eich tanysgrifiad."
-
-#. Obsolete string. Do not remove.
-#: main.lang:854
-msgid ""
-"You'll receive an email from mozilla@e.mozilla.org to confirm your "
-"subscription. If you don't see it, check your spam filter. You must confirm "
-"your subscription to receive our newsletter."
-msgstr ""
-"Byddwch yn derbyn e-bost oddi wrth mozilla@e.mozilla.org i gadarnhau eich "
-"tanysgrifiad. Os nad yw i'w weld, gwiriwch eich hidl sbam. Rhaid i chi "
-"gadarnhau eich tanysgrifiad er mwyn derbyn y newyddlen."
-
-#: main.lang:858
+#: main.lang:627
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Darllen ein newyddion yn ein <span>newyddlen</span>"
 
-#: main.lang:862
+#: main.lang:631
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
@@ -932,25 +682,186 @@ msgstr ""
 "Mozilla, gan gynnwys y ffyrdd o gael y gorau allan o'ch porwr Firefox. "
 "Dyma'r ffordd berffaith i ni gadw mewn cysylltiad!"
 
-#: main.lang:866
+#: main.lang:635
 msgid "<span>Firefox</span> + You"
 msgstr "<span>Firefox</span> + Chi"
 
-#: main.lang:870
+#: main.lang:639
 msgid "Get Firefox tips, tricks, news and more"
 msgstr "Cewch gynghorion, triciau, newyddion a rhagor"
 
 #. This string will be used as a navigation label in home page, pointing to /technology
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
-#: main.lang:876
+#: main.lang:645
 msgid "Web Innovations"
 msgstr "Arloesedd Gwe"
 
 #. This string will be used as a navigation label in home page, pointing to /internet-health
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
-#: main.lang:882
+#: main.lang:651
 msgid "Internet Health"
 msgstr "Iechyd y Rhyngrwyd"
+
+#~ msgid "<span>for</span> Desktop"
+#~ msgstr "<span>ar gyfer y</span> Bwrdd Gwaith"
+
+#~ msgid "<span>for</span> Android"
+#~ msgstr "<span>ar gyfer </span> Android"
+
+#~ msgid "<span>for</span> iOS"
+#~ msgstr "<span>ar gyfer</span> iOS"
+
+#~ msgid "OS"
+#~ msgstr "OS"
+
+#~ msgid "TV"
+#~ msgstr "Teledu"
+
+#~ msgid "For desktops &amp; laptops"
+#~ msgstr "Ar gyfer cyfrifiaduron bwrdd gwaith a gliniaduron"
+
+#~ msgid "For phones &amp; tablets"
+#~ msgstr "Ar gyfer ffonau a thabledi"
+
+#~ msgid "Overview"
+#~ msgstr "Trosolwg"
+
+#~ msgid "Trusted"
+#~ msgstr "Ymddiriedaeth"
+
+#~ msgid "Flexible"
+#~ msgstr "Hyblygrwydd"
+
+#~ msgid "Fast"
+#~ msgstr "Cyflymder"
+
+#~ msgid "Devices"
+#~ msgstr "Dyfeisiadau"
+
+#~ msgid "For partners"
+#~ msgstr "Ar gyfer partneriaid"
+
+#~ msgid "Tiles"
+#~ msgstr "Teils"
+
+#~ msgid "Interest Dashboard"
+#~ msgstr "Bwrdd Gwaith Diddordeb"
+
+#~ msgid "For developers"
+#~ msgstr "Ar gyfer datblygwyr"
+
+#~ msgid "Find My Device"
+#~ msgstr "Canfod fy Nyfais"
+
+#~ msgid "Developers"
+#~ msgstr "Datblygwyr"
+
+#~ msgid "Firefox Affiliates"
+#~ msgstr "Cysyllteion Firefox"
+
+#~ msgid "Check out the new look and feel of Firefox."
+#~ msgstr "Defnyddiwch Firefox ar ei newydd wedd."
+
+#~ msgid "Download for <span>Android</span>"
+#~ msgstr "Llwytho i lawr ar gyfer <span>Android</span>"
+
+#~ msgid "Firefox Beta for mobile"
+#~ msgstr "Firefox Beta ar gyfer ffonau symudol"
+
+#~ msgid "Super speed"
+#~ msgstr "Cyflym iawn"
+
+#~ msgid "Stunning graphics"
+#~ msgstr "Graffigau trawiadol"
+
+#~ msgid "The latest technologies"
+#~ msgstr "Y technolegau diweddaraf"
+
+#~ msgid ""
+#~ "You need an upgrade! Stay safe in less than a minute. <br/> Start using "
+#~ "your new Firefox for the best in browsing and customization on the Web. "
+#~ "<br/>   It’s fast and free!"
+#~ msgstr ""
+#~ "Mae angen diweddariad arnoch! Cadwch yn ddiogel mewn llai na munud. <br/> "
+#~ "Cychwynnwch ddefnyddio eich Firefox newydd i gael y pori a'r cyfaddasu "
+#~ "gorau ar y We. <br/>   Mae'n gyflym ac am ddim!"
+
+#~ msgid "Partner with Us"
+#~ msgstr "Partneru gyda Ni"
+
+#~ msgid "Performance"
+#~ msgstr "Perfformiad"
+
+#~ msgid "Technology"
+#~ msgstr "Technoleg"
+
+#~ msgid "Privacy &amp; Security"
+#~ msgstr "Preifatrwydd a Diogelwch"
+
+#~ msgid "Firefox"
+#~ msgstr "Firefox"
+
+#~ msgid "Firefox for Organizations"
+#~ msgstr "Firefox far gyfer Cyrff"
+
+#~ msgid "Mobile Add-ons"
+#~ msgstr "Ychwanegion Symudol"
+
+#~ msgid "Mobile Support"
+#~ msgstr "Cynnal y Symudol"
+
+#~ msgid "About Firefox"
+#~ msgstr "Ynghylch Firefox"
+
+#~ msgid "Join Mozilla"
+#~ msgstr "Ymuno â Mozilla"
+
+#~ msgid "Participate"
+#~ msgstr "Cymryd Rhan"
+
+#~ msgid "Volunteer"
+#~ msgstr "Gwirfoddoli"
+
+#~ msgid "Brand Toolkit"
+#~ msgstr "Offer Nod Masnach"
+
+#~ msgid "Partnerships"
+#~ msgstr "Partneriaethau"
+
+#~ msgid "Choose Independent"
+#~ msgstr "Dewiswch Annibynnol"
+
+#~ msgid ""
+#~ "Keep the passion for a free and open Internet burning bright! "
+#~ "#ChooseIndependent. Choose Firefox:"
+#~ msgstr ""
+#~ "Cadwch y brwdfrydedd am ryngrwyd rhydd ac agored yn fyw! "
+#~ "#ChooseIndependent. Dewiswch Firefox:"
+
+#~ msgid ""
+#~ "Firefox is coming soon to iOS! <a href=\"{url}\">Sign up to learn more</"
+#~ "a>."
+#~ msgstr ""
+#~ "Mae Firefox y dod i iOS cyn bo hir! <a href=\"{url}\">Dysgu rhagor</a>."
+
+#~ msgid ""
+#~ "I’m okay with Mozilla handling my info as explained in <a href=\"%s"
+#~ "\">this Privacy Policy</a>"
+#~ msgstr ""
+#~ "Rwy'n fodlon i Mozilla drin fy ngwybodaeth fel mae'n cael ei esbonio yn "
+#~ "<a href=\"%s\">y polisi Preifatrwydd hwn</a>"
+
+#~ msgid "Thanks! Please check your inbox to confirm your subscription."
+#~ msgstr "Diolch! Gwiriwch eich Blwch Derbyn i gadarnhau eich tanysgrifiad."
+
+#~ msgid ""
+#~ "You'll receive an email from mozilla@e.mozilla.org to confirm your "
+#~ "subscription. If you don't see it, check your spam filter. You must "
+#~ "confirm your subscription to receive our newsletter."
+#~ msgstr ""
+#~ "Byddwch yn derbyn e-bost oddi wrth mozilla@e.mozilla.org i gadarnhau eich "
+#~ "tanysgrifiad. Os nad yw i'w weld, gwiriwch eich hidl sbam. Rhaid i chi "
+#~ "gadarnhau eich tanysgrifiad er mwyn derbyn y newyddlen."
 
 #~ msgid "Get Firefox for Android"
 #~ msgstr "Estyn Firefox Android"
