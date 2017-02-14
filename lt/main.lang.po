@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-02-13 17:10+0000\n"
-"PO-Revision-Date: 2016-03-14 22:32+0000\n"
+"PO-Revision-Date: 2017-02-14 08:06+0000\n"
 "Last-Translator: Rimas Kudelis <rq@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lt\n"
@@ -13,8 +13,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
-"X-POOTLE-MTIME: 1457994739.000000\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1487059609.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -23,7 +23,7 @@ msgstr "Navigacija"
 #. Used for the navigation menu, points to /firefox/channel
 #: main.lang:6
 msgid "Pre-release downloads"
-msgstr ""
+msgstr "Tarpinės laidos"
 
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
 #: main.lang:11
@@ -144,7 +144,7 @@ msgstr "Kitos kalbos:"
 #. Will replace "Other languages" for the footer's language switcher
 #: main.lang:122
 msgid "Page language:"
-msgstr ""
+msgstr "Tinklalapio kalba:"
 
 #. Year / Month / Day, indicate your prefered date format for your language
 #: main.lang:127
@@ -620,7 +620,7 @@ msgstr ""
 #. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 #: main.lang:580
 msgid "Keep up with<br> all things Firefox."
-msgstr ""
+msgstr "Neatsilikite nuo<br> „Firefox“ naujienų."
 
 #. This string is used for a subscription field on other pages than /newsletter/
 #: main.lang:585
@@ -634,9 +634,8 @@ msgstr "JŪSŲ EL. PAŠTAS"
 
 #. Newsletter subscription Button
 #: main.lang:595
-#, fuzzy
 msgid "Sign Up Now"
-msgstr "Registruotis dabar"
+msgstr "Prenumeruoti"
 
 #. Old newsletter subscription Button
 #: main.lang:600
@@ -665,6 +664,9 @@ msgid ""
 "newsletter you may have to do so. Please check your inbox or your spam "
 "filter for an email from us."
 msgstr ""
+"Jei nesate anksčiau patvirtinę kurio nors „Mozillos“ naujienlaiškio "
+"prenumeratos, turbūt turėsite tai padaryti dabar. Dėl visa ko patikrinkite "
+"ir savo brukalo aplanką – galbūt mūsų laiškas netyčia atsidurs jame."
 
 #: main.lang:624
 msgid "Read all about it in our <span>newsletter</span>"
@@ -681,25 +683,24 @@ msgstr ""
 "puikus būdas palaikyti tarp mūsų ryšį!"
 
 #: main.lang:632
-#, fuzzy
 msgid "<span>Firefox</span> + You"
-msgstr "<span>Firefox</span> „iOS“ įrenginiams"
+msgstr "<span>Firefox</span> + jūs"
 
 #: main.lang:636
 msgid "Get Firefox tips, tricks, news and more"
-msgstr ""
+msgstr "Gaukite su „Firefox“ susijusius patarimus, naujienas ir kt."
 
 #. This string will be used as a navigation label in home page, pointing to /technology
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 #: main.lang:642
 msgid "Web Innovations"
-msgstr ""
+msgstr "Saityno inovacijos"
 
 #. This string will be used as a navigation label in home page, pointing to /internet-health
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 #: main.lang:648
 msgid "Internet Health"
-msgstr ""
+msgstr "Interneto būklė"
 
 #~ msgid "Supported Devices"
 #~ msgstr "Palaikomi įrenginiai"
