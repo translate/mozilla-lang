@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-02-06 20:09+0000\n"
-"PO-Revision-Date: 2017-02-15 20:59+0000\n"
+"PO-Revision-Date: 2017-02-15 21:21+0000\n"
 "Last-Translator: Rimas Kudelis <rq@akl.lt>\n"
 "Language-Team: none\n"
 "Language: lt\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1487192389.000000\n"
+"X-POOTLE-MTIME: 1487193698.000000\n"
 
 #: firefox/dnt.lang:6
 msgid ""
@@ -111,10 +111,16 @@ msgid ""
 "Browser Tools. From the Preferences pane, tap on the box next to &quot;Tell "
 "sites not to track me&quot; to turn this option on or off."
 msgstr ""
+"Taip. „Firefox“ „Android“ įrenginiams yra pirmoji mobilioji saityno "
+"naršyklė, turinti „Do Not Track“ funkciją, ir joje ši funkcija veikia taip "
+"pat, kaip stalinėje „Firefox“. Jei norite „Do Not Track“ įjungti savo "
+"„Firefox“ naršyklėje „Android“ įrenginyje, atverkite jos nuostatas, "
+"pasirinkite nuostatų kategoriją „Privatumas“ ir įjunkite parinktį "
+"„Nestebėti“."
 
 #: firefox/dnt.lang:54
 msgid "Does Do Not Track block ads?"
-msgstr ""
+msgstr "Ar „Do Not Track“ funkcija blokuoja reklamas?"
 
 #: firefox/dnt.lang:58
 msgid ""
@@ -125,10 +131,15 @@ msgid ""
 "your privacy preferences, you will see more generic ads in place of "
 "behavioral ads."
 msgstr ""
+"Ne, reklamas matysite ir įgalinę šią funkciją. Tačiau „Do Not Track“ gali "
+"įtakoti tai, kokias reklamas matysite. Tikslinės reklamos yra parenkamos, "
+"remiantis jūsų pomėgiais, naršomomis svetainėmis ir paieškos žodžiais. Jei "
+"įgalinsite funkciją „Nestebėti“, o lankomos svetainės gerbs šią nuostatą, "
+"jums vietoje tikslinių reklamų bus rodomos bendresnio pobūdžio reklamos."
 
 #: firefox/dnt.lang:62
 msgid "How does Do Not Track work with other privacy tools?"
-msgstr ""
+msgstr "Kaip „Do Not Track“ veikia su kitomis privatumo priemonėmis?"
 
 #: firefox/dnt.lang:66
 msgid ""
@@ -137,10 +148,15 @@ msgid ""
 "mechanism. There are several other <a href=\"%(url)s\">privacy and security</"
 "a> features within Firefox."
 msgstr ""
+"„Do Not Track“ funkcija – tik vienas iš daugelio privatumą įtakojančių "
+"veiksnių. Ji jokiu būdu nepakeičia antivirusinės programinės įrangos, "
+"nepadeda šifruoti duomenų ir nėra saugumo priemonė. „Firefox“ naršyklėje yra "
+"keletas kitų <a href=\"%(url)s\">privatumo ir saugumo</a> priemonių, "
+"nepriklausomų nuo „Do Not Track“."
 
 #: firefox/dnt.lang:70
 msgid "Will Do Not Track affect the rest of my Web experience?"
-msgstr ""
+msgstr "Ar „Do Not Track“ įtakoja kitus naršymo potyrius?"
 
 #: firefox/dnt.lang:74
 msgid ""
