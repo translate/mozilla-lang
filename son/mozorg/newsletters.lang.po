@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-13 21:10+0000\n"
+"POT-Creation-Date: 2017-03-14 10:10+0000\n"
 "PO-Revision-Date: 2017-01-23 23:29+0000\n"
 "Last-Translator: Mohomodou  Houssouba <mh@bollag-areal.ch>\n"
 "Language-Team: none\n"
@@ -31,27 +31,44 @@ msgstr "Laama suuba"
 msgid "Country:"
 msgstr "Laama:"
 
-#. # TAG: mozilla_newsletter_2017
+#. Headline in /newsletter
 #: mozorg/newsletters.lang:24
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "War haya kul caw a ga ir <span>alhabar batagaa</span> ra"
+
+#. # TAG: mozilla_newsletter_2017
+#. Subtitle in /newsletter
+#: mozorg/newsletters.lang:30
 msgid ""
 "Subscribe to updates and keep current with Mozilla news. It’s the perfect "
 "way for us to keep in touch!"
 msgstr ""
 
+#. Obsolete string, do not remove
+#: mozorg/newsletters.lang:35
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"War boŋ-hantum ka duu handu-kul taagandirey nda sohõda Mozilla alhabarey, "
+"sanda carmay yaamarey ka dii Firefox ceecikaa fellaa. Woo ti fondo "
+"cerecerantaa ka cindi alhabar taagey bande!"
+
 #. # TAG: newsletter_confirm_2016
-#: mozorg/newsletters.lang:29
+#: mozorg/newsletters.lang:40
 msgid "You’re awesome!"
 msgstr ""
 
 #. # TAG: newsletter_confirm_2016
-#: mozorg/newsletters.lang:34
+#: mozorg/newsletters.lang:45
 msgid ""
 "And we’re not just saying that because you trusted us with your email "
 "address."
 msgstr ""
 
 #. # TAG: newsletter_confirm_2016
-#: mozorg/newsletters.lang:39
+#: mozorg/newsletters.lang:50
 #, fuzzy
 msgid ""
 "Please be sure to add mozilla@e.mozilla.org to your address book to ensure "
@@ -61,54 +78,54 @@ msgstr ""
 "war aderesu tiiraa ga k'alhakiika ir ga too war duuyan bata do."
 
 #. # TAG: newsletter_confirm_2016
-#: mozorg/newsletters.lang:44
+#: mozorg/newsletters.lang:55
 msgid "Mozilla touches on a variety of important issues."
 msgstr ""
 
 #. # TAG: newsletter_confirm_2016
-#: mozorg/newsletters.lang:49
+#: mozorg/newsletters.lang:60
 msgid ""
 "Open your inbox (and your heart) even more — take a look at other topics we "
 "cover."
 msgstr ""
 
-#: mozorg/newsletters.lang:53
+#: mozorg/newsletters.lang:64
 msgid "Love the web? So do we!"
 msgstr ""
 
-#: mozorg/newsletters.lang:57
+#: mozorg/newsletters.lang:68
 msgid ""
 "Join thousands of developers like you who are learning the best of web "
 "development."
 msgstr ""
 
-#: mozorg/newsletters.lang:61
+#: mozorg/newsletters.lang:72
 msgid ""
 "If you don’t like the Mozilla developer newsletter, you can easily "
 "unsubscribe (but we think you’ll like it)."
 msgstr ""
 
 #. Form submit button on the Student Ambassador newsletter subscription form
-#: mozorg/newsletters.lang:66
+#: mozorg/newsletters.lang:77
 msgid "Sign me up!"
 msgstr "Ay hantum!"
 
-#: mozorg/newsletters.lang:70
+#: mozorg/newsletters.lang:81
 msgid "Thanks for Subscribing!"
 msgstr "Foo nda war maa-hantumyan!"
 
-#: mozorg/newsletters.lang:74
+#: mozorg/newsletters.lang:85
 msgid "Your newsletter subscription has been confirmed."
 msgstr "War alhabar bataga duuyan waafakaa tabati sohõ."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:79
+#: mozorg/newsletters.lang:90
 #, fuzzy
 msgid "Firefox + You"
 msgstr "Firefox nda war"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox + You)
-#: mozorg/newsletters.lang:84
+#: mozorg/newsletters.lang:95
 msgid ""
 "A monthly newsletter and special announcements giving you tips to improve "
 "your experience with Firefox on your desktop and Android device."
@@ -117,13 +134,13 @@ msgstr ""
 "nda war ga goy nda Firefox war ordinateroo nda Android jinawey ga."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:89
+#: mozorg/newsletters.lang:100
 #, fuzzy
 msgid "Firefox OS + You"
 msgstr "Firefox nda war"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS + You)
-#: mozorg/newsletters.lang:94
+#: mozorg/newsletters.lang:105
 msgid ""
 "A monthly newsletter and special announcements on how to get the most from "
 "your Firefox OS device, including the latest features and coolest Firefox "
@@ -134,32 +151,32 @@ msgstr ""
 "Marketplaceporogaramize kul ihenney."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:100
+#: mozorg/newsletters.lang:111
 msgid "Firefox Accounts Tips"
 msgstr ""
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-#: mozorg/newsletters.lang:105
+#: mozorg/newsletters.lang:116
 msgid "Get the most out of your Firefox Account."
 msgstr ""
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:111
+#: mozorg/newsletters.lang:122
 msgid "Mozilla Communities"
 msgstr "Mozilla jamaawey"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Communities)
-#: mozorg/newsletters.lang:116
+#: mozorg/newsletters.lang:127
 msgid "Bringing you the best new opportunities to help support the open Web."
 msgstr "Ga nafaw kul iboryey kate ka gaa ka interneti feerantaa jer."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:121
+#: mozorg/newsletters.lang:132
 msgid "Firefox Student Ambassadors"
 msgstr "Firefox lokkolizey diyawey"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
-#: mozorg/newsletters.lang:126
+#: mozorg/newsletters.lang:137
 msgid ""
 "A monthly newsletter on how to get involved with Mozilla on your campus."
 msgstr ""
@@ -167,12 +184,12 @@ msgstr ""
 "cawdogoo ra."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:131
+#: mozorg/newsletters.lang:142
 msgid "Firefox Affiliates"
 msgstr "Firefox kondantey"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
-#: mozorg/newsletters.lang:136
+#: mozorg/newsletters.lang:147
 msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
@@ -181,56 +198,56 @@ msgstr ""
 "taagey."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:141
+#: mozorg/newsletters.lang:152
 #, fuzzy
 msgid "Mozilla Developer Newsletter"
 msgstr "Mozilla Developer Network"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Developer Newsletter)
-#: mozorg/newsletters.lang:146
+#: mozorg/newsletters.lang:157
 msgid ""
 "A developer's guide to highlights of Web platform innovations, best "
 "practices, new documentation and more."
 msgstr ""
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:151
+#: mozorg/newsletters.lang:162
 msgid "Mozillians"
 msgstr "Mozilla kondayzey"
 
 #. Description for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:156
+#: mozorg/newsletters.lang:167
 msgid "Email updates for vouched Mozillians on mozillians.org."
 msgstr "Bataga hantum Mozilla-izey se kaŋyan ga duu faaba mozillians.org ga."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:161
+#: mozorg/newsletters.lang:172
 msgid "Firefox for desktop"
 msgstr "Firefox ordinater še"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for desktop)
-#: mozorg/newsletters.lang:166
+#: mozorg/newsletters.lang:177
 msgid "Don’t miss the latest announcements about our desktop browser."
 msgstr "War ma ši jaŋ bangandiyan kokorantey ir ordinateroo ceecikaa ga."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:171
+#: mozorg/newsletters.lang:182
 #, fuzzy
 msgid "Firefox for Android"
 msgstr "Firefox zaa Android še"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for Android)
-#: mozorg/newsletters.lang:176
+#: mozorg/newsletters.lang:187
 msgid "Keep up with releases and news about Firefox for Android."
 msgstr "Wa dii fattarey taagey nd'alhabarey Firefox ga Android se."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:181
+#: mozorg/newsletters.lang:192
 msgid "Mozilla"
 msgstr "Mozilla"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla)
-#: mozorg/newsletters.lang:186
+#: mozorg/newsletters.lang:197
 msgid ""
 "Special announcements and messages from the team dedicated to keeping the "
 "Web free and open."
@@ -239,159 +256,159 @@ msgstr ""
 "interneti ma cindi ka tee forba nda feerante."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:191
+#: mozorg/newsletters.lang:202
 msgid "Firefox OS smartphone owner?"
 msgstr "Firefox OS talfon carma koy?"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
-#: mozorg/newsletters.lang:196
+#: mozorg/newsletters.lang:207
 msgid "Don’t miss important news and updates about your Firefox OS device."
 msgstr "Wa ši alhabar nda taagandirey sahãntey hoo war Firefox OS jinaa se."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:201
+#: mozorg/newsletters.lang:212
 #, fuzzy
 msgid "Firefox iOS"
 msgstr "Firefox OS"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox iOS)
-#: mozorg/newsletters.lang:206
+#: mozorg/newsletters.lang:217
 msgid "Be the first to know when Firefox is available for iOS devices."
 msgstr "Wa tee boro jinaa kaŋ ga bay waati kaŋ Firefox fatta iOS jinawey se."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:211
+#: mozorg/newsletters.lang:222
 msgid "Firefox Flicks"
 msgstr "Firefox Flicks"
 
-#: mozorg/newsletters.lang:215
+#: mozorg/newsletters.lang:226
 msgid "Periodic email updates about our annual international film competition."
 msgstr ""
 "Waati-waati bataga bayrandi taagey ir jiirikul adduɲɲa filim kalalaa ga."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:220
+#: mozorg/newsletters.lang:231
 msgid "Beta News"
 msgstr "Šiiyan dumi alhabar"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:225
+#: mozorg/newsletters.lang:236
 #, fuzzy
 msgid "Mozilla Foundation"
 msgstr "The Mozilla Foundation"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Foundation)
-#: mozorg/newsletters.lang:230
+#: mozorg/newsletters.lang:241
 msgid ""
 "News and special updates about our work to promote openness, innovation and "
 "participation on the Internet, including ways for you to get involved."
 msgstr ""
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:235
+#: mozorg/newsletters.lang:246
 msgid "Shape of the Web"
 msgstr "Interneti alhaaloo"
 
 #. Description for the newsletter in Newsletter subscription page (Shape of the Web)
-#: mozorg/newsletters.lang:240
+#: mozorg/newsletters.lang:251
 msgid "News and information related to the health of the web."
 msgstr ""
 
-#: mozorg/newsletters.lang:244
+#: mozorg/newsletters.lang:255
 msgid "About Addons"
 msgstr ""
 
-#: mozorg/newsletters.lang:248
+#: mozorg/newsletters.lang:259
 msgid "Firefox OS"
 msgstr "Firefox OS"
 
-#: mozorg/newsletters.lang:252
+#: mozorg/newsletters.lang:263
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr "Firefox OS alhabar, alhiila nda kaatarayyan nda daydoo šilbay."
 
-#: mozorg/newsletters.lang:257
+#: mozorg/newsletters.lang:268
 msgid "We can keep in touch with occasional messages that matter most to you."
 msgstr ""
 "Ir ga hin ka alhabarey kaŋ ga tee war se sanba war se waati ka kaa waati."
 
-#: mozorg/newsletters.lang:261
+#: mozorg/newsletters.lang:272
 msgid "Submit"
 msgstr "Sanba"
 
-#: mozorg/newsletters.lang:265
+#: mozorg/newsletters.lang:276
 msgid "Find out how!"
 msgstr "Guna taka foo!"
 
-#: mozorg/newsletters.lang:269
+#: mozorg/newsletters.lang:280
 msgid "Newsletters"
 msgstr "Alhabar batagawey"
 
-#: mozorg/newsletters.lang:273
+#: mozorg/newsletters.lang:284
 msgid "About us"
 msgstr "Iri ga"
 
-#: mozorg/newsletters.lang:277
+#: mozorg/newsletters.lang:288
 msgid "I didn't sign up for this."
 msgstr "Ya n'ay boŋ hantum woo se."
 
-#: mozorg/newsletters.lang:281
+#: mozorg/newsletters.lang:292
 msgid "Save Preferences"
 msgstr "Ibaayey gaabu"
 
-#: mozorg/newsletters.lang:285
+#: mozorg/newsletters.lang:296
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
 msgstr "Dobu noontaa buu. War ga duu itaaga foo hiiino alhabar tiiraa ra."
 
-#: mozorg/newsletters.lang:289
+#: mozorg/newsletters.lang:300
 msgid "Get up and go"
 msgstr "Tun ka koy"
 
-#: mozorg/newsletters.lang:293
+#: mozorg/newsletters.lang:304
 msgid "Subscribe"
 msgstr "Maa hantum"
 
-#: mozorg/newsletters.lang:297
+#: mozorg/newsletters.lang:308
 msgid ""
 "Set your preferences below to make sure you always receive the news you want."
 msgstr ""
 "War ibaayey kayandi ganda k'alhakiika kaŋ war ga duu waati kul alhabarey kaŋ "
 "war ga baa."
 
-#: mozorg/newsletters.lang:301
+#: mozorg/newsletters.lang:312
 msgid "You send too many emails."
 msgstr "War na bataga boobo sanba."
 
-#: mozorg/newsletters.lang:305
+#: mozorg/newsletters.lang:316
 msgid "Getting too much email from us?"
 msgstr "Bataga boobo ma hun ir do war se?"
 
-#: mozorg/newsletters.lang:309
+#: mozorg/newsletters.lang:320
 msgid "Would you mind telling us why you’re leaving?"
 msgstr "Sabbu foo ka too war ma soobay k'ir naŋ?"
 
-#: mozorg/newsletters.lang:313
+#: mozorg/newsletters.lang:324
 msgid "Get Firefox for mobile!"
 msgstr "Firefox za kanbe talfon se!"
 
-#: mozorg/newsletters.lang:317
+#: mozorg/newsletters.lang:328
 msgid "What’s Mozilla all about?"
 msgstr "Cin no Mozilla ga tee?"
 
-#: mozorg/newsletters.lang:321
+#: mozorg/newsletters.lang:332
 msgid "I’m interested in:"
 msgstr "Ay ga boona:"
 
-#: mozorg/newsletters.lang:325
+#: mozorg/newsletters.lang:336
 msgid "Format:"
 msgstr "Takari:"
 
-#: mozorg/newsletters.lang:329
+#: mozorg/newsletters.lang:340
 msgid "Your content wasn't relevant to me."
 msgstr "Gundekuna ši nd'ay še nafaw."
 
-#: mozorg/newsletters.lang:333
+#: mozorg/newsletters.lang:344
 msgid ""
 "Don’t forget to check your inbox to confirm your request to get Firefox for "
 "iOS updates. If you don’t see an email from mozilla@e.mozilla.org, check "
@@ -399,63 +416,63 @@ msgid ""
 "updates."
 msgstr ""
 
-#: mozorg/newsletters.lang:337
+#: mozorg/newsletters.lang:348
 msgid "Firefox"
 msgstr "Firefox"
 
-#: mozorg/newsletters.lang:341
+#: mozorg/newsletters.lang:352
 msgid "We’re sorry to see you go."
 msgstr "War koyroo ga t'ir še ɲimši."
 
-#: mozorg/newsletters.lang:345
+#: mozorg/newsletters.lang:356
 msgid "title"
 msgstr "maa"
 
-#: mozorg/newsletters.lang:349
+#: mozorg/newsletters.lang:360
 msgid "Firefox is coming soon to iOS!"
 msgstr "Firefox ga kaa iOS ga kayna da!"
 
-#: mozorg/newsletters.lang:353
+#: mozorg/newsletters.lang:364
 msgid "It’s your Web anywhere you go."
 msgstr "War internetoo no nungu kul kaŋ war ga koy."
 
-#: mozorg/newsletters.lang:357
+#: mozorg/newsletters.lang:368
 msgid "Your email design was too hard to read."
 msgstr "War batagaa fasalroo cawoo ga šendi."
 
-#: mozorg/newsletters.lang:361
+#: mozorg/newsletters.lang:372
 msgid "Please enter a valid email address"
 msgstr "Bataga aderesu henna hantum"
 
-#: mozorg/newsletters.lang:365
+#: mozorg/newsletters.lang:376
 msgid "Newsletter Subscriptions"
 msgstr "Alhabar tiira maa-hantumyan"
 
-#: mozorg/newsletters.lang:369
+#: mozorg/newsletters.lang:380
 msgid "Unsubscribe"
 msgstr "Maa-kaa"
 
-#: mozorg/newsletters.lang:373
+#: mozorg/newsletters.lang:384
 msgid "Mozilla Newsletter"
 msgstr "Mozilla alhabar bataga"
 
-#: mozorg/newsletters.lang:377
+#: mozorg/newsletters.lang:388
 msgid "Thanks for updating your email preferences."
 msgstr "Foo nda war bataga ibaayey taagandiroo."
 
-#: mozorg/newsletters.lang:381
+#: mozorg/newsletters.lang:392
 msgid "We’re glad you asked!"
 msgstr "A kan ir še kaŋ war hãa!"
 
-#: mozorg/newsletters.lang:385
+#: mozorg/newsletters.lang:396
 msgid "Firefox on iOS — Sign up for email updates — Mozilla"
 msgstr "Firefox iOS ga — Maa hantum ka duu bataga taagandirey — Mozilla"
 
-#: mozorg/newsletters.lang:389
+#: mozorg/newsletters.lang:400
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr "Madaray, haya foo ši boori ir dabariɲaŋoo ra! A filla nd'a too kayna."
 
-#: mozorg/newsletters.lang:393
+#: mozorg/newsletters.lang:404
 msgid ""
 "Check all categories that apply to you, and we promise to keep the mail to a "
 "minimum."
@@ -463,91 +480,91 @@ msgstr ""
 "Guna dumey kul kaŋ ra war foo, nd'ir ga war noo allaahidu kaŋ ir ga "
 "batagawey žabu."
 
-#: mozorg/newsletters.lang:397
+#: mozorg/newsletters.lang:408
 msgid "description"
 msgstr "šilbayyan"
 
-#: mozorg/newsletters.lang:401
+#: mozorg/newsletters.lang:412
 msgid ""
 "Sign up today to receive email updates about the iOS version of Firefox."
 msgstr "Maa hantum hõ ka duu bataga taagandirey iOS Firefox dumoo se."
 
-#: mozorg/newsletters.lang:405
+#: mozorg/newsletters.lang:416
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
 msgstr "Amma ay ga Mozilla alhabarey gana Facebook nda Twitter ga."
 
-#: mozorg/newsletters.lang:409
+#: mozorg/newsletters.lang:420
 msgid ""
 "Success! An email has been sent to you with your preference center link. "
 "Thanks!"
 msgstr ""
 
-#: mozorg/newsletters.lang:413
+#: mozorg/newsletters.lang:424
 msgid "Remove me from all Mozilla emails"
 msgstr "Ay maa kaa Mozilla batagawey kul se"
 
-#: mozorg/newsletters.lang:417
+#: mozorg/newsletters.lang:428
 msgid "Thanks for telling us why you’re leaving."
 msgstr "Foo nda goy kaŋ war g'ir bayrandi nda war koyroo."
 
-#: mozorg/newsletters.lang:421
+#: mozorg/newsletters.lang:432
 msgid ""
 "Enter your email address and we’ll send you a link to your email preference "
 "center."
 msgstr ""
 
-#: mozorg/newsletters.lang:425
+#: mozorg/newsletters.lang:436
 msgid "Send me a link"
 msgstr ""
 
-#: mozorg/newsletters.lang:429
+#: mozorg/newsletters.lang:440
 msgid "Added extras"
 msgstr "Tontoni dobantey"
 
-#: mozorg/newsletters.lang:433
+#: mozorg/newsletters.lang:444
 msgid "%s is not a valid newsletter"
 msgstr ""
 
-#: mozorg/newsletters.lang:437
+#: mozorg/newsletters.lang:448
 msgid "English&nbsp;only"
 msgstr "Ingiliši&nbsp;hinne"
 
-#: mozorg/newsletters.lang:441
+#: mozorg/newsletters.lang:452
 msgid "This is not a valid email address. Please check the spelling."
 msgstr ""
 
-#: mozorg/newsletters.lang:445
+#: mozorg/newsletters.lang:456
 msgid ""
 "Thanks for your interest in the upcoming iOS version of Firefox. We’re "
 "pretty excited about it too!"
 msgstr ""
 
-#: mozorg/newsletters.lang:449
+#: mozorg/newsletters.lang:460
 msgid "You’ve been unsubscribed."
 msgstr "War maa-hantumoo hun."
 
-#: mozorg/newsletters.lang:453
+#: mozorg/newsletters.lang:464
 msgid "Make Firefox do more with add-ons."
 msgstr "Firefox ma goy bešere tee nda tontoney."
 
-#: mozorg/newsletters.lang:457
+#: mozorg/newsletters.lang:468
 msgid "You must agree to the privacy notice"
 msgstr "War ga hima ka yadda sutura laadaa ga"
 
-#: mozorg/newsletters.lang:461
+#: mozorg/newsletters.lang:472
 msgid "You must agree to the privacy policy"
 msgstr "War ga hima ka yadda sutura laadaa ga"
 
-#: mozorg/newsletters.lang:465
+#: mozorg/newsletters.lang:476
 msgid "Other…"
 msgstr "Tana…"
 
 #. <title> tag for the subscription confirmation page
-#: mozorg/newsletters.lang:470
+#: mozorg/newsletters.lang:481
 msgid "Newsletter confirm"
 msgstr "Alhabar tiira tabatandi"
 
-#: mozorg/newsletters.lang:474
+#: mozorg/newsletters.lang:485
 msgid ""
 "Not interested in our newsletters, but like those special announcements? No "
 "problem."
@@ -555,47 +572,47 @@ msgstr ""
 "Nd'ir alhabar tiirawey ši tee war tee, amma war ga baa cerecere "
 "bangandiyaney? A šii nda taali."
 
-#: mozorg/newsletters.lang:478
+#: mozorg/newsletters.lang:489
 msgid "Manage your Email Preferences"
 msgstr "War bataga ibaayey juwal"
 
-#: mozorg/newsletters.lang:482
+#: mozorg/newsletters.lang:493
 msgid "This page is in maintenance mode and is temporarily unavailable."
 msgstr ""
 
-#: mozorg/newsletters.lang:486
+#: mozorg/newsletters.lang:497
 msgid ""
 "To update your email preferences, please check back in a little while. "
 "Thanks!"
 msgstr ""
 
-#: mozorg/newsletters.lang:490
+#: mozorg/newsletters.lang:501
 msgid ""
 "We love sharing updates about all the awesome things happening at Mozilla."
 msgstr ""
 "A ga kan ir se ir ma taagandirey žemna war se haya henney kul ga kaŋ ga tee "
 "Mozilla do."
 
-#: mozorg/newsletters.lang:494
+#: mozorg/newsletters.lang:505
 msgid ""
 "This email address is not in our system. Please double check your address or "
 "<a href=\"%s\">subscribe to our newsletters.</a>"
 msgstr ""
 
-#: mozorg/newsletters.lang:498
+#: mozorg/newsletters.lang:509
 msgid ""
 "We are sorry, but there was a problem with our system. Please try again "
 "later!"
 msgstr ""
 "War m'alhaa naŋ kaŋ war dii šenday nd'ir dabariɲaŋoo. Ceeci koyne taare!"
 
-#: mozorg/newsletters.lang:502
+#: mozorg/newsletters.lang:513
 msgid ""
 "The supplied link has expired or is not valid. You will receive a new one in "
 "the next newsletter, or below you can request an email with the link."
 msgstr ""
 
-#: mozorg/newsletters.lang:506
+#: mozorg/newsletters.lang:517
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
@@ -603,51 +620,51 @@ msgstr ""
 "Taare wa alhakiika k'ir sanbayan aderesoo – mozilla@e.mozilla.org – tonton "
 "war aderesu tiiraa ga k'alhakiika ir ga too war duuyan bata do."
 
-#: mozorg/newsletters.lang:510
+#: mozorg/newsletters.lang:521
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr "Kaŋ war goo ne, cin še war ši Firefox kayfi hayey guna."
 
-#: mozorg/newsletters.lang:514
+#: mozorg/newsletters.lang:525
 msgid "Manage your <span>Newsletter Subscriptions</span>"
 msgstr "War <span>Alhabar bataga duuyan waafakey</span> juwal"
 
-#: mozorg/newsletters.lang:518
+#: mozorg/newsletters.lang:529
 msgid "Sign up below for updates and to be notified when it launches."
 msgstr ""
 "Maa hantum ne ganda ka duu taagandirey nda bangandiyan waati kaŋ a ga fatta."
 
-#: mozorg/newsletters.lang:522
+#: mozorg/newsletters.lang:533
 msgid "Newsletter email recovery"
 msgstr ""
 
-#: mozorg/newsletters.lang:526
+#: mozorg/newsletters.lang:537
 msgid ""
 "*You’ll only receive updates and announcements about the iOS version of "
 "Firefox."
 msgstr ""
 "*Taagandirey nda bangandiyaney hinne no war ga duu w'ey iOS Firefox dumoo se."
 
-#: mozorg/newsletters.lang:530
+#: mozorg/newsletters.lang:541
 msgid "Firefox Marketplace for Firefox OS"
 msgstr ""
 
-#: mozorg/newsletters.lang:534
+#: mozorg/newsletters.lang:545
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr "Dii HTML5 porogaramize korawey nda leebantey Firefox OS ga."
 
-#: mozorg/newsletters.lang:538
+#: mozorg/newsletters.lang:549
 msgid "Firefox Weekly Tips"
 msgstr ""
 
-#: mozorg/newsletters.lang:542
+#: mozorg/newsletters.lang:553
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr "Duu jirbiyye kul alhiila ka war Firefox goyoo sahãndi nda šifa."
 
-#: mozorg/newsletters.lang:546
+#: mozorg/newsletters.lang:557
 msgid "Student Reps"
 msgstr ""
 
-#: mozorg/newsletters.lang:550
+#: mozorg/newsletters.lang:561
 msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
@@ -655,81 +672,81 @@ msgstr ""
 "Zaahõ 2008-2011 iniiwersite porogaram kaŋ bay ka daaba, k'i n'a tunandi sohõ "
 "k'a tee Firefox santaaru anbasaaderey porogaramoo."
 
-#: mozorg/newsletters.lang:554
+#: mozorg/newsletters.lang:565
 msgid "Mozilla Learning Network"
 msgstr ""
 
-#: mozorg/newsletters.lang:558
+#: mozorg/newsletters.lang:569
 msgid ""
 "Updates from our global community, helping people learn the most important "
 "skills of our age: the ability to read, write and participate in the digital "
 "world."
 msgstr ""
 
-#: mozorg/newsletters.lang:562
+#: mozorg/newsletters.lang:573
 #, fuzzy
 msgid "Download Firefox for iOS"
 msgstr "Firefox zumandi hõ"
 
-#: mozorg/newsletters.lang:566
+#: mozorg/newsletters.lang:577
 msgid "Download Firefox for Android"
 msgstr "Firefox zumandi Android se"
 
-#: mozorg/newsletters.lang:570
+#: mozorg/newsletters.lang:581
 msgid "Get Firefox for Android"
 msgstr "Firefox zaa Android se"
 
-#: mozorg/newsletters.lang:574
+#: mozorg/newsletters.lang:585
 msgid "Drumbeat Newsgroup"
 msgstr ""
 
-#: mozorg/newsletters.lang:578
+#: mozorg/newsletters.lang:589
 msgid "Mozilla Festival"
 msgstr ""
 
-#: mozorg/newsletters.lang:582
+#: mozorg/newsletters.lang:593
 msgid ""
 "Special announcements about Mozilla's annual, hands-on festival dedicated to "
 "forging the future of the open Web."
 msgstr ""
 
-#: mozorg/newsletters.lang:586
+#: mozorg/newsletters.lang:597
 msgid "Firefox Marketplace for Android"
 msgstr ""
 
-#: mozorg/newsletters.lang:590
+#: mozorg/newsletters.lang:601
 msgid "About Standards"
 msgstr ""
 
-#: mozorg/newsletters.lang:594
+#: mozorg/newsletters.lang:605
 msgid "Get Involved"
 msgstr "Wa huru goyoo ra"
 
-#: mozorg/newsletters.lang:598
+#: mozorg/newsletters.lang:609
 msgid "Download Firefox for Mobile"
 msgstr "Firefox zumandi kanbe talfon se"
 
-#: mozorg/newsletters.lang:602
+#: mozorg/newsletters.lang:613
 msgid "Maker Party"
 msgstr "Webmaker margaw"
 
-#: mozorg/newsletters.lang:606
+#: mozorg/newsletters.lang:617
 msgid "Mozilla's largest celebration of making and learning on the web."
 msgstr ""
 
-#: mozorg/newsletters.lang:610
+#: mozorg/newsletters.lang:621
 msgid "Aurora"
 msgstr ""
 
-#: mozorg/newsletters.lang:614
+#: mozorg/newsletters.lang:625
 msgid "Join Mozilla"
 msgstr "Huru Mozilla ra"
 
-#: mozorg/newsletters.lang:618
+#: mozorg/newsletters.lang:629
 msgid "About Labs"
 msgstr ""
 
-#: mozorg/newsletters.lang:622
+#: mozorg/newsletters.lang:633
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
@@ -737,51 +754,51 @@ msgstr ""
 "Caw ka dii alhaali kokorantey ordinater nda kanbe jinay Firefox še "
 "kaatarayyan taaga še jine."
 
-#: mozorg/newsletters.lang:626
+#: mozorg/newsletters.lang:637
 msgid "Webmaker"
 msgstr "Webmaker"
 
-#: mozorg/newsletters.lang:630
+#: mozorg/newsletters.lang:641
 msgid "Special announcements helping you get the most out of Webmaker."
 msgstr ""
 
-#: mozorg/newsletters.lang:634
+#: mozorg/newsletters.lang:645
 msgid "Addon Development"
 msgstr ""
 
-#: mozorg/newsletters.lang:638
+#: mozorg/newsletters.lang:649
 msgid "Firefox Marketplace for Desktop"
 msgstr ""
 
 #. It appears here: https://www-dev.allizom.org/newsletter/firefox/
-#: mozorg/newsletters.lang:643
+#: mozorg/newsletters.lang:654
 msgid "Put more fox in your inbox."
 msgstr ""
 
-#: mozorg/newsletters.lang:647
+#: mozorg/newsletters.lang:658
 msgid ""
 "See where the Web can take you with monthly Firefox tips, tricks and "
 "Internet intel."
 msgstr ""
 
 #. # TAG: mozilla_newsletter_copy
-#: mozorg/newsletters.lang:652
+#: mozorg/newsletters.lang:663
 msgid "Sign up, read up,<br> stay informed."
 msgstr ""
 
 #. String obsolete.  Do NOT remove.
 #. It appears here: https://www.mozilla.org/newsletter/mozilla/
-#: mozorg/newsletters.lang:658
+#: mozorg/newsletters.lang:669
 msgid "Sign up. Read up.<br> Make a difference."
 msgstr ""
 
 #. # TAG: mozilla_newsletter_copy
-#: mozorg/newsletters.lang:663
+#: mozorg/newsletters.lang:674
 msgid "Get smart on the issues affecting your life online."
 msgstr ""
 
 #. String obsolete.  Do NOT remove.
-#: mozorg/newsletters.lang:668
+#: mozorg/newsletters.lang:679
 msgid ""
 "Get the Mozilla newsletter to stay informed about issues challenging the "
 "health of the Internet and to discover how you can get involved."
@@ -812,18 +829,6 @@ msgstr ""
 
 #~ msgid "We will only send you Mozilla-related information."
 #~ msgstr "Mozilla-mise alhabarey de n'ir g'i sanba war še."
-
-#~ msgid ""
-#~ "Subscribe to monthly updates and keep current with Mozilla news, "
-#~ "including the latest tips and tricks for getting the most out of your "
-#~ "Firefox browser. It’s the perfect way for us to keep in touch!"
-#~ msgstr ""
-#~ "War boŋ-hantum ka duu handu-kul taagandirey nda sohõda Mozilla alhabarey, "
-#~ "sanda carmay yaamarey ka dii Firefox ceecikaa fellaa. Woo ti fondo "
-#~ "cerecerantaa ka cindi alhabar taagey bande!"
-
-#~ msgid "Read all about it in our <span>newsletter</span>"
-#~ msgstr "War haya kul caw a ga ir <span>alhabar batagaa</span> ra"
 
 #~ msgid "YOUR EMAIL HERE"
 #~ msgstr "WAR BATAGAA NE"

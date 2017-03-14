@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-13 21:10+0000\n"
+"POT-Creation-Date: 2017-03-14 10:10+0000\n"
 "PO-Revision-Date: 2017-01-23 00:34+0000\n"
 "Last-Translator: Juan Esteban Ajsivinac Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: none\n"
@@ -30,20 +30,41 @@ msgstr "Tacha' jun amaq'"
 msgid "Country:"
 msgstr "Amaq':"
 
-#. # TAG: mozilla_newsletter_2017
+#. Headline in /newsletter
 #: mozorg/newsletters.lang:24
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr ""
+"Xqatäq jun jikel rutzijol chawe pa taqoya'l. Tapitz'a' pa ri ruximonel "
+"jikib'anem richin naya' q'ij chi re ri rutz'ib'axik ab'i' pa re rucholb'al "
+"taqoya'l re'."
+
+#. # TAG: mozilla_newsletter_2017
+#. Subtitle in /newsletter
+#: mozorg/newsletters.lang:30
 msgid ""
 "Subscribe to updates and keep current with Mozilla news. It’s the perfect "
 "way for us to keep in touch!"
 msgstr ""
 
+#. Obsolete string, do not remove
+#: mozorg/newsletters.lang:35
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"Tatz'ib'aj ab'i' richin ye'ak'ül ajik' taq k'exoj chuqa' nawetamaj q'ij q'ij "
+"chi rij ri k'ak'a' k'o chupam ri Firefox, nitz'aqatisäx pe ri ruk'isib'al "
+"taq q'oloj chuqa' taq pixa' richin ütz rub'eyal nawokisaj ri Firefox. ¡Ja "
+"re' jun jeb'ël rub'eyal richin yojk'oje' junam jantape' awik'in!"
+
 #. # TAG: newsletter_confirm_2016
-#: mozorg/newsletters.lang:29
+#: mozorg/newsletters.lang:40
 msgid "You’re awesome!"
 msgstr "¡Janila at jeb'ël!"
 
 #. # TAG: newsletter_confirm_2016
-#: mozorg/newsletters.lang:34
+#: mozorg/newsletters.lang:45
 msgid ""
 "And we’re not just saying that because you trusted us with your email "
 "address."
@@ -52,7 +73,7 @@ msgstr ""
 "kitaqoya'l."
 
 #. # TAG: newsletter_confirm_2016
-#: mozorg/newsletters.lang:39
+#: mozorg/newsletters.lang:50
 msgid ""
 "Please be sure to add mozilla@e.mozilla.org to your address book to ensure "
 "we always reach your inbox."
@@ -61,12 +82,12 @@ msgstr ""
 "awochochib'al richin najikib'a' awi' chi junelïk yojapon pa ri ayaktaqoj."
 
 #. # TAG: newsletter_confirm_2016
-#: mozorg/newsletters.lang:44
+#: mozorg/newsletters.lang:55
 msgid "Mozilla touches on a variety of important issues."
 msgstr "Mozilla nutzijoj rij jalajöj nimaläj taq na'oj."
 
 #. # TAG: newsletter_confirm_2016
-#: mozorg/newsletters.lang:49
+#: mozorg/newsletters.lang:60
 msgid ""
 "Open your inbox (and your heart) even more — take a look at other topics we "
 "cover."
@@ -74,11 +95,11 @@ msgstr ""
 "Tajaqa' ri ataqob'äl (chuqa' ri ak'u'x) chuqa' ch'aqa' chik — tatz'eta' "
 "ch'aqa' chik taq na'oj ri niqatzijoj kij."
 
-#: mozorg/newsletters.lang:53
+#: mozorg/newsletters.lang:64
 msgid "Love the web? So do we!"
 msgstr "¿La niqa chawäch ri ajk'amaya'l? ¡Chi qawäch röj chuqa'!"
 
-#: mozorg/newsletters.lang:57
+#: mozorg/newsletters.lang:68
 msgid ""
 "Join thousands of developers like you who are learning the best of web "
 "development."
@@ -86,7 +107,7 @@ msgstr ""
 "Katok kik'in xo'il chi b'anonela', achi'el rat tajin niketamaj ronojel ri "
 "ütz chi rij rub'anik ajk'amaya'l."
 
-#: mozorg/newsletters.lang:61
+#: mozorg/newsletters.lang:72
 msgid ""
 "If you don’t like the Mozilla developer newsletter, you can easily "
 "unsubscribe (but we think you’ll like it)."
@@ -95,25 +116,25 @@ msgstr ""
 "tzij rik'in ri rutz'ib'axik ab'i' (xa xe chi qetaman chi xtiqa chawäch)."
 
 #. Form submit button on the Student Ambassador newsletter subscription form
-#: mozorg/newsletters.lang:66
+#: mozorg/newsletters.lang:77
 msgid "Sign me up!"
 msgstr "¡Titz'ib'äx nub'i'!"
 
-#: mozorg/newsletters.lang:70
+#: mozorg/newsletters.lang:81
 msgid "Thanks for Subscribing!"
 msgstr "¡Niqak'awomaj chi xatz'ib'aj ab'i'!"
 
-#: mozorg/newsletters.lang:74
+#: mozorg/newsletters.lang:85
 msgid "Your newsletter subscription has been confirmed."
 msgstr "Xjikib'äx ri rutz'ib'axik ab'i' pa ri ko'öl wuj."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:79
+#: mozorg/newsletters.lang:90
 msgid "Firefox + You"
 msgstr "Firefox + Rat"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox + You)
-#: mozorg/newsletters.lang:84
+#: mozorg/newsletters.lang:95
 msgid ""
 "A monthly newsletter and special announcements giving you tips to improve "
 "your experience with Firefox on your desktop and Android device."
@@ -123,12 +144,12 @@ msgstr ""
 "chuqa' oyonib'äl okisaxel."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:89
+#: mozorg/newsletters.lang:100
 msgid "Firefox OS + You"
 msgstr "Firefox OS + Rat"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS + You)
-#: mozorg/newsletters.lang:94
+#: mozorg/newsletters.lang:105
 msgid ""
 "A monthly newsletter and special announcements on how to get the most from "
 "your Firefox OS device, including the latest features and coolest Firefox "
@@ -139,34 +160,34 @@ msgstr ""
 "rub'anikil chuqa' ri utziläj taq chokoy pa ri Marketplace richin Firefox."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:100
+#: mozorg/newsletters.lang:111
 msgid "Firefox Accounts Tips"
 msgstr "Taq rupixa' ri retal rutaqoyal Firefox"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-#: mozorg/newsletters.lang:105
+#: mozorg/newsletters.lang:116
 msgid "Get the most out of your Firefox Account."
 msgstr "Tak'ulu' ronojel ri rutzil retal ataqoya'l richin Firefox."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:111
+#: mozorg/newsletters.lang:122
 msgid "Mozilla Communities"
 msgstr "Taq ritinamit Mozilla"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Communities)
-#: mozorg/newsletters.lang:116
+#: mozorg/newsletters.lang:127
 msgid "Bringing you the best new opportunities to help support the open Web."
 msgstr ""
 "Niqasüj chawe k'aka' chuqa' utziläj taq samaj richin nib'an to'ïk rik'in ri "
 "rutemab'al jun ajokel ajk'amaya'l."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:121
+#: mozorg/newsletters.lang:132
 msgid "Firefox Student Ambassadors"
 msgstr "ruk'amöl tinamït rutijoxela' Firefox"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
-#: mozorg/newsletters.lang:126
+#: mozorg/newsletters.lang:137
 msgid ""
 "A monthly newsletter on how to get involved with Mozilla on your campus."
 msgstr ""
@@ -174,12 +195,12 @@ msgstr ""
 "ak'ojlib'al."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:131
+#: mozorg/newsletters.lang:142
 msgid "Firefox Affiliates"
 msgstr "Firefox Affiliates"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
-#: mozorg/newsletters.lang:136
+#: mozorg/newsletters.lang:147
 msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
@@ -188,12 +209,12 @@ msgstr ""
 "kema'."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:141
+#: mozorg/newsletters.lang:152
 msgid "Mozilla Developer Newsletter"
 msgstr "Ko'öl kiwuj rub'anonela' Mozilla"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Developer Newsletter)
-#: mozorg/newsletters.lang:146
+#: mozorg/newsletters.lang:157
 msgid ""
 "A developer's guide to highlights of Web platform innovations, best "
 "practices, new documentation and more."
@@ -202,48 +223,48 @@ msgstr ""
 "nuk'uche'l, ri utziläj taq samaj, k'ak'a' taq wujil chuqa' ch'aqa' chik."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:151
+#: mozorg/newsletters.lang:162
 msgid "Mozillians"
 msgstr "Aj Mozilla"
 
 #. Description for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:156
+#: mozorg/newsletters.lang:167
 msgid "Email updates for vouched Mozillians on mozillians.org."
 msgstr ""
 "Taq k'exoj ruwäch pa taqoya'l chi ke ri ajmozilla, ri e'uxqanem pa "
 "mozillians.org."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:161
+#: mozorg/newsletters.lang:172
 msgid "Firefox for desktop"
 msgstr "Firefox richin ajkematz'ib'"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for desktop)
-#: mozorg/newsletters.lang:166
+#: mozorg/newsletters.lang:177
 msgid "Don’t miss the latest announcements about our desktop browser."
 msgstr ""
 "Man ke'asüch ri ruk'isib'al taq rutzijol chi rij ri qokik'amaya'l richin "
 "ajkematz'ib'."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:171
+#: mozorg/newsletters.lang:182
 msgid "Firefox for Android"
 msgstr "Firefox richin Android"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for Android)
-#: mozorg/newsletters.lang:176
+#: mozorg/newsletters.lang:187
 msgid "Keep up with releases and news about Firefox for Android."
 msgstr ""
 "Tawetamaj pa kiwi' ri k'ak'a' taq relesaxik chuqa' taq rutzijol chi rij ri "
 "Firefox richin Android."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:181
+#: mozorg/newsletters.lang:192
 msgid "Mozilla"
 msgstr "Mozilla"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla)
-#: mozorg/newsletters.lang:186
+#: mozorg/newsletters.lang:197
 msgid ""
 "Special announcements and messages from the team dedicated to keeping the "
 "Web free and open."
@@ -252,50 +273,50 @@ msgstr ""
 "jantape' alaj chuqa' okel ri ajk'amaya'l."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:191
+#: mozorg/newsletters.lang:202
 msgid "Firefox OS smartphone owner?"
 msgstr "¿La at rajaw jun jwi' oyonib'äl Firefox OS?"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
-#: mozorg/newsletters.lang:196
+#: mozorg/newsletters.lang:207
 msgid "Don’t miss important news and updates about your Firefox OS device."
 msgstr ""
 "Man ke'asüch nimaläj taq rutzijol chuqa' taq k'exoj chi rij ri Firefox Os "
 "awokisaxel."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:201
+#: mozorg/newsletters.lang:212
 msgid "Firefox iOS"
 msgstr "Firefox iOS"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox iOS)
-#: mozorg/newsletters.lang:206
+#: mozorg/newsletters.lang:217
 msgid "Be the first to know when Firefox is available for iOS devices."
 msgstr "Tawetamaj nab'ey jampe' toq wachel Firefox pa iOS taq okisaxel."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:211
+#: mozorg/newsletters.lang:222
 msgid "Firefox Flicks"
 msgstr "Firefox Flicks"
 
-#: mozorg/newsletters.lang:215
+#: mozorg/newsletters.lang:226
 msgid "Periodic email updates about our annual international film competition."
 msgstr ""
 "Jutaqil k'exoj taq ruwäch pa taqoya'l chi rij ri qach'akoj moloj juna' juna' "
 "richin silowachib'alil ajruwachulew."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:220
+#: mozorg/newsletters.lang:231
 msgid "Beta News"
 msgstr "Taq rutzijol Beta"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:225
+#: mozorg/newsletters.lang:236
 msgid "Mozilla Foundation"
 msgstr "Mozilla Moloj"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Foundation)
-#: mozorg/newsletters.lang:230
+#: mozorg/newsletters.lang:241
 msgid ""
 "News and special updates about our work to promote openness, innovation and "
 "participation on the Internet, including ways for you to get involved."
@@ -305,114 +326,114 @@ msgstr ""
 "rub'anikil richin yatikïr yato'on."
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:235
+#: mozorg/newsletters.lang:246
 msgid "Shape of the Web"
 msgstr "B'anikil pa Ajk'amaya'l"
 
 #. Description for the newsletter in Newsletter subscription page (Shape of the Web)
-#: mozorg/newsletters.lang:240
+#: mozorg/newsletters.lang:251
 msgid "News and information related to the health of the web."
 msgstr "Taq rutzijol chuqa' taq etamab'äl chi rij ri ruraxnaqil ajk'amaya'l."
 
-#: mozorg/newsletters.lang:244
+#: mozorg/newsletters.lang:255
 msgid "About Addons"
 msgstr "Chi kij ri taq tz'aqat"
 
-#: mozorg/newsletters.lang:248
+#: mozorg/newsletters.lang:259
 msgid "Firefox OS"
 msgstr "Firefox OS"
 
-#: mozorg/newsletters.lang:252
+#: mozorg/newsletters.lang:263
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr ""
 "Taq rutzijol, taq pixa' chuqa' etamab'äl richin relesaxik chuqa' akuchi' "
 "niloq' Firefox OS."
 
-#: mozorg/newsletters.lang:257
+#: mozorg/newsletters.lang:268
 msgid "We can keep in touch with occasional messages that matter most to you."
 msgstr ""
 "Ütz jantape' yojtzijon kik'in jujun taq rutzijol taqoya'l, ri pa qitzij ütz "
 "ye'atz'ët."
 
-#: mozorg/newsletters.lang:261
+#: mozorg/newsletters.lang:272
 msgid "Submit"
 msgstr "Titaq"
 
-#: mozorg/newsletters.lang:265
+#: mozorg/newsletters.lang:276
 msgid "Find out how!"
 msgstr "¡Tawila' achike rub'eyal!"
 
-#: mozorg/newsletters.lang:269
+#: mozorg/newsletters.lang:280
 msgid "Newsletters"
 msgstr "Ko'öl taq wuj"
 
-#: mozorg/newsletters.lang:273
+#: mozorg/newsletters.lang:284
 msgid "About us"
 msgstr "Chi qij röj"
 
-#: mozorg/newsletters.lang:277
+#: mozorg/newsletters.lang:288
 msgid "I didn't sign up for this."
 msgstr "Man xinel ta kan chupam re jun rutz'ib'axik b'i'aj re'."
 
-#: mozorg/newsletters.lang:281
+#: mozorg/newsletters.lang:292
 msgid "Save Preferences"
 msgstr "Keyak taq ajowab'äl"
 
-#: mozorg/newsletters.lang:285
+#: mozorg/newsletters.lang:296
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
 msgstr ""
 "Xk'is ri ximonel ya'on pe. Xtak'ül jun k'ak'a' pa ri jun chik ko'öl wuj."
 
-#: mozorg/newsletters.lang:289
+#: mozorg/newsletters.lang:300
 msgid "Get up and go"
 msgstr "Kayakatäj chuqa' kab'iyin "
 
-#: mozorg/newsletters.lang:293
+#: mozorg/newsletters.lang:304
 msgid "Subscribe"
 msgstr "Titz'ib'äx nub'i'"
 
-#: mozorg/newsletters.lang:297
+#: mozorg/newsletters.lang:308
 msgid ""
 "Set your preferences below to make sure you always receive the news you want."
 msgstr ""
 "Ke'ajikib'a' ri taq awajowab'al pa xulan qa richin nijikib'äx chi jantape' "
 "xke'ak'ül ri taq rutzijol xke'awajo'."
 
-#: mozorg/newsletters.lang:301
+#: mozorg/newsletters.lang:312
 msgid "You send too many emails."
 msgstr "Janila k'ïy taqoya'l yenk'ül."
 
-#: mozorg/newsletters.lang:305
+#: mozorg/newsletters.lang:316
 msgid "Getting too much email from us?"
 msgstr "¿La tajin ye'apon k'ïy taq qataqoya'l chawe?"
 
-#: mozorg/newsletters.lang:309
+#: mozorg/newsletters.lang:320
 msgid "Would you mind telling us why you’re leaving?"
 msgstr "¿La man niyakatäj ta awoyowal, nab'ij chi qe atux ruma tajin yab'e el?"
 
-#: mozorg/newsletters.lang:313
+#: mozorg/newsletters.lang:324
 msgid "Get Firefox for mobile!"
 msgstr "¡Tawichinaj Firefox richin oyonib'äl!"
 
-#: mozorg/newsletters.lang:317
+#: mozorg/newsletters.lang:328
 msgid "What’s Mozilla all about?"
 msgstr "¿Achike nel chi tzij ri Mozilla?"
 
-#: mozorg/newsletters.lang:321
+#: mozorg/newsletters.lang:332
 msgid "I’m interested in:"
 msgstr "Niqa chi nuwäch:"
 
-#: mozorg/newsletters.lang:325
+#: mozorg/newsletters.lang:336
 msgid "Format:"
 msgstr "B'anikil:"
 
-#: mozorg/newsletters.lang:329
+#: mozorg/newsletters.lang:340
 msgid "Your content wasn't relevant to me."
 msgstr "Chi nuwäch, majun rejqalem ri k'o chupam."
 
-#: mozorg/newsletters.lang:333
+#: mozorg/newsletters.lang:344
 msgid ""
 "Don’t forget to check your inbox to confirm your request to get Firefox for "
 "iOS updates. If you don’t see an email from mozilla@e.mozilla.org, check "
@@ -424,64 +445,64 @@ msgstr ""
 "rutaqoya'l ri Mozilla@e.mozilla.org, tanik'oj ri ruchayub'al seq'tzijol. K'o "
 "chi najikib'a' ri ak'utuxik richin yatikïr ye'ak'ül ri taq k'exoj."
 
-#: mozorg/newsletters.lang:337
+#: mozorg/newsletters.lang:348
 msgid "Firefox"
 msgstr "Firefox"
 
-#: mozorg/newsletters.lang:341
+#: mozorg/newsletters.lang:352
 msgid "We’re sorry to see you go."
 msgstr "Yatqamäy ruma yab'e."
 
-#: mozorg/newsletters.lang:345
+#: mozorg/newsletters.lang:356
 msgid "title"
 msgstr "b'i'aj"
 
-#: mozorg/newsletters.lang:349
+#: mozorg/newsletters.lang:360
 msgid "Firefox is coming soon to iOS!"
 msgstr "¡Nipe yan ri Firefox pa iOS!"
 
-#: mozorg/newsletters.lang:353
+#: mozorg/newsletters.lang:364
 msgid "It’s your Web anywhere you go."
 msgstr "Awichin ri ajk'amaya'l xa b'a akuchi' yab'e wi."
 
-#: mozorg/newsletters.lang:357
+#: mozorg/newsletters.lang:368
 msgid "Your email design was too hard to read."
 msgstr "Ru ruwachib'enik taqoya'l, man ütz ta nub'än chi re ri sik'inïk."
 
-#: mozorg/newsletters.lang:361
+#: mozorg/newsletters.lang:372
 msgid "Please enter a valid email address"
 msgstr "Tab'ana' utzil, tatz'ib'aj jun ütz rochochib'al taqoya'l"
 
-#: mozorg/newsletters.lang:365
+#: mozorg/newsletters.lang:376
 msgid "Newsletter Subscriptions"
 msgstr "Rutz'ib'axik b'i'aj pa ko'öl taq wuj"
 
-#: mozorg/newsletters.lang:369
+#: mozorg/newsletters.lang:380
 msgid "Unsubscribe"
 msgstr "Tiq'at ri rutz'ib'axik b'i'aj"
 
-#: mozorg/newsletters.lang:373
+#: mozorg/newsletters.lang:384
 msgid "Mozilla Newsletter"
 msgstr "Mozilla ko'öl taq wuj"
 
-#: mozorg/newsletters.lang:377
+#: mozorg/newsletters.lang:388
 msgid "Thanks for updating your email preferences."
 msgstr "Niqak'awomaj chawe ruma xak'ëx kiwäch ri taq rajowab'al taqoya'l."
 
-#: mozorg/newsletters.lang:381
+#: mozorg/newsletters.lang:392
 msgid "We’re glad you asked!"
 msgstr "¡Yojkiköt nak'utuj pe chi qe!"
 
-#: mozorg/newsletters.lang:385
+#: mozorg/newsletters.lang:396
 msgid "Firefox on iOS — Sign up for email updates — Mozilla"
 msgstr "Firefox pa iOS — tanuk'u' awi' richin taq k'exoj pa taqoya'l — Mozilla"
 
-#: mozorg/newsletters.lang:389
+#: mozorg/newsletters.lang:400
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr ""
 "K'o ri man ütz ta pa ri qaq'inoj, kojakuyu'. Tatojtob'ej chik pa jun ti mej."
 
-#: mozorg/newsletters.lang:393
+#: mozorg/newsletters.lang:404
 msgid ""
 "Check all categories that apply to you, and we promise to keep the mail to a "
 "minimum."
@@ -489,37 +510,37 @@ msgstr ""
 "Ke'acha' konojel ri taq ruwäch ütz ye'atz'ët, niqaya' qatzij chawe chi ti "
 "jub'a' ok chi taqoya'l xkeqatäq chawe."
 
-#: mozorg/newsletters.lang:397
+#: mozorg/newsletters.lang:408
 msgid "description"
 msgstr "tzijoxkil"
 
-#: mozorg/newsletters.lang:401
+#: mozorg/newsletters.lang:412
 msgid ""
 "Sign up today to receive email updates about the iOS version of Firefox."
 msgstr ""
 "Tanuk'u' awi' wakami richin ye'ak'ül taq k'exoj pa taqoya'l chi rij ri "
 "ruwäch iOS richin Firefox."
 
-#: mozorg/newsletters.lang:405
+#: mozorg/newsletters.lang:416
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
 msgstr "Ninrayib'ej yijelon rik'in Mozilla pa Facebook chuqa' Twitter."
 
-#: mozorg/newsletters.lang:409
+#: mozorg/newsletters.lang:420
 msgid ""
 "Success! An email has been sent to you with your preference center link. "
 "Thanks!"
 msgstr ""
 "¡Q'i'oj! Jun taqoya'l xtaq rik'in ri aximonel richin ajowab'äl jay. ¡Matyox!"
 
-#: mozorg/newsletters.lang:413
+#: mozorg/newsletters.lang:424
 msgid "Remove me from all Mozilla emails"
 msgstr "Kinelesäx kan chi kikojol ri taq rutaqoya'l Mozilla"
 
-#: mozorg/newsletters.lang:417
+#: mozorg/newsletters.lang:428
 msgid "Thanks for telling us why you’re leaving."
 msgstr "Niqak'awomaj chawe ruma natzijoj chi qe atux ruma yatel kan."
 
-#: mozorg/newsletters.lang:421
+#: mozorg/newsletters.lang:432
 msgid ""
 "Enter your email address and we’ll send you a link to your email preference "
 "center."
@@ -527,29 +548,29 @@ msgstr ""
 "Tatz'ib'aj ri rochochib'al ataqoya'l richin niqatäq chawe jun ximonel "
 "taqoya'l richin ri awajowab'al jay."
 
-#: mozorg/newsletters.lang:425
+#: mozorg/newsletters.lang:436
 msgid "Send me a link"
 msgstr "Tataqa' jun ximonel chwe"
 
-#: mozorg/newsletters.lang:429
+#: mozorg/newsletters.lang:440
 msgid "Added extras"
 msgstr "Taq ruwi' etz'aqatisan"
 
-#: mozorg/newsletters.lang:433
+#: mozorg/newsletters.lang:444
 msgid "%s is not a valid newsletter"
 msgstr "%s man ütz ta chi q'alajisanel ruxaq"
 
-#: mozorg/newsletters.lang:437
+#: mozorg/newsletters.lang:448
 msgid "English&nbsp;only"
 msgstr "Q'anchi'&nbsp;xa xe"
 
-#: mozorg/newsletters.lang:441
+#: mozorg/newsletters.lang:452
 msgid "This is not a valid email address. Please check the spelling."
 msgstr ""
 "Re re' man ütz ta chi rochochib'al taqoya'l. Tab'ana' utzil tanik'oj ri "
 "atz'ib'anik."
 
-#: mozorg/newsletters.lang:445
+#: mozorg/newsletters.lang:456
 msgid ""
 "Thanks for your interest in the upcoming iOS version of Firefox. We’re "
 "pretty excited about it too!"
@@ -557,33 +578,33 @@ msgstr ""
 "Matyox ruma xtiqa chawäch ri jun chik ruwäch chi iOS richin Firefox. ¡Janila "
 "yojkiköt chuqa' röj!"
 
-#: mozorg/newsletters.lang:449
+#: mozorg/newsletters.lang:460
 msgid "You’ve been unsubscribed."
 msgstr "Xaq'ät ri rutz'ib'axik ab'i'."
 
-#: mozorg/newsletters.lang:453
+#: mozorg/newsletters.lang:464
 msgid "Make Firefox do more with add-ons."
 msgstr ""
 "Taq'iq'a'wila' chi Firefox janila k'ïy tusamajij kik'in ri taq tz'aqat."
 
-#: mozorg/newsletters.lang:457
+#: mozorg/newsletters.lang:468
 msgid "You must agree to the privacy notice"
 msgstr "K'atzinel nak'ül ri ichinan runa'oj"
 
-#: mozorg/newsletters.lang:461
+#: mozorg/newsletters.lang:472
 msgid "You must agree to the privacy policy"
 msgstr "K'atzinel nak'ül ri ichinan runa'oj"
 
-#: mozorg/newsletters.lang:465
+#: mozorg/newsletters.lang:476
 msgid "Other…"
 msgstr "Jun chik…"
 
 #. <title> tag for the subscription confirmation page
-#: mozorg/newsletters.lang:470
+#: mozorg/newsletters.lang:481
 msgid "Newsletter confirm"
 msgstr "Tijikib'äx ko'öl wuj"
 
-#: mozorg/newsletters.lang:474
+#: mozorg/newsletters.lang:485
 msgid ""
 "Not interested in our newsletters, but like those special announcements? No "
 "problem."
@@ -591,15 +612,15 @@ msgstr ""
 "¿La man niqa ta chawäch ri ko'öl taq qawuj chuqa' ri taq nimaläj taq "
 "qatzijol? Majun k'ayewal."
 
-#: mozorg/newsletters.lang:478
+#: mozorg/newsletters.lang:489
 msgid "Manage your Email Preferences"
 msgstr "Ke'anuk'samajij ri taq rajowab'al ataqoya'l"
 
-#: mozorg/newsletters.lang:482
+#: mozorg/newsletters.lang:493
 msgid "This page is in maintenance mode and is temporarily unavailable."
 msgstr "Re ruxaq re' tajin ninuk' ruma ri', wakami man wachel ta."
 
-#: mozorg/newsletters.lang:486
+#: mozorg/newsletters.lang:497
 msgid ""
 "To update your email preferences, please check back in a little while. "
 "Thanks!"
@@ -607,14 +628,14 @@ msgstr ""
 "Richin ye'ak'ëx ri taq awajowab'al richin taqoya'l, tab'ana' utzil katzolin "
 "pe jun chik ti mej. ¡Matyox!"
 
-#: mozorg/newsletters.lang:490
+#: mozorg/newsletters.lang:501
 msgid ""
 "We love sharing updates about all the awesome things happening at Mozilla."
 msgstr ""
 "Niqa chi qawäch nikakomonij ri taq k'exoj ruwäch chi kij ronojel ri jeb'ël "
 "yek'ulwachitäj pa Mozilla."
 
-#: mozorg/newsletters.lang:494
+#: mozorg/newsletters.lang:505
 msgid ""
 "This email address is not in our system. Please double check your address or "
 "<a href=\"%s\">subscribe to our newsletters.</a>"
@@ -623,7 +644,7 @@ msgstr ""
 "ri taqoya'l xatz'ib'aj o <a href=\"%s\"> tatz'ib'aj ab'i' pa ri ko'öl taq "
 "qawuj.</a> "
 
-#: mozorg/newsletters.lang:498
+#: mozorg/newsletters.lang:509
 msgid ""
 "We are sorry, but there was a problem with our system. Please try again "
 "later!"
@@ -631,7 +652,7 @@ msgstr ""
 "Kojakuyu', xa xk'ulwachitäj jun sachoj rik'in ri qaq'inoj. ¡Tatojtob'ej chik "
 "pa jun ti mej!"
 
-#: mozorg/newsletters.lang:502
+#: mozorg/newsletters.lang:513
 msgid ""
 "The supplied link has expired or is not valid. You will receive a new one in "
 "the next newsletter, or below you can request an email with the link."
@@ -640,7 +661,7 @@ msgstr ""
 "jun chik ko'öl wuj, o wawe' ikim yatikïr nak'utuj jun taqoya'al rik'in ri "
 "ximonel."
 
-#: mozorg/newsletters.lang:506
+#: mozorg/newsletters.lang:517
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
@@ -649,29 +670,29 @@ msgstr ""
 "rutz'ib'awuj awochochib'al richin najikib'a' awi' chi junelïk  yojapon pa ri "
 "ayaktaqoj."
 
-#: mozorg/newsletters.lang:510
+#: mozorg/newsletters.lang:521
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr ""
 "Ruma at k'o chik wawe', achike ta ruma man ye'awïl ta juley chik taq "
 "ruwachinaq Firefox, ri janila xtamäy."
 
-#: mozorg/newsletters.lang:514
+#: mozorg/newsletters.lang:525
 msgid "Manage your <span>Newsletter Subscriptions</span>"
 msgstr ""
 "Tanuk'samajij ri <span>taq rutz'ib'axik ab'i' pa ri taq ko'öl wuj</span> "
 "awichin"
 
-#: mozorg/newsletters.lang:518
+#: mozorg/newsletters.lang:529
 msgid "Sign up below for updates and to be notified when it launches."
 msgstr ""
 "Tatz'ib'aj ab'i' richin ye'ak'ül k'exoj taq ruwäch chuqa' richin niya' "
 "rutzijol chawe toq nel pe."
 
-#: mozorg/newsletters.lang:522
+#: mozorg/newsletters.lang:533
 msgid "Newsletter email recovery"
 msgstr "Kikolik ko'öl taq wuj pa taqoya'l"
 
-#: mozorg/newsletters.lang:526
+#: mozorg/newsletters.lang:537
 msgid ""
 "*You’ll only receive updates and announcements about the iOS version of "
 "Firefox."
@@ -679,31 +700,31 @@ msgstr ""
 "*Xa xe xke'ak'ül kexoj taq ruwäch chuqa' taq kitzijol ri ruwäch iOS richin "
 "Firefox."
 
-#: mozorg/newsletters.lang:530
+#: mozorg/newsletters.lang:541
 msgid "Firefox Marketplace for Firefox OS"
 msgstr "Firefox Marketplace richin Firefox OS"
 
-#: mozorg/newsletters.lang:534
+#: mozorg/newsletters.lang:545
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr ""
 "Tawila' ri ruk'isib'al, ri janila utziläj taq chokoy pa HTML5 richin Firefox "
 "OS."
 
-#: mozorg/newsletters.lang:538
+#: mozorg/newsletters.lang:549
 msgid "Firefox Weekly Tips"
 msgstr "Firefox Wuqq'ij taq pixa'"
 
-#: mozorg/newsletters.lang:542
+#: mozorg/newsletters.lang:553
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr ""
 "Tak'ulu' jun pixa' pa taq wuqq'ij pa ruwi' rub'eyal nisamajib'ëx ri "
 "awetamab'al rik'in Firefox."
 
-#: mozorg/newsletters.lang:546
+#: mozorg/newsletters.lang:557
 msgid "Student Reps"
 msgstr "Tijoxel taq K'amöl b'ey"
 
-#: mozorg/newsletters.lang:550
+#: mozorg/newsletters.lang:561
 msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
@@ -711,11 +732,11 @@ msgstr ""
 "Ri jun ajnimatijob'äl nuk'samaj richin 2008-2011, xk'is chuqa' xtikirisäx "
 "chik achi'el ulanel tijonela' runuk'samaj Firefox."
 
-#: mozorg/newsletters.lang:554
+#: mozorg/newsletters.lang:565
 msgid "Mozilla Learning Network"
 msgstr "Ruk'amab'ey Mozilla Tijonïk"
 
-#: mozorg/newsletters.lang:558
+#: mozorg/newsletters.lang:569
 msgid ""
 "Updates from our global community, helping people learn the most important "
 "skills of our age: the ability to read, write and participate in the digital "
@@ -725,27 +746,27 @@ msgstr ""
 "nimaläj taq etamab'äl pa ri q'ijul wakami: ri taq etamab'äl richin nisik'ïx, "
 "nitz'ib'äx chuqa' nib'an to'ïk pa ri ajkematz'ib' ruwach'ulew."
 
-#: mozorg/newsletters.lang:562
+#: mozorg/newsletters.lang:573
 msgid "Download Firefox for iOS"
 msgstr "Taqasaj Firefox richin iOS"
 
-#: mozorg/newsletters.lang:566
+#: mozorg/newsletters.lang:577
 msgid "Download Firefox for Android"
 msgstr "Taqasaj Firefox richin Android"
 
-#: mozorg/newsletters.lang:570
+#: mozorg/newsletters.lang:581
 msgid "Get Firefox for Android"
 msgstr "Tichinäx Firefox richin Android"
 
-#: mozorg/newsletters.lang:574
+#: mozorg/newsletters.lang:585
 msgid "Drumbeat Newsgroup"
 msgstr "Kimolaj Drumbeat taq tzijol"
 
-#: mozorg/newsletters.lang:578
+#: mozorg/newsletters.lang:589
 msgid "Mozilla Festival"
 msgstr "Mozilla Ulanïk"
 
-#: mozorg/newsletters.lang:582
+#: mozorg/newsletters.lang:593
 msgid ""
 "Special announcements about Mozilla's annual, hands-on festival dedicated to "
 "forging the future of the open Web."
@@ -753,45 +774,45 @@ msgstr ""
 "Nimaläj taq rutzijol ri aj juna' Mozilla Ulanïk, rutzeqelb'en nuya' retal "
 "rub'ey ri jamäl Ajk'amaya'l."
 
-#: mozorg/newsletters.lang:586
+#: mozorg/newsletters.lang:597
 msgid "Firefox Marketplace for Android"
 msgstr "Firefox Marketplace richin Android"
 
-#: mozorg/newsletters.lang:590
+#: mozorg/newsletters.lang:601
 msgid "About Standards"
 msgstr "Chi kij ri taq chojmilal"
 
-#: mozorg/newsletters.lang:594
+#: mozorg/newsletters.lang:605
 msgid "Get Involved"
 msgstr "Kak'uluman"
 
-#: mozorg/newsletters.lang:598
+#: mozorg/newsletters.lang:609
 msgid "Download Firefox for Mobile"
 msgstr "Taqasaj Firefox kichin oyonib'äl"
 
-#: mozorg/newsletters.lang:602
+#: mozorg/newsletters.lang:613
 msgid "Maker Party"
 msgstr "Maker Party"
 
-#: mozorg/newsletters.lang:606
+#: mozorg/newsletters.lang:617
 msgid "Mozilla's largest celebration of making and learning on the web."
 msgstr ""
 "Ja ri nïm chi runimaq'ij Mozilla richin tz'ukuj chuqa' retamaxik ri "
 "ajk'amaya'l."
 
-#: mozorg/newsletters.lang:610
+#: mozorg/newsletters.lang:621
 msgid "Aurora"
 msgstr "Aq'ab'al"
 
-#: mozorg/newsletters.lang:614
+#: mozorg/newsletters.lang:625
 msgid "Join Mozilla"
 msgstr "Tatunu' awi' rik'in Mozilla"
 
-#: mozorg/newsletters.lang:618
+#: mozorg/newsletters.lang:629
 msgid "About Labs"
 msgstr "Chi rij ri Labs"
 
-#: mozorg/newsletters.lang:622
+#: mozorg/newsletters.lang:633
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
@@ -800,29 +821,29 @@ msgstr ""
 "ajkematz'ib' chuqa' oyonib'äl taq okisaxel chuwäch xtelesäx rutzijol ri "
 "ruk'isib'al ruwäch."
 
-#: mozorg/newsletters.lang:626
+#: mozorg/newsletters.lang:637
 msgid "Webmaker"
 msgstr "Webmaker"
 
-#: mozorg/newsletters.lang:630
+#: mozorg/newsletters.lang:641
 msgid "Special announcements helping you get the most out of Webmaker."
 msgstr ""
 "Nima'q taq rutzijol yatikito' chi jeb'ël nawetamaj pa ruwi' ri Webmaker."
 
-#: mozorg/newsletters.lang:634
+#: mozorg/newsletters.lang:645
 msgid "Addon Development"
 msgstr "Kinuk'ik taq tz'aqat"
 
-#: mozorg/newsletters.lang:638
+#: mozorg/newsletters.lang:649
 msgid "Firefox Marketplace for Desktop"
 msgstr "Firefox Marketplace richin Ajkematz'ib'"
 
 #. It appears here: https://www-dev.allizom.org/newsletter/firefox/
-#: mozorg/newsletters.lang:643
+#: mozorg/newsletters.lang:654
 msgid "Put more fox in your inbox."
 msgstr "Pa rub'ixik par pan ataqob'al"
 
-#: mozorg/newsletters.lang:647
+#: mozorg/newsletters.lang:658
 msgid ""
 "See where the Web can take you with monthly Firefox tips, tricks and "
 "Internet intel."
@@ -831,23 +852,23 @@ msgstr ""
 "q'oloj chuqa' Internet intel."
 
 #. # TAG: mozilla_newsletter_copy
-#: mozorg/newsletters.lang:652
+#: mozorg/newsletters.lang:663
 msgid "Sign up, read up,<br> stay informed."
 msgstr "Tatz'ib'aj ab'i', tasik'ij, <br> tawetamaj."
 
 #. String obsolete.  Do NOT remove.
 #. It appears here: https://www.mozilla.org/newsletter/mozilla/
-#: mozorg/newsletters.lang:658
+#: mozorg/newsletters.lang:669
 msgid "Sign up. Read up.<br> Make a difference."
 msgstr "Tatz'ib'aj ab'i'. Tasik'ij. <br> Tab'ana' ri jaloj."
 
 #. # TAG: mozilla_newsletter_copy
-#: mozorg/newsletters.lang:663
+#: mozorg/newsletters.lang:674
 msgid "Get smart on the issues affecting your life online."
 msgstr "Tana' awi' chi kij ri taq achike na nikitz'ila' ak'aslem pa k'amab'ey."
 
 #. String obsolete.  Do NOT remove.
-#: mozorg/newsletters.lang:668
+#: mozorg/newsletters.lang:679
 msgid ""
 "Get the Mozilla newsletter to stay informed about issues challenging the "
 "health of the Internet and to discover how you can get involved."
@@ -880,23 +901,6 @@ msgstr ""
 
 #~ msgid "We will only send you Mozilla-related information."
 #~ msgstr "Xa xe xtiqatäq el chawe taq etamab'äl chi rij Mozilla."
-
-#~ msgid ""
-#~ "Subscribe to monthly updates and keep current with Mozilla news, "
-#~ "including the latest tips and tricks for getting the most out of your "
-#~ "Firefox browser. It’s the perfect way for us to keep in touch!"
-#~ msgstr ""
-#~ "Tatz'ib'aj ab'i' richin ye'ak'ül ajik' taq k'exoj chuqa' nawetamaj q'ij "
-#~ "q'ij chi rij ri k'ak'a' k'o chupam ri Firefox, nitz'aqatisäx pe ri "
-#~ "ruk'isib'al taq q'oloj chuqa' taq pixa' richin ütz rub'eyal nawokisaj ri "
-#~ "Firefox. ¡Ja re' jun jeb'ël rub'eyal richin yojk'oje' junam jantape' "
-#~ "awik'in!"
-
-#~ msgid "Read all about it in our <span>newsletter</span>"
-#~ msgstr ""
-#~ "Xqatäq jun jikel rutzijol chawe pa taqoya'l. Tapitz'a' pa ri ruximonel "
-#~ "jikib'anem richin naya' q'ij chi re ri rutz'ib'axik ab'i' pa re "
-#~ "rucholb'al taqoya'l re'."
 
 #~ msgid "YOUR EMAIL HERE"
 #~ msgstr "ATAQOYA'L WAWE'"

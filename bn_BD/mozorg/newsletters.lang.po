@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-13 21:10+0000\n"
+"POT-Creation-Date: 2017-03-14 10:10+0000\n"
 "PO-Revision-Date: 2016-12-03 12:24+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: none\n"
@@ -31,27 +31,44 @@ msgstr "দেশ নির্বাচন করুন"
 msgid "Country:"
 msgstr "দেশ:"
 
-#. # TAG: mozilla_newsletter_2017
+#. Headline in /newsletter
 #: mozorg/newsletters.lang:24
+msgid "Read all about it in our <span>newsletter</span>"
+msgstr "আমাদের <span>নিউজলেটার</span> সম্পর্কে সব কিছু পড়ুন"
+
+#. # TAG: mozilla_newsletter_2017
+#. Subtitle in /newsletter
+#: mozorg/newsletters.lang:30
 msgid ""
 "Subscribe to updates and keep current with Mozilla news. It’s the perfect "
 "way for us to keep in touch!"
 msgstr ""
 
+#. Obsolete string, do not remove
+#: mozorg/newsletters.lang:35
+msgid ""
+"Subscribe to monthly updates and keep current with Mozilla news, including "
+"the latest tips and tricks for getting the most out of your Firefox browser. "
+"It’s the perfect way for us to keep in touch!"
+msgstr ""
+"মাসিক হালনাগাদ এবং সাম্প্রতিক মজিলার খবর রাখতে সাবস্ক্রাইব করুন, সর্বশেষ পরামর্শ "
+"এবং কৌশল সহ ফায়ারফক্স ব্রাউজারের সকল কিছু পেতে। সব সময় যোগাযোগ রাখতে এটাই "
+"আমাদের জন্য সঠিক উপায়!"
+
 #. # TAG: newsletter_confirm_2016
-#: mozorg/newsletters.lang:29
+#: mozorg/newsletters.lang:40
 msgid "You’re awesome!"
 msgstr ""
 
 #. # TAG: newsletter_confirm_2016
-#: mozorg/newsletters.lang:34
+#: mozorg/newsletters.lang:45
 msgid ""
 "And we’re not just saying that because you trusted us with your email "
 "address."
 msgstr ""
 
 #. # TAG: newsletter_confirm_2016
-#: mozorg/newsletters.lang:39
+#: mozorg/newsletters.lang:50
 #, fuzzy
 msgid ""
 "Please be sure to add mozilla@e.mozilla.org to your address book to ensure "
@@ -62,54 +79,54 @@ msgstr ""
 "জন্য।"
 
 #. # TAG: newsletter_confirm_2016
-#: mozorg/newsletters.lang:44
+#: mozorg/newsletters.lang:55
 msgid "Mozilla touches on a variety of important issues."
 msgstr ""
 
 #. # TAG: newsletter_confirm_2016
-#: mozorg/newsletters.lang:49
+#: mozorg/newsletters.lang:60
 msgid ""
 "Open your inbox (and your heart) even more — take a look at other topics we "
 "cover."
 msgstr ""
 
-#: mozorg/newsletters.lang:53
+#: mozorg/newsletters.lang:64
 msgid "Love the web? So do we!"
 msgstr ""
 
-#: mozorg/newsletters.lang:57
+#: mozorg/newsletters.lang:68
 msgid ""
 "Join thousands of developers like you who are learning the best of web "
 "development."
 msgstr ""
 
-#: mozorg/newsletters.lang:61
+#: mozorg/newsletters.lang:72
 msgid ""
 "If you don’t like the Mozilla developer newsletter, you can easily "
 "unsubscribe (but we think you’ll like it)."
 msgstr ""
 
 #. Form submit button on the Student Ambassador newsletter subscription form
-#: mozorg/newsletters.lang:66
+#: mozorg/newsletters.lang:77
 msgid "Sign me up!"
 msgstr "আমাকে সাইন আপ করুন!"
 
-#: mozorg/newsletters.lang:70
+#: mozorg/newsletters.lang:81
 msgid "Thanks for Subscribing!"
 msgstr "সাবস্ক্রাইব করার জন্য ধন্যবাদ!"
 
-#: mozorg/newsletters.lang:74
+#: mozorg/newsletters.lang:85
 msgid "Your newsletter subscription has been confirmed."
 msgstr "আপনার নিউজলেটার সাবস্ক্রিপশন নিশ্চিত হয়েছে।"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:79
+#: mozorg/newsletters.lang:90
 #, fuzzy
 msgid "Firefox + You"
 msgstr "ফায়ারফক্স এবং আপনি"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox + You)
-#: mozorg/newsletters.lang:84
+#: mozorg/newsletters.lang:95
 msgid ""
 "A monthly newsletter and special announcements giving you tips to improve "
 "your experience with Firefox on your desktop and Android device."
@@ -118,13 +135,13 @@ msgstr ""
 "ফায়ারফক্স অভিজ্ঞতাকে আরও ভালো করতে বিভিন্ন পরামর্শ দেয়।"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:89
+#: mozorg/newsletters.lang:100
 #, fuzzy
 msgid "Firefox OS + You"
 msgstr "ফায়ারফক্স এবং আপনি"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS + You)
-#: mozorg/newsletters.lang:94
+#: mozorg/newsletters.lang:105
 msgid ""
 "A monthly newsletter and special announcements on how to get the most from "
 "your Firefox OS device, including the latest features and coolest Firefox "
@@ -135,44 +152,44 @@ msgstr ""
 "ঘোষণায়।"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:100
+#: mozorg/newsletters.lang:111
 msgid "Firefox Accounts Tips"
 msgstr "Firefox Accounts পরামর্শ"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-#: mozorg/newsletters.lang:105
+#: mozorg/newsletters.lang:116
 msgid "Get the most out of your Firefox Account."
 msgstr ""
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:111
+#: mozorg/newsletters.lang:122
 msgid "Mozilla Communities"
 msgstr "মজিলা কমিউনিটি"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Communities)
-#: mozorg/newsletters.lang:116
+#: mozorg/newsletters.lang:127
 msgid "Bringing you the best new opportunities to help support the open Web."
 msgstr "ওপেন ওয়েবকে সমর্থনে সাহায্য করার সর্বোৎকৃষ্ট নতুন নতুন সুযোগ আপনাকে এনে দেয়।"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:121
+#: mozorg/newsletters.lang:132
 msgid "Firefox Student Ambassadors"
 msgstr "ফায়ারফক্স স্টুডেন্ড অ্যাম্বাসেডর"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
-#: mozorg/newsletters.lang:126
+#: mozorg/newsletters.lang:137
 msgid ""
 "A monthly newsletter on how to get involved with Mozilla on your campus."
 msgstr ""
 "কিভাবে আপনার ক্যাম্পাসে মজিলার সাথে সমৃক্ত হতে পারেন এ সংক্রান্ত একটি নিউজলেটার।"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:131
+#: mozorg/newsletters.lang:142
 msgid "Firefox Affiliates"
 msgstr "ফায়ারফক্স সম্বন্ধযুক্ত"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
-#: mozorg/newsletters.lang:136
+#: mozorg/newsletters.lang:147
 msgid ""
 "A monthly newsletter to keep you up to date with the Firefox Affiliates "
 "program."
@@ -180,216 +197,216 @@ msgstr ""
 "ফায়ারফক্স অ্যাফিলিয়েট প্রোগ্রাম সম্পর্কে আপনাকে হালনাগাদ রাখে এমন একটি নিউজলেটার।"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:141
+#: mozorg/newsletters.lang:152
 #, fuzzy
 msgid "Mozilla Developer Newsletter"
 msgstr "মজিলা ডেভেলপার নেটওয়ার্ক"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Developer Newsletter)
-#: mozorg/newsletters.lang:146
+#: mozorg/newsletters.lang:157
 msgid ""
 "A developer's guide to highlights of Web platform innovations, best "
 "practices, new documentation and more."
 msgstr ""
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:151
+#: mozorg/newsletters.lang:162
 msgid "Mozillians"
 msgstr "মজিলিয়ান"
 
 #. Description for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:156
+#: mozorg/newsletters.lang:167
 msgid "Email updates for vouched Mozillians on mozillians.org."
 msgstr "mozillians.org এ মজিলিয়ানের ভাউচ সম্পর্কিত হালনাগাদ ইমেইল।"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:161
+#: mozorg/newsletters.lang:172
 msgid "Firefox for desktop"
 msgstr "ডেস্কটপের জন্য ফায়ারফক্স"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for desktop)
-#: mozorg/newsletters.lang:166
+#: mozorg/newsletters.lang:177
 msgid "Don’t miss the latest announcements about our desktop browser."
 msgstr "আপনার ডেস্কটপ ব্রাউজার সম্পর্কে সর্বশেষ ঘোষণা মিস করবেন না যেন।"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:171
+#: mozorg/newsletters.lang:182
 msgid "Firefox for Android"
 msgstr "অ্যান্ড্রয়েড এর জন্য ফায়ারফক্স"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox for Android)
-#: mozorg/newsletters.lang:176
+#: mozorg/newsletters.lang:187
 msgid "Keep up with releases and news about Firefox for Android."
 msgstr "অ্যান্ড্রয়েডের জন্য ফায়ারফক্সের খবরাখবর এবং মুক্তি সম্পর্কিত খবর জানুন।"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:181
+#: mozorg/newsletters.lang:192
 msgid "Mozilla"
 msgstr "মোজিলা"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla)
-#: mozorg/newsletters.lang:186
+#: mozorg/newsletters.lang:197
 msgid ""
 "Special announcements and messages from the team dedicated to keeping the "
 "Web free and open."
 msgstr "ওয়েবকে ফ্রি ও উন্মুক্ত রাখতে উৎসর্গকৃত দলের কাছ থেকে বার্তা ও বিশেষ ঘোষণা।"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:191
+#: mozorg/newsletters.lang:202
 msgid "Firefox OS smartphone owner?"
 msgstr "ফায়ারফক্স ওএস স্মার্টফোনের মালিক?"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
-#: mozorg/newsletters.lang:196
+#: mozorg/newsletters.lang:207
 msgid "Don’t miss important news and updates about your Firefox OS device."
 msgstr ""
 "আপনার ফায়ারফক্স ওএস ডিভাইস সম্পর্কি খবর এবং হালনাগাদ তথ্য সম্পর্কিত গুরুত্বপূর্ণ খবর "
 "মিস করবেন না যেন।"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:201
+#: mozorg/newsletters.lang:212
 msgid "Firefox iOS"
 msgstr "Firefox iOS"
 
 #. Description for the newsletter in Newsletter subscription page (Firefox iOS)
-#: mozorg/newsletters.lang:206
+#: mozorg/newsletters.lang:217
 msgid "Be the first to know when Firefox is available for iOS devices."
 msgstr "iOS ডিভাইসে ফায়ারফক্স কখন পাওয়া যাবে তা সবার আগে জানুন।"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:211
+#: mozorg/newsletters.lang:222
 msgid "Firefox Flicks"
 msgstr "Firefox Flicks"
 
-#: mozorg/newsletters.lang:215
+#: mozorg/newsletters.lang:226
 msgid "Periodic email updates about our annual international film competition."
 msgstr "আমাদের বার্ষিক আন্তর্জাতিক চলচ্চিত্র প্রতিযোগিতায় সম্পর্কে নিয়মিত ইমেইল আপডেট।"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:220
+#: mozorg/newsletters.lang:231
 msgid "Beta News"
 msgstr "বেটা এর খবর"
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:225
+#: mozorg/newsletters.lang:236
 msgid "Mozilla Foundation"
 msgstr "Mozilla Foundation"
 
 #. Description for the newsletter in Newsletter subscription page (Mozilla Foundation)
-#: mozorg/newsletters.lang:230
+#: mozorg/newsletters.lang:241
 msgid ""
 "News and special updates about our work to promote openness, innovation and "
 "participation on the Internet, including ways for you to get involved."
 msgstr ""
 
 #. Name for the newsletter in Newsletter subscription page
-#: mozorg/newsletters.lang:235
+#: mozorg/newsletters.lang:246
 msgid "Shape of the Web"
 msgstr "ওয়েবের আকার"
 
 #. Description for the newsletter in Newsletter subscription page (Shape of the Web)
-#: mozorg/newsletters.lang:240
+#: mozorg/newsletters.lang:251
 msgid "News and information related to the health of the web."
 msgstr ""
 
-#: mozorg/newsletters.lang:244
+#: mozorg/newsletters.lang:255
 msgid "About Addons"
 msgstr "অ্যাড-অন সম্পর্কে"
 
-#: mozorg/newsletters.lang:248
+#: mozorg/newsletters.lang:259
 msgid "Firefox OS"
 msgstr "Firefox OS"
 
-#: mozorg/newsletters.lang:252
+#: mozorg/newsletters.lang:263
 msgid "Firefox OS news, tips, launch information and where to buy."
 msgstr "ফায়ারফক্স ওএসের সংবাদ, পরামর্শ, মুক্তির তথ্য এবং কোথায় কিনতে পাওয়া যাবে।"
 
-#: mozorg/newsletters.lang:257
+#: mozorg/newsletters.lang:268
 msgid "We can keep in touch with occasional messages that matter most to you."
 msgstr "যা আপনার জন্য বেশি প্রজোয্য এমন গুরুত্বপূর্ণ বার্তা নিয়ে আপনার সাথেই আছি।"
 
-#: mozorg/newsletters.lang:261
+#: mozorg/newsletters.lang:272
 msgid "Submit"
 msgstr "জমা দিন"
 
-#: mozorg/newsletters.lang:265
+#: mozorg/newsletters.lang:276
 msgid "Find out how!"
 msgstr "খুঁজে দেখুন কিভাবে!"
 
-#: mozorg/newsletters.lang:269
+#: mozorg/newsletters.lang:280
 #, fuzzy
 msgid "Newsletters"
 msgstr "নিউজলেটার"
 
-#: mozorg/newsletters.lang:273
+#: mozorg/newsletters.lang:284
 #, fuzzy
 msgid "About us"
 msgstr "আমাদের পরিচিতি"
 
-#: mozorg/newsletters.lang:277
+#: mozorg/newsletters.lang:288
 msgid "I didn't sign up for this."
 msgstr "আমি এইজন্য সাইন আপ করিনি।"
 
-#: mozorg/newsletters.lang:281
+#: mozorg/newsletters.lang:292
 msgid "Save Preferences"
 msgstr "পছন্দসমূহ সংরক্ষণ করুন"
 
-#: mozorg/newsletters.lang:285
+#: mozorg/newsletters.lang:296
 msgid ""
 "The supplied link has expired. You will receive a new one in the next "
 "newsletter."
 msgstr ""
 "সরবরাহকৃত লিঙ্কটির মেয়াদ শেষ হয়ে গেছে। আপনি পরের নিউজলেটারে নতুন একটি পাবেন।"
 
-#: mozorg/newsletters.lang:289
+#: mozorg/newsletters.lang:300
 msgid "Get up and go"
 msgstr "উঠুন এবং চলুন"
 
-#: mozorg/newsletters.lang:293
+#: mozorg/newsletters.lang:304
 msgid "Subscribe"
 msgstr "গ্রাহক হন"
 
-#: mozorg/newsletters.lang:297
+#: mozorg/newsletters.lang:308
 msgid ""
 "Set your preferences below to make sure you always receive the news you want."
 msgstr ""
 "সবসময় আপনার কাঙ্খিত খবর পেতে পারেন তা নিশ্চিত করতে নিচে আপনার পছন্দ সেট করুন।"
 
-#: mozorg/newsletters.lang:301
+#: mozorg/newsletters.lang:312
 msgid "You send too many emails."
 msgstr "আপনি অনেকগুলি ইমেইল পাঠান।"
 
-#: mozorg/newsletters.lang:305
+#: mozorg/newsletters.lang:316
 msgid "Getting too much email from us?"
 msgstr "আমাদের কাছ থেকে প্রচুর ইমেইল পাচ্ছেন?"
 
-#: mozorg/newsletters.lang:309
+#: mozorg/newsletters.lang:320
 msgid "Would you mind telling us why you’re leaving?"
 msgstr "যদি কিছু মনে না করেন আমাদের বলবেন কেন আপনি চলে যাচ্ছেন?"
 
-#: mozorg/newsletters.lang:313
+#: mozorg/newsletters.lang:324
 #, fuzzy
 msgid "Get Firefox for mobile!"
 msgstr "মোবাইলের জন্য ফায়ারফক্স"
 
-#: mozorg/newsletters.lang:317
+#: mozorg/newsletters.lang:328
 msgid "What’s Mozilla all about?"
 msgstr "Mozilla সম্পর্কে সব কিছু?"
 
-#: mozorg/newsletters.lang:321
+#: mozorg/newsletters.lang:332
 #, fuzzy
 msgid "I’m interested in:"
 msgstr "হাই, আমি আগ্রহী…"
 
-#: mozorg/newsletters.lang:325
+#: mozorg/newsletters.lang:336
 msgid "Format:"
 msgstr "বিন্যাস:"
 
-#: mozorg/newsletters.lang:329
+#: mozorg/newsletters.lang:340
 msgid "Your content wasn't relevant to me."
 msgstr "তোমার বিষয়বস্তু আমার সাথে প্রাসঙ্গিক ছিল না।"
 
-#: mozorg/newsletters.lang:333
+#: mozorg/newsletters.lang:344
 msgid ""
 "Don’t forget to check your inbox to confirm your request to get Firefox for "
 "iOS updates. If you don’t see an email from mozilla@e.mozilla.org, check "
@@ -397,66 +414,66 @@ msgid ""
 "updates."
 msgstr ""
 
-#: mozorg/newsletters.lang:337
+#: mozorg/newsletters.lang:348
 msgid "Firefox"
 msgstr "ফায়ারফক্স"
 
-#: mozorg/newsletters.lang:341
+#: mozorg/newsletters.lang:352
 msgid "We’re sorry to see you go."
 msgstr "আমরা আপনাকে যেতে দেখে দুঃখিত."
 
-#: mozorg/newsletters.lang:345
+#: mozorg/newsletters.lang:356
 #, fuzzy
 msgid "title"
 msgstr "শিরোনাম"
 
-#: mozorg/newsletters.lang:349
+#: mozorg/newsletters.lang:360
 msgid "Firefox is coming soon to iOS!"
 msgstr "খুব শীঘ্রই iOS এ আসছে Firefox!"
 
-#: mozorg/newsletters.lang:353
+#: mozorg/newsletters.lang:364
 msgid "It’s your Web anywhere you go."
 msgstr "আপনি যেখানেই যান না কেন এটি আপনারই ওয়েব।"
 
-#: mozorg/newsletters.lang:357
+#: mozorg/newsletters.lang:368
 msgid "Your email design was too hard to read."
 msgstr "আপনার ই-মেইল শৈলী পড়ার জন্য খুব বেশি কঠিন।"
 
-#: mozorg/newsletters.lang:361
+#: mozorg/newsletters.lang:372
 #, fuzzy
 msgid "Please enter a valid email address"
 msgstr "অনুগ্রহ করে আপনার বৈধ ইমেইল ঠিকানাটি দিন।"
 
-#: mozorg/newsletters.lang:365
+#: mozorg/newsletters.lang:376
 msgid "Newsletter Subscriptions"
 msgstr "নিউজলেটারে সাবস্ক্রিপশন"
 
-#: mozorg/newsletters.lang:369
+#: mozorg/newsletters.lang:380
 msgid "Unsubscribe"
 msgstr "আনসাবস্ক্রাইব করুন"
 
-#: mozorg/newsletters.lang:373
+#: mozorg/newsletters.lang:384
 #, fuzzy
 msgid "Mozilla Newsletter"
 msgstr "মোজিলা নিউজলেটার"
 
-#: mozorg/newsletters.lang:377
+#: mozorg/newsletters.lang:388
 msgid "Thanks for updating your email preferences."
 msgstr "আপনার ইমেইল পছন্দসমূহ হালনাগাদ করার জন্য ধন্যবাদ।"
 
-#: mozorg/newsletters.lang:381
+#: mozorg/newsletters.lang:392
 msgid "We’re glad you asked!"
 msgstr "আপনি জিজ্ঞাসা করায় আমরা আনন্দিত!"
 
-#: mozorg/newsletters.lang:385
+#: mozorg/newsletters.lang:396
 msgid "Firefox on iOS — Sign up for email updates — Mozilla"
 msgstr "IOS এ Firefox — ইমেলে খবরাখবর জানতে সাইন আপ করুন — Mozilla"
 
-#: mozorg/newsletters.lang:389
+#: mozorg/newsletters.lang:400
 msgid "Something is amiss with our system, sorry! Please try again later."
 msgstr "আপনার সিস্টেমে কোন ভুল রয়েছে, দুঃখিত! অনুগ্রহ করে পরে আবার চেষ্টা করুন।"
 
-#: mozorg/newsletters.lang:393
+#: mozorg/newsletters.lang:404
 msgid ""
 "Check all categories that apply to you, and we promise to keep the mail to a "
 "minimum."
@@ -464,35 +481,35 @@ msgstr ""
 "আপনার ক্ষেত্রে প্রযোজ্য বিষয়শ্রেণী নির্বাচন করুন, এবং মেইলের সংখ্যা নূন্যতম রাখার "
 "প্রতিজ্ঞা করছি আমরা।"
 
-#: mozorg/newsletters.lang:397
+#: mozorg/newsletters.lang:408
 #, fuzzy
 msgid "description"
 msgstr "বর্ণনা"
 
-#: mozorg/newsletters.lang:401
+#: mozorg/newsletters.lang:412
 msgid ""
 "Sign up today to receive email updates about the iOS version of Firefox."
 msgstr "Firefox এর iOS সংস্করণ সম্পর্কে ইমেলে খবরাখবর পাওয়ার জন্য আজই সাইন আপ করুন।"
 
-#: mozorg/newsletters.lang:405
+#: mozorg/newsletters.lang:416
 msgid "I'm keeping in touch with Mozilla on Facebook and Twitter instead."
 msgstr "আমি ফেসবুক ও টুইটারের পরিবর্তে মোজিলার সঙ্গে যোগাযোগ রাখছি।"
 
-#: mozorg/newsletters.lang:409
+#: mozorg/newsletters.lang:420
 msgid ""
 "Success! An email has been sent to you with your preference center link. "
 "Thanks!"
 msgstr ""
 
-#: mozorg/newsletters.lang:413
+#: mozorg/newsletters.lang:424
 msgid "Remove me from all Mozilla emails"
 msgstr "সব মোজিলা ইমেইল থেকে আমাকে অপসারণ করুন"
 
-#: mozorg/newsletters.lang:417
+#: mozorg/newsletters.lang:428
 msgid "Thanks for telling us why you’re leaving."
 msgstr "আপনার চলে যাওয়ার কারণ সম্পর্কে আমদের বলার জন্য ধন্যবাদ।"
 
-#: mozorg/newsletters.lang:421
+#: mozorg/newsletters.lang:432
 msgid ""
 "Enter your email address and we’ll send you a link to your email preference "
 "center."
@@ -500,85 +517,85 @@ msgstr ""
 "আপনার ইমেইল ঠিকানা দিন এবং আপনার বাছাইকৃত ইমেইল এর মধ্য থেকে আমরা আপনাকে একটি "
 "লিঙ্ক পাঠাবো।"
 
-#: mozorg/newsletters.lang:425
+#: mozorg/newsletters.lang:436
 msgid "Send me a link"
 msgstr "আমাকে একটি লিঙ্ক পাঠান"
 
-#: mozorg/newsletters.lang:429
+#: mozorg/newsletters.lang:440
 msgid "Added extras"
 msgstr "বাড়তি যোগ হয়েছে"
 
-#: mozorg/newsletters.lang:433
+#: mozorg/newsletters.lang:444
 msgid "%s is not a valid newsletter"
 msgstr "%s বৈধ নিউজলেটার নয়"
 
-#: mozorg/newsletters.lang:437
+#: mozorg/newsletters.lang:448
 msgid "English&nbsp;only"
 msgstr "ইংরেজি&nbsp;কেবলমাত্র"
 
-#: mozorg/newsletters.lang:441
+#: mozorg/newsletters.lang:452
 msgid "This is not a valid email address. Please check the spelling."
 msgstr ""
 
-#: mozorg/newsletters.lang:445
+#: mozorg/newsletters.lang:456
 msgid ""
 "Thanks for your interest in the upcoming iOS version of Firefox. We’re "
 "pretty excited about it too!"
 msgstr ""
 
-#: mozorg/newsletters.lang:449
+#: mozorg/newsletters.lang:460
 msgid "You’ve been unsubscribed."
 msgstr "আপনি আনসাবস্ক্রাইব হয়েছেন।"
 
-#: mozorg/newsletters.lang:453
+#: mozorg/newsletters.lang:464
 msgid "Make Firefox do more with add-ons."
 msgstr "অ্যাড-অন ব্যবহারে Firefox কে আরও কার্যকরী করে তুলুন।"
 
-#: mozorg/newsletters.lang:457
+#: mozorg/newsletters.lang:468
 #, fuzzy
 msgid "You must agree to the privacy notice"
 msgstr "আপনাকে অবশ্যই গোপনীয়তার নীতিমালার সাথে সম্মত হতে হবে"
 
-#: mozorg/newsletters.lang:461
+#: mozorg/newsletters.lang:472
 msgid "You must agree to the privacy policy"
 msgstr "আপনাকে অবশ্যই গোপনীয়তার নীতিমালার সাথে সম্মত হতে হবে"
 
-#: mozorg/newsletters.lang:465
+#: mozorg/newsletters.lang:476
 msgid "Other…"
 msgstr "অন্যান্য..."
 
 #. <title> tag for the subscription confirmation page
-#: mozorg/newsletters.lang:470
+#: mozorg/newsletters.lang:481
 msgid "Newsletter confirm"
 msgstr "নিউজলেটার নিশ্চিত করুন"
 
-#: mozorg/newsletters.lang:474
+#: mozorg/newsletters.lang:485
 msgid ""
 "Not interested in our newsletters, but like those special announcements? No "
 "problem."
 msgstr "আমাদের নিউজলেটারে আগ্রহী না, কিন্তু এমন বিশেষ ঘোষণায় আগ্রহী? সমস্যা নেই।"
 
-#: mozorg/newsletters.lang:478
+#: mozorg/newsletters.lang:489
 msgid "Manage your Email Preferences"
 msgstr "আপনার ইমেইল সংক্রান্ত পছন্দ ঠিক করুন"
 
-#: mozorg/newsletters.lang:482
+#: mozorg/newsletters.lang:493
 msgid "This page is in maintenance mode and is temporarily unavailable."
 msgstr ""
 
-#: mozorg/newsletters.lang:486
+#: mozorg/newsletters.lang:497
 msgid ""
 "To update your email preferences, please check back in a little while. "
 "Thanks!"
 msgstr "আপনার ইমেল পছন্দগুলি আপডেট করতে, কিছুক্ষণের মধ্যে আবার চেক করুন। ধন্যবাদ!"
 
-#: mozorg/newsletters.lang:490
+#: mozorg/newsletters.lang:501
 msgid ""
 "We love sharing updates about all the awesome things happening at Mozilla."
 msgstr ""
 "Mozilla তে ঘটছে এমন অসাধারণ ঘটনার হালনাগাদ খবর আমরা শেয়ার করতে ভালবাসি।"
 
-#: mozorg/newsletters.lang:494
+#: mozorg/newsletters.lang:505
 msgid ""
 "This email address is not in our system. Please double check your address or "
 "<a href=\"%s\">subscribe to our newsletters.</a>"
@@ -586,19 +603,19 @@ msgstr ""
 "এই ইমেইল ঠিকানাটি আমাদের সিস্টেমে নয়। আপনার ঠিকানা আবার চেক করুন অথবা <a href="
 "\"%s\"> আমাদের নিউজলেটার সাবস্ক্রাইব করুন।</a>"
 
-#: mozorg/newsletters.lang:498
+#: mozorg/newsletters.lang:509
 msgid ""
 "We are sorry, but there was a problem with our system. Please try again "
 "later!"
 msgstr "আমরা দুঃখিত, কিন্তু আমাদের সিস্টেমে একটি সমস্যা ছিল। পরে আবার চেষ্টা করুন!"
 
-#: mozorg/newsletters.lang:502
+#: mozorg/newsletters.lang:513
 msgid ""
 "The supplied link has expired or is not valid. You will receive a new one in "
 "the next newsletter, or below you can request an email with the link."
 msgstr ""
 
-#: mozorg/newsletters.lang:506
+#: mozorg/newsletters.lang:517
 msgid ""
 "Please be sure to add our sending address: mozilla@e.mozilla.org to your "
 "address book to ensure we always reach your inbox."
@@ -607,23 +624,23 @@ msgstr ""
 "করুন আপনার ঠিকানা বুকে যাতে আমরা সবসময় আপনার ইনবক্সে পৌছতে পারি তা নিশ্চত করার "
 "জন্য।"
 
-#: mozorg/newsletters.lang:510
+#: mozorg/newsletters.lang:521
 msgid "While here, why not check out some more Firefox awesomeness."
 msgstr "যখন এখানে আছেন, ফায়ারফক্সের আরও কিছু অসাধারণ ব্যাপার দেখে নিন।"
 
-#: mozorg/newsletters.lang:514
+#: mozorg/newsletters.lang:525
 msgid "Manage your <span>Newsletter Subscriptions</span>"
 msgstr "পরিচালনা করুন আপনার <span>নিউজলেটার সাবস্ক্রিপশন </span>"
 
-#: mozorg/newsletters.lang:518
+#: mozorg/newsletters.lang:529
 msgid "Sign up below for updates and to be notified when it launches."
 msgstr "হালদানাগদের জন্য সাইন আপ করুন এবং যখন লঞ্চ হবে তখন এটি আপনাকে জানাবে।"
 
-#: mozorg/newsletters.lang:522
+#: mozorg/newsletters.lang:533
 msgid "Newsletter email recovery"
 msgstr "নিউজ লেটার ইমেইল পুনরুদ্ধার"
 
-#: mozorg/newsletters.lang:526
+#: mozorg/newsletters.lang:537
 #, fuzzy
 msgid ""
 "*You’ll only receive updates and announcements about the iOS version of "
@@ -631,27 +648,27 @@ msgid ""
 msgstr ""
 "*আপনি শুধুমাত্র iOS জন্য তৈরি ফায়ারফক্স সংস্করণের হালনাগাদ এবং ঘোষণা গ্রহণ করবেন।"
 
-#: mozorg/newsletters.lang:530
+#: mozorg/newsletters.lang:541
 msgid "Firefox Marketplace for Firefox OS"
 msgstr "Firefox OS এর জন্য Firefox Marketplace"
 
-#: mozorg/newsletters.lang:534
+#: mozorg/newsletters.lang:545
 msgid "Discover the latest, coolest HTML5 apps on Firefox OS."
 msgstr "আবিষ্কার করুন Firefox OS এ নতুন, দারুন সব HTML5 অ্যাপ।"
 
-#: mozorg/newsletters.lang:538
+#: mozorg/newsletters.lang:549
 msgid "Firefox Weekly Tips"
 msgstr "Firefox এর সাপ্তাহিক পরামর্শ"
 
-#: mozorg/newsletters.lang:542
+#: mozorg/newsletters.lang:553
 msgid "Get a weekly tip on how to super-charge your Firefox experience."
 msgstr "আপনার ফায়ারফক্স অভিজ্ঞতাকে আরও সুপার-চার্জ করতে সপ্তাহিক পরামর্শ পান।"
 
-#: mozorg/newsletters.lang:546
+#: mozorg/newsletters.lang:557
 msgid "Student Reps"
 msgstr ""
 
-#: mozorg/newsletters.lang:550
+#: mozorg/newsletters.lang:561
 msgid ""
 "Former University program from 2008-2011, now retired and relaunched as the "
 "Firefox Student Ambassadors program."
@@ -659,134 +676,134 @@ msgstr ""
 "সাবেক বিশ্ববিদ্যালয় প্রোগ্রাম 2008-2011, এখন অবসর নিয়ে এবং ফায়ারফক্স স্টুডেন্ট "
 "অ্যাম্বাসেডর প্রোগ্রাম নামে পুনরায় আরম্ভ করা হয়।"
 
-#: mozorg/newsletters.lang:554
+#: mozorg/newsletters.lang:565
 msgid "Mozilla Learning Network"
 msgstr "Mozilla Learning Network"
 
-#: mozorg/newsletters.lang:558
+#: mozorg/newsletters.lang:569
 msgid ""
 "Updates from our global community, helping people learn the most important "
 "skills of our age: the ability to read, write and participate in the digital "
 "world."
 msgstr ""
 
-#: mozorg/newsletters.lang:562
+#: mozorg/newsletters.lang:573
 msgid "Download Firefox for iOS"
 msgstr "iOS এর জন্য Firefox ডাউনলোড করুন"
 
-#: mozorg/newsletters.lang:566
+#: mozorg/newsletters.lang:577
 #, fuzzy
 msgid "Download Firefox for Android"
 msgstr "অ্যান্ড্রয়েড এর জন্য বেটা ডাউনলোড করুন"
 
-#: mozorg/newsletters.lang:570
+#: mozorg/newsletters.lang:581
 #, fuzzy
 msgid "Get Firefox for Android"
 msgstr "অ্যান্ড্রয়েড এর জন্য ফায়ারফক্স"
 
-#: mozorg/newsletters.lang:574
+#: mozorg/newsletters.lang:585
 msgid "Drumbeat Newsgroup"
 msgstr ""
 
-#: mozorg/newsletters.lang:578
+#: mozorg/newsletters.lang:589
 msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
-#: mozorg/newsletters.lang:582
+#: mozorg/newsletters.lang:593
 msgid ""
 "Special announcements about Mozilla's annual, hands-on festival dedicated to "
 "forging the future of the open Web."
 msgstr ""
 
-#: mozorg/newsletters.lang:586
+#: mozorg/newsletters.lang:597
 #, fuzzy
 msgid "Firefox Marketplace for Android"
 msgstr "ডেস্কটপের জন্য Firefox Marketplace"
 
-#: mozorg/newsletters.lang:590
+#: mozorg/newsletters.lang:601
 msgid "About Standards"
 msgstr ""
 
-#: mozorg/newsletters.lang:594
+#: mozorg/newsletters.lang:605
 msgid "Get Involved"
 msgstr "সম্পৃক্ত হোন"
 
-#: mozorg/newsletters.lang:598
+#: mozorg/newsletters.lang:609
 msgid "Download Firefox for Mobile"
 msgstr "মোবাইল এর জন্য Firefox ডাউনলোড করুন"
 
-#: mozorg/newsletters.lang:602
+#: mozorg/newsletters.lang:613
 msgid "Maker Party"
 msgstr "মেকার পার্টি"
 
-#: mozorg/newsletters.lang:606
+#: mozorg/newsletters.lang:617
 msgid "Mozilla's largest celebration of making and learning on the web."
 msgstr ""
 
-#: mozorg/newsletters.lang:610
+#: mozorg/newsletters.lang:621
 msgid "Aurora"
 msgstr "Aurora"
 
-#: mozorg/newsletters.lang:614
+#: mozorg/newsletters.lang:625
 msgid "Join Mozilla"
 msgstr "Mozilla তে যোগদান করুন"
 
-#: mozorg/newsletters.lang:618
+#: mozorg/newsletters.lang:629
 msgid "About Labs"
 msgstr "Labs সম্পর্কে"
 
-#: mozorg/newsletters.lang:622
+#: mozorg/newsletters.lang:633
 msgid ""
 "Read about the latest features for Firefox desktop and mobile before the "
 "final release."
 msgstr ""
 "ফায়ারফক্স ডেস্কটপ এবং মোবাইলের জন্য সর্বশেষ বৈশিষ্ট্য সম্পর্কে চূড়ান্ত রিলিজের আগে পড়ুন।"
 
-#: mozorg/newsletters.lang:626
+#: mozorg/newsletters.lang:637
 msgid "Webmaker"
 msgstr "ওয়েবমেকার"
 
-#: mozorg/newsletters.lang:630
+#: mozorg/newsletters.lang:641
 msgid "Special announcements helping you get the most out of Webmaker."
 msgstr ""
 
-#: mozorg/newsletters.lang:634
+#: mozorg/newsletters.lang:645
 msgid "Addon Development"
 msgstr "অ্যাডঅন ডেভেলপমেন্ট"
 
-#: mozorg/newsletters.lang:638
+#: mozorg/newsletters.lang:649
 msgid "Firefox Marketplace for Desktop"
 msgstr "ডেস্কটপের জন্য Firefox Marketplace"
 
 #. It appears here: https://www-dev.allizom.org/newsletter/firefox/
-#: mozorg/newsletters.lang:643
+#: mozorg/newsletters.lang:654
 msgid "Put more fox in your inbox."
 msgstr "আপনার ইনবক্সে আরো শিয়াল রাখুন।"
 
-#: mozorg/newsletters.lang:647
+#: mozorg/newsletters.lang:658
 msgid ""
 "See where the Web can take you with monthly Firefox tips, tricks and "
 "Internet intel."
 msgstr ""
 
 #. # TAG: mozilla_newsletter_copy
-#: mozorg/newsletters.lang:652
+#: mozorg/newsletters.lang:663
 msgid "Sign up, read up,<br> stay informed."
 msgstr ""
 
 #. String obsolete.  Do NOT remove.
 #. It appears here: https://www.mozilla.org/newsletter/mozilla/
-#: mozorg/newsletters.lang:658
+#: mozorg/newsletters.lang:669
 msgid "Sign up. Read up.<br> Make a difference."
 msgstr ""
 
 #. # TAG: mozilla_newsletter_copy
-#: mozorg/newsletters.lang:663
+#: mozorg/newsletters.lang:674
 msgid "Get smart on the issues affecting your life online."
 msgstr ""
 
 #. String obsolete.  Do NOT remove.
-#: mozorg/newsletters.lang:668
+#: mozorg/newsletters.lang:679
 msgid ""
 "Get the Mozilla newsletter to stay informed about issues challenging the "
 "health of the Internet and to discover how you can get involved."
@@ -810,18 +827,6 @@ msgstr ""
 
 #~ msgid "We will only send you Mozilla-related information."
 #~ msgstr "আমরা কেবল আপনাকে মোজিলা সম্পর্কিত তথ্য পাঠাবো।"
-
-#~ msgid ""
-#~ "Subscribe to monthly updates and keep current with Mozilla news, "
-#~ "including the latest tips and tricks for getting the most out of your "
-#~ "Firefox browser. It’s the perfect way for us to keep in touch!"
-#~ msgstr ""
-#~ "মাসিক হালনাগাদ এবং সাম্প্রতিক মজিলার খবর রাখতে সাবস্ক্রাইব করুন, সর্বশেষ পরামর্শ "
-#~ "এবং কৌশল সহ ফায়ারফক্স ব্রাউজারের সকল কিছু পেতে। সব সময় যোগাযোগ রাখতে এটাই "
-#~ "আমাদের জন্য সঠিক উপায়!"
-
-#~ msgid "Read all about it in our <span>newsletter</span>"
-#~ msgstr "আমাদের <span>নিউজলেটার</span> সম্পর্কে সব কিছু পড়ুন"
 
 #~ msgid "Get Firefox news"
 #~ msgstr "ফায়ারফক্সের খবর জানুন"
