@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-21 19:13+0000\n"
+"POT-Creation-Date: 2017-03-21 21:12+0000\n"
 "PO-Revision-Date: 2017-03-21 19:13+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -23,8 +23,17 @@ msgstr ""
 msgid "Download %s in your language"
 msgstr ""
 
+#: firefox/all.lang:15
+#, fuzzy
+msgid "Language"
+msgstr "Ñe'ẽ:"
+
+#: firefox/all.lang:19
+msgid "Download"
+msgstr "Mboguejy"
+
 #. This is displayed on firefox/beta/all/.
-#: firefox/all.lang:16
+#: firefox/all.lang:24
 msgid ""
 "Download Firefox Beta in your language and experience cutting edge features "
 "before they make it to final release. Provide feedback to help us refine and "
@@ -33,7 +42,7 @@ msgstr ""
 
 #. %s is replaced with Firefox.
 #. This is displayed on firefox/aurora/all/.
-#: firefox/all.lang:22
+#: firefox/all.lang:30
 msgid ""
 "Download %s in your language to experience the newest features and "
 "innovations in an unstable environment even before they go to Beta. Give us "
@@ -42,7 +51,7 @@ msgid ""
 msgstr ""
 
 #. This is displayed on firefox/nightly/all/.
-#: firefox/all.lang:27
+#: firefox/all.lang:35
 msgid ""
 "Are you a power-user comfortable installing pre-alpha software? Install "
 "Nightly and help us improve Firefox quality, hunt crashes and regressions "
@@ -50,13 +59,13 @@ msgid ""
 msgstr ""
 
 #. This is displayed on firefox/organizations/all/.
-#: firefox/all.lang:32
+#: firefox/all.lang:40
 msgid ""
 "Firefox ESR is intended for groups who deploy and maintain the desktop "
 "environment in large organizations. <a href=\"%s\">Learn more.</a>"
 msgstr ""
 
-#: firefox/all.lang:36
+#: firefox/all.lang:44
 msgid ""
 "Firefox is made in large part by volunteers around the world. That’s why we "
 "offer it in 90 languages (and why there’s heart and soul in every piece of "
@@ -64,77 +73,82 @@ msgid ""
 msgstr ""
 
 #. Product name is hard coded inside the product, thus not localizable.
-#: firefox/all.lang:41
+#: firefox/all.lang:49
 #, fuzzy
 msgid "Firefox Developer Edition"
 msgstr "Eipuru Firefox Developer Edition"
 
 #. Product name is hard coded inside the product, thus not localizable.
-#: firefox/all.lang:46
+#: firefox/all.lang:54
 msgid "Firefox Nightly"
 msgstr ""
 
-#: firefox/all.lang:50
+#: firefox/all.lang:58
 msgid ""
 "Thanks to contributions of Mozilla community members around the world, "
 "Firefox is available in 90 languages:"
 msgstr ""
 
 #. This is displayed on firefox/nightly/all/.
-#: firefox/all.lang:55
+#: firefox/all.lang:63
 msgid ""
 "<strong>Warning</strong>: Nightly is updated daily. It is most appropriate "
 "for core Mozilla contributors and early adopters, not regular users."
 msgstr ""
 
-#: firefox/all.lang:59
+#: firefox/all.lang:67
 msgid "Check the system requirements"
 msgstr ""
 
-#: firefox/all.lang:63
+#: firefox/all.lang:71
 #, fuzzy
 msgid "Release notes"
 msgstr "Jehaipy rehegua"
 
-#: firefox/all.lang:67
+#: firefox/all.lang:75
 msgid "Source code"
 msgstr ""
 
 #. This is displayed on firefox/organizations/all/.
-#: firefox/all.lang:72
+#: firefox/all.lang:80
 msgid "Show:"
 msgstr ""
 
-#: firefox/all.lang:76
+#: firefox/all.lang:84
 msgid "Fully localized versions"
 msgstr ""
 
-#: firefox/all.lang:80
+#: firefox/all.lang:88
 msgid "Localized versions in testing"
 msgstr ""
 
-#: firefox/all.lang:84
+#: firefox/all.lang:92
 msgid ""
 "These localizations aren’t final. We’re waiting for more feedback from the "
 "community to perfect them."
 msgstr ""
 
-#: firefox/all.lang:88
+#. Used in Android pages like /firefox/android/beta/all/
+#: firefox/all.lang:97
+msgid "Multi-locale"
+msgstr ""
+
+#: firefox/all.lang:101
 msgid "Search languages"
 msgstr ""
 
-#: firefox/all.lang:92
+#: firefox/all.lang:105
 msgid "Search"
 msgstr "Heka"
 
-#: firefox/all.lang:96
+#: firefox/all.lang:109
 msgid "No matching languages found."
 msgstr ""
 
-#: firefox/all.lang:100
+#: firefox/all.lang:113
 msgid "Download for %(platform)s in %(locale)s"
 msgstr ""
 
-#: firefox/all.lang:104
+#: firefox/all.lang:117
 msgid "Not Yet Available"
 msgstr ""
