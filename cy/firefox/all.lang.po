@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-22 07:09+0000\n"
-"PO-Revision-Date: 2017-03-21 20:13+0000\n"
+"PO-Revision-Date: 2017-03-22 08:56+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: none\n"
 "Language: cy\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Translate Toolkit 2.1.0\n"
-"X-POOTLE-MTIME: 1490127198.000000\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1490173003.000000\n"
 
 #. %s is replaced with Firefox.
 #: firefox/all.lang:6
@@ -26,9 +26,8 @@ msgid "Download %s in your language"
 msgstr "Llwythwch %s l lawr yn eich iaith"
 
 #: firefox/all.lang:15
-#, fuzzy
 msgid "Language"
-msgstr "Iaith:"
+msgstr "Iaith"
 
 #: firefox/all.lang:19
 msgid "Download"
@@ -66,6 +65,9 @@ msgid ""
 "Nightly and help us improve Firefox quality, hunt crashes and regressions "
 "and test new features as they get coded!"
 msgstr ""
+"Ydych chi'n ddefnyddiwr uwch yn gysurus gyda gosod meddalwedd cyn alffa? "
+"Gosodwch Nightly a'n helpu ni i wella ansawdd Firefox, chwilio am chwalfeydd "
+"ac atchweliadau, a phrofi nodweddion newydd wrth iddyn nhw gael eu codio!"
 
 #. This is displayed on firefox/organizations/all/.
 #: firefox/all.lang:40
@@ -73,6 +75,8 @@ msgid ""
 "Firefox ESR is intended for groups who deploy and maintain the desktop "
 "environment in large organizations. <a href=\"%s\">Learn more.</a>"
 msgstr ""
+"Mae Firefox ESR ar gael ar gyfer grwpiau sy'n darparu a chynnal amgylcheddau "
+"bwrdd gwaith mewn cyrff mawr.  <a href=\"%s\">Dysgu rhagor.</a>"
 
 #: firefox/all.lang:44
 msgid ""
@@ -80,11 +84,14 @@ msgid ""
 "offer it in 90 languages (and why there’s heart and soul in every piece of "
 "code)."
 msgstr ""
+"Mae Firefox yn cael ei greu'n rhannol gan wirfoddolwyr byd eang. Dyna pam "
+"ein bod yn ei gynnig mewn 90 iaith (a dyna pam fod calon ac enaid ym mhob "
+"darn o god)."
 
 #. Product name is hard coded inside the product, thus not localizable.
 #: firefox/all.lang:49
 msgid "Firefox Developer Edition"
-msgstr "Firefox Datblygwyr"
+msgstr "Firefox Developer Edition"
 
 #. Product name is hard coded inside the product, thus not localizable.
 #: firefox/all.lang:54
@@ -98,6 +105,8 @@ msgid ""
 "Thanks to contributions of Mozilla community members around the world, "
 "Firefox is available in 90 languages:"
 msgstr ""
+"Diolch i gyfraniad aelodau cymuned byd-eang Mozilla, mae Firefox ar gael "
+"mewn 90 iaith: "
 
 #. This is displayed on firefox/nightly/all/.
 #: firefox/all.lang:65
@@ -105,10 +114,13 @@ msgid ""
 "<strong>Warning</strong>: Nightly is updated daily. It is most appropriate "
 "for core Mozilla contributors and early adopters, not regular users."
 msgstr ""
+"<strong>Rhybudd</strong>: Mae Nightly'n cael ei ddiweddaru bob dydd. Mae'n "
+"fwyaf priodol ar gyfer cyfranwyr craidd Mozilla a mabwysiadwyr cynnar, nid "
+"defnyddwyr arferol."
 
 #: firefox/all.lang:69
 msgid "Check the system requirements"
-msgstr ""
+msgstr "Gwiriwch anghenion y system"
 
 #: firefox/all.lang:73
 msgid "Release notes"
@@ -116,35 +128,37 @@ msgstr "Nodiadau rhyddhau"
 
 #: firefox/all.lang:77
 msgid "Source code"
-msgstr ""
+msgstr "Cod ffynhonnell"
 
 #. This is displayed on firefox/organizations/all/.
 #: firefox/all.lang:82
 msgid "Show:"
-msgstr ""
+msgstr "Dangos:"
 
 #: firefox/all.lang:86
 msgid "Fully localized versions"
-msgstr ""
+msgstr "Fersiynau wedi eu lleoleiddio'n llawn"
 
 #: firefox/all.lang:90
 msgid "Localized versions in testing"
-msgstr ""
+msgstr "Fersiynau wedi ei lleoleiddio ar brawf"
 
 #: firefox/all.lang:94
 msgid ""
 "These localizations aren’t final. We’re waiting for more feedback from the "
 "community to perfect them."
 msgstr ""
+"Nid yw'r lleoleiddiadau hyn yn derfynol. Rydym yn aros am adborth pellach "
+"o'r gymuned er mwyn eu perffeithio."
 
 #. Used in Android pages like /firefox/android/beta/all/
 #: firefox/all.lang:99
 msgid "Multi-locale"
-msgstr ""
+msgstr "Amlieithog"
 
 #: firefox/all.lang:103
 msgid "Search languages"
-msgstr ""
+msgstr "Chwlio'r ieithoedd"
 
 #: firefox/all.lang:107
 msgid "Search"
@@ -152,12 +166,12 @@ msgstr "Chwilio"
 
 #: firefox/all.lang:111
 msgid "No matching languages found."
-msgstr ""
+msgstr "Heb ganfod iaith gyfatebol"
 
 #: firefox/all.lang:115
 msgid "Download for %(platform)s in %(locale)s"
-msgstr ""
+msgstr "Y rhaglen ar gyfer %(platform)s %(locale)s"
 
 #: firefox/all.lang:119
 msgid "Not Yet Available"
-msgstr ""
+msgstr "Nid Ar Gael Eto"
