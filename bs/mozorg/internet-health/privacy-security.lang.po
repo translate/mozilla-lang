@@ -4,19 +4,22 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-13 21:10+0000\n"
-"PO-Revision-Date: 2017-01-21 15:09+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2017-03-25 14:18+0000\n"
+"Last-Translator: Peiying Mo <pmo@mozilla.com>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: bs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1490451513.000000\n"
 
 #. Used as both main title and HTML meta tag (title)
 #: mozorg/internet-health/privacy-security.lang:8
 msgid "A Healthy Internet is Secure and Private"
-msgstr ""
+msgstr "Zdrav internet je siguran i privatan"
 
 #. HTML meta tag (description)
 #: mozorg/internet-health/privacy-security.lang:13
@@ -24,6 +27,8 @@ msgid ""
 "The Internet only stays healthy if we trust it as a safe place – to explore, "
 "transact, connect, and create."
 msgstr ""
+"Internet ostaje zdrav jedino ako vjerujemo da je sigurno mjesto – za "
+"istraživanje, sprovođenje, konektovanje, i kreiranje."
 
 #. # TAG: internet_health_digital_inclusion
 #: mozorg/internet-health/privacy-security.lang:18
@@ -47,33 +52,38 @@ msgid ""
 "constant threat. But there’s something you can do about it: get informed, "
 "protect yourself, and make your voice heard."
 msgstr ""
+"Internet ostaje zdrav jedino ako vjerujemo da je sigurno mjesto – za "
+"istraživanje, sprovođenje, konektovanje i kreiranje. Naša privatnost i "
+"sigurnost na mreži je pod stalnom prijetnjom. Ali postoji nešto što možete "
+"učiniti u vezi toga: informirajte se, zaštitite se, i učinite da se vaš glas "
+"čuje."
 
 #: mozorg/internet-health/privacy-security.lang:35
 msgid "A healthy Internet depends on you."
-msgstr ""
+msgstr "Zdrav internet zavisi od vas."
 
 #: mozorg/internet-health/privacy-security.lang:39
 msgid "Here are three areas where we can make a difference."
-msgstr ""
+msgstr "Postoje tri područja gdje možemo napraviti razliku."
 
 #. This is a navigation link
 #: mozorg/internet-health/privacy-security.lang:44
 msgid "User Control"
-msgstr ""
+msgstr "Korisnička kontrola"
 
 #. This is a navigation link
 #: mozorg/internet-health/privacy-security.lang:49
 msgid "Cyber Security"
-msgstr ""
+msgstr "Sajber sigurnost"
 
 #. This is a navigation link
 #: mozorg/internet-health/privacy-security.lang:54
 msgid "Government Surveillance"
-msgstr ""
+msgstr "Nadzor vlade"
 
 #: mozorg/internet-health/privacy-security.lang:58
 msgid "User Control: Deciding who can collect your data"
-msgstr ""
+msgstr "Korisnička kontrola: odlučuje ko može prikupljati vaše podatke"
 
 #: mozorg/internet-health/privacy-security.lang:62
 msgid ""
@@ -81,6 +91,9 @@ msgid ""
 "information we share with what companies, understanding the tradeoffs we’re "
 "making when we do."
 msgstr ""
+"Trebali bismo svi biti u mogućnosti izabrati – s jasnoćom i povjerenjem – "
+"koje informacije dijelimo s kojim kompanijama, razumijevanje kompromisa "
+"pravimo kada radimo."
 
 #: mozorg/internet-health/privacy-security.lang:66
 msgid ""
@@ -88,12 +101,17 @@ msgid ""
 "miles long and hard to read, we don’t understand what information we’re "
 "sharing or when, and opting out is seldom on the menu."
 msgstr ""
+"Upravo sada, svima nedostaje značajan izbor na mreži – politike privatnosti "
+"su često preduge i teške za čitanje, ne možemo razumjeti koje informacije "
+"dijelimo ili kada, i odbijanje je rijetko na meniju."
 
 #: mozorg/internet-health/privacy-security.lang:70
 msgid ""
 "91% of adults agree that consumers have lost control of how personal "
 "information is collected and used by companies."
 msgstr ""
+"91% odraslih se slaže da su korisnici izgubili kontrolu o tome kako se lične "
+"informacije prikupljene i korištene od strane kompanija."
 
 #. Pew Research Center is an organization
 #: mozorg/internet-health/privacy-security.lang:75
@@ -101,6 +119,7 @@ msgid ""
 "Source: <a href=\"%(pew)s\" rel=\"external\">Pew Research Center</a>, May "
 "2015"
 msgstr ""
+"Izvor: <a href=\"%(pew)s\" rel=\"external\">Pew Research Center</a>, maj 2015"
 
 #. This is used as a decorative element in a callout box.
 #: mozorg/internet-health/privacy-security.lang:80
@@ -109,7 +128,7 @@ msgstr ""
 
 #: mozorg/internet-health/privacy-security.lang:84
 msgid "What you can do about user control"
-msgstr ""
+msgstr "Šta možete učiniti u vezi korisničke kontrole"
 
 #. # TAG: internet_health_subpage_rebrand
 #: mozorg/internet-health/privacy-security.lang:89
@@ -122,6 +141,10 @@ msgid ""
 "privacy and location settings on <a href=\"%(ios)s\" rel=\"external\">iOS</"
 "a> and <a href=\"%(android)s\" rel=\"external\">Android</a>."
 msgstr ""
+"Budite sigurni da vaše mobilne aplikacije pristupaju samo informacijama koje "
+"trebaju. Kontrolišite vaše postavke privatnosti i lokacije na <a href="
+"\"%(ios)s\" rel=\"external\">iOS</a> i <a href=\"%(android)s\" rel=\"external"
+"\">Androidu</a>."
 
 #. # TAG: internet_health_subpage_rebrand
 #: mozorg/internet-health/privacy-security.lang:98
@@ -145,10 +168,15 @@ msgid ""
 "that’s been collected about you by Acxiom</a>, one of the world’s largest "
 "marketing data brokers."
 msgstr ""
+"Upoznajte svoje postavke. Možete upravljati vašim profilom i sklonostima za "
+"<a href=\"%(google)s\">Google</a>, <a href=\"%(yahoo)s\">Yahoo!</a> i <a "
+"href=\"%(facebook)s\">Facebook</a> reklame, i čak <a href=\"%(acxiom)s"
+"\">urediti podatke koji su prikupljeni o vama od strane Acxiom</a>, jednog "
+"od najvećih svjetskih brokera marketinških podataka."
 
 #: mozorg/internet-health/privacy-security.lang:112
 msgid "What Mozilla is doing about user control"
-msgstr ""
+msgstr "Šta Mozilla radi u vezi korisničke kontrole"
 
 #. # TAG: internet_health_subpage_rebrand
 #: mozorg/internet-health/privacy-security.lang:117
@@ -160,6 +188,8 @@ msgid ""
 "Writing <a href=\"%(privacy)s\">our own privacy policy</a> in clear, "
 "understandable language."
 msgstr ""
+"Pišemo <a href=\"%(privacy)s\">našu vlastitu politiku privatnosti</a> na "
+"čistom, razumljivom jeziku."
 
 #. # TAG: internet_health_subpage_rebrand
 #: mozorg/internet-health/privacy-security.lang:126
@@ -183,14 +213,16 @@ msgid ""
 "Encouraging and educating the industry about <a href=\"%(leandata)s\">lean "
 "data practices</a>."
 msgstr ""
+"Poticanje i edukacija industrije o <a href=\"%(leandata)s\">lean data "
+"praksama</a>."
 
 #: mozorg/internet-health/privacy-security.lang:143
 msgid "Cyber Security: Locking down your sensitive information"
-msgstr ""
+msgstr "Sajber sigurnost: Zaključava vaše osjetljive informacije"
 
 #: mozorg/internet-health/privacy-security.lang:147
 msgid "We should all have the ability to protect our online identity."
-msgstr ""
+msgstr "Svi bismo trebali imati mogućnost da zaštitimo naš identitet na mreži."
 
 #: mozorg/internet-health/privacy-security.lang:151
 msgid ""
@@ -199,18 +231,27 @@ msgid ""
 "people, often going undiscovered for years. Which means your identity may be "
 "at risk of theft without you even knowing it."
 msgstr ""
+"U ovom trenutku, se čini kao da smo svi bili negdje, nekako žrtve sajber "
+"napada. Povrede podataka mogu otkriti lozinke miliona ljudi, često "
+"neotkrivene godinama. Što znači da vaš identitet može biti pod rizikom krađe "
+"bez da to uopšte znate."
 
 #: mozorg/internet-health/privacy-security.lang:155
 msgid ""
 "Breaches affected hundreds of millions of accounts in 2013-2016. In December "
 "2016, the biggest breach in history was reported: 1 billion accounts."
 msgstr ""
+"Prodiranja su pogodila stotine miliona računa u periodu 2013-2016-a. U "
+"decembru 2016-e, najveći prodor u historiji je prijavljen: 1 milijarda "
+"računa."
 
 #: mozorg/internet-health/privacy-security.lang:159
 msgid ""
 "Source: Wikipedia, <a href=\"%(wiki)s\" rel=\"external\">List of data "
 "breaches</a>, 2013-2016"
 msgstr ""
+"Izvor: Wikipedia, <a href=\"%(wiki)s\" rel=\"external\">Lista prodora "
+"podataka</a>, 2013-2016"
 
 #. This is an abbreviation for the number "1 billion" used as decoration in a callout box. Make it short.
 #: mozorg/internet-health/privacy-security.lang:164
@@ -219,7 +260,7 @@ msgstr ""
 
 #: mozorg/internet-health/privacy-security.lang:168
 msgid "What you can do about cyber security"
-msgstr ""
+msgstr "Šta možete učiniti u vezi s sajber sigurnosti"
 
 #. # TAG: internet_health_subpage_rebrand
 #: mozorg/internet-health/privacy-security.lang:173
@@ -233,6 +274,10 @@ msgid ""
 "\">password manager</a>. (Note: we haven’t tried them all – see what works "
 "for you.)"
 msgstr ""
+"<a href=\"%(strongpass)s\" rel=\"external\">Izabrati jake, jedinstvene "
+"pinove i lozinke</a>, i koristiti <a href=\"%(passmanager)s\" rel=\"external"
+"\">upravitelj lozinki</a>. (Napomena: nismo ih sve isprobali – pogledajte "
+"koja radi za vas)."
 
 #. # TAG: internet_health_subpage_rebrand
 #: mozorg/internet-health/privacy-security.lang:182
@@ -245,10 +290,13 @@ msgid ""
 "href=\"%(twofactor)s\" rel=\"external\">2-factor authentication</a> wherever "
 "it’s offered."
 msgstr ""
+"Dodatni korak traje dosta dugo. Za najbolju zaštitu, iskoristite <a href="
+"\"%(twofactor)s\" rel=\"external\">2 faktora identifikacije</a> kada god je "
+"ponuđen."
 
 #: mozorg/internet-health/privacy-security.lang:190
 msgid "What Mozilla is doing about cyber security"
-msgstr ""
+msgstr "Šta Mozilla radi u vezi sajber sigurnosti"
 
 #. # TAG: internet_health_subpage_rebrand
 #: mozorg/internet-health/privacy-security.lang:195
@@ -261,6 +309,9 @@ msgid ""
 "\">encryption</a>, and advocating for its <a href=\"%(letsencrypt)s\" rel="
 "\"external\">universal adoption</a>."
 msgstr ""
+"Obrazuje o vrijednosti <a href=\"%(codemoji)s\" rel=\"external\">enkripcije</"
+"a>, i zalaže se sa svoje <a href=\"%(letsencrypt)s\" rel=\"external"
+"\">univerzalno usvajanje</a>."
 
 #: mozorg/internet-health/privacy-security.lang:203
 msgid ""

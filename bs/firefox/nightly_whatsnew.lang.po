@@ -4,28 +4,33 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-30 05:08+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-03-25 14:22+0000\n"
+"Last-Translator: Peiying Mo <pmo@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1490451762.000000\n"
 
 #: firefox/nightly_whatsnew.lang:5
 msgid "You’ve just been upgraded to Firefox Nightly %(version)s!"
-msgstr ""
+msgstr "Upravo ste nadograđeni na Firefox Nightly %(verziju)e!"
 
 #: firefox/nightly_whatsnew.lang:9
 msgid "Firefox Nightly"
-msgstr ""
+msgstr "Firefox Nightly"
 
 #: firefox/nightly_whatsnew.lang:13
 msgid ""
 "Every 6 to 8 weeks, a new major version of Firefox is released and as a "
 "result, the Nightly version increases as well."
 msgstr ""
+"Svakih 6 do 8 sedmica, nova glavna verzija Firefoxa bude objavljena i kao "
+"rezultat toga, Nightly verzija se također obogaćuje."
 
 #: firefox/nightly_whatsnew.lang:17
 msgid ""
@@ -33,6 +38,9 @@ msgid ""
 "give you some pointers to documentation, communication channels and news "
 "sites related to Firefox Nightly that may be of interest to you."
 msgstr ""
+"Ovo je dobro vrijeme da vam zahvalimo na pomoći da učinimo Firefox boljim i "
+"da vam damo neke pokazivače za dokumentaciju, komunikacijske kanale i "
+"stranice sa vijestima vezanim za Firefox Nightly koje će vas možda zanimati."
 
 #: firefox/nightly_whatsnew.lang:21
 msgid ""
@@ -40,6 +48,9 @@ msgid ""
 "reading our <a href=\"%(blog)s\">blog</a> and following us on <a href="
 "\"%(twitter)s\">Twitter</a> are good starting points!"
 msgstr ""
+"Ako želite znati šta se dešava oko Nightly-a i njegove zajednice, čitanje "
+"našeg <a href=\"%(blog)s\">bloga</a> i prateći nas na <a href=\"%(twitter)s"
+"\">Twitteru</a> su dobra polazišta!"
 
 #: firefox/nightly_whatsnew.lang:25
 msgid ""
@@ -48,6 +59,10 @@ msgid ""
 "\">Experimental Features</a> page on <abbr title=\"Mozilla Developer Network"
 "\">MDN</abbr>."
 msgstr ""
+"Želite znati koje mogućnosti platforme možete testirati na Nightly, a koje "
+"ne možete još vidjeti na drugim Firefox kanalima? Onda pogledajte na "
+"stranici <a href=\"%(mdn)s\">Eksperimentalne mogućnosti</a> na <abbr title="
+"\"Mozilla Developer Network\">MDN</abbr>."
 
 #: firefox/nightly_whatsnew.lang:29
 msgid ""
@@ -56,6 +71,10 @@ msgid ""
 "\">Bugzilla</a> to make sure they don’t make it to the final release (extra "
 "karma if you add the <em>nightly-community</em> keyword to your bug reports)!"
 msgstr ""
+"Jeste li iskusili padove? Neočekivana ponašanja? Kompatibilnost web "
+"regresije? Voljeli bi da ih unesete u <a href=\"%(bugzilla)s\">Bugzilla</a> "
+"da budemo sigurno da se neće ponoviti u finalnom izdanju (još bolje ako "
+"dodate <em>nightly-community</em> ključnu riječ za vaše prijave greške)!"
 
 #: firefox/nightly_whatsnew.lang:33
 msgid ""
@@ -69,7 +88,10 @@ msgid ""
 "\"%(irc)s\">#nightly</a> channel. Feel free to ask questions and talk about "
 "features, regressions or crashes you may be experiencing."
 msgstr ""
+"Također možete komunicirati sa Nightly zajednicom na IRC kroz <a href="
+"\"%(irc)s\">#nightly</a> kanal. Slobodno postavljajte pitanja i pričajte o "
+"karakteristikama, regresijama ili padovima koje ste možda iskusili."
 
 #: firefox/nightly_whatsnew.lang:41
 msgid "Go community!"
-msgstr ""
+msgstr "Idemo zajednice!"

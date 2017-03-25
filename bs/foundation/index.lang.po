@@ -1,22 +1,24 @@
 #. extracted from ./foundation/index.lang
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-02-02 05:09+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-03-25 14:20+0000\n"
+"Last-Translator: Peiying Mo <pmo@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1490451633.000000\n"
 
 #: foundation/index.lang:5
 msgid "The Mozilla Foundation"
-msgstr ""
+msgstr "Mozilla fondacija"
 
 #: foundation/index.lang:9
 msgid ""
@@ -24,6 +26,9 @@ msgid ""
 "global public resource that is open and accessible to all. Our work is "
 "guided by the <a href=\"%(url_manifesto)s\">Mozilla Manifesto</a>."
 msgstr ""
+"Neprofitna Mozilla fondacija vjeruje da internet mora uvijek ostati javni "
+"globalni resurs koji je otvoren i dostupan svima. Naš rad je vođen od strane "
+"<a href=\"%(url_manifesto)s\">Mozilla Manifesto</a>."
 
 #: foundation/index.lang:13
 msgid ""
@@ -31,6 +36,9 @@ msgid ""
 "for an open Internet. We do this by connecting open Internet leaders with "
 "each other and by mobilizing grassroots activists around the world."
 msgstr ""
+"Direktan rad Mozilla fondacije fokusira se na podsticanje pokreta za "
+"otvoreni internet. Ovo radimo tako što povezujemo vođe otvorenog interneta "
+"jedne sa drugima i mobilisanjem aktivista širom svijeta."
 
 #: foundation/index.lang:17
 msgid ""
@@ -39,14 +47,18 @@ msgid ""
 "as a self-sustaining social enterprise – money earned through its products "
 "is reinvested into the organization."
 msgstr ""
+"Fondacija je ujedno i jedini dioničar u Mozilla korporaciji, proizvođač "
+"Firefoxa i drugih javnih alata. Mozilla korporacija funkcioniše kao "
+"samoodrživo socijalno preduzeće – novac zarađen putem njenih proizvoda se "
+"ponovo investira u organizaciju."
 
 #: foundation/index.lang:21
 msgid "Read the Mozilla Foundation’s 2016-2018 Strategy"
-msgstr ""
+msgstr "Pročitajte strategiju Mozilla fondacije za 2016-2018"
 
 #: foundation/index.lang:25
 msgid "Foundation Programs"
-msgstr ""
+msgstr "Programi fondacije"
 
 #: foundation/index.lang:29
 msgid ""
@@ -54,40 +66,45 @@ msgid ""
 "is focused on fueling the open Internet movement. Our programs are focused "
 "in three areas:"
 msgstr ""
+"Rad sa ljudima i zajednicama širom Mozille, tim Fondacije je fokusiran na "
+"podsticanje pokreta otvorenog interneta. Naši programi su fokusirani na tri "
+"područja:"
 
 #: foundation/index.lang:33
 msgid "Shape the agenda"
-msgstr ""
+msgstr "Oblikovanje agende"
 
 #: foundation/index.lang:37
 msgid ""
 "Mozilla has identified five key issues that are critical to build the open "
 "Internet we want:"
 msgstr ""
+"Mozilla je identifikovala pet ključnih pitanja koja su od presudne važnosti "
+"za izgradnju otvorenog interneta kakvog želimo:"
 
 #: foundation/index.lang:41
 msgid "Privacy and Security"
-msgstr ""
+msgstr "Privatnost i sigurnost"
 
 #: foundation/index.lang:45
 msgid "Open Innovation"
-msgstr ""
+msgstr "Otvorene inovacije"
 
 #: foundation/index.lang:49
 msgid "Decentralization"
-msgstr ""
+msgstr "Decentralizacija"
 
 #: foundation/index.lang:53
 msgid "Web Literacy"
-msgstr ""
+msgstr "Web pismenost"
 
 #: foundation/index.lang:57
 msgid "Digital Inclusion"
-msgstr ""
+msgstr "Digitalna inkluzija"
 
 #: foundation/index.lang:61
 msgid "Connect leaders"
-msgstr ""
+msgstr "Povezivanje vođa"
 
 #: foundation/index.lang:65
 msgid ""
@@ -95,20 +112,25 @@ msgid ""
 "opportunities for a new generation of leaders who will ensure the next wave "
 "of access, inclusion and opportunity online."
 msgstr ""
+"Naše početno Mozilla rukovodstvo mreže pronalazi, povezuje i pruža "
+"mogućnosti za učenje za nove generacije lidera koji će osigurati sljedeći "
+"val pristupa, inkluzije i mogućnosti na mreži."
 
 #: foundation/index.lang:69
 msgid "Rally citizens"
-msgstr ""
+msgstr "Okupljanje građana"
 
 #: foundation/index.lang:73
 msgid ""
 "Mozilla works with allies to cultivate a global force of tens of millions of "
 "people prepared to support the rights of citizens of the web."
 msgstr ""
+"Mozilla radi sa saveznicima da njeguje globalnu silu od nekoliko desetina "
+"miliona ljudi spremnih da podrže prava građana na webu."
 
 #: foundation/index.lang:77
 msgid "Products and Technology"
-msgstr ""
+msgstr "Proizvodi i tehnologija"
 
 #: foundation/index.lang:81
 msgid ""
@@ -116,6 +138,9 @@ msgid ""
 "consumer Internet products that advance the same values outlined in the "
 "Mozilla Manifesto."
 msgstr ""
+"Mozilla korporacija, podružnica u potpunom vlasništvu Fondacije, pravi "
+"potrošačke internet proizvode koji unaprijeđuju iste vrijednosti navedene u "
+"Mozilla Manifesto."
 
 #: foundation/index.lang:85
 msgid ""
@@ -126,10 +151,17 @@ msgid ""
 "initiatives like Rust and Mozilla’s online game centre aim to spread new "
 "thinking about open technology across the whole of the Internet industry."
 msgstr ""
+"Firefox, naš najpoznatiji proizvod, daje povećan izbor, privatnosti i "
+"sigurnosti za 100-ine miliona ljudi širom svijeta. Inicijative za "
+"istraživanje proizvoda kao našeg programa ‘povezani uređaji’ imaju za cilj "
+"donošenje više potpuno novih proizvoda sa Mozilla vrijednostima u svijetu. "
+"Inicijative tehnologija kao što je Rust i Mozillin online centar za igre "
+"imaju za cilj širenje novih mišljenja o otvorenim tehnologijama kroz cijelu "
+"internet industriju."
 
 #: foundation/index.lang:89
 msgid "Mozilla Community"
-msgstr ""
+msgstr "Mozilla zajednica"
 
 #: foundation/index.lang:93
 msgid ""
@@ -140,10 +172,16 @@ msgid ""
 "software, organizing advocacy campaigns and writing the world's most "
 "referenced <a href=\"%(url_mdn)s\">web developer site</a>."
 msgstr ""
+"Stvarna snaga iza Mozille je globalna zajednica od 10.000 volontera, "
+"saveznika i partnera. Članovi Mozilla zajednice učestvuju radeći sve od "
+"pridonšenja koda za Firefox i <a href=\"%(url_learning)s\">učenja digitalne "
+"pismenosti</a> za prevođenje našeg softvera, organizovanja kampanja zaštite "
+"i pisanje svjetski najupućenije <a href=\"%(url_mdn)s\">web razvojne "
+"stranice</a>."
 
 #: foundation/index.lang:97
 msgid "Get Involved"
-msgstr ""
+msgstr "Uključite se"
 
 #: foundation/index.lang:101
 msgid ""
@@ -151,35 +189,38 @@ msgid ""
 "started, <a href=\"%(url_community)s\">join our community</a> or <a href="
 "\"%(url_donation)s\">make a donation</a>."
 msgstr ""
+"Pridružite nam se i pomozite zaštiti internet kao javni globalni resurs. Da "
+"počnete, <a href=\"%(url_community)s\">pridružite se našoj zajednici</a> ili "
+"<a href=\"%(url_donation)s\">napravite donaciju</a>."
 
 #: foundation/index.lang:105
 msgid "About the Foundation"
-msgstr ""
+msgstr "O Fondaciji"
 
 #: foundation/index.lang:109
 msgid "2016-2018 Strategy"
-msgstr ""
+msgstr "Strategija 2016-2018"
 
 #: foundation/index.lang:113
 msgid "Licensing & Trademarks"
-msgstr ""
+msgstr "Licenciranje i zaštitni znakovi"
 
 #: foundation/index.lang:117
 msgid "Public Documents"
-msgstr ""
+msgstr "Javni dokumenti"
 
 #: foundation/index.lang:121
 msgid "Careers"
-msgstr ""
+msgstr "Karijere"
 
 #: foundation/index.lang:125
 msgid "Key Internet Issues"
-msgstr ""
+msgstr "Ključni internet problemi"
 
 #: foundation/index.lang:129
 msgid "Advocacy"
-msgstr ""
+msgstr "Advokatura"
 
 #: foundation/index.lang:133
 msgid "Leadership Network"
-msgstr ""
+msgstr "Rukovodstvena mreža"

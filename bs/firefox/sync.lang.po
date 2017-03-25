@@ -4,18 +4,21 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-25 05:09+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-03-25 14:21+0000\n"
+"Last-Translator: Peiying Mo <pmo@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1490451673.000000\n"
 
 #: firefox/sync.lang:9
 msgid "Keep your Firefox in sync"
-msgstr ""
+msgstr "Zadržite vaš Firefox u sinhronizaciji"
 
 #: firefox/sync.lang:13
 msgid "Ready, Set, Sync"
@@ -25,16 +28,21 @@ msgstr ""
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
 msgstr ""
+"Prijavljeni ste i spremni za pristup <em>vašem</em> Firefoxu bilo gdje, bilo "
+"kad."
 
 #: firefox/sync.lang:21
 msgid "Take your Web with you"
-msgstr ""
+msgstr "Ponesite vaš web sa vama"
 
 #: firefox/sync.lang:25
 msgid ""
 "Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
 "and more from any smartphone, tablet or computer."
 msgstr ""
+"Sinhronizujte Firefox kada god ga koristite da pristupite vašim "
+"zabilješkama, lozinkama, tabovima i ostalom sa bilo kojeg pametnog telefona, "
+"tableta ili računara."
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:30
@@ -42,56 +50,63 @@ msgid ""
 "Sync your bookmarks, passwords, tabs and more using your Firefox Account, "
 "and access them everywhere you’re signed in."
 msgstr ""
+"Sinhronizujte vaše zabilješke, lozinke, tabove i više koristeći vaš Firefox "
+"račun, i pristupite im gdje god ste prijavljeni."
 
 #: firefox/sync.lang:34
 msgid "It looks like you’re running an older version of Firefox."
-msgstr ""
+msgstr "Izgleda da radite na starijoj verziji Firefoxa."
 
 #: firefox/sync.lang:38
 msgid "The new version of Sync only works with the latest version of Firefox"
-msgstr ""
+msgstr "Nova verzija sinhronizacije radi samo s najnovijom verzijom Firefoxa"
 
 #. # TAG: ios_announce
 #: firefox/sync.lang:43
 msgid "Soon you’ll be able to use Sync on your iOS device"
 msgstr ""
+"Uskoro ćete biti u mogućnosti koristiti sinhronizaciju na vašem iOS uređaju"
 
 #: firefox/sync.lang:47
 msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
 "Discover them all!"
 msgstr ""
+"Sinhronizacija je samo jedna od odličnih funkcija koje ćete dobiti jedino uz "
+"Firefox. Otkrijte ih sve!"
 
 #. # TAG: firefox_sync_mobile_buttons_update
 #: firefox/sync.lang:52
 msgid "Now sync Firefox with your iOS and Android devices."
-msgstr ""
+msgstr "Sada sinhronizujte Firefox sa vašim iOS i Android uređajima."
 
 #. # TAG: firefox_sync_non_fx
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 #: firefox/sync.lang:58
 msgid "Sync is just one of the great features you’ll only get with Firefox."
 msgstr ""
+"Sinhronizacija je samo jedna od odličnih funkcija koje ćete dobiti jedino uz "
+"Firefox."
 
 #: firefox/sync.lang:62
 msgid "Download Firefox for Android"
-msgstr ""
+msgstr "Preuzmite Firefox za Android"
 
 #: firefox/sync.lang:66
 msgid "Get started with Sync"
-msgstr ""
+msgstr "Započnite sa sinhronizacijom"
 
 #: firefox/sync.lang:70
 msgid "Update your Firefox"
-msgstr ""
+msgstr "Nadogradite vaš Firefox"
 
 #: firefox/sync.lang:74
 msgid "Download Firefox"
-msgstr ""
+msgstr "Preuzmite Firefox"
 
 #: firefox/sync.lang:78
 msgid "Get started with Sync in four easy steps:"
-msgstr ""
+msgstr "Započnite sa sinhronizacijom u četiri jednostavna koraka:"
 
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
@@ -101,11 +116,14 @@ msgid ""
 "href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of Firefox and "
 "select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
+"Otvorite <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
+"href=\"%(url)s#w_a-handy-new-menu\">meni</a> u gornjem desnom uglu Firefoxa "
+"i odaberite “<strong>Prijavi se za sinhronizaciju.</strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:89
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
-msgstr ""
+msgstr "Kliknite “<strong>Započni</strong>” u tabu koji se otvara."
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:94
@@ -113,30 +131,34 @@ msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
 msgstr ""
+"Unesite email adresu i lozinku u “<strong>Napravi Firefox račun.</strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:99
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr ""
+"Kliknite “<strong>Dalje</strong>” da dobijte verifikaciju na vaš email."
 
 #: firefox/sync.lang:103
 msgid ""
 "After you check your email and click the verification link, you’ll be all "
 "set! Firefox will automatically sync in the background from then on."
 msgstr ""
+"Nakon što provjerite vaš email i kliknete link za verifikaciju, sve ste "
+"završili! Firefox će od tada automatski sinhronizovati u pozadini."
 
 #: firefox/sync.lang:107
 msgid "Get more detailed instructions."
-msgstr ""
+msgstr "Dobijte detaljnije upute."
 
 #: firefox/sync.lang:111
 msgid "Using an older version of Sync?"
-msgstr ""
+msgstr "Koristite stariju verziju Sinhronizacije?"
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:116
 msgid "How to set up Sync in five easy steps:"
-msgstr ""
+msgstr "Kako postaviti sinhronizaciju u pet jednostavnih koraka:"
 
 #. <strong> tags below used for font color formatting.
 #. This string is displayed on Android devices
@@ -145,6 +167,8 @@ msgid ""
 "Tap the <strong>Menu</strong> button (either below the screen or at the top "
 "right corner of the browser)."
 msgstr ""
+"Dodirnite <strong>Meni</strong> dugme (ili ispod ekrana ili u gornjem desnom "
+"uglu pretraživača)."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:127
@@ -152,22 +176,26 @@ msgid ""
 "Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
 "first)."
 msgstr ""
+"Odaberite <strong>Podešavanja</strong> (možda ćete trebati dodirunuti prvo "
+"<strong>Više</strong>)."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:132
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
 msgstr ""
+"Dodirnite <strong>Sinhronizacija</strong> i zatim <strong>Započni</strong>."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:137
 msgid ""
 "The <strong>Create a Firefox Account page</strong> will open in a new tab."
 msgstr ""
+"<strong>Stranica napravi Firefox račun</strong> će se otvoriti u novom tabu."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:142
 msgid "Fill out the form and click <strong>Next</strong>."
-msgstr ""
+msgstr "Popunite obrazac i kliknite <strong>Dalje</strong>."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:147
@@ -176,10 +204,13 @@ msgid ""
 "to go! Don’t forget to connect all your other devices to get the most of "
 "Sync."
 msgstr ""
+"Nakon što provjerite vaš email i kliknete link za verifikaciju, bićete "
+"spremni za polazak! Ne zaboravite povezati sve vaše druge uređaje da biste "
+"dobili najviše od sinhronizacije."
 
 #: firefox/sync.lang:151
 msgid "Sync a little. Sync a lot."
-msgstr ""
+msgstr "Sinhronizujte malo. Sinhronizujte puno."
 
 #: firefox/sync.lang:155
 msgid ""
@@ -187,6 +218,9 @@ msgid ""
 "sync them. Take your open tabs on your daily commute. Access your bookmarks "
 "at work. Whatever, whenever, everywhere."
 msgstr ""
+"Vi odabirete koje dijelove vašeg Firefoxa želite sinhronizovati i gdje ih "
+"želite sinhronizovati. Ponesite vaše otvorene tabove na vaše svakodnevno "
+"putovanje. Pristupite zabilješkama na poslu. Kako god, gdje god, svuda."
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:160
@@ -194,35 +228,38 @@ msgid ""
 "Want to visit your computer’s open tabs from another device? Access your "
 "browsing history on the go? Keep your passwords with you? Now you can."
 msgstr ""
+"Želite posjetiti otvorene tabove vašeg računara sa drugog uređaja? "
+"Pristupiti svojoj historiji pretraživanja u putu? Ponijeti lozinke sa sobom? "
+"Sada možete."
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:165
 msgid "Here’s what you can sync:"
-msgstr ""
+msgstr "Evo šta možete sinhronizovati:"
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:170
 msgid "Bookmarks"
-msgstr ""
+msgstr "Zabilješke"
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:175
 msgid "Passwords"
-msgstr ""
+msgstr "Lozinke"
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:180
 msgid "Open tabs"
-msgstr ""
+msgstr "Otvorene tabove"
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:185
 msgid "History"
-msgstr ""
+msgstr "HIstoriju"
 
 #: firefox/sync.lang:189
 msgid "At home"
-msgstr ""
+msgstr "Kod kuće"
 
 #: firefox/sync.lang:193
 msgid ""
@@ -230,10 +267,13 @@ msgid ""
 "tabs on your smartphone, or keeping browsing your bookmarks right on your "
 "tablet."
 msgstr ""
+"Premjestite se sa vašeg stola na kauč bez preskakanja ritma. Pristupite "
+"vašim otvorenim tabovima na vašem pametnom telefonu, ili nastavite "
+"pretraživati vaše zabilješke direktno na vašem tabletu."
 
 #: firefox/sync.lang:197
 msgid "At work"
-msgstr ""
+msgstr "Na poslu"
 
 #: firefox/sync.lang:201
 msgid ""
@@ -241,21 +281,26 @@ msgid ""
 "bookmarks that you might need to access at any time. Just like Firefox, it’s "
 "safe as can be."
 msgstr ""
+"Ostanite povezani sa svim vašim bitnim informacijama. Sinhronizirajte "
+"lozinke i zabilješke kojima ćete možda trebati pristupiti u bilo koje "
+"vrijeme. Baš kao Firefox, to je sigurno."
 
 #: firefox/sync.lang:205
 msgid "On the go"
-msgstr ""
+msgstr "Na putu"
 
 #: firefox/sync.lang:209
 msgid ""
 "Keep up with your favorite sites, or finish that story you started at home — "
 "wherever you go. With Sync, it’s never been easier."
 msgstr ""
+"Nastavite sa vašim omiljenim stranicama, ili završite priču koju ste počeli "
+"kod kuće — gdje god idete. Sa sinhronizacijom, to nikad nije bilo lakše."
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:214
 msgid "Add Firefox to your smartphone or tablet"
-msgstr ""
+msgstr "Dodajte Firefox na vaš pametni telefon ili tablet"
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:219
@@ -263,26 +308,31 @@ msgid ""
 "To get the full Sync experience, get Firefox for iOS or Android and connect "
 "all your devices — everywhere and anywhere you use Firefox."
 msgstr ""
+"Da steknete potpuno iskustvo sinhronizacije, uzmite Firefox za iOS ili "
+"Android i povežite sve vaše uređaje — svuda i gdje god koristite Firefox."
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:224
 msgid "Add Firefox"
-msgstr ""
+msgstr "Dodajte Firefox"
 
 #: firefox/sync.lang:228
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
-msgstr ""
+msgstr "Imate <b>Android pametni telefon</b> ili <b>tablet</b>?"
 
 #: firefox/sync.lang:232
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
-msgstr ""
+msgstr "PREUZMITE FIREFOX ZA ANDROID"
 
 #: firefox/sync.lang:236
 msgid "Get Firefox everywhere"
-msgstr ""
+msgstr "Ponesite Firefox svuda"
 
 #: firefox/sync.lang:240
 msgid ""
 "To get the full Sync experience, take your Web with you everywhere you use "
 "Firefox. Connect your smartphone, tablet, computer and laptop."
 msgstr ""
+"Da steknete potpuno iskustvo sinhronizacije, ponesite vaš web sa sobom svuda "
+"gdje koristite Firefox. Povežite vaš pametni telefon, tablet, računar i "
+"laptop."

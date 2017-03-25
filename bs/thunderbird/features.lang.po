@@ -4,42 +4,45 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-02-06 20:09+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-03-25 14:18+0000\n"
+"Last-Translator: Peiying Mo <pmo@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1490451504.000000\n"
 
 #: thunderbird/features.lang:6
 msgid "Thunderbird Features"
-msgstr ""
+msgstr "Thunderbird karakteristike"
 
 #: thunderbird/features.lang:10
 msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
-msgstr ""
+msgstr "Potpuno vaš. Sada još lakša nadogradnja na Thunderbird."
 
 #: thunderbird/features.lang:14
 msgid "Easier to Get Started"
-msgstr ""
+msgstr "Jednostavije za započeti"
 
 #: thunderbird/features.lang:18
 msgid "Tabs and Search"
-msgstr ""
+msgstr "Tabovi i pretrage"
 
 #: thunderbird/features.lang:22
 msgid "Customize Your Email Experience"
-msgstr ""
+msgstr "Prilagodite vaše email iskustvo"
 
 #: thunderbird/features.lang:26
 msgid "Secure and Protect Your Email"
-msgstr ""
+msgstr "Osigurajte i zaštitite vaš email"
 
 #: thunderbird/features.lang:30
 msgid "Mail Account Setup Wizard"
-msgstr ""
+msgstr "Čarobnjak podešavanja računa e-pošte"
 
 #: thunderbird/features.lang:34
 msgid ""
@@ -48,10 +51,14 @@ msgid ""
 "the email account set up wizardry will check our database and find the email "
 "settings for you."
 msgstr ""
+"Prije ove mogućnosti morali ste znati vaše IMAP, SMTP, i SSL/TLS postavke. "
+"Sada sve što trebate obezbjediti je vaše ime, email adresa, i lozinka i "
+"postavljanje email računa putem čarobnjaka će provjeriti našu bazu podataka "
+"i pronaći email postavke za vas."
 
 #: thunderbird/features.lang:38
 msgid "One-click Address Book"
-msgstr ""
+msgstr "Adresar na jedan klik"
 
 #: thunderbird/features.lang:42
 msgid ""
@@ -60,10 +67,14 @@ msgid ""
 "receive. Two clicks and you can add more details like a photo, birthday, and "
 "other contact information."
 msgstr ""
+"Adresar na jedan klik je brz i jednostavan način da dodate ljude u vašu "
+"knjigu adresa. Dodajte ljude jednostavnim klikanjem na ikonu zvijezde u "
+"poruci koju dobijete. Dva klika i možete dodati još detalja kao što su "
+"slika, rođendan, i druge informacije kontakta."
 
 #: thunderbird/features.lang:46
 msgid "Attachment Reminder"
-msgstr ""
+msgstr "Podsjetnik o prilogu"
 
 #: thunderbird/features.lang:50
 msgid ""
@@ -71,10 +82,13 @@ msgid ""
 "file types) in the body of your message and reminds you to add an attachment "
 "before hitting send."
 msgstr ""
+"Podsjetnik o prilogu traži riječ priloga (i druge riječi kao što su vrste "
+"datoteka) u okviru vaše poruke i podsjeća vas da dodate prilog prije neko "
+"kliknete na slanje."
 
 #: thunderbird/features.lang:54
 msgid "Tabs"
-msgstr ""
+msgstr "Tabovi"
 
 #: thunderbird/features.lang:58
 msgid ""
@@ -84,6 +98,11 @@ msgid ""
 "to an earlier email. Tabbed email lets you keep multiple emails open for "
 "easy reference."
 msgstr ""
+"Ako vam se sviđa Firefox pretraživanje u tabovima, onda ćete voljeti email u "
+"tabovima. Email u tabovima vam dopušta učitavanje emailova u odvojenim "
+"tabovima tako da možete brže prelaziti s jednog na drugi. Možda odgovarate "
+"na email, a trebate odgovoriti na stariji email. Tabovan email dopušta vam "
+"zadržati više emailova otvorenim za jednostavnu referencu."
 
 #: thunderbird/features.lang:62
 msgid ""
@@ -91,6 +110,9 @@ msgid ""
 "message in a new tab window. Right-clicking on messages or folders will open "
 "them in a tab in the background."
 msgstr ""
+"Duplo klikanje ili pritiskanje entera na poruci e-pošte će sada otvoriti tu "
+"poruku u novom tabu. Desno klikanje na poruke ili foldere će ih otvoriti u "
+"tabu u pozadini."
 
 #: thunderbird/features.lang:66
 msgid ""
@@ -98,10 +120,13 @@ msgid ""
 "when you open Thunderbird the next time. There is also a Tab menu on the Tab "
 "toolbar to help you switch between Tabs."
 msgstr ""
+"Kada izlazite iz Thunderbirda, vidljivi tabovi će biti sačuvani i biće "
+"ponovo otvoreni kada otvorite Thunderbird sljedeći put. Tu je također i Tab "
+"meni na Tab alatnoj traci da vam pomogne u prelasku između tabova."
 
 #: thunderbird/features.lang:70
 msgid "Quick Filter Toolbar"
-msgstr ""
+msgstr "Quick Filter traka s alatima"
 
 #: thunderbird/features.lang:74
 msgid ""
@@ -111,10 +136,15 @@ msgid ""
 "your Address Book. You can also \"Pin\" or save a Filter and use it across "
 "multiple folders."
 msgstr ""
+"Quick Filter alatna traka vam omogućava brže filtriranje vašeg emaila. "
+"Počnite tipkati u riječima u Quick Filter polju za pretrage i rezultati su "
+"prikazani odmah. Ili možete filtrirati vaš email baziran na novim porukama, "
+"oznakama, i ljudima u vašem adresaru. Možete također \"Prikačiti\" ili "
+"sačuvati filter i koristiti ga unutar više foldera."
 
 #: thunderbird/features.lang:78
 msgid "Search"
-msgstr ""
+msgstr "Pretraga"
 
 #: thunderbird/features.lang:82
 msgid ""
@@ -124,10 +154,15 @@ msgid ""
 "displayed in a tab so you can easily switch back and forth to your search "
 "results and other email."
 msgstr ""
+"Interfejs pretraga u Thunderbird sadrži filtriranje i vremenske alate da "
+"odredi precizan email koji tražite. Thunderbird također indeksira sve vaše "
+"emailove da vam pomogne pretraživati još brže. Rezultati vaše pretrage su "
+"prikazani u tabu tako da možete jednostavno prebaciti natrag u rezultate "
+"pretraga i ostale pošte."
 
 #: thunderbird/features.lang:86
 msgid "Message Archive"
-msgstr ""
+msgstr "Arhiva poruka"
 
 #: thunderbird/features.lang:90
 msgid ""
@@ -135,15 +170,20 @@ msgid ""
 "your inbox without deleting it, archive it! Archiving helps you manage your "
 "inbox and put your email into the archive folder system."
 msgstr ""
+"Ako mislite da ćete trebati email u budućnosti ali želite ga izbaciti iz "
+"vaše primljene pošte bez njegovog brisanja, arhivirajte ga!. Arhiviranje vam "
+"pomaže upravljati vašom primljenom poštom i stavlja vaš email u arhivski "
+"folder sistema."
 
 #: thunderbird/features.lang:94
 msgid ""
 "Selecting the Archive button or hitting the ‘A’ key will archive your email."
 msgstr ""
+"Odabir tipke Arhiviraj ili pritisak \"A\" tipke će arhivirati vaš email."
 
 #: thunderbird/features.lang:98
 msgid "Activity Manager"
-msgstr ""
+msgstr "Menadžer aktivnosti"
 
 #: thunderbird/features.lang:102
 msgid ""
@@ -151,10 +191,13 @@ msgid ""
 "your email provider in one place. There’s no more guess work. You only have "
 "to look in one place to see everything that’s happening with your email."
 msgstr ""
+"Menadžer aktivnosti bilježi sve interakcije između Thunderbirda i vašeg "
+"email provajdera u jednom mjestu. Nema više pogađanja posla. Sve što trebate "
+"je pogledati u jedno mjesto i vidjeti sve šta se dešava s vašim emailom."
 
 #: thunderbird/features.lang:106
 msgid "Thunderbird Look & Feel"
-msgstr ""
+msgstr "Thunderbird izgled i dojam"
 
 #: thunderbird/features.lang:110
 msgid ""
@@ -163,10 +206,14 @@ msgid ""
 "latest movies, famous landmarks, and Japanese tattoos. You can also choose "
 "from several Themes that dress up all the different icons in Thunderbird."
 msgstr ""
+"S Personas, lagani \"skinovi\" omogućavaju vam da promijenite izgled i "
+"osjećaj Thunderbirda u trenu. Stotine tema su dostupne iz posljednjih "
+"filmova, poznatih znamenitosti, i japanskih tetovaža. Također možete "
+"izabrati od nekoliko tema koje će dotjerati izgled svih ikona u Thunderbirdu."
 
 #: thunderbird/features.lang:114
 msgid "Smart Folders"
-msgstr ""
+msgstr "Pametni folderi"
 
 #: thunderbird/features.lang:118
 msgid ""
@@ -175,10 +222,14 @@ msgid ""
 "Inbox for each of your mail accounts, you can see all of your incoming email "
 "in one Inbox folder."
 msgstr ""
+"Pametni folderi vam pomažu upravljanje više e-mail računa spajanjem posebnih "
+"foldera kao što je folder Primljeno, Poslano, ili folder Arhivirano. Umjeto "
+"odlaska u folder za svaki e-mail račun, možete vidjeti sve vaše dolazeće "
+"emailove u jednom folderu dolazne pošte."
 
 #: thunderbird/features.lang:122
 msgid "Add-ons Manager"
-msgstr ""
+msgstr "Upravitelj dodacima"
 
 #: thunderbird/features.lang:126
 msgid ""
@@ -187,10 +238,14 @@ msgid ""
 "sure which add-on is right for you? Ratings, recommendations, descriptions "
 "and pictures of the add-ons in action help you make your selection."
 msgstr ""
+"Pronađite i instalirajte sve dodatke direktno u Thunderbirdu. Ne morate više "
+"posjećivati web stranicu sa dodacima - umjesto toga jednostavno pokrenite "
+"Upravitelja dodataka. Niste sigurni koji dodatak je pravi za vas? Ocjene, "
+"preporuke, opisi i slike dodataka u akciji pomoći će vam napraviti izbor."
 
 #: thunderbird/features.lang:130
 msgid "Robust Privacy"
-msgstr ""
+msgstr "Snažna privatnost"
 
 #: thunderbird/features.lang:134
 msgid ""
@@ -198,10 +253,13 @@ msgid ""
 "ensure a user’s privacy, Thunderbird automatically blocks remote images in "
 "email messages."
 msgstr ""
+"Thunderbird nudi podršku za privatnost korisnika i daljinsku zaštitu slike. "
+"Da bi se osigurala privatnost korisnika, Thunderbird automatski blokira "
+"daljinske slike u email porukama."
 
 #: thunderbird/features.lang:138
 msgid "Phishing Protection"
-msgstr ""
+msgstr "Zaštita od krađe identiteta"
 
 #: thunderbird/features.lang:142
 msgid ""
@@ -211,10 +269,15 @@ msgid ""
 "Thunderbird warns you when you click on a link which appears to be taking "
 "you to a different Web site than the one indicated by the URL in the message."
 msgstr ""
+"Thunderbird vas štiti od email prevara koje pokušavaju prevariti korisnike u "
+"predaji ličnih i povjerljivih informacija tako što ukazuje na poruke koje "
+"sadrže potencijalnu krađu identiteta. Kao druga linija odbrane, Thunderbird "
+"upozorava kada vi kliknete na link koji izgleda kao da vas vodi na drugačiju "
+"web stranicu od one koju pokazuje URL u poruci."
 
 #: thunderbird/features.lang:146
 msgid "Automated Update"
-msgstr ""
+msgstr "Automatska nadogradnja"
 
 #. # TAG: macos_branding
 #: thunderbird/features.lang:151
@@ -226,6 +289,12 @@ msgid ""
 "automated update system provides updates for Thunderbird on Windows, macOS, "
 "and Linux in over 40 different languages."
 msgstr ""
+"Sistem nadogradnje Thunderbirda provjerava da li pokrećete posljednju "
+"verziju, i obavještava vas kada je sigurnosna nadogradnja dostupna. Ove "
+"sigurnosne nadogradnje su male (pretežno 200KB - 700KB), daju vam samo ono "
+"što trebate i čine sigurnosnu nadogradnju brzom za preuzimanje i "
+"instaliranje. Sistem automatske nadogradnje pruža nadogradnje za Thunderbird "
+"na Windowsu, macOS-u, i Linuxu u više od 40 različitih jezika."
 
 #. String is obsolete. Do NOT remove.
 #: thunderbird/features.lang:156
@@ -237,10 +306,16 @@ msgid ""
 "automated update system provides updates for Thunderbird on Windows, Mac OS "
 "X, and Linux in over 40 different languages."
 msgstr ""
+"Sistem nadogradnje Thunderbirda provjerava da li pokrećete posljednju "
+"verziju, i obavještava vas kada je sigurnosna nadogradnja dostupna. Ove "
+"sigurnosne nadogradnje su male (pretežno 200KB - 700KB), daju vam samo ono "
+"što trebate i čine sigurnosnu nadogradnju brzom za preuzimanje i "
+"instaliranje. Sistem automatske nadogradnje pruža nadogradnje za Thunderbird "
+"na Windowsu, mac OS-u, i Linuxu u više od 40 različitih jezika."
 
 #: thunderbird/features.lang:160
 msgid "Cutting Out the Junk"
-msgstr ""
+msgstr "Izbacivanje neželjenih stvari"
 
 #: thunderbird/features.lang:164
 msgid ""
@@ -251,10 +326,17 @@ msgid ""
 "matters. Thunderbird can also use your mail provider’s spam filters to keep "
 "junk mail out of your inbox."
 msgstr ""
+"Thunderbirdov popularni alati za neželjenu poštu su nadograđeni da ostanu "
+"ispred spama. Svaki email koji primite prolazi kroz Thunderbirdov vodeće "
+"filtere za neželjenu poštu. Svaki put kada označite poruke kao spam, "
+"Thunderbird \"saznaje\" i poboljšava filtriranje tako da možete provesti "
+"više vremena čitajući poštu koja je bitna. Thunderbird također može "
+"koristiti spam filtere vašeg provajdera da zadrži neželjenu poštu izvan vaše "
+"primljene pošte."
 
 #: thunderbird/features.lang:168
 msgid "Open Source"
-msgstr ""
+msgstr "Otvori izvor"
 
 #: thunderbird/features.lang:172
 msgid ""
@@ -265,3 +347,9 @@ msgid ""
 "us to take advantage of the best third party security scanning and "
 "evaluation tools to further bolster overall security."
 msgstr ""
+"U srcu Thunderbirda je postupak slobodan razvoj potaknut od strane hiljada "
+"strstvenih, iskusnih programera i eksperta sigurnosti raširenih po cijelom "
+"svijetu. Naša otvorena i aktivna zajednica eksperata pomažu osigurati da "
+"naši proizvodi budu još sigurniji i brže nadograđeni, dok nam također "
+"omogućavaju da iskoristimo najbolje alate sigurnosnog skeniranja i "
+"evaluacije od trećih strana za dalje jačanje ukupne sigurnosti."

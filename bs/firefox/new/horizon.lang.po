@@ -4,18 +4,21 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-02-24 15:10+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-03-25 14:22+0000\n"
+"Last-Translator: Peiying Mo <pmo@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1490451765.000000\n"
 
 #: firefox/new/horizon.lang:9
 msgid "Free Web Browser"
-msgstr ""
+msgstr "Besplatni web pretraživač"
 
 #. # TAG: macos_branding
 #: firefox/new/horizon.lang:14
@@ -24,6 +27,10 @@ msgid ""
 "non-profit dedicated to putting individuals in control online. Get Firefox "
 "for Windows, macOS, Linux, Android and iOS today!"
 msgstr ""
+"Preuzmite Mozilla Firefox, besplatni web pretraživač. Firefox je kreiran od "
+"globalne neprofitne organizacije usmjerene na postavljanje pojedinaca u "
+"kontrolu na mreži. Preuzmite Firefox za Windows, macOS, Linux, Android i iOS "
+"danas!"
 
 #. String is obsolete. Do NOT remove.
 #: firefox/new/horizon.lang:19
@@ -32,36 +39,44 @@ msgid ""
 "non-profit dedicated to putting individuals in control online. Get Firefox "
 "for Windows, Mac OS X, Linux, Android and iOS today!"
 msgstr ""
+"Preuzmite Mozilla Firefox, besplatni web pretraživač. Firefox je kreiran od "
+"strane globalne neprofitne organizacije posvećene stavljanju pojedinaca u "
+"kontrolu interneta. Preuzmite Firefox za Windows, Mac OS X, Linux, Android i "
+"iOS danas!"
 
 #. # TAG: firefox_new_scene_2_headline
 #: firefox/new/horizon.lang:24
 msgid "The last independent browser."
-msgstr ""
+msgstr "Posljednji nezavisni pretraživač."
 
 #. String obsolete. Do NOT remove.
 #: firefox/new/horizon.lang:29
 msgid "Enjoy online freedom."
-msgstr ""
+msgstr "Uživaj u slobodi na mreži."
 
 #: firefox/new/horizon.lang:33
 msgid ""
 "Thanks for choosing Firefox. Your download should begin automatically. If "
 "not, <a id=\"%(id)s\" href=\"%(fallback_url)s\">click here</a>."
 msgstr ""
+"Hvala na odabiru Firefoxa. Preuzimanje treba početi automatski. Ako ne, <a "
+"id=\"%(id)s\" href=\"%(fallback_url)s\">klikni ovdje</a>."
 
 #: firefox/new/horizon.lang:37
 msgid "Browse Freely"
-msgstr ""
+msgstr "Pretražuj slobodno"
 
 #: firefox/new/horizon.lang:41
 msgid "You’re browsing freely with the latest version of Firefox."
-msgstr ""
+msgstr "Pretražujete slobodno sa posljednjom verzijom Firefoxa."
 
 #: firefox/new/horizon.lang:45
 msgid ""
 "<a href=\"%(url)s\">Update</a> your Firefox for the latest in speed and "
 "privacy."
 msgstr ""
+"<a href=\"%(url)s\">Nadogradite</a> vaš Firefox za najnovije u brzini i "
+"privatnosti."
 
 #. # TAG: firefox_new_pre_release
 #: firefox/new/horizon.lang:50
@@ -70,7 +85,7 @@ msgstr ""
 
 #: firefox/new/horizon.lang:54
 msgid "Congrats! You’re using the latest version of Firefox."
-msgstr ""
+msgstr "Čestitamo! Koristite najnoviju verziju Firefoxa."
 
 #: firefox/new/horizon.lang:58
 msgid "Give Firefox a tune up"
@@ -78,11 +93,11 @@ msgstr ""
 
 #: firefox/new/horizon.lang:62
 msgid "Refresh Firefox"
-msgstr ""
+msgstr "Osvježite Firefox"
 
 #: firefox/new/horizon.lang:66
 msgid "Looking for more info?"
-msgstr ""
+msgstr "Tražite više informacija?"
 
 #: firefox/new/horizon.lang:70
 msgid "Want a fresh copy?"
@@ -90,11 +105,11 @@ msgstr ""
 
 #: firefox/new/horizon.lang:74
 msgid "Get Firefox for Android and iOS."
-msgstr ""
+msgstr "Preuzmite Firefox za Android i iOS."
 
 #: firefox/new/horizon.lang:78
 msgid "Learn more about Firefox for Mobile"
-msgstr ""
+msgstr "Saznaj više o Firefoxu za telefone"
 
 #: firefox/new/horizon.lang:82
 msgid "Discover all the ways to take Firefox on the go"
@@ -109,30 +124,33 @@ msgstr ""
 msgid ""
 "Please follow <a href=\"%(url)s\">these instructions</a> to install Firefox."
 msgstr ""
+"Molimo pratite <a href=\"%(url)s\">ove instrukcije</a> da instalirate "
+"Firefox."
 
 #: firefox/new/horizon.lang:95
 msgid "Freedom is fast"
-msgstr ""
+msgstr "Sloboda je brza"
 
 #: firefox/new/horizon.lang:99
 msgid "Go anywhere you want on the Web — with a quickness."
-msgstr ""
+msgstr "Idite gdje god želite na web — sa brzinom."
 
 #: firefox/new/horizon.lang:103
 msgid "Freedom is personal"
-msgstr ""
+msgstr "Sloboda je lična"
 
 #: firefox/new/horizon.lang:107
 msgid "Enjoy the most built-in privacy tools of any browser."
 msgstr ""
+"Uživajte u najviše ugrađenih alata privatnosti od bilo kojeg pretraživača."
 
 #: firefox/new/horizon.lang:111
 msgid "Freedom is yours"
-msgstr ""
+msgstr "Sloboda je vaša"
 
 #: firefox/new/horizon.lang:115
 msgid "Use the only browser built for people, not profit."
-msgstr ""
+msgstr "Koristite jedini pretraživač napravljen za ljude, ne za profit."
 
 #. # TAG: firefox_new_other_platforms
 #: firefox/new/horizon.lang:120

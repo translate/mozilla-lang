@@ -4,90 +4,93 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-25 05:09+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-03-25 14:22+0000\n"
+"Last-Translator: Peiying Mo <pmo@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1490451758.000000\n"
 
 #. Used for HTML title attribute
 #: mozorg/contribute/index.lang:6
 msgid "Volunteer Opportunities at Mozilla"
-msgstr ""
+msgstr "Volonterske mogućnosti u Mozilli"
 
 #. this string is used for accessibility reasons, it's not visible in the page
 #: mozorg/contribute/index.lang:11
 msgid "Menu"
-msgstr ""
+msgstr "Meni"
 
 #. this br is for formatting, omit or reposition as needed
 #: mozorg/contribute/index.lang:16
 msgid "Why<br> volunteer"
-msgstr ""
+msgstr "Zašto<br> volontirati"
 
 #. this br is for formatting, omit or reposition as needed
 #: mozorg/contribute/index.lang:21
 msgid "Find<br> an event"
-msgstr ""
+msgstr "Pronađi<br> događaj"
 
 #. this br is for formatting, omit or reposition as needed
 #: mozorg/contribute/index.lang:26
 msgid "Meet<br> Mozillians"
-msgstr ""
+msgstr "Upoznaj<br> Mozillians"
 
 #: mozorg/contribute/index.lang:30
 msgid "Get involved"
-msgstr ""
+msgstr "Uključite se"
 
 #: mozorg/contribute/index.lang:34
 msgid "Your country"
-msgstr ""
+msgstr "Vaša država"
 
 #. This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
 #: mozorg/contribute/index.lang:39
 msgid "I live in&hellip;"
-msgstr ""
+msgstr "Živim u&hellip;"
 
 #: mozorg/contribute/index.lang:43
 msgid "Volunteer with Mozilla!"
-msgstr ""
+msgstr "Volontiraj sa Mozillom!"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:48
 msgid "active Mozillians worldwide"
-msgstr ""
+msgstr "aktiviraj Mozillin svijet"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:53
 msgid "upcoming events around the globe"
-msgstr ""
+msgstr "predstojeći događani širom svijeta"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 #: mozorg/contribute/index.lang:58
 msgid "languages and counting, on every continent"
-msgstr ""
+msgstr "jezici i brijanje, na svm kontinentima"
 
 #: mozorg/contribute/index.lang:62
 msgid "Join a global community of game-changers."
-msgstr ""
+msgstr "Pridruži se globalnoj zajednici igre promjena."
 
 #. this br is for formatting, omit or reposition as needed
 #: mozorg/contribute/index.lang:67
 msgid ""
 "Volunteer as much as you like. Or as little.<br> It’s totally up to you."
-msgstr ""
+msgstr "Volontirajte koliko god želite. Ili malo.<br> to je potpuno do vas."
 
 #. this br is for formatting, omit or reposition as needed
 #: mozorg/contribute/index.lang:72
 msgid "Share your skills and pick up<br> a few new ones along the way."
-msgstr ""
+msgstr "Pokažite svoje vještine i pokupite<br> nekoliko novih usput."
 
 #: mozorg/contribute/index.lang:76
 msgid "Volunteering with Mozilla&hellip;"
-msgstr ""
+msgstr "Volontiranje u Mozilli&hellip;"
 
 #. This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 #: mozorg/contribute/index.lang:81
@@ -96,559 +99,599 @@ msgid ""
 "sharing your skills with a global community of Mozillians — coders, "
 "organizers, activists and more — who help shape the Web every day."
 msgstr ""
+"je o više od pružanja ruku. Radi se o učenju, saradnji i dijeljenju svojih "
+"vještina uz globalnu zajednicu Mozillinih - kodera, organizatora, aktivista "
+"i više - koji pomažu oblikovanju interneta svaki dan."
 
 #: mozorg/contribute/index.lang:85
 msgid "See our community in action"
-msgstr ""
+msgstr "Pogledajte našu zajednicu u akciji"
 
 #: mozorg/contribute/index.lang:89
 msgid "How Mozillians help every day"
-msgstr ""
+msgstr "Kako Mozillians pomažu svaki dan"
 
 #. Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 #: mozorg/contribute/index.lang:94
 msgid "Spain &middot; Activism"
-msgstr ""
+msgstr "Španija $middot; Aktivizam"
 
 #. Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 #: mozorg/contribute/index.lang:99
 msgid "Philippines &middot; Activism"
-msgstr ""
+msgstr "Filipini &middot; Aktivizam"
 
 #. Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 #: mozorg/contribute/index.lang:104
 msgid "Switzerland &middot; Coding"
-msgstr ""
+msgstr "Švicarska &middot; Šifriranje"
 
 #. Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 #: mozorg/contribute/index.lang:109
 msgid "India &middot; Teaching"
-msgstr ""
+msgstr "Indija &middot; Učenje"
 
 #: mozorg/contribute/index.lang:113
 msgid "Read his story"
-msgstr ""
+msgstr "Pročitajte njegovu priču"
 
 #: mozorg/contribute/index.lang:117
 msgid "Read her story"
-msgstr ""
+msgstr "Pročitajte njenu priču"
 
 #: mozorg/contribute/index.lang:121
 msgid "Want to get involved? Here’s how."
-msgstr ""
+msgstr "Želite se uključiti? Evo kako."
 
 #: mozorg/contribute/index.lang:125
 msgid "Choose what interests you and tell us how you’d like to help"
-msgstr ""
+msgstr "Odaberite ono što vas zanima i recite nam kako želite da pomognete"
 
 #: mozorg/contribute/index.lang:129
 msgid "Stand by for an email that will connect you to the Mozilla community"
-msgstr ""
+msgstr "Pričekajte e-mail koji će vas povezati sa Mozilla zajednicom"
 
 #: mozorg/contribute/index.lang:133
 msgid ""
 "Create your Mozillians account and share your contributions with the world"
-msgstr ""
+msgstr "Kreirajte svoj Mozilla račun i podijelite svoje doprinose sa svijetom"
 
 #: mozorg/contribute/index.lang:137
 msgid "Get started"
-msgstr ""
+msgstr "Započnite"
 
 #: mozorg/contribute/index.lang:141
 msgid "Not ready to dive in just yet?"
-msgstr ""
+msgstr "Niste spremni samo još roniti?"
 
 #: mozorg/contribute/index.lang:145
 msgid "Here are a few other ways you can support Mozilla right now."
-msgstr ""
+msgstr "Evo još nekoliko načina na koje možete sada podržati Mozillu."
 
 #: mozorg/contribute/index.lang:149
 msgid "Donate to Mozilla"
-msgstr ""
+msgstr "Donirajte za Mozillu"
 
 #: mozorg/contribute/index.lang:153
 msgid "Read our Manifesto"
-msgstr ""
+msgstr "Pročitajte naš Manifest"
 
 #: mozorg/contribute/index.lang:157
 msgid "Like us on Facebook"
-msgstr ""
+msgstr "Lajkajte nas na Facebooku"
 
 #: mozorg/contribute/index.lang:161
 msgid "Follow us on Twitter"
-msgstr ""
+msgstr "Pratite nas na Twitteru"
 
 #: mozorg/contribute/index.lang:165
 msgid "Upcoming event"
-msgstr ""
+msgstr "Predstojeći događaji"
 
 #: mozorg/contribute/index.lang:169
 msgid "See all events"
-msgstr ""
+msgstr "Pogledajte sve događaje"
 
 #: mozorg/contribute/index.lang:173
 msgid "Communicate"
-msgstr ""
+msgstr "Komunicirajte"
 
 #: mozorg/contribute/index.lang:177
 msgid "Mozilla communities"
-msgstr ""
+msgstr "Mozillina zajednica"
 
 #: mozorg/contribute/index.lang:181
 msgid "Mailing lists"
-msgstr ""
+msgstr "Mailing lista"
 
 #: mozorg/contribute/index.lang:185
 msgid "IRC channels"
-msgstr ""
+msgstr "IRC kanali"
 
 #: mozorg/contribute/index.lang:189
 msgid "More links"
-msgstr ""
+msgstr "Više linkova"
 
 #: mozorg/contribute/index.lang:193
 msgid "Submit Firefox feedback"
-msgstr ""
+msgstr "Prihvatite Firefoxove povratne informacije"
 
 #: mozorg/contribute/index.lang:197
 msgid "Explore Mozilla careers"
-msgstr ""
+msgstr "Istražite Mozilline karijere"
 
 #: mozorg/contribute/index.lang:201
 msgid "Get help with Firefox"
-msgstr ""
+msgstr "Potražite pomoć sa Firefoxa"
 
 #: mozorg/contribute/index.lang:205
 msgid "Subscribe to community events"
-msgstr ""
+msgstr "Pretplatite se na događaje u zajednici"
 
 #: mozorg/contribute/index.lang:209
 msgid "Get community updates"
-msgstr ""
+msgstr "Dobijte ažuriranja zajednice"
 
 #. Used as title of the /stories sub-page
 #: mozorg/contribute/index.lang:214
 msgid "Mozillian Stories"
-msgstr ""
+msgstr "Mozilline priče"
 
 #. Used as a toggle to display more content.
 #: mozorg/contribute/index.lang:219
 msgid "More"
-msgstr ""
+msgstr "Više"
 
 #. Used as a toggle to display less content.
 #: mozorg/contribute/index.lang:224
 msgid "Less"
-msgstr ""
+msgstr "Manje"
 
 #: mozorg/contribute/index.lang:228
 msgid "Read more Mozillian stories"
-msgstr ""
+msgstr "Pročitajte više Mozillinih priča"
 
 #: mozorg/contribute/index.lang:232
 msgid ""
 "Discover even more stories on Twitter with <a href=\"%(link_hashtag)s"
 "\">#IAmAMozillian</a>"
 msgstr ""
+"Otkrijte još više priče na Twitteru sa <a href=\"%(link_hashtag)s"
+"\">#IAmAMozillian</a>"
 
 #: mozorg/contribute/index.lang:236
 msgid "More coming soon"
-msgstr ""
+msgstr "Uskoro više"
 
 #. Used as title of the /signup sub-page
 #: mozorg/contribute/index.lang:241
 msgid "Get Involved: Volunteer Opportunities at Mozilla"
-msgstr ""
+msgstr "Pridružite se: Volonterske mogućnosti u Mozilli"
 
 #: mozorg/contribute/index.lang:245
 msgid "To get started, tell us what interests you."
-msgstr ""
+msgstr "Za početak, recite nam šta vas zanima."
 
 #: mozorg/contribute/index.lang:249
 msgid "Choose one for now. You can always contribute to other areas later."
 msgstr ""
+"Odaberite jedno za sada. Uvijek možete doprinijeti na drugim područjima "
+"kasnije."
 
 #. This text is used for accessibility reasons, it's not visible
 #: mozorg/contribute/index.lang:254
 msgid "Where would you like to get started?"
-msgstr ""
+msgstr "Gdje biste voljeli da počnete?"
 
 #: mozorg/contribute/index.lang:258
 msgid "Coding"
-msgstr ""
+msgstr "Kodiranje"
 
 #: mozorg/contribute/index.lang:262
 msgid "More about coding"
-msgstr ""
+msgstr "Više o kodiranju"
 
 #: mozorg/contribute/index.lang:266
 msgid ""
 "Contribute code to a whole range of Mozilla products, including Firefox and "
 "Firefox OS."
 msgstr ""
+"Doprinosi koda za čitav niz Mozillinih proizvoda, uključujući Firefox i "
+"Firefox OS."
 
 #: mozorg/contribute/index.lang:270
 msgid "Testing"
-msgstr ""
+msgstr "Testiranje"
 
 #: mozorg/contribute/index.lang:274
 msgid "More about testing"
-msgstr ""
+msgstr "Više o testiranju"
 
 #: mozorg/contribute/index.lang:278
 msgid "Help make the Mozilla products you use — and love — even better."
 msgstr ""
+"Pomozite da Mozilline proizvode koje koristite - i volite - budu bolji."
 
 #: mozorg/contribute/index.lang:282
 msgid "Writing"
-msgstr ""
+msgstr "Pišem"
 
 #: mozorg/contribute/index.lang:286
 msgid "More about writing"
-msgstr ""
+msgstr "Više o upisivanju"
 
 #: mozorg/contribute/index.lang:290
 msgid ""
 "Lend your voice to Mozilla — from blogging and social media to providing "
 "technical documents for users and developers."
 msgstr ""
+"Posudite svoj glas Mozilla - sa bloga i društvenih mreža u pružanju tehničke "
+"dokumentacije za korisnike i programere."
 
 #: mozorg/contribute/index.lang:294
 msgid "Teaching"
-msgstr ""
+msgstr "Učenje"
 
 #: mozorg/contribute/index.lang:298
 msgid "More about teaching"
-msgstr ""
+msgstr "Više o učenju"
 
 #: mozorg/contribute/index.lang:302
 msgid ""
 "Share your skills with a community that’s eager to learn. Take advantage of "
 "our free tools, teaching resources and events."
 msgstr ""
+"Podijelite svoje vještine sa zajednicom koja je željna da nauči. Iskoristite "
+"naše besplatne alate, resurse za učenje i događaje."
 
 #: mozorg/contribute/index.lang:306
 msgid "Helping"
-msgstr ""
+msgstr "Pomoć"
 
 #: mozorg/contribute/index.lang:310
 msgid "More about helping"
-msgstr ""
+msgstr "Više o pomoći"
 
 #: mozorg/contribute/index.lang:314
 msgid ""
 "Provide support to users who need it and help everyone get the most out of "
 "their Mozilla products."
 msgstr ""
+"Pružite podršku korisnicima kojima je to potrebno i pomozite svima da izvuku "
+"maksimum iz Mozillinih proizvoda."
 
 #: mozorg/contribute/index.lang:318
 msgid "Translating"
-msgstr ""
+msgstr "Prevođenje"
 
 #: mozorg/contribute/index.lang:322
 msgid "More about translating"
-msgstr ""
+msgstr "Više o prevođenju"
 
 #: mozorg/contribute/index.lang:326
 msgid ""
 "Help make Mozilla stuff available in other languages. Translate everything "
 "from newsletters and websites to copy for Firefox and Firefox OS."
 msgstr ""
+"Pomozite da Mozilla stvari budu dostupne na drugim jezicima. Prevodite sve "
+"iz biltena i web stranica za kopiranje iz Firefoxa i Firefox OS."
 
 #: mozorg/contribute/index.lang:330
 msgid "Activism"
-msgstr ""
+msgstr "Aktivizam"
 
 #: mozorg/contribute/index.lang:334
 msgid "More about activism"
-msgstr ""
+msgstr "Više o aktivizmu"
 
 #: mozorg/contribute/index.lang:338
 msgid ""
 "Get involved with our opportunities to support freedom, security and privacy "
 "on the open Web."
 msgstr ""
+"Uključite se sa našim mogućnostima da podržimo slobodu, sigurnost i "
+"privatnost na internetu."
 
 #: mozorg/contribute/index.lang:342
 msgid "I don’t know"
-msgstr ""
+msgstr "Ne znam"
 
 #: mozorg/contribute/index.lang:346
 msgid "More about how you can contribute"
-msgstr ""
+msgstr "Više o tome kako možete doprinijeti"
 
 #: mozorg/contribute/index.lang:350
 msgid ""
 "Not sure how you want to help? No problem. We can find the appropriate "
 "contribution activity for you."
 msgstr ""
+"Niste sigurni kako želite da pomognete? Nema problema. Mi možemo pronaći "
+"odgovarajuće aktivnosti za vas."
 
 #: mozorg/contribute/index.lang:354
 msgid "Now tell us a little about yourself:"
-msgstr ""
+msgstr "Sada nam recite nešto o sebi:"
 
 #: mozorg/contribute/index.lang:358
 msgid "Name"
-msgstr ""
+msgstr "Ime"
 
 #: mozorg/contribute/index.lang:362
 msgid "Email address"
-msgstr ""
+msgstr "Email adresa"
 
 #: mozorg/contribute/index.lang:366
 msgid "Country"
-msgstr ""
+msgstr "Zemlja"
 
 #: mozorg/contribute/index.lang:370
 msgid "select"
-msgstr ""
+msgstr "izaberite"
 
 #: mozorg/contribute/index.lang:374
 msgid "Why do you want to be a Mozilla volunteer?"
-msgstr ""
+msgstr "Zašto želiš biti Mozillin volonter?"
 
 #: mozorg/contribute/index.lang:378
 msgid "(Optional)"
-msgstr ""
+msgstr "(opcionalno)"
 
 #: mozorg/contribute/index.lang:382
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%(privacy)s"
 "\">this Privacy Policy</a>"
 msgstr ""
+"Slažem se da se Mozilla koristi mojim informacijama kao što je objašnjeno u "
+"<a href=\"%(privacy)s\">this Privacy Policy</a>"
 
 #: mozorg/contribute/index.lang:386
 msgid "Start contributing"
-msgstr ""
+msgstr "Počnite doprinositi"
 
 #: mozorg/contribute/index.lang:390
 msgid "Sign me up for community updates"
-msgstr ""
+msgstr "Prijavi me za promjene u zajednici"
 
 #: mozorg/contribute/index.lang:394
 msgid "(English)"
-msgstr ""
+msgstr "(Engleski)"
 
 #: mozorg/contribute/index.lang:398
 msgid "What particular area?"
-msgstr ""
+msgstr "Šta određenom području?"
 
 #: mozorg/contribute/index.lang:402
 msgid "What would you like to code?"
-msgstr ""
+msgstr "Šta želite kodirati?"
 
 #: mozorg/contribute/index.lang:406
 msgid "What would you like to test?"
-msgstr ""
+msgstr "Šta želite testirati?"
 
 #: mozorg/contribute/index.lang:410
 msgid "What would you like to translate?"
-msgstr ""
+msgstr "Šta biste željeli prevoditi?"
 
 #: mozorg/contribute/index.lang:414
 msgid "What would you like to write?"
-msgstr ""
+msgstr "Šta biste željeli pisati?"
 
 #: mozorg/contribute/index.lang:418
 msgid "What would you like to teach?"
-msgstr ""
+msgstr "Šta biste željeli učiti?"
 
 #: mozorg/contribute/index.lang:422
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #: mozorg/contribute/index.lang:426
 msgid "Websites"
-msgstr ""
+msgstr "Web stranice"
 
 #: mozorg/contribute/index.lang:430
 msgid "Firefox add-ons"
-msgstr ""
+msgstr "Dodaci Firefoxa"
 
 #: mozorg/contribute/index.lang:434
 msgid "HTML5 apps"
-msgstr ""
+msgstr "HTML5 aplikacije"
 
 #: mozorg/contribute/index.lang:438
 msgid "Diagnosing Web compatibility issues"
-msgstr ""
+msgstr "Dijagnosticiranje problema Web kompatibilnosti"
 
 #: mozorg/contribute/index.lang:442
 msgid "Online services"
-msgstr ""
+msgstr "Online servisi"
 
 #: mozorg/contribute/index.lang:446
 msgid "Web compatibility"
-msgstr ""
+msgstr "Web kompatibilnost"
 
 #: mozorg/contribute/index.lang:450
 msgid "Product localization"
-msgstr ""
+msgstr "Lokalizacija proizvoda"
 
 #: mozorg/contribute/index.lang:454
 msgid "Website localization"
-msgstr ""
+msgstr "Lokalizacija Web stranica"
 
 #: mozorg/contribute/index.lang:458
 msgid "I’d like to work on localization tools"
-msgstr ""
+msgstr "Ja bih da radim na alatima za lokalizaciju"
 
 #: mozorg/contribute/index.lang:462
 msgid "Social media"
-msgstr ""
+msgstr "Društveni mediji"
 
 #: mozorg/contribute/index.lang:466
 msgid "Journalism"
-msgstr ""
+msgstr "Novinarstvo"
 
 #: mozorg/contribute/index.lang:470
 msgid "Technical docs for users"
-msgstr ""
+msgstr "Tehnička dokumentacija za korisnike"
 
 #: mozorg/contribute/index.lang:474
 msgid "Technical docs for developers"
-msgstr ""
+msgstr "Tehnička dokumentacija za programere"
 
 #: mozorg/contribute/index.lang:478
 msgid "Technical docs for Firefox add-ons"
-msgstr ""
+msgstr "Tehnička dokumentacija za Firefox dodatke"
 
 #: mozorg/contribute/index.lang:482
 msgid "Technical docs for HTML5 apps"
-msgstr ""
+msgstr "Tehnička dokumentacija za HTML5 aplikacije"
 
 #: mozorg/contribute/index.lang:486
 msgid "Teach the Web (Webmaker)"
-msgstr ""
+msgstr "Nauči Web (Webmaker)"
 
 #: mozorg/contribute/index.lang:490
 msgid "Open News fellowships"
-msgstr ""
+msgstr "Otvori novisti stipendija"
 
 #: mozorg/contribute/index.lang:494
 msgid "Hive - Community networks of educators/mentors"
-msgstr ""
+msgstr "Košnica - Zajednica mreža edukatora/mentora"
 
 #: mozorg/contribute/index.lang:498
 msgid "Open Web science research"
-msgstr ""
+msgstr "Otvori internet istraživanje nauke"
 
 #: mozorg/contribute/index.lang:502
 msgid "Community Events"
-msgstr ""
+msgstr "Događaji zajednice"
 
 #: mozorg/contribute/index.lang:506
 msgid "Find events"
-msgstr ""
+msgstr "Traži događaje"
 
 #: mozorg/contribute/index.lang:510
 msgid "By city, country, or event:"
-msgstr ""
+msgstr "Prema gradu, zemlji, ili događaju:"
 
 #: mozorg/contribute/index.lang:514
 msgid "By date:"
-msgstr ""
+msgstr "Po datumu:"
 
 #: mozorg/contribute/index.lang:518
 msgid "month"
-msgstr ""
+msgstr "mjesec"
 
 #: mozorg/contribute/index.lang:522
 msgid "year"
-msgstr ""
+msgstr "godina"
 
 #: mozorg/contribute/index.lang:526
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: mozorg/contribute/index.lang:530
 msgid "Event"
-msgstr ""
+msgstr "Događaj"
 
 #: mozorg/contribute/index.lang:534
 msgid "Location"
-msgstr ""
+msgstr "Lokacija"
 
 #: mozorg/contribute/index.lang:538
 msgid "City"
-msgstr ""
+msgstr "Grad"
 
 #: mozorg/contribute/index.lang:542
 msgid "Events"
-msgstr ""
+msgstr "Događaji"
 
 #. Used as title of the thank you page displayed after users send the form
 #: mozorg/contribute/index.lang:547
 msgid "Thank you!"
-msgstr ""
+msgstr "Hvala vam!"
 
 #: mozorg/contribute/index.lang:551
 msgid "Thanks!"
-msgstr ""
+msgstr "Zahvale!"
 
 #: mozorg/contribute/index.lang:555
 msgid ""
 "We’re thrilled to see that you’re interested in coding and can’t wait to get "
 "you started."
 msgstr ""
+"Oduševljeni smo da vidimo da ste zainteresovani za kodiranje i jedva čekamo "
+"početak."
 
 #: mozorg/contribute/index.lang:559
 msgid ""
 "We’re thrilled to see that you’re interested in testing and can’t wait to "
 "get you started."
 msgstr ""
+"Oduševljeni smo da vidimo da ste zainteresirani za testiranje i jedva čekamo "
+"vaš početak."
 
 #: mozorg/contribute/index.lang:563
 msgid ""
 "We’re thrilled to see that you’re interested in writing and can’t wait to "
 "get you started."
 msgstr ""
+"Oduševljeni smo da vidimo da ste zainteresirani zapisanje i jedva čekamo da "
+"počnete."
 
 #: mozorg/contribute/index.lang:567
 msgid ""
 "We’re thrilled to see that you’re interested in teaching and can’t wait to "
 "get you started."
 msgstr ""
+"Oduševljeni smo da vidimo da ste zainteresirani za učenje i jedva čekamo da "
+"počnete."
 
 #: mozorg/contribute/index.lang:571
 msgid ""
 "We’re thrilled to see that you’re interested in helping and can’t wait to "
 "get you started."
 msgstr ""
+"Oduševljeni smo da vidimo da ste zainteresirani za pomoć i jedva čekamo da "
+"počnete."
 
 #: mozorg/contribute/index.lang:575
 msgid ""
 "We’re thrilled to see that you’re interested in translating and can’t wait "
 "to get you started."
 msgstr ""
+"Oduševljeni smo da vidimo da ste zainteresirani za prevođenje i jedva čekamo "
+"da počnete."
 
 #: mozorg/contribute/index.lang:579
 msgid ""
 "We’re thrilled to see that you’re interested in activism and can’t wait to "
 "get you started."
 msgstr ""
+"Oduševljeni smo da vidimo da ste zainteresirani za aktivizam i jedva čekamo "
+"da počnete."
 
 #: mozorg/contribute/index.lang:583
 msgid ""
 "We’re thrilled to see that you’re interested in volunteering and can’t wait "
 "to get you started."
 msgstr ""
+"Oduševljeni smo da vidimo da ste zainteresirani za volontiranje i jedva "
+"čekamo da počnete."
 
 #: mozorg/contribute/index.lang:587
 msgid "Keep an eye on your inbox for an important message from us."
-msgstr ""
+msgstr "Pogledajte u vaš inbox za važnu poruku od nas."
 
 #: mozorg/contribute/index.lang:591
 msgid "Hello!"
-msgstr ""
+msgstr "Zdravo!"
 
 #: mozorg/contribute/index.lang:595
 msgid "Your Name"
-msgstr ""
+msgstr "Vaše ime"
 
 #: mozorg/contribute/index.lang:599
 msgid "In the meantime&hellip;"
-msgstr ""
+msgstr "U međuvremenu&hellip;"
 
 #. # TAG: contribute_cta_updates
 #. Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
@@ -662,7 +705,7 @@ msgstr ""
 #. Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 #: mozorg/contribute/index.lang:611
 msgid "Choose a Task Now"
-msgstr ""
+msgstr "Izaberite zadatak sada"
 
 #. # TAG: contribute_cta_updates
 #. Displayed in the "Thank You!" page after the email is sent for other categories.
@@ -671,108 +714,110 @@ msgid ""
 "Help us tell the world how awesome Firefox is and about all the important "
 "work Mozilla does every day."
 msgstr ""
+"Pomozite nam reći svijetu kako je Firefox fenomenalan i o svim važnim "
+"poslovima koje Mozilla radi svaki dan."
 
 #. # TAG: contribute_cta_updates
 #. Displayed in the "Thank You!" page after the email is sent for other categories.
 #: mozorg/contribute/index.lang:623
 msgid "Join Now"
-msgstr ""
+msgstr "Pristupite sada"
 
 #: mozorg/contribute/index.lang:627
 msgid ""
 "You can create your Mozillians account now to connect with fellow Mozillians."
-msgstr ""
+msgstr "Možete kreirati Mozillin naloga za povezivanje sa kolegama iz Mozille."
 
 #: mozorg/contribute/index.lang:631
 msgid "Yes, create my Mozillians account"
-msgstr ""
+msgstr "Da, kreiraj moj Mozilla račun"
 
 #: mozorg/contribute/index.lang:635
 msgid "You will be asked to sign in before proceeding"
-msgstr ""
+msgstr "Od vas će se tražiti da se prijavite prije postupka"
 
 #: mozorg/contribute/index.lang:639
 msgid "No thanks, I’ll just wait for the email"
-msgstr ""
+msgstr "Ne hvala, ja ću samo čekati za e-mail"
 
 #. The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
 #. Strings have been copied from the old template (mozorg/contribute.lang)
 #: mozorg/contribute/index.lang:645
 msgid "Area of interest?"
-msgstr ""
+msgstr "Područja od značaja?"
 
 #: mozorg/contribute/index.lang:649
 msgid "Helping Users"
-msgstr ""
+msgstr "Pomoć korisnicima"
 
 #: mozorg/contribute/index.lang:653
 msgid "Testing and QA"
-msgstr ""
+msgstr "Testiranje i QA"
 
 #: mozorg/contribute/index.lang:657
 msgid "Marketing"
-msgstr ""
+msgstr "Marketing"
 
 #: mozorg/contribute/index.lang:661
 msgid "Localization and Translation"
-msgstr ""
+msgstr "Lokalizacija i prevod"
 
 #: mozorg/contribute/index.lang:665
 msgid "Web Development"
-msgstr ""
+msgstr "Razvoj za Web"
 
 #: mozorg/contribute/index.lang:669
 msgid "Firefox Marketplace"
-msgstr ""
+msgstr "Firefox Marketplace"
 
 #: mozorg/contribute/index.lang:673
 msgid "Add-ons"
-msgstr ""
+msgstr "Dodaci"
 
 #: mozorg/contribute/index.lang:677
 msgid "Visual Design"
-msgstr ""
+msgstr "Vizuelni dizajn"
 
 #: mozorg/contribute/index.lang:681
 msgid "Documentation and Writing"
-msgstr ""
+msgstr "Dokumentovanje i upisivanje"
 
 #: mozorg/contribute/index.lang:685
 msgid "Education"
-msgstr ""
+msgstr "Obrazovanje"
 
 #: mozorg/contribute/index.lang:689
 msgid "Other"
-msgstr ""
+msgstr "Ostalo"
 
 #: mozorg/contribute/index.lang:693
 msgid "Hi, I’m interested in…"
-msgstr ""
+msgstr "Zdravo, ja sam zainteresovan za..."
 
 #: mozorg/contribute/index.lang:697
 msgid "Send us a note and we can get you started right away."
-msgstr ""
+msgstr "Pošaljite nam poruku i možemo dobiti ste počeli odmah."
 
 #: mozorg/contribute/index.lang:701
 msgid "I have a suggestion for Firefox"
-msgstr ""
+msgstr "Ja imam prijedlog za Firefox."
 
 #: mozorg/contribute/index.lang:705
 msgid "I need help with a Firefox issue"
-msgstr ""
+msgstr "Trebam pomoć za Firefox probleme"
 
 #: mozorg/contribute/index.lang:709
 msgid "Please enter a valid email address."
-msgstr ""
+msgstr "Molimo vas da upišete ispravnu email adresu."
 
 #: mozorg/contribute/index.lang:713
 msgid "You must agree to the privacy policy."
-msgstr ""
+msgstr "Morate se složiti sa politikom privatnosti."
 
 #: mozorg/contribute/index.lang:717
 msgid "Please select an area of interest."
-msgstr ""
+msgstr "Molimo izaberite područja interesovanja."
 
 #: mozorg/contribute/index.lang:721
 msgid "Please tell us more about your interests."
-msgstr ""
+msgstr "Molim vas recite nam nešto više o vašim interesima."

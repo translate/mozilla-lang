@@ -4,23 +4,26 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-25 05:09+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-03-25 14:22+0000\n"
+"Last-Translator: Peiying Mo <pmo@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1490451726.000000\n"
 
 #: thunderbird/start/release.lang:6
 msgid "Welcome to <span>Thunderbird</span>"
-msgstr ""
+msgstr "Dobrodošli u <span>Thunderbird</span>"
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:11
 msgid "Why we need donations"
-msgstr ""
+msgstr "Zašto trebamo donacije"
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:16
@@ -29,6 +32,9 @@ msgid ""
 "by Mozilla. Fortunately there is an active community keeping it running and "
 "developing it further. But to survive long term, the project needs funding."
 msgstr ""
+"Možda već znate da Thunderbird poboljšanja više nisu plaćena od strane "
+"Mozille. Srećom tu je aktivna zajednica koja ga zadržava u radu i daljem "
+"razvoju. Ali da preživi duži period, projekt treba sredstva."
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:21
@@ -41,11 +47,18 @@ msgid ""
 "donated will go directly to funding Thunderbird development and "
 "infrastructure."
 msgstr ""
+"Thunderbird je trenutno u tranziciji ka nezavisnoj organizaciji. Biti "
+"nezavisni, možemo oblikovati našu vlastitu sudbinu, ali tu je značajna "
+"infrastruktura koja mora biti održavana za isporuku aplikacije za naše "
+"desetke miliona korisnika. Za preživljavanje i nastavak razvoja "
+"Thunderbirda, trebamo vašu podršku i tražiti od vas donacije danas. Sav "
+"doniran novac će ići direktno za finansiranje razvoja i infrastrukture "
+"Thunderbirda."
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:26
 msgid "Donate to Thunderbird"
-msgstr ""
+msgstr "Donirajte za Thunderbird"
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:31
@@ -58,7 +71,7 @@ msgstr ""
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:36
 msgid "If you like Thunderbird, please consider a donation!"
-msgstr ""
+msgstr "Ako vam se sviđa Thunderbird, molimo razmislite o donaciji!"
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:41
@@ -66,16 +79,18 @@ msgid ""
 "By donating, you will help us to continue delivering an ad-free top-notch "
 "email client."
 msgstr ""
+"Doniranjem, pomoći ćete nam da nastavimo isporuku vrhunskog email klijenta "
+"bez reklama."
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:46
 msgid "Make a donation"
-msgstr ""
+msgstr "Donirajte"
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:51
 msgid "Other ways to contribute to Thunderbird"
-msgstr ""
+msgstr "Drugi načini za doprinos Thunderbirdu"
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:56
@@ -85,10 +100,14 @@ msgid ""
 "up a few new ones along the way. Volunteer as much as you like. Or as "
 "little. It’s totally up to you."
 msgstr ""
+"Sada je pravo vrijeme za vas da se uključite: pisanje kodova, testiranje, "
+"podrška, lokalizacija i više. Pridružite se globalnoj zajednici! Podijelite "
+"vaše vještine i pokupite neke nove usput. Volontirajte onoliko koliko "
+"želite. Ili malo. U potpunosti je na vama."
 
 #: thunderbird/start/release.lang:60
 msgid "Contribute to Thunderbird"
-msgstr ""
+msgstr "Doprinesite Thunderbirdu"
 
 #: thunderbird/start/release.lang:64
 msgid ""
@@ -96,18 +115,25 @@ msgid ""
 "years, active contributors <a href=\"%s\">recently organized</a> to focus on "
 "the future."
 msgstr ""
+"Kako bi se osiguralo da Thunderbird nastavi poboljšavanje, kako je to bilo u "
+"posljednjih deset godina, aktivni saradnici su se <a href=\"%s\">nedavno "
+"organizovali</a> da se fokusiraju na budućnost."
 
 #: thunderbird/start/release.lang:68
 msgid ""
 "Now is a great time for you to <a href=\"%s\" class=\"iconic\">get involved</"
 "a>."
 msgstr ""
+"Sada je pravi trenutak za vas da <a href=\"%s\" class=\"iconic\">se "
+"uključite</a>."
 
 #: thunderbird/start/release.lang:72
 msgid ""
 "Please help us assist users of Thunderbird, and improve the Thunderbird "
 "product and eco-system."
 msgstr ""
+"Molimo vas, pomozite nam pomoći korisnicima Thunderbirda, poboljšati "
+"Thunderbird proizvod i ekosistem."
 
 #: thunderbird/start/release.lang:76
 msgid "We look forward to <a href=\"%s\">hearing from you</a>."
@@ -115,11 +141,11 @@ msgstr ""
 
 #: thunderbird/start/release.lang:80
 msgid "Learn more"
-msgstr ""
+msgstr "Saznajte više"
 
 #: thunderbird/start/release.lang:84
 msgid "Need Support?"
-msgstr ""
+msgstr "Trebate podršku?"
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:89
@@ -127,6 +153,8 @@ msgid ""
 "Most Thunderbird support questions are answered in the <a href=\"%s"
 "\">Knowledge Base</a>."
 msgstr ""
+"Većina Thunderbird pitanja za podršku su odgovorena u <a href=\"%s\">Bazi "
+"znanja</a>."
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:94
@@ -134,6 +162,8 @@ msgid ""
 "If you can’t find an answer, <a href=\"%s\">ask your question in our support "
 "forum</a>."
 msgstr ""
+"Ako ne možete naći odgovor, <a href=\"%s\">postavite vaše pitanje na forum "
+"naše podrške</a>."
 
 #. Obsolete string, do not remove
 #: thunderbird/start/release.lang:99
@@ -141,6 +171,8 @@ msgid ""
 "Most Thunderbird support questions are answered on the <a href=\"%s"
 "\">Knowledge Base</a>."
 msgstr ""
+"Većina Thunderbird pitanja za podršku su odgovorena u <a href=\"%s\">Bazi "
+"znanja</a>."
 
 #. Obsolete string, do not remove
 #: thunderbird/start/release.lang:104
@@ -148,33 +180,35 @@ msgid ""
 "If you can’t find an answer, <a href=\"%s\">ask your question on our support "
 "forum</a>."
 msgstr ""
+"Ako ne možete naći odgovor, <a href=\"%s\">postavite vaše pitanje na forum "
+"naše podrške</a>."
 
 #. If your locale has a dedicated Thunderbird support forum, you can localize the URL
 #. used in the previous string to point there. Otherwise simply mark the string as {ok}
 #: thunderbird/start/release.lang:110
 msgid "https://support.mozilla.org/questions/new/thunderbird"
-msgstr ""
+msgstr "https://support.mozilla.org/questions/new/thunderbird"
 
 #: thunderbird/start/release.lang:114
 msgid "Features"
-msgstr ""
+msgstr "Mogućnosti"
 
 #: thunderbird/start/release.lang:118
 msgid "Visit our blog"
-msgstr ""
+msgstr "Posjetite naš blog"
 
 #: thunderbird/start/release.lang:122
 msgid "Contribute"
-msgstr ""
+msgstr "Doprinos"
 
 #: thunderbird/start/release.lang:126
 msgid "Tips"
-msgstr ""
+msgstr "Savjeti"
 
 #: thunderbird/start/release.lang:130
 msgid "Add-ons"
-msgstr ""
+msgstr "Dodaci"
 
 #: thunderbird/start/release.lang:134
 msgid "Get help"
-msgstr ""
+msgstr "Traži pomoć"
