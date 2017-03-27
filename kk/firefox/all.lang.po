@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-22 07:09+0000\n"
-"PO-Revision-Date: 2017-03-24 18:34+0000\n"
+"PO-Revision-Date: 2017-03-27 03:56+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: none\n"
 "Language: kk\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1490380474.000000\n"
+"X-POOTLE-MTIME: 1490587010.000000\n"
 
 #. %s is replaced with Firefox.
 #: firefox/all.lang:6
@@ -40,6 +40,9 @@ msgid ""
 "before they make it to final release. Provide feedback to help us refine and "
 "polish the next version of Firefox."
 msgstr ""
+"Өз тіліңіздегі Firefox Beta жүктеп алып, шығарылымға әлі кірмеген ең соңғы "
+"мүмкіндіктерді сынап көріңіз. Firefox-тың келесі нұсқасын жақсарту "
+"мақсатында бізге кері байланыс хабарламасын жіберіңіз."
 
 #. %s is replaced with Firefox.
 #. This is displayed on firefox/aurora/all/.
@@ -50,6 +53,10 @@ msgid ""
 "feedback that will determine what makes it to Final Release and help shape "
 "the future of Firefox."
 msgstr ""
+"Өз тіліңіздегі %s жүктеп алып, Beta ішіне де әлі кірмеген ең соңғы "
+"мүмкіндіктерді және жаңалықтарды тұрақсыз ортада сынап көріңіз. Firefox-тың "
+"келесі нұсқасын жақсарту мақсатында бізге кері байланыс хабарламасын "
+"жіберіңіз."
 
 #. This is displayed on firefox/nightly/all/.
 #: firefox/all.lang:35
@@ -58,6 +65,10 @@ msgid ""
 "Nightly and help us improve Firefox quality, hunt crashes and regressions "
 "and test new features as they get coded!"
 msgstr ""
+"Альфаға дейінгі бағдарламалық қамтаманы сенімді қолданатын пайдаланушысыз "
+"ба? Nightly нұсқасын орнатып, бізге Firefox сапасын жақсартуға, құлап "
+"түсулер мен тежеулерді анықтауға және жаңа қонған мүмкіндіктерді сынауға "
+"көмектесіңіз!"
 
 #. This is displayed on firefox/organizations/all/.
 #: firefox/all.lang:40
@@ -65,6 +76,8 @@ msgid ""
 "Firefox ESR is intended for groups who deploy and maintain the desktop "
 "environment in large organizations. <a href=\"%s\">Learn more.</a>"
 msgstr ""
+"Firefox ESR үлкен кәсіпорындарда жұмыс үстел ортасын қондыратын және оған "
+"қолдау көрсететін топтар үшін арналған. <a href=\"%s\">Көбірек білу.</a>"
 
 #: firefox/all.lang:44
 msgid ""
@@ -72,6 +85,8 @@ msgid ""
 "offer it in 90 languages (and why there’s heart and soul in every piece of "
 "code)."
 msgstr ""
+"Firefox өнімін жасауға дүние жүзінің әр жерінен көптеген волонтерлар "
+"көмектеседі. Сондықтан ғана біз оны 90 тілде ұсынамыз."
 
 #. Product name is hard coded inside the product, thus not localizable.
 #: firefox/all.lang:49
@@ -90,6 +105,8 @@ msgid ""
 "Thanks to contributions of Mozilla community members around the world, "
 "Firefox is available in 90 languages:"
 msgstr ""
+"Mozilla қоғамдастығы дүние жүзінің әр жерінде орналасқан мүшелерінің "
+"көмегінің нәтижесінде, Firefox 90 тілде қолжетерлік."
 
 #. This is displayed on firefox/nightly/all/.
 #: firefox/all.lang:65
@@ -97,6 +114,9 @@ msgid ""
 "<strong>Warning</strong>: Nightly is updated daily. It is most appropriate "
 "for core Mozilla contributors and early adopters, not regular users."
 msgstr ""
+"<strong>Ескерту</strong>: Nightly күнделікті жаңартылады. Ол Mozilla-ның "
+"негізгі үлесін қосушылары және сынау үшін арналған, қалыпты пайдаланушылар "
+"үшін емес."
 
 #: firefox/all.lang:69
 msgid "Check the system requirements"
@@ -128,15 +148,17 @@ msgid ""
 "These localizations aren’t final. We’re waiting for more feedback from the "
 "community to perfect them."
 msgstr ""
+"Бұл локализациялар әлі аяқталмаған. Оларды жақсарту мақсатында біз "
+"қоғамдастықтың пікірлерін күтеміз."
 
 #. Used in Android pages like /firefox/android/beta/all/
 #: firefox/all.lang:99
 msgid "Multi-locale"
-msgstr ""
+msgstr "Көплокальді"
 
 #: firefox/all.lang:103
 msgid "Search languages"
-msgstr ""
+msgstr "Тілдерді іздеу"
 
 #: firefox/all.lang:107
 msgid "Search"
@@ -144,12 +166,12 @@ msgstr "Іздеу"
 
 #: firefox/all.lang:111
 msgid "No matching languages found."
-msgstr ""
+msgstr "Сәйкес тілдер табылмады."
 
 #: firefox/all.lang:115
 msgid "Download for %(platform)s in %(locale)s"
-msgstr ""
+msgstr "%(platform)s үшін %(locale)s тілінде жүктеп алу"
 
 #: firefox/all.lang:119
 msgid "Not Yet Available"
-msgstr ""
+msgstr "Әлі қолжетерсіз"
