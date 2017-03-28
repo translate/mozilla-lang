@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-07 16:10+0000\n"
-"PO-Revision-Date: 2017-03-28 10:05+0000\n"
+"PO-Revision-Date: 2017-03-28 10:14+0000\n"
 "Last-Translator: Mirzet Omerović <mirzet.omerovic.1992@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bs\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1490695535.000000\n"
+"X-POOTLE-MTIME: 1490696083.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -44,7 +44,7 @@ msgstr "Nemoj me pratiti"
 #. Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 #: main.lang:27
 msgid "Interest Dashboard"
-msgstr ""
+msgstr "Korist komandne table"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:32
@@ -77,6 +77,8 @@ msgid ""
 "Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox "
 "isn’t just choosing a browser. It’s a vote for personal freedom."
 msgstr ""
+"Firefox je neprofitni, nekorporativan, nenagodljiv. Izbor Firefoxa nije samo "
+"odabir preglednika. To je glas za ličnu slobodu."
 
 #: main.lang:61
 msgid "Donate"
@@ -228,6 +230,9 @@ msgid ""
 "licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
 "Alike License v3.0</a> or any later version."
 msgstr ""
+"Osim kada je drugačije <a href=\"%s\"> navedeno </a>, sadržaj na ovim "
+"stranicama je licenciran pod <br /><a href=\"%s\"> Creative Commons Share-"
+"Alike licencom v3.0 </a> ili bilo koje kasnije verzije."
 
 #: main.lang:209
 msgid "Report Trademark Abuse"
@@ -324,6 +329,9 @@ msgid ""
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
 "Commons license</a>."
 msgstr ""
+"Dijelovi ovog sadržaja su ©1998 -%(current_year)s pojedinačnim mozilla.org "
+"saradnicima. Sadržaj je dostupan pod <a href=\"%(url)s\"> Creative Commons "
+"licencom </a>."
 
 #. Footer string (will replace "Contribute to this page")
 #: main.lang:303
@@ -451,7 +459,7 @@ msgstr "Softver i druge inovacije dizajnirane da unaprijede našu misiju."
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:426
 msgid "Become a volunteer contributor in a number of different areas."
-msgstr ""
+msgstr "Postati volonter doprinosa u velikom broju različitih područja."
 
 #. This is a non-visible string for blind people to indicate where the menu is
 #: main.lang:431
@@ -641,7 +649,7 @@ msgstr "Dostupni jezici"
 
 #: main.lang:612
 msgid "We will only send you Mozilla-related information."
-msgstr "Mi ćemo vam samo poslati informacije Mozilline veze."
+msgstr "Mi ćemo vam samo poslati informacije povezane sa Mozillom."
 
 #: main.lang:616
 msgid "Thanks!"
@@ -653,10 +661,13 @@ msgid ""
 "newsletter you may have to do so. Please check your inbox or your spam "
 "filter for an email from us."
 msgstr ""
+"Ako niste prethodno potvrdili pretplatu na bilten vezan za Mozillu možete to "
+"uraditi. Molimo provjerite vašu ulaznu poštu ili vaš filter neželjene pošte "
+"za e-poštu od nas."
 
 #: main.lang:624
 msgid "Read all about it in our <span>newsletter</span>"
-msgstr ""
+msgstr "Pročitajte sve o tome u našem <span>biltenu</span>"
 
 #: main.lang:628
 msgid ""
@@ -664,6 +675,9 @@ msgid ""
 "the latest tips and tricks for getting the most out of your Firefox browser. "
 "It’s the perfect way for us to keep in touch!"
 msgstr ""
+"Pretplatite se na mjesečna ažuriranja i budite uz Mozilla vijesti, "
+"uključujući posljednje savjete i trikove za dobijanje najviše od vašeg "
+"Firefox pretraživača. To je perfektan način za nas da budemo u kontaktu!"
 
 #: main.lang:632
 msgid "<span>Firefox</span> + You"
@@ -671,13 +685,13 @@ msgstr "<span>Firefox</span> + Vi"
 
 #: main.lang:636
 msgid "Get Firefox tips, tricks, news and more"
-msgstr ""
+msgstr "Dobijte Firefox savjete, trikove, vijesti i više"
 
 #. This string will be used as a navigation label in home page, pointing to /technology
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 #: main.lang:642
 msgid "Web Innovations"
-msgstr ""
+msgstr "Web inovacije"
 
 #. This string will be used as a navigation label in home page, pointing to /internet-health
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
