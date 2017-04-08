@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-25 05:09+0000\n"
-"PO-Revision-Date: 2017-03-25 14:22+0000\n"
-"Last-Translator: Peiying Mo <pmo@mozilla.com>\n"
+"PO-Revision-Date: 2017-04-08 14:28+0000\n"
+"Last-Translator: Nihad Suljic <nihad.suljic92@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bs\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1490451758.000000\n"
+"X-POOTLE-MTIME: 1491661683.000000\n"
 
 #. Used for HTML title attribute
 #: mozorg/contribute/index.lang:6
@@ -56,26 +56,26 @@ msgstr "Živim u&hellip;"
 
 #: mozorg/contribute/index.lang:43
 msgid "Volunteer with Mozilla!"
-msgstr "Volontiraj sa Mozillom!"
+msgstr "Volontirajte sa Mozillom!"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:48
 msgid "active Mozillians worldwide"
-msgstr "aktiviraj Mozillin svijet"
+msgstr "aktivnih Mozillera širom svijeta"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 #: mozorg/contribute/index.lang:53
 msgid "upcoming events around the globe"
-msgstr "predstojeći događani širom svijeta"
+msgstr "predstojećih događaja širom svijeta"
 
 #. This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 #: mozorg/contribute/index.lang:58
 msgid "languages and counting, on every continent"
-msgstr "jezici i brijanje, na svm kontinentima"
+msgstr "jezika i u porastu, na svakom kontinentu"
 
 #: mozorg/contribute/index.lang:62
 msgid "Join a global community of game-changers."
-msgstr "Pridruži se globalnoj zajednici igre promjena."
+msgstr "Pridružite se globalnoj zajednici koja pravi promjene."
 
 #. this br is for formatting, omit or reposition as needed
 #: mozorg/contribute/index.lang:67
@@ -99,9 +99,10 @@ msgid ""
 "sharing your skills with a global community of Mozillians — coders, "
 "organizers, activists and more — who help shape the Web every day."
 msgstr ""
-"je o više od pružanja ruku. Radi se o učenju, saradnji i dijeljenju svojih "
-"vještina uz globalnu zajednicu Mozillinih - kodera, organizatora, aktivista "
-"i više - koji pomažu oblikovanju interneta svaki dan."
+"predstavlja mnogo više od pomaganja. Radi se o učenju, sarađivanju i "
+"dijeljenju Vaših vještina sa globalnom zajednicom Mozillera — programerima, "
+"organizatorima, aktivistima i mnogim drugim — sa onima koji pomažu u "
+"svakodnevnom oblikovanju weba."
 
 #: mozorg/contribute/index.lang:85
 msgid "See our community in action"
@@ -109,7 +110,7 @@ msgstr "Pogledajte našu zajednicu u akciji"
 
 #: mozorg/contribute/index.lang:89
 msgid "How Mozillians help every day"
-msgstr "Kako Mozillians pomažu svaki dan"
+msgstr "Kako Mozilleri pomažu svaki dan"
 
 #. Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 #: mozorg/contribute/index.lang:94
@@ -124,7 +125,7 @@ msgstr "Filipini &middot; Aktivizam"
 #. Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 #: mozorg/contribute/index.lang:104
 msgid "Switzerland &middot; Coding"
-msgstr "Švicarska &middot; Šifriranje"
+msgstr "Švicarska &middot; Kodiranje"
 
 #. Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 #: mozorg/contribute/index.lang:109
@@ -178,7 +179,7 @@ msgstr "Pročitajte naš Manifest"
 
 #: mozorg/contribute/index.lang:157
 msgid "Like us on Facebook"
-msgstr "Lajkajte nas na Facebooku"
+msgstr "Lajkujte nas na Facebooku"
 
 #: mozorg/contribute/index.lang:161
 msgid "Follow us on Twitter"
@@ -430,7 +431,7 @@ msgstr "izaberite"
 
 #: mozorg/contribute/index.lang:374
 msgid "Why do you want to be a Mozilla volunteer?"
-msgstr "Zašto želiš biti Mozillin volonter?"
+msgstr "Zašto želite biti Mozillin volonter?"
 
 #: mozorg/contribute/index.lang:378
 msgid "(Optional)"
@@ -458,15 +459,15 @@ msgstr "(Engleski)"
 
 #: mozorg/contribute/index.lang:398
 msgid "What particular area?"
-msgstr "Šta određenom području?"
+msgstr "Koje tačno područje?"
 
 #: mozorg/contribute/index.lang:402
 msgid "What would you like to code?"
-msgstr "Šta želite kodirati?"
+msgstr "Šta biste željeli programirati?"
 
 #: mozorg/contribute/index.lang:406
 msgid "What would you like to test?"
-msgstr "Šta želite testirati?"
+msgstr "Šta biste željeli testirati?"
 
 #: mozorg/contribute/index.lang:410
 msgid "What would you like to translate?"
@@ -498,11 +499,11 @@ msgstr "HTML5 aplikacije"
 
 #: mozorg/contribute/index.lang:438
 msgid "Diagnosing Web compatibility issues"
-msgstr "Dijagnosticiranje problema Web kompatibilnosti"
+msgstr "Dijagnosticiranje problema web kompatibilnosti"
 
 #: mozorg/contribute/index.lang:442
 msgid "Online services"
-msgstr "Online servisi"
+msgstr "Internet usluge"
 
 #: mozorg/contribute/index.lang:446
 msgid "Web compatibility"
@@ -514,11 +515,11 @@ msgstr "Lokalizacija proizvoda"
 
 #: mozorg/contribute/index.lang:454
 msgid "Website localization"
-msgstr "Lokalizacija Web stranica"
+msgstr "Lokalizacija web stranica"
 
 #: mozorg/contribute/index.lang:458
 msgid "I’d like to work on localization tools"
-msgstr "Ja bih da radim na alatima za lokalizaciju"
+msgstr "Htio/htjela bih da radim na alatima lokalizacije"
 
 #: mozorg/contribute/index.lang:462
 msgid "Social media"
@@ -546,7 +547,7 @@ msgstr "Tehnička dokumentacija za HTML5 aplikacije"
 
 #: mozorg/contribute/index.lang:486
 msgid "Teach the Web (Webmaker)"
-msgstr "Nauči Web (Webmaker)"
+msgstr "Nauči web (Webmaker)"
 
 #: mozorg/contribute/index.lang:490
 msgid "Open News fellowships"
@@ -700,6 +701,8 @@ msgid ""
 "You can help by picking an easy task that only takes a few minutes &mdash; "
 "or take on a bigger challenge."
 msgstr ""
+"Možete pomoći tako što ćete odabrati lagan zadatak koji traje samo nekoliko "
+"minuta &mdash; ili prihvatiti veći izazov."
 
 #. # TAG: contribute_cta_updates
 #. Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
@@ -752,7 +755,7 @@ msgstr "Pomoć korisnicima"
 
 #: mozorg/contribute/index.lang:653
 msgid "Testing and QA"
-msgstr "Testiranje i QA"
+msgstr "Testiranje i osiguranje kvaliteta"
 
 #: mozorg/contribute/index.lang:657
 msgid "Marketing"
@@ -760,11 +763,11 @@ msgstr "Marketing"
 
 #: mozorg/contribute/index.lang:661
 msgid "Localization and Translation"
-msgstr "Lokalizacija i prevod"
+msgstr "Lokalizacija i prijevod"
 
 #: mozorg/contribute/index.lang:665
 msgid "Web Development"
-msgstr "Razvoj za Web"
+msgstr "Web programiranje"
 
 #: mozorg/contribute/index.lang:669
 msgid "Firefox Marketplace"
