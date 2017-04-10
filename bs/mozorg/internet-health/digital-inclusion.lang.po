@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-13 21:10+0000\n"
-"PO-Revision-Date: 2017-04-10 09:04+0000\n"
+"PO-Revision-Date: 2017-04-10 10:03+0000\n"
 "Last-Translator: Nihad Suljic <nihad.suljic92@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bs\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1491815075.000000\n"
+"X-POOTLE-MTIME: 1491818596.000000\n"
 
 #: mozorg/internet-health/digital-inclusion.lang:5
 msgid "Digital Inclusion: Vital to Internet Health"
@@ -229,13 +229,15 @@ msgstr "Kako možete primjeniti poštovanje"
 
 #: mozorg/internet-health/digital-inclusion.lang:150
 msgid "Report bullying"
-msgstr "Prijavljivanjem nasilništva"
+msgstr "Prijavljivanjem zlostavljanja"
 
 #: mozorg/internet-health/digital-inclusion.lang:154
 msgid ""
 "If you see cyber violence and bullying online, <a href=\"%(report)s\">record "
 "it and report it</a>."
 msgstr ""
+"Ako vidite elektronsko nasilje i zlostavljanje na internetu, <a href="
+"\"%(report)s\">snimite i prijavite ga</a>."
 
 #: mozorg/internet-health/digital-inclusion.lang:158
 msgid "Talk about respect"
@@ -246,14 +248,17 @@ msgid ""
 "<a href=\"%(kids)s\">Talk to your kids</a> about cyberbullying, and <a href="
 "\"%(teachers)s\">encourage their teachers to do the same</a>."
 msgstr ""
+"<a href=\"%(kids)s\">Razgovarajte sa svojom djecom</a> o elektronskom "
+"zlostavljanju, te <a href=\"%(teachers)s\">potičite njihove učitelje da "
+"učine isto</a>."
 
 #: mozorg/internet-health/digital-inclusion.lang:166
 msgid "How Mozilla is practicing respect"
-msgstr ""
+msgstr "Kako Mozilla primjenjuje poštovanje"
 
 #: mozorg/internet-health/digital-inclusion.lang:170
 msgid "Supporting tools for safety"
-msgstr ""
+msgstr "Podržavajući alate za sigurnost"
 
 #: mozorg/internet-health/digital-inclusion.lang:174
 msgid ""
@@ -262,10 +267,14 @@ msgid ""
 "tools like <a href=\"%(talk)s\">Talk</a>, that aims to create smarter, safer "
 "comments sections."
 msgstr ""
+"Podržavajući <a href=\"%(coral)s\">Coral Project</a>, koji radi na "
+"poboljšanju kako se novinari i zajednice uključuju na stranice s vijestima, "
+"uključujući alate kao što je <a href=\"%(talk)s\">Talk</a>, koji ima za cilj "
+"stvoriti pametnije, sigurnije sekcije komentara."
 
 #: mozorg/internet-health/digital-inclusion.lang:178
 msgid "Empowering individuals"
-msgstr ""
+msgstr "Osnaživanjem pojedinaca"
 
 #: mozorg/internet-health/digital-inclusion.lang:182
 msgid ""
@@ -273,17 +282,23 @@ msgid ""
 "like the <a href=\"%(teaching)s\">Teaching Kit: Combating Cyber Violence "
 "Against Women and Girls</a>."
 msgstr ""
+"Stvaranjem otvorenog kurikuluma koji omogućava ljudima da kreiraju sigurnije "
+"prostore na internetu, kao što je <a href=\"%(teaching)s\">Paket nastave: "
+"Borba protiv elektronskog nasilja nad ženama i djevojčicama</a>."
 
 #: mozorg/internet-health/digital-inclusion.lang:186
 msgid ""
 "Digital Inclusion means supporting universal access to the whole Internet"
 msgstr ""
+"Digitalna inkluzija znači podržavanje univerzalnog pristupa cijelom internetu"
 
 #: mozorg/internet-health/digital-inclusion.lang:190
 msgid ""
 "We should all have affordable, high-quality, unrestricted access to the "
 "whole Web, so the whole world can benefit."
 msgstr ""
+"Svi trebamo imati dostupan, visoko kvalitetan, neograničen pristup cijelom "
+"internetu, tako da cijeli svijet može imati koristi."
 
 #: mozorg/internet-health/digital-inclusion.lang:194
 msgid ""
@@ -294,10 +309,16 @@ msgid ""
 "to serve their own agendas, which can threaten human rights and even the "
 "health of the global economy."
 msgstr ""
+"Za učestvovanje na internetu, morate biti u mogućnosti pristupiti internetu. "
+"Pojavili su se programi koji nude besplatni ili subvencionirni pristup "
+"internetu, ali to je često sporo ili ograničeno, stvarajući ‘loš internet za "
+"siromašne ljude.’ U najgorem slučaju, vlade širom svijeta isključuju cijeli "
+"ili dio interneta da ostvare vlastite ciljeve, što može ugroziti ljudska "
+"prava i čak zdravlje globalne ekonomije."
 
 #: mozorg/internet-health/digital-inclusion.lang:198
 msgid "In 2016, there were 51 intentional Internet shutdowns in 18 countries."
-msgstr ""
+msgstr "U 2016-oj, bilo je 51 namjerno gašenje interneta u 18 zemalja."
 
 #: mozorg/internet-health/digital-inclusion.lang:202
 msgid "Source: <a href=\"%(accessnow)s\">AccessNow</a>, 2016"
@@ -310,11 +331,11 @@ msgstr "51"
 
 #: mozorg/internet-health/digital-inclusion.lang:211
 msgid "How you can support universal access"
-msgstr ""
+msgstr "Kako možete podržati univerzalni pristup"
 
 #: mozorg/internet-health/digital-inclusion.lang:215
 msgid "Donate your tech"
-msgstr ""
+msgstr "Donirajte svoju tehnologiju"
 
 #: mozorg/internet-health/digital-inclusion.lang:219
 msgid ""
@@ -323,34 +344,43 @@ msgid ""
 "Used Technology</a>, or <a href=\"%(interconnection)s\">Interconnection</a>, "
 "who refurbish and redistribute them to underserved communities."
 msgstr ""
+"Donirajte stare računare, laptope, i telefone za neprofitne organizacije kao "
+"što je <a href=\"%(reconnect)s\">Reconnect</a>, <a href=\"%(strut)s"
+"\">Students Recycling Used Technology</a>, ili <a href=\"%(interconnection)s"
+"\">Interconnection</a>, koji ih obnavlja i redistribuira u nedovoljno "
+"razvijene zajednice."
 
 #: mozorg/internet-health/digital-inclusion.lang:223
 msgid "Advocate for openness"
-msgstr ""
+msgstr "Zalaganjem za otvorenost"
 
 #: mozorg/internet-health/digital-inclusion.lang:227
 msgid ""
 "Tell your representatives that open and affordable access to the Internet "
 "should be a policy priority."
 msgstr ""
+"Recite svojim predstavnicima da otvoren i povoljan pristup na internet treba "
+"biti prioritet politike."
 
 #: mozorg/internet-health/digital-inclusion.lang:231
 msgid "How Mozilla is supporting universal access"
-msgstr ""
+msgstr "Kako Mozilla podržava univerzalni pristup"
 
 #: mozorg/internet-health/digital-inclusion.lang:235
 msgid "Advocating for neutrality"
-msgstr ""
+msgstr "Zalaganjem za neutralnost"
 
 #: mozorg/internet-health/digital-inclusion.lang:239
 msgid ""
 "Championing <a href=\"%(neutrality)s\">net neutrality</a>, so that everyone "
 "has access to the same Internet."
 msgstr ""
+"Bori se za <a href=\"%(neutrality)s\">neutralnost</a>, tako da svi imaju "
+"pristup istom internetu."
 
 #: mozorg/internet-health/digital-inclusion.lang:243
 msgid "Connecting the unconnected"
-msgstr ""
+msgstr "Povezivanjem nepovezanih"
 
 #: mozorg/internet-health/digital-inclusion.lang:247
 msgid ""
