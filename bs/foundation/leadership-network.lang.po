@@ -4,21 +4,23 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-08 12:10+0000\n"
-"PO-Revision-Date: 2017-04-08 12:10+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2017-04-11 15:53+0000\n"
+"Last-Translator: Nihad Suljic <nihad.suljic92@gmail.com>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: bs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1491926010.000000\n"
 
 #: foundation/leadership-network.lang:5
 msgid "The Mozilla Leadership Network"
-msgstr ""
+msgstr "Mozillina rukovodstvena mreža"
 
 #: foundation/leadership-network.lang:9
-#, fuzzy
 msgid "Connecting Leaders"
 msgstr "Povezivanje vođa"
 
@@ -29,24 +31,30 @@ msgid ""
 "leading a global organization - who will ensure the next wave of access, "
 "inclusion and opportunity online."
 msgstr ""
+"Mozillina rukovodstvena mreža je globalna mreža različitih vođa - od mladih "
+"aktivista koji uče web pismenosti u svojoj zajednici, do do izvršnih vođa "
+"globalne organizacije - koji će osigurati novi val pristupa, uključenosti i "
+"mogućnosti na internetu."
 
 #: foundation/leadership-network.lang:17
 msgid "Leaders in this network will take action together to:"
-msgstr ""
+msgstr "Vođe u ovoj mreži će pokrenuti akciju zajedno da:"
 
 #: foundation/leadership-network.lang:21
 msgid "Shape and spread the open internet agenda;"
-msgstr ""
+msgstr "Oblikuju i prošire agendu otvorenog interneta;"
 
 #: foundation/leadership-network.lang:25
 msgid ""
 "Model ‘open’ values and practices in institutions, products and policies "
 "around the world."
 msgstr ""
+"Promovišu vrijednosti i otvorene prakse u institucijama, proizvodima i "
+"politikama širom svijeta."
 
 #: foundation/leadership-network.lang:29
 msgid "How we work"
-msgstr ""
+msgstr "Kako radimo"
 
 #: foundation/leadership-network.lang:33
 msgid ""
@@ -55,28 +63,38 @@ msgid ""
 "build the capacity to advance the open Internet in their field or topic of "
 "interest."
 msgstr ""
+"Mozillina rukovodstvena mreža ostvaruje svoj rad putem tematskih ‘čvorišta,’ "
+"zajednica ljudi s različitim stručnostima, koji pomažu drugima izgraditi "
+"kapacitete za unapređenje otvorenog interneta u njihovoj oblasti ili temi od "
+"interesa."
 
 #: foundation/leadership-network.lang:37
 msgid "Our current hubs include:"
-msgstr ""
+msgstr "Naša trenutna čvorišta uključuju:"
 
 #: foundation/leadership-network.lang:41
 msgid ""
 "<a href=\"%(url_learning)s\">Learning.</a> Educators and librarians "
 "committed to transforming learning in our digital age."
 msgstr ""
+"<a href=\"%(url_learning)s\">Učenje.</a> Nastavnici i bibliotekari posvećeni "
+"transformaciji učenja u našem digitalnom dobu."
 
 #: foundation/leadership-network.lang:45
 msgid ""
 "<a href=\"%(url_science)s\">Science.</a> Researchers and data scientists "
 "committed to making research and practice more open."
 msgstr ""
+"<a href=\"%(url_science)s\">Nauka.</a> Istraživači i analitičari podataka "
+"zalažu se da istraživanja i praksa budu više otvoreni."
 
 #: foundation/leadership-network.lang:49
 msgid ""
 "<a href=\"%(url_advocacy)s\">Internet Policy & Advocacy.</a> Individuals and "
 "organizations focused on advancing open Internet issues."
 msgstr ""
+"<a href=\"%(url_advocacy)s\">Internet politika i zastupanje.</a> Pojedinci i "
+"organizacije fokusirani na unapređenje pitanja otvorenog interneta."
 
 #: foundation/leadership-network.lang:53
 msgid ""
@@ -84,6 +102,9 @@ msgid ""
 "senior leaders creating opportunities for women and girls to develop web "
 "literacy skills."
 msgstr ""
+"<a href=\"%(url_women)s\">Žene i web pismenost.</a> Organizatori i starije "
+"vođe kreiraju mogućnosti za žene i djevojčice da razviju vještine web "
+"pismenosti."
 
 #: foundation/leadership-network.lang:57
 msgid ""
@@ -91,16 +112,21 @@ msgid ""
 "creating provocative prototypes for what an open Internet of Things could "
 "and should be."
 msgstr ""
+"<a href=\"%(url_iot)s\">Internet stvari.</a> Hakeri i dizajneri kreiraju "
+"provokativne prototipove za ono što otvoreni internet stvari može i treba "
+"biti."
 
 #: foundation/leadership-network.lang:61
 msgid "Our Initiatives"
-msgstr ""
+msgstr "Naše inicijative"
 
 #: foundation/leadership-network.lang:65
 msgid ""
 "The Mozilla Leadership Network pursues our goals through five key "
 "initiatives, which are reflected in each hub:"
 msgstr ""
+"Mozillina rukovodstvena mreža provodi svoje ciljeve putem pet ključnih "
+"inicijativa, koje se pojavljuju u svakom središtu:"
 
 #: foundation/leadership-network.lang:69
 msgid ""
@@ -109,6 +135,11 @@ msgid ""
 "next wave of access, inclusion and opportunity online. Example: <a href="
 "\"%(url_weblit_module)s\">Web Literacy Training Module</a>"
 msgstr ""
+"<em>Nastavni planovi i obuka.</em> Mi osiguravamo besplatne i otvorene "
+"nastavne programe i programe obuke da pomognemo vođama da razviju vještine "
+"koje trebaju kako bi osigurali sljedeći val pristupa, uključenosti i "
+"mogućnosti na internetu. Primjer: <a href=\"%(url_weblit_module)s\">Modul "
+"obuke web pismenosti</a>"
 
 #: foundation/leadership-network.lang:73
 msgid ""
@@ -116,6 +147,9 @@ msgid ""
 "Mozilla, our community and our allies to maximize their impact. Example: <a "
 "href=\"%(url_gigabit)s\">Gigabit Community Fund</a>"
 msgstr ""
+"<em>Partnerstva.</em> Mi pokrećemo i razvijamo partnerstva koja omogućavaju "
+"Mozilli, našoj zajednici i našim saveznicima da maksimiziraju svoj utjecaj. "
+"Primjer: <a href=\"%(url_gigabit)s\">Fond gigabit zajednice</a>"
 
 #: foundation/leadership-network.lang:77
 msgid ""
@@ -123,6 +157,9 @@ msgid ""
 "together, to learn from one another, exchange ideas and join forces. "
 "Example: <a href=\"%(url_mozFest)s\">MozFest</a>"
 msgstr ""
+"<em>Sazivanje.</em> Mi okupljamo članove Mozilline rukovodstvene mreže, da "
+"uče jedan od drugog, razmjenjuju ideje i udruže snage. Primjer: <a href="
+"\"%(url_mozFest)s\">MozFest</a>"
 
 #: foundation/leadership-network.lang:81
 msgid ""
@@ -131,3 +168,7 @@ msgid ""
 "development opportunities the network provides. Example: <a href="
 "\"%(url_fellowships)s\">Fellowships</a>"
 msgstr ""
+"<em>Članstvo.</em> Članovi se pridružuju zato što dijele Mozillinu viziju, i "
+"ostaju zbog jake, raznolike zajednice i jedinstvenih profesionalnih "
+"razvojnih mogućnosti koje mreža pruža. Primjer: <a href=\"%(url_fellowships)s"
+"\">Fellowships</a>"
