@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-07 06:30+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2016-06-22 08:28+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -12,18 +12,34 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1466584125.000000\n"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title
+#: firefox/private-browsing.lang:8
+msgid "Private Browser Protects Your Online Privacy | Firefox"
+msgstr ""
+
+#. String is obsolete. Do not remove.
 #. HTML Title attribute
-#: firefox/private-browsing.lang:6
+#: firefox/private-browsing.lang:14
 msgid ""
 "Firefox Web browser — Private Browsing with Tracking Protection — Mozilla"
 msgstr ""
 "Y porwr gwe Firefox — Pori Preifat gyda Diogelwch Rhag Tracio — Mozilla"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description
+#: firefox/private-browsing.lang:20
+msgid ""
+"Firefox protects your online privacy and blocks trackers that follow you "
+"around the web. Get Firefox for private browsing!"
+msgstr ""
+
+#. String is obsolete. Do not remove.
 #. Meta tag (description)
-#: firefox/private-browsing.lang:11
+#: firefox/private-browsing.lang:26
 msgid ""
 "Get more protection and the most privacy, only from Firefox. No other "
 "browser gives you so much control over your digital footprint."
@@ -32,21 +48,21 @@ msgstr ""
 "porwr arall yn cynnig y fath reolaeth dros eich ôl troed digidol."
 
 #. the <br> tags below are for visual formatting only.
-#: firefox/private-browsing.lang:16
+#: firefox/private-browsing.lang:31
 msgid "More protection. <br>The most privacy. <br>Only from Firefox."
 msgstr "Mwy diogel. <br>Mwyaf preifat. <br>Dim ond gan Firefox."
 
-#: firefox/private-browsing.lang:20
+#: firefox/private-browsing.lang:35
 msgid "Try Private Browsing"
 msgstr "Rhowch gynnig ar Bori Preifat"
 
 #. Displayed to non Firefox users
-#: firefox/private-browsing.lang:25
+#: firefox/private-browsing.lang:40
 msgid "To give the new Private Browsing a try, download Firefox."
 msgstr "I roi cynnig ar y Pori Preifat newydd, llwythwch Firefox i lawr."
 
 #. Displayed to Firefox users on old versions
-#: firefox/private-browsing.lang:30
+#: firefox/private-browsing.lang:45
 msgid ""
 "Your Firefox is not up to date. Download the latest version to use the new "
 "Private Browsing."
@@ -54,21 +70,21 @@ msgstr ""
 "Nid yw eich Firefox yn gyfredol. Llwythwch y fersiwn diweddaraf i lawr er "
 "mwyn defnyddio'r Pori Preifat newydd."
 
-#: firefox/private-browsing.lang:34
+#: firefox/private-browsing.lang:49
 msgid "No other browser gives you so much control over your digital footprint."
 msgstr ""
 "Dim ond gan Firefox y cewch chi gymaint o reolaeth dros eich ôl troed "
 "digidol."
 
-#: firefox/private-browsing.lang:38
+#: firefox/private-browsing.lang:53
 msgid "Learn how to use Private Browsing"
 msgstr "Dysgu rhagor am sut i ddefnyddio Pori Preifat"
 
-#: firefox/private-browsing.lang:42
+#: firefox/private-browsing.lang:57
 msgid "Private Browsing"
 msgstr "Pori Preifat"
 
-#: firefox/private-browsing.lang:46
+#: firefox/private-browsing.lang:61
 msgid ""
 "Firefox won’t save things like your browsing history, searches or cookies, "
 "but it will keep new bookmarks and files you download."
@@ -77,11 +93,11 @@ msgstr ""
 "bydd nodau tudalen newydd a ffeiliau rydych wedi eu llwytho i lawr yn cael "
 "eu cadw."
 
-#: firefox/private-browsing.lang:50
+#: firefox/private-browsing.lang:65
 msgid "With Tracking Protection"
 msgstr "Gyda Diogelwch Rhag Tracio"
 
-#: firefox/private-browsing.lang:54
+#: firefox/private-browsing.lang:69
 msgid ""
 "Minimize the ability of hidden third parties from tracking your browsing "
 "activity across many sites."
@@ -89,26 +105,26 @@ msgstr ""
 "Lleihau gallu trydydd partion cudd rhag tracio eich gweithgaredd pori ar "
 "draws gwefannau."
 
-#: firefox/private-browsing.lang:58
+#: firefox/private-browsing.lang:73
 msgid "Learn more about Private Browsing"
 msgstr "Dysgu rhagor am Bori Preifat"
 
-#: firefox/private-browsing.lang:62
+#: firefox/private-browsing.lang:77
 msgid ""
 "Tracking Protection is only available with Firefox for Android and Desktop"
 msgstr ""
 "Dim ond gyda Firefox ar gyfer Android a'r Bwrdd Gwaith mae Diogelwch Rhag "
 "Tracio ar gael"
 
-#: firefox/private-browsing.lang:66
+#: firefox/private-browsing.lang:81
 msgid "When to use Private Browsing"
 msgstr "Pryd i ddefnyddio Pori Preifat"
 
-#: firefox/private-browsing.lang:70
+#: firefox/private-browsing.lang:85
 msgid "To minimize your digital footprint"
 msgstr "I leihau eich ôl troed digidol"
 
-#: firefox/private-browsing.lang:74
+#: firefox/private-browsing.lang:89
 msgid ""
 "Tracking Protection blocks Internet companies from following you across the "
 "Web"
@@ -116,27 +132,27 @@ msgstr ""
 "Mae Diogelwch Rhag Tracio yn rhwystro cwmnïau’r rhyngrwyd rhag eich dilyn ar "
 "draws y We"
 
-#: firefox/private-browsing.lang:78
+#: firefox/private-browsing.lang:93
 msgid "Online banking from a shared device or computer"
 msgstr "Wrth fancio ar-lein o ddyfais neu gyfrifiadur rydych yn ei rannu"
 
-#: firefox/private-browsing.lang:82
+#: firefox/private-browsing.lang:97
 msgid "Your username and password won’t be saved"
 msgstr "Fydd eich enw defnyddiwr na'ch cyfrinair yn cael eu cadw"
 
-#: firefox/private-browsing.lang:86
+#: firefox/private-browsing.lang:101
 msgid "To help you plan a surprise, like a birthday or a trip"
 msgstr "I'ch cynorthwyo i drefnu syrpreis, fel pen-blwydd neu drip"
 
-#: firefox/private-browsing.lang:90
+#: firefox/private-browsing.lang:105
 msgid "No one can see your browsing history"
 msgstr "Gall neb weld hanes eich pori"
 
-#: firefox/private-browsing.lang:94
+#: firefox/private-browsing.lang:109
 msgid "The Control Center has you covered"
 msgstr "Mae'r Canolfan Rheoli yn eich diogelu"
 
-#: firefox/private-browsing.lang:98
+#: firefox/private-browsing.lang:113
 msgid ""
 "When you see the shield to the left of the address bar, that means Firefox "
 "is protecting you from potential trackers."
@@ -144,7 +160,7 @@ msgstr ""
 "Pan welwch y darian ar y chwith yn y bar cyfeiriad, mae hynny'n golygu fod "
 "Firefox yn eich diogelu rhag tracwyr posib."
 
-#: firefox/private-browsing.lang:102
+#: firefox/private-browsing.lang:117
 msgid ""
 "You can disable Tracking Protection for a single site, or turn it off "
 "entirely. It’s up to you."
@@ -152,11 +168,11 @@ msgstr ""
 "Mae modd diffodd Diogelwch Rhag Tracio ar gyfer gwefan unigol neu ei "
 "ddiffodd yn llwyr. Mae fyny i chi."
 
-#: firefox/private-browsing.lang:106
+#: firefox/private-browsing.lang:121
 msgid "Learn more about the Control Center"
 msgstr "Dysgu rhagor am y Ganolfan Rheoli"
 
-#: firefox/private-browsing.lang:110
+#: firefox/private-browsing.lang:125
 msgid ""
 "Control Center is not available on Android devices, but a shield will still "
 "be displayed to let you know when you are protected."
@@ -164,6 +180,6 @@ msgstr ""
 "Nid yw'r Ganolfan Reoli ar gael ar ddyfeisiau Android ond mae tarian yn cael "
 "ei ddangos i chi gael gwybod eich bod yn cael eich diogelu."
 
-#: firefox/private-browsing.lang:114
+#: firefox/private-browsing.lang:129
 msgid "Try it now to stay in control"
 msgstr "Rhowch gynnig arno nawr er mwyn cadw mewn rheolaeth"

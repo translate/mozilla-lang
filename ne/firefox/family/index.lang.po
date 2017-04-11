@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 05:09+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2016-11-27 08:07+0000\n"
 "Last-Translator: Nootan Ghimire <nootan.ghimire@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,29 +12,32 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1480234073.000000\n"
 
-#. # TAG: fx49_remove_hello
-#. Title of the page (HTML meta tag)
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title
 #: firefox/family/index.lang:11
+msgid "Free Web Browser for Android, iOS, Desktop | Firefox"
+msgstr ""
+
+#. String is obsolete. Do not remove.
+#. Title of the page (HTML meta tag)
+#: firefox/family/index.lang:17
 msgid "Firefox – Desktop browser, Android, iOS, Sync, Private Browsing"
 msgstr "Firefox – डेक्सटप ब्राउजर, Android, iOS, Sync, निजि ब्राउजिङ्ग"
 
-#. # TAG: tracking_protection
-#. Obsolete title of the page (do not remove)
-#: firefox/family/index.lang:17
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description
+#: firefox/family/index.lang:23
 msgid ""
-"Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing"
-msgstr "Firefox – डेक्सटप ब्राउजर, Android, iOS, OS, Hello Sync, निजि ब्राउजिङ्ग"
+"Millions of people around the world trust Firefox Web browsers on Android, "
+"iOS and desktop computers. Fast. Private. Download now!"
+msgstr ""
 
-#. Obsolete title of the page (do not remove)
-#: firefox/family/index.lang:22
-msgid "Firefox — Desktop browser, Android, OS, Hello, Sync, Marketplace"
-msgstr "Firefox – डेक्सटप ब्राउजर, Android, OS, Hello, Sync, Marketplace"
-
+#. String is obsolete. Do not remove.
 #. Description of the page (HTML meta tag)
-#: firefox/family/index.lang:27
+#: firefox/family/index.lang:29
 msgid ""
 "Learn more about our complete lineup of products for desktop and mobile "
 "browsing (and more) that help keep you in control online. Free yourself with "
@@ -43,81 +46,88 @@ msgstr ""
 "हाम्रा सबै डेक्सटप र मोबाइल ब्राउजिङ्ग (र अरू) प्रोडक्टहरूको बारेमा जान्नुहोस जसले तपाईँलाई "
 "अनलाईनमा नियन्त्रण राख्न मद्दत गर्छ। Firefox को साथमा स्वतन्त्र हुनुहोस्।"
 
-#: firefox/family/index.lang:31
+#: firefox/family/index.lang:33
 msgid "You’re using an older version of Firefox for desktop."
 msgstr "तपाईँले Firefox को पुरानो संस्करण चलाउँदै हुनुहुन्छ।"
 
-#: firefox/family/index.lang:35
+#: firefox/family/index.lang:37
 msgid "Update today to stay fast and safe."
 msgstr "आजै अद्यावधिक गरी सुरक्षित रहनुहोस्।"
 
 #. # TAG: download_browse_freely
-#: firefox/family/index.lang:40
+#: firefox/family/index.lang:42
 msgid "Browse Freely"
 msgstr "अानन्दसँग ब्राउज गर्नुहोस्"
 
 #. String obsolete. Do NOT remove.
-#: firefox/family/index.lang:45
+#: firefox/family/index.lang:47
 msgid "Choose Independent."
 msgstr "स्वतन्त्रता छान्नुहोस्।"
 
 #. String obsolete. Do NOT remove.
-#: firefox/family/index.lang:50
+#: firefox/family/index.lang:52
 msgid "Choose Firefox."
 msgstr "Firefox छान्नुहोस्।"
 
 #. %s will be replaced by an image (Firefox wordmark)
-#: firefox/family/index.lang:55
+#: firefox/family/index.lang:57
 msgid "Free yourself with %s"
 msgstr "%s को साथमा स्वतन्त्र हुनुहोस्"
 
 #. <span> tag below adds visual style to "for" text
-#: firefox/family/index.lang:60
+#: firefox/family/index.lang:62
 msgid "Firefox <span>for</span> desktop"
 msgstr "डेस्कटपको <span>लागि</span> Firefox"
 
-#: firefox/family/index.lang:64
+#: firefox/family/index.lang:66
 msgid "Trusted. Flexible. Fast."
 msgstr "विश्वासिलो। लचकदार। छिटो।"
 
 #. <span> tag below adds visual style to "for" text
-#: firefox/family/index.lang:69
+#: firefox/family/index.lang:71
 msgid "Firefox <span>for</span> Android"
 msgstr "Android को <span>लागि</span> Firefox"
 
-#: firefox/family/index.lang:73
+#: firefox/family/index.lang:75
 msgid "Make it uniquely yours."
 msgstr "यसलाई अद्वितीय तवरले आफ्नो बनाउनुहोस्।"
 
-#: firefox/family/index.lang:77
+#: firefox/family/index.lang:79
 msgid "Get it on Google Play"
 msgstr "Google Play मा यो पाउनुहोस्"
 
 #. # TAG: tracking_protection
 #. <span> tag below adds visual style to "for" text
-#: firefox/family/index.lang:83
+#: firefox/family/index.lang:85
 msgid "Firefox <span>for</span> iOS"
 msgstr "iOS <span>को लागि</span> Firefox"
 
 #. # TAG: ios_product_tagline
-#: firefox/family/index.lang:88
+#: firefox/family/index.lang:90
 msgid "Fast. Smart. Yours."
 msgstr "छिटो। चलाख। तपाईँकै।"
 
 #. # TAG: tracking_protection
 #. Obsolete title, do not remove
-#: firefox/family/index.lang:94
+#: firefox/family/index.lang:96
 msgid "Get it on iPhones and iPads"
 msgstr "यो iPhone हरू र iPad हरू मा पाउनुहोस्"
 
 #. # TAG: tracking_protection
-#: firefox/family/index.lang:99
+#: firefox/family/index.lang:101
 msgid "Now with Tracking Protection."
 msgstr "अब ट्रयाकिङ्ग प्रोटेक्सनका साथ।"
 
-#: firefox/family/index.lang:103
+#: firefox/family/index.lang:105
 msgid "Connect Firefox wherever you use it."
 msgstr "तपाईँले प्रयोग गर्ने सबै ठाँउमा Firefox जडान गर्नुहोस्।"
+
+#~ msgid ""
+#~ "Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing"
+#~ msgstr "Firefox – डेक्सटप ब्राउजर, Android, iOS, OS, Hello Sync, निजि ब्राउजिङ्ग"
+
+#~ msgid "Firefox — Desktop browser, Android, OS, Hello, Sync, Marketplace"
+#~ msgstr "Firefox – डेक्सटप ब्राउजर, Android, OS, Hello, Sync, Marketplace"
 
 #~ msgid "Free, easy video conversations."
 #~ msgstr "निशुल्क, सजिलो चल्यदृश्य कुराकानीहरु"

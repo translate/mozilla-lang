@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 05:09+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2017-04-06 20:43+0000\n"
 "Last-Translator: Nihad Suljic <nihad.suljic92@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,12 +13,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1491511433.000000\n"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title
+#: firefox/desktop/index.lang:10
+msgid "Free Web Browser for Mac, Windows, Linux | Firefox"
+msgstr ""
+
 #. # TAG: home_title_update
+#. String is obsolete. Do not remove.
 #. This is the <title> tag
-#: firefox/desktop/index.lang:9
+#: firefox/desktop/index.lang:17
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your "
 "privacy and an open Web"
@@ -27,7 +34,7 @@ msgstr ""
 "privatnosti i otvorenom webu"
 
 #. Previous title (DO NOT REMOVE)
-#: firefox/desktop/index.lang:14
+#: firefox/desktop/index.lang:22
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — There's never been a better "
 "time"
@@ -35,40 +42,48 @@ msgstr ""
 "Firefox web pretraživač — Povjerljiv, fleksibilan, brz — Nije postojalo "
 "bolje vrijeme"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description
+#: firefox/desktop/index.lang:28
+msgid ""
+"Millions of people around the world trust Firefox Web browsers on Mac, "
+"Windows and Linux computers. Fast. Private. Download now!"
+msgstr ""
+
 #. L10n: Line break below is for wide screen formatting only.
-#: firefox/desktop/index.lang:19
+#: firefox/desktop/index.lang:33
 msgid "There’s never been a <br class=\"wide-br\">better time for Firefox"
 msgstr "Nikada nije bilo <br class=\"wide-br\">bolje vrijeme za Firefox"
 
-#: firefox/desktop/index.lang:23
+#: firefox/desktop/index.lang:37
 msgid "Committed to you, your privacy and an open Web."
 msgstr "Posvećen vama, vašoj privatnosti i otvorenom webu."
 
 #. # TAG: firefox_updated
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
-#: firefox/desktop/index.lang:29
+#: firefox/desktop/index.lang:43
 msgid "Your Firefox is up to date."
 msgstr "Imate najnoviji Firefox."
 
 #. # TAG: firefox_updated
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
 #. Active link to https://support.mozilla.org/products/firefox
-#: firefox/desktop/index.lang:36
+#: firefox/desktop/index.lang:50
 msgid "Need help with anything?"
 msgstr "Trebate pomoć oko bilo čega?"
 
-#: firefox/desktop/index.lang:40
+#: firefox/desktop/index.lang:54
 msgid "Made with a mission to put you first"
 msgstr "Napravljen s misijom da vas postavi na prvo mjesto"
 
-#: firefox/desktop/index.lang:44
+#: firefox/desktop/index.lang:58
 msgid ""
 "We’ve always designed Firefox to protect and respect your private "
 "information."
 msgstr ""
 "Mi uvijek kreiramo Firefox da zaštiti i poštuje vaše privatne informacije."
 
-#: firefox/desktop/index.lang:48
+#: firefox/desktop/index.lang:62
 msgid ""
 "That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
 "\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
@@ -77,23 +92,23 @@ msgstr ""
 "interaction=\"outbound link\">najpouzdanija internet kompanija za privatnost."
 "</a>"
 
-#: firefox/desktop/index.lang:52
+#: firefox/desktop/index.lang:66
 msgid "Find out what makes Firefox the most trusted browser on the Web"
 msgstr "Saznajte šta čini Firefox najpouzdanijim pretraživačem na webu"
 
-#: firefox/desktop/index.lang:56
+#: firefox/desktop/index.lang:70
 msgid "Works the way you do"
 msgstr "Radi na način kako vi radite"
 
-#: firefox/desktop/index.lang:60
+#: firefox/desktop/index.lang:74
 msgid "How you use the Web is unique."
 msgstr "Kako koristite web je jedinstveno."
 
-#: firefox/desktop/index.lang:64
+#: firefox/desktop/index.lang:78
 msgid "Firefox lets you change it to match."
 msgstr "Firefox omogućava da ga promijenite kako vam odgovara."
 
-#: firefox/desktop/index.lang:68
+#: firefox/desktop/index.lang:82
 msgid ""
 "Remove what you don’t use, keep what you do and put it just about anywhere "
 "you want."
@@ -101,7 +116,7 @@ msgstr ""
 "Uklonite ono što ne koristite, zadržite ono što koristite i postavite gdje "
 "god želite."
 
-#: firefox/desktop/index.lang:72
+#: firefox/desktop/index.lang:86
 msgid ""
 "Find out what makes Firefox <br class=\"wide-br\">the most flexible browser "
 "there is"
@@ -109,11 +124,11 @@ msgstr ""
 "Saznajte šta čini Firefox <br class=\"wide-br\">najfleksibilnijim postojećim "
 "pretraživačem"
 
-#: firefox/desktop/index.lang:76
+#: firefox/desktop/index.lang:90
 msgid "Faster at what you do most"
 msgstr "Brži za ono što radite najčešće"
 
-#: firefox/desktop/index.lang:80
+#: firefox/desktop/index.lang:94
 msgid ""
 "Firefox was named the ”speed king” in independent benchmark and performance "
 "tests against other browsers."
@@ -121,7 +136,7 @@ msgstr ""
 "Firefox je nazvan ”kraljem brzine” u nezavisnim refrerencama i testovima "
 "performansi protiv drugih pretraživača."
 
-#: firefox/desktop/index.lang:84
+#: firefox/desktop/index.lang:98
 msgid ""
 "* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
 "Hardware Web Browser Grand Prix XVI</a> results."
@@ -129,10 +144,10 @@ msgstr ""
 "* Baziran na <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom's "
 "Hardware Web Browser Grand Prix XVI</a> rezultatima."
 
-#: firefox/desktop/index.lang:88
+#: firefox/desktop/index.lang:102
 msgid "Save time and do just about anything quicker than before."
 msgstr "Sačuvajte vrijeme i uradite bilo šta brže nego prije."
 
-#: firefox/desktop/index.lang:92
+#: firefox/desktop/index.lang:106
 msgid "Find out what makes this the fastest Firefox yet"
 msgstr "Saznajte šta čini ovaj Firefox najbržim do sad"

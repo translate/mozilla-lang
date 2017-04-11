@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 05:09+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2015-06-06 13:00+0000\n"
 "Last-Translator: system user <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,12 +12,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1433595609.000000\n"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title
+#: firefox/desktop/index.lang:10
+msgid "Free Web Browser for Mac, Windows, Linux | Firefox"
+msgstr ""
+
 #. # TAG: home_title_update
+#. String is obsolete. Do not remove.
 #. This is the <title> tag
-#: firefox/desktop/index.lang:9
+#: firefox/desktop/index.lang:17
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your "
 "privacy and an open Web"
@@ -26,7 +33,7 @@ msgstr ""
 "தனியுரிமைக்காகவும், திறந்த இனையத்திற்காகவும் அர்பணிக்கப்பட்டது"
 
 #. Previous title (DO NOT REMOVE)
-#: firefox/desktop/index.lang:14
+#: firefox/desktop/index.lang:22
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — There's never been a better "
 "time"
@@ -34,34 +41,42 @@ msgstr ""
 "பயர்பாக்ஸ் இணைய உலாவி — நம்பகமானது, இணக்கமானது, வேகமானது — இதைவிட நல்ல நேரம் "
 "இருந்ததே இல்லை"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description
+#: firefox/desktop/index.lang:28
+msgid ""
+"Millions of people around the world trust Firefox Web browsers on Mac, "
+"Windows and Linux computers. Fast. Private. Download now!"
+msgstr ""
+
 #. L10n: Line break below is for wide screen formatting only.
-#: firefox/desktop/index.lang:19
+#: firefox/desktop/index.lang:33
 msgid "There’s never been a <br class=\"wide-br\">better time for Firefox"
 msgstr ""
 "இதற்கு முன் இப்படி ஒரு <br class=\"wide-br\"> நல்ல நேரம் பயர்பாக்ஸிற்கு இருந்ததே இல்லை"
 
-#: firefox/desktop/index.lang:23
+#: firefox/desktop/index.lang:37
 msgid "Committed to you, your privacy and an open Web."
 msgstr "ஒரு திறந்த இணையத்திற்கும் உங்களுக்கும் உங்களுடைய தனியுரிமைக்கும் உறுதியளிக்கிறது."
 
 #. # TAG: firefox_updated
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
-#: firefox/desktop/index.lang:29
+#: firefox/desktop/index.lang:43
 msgid "Your Firefox is up to date."
 msgstr "உங்கள் பயர்பாக்ஸ் புத்தம் புதுசா இருக்கு."
 
 #. # TAG: firefox_updated
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
 #. Active link to https://support.mozilla.org/products/firefox
-#: firefox/desktop/index.lang:36
+#: firefox/desktop/index.lang:50
 msgid "Need help with anything?"
 msgstr ""
 
-#: firefox/desktop/index.lang:40
+#: firefox/desktop/index.lang:54
 msgid "Made with a mission to put you first"
 msgstr "உங்களை முன்னிருத்தி ஒரு நோக்கத்துடன் உருவாக்கப்பட்டது"
 
-#: firefox/desktop/index.lang:44
+#: firefox/desktop/index.lang:58
 msgid ""
 "We’ve always designed Firefox to protect and respect your private "
 "information."
@@ -69,7 +84,7 @@ msgstr ""
 "உங்களுடைய தனிநபர் தகவல்களை மதிக்கும் மற்றும் பாதுகாக்கும் விதத்தில் எப்போதும் நாங்கள் "
 "பயர்பாக்ஸை வடிவமைக்கிறோம்."
 
-#: firefox/desktop/index.lang:48
+#: firefox/desktop/index.lang:62
 #, fuzzy
 msgid ""
 "That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
@@ -78,24 +93,24 @@ msgstr ""
 "எனவேதான் நாங்கள் எப்போதும் <a href=\"%(url1)s\">இணையத்தில் தனியுரிமைக்கான நம்பமான "
 "நிறுவனம் என தேர்ந்தெடுக்கப்படுகிறோம்.</a>"
 
-#: firefox/desktop/index.lang:52
+#: firefox/desktop/index.lang:66
 msgid "Find out what makes Firefox the most trusted browser on the Web"
 msgstr ""
 "எது இணையத்தில் பயர்பாக்ஸை மிகவும் நம்பகமான உலாவி என பெயர் பெற வைத்தது என்பதை கண்டுபிடி"
 
-#: firefox/desktop/index.lang:56
+#: firefox/desktop/index.lang:70
 msgid "Works the way you do"
 msgstr "நீங்கள் செய்யும் வழியிலே செயல்படும்"
 
-#: firefox/desktop/index.lang:60
+#: firefox/desktop/index.lang:74
 msgid "How you use the Web is unique."
 msgstr "நீங்கள் பயன்படுத்தும் இணையம் எப்படி தனித்திருக்கிறது."
 
-#: firefox/desktop/index.lang:64
+#: firefox/desktop/index.lang:78
 msgid "Firefox lets you change it to match."
 msgstr "பயர்பாக்ஸ் நீங்கள் அதை பொருத்த மாற்ற இயலும்."
 
-#: firefox/desktop/index.lang:68
+#: firefox/desktop/index.lang:82
 msgid ""
 "Remove what you don’t use, keep what you do and put it just about anywhere "
 "you want."
@@ -103,18 +118,18 @@ msgstr ""
 "நீங்க பயன்படுத்தாததை நீக்கு, நீங்க பயன்படுத்துவதை வைத்துக்கொள் மற்றும் அதை எங்கு "
 "வேண்டிமானாலும் வைக்க இயலும்."
 
-#: firefox/desktop/index.lang:72
+#: firefox/desktop/index.lang:86
 msgid ""
 "Find out what makes Firefox <br class=\"wide-br\">the most flexible browser "
 "there is"
 msgstr ""
 "இங்கே எது பயர்பாக்ஸை <br class=\"wide-br\"> இணக்கமானதாக ஆக்குகிறது என கண்டுபிடி"
 
-#: firefox/desktop/index.lang:76
+#: firefox/desktop/index.lang:90
 msgid "Faster at what you do most"
 msgstr "நீங்கள் எதை செய்யும் பொருட்டு இது வேகமடைகிறது"
 
-#: firefox/desktop/index.lang:80
+#: firefox/desktop/index.lang:94
 msgid ""
 "Firefox was named the ”speed king” in independent benchmark and performance "
 "tests against other browsers."
@@ -122,17 +137,17 @@ msgstr ""
 "மற்று உலாவிகளின் சோதனைகளில் செயல்திறன்களை பயர்பாக்ஸ் உலாவியுடன் ஒப்பிட்டு பார்த்ததில் "
 "பயர்பாக்ஸ் ”வேகத்தின் அரசன்” பெயர் சூட்டப்பட்டுள்ளது."
 
-#: firefox/desktop/index.lang:84
+#: firefox/desktop/index.lang:98
 msgid ""
 "* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
 "Hardware Web Browser Grand Prix XVI</a> results."
 msgstr ""
 
-#: firefox/desktop/index.lang:88
+#: firefox/desktop/index.lang:102
 msgid "Save time and do just about anything quicker than before."
 msgstr "முன்பைவிட எதையும் மிக விரைவாக செய்யகிறது நேர்த்தையும் சேமிக்கிறது"
 
-#: firefox/desktop/index.lang:92
+#: firefox/desktop/index.lang:106
 msgid "Find out what makes this the fastest Firefox yet"
 msgstr "இதை மிக வேகமான பயர்பாக்ஸாக உருவாக்குவது எது என கண்டுபிடி"
 

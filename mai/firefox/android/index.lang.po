@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 05:09+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2015-11-28 18:21+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta_0975@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,11 +11,18 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1448734901.000000\n"
 
-#. Used in HTML as page title
-#: firefox/android/index.lang:8
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title
+#: firefox/android/index.lang:11
+msgid "Fast, Free Android Browser for Tablets and Phones | Firefox"
+msgstr ""
+
+#. String is obsolete.  Do not remove.
+#. HTML page title
+#: firefox/android/index.lang:17
 msgid ""
 "Firefox for Android — Mobile Web browser — More ways to customize and "
 "protect your privacy"
@@ -23,8 +30,17 @@ msgstr ""
 "Firefox Android कलेल — मोबाइल वेब ब्राउज़र — अहाँक गोपनीयताक रक्षा कलेल आओर मनपसिन्न "
 "बदलाव कलेल तैयार अछि"
 
-#. Used in HTML as page description
-#: firefox/android/index.lang:13
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description
+#: firefox/android/index.lang:23
+msgid ""
+"Join the millions browsing better on tablets and phones. Firefox is fast and "
+"private. Install Firefox for Android now!"
+msgstr ""
+
+#. String is obsolete.  Do not remove.
+#. HTML page description
+#: firefox/android/index.lang:29
 msgid ""
 "Only Firefox for Android offers so many ways to make your mobile browsing "
 "experience truly your own"
@@ -33,51 +49,51 @@ msgstr ""
 "विकल्प देत अछि."
 
 #. alt text for image (hard-coded image needs to be fixed)
-#: firefox/android/index.lang:18
+#: firefox/android/index.lang:34
 msgid "Firefox for Android"
 msgstr "एंड्रायडक लेल फायरफाक्स"
 
-#: firefox/android/index.lang:22
+#: firefox/android/index.lang:38
 msgid "We make it Firefox."
 msgstr "हम मिलजुल कए Firefox बनाबैत छी"
 
-#: firefox/android/index.lang:26
+#: firefox/android/index.lang:42
 msgid "You make it your own."
 msgstr "अहाँ एकरा अपनाबैत छी"
 
-#: firefox/android/index.lang:30
+#: firefox/android/index.lang:46
 msgid "The features you love."
 msgstr "मनपसि‍न्न सुविधा सँ युक्त"
 
-#: firefox/android/index.lang:34
+#: firefox/android/index.lang:50
 msgid "The privacy you trust."
 msgstr "भरोसा लायक गोपनीयता"
 
-#: firefox/android/index.lang:38
+#: firefox/android/index.lang:54
 msgid "Our most customizable Firefox for Android yet."
 msgstr "अखैन धरि Android लेल सबसँ अनुकूल Firefox."
 
-#: firefox/android/index.lang:42
+#: firefox/android/index.lang:58
 msgid "Download on Google Play"
 msgstr "गूगल प्ले सँ डाउनलोड करू"
 
-#: firefox/android/index.lang:46
+#: firefox/android/index.lang:62
 msgid "Uniquely yours"
 msgstr "अहाँक लेल खास"
 
 #. Line break below is for visual formatting only. Remove if it's not useful for your locale
-#: firefox/android/index.lang:51
+#: firefox/android/index.lang:67
 msgid ""
 "Only Firefox for Android offers this many ways to make<br> your mobile "
 "browsing experience truly your own."
 msgstr ""
 "Android कलेल Firefox मोबाइल <br> ब्राउज़िंग केर तजुर्बा सही मायना मे विशेष बनाबैत अछि."
 
-#: firefox/android/index.lang:55
+#: firefox/android/index.lang:71
 msgid "Smarter sharing for all"
 msgstr "साझा करबाक क नीक सुविधा"
 
-#: firefox/android/index.lang:59
+#: firefox/android/index.lang:75
 msgid ""
 "The most adaptive way to share anything, Quick Share remembers your most "
 "recently used apps to help you get the word out just the way you want."
@@ -85,15 +101,15 @@ msgstr ""
 "कोनो चीज साझा करबाक सबसे नीक जरिया, क्व‍िक शेयर अहाँक हाल मे उपयोग करल एप्प मोन "
 "राखैत अछि जाहि सँ अहाँ अपन कोनो पुरान शब्द कए फेर सँ जेना चाहि उपयोग कए सकैत छी ।"
 
-#: firefox/android/index.lang:63
+#: firefox/android/index.lang:79
 msgid "See how it works"
 msgstr "देखू कोन तरहेँ चलैत अछि"
 
-#: firefox/android/index.lang:67
+#: firefox/android/index.lang:83
 msgid "All your faves, front and center"
 msgstr "सभ मनपसिन्न चीज सामना मे आओर बीचोबीच"
 
-#: firefox/android/index.lang:71
+#: firefox/android/index.lang:87
 msgid ""
 "Customize your Home panels with any Web content you want and access your "
 "favorite feeds &mdash; like Instagram and Pocket Hits &mdash; instantly."
@@ -101,11 +117,11 @@ msgstr ""
 "अपन पसंदीदा वेब सामग्री सँ अपन होम पैनल केँ सजाबू आओर अपन पसंदीदा फ़ीड जेना कि इंस्टाग्राम "
 "आओर पॉकेट हिट्स तक फ़ौरन पहुँचू."
 
-#: firefox/android/index.lang:75
+#: firefox/android/index.lang:91
 msgid "A touch more personal"
 msgstr "निहायत निजी स्पर्श"
 
-#: firefox/android/index.lang:79
+#: firefox/android/index.lang:95
 msgid ""
 "Display your Home panels in any order you like or add, hide and delete them "
 "as you see fit to keep your favorites one touch away."
@@ -113,57 +129,57 @@ msgstr ""
 "अपन होम पैनल केँ पसंदीदा क्रम मे सजाबू आओर चीज केँ सुविधानुसार राखू, नुकाबू या हटाबू ताकि "
 "छूए भर सँ काज भ जाए."
 
-#: firefox/android/index.lang:83
+#: firefox/android/index.lang:99
 msgid "Learn more"
 msgstr "आओर जानू"
 
-#: firefox/android/index.lang:87
+#: firefox/android/index.lang:103
 msgid "Any search you like"
 msgstr "मनचाही चीज़ खोजू"
 
-#: firefox/android/index.lang:91
+#: firefox/android/index.lang:107
 msgid "Add any search engine and make it your default."
 msgstr "कोनो भी सर्च इंजन जोड़ू आओर ओकरा तयशुदा बनाबू."
 
-#: firefox/android/index.lang:95
+#: firefox/android/index.lang:111
 msgid ""
 "Or change it any time to the one that best matches your search and privacy "
 "needs."
 msgstr "या फेर अपन खोज आओर गोपनीयता केर ज़रूरत केर हिसाब सँ जखन चाहू बदलू."
 
-#: firefox/android/index.lang:99
+#: firefox/android/index.lang:115
 msgid "Change your language"
 msgstr "अपन भाषा बदलू"
 
 #. # TAG: android_spring_updates
-#: firefox/android/index.lang:104
+#: firefox/android/index.lang:120
 msgid "Read and save articles easily"
 msgstr "पढ़ू आओर लेख केँ आसानी सँ सहेजू"
 
 #. # TAG: android_spring_updates
-#: firefox/android/index.lang:109
+#: firefox/android/index.lang:125
 msgid ""
 "Enjoy a more pleasant reading experience with Reader View and Reading List."
 msgstr "आब पठन दृश्य आओर पठन सूची केर मदद सँ पढ़ए क आनंद लिअ."
 
 #. # TAG: android_spring_updates
-#: firefox/android/index.lang:114
+#: firefox/android/index.lang:130
 msgid "Access your saved articles even when you’re not online."
 msgstr "ऑनलाइन नहि हए पर भी अपन सहेजल सामग्री क उपयोग करू."
 
 #. # TAG: android_reader_links
 #. Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
-#: firefox/android/index.lang:120
+#: firefox/android/index.lang:136
 msgid "Learn more about Reading List"
 msgstr "पठन सूची केर संबंध मे बेसी जानू"
 
 #. # TAG: android_reader_links
 #. Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
-#: firefox/android/index.lang:126
+#: firefox/android/index.lang:142
 msgid "Learn more about Reader View"
 msgstr "पठन दृश्य केर बारे मे अधिक जानू"
 
-#: firefox/android/index.lang:130
+#: firefox/android/index.lang:146
 msgid ""
 "Change your browser language quickly and easily, without having to change "
 "the settings for your entire device or even restart your browser."
@@ -171,11 +187,11 @@ msgstr ""
 "अपन ब्राउज़र केर भाषा जल्दी आओर आसानी सँ बदलू - ब्राउज़र फेर सँ चालू करए या डिवाइस केर "
 "सेटिंग बदलए केर ज़रूरत नहि अछि."
 
-#: firefox/android/index.lang:134
+#: firefox/android/index.lang:150
 msgid "Take it to the big screen"
 msgstr "एकरा पैघ पर्दा पर लए जाउ"
 
-#: firefox/android/index.lang:138
+#: firefox/android/index.lang:154
 msgid ""
 "Send video and Web content from your smartphone or tablet to any TV equipped "
 "with supported streaming capabilities."
@@ -183,25 +199,25 @@ msgstr ""
 "समर्थित स्ट्रीमिंग क्षमता सँ लैस कोनो भी टीवी कलेल अपन स्मार्टफ़ोन अथवाटैबलेट सँ वीडियो "
 "आओर वेब सामग्री पठाबू."
 
-#: firefox/android/index.lang:142
+#: firefox/android/index.lang:158
 msgid "Keep your private info private"
 msgstr "अपन निजी जानकारी गोपनीय राखू"
 
-#: firefox/android/index.lang:146
+#: firefox/android/index.lang:162
 msgid "We believe your personal information belongs to you."
 msgstr "हमार माननाय अछि जे अहाँक व्यक्तिगत जानकारी पर सिर्फ़ अहाँक हक अछि."
 
-#: firefox/android/index.lang:150
+#: firefox/android/index.lang:166
 msgid "Firefox for Android is filled with features to help keep it that way."
 msgstr "Android कलेल Firefox एहन सुविधा सँ लैस अछि जे अहाँक गोपनीयता कायम बनल रहै."
 
 #. # TAG: tracking_protection
-#: firefox/android/index.lang:155
+#: firefox/android/index.lang:171
 msgid "Private Browsing with<br> Tracking Protection"
 msgstr "प्राइवेट ब्राउज़िंग केर साथ<br> ट्रैकिंग सुरक्षा"
 
 #. # TAG: tracking_protection
-#: firefox/android/index.lang:160
+#: firefox/android/index.lang:176
 msgid ""
 "Browse without having your history, searches or cookies saved, and block "
 "hidden third parties from following you across the Web."
@@ -210,31 +226,31 @@ msgstr ""
 "पर अहाँक पीछा करए सँ."
 
 #. # TAG: tracking_protection
-#: firefox/android/index.lang:165
+#: firefox/android/index.lang:181
 msgid "Learn more about Private Browsing"
 msgstr "प्राइवेट ब्राउज़िंग केर संबंध मे अधिक जानू"
 
-#: firefox/android/index.lang:169
+#: firefox/android/index.lang:185
 msgid "Clear history"
 msgstr "इतिहास मेटाबू"
 
-#: firefox/android/index.lang:173
+#: firefox/android/index.lang:189
 msgid "Delete your browsing history, passwords and more in a single tap."
 msgstr "अपन ब्राउज़िंग इतिहास, कूटशब्द आओर दीगर चीज एक झटका मे मेटाबू."
 
-#: firefox/android/index.lang:177
+#: firefox/android/index.lang:193
 msgid "Choose the private data you want to remove whenever you need to do so."
 msgstr "जरूरत केर मुताबिक मेटाएल जाए बला डेटा केँ चुनू."
 
-#: firefox/android/index.lang:181
+#: firefox/android/index.lang:197
 msgid "Learn how to clear your history"
 msgstr "जानू कि अहाँक इतिहास कोन तरहेँ मेटाएत"
 
-#: firefox/android/index.lang:185
+#: firefox/android/index.lang:201
 msgid "Guest browsing"
 msgstr "अतिथि ब्राउज़िंग"
 
-#: firefox/android/index.lang:189
+#: firefox/android/index.lang:205
 msgid ""
 "Share your browser with friends and family without worrying that you’ll see "
 "each other’s online activity."
@@ -243,24 +259,24 @@ msgstr ""
 "सँग उपयोग करू."
 
 #. # TAG: android_spring_updates
-#: firefox/android/index.lang:194
+#: firefox/android/index.lang:210
 msgid "Learn how to share your browser"
 msgstr "जानू कि अपन ब्राउज़र केँ साझा केना करब"
 
-#: firefox/android/index.lang:198
+#: firefox/android/index.lang:214
 msgid "See how Guest Browsing works"
 msgstr "जानू कि अतिथि ब्राउज़िंग कोन तरहेँ काज करैत अछि"
 
-#: firefox/android/index.lang:202
+#: firefox/android/index.lang:218
 msgid "Don’t leave home without being in Sync"
 msgstr "सिंक कएने बिनु घर नहि छोड़ू"
 
-#: firefox/android/index.lang:206
+#: firefox/android/index.lang:222
 msgid "Bring your passwords, bookmarks, open tabs and more everywhere you go."
 msgstr ""
 "अपन कूटशब्द, पुस्तचिह्न, खुलल टैब केर सँग आओर दीगर चीज़ अपना साथ लए जाउ जतए भी अहाँ जाउ."
 
-#: firefox/android/index.lang:210
+#: firefox/android/index.lang:226
 msgid ""
 "Use Sync on your smartphone or tablet to access whatever you need from your "
 "desktop &mdash; and vice versa &mdash; without having to remember URLs."
@@ -268,29 +284,29 @@ msgstr ""
 "अपन स्मार्टफ़ोन, टैबलेट आओर डेस्कटॉप केर बीच बगैर यूआरएल याद केर आवाजाही करबाक लेल सिंक क "
 "उपयोग करू."
 
-#: firefox/android/index.lang:214
+#: firefox/android/index.lang:230
 msgid "Learn more about Sync"
 msgstr "सिंक केर बारे मे बेसी जानू"
 
-#: firefox/android/index.lang:218
+#: firefox/android/index.lang:234
 msgid "Choose Firefox"
 msgstr "फ़ायरफ़ॉक्स चुनू"
 
-#: firefox/android/index.lang:222
+#: firefox/android/index.lang:238
 msgid "Supported devices"
 msgstr "समर्थन पाएल युक्ति"
 
-#: firefox/android/index.lang:226
+#: firefox/android/index.lang:242
 msgid "Release notes"
 msgstr "रिलीज नोट्स"
 
 #. Obsolete string, will be removed after the Firefox 42 campaign
-#: firefox/android/index.lang:231
+#: firefox/android/index.lang:247
 msgid "Do not track"
 msgstr "ट्रैक नहि करू"
 
 #. Obsolete string, will be removed after the Firefox 42 campaign
-#: firefox/android/index.lang:236
+#: firefox/android/index.lang:252
 msgid ""
 "Enable this Firefox innovation to help you stay in control of how your "
 "browsing information is collected and used online."
@@ -299,17 +315,17 @@ msgstr ""
 "नियंत्रित कए सकैत अछि."
 
 #. Obsolete string, will be removed after the Firefox 42 campaign
-#: firefox/android/index.lang:241
+#: firefox/android/index.lang:257
 msgid "Learn more about Do Not Track"
 msgstr "डू नॉट ट्रैक केर बारे मे बेसी सीखू"
 
 #. Obsolete string, do not remove
-#: firefox/android/index.lang:246
+#: firefox/android/index.lang:262
 msgid "Private Browsing"
 msgstr "निजी ब्राउज़िंग"
 
 #. Obsolete string, do not remove
-#: firefox/android/index.lang:251
+#: firefox/android/index.lang:267
 msgid ""
 "When activated, Firefox for Android won’t accept cookies, remember passwords "
 "or record any sites that you’ve visited."
@@ -318,13 +334,13 @@ msgstr ""
 "राखत या अहाँक द्वारा देखल कोनो साइट केँ रिकॉर्ड नहि करताह."
 
 #. Obsolete string, do not remove
-#: firefox/android/index.lang:256
+#: firefox/android/index.lang:272
 msgid "Learn how to open a private window"
 msgstr "निजी विंडो खोलबाक तरीका जानू"
 
 #. # TAG: android_spring_updates
 #. Obsolete string, do not remove
-#: firefox/android/index.lang:262
+#: firefox/android/index.lang:278
 msgid "See how Private Browsing works"
 msgstr "जानू कि निजी ब्राउज़िंग कोन करहेँ काज करैत अछि"
 

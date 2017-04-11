@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 05:09+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2015-12-08 12:08+0000\n"
 "Last-Translator: F Wolff <friedel@translate.org.za>\n"
 "Language-Team: none\n"
@@ -12,38 +12,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1449576495.000000\n"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title
+#: firefox/ios.lang:9
+msgid "Free Mobile Browser App for iPhone, iPad, iOS | Firefox"
+msgstr ""
+
+#. String is obsolete. Do not remove.
 #. Title of the page (HTML meta)
-#: firefox/ios.lang:7
+#: firefox/ios.lang:15
 msgid "Mobile Web browser for your iPhone, iPad and iPod touch"
 msgstr "Selfoon-blaaier vir iPhone, iPad, en iPod touch"
 
-#: firefox/ios.lang:11
-msgid "Firefox for iOS"
-msgstr "Firefox vir iOS"
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description
+#: firefox/ios.lang:21
+msgid ""
+"Join the millions browsing better on iPhone and iPad. Firefox is fast and "
+"private. Install Firefox for iOS now!"
+msgstr ""
 
-#: firefox/ios.lang:15
+#. String is obsolete. Do not remove.
+#. HTML page description
+#: firefox/ios.lang:27
 msgid "Add Firefox to your iPhone, iPad and iPod touch."
 msgstr "Installeer Firefox op 'n iPhone, iPad en iPod touch."
 
-#: firefox/ios.lang:19
+#: firefox/ios.lang:31
+msgid "Firefox for iOS"
+msgstr "Firefox vir iOS"
+
+#: firefox/ios.lang:35
 msgid "Preview release"
 msgstr "Voorskouweergawe"
 
-#: firefox/ios.lang:23
+#: firefox/ios.lang:39
 msgid "Get it now"
 msgstr "Kry dit nou"
 
 #. Newsletter section
-#: firefox/ios.lang:28
+#: firefox/ios.lang:44
 msgid "Sign up below for updates and to be notified when it launches."
 msgstr ""
 "Skryf hier onder in vir die jongste nuus en om te hoor as dit vrygestel word."
 
 #. Newsletter section
-#: firefox/ios.lang:33
+#: firefox/ios.lang:49
 msgid ""
 "* You’ll only receive updates and announcements about the iOS version of "
 "Firefox."
@@ -52,17 +69,17 @@ msgstr ""
 "word."
 
 #. Newsletter section
-#: firefox/ios.lang:38
+#: firefox/ios.lang:54
 msgid "Thanks for your interest in Firefox for iOS."
 msgstr "Dankie vir u belangstelling in Firefox vir iOS."
 
 #. Newsletter section
-#: firefox/ios.lang:43
+#: firefox/ios.lang:59
 msgid ""
 "Don’t forget to check your inbox to confirm your request to get updates."
 msgstr "Onthou om u e-pos na te gaan om u inskrywing vir nuus te bevestig."
 
-#: firefox/ios.lang:47
+#: firefox/ios.lang:63
 msgid ""
 "Sign in to your Firefox Account to access your browsing info on all your "
 "mobile devices."
@@ -70,58 +87,58 @@ msgstr ""
 "Meld aan by u Firefox-rekening vir toegang tot u blaai-inligting op al u "
 "sellulêre toestelle."
 
-#: firefox/ios.lang:51
+#: firefox/ios.lang:67
 msgid "History"
 msgstr "Geskiedenis"
 
-#: firefox/ios.lang:55
+#: firefox/ios.lang:71
 msgid "Passwords"
 msgstr "Wagwoorde"
 
-#: firefox/ios.lang:59
+#: firefox/ios.lang:75
 msgid "Open tabs"
 msgstr "Oop oortjies"
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:64
+#: firefox/ios.lang:80
 msgid "Bookmarks"
 msgstr "Boekmerke"
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:69
+#: firefox/ios.lang:85
 msgid "Reading List"
 msgstr "Leeslys"
 
-#: firefox/ios.lang:73
+#: firefox/ios.lang:89
 msgid "Get started with Sync"
 msgstr "Begin om Sync te gebruik"
 
-#: firefox/ios.lang:77
+#: firefox/ios.lang:93
 msgid "Already have an account?"
 msgstr "Het u reeds 'n rekening?"
 
-#: firefox/ios.lang:81
+#: firefox/ios.lang:97
 msgid "Sign in"
 msgstr "Meld aan"
 
-#: firefox/ios.lang:85
+#: firefox/ios.lang:101
 msgid "You’re already signed in!"
 msgstr "U het reeds aangemeld!"
 
-#: firefox/ios.lang:89
+#: firefox/ios.lang:105
 msgid "Learn more about Sync"
 msgstr "Meer inligting oor Sync"
 
-#: firefox/ios.lang:93
+#: firefox/ios.lang:109
 msgid "Send Firefox to your iOS device"
 msgstr "Stuur Firefox na 'n iOS-toestel"
 
-#: firefox/ios.lang:97
+#: firefox/ios.lang:113
 msgid "Sync your Firefox browsing history on iOS"
 msgstr "Sinkroniseer u Firefox-blaaigeskiedenis op iOS"
 
 #. The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
-#: firefox/ios.lang:102
+#: firefox/ios.lang:118
 msgid ""
 "First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
 "using Sync."
@@ -129,37 +146,37 @@ msgstr ""
 "Raak eers die <b>oortjieknop</b>. Raak dan die %(gear_icon)s-ikoon om Sync "
 "te begin gebruik."
 
-#: firefox/ios.lang:106
+#: firefox/ios.lang:122
 msgid "Not now"
 msgstr "Nie nou nie"
 
-#: firefox/ios.lang:110
+#: firefox/ios.lang:126
 msgid "Learn more in the App Store"
 msgstr "Meer inligting in die App Store"
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:115
+#: firefox/ios.lang:131
 msgid "Keep your private info private"
 msgstr "Hou private inligting privaat"
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:120
+#: firefox/ios.lang:136
 msgid "We believe your personal information belongs to you."
 msgstr "Ons glo u persoonlike inligting behoort slegs aan u."
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:125
+#: firefox/ios.lang:141
 msgid "Firefox for iOS is filled with features to help keep it that way."
 msgstr ""
 "Firefox vir iOS is tjok-en-blok met die funksionaliteit om dit so te hou."
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:130
+#: firefox/ios.lang:146
 msgid "Private Browsing"
 msgstr "Private blaaiery"
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:135
+#: firefox/ios.lang:151
 msgid ""
 "When activated, Firefox for iOS won’t accept cookies, remember passwords or "
 "record any sites that you’ve visited."
@@ -168,27 +185,27 @@ msgstr ""
 "onthou of enige werwe onthou wat besoek word nie."
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:140
+#: firefox/ios.lang:156
 msgid "Learn more about Private Browsing"
 msgstr "Meer inligting oor private blaaiery"
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:145
+#: firefox/ios.lang:161
 msgid "Clear history"
 msgstr "Maak geskiedenis skoon"
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:150
+#: firefox/ios.lang:166
 msgid "Delete your browsing history, passwords and more in a single tap."
 msgstr "Skrap u blaaigeskiedenis, wagwoord en nog wat deur een keer te raak."
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:155
+#: firefox/ios.lang:171
 msgid "Choose the private data you want to remove whenever you need to do so."
 msgstr "Kies watter private data om te skrap wanneer en soos dit nodig is."
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:160
+#: firefox/ios.lang:176
 msgid "Learn how to clear your history"
 msgstr "Sien hoe om die geskiedenis skoon te maak"
 

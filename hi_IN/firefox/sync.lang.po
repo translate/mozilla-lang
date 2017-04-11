@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 05:09+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2017-01-21 09:12+0000\n"
 "Last-Translator: umesh agarwal <umesh.agarwal1@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,28 +12,44 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1484989959.000000\n"
 
-#: firefox/sync.lang:9
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title
+#: firefox/sync.lang:12
+msgid "Use Bookmarks, Tabs and Passwords Across Devices | Firefox"
+msgstr ""
+
+#. String is obsolete. Do not remove.
+#. HTML page title
+#: firefox/sync.lang:18
 msgid "Keep your Firefox in sync"
 msgstr "अपने Firefox को sync में रखें"
 
-#: firefox/sync.lang:13
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description
+#: firefox/sync.lang:24
+msgid ""
+"Bring your Firefox bookmarks, tabs, or passwords wherever you go with "
+"Firefox Sync. Share between computers and mobile devices. Get Firefox now!"
+msgstr ""
+
+#: firefox/sync.lang:28
 msgid "Ready, Set, Sync"
 msgstr "तैयार, सेट, सिंक"
 
-#: firefox/sync.lang:17
+#: firefox/sync.lang:32
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
 msgstr ""
 "आप हस्ताक्षरत् हो गए हैं और एक्सेस के लिए तैयार हैं <em>आप</em> फ़ॉयरफ़ॉक्स हर जगह,हर समय."
 
-#: firefox/sync.lang:21
+#: firefox/sync.lang:36
 msgid "Take your Web with you"
 msgstr "अपना वेब अपने साथ रखें"
 
-#: firefox/sync.lang:25
+#: firefox/sync.lang:40
 msgid ""
 "Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
 "and more from any smartphone, tablet or computer."
@@ -42,7 +58,7 @@ msgstr ""
 "स्मार्टफोन, टेबलेट या कंप्यूटर से अभिगमन करते हैं."
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:30
+#: firefox/sync.lang:45
 msgid ""
 "Sync your bookmarks, passwords, tabs and more using your Firefox Account, "
 "and access them everywhere you’re signed in."
@@ -50,20 +66,20 @@ msgstr ""
 "अपना फॉयरफॉक्स अकाउंट का उपयोग करके अपना बुकमार्क्स, पासवर्डस, टैब्स और भी अधिक सिंक "
 "करें और इसको कहीं भी एक्सेस करे जहाँ आप लॉगइन हों."
 
-#: firefox/sync.lang:34
+#: firefox/sync.lang:49
 msgid "It looks like you’re running an older version of Firefox."
 msgstr "ऐसा लग रहा है कि आप फ़ायरफ़ॉक्स के पुराने संस्करण का उपयोग कर रहे हैं."
 
-#: firefox/sync.lang:38
+#: firefox/sync.lang:53
 msgid "The new version of Sync only works with the latest version of Firefox"
 msgstr "सिंक का नया संस्करण नवीनतम फायरफॉक्स संस्करण के साथ ही काम करता है"
 
 #. # TAG: ios_announce
-#: firefox/sync.lang:43
+#: firefox/sync.lang:58
 msgid "Soon you’ll be able to use Sync on your iOS device"
 msgstr "बहुत जल्द आप अपने आईओस डिवाइस पर सिंक का उपयोग करने में समर्थ होंगे"
 
-#: firefox/sync.lang:47
+#: firefox/sync.lang:62
 msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
 "Discover them all!"
@@ -71,39 +87,39 @@ msgstr ""
 "सिंक कुछ एक महान सुविधाओं में से है जो आपको सिर्फ फायरफॉक्स के साथ ही मिलेंगे. सबको ढूंढे!"
 
 #. # TAG: firefox_sync_mobile_buttons_update
-#: firefox/sync.lang:52
+#: firefox/sync.lang:67
 msgid "Now sync Firefox with your iOS and Android devices."
 msgstr "अब अपने आईओस और एंड्राइड उपकरणों के साथ फ़ायरफ़ॉक्स को सिंक करे."
 
 #. # TAG: firefox_sync_non_fx
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
-#: firefox/sync.lang:58
+#: firefox/sync.lang:73
 msgid "Sync is just one of the great features you’ll only get with Firefox."
 msgstr "सिंक एक महान सुविधाओं में से है जो आपको सिर्फ फायरफॉक्स के साथ ही मिलेंगे."
 
-#: firefox/sync.lang:62
+#: firefox/sync.lang:77
 msgid "Download Firefox for Android"
 msgstr "Android के लिए Firefox डाउनलोड करें "
 
-#: firefox/sync.lang:66
+#: firefox/sync.lang:81
 msgid "Get started with Sync"
 msgstr "सिंक के साथ शुरुआत करें"
 
-#: firefox/sync.lang:70
+#: firefox/sync.lang:85
 msgid "Update your Firefox"
 msgstr "अपना फायरफॉक्स अपडेट करें"
 
-#: firefox/sync.lang:74
+#: firefox/sync.lang:89
 msgid "Download Firefox"
 msgstr "फायरफॉक्स डाउनलोड करें"
 
-#: firefox/sync.lang:78
+#: firefox/sync.lang:93
 msgid "Get started with Sync in four easy steps:"
 msgstr "सिंक के साथ चार आसान चरणो में शुरुआत करें:"
 
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
-#: firefox/sync.lang:84
+#: firefox/sync.lang:99
 msgid ""
 "Open the <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
 "href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of Firefox and "
@@ -114,23 +130,23 @@ msgstr ""
 "\"<strong>सिंक में हस्ताक्षर करें </strong>\" चुनें "
 
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:89
+#: firefox/sync.lang:104
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
 msgstr "क्लिक करें “<strong>शुरुआत करें </strong>” उस टैब में जो खुलता है."
 
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:94
+#: firefox/sync.lang:109
 msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
 msgstr "\"<strong>फायरफॉक्स अकाउंट बनाये. </strong>\"एक ईमेल पता और पासवर्ड दर्ज करें."
 
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:99
+#: firefox/sync.lang:114
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr "आपके ईमेल पे सत्यापन भेजने के लिए इसमें“<strong>आगे </strong>”क्लिक करें."
 
-#: firefox/sync.lang:103
+#: firefox/sync.lang:118
 msgid ""
 "After you check your email and click the verification link, you’ll be all "
 "set! Firefox will automatically sync in the background from then on."
@@ -138,22 +154,22 @@ msgstr ""
 "जब आप अपना ईमेल जाँच कर सत्यापन लिंक पर क्लिक करते हैं, आप पूरी तरह से तैयार हैं ! पृष्ठभूमि "
 "में फायरफॉक्स खुद से सिंक होगा और फिर शुरू होगा."
 
-#: firefox/sync.lang:107
+#: firefox/sync.lang:122
 msgid "Get more detailed instructions."
 msgstr "और अधिक विस्तृत जानकारी प्राप्त करें."
 
-#: firefox/sync.lang:111
+#: firefox/sync.lang:126
 msgid "Using an older version of Sync?"
 msgstr "सिंक का पुराना संस्करण इस्तेमाल कर रहे हैं?"
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:116
+#: firefox/sync.lang:131
 msgid "How to set up Sync in five easy steps:"
 msgstr "सिंक को पांच आसान चरणो में कैसे सेटअप करें :"
 
 #. <strong> tags below used for font color formatting.
 #. This string is displayed on Android devices
-#: firefox/sync.lang:122
+#: firefox/sync.lang:137
 msgid ""
 "Tap the <strong>Menu</strong> button (either below the screen or at the top "
 "right corner of the browser)."
@@ -161,7 +177,7 @@ msgstr ""
 "<strong>मेनू </strong>बटन को (ब्राउज़र स्क्रीन के नीचे या ऊपर दायें किनारे पे ) दबाएं |"
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:127
+#: firefox/sync.lang:142
 msgid ""
 "Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
 "first)."
@@ -169,23 +185,23 @@ msgstr ""
 "<strong>सेटिंग्स</strong>चुने(आपको पहले <strong>अधिक</strong>दबाने की जरुरत पड़ेगी)."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:132
+#: firefox/sync.lang:147
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
 msgstr "<strong>सिंक</strong> दबाएं और फिर <strong>शुरुआत करें</strong>."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:137
+#: firefox/sync.lang:152
 msgid ""
 "The <strong>Create a Firefox Account page</strong> will open in a new tab."
 msgstr "<strong>एक फॉयरफॉक्स अकाउंट पेज बनाये</strong> नए टैब में खुलेगा."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:142
+#: firefox/sync.lang:157
 msgid "Fill out the form and click <strong>Next</strong>."
 msgstr "फार्म भरें और <strong>आगे </strong> क्लिक करें."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:147
+#: firefox/sync.lang:162
 msgid ""
 "After you check your email and click the verification link, you’ll be ready "
 "to go! Don’t forget to connect all your other devices to get the most of "
@@ -194,11 +210,11 @@ msgstr ""
 "अपना ईमेल चेक करना के बाद सत्यापन लिंक पर क्लिक करें फिर आप चलने के लिए तैयार हैं! अपने "
 "अन्य यंत्रों को अधिकतम सिंक प्राप्त करने के लिए जोड़ना न भूलें."
 
-#: firefox/sync.lang:151
+#: firefox/sync.lang:166
 msgid "Sync a little. Sync a lot."
 msgstr "थोड़ा सिंक करें. बहुत ज्यादा सिंक करें."
 
-#: firefox/sync.lang:155
+#: firefox/sync.lang:170
 msgid ""
 "You choose what parts of your Firefox you want to sync and where you want to "
 "sync them. Take your open tabs on your daily commute. Access your bookmarks "
@@ -209,7 +225,7 @@ msgstr ""
 "अभिगमन करें. जो भी, जब भी, जहाँ भी."
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:160
+#: firefox/sync.lang:175
 msgid ""
 "Want to visit your computer’s open tabs from another device? Access your "
 "browsing history on the go? Keep your passwords with you? Now you can."
@@ -218,35 +234,35 @@ msgstr ""
 "इतिहास को एक्सेस करे?अपना पासवर्ड अपने पास रखे? अब आप कर सकते हैं."
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:165
+#: firefox/sync.lang:180
 msgid "Here’s what you can sync:"
 msgstr "यहाँ जो आप सिंक कर सकते हैं: "
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:170
+#: firefox/sync.lang:185
 msgid "Bookmarks"
 msgstr "पुस्तचिह्न"
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:175
+#: firefox/sync.lang:190
 msgid "Passwords"
 msgstr "पासवर्डस"
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:180
+#: firefox/sync.lang:195
 msgid "Open tabs"
 msgstr "टैब्स खोले"
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:185
+#: firefox/sync.lang:200
 msgid "History"
 msgstr "इतिहास"
 
-#: firefox/sync.lang:189
+#: firefox/sync.lang:204
 msgid "At home"
 msgstr "घर पर"
 
-#: firefox/sync.lang:193
+#: firefox/sync.lang:208
 msgid ""
 "Move from your desk to the couch without skipping a beat. Access your open "
 "tabs on your smartphone, or keeping browsing your bookmarks right on your "
@@ -255,11 +271,11 @@ msgstr ""
 "अपने मेज को अपने सोफे तक बिना किसी टप्पे के छूटे ले जाएँ. अपने खुले हुए टैब का अपने स्मार्टफोन "
 "पर अभिगमन करें, या अपने टेबलेट पर अपने पुस्तचिह्न ब्राउज करें."
 
-#: firefox/sync.lang:197
+#: firefox/sync.lang:212
 msgid "At work"
 msgstr "काम पर"
 
-#: firefox/sync.lang:201
+#: firefox/sync.lang:216
 msgid ""
 "Stay connected to all of your important information. Sync the passwords and "
 "bookmarks that you might need to access at any time. Just like Firefox, it’s "
@@ -268,11 +284,11 @@ msgstr ""
 "अपने महत्वपूर्ण जानकारियों से जुड़े रहिये. अपने कूटशब्द और पुस्तचिन्ह जिनके अभिगमन के जरुरत "
 "आपको हमेशा जरुरत होगी. ये फायरफॉक्स के जैसे ही सुरक्षित है जितना ही होना चाहिए."
 
-#: firefox/sync.lang:205
+#: firefox/sync.lang:220
 msgid "On the go"
 msgstr "गिरावट की हालत में"
 
-#: firefox/sync.lang:209
+#: firefox/sync.lang:224
 msgid ""
 "Keep up with your favorite sites, or finish that story you started at home — "
 "wherever you go. With Sync, it’s never been easier."
@@ -281,12 +297,12 @@ msgstr ""
 "भी जाएँ. सिंक के साथ, ये इतना आसान कभी भी नहीं था."
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:214
+#: firefox/sync.lang:229
 msgid "Add Firefox to your smartphone or tablet"
 msgstr "अपने स्मार्टफोन या टेबलेट में फ़ॉयरफ़ॉक्स को जोड़े"
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:219
+#: firefox/sync.lang:234
 msgid ""
 "To get the full Sync experience, get Firefox for iOS or Android and connect "
 "all your devices — everywhere and anywhere you use Firefox."
@@ -295,23 +311,23 @@ msgstr ""
 "कनेक्ट करे — हर जगह और कहीं भी आप Firefox उपयोग कर सकते हैं."
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:224
+#: firefox/sync.lang:239
 msgid "Add Firefox"
 msgstr "फ़ायरफ़ॉक्स जोड़ें"
 
-#: firefox/sync.lang:228
+#: firefox/sync.lang:243
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
 msgstr "आपके पास <b>एंड्राइड स्मार्टफोन </b>या <b>टेबलेट </b> है?"
 
-#: firefox/sync.lang:232
+#: firefox/sync.lang:247
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
 msgstr "ANDROID के लिए FIREFOX डाउनलोड करें"
 
-#: firefox/sync.lang:236
+#: firefox/sync.lang:251
 msgid "Get Firefox everywhere"
 msgstr "पाएँ Firefox हर जगह"
 
-#: firefox/sync.lang:240
+#: firefox/sync.lang:255
 msgid ""
 "To get the full Sync experience, take your Web with you everywhere you use "
 "Firefox. Connect your smartphone, tablet, computer and laptop."

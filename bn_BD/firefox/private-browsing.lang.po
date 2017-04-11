@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-07 06:30+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2015-11-07 19:18+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: none\n"
@@ -11,17 +11,33 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1446923884.000000\n"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title
+#: firefox/private-browsing.lang:8
+msgid "Private Browser Protects Your Online Privacy | Firefox"
+msgstr ""
+
+#. String is obsolete. Do not remove.
 #. HTML Title attribute
-#: firefox/private-browsing.lang:6
+#: firefox/private-browsing.lang:14
 msgid ""
 "Firefox Web browser — Private Browsing with Tracking Protection — Mozilla"
 msgstr "ফায়ারফক্স ওয়েব ব্রাউজার — ট্র্যাকিং সুরক্ষার সাথে ব্যক্তিগত ব্রাউজিং — মজিলা"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description
+#: firefox/private-browsing.lang:20
+msgid ""
+"Firefox protects your online privacy and blocks trackers that follow you "
+"around the web. Get Firefox for private browsing!"
+msgstr ""
+
+#. String is obsolete. Do not remove.
 #. Meta tag (description)
-#: firefox/private-browsing.lang:11
+#: firefox/private-browsing.lang:26
 msgid ""
 "Get more protection and the most privacy, only from Firefox. No other "
 "browser gives you so much control over your digital footprint."
@@ -30,21 +46,21 @@ msgstr ""
 "পারবে না আপনার ডিজিটাল পদচিহ্নের উপরে এতো বেশি নিয়ন্ত্রণ দিতে।"
 
 #. the <br> tags below are for visual formatting only.
-#: firefox/private-browsing.lang:16
+#: firefox/private-browsing.lang:31
 msgid "More protection. <br>The most privacy. <br>Only from Firefox."
 msgstr "আরও বেশি সুরক্ষা। <br> বেশি গোপনীয়তা। <br> কেবলমাত্র ফায়ারফক্সে।"
 
-#: firefox/private-browsing.lang:20
+#: firefox/private-browsing.lang:35
 msgid "Try Private Browsing"
 msgstr "ব্যক্তিগত ব্রাউজিং ব্যবহার করুন"
 
 #. Displayed to non Firefox users
-#: firefox/private-browsing.lang:25
+#: firefox/private-browsing.lang:40
 msgid "To give the new Private Browsing a try, download Firefox."
 msgstr "নতুন ব্যক্তিগত ব্রাউজিং ব্যবহার করতে, ফায়ারফক্স ডাউনলোড করুন।"
 
 #. Displayed to Firefox users on old versions
-#: firefox/private-browsing.lang:30
+#: firefox/private-browsing.lang:45
 msgid ""
 "Your Firefox is not up to date. Download the latest version to use the new "
 "Private Browsing."
@@ -52,19 +68,19 @@ msgstr ""
 "আপনার ফায়ারফক্স হালনাগাদকৃত নয়। ব্যক্তিগত ব্রাউজিং ব্যবহার করতে সাম্প্রতিকতম সংস্করণ "
 "ডাউনলোড করুন।"
 
-#: firefox/private-browsing.lang:34
+#: firefox/private-browsing.lang:49
 msgid "No other browser gives you so much control over your digital footprint."
 msgstr "আপনার ডিজিটাল পদচিহ্নে এতোটা নিয়ন্ত্রণ আর কোন ব্রাউজার দিতে পারে না।"
 
-#: firefox/private-browsing.lang:38
+#: firefox/private-browsing.lang:53
 msgid "Learn how to use Private Browsing"
 msgstr "ব্যক্তিগত ব্রাউজিং সম্পর্কে আরও জানুন"
 
-#: firefox/private-browsing.lang:42
+#: firefox/private-browsing.lang:57
 msgid "Private Browsing"
 msgstr "ব্যক্তিগত ব্রাউজিং"
 
-#: firefox/private-browsing.lang:46
+#: firefox/private-browsing.lang:61
 msgid ""
 "Firefox won’t save things like your browsing history, searches or cookies, "
 "but it will keep new bookmarks and files you download."
@@ -72,11 +88,11 @@ msgstr ""
 "ফায়ারফক্স আপনার ব্রাউজিং ইতিহাস, অনুসন্ধান বা কুকি সংরক্ষণ করে না, কিন্তু এটা আপনার "
 "নতুন বুকমার্ক এবং ডাউনলোডকৃত ফাইল রাখে।"
 
-#: firefox/private-browsing.lang:50
+#: firefox/private-browsing.lang:65
 msgid "With Tracking Protection"
 msgstr "এখন ট্র্যাকিং সুরক্ষাসহ।"
 
-#: firefox/private-browsing.lang:54
+#: firefox/private-browsing.lang:69
 msgid ""
 "Minimize the ability of hidden third parties from tracking your browsing "
 "activity across many sites."
@@ -84,50 +100,50 @@ msgstr ""
 "অনেক সাইটে আপনার ব্রাউজিং কার্যকলাপ সম্ভাব্য তৃতীয় পক্ষের ট্র্যাকিং এর সক্ষমতা কমিয়ে "
 "আনে।"
 
-#: firefox/private-browsing.lang:58
+#: firefox/private-browsing.lang:73
 msgid "Learn more about Private Browsing"
 msgstr "ব্যক্তিগত ব্রাউজিং সম্পর্কে আরও জানুন"
 
-#: firefox/private-browsing.lang:62
+#: firefox/private-browsing.lang:77
 msgid ""
 "Tracking Protection is only available with Firefox for Android and Desktop"
 msgstr "ট্র্যাকিং সুরক্ষা সুবিধা শুধুমাত্র অ্যান্ড্রয়েডের জন্য ফায়ারফক্স এবং ডেস্কটপে রয়েছে।"
 
-#: firefox/private-browsing.lang:66
+#: firefox/private-browsing.lang:81
 msgid "When to use Private Browsing"
 msgstr "যখন ব্যক্তিগত ব্রাউজিং ব্যবহার করা হবে"
 
-#: firefox/private-browsing.lang:70
+#: firefox/private-browsing.lang:85
 msgid "To minimize your digital footprint"
 msgstr "আপনার ডিজিটাল পদচিহ্ন কমিয়ে আনতে"
 
-#: firefox/private-browsing.lang:74
+#: firefox/private-browsing.lang:89
 msgid ""
 "Tracking Protection blocks Internet companies from following you across the "
 "Web"
 msgstr "ট্র্যাকিং সুরক্ষা ওয়েবে আপনাকে অনুসরণ করতে ইন্টারনেট কম্পানীকে বাঁধা দেয়।"
 
-#: firefox/private-browsing.lang:78
+#: firefox/private-browsing.lang:93
 msgid "Online banking from a shared device or computer"
 msgstr "কোন শেয়ারকৃত ডিভাইস বা কম্পিউটার থেকে অনলাইন ব্যাংকিং"
 
-#: firefox/private-browsing.lang:82
+#: firefox/private-browsing.lang:97
 msgid "Your username and password won’t be saved"
 msgstr "আপনার ইউজারনেম এবং পাসওয়ার্ড সংরক্ষিত হবে না"
 
-#: firefox/private-browsing.lang:86
+#: firefox/private-browsing.lang:101
 msgid "To help you plan a surprise, like a birthday or a trip"
 msgstr "চমকপ্রদ কিছু পরিকল্পনা করতে সাহায্য করে, যেমন জন্মদিন বা কোন ভ্রমণের আয়োজন"
 
-#: firefox/private-browsing.lang:90
+#: firefox/private-browsing.lang:105
 msgid "No one can see your browsing history"
 msgstr "আপনার ব্রাউজিং ইতিহাস কেউ দেখতে পাবে না"
 
-#: firefox/private-browsing.lang:94
+#: firefox/private-browsing.lang:109
 msgid "The Control Center has you covered"
 msgstr "নিয়ন্ত্রণ কেন্দ্র আপনাকে সুরক্ষা দিবে"
 
-#: firefox/private-browsing.lang:98
+#: firefox/private-browsing.lang:113
 msgid ""
 "When you see the shield to the left of the address bar, that means Firefox "
 "is protecting you from potential trackers."
@@ -135,7 +151,7 @@ msgstr ""
 "যখন দেখবেন আপনার ঠিকানা বারের বাম পাশে ঢালের চিহ্ন আসবে, বুঝবেন ফায়ারফক্স "
 "আপনাকে সম্ভাব্য ট্র্যাকার থেকে সুরক্ষিত রাখছে।"
 
-#: firefox/private-browsing.lang:102
+#: firefox/private-browsing.lang:117
 msgid ""
 "You can disable Tracking Protection for a single site, or turn it off "
 "entirely. It’s up to you."
@@ -143,11 +159,11 @@ msgstr ""
 "আপনার ট্র্যাকিং সুরক্ষা কোন নির্দিষ্ট সাইটের জন্য নিষ্ক্রিয় করতে, অথবা সম্পূর্ণ বন্ধ "
 "রাখতে পারেন। এটা আপনার উপর নির্ভর করে।"
 
-#: firefox/private-browsing.lang:106
+#: firefox/private-browsing.lang:121
 msgid "Learn more about the Control Center"
 msgstr "নিয়ন্ত্রণ কেন্দ্র সম্পর্কে আরও জানুন"
 
-#: firefox/private-browsing.lang:110
+#: firefox/private-browsing.lang:125
 msgid ""
 "Control Center is not available on Android devices, but a shield will still "
 "be displayed to let you know when you are protected."
@@ -155,6 +171,6 @@ msgstr ""
 "অ্যান্ড্রয়েড ডিভাইসে নিয়ন্ত্রণ কেন্দ্র সুবিধা নেই, কিন্তু একটি ঢাল চিহ্ন এখানেও প্রদর্শিত "
 "হবে আপনাকে জানাবে কখন আপনি সুরক্ষিত আছেন।"
 
-#: firefox/private-browsing.lang:114
+#: firefox/private-browsing.lang:129
 msgid "Try it now to stay in control"
 msgstr "নিয়ন্ত্রণ করতে এখনই ব্যবহার করুন।"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 05:09+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2016-02-24 14:18+0000\n"
 "Last-Translator: Abelardo Ayala Rodríguez <abe_aya@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,12 +11,19 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1456323528.000000\n"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title
+#: firefox/desktop/index.lang:10
+msgid "Free Web Browser for Mac, Windows, Linux | Firefox"
+msgstr ""
+
 #. # TAG: home_title_update
+#. String is obsolete. Do not remove.
 #. This is the <title> tag
-#: firefox/desktop/index.lang:9
+#: firefox/desktop/index.lang:17
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your "
 "privacy and an open Web"
@@ -25,7 +32,7 @@ msgstr ""
 "ñemigua ha peteĩ Ñanduti ijurujáva"
 
 #. Previous title (DO NOT REMOVE)
-#: firefox/desktop/index.lang:14
+#: firefox/desktop/index.lang:22
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — There's never been a better "
 "time"
@@ -33,40 +40,48 @@ msgstr ""
 "Firefox Web kundahára — Jerovia, Ambuekuaa, Pya'ekue — araka'eve noĩri "
 "ag̃agua iporãvéva"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description
+#: firefox/desktop/index.lang:28
+msgid ""
+"Millions of people around the world trust Firefox Web browsers on Mac, "
+"Windows and Linux computers. Fast. Private. Download now!"
+msgstr ""
+
 #. L10n: Line break below is for wide screen formatting only.
-#: firefox/desktop/index.lang:19
+#: firefox/desktop/index.lang:33
 msgid "There’s never been a <br class=\"wide-br\">better time for Firefox"
 msgstr ""
 "Araka'eve noĩri ag̃agua iporãvéva <br class=\"wide-br\">Firefox-pe g̃uarã"
 
-#: firefox/desktop/index.lang:23
+#: firefox/desktop/index.lang:37
 msgid "Committed to you, your privacy and an open Web."
 msgstr "Oĩva nendive, ne ñemigua ha peteĩ ñanduti ijurujáva"
 
 #. # TAG: firefox_updated
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
-#: firefox/desktop/index.lang:29
+#: firefox/desktop/index.lang:43
 msgid "Your Firefox is up to date."
 msgstr "Firefox oñembohekopyahúma."
 
 #. # TAG: firefox_updated
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
 #. Active link to https://support.mozilla.org/products/firefox
-#: firefox/desktop/index.lang:36
+#: firefox/desktop/index.lang:50
 msgid "Need help with anything?"
 msgstr "Eikotevẽpa pytyvõ peteĩvape"
 
-#: firefox/desktop/index.lang:40
+#: firefox/desktop/index.lang:54
 msgid "Made with a mission to put you first"
 msgstr "Ojejapo oñemoĩ hag̃ua peteĩha jave"
 
-#: firefox/desktop/index.lang:44
+#: firefox/desktop/index.lang:58
 msgid ""
 "We’ve always designed Firefox to protect and respect your private "
 "information."
 msgstr "Tapiaite rojapo Firefox omo'ã ha omomba'e hag̃ua ne marandu ñemiguáva."
 
-#: firefox/desktop/index.lang:48
+#: firefox/desktop/index.lang:62
 msgid ""
 "That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
 "\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
@@ -74,23 +89,23 @@ msgstr ""
 "Upéva rehe orejuruvy rojeiporavóre <a href=\"%(url1)s\" data-interaction="
 "\"outbound link\">Ñanduti Mba'apoha ojejeroviaveha ñemiguávape. </a>"
 
-#: firefox/desktop/index.lang:52
+#: firefox/desktop/index.lang:66
 msgid "Find out what makes Firefox the most trusted browser on the Web"
 msgstr "Ejeporeka mba'érepa Firefox ha'e pe kundahára ojejeroviaveha Ñandutípe"
 
-#: firefox/desktop/index.lang:56
+#: firefox/desktop/index.lang:70
 msgid "Works the way you do"
 msgstr "Oiko pe nde rejapoháicha"
 
-#: firefox/desktop/index.lang:60
+#: firefox/desktop/index.lang:74
 msgid "How you use the Web is unique."
 msgstr "Pe Ñanduti eipuruháicha ndaipóri ambue ojapóva péicha."
 
-#: firefox/desktop/index.lang:64
+#: firefox/desktop/index.lang:78
 msgid "Firefox lets you change it to match."
 msgstr "Firefox omoneĩ ñemoambue ojuehe hag̃ua."
 
-#: firefox/desktop/index.lang:68
+#: firefox/desktop/index.lang:82
 msgid ""
 "Remove what you don’t use, keep what you do and put it just about anywhere "
 "you want."
@@ -98,7 +113,7 @@ msgstr ""
 "Egueru pe mba'e ojepuru'ỹva, eguereko pe ejapovahína ha emoĩ oimeraẽva tenda "
 "nde reipotahápe."
 
-#: firefox/desktop/index.lang:72
+#: firefox/desktop/index.lang:86
 msgid ""
 "Find out what makes Firefox <br class=\"wide-br\">the most flexible browser "
 "there is"
@@ -106,11 +121,11 @@ msgstr ""
 "Ejeporeka mba'érepa Firefox ha'e <br class=\"wide-br\">pe kundahára "
 "iñambuekuaavéva"
 
-#: firefox/desktop/index.lang:76
+#: firefox/desktop/index.lang:90
 msgid "Faster at what you do most"
 msgstr "Ipya'eve umi hetavéva ojapóvagui"
 
-#: firefox/desktop/index.lang:80
+#: firefox/desktop/index.lang:94
 msgid ""
 "Firefox was named the ”speed king” in independent benchmark and performance "
 "tests against other browsers."
@@ -118,7 +133,7 @@ msgstr ""
 "Firefox ojeporavo pe ”ipya'evévaramo” ñeha'ã ha'eñóva jehechakuaa ha "
 "hembiapokatúpe umi ambue kundahára apytégui."
 
-#: firefox/desktop/index.lang:84
+#: firefox/desktop/index.lang:98
 msgid ""
 "* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
 "Hardware Web Browser Grand Prix XVI</a> results."
@@ -126,10 +141,10 @@ msgstr ""
 "* Oñempyendáva pe <a data-interaction=\"outbound link\" href=\"%(url1)s"
 "\">Apopyre Ñanduti kundahára hardware Tom Gran Premio XVI</a> rehegua."
 
-#: firefox/desktop/index.lang:88
+#: firefox/desktop/index.lang:102
 msgid "Save time and do just about anything quicker than before."
 msgstr "Emba'apo pya'e ha japo oimeraẽva mba'e pya'eve ymaveguarégui."
 
-#: firefox/desktop/index.lang:92
+#: firefox/desktop/index.lang:106
 msgid "Find out what makes this the fastest Firefox yet"
 msgstr "Ejeporeka mba'érepa kóva ha'e pe Firefox ipya'evéva"

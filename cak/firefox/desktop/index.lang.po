@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 05:09+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2016-04-06 03:13+0000\n"
 "Last-Translator: Juan Esteban Ajsivinac Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,12 +11,19 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1459912390.000000\n"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title
+#: firefox/desktop/index.lang:10
+msgid "Free Web Browser for Mac, Windows, Linux | Firefox"
+msgstr ""
+
 #. # TAG: home_title_update
+#. String is obsolete. Do not remove.
 #. This is the <title> tag
-#: firefox/desktop/index.lang:9
+#: firefox/desktop/index.lang:17
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your "
 "privacy and an open Web"
@@ -25,7 +32,7 @@ msgstr ""
 "chawe, ri awichinaxik chuqa' jun jaqäl Ajk'amaya'l"
 
 #. Previous title (DO NOT REMOVE)
-#: firefox/desktop/index.lang:14
+#: firefox/desktop/index.lang:22
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — There's never been a better "
 "time"
@@ -33,14 +40,22 @@ msgstr ""
 "Firefox Ajk'amaya'l okik'amaya'l — Kuqel, Jalel, Aninäq — Majub'ey "
 "qik'owisan jun jeb'ël ramaj"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description
+#: firefox/desktop/index.lang:28
+msgid ""
+"Millions of people around the world trust Firefox Web browsers on Mac, "
+"Windows and Linux computers. Fast. Private. Download now!"
+msgstr ""
+
 #. L10n: Line break below is for wide screen formatting only.
-#: firefox/desktop/index.lang:19
+#: firefox/desktop/index.lang:33
 msgid "There’s never been a <br class=\"wide-br\">better time for Firefox"
 msgstr ""
 "Majub'ey xk'oje' ta jun <br class=\"wide-br\">q'ij janila ütz chi re ri "
 "Firefox"
 
-#: firefox/desktop/index.lang:23
+#: firefox/desktop/index.lang:37
 msgid "Committed to you, your privacy and an open Web."
 msgstr ""
 "Qaya'on qatzij chawe, rik'in ri awichinaxik chuqa' rik'in jun jaqäl "
@@ -48,22 +63,22 @@ msgstr ""
 
 #. # TAG: firefox_updated
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
-#: firefox/desktop/index.lang:29
+#: firefox/desktop/index.lang:43
 msgid "Your Firefox is up to date."
 msgstr "K'exon chi ri aFirefox."
 
 #. # TAG: firefox_updated
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
 #. Active link to https://support.mozilla.org/products/firefox
-#: firefox/desktop/index.lang:36
+#: firefox/desktop/index.lang:50
 msgid "Need help with anything?"
 msgstr "¿La k'o ato'ik nawajo'?"
 
-#: firefox/desktop/index.lang:40
+#: firefox/desktop/index.lang:54
 msgid "Made with a mission to put you first"
 msgstr "B'anon rik'in ri taqel taqanem chi yatnab'eyisäx"
 
-#: firefox/desktop/index.lang:44
+#: firefox/desktop/index.lang:58
 msgid ""
 "We’ve always designed Firefox to protect and respect your private "
 "information."
@@ -71,7 +86,7 @@ msgstr ""
 "Junelïk qawachib'en ri Firefox richin niqachajij chuqa' niqakamelaj ri "
 "ichinan awetamab'al."
 
-#: firefox/desktop/index.lang:48
+#: firefox/desktop/index.lang:62
 msgid ""
 "That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
 "\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
@@ -80,25 +95,25 @@ msgstr ""
 "interaction=\"outbound link\">rumoloj k'amaya'l ri yalan nakuqub'a' ak'u'x "
 "chi qij richin ri awichinaxik.</a>"
 
-#: firefox/desktop/index.lang:52
+#: firefox/desktop/index.lang:66
 msgid "Find out what makes Firefox the most trusted browser on the Web"
 msgstr ""
 "Tawila' achike ri nib'ano chi re ri Firefox, ri okik'amaya'l yalan "
 "nikikuqub'a' kik'u'x chi rij pa Ajk'amaya'l"
 
-#: firefox/desktop/index.lang:56
+#: firefox/desktop/index.lang:70
 msgid "Works the way you do"
 msgstr "Nisamäj achi'el nawajo' rat"
 
-#: firefox/desktop/index.lang:60
+#: firefox/desktop/index.lang:74
 msgid "How you use the Web is unique."
 msgstr "Xa xe jun rub'eyal nawokisaj ri Ajk'amaya'l."
 
-#: firefox/desktop/index.lang:64
+#: firefox/desktop/index.lang:78
 msgid "Firefox lets you change it to match."
 msgstr "Firefox nuya' q'ij chawe chi najalwachij achi'el nawajo'."
 
-#: firefox/desktop/index.lang:68
+#: firefox/desktop/index.lang:82
 msgid ""
 "Remove what you don’t use, keep what you do and put it just about anywhere "
 "you want."
@@ -106,7 +121,7 @@ msgstr ""
 "Ke'ayuju' el ronojel ri man nik'atzin ta chawe chuqa' ke'aya' ri yek'atzin "
 "chawe pa jun k'ojlib'äl, akuchi' nawajo' rat."
 
-#: firefox/desktop/index.lang:72
+#: firefox/desktop/index.lang:86
 msgid ""
 "Find out what makes Firefox <br class=\"wide-br\">the most flexible browser "
 "there is"
@@ -114,11 +129,11 @@ msgstr ""
 "Tawila' achi nib'ano chi re ri Firefox <br class=\"wide-br\">ri okik'amaya'l "
 "yalan jaqäl k'o wakami."
 
-#: firefox/desktop/index.lang:76
+#: firefox/desktop/index.lang:90
 msgid "Faster at what you do most"
 msgstr "Yalan aninäq rik'in ri nab'än "
 
-#: firefox/desktop/index.lang:80
+#: firefox/desktop/index.lang:94
 msgid ""
 "Firefox was named the ”speed king” in independent benchmark and performance "
 "tests against other browsers."
@@ -126,7 +141,7 @@ msgstr ""
 "Xb'ini'äx ri Firefox ”rajawal aninem” pa yonil taq tojtob'enïk, akuchi' "
 "netäx rub'eyal nisamajäj, chi ri' xeruch'äk ch'aqa' chik taq okik'amaya'l."
 
-#: firefox/desktop/index.lang:84
+#: firefox/desktop/index.lang:98
 msgid ""
 "* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
 "Hardware Web Browser Grand Prix XVI</a> results."
@@ -134,10 +149,10 @@ msgstr ""
 "* K'o ruxe'el pa <a data-interaction=\"outbound link\" href=\"%(url1)s\">ri "
 "xerïl ri okik'amaya'l Grand Prix XVI</a> richin ri ruch'akulakem Tom."
 
-#: firefox/desktop/index.lang:88
+#: firefox/desktop/index.lang:102
 msgid "Save time and do just about anything quicker than before."
 msgstr "Tayaka' aramaj chuqa' aninäq tab'ana' ronojel chuwäch ojer."
 
-#: firefox/desktop/index.lang:92
+#: firefox/desktop/index.lang:106
 msgid "Find out what makes this the fastest Firefox yet"
 msgstr "Tawila' achike ruma re Firefox re', ja ri' ri yalan aninäq"

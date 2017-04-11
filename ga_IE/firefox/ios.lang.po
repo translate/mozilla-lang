@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 05:09+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2016-06-06 19:13+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,37 +13,54 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
 "(n>6 && n<11) ? 3 : 4;;\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1465240383.000000\n"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title
+#: firefox/ios.lang:9
+msgid "Free Mobile Browser App for iPhone, iPad, iOS | Firefox"
+msgstr ""
+
+#. String is obsolete. Do not remove.
 #. Title of the page (HTML meta)
-#: firefox/ios.lang:7
+#: firefox/ios.lang:15
 msgid "Mobile Web browser for your iPhone, iPad and iPod touch"
 msgstr "Brabhsálaí soghluaiste ar iPhone, iPad, agus iPod touch"
 
-#: firefox/ios.lang:11
-msgid "Firefox for iOS"
-msgstr "Firefox ar iOS"
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description
+#: firefox/ios.lang:21
+msgid ""
+"Join the millions browsing better on iPhone and iPad. Firefox is fast and "
+"private. Install Firefox for iOS now!"
+msgstr ""
 
-#: firefox/ios.lang:15
+#. String is obsolete. Do not remove.
+#. HTML page description
+#: firefox/ios.lang:27
 msgid "Add Firefox to your iPhone, iPad and iPod touch."
 msgstr "Suiteáil Firefox ar do iPhone, iPad nó iPod touch."
 
-#: firefox/ios.lang:19
+#: firefox/ios.lang:31
+msgid "Firefox for iOS"
+msgstr "Firefox ar iOS"
+
+#: firefox/ios.lang:35
 msgid "Preview release"
 msgstr "Réamhleagan"
 
-#: firefox/ios.lang:23
+#: firefox/ios.lang:39
 msgid "Get it now"
 msgstr "Faigh anois é"
 
 #. Newsletter section
-#: firefox/ios.lang:28
+#: firefox/ios.lang:44
 msgid "Sign up below for updates and to be notified when it launches."
 msgstr "Cláraigh thíos chun ríomhphost a fháil nuair a bheidh sé ar fáil."
 
 #. Newsletter section
-#: firefox/ios.lang:33
+#: firefox/ios.lang:49
 msgid ""
 "* You’ll only receive updates and announcements about the iOS version of "
 "Firefox."
@@ -51,18 +68,18 @@ msgstr ""
 "* Ní bhfaighidh tú ach fógraí a bhaineann leis an leagan iOS de Firefox."
 
 #. Newsletter section
-#: firefox/ios.lang:38
+#: firefox/ios.lang:54
 msgid "Thanks for your interest in Firefox for iOS."
 msgstr "Go raibh maith agat as do spéis i bhFirefox ar iOS."
 
 #. Newsletter section
-#: firefox/ios.lang:43
+#: firefox/ios.lang:59
 msgid ""
 "Don’t forget to check your inbox to confirm your request to get updates."
 msgstr ""
 "Ná déan dearmad féachaint ar do bhosca isteach le do shíntiús a dheimhniú."
 
-#: firefox/ios.lang:47
+#: firefox/ios.lang:63
 msgid ""
 "Sign in to your Firefox Account to access your browsing info on all your "
 "mobile devices."
@@ -70,58 +87,58 @@ msgstr ""
 "Logáil isteach i do Chuntas Firefox chun teacht ar do chuid sonraí brabhsála "
 "ar do ghléasanna soghluaiste."
 
-#: firefox/ios.lang:51
+#: firefox/ios.lang:67
 msgid "History"
 msgstr "Stair"
 
-#: firefox/ios.lang:55
+#: firefox/ios.lang:71
 msgid "Passwords"
 msgstr "Focail fhaire"
 
-#: firefox/ios.lang:59
+#: firefox/ios.lang:75
 msgid "Open tabs"
 msgstr "Cluaisíní oscailte"
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:64
+#: firefox/ios.lang:80
 msgid "Bookmarks"
 msgstr "Leabharmharcanna"
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:69
+#: firefox/ios.lang:85
 msgid "Reading List"
 msgstr "Liosta Léitheoireachta"
 
-#: firefox/ios.lang:73
+#: firefox/ios.lang:89
 msgid "Get started with Sync"
 msgstr "Firefox Sync: Tús Maith"
 
-#: firefox/ios.lang:77
+#: firefox/ios.lang:93
 msgid "Already have an account?"
 msgstr "An bhfuil cuntas agat cheana?"
 
-#: firefox/ios.lang:81
+#: firefox/ios.lang:97
 msgid "Sign in"
 msgstr "Logáil isteach"
 
-#: firefox/ios.lang:85
+#: firefox/ios.lang:101
 msgid "You’re already signed in!"
 msgstr "Tá tú logáilte isteach cheana!"
 
-#: firefox/ios.lang:89
+#: firefox/ios.lang:105
 msgid "Learn more about Sync"
 msgstr "Tuilleadh eolais faoi Sync"
 
-#: firefox/ios.lang:93
+#: firefox/ios.lang:109
 msgid "Send Firefox to your iOS device"
 msgstr "Seol Firefox chuig do ghléas iOS"
 
-#: firefox/ios.lang:97
+#: firefox/ios.lang:113
 msgid "Sync your Firefox browsing history on iOS"
 msgstr "Sioncronaigh do stair bhrabhsála Firefox ar iOS"
 
 #. The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
-#: firefox/ios.lang:102
+#: firefox/ios.lang:118
 msgid ""
 "First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start "
 "using Sync."
@@ -129,36 +146,36 @@ msgstr ""
 "Tapáil an cnaipe <b>cluaisín</b>. Ansin tapáil an deilbhín %(gear_icon)s le "
 "Sync a úsáid."
 
-#: firefox/ios.lang:106
+#: firefox/ios.lang:122
 msgid "Not now"
 msgstr "Níl anois"
 
-#: firefox/ios.lang:110
+#: firefox/ios.lang:126
 msgid "Learn more in the App Store"
 msgstr "Tuilleadh eolais san App Store"
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:115
+#: firefox/ios.lang:131
 msgid "Keep your private info private"
 msgstr "D'fhaisnéis phríobháideach a choinneáil faoi rún"
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:120
+#: firefox/ios.lang:136
 msgid "We believe your personal information belongs to you."
 msgstr "Creidimid gur leatsa do chuid faisnéise pearsanta."
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:125
+#: firefox/ios.lang:141
 msgid "Firefox for iOS is filled with features to help keep it that way."
 msgstr "Tá go leor gnéithe i bhFirefox ar Android le d'fhaisnéis a chosaint."
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:130
+#: firefox/ios.lang:146
 msgid "Private Browsing"
 msgstr "Brabhsáil Phríobháideach"
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:135
+#: firefox/ios.lang:151
 msgid ""
 "When activated, Firefox for iOS won’t accept cookies, remember passwords or "
 "record any sites that you’ve visited."
@@ -168,31 +185,31 @@ msgstr ""
 "dtugann tú cuairt orthu."
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:140
+#: firefox/ios.lang:156
 msgid "Learn more about Private Browsing"
 msgstr "Tuilleadh eolais faoi Bhrabhsáil Phríobháideach"
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:145
+#: firefox/ios.lang:161
 msgid "Clear history"
 msgstr "Do stair a ghlanadh"
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:150
+#: firefox/ios.lang:166
 msgid "Delete your browsing history, passwords and more in a single tap."
 msgstr ""
 "Is féidir do stair bhrabhsála, do chuid focal faire, agus tuilleadh a "
 "ghlanadh le tadhall amháin."
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:155
+#: firefox/ios.lang:171
 msgid "Choose the private data you want to remove whenever you need to do so."
 msgstr ""
 "Is féidir leat cibé sonraí príobháideacha is mian leat a scriosadh am ar "
 "bith."
 
 #. # TAG: tracking_protection
-#: firefox/ios.lang:160
+#: firefox/ios.lang:176
 msgid "Learn how to clear your history"
 msgstr "Foghlaim conas is féidir do stair bhrabhsála a ghlanadh"
 

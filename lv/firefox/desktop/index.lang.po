@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 05:09+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2015-06-07 07:55+0000\n"
 "Last-Translator: Raivis Dejus <orvils@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,12 +13,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
 "2);\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1433663758.000000\n"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title
+#: firefox/desktop/index.lang:10
+msgid "Free Web Browser for Mac, Windows, Linux | Firefox"
+msgstr ""
+
 #. # TAG: home_title_update
+#. String is obsolete. Do not remove.
 #. This is the <title> tag
-#: firefox/desktop/index.lang:9
+#: firefox/desktop/index.lang:17
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your "
 "privacy and an open Web"
@@ -27,39 +34,47 @@ msgstr ""
 "privacy and an open Web"
 
 #. Previous title (DO NOT REMOVE)
-#: firefox/desktop/index.lang:14
+#: firefox/desktop/index.lang:22
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — There's never been a better "
 "time"
 msgstr "Firefox pārlūks — Uzticams, Elastīgs, Ātrs — Labāks kā jebkad"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description
+#: firefox/desktop/index.lang:28
+msgid ""
+"Millions of people around the world trust Firefox Web browsers on Mac, "
+"Windows and Linux computers. Fast. Private. Download now!"
+msgstr ""
+
 #. L10n: Line break below is for wide screen formatting only.
-#: firefox/desktop/index.lang:19
+#: firefox/desktop/index.lang:33
 msgid "There’s never been a <br class=\"wide-br\">better time for Firefox"
 msgstr "Firefox nekad vēl nav <br class=\"wide-br\">bijis tik labs kā tagad"
 
-#: firefox/desktop/index.lang:23
+#: firefox/desktop/index.lang:37
 msgid "Committed to you, your privacy and an open Web."
 msgstr "Mērķtiecīgi cīnās par Tevi, Tavu privātumu un Interneta atvērtību."
 
 #. # TAG: firefox_updated
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
-#: firefox/desktop/index.lang:29
+#: firefox/desktop/index.lang:43
 msgid "Your Firefox is up to date."
 msgstr "Jums ir jaunākais Firefox."
 
 #. # TAG: firefox_updated
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
 #. Active link to https://support.mozilla.org/products/firefox
-#: firefox/desktop/index.lang:36
+#: firefox/desktop/index.lang:50
 msgid "Need help with anything?"
 msgstr "Nepieciešama palīdzība?"
 
-#: firefox/desktop/index.lang:40
+#: firefox/desktop/index.lang:54
 msgid "Made with a mission to put you first"
 msgstr "Tiek veidots ar misiju vienmēr vērtēt Jūs visaugstāk"
 
-#: firefox/desktop/index.lang:44
+#: firefox/desktop/index.lang:58
 msgid ""
 "We’ve always designed Firefox to protect and respect your private "
 "information."
@@ -67,7 +82,7 @@ msgstr ""
 "Mēs vienmēr esam veidojuši Firefox, lai aizsargātu un cienītu Jūsu privāto "
 "informāciju."
 
-#: firefox/desktop/index.lang:48
+#: firefox/desktop/index.lang:62
 msgid ""
 "That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
 "\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
@@ -76,23 +91,23 @@ msgstr ""
 "\"outbound link\">Uzticamākās interneta kompānijas</a> titulu privātuma "
 "jautājumos."
 
-#: firefox/desktop/index.lang:52
+#: firefox/desktop/index.lang:66
 msgid "Find out what makes Firefox the most trusted browser on the Web"
 msgstr "Uzzini, kas padara Firefox par uzticamāko pārlūku internetā"
 
-#: firefox/desktop/index.lang:56
+#: firefox/desktop/index.lang:70
 msgid "Works the way you do"
 msgstr "Strādā, tāpat, kā Jūs"
 
-#: firefox/desktop/index.lang:60
+#: firefox/desktop/index.lang:74
 msgid "How you use the Web is unique."
 msgstr "Tas, kā Jūs lietojat internetu, ir unikāli."
 
-#: firefox/desktop/index.lang:64
+#: firefox/desktop/index.lang:78
 msgid "Firefox lets you change it to match."
 msgstr "Firefox ļauj pielāgot sevi, lai piemērotos Jums."
 
-#: firefox/desktop/index.lang:68
+#: firefox/desktop/index.lang:82
 msgid ""
 "Remove what you don’t use, keep what you do and put it just about anywhere "
 "you want."
@@ -100,7 +115,7 @@ msgstr ""
 "Aizvāciet to, ko neizmantojat un novietojiet iecienītās funkcijas jebkurā "
 "vietā, kur vēlaties."
 
-#: firefox/desktop/index.lang:72
+#: firefox/desktop/index.lang:86
 msgid ""
 "Find out what makes Firefox <br class=\"wide-br\">the most flexible browser "
 "there is"
@@ -108,11 +123,11 @@ msgstr ""
 "Uzziniet, kas padara Firefox <br class=\"wide-br\">par elastīgāko pārlūku "
 "pasaulē"
 
-#: firefox/desktop/index.lang:76
+#: firefox/desktop/index.lang:90
 msgid "Faster at what you do most"
 msgstr "Ātrākais tajā, ko darāt visbiežāk"
 
-#: firefox/desktop/index.lang:80
+#: firefox/desktop/index.lang:94
 msgid ""
 "Firefox was named the ”speed king” in independent benchmark and performance "
 "tests against other browsers."
@@ -120,7 +135,7 @@ msgstr ""
 "Firefox citu pārlūku starpā ieguva titulu ”Ātruma pavēlnieks” neatkarīgā "
 "ātruma un veiktspējas testā."
 
-#: firefox/desktop/index.lang:84
+#: firefox/desktop/index.lang:98
 msgid ""
 "* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
 "Hardware Web Browser Grand Prix XVI</a> results."
@@ -128,11 +143,11 @@ msgstr ""
 "* Balstoties uz <a data-interaction=\"outbound link\" href=\"%(url1)s"
 "\">Tom’s Hardware Web Browser Grand Prix XVI</a> rezultātiem."
 
-#: firefox/desktop/index.lang:88
+#: firefox/desktop/index.lang:102
 msgid "Save time and do just about anything quicker than before."
 msgstr "Ietaupi laiku un izdari gandrīz jebko ātrāk kā līdz šim."
 
-#: firefox/desktop/index.lang:92
+#: firefox/desktop/index.lang:106
 msgid "Find out what makes this the fastest Firefox yet"
 msgstr "Uzziniet, kas padara šo Firefox par ātrāko kāds līdz šim redzēts"
 

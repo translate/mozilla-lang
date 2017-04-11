@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 05:09+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2016-12-15 13:18+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,23 +12,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1481807926.000000\n"
 
-#. HTML Description
-#: firefox/channel/index.lang:7
-msgid ""
-"Download and test future releases of Firefox for desktop, Android and iOS."
-msgstr ""
-"Baixeu i proveu les futures versions del Firefox per a l'escriptori, Android "
-"i iOS."
-
 #. Main page heading. In case the text is too hard to translate, here's an alternative text: "Take the future for a test run."
-#: firefox/channel/index.lang:12
+#: firefox/channel/index.lang:8
 msgid "Take a browse on the wild side."
 msgstr "Navegueu pel costat més salvatge del web."
 
-#: firefox/channel/index.lang:16
+#: firefox/channel/index.lang:12
 msgid ""
 "Be among the first to explore future releases of Firefox for desktop, "
 "Android and iOS."
@@ -37,33 +29,33 @@ msgstr ""
 "l'escriptori, Android i iOS."
 
 #. Used in the navigation menu
-#: firefox/channel/index.lang:21
+#: firefox/channel/index.lang:17
 msgid "Desktop"
 msgstr "Escriptori"
 
 #. Used in the navigation menu
-#: firefox/channel/index.lang:26
+#: firefox/channel/index.lang:22
 msgid "Android"
 msgstr "Android"
 
 #. Used in the navigation menu
-#: firefox/channel/index.lang:31
+#: firefox/channel/index.lang:27
 msgid "iOS"
 msgstr "iOS"
 
-#: firefox/channel/index.lang:35
+#: firefox/channel/index.lang:31
 msgid "See something that isn’t working? Let us know."
 msgstr "Veieu alguna cosa que no funciona? Feu-nos-ho saber."
 
-#: firefox/channel/index.lang:39
+#: firefox/channel/index.lang:35
 msgid "File a bug now"
 msgstr "Emplena un informe d'error"
 
-#: firefox/channel/index.lang:43
+#: firefox/channel/index.lang:39
 msgid "Tips for filing a bug"
 msgstr "Consells per emplenar un informe d'error"
 
-#: firefox/channel/index.lang:47
+#: firefox/channel/index.lang:43
 msgid ""
 "Take our latest experimental features for a spin and shape the future of "
 "Firefox."
@@ -71,11 +63,36 @@ msgstr ""
 "Proveu les característiques experimentals més noves i definiu el futur del "
 "Firefox."
 
-#: firefox/channel/index.lang:51
+#: firefox/channel/index.lang:47
 msgid "Learn more about Test Pilot"
 msgstr "Més informació sobre el Test Pilot"
 
-#: firefox/channel/index.lang:55
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title, on the Android page only.
+#: firefox/channel/index.lang:53
+msgid "Try New Features in a Pre-Release Android Browser | Firefox"
+msgstr ""
+
+#. String is obsolete. Do not remove.
+#. HTML page title
+#: firefox/channel/index.lang:59
+msgid ""
+"Download and test future releases of Firefox for desktop, Android and iOS."
+msgstr ""
+"Baixeu i proveu les futures versions del Firefox per a l'escriptori, Android "
+"i iOS."
+
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML Description, on the Android page only.
+#: firefox/channel/index.lang:65
+msgid ""
+"Experience cutting-edge features in a pre-release browser for Android: "
+"Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!"
+msgstr ""
+
+#. String is obsolete. Do not remove.
+#. HTML Description
+#: firefox/channel/index.lang:71
 msgid ""
 "Download and test the latest Firefox for Android features with Aurora, Beta "
 "and Nightly builds."
@@ -83,7 +100,7 @@ msgstr ""
 "Baixeu i proveu les funcions més noves del Firefox per a l'Android amb les "
 "versions Aurora, Beta i Nightly."
 
-#: firefox/channel/index.lang:59
+#: firefox/channel/index.lang:75
 msgid ""
 "Try the latest Android features, before they get released to the rest of the "
 "world."
@@ -91,25 +108,25 @@ msgstr ""
 "Proveu les característiques més noves per a l'Android, abans que es "
 "presentin a la resta del món."
 
-#: firefox/channel/index.lang:63
+#: firefox/channel/index.lang:79
 msgid "All Languages and Builds"
 msgstr "Totes les llengües i versions"
 
-#: firefox/channel/index.lang:67
+#: firefox/channel/index.lang:83
 msgid "Help determine what features will go into the next Firefox for Android."
 msgstr ""
 "Ajudeu a definir quines característiques s'inclouran al proper Firefox per a "
 "l'Android."
 
-#: firefox/channel/index.lang:71
+#: firefox/channel/index.lang:87
 msgid "Firefox Aurora automatically sends feedback to Mozilla."
 msgstr "El Firefox Aurora envia informació de forma automàtica a Mozilla."
 
-#: firefox/channel/index.lang:75
+#: firefox/channel/index.lang:91
 msgid "Firefox Beta automatically sends feedback to Mozilla."
 msgstr "El Firefox Beta envia informació de forma automàtica a Mozilla."
 
-#: firefox/channel/index.lang:79
+#: firefox/channel/index.lang:95
 msgid ""
 "<a rel=\"external\" href=\"%(feedback)s\">Give us feedback</a> to help us "
 "put the final tweaks on performance and functionality in a stable "
@@ -119,7 +136,23 @@ msgstr ""
 "ajudar-nos a fer els ajustos finals en rendiment i funcions en un entorn "
 "estable."
 
-#: firefox/channel/index.lang:83
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title, on the desktop page only.
+#: firefox/channel/index.lang:101
+msgid "Try New Browser Features in Pre-Release Versions | Firefox"
+msgstr ""
+
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description, on the desktop page only.
+#: firefox/channel/index.lang:107
+msgid ""
+"Experience cutting-edge browser features in pre-release versions: Firefox "
+"Developer Edition, Firefox Beta and Firefox Nightly. Download now!"
+msgstr ""
+
+#. String is obsolete. Do not remove.
+#. HTML page description
+#: firefox/channel/index.lang:113
 msgid ""
 "Download and test the latest Firefox for desktop features with Developer "
 "Edition, Beta and Nightly builds."
@@ -127,31 +160,31 @@ msgstr ""
 "Baixeu i proveu les funcions més noves del Firefox per a l'escriptori amb "
 "les versions Developer Edition, Beta i Nightly."
 
-#: firefox/channel/index.lang:87
+#: firefox/channel/index.lang:117
 msgid ""
 "Test about-to-be-released features in the most stable pre-release build."
 msgstr ""
 "Proveu les característiques que s'introduiran en la versió preliminar més "
 "estable."
 
-#: firefox/channel/index.lang:91
+#: firefox/channel/index.lang:121
 msgid "All Languages and Builds (incl. Win 64)"
 msgstr "Totes les llengües i versions (inclòs Win 64)"
 
-#: firefox/channel/index.lang:95
+#: firefox/channel/index.lang:125
 msgid ""
 "Build, test, scale and more with the only browser built just for developers."
 msgstr ""
 "Construïu, feu proves, escaleu i molt més amb l'únic navegador dissenyat "
 "exclusivament per als desenvolupadors."
 
-#: firefox/channel/index.lang:99
+#: firefox/channel/index.lang:129
 msgid "Firefox Developer Edition automatically sends feedback to Mozilla."
 msgstr ""
 "El Firefox Developer Edition envia informació de forma automàtica a Mozilla."
 
 #. # TAG: android_nightly_copy
-#: firefox/channel/index.lang:104
+#: firefox/channel/index.lang:134
 msgid ""
 "Check out new Android features in their earliest stages. Enjoy at your own "
 "risk."
@@ -159,22 +192,39 @@ msgstr ""
 "Descobriu les característiques més noves de l'Android en les etapes més "
 "inicials. Gaudiu-ne sota la vostra responsabilitat."
 
-#: firefox/channel/index.lang:108
+#: firefox/channel/index.lang:138
 msgid "Test brand new features daily (or… nightly). Enjoy at your own risk."
 msgstr ""
 "Proveu les característiques més noves diàriament (o... nocturna). Gaudiu-ne "
 "sota la vostra responsabilitat."
 
-#: firefox/channel/index.lang:112
+#: firefox/channel/index.lang:142
 msgid "Firefox Nightly automatically sends feedback to Mozilla."
 msgstr "El Firefox Nightly envia informació de forma automàtica a Mozilla."
 
-#: firefox/channel/index.lang:116
+#: firefox/channel/index.lang:146
 msgid "Nightly Blog"
 msgstr "Blog de la versió Nightly"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title, on the iOS page only.
+#: firefox/channel/index.lang:152
+msgid "Try New Features in a Pre-Release iOS Browser | Firefox"
+msgstr ""
+
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description, on the iOS page only.
 #. Don't translate TestFlight
-#: firefox/channel/index.lang:121
+#: firefox/channel/index.lang:159
+msgid ""
+"Experience cutting-edge features in a pre-release browser for iOS via "
+"Apple’s TestFlight program. Install now!"
+msgstr ""
+
+#. String is obsolete. Do not remove.
+#. HTML page description
+#. Don't translate TestFlight
+#: firefox/channel/index.lang:166
 msgid ""
 "Test beta versions of Firefox for iOS via Apple’s TestFlight program and "
 "help make our mobile browser for iPhone, iPad and iPod touch even better."
@@ -184,13 +234,13 @@ msgstr ""
 "iPad i iPod Touch."
 
 #. Don't translate TestFlight
-#: firefox/channel/index.lang:126
+#: firefox/channel/index.lang:171
 msgid "Test beta versions of Firefox for iOS via Apple’s TestFlight program."
 msgstr ""
 "Proveu les versions beta del Firefox per a l'iOS amb el programa TestFlight "
 "d'Apple."
 
-#: firefox/channel/index.lang:130
+#: firefox/channel/index.lang:175
 msgid "Sign up now"
 msgstr "Subscriviu-vos-hi ara"
 

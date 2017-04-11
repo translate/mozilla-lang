@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 05:09+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2016-06-08 18:42+0000\n"
 "Last-Translator: ravi kumbhkar <ravi.103151@gmail.com>\n"
 "Language-Team: none\n"
@@ -11,12 +11,19 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1465411352.000000\n"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title
+#: firefox/desktop/index.lang:10
+msgid "Free Web Browser for Mac, Windows, Linux | Firefox"
+msgstr ""
+
 #. # TAG: home_title_update
+#. String is obsolete. Do not remove.
 #. This is the <title> tag
-#: firefox/desktop/index.lang:9
+#: firefox/desktop/index.lang:17
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your "
 "privacy and an open Web"
@@ -25,39 +32,47 @@ msgstr ""
 "लिए प्रतिबद्ध"
 
 #. Previous title (DO NOT REMOVE)
-#: firefox/desktop/index.lang:14
+#: firefox/desktop/index.lang:22
 msgid ""
 "Firefox Web browser — Trusted, Flexible, Fast — There's never been a better "
 "time"
 msgstr "फ़ायरफ़ॉक्स वेब ब्राउज़र — विश्वसनीय, लचीला, तेज — इससे बेहतर समय कभी नहीं था"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description
+#: firefox/desktop/index.lang:28
+msgid ""
+"Millions of people around the world trust Firefox Web browsers on Mac, "
+"Windows and Linux computers. Fast. Private. Download now!"
+msgstr ""
+
 #. L10n: Line break below is for wide screen formatting only.
-#: firefox/desktop/index.lang:19
+#: firefox/desktop/index.lang:33
 msgid "There’s never been a <br class=\"wide-br\">better time for Firefox"
 msgstr "Firefox के लिए इससे बेहतर <br class=\"wide-br\">समय कभी नहीं था"
 
-#: firefox/desktop/index.lang:23
+#: firefox/desktop/index.lang:37
 msgid "Committed to you, your privacy and an open Web."
 msgstr "आपसे, आपकी गोपनीयता और एक खुले वेब के लिए प्रतिबद्ध."
 
 #. # TAG: firefox_updated
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
-#: firefox/desktop/index.lang:29
+#: firefox/desktop/index.lang:43
 msgid "Your Firefox is up to date."
 msgstr "आपका फ़ायरफ़ॉक्स का अद्यतन हो चुका है."
 
 #. # TAG: firefox_updated
 #. This string is displayed if the visitor is using an up-to-date version of Firefox
 #. Active link to https://support.mozilla.org/products/firefox
-#: firefox/desktop/index.lang:36
+#: firefox/desktop/index.lang:50
 msgid "Need help with anything?"
 msgstr "किसी भी चीज़ के साथ मदद की आवश्यकता है?"
 
-#: firefox/desktop/index.lang:40
+#: firefox/desktop/index.lang:54
 msgid "Made with a mission to put you first"
 msgstr "एक मिशन के साथ आपको प्रथम रखने के लिए बनाया"
 
-#: firefox/desktop/index.lang:44
+#: firefox/desktop/index.lang:58
 msgid ""
 "We’ve always designed Firefox to protect and respect your private "
 "information."
@@ -65,7 +80,7 @@ msgstr ""
 "हमने Firefox को हमेशा आपकी निजी जानकारी की रक्षा और सम्मान करने के लिए डिज़ाइन किया "
 "है."
 
-#: firefox/desktop/index.lang:48
+#: firefox/desktop/index.lang:62
 msgid ""
 "That’s why we’re proud to be voted the <a href=\"%(url1)s\" data-interaction="
 "\"outbound link\">Most Trusted Internet Company for Privacy.</a>"
@@ -73,23 +88,23 @@ msgstr ""
 "यही कारण है कि हमे <a href=\"%(url1)s\">गोपनीयता के लिए सबसे विश्वसनीय इंटरनेट "
 "कंपनी</a> चुने जाने पर गर्व है."
 
-#: firefox/desktop/index.lang:52
+#: firefox/desktop/index.lang:66
 msgid "Find out what makes Firefox the most trusted browser on the Web"
 msgstr "पता लगाएं कि क्या Firefox को वेब पर सबसे भरोसेमंद ब्राउज़र बनाता है"
 
-#: firefox/desktop/index.lang:56
+#: firefox/desktop/index.lang:70
 msgid "Works the way you do"
 msgstr "यह वैसे काम करता है जैसे आप काम करते हो"
 
-#: firefox/desktop/index.lang:60
+#: firefox/desktop/index.lang:74
 msgid "How you use the Web is unique."
 msgstr "जैसे आप वेब का उपयोग करते हैं वो अद्वितीय है."
 
-#: firefox/desktop/index.lang:64
+#: firefox/desktop/index.lang:78
 msgid "Firefox lets you change it to match."
 msgstr "Firefox आपको समान बनाने के लिए इसमे परिवर्तन की सुविधा देता है."
 
-#: firefox/desktop/index.lang:68
+#: firefox/desktop/index.lang:82
 msgid ""
 "Remove what you don’t use, keep what you do and put it just about anywhere "
 "you want."
@@ -97,18 +112,18 @@ msgstr ""
 "हटा दीजिये जिसका आप उपयोग नहीं करते है, सिर्फ उसे ही रखिये जिसका आप उपयोग करते है, "
 "कहीं भी आप जहाँ चाहते हैं."
 
-#: firefox/desktop/index.lang:72
+#: firefox/desktop/index.lang:86
 msgid ""
 "Find out what makes Firefox <br class=\"wide-br\">the most flexible browser "
 "there is"
 msgstr ""
 "पता लगाएं कि Firefox को<br class=\"wide-br\">क्या है जो सबसे लचीला ब्राउज़र बनाता है"
 
-#: firefox/desktop/index.lang:76
+#: firefox/desktop/index.lang:90
 msgid "Faster at what you do most"
 msgstr "आप सबसे ज्यादा जो करते हैं उसमें ज्यादा तेज"
 
-#: firefox/desktop/index.lang:80
+#: firefox/desktop/index.lang:94
 msgid ""
 "Firefox was named the ”speed king” in independent benchmark and performance "
 "tests against other browsers."
@@ -116,7 +131,7 @@ msgstr ""
 "Firefox अन्य ब्राउज़रों के खिलाफ स्वतंत्र बेंचमार्क और प्रदर्शन परीक्षण में ”speed king” "
 "नामित किया गया था."
 
-#: firefox/desktop/index.lang:84
+#: firefox/desktop/index.lang:98
 msgid ""
 "* Based on <a data-interaction=\"outbound link\" href=\"%(url1)s\">Tom’s "
 "Hardware Web Browser Grand Prix XVI</a> results."
@@ -124,11 +139,11 @@ msgstr ""
 "* पर आधारित <a data-interaction=\"outbound link\" href=\"%(url1)s\">टॉम की "
 "हार्डवेयर वेब ब्राउज़र ग्रां प्री XVI</a> के परिणाम."
 
-#: firefox/desktop/index.lang:88
+#: firefox/desktop/index.lang:102
 msgid "Save time and do just about anything quicker than before."
 msgstr "समय बचाए और कुछ भी पहले की तुलना में जल्दी करें. "
 
-#: firefox/desktop/index.lang:92
+#: firefox/desktop/index.lang:106
 msgid "Find out what makes this the fastest Firefox yet"
 msgstr " पता लगाए कि क्या इस Firefox को अभी तक का सबसे तेज बनाता है"
 

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 05:09+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2016-02-16 17:29+0000\n"
 "Last-Translator: Rimas Kudelis <rq@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,11 +13,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Translate Toolkit 2.0.0rc3\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1455643743.000000\n"
 
-#. Used in HTML as page title
-#: firefox/android/index.lang:8
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title
+#: firefox/android/index.lang:11
+msgid "Fast, Free Android Browser for Tablets and Phones | Firefox"
+msgstr ""
+
+#. String is obsolete.  Do not remove.
+#. HTML page title
+#: firefox/android/index.lang:17
 msgid ""
 "Firefox for Android — Mobile Web browser — More ways to customize and "
 "protect your privacy"
@@ -25,8 +32,17 @@ msgstr ""
 "„Firefox“ „Android“ įrenginiams – mobilioji naršyklė – daugiau būtų "
 "individualizuoti ir apsaugoti jūsų privatumą"
 
-#. Used in HTML as page description
-#: firefox/android/index.lang:13
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description
+#: firefox/android/index.lang:23
+msgid ""
+"Join the millions browsing better on tablets and phones. Firefox is fast and "
+"private. Install Firefox for Android now!"
+msgstr ""
+
+#. String is obsolete.  Do not remove.
+#. HTML page description
+#: firefox/android/index.lang:29
 msgid ""
 "Only Firefox for Android offers so many ways to make your mobile browsing "
 "experience truly your own"
@@ -35,42 +51,42 @@ msgstr ""
 "naršyklę sava ir suasmeninti saityno naršymą"
 
 #. alt text for image (hard-coded image needs to be fixed)
-#: firefox/android/index.lang:18
+#: firefox/android/index.lang:34
 msgid "Firefox for Android"
 msgstr "„Firefox“ „Android“ įrenginiams"
 
-#: firefox/android/index.lang:22
+#: firefox/android/index.lang:38
 msgid "We make it Firefox."
 msgstr "Mes kuriame „Firefox“ naršyklę."
 
-#: firefox/android/index.lang:26
+#: firefox/android/index.lang:42
 msgid "You make it your own."
 msgstr "Jūs ją paverčiate sava."
 
-#: firefox/android/index.lang:30
+#: firefox/android/index.lang:46
 msgid "The features you love."
 msgstr "Jūsų mėgstamos savybės."
 
-#: firefox/android/index.lang:34
+#: firefox/android/index.lang:50
 msgid "The privacy you trust."
 msgstr "Privatumas, kuriuo galite pasikliauti."
 
-#: firefox/android/index.lang:38
+#: firefox/android/index.lang:54
 msgid "Our most customizable Firefox for Android yet."
 msgstr ""
 "Plačiausios individualizavimo galimybės. Tai – „Firefox“ „Android“ "
 "įrenginiams."
 
-#: firefox/android/index.lang:42
+#: firefox/android/index.lang:58
 msgid "Download on Google Play"
 msgstr "Parsisiųskite iš „Google Play“"
 
-#: firefox/android/index.lang:46
+#: firefox/android/index.lang:62
 msgid "Uniquely yours"
 msgstr "Paruošta patikti"
 
 #. Line break below is for visual formatting only. Remove if it's not useful for your locale
-#: firefox/android/index.lang:51
+#: firefox/android/index.lang:67
 msgid ""
 "Only Firefox for Android offers this many ways to make<br> your mobile "
 "browsing experience truly your own."
@@ -78,11 +94,11 @@ msgstr ""
 "Tik „Firefox“ „Android“ įrenginiams suteikia tiek daug galimybių<br> "
 "individualizuoti saityno naršymą kelyje ir paversti naršyklę sava."
 
-#: firefox/android/index.lang:55
+#: firefox/android/index.lang:71
 msgid "Smarter sharing for all"
 msgstr "Sumanesnis dalijimasis"
 
-#: firefox/android/index.lang:59
+#: firefox/android/index.lang:75
 msgid ""
 "The most adaptive way to share anything, Quick Share remembers your most "
 "recently used apps to help you get the word out just the way you want."
@@ -90,15 +106,15 @@ msgstr ""
 "Mūsų naršyklė įsimena paskiausiai dalijimuisi nuorodomis jūsų naudotas "
 "programas, taip paspartindama ir supaprastindama patį dalijimosi procesą."
 
-#: firefox/android/index.lang:63
+#: firefox/android/index.lang:79
 msgid "See how it works"
 msgstr "Pažiūrėkite, kaip tai veikia"
 
-#: firefox/android/index.lang:67
+#: firefox/android/index.lang:83
 msgid "All your faves, front and center"
 msgstr "Patogiai grupuojamos mėgstamiausios svetainės"
 
-#: firefox/android/index.lang:71
+#: firefox/android/index.lang:87
 msgid ""
 "Customize your Home panels with any Web content you want and access your "
 "favorite feeds &mdash; like Instagram and Pocket Hits &mdash; instantly."
@@ -107,11 +123,11 @@ msgstr ""
 "galėsite nedelsiant matyti savo mėgstamiausius sklaidos kanalus, kaip antai "
 "„Instagram“ ar „Pocket Hits“."
 
-#: firefox/android/index.lang:75
+#: firefox/android/index.lang:91
 msgid "A touch more personal"
 msgstr "Suasmenintas prisilietimas"
 
-#: firefox/android/index.lang:79
+#: firefox/android/index.lang:95
 msgid ""
 "Display your Home panels in any order you like or add, hide and delete them "
 "as you see fit to keep your favorites one touch away."
@@ -121,19 +137,19 @@ msgstr ""
 "širdis geidžia. Laikykite savo mėgstamiausias svetaines pasiekiamas vienu "
 "ekrano bakstelėjimu."
 
-#: firefox/android/index.lang:83
+#: firefox/android/index.lang:99
 msgid "Learn more"
 msgstr "Išsamiau"
 
-#: firefox/android/index.lang:87
+#: firefox/android/index.lang:103
 msgid "Any search you like"
 msgstr "Ieškokite kaip jums patogiau"
 
-#: firefox/android/index.lang:91
+#: firefox/android/index.lang:107
 msgid "Add any search engine and make it your default."
 msgstr "Pridėkite bet kokią norimą ieškyklę ir skirkite ją numatytąja."
 
-#: firefox/android/index.lang:95
+#: firefox/android/index.lang:111
 msgid ""
 "Or change it any time to the one that best matches your search and privacy "
 "needs."
@@ -141,17 +157,17 @@ msgstr ""
 "Bet kuriuo metu ją galite pakeisti kita – labiau tenkinančia grąžinamais "
 "rezultatais ar privatumu."
 
-#: firefox/android/index.lang:99
+#: firefox/android/index.lang:115
 msgid "Change your language"
 msgstr "Rinkitės naudojamą kalbą"
 
 #. # TAG: android_spring_updates
-#: firefox/android/index.lang:104
+#: firefox/android/index.lang:120
 msgid "Read and save articles easily"
 msgstr "Patogiai skaitykite ir saugokite straipsnius"
 
 #. # TAG: android_spring_updates
-#: firefox/android/index.lang:109
+#: firefox/android/index.lang:125
 msgid ""
 "Enjoy a more pleasant reading experience with Reader View and Reading List."
 msgstr ""
@@ -159,23 +175,23 @@ msgstr ""
 "sąrašą."
 
 #. # TAG: android_spring_updates
-#: firefox/android/index.lang:114
+#: firefox/android/index.lang:130
 msgid "Access your saved articles even when you’re not online."
 msgstr "Pasiekite įsimintus straipsnius net neturėdami ryšio su internetu."
 
 #. # TAG: android_reader_links
 #. Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
-#: firefox/android/index.lang:120
+#: firefox/android/index.lang:136
 msgid "Learn more about Reading List"
 msgstr "Susipažinkite su skaitinių sąrašu"
 
 #. # TAG: android_reader_links
 #. Link points to https://support.mozilla.org/kb/view-articles-reader-view-firefox-android
-#: firefox/android/index.lang:126
+#: firefox/android/index.lang:142
 msgid "Learn more about Reader View"
 msgstr "Sužinokite daugiau apie skaitymo rodinį"
 
-#: firefox/android/index.lang:130
+#: firefox/android/index.lang:146
 msgid ""
 "Change your browser language quickly and easily, without having to change "
 "the settings for your entire device or even restart your browser."
@@ -184,11 +200,11 @@ msgstr ""
 "pakeisti. Tam nereikės nei keisti įrenginio nuostatų, nei perleisti "
 "naršyklės."
 
-#: firefox/android/index.lang:134
+#: firefox/android/index.lang:150
 msgid "Take it to the big screen"
 msgstr "Žiūrėkite vaizdą dideliame ekrane"
 
-#: firefox/android/index.lang:138
+#: firefox/android/index.lang:154
 msgid ""
 "Send video and Web content from your smartphone or tablet to any TV equipped "
 "with supported streaming capabilities."
@@ -197,25 +213,25 @@ msgstr ""
 "ar planšetės į bet kurį atitinkamomis transliacijos priėmimo galimybėmis "
 "pasižymintį televizorių."
 
-#: firefox/android/index.lang:142
+#: firefox/android/index.lang:158
 msgid "Keep your private info private"
 msgstr "Išlaikykite savo privačius duomenis paslaptyje"
 
-#: firefox/android/index.lang:146
+#: firefox/android/index.lang:162
 msgid "We believe your personal information belongs to you."
 msgstr "Mes esame įsitikinę, kad jūsų privati informacija priklauso tik jums."
 
-#: firefox/android/index.lang:150
+#: firefox/android/index.lang:166
 msgid "Firefox for Android is filled with features to help keep it that way."
 msgstr "„Firefox“ „Android“ įrenginiams savybės įkūnija šį mūsų tikėjimą."
 
 #. # TAG: tracking_protection
-#: firefox/android/index.lang:155
+#: firefox/android/index.lang:171
 msgid "Private Browsing with<br> Tracking Protection"
 msgstr "Privatusis naršymas su<br> apsauga nuo stebėjimo"
 
 #. # TAG: tracking_protection
-#: firefox/android/index.lang:160
+#: firefox/android/index.lang:176
 msgid ""
 "Browse without having your history, searches or cookies saved, and block "
 "hidden third parties from following you across the Web."
@@ -224,33 +240,33 @@ msgstr ""
 "neleisdami nematomoms trečiosioms šalims sekti jūsų kelionę po saityną."
 
 #. # TAG: tracking_protection
-#: firefox/android/index.lang:165
+#: firefox/android/index.lang:181
 msgid "Learn more about Private Browsing"
 msgstr "Sužinokite daugiau apie privatųjį naršymą"
 
-#: firefox/android/index.lang:169
+#: firefox/android/index.lang:185
 msgid "Clear history"
 msgstr "Žurnalo valymas"
 
-#: firefox/android/index.lang:173
+#: firefox/android/index.lang:189
 msgid "Delete your browsing history, passwords and more in a single tap."
 msgstr ""
 "Išvalykite savo naršymo žurnalą, įsimintus slaptažodžius ir kitką vienu "
 "bakstelėjimu."
 
-#: firefox/android/index.lang:177
+#: firefox/android/index.lang:193
 msgid "Choose the private data you want to remove whenever you need to do so."
 msgstr "Norimus privačius duomenis galite pašalinti kada panorėję."
 
-#: firefox/android/index.lang:181
+#: firefox/android/index.lang:197
 msgid "Learn how to clear your history"
 msgstr "Sužinokite, kaip išvalyti žurnalą"
 
-#: firefox/android/index.lang:185
+#: firefox/android/index.lang:201
 msgid "Guest browsing"
 msgstr "Svečio naršymas"
 
-#: firefox/android/index.lang:189
+#: firefox/android/index.lang:205
 msgid ""
 "Share your browser with friends and family without worrying that you’ll see "
 "each other’s online activity."
@@ -259,25 +275,25 @@ msgstr ""
 "nesijaudinkite, kad pamatysite vieni kitų naršymo pėdsakus."
 
 #. # TAG: android_spring_updates
-#: firefox/android/index.lang:194
+#: firefox/android/index.lang:210
 msgid "Learn how to share your browser"
 msgstr "Sužinokite, kaip galima paskolinti naršyklę"
 
-#: firefox/android/index.lang:198
+#: firefox/android/index.lang:214
 msgid "See how Guest Browsing works"
 msgstr "Pamatykite, kaip veikia svečio naršymo seansas"
 
-#: firefox/android/index.lang:202
+#: firefox/android/index.lang:218
 msgid "Don’t leave home without being in Sync"
 msgstr "Į kelionę – tik su „Sync“"
 
-#: firefox/android/index.lang:206
+#: firefox/android/index.lang:222
 msgid "Bring your passwords, bookmarks, open tabs and more everywhere you go."
 msgstr ""
 "Kur bekeliautumėte, neškitės savo įrašytus slaptažodžius, adresyną, atvertas "
 "korteles ir kitką."
 
-#: firefox/android/index.lang:210
+#: firefox/android/index.lang:226
 msgid ""
 "Use Sync on your smartphone or tablet to access whatever you need from your "
 "desktop &mdash; and vice versa &mdash; without having to remember URLs."
@@ -286,29 +302,29 @@ msgstr ""
 "atvertų kortelių, įrašytų slaptažodžių ir kitko. Sinchronizacija veikia "
 "abiem kryptimis. Jums niekada neteks perrašinėti tinklalapių adresų."
 
-#: firefox/android/index.lang:214
+#: firefox/android/index.lang:230
 msgid "Learn more about Sync"
 msgstr "Sužinokite apie „Sync“ daugiau"
 
-#: firefox/android/index.lang:218
+#: firefox/android/index.lang:234
 msgid "Choose Firefox"
 msgstr "Rinkitės „Firefox“"
 
-#: firefox/android/index.lang:222
+#: firefox/android/index.lang:238
 msgid "Supported devices"
 msgstr "Palaikomi įrenginiai"
 
-#: firefox/android/index.lang:226
+#: firefox/android/index.lang:242
 msgid "Release notes"
 msgstr "Laidos apžvalga"
 
 #. Obsolete string, will be removed after the Firefox 42 campaign
-#: firefox/android/index.lang:231
+#: firefox/android/index.lang:247
 msgid "Do not track"
 msgstr "Nestebėti („Do Not Track“)"
 
 #. Obsolete string, will be removed after the Firefox 42 campaign
-#: firefox/android/index.lang:236
+#: firefox/android/index.lang:252
 msgid ""
 "Enable this Firefox innovation to help you stay in control of how your "
 "browsing information is collected and used online."
@@ -317,17 +333,17 @@ msgstr ""
 "leidžiate kaupti ir naudoti duomenis apie jūsų naršymo įpročius ir pomėgius."
 
 #. Obsolete string, will be removed after the Firefox 42 campaign
-#: firefox/android/index.lang:241
+#: firefox/android/index.lang:257
 msgid "Learn more about Do Not Track"
 msgstr "Sužinokite apie „Do Not Track“ antraštę daugiau"
 
 #. Obsolete string, do not remove
-#: firefox/android/index.lang:246
+#: firefox/android/index.lang:262
 msgid "Private Browsing"
 msgstr "Privatusis naršymas"
 
 #. Obsolete string, do not remove
-#: firefox/android/index.lang:251
+#: firefox/android/index.lang:267
 msgid ""
 "When activated, Firefox for Android won’t accept cookies, remember passwords "
 "or record any sites that you’ve visited."
@@ -336,12 +352,12 @@ msgstr ""
 "slapukų, nesiūlys įsiminti slaptažodžių ir nepildys naršymo žurnalo."
 
 #. Obsolete string, do not remove
-#: firefox/android/index.lang:256
+#: firefox/android/index.lang:272
 msgid "Learn how to open a private window"
 msgstr "Išmokite atverti privatųjį langą"
 
 #. # TAG: android_spring_updates
 #. Obsolete string, do not remove
-#: firefox/android/index.lang:262
+#: firefox/android/index.lang:278
 msgid "See how Private Browsing works"
 msgstr "Sužinokite, kaip veikia privatusis naršymas"
