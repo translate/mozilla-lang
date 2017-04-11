@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-13 21:10+0000\n"
-"PO-Revision-Date: 2017-04-11 07:03+0000\n"
+"PO-Revision-Date: 2017-04-11 07:59+0000\n"
 "Last-Translator: Nihad Suljic <nihad.suljic92@gmail.com>\n"
 "Language-Team: none\n"
 "Language: bs\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1491894216.000000\n"
+"X-POOTLE-MTIME: 1491897560.000000\n"
 
 #. Used as both main title and HTML meta tag (title)
 #: mozorg/internet-health/privacy-security.lang:8
@@ -315,29 +315,29 @@ msgid ""
 "\">encryption</a>, and advocating for its <a href=\"%(letsencrypt)s\" rel="
 "\"external\">universal adoption</a>."
 msgstr ""
-"Obrazuje o vrijednosti <a href=\"%(codemoji)s\" rel=\"external\">enkripcije</"
-"a>, i zalaže se sa svoje <a href=\"%(letsencrypt)s\" rel=\"external"
+"Podučava o vrijednosti <a href=\"%(codemoji)s\" rel=\"external\">enkripcije</"
+"a>, i zalaže se sa njeno <a href=\"%(letsencrypt)s\" rel=\"external"
 "\">univerzalno usvajanje</a>."
 
 #: mozorg/internet-health/privacy-security.lang:203
-#, fuzzy
 msgid ""
 "Educating the industry about <a href=\"%(leandata)s\">lean data practices</"
 "a>."
 msgstr ""
-"Poticanje i edukacija industrije o <a href=\"%(leandata)s\">lean data "
-"praksama</a>."
+"Informisanje industrije o <a href=\"%(leandata)s\">lean data praksama</a>."
 
 #: mozorg/internet-health/privacy-security.lang:207
 msgid ""
 "Government Surveillance: Keeping prying eyes and ears out of your business"
-msgstr ""
+msgstr "Nadzor vlade: Drži znatiželjne oči i uši izvan vašeg poslovanja"
 
 #: mozorg/internet-health/privacy-security.lang:211
 msgid ""
 "We should all have the freedom to be ourselves — online and off – without "
 "surveillance, judgment and imposed societal bias."
 msgstr ""
+"Svi bismo trebali imati slobodu da budemo ono što jesmo — bilo na internetu "
+"ili ne – bez nadzora, presuda i nametnutih društvenih predrasuda."
 
 #: mozorg/internet-health/privacy-security.lang:215
 msgid ""
@@ -346,12 +346,17 @@ msgid ""
 "Snowden disclosures showed that even democracies can and do take liberties "
 "with your privacy."
 msgstr ""
+"Ne biste željeli da vlada prati svaki vaš korak u stvarnom životu – nema "
+"razloga da vas prate ni na internetu. Objave Edvarda Snovdena su pokazale da "
+"čak i demokratija može i oduzima vašu slobodu."
 
 #: mozorg/internet-health/privacy-security.lang:219
 msgid ""
 "Just four in 10 (38%) of internet users trust that their activities on the "
 "internet are not being monitored."
 msgstr ""
+"Samo četiri od 10 (38%) internet korisnika vjeruje da njihove aktivnosti na "
+"internetu nisu praćene."
 
 #. Centre for International Governance Innovation is an organization.
 #: mozorg/internet-health/privacy-security.lang:224
@@ -369,18 +374,20 @@ msgstr "38%"
 
 #: mozorg/internet-health/privacy-security.lang:233
 msgid "What you can do about government surveillance"
-msgstr ""
+msgstr "Šta vi možete uraditi u vezi nadzora vlade"
 
 #. # TAG: internet_health_subpage_rebrand
 #: mozorg/internet-health/privacy-security.lang:238
 msgid "Encrypt your data"
-msgstr ""
+msgstr "Enkriptujte vaše podatke"
 
 #: mozorg/internet-health/privacy-security.lang:242
 msgid ""
 "Choose apps that keep your conversations encrypted. <a href="
 "\"%(encryptedapps)s\" rel=\"external\">Here’s a list</a>."
 msgstr ""
+"Izaberite aplikacije koje čuvaju vaše razgovore enkriptovanim. <a href="
+"\"%(encryptedapps)s\" rel=\"external\">Evo liste</a>."
 
 #: mozorg/internet-health/privacy-security.lang:246
 #, fuzzy
@@ -397,23 +404,25 @@ msgstr ""
 
 #: mozorg/internet-health/privacy-security.lang:250
 msgid "What Mozilla is doing about government surveillance"
-msgstr ""
+msgstr "Šta Mozilla radi u vezi nadzora vlade"
 
 #. # TAG: internet_health_subpage_rebrand
 #: mozorg/internet-health/privacy-security.lang:255
 msgid "Advocating for reform"
-msgstr ""
+msgstr "Zalaže se za reforme"
 
 #: mozorg/internet-health/privacy-security.lang:259
 msgid ""
 "Recommending <a href=\"%(reform)s\" rel=\"external\">reform at the policy "
 "level</a> to improve government disclosure of security vulnerabilities."
 msgstr ""
+"Preporučuje <a href=\"%(reform)s\" rel=\"external\">reformu na razini "
+"politika</a> da poboljša vladino otkrivanje sigurnosnih propusta."
 
 #. # TAG: internet_health_subpage_rebrand
 #: mozorg/internet-health/privacy-security.lang:264
 msgid "Calling on lawmakers"
-msgstr ""
+msgstr "Poziva se na zakonodavce"
 
 #. 'USA Freedom Act': Feel free to replace it with a local or regional equivalent proposal.
 #: mozorg/internet-health/privacy-security.lang:269
@@ -422,17 +431,22 @@ msgid ""
 "href=\"%(usafreedom)s\" rel=\"external\">helping to pass the USA Freedom "
 "Act</a>."
 msgstr ""
+"Poziva se na zakonodavce širom svijeta da se obuzda masovno nadziranje, i <a "
+"href=\"%(usafreedom)s\" rel=\"external\">pomaže da prođe zakon o slobodi SAD-"
+"a</a>."
 
 #. # TAG: internet_health_subpage_rebrand
 #: mozorg/internet-health/privacy-security.lang:274
 msgid "Partnering with educators"
-msgstr ""
+msgstr "Partnerstva s nastavnicima"
 
 #: mozorg/internet-health/privacy-security.lang:278
 msgid ""
 "Cohosting <a href=\"%(standford)s\" rel=\"external\">talks with Stanford’s "
 "Center for Internet and Society</a> about government hacking."
 msgstr ""
+"Suorganizator <a href=\"%(standford)s\" rel=\"external\">razgovara sa "
+"Stanford centrom za internet i društvo</a> o vladinom hakiranju."
 
 #: mozorg/internet-health/privacy-security.lang:282
 msgid "Hungry for more?"
@@ -443,6 +457,8 @@ msgid ""
 "Keep reading about Privacy and Security in our <a href=\"%(healthreport)s"
 "\">Internet Health Report</a>."
 msgstr ""
+"Nastavite čitati o privatnosti i sigurnosti u našem <a href="
+"\"%(healthreport)s\">izvještaju o internet zdravlju</a>"
 
 #: mozorg/internet-health/privacy-security.lang:290
 msgid "Stay informed."
