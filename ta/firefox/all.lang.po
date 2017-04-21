@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-22 07:09+0000\n"
-"PO-Revision-Date: 2017-04-14 07:19+0000\n"
+"PO-Revision-Date: 2017-04-19 02:03+0000\n"
 "Last-Translator: அருண் குமார் (Arun Kumar) <thangam.arunx@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ta\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1492154385.000000\n"
+"X-POOTLE-MTIME: 1492567419.000000\n"
 
 #. %s is replaced with Firefox.
 #: firefox/all.lang:6
@@ -65,6 +65,9 @@ msgid ""
 "Nightly and help us improve Firefox quality, hunt crashes and regressions "
 "and test new features as they get coded!"
 msgstr ""
+"நீங்கள் அனுபவமிக்க பயனரா மாதிரி ஆல்ஃபா பதிப்பை நிறுவா இயலுமா? இராக் கால பயர்பாக்ஸை "
+"நிறுவி அதன் தரம், நிலைக்குழைவு தொடர் சோதனை புதிய வசதிகள் ஆகியனவற்றை தெறியப்படுத்தி "
+"உதவுங்கள்!"
 
 #. This is displayed on firefox/organizations/all/.
 #: firefox/all.lang:40
@@ -72,6 +75,8 @@ msgid ""
 "Firefox ESR is intended for groups who deploy and maintain the desktop "
 "environment in large organizations. <a href=\"%s\">Learn more.</a>"
 msgstr ""
+"பயர்பாக்ஸ் ESR வெளியீடானது மிகப்பெரிய நிறுவனங்களில் நிறவிப் பயன்படுத்தும் குழுவுக்காக "
+"உருவாக்கப்பட்டது. <a href=\"%s\">மேலும் அறிய</a>"
 
 #: firefox/all.lang:44
 msgid ""
@@ -79,6 +84,9 @@ msgid ""
 "offer it in 90 languages (and why there’s heart and soul in every piece of "
 "code)."
 msgstr ""
+"உலகளவில் பல்லாயிரம் தொண்டூளியர்களாக பங்களித்து உருவானதே பயர்பாக்ஸ். எனவே தான் இது உலகின் "
+"பெரும்பாலான 90 மொழிகளில் வழங்கப்படுகிறது (மேலும் ஒவ்வொரு வரியிலும் உணர்வும் உயிரும் "
+"கலந்திருக்கிறது)."
 
 #. Product name is hard coded inside the product, thus not localizable.
 #: firefox/all.lang:49
@@ -106,6 +114,8 @@ msgid ""
 "<strong>Warning</strong>: Nightly is updated daily. It is most appropriate "
 "for core Mozilla contributors and early adopters, not regular users."
 msgstr ""
+"<strong>எச்சரிகை</strong>: இராக் கால பயர்பாக்ஸ் தினமும் புதுப்பிக்கப்படும். அன்றாட "
+"பயனர்களைத் தவிர்த்து உருவாக்குநர்கள் பங்களிப்பாளர்களுக்கு பொருத்தமானதாக இருக்கும்."
 
 #: firefox/all.lang:69
 msgid "Check the system requirements"
@@ -137,6 +147,8 @@ msgid ""
 "These localizations aren’t final. We’re waiting for more feedback from the "
 "community to perfect them."
 msgstr ""
+"மொழிப்பெயர்ப்பு இன்னமும் முடியவில்லை. நாங்கள் பல்வேறு குமுக பின்னூட்டங்களைப் பெற்று "
+"செம்மைபடுத்த காத்திருக்கிறோம்."
 
 #. Used in Android pages like /firefox/android/beta/all/
 #: firefox/all.lang:99
@@ -157,7 +169,7 @@ msgstr "பொருத்தமான மொழிகள் காணப்ப�
 
 #: firefox/all.lang:115
 msgid "Download for %(platform)s in %(locale)s"
-msgstr ""
+msgstr "%(platform)s தளத்திற்கு %(locale)s மொழிக்கு உரியதை பதிவிறக்குக"
 
 #: firefox/all.lang:119
 msgid "Not Yet Available"
