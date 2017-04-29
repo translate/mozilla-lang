@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-28 18:10+0000\n"
-"PO-Revision-Date: 2017-04-20 23:25+0000\n"
+"PO-Revision-Date: 2017-04-29 10:22+0000\n"
 "Last-Translator: Juan Pablo Martínez <juanpabl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: an\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 2.1.0\n"
-"X-POOTLE-MTIME: 1492730744.000000\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493461354.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -22,7 +22,7 @@ msgstr "Navegación"
 #. Used for the navigation menu, points to /firefox/channel
 #: main.lang:6
 msgid "Pre-release downloads"
-msgstr ""
+msgstr "Descargas de versions preliminars"
 
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
 #: main.lang:11
@@ -32,7 +32,7 @@ msgstr "Quanto a"
 #. Used in the new Firefox family navigation menu. Second-level item of "OS"
 #: main.lang:16
 msgid "Apps"
-msgstr ""
+msgstr "Aplicacions"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:21
@@ -43,34 +43,32 @@ msgstr "\"No me sigas\""
 #. Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 #: main.lang:27
 msgid "Interest Dashboard"
-msgstr ""
+msgstr "Taula d'intereses"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:32
 msgid "Developer Edition"
-msgstr ""
+msgstr "Edición de desenvolvedor"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:37
-#, fuzzy
 msgid "Private Browsing"
 msgstr "Navegación privada"
 
 #. Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 #: main.lang:42
-#, fuzzy
 msgid "Need help?"
 msgstr "Te cal aduya?"
 
 #. Firefox family navigation menu. Item displayed pressing the "…" button.
 #: main.lang:47
 msgid "News"
-msgstr ""
+msgstr "Noticias"
 
 #. Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 #: main.lang:52
 msgid "Choose the independent browser"
-msgstr ""
+msgstr "Triga lo navegador independient"
 
 #. Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 #: main.lang:57
@@ -78,6 +76,8 @@ msgid ""
 "Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox "
 "isn’t just choosing a browser. It’s a vote for personal freedom."
 msgstr ""
+"Firefox ye gratuito, sin afán de lucro y sin compromís. Trigar lo Firefox no "
+"ye nomás trigar un navegador. Ye un voto por la libertat individual."
 
 #: main.lang:61
 msgid "Donate"
@@ -142,7 +142,7 @@ msgstr "Atras luengas:"
 #. Will replace "Other languages" for the footer's language switcher
 #: main.lang:122
 msgid "Page language:"
-msgstr ""
+msgstr "Luenga d'a pachina:"
 
 #. Year / Month / Day, indicate your prefered date format for your language
 #: main.lang:127
@@ -270,11 +270,11 @@ msgstr "Mira-te o video"
 
 #: main.lang:244
 msgid "Replay the video"
-msgstr ""
+msgstr "Tornar a reproducir lo video"
 
 #: main.lang:248
 msgid "Share the video"
-msgstr ""
+msgstr "Compartir lo video"
 
 #: main.lang:252
 msgid "WebM format"
@@ -334,7 +334,6 @@ msgstr ""
 
 #. Footer string (will replace "Contribute to this page")
 #: main.lang:303
-#, fuzzy
 msgid "Contribute to this site"
 msgstr "Colaborar en ista pachina"
 
@@ -356,7 +355,7 @@ msgstr "Gambadeta"
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:323
 msgid "Sync"
-msgstr ""
+msgstr "Sync"
 
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:328
@@ -366,7 +365,7 @@ msgstr "Complementos ta Escritorio"
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:333
 msgid "Android Add-ons"
-msgstr ""
+msgstr "Connectors de l'Android"
 
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:338
@@ -381,7 +380,7 @@ msgstr "Suporte ta escritorio"
 #. Top menu item on pages like firefox/desktop/tips/
 #: main.lang:348
 msgid "Android Support"
-msgstr ""
+msgstr "Soporte pa l'Android"
 
 #: main.lang:352
 msgid "Releases"
@@ -429,12 +428,12 @@ msgstr "Forums"
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:396
 msgid "Patents"
-msgstr ""
+msgstr "Patents"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:401
 msgid "Leadership"
-msgstr ""
+msgstr "Liderache"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
 #: main.lang:406
@@ -474,7 +473,7 @@ msgstr "Comprometiu con tu, con a tuya privacidat y con una Web ubierta"
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 #: main.lang:441
 msgid "Please turn on JavaScript to display this page correctly."
-msgstr ""
+msgstr "Activa JavaScript pa que s'amuestre correctament ista pachina."
 
 #. Used as link to /firefox/desktop in footers on some pages
 #: main.lang:446
@@ -584,7 +583,7 @@ msgstr "<abbr>avi</abbr>"
 
 #: main.lang:551
 msgid "Congrats. You’re up to date!"
-msgstr ""
+msgstr "Felicidatz, ya yes esviellau!"
 
 #. Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
 #: main.lang:556
@@ -593,14 +592,13 @@ msgstr "Formato"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 #: main.lang:561
-#, fuzzy
 msgid "Text"
-msgstr "Siguient"
+msgstr "Texto"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 #: main.lang:566
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #. This is the error message displayed if you provide an invalid email address in a form
 #: main.lang:571
@@ -608,18 +606,17 @@ msgid "Whoops! Be sure to enter a valid email address."
 msgstr "Ui! Para cuenta d'escribir una adreza de correu electronico valida."
 
 #: main.lang:575
-#, fuzzy
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Notice</a>"
 msgstr ""
-"Soi d'acuerdo con que Mozilla maneye a mía información como s'explica en <a "
+"Soi d'acuerdo con que Mozilla maneye la mía información como s'explica en <a "
 "href=\"%s\">Politica de Privacidat</a>"
 
 #. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 #: main.lang:580
 msgid "Keep up with<br> all things Firefox."
-msgstr ""
+msgstr "Mantiene esviellau<br> lo Firefox."
 
 #. This string is used for a subscription field on other pages than /newsletter/
 #: main.lang:585
@@ -634,7 +631,7 @@ msgstr "O TUYO CORREU AQUÍ"
 #. Newsletter subscription Button
 #: main.lang:595
 msgid "Sign Up Now"
-msgstr ""
+msgstr "Conduce-te agora"
 
 #. Old newsletter subscription Button
 #: main.lang:600
@@ -655,7 +652,7 @@ msgstr "Nomás le ninviaremos información tocant a Mozilla."
 
 #: main.lang:616
 msgid "Thanks!"
-msgstr ""
+msgstr "Mersi!"
 
 #: main.lang:620
 msgid ""
@@ -663,6 +660,9 @@ msgid ""
 "newsletter you may have to do so. Please check your inbox or your spam "
 "filter for an email from us."
 msgstr ""
+"Si denantes no has confirmau la conducción a bell boletín de noticias de "
+"Moilla, ye posible que l'heses de fer. Compreba la servilla de dentrada u lo "
+"filtro de correu vasuera pa veyer si i hai bell mensache de Mozilla."
 
 #: main.lang:624
 msgid "Read all about it in our <span>newsletter</span>"
@@ -680,33 +680,33 @@ msgstr ""
 
 #: main.lang:632
 msgid "<span>Firefox</span> + You"
-msgstr ""
+msgstr "<span>Firefox</span> y tu"
 
 #: main.lang:636
 msgid "Get Firefox tips, tricks, news and more"
-msgstr ""
+msgstr "Obtiene consellos, trucos, noticias y mas"
 
 #. This string will be used as a navigation label in home page, pointing to /technology
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 #: main.lang:642
 msgid "Web Innovations"
-msgstr ""
+msgstr "Innovacions Web"
 
 #. This string will be used as a navigation label in home page, pointing to /internet-health
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 #: main.lang:648
 msgid "Internet Health"
-msgstr ""
+msgstr "La salut d'internet"
 
 #. Used as title in What's new page for 50
 #: main.lang:653
 msgid "Thanks for choosing Firefox!"
-msgstr ""
+msgstr "Gracias por trigar Firefox!"
 
 #. Used in combination with other strings to create HTML page titles, e.g. in What's new pages
 #: main.lang:658
 msgid "Mozilla Firefox Web Browser"
-msgstr ""
+msgstr "Navegador Web Mozilla Firefox"
 
 #~ msgid "Supported Devices"
 #~ msgstr "Dispositivos compatibles"

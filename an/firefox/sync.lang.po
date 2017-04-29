@@ -4,21 +4,23 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-11 19:09+0000\n"
-"PO-Revision-Date: 2015-06-10 11:45+0000\n"
-"Last-Translator: system user <>\n"
+"PO-Revision-Date: 2017-04-29 10:15+0000\n"
+"Last-Translator: Juan Pablo Martínez <juanpabl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: an\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.1.0\n"
-"X-POOTLE-MTIME: 1433936707.000000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493460959.000000\n"
 
 #. # TAG: firefox_title_meta_bug1345338
 #. HTML page title
 #: firefox/sync.lang:12
 msgid "Use Bookmarks, Tabs and Passwords Across Devices | Firefox"
 msgstr ""
+"Usa Marcapachinas, Pestanyas y Claus en totz los tuyos dispositivos | Firefox"
 
 #. String is obsolete. Do not remove.
 #. HTML page title
@@ -33,6 +35,8 @@ msgid ""
 "Bring your Firefox bookmarks, tabs, or passwords wherever you go with "
 "Firefox Sync. Share between computers and mobile devices. Get Firefox now!"
 msgstr ""
+"Leva con tu los marcapachinas, pestanyas u claus con Firfox Sync. Comparte "
+"entre ordinadors y dispositivos mobils. Baixa-te agora lo Firefox!"
 
 #: firefox/sync.lang:28
 msgid "Ready, Set, Sync"
@@ -64,6 +68,8 @@ msgid ""
 "Sync your bookmarks, passwords, tabs and more using your Firefox Account, "
 "and access them everywhere you’re signed in."
 msgstr ""
+"Sincroniza los marcapachinas, claus, pestanyas y mas, usando la tuya Cuenta "
+"Firefox, y accede a ells do inicies una sesión."
 
 #: firefox/sync.lang:49
 msgid "It looks like you’re running an older version of Firefox."
@@ -77,7 +83,7 @@ msgstr ""
 #. # TAG: ios_announce
 #: firefox/sync.lang:58
 msgid "Soon you’ll be able to use Sync on your iOS device"
-msgstr ""
+msgstr "Luego podrás usar Sync en o tuyo dispositivo iOS"
 
 #: firefox/sync.lang:62
 msgid ""
@@ -90,16 +96,15 @@ msgstr ""
 #. # TAG: firefox_sync_mobile_buttons_update
 #: firefox/sync.lang:67
 msgid "Now sync Firefox with your iOS and Android devices."
-msgstr ""
+msgstr "Sincroniza agora lo Firefox con os tuyos dispositivos iOS y Android."
 
 #. # TAG: firefox_sync_non_fx
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 #: firefox/sync.lang:73
-#, fuzzy
 msgid "Sync is just one of the great features you’ll only get with Firefox."
 msgstr ""
-"Sync ye nomás una d'as muitas caracteristicas que nomás tendrás con o "
-"Firefox. Descubre-las todas!"
+"Lo Sync no ye que una d'as muitas caracteristicas que nomás tendrás con o "
+"Firefox."
 
 #: firefox/sync.lang:77
 msgid "Download Firefox for Android"
@@ -124,14 +129,14 @@ msgstr "Empecipia con Sync facilment en istos quatro pasos:"
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 #: firefox/sync.lang:99
-#, fuzzy
 msgid ""
 "Open the <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
 "href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of Firefox and "
 "select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
-"Ubre o <a class=\"menu ga-link\" href=\"%(url)s#w_a-handy-new-menu\">menú</"
-"a> d'alto a la dreita en Firefox y triga “<strong>Dentrar en Sync.</strong>”"
+"Ubre lo <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
+"href=\"%(url)s#w_a-handy-new-menu\">menú</a> d'alto a la dreita en Firefox y "
+"triga “<strong>Iniciar una sesión den Sync.</strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:104
@@ -243,26 +248,29 @@ msgid ""
 "Want to visit your computer’s open tabs from another device? Access your "
 "browsing history on the go? Keep your passwords with you? Now you can."
 msgstr ""
+"Quiers vesitar las pestanyas ubiertas en o tuyo ordinador dende atro "
+"dispositivo? Acceder a lo tuyo historial de navegación sobre la marcha? "
+"Levar con tu las tuyas claus? Agora puetz fer-lo."
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:180
 msgid "Here’s what you can sync:"
-msgstr ""
+msgstr "Ve-te-me lo que puetz sincronizar:"
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:185
 msgid "Bookmarks"
-msgstr ""
+msgstr "Marcapachinas"
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:190
 msgid "Passwords"
-msgstr ""
+msgstr "Claus"
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:195
 msgid "Open tabs"
-msgstr ""
+msgstr "Ubrir pestanyas"
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:200
@@ -312,7 +320,7 @@ msgstr ""
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:229
 msgid "Add Firefox to your smartphone or tablet"
-msgstr ""
+msgstr "Anyader Firefox a lo suyo telefono intelichent u tauleta"
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:234
@@ -320,11 +328,13 @@ msgid ""
 "To get the full Sync experience, get Firefox for iOS or Android and connect "
 "all your devices — everywhere and anywhere you use Firefox."
 msgstr ""
+"Pa sacar lo millor partiu de Sync, obtiene lo Firefox pa iOS u Android y "
+"connecta tot los tuyos dispositivos — en totz os cabos en que uses Firefox."
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:239
 msgid "Add Firefox"
-msgstr ""
+msgstr "Instalar lo Firefox"
 
 #: firefox/sync.lang:243
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
@@ -336,7 +346,7 @@ msgstr "BAIXA-TE OF FIREOX TA ANDROID"
 
 #: firefox/sync.lang:251
 msgid "Get Firefox everywhere"
-msgstr ""
+msgstr "Instalar lo Firefox por tot"
 
 #: firefox/sync.lang:255
 msgid ""
