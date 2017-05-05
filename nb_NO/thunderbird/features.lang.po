@@ -4,42 +4,44 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-02-06 20:09+0000\n"
-"PO-Revision-Date: 2015-08-22 00:26+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2017-05-05 11:54+0000\n"
+"Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: nb_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1493985288.000000\n"
 
 #: thunderbird/features.lang:6
 msgid "Thunderbird Features"
-msgstr ""
+msgstr "Thunderbird-funksjoner"
 
 #: thunderbird/features.lang:10
 msgid "It’s all yours. It’s now easier to upgrade to Thunderbird."
-msgstr ""
+msgstr "Den tilhører deg. Det er nå enklere å oppgradere til Thunderbird."
 
 #: thunderbird/features.lang:14
 msgid "Easier to Get Started"
-msgstr ""
+msgstr "Enklere å komme i gang"
 
 #: thunderbird/features.lang:18
 msgid "Tabs and Search"
-msgstr ""
+msgstr "Faner og søk"
 
 #: thunderbird/features.lang:22
 msgid "Customize Your Email Experience"
-msgstr ""
+msgstr "Tilpass e-postopplevelsen din"
 
 #: thunderbird/features.lang:26
 msgid "Secure and Protect Your Email"
-msgstr ""
+msgstr "Sikre og beskytt din e-post"
 
 #: thunderbird/features.lang:30
 msgid "Mail Account Setup Wizard"
-msgstr ""
+msgstr "Oppsettsveiviser for e-postkonto"
 
 #: thunderbird/features.lang:34
 msgid ""
@@ -48,10 +50,14 @@ msgid ""
 "the email account set up wizardry will check our database and find the email "
 "settings for you."
 msgstr ""
+"Før denne funksjonen kom i havn måtte du kunne innstillingene for IMAP, "
+"SMTP, og SSL/TLS. Nå trenger du bare å oppgi navnet ditt, e-postadressen, "
+"samt passordet, og e-postveiviseren vil finne disse detaljene i databasen "
+"sin for deg."
 
 #: thunderbird/features.lang:38
 msgid "One-click Address Book"
-msgstr ""
+msgstr "Ett-klikks adressebok"
 
 #: thunderbird/features.lang:42
 msgid ""
@@ -60,6 +66,10 @@ msgid ""
 "receive. Two clicks and you can add more details like a photo, birthday, and "
 "other contact information."
 msgstr ""
+"Ett-klikks adressebok er en rask og enkel måte å legge til folk i "
+"adresselisten. Legg dem til ved å klikke på stjerneikonet i meldingen du "
+"mottar. Med to klikk kan du legge til flere detaljer, som bilde, bursdag, og "
+"annen kontaktinformasjon."
 
 #: thunderbird/features.lang:46
 msgid "Attachment Reminder"
@@ -71,6 +81,9 @@ msgid ""
 "file types) in the body of your message and reminds you to add an attachment "
 "before hitting send."
 msgstr ""
+"Vedleggspåminneren ser etter ordet «vedlegg» (og andre ord som filtyper) i "
+"brødteksten av meldingen din, og påminner deg om å legge til et vedlegg før "
+"du trykker send."
 
 #: thunderbird/features.lang:54
 msgid "Tabs"
@@ -84,6 +97,11 @@ msgid ""
 "to an earlier email. Tabbed email lets you keep multiple emails open for "
 "easy reference."
 msgstr ""
+"Hvis du liker Firefox sin fanebaserte surfing, kommer du til å sette pris på "
+"fanebasert e-post. Det lar deg laste inn e-poster i egne faner slik at du "
+"kan hoppe mellom dem. Kanskje du svarer på en e-post og trenger å sjekke noe "
+"i en tidligere e-post. Fanebasert e-post lar deg holde flerfoldige e-poster "
+"åpne for enkel tilgang."
 
 #: thunderbird/features.lang:62
 msgid ""
@@ -91,6 +109,9 @@ msgid ""
 "message in a new tab window. Right-clicking on messages or folders will open "
 "them in a tab in the background."
 msgstr ""
+"Dobbeltklikking eller å trykke på enter i en e-postmelding vil nå åpne "
+"meldingen i ett nytt fanevindu. Høyreklikking på meldinger eller mapper "
+"åpner dem i en fane i bakgrunnen."
 
 #: thunderbird/features.lang:66
 msgid ""
@@ -98,10 +119,13 @@ msgid ""
 "when you open Thunderbird the next time. There is also a Tab menu on the Tab "
 "toolbar to help you switch between Tabs."
 msgstr ""
+"Når du avslutter Thunderbird, vil synlige faner bli lagret og så "
+"gjenopprettet når du åpner Thunderbird neste gang. Det er også en fanemeny "
+"på verktøylinjen for å hjelpe deg med å bytte mellom faner."
 
 #: thunderbird/features.lang:70
 msgid "Quick Filter Toolbar"
-msgstr ""
+msgstr "Verktøylinje for hurtigfiltrering"
 
 #: thunderbird/features.lang:74
 msgid ""
@@ -111,6 +135,11 @@ msgid ""
 "your Address Book. You can also \"Pin\" or save a Filter and use it across "
 "multiple folders."
 msgstr ""
+"Verktøylinjen for hurtigfiltrering lar deg filtrere e-post raskere. Begynn "
+"med å skrive ord i søkeboksen for hurtigfiltrering, og resultatene vises "
+"øyeblikkelig. Eller du kan filtrere e-posten din etter nye meldinger, faner, "
+"eller folk i din kontaktliste. Du kan også \"feste\" eller lagre et filter, "
+"og bruke det på flere mapper."
 
 #: thunderbird/features.lang:78
 msgid "Search"
@@ -124,10 +153,15 @@ msgid ""
 "displayed in a tab so you can easily switch back and forth to your search "
 "results and other email."
 msgstr ""
+"Grensesnittet for søk i Thunderbird inneholder filtrering- og tidslinje-"
+"verktøy for å finne akkurat den e-posten du leter etter. Thunderbird "
+"indekserer også all e-posten din for å hjelpe deg å søke enda raskere. Dine "
+"søkeresultater viser i en fane slik at du kan bytte frem og tilbake mellom "
+"søkeresultater og annen e-post."
 
 #: thunderbird/features.lang:86
 msgid "Message Archive"
-msgstr ""
+msgstr "Meldingsarkiv"
 
 #: thunderbird/features.lang:90
 msgid ""
