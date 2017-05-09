@@ -71,13 +71,6 @@ function handle_new_and_empty_dirs() {
 
 }
 
-log_info "Updating first level of '$TARGET_DIR'"
-if [ ! -d $TARGET_DIR/.svn ]; then
-	svn co $svnverbosity --depth=files $MOZREPONAME/projects/mozilla.com/trunk/locales/ $TARGET_DIR
-else
-	svn up $svnverbosity --depth=files $TARGET_DIR
-fi
-
 for lang in $langs
 do
 	log_info "Processing language '$lang'"
