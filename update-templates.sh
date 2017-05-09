@@ -17,7 +17,7 @@ if [ $? -ne 0 -o "$1" == "--force" ]; then
 		git add $lang
 		git commit -m "[$lang] pre templates update"
 		ttk-build $lang
-		git add $lang
+		git add -A $lang
 		git commit -m "[$lang] update against templates"
 		ttk-put --yes $lang
 	done
