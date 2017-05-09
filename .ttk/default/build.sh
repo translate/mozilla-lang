@@ -97,7 +97,7 @@ do
 		tempdir=`mktemp -d tmp.XXXXXXXXXX`
 		if [ -d ${PO_DIR}/${polang} ]; then
 			cp -R ${PO_DIR}/${polang} ${tempdir}/${polang}
-			(cd ${PO_DIR}/${polang}; rm $(find . -type f -name "*.po"))
+			rm -rf ${PO_DIR}/${polang}/*
 		fi
 		pomigrate2 --use-compendium --pot2po $pomigrate2verbosity ${tempdir}/${polang} ${PO_DIR}/${polang} ${POT_DIR}
 		# FIXME we should revert stuff that wasn't part of this migration e.g. mobile
