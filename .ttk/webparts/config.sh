@@ -19,4 +19,4 @@ LANGS=$*
 MOZREPONAME="svn+ssh://dwayne%40translate.org.za@svn.mozilla.org"
 svnverbosity=""
 
-alt_src="fr ru es es_MX"
+alt_src="bn_IN es es_MX fr ru"
