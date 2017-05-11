@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-13 21:10+0000\n"
+"POT-Creation-Date: 2017-05-11 17:36+0000\n"
 "PO-Revision-Date: 2017-04-11 10:05+0000\n"
 "Last-Translator: Nihad Suljic <nihad.suljic92@gmail.com>\n"
 "Language-Team: none\n"
@@ -13,16 +13,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1491905154.000000\n"
 
 #. Used as both main title and HTML meta tag (title)
-#: mozorg/internet-health/privacy-security.lang:8
+#: mozorg/internet-health/privacy-security.lang:9
 msgid "A Healthy Internet is Secure and Private"
 msgstr "Zdrav internet je siguran i privatan"
 
 #. HTML meta tag (description)
-#: mozorg/internet-health/privacy-security.lang:13
+#: mozorg/internet-health/privacy-security.lang:14
 msgid ""
 "The Internet only stays healthy if we trust it as a safe place – to explore, "
 "transact, connect, and create."
@@ -31,21 +31,31 @@ msgstr ""
 "istraživanje, sprovođenje, konektovanje, i kreiranje."
 
 #. # TAG: internet_health_digital_inclusion
-#: mozorg/internet-health/privacy-security.lang:18
+#: mozorg/internet-health/privacy-security.lang:19
 msgid "Privacy &amp; Security"
 msgstr "Privatnost &amp; Sigurnost"
 
 #. # TAG: internet_health_digital_inclusion
-#: mozorg/internet-health/privacy-security.lang:23
-msgid "Digital Inclusion"
-msgstr "Digitalna inkluzija"
-
-#. # TAG: internet_health_digital_inclusion
-#: mozorg/internet-health/privacy-security.lang:28
+#: mozorg/internet-health/privacy-security.lang:24
 msgid "Open Innovation"
 msgstr "Otvorene inovacije"
 
-#: mozorg/internet-health/privacy-security.lang:31
+#. # TAG: health-decentralization-and-literacy
+#: mozorg/internet-health/privacy-security.lang:29
+msgid "Decentralization"
+msgstr "Decentralizacija"
+
+#. # TAG: internet_health_digital_inclusion
+#: mozorg/internet-health/privacy-security.lang:34
+msgid "Digital Inclusion"
+msgstr "Digitalna inkluzija"
+
+#. # TAG: health-decentralization-and-literacy
+#: mozorg/internet-health/privacy-security.lang:39
+msgid "Web Literacy"
+msgstr "Web pismenost"
+
+#: mozorg/internet-health/privacy-security.lang:43
 msgid ""
 "The Internet only stays healthy if we trust it as a safe place – to explore, "
 "transact, connect, and create. Our privacy and security online is under "
@@ -58,34 +68,34 @@ msgstr ""
 "učiniti u vezi toga: informirajte se, zaštitite se, i učinite da se vaš glas "
 "čuje."
 
-#: mozorg/internet-health/privacy-security.lang:35
+#: mozorg/internet-health/privacy-security.lang:47
 msgid "A healthy Internet depends on you."
 msgstr "Zdrav internet zavisi od vas."
 
-#: mozorg/internet-health/privacy-security.lang:39
+#: mozorg/internet-health/privacy-security.lang:51
 msgid "Here are three areas where we can make a difference."
 msgstr "Postoje tri područja gdje možemo napraviti razliku."
 
 #. This is a navigation link
-#: mozorg/internet-health/privacy-security.lang:44
+#: mozorg/internet-health/privacy-security.lang:56
 msgid "User Control"
 msgstr "Korisnička kontrola"
 
 #. This is a navigation link
-#: mozorg/internet-health/privacy-security.lang:49
+#: mozorg/internet-health/privacy-security.lang:61
 msgid "Cyber Security"
 msgstr "Elektronska sigurnost"
 
 #. This is a navigation link
-#: mozorg/internet-health/privacy-security.lang:54
+#: mozorg/internet-health/privacy-security.lang:66
 msgid "Government Surveillance"
 msgstr "Nadzor vlade"
 
-#: mozorg/internet-health/privacy-security.lang:58
+#: mozorg/internet-health/privacy-security.lang:70
 msgid "User Control: Deciding who can collect your data"
 msgstr "Korisnička kontrola: odlučuje ko može prikupljati vaše podatke"
 
-#: mozorg/internet-health/privacy-security.lang:62
+#: mozorg/internet-health/privacy-security.lang:74
 msgid ""
 "We should all be able to choose – with clarity and confidence – what "
 "information we share with what companies, understanding the tradeoffs we’re "
@@ -95,7 +105,7 @@ msgstr ""
 "koje informacije dijelimo s kojim kompanijama, razumijevanje kompromisa "
 "pravimo kada radimo."
 
-#: mozorg/internet-health/privacy-security.lang:66
+#: mozorg/internet-health/privacy-security.lang:78
 msgid ""
 "Right now, we all lack meaningful choice online – privacy policies are often "
 "miles long and hard to read, we don’t understand what information we’re "
@@ -105,7 +115,7 @@ msgstr ""
 "su često preduge i teške za čitanje, ne možemo razumjeti koje informacije "
 "dijelimo ili kada, i odbijanje je rijetko na meniju."
 
-#: mozorg/internet-health/privacy-security.lang:70
+#: mozorg/internet-health/privacy-security.lang:82
 msgid ""
 "91% of adults agree that consumers have lost control of how personal "
 "information is collected and used by companies."
@@ -114,7 +124,7 @@ msgstr ""
 "informacije prikupljene i korištene od strane kompanija."
 
 #. Pew Research Center is an organization
-#: mozorg/internet-health/privacy-security.lang:75
+#: mozorg/internet-health/privacy-security.lang:87
 msgid ""
 "Source: <a href=\"%(pew)s\" rel=\"external\">Pew Research Center</a>, May "
 "2015"
@@ -122,20 +132,20 @@ msgstr ""
 "Izvor: <a href=\"%(pew)s\" rel=\"external\">Pew Research Center</a>, maj 2015"
 
 #. This is used as a decorative element in a callout box.
-#: mozorg/internet-health/privacy-security.lang:80
+#: mozorg/internet-health/privacy-security.lang:92
 msgid "91%"
 msgstr "91%"
 
-#: mozorg/internet-health/privacy-security.lang:84
+#: mozorg/internet-health/privacy-security.lang:96
 msgid "What you can do about user control"
 msgstr "Šta možete učiniti u vezi korisničke kontrole"
 
 #. # TAG: internet_health_subpage_rebrand
-#: mozorg/internet-health/privacy-security.lang:89
+#: mozorg/internet-health/privacy-security.lang:101
 msgid "Control your apps"
 msgstr "Kontrolišite vaše aplikacije"
 
-#: mozorg/internet-health/privacy-security.lang:93
+#: mozorg/internet-health/privacy-security.lang:105
 msgid ""
 "Make sure your mobile apps access only the info they need. Control your "
 "privacy and location settings on <a href=\"%(ios)s\" rel=\"external\">iOS</"
@@ -147,12 +157,12 @@ msgstr ""
 "\">Androidu</a>."
 
 #. # TAG: internet_health_subpage_rebrand
-#: mozorg/internet-health/privacy-security.lang:98
+#: mozorg/internet-health/privacy-security.lang:110
 msgid "Manage your preferences"
 msgstr "Upravljajte vašim preferencijama"
 
 #. # TAG: internet_health_subpage_rebrand
-#: mozorg/internet-health/privacy-security.lang:103
+#: mozorg/internet-health/privacy-security.lang:115
 msgid ""
 "Know your settings. You can manage your profile and preferences for <a href="
 "\"%(google)s\">Google</a>, <a href=\"%(yahoo)s\">Yahoo!</a> and <a href="
@@ -163,7 +173,7 @@ msgstr ""
 "href=\"%(facebook)s\">Facebook</a> reklame."
 
 #. The string is obsolete. Do not remove.
-#: mozorg/internet-health/privacy-security.lang:108
+#: mozorg/internet-health/privacy-security.lang:120
 msgid ""
 "Know your settings. You can manage your profile and preferences for <a href="
 "\"%(google)s\">Google</a>, <a href=\"%(yahoo)s\">Yahoo!</a> and <a href="
@@ -177,16 +187,16 @@ msgstr ""
 "\">urediti podatke koji su prikupljeni o vama od strane Acxiom</a>, jednog "
 "od najvećih svjetskih brokera marketinških podataka."
 
-#: mozorg/internet-health/privacy-security.lang:112
+#: mozorg/internet-health/privacy-security.lang:124
 msgid "What Mozilla is doing about user control"
 msgstr "Šta Mozilla radi u vezi korisničke kontrole"
 
 #. # TAG: internet_health_subpage_rebrand
-#: mozorg/internet-health/privacy-security.lang:117
+#: mozorg/internet-health/privacy-security.lang:129
 msgid "Writing our own policy"
 msgstr "Pišemo našu vlastitu politiku"
 
-#: mozorg/internet-health/privacy-security.lang:121
+#: mozorg/internet-health/privacy-security.lang:133
 msgid ""
 "Writing <a href=\"%(privacy)s\">our own privacy policy</a> in clear, "
 "understandable language."
@@ -195,11 +205,11 @@ msgstr ""
 "čistom, razumljivom jeziku."
 
 #. # TAG: internet_health_subpage_rebrand
-#: mozorg/internet-health/privacy-security.lang:126
+#: mozorg/internet-health/privacy-security.lang:138
 msgid "Creating supportive products"
 msgstr "Razvijamo prateće proizvode"
 
-#: mozorg/internet-health/privacy-security.lang:130
+#: mozorg/internet-health/privacy-security.lang:142
 msgid ""
 "Walking the talk with our own products, with features like the Forget "
 "Button, and <a href=\"%(focus)s\">Firefox Focus</a>, our private browser for "
@@ -210,11 +220,11 @@ msgstr ""
 "privatni pretraživač za iOS."
 
 #. # TAG: internet_health_subpage_rebrand
-#: mozorg/internet-health/privacy-security.lang:135
+#: mozorg/internet-health/privacy-security.lang:147
 msgid "Educating the industry"
 msgstr "Informisanje industrije"
 
-#: mozorg/internet-health/privacy-security.lang:139
+#: mozorg/internet-health/privacy-security.lang:151
 msgid ""
 "Encouraging and educating the industry about <a href=\"%(leandata)s\">lean "
 "data practices</a>."
@@ -222,15 +232,15 @@ msgstr ""
 "Poticanje i informisanje industrije o <a href=\"%(leandata)s\">lean data "
 "praksama</a>."
 
-#: mozorg/internet-health/privacy-security.lang:143
+#: mozorg/internet-health/privacy-security.lang:155
 msgid "Cyber Security: Locking down your sensitive information"
 msgstr "Elektronska sigurnost: Zaključava vaše osjetljive informacije"
 
-#: mozorg/internet-health/privacy-security.lang:147
+#: mozorg/internet-health/privacy-security.lang:159
 msgid "We should all have the ability to protect our online identity."
 msgstr "Svi bismo trebali imati mogućnost da zaštitimo naš identitet na mreži."
 
-#: mozorg/internet-health/privacy-security.lang:151
+#: mozorg/internet-health/privacy-security.lang:163
 msgid ""
 "At this point, it feels like we’ve all been victims of a cyberattack "
 "somewhere, somehow. Data breaches can lay bare the passwords of millions of "
@@ -242,7 +252,7 @@ msgstr ""
 "neotkrivene godinama. Što znači da vaš identitet može biti pod rizikom krađe "
 "bez da to uopšte znate."
 
-#: mozorg/internet-health/privacy-security.lang:155
+#: mozorg/internet-health/privacy-security.lang:167
 msgid ""
 "Breaches affected hundreds of millions of accounts in 2013-2016. In December "
 "2016, the biggest breach in history was reported: 1 billion accounts."
@@ -251,7 +261,7 @@ msgstr ""
 "decembru 2016-e, najveći prodor u historiji je prijavljen: 1 milijarda "
 "računa."
 
-#: mozorg/internet-health/privacy-security.lang:159
+#: mozorg/internet-health/privacy-security.lang:171
 msgid ""
 "Source: Wikipedia, <a href=\"%(wiki)s\" rel=\"external\">List of data "
 "breaches</a>, 2013-2016"
@@ -260,20 +270,20 @@ msgstr ""
 "podataka</a>, 2013-2016"
 
 #. This is an abbreviation for the number "1 billion" used as decoration in a callout box. Make it short.
-#: mozorg/internet-health/privacy-security.lang:164
+#: mozorg/internet-health/privacy-security.lang:176
 msgid "1B"
 msgstr "1B"
 
-#: mozorg/internet-health/privacy-security.lang:168
+#: mozorg/internet-health/privacy-security.lang:180
 msgid "What you can do about cyber security"
 msgstr "Šta možete učiniti u vezi s elektronske sigurnosti"
 
 #. # TAG: internet_health_subpage_rebrand
-#: mozorg/internet-health/privacy-security.lang:173
+#: mozorg/internet-health/privacy-security.lang:185
 msgid "Choose strong passwords"
 msgstr "Odaberite jake lozinke"
 
-#: mozorg/internet-health/privacy-security.lang:177
+#: mozorg/internet-health/privacy-security.lang:189
 msgid ""
 "<a href=\"%(strongpass)s\" rel=\"external\">Choose strong, unique pins and "
 "passwords</a>, and use a <a href=\"%(passmanager)s\" rel=\"external"
@@ -286,11 +296,11 @@ msgstr ""
 "koja radi za vas)."
 
 #. # TAG: internet_health_subpage_rebrand
-#: mozorg/internet-health/privacy-security.lang:182
+#: mozorg/internet-health/privacy-security.lang:194
 msgid "Use 2-factor authentication"
 msgstr "Koristite 2 faktora autentifikacije"
 
-#: mozorg/internet-health/privacy-security.lang:186
+#: mozorg/internet-health/privacy-security.lang:198
 msgid ""
 "An extra step goes a long way. For the best protection, take advantage of <a "
 "href=\"%(twofactor)s\" rel=\"external\">2-factor authentication</a> wherever "
@@ -300,16 +310,16 @@ msgstr ""
 "\"%(twofactor)s\" rel=\"external\">2 faktora autentifikacije</a> kada god je "
 "ponuđen."
 
-#: mozorg/internet-health/privacy-security.lang:190
+#: mozorg/internet-health/privacy-security.lang:202
 msgid "What Mozilla is doing about cyber security"
 msgstr "Šta Mozilla radi u vezi elektronske sigurnosti"
 
 #. # TAG: internet_health_subpage_rebrand
-#: mozorg/internet-health/privacy-security.lang:195
+#: mozorg/internet-health/privacy-security.lang:207
 msgid "Supporting encryption"
 msgstr "Podržava enkripciju"
 
-#: mozorg/internet-health/privacy-security.lang:199
+#: mozorg/internet-health/privacy-security.lang:211
 msgid ""
 "Educating about the value of <a href=\"%(codemoji)s\" rel=\"external"
 "\">encryption</a>, and advocating for its <a href=\"%(letsencrypt)s\" rel="
@@ -319,19 +329,19 @@ msgstr ""
 "a>, i zalaže se sa njeno <a href=\"%(letsencrypt)s\" rel=\"external"
 "\">univerzalno usvajanje</a>."
 
-#: mozorg/internet-health/privacy-security.lang:203
+#: mozorg/internet-health/privacy-security.lang:215
 msgid ""
 "Educating the industry about <a href=\"%(leandata)s\">lean data practices</"
 "a>."
 msgstr ""
 "Informisanje industrije o <a href=\"%(leandata)s\">lean data praksama</a>."
 
-#: mozorg/internet-health/privacy-security.lang:207
+#: mozorg/internet-health/privacy-security.lang:219
 msgid ""
 "Government Surveillance: Keeping prying eyes and ears out of your business"
 msgstr "Nadzor vlade: Drži znatiželjne oči i uši izvan vašeg poslovanja"
 
-#: mozorg/internet-health/privacy-security.lang:211
+#: mozorg/internet-health/privacy-security.lang:223
 msgid ""
 "We should all have the freedom to be ourselves — online and off – without "
 "surveillance, judgment and imposed societal bias."
@@ -339,7 +349,7 @@ msgstr ""
 "Svi bismo trebali imati slobodu da budemo ono što jesmo — bilo na internetu "
 "ili ne – bez nadzora, presuda i nametnutih društvenih predrasuda."
 
-#: mozorg/internet-health/privacy-security.lang:215
+#: mozorg/internet-health/privacy-security.lang:227
 msgid ""
 "You wouldn’t want the government following your every move in real life – "
 "there’s no reason they should be shadowing you on the Internet. The Edward "
@@ -350,7 +360,7 @@ msgstr ""
 "razloga da vas prate ni na internetu. Objave Edvarda Snovdena su pokazale da "
 "čak i demokratija može i oduzima vašu slobodu."
 
-#: mozorg/internet-health/privacy-security.lang:219
+#: mozorg/internet-health/privacy-security.lang:231
 msgid ""
 "Just four in 10 (38%) of internet users trust that their activities on the "
 "internet are not being monitored."
@@ -359,7 +369,7 @@ msgstr ""
 "internetu nisu praćene."
 
 #. Centre for International Governance Innovation is an organization.
-#: mozorg/internet-health/privacy-security.lang:224
+#: mozorg/internet-health/privacy-security.lang:236
 msgid ""
 "Source: <a href=\"%(cigi)s\" rel=\"external\"><abbr title=\"Centre for "
 "International Governance Innovation\">CIGI</abbr>-Ipsos, 2016</a>"
@@ -368,20 +378,20 @@ msgstr ""
 "International Governance Innovation\">CIGI</abbr>-Ipsos, 2016</a>"
 
 #. This is used as a decorative element in a callout box.
-#: mozorg/internet-health/privacy-security.lang:229
+#: mozorg/internet-health/privacy-security.lang:241
 msgid "38%"
 msgstr "38%"
 
-#: mozorg/internet-health/privacy-security.lang:233
+#: mozorg/internet-health/privacy-security.lang:245
 msgid "What you can do about government surveillance"
 msgstr "Šta vi možete uraditi u vezi nadzora vlade"
 
 #. # TAG: internet_health_subpage_rebrand
-#: mozorg/internet-health/privacy-security.lang:238
+#: mozorg/internet-health/privacy-security.lang:250
 msgid "Encrypt your data"
 msgstr "Enkriptujte vaše podatke"
 
-#: mozorg/internet-health/privacy-security.lang:242
+#: mozorg/internet-health/privacy-security.lang:254
 msgid ""
 "Choose apps that keep your conversations encrypted. <a href="
 "\"%(encryptedapps)s\" rel=\"external\">Here’s a list</a>."
@@ -389,7 +399,7 @@ msgstr ""
 "Izaberite aplikacije koje čuvaju vaše razgovore enkriptovanim. <a href="
 "\"%(encryptedapps)s\" rel=\"external\">Evo liste</a>."
 
-#: mozorg/internet-health/privacy-security.lang:246
+#: mozorg/internet-health/privacy-security.lang:258
 msgid ""
 "<a href=\"%(strongpass)s\" rel=\"external\"> Choose strong, unique pins and "
 "passwords</a>, and use a <a href=\"%(passmanager)s\" rel=\"external"
@@ -401,16 +411,16 @@ msgstr ""
 "\">upravitelj lozinki</a>. (Napomena: nismo ih sve isprobali – pogledajte "
 "koja radi za vas)."
 
-#: mozorg/internet-health/privacy-security.lang:250
+#: mozorg/internet-health/privacy-security.lang:262
 msgid "What Mozilla is doing about government surveillance"
 msgstr "Šta Mozilla radi u vezi nadzora vlade"
 
 #. # TAG: internet_health_subpage_rebrand
-#: mozorg/internet-health/privacy-security.lang:255
+#: mozorg/internet-health/privacy-security.lang:267
 msgid "Advocating for reform"
 msgstr "Zalaže se za reforme"
 
-#: mozorg/internet-health/privacy-security.lang:259
+#: mozorg/internet-health/privacy-security.lang:271
 msgid ""
 "Recommending <a href=\"%(reform)s\" rel=\"external\">reform at the policy "
 "level</a> to improve government disclosure of security vulnerabilities."
@@ -419,12 +429,12 @@ msgstr ""
 "politika</a> da poboljša vladino otkrivanje sigurnosnih propusta."
 
 #. # TAG: internet_health_subpage_rebrand
-#: mozorg/internet-health/privacy-security.lang:264
+#: mozorg/internet-health/privacy-security.lang:276
 msgid "Calling on lawmakers"
 msgstr "Poziva se na zakonodavce"
 
 #. 'USA Freedom Act': Feel free to replace it with a local or regional equivalent proposal.
-#: mozorg/internet-health/privacy-security.lang:269
+#: mozorg/internet-health/privacy-security.lang:281
 msgid ""
 "Calling on lawmakers all over the globe to rein in mass surveillance, and <a "
 "href=\"%(usafreedom)s\" rel=\"external\">helping to pass the USA Freedom "
@@ -435,11 +445,11 @@ msgstr ""
 "a</a>."
 
 #. # TAG: internet_health_subpage_rebrand
-#: mozorg/internet-health/privacy-security.lang:274
+#: mozorg/internet-health/privacy-security.lang:286
 msgid "Partnering with educators"
 msgstr "Partnerstva s nastavnicima"
 
-#: mozorg/internet-health/privacy-security.lang:278
+#: mozorg/internet-health/privacy-security.lang:290
 msgid ""
 "Cohosting <a href=\"%(standford)s\" rel=\"external\">talks with Stanford’s "
 "Center for Internet and Society</a> about government hacking."
@@ -447,11 +457,11 @@ msgstr ""
 "Suorganizator <a href=\"%(standford)s\" rel=\"external\">razgovara sa "
 "Stanford centrom za internet i društvo</a> o vladinom hakiranju."
 
-#: mozorg/internet-health/privacy-security.lang:282
+#: mozorg/internet-health/privacy-security.lang:294
 msgid "Hungry for more?"
 msgstr "Želite znati više?"
 
-#: mozorg/internet-health/privacy-security.lang:286
+#: mozorg/internet-health/privacy-security.lang:298
 msgid ""
 "Keep reading about Privacy and Security in our <a href=\"%(healthreport)s"
 "\">Internet Health Report</a>."
@@ -459,11 +469,11 @@ msgstr ""
 "Nastavite čitati o privatnosti i sigurnosti u našem <a href="
 "\"%(healthreport)s\">izvještaju o internet zdravlju</a>"
 
-#: mozorg/internet-health/privacy-security.lang:290
+#: mozorg/internet-health/privacy-security.lang:302
 msgid "Stay informed."
 msgstr "Ostanite informisani"
 
-#: mozorg/internet-health/privacy-security.lang:294
+#: mozorg/internet-health/privacy-security.lang:306
 msgid ""
 "Sign up. Read up. Get the Mozilla newsletter to stay smart on the issues "
 "affecting your life online."
