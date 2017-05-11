@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-13 21:10+0000\n"
+"POT-Creation-Date: 2017-05-11 17:36+0000\n"
 "PO-Revision-Date: 2017-03-22 09:13+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -12,14 +12,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1490174028.000000\n"
 
-#: mozorg/internet-health/digital-inclusion.lang:5
+#: mozorg/internet-health/digital-inclusion.lang:7
 msgid "Digital Inclusion: Vital to Internet Health"
 msgstr "Cynhwysiad Digidol: Yn Hanfodol ar gyfer Iechyd y Rhyngrwyd"
 
-#: mozorg/internet-health/digital-inclusion.lang:9
+#: mozorg/internet-health/digital-inclusion.lang:11
 msgid ""
 "Digital inclusion means promoting diversity, practicing respect, and "
 "supporting universal access online."
@@ -27,23 +27,33 @@ msgstr ""
 "Mae cynhwysiad digidol yn golygu hyrwyddo amrywiaeth, ymarfer parch a "
 "chefnogi mynediad i bawb ar-lein."
 
-#: mozorg/internet-health/digital-inclusion.lang:13
+#: mozorg/internet-health/digital-inclusion.lang:15
 msgid "Privacy &amp; Security"
 msgstr "Preifatrwydd a Diogelwch"
 
-#: mozorg/internet-health/digital-inclusion.lang:17
-msgid "Digital Inclusion"
-msgstr "Cynhwysiad Digidol"
-
-#: mozorg/internet-health/digital-inclusion.lang:21
+#: mozorg/internet-health/digital-inclusion.lang:19
 msgid "Open Innovation"
 msgstr "Arloesi Agored"
 
-#: mozorg/internet-health/digital-inclusion.lang:25
+#. # TAG: health-decentralization-and-literacy
+#: mozorg/internet-health/digital-inclusion.lang:24
+msgid "Decentralization"
+msgstr "Datganoli"
+
+#: mozorg/internet-health/digital-inclusion.lang:28
+msgid "Digital Inclusion"
+msgstr "Cynhwysiad Digidol"
+
+#. # TAG: health-decentralization-and-literacy
+#: mozorg/internet-health/digital-inclusion.lang:33
+msgid "Web Literacy"
+msgstr ""
+
+#: mozorg/internet-health/digital-inclusion.lang:37
 msgid "A Healthy Internet is Inclusive to All"
 msgstr "Mae Rhyngrwyd Iach yn Cynnwys Pawb"
 
-#: mozorg/internet-health/digital-inclusion.lang:29
+#: mozorg/internet-health/digital-inclusion.lang:41
 msgid ""
 "The more voices, perspective, languages, and people contributing to the Web, "
 "the richer the experience for everyone. But the whole Internet is not yet "
@@ -55,34 +65,34 @@ msgstr ""
 "yn groesawgar nac yn ddiogel ar gyfer pawb. Gyda'n gilydd, mae gennym y grym "
 "i siapio'r We, a'n byd ni hefyd."
 
-#: mozorg/internet-health/digital-inclusion.lang:33
+#: mozorg/internet-health/digital-inclusion.lang:45
 msgid "A healthy Internet is open to you."
 msgstr "‌Mae Rhyngrwyd iach ar agor i chi."
 
-#: mozorg/internet-health/digital-inclusion.lang:37
+#: mozorg/internet-health/digital-inclusion.lang:49
 msgid "Here are three areas where we can make a difference."
 msgstr "Dyma dri maes lle gallwn ni wneud gwahaniaeth."
 
 #. This is a navigation link
-#: mozorg/internet-health/digital-inclusion.lang:42
+#: mozorg/internet-health/digital-inclusion.lang:54
 msgid "Promote Diversity"
 msgstr "Hyrwyddo Amrywiaeth"
 
 #. This is a navigation link
-#: mozorg/internet-health/digital-inclusion.lang:47
+#: mozorg/internet-health/digital-inclusion.lang:59
 msgid "Practice Respect"
 msgstr "Ymarfer Parch"
 
 #. This is a navigation link
-#: mozorg/internet-health/digital-inclusion.lang:52
+#: mozorg/internet-health/digital-inclusion.lang:64
 msgid "Support Universal Access"
 msgstr "Cefnogi Mynediad Cyffredinol"
 
-#: mozorg/internet-health/digital-inclusion.lang:56
+#: mozorg/internet-health/digital-inclusion.lang:68
 msgid "Digital Inclusion means promoting diversity"
 msgstr "Mae Cynhwysiad Digidol yn golygu hyrwyddo arywiaeth"
 
-#: mozorg/internet-health/digital-inclusion.lang:60
+#: mozorg/internet-health/digital-inclusion.lang:72
 msgid ""
 "For the Internet to fulfill its greatest promise, it must reflect the "
 "diversity and experience of all people, everywhere."
@@ -90,7 +100,7 @@ msgstr ""
 "Er mwyn i'r Rhyngrwyd gyflawni ei addewid yn llawn, mae'n rhaid iddo "
 "adlewyrchu amrywiaeth a phrofiad pawb, ymhob man."
 
-#: mozorg/internet-health/digital-inclusion.lang:64
+#: mozorg/internet-health/digital-inclusion.lang:76
 msgid ""
 "As inclusive as the Web can seem, it’s not yet an equal playing field. More "
 "than half the world is still without it; emerging economies and marginalized "
@@ -106,7 +116,7 @@ msgstr ""
 "y We'n adlewyrchu tueddiadau difeddwl, tra bod algorithmau personoli'n "
 "atgyfnerthu ein rhai ni ein hunain."
 
-#: mozorg/internet-health/digital-inclusion.lang:68
+#: mozorg/internet-health/digital-inclusion.lang:80
 msgid ""
 "In nine developing countries, women are still nearly 50% less likely to "
 "access the Internet than men."
@@ -114,24 +124,24 @@ msgstr ""
 "Mewn naw gwlad sy'n datblygu, mae merched yn 50% llai tebygol i fynd ar y we "
 "na dynion."
 
-#: mozorg/internet-health/digital-inclusion.lang:72
+#: mozorg/internet-health/digital-inclusion.lang:84
 msgid "Source: <a href=\"%(wwwf)s\">World Wide Web Foundation</a>, 2015"
 msgstr "Ffynhonnell: <a href=\"%(wwwf)s\">World Wide Web Foundation</a>, 2015"
 
 #. This is used as a decorative element in a callout box.
-#: mozorg/internet-health/digital-inclusion.lang:77
+#: mozorg/internet-health/digital-inclusion.lang:89
 msgid "50%"
 msgstr "50%"
 
-#: mozorg/internet-health/digital-inclusion.lang:81
+#: mozorg/internet-health/digital-inclusion.lang:93
 msgid "How you can promote diversity"
 msgstr "Sut mae modd hyrwyddo amrywiaeth"
 
-#: mozorg/internet-health/digital-inclusion.lang:85
+#: mozorg/internet-health/digital-inclusion.lang:97
 msgid "Create web content"
 msgstr "Creu cynnwys gwe"
 
-#: mozorg/internet-health/digital-inclusion.lang:89
+#: mozorg/internet-health/digital-inclusion.lang:101
 msgid ""
 "Create your own Web content – like videos, blog posts, GIFs – in your "
 "language, local to your area."
@@ -139,11 +149,11 @@ msgstr ""
 "Creu eich cynnwys Gwe – fideos, cofnodion blog, GIFau – yn eich iaith, yn "
 "lleol i'ch ardal."
 
-#: mozorg/internet-health/digital-inclusion.lang:93
+#: mozorg/internet-health/digital-inclusion.lang:105
 msgid "Build resources"
 msgstr "Adeiladu adnoddau"
 
-#: mozorg/internet-health/digital-inclusion.lang:97
+#: mozorg/internet-health/digital-inclusion.lang:109
 msgid ""
 "Support a resource like <a href=\"%(wiki_support)s\">Wikipedia</a> that "
 "drastically lowers the barriers to knowledge – or better yet, <a href="
@@ -155,15 +165,15 @@ msgstr ""
 "\"%(wiki_contribute)s\">cynorthwywch i'w adeiladu</a>. Mae Wikipedia angen "
 "rhagor o gyfranwyr a rhagor o amrywiaeth."
 
-#: mozorg/internet-health/digital-inclusion.lang:101
+#: mozorg/internet-health/digital-inclusion.lang:113
 msgid "How Mozilla is promoting diversity"
 msgstr "Sut mae Mozilla'n hyrwyddo amrywiaeth"
 
-#: mozorg/internet-health/digital-inclusion.lang:105
+#: mozorg/internet-health/digital-inclusion.lang:117
 msgid "Advancing accessibility"
 msgstr "Hyrwyddo mynediad"
 
-#: mozorg/internet-health/digital-inclusion.lang:109
+#: mozorg/internet-health/digital-inclusion.lang:121
 msgid ""
 "Advancing web accessibility standards, and making Firefox inclusive through "
 "efforts like our <a href=\"%(web_a11y)s\">Accessibility</a> team."
@@ -171,11 +181,11 @@ msgstr ""
 "Amlygu safonau hygyrchedd gwe a gwneud Firefox yn gynhwysol drwy ymdrechion "
 "fel ein tîm <a href=\"%(web_a11y)s\">Hygyrchedd</a>."
 
-#: mozorg/internet-health/digital-inclusion.lang:113
+#: mozorg/internet-health/digital-inclusion.lang:125
 msgid "Building digital skills"
 msgstr "Adeiladu sgiliau digidol"
 
-#: mozorg/internet-health/digital-inclusion.lang:117
+#: mozorg/internet-health/digital-inclusion.lang:129
 msgid ""
 "<a href=\"%(un_women)s\">Partnering with UN Women</a> to help women in "
 "Africa and across the globe build key digital skills."
@@ -183,11 +193,11 @@ msgstr ""
 "<a href=\"%(un_women)s\">Partnering with UN Women</a> i gynorthwyo merched "
 "yn Affrica ac ar draws y byd i adeiladu sgiliau digidol allweddol."
 
-#: mozorg/internet-health/digital-inclusion.lang:121
+#: mozorg/internet-health/digital-inclusion.lang:133
 msgid "Digital Inclusion means practicing respect"
 msgstr "Mae Cynhwysiad Digidol yn golygu ymarfer parch"
 
-#: mozorg/internet-health/digital-inclusion.lang:125
+#: mozorg/internet-health/digital-inclusion.lang:137
 msgid ""
 "We should all have the ability to participate fully on the Internet, without "
 "threat to our reputations, our confidence, or our safety."
@@ -195,7 +205,7 @@ msgstr ""
 "Dylai pawb fod â'r gallu i gymryd rhan yn llawn ar y Rhyngrwyd heb fygythiad "
 "i'n henw da, ein hyder na'n diogelwch."
 
-#: mozorg/internet-health/digital-inclusion.lang:129
+#: mozorg/internet-health/digital-inclusion.lang:141
 msgid ""
 "We’ve all seen our share of nasty comments sections. At times, the Web can "
 "feel like a very unfriendly place – particularly for women, minorities, and "
@@ -209,7 +219,7 @@ msgstr ""
 "thrais sebr mae'n fygythiadau nid yn unig i unigolion ond i'r Rhyngrwyd ei "
 "hun."
 
-#: mozorg/internet-health/digital-inclusion.lang:133
+#: mozorg/internet-health/digital-inclusion.lang:145
 msgid ""
 "73% of Internet users have seen someone harassed online and 40% have "
 "personally experienced it."
@@ -217,24 +227,24 @@ msgstr ""
 "Mae 73% o ddefnyddwyr y Rhyngrwyd wedi gweld rhywun yn cael ei aflonyddu ar-"
 "lein ac mae 40% wedi ei brofi'n bersonol."
 
-#: mozorg/internet-health/digital-inclusion.lang:137
+#: mozorg/internet-health/digital-inclusion.lang:149
 msgid "Source: <a href=\"%(pew)s\">Pew Research</a>, 2014"
 msgstr "Ffynhonell: <a href=\"%(pew)s\">Pew Research</a>, 2014"
 
 #. This is used as a decorative element in a callout box.
-#: mozorg/internet-health/digital-inclusion.lang:142
+#: mozorg/internet-health/digital-inclusion.lang:154
 msgid "73%"
 msgstr "73%"
 
-#: mozorg/internet-health/digital-inclusion.lang:146
+#: mozorg/internet-health/digital-inclusion.lang:158
 msgid "How you can practice respect"
 msgstr "Sut mae arfer parch"
 
-#: mozorg/internet-health/digital-inclusion.lang:150
+#: mozorg/internet-health/digital-inclusion.lang:162
 msgid "Report bullying"
 msgstr "Adrodd ar fwlio"
 
-#: mozorg/internet-health/digital-inclusion.lang:154
+#: mozorg/internet-health/digital-inclusion.lang:166
 msgid ""
 "If you see cyber violence and bullying online, <a href=\"%(report)s\">record "
 "it and report it</a>."
@@ -242,11 +252,11 @@ msgstr ""
 "Os fyddwch yn gweld trais seibr a bwlio ar-lein, <a href=\"%(report)s"
 "\">gwnewch gofnod a'i adrodd</a>."
 
-#: mozorg/internet-health/digital-inclusion.lang:158
+#: mozorg/internet-health/digital-inclusion.lang:170
 msgid "Talk about respect"
 msgstr "Siarad yn barchus"
 
-#: mozorg/internet-health/digital-inclusion.lang:162
+#: mozorg/internet-health/digital-inclusion.lang:174
 msgid ""
 "<a href=\"%(kids)s\">Talk to your kids</a> about cyberbullying, and <a href="
 "\"%(teachers)s\">encourage their teachers to do the same</a>."
@@ -254,15 +264,15 @@ msgstr ""
 "<a href=\"%(kids)s\">Siaradwch â'ch plant</a> am fwlio seibr, ac <a href="
 "\"%(teachers)s\">annog eu hathrawon i wneud yr un peth</a>."
 
-#: mozorg/internet-health/digital-inclusion.lang:166
+#: mozorg/internet-health/digital-inclusion.lang:178
 msgid "How Mozilla is practicing respect"
 msgstr "Sut mae Mozilla'n arfer parch"
 
-#: mozorg/internet-health/digital-inclusion.lang:170
+#: mozorg/internet-health/digital-inclusion.lang:182
 msgid "Supporting tools for safety"
 msgstr "Cefnogi offer ar gyfer diogelwch"
 
-#: mozorg/internet-health/digital-inclusion.lang:174
+#: mozorg/internet-health/digital-inclusion.lang:186
 msgid ""
 "Supporting the <a href=\"%(coral)s\">Coral Project</a>, which works to "
 "improve how journalists and communities engage on news websites, including "
@@ -274,11 +284,11 @@ msgstr ""
 "cynnwys offer fel <a href=\"%(talk)s\">Talk</a>, sy'n anelu at greu adrannau "
 "sylwadau mwy clyfar a diogel."
 
-#: mozorg/internet-health/digital-inclusion.lang:178
+#: mozorg/internet-health/digital-inclusion.lang:190
 msgid "Empowering individuals"
 msgstr "Grymuso unigolion"
 
-#: mozorg/internet-health/digital-inclusion.lang:182
+#: mozorg/internet-health/digital-inclusion.lang:194
 msgid ""
 "Creating open curricula that empowers people to create safe spaces online, "
 "like the <a href=\"%(teaching)s\">Teaching Kit: Combating Cyber Violence "
@@ -288,14 +298,14 @@ msgstr ""
 "fel y <a href=\"%(teaching)s\">Teaching Kit: Combating Cyber Violence "
 "Against Women and Girls</a>."
 
-#: mozorg/internet-health/digital-inclusion.lang:186
+#: mozorg/internet-health/digital-inclusion.lang:198
 msgid ""
 "Digital Inclusion means supporting universal access to the whole Internet"
 msgstr ""
 "Mae Cynhwysiad Digidol yn golygu cynnal mynediad cyffredinol i'r Rhyngrwyd i "
 "gyd"
 
-#: mozorg/internet-health/digital-inclusion.lang:190
+#: mozorg/internet-health/digital-inclusion.lang:202
 msgid ""
 "We should all have affordable, high-quality, unrestricted access to the "
 "whole Web, so the whole world can benefit."
@@ -303,7 +313,7 @@ msgstr ""
 "Dylai pawb fod â mynediad pris rhesymol, ansawdd uchel a heb gyfyngiad i'r "
 "holl We, er mantais i'r byd i gyd."
 
-#: mozorg/internet-health/digital-inclusion.lang:194
+#: mozorg/internet-health/digital-inclusion.lang:206
 msgid ""
 "To participate online, you have to be able to get online. Programs have "
 "emerged that offer free or subsidized Internet access, but it is often slow "
@@ -320,29 +330,37 @@ msgstr ""
 "hagenda eu hunain, sy'n bygwth hawliau dynol a hyd yn oed iechyd yr economi "
 "byd-eang."
 
-#: mozorg/internet-health/digital-inclusion.lang:198
+#: mozorg/internet-health/digital-inclusion.lang:210
 msgid "In 2016, there were 51 intentional Internet shutdowns in 18 countries."
 msgstr ""
 "Yn 2016, cafodd y Rhyngrwyd ei ddiffodd yn fwriadol 51 gwaith mewn 18 gwlad."
 
-#: mozorg/internet-health/digital-inclusion.lang:202
+#: mozorg/internet-health/digital-inclusion.lang:214
 msgid "Source: <a href=\"%(accessnow)s\">AccessNow</a>, 2016"
 msgstr "Ffynhonnell: <a href=\"%(accessnow)s\">AccessNow</a>, 2016"
 
 #. This is used as a decorative element in a callout box.
-#: mozorg/internet-health/digital-inclusion.lang:207
+#: mozorg/internet-health/digital-inclusion.lang:219
 msgid "51"
 msgstr "51"
 
-#: mozorg/internet-health/digital-inclusion.lang:211
+#: mozorg/internet-health/digital-inclusion.lang:223
 msgid "How you can support universal access"
 msgstr "Sut fedrwch chi gefnogi mynediad cyffredinol"
 
-#: mozorg/internet-health/digital-inclusion.lang:215
+#: mozorg/internet-health/digital-inclusion.lang:227
 msgid "Donate your tech"
 msgstr "Cyfrannu eich offer"
 
-#: mozorg/internet-health/digital-inclusion.lang:219
+#. # TAG: inclusion-donate-tech
+#: mozorg/internet-health/digital-inclusion.lang:232
+msgid ""
+"Donate your old computers, laptops, and phones to non-profits that refurbish "
+"and redistribute them to underserved communities."
+msgstr ""
+
+#. String is obsolete. Do NOT remove.
+#: mozorg/internet-health/digital-inclusion.lang:237
 msgid ""
 "Donate your old computers, laptops, and phones to non-profits like <a href="
 "\"%(reconnect)s\">Reconnect</a>, <a href=\"%(strut)s\">Students Recycling "
@@ -355,11 +373,11 @@ msgstr ""
 "\">Interconnection</a> sy'n eu trwsio a'u hailddosbarthu i gymunedau llai "
 "breintiedig."
 
-#: mozorg/internet-health/digital-inclusion.lang:223
+#: mozorg/internet-health/digital-inclusion.lang:241
 msgid "Advocate for openness"
 msgstr "Eirioli er mwyn bod yn agored"
 
-#: mozorg/internet-health/digital-inclusion.lang:227
+#: mozorg/internet-health/digital-inclusion.lang:245
 msgid ""
 "Tell your representatives that open and affordable access to the Internet "
 "should be a policy priority."
@@ -367,15 +385,15 @@ msgstr ""
 "Dywedwch wrth eich aelodau cynulliad a seneddol y dylai mynediad agored a "
 "fforddiadwy fod yn flaenoriaeth polisi."
 
-#: mozorg/internet-health/digital-inclusion.lang:231
+#: mozorg/internet-health/digital-inclusion.lang:249
 msgid "How Mozilla is supporting universal access"
 msgstr "Sut mae Mozilla'n cefnogi mynediad cyffredinol"
 
-#: mozorg/internet-health/digital-inclusion.lang:235
+#: mozorg/internet-health/digital-inclusion.lang:253
 msgid "Advocating for neutrality"
 msgstr "Eirioli o blaid niwtraliaeth"
 
-#: mozorg/internet-health/digital-inclusion.lang:239
+#: mozorg/internet-health/digital-inclusion.lang:257
 msgid ""
 "Championing <a href=\"%(neutrality)s\">net neutrality</a>, so that everyone "
 "has access to the same Internet."
@@ -383,11 +401,11 @@ msgstr ""
 "Bod yn bencampwr <a href=\"%(neutrality)s\">niwtraliaeth y rhyngrwyd</a>, "
 "fel bod pawb yn cael mynediad i'r un Rhyngrwyd."
 
-#: mozorg/internet-health/digital-inclusion.lang:243
+#: mozorg/internet-health/digital-inclusion.lang:261
 msgid "Connecting the unconnected"
 msgstr "Cysylltu'r rhai sydd heb eu cysylltu"
 
-#: mozorg/internet-health/digital-inclusion.lang:247
+#: mozorg/internet-health/digital-inclusion.lang:265
 msgid ""
 "Sponsoring the <a href=\"%(equalrating)s\">Equal Rating Innovation "
 "Challenge</a> to find novel solutions for connecting the unconnected to the "
@@ -397,11 +415,11 @@ msgstr ""
 "mwyn darganfod atebion newydd ar gyfer cysylltu'r rhai sydd heb eu cysylltu "
 "i'r Rhyngrwyd llawn ac agored."
 
-#: mozorg/internet-health/digital-inclusion.lang:251
+#: mozorg/internet-health/digital-inclusion.lang:269
 msgid "Hungry for more?"
 msgstr "Eisiau gwybod rhagor?"
 
-#: mozorg/internet-health/digital-inclusion.lang:255
+#: mozorg/internet-health/digital-inclusion.lang:273
 msgid ""
 "Read on about Digital Inclusion in our <a href=\"%(healthreport)s\">Internet "
 "Health Report</a>."
@@ -409,11 +427,11 @@ msgstr ""
 "Rhagor am Gynhwysiad Digidol yn ein <a href=\"%(healthreport)s\">Internet "
 "Health Report</a>."
 
-#: mozorg/internet-health/digital-inclusion.lang:259
+#: mozorg/internet-health/digital-inclusion.lang:277
 msgid "Stay informed."
 msgstr "Derbyn gwybodaeth."
 
-#: mozorg/internet-health/digital-inclusion.lang:263
+#: mozorg/internet-health/digital-inclusion.lang:281
 msgid ""
 "Sign up. Read up. Get the Mozilla newsletter to stay smart on the issues "
 "affecting your life online."
