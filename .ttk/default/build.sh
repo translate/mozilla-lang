@@ -127,17 +127,14 @@ do
 	if [ "$polang" == "templates" ]; then
 		update_source
 		rm -rf $POT_DIR
-		mkdir -p $POT_DIR/templates/mozorg/emails
 		(cd $SOURCE_DIR/en-US
 		moz2po --errorlevel=$errorlevel --progress=$progress . $POT_DIR
-		txt2po --errorlevel=$errorlevel --progress=$progress templates/mozorg/emails $POT_DIR/templates/mozorg/emails
 		)
 		podebug --errorlevel=$errorlevel --progress=$progress --rewrite=blank $POT_DIR $POT_DIR
 		for po in $(find $POT_DIR -name "*.po")
 		do
 			mv $po ${po}t
 		done
-		rm $POT_DIR/templates/mozorg/emails/*.txt  # Cleanup files that moz2po copied
 		clean_po_location $PO_DIR $polang
 		revert_unchanged_po_git $POT_DIR/.. templates
 	else
@@ -181,8 +178,6 @@ do
 		#rm -f $(find $TARGET_DIR/$mozlang -name "*.lang")
 		# FIXME If we don't ouput anything we might want to restore what is there already
 		#po2moz --threshold=50 --exclude="templates" --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR $PO_DIR/$polang $TARGET_DIR/$mozlang
-		#mkdir -p $TARGET_DIR/$mozlang/templates/mozorg/emails
-		#po2txt --threshold=90 --errorlevel=$errorlevel --progress=$progress -t $SOURCE_DIR/templates/mozorg/emails $PO_DIR/$polang/templates/mozorg/emails $TARGET_DIR/$mozlang/templates/mozorg/emails
 		#revert_active_header $mozlang
 		#revert_blank_line_only_changes $mozlang
 		#handle_new_and_empty_dirs $mozlang
