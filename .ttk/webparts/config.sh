@@ -20,3 +20,27 @@ MOZREPONAME="svn+ssh://dwayne%40translate.org.za@svn.mozilla.org"
 svnverbosity=""
 
 alt_src="bn_IN es es_MX fr ru"
+
+
+# List of languages we skip when removing extra files because they have significantly translated those.
+LANGS_WITH_ALL_FILES="af an as bn_BD br bs ca cak cy en_ZA ff ga_IE hi_IN is lt lv nb_NO ne sat son ta ur xh"
+
+
+# List of files that are always enabled for translation.
+MINIMUM_COMMON_FILES="download_button.lang
+firefox/accounts.lang
+firefox/all.lang
+firefox/channel/index.lang
+firefox/new/horizon.lang
+firefox/sync.lang
+main.lang
+mozorg/404.lang
+mozorg/about.lang
+mozorg/home/index-2016.lang
+mozorg/mission.lang
+mozorg/plugincheck-redesign.lang
+mozorg/products.lang
+mozorg/technology.lang
+newsletter.lang
+privacy/principles.lang
+tabzilla/tabzilla.lang"

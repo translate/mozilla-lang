@@ -71,6 +71,55 @@ function handle_new_and_empty_dirs() {
 
 }
 
+function get_language_files() {
+	MOZ_GIT_DIR=$1
+	if [ -d ${MOZ_GIT_DIR} ]
+	then
+		# Language in Mozilla's git repository, so craft the list from git repository.
+		LANG_MOZ_GIT_FILES=""
+		cd $MOZ_GIT_DIR
+		for langfile in $(find ./ -type f -name '*.lang' | sort)
+		do
+			# Strip "./" prefix from the filenames.
+			LANG_MOZ_GIT_FILES+=" ${langfile:2}"
+		done
+		echo $LANG_MOZ_GIT_FILES
+	else
+		# Language not in Mozilla's git repository. Defaulting to minimum common files.
+		echo $MINIMUM_COMMON_FILES
+	fi
+}
+
+function remove_files() {
+	# Go to the specified directory and remove all files not in language files.
+	LANGUAGE_DIR=$1
+	if [ ! -d ${LANGUAGE_DIR} ]
+	then
+		log_info "Directory '${LANGUAGE_DIR}' doesn't exist. Skipping it."
+		return
+	fi
+	cd $LANGUAGE_DIR
+
+	# Need to use this to get all the passed args except the first one.
+	LANGUAGE_FILES=${*:2}
+
+	log_info "Processing '${LANGUAGE_DIR}'"
+	log_info "============"
+	for pofile in $(find ./ -type f -name '*.po' | sort)
+	do
+		# Strip "./" prefix and ".po" extension from filename.
+		langfile=${pofile:2:-3}
+
+		# Process only files not in language files.
+		if [[ ! " ${LANGUAGE_FILES[*]} " == *$langfile* ]]
+		then
+			echo "    ${pofile:2}"
+			rm -f ${pofile:2}
+		fi
+	done
+}
+
+
 for lang in $langs
 do
 	log_info "Processing language '$lang'"
@@ -102,6 +151,25 @@ do
 		pomigrate2 --use-compendium --pot2po $pomigrate2verbosity ${tempdir}/${polang} ${PO_DIR}/${polang} ${POT_DIR}
 		# FIXME we should revert stuff that wasn't part of this migration e.g. mobile
 		rm -rf ${tempdir}
+
+		# If language is in list of languages that shouldn't be touched, then skip it.
+		if [[ " ${LANGS_WITH_ALL_FILES[*]} " == *$lang* ]]
+		then
+			log_info "'${lang}' is marked as language with all files. Skipping files removal."
+			continue
+		else
+			log_info "Removing extra files for '${lang}'."
+
+			# Get list of language files, either from Mozilla's git repo or from minimum common files list.
+			LANGUAGE_FILES=$( get_language_files $SOURCE_DIR/${mozlang}/ )
+
+			# Remove unnecessary files for this language.
+			MLO_GIT_DIR="${PO_DIR}/${lang}/"
+			PODIRECTORY="/var/www/sites/mozilla/translations/mozilla_lang/${lang}/"
+
+			remove_files ${MLO_GIT_DIR} ${LANGUAGE_FILES}
+			remove_files ${PODIRECTORY} ${LANGUAGE_FILES}
+		fi
 
 		clean_po_location $PO_DIR $polang
 		revert_unchanged_po_git $PO_DIR $polang
