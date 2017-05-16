@@ -110,7 +110,7 @@ function remove_files() {
 		# Strip "./" prefix and ".po" extension from filename.
 		langfile=${pofile:2:-3}
 
-		# Process only files not in language files.
+		# Keep only files not in language files.
 		if [[ ! " ${LANGUAGE_FILES[*]} " == *$langfile* ]]
 		then
 			echo "    ${pofile:2}"
