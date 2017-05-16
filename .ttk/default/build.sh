@@ -127,6 +127,7 @@ do
 	if [ "$polang" == "templates" ]; then
 		update_source
 		rm -rf $POT_DIR
+		mkdir -p $POT_DIR
 		(cd $SOURCE_DIR/en-US
 		moz2po --errorlevel=$errorlevel --progress=$progress . $POT_DIR
 		)
