@@ -4,6 +4,9 @@ source $(dirname $0)/../firefox/ttk.inc.sh
 stop_if_running
 mk_lock_file
 
+push="yes"
+#push=
+
 langs=$(which_langs $*)
 
 for lang in $langs
@@ -14,5 +17,5 @@ do
 	git add -A $pootlelang
 	git commit -m "[$pootlelang] pull from Pootle"
 done
-git push
+[[ $push ]] && git push
 rm_lock_file
