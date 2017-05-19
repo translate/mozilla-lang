@@ -162,10 +162,10 @@ do
 
 			# Remove unnecessary files for this language.
 			MLO_GIT_DIR="${PO_DIR}/${lang}/"
-			PODIRECTORY="/var/www/sites/mozilla/translations/mozilla_lang/${lang}/"
+			#PODIRECTORY="/var/www/sites/mozilla/translations/mozilla_lang/${lang}/"
 
 			remove_files ${MLO_GIT_DIR} ${LANGUAGE_FILES}
-			remove_files ${PODIRECTORY} ${LANGUAGE_FILES}
+			#remove_files ${PODIRECTORY} ${LANGUAGE_FILES}
 		fi
 
 		clean_po_location $PO_DIR $polang
