@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-19 20:08+0000\n"
+"POT-Creation-Date: 2017-05-19 23:08+0000\n"
 "PO-Revision-Date: 2017-05-18 12:51+0000\n"
 "Last-Translator: Nihad Suljic <nihad.suljic92@gmail.com>\n"
 "Language-Team: none\n"
@@ -116,8 +116,9 @@ msgstr ""
 
 #. # TAG: health-decentralization-link
 #: mozorg/internet-health/decentralization.lang:86
-msgid "Source: <a href=\"{{ accessnow }}\">Access Now</a>"
-msgstr ""
+#, fuzzy
+msgid "Source: <a href=\"%(accessnow)s\">Access Now</a>"
+msgstr "Izvor: <a href=\"%(accessnow)s\">AccessNow</a>, 2016"
 
 #. String obsolete. Do NOT remove
 #: mozorg/internet-health/decentralization.lang:91
