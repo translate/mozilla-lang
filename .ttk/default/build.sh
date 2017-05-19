@@ -151,10 +151,9 @@ do
 		rm -rf ${tempdir}
 
 		# If language is in list of languages that shouldn't be touched, then skip it.
-		if [[ " ${LANGS_WITH_ALL_FILES[*]} " == *$lang* ]]
+		if [[ ${LANGS_WITH_ALL_FILES} =~ (^|.*[ ])$lang($|[ ].*) ]]
 		then
 			log_info "'${lang}' is marked as language with all files. Skipping files removal."
-			continue
 		else
 			log_info "Removing extra files for '${lang}'."
 
