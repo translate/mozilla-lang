@@ -72,12 +72,12 @@ function handle_new_and_empty_dirs() {
 }
 
 function get_language_files() {
-	MOZ_GIT_DIR=$1
-	if [ -d ${MOZ_GIT_DIR} ]
+	LANG_MOZ_GIT_DIR=$1
+	if [ -d ${LANG_MOZ_GIT_DIR} ]
 	then
 		# Language in Mozilla's git repository, so craft the list from git repository.
 		LANG_MOZ_GIT_FILES=""
-		cd $MOZ_GIT_DIR
+		cd $LANG_MOZ_GIT_DIR
 		for langfile in $(find ./ -type f -name '*.lang' | sort)
 		do
 			# Strip "./" prefix from the filenames.
@@ -161,11 +161,11 @@ do
 			LANGUAGE_FILES=$( get_language_files $SOURCE_DIR/${mozlang}/ )
 
 			# Remove unnecessary files for this language.
-			MLO_GIT_DIR="${PO_DIR}/${lang}/"
-			#PODIRECTORY="/var/www/sites/mozilla/translations/mozilla_lang/${lang}/"
+			LANG_MLO_GIT_DIR="${PO_DIR}/${lang}/"
+			#LANG_PODIRECTORY="/var/www/sites/mozilla/translations/mozilla_lang/${lang}/"
 
-			remove_files ${MLO_GIT_DIR} ${LANGUAGE_FILES}
-			#remove_files ${PODIRECTORY} ${LANGUAGE_FILES}
+			remove_files ${LANG_MLO_GIT_DIR} ${LANGUAGE_FILES}
+			#remove_files ${LANG_PODIRECTORY} ${LANGUAGE_FILES}
 		fi
 
 		clean_po_location $PO_DIR $polang
