@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-11 19:09+0000\n"
-"PO-Revision-Date: 2017-05-20 18:48+0000\n"
+"PO-Revision-Date: 2017-05-20 19:53+0000\n"
 "Last-Translator: Manuel Padilla Sánchez <manuel.padilla@servicios.ccoo.es>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ncj\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1495306090.000000\n"
+"X-POOTLE-MTIME: 1495309990.000000\n"
 
 #. # TAG: firefox_title_meta_bug1345338
 #. HTML page title
@@ -42,6 +42,7 @@ msgstr ""
 "tikonuikas okseko. ¡Axkan xikonajsi Firefox!"
 
 #: firefox/sync.lang:28
+#, fuzzy
 msgid "Ready, Set, Sync"
 msgstr ""
 "Estás conectado y listo para acceder a <em>tu</em> Firefox cuando quieras, "
@@ -96,21 +97,24 @@ msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
 "Discover them all!"
 msgstr ""
+"Sync sayoj se ueyi nepaleuil san tein tikonpias ika Firefox. ¡Nochi xikonita!"
 
 #. # TAG: firefox_sync_mobile_buttons_update
 #: firefox/sync.lang:67
 msgid "Now sync Firefox with your iOS and Android devices."
 msgstr ""
+"Axkan xikonchiua maj moixpatatiuitse Firefox itech motesposuan tein Android "
+"uan iOS."
 
 #. # TAG: firefox_sync_non_fx
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 #: firefox/sync.lang:73
 msgid "Sync is just one of the great features you’ll only get with Firefox."
-msgstr ""
+msgstr "Sync sayoj se ueyi nepaleuil san tein tikonpias ika Firefox."
 
 #: firefox/sync.lang:77
 msgid "Download Firefox for Android"
-msgstr ""
+msgstr "Xikontemoui Firefox ika Android"
 
 #: firefox/sync.lang:81
 msgid "Get started with Sync"
@@ -126,7 +130,7 @@ msgstr "Xikontemolti Firefox"
 
 #: firefox/sync.lang:93
 msgid "Get started with Sync in four easy steps:"
-msgstr ""
+msgstr "Xionpeua ika Sync, moneki tikonchiuas sayoj 4 amo ouij taman:"
 
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
@@ -136,6 +140,9 @@ msgid ""
 "href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of Firefox and "
 "select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
+"Xikontapo <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
+"href=\"%(url)s#w_a-handy-new-menu\">menú</a> ajko iyekmakopa Firefox uan "
+"xikonpejpena \"<strong>Xionkalakteua Sync.</strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:104
