@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-02-06 20:09+0000\n"
-"PO-Revision-Date: 2017-05-20 12:08+0000\n"
+"PO-Revision-Date: 2017-05-20 20:16+0000\n"
 "Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
 "Language-Team: none\n"
 "Language: nb_NO\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1495282083.000000\n"
+"X-POOTLE-MTIME: 1495311410.000000\n"
 
 #: thunderbird/features.lang:6
 msgid "Thunderbird Features"
@@ -269,10 +269,15 @@ msgid ""
 "Thunderbird warns you when you click on a link which appears to be taking "
 "you to a different Web site than the one indicated by the URL in the message."
 msgstr ""
+"Thunderbird beskytter deg mot e-postsvindler som prøver å lure brukere til å "
+"gi fra seg personlig og konfidensiell informasjon ved å melde fra om at "
+"meldingen er et mulig nettfiskeangrep (phishing). Som annenlinjeforsvar, "
+"advarer Thunderbird deg når du klikker en lenke som ser ut til å ta deg til "
+"en annen side enn den som ble angitt i nettadressen i meldingen."
 
 #: thunderbird/features.lang:146
 msgid "Automated Update"
-msgstr ""
+msgstr "Automatisk oppdatering"
 
 #. # TAG: macos_branding
 #: thunderbird/features.lang:151
@@ -284,6 +289,12 @@ msgid ""
 "automated update system provides updates for Thunderbird on Windows, macOS, "
 "and Linux in over 40 different languages."
 msgstr ""
+"Thunderbirds oppdateringssystem sjekker om du kjører siste versjon, og "
+"melder fra hvis en sikkerhetsoppdatering skulle være tilgjengelig. Disse er "
+"små (som oftest 200-700KB), som gir deg bare det du trenger, noe som gjør "
+"sikkerhetsoppdateringen rask å laste ned og installere. Det automatiserte "
+"oppdateringssystemet tilbyr oppdateringer for Thunderbird på Windows, macOS, "
+"og Linux på over 40 ulike språk."
 
 #. String is obsolete. Do NOT remove.
 #: thunderbird/features.lang:156
@@ -295,10 +306,16 @@ msgid ""
 "automated update system provides updates for Thunderbird on Windows, Mac OS "
 "X, and Linux in over 40 different languages."
 msgstr ""
+"Thunderbirds oppdateringssystem sjekker om du kjører siste versjon, og "
+"melder fra hvis en sikkerhetsoppdatering skulle være tilgjengelig. Disse er "
+"små (som oftest 200-700KB), som gir deg bare det du trenger, noe som gjør "
+"sikkerhetsoppdateringen rask å laste ned og installere. Det automatiserte "
+"oppdateringssystemet tilbyr oppdateringer for Thunderbird på Windows, Mac OS "
+"X, og Linux på over 40 ulike språk."
 
 #: thunderbird/features.lang:160
 msgid "Cutting Out the Junk"
-msgstr ""
+msgstr "Kutter ut søppelet"
 
 #: thunderbird/features.lang:164
 msgid ""
@@ -309,10 +326,16 @@ msgid ""
 "matters. Thunderbird can also use your mail provider’s spam filters to keep "
 "junk mail out of your inbox."
 msgstr ""
+"Thunderbirds populære søppelpost-verktøy er oppdatert for å komme i forkant "
+"av spam. Hver e-post du mottar går gjennom Thunderbirds ledende "
+"søppelpostfilter. Hver gang du markerer meldinger som søppelpost, «lærer» "
+"Thunderbird og forbedrer sin filtrering slik at du kan bruke mer tid på å "
+"lese e-post som betyr noe. Thunderbird kan også bruke din e-posttilbyders "
+"spamfilter for å holde søppelet unna innboksen din."
 
 #: thunderbird/features.lang:168
 msgid "Open Source"
-msgstr ""
+msgstr "Åpen kildekode"
 
 #: thunderbird/features.lang:172
 msgid ""
