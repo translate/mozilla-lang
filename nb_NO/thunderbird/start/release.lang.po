@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-25 05:09+0000\n"
-"PO-Revision-Date: 2017-05-20 20:20+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"PO-Revision-Date: 2017-05-21 01:06+0000\n"
+"Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
 "Language-Team: none\n"
 "Language: nb_NO\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1495311610.000000\n"
+"X-POOTLE-MTIME: 1495328798.000000\n"
 
 #: thunderbird/start/release.lang:6
 msgid "Welcome to <span>Thunderbird</span>"
@@ -64,7 +64,7 @@ msgstr ""
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:36
 msgid "If you like Thunderbird, please consider a donation!"
-msgstr ""
+msgstr "Om du liker Thunderbird, vurder en donasjon!"
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:41
@@ -72,6 +72,8 @@ msgid ""
 "By donating, you will help us to continue delivering an ad-free top-notch "
 "email client."
 msgstr ""
+"Ved å donere, vil du hjelpe oss med å levere en reklamefri, førsteklasses e-"
+"postklient."
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:46
@@ -81,7 +83,7 @@ msgstr ""
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:51
 msgid "Other ways to contribute to Thunderbird"
-msgstr ""
+msgstr "Andre måter å bidra med, til Thunderbird"
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:56
@@ -91,10 +93,14 @@ msgid ""
 "up a few new ones along the way. Volunteer as much as you like. Or as "
 "little. It’s totally up to you."
 msgstr ""
+"Akkurat nå er et godt tidspunkt for å involvere seg: skriv kode, test, "
+"brukerstøtte, lokalisering med mer. Ta del i det verdensomspennende "
+"fellesskapet! Del dine ferdigheter og få nye på veien. Bidra så mye eller så "
+"lite som du vil. Det er helt opp til deg."
 
 #: thunderbird/start/release.lang:60
 msgid "Contribute to Thunderbird"
-msgstr ""
+msgstr "Gi ditt bidrag til Thunderbird"
 
 #: thunderbird/start/release.lang:64
 msgid ""
@@ -102,22 +108,29 @@ msgid ""
 "years, active contributors <a href=\"%s\">recently organized</a> to focus on "
 "the future."
 msgstr ""
+"For å forsikre at Thunderbird fortsetter å forbedre seg, slik den har gjort "
+"de siste ti årene, har aktive bidragsytere <a href=\"%s\">nylig organsiert "
+"seg</a> for å fokusere på fremtiden."
 
 #: thunderbird/start/release.lang:68
 msgid ""
 "Now is a great time for you to <a href=\"%s\" class=\"iconic\">get involved</"
 "a>."
 msgstr ""
+"Akkurat nå passer det bra å <a href=\"%s\" class=\"iconic\">engasjere seg</"
+"a>."
 
 #: thunderbird/start/release.lang:72
 msgid ""
 "Please help us assist users of Thunderbird, and improve the Thunderbird "
 "product and eco-system."
 msgstr ""
+"Hjelp oss å bistå brukere av Thunderbird, og forbedre både produktet "
+"Thunderbird og dets økosystem."
 
 #: thunderbird/start/release.lang:76
 msgid "We look forward to <a href=\"%s\">hearing from you</a>."
-msgstr ""
+msgstr "Vi ser frem til at du <a href=\"%s\">lar høre fra deg</a>."
 
 #: thunderbird/start/release.lang:80
 msgid "Learn more"
@@ -125,7 +138,7 @@ msgstr "Les mer"
 
 #: thunderbird/start/release.lang:84
 msgid "Need Support?"
-msgstr ""
+msgstr "Behov for hjelp?"
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:89
@@ -133,6 +146,8 @@ msgid ""
 "Most Thunderbird support questions are answered in the <a href=\"%s"
 "\">Knowledge Base</a>."
 msgstr ""
+"De fleste brukerstøttespørsmålene om Thunderbird finner du svar på i <a href="
+"\"%s\">kunnskapsbasen</a>."
 
 #. # TAG: thunderbird_startpage_donate_2016_06
 #: thunderbird/start/release.lang:94
@@ -140,6 +155,8 @@ msgid ""
 "If you can’t find an answer, <a href=\"%s\">ask your question in our support "
 "forum</a>."
 msgstr ""
+"Hvis du ikke finner svar på det du lurer på, <a href=\"%s\">still spørsmålet "
+"ditt i brukerstøtteforumet vårt</a>."
 
 #. Obsolete string, do not remove
 #: thunderbird/start/release.lang:99
@@ -147,6 +164,8 @@ msgid ""
 "Most Thunderbird support questions are answered on the <a href=\"%s"
 "\">Knowledge Base</a>."
 msgstr ""
+"De fleste brukerstøttespørsmålene om Thunderbird finner du svar på i <a href="
+"\"%s\">kunnskapsbasen</a>."
 
 #. Obsolete string, do not remove
 #: thunderbird/start/release.lang:104
@@ -154,6 +173,8 @@ msgid ""
 "If you can’t find an answer, <a href=\"%s\">ask your question on our support "
 "forum</a>."
 msgstr ""
+"Hvis du ikke finner svar på det du lurer på, <a href=\"%s\">still spørsmålet "
+"ditt i brukerstøtteforumet vårt</a>."
 
 #. If your locale has a dedicated Thunderbird support forum, you can localize the URL
 #. used in the previous string to point there. Otherwise simply mark the string as {ok}
