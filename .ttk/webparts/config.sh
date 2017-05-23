@@ -23,7 +23,8 @@ alt_src="bn_IN es es_MX fr ru"
 
 
 # List of languages we skip when removing extra files because they have significantly translated those.
-LANGS_WITH_ALL_FILES="af an as bn_BD br bs ca cak cy en_ZA ff ga_IE hi_IN is lt lv nb_NO ne son ta ur xh"
+#LANGS_WITH_ALL_FILES="af an as bn_BD br bs ca cak cy en_ZA ff ga_IE hi_IN is lt lv ne son ta ur xh"
+LANGS_WITH_ALL_FILES=""
 
 
 # List of files that are always enabled for translation.
