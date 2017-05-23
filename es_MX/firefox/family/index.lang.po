@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-07 13:12+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: 2016-04-09 14:26+0000\n"
 "Last-Translator: Roberto Alvarado <ralv888@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,24 +11,34 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.7\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 "X-POOTLE-MTIME: 1460211969.000000\n"
 
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page title
+#: firefox/family/index.lang:11
+msgid "Free Web Browser for Android, iOS, Desktop | Firefox"
+msgstr ""
+
+#. String is obsolete. Do not remove.
 #. Title of the page (HTML meta tag)
-#: firefox/family/index.lang:10
-msgid ""
-"Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing"
+#: firefox/family/index.lang:17
+#, fuzzy
+msgid "Firefox – Desktop browser, Android, iOS, Sync, Private Browsing"
 msgstr ""
 "Firefox – Navegador Web, Android, iOS, OS, Hello, Sync, Navegación Privada"
 
-#. Obsolete title of the page (do not remove)
-#: firefox/family/index.lang:15
-msgid "Firefox — Desktop browser, Android, OS, Hello, Sync, Marketplace"
+#. # TAG: firefox_title_meta_bug1345338
+#. HTML page description
+#: firefox/family/index.lang:23
+msgid ""
+"Millions of people around the world trust Firefox Web browsers on Android, "
+"iOS and desktop computers. Fast. Private. Download now!"
 msgstr ""
-"Firefox: Navegador de escritorio, Android, OS, Hello, Sync, Marketplace"
 
+#. String is obsolete. Do not remove.
 #. Description of the page (HTML meta tag)
-#: firefox/family/index.lang:20
+#: firefox/family/index.lang:29
 msgid ""
 "Learn more about our complete lineup of products for desktop and mobile "
 "browsing (and more) that help keep you in control online. Free yourself with "
@@ -38,79 +48,92 @@ msgstr ""
 "móviles (y más) que pueden ayudarte a mantener tu control en línea. Siéntete "
 "libre con Firefox."
 
-#: firefox/family/index.lang:24
+#: firefox/family/index.lang:33
 msgid "You’re using an older version of Firefox for desktop."
 msgstr "Estás usando un versión vieja de Firefox para escritorio."
 
-#: firefox/family/index.lang:28
+#: firefox/family/index.lang:37
 msgid "Update today to stay fast and safe."
 msgstr "Actualiza hoy para continuar rápido y seguro."
 
+#. # TAG: download_browse_freely
+#: firefox/family/index.lang:42
+msgid "Browse Freely"
+msgstr ""
+
 # alternative main title (currently not used)
-#: firefox/family/index.lang:32
+#. String obsolete. Do NOT remove.
+#: firefox/family/index.lang:47
 msgid "Choose Independent."
 msgstr "Elige ser independiente."
 
-#: firefox/family/index.lang:36
+#. String obsolete. Do NOT remove.
+#: firefox/family/index.lang:52
 msgid "Choose Firefox."
 msgstr "Elige Firefox."
 
 #. %s will be replaced by an image (Firefox wordmark)
-#: firefox/family/index.lang:41
+#: firefox/family/index.lang:57
 msgid "Free yourself with %s"
 msgstr "Libérate con %s"
 
 #. <span> tag below adds visual style to "for" text
-#: firefox/family/index.lang:46
+#: firefox/family/index.lang:62
 msgid "Firefox <span>for</span> desktop"
 msgstr "Firefox <span>for</span> para escritorio"
 
-#: firefox/family/index.lang:50
+#: firefox/family/index.lang:66
 msgid "Trusted. Flexible. Fast."
 msgstr "De confianza. Flexible. Rápido."
 
 #. <span> tag below adds visual style to "for" text
-#: firefox/family/index.lang:55
+#: firefox/family/index.lang:71
 msgid "Firefox <span>for</span> Android"
 msgstr "Firefox <span>para</span> Android"
 
-#: firefox/family/index.lang:59
+#: firefox/family/index.lang:75
 msgid "Make it uniquely yours."
 msgstr "Personalízalo."
 
-#: firefox/family/index.lang:63
+#: firefox/family/index.lang:79
 msgid "Get it on Google Play"
 msgstr "Obtenlo en Google Play"
 
+#. # TAG: tracking_protection
 #. <span> tag below adds visual style to "for" text
-#: firefox/family/index.lang:69
+#: firefox/family/index.lang:85
 msgid "Firefox <span>for</span> iOS"
 msgstr "Firefox <span>para</span> iOS"
 
-#: firefox/family/index.lang:74
+#. # TAG: ios_product_tagline
+#: firefox/family/index.lang:90
 msgid "Fast. Smart. Yours."
 msgstr "Rápido, inteligente, tuyo."
 
+#. # TAG: tracking_protection
 #. Obsolete title, do not remove
-#: firefox/family/index.lang:80
+#: firefox/family/index.lang:96
 msgid "Get it on iPhones and iPads"
 msgstr "Consíguelo en iPhones y iPads"
 
-#: firefox/family/index.lang:85
+#. # TAG: tracking_protection
+#: firefox/family/index.lang:101
 msgid "Now with Tracking Protection."
 msgstr "Ahora con Protección de Rastreo"
 
-#: firefox/family/index.lang:90
-msgid "Browse the Web with friends."
-msgstr "Navega la web con tus amigos."
-
-#: firefox/family/index.lang:94
-msgid "Free, easy video conversations."
-msgstr "Conversaciones en video gratuitas y fáciles."
-
-#: firefox/family/index.lang:98
+#: firefox/family/index.lang:105
 msgid "Connect Firefox wherever you use it."
 msgstr "Conecta Firefox donde sea que lo uses."
+
+#~ msgid "Firefox — Desktop browser, Android, OS, Hello, Sync, Marketplace"
+#~ msgstr ""
+#~ "Firefox: Navegador de escritorio, Android, OS, Hello, Sync, Marketplace"
+
+#~ msgid "Browse the Web with friends."
+#~ msgstr "Navega la web con tus amigos."
+
+#~ msgid "Free, easy video conversations."
+#~ msgstr "Conversaciones en video gratuitas y fáciles."
 
 #~ msgid "Get just what you need."
 #~ msgstr "Obtén solo lo que necesitas."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-07 13:12+0000\n"
+"POT-Creation-Date: 2017-01-25 05:09+0000\n"
 "PO-Revision-Date: 2015-11-13 19:32+0000\n"
 "Last-Translator: Mauricio Navarro Miranda <mautematico@mozilla-mexico.org>\n"
 "Language-Team: none\n"
@@ -11,7 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
+"X-Generator: Translate Toolkit 2.0.0rc3\n"
 "X-POOTLE-MTIME: 1447443123.000000\n"
 
 #. Used as page description (HTML meta tag)
@@ -125,10 +125,12 @@ msgstr ""
 msgid "Screenshot"
 msgstr "Captura de pantalla"
 
+#. # TAG: firefox_dev_fall
 #: firefox/developer.lang:75
 msgid "Visual Editing Tools"
 msgstr "Herramientas de edición visual"
 
+#. # TAG: firefox_dev_fall
 #: firefox/developer.lang:80
 msgid ""
 "Visually edit CSS and HTML animations playing on the page from the Inspector "
@@ -139,14 +141,17 @@ msgstr ""
 "panel Inpector. Comprueba la alineación, las dimensiones y el relleno de "
 "cualquier elemento con las herramientas Regla y Medida."
 
+#. # TAG: firefox_dev_fall
 #: firefox/developer.lang:85
 msgid "Learn more about Visual Editing Tools"
 msgstr "Descubre las herramientas de edición visual"
 
+#. # TAG: firefox_dev_fall
 #: firefox/developer.lang:90
 msgid "DevTools Challenger"
 msgstr "Prueba DevTools Challenger"
 
+#. # TAG: firefox_dev_fall
 #: firefox/developer.lang:95
 msgid ""
 "Use Developer Edition’s visual animation and CSS editing tools to explore "
@@ -156,6 +161,7 @@ msgstr ""
 "de Desarrollador para explorar la profundidad del océano e interactuar con "
 "las criaturas mas extrañas."
 
+#. # TAG: firefox_dev_fall
 #: firefox/developer.lang:100
 msgid "Try DevTools Challenger"
 msgstr "Prueba el DevTools Challenger"
@@ -177,31 +183,11 @@ msgstr ""
 msgid "Learn more about Performance Tools"
 msgstr "Conoce más sobre Herramientas de rendimiento"
 
-#. OBSOLETE STRING
-#: firefox/developer.lang:117
-msgid "WebIDE"
-msgstr "WebIDE"
-
-#. OBSOLETE STRING
-#: firefox/developer.lang:122
-msgid ""
-"Develop, deploy and debug Firefox OS apps directly in your browser, or on a "
-"Firefox OS device, with this tool that replaces App Manager."
-msgstr ""
-"Desarrollar, implementar y depurar las aplicaciones de Firefox OS en tu "
-"navegador o en un dispositivo Firefox OS, con esta herramienta reemplazarás "
-"al administrador de aplicaciones."
-
-#. OBSOLETE STRING
-#: firefox/developer.lang:127
-msgid "Learn more about WebIDE"
-msgstr "Conoce más sobre WebIDE"
-
-#: firefox/developer.lang:131
+#: firefox/developer.lang:116
 msgid "Responsive Design View"
 msgstr "Vista de diseño adaptable"
 
-#: firefox/developer.lang:135
+#: firefox/developer.lang:120
 msgid ""
 "See how your Website or Web app will look on different screen sizes without "
 "changing the size of your browser window."
@@ -209,15 +195,15 @@ msgstr ""
 "Mira cómo tu sitio web o una aplicación web se verá de diferentes tamaños "
 "sin cambiar el tamaño de la ventana de tu navegador."
 
-#: firefox/developer.lang:139
+#: firefox/developer.lang:124
 msgid "Learn more about Responsive Design View"
 msgstr "Conoce más sobre vista de diseño adaptable"
 
-#: firefox/developer.lang:143
+#: firefox/developer.lang:128
 msgid "Valence"
 msgstr "Valence"
 
-#: firefox/developer.lang:147
+#: firefox/developer.lang:132
 msgid ""
 "Develop and debug your apps across multiple browsers and devices with this "
 "powerful extension that comes pre-installed with Firefox Developer Edition."
@@ -226,15 +212,15 @@ msgstr ""
 "dispositivos con esta poderosa extensión que viene pre-instalada con Firefox "
 "Developer Edition."
 
-#: firefox/developer.lang:151
+#: firefox/developer.lang:136
 msgid "Learn more about Valence"
 msgstr "Conoce más sobre Valence"
 
-#: firefox/developer.lang:155
+#: firefox/developer.lang:140
 msgid "Web Audio Editor"
 msgstr "Editor de audio web"
 
-#: firefox/developer.lang:159
+#: firefox/developer.lang:144
 msgid ""
 "Inspect and interact with Web Audio API in real time to ensure that all "
 "audio nodes are connected in the way you expect."
@@ -242,15 +228,15 @@ msgstr ""
 "Inspecciona e interactúa con Web Audio API en tiempo real para asegurar que "
 "todos los nodos de audio están conectados de la forma que tu esperas."
 
-#: firefox/developer.lang:163
+#: firefox/developer.lang:148
 msgid "Learn more about Web Audio Editor"
 msgstr "Conoce más sobre Web Audio Editor"
 
-#: firefox/developer.lang:167
+#: firefox/developer.lang:152
 msgid "Page Inspector"
 msgstr "Inspector de página"
 
-#: firefox/developer.lang:171
+#: firefox/developer.lang:156
 msgid ""
 "Examine the HTML and CSS of any Web page and easily modify the structure and "
 "layout of a page."
@@ -258,15 +244,15 @@ msgstr ""
 "Examina el HTML y CSS de cualquier página web y modifica facilmente la "
 "estructura y distribución de la página."
 
-#: firefox/developer.lang:175
+#: firefox/developer.lang:160
 msgid "Learn more about Page Inspector"
 msgstr "Conoce más sobre Page Inspector"
 
-#: firefox/developer.lang:179
+#: firefox/developer.lang:164
 msgid "Web Console"
 msgstr "Web Console"
 
-#: firefox/developer.lang:183
+#: firefox/developer.lang:168
 msgid ""
 "See logged information associated with a Web page and use Web Console to "
 "interact with Web pages using JavaScript."
@@ -274,15 +260,15 @@ msgstr ""
 "Observa la información registrada asociada con una página Web y usa Web "
 "Console para interactuar con páginas Web usando JavaScript."
 
-#: firefox/developer.lang:187
+#: firefox/developer.lang:172
 msgid "Learn more about Web Console"
 msgstr "Conoce más sobre Web Console"
 
-#: firefox/developer.lang:191
+#: firefox/developer.lang:176
 msgid "JavaScript Debugger"
 msgstr "Depurador JavaScript"
 
-#: firefox/developer.lang:195
+#: firefox/developer.lang:180
 msgid ""
 "Step through JavaScript code and examine or modify its state to help track "
 "down bugs."
@@ -290,15 +276,15 @@ msgstr ""
 "Navega a través del código JavaScript y examina o modifica su estado para "
 "ayudar a localizar errores."
 
-#: firefox/developer.lang:199
+#: firefox/developer.lang:184
 msgid "Learn more about JavaScript Debugger"
 msgstr "Conoce más sobre el depurador JavaScript"
 
-#: firefox/developer.lang:203
+#: firefox/developer.lang:188
 msgid "Network Monitor"
 msgstr "Monitor de red"
 
-#: firefox/developer.lang:207
+#: firefox/developer.lang:192
 msgid ""
 "See all the network requests your browser makes, how long each request takes "
 "and details of each request."
@@ -306,15 +292,15 @@ msgstr ""
 "Observa todas las peticiones de red que realiza tu navegador, cuánto tiempo "
 "tarda cada petición y detalles de cada petición."
 
-#: firefox/developer.lang:211
+#: firefox/developer.lang:196
 msgid "Learn more about Network Monitor"
 msgstr "Conoce más sobre Network Monitor"
 
-#: firefox/developer.lang:215
+#: firefox/developer.lang:200
 msgid "Style Editor"
 msgstr "Editor de estilos"
 
-#: firefox/developer.lang:219
+#: firefox/developer.lang:204
 msgid ""
 "View and edit CSS styles associated with a Web page, create new ones and "
 "apply existing CSS stylesheets to any page."
@@ -322,27 +308,27 @@ msgstr ""
 "Mira y edita estilos CSS asociados con una página Web, crea nuevos estilos y "
 "aplica hojas de estilo CSS existentes en cualquier página."
 
-#: firefox/developer.lang:223
+#: firefox/developer.lang:208
 msgid "Learn more about Style Editor"
 msgstr "Conoce más sobre el editor de estilos"
 
-#: firefox/developer.lang:227
+#: firefox/developer.lang:212
 msgid "Choose Firefox"
 msgstr "Elegir Firefox"
 
 #. The following strings are used for the tour displayed on /firstrun
 #. https://www.mozilla.org/firefox/35.0a2/firstrun/
-#: firefox/developer.lang:233
+#: firefox/developer.lang:218
 msgid "Welcome to Firefox Developer Edition"
 msgstr "Bienvenido a Firefox Developer Edition"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:238
+#: firefox/developer.lang:223
 msgid "Developer Tools"
 msgstr "Herramientas para desarrolladores"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:243
+#: firefox/developer.lang:228
 msgid ""
 "The most complete browser made just for developers, Firefox Developer "
 "Edition has every dev tool you’ll need built right in."
@@ -351,37 +337,18 @@ msgstr ""
 "Developer Edition contiene todas las herramientas de desarrollo que "
 "necesitas."
 
-#. OBSOLETE STRING
-#: firefox/developer.lang:248
-msgid "Next: WebIDE"
-msgstr "Siguiente: WebIDE"
-
-#. OBSOLETE STRING
-#: firefox/developer.lang:253
-msgid "Try WebIDE"
-msgstr "Prueba WebIDE"
-
-#. OBSOLETE STRING
-#: firefox/developer.lang:258
-msgid ""
-"Develop, deploy and debug Firefox OS apps directly in your browser or on a "
-"Firefox OS device."
-msgstr ""
-"Crea, despliega y depura aplicaciones Firefox OS en tu navegador o en un "
-"dispositivo Firefox OS."
-
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:263
+#: firefox/developer.lang:233
 msgid "Next: Sync"
 msgstr "Siguiente: Sync"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:268
+#: firefox/developer.lang:238
 msgid "Important"
 msgstr "Importante"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:273
+#: firefox/developer.lang:243
 msgid ""
 "Sync your new Developer Edition profile to your Firefox Account to access "
 "bookmarks, browsing history, passwords and more from your existing Firefox "
@@ -392,22 +359,22 @@ msgstr ""
 "perfil de Firefox existente."
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:278
+#: firefox/developer.lang:248
 msgid "Sync now"
 msgstr "Sincronizar ahora"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:283
+#: firefox/developer.lang:253
 msgid "No thanks"
 msgstr "No gracias"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:288
+#: firefox/developer.lang:258
 msgid "Before you go&hellip;"
 msgstr "Antes de que te vayas&&hellip;"
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:293
+#: firefox/developer.lang:263
 msgid ""
 "If you continue without syncing your new Developer Edition profile, you "
 "could lose access to important browsing data from your existing Firefox "
@@ -418,15 +385,15 @@ msgstr ""
 "existente."
 
 #. UI Tour: don't add HTML tags in this string
-#: firefox/developer.lang:298
+#: firefox/developer.lang:268
 msgid "To sync now, choose the Sync option from this menu."
 msgstr "Para sincronizar ahora, elige la opción Sync de éste menú."
 
-#: firefox/developer.lang:302
+#: firefox/developer.lang:272
 msgid "Welcome to <span>Firefox Developer Edition</span>"
 msgstr "Bienvenido a <span>Firefox Developer Edition</span>"
 
-#: firefox/developer.lang:306
+#: firefox/developer.lang:276
 msgid ""
 "Get to know the features that make it the most complete browser for building "
 "the Web."
@@ -434,11 +401,11 @@ msgstr ""
 "Conoce las características que lo hacen el navegador más completo para "
 "construir la Web."
 
-#: firefox/developer.lang:310
+#: firefox/developer.lang:280
 msgid "Important: Sync your new profile"
 msgstr "Importante: Sincroniza tu nuevo perfil"
 
-#: firefox/developer.lang:314
+#: firefox/developer.lang:284
 msgid ""
 "Developer Edition comes with a new profile so you can run it alongside other "
 "versions of Firefox."
@@ -446,7 +413,7 @@ msgstr ""
 "Developer Edition viene con un nuevo perfil para que puedas ejecutarlo en "
 "otras versiones de Firefox."
 
-#: firefox/developer.lang:318
+#: firefox/developer.lang:288
 msgid ""
 "To access your bookmarks, browsing history and more, you need to sync the "
 "profile with your existing Firefox Account, or create a new one."
@@ -454,11 +421,11 @@ msgstr ""
 "Para acceder a tus marcadores, historial de navegación y más, necesitas "
 "sincronizar el perfil con tu cuenta Firefox existente, o crear una nueva."
 
-#: firefox/developer.lang:322
+#: firefox/developer.lang:292
 msgid "Want the old look back?"
 msgstr "¿Quieres el estilo antiguo de regreso?"
 
-#: firefox/developer.lang:326
+#: firefox/developer.lang:296
 msgid ""
 "If you want the familiar look and feel of Firefox Aurora back, we’ve made it "
 "super easy for you."
@@ -466,9 +433,36 @@ msgstr ""
 "Si quieres el aspecto familiar de Firefox Aurora de regreso, lo hemos hecho "
 "súper fácil para ti."
 
-#: firefox/developer.lang:330
+#: firefox/developer.lang:300
 msgid "Features and tools"
 msgstr "Características y herramientas"
+
+#~ msgid "WebIDE"
+#~ msgstr "WebIDE"
+
+#~ msgid ""
+#~ "Develop, deploy and debug Firefox OS apps directly in your browser, or on "
+#~ "a Firefox OS device, with this tool that replaces App Manager."
+#~ msgstr ""
+#~ "Desarrollar, implementar y depurar las aplicaciones de Firefox OS en tu "
+#~ "navegador o en un dispositivo Firefox OS, con esta herramienta "
+#~ "reemplazarás al administrador de aplicaciones."
+
+#~ msgid "Learn more about WebIDE"
+#~ msgstr "Conoce más sobre WebIDE"
+
+#~ msgid "Next: WebIDE"
+#~ msgstr "Siguiente: WebIDE"
+
+#~ msgid "Try WebIDE"
+#~ msgstr "Prueba WebIDE"
+
+#~ msgid ""
+#~ "Develop, deploy and debug Firefox OS apps directly in your browser or on "
+#~ "a Firefox OS device."
+#~ msgstr ""
+#~ "Crea, despliega y depura aplicaciones Firefox OS en tu navegador o en un "
+#~ "dispositivo Firefox OS."
 
 #~ msgid "Introducing the only browser made for developers like you."
 #~ msgstr "Presentando el único navegador hecho para desarrolladores como tú."
