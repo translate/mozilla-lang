@@ -3,117 +3,152 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-06 17:50+0100\n"
+"POT-Creation-Date: 2017-01-25 05:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.11.0-rc1\n"
+"X-Generator: Translate Toolkit 2.0.0rc3\n"
 
-#: tabzilla/tabzilla.lang:2
+#: tabzilla/tabzilla.lang:3
 msgid "Mozilla links"
 msgstr "Liens Mozilla"
 
-#: tabzilla/tabzilla.lang:6
+#: tabzilla/tabzilla.lang:7
 msgid "Close (Esc)"
 msgstr "Fermer (Échap)"
 
-#: tabzilla/tabzilla.lang:10
+#: tabzilla/tabzilla.lang:11
 msgid "Firefox OS debuts <span>at Mobile World Congress!</span>"
 msgstr "Débuts de Firefox OS <span>au Mobile World Congress&nbsp;!</span>"
 
-#: tabzilla/tabzilla.lang:14
+#: tabzilla/tabzilla.lang:15
 msgid "Learn more"
 msgstr "En savoir plus"
 
-#: tabzilla/tabzilla.lang:18
+#: tabzilla/tabzilla.lang:19
 msgid "Mission"
 msgstr "Mission"
 
-#: tabzilla/tabzilla.lang:22
+#: tabzilla/tabzilla.lang:23
 msgid "About"
 msgstr "À propos"
 
-#: tabzilla/tabzilla.lang:26
+#: tabzilla/tabzilla.lang:27
 msgid "Projects"
 msgstr "Projets"
 
-#: tabzilla/tabzilla.lang:30
+#: tabzilla/tabzilla.lang:31
 msgid "Support"
 msgstr "Assistance"
 
-#: tabzilla/tabzilla.lang:34
+#: tabzilla/tabzilla.lang:35
 msgid "Developer Network"
 msgstr "Réseau développeurs"
 
-#: tabzilla/tabzilla.lang:38
+#: tabzilla/tabzilla.lang:39
 msgid "Products"
 msgstr "Logiciels"
 
-#: tabzilla/tabzilla.lang:42
+#: tabzilla/tabzilla.lang:43
 msgid "Innovations"
 msgstr "Innovations"
 
-#: tabzilla/tabzilla.lang:46
+#. Noun, links to https://www.mozilla.org/research
+#: tabzilla/tabzilla.lang:48
+msgid "Research"
+msgstr "Rechercher"
+
+#: tabzilla/tabzilla.lang:52
 msgid "Get Involved"
 msgstr "Participer"
 
-#: tabzilla/tabzilla.lang:50
+#: tabzilla/tabzilla.lang:56
 msgid "Volunteer"
 msgstr "Contribuer"
 
-#: tabzilla/tabzilla.lang:54
+#: tabzilla/tabzilla.lang:60
 msgid "Careers"
 msgstr "Carrières"
 
-#: tabzilla/tabzilla.lang:58
+#: tabzilla/tabzilla.lang:64
 msgid "Find us"
 msgstr "Nous trouver"
 
-#: tabzilla/tabzilla.lang:62
+#: tabzilla/tabzilla.lang:68
 msgid "Join us"
 msgstr "Nous rejoindre"
 
-#: tabzilla/tabzilla.lang:66
+#: tabzilla/tabzilla.lang:72
 msgid "Website Directory"
 msgstr "Annuaire des sites web"
 
-#: tabzilla/tabzilla.lang:70
+#: tabzilla/tabzilla.lang:76
 msgid "Search Mozilla sites"
 msgstr "Rechercher des sites Mozilla"
 
-#: tabzilla/tabzilla.lang:74
+#: tabzilla/tabzilla.lang:80
 msgid "Search"
 msgstr "Rechercher"
 
 #. This is a verb, in the 'Get involved' column. Goes to partnership page.
-#: tabzilla/tabzilla.lang:79
+#: tabzilla/tabzilla.lang:85
 msgid "Partner"
 msgstr "Partenariats"
 
 #. Slogan for Firefox OS promo
-#: tabzilla/tabzilla.lang:84
+#: tabzilla/tabzilla.lang:90
 msgid "Look ahead"
 msgstr "Regardez l’avenir"
 
 #. Link for slogan
-#: tabzilla/tabzilla.lang:89
+#: tabzilla/tabzilla.lang:95
 msgid "Learn all about Firefox OS"
 msgstr "Tout savoir sur Firefox OS"
 
-#. Translation bar: %s will be replaced with a language name like English. You can instead hardcode your language name in the string if you want.
-#: tabzilla/tabzilla.lang:94
-msgid "Would you like to see this page in %s?"
-msgstr "Souhaitez-vous afficher cette page en français ?"
+#. You can replace 'in your language' in this string by the name of your language if you want.
+#: tabzilla/tabzilla.lang:100
+msgid "Would you like to see this page in your language?"
+msgstr ""
 
 #. Translation bar: Your translation can just say Yes
-#: tabzilla/tabzilla.lang:99
+#: tabzilla/tabzilla.lang:105
 msgid "Yes, please!"
 msgstr "Oui"
 
 #. Translation bar: Your translation can just say No
-#: tabzilla/tabzilla.lang:104
+#: tabzilla/tabzilla.lang:110
 msgid "No, thanks."
 msgstr "Non"
+
+#. Fundraising campaign in Tabzilla
+#: tabzilla/tabzilla.lang:115
+msgid "Support Mozilla"
+msgstr ""
+
+#. Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
+#. Screenshot: https://bug935719.bugzilla.mozilla.org/attachment.cgi?id=8499330
+#: tabzilla/tabzilla.lang:121
+msgid "Looks like you’re using an older version of Firefox."
+msgstr "Il semble que vous utilisiez une ancienne version de Firefox."
+
+#. Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
+#: tabzilla/tabzilla.lang:126
+msgid "Update to stay fast and safe."
+msgstr "Mettre à jour Firefox vous garantit rapidité et sécurité."
+
+#. Update bar: optional bar used to warn visitors if their version of Firefox is obsolete
+#: tabzilla/tabzilla.lang:131
+msgid "Later"
+msgstr "Plus tard"
+
+#. # TAG: gear_store
+#. Used in promo box
+#: tabzilla/tabzilla.lang:137
+msgid "Official Mozilla gear is here"
+msgstr "Les produits dérivés officiels de Mozilla sont disponibles"
+
+#~ msgid "Would you like to see this page in %s?"
+#~ msgstr "Souhaitez-vous afficher cette page en français ?"
