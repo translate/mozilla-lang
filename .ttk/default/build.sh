@@ -5,6 +5,11 @@ source ttk.inc.sh
 langs=$(which_langs $*)
 log_info "Processing languages '$langs'"
 
+
+# Dynamically get list of common files accross all languages in Mozilla's Mozilla.org git repo.
+MINIMUM_COMMON_FILES=$( python ${PO_DIR}/.ttk/default/get_mozgit_common_files.py $SOURCE_DIR)
+
+
 function update_source() {
 	log_info "Updating '$SOURCE_DIR'"
 	if [ ! -d $SOURCE_DIR/.git ]; then
