@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-25 05:09+0000\n"
-"PO-Revision-Date: 2017-05-26 00:50+0000\n"
-"Last-Translator: Khaleel Jageer <jskcse4@gmail.com>\n"
+"PO-Revision-Date: 2017-05-26 02:58+0000\n"
+"Last-Translator: Mohammed  Adam <adamlaskas24@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1495759824.000000\n"
+"X-POOTLE-MTIME: 1495767518.000000\n"
 
 #. Used as page description (HTML meta tag)
 #: firefox/developer.lang:8
@@ -171,6 +171,8 @@ msgid ""
 "See how your Website or Web app will look on different screen sizes without "
 "changing the size of your browser window."
 msgstr ""
+"உலாவி சாளர அளவை மாற்றாமல் உங்கள் வலைத்தளம் அல்லது வலை செயலிகள் வெவ்வேறு திரை அளவுகளில் "
+"எப்படி தோன்றுகிறது என்பதை பாருங்கள்."
 
 #: firefox/developer.lang:124
 msgid "Learn more about Responsive Design View"
@@ -178,7 +180,7 @@ msgstr "பதிலளிப்பு வடிவமைப்புக் க�
 
 #: firefox/developer.lang:128
 msgid "Valence"
-msgstr ""
+msgstr "இணைதிறன்"
 
 #: firefox/developer.lang:132
 msgid ""
@@ -192,21 +194,23 @@ msgstr "ஒத்திசைவு பற்றி கூடுதலாக அ
 
 #: firefox/developer.lang:140
 msgid "Web Audio Editor"
-msgstr ""
+msgstr "இணைய ஒலி திருத்தி"
 
 #: firefox/developer.lang:144
 msgid ""
 "Inspect and interact with Web Audio API in real time to ensure that all "
 "audio nodes are connected in the way you expect."
 msgstr ""
+"ஆய்வு மற்றும் அனைத்து ஒலிக்கருவி முனைகளில் நீங்கள் எதிர்பார்த்த வழியில் சம்பந்தம் இருக்கும் "
+"என்று உறுதி செய்ய நேரலையில் வலை ஆடியோ API உடன் தொடர்பு கொள்க."
 
 #: firefox/developer.lang:148
 msgid "Learn more about Web Audio Editor"
-msgstr ""
+msgstr "இணைய ஒலி திருத்தி பற்றி மேலும் அறிய "
 
 #: firefox/developer.lang:152
 msgid "Page Inspector"
-msgstr "பக்க ஆய்வி"
+msgstr "பக்க மேற்பார்வையாளர்"
 
 #: firefox/developer.lang:156
 msgid ""
@@ -234,17 +238,19 @@ msgstr "வலை பணிமுனையம் பற்றி மேலும
 
 #: firefox/developer.lang:176
 msgid "JavaScript Debugger"
-msgstr "JavaScript வழுநீக்கி"
+msgstr "ஜாவா ஸ்கிரிப்ட் வழுநீக்கி"
 
 #: firefox/developer.lang:180
 msgid ""
 "Step through JavaScript code and examine or modify its state to help track "
 "down bugs."
 msgstr ""
+"வழுக்களைக் கண்காணிக்க ஜாவா ஸ்கிரிப்ட் நிரல் ஊடாக சென்று அதனை ஆய்வு (அ) அதன் நிலையை "
+"மாற்றுக."
 
 #: firefox/developer.lang:184
 msgid "Learn more about JavaScript Debugger"
-msgstr "JavaScript வழுநீக்கி பற்றி மேலும் அறிக"
+msgstr "ஜாவா ஸ்கிரிப்ட் வழுநீக்கி பற்றி மேலும் அறிக"
 
 #: firefox/developer.lang:188
 msgid "Network Monitor"
@@ -255,6 +261,8 @@ msgid ""
 "See all the network requests your browser makes, how long each request takes "
 "and details of each request."
 msgstr ""
+"உங்கள் உலாவி உருவாக்கும் பிணைய கோரிக்கைகள் அனைத்தையும், ஒவ்வொரு கோரிக்கை எடுக்கும் "
+"நேரத்தையும், ஒவ்வொரு கோரிக்கையின் விவரத்தையும் பார்க்கவும்."
 
 #: firefox/developer.lang:196
 msgid "Learn more about Network Monitor"
@@ -262,7 +270,7 @@ msgstr "பிணைய கண்காணிப்பு பற்றி மே
 
 #: firefox/developer.lang:200
 msgid "Style Editor"
-msgstr ""
+msgstr "பாணி தொகுப்பான்"
 
 #: firefox/developer.lang:204
 msgid ""
@@ -272,7 +280,7 @@ msgstr ""
 
 #: firefox/developer.lang:208
 msgid "Learn more about Style Editor"
-msgstr ""
+msgstr "பாணி தொகுப்பான் பற்றி மேலும் அறிய"
 
 #: firefox/developer.lang:212
 msgid "Choose Firefox"
@@ -327,7 +335,7 @@ msgstr "பரவாயில்லை நன்றி"
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:258
 msgid "Before you go&hellip;"
-msgstr ""
+msgstr "நீங்கள் செல்வதற்க்கு முன்&hellip;"
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:263
@@ -336,15 +344,17 @@ msgid ""
 "could lose access to important browsing data from your existing Firefox "
 "profile."
 msgstr ""
+"ஏற்கனவேயுள்ள பயர்பாக்ஸ் விவரக்குறிப்பில் புதிய உருவாக்குநர் விவரக்குறிப்புடன் ஒத்திசைக்காமல் "
+"தொடர்ந்தால், உங்களின் முக்கியமான உலாவல் தரவை அணுகும் வாய்ப்பை இழந்திருப்பீர்கள்."
 
 #. UI Tour: don't add HTML tags in this string
 #: firefox/developer.lang:268
 msgid "To sync now, choose the Sync option from this menu."
-msgstr ""
+msgstr "இப்பெழுதே ஒத்திசைக்க, பட்டியிலுள்ள ஒத்திசைவைத் தேர்க."
 
 #: firefox/developer.lang:272
 msgid "Welcome to <span>Firefox Developer Edition</span>"
-msgstr ""
+msgstr "<span>பயர்பாக்ஸ் உருவாக்குநர் பதிப்புக்கு</span> வரவேற்கிறோம்"
 
 #: firefox/developer.lang:276
 msgid ""
@@ -354,29 +364,35 @@ msgstr ""
 
 #: firefox/developer.lang:280
 msgid "Important: Sync your new profile"
-msgstr ""
+msgstr "முக்கியம்: உங்கள் புதிய சுயவிவரத்தை ஒத்திசை"
 
 #: firefox/developer.lang:284
 msgid ""
 "Developer Edition comes with a new profile so you can run it alongside other "
 "versions of Firefox."
 msgstr ""
+"உருவாக்குநர் பதிப்பு இப்போது புதிய விவரக்குறிப்புடன் வருவதால் நீங்கள் மற்ற பயர்பாக்ஸ் "
+"பதிப்புடன் இணையாக உலாவலாம் "
 
 #: firefox/developer.lang:288
 msgid ""
 "To access your bookmarks, browsing history and more, you need to sync the "
 "profile with your existing Firefox Account, or create a new one."
 msgstr ""
+"ஏற்கனவேயுள்ள உங்கள் பயர்பாக்ஸ் கணக்குடன் ஒத்திசைத்து அல்லது புதிய கணக்கை உருவாக்யோ உங்களின் "
+"உலாவல் வரலாறு, புத்தகக்குறிகள் மற்றும் பிறவற்றை அணுகவும்."
 
 #: firefox/developer.lang:292
 msgid "Want the old look back?"
-msgstr ""
+msgstr "பழைய தோற்றம் வேண்டுமா?"
 
 #: firefox/developer.lang:296
 msgid ""
 "If you want the familiar look and feel of Firefox Aurora back, we’ve made it "
 "super easy for you."
 msgstr ""
+"உங்களுக்கு பழக்கப்பட்ட பயர்பாக்ஸ் அரோராவின் தோற்றம் மற்றும் உணர்வை விரும்பினால், அதை "
+"எளிதாக மாற்ற வகைச் செய்துள்ளோம்."
 
 #: firefox/developer.lang:300
 msgid "Features and tools"
