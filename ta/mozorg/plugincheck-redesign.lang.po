@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-21 08:48+0000\n"
-"PO-Revision-Date: 2017-05-27 13:15+0000\n"
-"Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
+"PO-Revision-Date: 2017-05-30 03:46+0000\n"
+"Last-Translator: அருண் குமார் (Arun Kumar) <thangam.arunx@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1495890955.000000\n"
+"X-POOTLE-MTIME: 1496116005.000000\n"
 
 #. Page title (HTML attribute)
 #: mozorg/plugincheck-redesign.lang:6
@@ -153,18 +153,17 @@ msgid "How can Firefox help me?"
 msgstr "Firefox எனக்கு எப்படி உதவக்கூடும்?"
 
 #: mozorg/plugincheck-redesign.lang:120
-#, fuzzy
 msgid ""
 "In the future, Firefox will update plugins for you. Until then, you should "
 "regularly check this page and update your plugins to keep your Firefox safe."
 msgstr ""
-"எதிர்காலத்தில், உங்களுக்காக உங்கள் செருகு நிரல்களை Firefox புதுப்பிக்கும்.  அது வரை "
-"நீங்கள் பாதுகாப்பாக இருக்கு, இந்தப் பக்கத்தை அவ்வப்போது பார்த்து உங்கள் செருகு நிரல்களைப் "
+"எதிர்காலத்தில், உங்களுக்கான செருகு நிரல்களை பயர்பாக்ஸ் புதுப்பிக்கும். அது வரை நீங்கள் "
+"பாதுகாப்பாக இருக்க, இந்தப் பக்கத்தை அவ்வப்போது பார்த்து உங்கள் செருகு நிரல்களைப் "
 "புதுப்பித்துக்கொள்ள வேண்டும்."
 
 #: mozorg/plugincheck-redesign.lang:124
 msgid "How can I see which plugins I have installed in my Firefox?"
-msgstr ""
+msgstr "என்னுடைய பயர்பாக்ஸ் உலாவியில் நிறுவப்பட்டுள்ள செருகு நிரல்களைக் காண முடியுமா?"
 
 #: mozorg/plugincheck-redesign.lang:128
 msgid ""
@@ -174,47 +173,45 @@ msgstr ""
 
 #: mozorg/plugincheck-redesign.lang:132
 msgid "Open the <span class=\"menu\">menu</span>."
-msgstr ""
+msgstr "<span class=\"menu\">பட்டியைத்</span> திற."
 
 #: mozorg/plugincheck-redesign.lang:136
 msgid "Choose Add-ons."
-msgstr ""
+msgstr "துணை நிரலல்களைத் தேர்."
 
 #: mozorg/plugincheck-redesign.lang:140
 msgid "Click the plugins tab."
-msgstr ""
+msgstr "செருகு நிரல் கீற்றைச் சொடுக்கு."
 
 #: mozorg/plugincheck-redesign.lang:144
 msgid "How do I disable a plugin?"
 msgstr "ஒரு செருகு நிரலை எப்படி முடக்குவது?"
 
 #: mozorg/plugincheck-redesign.lang:148
-#, fuzzy
 msgid "In Firefox for desktop:"
-msgstr "மேல்திரைக்கான பயர்பாக்ஸ்"
+msgstr "கணினிக்கான பயர்பாக்சில்:"
 
 #: mozorg/plugincheck-redesign.lang:152
 msgid "Click on the drop down next to the plugin you wish to disable."
-msgstr ""
+msgstr "நீங்கள் முடக்க நினைக்கும் செருகியை அடுத்து கீழறங்கும் பட்டியலில் சொடுக்கு"
 
 #: mozorg/plugincheck-redesign.lang:156
 msgid "Select \"Never Activate\" from the available choices."
-msgstr ""
+msgstr "இருக்கும் தேர்வுகளில் \"நிரந்திர முடக்கும்\" என்பதைத் தேர்."
 
 #: mozorg/plugincheck-redesign.lang:160
-#, fuzzy
 msgid ""
 "Caution: Disabling a plugin means that you will no longer be able to do "
 "certain things. For example, if you disable Flash, you will not be able to "
 "watch videos on some streaming video websites."
 msgstr ""
 "கவனம்: ஒரு செருகு நிரலை முடக்கினால், அதன் பிறகு நீங்கள் சில செயல்களைச் செய்ய முடியாது "
-"போகக்கூடும்,. எடுத்துக்காட்டுக்கு, நீங்கள் Flash ஐ முடக்கினால், பிரபல வீடியோ ஸ்ட்ரீமிங் "
-"தளங்களில் உள்ள வீடியோக்களை நீங்கள் காண முடியாது."
+"போகக்கூடும்,. எடுத்துக்காட்டுக்கு, நீங்கள் ஃபிளாஷ் என்பதை முடக்கினால், பிரபல காணொளி ஓடத் "
+"தளங்களில் உள்ள காணொளிகளை காண முடியாது."
 
 #: mozorg/plugincheck-redesign.lang:164
 msgid "Back to Top"
-msgstr ""
+msgstr "உச்சத்திற்கு செல்"
 
 #. This is a button telling the user to update their plugin
 #: mozorg/plugincheck-redesign.lang:169
@@ -228,19 +225,18 @@ msgstr "செருகியின் சின்னம்"
 
 #. This is the string used to indicate that the plugin is up to date
 #: mozorg/plugincheck-redesign.lang:179
-#, fuzzy
 msgid "up to date"
-msgstr "புதுப்பிக்கப்பட்டது"
+msgstr "புதிய பதிப்புடன் உள்ளது"
 
 #. This is the string used to indicate that the plugin is unknown
 #: mozorg/plugincheck-redesign.lang:184
 msgid "unknown"
-msgstr "அறியாத"
+msgstr "தெரியாத"
 
 #. This is the string used to indicate that the plugin is outdated
 #: mozorg/plugincheck-redesign.lang:189
 msgid "outdated"
-msgstr ""
+msgstr "காலாவதியானது"
 
 #. This is the string used to indicate that the plugin is vulnerable
 #: mozorg/plugincheck-redesign.lang:194
