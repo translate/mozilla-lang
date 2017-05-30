@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-25 05:09+0000\n"
-"PO-Revision-Date: 2017-05-30 11:32+0000\n"
+"PO-Revision-Date: 2017-05-30 12:45+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ta\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1496143973.000000\n"
+"X-POOTLE-MTIME: 1496148327.000000\n"
 
 #: firefox/tracking-protection-tour.lang:8
 msgid "How Tracking Protection works"
@@ -37,13 +37,15 @@ msgstr "அடுத்து"
 
 #: firefox/tracking-protection-tour.lang:24
 msgid "Differences to expect"
-msgstr ""
+msgstr "எதிர்பார்க்கும் வேறுபாடுகள்"
 
 #: firefox/tracking-protection-tour.lang:28
 msgid ""
 "Some page areas may be missing, because they could allow third parties to "
 "track you across different websites."
 msgstr ""
+"சில பக்கப் பகுதிகள் காணப்படாமல் இருக்கலாம், ஏனெனில் அவை பல்வேறு வலைத்தளங்களில் உங்களைக் "
+"கண்காணிக்க மூன்றாம் தரப்பினரை அனுமதிக்கலாம்."
 
 #: firefox/tracking-protection-tour.lang:32
 msgid "2 of 3"
@@ -51,7 +53,7 @@ msgstr "3 இல் 2"
 
 #: firefox/tracking-protection-tour.lang:36
 msgid "Want to make changes?"
-msgstr ""
+msgstr "மாற்றங்களைச் செய்ய விரும்புகிறீர்களா?"
 
 #. # TAG: tp_tour_firefox_201602
 #: firefox/tracking-protection-tour.lang:41
@@ -59,6 +61,8 @@ msgid ""
 "It’s easy to turn off Tracking Protection for the website you’re on by "
 "clicking “Disable protection for this site.”"
 msgstr ""
+"நீங்கள் இருக்கும் வலைத்தளத்தில் தடமறியல் பாதுகாப்பை “இத்தளத்திற்கு தடமறியல் பாதுகாப்பை "
+"முடக்கு” என்பதைச் சொடுக்குவதின் மூலம் அணைப்பது எளிதானது."
 
 #. Obsolete string (do not remove)
 #: firefox/tracking-protection-tour.lang:46
@@ -66,12 +70,16 @@ msgid ""
 "It’s easy to turn off Tracking Protection for the website you’re on by "
 "clicking “Disable protection for this session.”"
 msgstr ""
+"நீங்கள் இருக்கும் வலைத்தளத்தில் தடமறியல் பாதுகாப்பை “இந்த அமர்விற்கு தடமறியல் பாதுகாப்பை "
+"முடக்கு” என்பதைச் சொடுக்குவதின் மூலம் அணைப்பது எளிதானது."
 
 #: firefox/tracking-protection-tour.lang:50
 msgid ""
 "It’s easy to turn on Tracking Protection for the website you’re on by "
 "clicking “Enable protection.”"
 msgstr ""
+"நீங்கள் இருக்கும் வலைத்தளத்தில் தடமறியல் பாதுகாப்பை “பாதுகாப்பைச் செயற்படுத்து” என்பதைச் "
+"சொடுக்குவதின் மூலம் இயக்குவது எளிதானது."
 
 #: firefox/tracking-protection-tour.lang:54
 msgid "3 of 3"
@@ -95,16 +103,18 @@ msgstr "தடப் பாதுகாப்புடன் கூடிய அ
 msgid ""
 "Want to turn off this feature? <a href=\"%s\">Visit Privacy Preferences</a>"
 msgstr ""
+"இந்த வசதியை அணைக்க விரும்புகிறீர்களா? <a href=\"%s\">தனிமை முன்னுரிமைகளைப் "
+"பார்க்கவும்</a>"
 
 #. # TAG: tp_tour_firefox_201601
 #: firefox/tracking-protection-tour.lang:77
 msgid "Thanks for learning about Tracking Protection."
-msgstr ""
+msgstr "தடமறியல் பாதுகாப்பு பற்றி அறிந்து கொண்டமைக்கு நன்றி."
 
 #: firefox/tracking-protection-tour.lang:81
 msgid ""
 "Thanks for learning about the new Private Browsing with Tracking Protection."
-msgstr ""
+msgstr "தடமறியல் பாதுகாப்புடைய புதிய தனிப்பட்ட உலாவல் பற்றி அறிந்து கொண்டமைக்கு நன்றி."
 
 #. Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 #: firefox/tracking-protection-tour.lang:86
@@ -112,6 +122,8 @@ msgid ""
 "Learn more about how it works by visiting the <a rel=\"external\" href=\"%s"
 "\">FAQ page</a>."
 msgstr ""
+"<a rel=\"external\" href=\"%s\">அகேகே பக்கத்தைப்</a> பார்ப்பதின் மூலம் இது எப்படி "
+"வேலை செய்கிறது என்பது பற்றி மேலும் அறிந்து கொள்ளவும்."
 
 #: firefox/tracking-protection-tour.lang:90
 msgid "Restart tour"
