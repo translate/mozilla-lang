@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-21 08:48+0000\n"
-"PO-Revision-Date: 2017-05-30 07:58+0000\n"
+"PO-Revision-Date: 2017-05-30 08:52+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ta\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1496131128.000000\n"
+"X-POOTLE-MTIME: 1496134343.000000\n"
 
 #. Page title (HTML attribute)
 #: mozorg/plugincheck-redesign.lang:6
@@ -44,6 +44,8 @@ msgstr ""
 #: mozorg/plugincheck-redesign.lang:24
 msgid "Be sure to restart your Firefox after making all recommended updates."
 msgstr ""
+"பரிந்துரைக்கப்பட்ட எல்லா புதுப்பிப்புகளையும் செய்தபின் உங்கள் பயர்பாக்சை மீள்துவக்கவதில் "
+"கவனத்துடன் இருங்கள்."
 
 #: mozorg/plugincheck-redesign.lang:28
 msgid "You are using an older version of Firefox."
@@ -52,30 +54,37 @@ msgstr "நீங்கள் பயர்பாக்சின் பழைய 
 #: mozorg/plugincheck-redesign.lang:32
 msgid "Update now to keep your plugins running smoothly and securely."
 msgstr ""
+"உங்கள் செருகுநிரல்களை மென்மையாகவும் பாதுகாப்பாகவும் இயங்குமாறு வைத்திருக்க இப்போதே "
+"புதுப்பியுங்கள்."
 
 #: mozorg/plugincheck-redesign.lang:36
 msgid ""
 "Currently the plugin check service is only available to Firefox users on "
 "desktop and Android."
 msgstr ""
+"தற்போது செருகுநிரல் சோதனைச் சேவை பணிமேடை மற்றும் Android பயர்பாக்ஸ் பயனர்களுக்கு "
+"மட்டுமே கிடைக்கிறது."
 
 #: mozorg/plugincheck-redesign.lang:40
 msgid ""
 "No plugins were found. If you believe this is an error, <a href="
 "\"%(bugzilla_url)s\">please file a bug</a> and let us know."
 msgstr ""
+"எந்த செருகுநிரல்களும் காணப்படவில்லை. நீங்கள் இதனை பிழை என்று நினைத்தால், <a href="
+"\"%(bugzilla_url)s\">தயவுசெய்து ஒரு வழுவைப் பதிந்து</a> எங்களுக்குத் "
+"தெரியப்படுத்துங்கள்."
 
 #: mozorg/plugincheck-redesign.lang:44
 msgid "Common plugins you should check often."
-msgstr ""
+msgstr "நீங்கள் அடிக்கடி சோதிக்க வேண்டிய பொதுவான செருகுநிரல்கள்."
 
 #: mozorg/plugincheck-redesign.lang:48
 msgid "All plugins"
-msgstr ""
+msgstr "எல்லா செருகுநிரல்கள்"
 
 #: mozorg/plugincheck-redesign.lang:52
 msgid "These plugins are out of date. Please update."
-msgstr ""
+msgstr "இந்த செருகுநிரல்கள் காலாவதியானவை. தயவுசெய்து புதுப்பிக்கவும்."
 
 #: mozorg/plugincheck-redesign.lang:56
 msgid "Plugin"
@@ -96,14 +105,16 @@ msgstr ""
 #: mozorg/plugincheck-redesign.lang:72
 msgid "These plugins have an unknown status. Follow the links to learn more."
 msgstr ""
+"இந்த செருகுநிரல்கள் அறியப்படாத நிலையைக் கொண்டுள்ளன. மேலும் அறிய இணைப்புகளைப் "
+"பின்தொடரவும்."
 
 #: mozorg/plugincheck-redesign.lang:76
 msgid "Common Plugin Questions"
-msgstr ""
+msgstr "பொதுவான செருகுநிரல் கேள்விகள்"
 
 #: mozorg/plugincheck-redesign.lang:80
 msgid "Need help? Visit Mozilla Support."
-msgstr ""
+msgstr "உதவி தேவையா? மொசில்லா ஆதரவினைப் பார்க்கவும்."
 
 #: mozorg/plugincheck-redesign.lang:84
 msgid "What is a plugin?"
@@ -116,11 +127,10 @@ msgid ""
 msgstr ""
 
 #: mozorg/plugincheck-redesign.lang:92
-#, fuzzy
 msgid ""
 "They’re built outside of Firefox by companies like Adobe Systems and Apple."
 msgstr ""
-"இவை Adobe Systems and Apple போன்ற நிறுவனங்களால் Firefox க்கு வெளியே "
+"இவை Adobe Systems and Apple போன்ற நிறுவனங்களால் பயர்பாக்சுக்கு வெளியே "
 "உருவாக்கப்படுகின்றன."
 
 #: mozorg/plugincheck-redesign.lang:96
@@ -140,10 +150,13 @@ msgid ""
 "They can also cause interruptions that negatively affect your browsing "
 "experience."
 msgstr ""
+"அவை உங்கள் உலாவல் அனுபவத்தை எதிர்மறையாகப் பாதிக்கும் குறுக்கீடுகளையும் ஏற்படுத்தலாம்."
 
 #: mozorg/plugincheck-redesign.lang:108
 msgid "Updated plugins keep your browser working smoothly and safely."
 msgstr ""
+"உங்கள் உலாவியை மென்மையாக மற்றும் பாதுகாப்பாக வேலைசெய்யுமாறு வைத்திருக்க உங்கள் "
+"செருகுநிரல்களைப் புதுப்பியுங்கள்."
 
 #: mozorg/plugincheck-redesign.lang:112
 msgid ""
@@ -196,7 +209,7 @@ msgstr "கணினிக்கான பயர்பாக்சில்:"
 
 #: mozorg/plugincheck-redesign.lang:152
 msgid "Click on the drop down next to the plugin you wish to disable."
-msgstr "நீங்கள் முடக்க நினைக்கும் செருகியை அடுத்து கீழறங்கும் பட்டியலில் சொடுக்கு"
+msgstr "நீங்கள் முடக்க நினைக்கும் செருகியை அடுத்து கீழறங்கும் பட்டியலில் சொடுக்கு."
 
 #: mozorg/plugincheck-redesign.lang:156
 msgid "Select \"Never Activate\" from the available choices."
