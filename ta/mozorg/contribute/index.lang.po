@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-25 05:09+0000\n"
-"PO-Revision-Date: 2017-05-27 13:14+0000\n"
+"PO-Revision-Date: 2017-05-30 11:42+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -13,12 +13,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1495890875.000000\n"
+"X-POOTLE-MTIME: 1496144560.000000\n"
 
 #. Used for HTML title attribute
 #: mozorg/contribute/index.lang:6
 msgid "Volunteer Opportunities at Mozilla"
-msgstr ""
+msgstr "மொசில்லாவில் தன்னார்வப் பங்களிப்பு வாய்ப்புகள்"
 
 #. this string is used for accessibility reasons, it's not visible in the page
 #: mozorg/contribute/index.lang:11
@@ -46,7 +46,7 @@ msgstr "பங்குபெற"
 
 #: mozorg/contribute/index.lang:34
 msgid "Your country"
-msgstr ""
+msgstr "உங்கள் நாடு"
 
 #. This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
 #: mozorg/contribute/index.lang:39
@@ -154,7 +154,7 @@ msgstr ""
 
 #: mozorg/contribute/index.lang:137
 msgid "Get started"
-msgstr ""
+msgstr "தொடங்கவும்"
 
 #: mozorg/contribute/index.lang:141
 msgid "Not ready to dive in just yet?"
@@ -190,7 +190,7 @@ msgstr "அனைத்து நிகழ்ச்சிகளையும் �
 
 #: mozorg/contribute/index.lang:173
 msgid "Communicate"
-msgstr ""
+msgstr "தொடர்புகொள்ளவும்"
 
 #: mozorg/contribute/index.lang:177
 msgid "Mozilla communities"
@@ -198,11 +198,11 @@ msgstr "Mozilla சமூகங்கள்"
 
 #: mozorg/contribute/index.lang:181
 msgid "Mailing lists"
-msgstr ""
+msgstr "மடலாடற் குழு"
 
 #: mozorg/contribute/index.lang:185
 msgid "IRC channels"
-msgstr ""
+msgstr "IRC அலைவரிசைகள்"
 
 #: mozorg/contribute/index.lang:189
 msgid "More links"
@@ -236,12 +236,12 @@ msgstr ""
 #. Used as a toggle to display more content.
 #: mozorg/contribute/index.lang:219
 msgid "More"
-msgstr ""
+msgstr "மேலும்"
 
 #. Used as a toggle to display less content.
 #: mozorg/contribute/index.lang:224
 msgid "Less"
-msgstr ""
+msgstr "குறைவு"
 
 #: mozorg/contribute/index.lang:228
 msgid "Read more Mozillian stories"
@@ -391,11 +391,11 @@ msgstr ""
 
 #: mozorg/contribute/index.lang:358
 msgid "Name"
-msgstr ""
+msgstr "பெயர்"
 
 #: mozorg/contribute/index.lang:362
 msgid "Email address"
-msgstr ""
+msgstr "மின்னஞ்சல் முகவரி"
 
 #: mozorg/contribute/index.lang:366
 msgid "Country"
@@ -403,7 +403,7 @@ msgstr "நாடு"
 
 #: mozorg/contribute/index.lang:370
 msgid "select"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கவும்"
 
 #: mozorg/contribute/index.lang:374
 msgid "Why do you want to be a Mozilla volunteer?"
@@ -411,20 +411,19 @@ msgstr ""
 
 #: mozorg/contribute/index.lang:378
 msgid "(Optional)"
-msgstr ""
+msgstr "(விருப்பத்தேர்வு)"
 
 #: mozorg/contribute/index.lang:382
-#, fuzzy
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%(privacy)s"
 "\">this Privacy Policy</a>"
 msgstr ""
-"<a href=\"%s\">தனிமையுரிமை அறிகையில்</a> குறிப்பிட்டபடி என் சுய தகவல்களை கையாள "
-"மொசில்லாவிற்கு நான் விருப்பம் தெறிவிக்கிறேன்"
+"<a href=\"%(privacy)s\">தனிமையுரிமை அறிகையில்</a> குறிப்பிட்டபடி என் சுய "
+"தகவல்களைக் கையாள மொசில்லாவிற்கு நான் விருப்பம் தெறிவிக்கிறேன்"
 
 #: mozorg/contribute/index.lang:386
 msgid "Start contributing"
-msgstr ""
+msgstr "பங்களிக்க தொடங்குங்க"
 
 #: mozorg/contribute/index.lang:390
 msgid "Sign me up for community updates"
@@ -556,19 +555,19 @@ msgstr ""
 
 #: mozorg/contribute/index.lang:518
 msgid "month"
-msgstr ""
+msgstr "மாதம்"
 
 #: mozorg/contribute/index.lang:522
 msgid "year"
-msgstr ""
+msgstr "ஆண்டு"
 
 #: mozorg/contribute/index.lang:526
 msgid "Date"
-msgstr ""
+msgstr "நாள்"
 
 #: mozorg/contribute/index.lang:530
 msgid "Event"
-msgstr ""
+msgstr "நிகழ்வு"
 
 #: mozorg/contribute/index.lang:534
 msgid "Location"
@@ -580,7 +579,7 @@ msgstr "நகரம்"
 
 #: mozorg/contribute/index.lang:542
 msgid "Events"
-msgstr ""
+msgstr "நிகழ்வுகள்"
 
 #. Used as title of the thank you page displayed after users send the form
 #: mozorg/contribute/index.lang:547
@@ -645,11 +644,11 @@ msgstr ""
 
 #: mozorg/contribute/index.lang:591
 msgid "Hello!"
-msgstr ""
+msgstr "வணக்கம்!"
 
 #: mozorg/contribute/index.lang:595
 msgid "Your Name"
-msgstr ""
+msgstr "உங்கள் பெயர்"
 
 #: mozorg/contribute/index.lang:599
 msgid "In the meantime&hellip;"
