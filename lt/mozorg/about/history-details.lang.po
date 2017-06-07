@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-05 21:07+0000\n"
-"PO-Revision-Date: 2017-06-07 20:05+0000\n"
+"PO-Revision-Date: 2017-06-07 21:00+0000\n"
 "Last-Translator: Rimas Kudelis <rq@akl.lt>\n"
 "Language-Team: none\n"
 "Language: lt\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1496865956.000000\n"
+"X-POOTLE-MTIME: 1496869211.000000\n"
 
 #: mozorg/about/history-details.lang:5
 msgid "History of the Mozilla Project"
@@ -91,12 +91,18 @@ msgid ""
 "many improvements to the browser, email client and other applications "
 "included in the suite, but not many people were using it."
 msgstr ""
+"Po kelerių metų vystymo, 2002-aisiais, buvo išleista <a href=\"%(mozilla1)s"
+"\">„Mozilla 1.0“</a> – pirmoji stambi šio programų paketo laida. Šioje "
+"versijoje buvo nemenkai patobulinta naršyklė, el. pašto programa ir kitos į "
+"ją įtrauktos programos, tačiau naudojosi šiuo paketu palyginus nedaug žmonių."
 
 #: mozorg/about/history-details.lang:37
 msgid ""
 "By 2002, <a href=\"%(over90)s\">well over 90%% of Internet users</a> were "
 "browsing with Internet Explorer."
 msgstr ""
+"2002-aisiais <a href=\"%(over90)s\">virš 90%% internautų</a> naršymui "
+"naudojosi „Internet Explorer“ naršykle."
 
 #: mozorg/about/history-details.lang:41
 msgid ""
@@ -105,6 +111,11 @@ msgid ""
 "with the goal of providing the <a href=\"%(charter)s\">best possible "
 "browsing experience</a> to the widest possible set of people."
 msgstr ""
+"Nedaugelis pastebėjo, kad tais pačiais metais buvo išleista ir pirmoji "
+"„Phoenix“ naršyklės, vėliau pervardintos į „Firefox“, laida. „Mozillos“ "
+"bendruomenės nariai šią naršyklę išleido, siekdami sukurti <a href="
+"\"%(charter)s\">geriausią įmanomą naršymo patirtį</a> plačiausiam žmonių "
+"ratui."
 
 #: mozorg/about/history-details.lang:45
 msgid ""
@@ -112,6 +123,9 @@ msgid ""
 "\"%(foundation)s\">independent non-profit organization</a> supported by "
 "individual donors and a variety of companies."
 msgstr ""
+"2003-iaisiais projekto nariai įkūrė „Mozilla Foundation“ fondą – <a href="
+"\"%(foundation)s\">nepriklausomą, ne pelno siekiančią organizaciją</a>, "
+"remiamą pavienių asmenų ir aibės kompanijų."
 
 #: mozorg/about/history-details.lang:49
 msgid ""
@@ -120,6 +134,9 @@ msgid ""
 "<a href=\"%(manifesto)s\">openness, innovation and opportunity</a> on the "
 "Internet."
 msgstr ""
+"„Mozilla Foundation“ perėmė „Mozillos“ projekto kasdienių veiklų valdymo "
+"naštą, o taip pat įsipareigojo skleisti ir skatinti <a href=\"%(manifesto)s"
+"\">atvirumą, inovatyvumą ir lygias galimybes visiems</a> internete."
 
 #: mozorg/about/history-details.lang:53
 msgid ""
@@ -127,6 +144,10 @@ msgid ""
 "Thunderbird, and expanding to new areas, such as providing <a href="
 "\"%(grants)s\">grants</a> to support accessibility improvements on the Web."
 msgstr ""
+"Šios veiklos rėmuose Fondas leido programinę įrangą, kaip antai „Firefox“ "
+"naršyklė ir „Thunderbird“ el. pašto programa, o taip pat ėmėsi ir kitų "
+"sričių, tokiu, kaip <a href=\"%(grants)s\">grantų</a> skyrimas už prieigos "
+"neįgaliesiems tobulinimą saityne."
 
 #: mozorg/about/history-details.lang:57
 msgid ""
@@ -134,18 +155,26 @@ msgid ""
 "big success — in less than a year, it was downloaded <a href=\"%(millions)s"
 "\">over 100 million times</a>."
 msgstr ""
+"<a href=\"%(firefox1)s\">„Firefox 1.0“</a>, išleista 2004-aisiais metais, "
+"pasirodė itin sėkmingai – mažiau nei per metus ji buvo parsisiųsta <a href="
+"\"%(millions)s\">daugiau kaip 100 milijonų kartų</a>."
 
 #: mozorg/about/history-details.lang:61
 msgid ""
 "New versions of Firefox have come out regularly since then and keep setting "
 "new records. The popularity of Firefox has helped bring choice back to users."
 msgstr ""
+"Nuo tada periodiškai leidžiamos naujos „Firefox“ laidos ir toliau gerina "
+"rekordus. „Firefox“ naršyklės populiarumas ženkliai prisidėjo prie išaugusio "
+"naršyklių pasirinkimo."
 
 #: mozorg/about/history-details.lang:65
 msgid ""
 "The renewed competition has <a href=\"%(innovation)s\">accelerated "
 "innovation</a> and improved the Internet for everyone."
 msgstr ""
+"Sugrįžusi konkurencija <a href=\"%(innovation)s\">paskatino inovacijas</a> "
+"ir padarė internetą geresniu kiekvienam."
 
 #: mozorg/about/history-details.lang:69
 msgid ""
@@ -153,14 +182,14 @@ msgid ""
 "full power of the Web on smartphones and once again offer control and choice "
 "to a new generation of people coming online."
 msgstr ""
-"2013 metais mes pristatėme „<a href=\"%(firefoxos)s\">Firefox OS</a>“ "
-"operacinę sistemą, atskleisiančią visas saityno galimybes išmaniuosiuose "
-"telefonuose ir suteiksiančią svertus ir pasirinkimo laisvę naujai internautų "
-"kartai."
+"2013-aisiais metais mes pristatėme „<a href=\"%(firefoxos)s\">Firefox OS</"
+"a>“ operacinę sistemą, siekdami atskleisti visas saityno galimybes "
+"išmaniuosiuose telefonuose ir suteikti svertus ir pasirinkimo laisvę naujai "
+"interneto naudotojų kartai."
 
 #: mozorg/about/history-details.lang:73
 msgid "Mozilla also celebrated its 15th anniversary in 2013."
-msgstr ""
+msgstr "Taip pat 2013-aiais mes atšventėme 15-tąjį „Mozillos“ gimtadienį."
 
 #: mozorg/about/history-details.lang:77
 msgid ""
@@ -168,12 +197,18 @@ msgid ""
 "collaborating in open source projects and that great end user products can "
 "be produced as open source software."
 msgstr ""
+"Per šiuos metus mūsų bendruomenė tapo puikiu įrodymu, jog komercinėms "
+"organizacijoms dalyvavimas atvirojo kodo projektuose gali būti naudingas, o "
+"taip pat – kad tokiuose projektuose gali gimti puikūs galutiniams "
+"naudotojams skirti produktai."
 
 #: mozorg/about/history-details.lang:81
 msgid ""
 "More people than ever before are using the Internet and are experiencing it "
 "<a href=\"%(all)s\">in their own language</a>."
 msgstr ""
+"Dabar internetu <a href=\"%(all)s\">savo gimtąja kalba</a> gali naudotis "
+"daugiau žmonių, nei kada nors anksčiau."
 
 #: mozorg/about/history-details.lang:85
 msgid ""
@@ -182,27 +217,37 @@ msgid ""
 "create open, transparent and collaborative organizations in a <a href="
 "\"%(range)s\">broad range</a> <a href=\"%(areas)s\">of areas</a>."
 msgstr ""
+"Įkurta savarankiška organizacija, gebanti pasinaudoti rinkos svertais "
+"viešojo tikslo misijai įgyvendinti; šis modelis jau tapo pavyzdžiu ir "
+"kitiems, įkūrusiems atviras, skaidrias ir draugiškas organizacijas, "
+"veikiančias <a href=\"%(range)s\">įvairiausiose</a> <a href=\"%(areas)s"
+"\">srityse</a>."
 
 #: mozorg/about/history-details.lang:89
 msgid ""
 "The future is full of challenges and opportunities equal to those of our "
 "past."
 msgstr ""
+"Ateityje mūsų laukia nauji išbandymai ir galimybės, ne prastesnės už "
+"pasitaikiusias praeityje."
 
 #: mozorg/about/history-details.lang:93
 msgid ""
 "There’s no guarantee that the Internet will remain open or enjoyable or safe."
 msgstr ""
+"Nėra jokios garantijos, kad internetas išliks atviras, saugus ir draugiškas."
 
 #: mozorg/about/history-details.lang:97
 msgid ""
 "Mozilla will continue to provide an opportunity for people to make their "
 "voices heard and to shape their own online lives."
 msgstr ""
+"„Mozilla“ ir toliau sieks suteikti galimybes kiekvienam būti išgirstam ir "
+"dalyvauti, vystant savo gyvenimą internete."
 
 #: mozorg/about/history-details.lang:101
 msgid "Of course, we’re not alone in doing this."
-msgstr ""
+msgstr "Žinoma, šiame žygyje mes ne vieni."
 
 #: mozorg/about/history-details.lang:105
 msgid ""
@@ -210,31 +255,38 @@ msgid ""
 "public benefit organizations, exists only because of the people who are "
 "engaged in making our common goals a reality."
 msgstr ""
+"„Mozillos“ bendruomenė, kaip ir kiti atvirojo kodo projektai ir viešojo "
+"intereso organizacijos, egzistuoja tik žmonių, pasiryžusių siekti šių bendrų "
+"tikslų, dėka."
 
 #: mozorg/about/history-details.lang:109
 msgid ""
 "If you want to join us in our mission, please <a href=\"%(contribute)s\">get "
 "involved</a>."
 msgstr ""
+"Jei norite prisidėti prie mūsų misijos įgyvendinimo, kviečiame<a href="
+"\"%(contribute)s\">įsitraukti</a>!"
 
 #: mozorg/about/history-details.lang:113
 msgid "For more information about Mozilla’s history, see the following:"
-msgstr ""
+msgstr "Daugiau informacijos apie „Mozillos“ istoriją ieškokite čia:"
 
 #: mozorg/about/history-details.lang:117
 msgid "Mozilla Bookmarks"
-msgstr ""
+msgstr "„Mozillos“ žymelės"
 
 #: mozorg/about/history-details.lang:121
 msgid "Timeline of Mozilla Project"
-msgstr ""
+msgstr "„Mozillos“ projekto laiko juosta"
 
 #: mozorg/about/history-details.lang:125
 msgid "Mozilla Digital Memory Bank"
-msgstr ""
+msgstr "„Mozillos“ skaitmeninių atminimų bankas"
 
 #: mozorg/about/history-details.lang:129
 msgid ""
 "<a href=\"%(link)s\">The History of Firefox and Mozilla Posters</a> "
 "(available in English and Japanese)"
 msgstr ""
+"<a href=\"%(link)s\">Plakatai su „Firefox“ naršyklės ir „Mozillos“ istorija</"
+"a> (pasiekiami anglų ir japonų kalbomis)"
