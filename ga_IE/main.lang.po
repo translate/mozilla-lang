@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-09 18:09+0000\n"
+"POT-Creation-Date: 2017-06-12 12:09+0000\n"
 "PO-Revision-Date: 2017-04-29 01:44+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -137,95 +137,100 @@ msgstr "Ionad na Meán Cumarsáide"
 msgid "Contact Us"
 msgstr "Déan teagmháil linn"
 
-#: main.lang:117
+#. Used in new footer to switch the language of the page
+#: main.lang:118
+msgid "Language"
+msgstr "Teanga"
+
+#: main.lang:122
 msgid "Other languages:"
 msgstr "Teangacha eile:"
 
 #. Will replace "Other languages" for the footer's language switcher
-#: main.lang:122
+#: main.lang:127
 msgid "Page language:"
 msgstr "Teanga an leathanaigh:"
 
 #. Year / Month / Day, indicate your prefered date format for your language
-#: main.lang:127
+#: main.lang:132
 msgid "%Y-%m-%d"
 msgstr "%Y-%m-%d"
 
-#: main.lang:131
+#: main.lang:136
 msgid "Legal"
 msgstr "Cúrsaí Dlí"
 
 #. Used as link in the footer
-#: main.lang:136
+#: main.lang:141
 msgid "Cookies"
 msgstr "Fianáin"
 
-#: main.lang:140
+#: main.lang:145
 msgid "Legal Notices"
 msgstr "Fógraí Dlí"
 
-#: main.lang:144
+#: main.lang:149
 msgid "Privacy Policy"
 msgstr "Polasaí Príobháideachta"
 
-#: main.lang:148
+#: main.lang:153
 msgid "Release Notes"
 msgstr "Nótaí Eisiúna"
 
-#: main.lang:152
+#: main.lang:157
 msgid "Other Systems and Languages"
 msgstr "Teangacha agus Córais Eile"
 
-#: main.lang:156
+#: main.lang:161
 msgid "Close"
 msgstr "Dún"
 
-#: main.lang:160
+#: main.lang:165
 msgid "(in English)"
 msgstr "(i mBéarla)"
 
-#: main.lang:164
+#: main.lang:169
 msgid "Return to top"
 msgstr "Go dtí an barr"
 
-#: main.lang:168
+#: main.lang:173
 msgid "Features"
 msgstr "Gnéithe"
 
-#: main.lang:172
+#: main.lang:177
 msgid "Customize"
 msgstr "Saincheap"
 
-#: main.lang:176
+#: main.lang:181
 msgid "Download"
 msgstr "Íosluchtaigh"
 
-#: main.lang:180
+#: main.lang:185
 msgid "Previous"
 msgstr "Siar"
 
-#: main.lang:184
+#: main.lang:189
 msgid "Next"
 msgstr "Ar Aghaidh"
 
 #. MegaBytes abbreviation
-#: main.lang:189
+#: main.lang:194
 msgid "MB"
 msgstr "MB"
 
-#: main.lang:193
+#: main.lang:198
 msgid "MegaBytes"
 msgstr "Meigibhearta"
 
-#: main.lang:197
+#: main.lang:202
 msgid "FAQ"
 msgstr "Ceisteanna Coitianta"
 
-#: main.lang:201
+#: main.lang:206
 msgid "Videos"
 msgstr "Físeáin"
 
-#: main.lang:205
+#: main.lang:210
 msgid ""
 "Except where otherwise <a href=\"%s\">noted</a>, content on this site is "
 "licensed under the <br /><a href=\"%s\">Creative Commons Attribution Share-"
@@ -235,96 +240,107 @@ msgstr ""
 "an t-ábhar ar an suíomh seo ar fáil faoin <br /><a href=\"%s\">Creative "
 "Commons Attribution Share-Alike License v3.0</a> nó aon leagan níos déanaí."
 
-#: main.lang:209
+#: main.lang:214
 msgid "Report Trademark Abuse"
 msgstr "Déan Tuairisc ar Dhrochúsáid Trádmharcanna"
 
-#: main.lang:213
+#: main.lang:218
 msgid "Free Upgrade"
 msgstr "Nuashonrú Saor in Aisce"
 
 #. social networks such as Facebook and Twitter
-#: main.lang:218
+#: main.lang:223
 msgid "Follow us on:"
 msgstr "Bí dár leanúint ar:"
 
-#: main.lang:222
+#: main.lang:227
 msgid "Customize with Add-ons"
 msgstr "Saincheap Firefox le Breiseáin"
 
-#: main.lang:226
+#: main.lang:231
 msgid "Learn More"
 msgstr "Tuilleadh Eolais"
 
 #. Same as previous above but with no capitalization on More
-#: main.lang:231
+#: main.lang:236
 msgid "Learn more"
 msgstr "Tuilleadh Eolais"
 
 #. Link used to play again an animation or a video
-#: main.lang:236
+#: main.lang:241
 msgid "Replay"
 msgstr "Seinn arís"
 
-#: main.lang:240
+#: main.lang:245
 msgid "Watch the video"
 msgstr "Féach ar an bhfíseán"
 
-#: main.lang:244
+#: main.lang:249
 msgid "Replay the video"
 msgstr "Seinn an físeán arís"
 
-#: main.lang:248
+#: main.lang:253
 msgid "Share the video"
 msgstr "Comhroinn an físeán"
 
-#: main.lang:252
+#: main.lang:257
 msgid "WebM format"
 msgstr "Formáid WebM"
 
-#: main.lang:256
+#: main.lang:261
 msgid "Ogg Theora format"
 msgstr "Formáid Ogg Theora"
 
-#: main.lang:260
+#: main.lang:265
 msgid "MPEG-4 format"
 msgstr "Formáid MPEG-4"
 
-#: main.lang:264
+#: main.lang:269
 msgid "Mobile"
 msgstr "Soghluaiste"
 
-#: main.lang:268
+#: main.lang:273
 msgid "View Full Site"
 msgstr "Féach ar an Suíomh Iomlán"
 
-#: main.lang:272
+#: main.lang:277
 msgid "Desktop"
 msgstr "Deasc"
 
-#: main.lang:276
+#: main.lang:281
 msgid "Firefox for mobile"
 msgstr "Firefox Soghluaiste"
 
-#: main.lang:280
+#: main.lang:285
 msgid "Email"
 msgstr "Ríomhphost"
 
-#: main.lang:284
+#: main.lang:289
 msgid "Upgrade now"
 msgstr "Nuashonraigh anois"
 
-#: main.lang:288
+#: main.lang:293
 msgid "Update now"
 msgstr "Nuashonraigh anois"
 
 #. This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
-#: main.lang:293
+#: main.lang:298
 msgid "Privacy"
 msgstr "Príobháideachas"
 
-#. Footer string
-#: main.lang:298
+#. New footer string
+#: main.lang:303
+#, fuzzy
+msgid ""
+"Portions of this content are ©1998–%(current_year)s by individual mozilla."
+"org contributors. Content available under a <a rel=\"license\" href=\"%(url)s"
+"\">Creative Commons license</a>."
+msgstr ""
+"Cóipcheart ©1998–%(current_year)s Rannpháirtithe Mhozilla. Tá an t-ábhar seo "
+"ar fáil de réir téarmaí <a href=\"%(url)s\">Cheadúnas Creative Commons</a>."
+
+#. Previous footer string
+#: main.lang:308
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a href=\"%(url)s\">Creative "
@@ -334,281 +350,281 @@ msgstr ""
 "ar fáil de réir téarmaí <a href=\"%(url)s\">Cheadúnas Creative Commons</a>."
 
 #. Footer string (will replace "Contribute to this page")
-#: main.lang:303
+#: main.lang:313
 msgid "Contribute to this site"
 msgstr "Cuir leis an suíomh seo"
 
 #. Footer string
-#: main.lang:308
+#: main.lang:318
 msgid "Contribute to this page"
 msgstr "Cuir feabhas ar an leathanach seo"
 
 #. Top menu item
-#: main.lang:313
+#: main.lang:323
 msgid "Mission"
 msgstr "Misean"
 
 #. Footer item on some pages to link to a tour of features
-#: main.lang:318
+#: main.lang:328
 msgid "Tour"
 msgstr "Turas"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:323
+#: main.lang:333
 msgid "Sync"
 msgstr "Sync"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:328
+#: main.lang:338
 msgid "Desktop Add-ons"
 msgstr "Breiseáin ar an Deasc"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:333
+#: main.lang:343
 msgid "Android Add-ons"
 msgstr "Breiseáin Android"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:338
+#: main.lang:348
 msgid "Themes"
 msgstr "Téamaí"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:343
+#: main.lang:353
 msgid "Desktop Support"
 msgstr "Tacaíocht (Deasc)"
 
 #. Top menu item on pages like firefox/desktop/tips/
-#: main.lang:348
+#: main.lang:358
 msgid "Android Support"
 msgstr "Tacaíocht Android"
 
-#: main.lang:352
+#: main.lang:362
 msgid "Releases"
 msgstr "Leaganacha"
 
-#: main.lang:356
+#: main.lang:366
 msgid "Blog"
 msgstr "Blag"
 
 #. Newsletter subscription form above footer on some pages
-#: main.lang:361
+#: main.lang:371
 msgid "Get Mozilla updates"
 msgstr "Faigh nuacht ó Mhozilla"
 
 #. share button for social networks
-#: main.lang:366
+#: main.lang:376
 msgid "Share"
 msgstr "Comhroinn"
 
 #. footer link
-#: main.lang:371
+#: main.lang:381
 msgid "Mozilla on Twitter"
 msgstr "Mozilla ar Twitter"
 
 #. footer link
-#: main.lang:376
+#: main.lang:386
 msgid "Firefox on Twitter"
 msgstr "Firefox ar Twitter"
 
 #. footer link
-#: main.lang:381
+#: main.lang:391
 msgid "Mozilla on Facebook"
 msgstr "Mozilla ar Facebook"
 
 #. footer link
-#: main.lang:386
+#: main.lang:396
 msgid "Firefox on Facebook"
 msgstr "Firefox ar Facebook"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:391
+#: main.lang:401
 msgid "Forums"
 msgstr "Fóraim"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:396
+#: main.lang:406
 msgid "Patents"
 msgstr "Paitinní"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:401
+#: main.lang:411
 msgid "Leadership"
 msgstr "Lucht Ceannais"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:406
+#: main.lang:416
 msgid "Governance"
 msgstr "Rialachas"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:411
+#: main.lang:421
 msgid "History"
 msgstr "Stair"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:416
+#: main.lang:426
 msgid "Our Products"
 msgstr "Táirgí"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:421
+#: main.lang:431
 msgid "Software and other innovations designed to advance our mission."
 msgstr "Bogearraí agus nuálaíocht a chuireann ár misean chun cinn"
 
 #. sidebar link in some /about pages (e.g. Manifesto)
-#: main.lang:426
+#: main.lang:436
 msgid "Become a volunteer contributor in a number of different areas."
 msgstr "Is féidir leat cabhrú linn ar go leor bealaí éagsúla."
 
 #. This is a non-visible string for blind people to indicate where the menu is
-#: main.lang:431
+#: main.lang:441
 msgid "Menu"
 msgstr "Roghchlár"
 
 #. Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
-#: main.lang:436
+#: main.lang:446
 msgid "Committed to you, your privacy and an open Web"
 msgstr "Tiomanta don phríobháideacht, don Ghréasán oscailte, agus duitse"
 
 #. This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
-#: main.lang:441
+#: main.lang:451
 msgid "Please turn on JavaScript to display this page correctly."
 msgstr ""
 "Caithfidh tú JavaScript a chur ar siúl chun an leathanach seo a chur ar "
 "taispeáint."
 
 #. Used as link to /firefox/desktop in footers on some pages
-#: main.lang:446
+#: main.lang:456
 msgid "Firefox Features"
 msgstr "Gnéithe Firefox"
 
 #. Used as link to SUMO in footers on some pages
-#: main.lang:451
+#: main.lang:461
 msgid "Firefox Help"
 msgstr "Cabhair le Firefox"
 
-#: main.lang:455
+#: main.lang:465
 msgid "January"
 msgstr "Eanáir"
 
-#: main.lang:459
+#: main.lang:469
 msgid "February"
 msgstr "Feabhra"
 
-#: main.lang:463
+#: main.lang:473
 msgid "March"
 msgstr "Márta"
 
-#: main.lang:467
+#: main.lang:477
 msgid "April"
 msgstr "Aibreán"
 
-#: main.lang:471
+#: main.lang:481
 msgid "May"
 msgstr "Bealtaine"
 
-#: main.lang:475
+#: main.lang:485
 msgid "June"
 msgstr "Meitheamh"
 
-#: main.lang:479
+#: main.lang:489
 msgid "July"
 msgstr "Iúil"
 
-#: main.lang:483
+#: main.lang:493
 msgid "August"
 msgstr "Lúnasa"
 
-#: main.lang:487
+#: main.lang:497
 msgid "September"
 msgstr "Meán Fómhair"
 
-#: main.lang:491
+#: main.lang:501
 msgid "October"
 msgstr "Deireadh Fómhair"
 
-#: main.lang:495
+#: main.lang:505
 msgid "November"
 msgstr "Samhain"
 
-#: main.lang:499
+#: main.lang:509
 msgid "December"
 msgstr "Nollaig"
 
-#: main.lang:503
+#: main.lang:513
 msgid "<abbr>Jan</abbr>"
 msgstr "<abbr>Ean</abbr>"
 
-#: main.lang:507
+#: main.lang:517
 msgid "<abbr>Feb</abbr>"
 msgstr "<abbr>Fea</abbr>"
 
-#: main.lang:511
+#: main.lang:521
 msgid "<abbr>Mar</abbr>"
 msgstr "<abbr>Már</abbr>"
 
-#: main.lang:515
+#: main.lang:525
 msgid "<abbr>Apr</abbr>"
 msgstr "<abbr>Aib</abbr>"
 
-#: main.lang:519
+#: main.lang:529
 msgid "<abbr>May</abbr>"
 msgstr "<abbr>Bea</abbr>"
 
-#: main.lang:523
+#: main.lang:533
 msgid "<abbr>Jun</abbr>"
 msgstr "<abbr>Mei</abbr>"
 
-#: main.lang:527
+#: main.lang:537
 msgid "<abbr>Jul</abbr>"
 msgstr "<abbr>Iúi</abbr>"
 
-#: main.lang:531
+#: main.lang:541
 msgid "<abbr>Aug</abbr>"
 msgstr "<abbr>Lún</abbr>"
 
-#: main.lang:535
+#: main.lang:545
 msgid "<abbr>Sep</abbr>"
 msgstr "<abbr>MFó</abbr>"
 
-#: main.lang:539
+#: main.lang:549
 msgid "<abbr>Oct</abbr>"
 msgstr "<abbr>DFó</abbr>"
 
-#: main.lang:543
+#: main.lang:553
 msgid "<abbr>Nov</abbr>"
 msgstr "<abbr>Sam</abbr>"
 
-#: main.lang:547
+#: main.lang:557
 msgid "<abbr>Dec</abbr>"
 msgstr "<abbr>Nol</abbr>"
 
-#: main.lang:551
+#: main.lang:561
 msgid "Congrats. You’re up to date!"
 msgstr "Comhghairdeas. Tá tú cothrom le dáta!"
 
 #. Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
-#: main.lang:556
+#: main.lang:566
 msgid "Format"
 msgstr "Formáid"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
-#: main.lang:561
+#: main.lang:571
 msgid "Text"
 msgstr "Téacs"
 
 #. Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
-#: main.lang:566
+#: main.lang:576
 msgid "HTML"
 msgstr "HTML"
 
 #. This is the error message displayed if you provide an invalid email address in a form
-#: main.lang:571
+#: main.lang:581
 msgid "Whoops! Be sure to enter a valid email address."
 msgstr "Úps! Bí cinnte gur chuir tú seoladh ríomhphoist bailí isteach."
 
-#: main.lang:575
+#: main.lang:585
 msgid ""
 "I’m okay with Mozilla handling my info as explained in <a href=\"%s\">this "
 "Privacy Notice</a>"
@@ -617,47 +633,47 @@ msgstr ""
 "\"%s\">sa bPolasaí Príobháideachta seo</a>"
 
 #. This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
-#: main.lang:580
+#: main.lang:590
 msgid "Keep up with<br> all things Firefox."
 msgstr "Bí ar an eolas<br> faoi Firefox."
 
 #. This string is used for a subscription field on other pages than /newsletter/
-#: main.lang:585
+#: main.lang:595
 msgid "Get Firefox news"
 msgstr "Faigh nuacht faoi Firefox"
 
 #. This is a default placeholder for a subscription field on other pages than /newsletter/
-#: main.lang:590
+#: main.lang:600
 msgid "YOUR EMAIL HERE"
 msgstr "DO SHEOLADH RÍOMHPHOIST"
 
 #. Newsletter subscription Button
-#: main.lang:595
+#: main.lang:605
 msgid "Sign Up Now"
 msgstr "Cláraigh Anois"
 
 #. Old newsletter subscription Button
-#: main.lang:600
+#: main.lang:610
 msgid "Sign me up"
 msgstr "Ba mhaith liom clárú"
 
-#: main.lang:604
+#: main.lang:614
 msgid "Select country"
 msgstr "Roghnaigh tír"
 
-#: main.lang:608
+#: main.lang:618
 msgid "Available Languages"
 msgstr "Teangacha"
 
-#: main.lang:612
+#: main.lang:622
 msgid "We will only send you Mozilla-related information."
 msgstr "Ní sheolfaimid duit ach eolas a bhaineann le Mozilla."
 
-#: main.lang:616
+#: main.lang:626
 msgid "Thanks!"
 msgstr "GRMA!"
 
-#: main.lang:620
+#: main.lang:630
 msgid ""
 "If you haven’t previously confirmed a subscription to a Mozilla-related "
 "newsletter you may have to do so. Please check your inbox or your spam "
@@ -667,11 +683,11 @@ msgstr ""
 "gá duit é sin a dhéanamh anois. Coinnigh súil ar do bhosca isteach nó "
 "d'fhillteán turscair le haghaidh teachtaireacht ríomhphoist uainn."
 
-#: main.lang:624
+#: main.lang:634
 msgid "Read all about it in our <span>newsletter</span>"
 msgstr "Léigh chuile rud inár <span>nuachtlitir</span>"
 
-#: main.lang:628
+#: main.lang:638
 msgid ""
 "Subscribe to monthly updates and keep current with Mozilla news, including "
 "the latest tips and tricks for getting the most out of your Firefox browser. "
@@ -681,54 +697,54 @@ msgstr ""
 "déanaí chun an tairbhe is mó a bhaint as do bhrabhsálaí Firefox. Ba mhaith "
 "linn fanacht i dteagmháil leat!"
 
-#: main.lang:632
+#: main.lang:642
 msgid "<span>Firefox</span> + You"
 msgstr "<span>Firefox</span> agus Tusa"
 
-#: main.lang:636
+#: main.lang:646
 msgid "Get Firefox tips, tricks, news and more"
 msgstr "Leideanna Firefox, cleasa, nuacht, agus tuilleadh"
 
 #. This string will be used as a navigation label in home page, pointing to /technology
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
-#: main.lang:642
+#: main.lang:652
 msgid "Web Innovations"
 msgstr "Nuálaíocht Ghréasáin"
 
 #. This string will be used as a navigation label in home page, pointing to /internet-health
 #. The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
-#: main.lang:648
+#: main.lang:658
 msgid "Internet Health"
 msgstr "Sláinte Idirlín"
 
 #. Used as title in What's new page for 50
-#: main.lang:653
+#: main.lang:663
 msgid "Thanks for choosing Firefox!"
 msgstr "Go raibh maith agat as Firefox a roghnú!"
 
 #. Used in combination with other strings to create HTML page titles, e.g. in What's new pages
-#: main.lang:658
+#: main.lang:668
 msgid "Mozilla Firefox Web Browser"
 msgstr "Brabhsálaí Gréasáin Mozilla Firefox"
 
 #. Link in the footer
-#: main.lang:663
+#: main.lang:673
 #, fuzzy
 msgid "Download Firefox Web Browser"
 msgstr "Brabhsálaí Gréasáin Mozilla Firefox"
 
 #. Link in the footer
-#: main.lang:668
+#: main.lang:678
 msgid "Desktop Browser for Mac, Windows, Linux"
 msgstr ""
 
 #. Link in the footer
-#: main.lang:673
+#: main.lang:683
 msgid "Mobile Browser for Android"
 msgstr ""
 
 #. Link in the footer
-#: main.lang:678
+#: main.lang:688
 msgid "Mobile Browser for iOS"
 msgstr ""
 
