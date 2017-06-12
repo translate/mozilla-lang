@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-12 12:09+0000\n"
-"PO-Revision-Date: 2017-04-29 01:44+0000\n"
+"PO-Revision-Date: 2017-06-12 12:20+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ga_IE\n"
@@ -13,8 +13,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
 "(n>6 && n<11) ? 3 : 4;;\n"
-"X-Generator: Translate Toolkit 2.1.0\n"
-"X-POOTLE-MTIME: 1493430252.000000\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1497270034.000000\n"
 
 #: main.lang:1
 msgid "Navigation"
@@ -330,14 +330,14 @@ msgstr "Príobháideachas"
 
 #. New footer string
 #: main.lang:303
-#, fuzzy
 msgid ""
 "Portions of this content are ©1998–%(current_year)s by individual mozilla."
 "org contributors. Content available under a <a rel=\"license\" href=\"%(url)s"
 "\">Creative Commons license</a>."
 msgstr ""
 "Cóipcheart ©1998–%(current_year)s Rannpháirtithe Mhozilla. Tá an t-ábhar seo "
-"ar fáil de réir téarmaí <a href=\"%(url)s\">Cheadúnas Creative Commons</a>."
+"ar fáil de réir téarmaí <a rel=\"license\" href=\"%(url)s\">Cheadúnas "
+"Creative Commons</a>."
 
 #. Previous footer string
 #: main.lang:308
@@ -729,24 +729,23 @@ msgstr "Brabhsálaí Gréasáin Mozilla Firefox"
 
 #. Link in the footer
 #: main.lang:673
-#, fuzzy
 msgid "Download Firefox Web Browser"
-msgstr "Brabhsálaí Gréasáin Mozilla Firefox"
+msgstr "Íosluchtaigh Brabhsálaí Gréasáin Firefox"
 
 #. Link in the footer
 #: main.lang:678
 msgid "Desktop Browser for Mac, Windows, Linux"
-msgstr ""
+msgstr "Brabhsálaí ar Mac, Windows, agus Linux"
 
 #. Link in the footer
 #: main.lang:683
 msgid "Mobile Browser for Android"
-msgstr ""
+msgstr "Brabhsálaí Soghluaiste ar Android"
 
 #. Link in the footer
 #: main.lang:688
 msgid "Mobile Browser for iOS"
-msgstr ""
+msgstr "Brabhsálaí Soghluaiste ar iOS"
 
 #~ msgid "Supported Devices"
 #~ msgstr "Gléasanna Tacaithe"
