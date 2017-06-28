@@ -1,8 +1,9 @@
+#. extracted from ./firefox/sync.lang
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-12 21:05+0000\n"
+"POT-Creation-Date: 2017-04-11 19:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,22 +39,22 @@ msgstr ""
 "mitsonsentekitilikan teposmej tein tajkuiloluapal oso teposmej tein "
 "tikonuikas okseko. ¡Axkan xikonajsi Firefox!"
 
-#: firefox/sync.lang:13
+#: firefox/sync.lang:28
 msgid "Ready, Set, Sync"
 msgstr "Tionmoyektalij, tionyekyetok, xionkalaki Sync"
 
-#: firefox/sync.lang:17
+#: firefox/sync.lang:32
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
 msgstr ""
 "Tionmoyejyektatalijya uan tionuelisya tionkalakis itech Firefox <em>tein "
 "moaxka</em> ijkuak oso kampa yeski."
 
-#: firefox/sync.lang:21
+#: firefox/sync.lang:36
 msgid "Take your Web with you"
 msgstr "Mouan xikonkuiteua web"
 
-#: firefox/sync.lang:25
+#: firefox/sync.lang:40
 msgid ""
 "Sync Firefox wherever you use it to access your bookmarks, passwords, tabs "
 "and more from any smartphone, tablet or computer."
@@ -63,7 +64,7 @@ msgstr ""
 "itech tein yeski tepos, kemej computadora oso tableta."
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:30
+#: firefox/sync.lang:45
 msgid ""
 "Sync your bookmarks, passwords, tabs and more using your Firefox Account, "
 "and access them everywhere you’re signed in."
@@ -72,21 +73,21 @@ msgstr ""
 "pestañas uan oksekinok ijkuak tikonkuitok mocuenta itech Firefox uan "
 "xionkalaki itech nochin kampa yeski tikontatekiujtis mocuenta."
 
-#: firefox/sync.lang:34
+#: firefox/sync.lang:49
 msgid "It looks like you’re running an older version of Firefox."
 msgstr "Moita ke tikontatekiujtijtok se versión Firefox tein amo yankuik."
 
-#: firefox/sync.lang:38
+#: firefox/sync.lang:53
 msgid "The new version of Sync only works with the latest version of Firefox"
 msgstr ""
 "Yankuik versión Sync sayoj tekiti ika versión Firefox tein okachi yankuik san"
 
 #. # TAG: ios_announce
-#: firefox/sync.lang:43
+#: firefox/sync.lang:58
 msgid "Soon you’ll be able to use Sync on your iOS device"
 msgstr "Amo uejka tionuelis tikontatekiujtis Sync itech motepos tein iOS"
 
-#: firefox/sync.lang:47
+#: firefox/sync.lang:62
 msgid ""
 "Sync is just one of the great features you’ll only get with Firefox. "
 "Discover them all!"
@@ -94,7 +95,7 @@ msgstr ""
 "Sync sayoj se ueyi nepaleuil san tein tikonpias ika Firefox. ¡Nochi xikonita!"
 
 #. # TAG: firefox_sync_mobile_buttons_update
-#: firefox/sync.lang:52
+#: firefox/sync.lang:67
 msgid "Now sync Firefox with your iOS and Android devices."
 msgstr ""
 "Axkan xikonchiua maj moixpatatiuitse Firefox itech motesposuan tein Android "
@@ -102,11 +103,11 @@ msgstr ""
 
 #. # TAG: firefox_sync_non_fx
 #. This string is displayed when you visit the page with a different browser (i.e. not Firefox)
-#: firefox/sync.lang:58
+#: firefox/sync.lang:73
 msgid "Sync is just one of the great features you’ll only get with Firefox."
 msgstr "Sync sayoj se ueyi nepaleuil san tein tikonpias ika Firefox."
 
-#: firefox/sync.lang:62
+#: firefox/sync.lang:77
 msgid "Download Firefox for Android"
 msgstr "Xikontemoui Firefox ika Android"
 
@@ -114,21 +115,21 @@ msgstr "Xikontemoui Firefox ika Android"
 msgid "Get started with Sync"
 msgstr "Xionpeua ika Sync"
 
-#: firefox/sync.lang:70
+#: firefox/sync.lang:85
 msgid "Update your Firefox"
 msgstr "Xikonyankuili moFirefox"
 
-#: firefox/sync.lang:74
+#: firefox/sync.lang:89
 msgid "Download Firefox"
 msgstr "Xikontemolti Firefox"
 
-#: firefox/sync.lang:78
+#: firefox/sync.lang:93
 msgid "Get started with Sync in four easy steps:"
 msgstr "Xionpeua ika Sync, moneki tikonchiuas sayoj 4 amo ouij taman:"
 
 #. You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 #. If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
-#: firefox/sync.lang:84
+#: firefox/sync.lang:99
 msgid ""
 "Open the <a class=\"menu ga-link\" data-interaction=\"outbound link click\" "
 "href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of Firefox and "
@@ -139,13 +140,13 @@ msgstr ""
 "xikonpejpena \"<strong>Xionkalakteua Sync.</strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:89
+#: firefox/sync.lang:104
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
 msgstr ""
 "Xikonpatskili \"<strong>Xionpeua</strong>\" itech pestaña tein motapoua."
 
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:94
+#: firefox/sync.lang:109
 msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
@@ -154,13 +155,13 @@ msgstr ""
 "“<strong>Xikontapo se cuenta itech Firefox.</strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
-#: firefox/sync.lang:99
+#: firefox/sync.lang:114
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
 msgstr ""
 "Xikonpatskili \"<strong>Okse</strong>\" uan mitsontitaniliskej se "
 "taixnextilis mocorreo itech tepos."
 
-#: firefox/sync.lang:103
+#: firefox/sync.lang:118
 msgid ""
 "After you check your email and click the verification link, you’ll be all "
 "set! Firefox will automatically sync in the background from then on."
@@ -169,7 +170,7 @@ msgstr ""
 "taixnextilis, ¡nochi motamichiuakya! Firefox iselti kiixpatas tein moneki "
 "uan tejuatsin amo teisa moneki tikonchiuasya."
 
-#: firefox/sync.lang:107
+#: firefox/sync.lang:122
 msgid "Get more detailed instructions."
 msgstr "Xikonseli tanauatilmej tein okachi kimelauaj"
 
@@ -178,7 +179,7 @@ msgid "Using an older version of Sync?"
 msgstr "¿Xa tikontatekiujtok se taman Sync tein amo yankuik?"
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:116
+#: firefox/sync.lang:131
 msgid "How to set up Sync in five easy steps:"
 msgstr ""
 "Keniuj tionuelis tikonyektalis Sync kemej tikonneki ika makuil amo ouij "
@@ -186,7 +187,7 @@ msgstr ""
 
 #. <strong> tags below used for font color formatting.
 #. This string is displayed on Android devices
-#: firefox/sync.lang:122
+#: firefox/sync.lang:137
 msgid ""
 "Tap the <strong>Menu</strong> button (either below the screen or at the top "
 "right corner of the browser)."
@@ -195,7 +196,7 @@ msgstr ""
 "yeski ajko yekmakopa navegador)."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:127
+#: firefox/sync.lang:142
 msgid ""
 "Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
 "first)."
@@ -204,13 +205,13 @@ msgstr ""
 "tikonpatskilis <strong>Okachi</strong>)."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:132
+#: firefox/sync.lang:147
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
 msgstr ""
 "Xikonpatskili <strong>Sync</strong> aun niman <strong>Xionpeua</strong>."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:137
+#: firefox/sync.lang:152
 msgid ""
 "The <strong>Create a Firefox Account page</strong> will open in a new tab."
 msgstr ""
@@ -218,12 +219,12 @@ msgstr ""
 "strong> motapos ompa se yankuik pestaña."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:142
+#: firefox/sync.lang:157
 msgid "Fill out the form and click <strong>Next</strong>."
 msgstr "Xikonpexonti formulario uan xikonpatskili <strong>Okse</strong>."
 
 #. This string is displayed on Android devices
-#: firefox/sync.lang:147
+#: firefox/sync.lang:162
 msgid ""
 "After you check your email and click the verification link, you’ll be ready "
 "to go! Don’t forget to connect all your other devices to get the most of "
@@ -233,12 +234,12 @@ msgstr ""
 "taixnextilis, tionuelis tionpeuasya. Amo xikonelkaua tikonnajnamiktis nochin "
 "moteposuan uan ijkon tikonajsis okachi kuali tein kipia Sync."
 
-#: firefox/sync.lang:151
+#: firefox/sync.lang:166
 msgid "Sync a little. Sync a lot."
 msgstr ""
 "Xikontatekiujti Sync sayoj tepitsin san. Xikontatekiujti Sync tel miakpa."
 
-#: firefox/sync.lang:155
+#: firefox/sync.lang:170
 msgid ""
 "You choose what parts of your Firefox you want to sync and where you want to "
 "sync them. Take your open tabs on your daily commute. Access your bookmarks "
@@ -250,7 +251,7 @@ msgstr ""
 "tikonnekis, keman tikonnekis, kampa tikonnekis."
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:160
+#: firefox/sync.lang:175
 msgid ""
 "Want to visit your computer’s open tabs from another device? Access your "
 "browsing history on the go? Keep your passwords with you? Now you can."
@@ -260,7 +261,7 @@ msgstr ""
 "tikonitstinemik? ¿Xa mouan tikonuikas moichtakatajkuiloluan? Axkan tionueli."
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:165
+#: firefox/sync.lang:180
 msgid "Here’s what you can sync:"
 msgstr "Nikan moajsij nochin tionuelis tikontatekiujtis ika Sync:"
 
@@ -270,25 +271,25 @@ msgid "Bookmarks"
 msgstr "Neskayomej marcadores"
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:175
+#: firefox/sync.lang:190
 msgid "Passwords"
 msgstr "Ichtakatajkuilolmej"
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:180
+#: firefox/sync.lang:195
 msgid "Open tabs"
 msgstr "Maj motapokan pestañas"
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:185
+#: firefox/sync.lang:200
 msgid "History"
 msgstr "Historial tein kinextia nochi tikonitstinemik"
 
-#: firefox/sync.lang:189
+#: firefox/sync.lang:204
 msgid "At home"
 msgstr "Mokalijtik"
 
-#: firefox/sync.lang:193
+#: firefox/sync.lang:208
 msgid ""
 "Move from your desk to the couch without skipping a beat. Access your open "
 "tabs on your smartphone, or keeping browsing your bookmarks right on your "
@@ -298,11 +299,11 @@ msgstr ""
 "xikonkaua tein tikonchiujtoya. Xionkalaki itech mopestañajuan tein tapotokej "
 "itech mosmartphone oso tikonsentoka tikontatekiujtis Internet ika motableta."
 
-#: firefox/sync.lang:197
+#: firefox/sync.lang:212
 msgid "At work"
 msgstr "Ompa motekipan"
 
-#: firefox/sync.lang:201
+#: firefox/sync.lang:216
 msgid ""
 "Stay connected to all of your important information. Sync the passwords and "
 "bookmarks that you might need to access at any time. Just like Firefox, it’s "
@@ -312,11 +313,11 @@ msgstr ""
 "sentekitij neskayomej marcadores uan ichtakatajkuilolmej tein keman yeski "
 "moneki tionkalakis. Ijkuitik kemej Firefox, amo keman mopoloua."
 
-#: firefox/sync.lang:205
+#: firefox/sync.lang:220
 msgid "On the go"
 msgstr "Kampa yeski tiyas"
 
-#: firefox/sync.lang:209
+#: firefox/sync.lang:224
 msgid ""
 "Keep up with your favorite sites, or finish that story you started at home — "
 "wherever you go. With Sync, it’s never been easier."
@@ -326,12 +327,12 @@ msgstr ""
 "keman semi amo ouij katka."
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:214
+#: firefox/sync.lang:229
 msgid "Add Firefox to your smartphone or tablet"
 msgstr "Xikontalili mosmartphone oso tableta Firefox"
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:219
+#: firefox/sync.lang:234
 msgid ""
 "To get the full Sync experience, get Firefox for iOS or Android and connect "
 "all your devices — everywhere and anywhere you use Firefox."
@@ -341,23 +342,23 @@ msgstr ""
 "tikonkuis Firefox."
 
 #. # TAG: fx38_sync_updates
-#: firefox/sync.lang:224
+#: firefox/sync.lang:239
 msgid "Add Firefox"
 msgstr "Maj se kitali Firefox"
 
-#: firefox/sync.lang:228
+#: firefox/sync.lang:243
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
 msgstr "¿Xa tikonpia se <b>teléfono ika Android</b> oso se <b>tableta</b>?"
 
-#: firefox/sync.lang:232
+#: firefox/sync.lang:247
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
 msgstr "XIKONTEMOUI FIREFOX IKA ANDROID"
 
-#: firefox/sync.lang:236
+#: firefox/sync.lang:251
 msgid "Get Firefox everywhere"
 msgstr "Xikonajsi Firefox kampa yeski"
 
-#: firefox/sync.lang:240
+#: firefox/sync.lang:255
 msgid ""
 "To get the full Sync experience, take your Web with you everywhere you use "
 "Firefox. Connect your smartphone, tablet, computer and laptop."
