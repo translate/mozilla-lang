@@ -4,19 +4,22 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-28 00:10+0000\n"
-"PO-Revision-Date: 2017-06-28 00:10+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2017-07-02 16:38+0000\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: none\n"
-"Language: \n"
+"Language: ga_IE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.2.3\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
+"(n>6 && n<11) ? 3 : 4;;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1499013495.000000\n"
 
 #. Used as HTML title of the page
 #: firefox/features/bookmarks.lang:6
 msgid "Firefox Browser: Better bookmarks everywhere you go"
-msgstr ""
+msgstr "Brabhsálaí Firefox: Leabharmharcanna níos fearr cibé áit a rachaidh tú"
 
 #. Used as HTML description of the page
 #: firefox/features/bookmarks.lang:11
@@ -24,19 +27,21 @@ msgid ""
 "Easily organize your bookmarks into folder and access them across all your "
 "devices, from desktop to mobile."
 msgstr ""
+"Tá sé an-éasca do chuid leabharmharcanna a eagrú i bhfillteáin agus teacht "
+"orthu ar do ríomhaire agus ar ghléasanna soghluaiste."
 
 #: firefox/features/bookmarks.lang:15
 msgid "Better bookmarks"
-msgstr ""
+msgstr "Leabharmharcanna níos fearr"
 
 #: firefox/features/bookmarks.lang:19
 msgid "Don’t agonize, lovers of bookmarking. Organize with Firefox."
-msgstr ""
+msgstr "Ná buair do cheann, a leabharmharcóra! Eagraigh le Firefox iad."
 
 #. File means to save (that bookmark).
 #: firefox/features/bookmarks.lang:24
 msgid "File that bookmark"
-msgstr ""
+msgstr "Cuir i dtaisce iad"
 
 #. Dial in means to access/use (the bookmarks).
 #: firefox/features/bookmarks.lang:29
@@ -45,11 +50,14 @@ msgid ""
 "custom names and folders quickly. Then dial in your bookmarks toolbar to "
 "make sure you never lose sight of the links you love."
 msgstr ""
+"Cuir réiltín leis na leabharmharcanna is ansa leat, cuir ainm nua leo, nó "
+"cruthaigh do chuid fillteán féin. Ansin bain úsáid as an mbarra leabharmharc "
+"chun súil a choinneáil ar nascanna a thaitníonn leat."
 
 #. Fly here means to have your bookmark go wherever you go.
 #: firefox/features/bookmarks.lang:34
 msgid "Fly with that bookmark"
-msgstr ""
+msgstr "Cuir ag imeacht iad"
 
 #. On the fly here means on the move with you.
 #: firefox/features/bookmarks.lang:39
@@ -59,11 +67,16 @@ msgid ""
 "\">Pocket</a> to save any online article, or page and come back to later – "
 "even without internet."
 msgstr ""
+"Beir do chuid leabharmharcanna leat. Úsáid Firefox Sync chun teacht ar na "
+"nascanna is ansa leat ar do ríomhaire agus ar ghléasanna soghluaiste. Nó "
+"bain triail as <a href=\"%(url)s\">Pocket</a> – uirlis a ligeann duit alt nó "
+"leathanach ar bith a shábháil agus a léamh níos déanaí – fiú gan cheangal "
+"Idirlín."
 
 #. Futz with means to spend a lot of time on something.
 #: firefox/features/bookmarks.lang:44
 msgid "Futz with that bookmark"
-msgstr ""
+msgstr "Cuir in eagar iad"
 
 #: firefox/features/bookmarks.lang:48
 msgid ""
@@ -71,3 +84,7 @@ msgid ""
 "on</a> you can think of, from full page snapshots to quick-switch sidebars "
 "to locked-down-tight private bookmarks."
 msgstr ""
+"Tá <a href=\"%(url)s\">go leor breiseán</a> ann a chabhróidh leat níos mó "
+"tairbhe a bhaint as leabharmharcanna: réamhamhairc lánleathanaigh, barraí "
+"taoibh mear-mhalartacha, leabharmharcanna príobháideacha ardslándála, ag "
+"neart eile."
