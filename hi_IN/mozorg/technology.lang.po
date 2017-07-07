@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-25 05:09+0000\n"
+"POT-Creation-Date: 2017-07-07 16:09+0000\n"
 "PO-Revision-Date: 2017-05-09 00:16+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: none\n"
@@ -12,14 +12,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Translate Toolkit 2.2.3\n"
 "X-POOTLE-MTIME: 1494288966.000000\n"
 
-#: mozorg/technology.lang:4
+#: mozorg/technology.lang:5
 msgid "We’re opening up a whole new Internet."
 msgstr "हम एक पूरी नयी तरह की इंटरनेट खोल रहे हैं."
 
-#: mozorg/technology.lang:8
+#: mozorg/technology.lang:9
 msgid ""
 "Explore some of our latest innovations — built with open Web technologies "
 "and designed to help keep the Internet healthy and accessible forever."
@@ -27,11 +27,11 @@ msgstr ""
 "हमारे कुछ नवीनतम नवाचारों का अन्वेषण करें — खुली वेब तकनीकों के साथ बनाये हुए और इंटरनेट को "
 "स्वस्थ और हमेशा उपलब्ध रखने के लिए डिज़ाइन किया गया."
 
-#: mozorg/technology.lang:12
+#: mozorg/technology.lang:13
 msgid "Making Virtual Reality a reality for all"
 msgstr "वर्चुअल रिएलिटी को सभी के लिए एक वास्तविकता बनाना"
 
-#: mozorg/technology.lang:16
+#: mozorg/technology.lang:17
 msgid ""
 "Using A-Frame, developers, designers and artists are able to easily create "
 "accessible VR experiences."
@@ -39,24 +39,35 @@ msgstr ""
 "A-Frame का उपयोग कर, डेवलपर्स, डिजाइनर और कलाकार आसानी से VR अनुभवों को सुगम बनाने "
 "में सक्षम हैं."
 
-#. This is a button label
-#: mozorg/technology.lang:21
+#. Obsolete string, do not remove
+#: mozorg/technology.lang:22
 msgid "Try it out"
 msgstr "इसे आजमाएं"
 
-#: mozorg/technology.lang:25
+#: mozorg/technology.lang:26
 msgid "Explore A-Frame"
 msgstr "A-Frame को जानें"
 
-#: mozorg/technology.lang:29
+#. # TAG: emerging_tech_links
+#: mozorg/technology.lang:31
+#, fuzzy
+msgid "Learn about WebVR"
+msgstr "वेबभीआर के बारे में और अधिक जानें"
+
+#. # TAG: emerging_tech_links
+#: mozorg/technology.lang:36
+msgid "Visit A-Frame blog"
+msgstr ""
+
+#: mozorg/technology.lang:40
 msgid "Visit the blog"
 msgstr "ब्लॉग पर जाएँ"
 
-#: mozorg/technology.lang:33
+#: mozorg/technology.lang:44
 msgid "Using the Web to change the game"
 msgstr "खेलों को बदलने के लिए वेब का उपयोग"
 
-#: mozorg/technology.lang:37
+#: mozorg/technology.lang:48
 msgid ""
 "With powerful Web technologies, pioneered by Mozilla, developers are pushing "
 "games to a new level."
@@ -64,57 +75,84 @@ msgstr ""
 "शक्तिशाली वेब प्रौद्योगिकियों के साथ, Mozilla द्वारा संचालन, डेवलपर्स खेलों को एक नए स्तर "
 "पर धकेल रहे हैं."
 
-#: mozorg/technology.lang:41
+#. # TAG: emerging_tech_links
+#: mozorg/technology.lang:53
+msgid "See what’s new"
+msgstr "नया क्या है, देखें"
+
+#. Obsolete string, do not remove
+#: mozorg/technology.lang:58
 msgid "Play some demos"
 msgstr "कुछ नमूने चलायें"
 
-#: mozorg/technology.lang:45
+#. # TAG: emerging_tech_links
+#: mozorg/technology.lang:63
+msgid "Meet WebAssembly"
+msgstr ""
+
+#: mozorg/technology.lang:67
 msgid "Start building"
 msgstr "निर्माण करना प्रारंभ करें"
 
-#: mozorg/technology.lang:49
+#: mozorg/technology.lang:71
 msgid "Adding trust to the Internet of Things"
 msgstr "इंटरनेट ऑफ़ थिंग्स पर भरोसा जोड़ना"
 
-#: mozorg/technology.lang:53
+#: mozorg/technology.lang:75
 msgid ""
 "Through open innovation, we’re bringing trust and transparency to networks "
 "of smart devices."
 msgstr ""
 "खुली नवाचार के माध्यम से, हम स्मार्ट डिवाइस के नेटवर्क पर विश्वास और पारदर्शिता ला रहे हैं."
 
-#: mozorg/technology.lang:57
+#: mozorg/technology.lang:79
 msgid "Learn more"
 msgstr "अधिक जानें"
 
-#: mozorg/technology.lang:61
+#: mozorg/technology.lang:83
 msgid "Visit the wiki"
 msgstr "Wiki पर जाएँ"
 
-#: mozorg/technology.lang:65
+#: mozorg/technology.lang:87
 msgid "Start contributing"
 msgstr "योगदान प्रारंभ करे "
 
-#: mozorg/technology.lang:69
+#: mozorg/technology.lang:91
 msgid "Building a browser that gets you"
 msgstr "एक ब्राउज़र का निर्माण जो आपको समझता है"
 
-#: mozorg/technology.lang:73
+#: mozorg/technology.lang:95
 msgid ""
 "The next generation of Web discovery is a browser that is more intuitive, "
 "useful and in tune with you."
 msgstr ""
 "वेब आविष्कार की अगली पीढ़ी एक ऐसा ब्राउज़र है जो अधिक सहज, उपयोगी और आपके साथ अनूकुल है"
 
-#: mozorg/technology.lang:77
+#: mozorg/technology.lang:99
 msgid "Try it now"
 msgstr "अभी आज़माएँ"
 
-#: mozorg/technology.lang:81
+#: mozorg/technology.lang:103
 msgid "Inventing a safer programming language"
 msgstr "एक सुरक्षित प्रोग्रामिंग भाषा का आविष्कार"
 
-#: mozorg/technology.lang:85
+#. # TAG: emerging_tech_links
+#: mozorg/technology.lang:108
+#, fuzzy
+msgid ""
+"Sponsored by Mozilla, Rust allows browsers, systems and more to run much "
+"faster and more safely."
+msgstr ""
+"Mozilla के द्वारा समर्थित, Rust ब्राउज़र, सिस्टम तथा अन्य चीजों को अधिक तेज़ और अधिक "
+"सुरक्षित रूप से चलाने के लिए अनुमति देता है"
+
+#. # TAG: emerging_tech_links
+#: mozorg/technology.lang:113
+msgid "Learn about Rust"
+msgstr ""
+
+#. Obsolete string, do not remove
+#: mozorg/technology.lang:118
 msgid ""
 "Supported by Mozilla, Rust allows browsers, systems and more to run much "
 "faster and more safely."
@@ -122,30 +160,30 @@ msgstr ""
 "Mozilla के द्वारा समर्थित, Rust ब्राउज़र, सिस्टम तथा अन्य चीजों को अधिक तेज़ और अधिक "
 "सुरक्षित रूप से चलाने के लिए अनुमति देता है"
 
-#: mozorg/technology.lang:89
+#: mozorg/technology.lang:122
 msgid "Visit Rust"
 msgstr "Rust पर जाएँ"
 
-#: mozorg/technology.lang:93
+#: mozorg/technology.lang:126
 msgid "Get involved"
 msgstr "शामिल होएँ!‌"
 
-#: mozorg/technology.lang:97
+#: mozorg/technology.lang:130
 msgid "What’s next?"
 msgstr "आगे क्या है?"
 
-#: mozorg/technology.lang:101
+#: mozorg/technology.lang:134
 msgid "Get the Mozilla newsletter for our latest tech news and more."
 msgstr "हमारे तकनीकी समाचार तथा अन्य चीजों के लिए Mozilla समाचार पत्र प्राप्त करें."
 
-#: mozorg/technology.lang:105
+#: mozorg/technology.lang:138
 msgid "Blogs"
 msgstr "ब्लॉग‌"
 
-#: mozorg/technology.lang:109
+#: mozorg/technology.lang:142
 msgid "Read the latest from Mozilla’s technology blogs."
 msgstr "Mozilla के टेक्नालजी ब्लॉग से नवीनतम पढ़ें."
 
-#: mozorg/technology.lang:113
+#: mozorg/technology.lang:146
 msgid "Continue reading"
 msgstr "पढ़ना जारी रखें"
