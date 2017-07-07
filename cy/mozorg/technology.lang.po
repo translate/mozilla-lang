@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-22 08:09+0000\n"
+"POT-Creation-Date: 2017-07-07 16:09+0000\n"
 "PO-Revision-Date: 2017-01-13 20:11+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: none\n"
@@ -12,14 +12,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
+"X-Generator: Translate Toolkit 2.2.3\n"
 "X-POOTLE-MTIME: 1484338272.000000\n"
 
-#: mozorg/technology.lang:4
+#: mozorg/technology.lang:5
 msgid "We’re opening up a whole new Internet."
 msgstr "Rydym yn agor Rhyngrwyd newydd sbon."
 
-#: mozorg/technology.lang:8
+#: mozorg/technology.lang:9
 msgid ""
 "Explore some of our latest innovations — built with open Web technologies "
 "and designed to help keep the Internet healthy and accessible forever."
@@ -27,11 +27,11 @@ msgstr ""
 "Dewch i weld ein harloesedd diweddaraf — wedi eu hadeiladu gyda thechnolegau "
 "Gwe agored ac wedi eu cynllunio i gadw'r we'n iach ac ar gael am byth."
 
-#: mozorg/technology.lang:12
+#: mozorg/technology.lang:13
 msgid "Making Virtual Reality a reality for all"
 msgstr "Gwneud Rhith Realiti yn real i bawb"
 
-#: mozorg/technology.lang:16
+#: mozorg/technology.lang:17
 msgid ""
 "Using A-Frame, developers, designers and artists are able to easily create "
 "accessible VR experiences."
@@ -39,24 +39,35 @@ msgstr ""
 "Gan ddefnyddio A-Frame, mae datblygwyr, cynllunwyr ac artistiaid yn gallu "
 "creu profiadau VR hygyrch yn rhwydd."
 
-#. This is a button label
-#: mozorg/technology.lang:21
+#. Obsolete string, do not remove
+#: mozorg/technology.lang:22
 msgid "Try it out"
 msgstr "Rhowch gynnig arni"
 
-#: mozorg/technology.lang:25
+#: mozorg/technology.lang:26
 msgid "Explore A-Frame"
 msgstr "Archwilio A-Frame"
 
-#: mozorg/technology.lang:29
+#. # TAG: emerging_tech_links
+#: mozorg/technology.lang:31
+#, fuzzy
+msgid "Learn about WebVR"
+msgstr "Dysgu rhagor am WebVR"
+
+#. # TAG: emerging_tech_links
+#: mozorg/technology.lang:36
+msgid "Visit A-Frame blog"
+msgstr ""
+
+#: mozorg/technology.lang:40
 msgid "Visit the blog"
 msgstr "Dewch i'n blog"
 
-#: mozorg/technology.lang:33
+#: mozorg/technology.lang:44
 msgid "Using the Web to change the game"
 msgstr "Defnyddio'r We i newid y gêm"
 
-#: mozorg/technology.lang:37
+#: mozorg/technology.lang:48
 msgid ""
 "With powerful Web technologies, pioneered by Mozilla, developers are pushing "
 "games to a new level."
@@ -64,19 +75,30 @@ msgstr ""
 "Gyda thechnolegau Gwe pwerus, wedi eu harloesi gan Mozilla, mae datblygwyr "
 "yn gwthio gemau i lefel newydd."
 
-#: mozorg/technology.lang:41
+#. # TAG: emerging_tech_links
+#: mozorg/technology.lang:53
+msgid "See what’s new"
+msgstr "Gweld beth sy'n newydd"
+
+#. Obsolete string, do not remove
+#: mozorg/technology.lang:58
 msgid "Play some demos"
 msgstr "Chwaraewch rhai o'n demos"
 
-#: mozorg/technology.lang:45
+#. # TAG: emerging_tech_links
+#: mozorg/technology.lang:63
+msgid "Meet WebAssembly"
+msgstr ""
+
+#: mozorg/technology.lang:67
 msgid "Start building"
 msgstr "Cychwyn adeiladu"
 
-#: mozorg/technology.lang:49
+#: mozorg/technology.lang:71
 msgid "Adding trust to the Internet of Things"
 msgstr "Ychwanegu ymddiriedaeth i'r Rhyngrwyd Pethau"
 
-#: mozorg/technology.lang:53
+#: mozorg/technology.lang:75
 msgid ""
 "Through open innovation, we’re bringing trust and transparency to networks "
 "of smart devices."
@@ -84,23 +106,23 @@ msgstr ""
 "Drwy arloesedd agored, rydym yn dod ag ymddiriedaeth a thryloywder i "
 "rwydweithiau o ddyfeisiau clyfar."
 
-#: mozorg/technology.lang:57
+#: mozorg/technology.lang:79
 msgid "Learn more"
 msgstr "Dysgu rhagor"
 
-#: mozorg/technology.lang:61
+#: mozorg/technology.lang:83
 msgid "Visit the wiki"
 msgstr "Mynd i'r wici"
 
-#: mozorg/technology.lang:65
+#: mozorg/technology.lang:87
 msgid "Start contributing"
 msgstr "Cychwyn cyfrannu"
 
-#: mozorg/technology.lang:69
+#: mozorg/technology.lang:91
 msgid "Building a browser that gets you"
 msgstr "Adeiladu porwr sy'n eich deall chi"
 
-#: mozorg/technology.lang:73
+#: mozorg/technology.lang:95
 msgid ""
 "The next generation of Web discovery is a browser that is more intuitive, "
 "useful and in tune with you."
@@ -108,15 +130,31 @@ msgstr ""
 "Mae'r genhedlaeth o nesaf o ddarganfod ar y We yn borwr sy'n fwy "
 "sythweledol, defnyddiol ac yn eich deall chi."
 
-#: mozorg/technology.lang:77
+#: mozorg/technology.lang:99
 msgid "Try it now"
 msgstr "Rhowch gynnig arno"
 
-#: mozorg/technology.lang:81
+#: mozorg/technology.lang:103
 msgid "Inventing a safer programming language"
 msgstr "Dyfeisio iaith raglennu mwy diogel"
 
-#: mozorg/technology.lang:85
+#. # TAG: emerging_tech_links
+#: mozorg/technology.lang:108
+#, fuzzy
+msgid ""
+"Sponsored by Mozilla, Rust allows browsers, systems and more to run much "
+"faster and more safely."
+msgstr ""
+"Yn derbyn cefnogaeth gan Mozilla, mae Rust yn caniatáu i borwyr, systemau a "
+"rhagor i redeg lawer ynghynt ac yn fwy diogel."
+
+#. # TAG: emerging_tech_links
+#: mozorg/technology.lang:113
+msgid "Learn about Rust"
+msgstr ""
+
+#. Obsolete string, do not remove
+#: mozorg/technology.lang:118
 msgid ""
 "Supported by Mozilla, Rust allows browsers, systems and more to run much "
 "faster and more safely."
@@ -124,32 +162,32 @@ msgstr ""
 "Yn derbyn cefnogaeth gan Mozilla, mae Rust yn caniatáu i borwyr, systemau a "
 "rhagor i redeg lawer ynghynt ac yn fwy diogel."
 
-#: mozorg/technology.lang:89
+#: mozorg/technology.lang:122
 msgid "Visit Rust"
 msgstr "Ymweld â Rust"
 
-#: mozorg/technology.lang:93
+#: mozorg/technology.lang:126
 msgid "Get involved"
 msgstr "Ymunwch!"
 
-#: mozorg/technology.lang:97
+#: mozorg/technology.lang:130
 msgid "What’s next?"
 msgstr "Be sy nesa?"
 
-#: mozorg/technology.lang:101
+#: mozorg/technology.lang:134
 msgid "Get the Mozilla newsletter for our latest tech news and more."
 msgstr ""
 "Mynnwch newyddlen Mozilla er mwyn derbyn y newyddion technegol diweddaraf a "
 "mwy."
 
-#: mozorg/technology.lang:105
+#: mozorg/technology.lang:138
 msgid "Blogs"
 msgstr "Blogiau"
 
-#: mozorg/technology.lang:109
+#: mozorg/technology.lang:142
 msgid "Read the latest from Mozilla’s technology blogs."
 msgstr "Darllenwch y diweddaraf gan flogiau technegol Mozilla."
 
-#: mozorg/technology.lang:113
+#: mozorg/technology.lang:146
 msgid "Continue reading"
 msgstr "Parhau i ddarllen"
