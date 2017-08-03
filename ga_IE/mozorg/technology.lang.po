@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-07 16:09+0000\n"
+"POT-Creation-Date: 2017-08-03 19:08+0000\n"
 "PO-Revision-Date: 2017-07-07 16:44+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: none\n"
@@ -13,14 +13,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
 "(n>6 && n<11) ? 3 : 4;;\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Translate Toolkit 2.2.3\n"
 "X-POOTLE-MTIME: 1499445892.000000\n"
 
-#: mozorg/technology.lang:5
+#: mozorg/technology.lang:7
 msgid "We’re opening up a whole new Internet."
 msgstr "Tá idirlíon úrnua ar fad á oscailt againn."
 
-#: mozorg/technology.lang:9
+#: mozorg/technology.lang:11
 msgid ""
 "Explore some of our latest innovations — built with open Web technologies "
 "and designed to help keep the Internet healthy and accessible forever."
@@ -29,11 +29,11 @@ msgstr ""
 "Gréasáin oscailte agus deartha chun sláinte agus inrochtaineacht an Idirlín "
 "a chosaint."
 
-#: mozorg/technology.lang:13
+#: mozorg/technology.lang:15
 msgid "Making Virtual Reality a reality for all"
 msgstr "An Réaltacht Fhíorúil a chur ar fáil do chách"
 
-#: mozorg/technology.lang:17
+#: mozorg/technology.lang:19
 msgid ""
 "Using A-Frame, developers, designers and artists are able to easily create "
 "accessible VR experiences."
@@ -42,34 +42,34 @@ msgstr ""
 "chun réaltachtaí fíorúla inrochtana a chruthú."
 
 #. Obsolete string, do not remove
-#: mozorg/technology.lang:22
+#: mozorg/technology.lang:24
 msgid "Try it out"
 msgstr "Bain triail as"
 
-#: mozorg/technology.lang:26
+#: mozorg/technology.lang:28
 msgid "Explore A-Frame"
 msgstr "Baile A-Frame"
 
 #. # TAG: emerging_tech_links
-#: mozorg/technology.lang:31
+#: mozorg/technology.lang:33
 msgid "Learn about WebVR"
 msgstr "Tuilleadh eolais faoi WebVR"
 
 #. # TAG: emerging_tech_links
-#: mozorg/technology.lang:36
+#: mozorg/technology.lang:38
 msgid "Visit A-Frame blog"
 msgstr "Léigh an blag A-Frame"
 
-#: mozorg/technology.lang:40
+#: mozorg/technology.lang:42
 msgid "Visit the blog"
 msgstr "Tabhair cuairt ar an mblag"
 
 # yeah, not translating the word play
-#: mozorg/technology.lang:44
+#: mozorg/technology.lang:46
 msgid "Using the Web to change the game"
 msgstr "Ag úsáid an Ghréasáin chun cluichí a athrú"
 
-#: mozorg/technology.lang:48
+#: mozorg/technology.lang:50
 msgid ""
 "With powerful Web technologies, pioneered by Mozilla, developers are pushing "
 "games to a new level."
@@ -78,29 +78,43 @@ msgstr ""
 "teicneolaíochtaí Gréasáin cumhachtacha a tháinig as tionscadal Mozilla."
 
 #. # TAG: emerging_tech_links
-#: mozorg/technology.lang:53
+#: mozorg/technology.lang:55
 msgid "See what’s new"
 msgstr "Gach rud nua"
 
 #. Obsolete string, do not remove
-#: mozorg/technology.lang:58
+#: mozorg/technology.lang:60
 msgid "Play some demos"
 msgstr "Imir cluichí taispeána"
 
 #. # TAG: emerging_tech_links
-#: mozorg/technology.lang:63
+#: mozorg/technology.lang:65
 msgid "Meet WebAssembly"
 msgstr "Seo é WebAssembly"
 
-#: mozorg/technology.lang:67
+#: mozorg/technology.lang:69
 msgid "Start building"
 msgstr "Tosaigh ag tógáil"
 
-#: mozorg/technology.lang:71
+#. # TAG: iot_links
+#: mozorg/technology.lang:74
+msgid "Building the Web of Things"
+msgstr ""
+
+#. # TAG: iot_links
+#: mozorg/technology.lang:79
+msgid ""
+"We’re working to create an open, Web of Things framework of software and "
+"services that can bridge the communication gap between connected devices."
+msgstr ""
+
+#. String is obsolete. Do NOT remove.
+#: mozorg/technology.lang:84
 msgid "Adding trust to the Internet of Things"
 msgstr "Idirlíon na nEarraí a dhéanamh níos iontaofa"
 
-#: mozorg/technology.lang:75
+#. String is obsolete. Do NOT remove.
+#: mozorg/technology.lang:89
 msgid ""
 "Through open innovation, we’re bringing trust and transparency to networks "
 "of smart devices."
@@ -108,23 +122,30 @@ msgstr ""
 "Táimid ag cur iontaofacht agus trédhearcacht le líonraí de ghléasanna beaga, "
 "trí nuálaíocht oscailte."
 
-#: mozorg/technology.lang:79
+#: mozorg/technology.lang:93
 msgid "Learn more"
 msgstr "Tuilleadh eolais"
 
-#: mozorg/technology.lang:83
+#. # TAG: iot_links
+#: mozorg/technology.lang:98
+msgid "Visit Mozilla IoT"
+msgstr ""
+
+#. String is obsolete. Do NOT remove.
+#: mozorg/technology.lang:103
 msgid "Visit the wiki"
 msgstr "Tabhair cuairt ar an vicí"
 
-#: mozorg/technology.lang:87
+#. # TAG: iot_links
+#: mozorg/technology.lang:108
 msgid "Start contributing"
 msgstr "Glac páirt"
 
-#: mozorg/technology.lang:91
+#: mozorg/technology.lang:112
 msgid "Building a browser that gets you"
 msgstr "Ag tógáil brabhsálaí a thuigeann thú"
 
-#: mozorg/technology.lang:95
+#: mozorg/technology.lang:116
 msgid ""
 "The next generation of Web discovery is a browser that is more intuitive, "
 "useful and in tune with you."
@@ -132,16 +153,16 @@ msgstr ""
 "Is cuid den chéad ghlúin eile den Ghréasán brabhsálaí atá níos simplí, níos "
 "úsáidí, agus ar aon intinn leat."
 
-#: mozorg/technology.lang:99
+#: mozorg/technology.lang:120
 msgid "Try it now"
 msgstr "Bain triail as anois"
 
-#: mozorg/technology.lang:103
+#: mozorg/technology.lang:124
 msgid "Inventing a safer programming language"
 msgstr "Teangacha ríomhchlárúcháin níos sábháilte"
 
 #. # TAG: emerging_tech_links
-#: mozorg/technology.lang:108
+#: mozorg/technology.lang:129
 msgid ""
 "Sponsored by Mozilla, Rust allows browsers, systems and more to run much "
 "faster and more safely."
@@ -150,12 +171,12 @@ msgstr ""
 "níos sábháilte le Rust, togra de chuid Mozilla."
 
 #. # TAG: emerging_tech_links
-#: mozorg/technology.lang:113
+#: mozorg/technology.lang:134
 msgid "Learn about Rust"
 msgstr "Maidir le Rust"
 
 #. Obsolete string, do not remove
-#: mozorg/technology.lang:118
+#: mozorg/technology.lang:139
 msgid ""
 "Supported by Mozilla, Rust allows browsers, systems and more to run much "
 "faster and more safely."
@@ -163,32 +184,32 @@ msgstr ""
 "Oibríonn brabhsálaithe, córais oibriúcháin, agus bogearraí eile níos tapúla "
 "níos sábháilte le Rust, togra de chuid Mozilla."
 
-#: mozorg/technology.lang:122
+#: mozorg/technology.lang:143
 msgid "Visit Rust"
 msgstr "Baile Rust"
 
-#: mozorg/technology.lang:126
+#: mozorg/technology.lang:147
 msgid "Get involved"
 msgstr "Glac páirt"
 
-#: mozorg/technology.lang:130
+#: mozorg/technology.lang:151
 msgid "What’s next?"
 msgstr "Céard atá romhainn?"
 
-#: mozorg/technology.lang:134
+#: mozorg/technology.lang:155
 msgid "Get the Mozilla newsletter for our latest tech news and more."
 msgstr ""
 "Liostáil le nuachtlitir Mozilla le bheith ar an eolas faoi na "
 "teicneolaíochtaí is déanaí."
 
-#: mozorg/technology.lang:138
+#: mozorg/technology.lang:159
 msgid "Blogs"
 msgstr "Blaganna"
 
-#: mozorg/technology.lang:142
+#: mozorg/technology.lang:163
 msgid "Read the latest from Mozilla’s technology blogs."
 msgstr "Faigh na scéalta is déanaí ó bhlaganna teicneolaíochta Mozilla."
 
-#: mozorg/technology.lang:146
+#: mozorg/technology.lang:167
 msgid "Continue reading"
 msgstr "Lean ag léamh"
