@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-21 16:09+0000\n"
-"PO-Revision-Date: 2017-08-05 05:52+0000\n"
+"PO-Revision-Date: 2017-08-05 07:03+0000\n"
 "Last-Translator: Manuel Padilla Sánchez <manuel.padilla@servicios.ccoo.es>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: azz\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1501912349.000000\n"
+"X-POOTLE-MTIME: 1501916623.000000\n"
 
 #. Used as HTML description of the page
 #: firefox/products/developer.lang:7
@@ -93,7 +93,7 @@ msgid ""
 "“go anywhere” debugger"
 msgstr ""
 "Xikonchijchipaua inepaleuiluan Firefox tein aplicaciones uan aplicaciones "
-"tein marco<br> chijchiujtokej itechkopa React uan Ember <br>ika "
+"tein framework<br> chijchiujtokej itechkopa React uan Ember <br>ika "
 "tachipaualoni tein itokay \"maj se nejnemi kampa yeski\""
 
 #. Link to https://developer.mozilla.org/docs/Tools/Debugger
@@ -120,7 +120,6 @@ msgid "Join the conversation"
 msgstr "Xioniniuanti itech tanojnotsalis"
 
 #: firefox/products/developer.lang:80
-#, fuzzy
 msgid "Get involved"
 msgstr "Xioniniuanti"
 
@@ -168,91 +167,93 @@ msgstr "Consola"
 #: firefox/products/developer.lang:114
 msgid "Track CSS, JavaScript, security and network issues."
 msgstr ""
+"Xikontemo kuejmolmej tein moajsij itech CSS, JavaScript, yekyetolis uan "
+"matat."
 
 #. Link to https://developer.mozilla.org/docs/Tools/Web_Console
 #: firefox/products/developer.lang:119
-#, fuzzy
 msgid "Learn more about the Web Console"
-msgstr "Kampa se uelis okachi momachtis Web Console"
+msgstr "Kampa se uelis okachi momachtis Consola tein Web"
 
 #: firefox/products/developer.lang:123
 msgid "Debugger"
-msgstr ""
+msgstr "Tachipaualoni"
 
 #: firefox/products/developer.lang:127
 msgid "Powerful JavaScript debugger with support for your framework."
 msgstr ""
+"Chikauak tachipaualoni ika JavaScript tein uelis kitetsontis moframework."
 
 #. Link to https://developer.mozilla.org/docs/Tools/Debugger
 #: firefox/products/developer.lang:132
 msgid "Learn more about the Debugger"
-msgstr ""
+msgstr "Kampa se uelis okachi momachtis Tachipaualoni"
 
 #: firefox/products/developer.lang:136
 msgid "Network"
-msgstr ""
+msgstr "Matat"
 
 #: firefox/products/developer.lang:140
 msgid "Monitor network requests that can slow or block your site."
 msgstr ""
+"Xikonita tajtanilis tein red tein uelis kichiuas mositioj maj tiuistia oso "
+"amo kikaujtokej maj tekiti."
 
 #. Link to https://developer.mozilla.org//docs/Tools/Network_Monitor
 #: firefox/products/developer.lang:145
-#, fuzzy
 msgid "Learn more about the Network Monitor"
-msgstr "Kampa se uelis okachi momachtis Tepos monitor tein matat"
+msgstr "Kampa se uelis okachi momachtis Monitor tein Matat"
 
 #: firefox/products/developer.lang:149
 msgid "Storage panel"
-msgstr ""
+msgstr "Taixnextiloni tein nechikolis"
 
 #: firefox/products/developer.lang:153
 msgid "Add, modify and remove cache, cookies, databases and session data."
 msgstr ""
+"Xikontali, xikonpata uan xikonajchiua caché, cookies, bases tein datos uan "
+"nochi tein moijkuiloj keman sesión."
 
 #. Link to https://developer.mozilla.org/docs/Tools/Storage_Inspector
 #: firefox/products/developer.lang:158
-#, fuzzy
 msgid "Learn more about the Storage panel"
-msgstr ""
-"Kampa se okachi uelis momachtis manamikmej tein ika se uelis kiitas keniuj "
-"taki se itachiualis"
+msgstr "Kampa se uelis okachi momachtis Taixnextiloni tein nechikolis"
 
 #: firefox/products/developer.lang:162
-#, fuzzy
 msgid "Responsive Design Mode"
-msgstr "Tachialis keniuj chijchiujtok tein se uelis kipatas"
+msgstr "Keman se uelis kichijchiuas tensa tein se uelis kipatas"
 
 #: firefox/products/developer.lang:166
 msgid "Test sites on emulated devices in your browser."
 msgstr ""
+"Xikonixejeko sitios itechkpa teposmej tein kichiujkej kemej oksekin tein "
+"moajsij itech monavegador."
 
 #. Link to https://developer.mozilla.org/docs/Tools/Responsive_Design_Mode
 #: firefox/products/developer.lang:171
-#, fuzzy
 msgid "Learn more about Responsive Design Mode"
 msgstr ""
-"Kampa se okachi uelis momachtis tachialis keniuj chijchiujtok tein se uelis "
-"kipatas"
+"Kampa se okachi uelis momachtis Keman se uelis kichijchiuas tensa tein se "
+"uelis kipatas"
 
 #: firefox/products/developer.lang:175
 msgid "Visual Editing"
-msgstr ""
+msgstr "Patalis tein kiiliaj edición tein se uelis kiitas"
 
 #: firefox/products/developer.lang:179
 msgid "Fine-tune animations, alignment and padding."
 msgstr ""
+"Xikonyektali taixkopimej tein moolinij, keniuj tepantokej tensa uan keniuj "
+"kiixpexontijkej."
 
 #. Link to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more/
 #: firefox/products/developer.lang:184
-#, fuzzy
 msgid "Learn more about Visual Editing"
-msgstr ""
-"Kampa se okachi uelis momachtis manamikmej tein kipataj tein se uelis kiitas"
+msgstr "Kampa se okachi uelis momachtis Patalis edición tein se uelis kiitas"
 
 #: firefox/products/developer.lang:188
 msgid "Performance"
-msgstr ""
+msgstr "Keniuj taki se itachiualis"
 
 #: firefox/products/developer.lang:192
 msgid "Unblock bottlenecks, streamline processes, optimize assets."
