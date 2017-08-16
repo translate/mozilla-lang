@@ -4,15 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-21 16:09+0000\n"
-"PO-Revision-Date: 2016-03-04 13:21+0000\n"
-"Last-Translator: Raj Nilayam <raj.nilayam@gmail.com>\n"
+"PO-Revision-Date: 2017-08-16 11:33+0000\n"
+"Last-Translator: Peiying Mo <pmo@mozilla.com>\n"
 "Language-Team: none\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.2.3\n"
-"X-POOTLE-MTIME: 1457097688.000000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1502883210.000000\n"
 
 #. Used as HTML description of the page
 #: firefox/products/developer.lang:7
@@ -25,11 +26,11 @@ msgstr ""
 
 #: firefox/products/developer.lang:11
 msgid "Modern tools for the Open Web"
-msgstr ""
+msgstr "डेस्कटॉप के लिए Firefox ब्राउज़र"
 
 #: firefox/products/developer.lang:15
 msgid "Create and debug web experiences with powerful, open source tools."
-msgstr ""
+msgstr "ओपन वेब के लिए आधुनिक उपकरण"
 
 #: firefox/products/developer.lang:19
 msgid "Firefox Developer Edition automatically sends feedback to Mozilla."
@@ -37,12 +38,12 @@ msgstr "फ़ायरफ़ॉक्स डेवलपर संस्करण स
 
 #: firefox/products/developer.lang:23
 msgid "Modernize"
-msgstr ""
+msgstr "आधुनिकीकरण करें"
 
 #: firefox/products/developer.lang:27
 msgid ""
 "Create fast, flexible interactive UI with built-in React and Redux tools."
-msgstr ""
+msgstr "शक्तिशाली, खुले स्रोत साधनों के साथ वेब अनुभव बनाएँ और डिबग करें."
 
 #: firefox/products/developer.lang:31
 msgid "Customize"
@@ -50,27 +51,27 @@ msgstr "मनपसंद बनाएँ"
 
 #: firefox/products/developer.lang:35
 msgid "Make our devtools yours thanks to open-source code and customization."
-msgstr ""
+msgstr "मुक्त-स्रोत कोड और अनुकूलन के माध्यम से हमारे डेवलपर साधनों को अपना बनाएँ."
 
 #: firefox/products/developer.lang:39
 msgid "Optimize"
-msgstr ""
+msgstr "इष्टतमीकरण करें"
 
 #: firefox/products/developer.lang:43
 msgid ""
 "Ship responsive and compatible sites that work for everyone, everywhere."
-msgstr ""
+msgstr "हर जगह, सभी के लिए उपयोगी अनुक्रियाशील और संगत साइटें तैयार करें."
 
 #. Line break for visual formatting. Feel free to move it around to better fit your language.
 #: firefox/products/developer.lang:48
 msgid ""
 "Master CSS Grid with the only grid inspector<br> and layout tools on the Web."
-msgstr ""
+msgstr "वेब पर केवल ग्रिड निरीक्षक<br> और लेआउट साधनों के साथ CSS ग्रिड में सक्षम बनें."
 
 #. Link to /developer/css-grid
 #: firefox/products/developer.lang:53
 msgid "Try CSS Grid now"
-msgstr ""
+msgstr "CSS ग्रिड  को अब आज़माएँ"
 
 #. Line breaks for visual formatting. Feel free to move them around to better fit your language.
 #: firefox/products/developer.lang:58
@@ -78,31 +79,32 @@ msgid ""
 "Debug Firefox and framework apps<br> built on React and Ember<br> with the "
 "“go anywhere” debugger"
 msgstr ""
+"React और Ember<br> पर बनाए गए Firefox और फ्रेमवर्क ऐप्स<br> को \"कहीं भी ले जाएँ\" "
+"डीबगर के साथ डीबग करें\r\n"
 
 #. Link to https://developer.mozilla.org/docs/Tools/Debugger
 #: firefox/products/developer.lang:63
-#, fuzzy
 msgid "Learn more about Debugger"
 msgstr "वेबभीआर के बारे में और अधिक जानें"
 
 #: firefox/products/developer.lang:67
 msgid "Speak up"
-msgstr ""
+msgstr "आवाज़ उठाएँ"
 
 #: firefox/products/developer.lang:71
 msgid ""
 "Feedback makes us better. Tell us how we can improve the browser and "
 "Developer tools."
 msgstr ""
+"प्रतिपुष्टि हमें बेहतर बनाती है. हमें बताएँ कि हम ब्राउज़र और डेवलपर साधनों को कैसे बेहतर बना "
+"सकते हैं."
 
 #. Link to https://discourse.mozilla-community.org/c/devtools
 #: firefox/products/developer.lang:76
-#, fuzzy
 msgid "Join the conversation"
 msgstr "संवाद में जुड़ें"
 
 #: firefox/products/developer.lang:80
-#, fuzzy
 msgid "Get involved"
 msgstr "शामिल होएँ!"
 
@@ -111,51 +113,53 @@ msgid ""
 "Help build the last independent browser. Write code, fix bugs, make add-ons, "
 "and more."
 msgstr ""
+"आखिरी स्वतंत्र ब्राउज़र बनाने में सहायता करें. कोड लिखें, त्रुटियों को ठीक करें, ऐड-ऑन बनाएँ, "
+"तथा बहुत कुछ और."
 
 #. Link to https://devtools-html.github.io/
 #: firefox/products/developer.lang:89
 msgid "Start now"
-msgstr ""
+msgstr "अभी शुरू करें"
 
 #: firefox/products/developer.lang:93
 msgid "Design, code, test, refine. Perfect your sites with Firefox DevTools."
 msgstr ""
+"डिजाइन, कोड, परीक्षण, तथा परिष्कृत करें. Firefox DevTools के साथ अपनी साइटों को "
+"उत्तम बनाएँ."
 
 #: firefox/products/developer.lang:97
 msgid "Inspector"
-msgstr ""
+msgstr "निरीक्षक"
 
 #: firefox/products/developer.lang:101
 msgid "Inspect and refine code to build pixel-perfect layouts."
-msgstr ""
+msgstr "पिक्सेल के स्तर तक सटीक लेआउट बनाने के लिए कोड का निरीक्षण और परिष्कृत करें."
 
 #. Link to https://developer.mozilla.org/docs/Tools/Seiten_Inspektor
 #: firefox/products/developer.lang:106
-#, fuzzy
 msgid "Learn more about the Page Inspector"
 msgstr "पृष्ठ निरीक्षक के बारे में और अधिक जानें"
 
 #: firefox/products/developer.lang:110
 msgid "Console"
-msgstr ""
+msgstr "कंसोल"
 
 #: firefox/products/developer.lang:114
 msgid "Track CSS, JavaScript, security and network issues."
-msgstr ""
+msgstr "CSS, JavaScript, सुरक्षा और नेटवर्क समस्याओं पर नजर रखें."
 
 #. Link to https://developer.mozilla.org/docs/Tools/Web_Console
 #: firefox/products/developer.lang:119
-#, fuzzy
 msgid "Learn more about the Web Console"
 msgstr "वेब कंसोल के बारे में और अधिक जानें"
 
 #: firefox/products/developer.lang:123
 msgid "Debugger"
-msgstr ""
+msgstr "डीबगर"
 
 #: firefox/products/developer.lang:127
 msgid "Powerful JavaScript debugger with support for your framework."
-msgstr ""
+msgstr "आपके फ्रेमवर्क का समर्थन करने वाला शक्तिशाली JavaScript डीबगर."
 
 #. Link to https://developer.mozilla.org/docs/Tools/Debugger
 #: firefox/products/developer.lang:132
@@ -165,25 +169,24 @@ msgstr "वेबभीआर के बारे में और अधिक 
 
 #: firefox/products/developer.lang:136
 msgid "Network"
-msgstr ""
+msgstr "नेटवर्क"
 
 #: firefox/products/developer.lang:140
 msgid "Monitor network requests that can slow or block your site."
-msgstr ""
+msgstr "उन नेटवर्क अनुरोधों पर नजर रखें जो आपकी साइट को धीमा या ब्लॉक कर सकते हैं."
 
 #. Link to https://developer.mozilla.org//docs/Tools/Network_Monitor
 #: firefox/products/developer.lang:145
-#, fuzzy
 msgid "Learn more about the Network Monitor"
 msgstr "नेटवर्क निरीक्षण के बारे में और अधिक जानें"
 
 #: firefox/products/developer.lang:149
 msgid "Storage panel"
-msgstr ""
+msgstr "संग्रहण पैनल"
 
 #: firefox/products/developer.lang:153
 msgid "Add, modify and remove cache, cookies, databases and session data."
-msgstr ""
+msgstr "कैश, कुकीज, डेटाबेस और सत्र डेटा को जोड़ें, संशोधित करें और निकालें."
 
 #. Link to https://developer.mozilla.org/docs/Tools/Storage_Inspector
 #: firefox/products/developer.lang:158
@@ -192,31 +195,28 @@ msgid "Learn more about the Storage panel"
 msgstr "प्रदर्शन उपकरण के बारे में अधिक सीखें"
 
 #: firefox/products/developer.lang:162
-#, fuzzy
 msgid "Responsive Design Mode"
 msgstr "उत्तरदायी डिजाइन दृष्टि"
 
 #: firefox/products/developer.lang:166
 msgid "Test sites on emulated devices in your browser."
-msgstr ""
+msgstr "अपने ब्राउज़र में एमुलेटेड डिवाइसों पर साइटों का निरीक्षण करें."
 
 #. Link to https://developer.mozilla.org/docs/Tools/Responsive_Design_Mode
 #: firefox/products/developer.lang:171
-#, fuzzy
 msgid "Learn more about Responsive Design Mode"
-msgstr "उत्तरदायी डिजाइन दृष्टि के बारे में अधिक सीखें"
+msgstr "अनुक्रियाशील डिजाइन मोड के बारे में अधिक जानें"
 
 #: firefox/products/developer.lang:175
 msgid "Visual Editing"
-msgstr ""
+msgstr "विजुअल संपादन"
 
 #: firefox/products/developer.lang:179
 msgid "Fine-tune animations, alignment and padding."
-msgstr ""
+msgstr "फाईन-ट्यून एनिमेशन, संरेखण और पैडिंग."
 
 #. Link to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more/
 #: firefox/products/developer.lang:184
-#, fuzzy
 msgid "Learn more about Visual Editing"
 msgstr "दृश्य संपादन उपकरण के बारे में अधिक जानें"
 
@@ -226,22 +226,21 @@ msgstr "प्रदर्शन"
 
 #: firefox/products/developer.lang:192
 msgid "Unblock bottlenecks, streamline processes, optimize assets."
-msgstr ""
+msgstr "अवरोध हटाएँ, प्रक्रियाओं को कारगर बनाएँ, संपत्तियों को इष्टतम बनाएँ."
 
 #. Link to https://developer.mozilla.org/docs/Tools/Performance
 #: firefox/products/developer.lang:197
-#, fuzzy
 msgid "Learn more about the Performance panel"
 msgstr "प्रदर्शन उपकरण के बारे में अधिक सीखें"
 
 #: firefox/products/developer.lang:201
 msgid "Memory"
-msgstr ""
+msgstr "मेमोरी"
 
 #. Zippy means very fast.
 #: firefox/products/developer.lang:206
 msgid "Find memory leaks and make your application zippy."
-msgstr ""
+msgstr "मेमोरी लीक को ढूंढें और अपने अनुप्रयोग को तेज बनाएँ."
 
 #. Link to https://developer.mozilla.org/docs/Tools/Memory
 #: firefox/products/developer.lang:211
@@ -251,25 +250,24 @@ msgstr "प्रदर्शन उपकरण के बारे में �
 
 #: firefox/products/developer.lang:215
 msgid "Web Audio"
-msgstr ""
+msgstr "वेब ऑडियो"
 
 #: firefox/products/developer.lang:219
 msgid "The only developer tool for inspecting the Web Audio API."
-msgstr ""
+msgstr "वेब ऑडियो API का निरीक्षण करने के लिए एकमात्र डेवलपर उपकरण."
 
 #. Link to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
 #: firefox/products/developer.lang:224
-#, fuzzy
 msgid "Learn more about the Web Audio Editor"
 msgstr "वेब ऑडियो संपादक के बारे में और अधिक जानें"
 
 #: firefox/products/developer.lang:228
 msgid "Scratchpad"
-msgstr ""
+msgstr "Scratchpad"
 
 #: firefox/products/developer.lang:232
 msgid "Edit, write, run and execute JavaScript in real time."
-msgstr ""
+msgstr "वास्तविक समय में JavaScript को संपादित करें, लिखें, चलाएँ और निष्पादित करें."
 
 #. Link to https://developer.mozilla.org/docs/Tools/Scratchpad
 #: firefox/products/developer.lang:237
@@ -283,11 +281,10 @@ msgstr "शैली संपादक"
 
 #: firefox/products/developer.lang:245
 msgid "Edit and manage all your CSS stylesheets in your browser."
-msgstr ""
+msgstr "अपने ब्राउज़र में अपने सभी CSS स्टाइलशीट को संपादित और प्रबंधित करें."
 
 #. Link to https://developer.mozilla.org/docs/Tools/Style_Editor
 #: firefox/products/developer.lang:250
-#, fuzzy
 msgid "Learn more about the Style Editor"
 msgstr "शैली संपादक के बारे में और अधिक सीखें"
 

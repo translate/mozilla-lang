@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-28 00:10+0000\n"
-"PO-Revision-Date: 2017-08-05 17:37+0000\n"
-"Last-Translator: Saquib Alam <isaquibalam2@gmail.com>\n"
+"PO-Revision-Date: 2017-08-16 11:33+0000\n"
+"Last-Translator: Peiying Mo <pmo@mozilla.com>\n"
 "Language-Team: none\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -13,12 +13,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
-"X-POOTLE-MTIME: 1501954636.000000\n"
+"X-POOTLE-MTIME: 1502883212.000000\n"
 
 #. Used as HTML title of the page
 #: firefox/features/memory.lang:6
 msgid "Firefox Browser: Use less memory, get more speed"
-msgstr ""
+msgstr "Firefox ब्राउज़र: कम मेमोरी का उपयोग करें, अधिक गति प्राप्त करें."
 
 #. Used as HTML description of the page
 #: firefox/features/memory.lang:11
@@ -55,7 +55,7 @@ msgstr ""
 
 #: firefox/features/memory.lang:31
 msgid "Stop running out of memory"
-msgstr ""
+msgstr "मेमोरी से बाहर जाना बंद करें"
 
 #: firefox/features/memory.lang:35
 msgid ""
@@ -64,10 +64,14 @@ msgid ""
 "slowdown. Using Firefox’s latest version with multi-process can result in "
 "more available memory to run your favorite programs."
 msgstr ""
+"<a href=\"%(url)s\">क्रोम Firefox की तुलना में 1.77x अधिक मेमोरी का उपयोग करता है</"
+"a>. यदि आपका कंप्यूटर में पहले से ही कम मेमोरी है, तो यह अधिक धीमा होने का कारण बन "
+"सकता है. बहु-प्रक्रिया के साथ Firefox के नवीनतम संस्करण का उपयोग करके आपने पसंदीदा "
+"कार्यक्रम चलाने के लिए अधिक मेमोरी उपलब्ध हो सकती है.\r\n"
 
 #: firefox/features/memory.lang:39
 msgid "Browse faster, privately"
-msgstr ""
+msgstr "अधिक तेजी से, निजी तौर पर ब्राउज़ करें"
 
 #: firefox/features/memory.lang:43
 msgid ""
@@ -76,3 +80,7 @@ msgid ""
 "ads with trackers from loading on pages. Decluttering sites means web pages "
 "can load faster."
 msgstr ""
+"<a href=\"%(url)s\">Firefox निजी ब्राउज़िंग</a> के साथ वेब का तेजी से एक्सप्लोर करें. "
+"केवल Firefox के निजी मोड में ट्रैकिंग की सुरक्षा शामिल होती है जो ट्रैकर्स के साथ पृष्ठों पर "
+"लोड करने से विज्ञापनों को ब्लॉक करता है. साइटें हटाने का अर्थ है वेब पेज तेजी से लोड हो सकते "
+"हैं.\r\n"

@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-14 12:08+0000\n"
-"PO-Revision-Date: 2017-08-05 18:16+0000\n"
-"Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
+"PO-Revision-Date: 2017-08-16 11:33+0000\n"
+"Last-Translator: Peiying Mo <pmo@mozilla.com>\n"
 "Language-Team: none\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 2.2.3\n"
-"X-POOTLE-MTIME: 1501956972.000000\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1502883213.000000\n"
 
 #. HTML page title
 #: firefox/sync.lang:10
@@ -41,6 +41,9 @@ msgid ""
 "passwords anywhere. Get secure access to everything you need when you sign "
 "into your Firefox Account."
 msgstr ""
+"अपने बुकमार्कों को प्राप्त करने, टैबों और पासवर्डों को कहीं भी खोलने के लिए अपने व्यक्तिगत "
+"उपकरणों पर Firefox जोड़ें. जब आप अपने Firefox अकाउंट में साइन इन करते हैं, तब अपनी जरूरत "
+"की हरेक चीज तक सुरक्षित एक्सेस प्राप्त करें."
 
 #. String is obsolete. Do NOT remove.
 #: firefox/sync.lang:30
@@ -52,12 +55,12 @@ msgstr "तैयार, सेट, सिंक"
 msgid ""
 "You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime."
 msgstr ""
-"आप हस्ताक्षरत् हो गए हैं और एक्सेस के लिए तैयार हैं <em>आप</em> फ़ॉयरफ़ॉक्स हर जगह,हर समय."
+"आप साइन अप हो गए हैं और एक्सेस के लिए तैयार हैं <em>आपका</em> Firefox हर जगह,हर समय."
 
 #. # TAG: sync-update-q3-2017
 #: firefox/sync.lang:40
 msgid "Your web, how you like it, everywhere"
-msgstr ""
+msgstr "आपकी वेब, आप इसे कैसे पसंद करते हैं, हर जगह"
 
 #. # TAG: sync-update-q3-2017
 #: firefox/sync.lang:45
@@ -67,13 +70,17 @@ msgid ""
 "your browsing experience everywhere. Keep everything set up how you like it, "
 "wherever you go."
 msgstr ""
+"अपने संरक्षित पासवर्डों, खुले टैबों और बुकमार्क्स तक एक्सेस करने के लिए अपने Firefox खाते में "
+"साइन इन करें. अपने व्यक्तिगत उपकरणों पर Firefox को जोड़ें और अपने ब्राउज़िंग अनुभव को हर "
+"जगह सुरक्षित रूप से कनेक्ट करें. आप जहां भी जाएं, सब कुछ इस तरह सेट अप करें कि जैसा आप इसे "
+"कैसे पसंद करते हैं."
 
 #. # TAG: sync-update-q3-2017
 #. This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
 #. Here it emphasizes Sync's feature of seemless integration between desktop and mobile. Feel free to come up with a different text (we're waiting for an alternative headline from copywriters).
 #: firefox/sync.lang:52
 msgid "If you lived here you’d be home by now"
-msgstr ""
+msgstr "यदि आप यहां रहते थे तो अब आप अब होम पर होंगे"
 
 #. # TAG: sync-update-q3-2017
 #: firefox/sync.lang:57
@@ -83,6 +90,10 @@ msgid ""
 "access your protected passwords, open tabs and bookmarks. Keep everything "
 "set up how you like it, wherever you go."
 msgstr ""
+"अपने सभी व्यक्तिगत उपकरणों पर अपने ब्राउज़िंग अनुभव को सुरक्षित रूप से कनेक्ट करने के लिए "
+"Firefox को डाउनलोड करें या खोलें. अपने संरक्षित पासवर्डों, खुले टैबों और बुकमार्क्स तक पहुँच "
+"प्राप्त करने के लिए अपने Firefox खाते में साइन इन करें. आप जहां भी जाएं, सब कुछ इस तरह सेट "
+"अप करें कि जैसा आप इसे कैसे पसंद करते हैं."
 
 #. String is obsolete. Do NOT remove.
 #: firefox/sync.lang:62
@@ -131,7 +142,7 @@ msgstr "अब अपने आईओस और एंड्राइड उप�
 
 #: firefox/sync.lang:98
 msgid "Download Firefox for Android"
-msgstr "Android के लिए Firefox डाउनलोड करें "
+msgstr "Android के लिए Firefox डाउनलोड करें"
 
 #: firefox/sync.lang:102
 msgid "Get started with Sync"
@@ -157,26 +168,26 @@ msgid ""
 "href=\"%(url)s#w_a-handy-new-menu\">menu</a> in the top right of Firefox and "
 "select “<strong>Sign in to Sync.</strong>”"
 msgstr ""
-"फ़ॉयरफ़ॉक्स के ऊपरी दायें किनारे पे <a class=\"menu ga-link\" data-interaction="
-"\"outbound link click\"  href=\"%(url)s#w_a-handy-new-menu\">मेनू </a>खोले और "
-"\"<strong>सिंक में हस्ताक्षर करें </strong>\" चुनें "
+"Firefox के शीर्ष दाईं ओर <a class=\"menu ga-link\" data-interaction=\"outbound "
+"link click\" href=\"%(url)s#w_a-handy-new-menu\">मेनू</a> खोलें और \"सिंक में "
+"“<strong>साइन इन करें\" चुनें.</strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:125
 msgid "Click “<strong>Get started</strong>” in the tab that opens."
-msgstr "क्लिक करें “<strong>शुरुआत करें </strong>” उस टैब में जो खुलता है."
+msgstr "क्लिक करें “<strong>शुरुआत करें</strong>” उस टैब में जो खुलता है."
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:130
 msgid ""
 "Enter an email address and password to “<strong>Create a Firefox Account.</"
 "strong>”"
-msgstr "\"<strong>फायरफॉक्स अकाउंट बनाये. </strong>\"एक ईमेल पता और पासवर्ड दर्ज करें."
+msgstr "“<strong>एक ईमेल पता और पासवर्ड दर्ज करें.</strong>”"
 
 #. (NEW STRING) <strong> tags used for font color formatting.
 #: firefox/sync.lang:135
 msgid "Click “<strong>Next</strong>” to get a verification sent to your email."
-msgstr "आपके ईमेल पे सत्यापन भेजने के लिए इसमें“<strong>आगे </strong>”क्लिक करें."
+msgstr "आपके ईमेल पे सत्यापन भेजने के लिए इसमें “<strong>आगे</strong>” क्लिक करें."
 
 #: firefox/sync.lang:139
 msgid ""
@@ -206,7 +217,7 @@ msgid ""
 "Tap the <strong>Menu</strong> button (either below the screen or at the top "
 "right corner of the browser)."
 msgstr ""
-"<strong>मेनू </strong>बटन को (ब्राउज़र स्क्रीन के नीचे या ऊपर दायें किनारे पे ) दबाएं |"
+"<strong>मेनू</strong> बटन को (ब्राउज़र स्क्रीन के नीचे या ऊपर दायें किनारे पे) दबाएं."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:163
@@ -214,23 +225,24 @@ msgid ""
 "Select <strong>Settings</strong> (you may need to tap <strong>More</strong> "
 "first)."
 msgstr ""
-"<strong>सेटिंग्स</strong>चुने(आपको पहले <strong>अधिक</strong>दबाने की जरुरत पड़ेगी)."
+"<strong>सेटिंग्स</strong> चुने(आपको पहले <strong>अधिक</strong> दबाने की जरुरत पड़ "
+"सकती है)."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:168
 msgid "Tap <strong>Sync</strong> and then <strong>Get Started</strong>."
-msgstr "<strong>सिंक</strong> दबाएं और फिर <strong>शुरुआत करें</strong>."
+msgstr "<strong>सिंक</strong> और फिर <strong>आरंभ करें</strong>  टैप करें."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:173
 msgid ""
 "The <strong>Create a Firefox Account page</strong> will open in a new tab."
-msgstr "<strong>एक फॉयरफॉक्स अकाउंट पेज बनाये</strong> नए टैब में खुलेगा."
+msgstr "<strong>फॉयरफॉक्स अकाउंट पेज बनाएं</strong> नए टैब में खुलेगा."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:178
 msgid "Fill out the form and click <strong>Next</strong>."
-msgstr "फार्म भरें और <strong>आगे </strong> क्लिक करें."
+msgstr "फार्म भरें और <strong>आगे</strong> पर क्लिक करें."
 
 #. This string is displayed on Android devices
 #: firefox/sync.lang:183
@@ -268,7 +280,7 @@ msgstr ""
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:201
 msgid "Here’s what you can sync:"
-msgstr "यहाँ जो आप सिंक कर सकते हैं: "
+msgstr "यहाँ जो आप सिंक कर सकते हैं:"
 
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:206
@@ -304,6 +316,9 @@ msgid ""
 "at lunchtime? Open it on your kitchen tablet, instantly. Connect your "
 "personal devices, securely."
 msgstr ""
+"वह खरीददारी खरगोश छेद जो आपने आज सुबह अपने लैपटॉप पर शुरू किया था? अपने फोन पर छोड़ने "
+"वाले स्थान से आज रात को उठाएँ. क्या उस रात के खाने के नुस्खे को आप ने लंच के समय पर खोजा "
+"है? इसे तुरंत, अपनी रसोई टैबलेट पर खोलें. अपने निजी डिवाइसों को, सुरक्षित रूप से कनेक्ट करें."
 
 #. String is obsolete. Do NOT remove.
 #: firefox/sync.lang:237
@@ -332,6 +347,9 @@ msgid ""
 "it safe. Your data is always in your control, unreadable by anyone else, and "
 "encrypted with your account password. We protect it and hand you the key."
 msgstr ""
+"आपका Firefox खाता आपकी सभी वेब सामग्री का द्वार है—हम इसे सुरक्षित रखने में आपकी मदद "
+"करते हैं. आपका डेटा हमेशा आपके नियंत्रण में है, किसी और के द्वारा पढ़े जाने योग्य नहीं है, और "
+"आपके खाते के पासवर्ड से एन्क्रिप्ट किया गया है. हम इसकी रक्षा करते हैं और आप को कुंजी देते हैं."
 
 #. String is obsolete. Do NOT remove.
 #: firefox/sync.lang:257
@@ -360,11 +378,15 @@ msgid ""
 "Find your bookmarks and passwords anywhere you use Firefox—your smartphone, "
 "tablet or laptop. Connect everything you need and nothing you don’t."
 msgstr ""
+"अपने खुले और शनिवार सुबह कॉफी के समय पढ़े गए सहेजे गए टैबों को पकड़ें. कहीं भी जहाँ आप "
+"Firefox का उपयोग करते हैं—अपने स्मार्टफोन, टैबलेट या लैपटॉप का उपयोग करते हुए अपने "
+"बुकमार्क्स और पासवर्डों को पाएं. आपको जो भी ज़रूरत है उसे कनेक्ट करें और न करें जो आप को नहीं "
+"चाहिए."
 
 #. String is obsolete. Do NOT remove.
 #: firefox/sync.lang:277
 msgid "On the go"
-msgstr "गिरावट की हालत में"
+msgstr "यात्राम में"
 
 #. String is obsolete. Do NOT remove.
 #: firefox/sync.lang:282
@@ -392,11 +414,11 @@ msgstr ""
 #. # TAG: fx38_sync_updates
 #: firefox/sync.lang:297
 msgid "Add Firefox"
-msgstr "फ़ायरफ़ॉक्स जोड़ें"
+msgstr "Firefox जोड़ें"
 
 #: firefox/sync.lang:301
 msgid "Have an <b>Android smartphone</b> or <b>tablet</b>?"
-msgstr "आपके पास <b>एंड्राइड स्मार्टफोन </b>या <b>टेबलेट </b> है?"
+msgstr "क्या एक <b>एंड्रॉइड स्मार्टफोन</b> या <b>टैबलेट</b> है?"
 
 #: firefox/sync.lang:305
 msgid "DOWNLOAD FIREFOX FOR ANDROID"
